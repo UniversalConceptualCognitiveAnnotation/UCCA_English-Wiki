@@ -1,35 +1,60 @@
 #BOS 590015
-The	Word	--	Terminal	500
-film	Word	--	Terminal	501
-was	Word	--	Terminal	502
-a	Word	--	Terminal	503
-box	Word	--	Terminal	504
-office	Word	--	Terminal	505
-success	Word	--	Terminal	506
-and	Word	--	Terminal	507
-received	Word	--	Terminal	508
-positive	Word	--	Terminal	509
-critical	Word	--	Terminal	510
-reception	Word	--	Terminal	511
-.	Punctuation	--	Terminal	512
-#500	FN	--	E	513
-#501	FN	--	C	513
-#502	FN	--	F	515
-#503	FN	--	E	514
-#504	FN	--	E	514
-#505	FN	--	C	514
-#506	FN	--	P	515
-#507	FN	--	L	518	LR	519
-#508	FN	--	P	517
-#509	FN	--	E	516
-#510	FN	--	E	516
-#511	FN	--	C	516
-#512	PNCT	--	U	516
-#513	FN	--	A	515	A*	517
-#514	FN	--	A	515
-#515	FN	--	H	518	LA	519
-#516	FN	--	A	517
-#517	FN	--	H	518	LA	519
-#518	FN	--	--	0
-#519	LKG	--	--	0
+Charlie	Word	--	Terminal	500
+and	Word	--	Terminal	500
+the	Word	--	Terminal	500
+Chocolate	Word	--	Terminal	500
+Factory	Word	--	Terminal	500
+was	Word	--	Terminal	501
+released	Word	--	Terminal	502
+in	Word	--	Terminal	503
+July	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+followed	Word	--	Terminal	506
+by	Word	--	Terminal	507
+Corpse	Word	--	Terminal	508
+Bride	Word	--	Terminal	508
+,	Punctuation	--	Terminal	509
+for	Word	--	Terminal	510
+which	Word	--	Terminal	511
+Depp	Word	--	Terminal	512
+voiced	Word	--	Terminal	513
+the	Word	--	Terminal	514
+character	Word	--	Terminal	515
+Victor	Word	--	Terminal	516
+Van	Word	--	Terminal	516
+Dort	Word	--	Terminal	516
+,	Punctuation	--	Terminal	517
+in	Word	--	Terminal	518
+September	Word	--	Terminal	519
+.	Punctuation	--	Terminal	520
+#500	FN	--	A	525
+#501	FN	--	F	525
+#502	FN	--	P	525	P*	528
+#503	FN	--	R	521
+#504	FN	--	C	521
+#505	PNCT	--	U	529
+#506	FN	--	L	529
+#507	FN	--	R	527
+#508	FN	--	C	527	C*	522
+#509	PNCT	--	U	527
+#510	FN	--	R	522
+#511	FN	--	R	526
+#512	FN	--	A	526
+#513	FN	--	P	526
+#514	FN	--	F	523
+#515	FN	--	E	523
+#516	FN	--	C	523
+#517	PNCT	--	U	528
+#518	FN	--	R	524
+#519	FN	--	C	524
+#520	PNCT	--	U	524
+#521	FN	--	T	525
+#522	FN	--	A	526
+#523	FN	--	A	526
+#524	FN	--	T	528
+#525	FN	--	H	529
+#526	FN	--	E	527
+#527	FN	--	A	528
+#528	FN	--	H	529
+#529	FN	--	--	0
 #EOS 590015

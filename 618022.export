@@ -15,25 +15,26 @@ Sony	Word	--	Terminal	512
 ATV	Word	--	Terminal	512
 catalogue	Word	--	Terminal	513
 .	Punctuation	--	Terminal	514
-#500	FN	--	D	515
+#500	FN	--	T	515
 #501	FN	--	D	515
 #502	FN	--	P	515
-#503	PNCT	--	U	520
+#503	PNCT	--	U	521
 #504	FN	--	R	516
 #505	FN	--	C	516
-#506	FN	--	A	519	A*	515
-#507	FN	--	F	517
-#508	FN	--	C	517
-#509	FN	--	R	518
-#510	FN	--	E	518
+#506	FN	--	A	520	A*	515
+#507	FN	--	D	520
+#508	FN	--	P	520
+#509	FN	--	R	519
+#510	FN	--	E	519
 #511	PNCT	--	U	512
-#512	FN	--	E	518
-#513	FN	--	C	518
-#514	PNCT	--	U	518
-#515	FN	--	H	520
-#516	FN	--	D	519
-#517	FN	--	P	519
-#518	FN	--	A	519
-#519	FN	--	H	520
-#520	FN	--	--	0
+#512	FN	--	A	518
+#513	FN	--	C	519	A*	518
+#514	PNCT	--	U	519
+#515	FN	--	H	521
+#516	FN	--	T	520
+#517	FN	--	S	518
+#518	FN	--	E	519
+#519	FN	--	A	520
+#520	FN	--	H	521
+#521	FN	--	--	0
 #EOS 618022

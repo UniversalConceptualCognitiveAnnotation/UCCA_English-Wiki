@@ -14,25 +14,28 @@ of	Word	--	Terminal	510
 being	Word	--	Terminal	511
 discovered	Word	--	Terminal	512
 .	Punctuation	--	Terminal	513
-#500	FN	--	E	514
-#501	FN	--	C	514
-#502	FN	--	P	519
-#503	FN	--	F	518
-#504	FN	--	A	518	A*	515
-#505	FN	--	P	518
-#506	FN	--	A	518
-#507	FN	--	R	517
+#500	FN	--	A	514
+#501	FN	--	C	515
+#502	FN	--	P	522
+#503	FN	--	R	521
+#504	FN	--	A	516	A*	520	A*	519
+#505	FN	--	P	516
+#506	FN	--	A	516
+#507	FN	--	L	521
 #508	FN	--	E	517
 #509	FN	--	C	517
-#510	FN	--	R	516
-#511	FN	--	F	515
-#512	FN	--	S	515
-#513	PNCT	--	U	515
-#514	FN	--	A	519
-#515	FN	--	C	516
-#516	FN	--	E	517
-#517	FN	--	A	518
+#510	FN	--	R	519
+#511	FN	--	F	519
+#512	FN	--	P	519
+#513	PNCT	--	U	519
+#514	FN	--	E	515
+#515	FN	--	A	522
+#516	FN	--	H	521
+#517	FN	--	S	520
 #518	FN	--	A	519
-#519	FN	--	H	520
-#520	FN	--	--	0
+#519	FN	--	A	520
+#520	FN	--	H	521
+#521	FN	--	A	522
+#522	FN	--	H	523
+#523	FN	--	--	0
 #EOS 557002

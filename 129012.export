@@ -15,30 +15,29 @@ time	Word	--	Terminal	511
 a	Word	--	Terminal	512
 comedy	Word	--	Terminal	513
 .	Punctuation	--	Terminal	514
-#500	FN	--	C	521	A*	523	A*	520
+#500	FN	--	C	521	A*	522	A*	519
 #501	PNCT	--	U	521
-#502	FN	--	D	520
-#503	PNCT	--	U	522
-#504	FN	--	D	522
-#505	FN	--	P	522
+#502	FN	--	T	519
+#503	PNCT	--	U	523
+#504	FN	--	D	523
+#505	FN	--	F	523
 #506	FN	--	E	515
-#507	FN	--	E	515
+#507	FN	--	D	523
 #508	FN	--	C	515
-#509	PNCT	--	U	524
+#509	PNCT	--	U	523
 #510	FN	--	E	516
 #511	FN	--	C	516
 #512	FN	--	E	517
 #513	FN	--	C	517
 #514	PNCT	--	U	517
-#515	FN	--	A	522
-#516	FN	--	L	524	LR	525
-#517	FN	--	A	523
-#518	FN	--	P	520
-#519	FN	--	S	523
-#520	FN	--	E	521
-#521	FN	--	A	522
-#522	FN	--	H	524	LA	525
-#523	FN	--	H	524	LA	525
+#515	FN	--	S	523
+#516	FN	--	R	522
+#517	FN	--	A	522
+#518	FN	--	P	519
+#519	FN	--	E	521
+#520	FN	--	S	522
+#521	FN	--	A	523
+#522	FN	--	A	523
+#523	FN	--	H	524
 #524	FN	--	--	0
-#525	LKG	--	--	0
 #EOS 129012

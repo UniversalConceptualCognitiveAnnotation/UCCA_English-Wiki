@@ -14,25 +14,24 @@ book	Word	--	Terminal	511
 Rex	Word	--	Terminal	512
 Mundi	Word	--	Terminal	512
 .	Punctuation	--	Terminal	513
-#500	FN	--	A	519
-#501	FN	--	F	519
-#502	FN	--	C	514
-#503	FN	--	E	514
-#504	FN	--	N	515
-#505	FN	--	C	515
-#506	FN	--	E	518
-#507	FN	--	C	516
+#500	FN	--	A	518	A*	514
+#501	FN	--	F	518
+#502	FN	--	P	518
+#503	FN	--	R	517
+#504	FN	--	L	519
+#505	FN	--	P	514
+#506	FN	--	E	517
+#507	FN	--	C	517	A*	514
 #508	FN	--	R	516
-#509	FN	--	E	517
-#510	FN	--	E	517
-#511	FN	--	C	517
-#512	FN	--	C	518
-#513	PNCT	--	U	518
-#514	FN	--	C	515
-#515	FN	--	P	519
-#516	FN	--	E	518
-#517	FN	--	E	518
-#518	FN	--	A	519
-#519	FN	--	H	520
-#520	FN	--	--	0
+#509	FN	--	E	515
+#510	FN	--	E	515
+#511	FN	--	C	515
+#512	FN	--	C	516
+#513	PNCT	--	U	516
+#514	FN	--	H	519
+#515	FN	--	E	516
+#516	FN	--	E	517
+#517	FN	--	A	518
+#518	FN	--	H	519
+#519	FN	--	--	0
 #EOS 589010

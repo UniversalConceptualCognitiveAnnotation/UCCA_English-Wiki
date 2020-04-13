@@ -33,9 +33,9 @@ on	Word	--	Terminal	528
 Saturdays	Word	--	Terminal	529
 .	Punctuation	--	Terminal	530
 #500	FN	--	A	539	A*	540	A*	541
-#501	FN	--	P	539
+#501	FN	--	D	539
 #502	FN	--	E	531
-#503	FN	--	E	531
+#503	FN	--	D	539
 #504	FN	--	C	531
 #505	FN	--	R	538
 #506	PNCT	--	U	507
@@ -51,7 +51,7 @@ Saturdays	Word	--	Terminal	529
 #516	FN	--	E	534
 #517	FN	--	E	534
 #518	FN	--	C	534
-#519	FN	--	L	542	LR	543
+#519	FN	--	L	542
 #520	FN	--	P	541
 #521	FN	--	E	536
 #522	FN	--	E	536
@@ -63,17 +63,16 @@ Saturdays	Word	--	Terminal	529
 #528	FN	--	R	537
 #529	FN	--	C	537
 #530	PNCT	--	U	537
-#531	FN	--	A	539
+#531	FN	--	P	539
 #532	FN	--	E	538
-#533	FN	--	D	539
+#533	FN	--	T	539
 #534	FN	--	A	540
 #535	FN	--	E	536
 #536	FN	--	A	541
-#537	FN	--	D	541
+#537	FN	--	T	541
 #538	FN	--	A	539
 #539	FN	--	H	542
-#540	FN	--	H	542	LA	543
-#541	FN	--	H	542	LA	543
+#540	FN	--	H	542
+#541	FN	--	H	542
 #542	FN	--	--	0
-#543	LKG	--	--	0
 #EOS 449004

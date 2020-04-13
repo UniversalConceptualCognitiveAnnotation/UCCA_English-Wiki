@@ -1,48 +1,22 @@
 #BOS 649012
-At	Word	--	Terminal	500
-an	Word	--	Terminal	501
-appeal	Word	--	Terminal	502
-hearing	Word	--	Terminal	503
-years	Word	--	Terminal	504
-later	Word	--	Terminal	505
-,	Punctuation	--	Terminal	506
-Hanratty	Word	--	Terminal	507
-'s	Word	--	Terminal	508
-conviction	Word	--	Terminal	509
-was	Word	--	Terminal	510
-upheld	Word	--	Terminal	511
-after	Word	--	Terminal	512
-DNA	Word	--	Terminal	513
-evidence	Word	--	Terminal	514
-matched	Word	--	Terminal	515
-.	Punctuation	--	Terminal	516
-#500	FN	--	L	527	LR	528
-#501	FN	--	E	517
-#502	FN	--	E	517
-#503	FN	--	C	517
-#504	FN	--	C	518
-#505	FN	--	R	518
-#506	PNCT	--	U	527
-#507	FN	--	C	519
-#508	FN	--	R	519
-#509	FN	--	P	520
-#510	FN	--	F	521
-#511	FN	--	P	521
-#512	FN	--	L	527	LR	524
-#513	FN	--	E	522
-#514	FN	--	C	522
-#515	FN	--	P	523
-#516	PNCT	--	U	523
-#517	FN	--	P	526
-#518	FN	--	D	526
-#519	FN	--	A	520
-#520	FN	--	A	521
-#521	FN	--	H	527	LA	524	LA	528
-#522	FN	--	A	523
-#523	FN	--	H	527	LA	524
-#524	LKG	--	--	0
-#525	FN	--	A	526
-#526	FN	--	H	527	LA	528
-#527	FN	--	--	0
-#528	LKG	--	--	0
+His	Word	--	Terminal	500
+family	Word	--	Terminal	501
+continued	Word	--	Terminal	502
+to	Word	--	Terminal	503
+appeal	Word	--	Terminal	504
+in	Word	--	Terminal	505
+2010	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+#500	FN	--	A	508
+#501	FN	--	S	508
+#502	FN	--	D	510
+#503	FN	--	F	510
+#504	FN	--	P	510
+#505	FN	--	R	509
+#506	FN	--	C	509
+#507	PNCT	--	U	509
+#508	FN	--	A	510
+#509	FN	--	T	510
+#510	FN	--	H	511
+#511	FN	--	--	0
 #EOS 649012

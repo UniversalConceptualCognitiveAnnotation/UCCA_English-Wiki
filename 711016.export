@@ -11,22 +11,24 @@ Dylan	Word	--	Terminal	507
 early	Word	--	Terminal	509
 career	Word	--	Terminal	510
 .	Punctuation	--	Terminal	511
-#500	FN	--	E	512
-#501	FN	--	E	512
-#502	FN	--	C	512
-#503	FN	--	P	516
-#504	FN	--	E	515
-#505	FN	--	C	515
-#506	FN	--	R	514
-#507	FN	--	C	513
-#508	FN	--	R	513
-#509	FN	--	E	514
-#510	FN	--	C	514
-#511	PNCT	--	U	514
-#512	FN	--	A	516
-#513	FN	--	E	514
-#514	FN	--	E	515
+#500	FN	--	E	513
+#501	FN	--	S	512
+#502	FN	--	C	513	A*	512
+#503	FN	--	S	518
+#504	FN	--	S	514
+#505	FN	--	C	517	A*	514
+#506	FN	--	R	516
+#507	FN	--	C	515
+#508	FN	--	R	515
+#509	FN	--	T	516
+#510	FN	--	P	516
+#511	PNCT	--	U	516
+#512	FN	--	E	513
+#513	FN	--	A	518
+#514	FN	--	E	517
 #515	FN	--	A	516
-#516	FN	--	H	517
-#517	FN	--	--	0
+#516	FN	--	E	517
+#517	FN	--	A	518
+#518	FN	--	H	519
+#519	FN	--	--	0
 #EOS 711016

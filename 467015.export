@@ -40,22 +40,22 @@ Star	Word	--	Terminal	532
 Tribute	Word	--	Terminal	533
 Game	Word	--	Terminal	534
 .	Punctuation	--	Terminal	535
-#500	FN	--	L	552	LR	553
-#501	FN	--	E	550
-#502	FN	--	C	549
-#503	PNCT	--	U	549
-#504	FN	--	C	549
-#505	FN	--	P	551
-#506	PNCT	--	U	552
+#500	FN	--	L	551
+#501	FN	--	F	549
+#502	FN	--	C	544
+#503	PNCT	--	U	544
+#504	FN	--	C	544
+#505	FN	--	C	549
+#506	PNCT	--	U	551
 #507	FN	--	A	546
 #508	FN	--	P	546
 #509	FN	--	R	545
-#510	FN	--	C	545
+#510	FN	--	P	545
 #511	FN	--	R	536
 #512	FN	--	E	536
 #513	FN	--	C	536
-#514	PNCT	--	U	552
-#515	FN	--	L	552	LR	548
+#514	PNCT	--	U	551
+#515	FN	--	L	551
 #516	FN	--	R	537
 #517	PNCT	--	U	518
 #518	FN	--	C	537
@@ -66,7 +66,7 @@ Game	Word	--	Terminal	534
 #523	FN	--	E	538
 #524	FN	--	E	538
 #525	FN	--	C	538
-#526	FN	--	L	552	LR	547
+#526	FN	--	L	551
 #527	FN	--	P	542
 #528	FN	--	R	540
 #529	FN	--	E	540
@@ -76,22 +76,20 @@ Game	Word	--	Terminal	534
 #533	FN	--	C	539
 #534	FN	--	C	540
 #535	PNCT	--	U	540
-#536	FN	--	E	545
-#537	FN	--	D	541
+#536	FN	--	A	545
+#537	FN	--	T	541
 #538	FN	--	A	541
 #539	FN	--	E	540
 #540	FN	--	A	542
-#541	FN	--	H	552	LA	547	LA	548
-#542	FN	--	H	552	LA	547
-#543	FN	--	N	549
-#544	FN	--	A	551
+#541	FN	--	H	551
+#542	FN	--	H	551
+#543	FN	--	N	544
+#544	FN	--	C	549
 #545	FN	--	A	546
-#546	FN	--	H	552	LA	548	LA	553
-#547	LKG	--	--	0
-#548	LKG	--	--	0
-#549	FN	--	C	550
-#550	FN	--	D	551
-#551	FN	--	H	552	LA	553
-#552	FN	--	--	0
-#553	LKG	--	--	0
+#546	FN	--	H	551
+#547	FN	--	P	550
+#548	FN	--	A	550
+#549	FN	--	T	550
+#550	FN	--	H	551
+#551	FN	--	--	0
 #EOS 467015

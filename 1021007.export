@@ -13,22 +13,23 @@ Off	Word	--	Terminal	510
 the	Word	--	Terminal	510
 Wall	Word	--	Terminal	510
 .	Punctuation	--	Terminal	511
-#500	FN	--	A	516
-#501	FN	--	P	516
-#502	FN	--	F	515
-#503	FN	--	P	515
-#504	FN	--	C	512
-#505	FN	--	R	512
-#506	FN	--	E	513
-#507	FN	--	E	513
-#508	FN	--	C	513
-#509	PNCT	--	U	514
-#510	FN	--	C	514
-#511	PNCT	--	U	514
-#512	FN	--	E	513
+#500	FN	--	A	517	A*	516
+#501	FN	--	P	517
+#502	FN	--	F	516
+#503	FN	--	P	516
+#504	FN	--	A	512
+#505	FN	--	S	512
+#506	FN	--	S	513
+#507	FN	--	E	514
+#508	FN	--	C	514	A*	512	A*	513
+#509	PNCT	--	U	515
+#510	FN	--	C	515
+#511	PNCT	--	U	515
+#512	FN	--	E	514
 #513	FN	--	E	514
-#514	FN	--	A	515
+#514	FN	--	E	515
 #515	FN	--	A	516
-#516	FN	--	H	517
-#517	FN	--	--	0
+#516	FN	--	A	517
+#517	FN	--	H	518
+#518	FN	--	--	0
 #EOS 1021007

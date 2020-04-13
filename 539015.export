@@ -30,7 +30,7 @@ on	Word	--	Terminal	527
 declining	Word	--	Terminal	528
 morality	Word	--	Terminal	529
 .	Punctuation	--	Terminal	530
-#500	FN	--	E	531
+#500	FN	--	F	531
 #501	FN	--	E	531
 #502	FN	--	C	531
 #503	FN	--	N	538
@@ -40,14 +40,14 @@ morality	Word	--	Terminal	529
 #507	FN	--	D	544
 #508	FN	--	D	544
 #509	FN	--	P	544
-#510	FN	--	E	543
+#510	FN	--	F	534
 #511	FN	--	C	533
 #512	FN	--	R	533
-#513	FN	--	C	543	A*	542
-#514	PNCT	--	U	543
-#515	FN	--	F	542
-#516	FN	--	E	534
-#517	FN	--	C	534
+#513	FN	--	S	534	A*	542
+#514	PNCT	--	U	542
+#515	FN	--	R	542
+#516	FN	--	D	542
+#517	FN	--	P	542
 #518	FN	--	R	541
 #519	FN	--	E	541
 #520	FN	--	E	535
@@ -63,8 +63,8 @@ morality	Word	--	Terminal	529
 #530	PNCT	--	U	537
 #531	FN	--	C	538
 #532	FN	--	C	538
-#533	FN	--	E	543
-#534	FN	--	P	542
+#533	FN	--	A	534
+#534	FN	--	C	543
 #535	FN	--	E	536
 #536	FN	--	C	540
 #537	FN	--	E	539

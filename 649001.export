@@ -25,9 +25,9 @@ as	Word	--	Terminal	519
 mediocre	Word	--	Terminal	520
 material	Word	--	Terminal	521
 .	Punctuation	--	Terminal	522
-#500	FN	--	L	531	LR	528
+#500	FN	--	L	531
 #501	FN	--	A	524
-#502	FN	--	E	523
+#502	FN	--	Q	523
 #503	PNCT	--	U	523
 #504	FN	--	C	523
 #505	FN	--	A	524
@@ -37,25 +37,24 @@ material	Word	--	Terminal	521
 #509	FN	--	S	526
 #510	FN	--	F	525
 #511	FN	--	P	525
-#512	FN	--	L	531	LR	532
+#512	FN	--	L	531
 #513	FN	--	A	530
 #514	FN	--	F	530
 #515	FN	--	P	530
-#516	FN	--	D	529
+#516	FN	--	A	529
 #517	FN	--	A	529
 #518	FN	--	P	529
-#519	FN	--	R	527
-#520	FN	--	E	527
-#521	FN	--	C	527
-#522	PNCT	--	U	527
-#523	FN	--	D	524
-#524	FN	--	H	531	LA	528
+#519	FN	--	R	528
+#520	FN	--	S	527
+#521	FN	--	C	528	A*	527
+#522	PNCT	--	U	528
+#523	FN	--	T	524
+#524	FN	--	H	531
 #525	FN	--	A	526
-#526	FN	--	H	531	LA	532	LA	528
-#527	FN	--	A	529
-#528	LKG	--	--	0
+#526	FN	--	H	531
+#527	FN	--	E	528
+#528	FN	--	A	529
 #529	FN	--	A	530
-#530	FN	--	H	531	LA	532
+#530	FN	--	H	531
 #531	FN	--	--	0
-#532	LKG	--	--	0
 #EOS 649001

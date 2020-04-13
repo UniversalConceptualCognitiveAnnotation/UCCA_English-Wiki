@@ -1,42 +1,26 @@
 #BOS 603013
-McCartney	Word	--	Terminal	500
-largely	Word	--	Terminal	501
-directed	Word	--	Terminal	502
-the	Word	--	Terminal	503
-film	Word	--	Terminal	504
-,	Punctuation	--	Terminal	505
-which	Word	--	Terminal	506
-brought	Word	--	Terminal	507
-the	Word	--	Terminal	508
-group	Word	--	Terminal	509
-their	Word	--	Terminal	510
-first	Word	--	Terminal	511
-unfavourable	Word	--	Terminal	512
-critical	Word	--	Terminal	513
-response	Word	--	Terminal	514
-.	Punctuation	--	Terminal	515
-#500	FN	--	A	520
-#501	FN	--	D	520
-#502	FN	--	P	520
-#503	FN	--	E	516
-#504	FN	--	C	516
-#505	PNCT	--	U	522
-#506	FN	--	L	522	LR	523
-#507	FN	--	P	521
-#508	FN	--	E	517
-#509	FN	--	C	517
-#510	FN	--	E	518
-#511	FN	--	C	518
-#512	FN	--	E	519
-#513	FN	--	E	519
-#514	FN	--	C	519
-#515	PNCT	--	U	519
-#516	FN	--	A	520
-#517	FN	--	A	521
-#518	FN	--	E	519
-#519	FN	--	A	521
-#520	FN	--	H	522	LA	523	A*	521
-#521	FN	--	H	522	LA	523
-#522	FN	--	--	0
-#523	LKG	--	--	0
+However	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+the	Word	--	Terminal	502
+film	Word	--	Terminal	503
+'s	Word	--	Terminal	504
+soundtrack	Word	--	Terminal	505
+was	Word	--	Terminal	506
+more	Word	--	Terminal	507
+successful	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	FN	--	L	513
+#501	PNCT	--	U	513
+#502	FN	--	E	510
+#503	FN	--	C	510
+#504	FN	--	R	510
+#505	FN	--	C	511
+#506	FN	--	F	512
+#507	FN	--	D	512
+#508	FN	--	S	512
+#509	PNCT	--	U	512
+#510	FN	--	E	511
+#511	FN	--	A	512
+#512	FN	--	H	513
+#513	FN	--	--	0
 #EOS 603013

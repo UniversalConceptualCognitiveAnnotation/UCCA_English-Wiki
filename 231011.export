@@ -1,52 +1,38 @@
 #BOS 231011
-The	Word	--	Terminal	500
-"	Punctuation	--	Terminal	501
-Finals	Word	--	Terminal	502
-"	Punctuation	--	Terminal	503
-began	Word	--	Terminal	504
-on	Word	--	Terminal	505
-5	Word	--	Terminal	506
-April	Word	--	Terminal	506
-2008	Word	--	Terminal	506
-,	Punctuation	--	Terminal	507
-with	Word	--	Terminal	508
-16	Word	--	Terminal	509
-contestants	Word	--	Terminal	510
-remaining	Word	--	Terminal	511
-,	Punctuation	--	Terminal	512
-and	Word	--	Terminal	513
-concluded	Word	--	Terminal	514
-on	Word	--	Terminal	515
-26	Word	--	Terminal	516
-June	Word	--	Terminal	516
-2008	Word	--	Terminal	516
-.	Punctuation	--	Terminal	517
-#500	FN	--	E	518
-#501	PNCT	--	U	518
-#502	FN	--	C	518
-#503	PNCT	--	U	523
-#504	FN	--	P	523
-#505	FN	--	R	519
-#506	FN	--	C	519
-#507	PNCT	--	U	525
-#508	FN	--	L	525	LR	527
-#509	FN	--	E	520
-#510	FN	--	C	520
-#511	FN	--	S	521
-#512	PNCT	--	U	525
-#513	FN	--	L	525	LR	526
-#514	FN	--	P	524
-#515	FN	--	R	522
-#516	FN	--	C	522
-#517	PNCT	--	U	522
-#518	FN	--	A	523	A*	524
-#519	FN	--	D	523
-#520	FN	--	A	521
-#521	FN	--	H	525	LA	526	LA	527
-#522	FN	--	D	524
-#523	FN	--	H	525	LA	526	LA	527
-#524	FN	--	H	525	LA	526
-#525	FN	--	--	0
-#526	LKG	--	--	0
-#527	LKG	--	--	0
+Amongst	Word	--	Terminal	500
+those	Word	--	Terminal	501
+in	Word	--	Terminal	502
+attendance	Word	--	Terminal	503
+were	Word	--	Terminal	504
+Tsui	Word	--	Terminal	505
+Hark	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+John	Word	--	Terminal	507
+Woo	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+Ng	Word	--	Terminal	509
+See	Word	--	Terminal	509
+Yuen	Word	--	Terminal	509
+and	Word	--	Terminal	510
+Yu	Word	--	Terminal	511
+Rongguang	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	R	514
+#501	FN	--	C	514	A*	513
+#502	FN	--	R	513
+#503	FN	--	S	513
+#504	FN	--	S	516
+#505	FN	--	C	515
+#506	PNCT	--	U	515
+#507	FN	--	C	515
+#508	PNCT	--	U	515
+#509	FN	--	C	515
+#510	FN	--	N	515
+#511	FN	--	C	515
+#512	PNCT	--	U	515
+#513	FN	--	E	514
+#514	FN	--	A	516
+#515	FN	--	A	516
+#516	FN	--	H	517
+#517	FN	--	--	0
 #EOS 231011

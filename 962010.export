@@ -1,54 +1,41 @@
 #BOS 962010
-She	Word	--	Terminal	500
-had	Word	--	Terminal	501
-been	Word	--	Terminal	502
-attempting	Word	--	Terminal	503
-to	Word	--	Terminal	504
-walk	Word	--	Terminal	505
-to	Word	--	Terminal	506
-the	Word	--	Terminal	507
-bathroom	Word	--	Terminal	508
-and	Word	--	Terminal	509
-,	Punctuation	--	Terminal	510
-as	Word	--	Terminal	511
-her	Word	--	Terminal	512
-lungs	Word	--	Terminal	513
-filled	Word	--	Terminal	514
-with	Word	--	Terminal	515
-liquid	Word	--	Terminal	516
-,	Punctuation	--	Terminal	517
-collapsed	Word	--	Terminal	518
-.	Punctuation	--	Terminal	519
-#500	FN	--	A	529	A*	520
-#501	FN	--	E	521
-#502	FN	--	C	521
-#503	FN	--	C	522
-#504	FN	--	F	529
-#505	FN	--	C	523
-#506	FN	--	R	524
-#507	FN	--	E	524
-#508	FN	--	C	524
-#509	FN	--	L	530	LR	531
-#510	PNCT	--	U	530
-#511	FN	--	L	530	LR	528
-#512	FN	--	E	525
-#513	FN	--	C	525
-#514	FN	--	C	526
-#515	FN	--	R	526
-#516	FN	--	A	527
-#517	PNCT	--	U	530
-#518	FN	--	P	520
-#519	PNCT	--	U	520
-#520	FN	--	H	530	LA	528	LA	531
-#521	FN	--	E	522
-#522	FN	--	E	523
-#523	FN	--	P	529
-#524	FN	--	A	529
-#525	FN	--	A	527
-#526	FN	--	P	527
-#527	FN	--	H	530	LA	528
-#528	LKG	--	--	0
-#529	FN	--	H	530	LA	531
-#530	FN	--	--	0
-#531	LKG	--	--	0
+Merivale	Word	--	Terminal	500
+contacted	Word	--	Terminal	501
+Olivier	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+who	Word	--	Terminal	504
+was	Word	--	Terminal	505
+receiving	Word	--	Terminal	506
+treatment	Word	--	Terminal	507
+for	Word	--	Terminal	508
+prostate	Word	--	Terminal	509
+cancer	Word	--	Terminal	510
+in	Word	--	Terminal	511
+a	Word	--	Terminal	512
+nearby	Word	--	Terminal	513
+hospital	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	A	521
+#501	FN	--	P	521
+#502	FN	--	C	520	A*	519
+#503	PNCT	--	U	520
+#504	FN	--	R	519
+#505	FN	--	F	519
+#506	FN	--	D	519
+#507	FN	--	P	519
+#508	FN	--	R	516
+#509	FN	--	A	516
+#510	FN	--	P	516
+#511	FN	--	R	518
+#512	FN	--	E	518
+#513	FN	--	S	517
+#514	FN	--	C	518	A*	517
+#515	PNCT	--	U	518
+#516	FN	--	A	519
+#517	FN	--	E	518
+#518	FN	--	A	519
+#519	FN	--	E	520
+#520	FN	--	A	521
+#521	FN	--	H	522
+#522	FN	--	--	0
 #EOS 962010

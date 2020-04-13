@@ -23,7 +23,7 @@ was	Word	--	Terminal	519
 not	Word	--	Terminal	520
 sure	Word	--	Terminal	521
 .	Punctuation	--	Terminal	522
-#500	FN	--	L	530	LR	531
+#500	FN	--	L	530
 #501	FN	--	P	527
 #502	FN	--	R	526
 #503	FN	--	E	523
@@ -32,15 +32,15 @@ sure	Word	--	Terminal	521
 #506	FN	--	F	526
 #507	FN	--	P	526
 #508	FN	--	R	525
-#509	FN	--	E	525
+#509	FN	--	E	524
 #510	FN	--	C	524
-#511	FN	--	R	524
+#511	FN	--	R	525
 #512	FN	--	C	525
 #513	FN	--	D	526
 #514	PNCT	--	U	527
 #515	FN	--	A	529	A*	527
 #516	FN	--	P	529
-#517	FN	--	F	528
+#517	FN	--	R	528
 #518	FN	--	A	528
 #519	FN	--	F	528
 #520	FN	--	D	528
@@ -48,11 +48,10 @@ sure	Word	--	Terminal	521
 #522	PNCT	--	U	528
 #523	FN	--	A	526
 #524	FN	--	E	525
-#525	FN	--	D	526
+#525	FN	--	T	526
 #526	FN	--	A	527
-#527	FN	--	H	530	LA	531
+#527	FN	--	H	530
 #528	FN	--	A	529
-#529	FN	--	H	530	LA	531
+#529	FN	--	H	530
 #530	FN	--	--	0
-#531	LKG	--	--	0
 #EOS 675002

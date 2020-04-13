@@ -15,33 +15,29 @@ unanimously	Word	--	Terminal	512
 good	Word	--	Terminal	513
 reviews	Word	--	Terminal	514
 .	Punctuation	--	Terminal	515
-#500	FN	--	E	516
+#500	FN	--	F	516
 #501	FN	--	C	516
-#502	PNCT	--	U	527
-#503	FN	--	D	525
+#502	PNCT	--	U	524
+#503	FN	--	E	517
 #504	FN	--	C	517
 #505	FN	--	R	517
 #506	FN	--	C	518
 #507	FN	--	R	518
 #508	FN	--	P	519
-#509	PNCT	--	U	527
-#510	FN	--	D	523
+#509	PNCT	--	U	524
+#510	FN	--	P	523
 #511	FN	--	E	520
 #512	FN	--	C	520
-#513	FN	--	C	521
-#514	FN	--	C	522
+#513	FN	--	S	521
+#514	FN	--	C	522	A*	521
 #515	PNCT	--	U	522
 #516	FN	--	A	523
-#517	FN	--	P	525
+#517	FN	--	L	524
 #518	FN	--	A	519
-#519	FN	--	H	527	LA	528
-#520	FN	--	E	521
+#519	FN	--	H	524
+#520	FN	--	D	521
 #521	FN	--	E	522
-#522	FN	--	P	523
-#523	FN	--	H	527	LA	528
-#524	FN	--	A	525
-#525	FN	--	H	526
-#526	FN	--	L	527	LR	528
-#527	FN	--	--	0
-#528	LKG	--	--	0
+#522	FN	--	A	523
+#523	FN	--	H	524
+#524	FN	--	--	0
 #EOS 207001

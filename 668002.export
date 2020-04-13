@@ -27,10 +27,10 @@ and	Word	--	Terminal	524
 album	Word	--	Terminal	525
 sales	Word	--	Terminal	526
 .	Punctuation	--	Terminal	527
-#500	FN	--	L	542
-#501	PNCT	--	U	542
-#502	FN	--	A	541
-#503	FN	--	P	541
+#500	FN	--	L	540
+#501	PNCT	--	U	540
+#502	FN	--	A	539
+#503	FN	--	P	539
 #504	FN	--	F	528
 #505	FN	--	R	528
 #506	FN	--	P	529
@@ -45,7 +45,7 @@ sales	Word	--	Terminal	526
 #515	FN	--	D	537
 #516	FN	--	C	531
 #517	PNCT	--	U	538
-#518	FN	--	L	538	LR	539
+#518	FN	--	L	538
 #519	FN	--	F	532
 #520	FN	--	D	535
 #521	FN	--	C	532
@@ -55,19 +55,17 @@ sales	Word	--	Terminal	526
 #525	FN	--	C	533
 #526	FN	--	C	534
 #527	PNCT	--	U	534
-#528	FN	--	L	538	LR	540
-#529	FN	--	H	538	LA	540
+#528	FN	--	L	538
+#529	FN	--	H	538
 #530	FN	--	E	536
 #531	FN	--	S	537
 #532	FN	--	P	535
 #533	FN	--	E	534
 #534	FN	--	A	535
-#535	FN	--	H	538	LA	539	LA	540
+#535	FN	--	H	538
 #536	FN	--	A	537
-#537	FN	--	H	538	LA	539	LA	540
-#538	FN	--	A	541
-#539	LKG	--	--	0
-#540	LKG	--	--	0
-#541	FN	--	H	542
-#542	FN	--	--	0
+#537	FN	--	H	538
+#538	FN	--	A	539
+#539	FN	--	H	540
+#540	FN	--	--	0
 #EOS 668002

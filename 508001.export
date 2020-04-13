@@ -33,7 +33,7 @@ Mercury	Word	--	Terminal	522
 vocal	Word	--	Terminal	524
 part	Word	--	Terminal	525
 .	Punctuation	--	Terminal	526
-#500	FN	--	L	535	LR	536
+#500	FN	--	L	535
 #501	FN	--	P	528
 #502	PNCT	--	U	528
 #503	FN	--	C	527
@@ -53,7 +53,7 @@ part	Word	--	Terminal	525
 #517	FN	--	R	533
 #518	FN	--	C	533	A*	532
 #519	PNCT	--	U	533
-#520	FN	--	F	532
+#520	FN	--	R	532
 #521	FN	--	P	532
 #522	FN	--	C	530
 #523	FN	--	R	530
@@ -61,13 +61,12 @@ part	Word	--	Terminal	525
 #525	FN	--	C	531
 #526	PNCT	--	U	531
 #527	FN	--	A	528
-#528	FN	--	H	535	LA	536
+#528	FN	--	H	535
 #529	FN	--	A	534
 #530	FN	--	E	531
 #531	FN	--	A	532
 #532	FN	--	E	533
 #533	FN	--	A	534
-#534	FN	--	H	535	LA	536
+#534	FN	--	H	535
 #535	FN	--	--	0
-#536	LKG	--	--	0
 #EOS 508001

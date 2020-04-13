@@ -16,14 +16,14 @@ Let	Word	--	Terminal	513
 's	Word	--	Terminal	513
 Dance	Word	--	Terminal	513
 .	Punctuation	--	Terminal	514
-#500	FN	--	A	520
-#501	FN	--	D	520
+#500	FN	--	A	519	A*	520
+#501	FN	--	D	519	D*	520
 #502	FN	--	E	515
 #503	FN	--	E	515
 #504	FN	--	C	515
-#505	FN	--	R	515
-#506	FN	--	C	519
-#507	FN	--	N	519
+#505	FN	--	R	519	R*	520
+#506	FN	--	P	519
+#507	FN	--	L	521
 #508	FN	--	E	516
 #509	FN	--	C	516
 #510	FN	--	R	517
@@ -31,11 +31,11 @@ Dance	Word	--	Terminal	513
 #512	FN	--	R	518
 #513	FN	--	C	518
 #514	PNCT	--	U	518
-#515	FN	--	D	520
-#516	FN	--	C	519
-#517	FN	--	D	520
-#518	FN	--	A	520
-#519	FN	--	P	520
+#515	FN	--	D	519	D*	520
+#516	FN	--	P	520
+#517	FN	--	T	519	T*	520
+#518	FN	--	A	519	A*	520
+#519	FN	--	H	521
 #520	FN	--	H	521
 #521	FN	--	--	0
 #EOS 505010

@@ -28,12 +28,12 @@ be	Word	--	Terminal	524
 comprehensible	Word	--	Terminal	525
 .	Punctuation	--	Terminal	526
 #500	FN	--	R	527
-#501	FN	--	E	527
-#502	FN	--	C	527
+#501	FN	--	P	527
+#502	FN	--	T	527
 #503	PNCT	--	U	528
 #504	FN	--	A	528	A*	535	A*	536	A*	537	A*	529
 #505	FN	--	P	528
-#506	FN	--	D	528
+#506	FN	--	T	528
 #507	PNCT	--	U	538
 #508	FN	--	P	535
 #509	FN	--	E	530
@@ -44,9 +44,9 @@ comprehensible	Word	--	Terminal	525
 #514	FN	--	E	532
 #515	FN	--	C	532
 #516	PNCT	--	U	538
-#517	FN	--	L	538	LR	539
+#517	FN	--	L	538
 #518	FN	--	P	537
-#519	FN	--	R	534
+#519	FN	--	E	534
 #520	FN	--	C	533
 #521	FN	--	N	533
 #522	FN	--	C	533
@@ -54,17 +54,16 @@ comprehensible	Word	--	Terminal	525
 #524	FN	--	F	529
 #525	FN	--	P	529
 #526	PNCT	--	U	529
-#527	FN	--	D	528
-#528	FN	--	H	538	LA	539
-#529	FN	--	H	538	LA	539
+#527	FN	--	A	528
+#528	FN	--	H	538
+#529	FN	--	A	537
 #530	FN	--	A	535
 #531	FN	--	P	536
 #532	FN	--	A	536
 #533	FN	--	C	534
 #534	FN	--	D	537
-#535	FN	--	H	538	LA	539
-#536	FN	--	H	538	LA	539
-#537	FN	--	H	538	LA	539
+#535	FN	--	H	538
+#536	FN	--	H	538
+#537	FN	--	H	538
 #538	FN	--	--	0
-#539	LKG	--	--	0
 #EOS 124007

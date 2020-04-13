@@ -13,16 +13,16 @@ denied	Word	--	Terminal	510
 him	Word	--	Terminal	511
 entry	Word	--	Terminal	512
 .	Punctuation	--	Terminal	513
-#500	FN	--	L	520	LR	521
-#501	FN	--	A	519	A*	518
-#502	FN	--	P	519
+#500	FN	--	L	519
+#501	FN	--	A	518
+#502	FN	--	D	518
 #503	FN	--	F	518
 #504	FN	--	P	518
 #505	FN	--	R	514
 #506	FN	--	C	514
-#507	PNCT	--	U	520
-#508	FN	--	E	515
-#509	FN	--	C	515
+#507	PNCT	--	U	519
+#508	FN	--	A	515
+#509	FN	--	A	515
 #510	FN	--	P	517
 #511	FN	--	A	517	A*	516
 #512	FN	--	P	516
@@ -30,9 +30,7 @@ entry	Word	--	Terminal	512
 #514	FN	--	A	518
 #515	FN	--	A	517
 #516	FN	--	A	517
-#517	FN	--	H	520	LA	521
-#518	FN	--	A	519
-#519	FN	--	H	520	LA	521
-#520	FN	--	--	0
-#521	LKG	--	--	0
+#517	FN	--	H	519
+#518	FN	--	H	519
+#519	FN	--	--	0
 #EOS 550008

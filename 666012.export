@@ -60,7 +60,7 @@ unlikely	Word	--	Terminal	532
 #523	FN	--	C	537
 #524	FN	--	C	542
 #525	PNCT	--	U	546
-#526	FN	--	L	546	LR	547
+#526	FN	--	L	546
 #527	FN	--	P	544
 #528	FN	--	A	541
 #529	FN	--	D	538
@@ -73,13 +73,12 @@ unlikely	Word	--	Terminal	532
 #536	FN	--	C	540
 #537	FN	--	C	540
 #538	FN	--	S	541
-#539	FN	--	H	546	LA	547
+#539	FN	--	H	546
 #540	FN	--	E	542
 #541	FN	--	A	544
 #542	FN	--	A	543
 #543	FN	--	A	545
-#544	FN	--	H	546	LA	547
-#545	FN	--	H	546	LA	547
+#544	FN	--	H	546
+#545	FN	--	H	546
 #546	FN	--	--	0
-#547	LKG	--	--	0
 #EOS 666012

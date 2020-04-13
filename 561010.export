@@ -10,20 +10,21 @@ bouncy	Word	--	Terminal	507
 pop	Word	--	Terminal	508
 tune	Word	--	Terminal	509
 .	Punctuation	--	Terminal	510
-#500	FN	--	A	514
-#501	FN	--	S	514
-#502	FN	--	E	511
+#500	FN	--	S	515
+#501	FN	--	F	515
+#502	FN	--	Q	511
 #503	FN	--	E	511
 #504	FN	--	C	511
-#505	FN	--	N	513
-#506	FN	--	E	512
-#507	FN	--	E	512
-#508	FN	--	E	512
-#509	FN	--	C	512
-#510	PNCT	--	U	512
-#511	FN	--	C	513
-#512	FN	--	C	513
-#513	FN	--	A	514
-#514	FN	--	H	515
-#515	FN	--	--	0
+#505	FN	--	N	514
+#506	FN	--	E	513
+#507	FN	--	S	512
+#508	FN	--	E	513
+#509	FN	--	C	513	A*	512
+#510	PNCT	--	U	513
+#511	FN	--	C	514
+#512	FN	--	E	513
+#513	FN	--	C	514
+#514	FN	--	A	515
+#515	FN	--	H	516
+#516	FN	--	--	0
 #EOS 561010

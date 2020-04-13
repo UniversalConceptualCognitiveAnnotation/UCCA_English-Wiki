@@ -26,7 +26,7 @@ with	Word	--	Terminal	522
 Solid	Word	--	Terminal	523
 South	Word	--	Terminal	523
 .	Punctuation	--	Terminal	524
-#500	FN	--	L	534	LR	536
+#500	FN	--	L	534
 #501	FN	--	P	533
 #502	FN	--	R	532
 #503	FN	--	C	525
@@ -37,15 +37,15 @@ South	Word	--	Terminal	523
 #508	PNCT	--	U	533
 #509	FN	--	A	530	A*	533	A*	531
 #510	FN	--	F	526
-#511	FN	--	E	526
-#512	FN	--	E	526
+#511	FN	--	F	530
+#512	FN	--	A	530
 #513	FN	--	C	526
 #514	FN	--	R	527
 #515	FN	--	C	527
 #516	FN	--	R	528
 #517	FN	--	C	528
 #518	PNCT	--	U	534
-#519	FN	--	L	534	LR	535
+#519	FN	--	L	534
 #520	FN	--	P	531
 #521	FN	--	A	531
 #522	FN	--	R	529
@@ -53,14 +53,12 @@ South	Word	--	Terminal	523
 #524	PNCT	--	U	529
 #525	FN	--	C	532
 #526	FN	--	P	530
-#527	FN	--	D	530
+#527	FN	--	T	530
 #528	FN	--	A	530
 #529	FN	--	A	531
-#530	FN	--	H	534	LA	535	LA	536
-#531	FN	--	H	534	LA	535
+#530	FN	--	H	534
+#531	FN	--	H	534
 #532	FN	--	A	533
-#533	FN	--	H	534	LA	536
+#533	FN	--	H	534
 #534	FN	--	--	0
-#535	LKG	--	--	0
-#536	LKG	--	--	0
 #EOS 184005

@@ -27,7 +27,7 @@ at	Word	--	Terminal	524
 the	Word	--	Terminal	525
 time	Word	--	Terminal	526
 .	Punctuation	--	Terminal	527
-#500	FN	--	L	539	LR	541
+#500	FN	--	L	539
 #501	FN	--	E	528
 #502	FN	--	C	528
 #503	FN	--	R	528
@@ -35,7 +35,7 @@ time	Word	--	Terminal	526
 #505	FN	--	L	539
 #506	FN	--	E	530
 #507	FN	--	C	530
-#508	FN	--	R	531	LR	540
+#508	FN	--	R	531
 #509	FN	--	P	531
 #510	PNCT	--	U	539
 #511	FN	--	A	538
@@ -56,17 +56,15 @@ time	Word	--	Terminal	526
 #526	FN	--	C	533
 #527	PNCT	--	U	533
 #528	FN	--	P	529
-#529	FN	--	H	539	LA	541
+#529	FN	--	H	539
 #530	FN	--	S	537	A*	531
-#531	FN	--	H	539	LA	540
+#531	FN	--	H	539
 #532	FN	--	S	534
 #533	FN	--	D	534
 #534	FN	--	E	536
 #535	FN	--	A	537
 #536	FN	--	A	538
-#537	FN	--	H	539	LA	540	LA	541
-#538	FN	--	H	539	LA	541
+#537	FN	--	H	539
+#538	FN	--	H	539
 #539	FN	--	--	0
-#540	LKG	--	--	0
-#541	LKG	--	--	0
 #EOS 664000

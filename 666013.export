@@ -27,7 +27,7 @@ and	Word	--	Terminal	523
 collaborations	Word	--	Terminal	524
 with	Word	--	Terminal	525
 R	Word	--	Terminal	526
-&	Punctuation	--	Terminal	526
+&	Word	--	Terminal	526
 B	Word	--	Terminal	526
 heavyweights	Word	--	Terminal	527
 like	Word	--	Terminal	528
@@ -58,7 +58,7 @@ soul	Word	--	Terminal	543
 #505	FN	--	D	553
 #506	FN	--	S	553
 #507	PNCT	--	U	565
-#508	FN	--	L	565	LR	566
+#508	FN	--	L	565
 #509	FN	--	E	547
 #510	FN	--	C	547
 #511	FN	--	P	564
@@ -103,7 +103,7 @@ soul	Word	--	Terminal	543
 #550	FN	--	E	554
 #551	FN	--	C	554
 #552	FN	--	A	553
-#553	FN	--	H	565	LA	566
+#553	FN	--	H	565
 #554	FN	--	A	556
 #555	FN	--	N	557
 #556	FN	--	C	559
@@ -114,7 +114,6 @@ soul	Word	--	Terminal	543
 #561	FN	--	H	563
 #562	FN	--	H	563
 #563	FN	--	A	564
-#564	FN	--	H	565	LA	566
+#564	FN	--	H	565
 #565	FN	--	--	0
-#566	LKG	--	--	0
 #EOS 666013

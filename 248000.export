@@ -6,32 +6,30 @@ number	Word	--	Terminal	503
 of	Word	--	Terminal	504
 projects	Word	--	Terminal	505
 away	Word	--	Terminal	506
-from	Word	--	Terminal	507
-acting	Word	--	Terminal	508
-throughout	Word	--	Terminal	509
-the	Word	--	Terminal	510
-early	Word	--	Terminal	511
-2000s	Word	--	Terminal	512
-.	Punctuation	--	Terminal	513
-#500	FN	--	A	519	A*	516
-#501	FN	--	P	519
-#502	FN	--	E	514
+from	Word	--	Terminal	506
+acting	Word	--	Terminal	507
+throughout	Word	--	Terminal	508
+the	Word	--	Terminal	509
+early	Word	--	Terminal	510
+2000s	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	A	517	A*	513
+#501	FN	--	P	517
+#502	FN	--	F	514
 #503	FN	--	C	514
-#504	FN	--	R	514
-#505	FN	--	C	518
-#506	FN	--	C	515
-#507	FN	--	E	515
-#508	FN	--	P	516
-#509	FN	--	R	517
-#510	FN	--	E	517
-#511	FN	--	E	517
-#512	FN	--	C	517
-#513	PNCT	--	U	517
-#514	FN	--	E	518
-#515	FN	--	R	516
-#516	FN	--	E	518
-#517	FN	--	D	519
-#518	FN	--	A	519
-#519	FN	--	H	520
-#520	FN	--	--	0
+#504	FN	--	R	515
+#505	FN	--	C	515
+#506	FN	--	L	518
+#507	FN	--	P	513
+#508	FN	--	R	516
+#509	FN	--	F	516
+#510	FN	--	E	516
+#511	FN	--	C	516	T*	513
+#512	PNCT	--	U	513
+#513	FN	--	H	518
+#514	FN	--	Q	515
+#515	FN	--	A	517
+#516	FN	--	T	517
+#517	FN	--	H	518
+#518	FN	--	--	0
 #EOS 248000

@@ -67,7 +67,7 @@ stations	Word	--	Terminal	546
 #508	FN	--	C	550
 #509	FN	--	C	551
 #510	PNCT	--	U	564
-#511	FN	--	L	564	LR	565
+#511	FN	--	L	564
 #512	FN	--	A	559	A*	562	A*	563
 #513	FN	--	D	559
 #514	FN	--	P	559
@@ -90,7 +90,7 @@ stations	Word	--	Terminal	546
 #531	FN	--	E	555
 #532	FN	--	C	555
 #533	PNCT	--	U	564
-#534	FN	--	L	564	LR	566
+#534	FN	--	L	564
 #535	FN	--	P	563
 #536	FN	--	A	563	A*	561
 #537	FN	--	F	561
@@ -114,13 +114,11 @@ stations	Word	--	Terminal	546
 #555	FN	--	E	560
 #556	FN	--	A	561
 #557	FN	--	A	558
-#558	FN	--	H	564	LA	565
-#559	FN	--	H	564	LA	565
+#558	FN	--	H	564
+#559	FN	--	H	564
 #560	FN	--	A	562
 #561	FN	--	A	563
-#562	FN	--	H	564	LA	566	LA	565
-#563	FN	--	H	564	LA	566
+#562	FN	--	H	564
+#563	FN	--	H	564
 #564	FN	--	--	0
-#565	LKG	--	--	0
-#566	LKG	--	--	0
 #EOS 666009

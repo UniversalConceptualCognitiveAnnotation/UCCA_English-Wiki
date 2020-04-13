@@ -6,18 +6,22 @@ reported	Word	--	Terminal	503
 to	Word	--	Terminal	504
 be	Word	--	Terminal	505
 $	Word	--	Terminal	506
-18	Word	--	Terminal	506
-million	Word	--	Terminal	506
-.	Punctuation	--	Terminal	507
-#500	FN	--	E	508
-#501	FN	--	C	508
-#502	FN	--	F	509
-#503	FN	--	D	509
-#504	FN	--	F	509
-#505	FN	--	P	509
-#506	FN	--	A	509
-#507	PNCT	--	U	509
-#508	FN	--	A	509
-#509	FN	--	H	510
-#510	FN	--	--	0
+18	Word	--	Terminal	507
+million	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	FN	--	A	509
+#501	FN	--	C	510	A*	512	A*	509
+#502	FN	--	F	513
+#503	FN	--	P	513
+#504	FN	--	F	512
+#505	FN	--	S	512
+#506	FN	--	C	511
+#507	FN	--	Q	511
+#508	PNCT	--	U	511
+#509	FN	--	E	510
+#510	FN	--	A	513
+#511	FN	--	A	512
+#512	FN	--	A	513
+#513	FN	--	H	514
+#514	FN	--	--	0
 #EOS 676001

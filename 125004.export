@@ -15,26 +15,27 @@ a	Word	--	Terminal	512
 drama	Word	--	Terminal	513
 tutor	Word	--	Terminal	514
 .	Punctuation	--	Terminal	515
-#500	FN	--	A	518	A*	519
-#501	FN	--	P	518
-#502	FN	--	E	516
+#500	FN	--	A	520	A*	521
+#501	FN	--	P	520
+#502	FN	--	C	516
 #503	FN	--	R	516
-#504	FN	--	E	516
-#505	FN	--	E	516
-#506	FN	--	C	516
-#507	PNCT	--	U	520
-#508	FN	--	L	520	LR	521
-#509	FN	--	D	519
-#510	FN	--	P	519
-#511	FN	--	R	517
-#512	FN	--	E	517
-#513	FN	--	E	517
-#514	FN	--	C	517
-#515	PNCT	--	U	517
-#516	FN	--	D	518
-#517	FN	--	A	519
-#518	FN	--	H	520	LA	521
-#519	FN	--	H	520	LA	521
-#520	FN	--	--	0
-#521	LKG	--	--	0
+#504	FN	--	E	517
+#505	FN	--	E	517
+#506	FN	--	C	517
+#507	PNCT	--	U	522
+#508	FN	--	L	522
+#509	FN	--	D	521
+#510	FN	--	P	521
+#511	FN	--	R	519
+#512	FN	--	E	518
+#513	FN	--	A	519
+#514	FN	--	C	518
+#515	PNCT	--	U	518
+#516	FN	--	E	517
+#517	FN	--	T	520
+#518	FN	--	A	519
+#519	FN	--	A	521
+#520	FN	--	H	522
+#521	FN	--	H	522
+#522	FN	--	--	0
 #EOS 125004

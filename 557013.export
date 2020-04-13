@@ -1,68 +1,69 @@
 #BOS 557013
-Bond	Word	--	Terminal	500
-rejected	Word	--	Terminal	501
-him	Word	--	Terminal	502
-after	Word	--	Terminal	503
-a	Word	--	Terminal	504
-tryout	Word	--	Terminal	505
-,	Punctuation	--	Terminal	506
-advising	Word	--	Terminal	507
-Presley	Word	--	Terminal	508
-to	Word	--	Terminal	509
-stick	Word	--	Terminal	510
-to	Word	--	Terminal	511
-truck	Word	--	Terminal	512
-driving	Word	--	Terminal	513
-"	Punctuation	--	Terminal	514
-because	Word	--	Terminal	515
-you	Word	--	Terminal	516
-'re	Word	--	Terminal	517
-never	Word	--	Terminal	518
-going	Word	--	Terminal	519
-to	Word	--	Terminal	520
-make	Word	--	Terminal	521
-it	Word	--	Terminal	521
-as	Word	--	Terminal	522
-a	Word	--	Terminal	523
-singer	Word	--	Terminal	524
-.	Punctuation	--	Terminal	525
-"	Punctuation	--	Terminal	526
-#500	FN	--	A	527	A*	533
-#501	FN	--	P	527
-#502	FN	--	A	527	A*	532
-#503	FN	--	L	535	LR	536
-#504	FN	--	E	528
-#505	FN	--	C	528
-#506	PNCT	--	U	535
-#507	FN	--	P	533
-#508	FN	--	A	533	A*	531
-#509	FN	--	F	531
-#510	FN	--	D	531
-#511	FN	--	F	531
-#512	FN	--	E	529
-#513	FN	--	C	529
-#514	PNCT	--	U	535
-#515	FN	--	L	535	LR	537
-#516	FN	--	A	534
-#517	FN	--	F	534
-#518	FN	--	D	534
-#519	FN	--	D	534
-#520	FN	--	F	534
-#521	FN	--	P	534
-#522	FN	--	R	530
-#523	FN	--	E	530
-#524	FN	--	C	530
-#525	PNCT	--	U	530
+Phillips	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+meanwhile	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+was	Word	--	Terminal	504
+always	Word	--	Terminal	505
+on	Word	--	Terminal	506
+the	Word	--	Terminal	506
+lookout	Word	--	Terminal	506
+for	Word	--	Terminal	507
+someone	Word	--	Terminal	508
+who	Word	--	Terminal	509
+could	Word	--	Terminal	510
+bring	Word	--	Terminal	511
+to	Word	--	Terminal	512
+a	Word	--	Terminal	513
+broader	Word	--	Terminal	514
+audience	Word	--	Terminal	515
+the	Word	--	Terminal	516
+sound	Word	--	Terminal	517
+of	Word	--	Terminal	518
+the	Word	--	Terminal	519
+black	Word	--	Terminal	520
+musicians	Word	--	Terminal	521
+on	Word	--	Terminal	522
+whom	Word	--	Terminal	523
+Sun	Word	--	Terminal	524
+focused	Word	--	Terminal	525
+.	Punctuation	--	Terminal	526
+#500	FN	--	A	536
+#501	PNCT	--	U	537
+#502	FN	--	L	537
+#503	PNCT	--	U	537
+#504	FN	--	F	536
+#505	FN	--	T	536
+#506	FN	--	S	536
+#507	FN	--	R	535
+#508	FN	--	C	535	A*	534
+#509	FN	--	R	534
+#510	FN	--	D	534
+#511	FN	--	P	534
+#512	FN	--	R	527
+#513	FN	--	F	527
+#514	FN	--	D	527
+#515	FN	--	A	527
+#516	FN	--	E	533
+#517	FN	--	C	533
+#518	FN	--	R	532
+#519	FN	--	E	532
+#520	FN	--	S	531
+#521	FN	--	A	528
+#522	FN	--	R	529
+#523	FN	--	R	530
+#524	FN	--	A	530
+#525	FN	--	P	530
 #526	PNCT	--	U	530
-#527	FN	--	H	535	LA	536
-#528	FN	--	P	532
-#529	FN	--	P	531
-#530	FN	--	A	534
-#531	FN	--	A	533
-#532	FN	--	H	535	LA	536
-#533	FN	--	H	535	LA	537
-#534	FN	--	H	535	LA	537
-#535	FN	--	--	0
-#536	LKG	--	--	0
-#537	LKG	--	--	0
+#527	FN	--	A	534
+#528	FN	--	C	532	A*	531	C*	529
+#529	FN	--	A	530
+#530	FN	--	E	532
+#531	FN	--	E	532
+#532	FN	--	E	533
+#533	FN	--	A	534
+#534	FN	--	E	535
+#535	FN	--	A	536
+#536	FN	--	H	537
+#537	FN	--	--	0
 #EOS 557013

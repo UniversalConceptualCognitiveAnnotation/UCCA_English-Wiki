@@ -22,19 +22,19 @@ his	Word	--	Terminal	517
 next	Word	--	Terminal	518
 scripts	Word	--	Terminal	519
 .	Punctuation	--	Terminal	520
-#500	FN	--	A	527	A*	526
+#500	FN	--	A	526
 #501	FN	--	F	521
 #502	FN	--	E	521
 #503	FN	--	C	521
-#504	FN	--	R	526
+#504	FN	--	F	526
 #505	FN	--	E	522
 #506	FN	--	C	522
-#507	FN	--	L	531	LR	532
-#508	FN	--	A	530	A*	528	A*	529
-#509	FN	--	P	530
+#507	FN	--	L	529
+#508	FN	--	A	527	A*	528
+#509	FN	--	F	527
 #510	FN	--	E	523
 #511	FN	--	C	523
-#512	FN	--	P	529
+#512	FN	--	S	527
 #513	FN	--	R	524
 #514	FN	--	E	524
 #515	FN	--	C	524
@@ -43,16 +43,13 @@ scripts	Word	--	Terminal	519
 #518	FN	--	E	525
 #519	FN	--	C	525
 #520	PNCT	--	U	525
-#521	FN	--	P	527
+#521	FN	--	D	526
 #522	FN	--	P	526
-#523	FN	--	D	530
-#524	FN	--	A	529
+#523	FN	--	T	527
+#524	FN	--	A	527
 #525	FN	--	A	528
-#526	FN	--	A	527
-#527	FN	--	H	531	LA	532
-#528	FN	--	H	531	LA	532
-#529	FN	--	A	530
-#530	FN	--	H	531	LA	532
-#531	FN	--	--	0
-#532	LKG	--	--	0
+#526	FN	--	H	529
+#527	FN	--	H	529
+#528	FN	--	H	529
+#529	FN	--	--	0
 #EOS 201002

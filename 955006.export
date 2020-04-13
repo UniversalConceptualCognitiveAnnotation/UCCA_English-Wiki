@@ -24,7 +24,7 @@ was	Word	--	Terminal	520
 searching	Word	--	Terminal	521
 for	Word	--	Terminal	522
 .	Punctuation	--	Terminal	523
-#500	FN	--	L	533	LR	534
+#500	FN	--	L	533
 #501	FN	--	C	525	A*	524
 #502	PNCT	--	U	525
 #503	FN	--	R	524
@@ -37,26 +37,25 @@ for	Word	--	Terminal	522
 #510	PNCT	--	U	533
 #511	FN	--	A	532
 #512	FN	--	P	532
-#513	FN	--	F	531
+#513	FN	--	R	531
 #514	FN	--	A	531
 #515	FN	--	P	531
 #516	FN	--	E	530
-#517	FN	--	C	530
-#518	FN	--	E	527
-#519	FN	--	C	527
+#517	FN	--	C	530	C*	527
+#518	FN	--	A	528
+#519	FN	--	A	528
 #520	FN	--	F	529
-#521	FN	--	C	528
-#522	FN	--	R	528
-#523	PNCT	--	U	528
+#521	FN	--	P	529
+#522	FN	--	R	527
+#523	PNCT	--	U	527
 #524	FN	--	E	525
 #525	FN	--	A	526
-#526	FN	--	H	533	LA	534
+#526	FN	--	H	533
 #527	FN	--	A	529
-#528	FN	--	P	529
+#528	FN	--	A	529
 #529	FN	--	E	530
 #530	FN	--	A	531
 #531	FN	--	A	532
-#532	FN	--	H	533	LA	534
+#532	FN	--	H	533
 #533	FN	--	--	0
-#534	LKG	--	--	0
 #EOS 955006

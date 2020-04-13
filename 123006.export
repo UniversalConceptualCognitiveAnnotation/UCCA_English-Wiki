@@ -22,27 +22,26 @@ true	Word	--	Terminal	512
 birth	Word	--	Terminal	513
 date	Word	--	Terminal	514
 .	Punctuation	--	Terminal	515
-#500	FN	--	L	521	LR	522
-#501	FN	--	A	518
-#502	FN	--	E	516
+#500	FN	--	L	521
+#501	FN	--	A	520
+#502	FN	--	T	520
 #503	FN	--	E	516
 #504	PNCT	--	U	516
 #505	PNCT	--	U	506
 #506	FN	--	C	516
 #507	PNCT	--	U	521
-#508	FN	--	F	520
-#509	FN	--	A	520
-#510	FN	--	P	520
-#511	FN	--	A	519
-#512	FN	--	D	519
+#508	FN	--	L	521
+#509	FN	--	A	518
+#510	FN	--	P	518
+#511	FN	--	E	517
+#512	FN	--	E	517
 #513	FN	--	C	517
 #514	FN	--	E	517
 #515	PNCT	--	U	517
-#516	FN	--	P	518
-#517	FN	--	P	519
-#518	FN	--	H	521	LA	522
-#519	FN	--	A	520
-#520	FN	--	H	521	LA	522
+#516	FN	--	A	520
+#517	FN	--	A	518
+#518	FN	--	H	521
+#519	FN	--	P	520
+#520	FN	--	H	521
 #521	FN	--	--	0
-#522	LKG	--	--	0
 #EOS 123006

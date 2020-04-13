@@ -13,27 +13,25 @@ most	Word	--	Terminal	510
 bankable	Word	--	Terminal	511
 stars	Word	--	Terminal	512
 .	Punctuation	--	Terminal	513
-#500	FN	--	L	521	LR	522
-#501	FN	--	E	514
-#502	FN	--	C	514
-#503	PNCT	--	U	521
-#504	FN	--	A	518
-#505	FN	--	D	518
-#506	FN	--	C	515
-#507	FN	--	R	515
-#508	FN	--	C	516
-#509	FN	--	R	516
-#510	FN	--	D	517
-#511	FN	--	E	517
-#512	FN	--	C	517
+#500	FN	--	L	520
+#501	FN	--	A	514
+#502	FN	--	P	514
+#503	PNCT	--	U	520
+#504	FN	--	A	519
+#505	FN	--	P	519
+#506	FN	--	Q	518
+#507	FN	--	R	517
+#508	FN	--	C	515
+#509	FN	--	R	515
+#510	FN	--	D	516
+#511	FN	--	S	516
+#512	FN	--	A	517	A*	516
 #513	PNCT	--	U	517
-#514	FN	--	A	520
-#515	FN	--	E	517
-#516	FN	--	E	517
-#517	FN	--	S	518
-#518	FN	--	H	521	LA	522
-#519	FN	--	S	520
-#520	FN	--	H	521	LA	522
-#521	FN	--	--	0
-#522	LKG	--	--	0
+#514	FN	--	H	520
+#515	FN	--	A	517
+#516	FN	--	E	518
+#517	FN	--	C	518
+#518	FN	--	A	519
+#519	FN	--	H	520
+#520	FN	--	--	0
 #EOS 524011

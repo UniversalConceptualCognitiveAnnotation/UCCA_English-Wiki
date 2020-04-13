@@ -18,32 +18,27 @@ receiving	Word	--	Terminal	513
 private	Word	--	Terminal	514
 tutoring	Word	--	Terminal	515
 .	Punctuation	--	Terminal	516
-#500	FN	--	A	521	A*	522	A*	525	A*	523
-#501	FN	--	P	521
-#502	FN	--	R	517
-#503	FN	--	C	517
+#500	FN	--	A	520	A*	521	A*	517
+#501	FN	--	P	520
+#502	FN	--	R	518
+#503	FN	--	E	518
 #504	FN	--	C	518
-#505	PNCT	--	U	526
-#506	FN	--	P	522
+#505	PNCT	--	U	522
+#506	FN	--	P	521
 #507	FN	--	R	519
-#508	FN	--	E	519
-#509	FN	--	C	519
-#510	PNCT	--	U	526
-#511	FN	--	L	526	LR	527
-#512	FN	--	D	525
-#513	FN	--	P	525
-#514	FN	--	E	524
-#515	FN	--	P	523
-#516	PNCT	--	U	523
-#517	FN	--	E	518
-#518	FN	--	A	521
-#519	FN	--	A	522
-#520	FN	--	A	523
-#521	FN	--	H	526	LA	527
-#522	FN	--	H	526	LA	527
-#523	FN	--	C	524
-#524	FN	--	A	525
-#525	FN	--	H	526	LA	527
-#526	FN	--	--	0
-#527	LKG	--	--	0
+#508	FN	--	C	519
+#509	FN	--	E	519
+#510	PNCT	--	U	522
+#511	FN	--	L	522
+#512	FN	--	D	517
+#513	FN	--	D	517
+#514	FN	--	D	517
+#515	FN	--	P	517
+#516	PNCT	--	U	517
+#517	FN	--	H	522
+#518	FN	--	A	520
+#519	FN	--	A	521
+#520	FN	--	H	522
+#521	FN	--	H	522
+#522	FN	--	--	0
 #EOS 123004

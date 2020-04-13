@@ -1,34 +1,35 @@
 #BOS 454010
 On	Word	--	Terminal	500
-July	Word	--	Terminal	502
+July	Word	--	Terminal	501
 20	Word	--	Terminal	502
-,	Punctuation	--	Terminal	501
-1983	Word	--	Terminal	502
 ,	Punctuation	--	Terminal	503
-Reynolds	Word	--	Terminal	504
-died	Word	--	Terminal	505
-unexpectedly	Word	--	Terminal	506
-after	Word	--	Terminal	507
-developing	Word	--	Terminal	508
-acute	Word	--	Terminal	509
-hepatitis	Word	--	Terminal	510
-.	Punctuation	--	Terminal	511
-#500	FN	--	R	512
-#501	PNCT	--	U	502
-#502	FN	--	C	512
-#503	PNCT	--	U	513
-#504	FN	--	A	513	A*	515
-#505	FN	--	S	513
-#506	FN	--	D	513
-#507	FN	--	L	516	LR	517
-#508	FN	--	S	515
-#509	FN	--	E	514
-#510	FN	--	C	514
-#511	PNCT	--	U	514
-#512	FN	--	D	513
-#513	FN	--	H	516	LA	517
-#514	FN	--	A	515
-#515	FN	--	H	516	LA	517
-#516	FN	--	--	0
-#517	LKG	--	--	0
+1983	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+Reynolds	Word	--	Terminal	506
+died	Word	--	Terminal	507
+unexpectedly	Word	--	Terminal	508
+after	Word	--	Terminal	509
+developing	Word	--	Terminal	510
+acute	Word	--	Terminal	511
+hepatitis	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	R	514
+#501	FN	--	C	514
+#502	FN	--	C	514
+#503	PNCT	--	U	514
+#504	FN	--	C	514
+#505	PNCT	--	U	515
+#506	FN	--	A	515	A*	517
+#507	FN	--	S	515
+#508	FN	--	G	515
+#509	FN	--	L	518
+#510	FN	--	S	517
+#511	FN	--	E	516
+#512	FN	--	C	516
+#513	PNCT	--	U	516
+#514	FN	--	T	515
+#515	FN	--	H	518
+#516	FN	--	A	517
+#517	FN	--	H	518
+#518	FN	--	--	0
 #EOS 454010

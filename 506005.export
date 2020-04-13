@@ -11,20 +11,22 @@ film	Word	--	Terminal	508
 Absolute	Word	--	Terminal	509
 Beginners	Word	--	Terminal	509
 .	Punctuation	--	Terminal	510
-#500	FN	--	A	514
-#501	FN	--	F	514
-#502	FN	--	P	514
+#500	FN	--	A	516
+#501	FN	--	F	516
+#502	FN	--	P	516
 #503	FN	--	E	511
 #504	FN	--	C	511
-#505	FN	--	R	513
-#506	FN	--	E	512
-#507	FN	--	E	512
-#508	FN	--	C	512
-#509	FN	--	C	513
-#510	PNCT	--	U	513
-#511	FN	--	A	514
-#512	FN	--	E	513
-#513	FN	--	A	514
-#514	FN	--	H	515
-#515	FN	--	--	0
+#505	FN	--	R	515
+#506	FN	--	E	514
+#507	FN	--	T	513
+#508	FN	--	C	514	A*	513
+#509	FN	--	C	515
+#510	PNCT	--	U	515
+#511	FN	--	A	516
+#512	FN	--	P	513
+#513	FN	--	E	514
+#514	FN	--	E	515
+#515	FN	--	A	516
+#516	FN	--	H	517
+#517	FN	--	--	0
 #EOS 506005

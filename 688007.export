@@ -14,28 +14,24 @@ then	Word	--	Terminal	511
 burgeoning	Word	--	Terminal	512
 counterculture	Word	--	Terminal	513
 .	Punctuation	--	Terminal	514
-#500	FN	--	A	519
-#501	FN	--	P	519
-#502	FN	--	E	516
+#500	FN	--	A	516	A*	518
+#501	FN	--	D	516
+#502	FN	--	D	516
 #503	FN	--	E	515
 #504	FN	--	C	515
-#505	FN	--	C	516
-#506	FN	--	L	522	LR	523
-#507	FN	--	P	521
-#508	FN	--	D	521
-#509	FN	--	R	518
-#510	FN	--	E	518
-#511	FN	--	D	517
-#512	FN	--	P	517
-#513	FN	--	C	518	A*	517
-#514	PNCT	--	U	518
-#515	FN	--	E	516
-#516	FN	--	A	519
-#517	FN	--	E	518
-#518	FN	--	A	521
-#519	FN	--	H	522	LA	523
-#520	FN	--	A	521
-#521	FN	--	H	522	LA	523
-#522	FN	--	--	0
-#523	LKG	--	--	0
+#505	FN	--	S	516
+#506	FN	--	L	519
+#507	FN	--	P	518
+#508	FN	--	D	518
+#509	FN	--	R	517
+#510	FN	--	F	517
+#511	FN	--	T	517
+#512	FN	--	D	517
+#513	FN	--	P	517
+#514	PNCT	--	U	517
+#515	FN	--	A	516
+#516	FN	--	H	519
+#517	FN	--	A	518
+#518	FN	--	H	519
+#519	FN	--	--	0
 #EOS 688007

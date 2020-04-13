@@ -74,8 +74,8 @@ methodology	Word	--	Terminal	561
 #504	FN	--	C	564
 #505	FN	--	R	564
 #506	FN	--	P	565
-#507	PNCT	--	U	586
-#508	PNCT	--	U	586
+#507	PNCT	--	U	585
+#508	PNCT	--	U	585
 #509	FN	--	C	577
 #510	PNCT	--	U	577
 #511	PNCT	--	U	577
@@ -93,16 +93,16 @@ methodology	Word	--	Terminal	561
 #523	FN	--	E	568
 #524	FN	--	E	568
 #525	FN	--	C	568
-#526	PNCT	--	U	586
+#526	PNCT	--	U	585
 #527	FN	--	S	576
 #528	FN	--	C	569
 #529	FN	--	R	569
 #530	FN	--	E	570
 #531	FN	--	C	570
 #532	FN	--	E	570
-#533	FN	--	L	586	LR	587
-#534	FN	--	S	585
-#535	FN	--	A	585
+#533	FN	--	L	585
+#534	FN	--	S	584
+#535	FN	--	A	584
 #536	FN	--	E	583
 #537	FN	--	E	583
 #538	FN	--	C	583
@@ -115,7 +115,7 @@ methodology	Word	--	Terminal	561
 #545	FN	--	R	572
 #546	FN	--	E	572
 #547	FN	--	C	572
-#548	PNCT	--	U	586
+#548	PNCT	--	U	585
 #549	FN	--	P	581
 #550	FN	--	A	581
 #551	FN	--	D	581
@@ -130,9 +130,9 @@ methodology	Word	--	Terminal	561
 #560	FN	--	E	575
 #561	FN	--	C	575
 #562	PNCT	--	U	575
-#563	FN	--	L	586	LR	584
+#563	FN	--	L	585
 #564	FN	--	A	565
-#565	FN	--	H	586	LA	584
+#565	FN	--	H	585
 #566	FN	--	E	567
 #567	FN	--	E	577
 #568	FN	--	E	578
@@ -143,16 +143,14 @@ methodology	Word	--	Terminal	561
 #573	FN	--	A	581
 #574	FN	--	E	575
 #575	FN	--	A	582
-#576	FN	--	H	586	LA	587
+#576	FN	--	H	585
 #577	FN	--	A	579
 #578	FN	--	A	579
-#579	FN	--	H	586	LA	587	LA	584
+#579	FN	--	H	585
 #580	FN	--	E	583
 #581	FN	--	A	582
-#582	FN	--	H	586
-#583	FN	--	A	585
-#584	LKG	--	--	0
-#585	FN	--	H	586	LA	587
-#586	FN	--	--	0
-#587	LKG	--	--	0
+#582	FN	--	H	585
+#583	FN	--	A	584
+#584	FN	--	H	585
+#585	FN	--	--	0
 #EOS 671016

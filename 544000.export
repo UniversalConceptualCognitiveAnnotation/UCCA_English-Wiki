@@ -21,15 +21,15 @@ rise	Word	--	Terminal	518
 of	Word	--	Terminal	519
 Nazism	Word	--	Terminal	520
 .	Punctuation	--	Terminal	521
-#500	FN	--	L	532	LR	533
+#500	FN	--	R	528
 #501	FN	--	E	522
 #502	FN	--	C	522
-#503	FN	--	D	528
-#504	FN	--	F	528
+#503	FN	--	F	523
+#504	FN	--	F	523
 #505	FN	--	E	523
 #506	FN	--	C	523
-#507	PNCT	--	U	532
-#508	FN	--	N	525
+#507	PNCT	--	U	531
+#508	FN	--	Q	529
 #509	FN	--	C	524
 #510	FN	--	N	524
 #511	FN	--	C	524
@@ -43,16 +43,15 @@ Nazism	Word	--	Terminal	520
 #519	FN	--	R	527
 #520	FN	--	C	527
 #521	PNCT	--	U	527
-#522	FN	--	A	528
-#523	FN	--	P	528
+#522	FN	--	C	528
+#523	FN	--	C	528
 #524	FN	--	C	525
-#525	FN	--	A	531
-#526	FN	--	P	529
-#527	FN	--	A	529
-#528	FN	--	H	532	LA	533
-#529	FN	--	C	530
+#525	FN	--	C	529
+#526	FN	--	P	530
+#527	FN	--	A	530
+#528	FN	--	T	531
+#529	FN	--	A	531
 #530	FN	--	A	531
-#531	FN	--	H	532	LA	533
+#531	FN	--	H	532
 #532	FN	--	--	0
-#533	LKG	--	--	0
 #EOS 544000

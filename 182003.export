@@ -15,27 +15,25 @@ critically	Word	--	Terminal	511
 acclaimed	Word	--	Terminal	512
 performances	Word	--	Terminal	513
 .	Punctuation	--	Terminal	514
-#500	FN	--	A	519	A*	520
+#500	FN	--	A	519	A*	515	A*	516
 #501	FN	--	P	519
 #502	FN	--	A	519
-#503	FN	--	R	515
-#504	FN	--	C	515
-#505	FN	--	L	521	LR	522
-#506	FN	--	P	520
-#507	FN	--	E	516
-#508	FN	--	C	516
-#509	FN	--	R	518
-#510	FN	--	E	518
-#511	FN	--	A	517
-#512	FN	--	P	517
-#513	FN	--	C	518	A*	517
-#514	PNCT	--	U	518
-#515	FN	--	D	519
-#516	FN	--	A	520
-#517	FN	--	E	518
-#518	FN	--	A	520
-#519	FN	--	H	521	LA	522
-#520	FN	--	H	521	LA	522
-#521	FN	--	--	0
-#522	LKG	--	--	0
+#503	FN	--	R	517
+#504	FN	--	C	517
+#505	FN	--	L	520
+#506	FN	--	D	515
+#507	FN	--	F	515
+#508	FN	--	P	515
+#509	FN	--	L	520
+#510	FN	--	D	516
+#511	FN	--	A	518
+#512	FN	--	P	518
+#513	FN	--	P	516	A*	518
+#514	PNCT	--	U	516
+#515	FN	--	H	520
+#516	FN	--	H	520
+#517	FN	--	T	519
+#518	FN	--	H	520
+#519	FN	--	H	520
+#520	FN	--	--	0
 #EOS 182003

@@ -13,13 +13,13 @@ a	Word	--	Terminal	510
 commercial	Word	--	Terminal	511
 failure	Word	--	Terminal	512
 .	Punctuation	--	Terminal	513
-#500	FN	--	F	518
-#501	FN	--	S	518
-#502	FN	--	D	518
-#503	FN	--	E	514
-#504	FN	--	C	514
-#505	PNCT	--	U	519
-#506	FN	--	L	519	LR	520
+#500	FN	--	F	514
+#501	FN	--	F	514
+#502	FN	--	D	514
+#503	FN	--	D	514
+#504	FN	--	P	514
+#505	PNCT	--	U	518
+#506	FN	--	L	518
 #507	FN	--	E	515
 #508	FN	--	C	515
 #509	FN	--	F	517
@@ -27,11 +27,9 @@ failure	Word	--	Terminal	512
 #511	FN	--	C	516
 #512	FN	--	S	517
 #513	PNCT	--	U	517
-#514	FN	--	A	518
+#514	FN	--	H	518
 #515	FN	--	A	517
-#516	FN	--	A	517
-#517	FN	--	H	519	LA	520
-#518	FN	--	H	519	LA	520
-#519	FN	--	--	0
-#520	LKG	--	--	0
+#516	FN	--	D	517
+#517	FN	--	H	518
+#518	FN	--	--	0
 #EOS 129001

@@ -30,7 +30,7 @@ again	Word	--	Terminal	526
 in	Word	--	Terminal	527
 1962	Word	--	Terminal	528
 .	Punctuation	--	Terminal	529
-#500	FN	--	L	539	LR	541
+#500	FN	--	L	539
 #501	FN	--	A	536
 #502	FN	--	D	536
 #503	FN	--	P	536
@@ -44,15 +44,15 @@ in	Word	--	Terminal	527
 #511	FN	--	P	533
 #512	FN	--	R	532
 #513	FN	--	C	532
-#514	FN	--	D	533
+#514	FN	--	T	533
 #515	PNCT	--	U	539
-#516	FN	--	L	539	LR	540
+#516	FN	--	L	539
 #517	FN	--	A	537
 #518	FN	--	P	537
 #519	FN	--	A	537
 #520	FN	--	R	534
 #521	FN	--	C	534
-#522	FN	--	L	539	LR	542
+#522	FN	--	L	539
 #523	FN	--	A	538
 #524	FN	--	P	538
 #525	FN	--	A	538
@@ -63,14 +63,11 @@ in	Word	--	Terminal	527
 #530	FN	--	A	536
 #531	FN	--	A	536
 #532	FN	--	A	533
-#533	FN	--	H	539	LA	540	LA	541
+#533	FN	--	H	539
 #534	FN	--	A	537
-#535	FN	--	D	538
-#536	FN	--	H	539	LA	541
-#537	FN	--	H	539	LA	542	LA	540
-#538	FN	--	H	539	LA	542
+#535	FN	--	T	538
+#536	FN	--	H	539
+#537	FN	--	H	539
+#538	FN	--	H	539
 #539	FN	--	--	0
-#540	LKG	--	--	0
-#541	LKG	--	--	0
-#542	LKG	--	--	0
 #EOS 808003

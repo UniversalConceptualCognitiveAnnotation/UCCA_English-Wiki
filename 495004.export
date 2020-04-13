@@ -19,26 +19,25 @@ Conn	Word	--	Terminal	510
 's	Word	--	Terminal	511
 contract	Word	--	Terminal	512
 .	Punctuation	--	Terminal	513
-#500	FN	--	A	519	A*	520
-#501	PNCT	--	U	519
-#502	FN	--	P	519
+#500	FN	--	A	518	A*	519
+#501	PNCT	--	U	518
+#502	FN	--	P	518
 #503	FN	--	E	514
 #504	FN	--	C	514
-#505	PNCT	--	U	521
-#506	FN	--	P	520
+#505	PNCT	--	U	520
+#506	FN	--	D	519
 #507	FN	--	E	515
 #508	FN	--	C	515
 #509	FN	--	R	517
-#510	FN	--	C	516
-#511	FN	--	R	516
-#512	FN	--	C	517
+#510	FN	--	A	516
+#511	FN	--	S	516
+#512	FN	--	C	517	A*	516
 #513	PNCT	--	U	517
-#514	FN	--	D	519
-#515	FN	--	P	518
+#514	FN	--	D	518
+#515	FN	--	P	519
 #516	FN	--	E	517
-#517	FN	--	A	518
-#518	FN	--	A	520
-#519	FN	--	H	521
-#520	FN	--	H	521
-#521	FN	--	--	0
+#517	FN	--	A	519
+#518	FN	--	H	520
+#519	FN	--	H	520
+#520	FN	--	--	0
 #EOS 495004

@@ -28,24 +28,24 @@ go	Word	--	Terminal	525
 on	Word	--	Terminal	525
 .	Punctuation	--	Terminal	526
 "	Punctuation	--	Terminal	527
-#500	FN	--	L	537
-#501	FN	--	A	536
-#502	FN	--	D	536
-#503	FN	--	P	536
-#504	PNCT	--	U	536
-#505	PNCT	--	U	536
+#500	FN	--	L	536
+#501	FN	--	A	535
+#502	FN	--	D	535
+#503	FN	--	P	535
+#504	PNCT	--	U	535
+#505	PNCT	--	U	535
 #506	FN	--	A	533
 #507	FN	--	D	533
 #508	FN	--	P	533
 #509	FN	--	E	528
 #510	FN	--	C	528
-#511	PNCT	--	U	535
+#511	PNCT	--	U	534
 #512	FN	--	E	529
 #513	FN	--	C	529
 #514	FN	--	F	530
 #515	FN	--	S	530
-#516	PNCT	--	U	535
-#517	FN	--	L	535	LR	534
+#516	PNCT	--	U	534
+#517	FN	--	L	534
 #518	FN	--	C	531
 #519	PNCT	--	U	531
 #520	FN	--	C	531
@@ -58,12 +58,11 @@ on	Word	--	Terminal	525
 #527	PNCT	--	U	532
 #528	FN	--	A	533
 #529	FN	--	A	530
-#530	FN	--	H	535	LA	534
+#530	FN	--	H	534
 #531	FN	--	A	532
-#532	FN	--	H	535	LA	534
-#533	FN	--	H	535
-#534	LKG	--	--	0
-#535	FN	--	A	536
-#536	FN	--	H	537
-#537	FN	--	--	0
+#532	FN	--	H	534
+#533	FN	--	H	534
+#534	FN	--	A	535
+#535	FN	--	H	536
+#536	FN	--	--	0
 #EOS 649005

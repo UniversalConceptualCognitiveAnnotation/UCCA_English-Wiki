@@ -28,7 +28,7 @@ agreed	Word	--	Terminal	523
 upon	Word	--	Terminal	525
 compensation	Word	--	Terminal	526
 .	Punctuation	--	Terminal	527
-#500	FN	--	P	543
+#500	FN	--	P	542
 #501	FN	--	E	537
 #502	FN	--	C	528
 #503	FN	--	R	528
@@ -36,7 +36,7 @@ compensation	Word	--	Terminal	526
 #505	PNCT	--	U	536
 #506	FN	--	A	536
 #507	FN	--	C	537	A*	536
-#508	PNCT	--	U	543
+#508	PNCT	--	U	542
 #509	FN	--	E	529
 #510	FN	--	C	529
 #511	FN	--	F	530
@@ -58,19 +58,18 @@ compensation	Word	--	Terminal	526
 #527	PNCT	--	U	534
 #528	FN	--	E	537
 #529	FN	--	A	540
-#530	FN	--	L	542	LR	541
+#530	FN	--	L	541
 #531	FN	--	A	538
 #532	FN	--	P	538
 #533	FN	--	E	534
 #534	FN	--	A	538
 #535	FN	--	S	536
 #536	FN	--	E	537
-#537	FN	--	A	543
-#538	FN	--	H	542	LA	541
+#537	FN	--	A	542
+#538	FN	--	H	541
 #539	FN	--	P	540
-#540	FN	--	H	542	LA	541
-#541	LKG	--	--	0
-#542	FN	--	A	543
-#543	FN	--	H	544
-#544	FN	--	--	0
+#540	FN	--	H	541
+#541	FN	--	A	542
+#542	FN	--	H	543
+#543	FN	--	--	0
 #EOS 671009

@@ -12,61 +12,55 @@ in	Word	--	Terminal	507
 and	Word	--	Terminal	510
 continued	Word	--	Terminal	511
 on	Word	--	Terminal	512
-and	Word	--	Terminal	513
-off	Word	--	Terminal	514
-for	Word	--	Terminal	515
-several	Word	--	Terminal	516
-years	Word	--	Terminal	517
-,	Punctuation	--	Terminal	518
-ultimately	Word	--	Terminal	519
-falling	Word	--	Terminal	520
-apart	Word	--	Terminal	520
-due	Word	--	Terminal	521
-to	Word	--	Terminal	521
-her	Word	--	Terminal	522
-deteriorating	Word	--	Terminal	523
-mental	Word	--	Terminal	524
-condition	Word	--	Terminal	525
-.	Punctuation	--	Terminal	526
-#500	FN	--	C	527
-#501	FN	--	R	527
-#502	FN	--	E	534
-#503	FN	--	C	534	A*	536	A*	528
-#504	FN	--	R	529
-#505	FN	--	C	529
-#506	FN	--	P	535
-#507	FN	--	R	530
-#508	FN	--	C	530
-#509	PNCT	--	U	538
-#510	FN	--	L	538	LR	539
-#511	FN	--	P	536
-#512	FN	--	C	531
-#513	FN	--	N	531
-#514	FN	--	C	531
-#515	FN	--	R	532
-#516	FN	--	E	532
-#517	FN	--	C	532
-#518	PNCT	--	U	538
-#519	FN	--	D	528
-#520	FN	--	P	528
-#521	FN	--	L	538	LR	540
-#522	FN	--	A	537
-#523	FN	--	D	537
-#524	FN	--	E	533
-#525	FN	--	C	533
-#526	PNCT	--	U	533
-#527	FN	--	E	534
-#528	FN	--	H	538	LA	540
-#529	FN	--	E	534
-#530	FN	--	D	535
-#531	FN	--	D	536
-#532	FN	--	D	536
-#533	FN	--	S	537
-#534	FN	--	A	535
-#535	FN	--	H	538	LA	539
-#536	FN	--	H	538	LA	539
-#537	FN	--	H	538	LA	540
-#538	FN	--	--	0
-#539	LKG	--	--	0
-#540	LKG	--	--	0
+and	Word	--	Terminal	512
+off	Word	--	Terminal	512
+for	Word	--	Terminal	513
+several	Word	--	Terminal	514
+years	Word	--	Terminal	515
+,	Punctuation	--	Terminal	516
+ultimately	Word	--	Terminal	517
+falling	Word	--	Terminal	518
+apart	Word	--	Terminal	518
+due	Word	--	Terminal	519
+to	Word	--	Terminal	519
+her	Word	--	Terminal	520
+deteriorating	Word	--	Terminal	521
+mental	Word	--	Terminal	522
+condition	Word	--	Terminal	523
+.	Punctuation	--	Terminal	524
+#500	FN	--	C	525	A*	533	A*	526
+#501	FN	--	R	525
+#502	FN	--	A	532	A*	533	A*	526
+#503	FN	--	S	532	S*	533	S*	526
+#504	FN	--	R	527
+#505	FN	--	C	527	A*	533	A*	526
+#506	FN	--	D	532
+#507	FN	--	R	528
+#508	FN	--	C	528
+#509	PNCT	--	U	534
+#510	FN	--	L	534
+#511	FN	--	C	529
+#512	FN	--	E	529
+#513	FN	--	R	530
+#514	FN	--	Q	530
+#515	FN	--	C	530
+#516	PNCT	--	U	534
+#517	FN	--	L	534
+#518	FN	--	D	526
+#519	FN	--	L	534
+#520	FN	--	A	531
+#521	FN	--	D	531
+#522	FN	--	A	531
+#523	FN	--	S	531
+#524	PNCT	--	U	531
+#525	FN	--	A	532
+#526	FN	--	H	534
+#527	FN	--	A	532
+#528	FN	--	T	532
+#529	FN	--	D	533
+#530	FN	--	T	533
+#531	FN	--	H	534
+#532	FN	--	H	534
+#533	FN	--	H	534
+#534	FN	--	--	0
 #EOS 960012

@@ -17,44 +17,40 @@ prompted	Word	--	Terminal	514
 her	Word	--	Terminal	515
 to	Word	--	Terminal	516
 move	Word	--	Terminal	517
-out	Word	--	Terminal	518
-from	Word	--	Terminal	519
-their	Word	--	Terminal	520
-apartment	Word	--	Terminal	521
-.	Punctuation	--	Terminal	522
-#500	FN	--	L	532	LR	534
-#501	FN	--	E	523
-#502	FN	--	C	523
-#503	FN	--	R	524
-#504	FN	--	E	524
-#505	FN	--	C	524
-#506	PNCT	--	U	532
-#507	FN	--	C	525
-#508	FN	--	R	525
-#509	FN	--	C	526
-#510	FN	--	P	527
-#511	PNCT	--	U	532
-#512	FN	--	L	532	LR	533
-#513	FN	--	D	531
-#514	FN	--	D	531
-#515	FN	--	A	531
-#516	FN	--	F	531
-#517	FN	--	C	528
-#518	FN	--	R	528
-#519	FN	--	R	529
-#520	FN	--	E	529
-#521	FN	--	C	529
-#522	PNCT	--	U	529
-#523	FN	--	S	530
-#524	FN	--	A	530
-#525	FN	--	E	526
-#526	FN	--	A	527
-#527	FN	--	H	532	LA	533	LA	534
-#528	FN	--	P	531
-#529	FN	--	A	531
-#530	FN	--	H	532	LA	534
-#531	FN	--	H	532	LA	533
-#532	FN	--	--	0
-#533	LKG	--	--	0
-#534	LKG	--	--	0
+out	Word	--	Terminal	517
+from	Word	--	Terminal	518
+their	Word	--	Terminal	519
+apartment	Word	--	Terminal	520
+.	Punctuation	--	Terminal	521
+#500	FN	--	L	530
+#501	FN	--	A	528
+#502	FN	--	P	528
+#503	FN	--	R	522
+#504	FN	--	E	522
+#505	FN	--	C	522
+#506	PNCT	--	U	530
+#507	FN	--	C	523
+#508	FN	--	R	523
+#509	FN	--	S	524
+#510	FN	--	P	525
+#511	PNCT	--	U	530
+#512	FN	--	L	530
+#513	FN	--	D	529
+#514	FN	--	D	529
+#515	FN	--	A	529
+#516	FN	--	F	529
+#517	FN	--	P	529
+#518	FN	--	R	527
+#519	FN	--	A	526
+#520	FN	--	C	527	A*	526
+#521	PNCT	--	U	527
+#522	FN	--	A	528
+#523	FN	--	A	524
+#524	FN	--	A	525
+#525	FN	--	H	530
+#526	FN	--	E	527
+#527	FN	--	A	529
+#528	FN	--	H	530
+#529	FN	--	H	530
+#530	FN	--	--	0
 #EOS 659013

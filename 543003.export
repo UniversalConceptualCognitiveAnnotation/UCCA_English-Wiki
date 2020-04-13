@@ -15,26 +15,27 @@ humiliating	Word	--	Terminal	511
 subordinates	Word	--	Terminal	512
 .	Punctuation	--	Terminal	513
 "	Punctuation	--	Terminal	514
-#500	FN	--	E	515
-#501	FN	--	C	515
-#502	FN	--	C	516
-#503	FN	--	P	520
-#504	FN	--	F	519
-#505	FN	--	A	519	A*	517
-#506	PNCT	--	U	519
-#507	FN	--	D	519
-#508	FN	--	P	519
-#509	PNCT	--	U	519
-#510	FN	--	R	518
+#500	FN	--	A	515
+#501	FN	--	P	515
+#502	FN	--	C	516	A*	515
+#503	FN	--	P	521
+#504	FN	--	R	520
+#505	FN	--	A	520	A*	517
+#506	PNCT	--	U	520
+#507	FN	--	F	518
+#508	FN	--	C	518
+#509	PNCT	--	U	520
+#510	FN	--	R	519
 #511	FN	--	P	517
 #512	FN	--	A	517
 #513	PNCT	--	U	517
 #514	PNCT	--	U	517
 #515	FN	--	E	516
-#516	FN	--	A	520
-#517	FN	--	C	518
-#518	FN	--	A	519
+#516	FN	--	A	521
+#517	FN	--	C	519
+#518	FN	--	P	520
 #519	FN	--	A	520
-#520	FN	--	H	521
-#521	FN	--	--	0
+#520	FN	--	A	521
+#521	FN	--	H	522
+#522	FN	--	--	0
 #EOS 543003

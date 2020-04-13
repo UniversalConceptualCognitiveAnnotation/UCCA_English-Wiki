@@ -23,35 +23,33 @@ offended	Word	--	Terminal	517
 religious	Word	--	Terminal	518
 groups	Word	--	Terminal	519
 .	Punctuation	--	Terminal	520
-#500	FN	--	R	521
-#501	PNCT	--	U	521
-#502	FN	--	C	521
-#503	PNCT	--	U	527
-#504	PNCT	--	U	527
+#500	FN	--	L	528
+#501	PNCT	--	U	528
+#502	FN	--	A	521
+#503	PNCT	--	U	528
+#504	PNCT	--	U	528
 #505	FN	--	E	522
 #506	FN	--	C	522
-#507	FN	--	P	527
-#508	FN	--	E	524
+#507	FN	--	F	524
+#508	FN	--	F	524
 #509	FN	--	E	523
 #510	PNCT	--	U	523
 #511	FN	--	C	523
-#512	FN	--	C	524
-#513	PNCT	--	U	529
-#514	FN	--	L	529	LR	530
-#515	FN	--	E	525
-#516	FN	--	C	525
-#517	FN	--	P	528
+#512	FN	--	P	524	P*	521
+#513	PNCT	--	U	528
+#514	FN	--	L	528
+#515	FN	--	S	525
+#516	FN	--	A	525
+#517	FN	--	P	527
 #518	FN	--	E	526
 #519	FN	--	C	526
 #520	PNCT	--	U	526
-#521	FN	--	A	527
-#522	FN	--	A	527
-#523	FN	--	E	524
-#524	FN	--	A	527
-#525	FN	--	A	528
-#526	FN	--	A	528
-#527	FN	--	H	529	LA	530
-#528	FN	--	H	529	LA	530
-#529	FN	--	--	0
-#530	LKG	--	--	0
+#521	FN	--	H	528
+#522	FN	--	A	524
+#523	FN	--	A	524
+#524	FN	--	H	528
+#525	FN	--	A	527
+#526	FN	--	A	527
+#527	FN	--	H	528
+#528	FN	--	--	0
 #EOS 638001

@@ -33,12 +33,12 @@ into	Word	--	Terminal	530
 her	Word	--	Terminal	531
 work	Word	--	Terminal	532
 .	Punctuation	--	Terminal	533
-#500	FN	--	L	547	LR	549
+#500	FN	--	L	547
 #501	FN	--	E	534
 #502	FN	--	E	534
 #503	FN	--	C	534
 #504	PNCT	--	U	547
-#505	FN	--	L	547	LR	548
+#505	FN	--	L	547
 #506	FN	--	A	540
 #507	FN	--	D	540
 #508	FN	--	D	540
@@ -58,7 +58,7 @@ work	Word	--	Terminal	532
 #522	FN	--	E	537
 #523	FN	--	C	537
 #524	PNCT	--	U	547
-#525	FN	--	L	547	LR	550
+#525	FN	--	L	547
 #526	FN	--	D	541
 #527	FN	--	P	541
 #528	FN	--	E	538
@@ -73,15 +73,12 @@ work	Word	--	Terminal	532
 #537	FN	--	A	546
 #538	FN	--	A	541
 #539	FN	--	A	541
-#540	FN	--	H	547	LA	548
-#541	FN	--	H	547	LA	550
+#540	FN	--	H	547
+#541	FN	--	H	547
 #542	FN	--	E	544
 #543	FN	--	P	545
 #544	FN	--	P	546
-#545	FN	--	H	547	LA	548	LA	549
-#546	FN	--	H	547	LA	550	LA	549
+#545	FN	--	H	547
+#546	FN	--	H	547
 #547	FN	--	--	0
-#548	LKG	--	--	0
-#549	LKG	--	--	0
-#550	LKG	--	--	0
 #EOS 664002

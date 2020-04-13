@@ -40,17 +40,17 @@ of	Word	--	Terminal	531
 the	Word	--	Terminal	532
 magazine	Word	--	Terminal	533
 .	Punctuation	--	Terminal	534
-#500	FN	--	A	551
-#501	FN	--	P	551
+#500	FN	--	A	550
+#501	FN	--	P	550
 #502	FN	--	E	535
 #503	FN	--	C	535
 #504	FN	--	R	536
 #505	PNCT	--	U	536
 #506	FN	--	E	536
 #507	FN	--	C	536
-#508	PNCT	--	U	552
-#509	PNCT	--	U	552
-#510	FN	--	L	552	LR	553
+#508	PNCT	--	U	551
+#509	PNCT	--	U	551
+#510	FN	--	L	551
 #511	FN	--	C	537
 #512	FN	--	N	537
 #513	FN	--	C	537
@@ -65,8 +65,8 @@ magazine	Word	--	Terminal	533
 #522	PNCT	--	U	540
 #523	PNCT	--	U	524
 #524	FN	--	C	540
-#525	PNCT	--	U	552
-#526	FN	--	L	552	LR	550
+#525	PNCT	--	U	551
+#526	FN	--	L	551
 #527	FN	--	P	549
 #528	FN	--	C	548	A*	545
 #529	FN	--	F	541
@@ -76,7 +76,7 @@ magazine	Word	--	Terminal	533
 #533	FN	--	C	542
 #534	PNCT	--	U	542
 #535	FN	--	P	547
-#536	FN	--	A	551
+#536	FN	--	A	550
 #537	FN	--	C	543
 #538	FN	--	E	543
 #539	FN	--	E	540
@@ -84,14 +84,12 @@ magazine	Word	--	Terminal	533
 #541	FN	--	P	545
 #542	FN	--	A	545
 #543	FN	--	A	544	A*	549
-#544	FN	--	H	552	LA	550	LA	553
+#544	FN	--	H	551
 #545	FN	--	E	548
 #546	FN	--	A	547
-#547	FN	--	A	551
+#547	FN	--	A	550
 #548	FN	--	A	549
-#549	FN	--	H	552	LA	550	LA	553
-#550	LKG	--	--	0
-#551	FN	--	H	552	LA	553
-#552	FN	--	--	0
-#553	LKG	--	--	0
+#549	FN	--	H	551
+#550	FN	--	H	551
+#551	FN	--	--	0
 #EOS 637011

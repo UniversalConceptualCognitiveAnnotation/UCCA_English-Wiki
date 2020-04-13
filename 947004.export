@@ -16,37 +16,35 @@ for	Word	--	Terminal	513
 films	Word	--	Terminal	514
 such	Word	--	Terminal	515
 as	Word	--	Terminal	515
-Mr.	Word	--	Terminal	517
-&	Punctuation	--	Terminal	516
-Mrs.	Word	--	Terminal	517
-Smith	Word	--	Terminal	517
-.	Punctuation	--	Terminal	518
-#500	FN	--	R	519
-#501	FN	--	C	519
-#502	PNCT	--	U	524
-#503	FN	--	A	524	A*	525	A*	522
-#504	FN	--	D	524
-#505	FN	--	P	524
-#506	FN	--	R	522
-#507	FN	--	P	522
-#508	FN	--	E	520
-#509	FN	--	C	520
-#510	FN	--	L	526	LR	527
-#511	FN	--	D	525
-#512	FN	--	P	525
+Mr.	Word	--	Terminal	516
+&	Word	--	Terminal	516
+Mrs.	Word	--	Terminal	516
+Smith	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	R	518
+#501	FN	--	C	518
+#502	PNCT	--	U	522
+#503	FN	--	A	522	A*	524	A*	520
+#504	FN	--	D	522
+#505	FN	--	P	522
+#506	FN	--	R	520
+#507	FN	--	F	519
+#508	FN	--	A	520
+#509	FN	--	C	519
+#510	FN	--	L	525
+#511	FN	--	D	524
+#512	FN	--	P	524
 #513	FN	--	R	523
 #514	FN	--	C	523
 #515	FN	--	R	521
-#516	PNCT	--	U	517
-#517	FN	--	C	521
-#518	PNCT	--	U	521
-#519	FN	--	D	524
+#516	FN	--	C	521
+#517	PNCT	--	U	521
+#518	FN	--	T	522
+#519	FN	--	P	520
 #520	FN	--	A	522
 #521	FN	--	E	523
-#522	FN	--	A	524
-#523	FN	--	A	525
-#524	FN	--	H	526	LA	527
-#525	FN	--	H	526	LA	527
-#526	FN	--	--	0
-#527	LKG	--	--	0
+#522	FN	--	H	525
+#523	FN	--	A	524
+#524	FN	--	H	525
+#525	FN	--	--	0
 #EOS 947004

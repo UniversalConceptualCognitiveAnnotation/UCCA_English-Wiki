@@ -28,24 +28,24 @@ achieve	Word	--	Terminal	524
 that	Word	--	Terminal	525
 goal	Word	--	Terminal	526
 .	Punctuation	--	Terminal	527
-#500	FN	--	L	538	LR	534
+#500	FN	--	L	538
 #501	PNCT	--	U	502
 #502	FN	--	C	528
 #503	FN	--	R	528
 #504	FN	--	P	529
 #505	PNCT	--	U	538
-#506	FN	--	A	533
-#507	FN	--	F	533
-#508	FN	--	D	533
-#509	FN	--	F	533
-#510	FN	--	P	533
+#506	FN	--	A	534
+#507	FN	--	F	534
+#508	FN	--	D	534
+#509	FN	--	F	534
+#510	FN	--	P	534
 #511	FN	--	E	530
 #512	FN	--	C	530
 #513	FN	--	R	531
 #514	FN	--	E	531
 #515	FN	--	C	531
 #516	PNCT	--	U	538
-#517	FN	--	L	538	LR	539
+#517	FN	--	L	538
 #518	FN	--	A	537	A*	536
 #519	FN	--	F	537
 #520	FN	--	P	537
@@ -57,15 +57,14 @@ goal	Word	--	Terminal	526
 #526	FN	--	C	532
 #527	PNCT	--	U	532
 #528	FN	--	A	529
-#529	FN	--	H	538	LA	534
-#530	FN	--	A	533
-#531	FN	--	A	533
+#529	FN	--	H	538
+#530	FN	--	P	533
+#531	FN	--	A	534
 #532	FN	--	A	535
-#533	FN	--	H	538	LA	539	LA	534
-#534	LKG	--	--	0
+#533	FN	--	A	534
+#534	FN	--	H	538
 #535	FN	--	A	536
 #536	FN	--	A	537
-#537	FN	--	H	538	LA	539
+#537	FN	--	H	538
 #538	FN	--	--	0
-#539	LKG	--	--	0
 #EOS 468002

@@ -48,81 +48,77 @@ spends	Word	--	Terminal	542
 entire	Word	--	Terminal	543
 nights	Word	--	Terminal	544
 away	Word	--	Terminal	545
-from	Word	--	Terminal	546
-home	Word	--	Terminal	547
-.	Punctuation	--	Terminal	548
-"	Punctuation	--	Terminal	549
-#500	FN	--	A	571
-#501	FN	--	P	571
-#502	PNCT	--	U	571
-#503	PNCT	--	U	571
-#504	FN	--	A	559	A*	561	A*	550
+from	Word	--	Terminal	545
+home	Word	--	Terminal	546
+.	Punctuation	--	Terminal	547
+"	Punctuation	--	Terminal	548
+#500	FN	--	A	567
+#501	FN	--	P	567
+#502	PNCT	--	U	567
+#503	PNCT	--	U	567
+#504	FN	--	C	559	A*	558
 #505	PNCT	--	U	559
-#506	FN	--	A	559
-#507	PNCT	--	U	568
-#508	PNCT	--	U	568
-#509	FN	--	S	568
-#510	PNCT	--	U	568
-#511	FN	--	E	566
-#512	FN	--	E	551
-#513	FN	--	C	551
-#514	FN	--	C	552
-#515	FN	--	R	552
-#516	FN	--	C	566
+#506	FN	--	A	558
+#507	PNCT	--	U	566
+#508	PNCT	--	U	566
+#509	FN	--	F	566
+#510	PNCT	--	U	566
+#511	FN	--	F	566
+#512	FN	--	E	549
+#513	FN	--	C	549
+#514	FN	--	P	550
+#515	FN	--	R	550
+#516	FN	--	P	566
 #517	FN	--	R	565
 #518	FN	--	E	565
-#519	FN	--	E	553
-#520	PNCT	--	U	553
-#521	FN	--	C	553
-#522	FN	--	C	565	A*	564
+#519	FN	--	D	551
+#520	PNCT	--	U	551
+#521	FN	--	S	551
+#522	FN	--	C	565	A*	551	A*	561	A*	562	A*	552
 #523	FN	--	R	564
-#524	FN	--	P	564
+#524	FN	--	P	561
 #525	FN	--	R	560
 #526	FN	--	E	560
-#527	FN	--	C	560	A*	554
-#528	FN	--	F	554
-#529	FN	--	S	554
-#530	PNCT	--	U	569
-#531	FN	--	P	561
-#532	FN	--	C	555
-#533	FN	--	R	555
-#534	FN	--	E	556
-#535	FN	--	C	556
-#536	FN	--	L	569	LR	570
-#537	FN	--	D	550
-#538	FN	--	D	550
-#539	FN	--	S	550
-#540	FN	--	L	569	LR	567
+#527	FN	--	C	560	A*	553
+#528	FN	--	R	553
+#529	FN	--	S	553
+#530	PNCT	--	U	564
+#531	FN	--	P	562
+#532	FN	--	Q	554
+#533	FN	--	R	554
+#534	FN	--	E	554
+#535	FN	--	C	554
+#536	FN	--	L	564
+#537	FN	--	D	552
+#538	FN	--	D	552
+#539	FN	--	S	552
+#540	FN	--	L	564
 #541	FN	--	A	563
 #542	FN	--	P	563
-#543	FN	--	E	562
-#544	FN	--	C	562
-#545	FN	--	R	557
-#546	FN	--	E	557
-#547	FN	--	C	557
-#548	PNCT	--	U	557
-#549	PNCT	--	U	557
-#550	FN	--	H	569	LA	567	LA	570
-#551	FN	--	E	566
-#552	FN	--	E	566
-#553	FN	--	E	565
-#554	FN	--	E	560
-#555	FN	--	E	556
-#556	FN	--	A	561
-#557	FN	--	E	562
-#558	FN	--	P	559
-#559	FN	--	A	568
-#560	FN	--	A	564
-#561	FN	--	H	569	LA	570
-#562	FN	--	D	563
-#563	FN	--	H	569	LA	567
+#543	FN	--	Q	555
+#544	FN	--	C	555
+#545	FN	--	R	556
+#546	FN	--	C	556
+#547	PNCT	--	U	556
+#548	PNCT	--	U	556
+#549	FN	--	D	566
+#550	FN	--	A	566
+#551	FN	--	E	565
+#552	FN	--	H	564
+#553	FN	--	E	560
+#554	FN	--	A	562
+#555	FN	--	T	563
+#556	FN	--	A	563
+#557	FN	--	P	558
+#558	FN	--	E	559
+#559	FN	--	A	566
+#560	FN	--	A	561
+#561	FN	--	H	564
+#562	FN	--	H	564
+#563	FN	--	H	564
 #564	FN	--	E	565
-#565	FN	--	E	566
-#566	FN	--	A	568
-#567	LKG	--	--	0
-#568	FN	--	H	569	LA	570
-#569	FN	--	A	571
-#570	LKG	--	--	0
-#571	FN	--	H	572
-#572	FN	--	--	0
+#565	FN	--	A	566
+#566	FN	--	A	567
+#567	FN	--	H	568
+#568	FN	--	--	0
 #EOS 725012

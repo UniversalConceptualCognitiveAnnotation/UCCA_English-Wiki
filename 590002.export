@@ -18,18 +18,18 @@ was	Word	--	Terminal	515
 committed	Word	--	Terminal	516
 .	Punctuation	--	Terminal	517
 "	Punctuation	--	Terminal	518
-#500	FN	--	A	525
-#501	FN	--	D	525
-#502	FN	--	P	525
-#503	FN	--	F	523
+#500	FN	--	A	524
+#501	FN	--	T	524
+#502	FN	--	P	524
+#503	FN	--	R	523
 #504	PNCT	--	U	523
 #505	FN	--	R	519
-#506	FN	--	E	519
+#506	FN	--	Q	519
 #507	FN	--	C	519
 #508	FN	--	R	521
 #509	FN	--	P	521
 #510	FN	--	R	520
-#511	FN	--	E	520
+#511	FN	--	F	520
 #512	FN	--	C	520
 #513	PNCT	--	U	521
 #514	FN	--	A	522	A*	521
@@ -37,12 +37,11 @@ committed	Word	--	Terminal	516
 #516	FN	--	S	522
 #517	PNCT	--	U	522
 #518	PNCT	--	U	522
-#519	FN	--	L	523	LR	524
+#519	FN	--	T	521
 #520	FN	--	A	521
-#521	FN	--	H	523	LA	524
-#522	FN	--	H	523	LA	524
-#523	FN	--	A	525
-#524	LKG	--	--	0
-#525	FN	--	H	526
-#526	FN	--	--	0
+#521	FN	--	H	523
+#522	FN	--	H	523
+#523	FN	--	A	524
+#524	FN	--	H	525
+#525	FN	--	--	0
 #EOS 590002

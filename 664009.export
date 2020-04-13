@@ -59,12 +59,12 @@ to	Word	--	Terminal	554
 do	Word	--	Terminal	555
 .	Punctuation	--	Terminal	556
 "	Punctuation	--	Terminal	557
-#500	FN	--	L	574
-#501	PNCT	--	U	574
-#502	FN	--	A	573
-#503	FN	--	P	573
-#504	PNCT	--	U	573
-#505	PNCT	--	U	573
+#500	FN	--	L	573
+#501	PNCT	--	U	573
+#502	FN	--	A	572
+#503	FN	--	P	572
+#504	PNCT	--	U	572
+#505	PNCT	--	U	572
 #506	FN	--	A	567
 #507	FN	--	F	567
 #508	FN	--	D	567
@@ -85,9 +85,9 @@ do	Word	--	Terminal	555
 #523	FN	--	R	559
 #524	FN	--	E	559
 #525	FN	--	C	559
-#526	PNCT	--	U	572
-#527	PNCT	--	U	572
-#528	PNCT	--	U	572
+#526	PNCT	--	U	571
+#527	PNCT	--	U	571
+#528	PNCT	--	U	571
 #529	FN	--	F	560
 #530	FN	--	F	560
 #531	FN	--	D	560
@@ -95,21 +95,21 @@ do	Word	--	Terminal	555
 #533	FN	--	A	560	A*	568
 #534	FN	--	D	560
 #535	FN	--	S	560
-#536	FN	--	L	572	LR	569
+#536	FN	--	L	571
 #537	FN	--	S	568
 #538	FN	--	A	562
 #539	FN	--	F	561
 #540	FN	--	D	562
 #541	FN	--	E	561
 #542	FN	--	C	561
-#543	PNCT	--	U	572
-#544	FN	--	D	571
-#545	PNCT	--	U	571
+#543	PNCT	--	U	571
+#544	FN	--	D	570
+#545	PNCT	--	U	570
 #546	FN	--	E	563
 #547	FN	--	C	563
-#548	FN	--	F	571
-#549	FN	--	S	571
-#550	FN	--	P	570
+#548	FN	--	F	570
+#549	FN	--	S	570
+#550	FN	--	P	569
 #551	FN	--	A	564
 #552	FN	--	A	564
 #553	FN	--	D	564
@@ -119,19 +119,18 @@ do	Word	--	Terminal	555
 #557	PNCT	--	U	564
 #558	FN	--	D	566
 #559	FN	--	D	565
-#560	FN	--	H	572	LA	569
+#560	FN	--	H	571
 #561	FN	--	S	562
 #562	FN	--	A	568
-#563	FN	--	A	571
-#564	FN	--	A	570
+#563	FN	--	A	570
+#564	FN	--	A	569
 #565	FN	--	A	566
 #566	FN	--	A	567
-#567	FN	--	H	572
-#568	FN	--	H	572	LA	569
-#569	LKG	--	--	0
-#570	FN	--	A	571
-#571	FN	--	H	572
-#572	FN	--	A	573
-#573	FN	--	H	574
-#574	FN	--	--	0
+#567	FN	--	H	571
+#568	FN	--	H	571
+#569	FN	--	A	570
+#570	FN	--	H	571
+#571	FN	--	A	572
+#572	FN	--	H	573
+#573	FN	--	--	0
 #EOS 664009

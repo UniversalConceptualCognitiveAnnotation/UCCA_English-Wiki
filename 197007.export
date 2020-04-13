@@ -18,29 +18,26 @@ talents	Word	--	Terminal	511
 as	Word	--	Terminal	512
 producer	Word	--	Terminal	513
 .	Punctuation	--	Terminal	514
-#500	FN	--	L	523	LR	524
+#500	FN	--	L	521
 #501	FN	--	E	515
 #502	FN	--	C	515
-#503	PNCT	--	U	523
+#503	PNCT	--	U	521
 #504	FN	--	A	516
 #505	FN	--	P	516
-#506	PNCT	--	U	523
-#507	FN	--	L	523	LR	520
-#508	FN	--	A	519
-#509	FN	--	P	519
+#506	PNCT	--	U	521
+#507	FN	--	L	521
+#508	FN	--	A	520
+#509	FN	--	P	520
 #510	FN	--	E	517
 #511	FN	--	C	517
 #512	FN	--	R	518
-#513	FN	--	C	518
+#513	FN	--	A	518
 #514	PNCT	--	U	518
-#515	FN	--	P	522
-#516	FN	--	H	523	LA	520	LA	524
-#517	FN	--	A	519
-#518	FN	--	A	519
-#519	FN	--	H	523	LA	520
-#520	LKG	--	--	0
-#521	FN	--	A	522
-#522	FN	--	H	523	LA	524
-#523	FN	--	--	0
-#524	LKG	--	--	0
+#515	FN	--	P	519
+#516	FN	--	H	521
+#517	FN	--	A	520
+#518	FN	--	A	520
+#519	FN	--	H	521
+#520	FN	--	H	521
+#521	FN	--	--	0
 #EOS 197007

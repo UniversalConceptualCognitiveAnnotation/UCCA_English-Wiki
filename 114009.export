@@ -13,23 +13,22 @@ nine	Word	--	Terminal	510
 movies	Word	--	Terminal	511
 .	Punctuation	--	Terminal	512
 #500	FN	--	E	513
-#501	FN	--	E	513
-#502	PNCT	--	U	513
-#503	FN	--	C	513
-#504	FN	--	P	516
-#505	FN	--	E	514
+#501	FN	--	A	516
+#502	PNCT	--	U	516
+#503	FN	--	C	513	A*	517
+#504	FN	--	R	514
+#505	FN	--	Q	514
 #506	FN	--	C	514
 #507	PNCT	--	U	518
-#508	FN	--	L	518	LR	519
+#508	FN	--	L	518
 #509	FN	--	P	517
-#510	FN	--	E	515
+#510	FN	--	Q	515
 #511	FN	--	C	515
 #512	PNCT	--	U	515
-#513	FN	--	A	516	A*	517
-#514	FN	--	D	516
+#513	FN	--	P	516
+#514	FN	--	T	516
 #515	FN	--	A	517
-#516	FN	--	H	518	LA	519
-#517	FN	--	H	518	LA	519
+#516	FN	--	H	518
+#517	FN	--	H	518
 #518	FN	--	--	0
-#519	LKG	--	--	0
 #EOS 114009

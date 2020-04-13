@@ -21,7 +21,7 @@ Antony	Word	--	Terminal	517
 and	Word	--	Terminal	517
 Cleopatra	Word	--	Terminal	517
 .	Punctuation	--	Terminal	518
-#500	FN	--	A	524	A*	528
+#500	FN	--	A	524	A*	525	A*	526
 #501	FN	--	P	524
 #502	FN	--	R	519
 #503	FN	--	C	519
@@ -30,25 +30,23 @@ Cleopatra	Word	--	Terminal	517
 #506	FN	--	C	523
 #507	FN	--	R	520
 #508	FN	--	C	520
-#509	FN	--	F	528
-#510	FN	--	P	528
-#511	FN	--	C	525
+#509	FN	--	L	527
+#510	FN	--	P	525	P*	526
+#511	FN	--	A	525
 #512	FN	--	R	521
 #513	FN	--	C	521
-#514	FN	--	N	527
-#515	FN	--	C	526
+#514	FN	--	L	527
+#515	FN	--	A	526
 #516	FN	--	R	522
 #517	FN	--	C	522
 #518	PNCT	--	U	522
 #519	FN	--	A	524
-#520	FN	--	E	523
-#521	FN	--	E	525
-#522	FN	--	E	526
-#523	FN	--	D	524
-#524	FN	--	H	529
-#525	FN	--	C	527
-#526	FN	--	C	527
-#527	FN	--	A	528
-#528	FN	--	H	529
-#529	FN	--	--	0
+#520	FN	--	C	523
+#521	FN	--	A	525
+#522	FN	--	A	526
+#523	FN	--	T	524
+#524	FN	--	H	527
+#525	FN	--	H	527
+#526	FN	--	H	527
+#527	FN	--	--	0
 #EOS 139000

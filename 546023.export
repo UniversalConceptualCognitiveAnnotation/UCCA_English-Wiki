@@ -25,20 +25,20 @@ d	Word	--	Terminal	521
 '	Punctuation	--	Terminal	520
 Antibes	Word	--	Terminal	521
 .	Punctuation	--	Terminal	522
-#500	FN	--	L	531	LR	533
+#500	FN	--	L	531
 #501	FN	--	A	526
 #502	FN	--	P	526
 #503	FN	--	R	523
-#504	FN	--	E	523
-#505	FN	--	E	523
+#504	FN	--	C	523
+#505	FN	--	C	523
 #506	PNCT	--	U	523
 #507	FN	--	C	523
 #508	PNCT	--	U	531
 #509	FN	--	A	527	A*	530
 #510	FN	--	P	527
-#511	FN	--	E	524
+#511	FN	--	F	524
 #512	FN	--	C	524
-#513	FN	--	L	531	LR	532
+#513	FN	--	L	531
 #514	FN	--	P	530
 #515	FN	--	R	529
 #516	FN	--	A	528
@@ -48,15 +48,13 @@ Antibes	Word	--	Terminal	521
 #520	PNCT	--	U	521
 #521	FN	--	C	525
 #522	PNCT	--	U	525
-#523	FN	--	D	526
+#523	FN	--	T	526
 #524	FN	--	A	527
 #525	FN	--	A	528
-#526	FN	--	H	531	LA	533
-#527	FN	--	H	531	LA	532	LA	533
+#526	FN	--	H	531
+#527	FN	--	H	531
 #528	FN	--	C	529
 #529	FN	--	A	530
-#530	FN	--	H	531	LA	532	LA	533
+#530	FN	--	H	531
 #531	FN	--	--	0
-#532	LKG	--	--	0
-#533	LKG	--	--	0
 #EOS 546023

@@ -12,23 +12,24 @@ drug	Word	--	Terminal	509
 diversion	Word	--	Terminal	510
 program	Word	--	Terminal	511
 .	Punctuation	--	Terminal	512
-#500	FN	--	A	517	A*	516
-#501	FN	--	F	517
-#502	FN	--	P	517
-#503	FN	--	R	513
+#500	FN	--	A	518	A*	517
+#501	FN	--	F	518
+#502	FN	--	P	518
+#503	FN	--	R	516
 #504	FN	--	E	513
 #505	FN	--	C	513
-#506	FN	--	F	516
-#507	FN	--	P	516
+#506	FN	--	R	517
+#507	FN	--	P	517
 #508	FN	--	E	515
-#509	FN	--	C	514
-#510	FN	--	E	514
+#509	FN	--	A	514
+#510	FN	--	P	514
 #511	FN	--	C	515
 #512	PNCT	--	U	515
-#513	FN	--	A	517
+#513	FN	--	P	516
 #514	FN	--	E	515
-#515	FN	--	A	516
-#516	FN	--	A	517
-#517	FN	--	H	518
-#518	FN	--	--	0
+#515	FN	--	A	517
+#516	FN	--	A	518
+#517	FN	--	A	518
+#518	FN	--	H	519
+#519	FN	--	--	0
 #EOS 194001

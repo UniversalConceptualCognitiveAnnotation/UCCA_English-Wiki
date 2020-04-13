@@ -13,26 +13,25 @@ a	Word	--	Terminal	510
 core	Word	--	Terminal	511
 requirement	Word	--	Terminal	512
 .	Punctuation	--	Terminal	513
-#500	FN	--	L	520	LR	521
-#501	FN	--	A	516
+#500	FN	--	L	520
+#501	FN	--	A	517
 #502	FN	--	E	514
 #503	FN	--	C	514
 #504	FN	--	A	519
 #505	FN	--	P	519
 #506	FN	--	E	518
-#507	FN	--	C	518	A*	517
-#508	FN	--	F	517
-#509	FN	--	S	517
+#507	FN	--	C	518	A*	516
+#508	FN	--	R	516
+#509	FN	--	F	516
 #510	FN	--	E	515
-#511	FN	--	E	515
+#511	FN	--	D	516
 #512	FN	--	C	515
 #513	PNCT	--	U	515
-#514	FN	--	S	516
-#515	FN	--	A	517
-#516	FN	--	H	520	LA	521
-#517	FN	--	E	518
+#514	FN	--	S	517
+#515	FN	--	S	516
+#516	FN	--	E	518
+#517	FN	--	H	520
 #518	FN	--	A	519
-#519	FN	--	H	520	LA	521
+#519	FN	--	H	520
 #520	FN	--	--	0
-#521	LKG	--	--	0
 #EOS 187004

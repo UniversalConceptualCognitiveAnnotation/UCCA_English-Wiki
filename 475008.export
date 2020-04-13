@@ -21,33 +21,31 @@ mater	Word	--	Terminal	515
 Michigan	Word	--	Terminal	517
 State	Word	--	Terminal	517
 .	Punctuation	--	Terminal	518
-#500	FN	--	A	525	A*	526
-#501	PNCT	--	U	527
-#502	FN	--	L	527	LR	528
-#503	FN	--	E	524
-#504	FN	--	C	524
-#505	FN	--	R	519
-#506	FN	--	C	519
-#507	PNCT	--	U	527
-#508	FN	--	P	525
-#509	FN	--	R	520
-#510	FN	--	E	520
+#500	FN	--	A	522	A*	525
+#501	PNCT	--	U	526
+#502	FN	--	L	526
+#503	FN	--	F	525
+#504	FN	--	S	525
+#505	FN	--	R	524
+#506	FN	--	Q	524
+#507	PNCT	--	U	526
+#508	FN	--	P	522
+#509	FN	--	R	519
+#510	FN	--	F	519
 #511	PNCT	--	U	512
-#512	FN	--	C	520
-#513	FN	--	R	523
-#514	FN	--	E	521
-#515	FN	--	C	521
-#516	PNCT	--	U	522
-#517	FN	--	E	523	A*	522
-#518	PNCT	--	U	523
-#519	FN	--	E	524
-#520	FN	--	A	525
-#521	FN	--	S	522
-#522	FN	--	C	523
-#523	FN	--	A	525
-#524	FN	--	S	526
-#525	FN	--	H	527	LA	528
-#526	FN	--	H	527	LA	528
-#527	FN	--	--	0
-#528	LKG	--	--	0
+#512	FN	--	C	519
+#513	FN	--	R	521
+#514	FN	--	A	520
+#515	FN	--	S	520
+#516	PNCT	--	U	520
+#517	FN	--	C	521	A*	520
+#518	PNCT	--	U	521
+#519	FN	--	A	522
+#520	FN	--	E	521
+#521	FN	--	A	522
+#522	FN	--	H	526
+#523	FN	--	C	524
+#524	FN	--	D	525
+#525	FN	--	H	526
+#526	FN	--	--	0
 #EOS 475008

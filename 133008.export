@@ -14,10 +14,10 @@ contract	Word	--	Terminal	511
 with	Word	--	Terminal	512
 MGM	Word	--	Terminal	513
 .	Punctuation	--	Terminal	514
-#500	FN	--	L	522	LR	523
+#500	FN	--	L	522
 #501	FN	--	E	515
 #502	FN	--	C	515
-#503	FN	--	R	515
+#503	FN	--	R	516
 #504	FN	--	E	516
 #505	FN	--	C	516
 #506	PNCT	--	U	522
@@ -29,13 +29,12 @@ MGM	Word	--	Terminal	513
 #512	FN	--	R	518
 #513	FN	--	C	518
 #514	PNCT	--	U	518
-#515	FN	--	E	516
-#516	FN	--	P	521
+#515	FN	--	P	521
+#516	FN	--	A	521
 #517	FN	--	A	519
 #518	FN	--	A	519
-#519	FN	--	H	522	LA	523
+#519	FN	--	H	522
 #520	FN	--	A	521
-#521	FN	--	H	522	LA	523
+#521	FN	--	H	522
 #522	FN	--	--	0
-#523	LKG	--	--	0
 #EOS 133008

@@ -24,23 +24,23 @@ restrained	Word	--	Terminal	521
 by	Word	--	Terminal	522
 Nilsson	Word	--	Terminal	523
 .	Punctuation	--	Terminal	524
-#500	FN	--	L	537	LR	539
+#500	FN	--	L	536
 #501	FN	--	P	533
 #502	FN	--	R	525
 #503	FN	--	C	525
-#504	PNCT	--	U	537
-#505	FN	--	L	537	LR	538
-#506	FN	--	P	536
-#507	FN	--	C	535	A*	526
+#504	PNCT	--	U	536
+#505	FN	--	L	536
+#506	FN	--	P	535
+#507	FN	--	A	526
 #508	FN	--	A	526
 #509	FN	--	P	526
-#510	PNCT	--	U	537
+#510	PNCT	--	U	536
 #511	FN	--	A	527	A*	528	A*	531
 #512	FN	--	D	527
 #513	FN	--	F	527
 #514	FN	--	P	527
 #515	FN	--	A	527
-#516	PNCT	--	U	537
+#516	PNCT	--	U	536
 #517	FN	--	P	528
 #518	FN	--	E	529
 #519	FN	--	C	529
@@ -50,19 +50,15 @@ Nilsson	Word	--	Terminal	523
 #523	FN	--	C	530
 #524	PNCT	--	U	530
 #525	FN	--	A	533
-#526	FN	--	E	535
-#527	FN	--	H	537	LA	538	LA	539
-#528	FN	--	H	537	LA	540
-#529	FN	--	L	537	LR	540
+#526	FN	--	A	535
+#527	FN	--	H	536
+#528	FN	--	H	536
+#529	FN	--	L	536
 #530	FN	--	A	531
-#531	FN	--	H	537	LA	540
+#531	FN	--	H	536
 #532	FN	--	A	533
-#533	FN	--	H	537	LA	538	LA	539
-#534	FN	--	A	536
-#535	FN	--	A	536
-#536	FN	--	H	537	LA	538
-#537	FN	--	--	0
-#538	LKG	--	--	0
-#539	LKG	--	--	0
-#540	LKG	--	--	0
+#533	FN	--	H	536
+#534	FN	--	A	535
+#535	FN	--	H	536
+#536	FN	--	--	0
 #EOS 647010

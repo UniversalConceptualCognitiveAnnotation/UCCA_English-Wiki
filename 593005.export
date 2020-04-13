@@ -24,7 +24,7 @@ that	Word	--	Terminal	521
 has	Word	--	Terminal	522
 big	Word	--	Terminal	523
 teeth	Word	--	Terminal	524
--	Punctuation	--	Terminal	525
+—	Punctuation	--	Terminal	525
 that	Word	--	Terminal	526
 can	Word	--	Terminal	527
 bite	Word	--	Terminal	528
@@ -37,51 +37,56 @@ aggressive	Word	--	Terminal	533
 "	Punctuation	--	Terminal	535
 #500	FN	--	R	536
 #501	FN	--	C	536
-#502	PNCT	--	U	547
-#503	FN	--	A	547
-#504	FN	--	P	547
-#505	FN	--	C	537
-#506	FN	--	R	537
-#507	FN	--	C	538
+#502	PNCT	--	U	552
+#503	FN	--	A	552
+#504	FN	--	P	552
+#505	FN	--	A	537
+#506	FN	--	S	537
+#507	FN	--	C	538	A*	537
 #508	FN	--	E	538
-#509	PNCT	--	U	547
-#510	PNCT	--	U	547
-#511	FN	--	A	539	A*	545
-#512	FN	--	S	539
-#513	FN	--	A	539
-#514	PNCT	--	U	546
-#515	FN	--	F	545
-#516	FN	--	D	545
-#517	FN	--	S	545
-#518	FN	--	E	544
-#519	FN	--	E	544
-#520	FN	--	C	544	A*	543	A*	542
-#521	FN	--	R	543
-#522	FN	--	S	543
-#523	FN	--	E	540
-#524	FN	--	C	540
-#525	PNCT	--	U	544
-#526	FN	--	R	542
-#527	FN	--	F	541
-#528	FN	--	C	541
-#529	FN	--	N	541
-#530	FN	--	C	541
-#531	FN	--	A	542
-#532	PNCT	--	U	544
-#533	FN	--	E	544
-#534	PNCT	--	U	544
-#535	PNCT	--	U	544
-#536	FN	--	D	547
+#509	PNCT	--	U	552
+#510	PNCT	--	U	552
+#511	FN	--	A	539	A*	550
+#512	FN	--	F	539
+#513	FN	--	S	539
+#514	PNCT	--	U	551
+#515	FN	--	S	550
+#516	FN	--	C	549
+#517	FN	--	R	548
+#518	FN	--	E	548
+#519	FN	--	S	540
+#520	FN	--	C	548	A*	540	A*	547	A*	541	A*	542	A*	543
+#521	FN	--	R	547
+#522	FN	--	S	547
+#523	FN	--	S	544
+#524	FN	--	C	545	A*	544
+#525	PNCT	--	U	548
+#526	FN	--	R	542	R*	543
+#527	FN	--	D	542	D*	543
+#528	FN	--	P	542
+#529	FN	--	L	546
+#530	FN	--	P	543
+#531	FN	--	A	542	A*	543
+#532	PNCT	--	U	548
+#533	FN	--	S	541
+#534	PNCT	--	U	541
+#535	PNCT	--	U	541
+#536	FN	--	T	552
 #537	FN	--	E	538
-#538	FN	--	A	547
-#539	FN	--	H	546
-#540	FN	--	A	543
-#541	FN	--	P	542
-#542	FN	--	E	544
-#543	FN	--	E	544
-#544	FN	--	A	545
-#545	FN	--	H	546
-#546	FN	--	A	547
-#547	FN	--	H	548
-#548	FN	--	--	0
+#538	FN	--	A	552
+#539	FN	--	H	551
+#540	FN	--	E	548
+#541	FN	--	E	548
+#542	FN	--	H	546
+#543	FN	--	H	546
+#544	FN	--	E	545
+#545	FN	--	A	547
+#546	FN	--	E	548
+#547	FN	--	E	548
+#548	FN	--	E	549
+#549	FN	--	A	550
+#550	FN	--	H	551
+#551	FN	--	A	552
+#552	FN	--	H	553
+#553	FN	--	--	0
 #EOS 593005

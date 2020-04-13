@@ -11,7 +11,7 @@ scene	Word	--	Terminal	508
 .	Punctuation	--	Terminal	509
 #500	FN	--	A	510	A*	513
 #501	FN	--	P	510
-#502	FN	--	E	511
+#502	FN	--	Q	511
 #503	FN	--	C	511
 #504	FN	--	R	511
 #505	FN	--	P	513
@@ -19,10 +19,9 @@ scene	Word	--	Terminal	508
 #507	FN	--	E	512
 #508	FN	--	C	512
 #509	PNCT	--	U	512
-#510	FN	--	H	514	LA	515
-#511	FN	--	L	514	LR	515
+#510	FN	--	H	514
+#511	FN	--	L	514
 #512	FN	--	A	513
-#513	FN	--	H	514	LA	515
+#513	FN	--	H	514
 #514	FN	--	--	0
-#515	LKG	--	--	0
 #EOS 139011

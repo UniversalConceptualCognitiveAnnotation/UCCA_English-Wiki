@@ -31,7 +31,7 @@ came	Word	--	Terminal	528
 under	Word	--	Terminal	529
 criticism	Word	--	Terminal	530
 .	Punctuation	--	Terminal	531
-#500	FN	--	L	546	LR	548
+#500	FN	--	L	546
 #501	FN	--	P	532
 #502	FN	--	R	533
 #503	FN	--	E	533
@@ -52,7 +52,7 @@ criticism	Word	--	Terminal	530
 #518	FN	--	C	536	A*	532
 #519	FN	--	F	543
 #520	FN	--	S	543
-#521	FN	--	L	546	LR	549
+#521	FN	--	L	546
 #522	FN	--	E	544
 #523	FN	--	C	544
 #524	FN	--	R	538
@@ -63,8 +63,8 @@ criticism	Word	--	Terminal	530
 #529	FN	--	R	539
 #530	FN	--	C	539
 #531	PNCT	--	U	539
-#532	FN	--	H	546	LA	547	LA	548
-#533	FN	--	L	546	LR	547
+#532	FN	--	H	546
+#533	FN	--	L	546
 #534	FN	--	C	540
 #535	FN	--	A	541
 #536	FN	--	E	542
@@ -72,13 +72,10 @@ criticism	Word	--	Terminal	530
 #538	FN	--	E	544
 #539	FN	--	S	545
 #540	FN	--	A	541
-#541	FN	--	H	546	LA	547	LA	548
+#541	FN	--	H	546
 #542	FN	--	A	543
-#543	FN	--	H	546	LA	549	LA	548
+#543	FN	--	H	546
 #544	FN	--	A	545
-#545	FN	--	H	546	LA	549
+#545	FN	--	H	546
 #546	FN	--	--	0
-#547	LKG	--	--	0
-#548	LKG	--	--	0
-#549	LKG	--	--	0
 #EOS 669003

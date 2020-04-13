@@ -12,12 +12,12 @@ friendly	Word	--	Terminal	509
 relationship	Word	--	Terminal	510
 her	Word	--	Terminal	511
 .	Punctuation	--	Terminal	512
-#500	FN	--	A	518	A*	517
-#501	FN	--	P	518
+#500	FN	--	A	514	A*	517
+#501	FN	--	D	514
 #502	FN	--	C	513
 #503	FN	--	R	513
-#504	FN	--	C	514
-#505	FN	--	L	519	LR	520
+#504	FN	--	S	514
+#505	FN	--	L	518
 #506	FN	--	F	515
 #507	FN	--	E	516
 #508	FN	--	E	516
@@ -25,12 +25,10 @@ her	Word	--	Terminal	511
 #510	FN	--	C	515
 #511	FN	--	A	517
 #512	PNCT	--	U	517
-#513	FN	--	E	514
-#514	FN	--	A	518
-#515	FN	--	S	517
+#513	FN	--	A	514
+#514	FN	--	H	518
+#515	FN	--	P	517
 #516	FN	--	D	517
-#517	FN	--	H	519	LA	520
-#518	FN	--	H	519	LA	520
-#519	FN	--	--	0
-#520	LKG	--	--	0
+#517	FN	--	H	518
+#518	FN	--	--	0
 #EOS 948012

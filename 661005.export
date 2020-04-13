@@ -13,33 +13,28 @@ led	Word	--	Terminal	510
 to	Word	--	Terminal	511
 their	Word	--	Terminal	512
 parting	Word	--	Terminal	513
-of	Word	--	Terminal	514
-ways	Word	--	Terminal	515
-.	Punctuation	--	Terminal	516
-#500	FN	--	L	524
-#501	PNCT	--	U	524
-#502	FN	--	A	521
-#503	FN	--	D	521
-#504	FN	--	E	517
-#505	FN	--	C	517	A*	523
-#506	FN	--	R	518
-#507	FN	--	C	518
-#508	FN	--	L	524	LR	525
-#509	FN	--	D	523
-#510	FN	--	C	519
-#511	FN	--	R	519
-#512	FN	--	A	522
-#513	FN	--	C	520
-#514	FN	--	R	520
-#515	FN	--	E	520
-#516	PNCT	--	U	520
-#517	FN	--	P	521
-#518	FN	--	A	521
-#519	FN	--	P	523
-#520	FN	--	P	522
-#521	FN	--	H	524	LA	525
-#522	FN	--	A	523
-#523	FN	--	H	524	LA	525
-#524	FN	--	--	0
-#525	LKG	--	--	0
+of	Word	--	Terminal	513
+ways	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	L	520
+#501	PNCT	--	U	520
+#502	FN	--	A	519
+#503	FN	--	D	519
+#504	FN	--	F	515
+#505	FN	--	C	515	A*	518
+#506	FN	--	R	516
+#507	FN	--	C	516
+#508	FN	--	L	520
+#509	FN	--	D	518
+#510	FN	--	D	518
+#511	FN	--	R	517
+#512	FN	--	A	518
+#513	FN	--	C	517
+#514	PNCT	--	U	517
+#515	FN	--	P	519
+#516	FN	--	A	519
+#517	FN	--	P	518
+#518	FN	--	H	520
+#519	FN	--	H	520
+#520	FN	--	--	0
 #EOS 661005

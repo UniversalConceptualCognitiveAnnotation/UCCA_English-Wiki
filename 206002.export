@@ -22,40 +22,36 @@ in	Word	--	Terminal	519
 order	Word	--	Terminal	519
 to	Word	--	Terminal	519
 support	Word	--	Terminal	520
-himself	Word	--	Terminal	521
-.	Punctuation	--	Terminal	522
-#500	FN	--	R	523
-#501	FN	--	E	523
-#502	FN	--	E	523
-#503	FN	--	C	523
-#504	PNCT	--	U	531
-#505	FN	--	A	531	A*	524	A*	525	A*	526
-#506	FN	--	P	531
-#507	FN	--	E	528
-#508	FN	--	E	528
-#509	FN	--	E	527
-#510	FN	--	C	527
-#511	FN	--	C	528
-#512	PNCT	--	U	532
-#513	FN	--	L	532	LR	533
+himself	Word	--	Terminal	520
+.	Punctuation	--	Terminal	521
+#500	FN	--	R	522
+#501	FN	--	E	522
+#502	FN	--	C	522
+#503	FN	--	C	522
+#504	PNCT	--	U	528
+#505	FN	--	A	528	A*	524	A*	525	A*	526	A*	523
+#506	FN	--	P	528
+#507	FN	--	F	527
+#508	FN	--	D	523
+#509	FN	--	D	523
+#510	FN	--	A	523
+#511	FN	--	P	523
+#512	PNCT	--	U	529
+#513	FN	--	L	529
 #514	FN	--	D	524
 #515	FN	--	P	524
 #516	FN	--	D	524
-#517	FN	--	L	532	LR	529
+#517	FN	--	L	529
 #518	FN	--	P	525
-#519	FN	--	L	532	LR	530
+#519	FN	--	L	529
 #520	FN	--	P	526
-#521	FN	--	A	526
-#522	PNCT	--	U	526
-#523	FN	--	D	531
-#524	FN	--	H	532	LA	529	LA	533
-#525	FN	--	H	532	LA	530	LA	529
-#526	FN	--	H	532	LA	530
-#527	FN	--	E	528
-#528	FN	--	A	531
-#529	LKG	--	--	0
-#530	LKG	--	--	0
-#531	FN	--	H	532	LA	533
-#532	FN	--	--	0
-#533	LKG	--	--	0
+#521	PNCT	--	U	526
+#522	FN	--	T	528
+#523	FN	--	C	527
+#524	FN	--	H	529
+#525	FN	--	H	529
+#526	FN	--	H	529
+#527	FN	--	A	528
+#528	FN	--	H	529
+#529	FN	--	--	0
 #EOS 206002

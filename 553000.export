@@ -7,7 +7,7 @@ January	Word	--	Terminal	503
 8	Word	--	Terminal	503
 ,	Punctuation	--	Terminal	502
 1935	Word	--	Terminal	503
--	Punctuation	--	Terminal	504
+–	Punctuation	--	Terminal	504
 August	Word	--	Terminal	506
 16	Word	--	Terminal	506
 ,	Punctuation	--	Terminal	505
@@ -20,25 +20,27 @@ singer	Word	--	Terminal	511
 and	Word	--	Terminal	512
 actor	Word	--	Terminal	513
 .	Punctuation	--	Terminal	514
-#500	FN	--	C	517
-#501	PNCT	--	U	517
+#500	FN	--	C	519	A*	518
+#501	PNCT	--	U	519
 #502	PNCT	--	U	503
 #503	FN	--	C	515
 #504	PNCT	--	U	515
 #505	PNCT	--	U	506
 #506	FN	--	C	515
-#507	PNCT	--	U	519
-#508	FN	--	S	519
-#509	FN	--	E	518
-#510	FN	--	E	518
-#511	FN	--	C	516
-#512	FN	--	N	516
-#513	FN	--	C	516
-#514	PNCT	--	U	516
-#515	FN	--	E	517
-#516	FN	--	C	518
-#517	FN	--	A	519
-#518	FN	--	A	519
-#519	FN	--	H	520
-#520	FN	--	--	0
+#507	PNCT	--	U	520
+#508	FN	--	F	520
+#509	FN	--	F	520
+#510	FN	--	S	516
+#511	FN	--	P	520
+#512	FN	--	L	522
+#513	FN	--	P	521
+#514	PNCT	--	U	521
+#515	FN	--	T	518
+#516	FN	--	A	520	A*	521
+#517	FN	--	P	518
+#518	FN	--	E	519
+#519	FN	--	A	520	A*	521
+#520	FN	--	H	522
+#521	FN	--	H	522
+#522	FN	--	--	0
 #EOS 553000

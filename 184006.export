@@ -15,33 +15,32 @@ Hollywood	Word	--	Terminal	512
 for	Word	--	Terminal	513
 a	Word	--	Terminal	514
 screen	Word	--	Terminal	515
-test	Word	--	Terminal	516
-.	Punctuation	--	Terminal	517
-#500	FN	--	E	519
-#501	FN	--	E	518
-#502	FN	--	C	518
-#503	FN	--	E	519
-#504	FN	--	C	519	A*	524
-#505	FN	--	P	523
-#506	FN	--	A	520
-#507	FN	--	P	520
-#508	FN	--	L	525	LR	526
-#509	FN	--	P	524
-#510	FN	--	A	524
-#511	FN	--	R	521
-#512	FN	--	C	521
-#513	FN	--	R	522
-#514	FN	--	E	522
-#515	FN	--	E	522
-#516	FN	--	C	522
-#517	PNCT	--	U	522
-#518	FN	--	E	519
-#519	FN	--	A	523
-#520	FN	--	A	523
-#521	FN	--	A	524
-#522	FN	--	A	524
-#523	FN	--	H	525	LA	526
-#524	FN	--	H	525	LA	526
+test	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	F	518
+#501	FN	--	E	517
+#502	FN	--	C	517
+#503	FN	--	A	518
+#504	FN	--	A	518	A*	522
+#505	FN	--	P	521
+#506	FN	--	A	519
+#507	FN	--	P	519
+#508	FN	--	L	525
+#509	FN	--	P	522
+#510	FN	--	A	522	A*	524
+#511	FN	--	R	520
+#512	FN	--	C	520
+#513	FN	--	L	525
+#514	FN	--	F	524
+#515	FN	--	P	524
+#516	PNCT	--	U	524
+#517	FN	--	A	518
+#518	FN	--	A	521
+#519	FN	--	A	521
+#520	FN	--	A	522
+#521	FN	--	H	525
+#522	FN	--	H	525
+#523	FN	--	A	524
+#524	FN	--	H	525
 #525	FN	--	--	0
-#526	LKG	--	--	0
 #EOS 184006

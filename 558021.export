@@ -11,22 +11,25 @@ an	Word	--	Terminal	508
 enthusiastic	Word	--	Terminal	509
 response	Word	--	Terminal	510
 .	Punctuation	--	Terminal	511
-#500	FN	--	E	515
-#501	FN	--	E	514
-#502	FN	--	C	512
-#503	FN	--	N	512
-#504	FN	--	C	512
-#505	FN	--	E	515
-#506	FN	--	C	515
-#507	FN	--	P	516
+#500	FN	--	E	512
+#501	FN	--	D	516	D*	517
+#502	FN	--	S	516
+#503	FN	--	L	518
+#504	FN	--	S	517
+#505	FN	--	Q	512
+#506	FN	--	C	512
+#507	FN	--	D	519
 #508	FN	--	E	513
-#509	FN	--	E	513
+#509	FN	--	D	519
 #510	FN	--	C	513
 #511	PNCT	--	U	513
-#512	FN	--	C	514
-#513	FN	--	A	516
-#514	FN	--	E	515
-#515	FN	--	A	516
-#516	FN	--	H	517
-#517	FN	--	--	0
+#512	FN	--	A	516	A*	517
+#513	FN	--	P	519
+#514	FN	--	A	516
+#515	FN	--	A	517
+#516	FN	--	H	518
+#517	FN	--	H	518
+#518	FN	--	A	519
+#519	FN	--	H	520
+#520	FN	--	--	0
 #EOS 558021

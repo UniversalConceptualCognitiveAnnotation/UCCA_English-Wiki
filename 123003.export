@@ -14,27 +14,27 @@ suspicious	Word	--	Terminal	511
 of	Word	--	Terminal	512
 people	Word	--	Terminal	513
 .	Punctuation	--	Terminal	514
-#500	FN	--	E	515
-#501	FN	--	C	515
-#502	FN	--	F	520
-#503	FN	--	E	516
-#504	FN	--	E	516
-#505	FN	--	C	516
-#506	FN	--	C	519
-#507	PNCT	--	U	519
-#508	FN	--	C	519
-#509	PNCT	--	U	519
-#510	FN	--	N	519
-#511	FN	--	C	518
-#512	FN	--	R	517
-#513	FN	--	C	517
-#514	PNCT	--	U	517
-#515	FN	--	A	521
-#516	FN	--	A	521
-#517	FN	--	E	518
-#518	FN	--	C	519
-#519	FN	--	C	520
-#520	FN	--	P	521
+#500	FN	--	F	515
+#501	FN	--	P	515	A*	521
+#502	FN	--	D	518	D*	521	D*	519
+#503	FN	--	F	517
+#504	FN	--	S	516
+#505	FN	--	C	517	A*	521	A*	516
+#506	FN	--	S	518
+#507	PNCT	--	U	522
+#508	FN	--	S	519
+#509	PNCT	--	U	522
+#510	FN	--	L	522
+#511	FN	--	S	521
+#512	FN	--	R	520
+#513	FN	--	C	520
+#514	PNCT	--	U	520
+#515	FN	--	A	518	A*	519
+#516	FN	--	E	517
+#517	FN	--	A	518	A*	519
+#518	FN	--	H	522
+#519	FN	--	H	522
+#520	FN	--	A	521
 #521	FN	--	H	522
 #522	FN	--	--	0
 #EOS 123003

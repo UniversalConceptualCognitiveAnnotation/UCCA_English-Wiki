@@ -48,7 +48,7 @@ $	Word	--	Terminal	538
 50	Word	--	Terminal	538
 million	Word	--	Terminal	538
 .	Punctuation	--	Terminal	539
-#500	FN	--	L	553	LR	555
+#500	FN	--	L	553
 #501	FN	--	E	540
 #502	FN	--	E	540
 #503	FN	--	C	540
@@ -63,7 +63,7 @@ million	Word	--	Terminal	538
 #512	FN	--	E	542
 #513	FN	--	C	542
 #514	PNCT	--	U	553
-#515	FN	--	L	553	LR	554
+#515	FN	--	L	553
 #516	FN	--	E	543
 #517	FN	--	C	543
 #518	FN	--	R	543
@@ -96,12 +96,10 @@ million	Word	--	Terminal	538
 #545	FN	--	E	551
 #546	FN	--	E	551
 #547	FN	--	A	552
-#548	FN	--	H	553	LA	554
+#548	FN	--	H	553
 #549	FN	--	A	550
-#550	FN	--	H	553	LA	554	LA	555
+#550	FN	--	H	553
 #551	FN	--	A	552
-#552	FN	--	H	553	LA	555
+#552	FN	--	H	553
 #553	FN	--	--	0
-#554	LKG	--	--	0
-#555	LKG	--	--	0
 #EOS 668007

@@ -23,50 +23,49 @@ hand	Word	--	Terminal	520
 when	Word	--	Terminal	521
 he	Word	--	Terminal	522
 took	Word	--	Terminal	523
-a	Word	--	Terminal	523
-picture	Word	--	Terminal	523
-without	Word	--	Terminal	524
-asking	Word	--	Terminal	525
-.	Punctuation	--	Terminal	526
-#500	FN	--	A	535	A*	527
-#501	FN	--	D	535
-#502	FN	--	P	535
-#503	FN	--	R	528
-#504	FN	--	C	528
-#505	PNCT	--	U	537
-#506	FN	--	L	537	LR	539
-#507	FN	--	P	527
-#508	FN	--	A	527
-#509	PNCT	--	U	537
-#510	FN	--	L	537	LR	540
-#511	FN	--	D	536
-#512	FN	--	P	536
-#513	FN	--	E	529
-#514	FN	--	C	529
-#515	FN	--	R	531
-#516	FN	--	F	531
-#517	FN	--	E	531
-#518	FN	--	C	530
-#519	FN	--	R	530
-#520	FN	--	C	531
-#521	FN	--	L	537	LR	538
-#522	FN	--	A	533	A*	532
-#523	FN	--	P	533
-#524	FN	--	L	537	LR	534
-#525	FN	--	P	532
-#526	PNCT	--	U	532
-#527	FN	--	H	537	LA	538	LA	540	LA	539
-#528	FN	--	A	535
-#529	FN	--	A	536
-#530	FN	--	E	531
-#531	FN	--	A	536
-#532	FN	--	H	537	LA	534
-#533	FN	--	H	537	LA	534	LA	538
-#534	LKG	--	--	0
-#535	FN	--	H	537	LA	539
-#536	FN	--	H	537	LA	538	LA	540
-#537	FN	--	--	0
-#538	LKG	--	--	0
-#539	LKG	--	--	0
-#540	LKG	--	--	0
+a	Word	--	Terminal	524
+picture	Word	--	Terminal	525
+without	Word	--	Terminal	526
+asking	Word	--	Terminal	527
+.	Punctuation	--	Terminal	528
+#500	FN	--	A	536	A*	529	A*	537
+#501	FN	--	T	536
+#502	FN	--	P	536
+#503	FN	--	R	530
+#504	FN	--	C	530
+#505	PNCT	--	U	539
+#506	FN	--	L	539
+#507	FN	--	P	529
+#508	FN	--	A	529
+#509	PNCT	--	U	539
+#510	FN	--	L	539
+#511	FN	--	D	537
+#512	FN	--	P	537
+#513	FN	--	E	531
+#514	FN	--	C	531
+#515	FN	--	R	533
+#516	FN	--	F	533
+#517	FN	--	E	533
+#518	FN	--	C	532
+#519	FN	--	R	532
+#520	FN	--	C	533
+#521	FN	--	L	539
+#522	FN	--	A	538	A*	534
+#523	FN	--	F	535
+#524	FN	--	E	535
+#525	FN	--	C	535
+#526	FN	--	L	539	D*	534
+#527	FN	--	P	534
+#528	PNCT	--	U	534
+#529	FN	--	H	539
+#530	FN	--	A	536
+#531	FN	--	A	537
+#532	FN	--	E	533
+#533	FN	--	A	537
+#534	FN	--	H	539
+#535	FN	--	P	538
+#536	FN	--	H	539
+#537	FN	--	H	539
+#538	FN	--	H	539
+#539	FN	--	--	0
 #EOS 145005

@@ -19,32 +19,31 @@ re	Word	--	Terminal	514
 -	Punctuation	--	Terminal	515
 edited	Word	--	Terminal	516
 .	Punctuation	--	Terminal	517
-#500	FN	--	L	526	LR	527
+#500	FN	--	L	526	D*	521
 #501	FN	--	P	521
-#502	FN	--	E	519
+#502	FN	--	F	519
 #503	FN	--	C	518
 #504	FN	--	R	518
-#505	FN	--	C	519
-#506	PNCT	--	U	520
+#505	FN	--	P	519
+#506	PNCT	--	U	519
 #507	PNCT	--	U	508
-#508	FN	--	C	520
+#508	FN	--	C	520	A*	519
 #509	PNCT	--	U	521
 #510	FN	--	A	525	A*	521
 #511	FN	--	P	525
-#512	FN	--	E	522
+#512	FN	--	F	522
 #513	FN	--	C	522
-#514	FN	--	E	523
-#515	PNCT	--	U	523
-#516	FN	--	C	523
-#517	PNCT	--	U	523
-#518	FN	--	E	519
+#514	FN	--	D	524
+#515	PNCT	--	U	524
+#516	FN	--	P	524
+#517	PNCT	--	U	524
+#518	FN	--	A	519
 #519	FN	--	E	520
 #520	FN	--	A	521
-#521	FN	--	H	526	LA	527
+#521	FN	--	H	526
 #522	FN	--	A	524
-#523	FN	--	P	524
+#523	FN	--	A	524
 #524	FN	--	A	525
-#525	FN	--	H	526	LA	527
+#525	FN	--	H	526
 #526	FN	--	--	0
-#527	LKG	--	--	0
 #EOS 549004

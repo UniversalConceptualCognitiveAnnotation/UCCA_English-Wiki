@@ -17,29 +17,27 @@ she	Word	--	Terminal	513
 had	Word	--	Terminal	514
 begun	Word	--	Terminal	515
 .	Punctuation	--	Terminal	516
-#500	FN	--	L	523	LR	524
+#500	FN	--	L	522
 #501	FN	--	P	519
 #502	FN	--	R	517
 #503	FN	--	C	517
 #504	FN	--	R	518
 #505	FN	--	C	518
 #506	PNCT	--	U	519
-#507	FN	--	A	522	A*	519
-#508	FN	--	P	522
-#509	FN	--	E	521
-#510	FN	--	E	521
-#511	FN	--	C	521	A*	520
-#512	FN	--	F	520
-#513	FN	--	A	520
-#514	FN	--	F	520
-#515	FN	--	P	520
-#516	PNCT	--	U	520
+#507	FN	--	A	520	A*	519
+#508	FN	--	D	520
+#509	FN	--	F	520
+#510	FN	--	D	520	D*	521
+#511	FN	--	P	520	P*	521
+#512	FN	--	L	522
+#513	FN	--	A	521
+#514	FN	--	F	521
+#515	FN	--	D	521
+#516	PNCT	--	U	521
 #517	FN	--	A	519
-#518	FN	--	D	519
-#519	FN	--	H	523	LA	524
-#520	FN	--	E	521
-#521	FN	--	A	522
-#522	FN	--	H	523	LA	524
-#523	FN	--	--	0
-#524	LKG	--	--	0
+#518	FN	--	T	519
+#519	FN	--	H	522
+#520	FN	--	H	522
+#521	FN	--	H	522
+#522	FN	--	--	0
 #EOS 214004

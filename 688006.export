@@ -17,13 +17,13 @@ and	Word	--	Terminal	514
 literary	Word	--	Terminal	515
 influences	Word	--	Terminal	516
 .	Punctuation	--	Terminal	517
-#500	FN	--	C	518
-#501	FN	--	R	518
-#502	FN	--	C	519
-#503	FN	--	F	523
-#504	FN	--	P	523
-#505	FN	--	E	520
-#506	FN	--	C	520
+#500	FN	--	A	518
+#501	FN	--	S	518
+#502	FN	--	C	519	A*	518
+#503	FN	--	F	522
+#504	FN	--	D	522
+#505	FN	--	F	522
+#506	FN	--	D	522
 #507	FN	--	R	520
 #508	FN	--	C	521
 #509	PNCT	--	U	521
@@ -33,13 +33,12 @@ influences	Word	--	Terminal	516
 #513	PNCT	--	U	521
 #514	FN	--	N	521
 #515	FN	--	C	521
-#516	FN	--	C	522
-#517	PNCT	--	U	522
+#516	FN	--	C	520
+#517	PNCT	--	U	520
 #518	FN	--	E	519
-#519	FN	--	A	523
-#520	FN	--	E	522
-#521	FN	--	E	522
-#522	FN	--	A	523
-#523	FN	--	H	524
-#524	FN	--	--	0
+#519	FN	--	A	522
+#520	FN	--	S	522
+#521	FN	--	A	522
+#522	FN	--	H	523
+#523	FN	--	--	0
 #EOS 688006

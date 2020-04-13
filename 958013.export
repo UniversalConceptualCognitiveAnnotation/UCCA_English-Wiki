@@ -34,94 +34,86 @@ withstood	Word	--	Terminal	531
 the	Word	--	Terminal	532
 demands	Word	--	Terminal	533
 placed	Word	--	Terminal	534
-upon	Word	--	Terminal	535
-her	Word	--	Terminal	536
-,	Punctuation	--	Terminal	537
-with	Word	--	Terminal	538
-Olivier	Word	--	Terminal	539
-noting	Word	--	Terminal	540
-her	Word	--	Terminal	541
-ability	Word	--	Terminal	542
-to	Word	--	Terminal	543
-"	Punctuation	--	Terminal	544
-charm	Word	--	Terminal	545
-the	Word	--	Terminal	546
-press	Word	--	Terminal	547
-.	Punctuation	--	Terminal	548
-"	Punctuation	--	Terminal	549
-#500	FN	--	E	550
-#501	FN	--	C	550
-#502	FN	--	R	551
-#503	FN	--	E	552
-#504	FN	--	C	552
-#505	FN	--	C	551
-#506	FN	--	L	572	LR	569
-#507	PNCT	--	U	572
-#508	FN	--	L	572	LR	565
-#509	FN	--	A	554	A*	566
-#510	FN	--	F	554
-#511	FN	--	C	553
-#512	FN	--	R	553
-#513	FN	--	A	554
-#514	FN	--	L	572	LR	573
-#515	FN	--	P	566
-#516	FN	--	E	555
-#517	FN	--	C	555	A*	564
-#518	FN	--	F	564
-#519	FN	--	P	564
-#520	FN	--	A	564
-#521	FN	--	R	556
-#522	FN	--	E	556
-#523	FN	--	C	556
-#524	FN	--	L	572	LR	567
-#525	FN	--	A	557
-#526	FN	--	F	557
-#527	FN	--	S	557
-#528	PNCT	--	U	572
-#529	FN	--	A	563
-#530	FN	--	D	563
-#531	FN	--	P	563
-#532	FN	--	E	558
-#533	FN	--	C	558
-#534	FN	--	C	559
-#535	FN	--	R	559
-#536	FN	--	A	560
-#537	PNCT	--	U	572
-#538	FN	--	L	572	LR	574
-#539	FN	--	A	571
-#540	FN	--	P	571
-#541	FN	--	E	570
-#542	FN	--	C	570
-#543	FN	--	F	568
-#544	PNCT	--	U	568
-#545	FN	--	P	568
-#546	FN	--	E	561
-#547	FN	--	C	561
-#548	PNCT	--	U	561
-#549	PNCT	--	U	561
-#550	FN	--	A	562
-#551	FN	--	S	562
-#552	FN	--	D	562
-#553	FN	--	P	554
-#554	FN	--	H	572	LA	573	LA	565
-#555	FN	--	A	566
-#556	FN	--	D	564
-#557	FN	--	H	572	LA	567
-#558	FN	--	A	560
-#559	FN	--	P	560
-#560	FN	--	A	563
-#561	FN	--	A	568
-#562	FN	--	H	572	LA	569
-#563	FN	--	H	572	LA	574	LA	565	LA	569
-#564	FN	--	A	566
-#565	LKG	--	--	0
-#566	FN	--	H	572	LA	567	LA	573
-#567	LKG	--	--	0
-#568	FN	--	E	570
-#569	LKG	--	--	0
-#570	FN	--	A	571
-#571	FN	--	H	572	LA	574
-#572	FN	--	--	0
-#573	LKG	--	--	0
-#574	LKG	--	--	0
+upon	Word	--	Terminal	534
+her	Word	--	Terminal	535
+,	Punctuation	--	Terminal	536
+with	Word	--	Terminal	537
+Olivier	Word	--	Terminal	538
+noting	Word	--	Terminal	539
+her	Word	--	Terminal	540
+ability	Word	--	Terminal	541
+to	Word	--	Terminal	542
+"	Punctuation	--	Terminal	543
+charm	Word	--	Terminal	544
+the	Word	--	Terminal	545
+press	Word	--	Terminal	546
+.	Punctuation	--	Terminal	547
+"	Punctuation	--	Terminal	548
+#500	FN	--	E	549
+#501	FN	--	C	549
+#502	FN	--	F	558
+#503	FN	--	E	550
+#504	FN	--	E	550
+#505	FN	--	C	550
+#506	FN	--	L	566
+#507	PNCT	--	U	566
+#508	FN	--	L	566
+#509	FN	--	A	560	A*	562
+#510	FN	--	F	560
+#511	FN	--	D	560
+#512	FN	--	R	551
+#513	FN	--	C	551
+#514	FN	--	L	566
+#515	FN	--	P	562
+#516	FN	--	A	552
+#517	FN	--	A	552	A*	561
+#518	FN	--	F	561
+#519	FN	--	P	561
+#520	FN	--	A	561
+#521	FN	--	R	553
+#522	FN	--	E	553
+#523	FN	--	C	553
+#524	FN	--	L	566
+#525	FN	--	A	554
+#526	FN	--	F	554
+#527	FN	--	S	554
+#528	PNCT	--	U	566
+#529	FN	--	A	559
+#530	FN	--	D	559
+#531	FN	--	P	559
+#532	FN	--	E	555
+#533	FN	--	C	555
+#534	FN	--	D	556
+#535	FN	--	A	556
+#536	PNCT	--	U	566
+#537	FN	--	L	566
+#538	FN	--	A	565
+#539	FN	--	P	565
+#540	FN	--	E	564
+#541	FN	--	C	564	D*	563
+#542	FN	--	F	563
+#543	PNCT	--	U	563
+#544	FN	--	P	563
+#545	FN	--	E	557
+#546	FN	--	C	557
+#547	PNCT	--	U	557
+#548	PNCT	--	U	557
+#549	FN	--	P	558
+#550	FN	--	D	558
+#551	FN	--	P	560
+#552	FN	--	A	562
+#553	FN	--	T	561
+#554	FN	--	H	566
+#555	FN	--	P	556
+#556	FN	--	A	559
+#557	FN	--	A	563
+#558	FN	--	H	566
+#559	FN	--	H	566
+#560	FN	--	H	566
+#561	FN	--	A	562
+#562	FN	--	H	566
+#563	FN	--	E	564
+#564	FN	--	A	565
+#565	FN	--	H	566
+#566	FN	--	--	0
 #EOS 958013

@@ -40,7 +40,7 @@ live	Word	--	Terminal	536
 promotional	Word	--	Terminal	537
 outings	Word	--	Terminal	538
 .	Punctuation	--	Terminal	539
-#500	FN	--	L	556	LR	558
+#500	FN	--	L	556
 #501	FN	--	E	540
 #502	FN	--	C	540
 #503	FN	--	R	541
@@ -51,7 +51,7 @@ outings	Word	--	Terminal	538
 #508	FN	--	E	542
 #509	FN	--	E	542
 #510	FN	--	C	542
-#511	FN	--	L	556	LR	559
+#511	FN	--	L	556
 #512	FN	--	E	543
 #513	FN	--	C	543
 #514	FN	--	R	544
@@ -70,7 +70,7 @@ outings	Word	--	Terminal	538
 #527	FN	--	E	548
 #528	FN	--	C	548
 #529	PNCT	--	U	556
-#530	FN	--	L	556	LR	557
+#530	FN	--	L	556
 #531	FN	--	P	551
 #532	FN	--	E	549
 #533	FN	--	C	549
@@ -85,19 +85,16 @@ outings	Word	--	Terminal	538
 #542	FN	--	A	555
 #543	FN	--	P	545
 #544	FN	--	A	545
-#545	FN	--	H	556	LA	559	LA	558
-#546	FN	--	H	556	LA	559	LA	558
+#545	FN	--	H	556
+#546	FN	--	H	556
 #547	FN	--	E	553
 #548	FN	--	A	554
 #549	FN	--	A	551
 #550	FN	--	A	551
-#551	FN	--	H	556	LA	557
+#551	FN	--	H	556
 #552	FN	--	S	555
 #553	FN	--	A	554
-#554	FN	--	H	556	LA	557	LA	558
-#555	FN	--	H	556	LA	559	LA	558
+#554	FN	--	H	556
+#555	FN	--	H	556
 #556	FN	--	--	0
-#557	LKG	--	--	0
-#558	LKG	--	--	0
-#559	LKG	--	--	0
 #EOS 667006

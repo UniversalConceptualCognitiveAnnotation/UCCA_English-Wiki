@@ -26,10 +26,10 @@ accessory	Word	--	Terminal	522
 in	Word	--	Terminal	523
 1997	Word	--	Terminal	524
 .	Punctuation	--	Terminal	525
-#500	FN	--	L	536	LR	537
+#500	FN	--	L	536
 #501	FN	--	C	526
 #502	FN	--	R	526
-#503	FN	--	S	527
+#503	FN	--	P	527
 #504	PNCT	--	U	536
 #505	FN	--	A	534	A*	535
 #506	FN	--	P	534
@@ -37,15 +37,15 @@ in	Word	--	Terminal	523
 #508	FN	--	E	528
 #509	FN	--	C	528
 #510	FN	--	R	531
-#511	FN	--	C	529
-#512	FN	--	R	529
+#511	FN	--	Q	531
+#512	FN	--	R	531
 #513	FN	--	E	531
-#514	FN	--	C	530
-#515	FN	--	R	530
+#514	FN	--	P	529
+#515	FN	--	S	530
 #516	FN	--	E	531
-#517	FN	--	C	531
-#518	FN	--	L	536	LR	538
-#519	FN	--	D	535
+#517	FN	--	C	531	A*	530
+#518	FN	--	L	536
+#519	FN	--	T	535
 #520	FN	--	P	535
 #521	FN	--	E	532
 #522	FN	--	C	532
@@ -53,16 +53,14 @@ in	Word	--	Terminal	523
 #524	FN	--	C	533
 #525	PNCT	--	U	533
 #526	FN	--	A	527
-#527	FN	--	H	536	LA	537
+#527	FN	--	H	536
 #528	FN	--	A	534
-#529	FN	--	E	531
+#529	FN	--	A	530
 #530	FN	--	E	531
 #531	FN	--	A	534
 #532	FN	--	A	535
-#533	FN	--	D	535
-#534	FN	--	H	536	LA	538	LA	537
-#535	FN	--	H	536	LA	538
+#533	FN	--	T	535
+#534	FN	--	H	536
+#535	FN	--	H	536
 #536	FN	--	--	0
-#537	LKG	--	--	0
-#538	LKG	--	--	0
 #EOS 949010

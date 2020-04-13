@@ -14,28 +14,28 @@ to	Word	--	Terminal	511
 generate	Word	--	Terminal	512
 publicity	Word	--	Terminal	513
 .	Punctuation	--	Terminal	514
-#500	FN	--	E	515
-#501	FN	--	C	515
+#500	FN	--	Q	519
+#501	FN	--	A	515
 #502	FN	--	F	522
 #503	FN	--	P	522
-#504	FN	--	R	519
-#505	FN	--	A	519	A*	516
-#506	FN	--	P	519
-#507	FN	--	E	518
-#508	FN	--	C	518
-#509	FN	--	R	517
-#510	FN	--	C	517
-#511	FN	--	L	520	LR	521
-#512	FN	--	P	516
-#513	FN	--	A	516
+#504	FN	--	R	521
+#505	FN	--	A	520	A*	516
+#506	FN	--	D	520
+#507	FN	--	E	517
+#508	FN	--	C	517
+#509	FN	--	R	518
+#510	FN	--	P	518
+#511	FN	--	L	521
+#512	FN	--	D	516
+#513	FN	--	P	516
 #514	PNCT	--	U	516
-#515	FN	--	A	522
-#516	FN	--	H	520	LA	521
-#517	FN	--	E	518
-#518	FN	--	A	519
-#519	FN	--	H	520	LA	521
-#520	FN	--	A	522
-#521	LKG	--	--	0
+#515	FN	--	C	519
+#516	FN	--	H	521
+#517	FN	--	P	520
+#518	FN	--	A	520
+#519	FN	--	A	522
+#520	FN	--	H	521
+#521	FN	--	A	522
 #522	FN	--	H	523
 #523	FN	--	--	0
 #EOS 566006

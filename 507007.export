@@ -24,17 +24,17 @@ label	Word	--	Terminal	520
 .	Punctuation	--	Terminal	521
 #500	FN	--	E	522
 #501	FN	--	C	522
-#502	FN	--	R	522
+#502	FN	--	R	523
 #503	FN	--	E	523
 #504	FN	--	C	523
 #505	FN	--	D	524
 #506	FN	--	F	524
 #507	FN	--	P	524
 #508	PNCT	--	U	530
-#509	FN	--	L	530	LR	532
+#509	FN	--	L	530
 #510	FN	--	A	528	A*	529
 #511	PNCT	--	U	530
-#512	FN	--	L	530	LR	531
+#512	FN	--	L	530
 #513	FN	--	E	525
 #514	FN	--	C	525
 #515	FN	--	R	526
@@ -44,15 +44,13 @@ label	Word	--	Terminal	520
 #519	FN	--	E	527
 #520	FN	--	C	527
 #521	PNCT	--	U	527
-#522	FN	--	E	523
+#522	FN	--	Q	523
 #523	FN	--	A	524
-#524	FN	--	H	530	LA	532
+#524	FN	--	H	530
 #525	FN	--	P	529
 #526	FN	--	A	529
 #527	FN	--	A	528
-#528	FN	--	H	530	LA	531	LA	532
-#529	FN	--	H	530	LA	531
+#528	FN	--	H	530
+#529	FN	--	H	530
 #530	FN	--	--	0
-#531	LKG	--	--	0
-#532	LKG	--	--	0
 #EOS 507007

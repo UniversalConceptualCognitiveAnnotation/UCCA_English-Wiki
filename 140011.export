@@ -19,19 +19,19 @@ with	Word	--	Terminal	516
 the	Word	--	Terminal	517
 public	Word	--	Terminal	518
 .	Punctuation	--	Terminal	519
-#500	FN	--	C	524
-#501	FN	--	R	520
+#500	FN	--	P	525
+#501	FN	--	R	524
 #502	FN	--	E	520
 #503	FN	--	C	520
 #504	FN	--	F	525
-#505	FN	--	S	525
+#505	FN	--	D	525
 #506	PNCT	--	U	527
-#507	FN	--	L	527	LR	529
+#507	FN	--	L	527
 #508	FN	--	C	521
 #509	FN	--	E	521
 #510	FN	--	F	522
 #511	FN	--	P	522
-#512	FN	--	L	527	LR	528
+#512	FN	--	L	527
 #513	FN	--	A	526
 #514	FN	--	F	526
 #515	FN	--	S	526
@@ -39,14 +39,12 @@ public	Word	--	Terminal	518
 #517	FN	--	E	523
 #518	FN	--	C	523
 #519	PNCT	--	U	523
-#520	FN	--	E	524
+#520	FN	--	P	524
 #521	FN	--	A	522
-#522	FN	--	H	527	LA	528	LA	529
+#522	FN	--	H	527
 #523	FN	--	A	526
 #524	FN	--	A	525
-#525	FN	--	H	527	LA	528	LA	529
-#526	FN	--	H	527	LA	528
+#525	FN	--	H	527
+#526	FN	--	H	527
 #527	FN	--	--	0
-#528	LKG	--	--	0
-#529	LKG	--	--	0
 #EOS 140011

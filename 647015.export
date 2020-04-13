@@ -12,8 +12,8 @@ or	Word	--	Terminal	509
 call	Word	--	Terminal	510
 Pang	Word	--	Terminal	511
 .	Punctuation	--	Terminal	512
-#500	FN	--	L	519
-#501	FN	--	L	519	LR	520
+#500	FN	--	L	518
+#501	FN	--	L	518
 #502	FN	--	E	513
 #503	FN	--	C	513
 #504	FN	--	A	514	A*	515
@@ -21,16 +21,14 @@ Pang	Word	--	Terminal	511
 #506	FN	--	F	514
 #507	FN	--	P	514
 #508	FN	--	A	514
-#509	FN	--	L	519	LR	516
+#509	FN	--	L	518
 #510	FN	--	P	515
 #511	FN	--	A	515
 #512	PNCT	--	U	515
-#513	FN	--	P	518
-#514	FN	--	H	519	LA	516	LA	520
-#515	FN	--	H	519	LA	516	LA	520
-#516	LKG	--	--	0
-#517	FN	--	A	518
-#518	FN	--	H	519	LA	520
-#519	FN	--	--	0
-#520	LKG	--	--	0
+#513	FN	--	P	517
+#514	FN	--	H	518
+#515	FN	--	H	518
+#516	FN	--	A	517
+#517	FN	--	H	518
+#518	FN	--	--	0
 #EOS 647015

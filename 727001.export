@@ -22,44 +22,45 @@ more	Word	--	Terminal	516
 precipitously	Word	--	Terminal	517
 than	Word	--	Terminal	518
 Ms.	Word	--	Terminal	519
-Jolie	Word	--	Terminal	519
-'s	Word	--	Terminal	520
-neckline	Word	--	Terminal	521
-.	Punctuation	--	Terminal	522
-"	Punctuation	--	Terminal	523
-#500	FN	--	E	524
-#501	FN	--	C	524
+Jolie	Word	--	Terminal	520
+'s	Word	--	Terminal	521
+neckline	Word	--	Terminal	522
+.	Punctuation	--	Terminal	523
+"	Punctuation	--	Terminal	524
+#500	FN	--	E	525
+#501	FN	--	C	525
 #502	FN	--	F	526
-#503	FN	--	E	525
-#504	FN	--	C	525
+#503	FN	--	F	526
+#504	FN	--	D	526
 #505	FN	--	A	526
 #506	FN	--	S	526
-#507	PNCT	--	U	533
-#508	FN	--	L	533	LR	534
-#509	FN	--	A	532
-#510	FN	--	P	532
-#511	PNCT	--	U	532
-#512	PNCT	--	U	532
+#507	PNCT	--	U	535
+#508	FN	--	L	535
+#509	FN	--	A	534
+#510	FN	--	P	534
+#511	PNCT	--	U	534
+#512	PNCT	--	U	534
 #513	FN	--	E	527
 #514	FN	--	C	527
-#515	FN	--	P	531
+#515	FN	--	P	531	P*	532
 #516	FN	--	E	528
-#517	FN	--	C	528
-#518	FN	--	R	530
-#519	FN	--	C	529
-#520	FN	--	R	529
-#521	FN	--	C	530
-#522	PNCT	--	U	530
+#517	FN	--	C	528	D*	532
+#518	FN	--	L	533
+#519	FN	--	E	529
+#520	FN	--	C	529
+#521	FN	--	R	529
+#522	FN	--	C	530
 #523	PNCT	--	U	530
-#524	FN	--	A	526
-#525	FN	--	D	526
-#526	FN	--	H	533	LA	534
+#524	PNCT	--	U	530
+#525	FN	--	A	526
+#526	FN	--	H	535
 #527	FN	--	A	531
 #528	FN	--	D	531
 #529	FN	--	E	530
-#530	FN	--	A	531
-#531	FN	--	A	532
-#532	FN	--	H	533	LA	534
-#533	FN	--	--	0
-#534	LKG	--	--	0
+#530	FN	--	A	532
+#531	FN	--	H	533
+#532	FN	--	H	533
+#533	FN	--	A	534
+#534	FN	--	H	535
+#535	FN	--	--	0
 #EOS 727001

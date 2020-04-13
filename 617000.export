@@ -17,18 +17,18 @@ to	Word	--	Terminal	514
 read	Word	--	Terminal	515
 books	Word	--	Terminal	516
 .	Punctuation	--	Terminal	517
-#500	FN	--	L	524	LR	526
+#500	FN	--	L	524
 #501	FN	--	A	523
 #502	FN	--	F	523
 #503	FN	--	E	518
 #504	FN	--	C	518
 #505	PNCT	--	U	524
-#506	FN	--	E	519
-#507	FN	--	C	519
+#506	FN	--	A	519
+#507	FN	--	A	519	A*	522
 #508	FN	--	P	520
 #509	FN	--	A	520
 #510	FN	--	A	520
-#511	FN	--	L	524	LR	525
+#511	FN	--	L	524
 #512	FN	--	P	522
 #513	FN	--	A	522	A*	521
 #514	FN	--	F	521
@@ -36,12 +36,10 @@ books	Word	--	Terminal	516
 #516	FN	--	A	521
 #517	PNCT	--	U	521
 #518	FN	--	S	523
-#519	FN	--	A	520	A*	522
-#520	FN	--	H	524	LA	525	LA	526
+#519	FN	--	A	520
+#520	FN	--	H	524
 #521	FN	--	A	522
-#522	FN	--	H	524	LA	525	LA	526
-#523	FN	--	H	524	LA	526
+#522	FN	--	H	524
+#523	FN	--	H	524
 #524	FN	--	--	0
-#525	LKG	--	--	0
-#526	LKG	--	--	0
 #EOS 617000

@@ -15,8 +15,8 @@ actor	Word	--	Terminal	510
 sexual	Word	--	Terminal	512
 orientation	Word	--	Terminal	513
 .	Punctuation	--	Terminal	514
-#500	FN	--	L	521	LR	522
-#501	FN	--	E	515
+#500	FN	--	L	521
+#501	FN	--	F	515
 #502	FN	--	C	515
 #503	FN	--	R	516
 #504	FN	--	C	516
@@ -24,18 +24,17 @@ orientation	Word	--	Terminal	513
 #506	FN	--	A	520
 #507	FN	--	P	520
 #508	FN	--	R	518
-#509	FN	--	E	517
-#510	FN	--	C	517
+#509	FN	--	F	517
+#510	FN	--	A	517
 #511	FN	--	R	517
-#512	FN	--	E	518
-#513	FN	--	C	518
+#512	FN	--	A	518
+#513	FN	--	S	518
 #514	PNCT	--	U	518
 #515	FN	--	P	519
 #516	FN	--	A	519
-#517	FN	--	E	518
+#517	FN	--	A	518
 #518	FN	--	A	520
-#519	FN	--	H	521	LA	522
-#520	FN	--	H	521	LA	522
+#519	FN	--	H	521
+#520	FN	--	H	521
 #521	FN	--	--	0
-#522	LKG	--	--	0
 #EOS 380005

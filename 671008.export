@@ -17,7 +17,7 @@ sale	Word	--	Terminal	511
 #502	FN	--	F	514
 #503	FN	--	S	514
 #504	PNCT	--	U	517
-#505	FN	--	L	517	LR	518
+#505	FN	--	L	517
 #506	PNCT	--	U	517
 #507	FN	--	D	516
 #508	FN	--	A	516
@@ -26,9 +26,8 @@ sale	Word	--	Terminal	511
 #511	FN	--	C	515
 #512	PNCT	--	U	515
 #513	FN	--	A	514
-#514	FN	--	H	517	LA	518
+#514	FN	--	H	517
 #515	FN	--	P	516
-#516	FN	--	H	517	LA	518
+#516	FN	--	H	517
 #517	FN	--	--	0
-#518	LKG	--	--	0
 #EOS 671008

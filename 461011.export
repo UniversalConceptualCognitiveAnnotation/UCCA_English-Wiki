@@ -1,60 +1,22 @@
 #BOS 461011
-Jennings	Word	--	Terminal	500
-and	Word	--	Terminal	501
-ABC	Word	--	Terminal	502
-saw	Word	--	Terminal	503
-an	Word	--	Terminal	504
-opportunity	Word	--	Terminal	505
-to	Word	--	Terminal	506
-gain	Word	--	Terminal	507
-viewers	Word	--	Terminal	508
-,	Punctuation	--	Terminal	509
-and	Word	--	Terminal	510
-initiated	Word	--	Terminal	511
-a	Word	--	Terminal	512
-publicity	Word	--	Terminal	513
-blitz	Word	--	Terminal	514
-touting	Word	--	Terminal	515
-the	Word	--	Terminal	516
-anchor	Word	--	Terminal	517
-'s	Word	--	Terminal	518
-foreign	Word	--	Terminal	519
-reporting	Word	--	Terminal	520
-experience	Word	--	Terminal	521
-.	Punctuation	--	Terminal	522
-#500	FN	--	C	523	A*	532
-#501	FN	--	N	523
-#502	FN	--	C	523	A*	532
-#503	FN	--	P	531
-#504	FN	--	E	530
-#505	FN	--	C	530
-#506	FN	--	F	524
-#507	FN	--	P	524
-#508	FN	--	A	524
-#509	PNCT	--	U	533
-#510	FN	--	L	533	LR	534
-#511	FN	--	P	532
-#512	FN	--	E	525
-#513	FN	--	E	525
-#514	FN	--	C	525
-#515	FN	--	S	529
-#516	FN	--	E	528
-#517	FN	--	C	526
-#518	FN	--	R	526
-#519	FN	--	E	527
-#520	FN	--	C	527
-#521	FN	--	C	528
-#522	PNCT	--	U	528
-#523	FN	--	A	531
-#524	FN	--	E	530
-#525	FN	--	A	529
-#526	FN	--	E	528
-#527	FN	--	E	528
-#528	FN	--	A	529
-#529	FN	--	A	532
-#530	FN	--	A	531
-#531	FN	--	H	533	LA	534
-#532	FN	--	H	533	LA	534
-#533	FN	--	--	0
-#534	LKG	--	--	0
+For	Word	--	Terminal	500
+Jennings	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+the	Word	--	Terminal	503
+situation	Word	--	Terminal	504
+was	Word	--	Terminal	505
+agonizing	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+#500	FN	--	R	508
+#501	FN	--	C	508
+#502	PNCT	--	U	510
+#503	FN	--	E	509
+#504	FN	--	C	509
+#505	FN	--	F	510
+#506	FN	--	S	510
+#507	PNCT	--	U	510
+#508	FN	--	A	510
+#509	FN	--	A	510
+#510	FN	--	H	511
+#511	FN	--	--	0
 #EOS 461011

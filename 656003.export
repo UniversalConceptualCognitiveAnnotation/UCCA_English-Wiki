@@ -38,8 +38,8 @@ condition	Word	--	Terminal	535
 .	Punctuation	--	Terminal	536
 "	Punctuation	--	Terminal	537
 #500	FN	--	R	545
-#501	FN	--	E	545
-#502	FN	--	C	545
+#501	FN	--	A	545
+#502	FN	--	P	545
 #503	FN	--	C	538
 #504	FN	--	N	538
 #505	FN	--	C	538
@@ -60,7 +60,7 @@ condition	Word	--	Terminal	535
 #520	FN	--	E	542
 #521	FN	--	C	542
 #522	PNCT	--	U	547
-#523	FN	--	F	546
+#523	FN	--	R	546
 #524	PNCT	--	U	546
 #525	FN	--	P	546
 #526	FN	--	C	543
@@ -75,7 +75,7 @@ condition	Word	--	Terminal	535
 #535	FN	--	C	544
 #536	PNCT	--	U	544
 #537	PNCT	--	U	544
-#538	FN	--	E	545
+#538	FN	--	A	545
 #539	FN	--	A	541
 #540	FN	--	D	541
 #541	FN	--	A	548

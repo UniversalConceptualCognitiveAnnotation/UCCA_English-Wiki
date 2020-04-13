@@ -1,81 +1,70 @@
 #BOS 958004
 She	Word	--	Terminal	500
 fell	Word	--	Terminal	501
-into	Word	--	Terminal	502
-a	Word	--	Terminal	503
-deep	Word	--	Terminal	504
-depression	Word	--	Terminal	505
-that	Word	--	Terminal	506
-hit	Word	--	Terminal	507
-the	Word	--	Terminal	508
-low	Word	--	Terminal	509
-point	Word	--	Terminal	510
-when	Word	--	Terminal	511
-she	Word	--	Terminal	512
-turned	Word	--	Terminal	513
-on	Word	--	Terminal	514
-Olivier	Word	--	Terminal	515
-,	Punctuation	--	Terminal	516
-verbally	Word	--	Terminal	517
-and	Word	--	Terminal	518
-physically	Word	--	Terminal	519
-attacking	Word	--	Terminal	520
-him	Word	--	Terminal	521
-until	Word	--	Terminal	522
-she	Word	--	Terminal	523
-fell	Word	--	Terminal	524
-to	Word	--	Terminal	525
-the	Word	--	Terminal	526
-floor	Word	--	Terminal	527
-,	Punctuation	--	Terminal	528
-sobbing	Word	--	Terminal	529
-.	Punctuation	--	Terminal	530
-#500	FN	--	A	546
-#501	FN	--	C	531
-#502	FN	--	R	531
-#503	FN	--	E	545
-#504	FN	--	E	545
-#505	FN	--	C	545	A*	540
-#506	FN	--	R	540
-#507	FN	--	P	540
-#508	FN	--	E	532
-#509	FN	--	E	532
-#510	FN	--	C	532
-#511	FN	--	L	542	LR	543
-#512	FN	--	A	534	A*	536
-#513	FN	--	C	533
-#514	FN	--	R	533
-#515	FN	--	A	534
-#516	PNCT	--	U	542
-#517	FN	--	C	535
-#518	FN	--	N	535
-#519	FN	--	C	535
-#520	FN	--	P	536
-#521	FN	--	A	536
-#522	FN	--	L	542	LR	544
-#523	FN	--	A	541	A*	537
-#524	FN	--	C	538
-#525	FN	--	R	538
-#526	FN	--	E	539
-#527	FN	--	C	539
-#528	PNCT	--	U	542
-#529	FN	--	P	537
-#530	PNCT	--	U	537
-#531	FN	--	P	546
-#532	FN	--	A	540
-#533	FN	--	P	534
-#534	FN	--	H	542	LA	543
-#535	FN	--	D	536
-#536	FN	--	H	542	LA	544	LA	543
-#537	FN	--	H	542	LA	544
-#538	FN	--	P	541
-#539	FN	--	A	541
-#540	FN	--	H	542	LA	543
-#541	FN	--	H	542	LA	544
-#542	FN	--	E	545
-#543	LKG	--	--	0
-#544	LKG	--	--	0
-#545	FN	--	A	546
-#546	FN	--	H	547
-#547	FN	--	--	0
+into	Word	--	Terminal	501
+a	Word	--	Terminal	502
+deep	Word	--	Terminal	503
+depression	Word	--	Terminal	504
+that	Word	--	Terminal	505
+hit	Word	--	Terminal	506
+the	Word	--	Terminal	506
+low	Word	--	Terminal	506
+point	Word	--	Terminal	506
+when	Word	--	Terminal	507
+she	Word	--	Terminal	508
+turned	Word	--	Terminal	509
+on	Word	--	Terminal	510
+Olivier	Word	--	Terminal	511
+,	Punctuation	--	Terminal	512
+verbally	Word	--	Terminal	513
+and	Word	--	Terminal	514
+physically	Word	--	Terminal	515
+attacking	Word	--	Terminal	516
+him	Word	--	Terminal	517
+until	Word	--	Terminal	518
+she	Word	--	Terminal	519
+fell	Word	--	Terminal	520
+to	Word	--	Terminal	521
+the	Word	--	Terminal	522
+floor	Word	--	Terminal	523
+,	Punctuation	--	Terminal	524
+sobbing	Word	--	Terminal	525
+.	Punctuation	--	Terminal	526
+#500	FN	--	A	527
+#501	FN	--	D	527
+#502	FN	--	F	527
+#503	FN	--	D	527
+#504	FN	--	P	527	P*	528
+#505	FN	--	L	536
+#506	FN	--	D	528
+#507	FN	--	L	536
+#508	FN	--	A	534	A*	531
+#509	FN	--	P	534
+#510	FN	--	R	529
+#511	FN	--	C	529
+#512	PNCT	--	U	536
+#513	FN	--	C	530
+#514	FN	--	N	530
+#515	FN	--	C	530
+#516	FN	--	P	531
+#517	FN	--	A	531
+#518	FN	--	L	536
+#519	FN	--	A	535	A*	532
+#520	FN	--	P	535
+#521	FN	--	R	533
+#522	FN	--	E	533
+#523	FN	--	C	533
+#524	PNCT	--	U	536
+#525	FN	--	P	532
+#526	PNCT	--	U	532
+#527	FN	--	H	536
+#528	FN	--	H	536
+#529	FN	--	A	534
+#530	FN	--	A	531
+#531	FN	--	H	536
+#532	FN	--	H	536
+#533	FN	--	A	535
+#534	FN	--	H	536
+#535	FN	--	H	536
+#536	FN	--	--	0
 #EOS 958004

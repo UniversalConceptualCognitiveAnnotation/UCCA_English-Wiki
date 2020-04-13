@@ -38,23 +38,23 @@ a	Word	--	Terminal	534
 record	Word	--	Terminal	535
 .	Punctuation	--	Terminal	536
 "	Punctuation	--	Terminal	537
-#500	FN	--	L	554	LR	555
+#500	FN	--	L	553
 #501	FN	--	D	539
 #502	FN	--	P	539
 #503	FN	--	R	538
 #504	FN	--	E	538
 #505	FN	--	C	538
 #506	PNCT	--	U	539
-#507	FN	--	A	546	A*	539	A*	553
+#507	FN	--	A	546	A*	539	A*	552
 #508	FN	--	P	546
 #509	FN	--	A	545
 #510	FN	--	S	545
 #511	FN	--	R	540
 #512	FN	--	C	540
-#513	PNCT	--	U	554
-#514	FN	--	P	553
-#515	PNCT	--	U	553
-#516	PNCT	--	U	553
+#513	PNCT	--	U	553
+#514	FN	--	P	552
+#515	PNCT	--	U	552
+#516	PNCT	--	U	552
 #517	FN	--	A	548	A*	547
 #518	FN	--	F	548
 #519	FN	--	E	541
@@ -63,7 +63,7 @@ record	Word	--	Terminal	535
 #522	FN	--	F	547
 #523	FN	--	P	547
 #524	FN	--	A	542
-#525	FN	--	A	542	A*	550
+#525	FN	--	A	542	A*	550	A*	549
 #526	FN	--	P	542
 #527	PNCT	--	U	551
 #528	FN	--	F	543
@@ -77,21 +77,19 @@ record	Word	--	Terminal	535
 #536	PNCT	--	U	544
 #537	PNCT	--	U	544
 #538	FN	--	A	539
-#539	FN	--	H	554	LA	555
+#539	FN	--	H	553
 #540	FN	--	A	545
 #541	FN	--	S	548
 #542	FN	--	A	547
-#543	FN	--	L	551	LR	552
+#543	FN	--	L	551
 #544	FN	--	A	549
 #545	FN	--	A	546
-#546	FN	--	H	554	LA	555
+#546	FN	--	H	553
 #547	FN	--	A	548
-#548	FN	--	H	551	LA	552
+#548	FN	--	H	551
 #549	FN	--	A	550
-#550	FN	--	H	551	LA	552
-#551	FN	--	A	553
-#552	LKG	--	--	0
-#553	FN	--	H	554	LA	555
-#554	FN	--	--	0
-#555	LKG	--	--	0
+#550	FN	--	H	551
+#551	FN	--	A	552
+#552	FN	--	H	553
+#553	FN	--	--	0
 #EOS 637003

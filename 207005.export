@@ -1,47 +1,36 @@
 #BOS 207005
-He	Word	--	Terminal	500
-was	Word	--	Terminal	501
-confused	Word	--	Terminal	502
-about	Word	--	Terminal	503
-his	Word	--	Terminal	504
-future	Word	--	Terminal	505
-and	Word	--	Terminal	506
-about	Word	--	Terminal	507
-his	Word	--	Terminal	508
-place	Word	--	Terminal	509
-in	Word	--	Terminal	510
-the	Word	--	Terminal	511
-world	Word	--	Terminal	512
-,	Punctuation	--	Terminal	513
-as	Word	--	Terminal	514
-I	Word	--	Terminal	515
-am	Word	--	Terminal	516
-.	Punctuation	--	Terminal	517
-#500	FN	--	A	524
-#501	FN	--	F	524
-#502	FN	--	S	524	P*	518
-#503	FN	--	R	521
-#504	FN	--	A	519
-#505	FN	--	P	519
-#506	FN	--	N	523
-#507	FN	--	R	522
-#508	FN	--	E	522
-#509	FN	--	C	522
-#510	FN	--	R	520
-#511	FN	--	E	520
-#512	FN	--	C	520
-#513	PNCT	--	U	525
-#514	FN	--	L	525	LR	526
-#515	FN	--	A	518
-#516	FN	--	F	518
-#517	PNCT	--	U	518
-#518	FN	--	H	525	LA	526
-#519	FN	--	C	521
-#520	FN	--	E	522
-#521	FN	--	C	523
-#522	FN	--	C	523
-#523	FN	--	A	524
-#524	FN	--	H	525	LA	526
-#525	FN	--	--	0
-#526	LKG	--	--	0
+It	Word	--	Terminal	500
+'s	Word	--	Terminal	501
+a	Word	--	Terminal	502
+film	Word	--	Terminal	503
+one	Word	--	Terminal	504
+digs	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+rather	Word	--	Terminal	507
+than	Word	--	Terminal	508
+understands	Word	--	Terminal	509
+intellectually	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+"	Punctuation	--	Terminal	512
+:	Punctuation	--	Terminal	513
+#500	FN	--	A	518
+#501	FN	--	S	518
+#502	FN	--	F	517
+#503	FN	--	C	517	A*	515	A*	514
+#504	FN	--	A	514	A*	515
+#505	FN	--	P	514
+#506	PNCT	--	U	519
+#507	FN	--	C	516
+#508	FN	--	R	516
+#509	FN	--	P	515
+#510	FN	--	D	515
+#511	PNCT	--	U	515
+#512	PNCT	--	U	515
+#513	PNCT	--	U	515
+#514	FN	--	E	517
+#515	FN	--	H	519
+#516	FN	--	L	519
+#517	FN	--	A	518
+#518	FN	--	H	519
+#519	FN	--	--	0
 #EOS 207005

@@ -28,7 +28,7 @@ University	Word	--	Terminal	524
 in	Word	--	Terminal	525
 Beirut	Word	--	Terminal	526
 .	Punctuation	--	Terminal	527
-#500	FN	--	L	538	LR	539
+#500	FN	--	L	538
 #501	FN	--	P	529
 #502	FN	--	R	528
 #503	FN	--	E	528
@@ -37,35 +37,34 @@ Beirut	Word	--	Terminal	526
 #506	PNCT	--	U	529
 #507	FN	--	A	537	A*	529
 #508	FN	--	P	537
-#509	FN	--	E	530
-#510	FN	--	C	530
+#509	FN	--	A	530
+#510	FN	--	A	530
 #511	FN	--	C	536	A*	535
 #512	PNCT	--	U	536
 #513	FN	--	R	535
-#514	FN	--	S	535
-#515	FN	--	D	535
-#516	FN	--	E	534
-#517	FN	--	E	534
-#518	FN	--	C	534
-#519	FN	--	R	531
-#520	FN	--	C	531
-#521	FN	--	R	533
-#522	FN	--	E	533
-#523	FN	--	E	533
-#524	FN	--	C	533
-#525	FN	--	R	532
-#526	FN	--	C	532
-#527	PNCT	--	U	532
+#514	FN	--	F	535
+#515	FN	--	T	535
+#516	FN	--	E	531
+#517	FN	--	D	535
+#518	FN	--	C	531
+#519	FN	--	R	532
+#520	FN	--	C	532
+#521	FN	--	R	534
+#522	FN	--	E	534
+#523	FN	--	E	534
+#524	FN	--	C	534
+#525	FN	--	R	533
+#526	FN	--	C	533
+#527	PNCT	--	U	533
 #528	FN	--	A	529
-#529	FN	--	H	538	LA	539
+#529	FN	--	H	538
 #530	FN	--	E	536
-#531	FN	--	E	534
-#532	FN	--	E	533
+#531	FN	--	S	535
+#532	FN	--	A	535
 #533	FN	--	E	534
 #534	FN	--	A	535
 #535	FN	--	E	536
 #536	FN	--	A	537
-#537	FN	--	H	538	LA	539
+#537	FN	--	H	538
 #538	FN	--	--	0
-#539	LKG	--	--	0
 #EOS 452005

@@ -27,25 +27,25 @@ voter	Word	--	Terminal	523
 turnout	Word	--	Terminal	524
 .	Punctuation	--	Terminal	525
 "	Punctuation	--	Terminal	526
-#500	FN	--	A	536
-#501	FN	--	P	536
-#502	FN	--	F	532
-#503	FN	--	A	532
-#504	FN	--	F	532
-#505	PNCT	--	U	532
-#506	FN	--	D	532
-#507	FN	--	E	527
+#500	FN	--	A	535
+#501	FN	--	P	535
+#502	FN	--	R	534
+#503	FN	--	A	533
+#504	FN	--	S	533
+#505	PNCT	--	U	533
+#506	FN	--	D	533
+#507	FN	--	F	527
 #508	FN	--	C	527
-#509	PNCT	--	U	535
-#510	FN	--	L	535	LR	534
-#511	PNCT	--	U	535
-#512	FN	--	E	528
+#509	PNCT	--	U	534
+#510	FN	--	L	534
+#511	PNCT	--	U	534
+#512	FN	--	F	528
 #513	FN	--	C	528
-#514	FN	--	F	533
-#515	PNCT	--	U	533
+#514	FN	--	S	532
+#515	PNCT	--	U	532
 #516	FN	--	C	529
 #517	FN	--	R	529
-#518	FN	--	E	531
+#518	FN	--	F	531
 #519	FN	--	E	530
 #520	FN	--	E	531
 #521	FN	--	C	531
@@ -54,15 +54,14 @@ turnout	Word	--	Terminal	524
 #524	FN	--	C	530
 #525	PNCT	--	U	530
 #526	PNCT	--	U	530
-#527	FN	--	S	532
-#528	FN	--	A	533
-#529	FN	--	E	531
+#527	FN	--	A	533
+#528	FN	--	A	532
+#529	FN	--	Q	531
 #530	FN	--	E	531
-#531	FN	--	S	533
-#532	FN	--	H	535	LA	534
-#533	FN	--	H	535	LA	534
-#534	LKG	--	--	0
-#535	FN	--	A	536
-#536	FN	--	H	537
-#537	FN	--	--	0
+#531	FN	--	A	532
+#532	FN	--	H	534
+#533	FN	--	H	534
+#534	FN	--	A	535
+#535	FN	--	H	536
+#536	FN	--	--	0
 #EOS 221010

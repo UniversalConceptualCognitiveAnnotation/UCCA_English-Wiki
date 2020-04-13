@@ -12,11 +12,11 @@ techniques	Word	--	Terminal	509
 .	Punctuation	--	Terminal	510
 #500	FN	--	A	514	A*	515
 #501	FN	--	P	514
-#502	FN	--	C	511
-#503	FN	--	R	511
+#502	FN	--	A	511
+#503	FN	--	S	511
 #504	FN	--	E	512
-#505	FN	--	C	512
-#506	FN	--	L	516	LR	517
+#505	FN	--	C	512	A*	511
+#506	FN	--	L	516
 #507	FN	--	P	515
 #508	FN	--	E	513
 #509	FN	--	C	513
@@ -24,8 +24,7 @@ techniques	Word	--	Terminal	509
 #511	FN	--	E	512
 #512	FN	--	A	514
 #513	FN	--	A	515
-#514	FN	--	H	516	LA	517
-#515	FN	--	H	516	LA	517
+#514	FN	--	H	516
+#515	FN	--	H	516
 #516	FN	--	--	0
-#517	LKG	--	--	0
 #EOS 555005

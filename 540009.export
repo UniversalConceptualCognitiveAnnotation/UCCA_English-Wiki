@@ -32,20 +32,20 @@ head	Word	--	Terminal	527
 of	Word	--	Terminal	528
 production	Word	--	Terminal	529
 .	Punctuation	--	Terminal	530
-#500	FN	--	A	539
+#500	FN	--	A	539	A*	531
 #501	FN	--	P	539
-#502	FN	--	R	531
-#503	FN	--	C	531
+#502	FN	--	L	542
+#503	FN	--	S	531
 #504	FN	--	R	532
 #505	FN	--	C	532
 #506	PNCT	--	U	542
 #507	FN	--	E	533
 #508	FN	--	C	533
-#509	FN	--	E	534
+#509	FN	--	F	534
 #510	FN	--	C	534
 #511	FN	--	R	537
-#512	FN	--	E	536
-#513	FN	--	E	536
+#512	FN	--	F	536
+#513	FN	--	Q	536
 #514	FN	--	E	535
 #515	PNCT	--	U	535
 #516	FN	--	C	535
@@ -55,26 +55,24 @@ production	Word	--	Terminal	529
 #520	FN	--	C	537
 #521	PNCT	--	U	542
 #522	PNCT	--	U	542
-#523	FN	--	L	542	LR	544
+#523	FN	--	L	542
 #524	FN	--	A	541
-#525	FN	--	P	541
-#526	FN	--	E	538
-#527	FN	--	C	538
+#525	FN	--	D	541
+#526	FN	--	D	541
+#527	FN	--	P	541
 #528	FN	--	R	538
-#529	FN	--	E	538
+#529	FN	--	C	538
 #530	PNCT	--	U	538
-#531	FN	--	A	539
-#532	FN	--	D	539
-#533	FN	--	L	542	LR	543
+#531	FN	--	H	542
+#532	FN	--	T	539
+#533	FN	--	L	542
 #534	FN	--	P	540
 #535	FN	--	E	536
 #536	FN	--	E	537
 #537	FN	--	A	540
 #538	FN	--	A	541
-#539	FN	--	H	542	LA	544	LA	543
-#540	FN	--	H	542	LA	543
-#541	FN	--	H	542	LA	544
+#539	FN	--	H	542
+#540	FN	--	H	542
+#541	FN	--	H	542
 #542	FN	--	--	0
-#543	LKG	--	--	0
-#544	LKG	--	--	0
 #EOS 540009

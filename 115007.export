@@ -13,25 +13,23 @@ thereafter	Word	--	Terminal	510
 lived	Word	--	Terminal	511
 independently	Word	--	Terminal	512
 .	Punctuation	--	Terminal	513
-#500	FN	--	A	514	A*	518	A*	515
-#501	FN	--	P	514
-#502	FN	--	D	514
-#503	PNCT	--	U	519
-#504	FN	--	L	519	LR	520
-#505	FN	--	E	516
-#506	FN	--	E	516
-#507	FN	--	C	516
-#508	PNCT	--	U	519
-#509	FN	--	L	519	LR	517
-#510	FN	--	D	515
-#511	FN	--	P	515
-#512	FN	--	D	515
-#513	PNCT	--	U	515
-#514	FN	--	H	519	LA	517	LA	520
-#515	FN	--	H	519	LA	517
-#516	FN	--	S	518
-#517	LKG	--	--	0
-#518	FN	--	H	519	LA	520
-#519	FN	--	--	0
-#520	LKG	--	--	0
+#500	FN	--	A	517	A*	514
+#501	FN	--	P	517
+#502	FN	--	D	517
+#503	PNCT	--	U	517
+#504	FN	--	R	516
+#505	FN	--	E	515
+#506	FN	--	S	516
+#507	FN	--	C	515
+#508	PNCT	--	U	518
+#509	FN	--	L	518
+#510	FN	--	L	518
+#511	FN	--	P	514
+#512	FN	--	D	514
+#513	PNCT	--	U	514
+#514	FN	--	H	518
+#515	FN	--	A	516
+#516	FN	--	A	517
+#517	FN	--	H	518
+#518	FN	--	--	0
 #EOS 115007

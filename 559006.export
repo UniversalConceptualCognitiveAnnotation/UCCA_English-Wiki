@@ -7,22 +7,21 @@ know	Word	--	Terminal	504
 what	Word	--	Terminal	505
 to	Word	--	Terminal	506
 make	Word	--	Terminal	507
-of	Word	--	Terminal	508
-it	Word	--	Terminal	509
-.	Punctuation	--	Terminal	510
-#500	FN	--	A	513	A*	512
-#501	FN	--	D	513
-#502	FN	--	F	513
-#503	FN	--	D	513
-#504	FN	--	P	513
-#505	FN	--	A	512
-#506	FN	--	F	512
-#507	FN	--	P	512
-#508	FN	--	R	511
-#509	FN	--	C	511
-#510	PNCT	--	U	511
+of	Word	--	Terminal	507
+it	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	FN	--	A	512	A*	510
+#501	FN	--	D	512
+#502	FN	--	F	512
+#503	FN	--	D	512
+#504	FN	--	P	512
+#505	FN	--	C	511	A*	510
+#506	FN	--	F	510
+#507	FN	--	P	510
+#508	FN	--	A	510
+#509	PNCT	--	U	510
+#510	FN	--	E	511
 #511	FN	--	A	512
-#512	FN	--	A	513
-#513	FN	--	H	514
-#514	FN	--	--	0
+#512	FN	--	H	513
+#513	FN	--	--	0
 #EOS 559006

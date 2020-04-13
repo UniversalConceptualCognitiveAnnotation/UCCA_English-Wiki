@@ -31,7 +31,7 @@ States	Word	--	Terminal	519
 #507	FN	--	E	522
 #508	FN	--	C	522
 #509	PNCT	--	U	527
-#510	FN	--	L	527	LR	528
+#510	FN	--	L	527
 #511	FN	--	E	523
 #512	FN	--	R	523
 #513	FN	--	E	523
@@ -46,8 +46,7 @@ States	Word	--	Terminal	519
 #522	FN	--	A	525
 #523	FN	--	D	526
 #524	FN	--	A	526
-#525	FN	--	H	527	LA	528
-#526	FN	--	H	527	LA	528
+#525	FN	--	H	527
+#526	FN	--	H	527
 #527	FN	--	--	0
-#528	LKG	--	--	0
 #EOS 671019

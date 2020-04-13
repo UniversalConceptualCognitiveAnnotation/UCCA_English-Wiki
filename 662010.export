@@ -15,19 +15,19 @@ several	Word	--	Terminal	512
 career	Word	--	Terminal	513
 milestones	Word	--	Terminal	514
 .	Punctuation	--	Terminal	515
-#500	FN	--	L	522	LR	523
-#501	FN	--	E	516
+#500	FN	--	L	522
+#501	FN	--	F	516
 #502	FN	--	C	516
-#503	FN	--	R	516
-#504	FN	--	E	518
+#503	FN	--	R	518
+#504	FN	--	F	518
 #505	FN	--	C	517
 #506	FN	--	R	517
-#507	FN	--	E	518
+#507	FN	--	Q	518
 #508	FN	--	C	518
 #509	PNCT	--	U	522
 #510	FN	--	A	521
 #511	FN	--	P	521
-#512	FN	--	E	519
+#512	FN	--	Q	519
 #513	FN	--	E	519
 #514	FN	--	C	519
 #515	PNCT	--	U	519
@@ -35,8 +35,7 @@ milestones	Word	--	Terminal	514
 #517	FN	--	E	518
 #518	FN	--	A	520
 #519	FN	--	A	521
-#520	FN	--	H	522	LA	523
-#521	FN	--	H	522	LA	523
+#520	FN	--	H	522
+#521	FN	--	H	522
 #522	FN	--	--	0
-#523	LKG	--	--	0
 #EOS 662010

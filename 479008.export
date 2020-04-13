@@ -16,18 +16,18 @@ NBA	Word	--	Terminal	512
 from	Word	--	Terminal	513
 bankruptcy	Word	--	Terminal	514
 .	Punctuation	--	Terminal	515
-#500	FN	--	E	516
-#501	FN	--	C	516
-#502	FN	--	C	521
+#500	FN	--	A	516
+#501	FN	--	P	516
+#502	FN	--	C	521	A*	516
 #503	FN	--	R	517
 #504	FN	--	C	517
 #505	FN	--	P	523
-#506	FN	--	F	522
+#506	FN	--	R	522
 #507	FN	--	C	518
 #508	FN	--	N	518
 #509	FN	--	C	518
 #510	FN	--	P	522
-#511	FN	--	E	519
+#511	FN	--	F	519
 #512	FN	--	C	519	A*	520
 #513	FN	--	R	520
 #514	FN	--	P	520

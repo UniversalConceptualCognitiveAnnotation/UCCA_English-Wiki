@@ -4,78 +4,82 @@ he	Word	--	Terminal	501
 recorded	Word	--	Terminal	502
 ,	Punctuation	--	Terminal	503
 Sun	Word	--	Terminal	504
-boss	Word	--	Terminal	504
-Sam	Word	--	Terminal	505
-Phillips	Word	--	Terminal	505
-asked	Word	--	Terminal	506
-Keisker	Word	--	Terminal	507
-to	Word	--	Terminal	508
-note	Word	--	Terminal	509
-down	Word	--	Terminal	509
-the	Word	--	Terminal	510
-young	Word	--	Terminal	511
-man	Word	--	Terminal	512
-'s	Word	--	Terminal	513
-name	Word	--	Terminal	514
-,	Punctuation	--	Terminal	515
-which	Word	--	Terminal	516
-she	Word	--	Terminal	517
-did	Word	--	Terminal	518
-along	Word	--	Terminal	519
-with	Word	--	Terminal	519
-her	Word	--	Terminal	520
-own	Word	--	Terminal	521
-commentary	Word	--	Terminal	522
-:	Punctuation	--	Terminal	523
-"	Punctuation	--	Terminal	524
-Good	Word	--	Terminal	525
-ballad	Word	--	Terminal	526
-singer	Word	--	Terminal	527
-.	Punctuation	--	Terminal	528
-#500	FN	--	L	545	LR	537
-#501	FN	--	A	529
-#502	FN	--	P	529
-#503	PNCT	--	U	545
-#504	FN	--	E	530
-#505	FN	--	C	530
-#506	FN	--	P	531
-#507	FN	--	A	531	A*	536
-#508	FN	--	L	545	LR	538
-#509	FN	--	P	536
-#510	FN	--	E	533
-#511	FN	--	E	532
-#512	FN	--	C	532
-#513	FN	--	R	532
-#514	FN	--	C	533
-#515	PNCT	--	U	545
-#516	FN	--	L	545	LR	542
-#517	FN	--	A	540
-#518	FN	--	F	540
-#519	FN	--	L	545	LR	541
-#520	FN	--	E	534
-#521	FN	--	E	534
-#522	FN	--	C	534
-#523	PNCT	--	U	545
+boss	Word	--	Terminal	505
+Sam	Word	--	Terminal	506
+Phillips	Word	--	Terminal	506
+asked	Word	--	Terminal	507
+Keisker	Word	--	Terminal	508
+to	Word	--	Terminal	509
+note	Word	--	Terminal	510
+down	Word	--	Terminal	510
+the	Word	--	Terminal	511
+young	Word	--	Terminal	512
+man	Word	--	Terminal	513
+'s	Word	--	Terminal	514
+name	Word	--	Terminal	515
+,	Punctuation	--	Terminal	516
+which	Word	--	Terminal	517
+she	Word	--	Terminal	518
+did	Word	--	Terminal	519
+along	Word	--	Terminal	520
+with	Word	--	Terminal	520
+her	Word	--	Terminal	521
+own	Word	--	Terminal	522
+commentary	Word	--	Terminal	523
+:	Punctuation	--	Terminal	524
+"	Punctuation	--	Terminal	525
+Good	Word	--	Terminal	526
+ballad	Word	--	Terminal	527
+singer	Word	--	Terminal	528
+.	Punctuation	--	Terminal	529
+Hold	Word	--	Terminal	530
+.	Punctuation	--	Terminal	531
+"	Punctuation	--	Terminal	532
+#500	FN	--	L	546
+#501	FN	--	A	533
+#502	FN	--	P	533
+#503	PNCT	--	U	546
+#504	FN	--	A	534
+#505	FN	--	A	534
+#506	FN	--	C	535
+#507	FN	--	P	541
+#508	FN	--	A	541	A*	540
+#509	FN	--	F	540
+#510	FN	--	P	540	P*	536
+#511	FN	--	E	538
+#512	FN	--	E	537
+#513	FN	--	C	537
+#514	FN	--	R	537
+#515	FN	--	C	538	A*	536
+#516	PNCT	--	U	546
+#517	FN	--	L	546
+#518	FN	--	A	536
+#519	FN	--	F	536
+#520	FN	--	L	546
+#521	FN	--	A	545
+#522	FN	--	F	545
+#523	FN	--	P	545
 #524	PNCT	--	U	545
-#525	FN	--	E	535
-#526	FN	--	E	535
-#527	FN	--	C	535
-#528	PNCT	--	U	535
-#529	FN	--	H	545	LA	537
-#530	FN	--	A	531
-#531	FN	--	H	545	LA	538	LA	537
-#532	FN	--	E	533
-#533	FN	--	A	536
-#534	FN	--	H	545	LA	541	LA	542
-#535	FN	--	S	544
-#536	FN	--	H	545	LA	542	LA	538	LA	537
-#537	LKG	--	--	0
-#538	LKG	--	--	0
-#539	FN	--	P	540
-#540	FN	--	H	545	LA	541	LA	542
-#541	LKG	--	--	0
-#542	LKG	--	--	0
-#543	FN	--	A	544
-#544	FN	--	H	545
-#545	FN	--	--	0
+#525	PNCT	--	U	545
+#526	FN	--	D	539
+#527	FN	--	A	539
+#528	FN	--	A	539
+#529	PNCT	--	U	544
+#530	FN	--	P	543
+#531	PNCT	--	U	543
+#532	PNCT	--	U	543
+#533	FN	--	H	546
+#534	FN	--	E	535
+#535	FN	--	A	541
+#536	FN	--	H	546
+#537	FN	--	E	538
+#538	FN	--	A	540
+#539	FN	--	H	544
+#540	FN	--	A	541
+#541	FN	--	H	546
+#542	FN	--	A	543
+#543	FN	--	H	544
+#544	FN	--	A	545
+#545	FN	--	H	546
+#546	FN	--	--	0
 #EOS 557005

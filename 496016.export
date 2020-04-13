@@ -2,64 +2,63 @@
 Known	Word	--	Terminal	500
 as	Word	--	Terminal	501
 The	Word	--	Terminal	502
-Hype	Word	--	Terminal	503
-,	Punctuation	--	Terminal	504
-the	Word	--	Terminal	505
-band	Word	--	Terminal	506
-members	Word	--	Terminal	507
-created	Word	--	Terminal	508
-characters	Word	--	Terminal	509
-for	Word	--	Terminal	510
-themselves	Word	--	Terminal	511
-and	Word	--	Terminal	512
-wore	Word	--	Terminal	513
-elaborate	Word	--	Terminal	514
-costumes	Word	--	Terminal	515
-that	Word	--	Terminal	516
-prefigured	Word	--	Terminal	517
-the	Word	--	Terminal	518
-glam	Word	--	Terminal	519
-style	Word	--	Terminal	520
-of	Word	--	Terminal	521
-The	Word	--	Terminal	522
-Spiders	Word	--	Terminal	522
-From	Word	--	Terminal	522
-Mars	Word	--	Terminal	522
-.	Punctuation	--	Terminal	523
-#500	FN	--	P	526
-#501	FN	--	R	524
-#502	FN	--	E	524
-#503	FN	--	C	524
-#504	PNCT	--	U	534
-#505	FN	--	E	525
-#506	FN	--	E	525	A*	526
-#507	FN	--	C	525	A*	533
-#508	FN	--	P	529
-#509	FN	--	A	529
-#510	FN	--	R	527
-#511	FN	--	C	527
-#512	FN	--	L	534	LR	535
-#513	FN	--	P	533
-#514	FN	--	E	532
-#515	FN	--	C	532	A*	531
-#516	FN	--	F	531
-#517	FN	--	P	531
+Hype	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+the	Word	--	Terminal	504
+band	Word	--	Terminal	505
+members	Word	--	Terminal	506
+created	Word	--	Terminal	507
+characters	Word	--	Terminal	508
+for	Word	--	Terminal	509
+themselves	Word	--	Terminal	510
+and	Word	--	Terminal	511
+wore	Word	--	Terminal	512
+elaborate	Word	--	Terminal	513
+costumes	Word	--	Terminal	514
+that	Word	--	Terminal	515
+prefigured	Word	--	Terminal	516
+the	Word	--	Terminal	517
+glam	Word	--	Terminal	518
+style	Word	--	Terminal	519
+of	Word	--	Terminal	520
+The	Word	--	Terminal	521
+Spiders	Word	--	Terminal	521
+From	Word	--	Terminal	521
+Mars	Word	--	Terminal	521
+.	Punctuation	--	Terminal	522
+#500	FN	--	P	525
+#501	FN	--	R	523
+#502	FN	--	C	523
+#503	PNCT	--	U	534
+#504	FN	--	F	524
+#505	FN	--	A	524	A*	525
+#506	FN	--	S	524	A*	533
+#507	FN	--	P	529
+#508	FN	--	A	529
+#509	FN	--	R	526
+#510	FN	--	C	526
+#511	FN	--	L	534
+#512	FN	--	P	533
+#513	FN	--	S	527
+#514	FN	--	C	532	A*	527	A*	531
+#515	FN	--	R	531
+#516	FN	--	P	531
+#517	FN	--	E	530
 #518	FN	--	E	530
-#519	FN	--	E	530
-#520	FN	--	C	530
-#521	FN	--	R	528
-#522	FN	--	C	528
-#523	PNCT	--	U	528
-#524	FN	--	A	526
-#525	FN	--	A	529
-#526	FN	--	H	534
-#527	FN	--	A	529
+#519	FN	--	C	530
+#520	FN	--	R	528
+#521	FN	--	C	528
+#522	PNCT	--	U	528
+#523	FN	--	A	525
+#524	FN	--	A	529
+#525	FN	--	H	534
+#526	FN	--	A	529
+#527	FN	--	E	532
 #528	FN	--	E	530
-#529	FN	--	H	534	LA	535
+#529	FN	--	H	534
 #530	FN	--	A	531
 #531	FN	--	E	532
 #532	FN	--	A	533
-#533	FN	--	H	534	LA	535
+#533	FN	--	H	534
 #534	FN	--	--	0
-#535	LKG	--	--	0
 #EOS 496016

@@ -14,69 +14,67 @@ and	Word	--	Terminal	511
 unwilling	Word	--	Terminal	512
 to	Word	--	Terminal	513
 risk	Word	--	Terminal	514
-failure	Word	--	Terminal	514
-after	Word	--	Terminal	515
-the	Word	--	Terminal	516
-disaster	Word	--	Terminal	517
-of	Word	--	Terminal	518
-The	Word	--	Terminal	519
-Lake	Word	--	Terminal	519
-,	Punctuation	--	Terminal	520
-Hepburn	Word	--	Terminal	521
-decided	Word	--	Terminal	522
-against	Word	--	Terminal	523
-taking	Word	--	Terminal	524
-the	Word	--	Terminal	525
-show	Word	--	Terminal	526
-to	Word	--	Terminal	527
-Broadway	Word	--	Terminal	528
-.	Punctuation	--	Terminal	529
-#500	FN	--	A	538
-#501	FN	--	P	538
-#502	FN	--	E	530
-#503	FN	--	E	530
-#504	FN	--	C	530
+failure	Word	--	Terminal	515
+after	Word	--	Terminal	516
+the	Word	--	Terminal	517
+disaster	Word	--	Terminal	518
+of	Word	--	Terminal	519
+The	Word	--	Terminal	520
+Lake	Word	--	Terminal	520
+,	Punctuation	--	Terminal	521
+Hepburn	Word	--	Terminal	522
+decided	Word	--	Terminal	523
+against	Word	--	Terminal	524
+taking	Word	--	Terminal	525
+the	Word	--	Terminal	526
+show	Word	--	Terminal	527
+to	Word	--	Terminal	528
+Broadway	Word	--	Terminal	529
+.	Punctuation	--	Terminal	530
+#500	FN	--	A	532
+#501	FN	--	F	531
+#502	FN	--	F	531
+#503	FN	--	D	532
+#504	FN	--	C	531
 #505	PNCT	--	U	545
-#506	FN	--	L	545	LR	547
-#507	FN	--	P	535
-#508	FN	--	R	531
-#509	FN	--	E	531
-#510	FN	--	C	531
-#511	FN	--	L	545	LR	546
+#506	FN	--	L	545
+#507	FN	--	S	537
+#508	FN	--	R	533
+#509	FN	--	F	533
+#510	FN	--	C	533
+#511	FN	--	L	545
 #512	FN	--	P	543
-#513	FN	--	R	532
-#514	FN	--	P	532
-#515	FN	--	L	540	LR	542
-#516	FN	--	E	533
-#517	FN	--	C	533
-#518	FN	--	F	534
-#519	FN	--	C	534
-#520	PNCT	--	U	540
-#521	FN	--	A	544	A*	535	A*	543	A*	541	A*	532
-#522	FN	--	P	544
-#523	FN	--	D	544
-#524	FN	--	P	541
-#525	FN	--	E	536
-#526	FN	--	C	536
-#527	FN	--	R	537
-#528	FN	--	C	537
-#529	PNCT	--	U	537
-#530	FN	--	A	538
-#531	FN	--	A	535
-#532	FN	--	H	540	LA	542
-#533	FN	--	P	539
-#534	FN	--	A	539
-#535	FN	--	H	545	LA	546	LA	547
-#536	FN	--	A	541
-#537	FN	--	A	541
-#538	FN	--	H	545	LA	547
-#539	FN	--	H	540	LA	542
-#540	FN	--	A	543
-#541	FN	--	A	544
-#542	LKG	--	--	0
-#543	FN	--	H	545	LA	546	LA	547
-#544	FN	--	H	545	LA	547
+#513	FN	--	R	534
+#514	FN	--	D	534
+#515	FN	--	P	534
+#516	FN	--	L	541
+#517	FN	--	F	535
+#518	FN	--	C	535
+#519	FN	--	F	536
+#520	FN	--	C	536
+#521	PNCT	--	U	541
+#522	FN	--	A	544	A*	537	A*	543	A*	534
+#523	FN	--	P	544
+#524	FN	--	D	544
+#525	FN	--	P	542
+#526	FN	--	F	538
+#527	FN	--	C	538
+#528	FN	--	R	539
+#529	FN	--	C	539
+#530	PNCT	--	U	539
+#531	FN	--	P	532
+#532	FN	--	H	545
+#533	FN	--	A	537
+#534	FN	--	H	541
+#535	FN	--	S	540
+#536	FN	--	A	540
+#537	FN	--	H	545
+#538	FN	--	A	542
+#539	FN	--	A	542
+#540	FN	--	H	541
+#541	FN	--	A	543
+#542	FN	--	A	544
+#543	FN	--	H	545
+#544	FN	--	H	545
 #545	FN	--	--	0
-#546	LKG	--	--	0
-#547	LKG	--	--	0
 #EOS 130005

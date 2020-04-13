@@ -62,7 +62,7 @@ over	Word	--	Terminal	555
 the	Word	--	Terminal	556
 project	Word	--	Terminal	557
 .	Punctuation	--	Terminal	558
-#500	FN	--	L	580	LR	582
+#500	FN	--	L	580
 #501	FN	--	A	578
 #502	FN	--	P	578
 #503	FN	--	C	559
@@ -91,7 +91,7 @@ project	Word	--	Terminal	557
 #526	FN	--	C	565
 #527	FN	--	R	565
 #528	FN	--	A	566
-#529	FN	--	L	580	LR	581
+#529	FN	--	L	580
 #530	FN	--	P	575
 #531	FN	--	E	574
 #532	FN	--	C	567
@@ -128,7 +128,7 @@ project	Word	--	Terminal	557
 #563	FN	--	E	572
 #564	FN	--	E	572
 #565	FN	--	P	566
-#566	FN	--	H	580	LA	581	LA	582
+#566	FN	--	H	580
 #567	FN	--	E	574
 #568	FN	--	E	574
 #569	FN	--	E	574
@@ -137,12 +137,10 @@ project	Word	--	Terminal	557
 #572	FN	--	E	573
 #573	FN	--	C	577
 #574	FN	--	A	575
-#575	FN	--	H	580	LA	581
+#575	FN	--	H	580
 #576	FN	--	A	579
 #577	FN	--	A	578
-#578	FN	--	H	580	LA	582
+#578	FN	--	H	580
 #579	FN	--	H	580
 #580	FN	--	--	0
-#581	LKG	--	--	0
-#582	LKG	--	--	0
 #EOS 667000

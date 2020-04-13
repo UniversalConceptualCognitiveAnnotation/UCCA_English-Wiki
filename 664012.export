@@ -68,7 +68,7 @@ peers	Word	--	Terminal	546
 #514	FN	--	C	555
 #515	PNCT	--	U	567
 #516	PNCT	--	U	567
-#517	FN	--	L	567	LR	568
+#517	FN	--	L	567
 #518	FN	--	P	564
 #519	FN	--	A	564
 #520	FN	--	R	556
@@ -76,7 +76,7 @@ peers	Word	--	Terminal	546
 #522	PNCT	--	U	556
 #523	FN	--	E	556
 #524	FN	--	C	556
-#525	FN	--	L	567	LR	569
+#525	FN	--	L	567
 #526	FN	--	P	565
 #527	FN	--	F	561
 #528	FN	--	A	561
@@ -88,7 +88,7 @@ peers	Word	--	Terminal	546
 #534	FN	--	E	558
 #535	FN	--	C	558
 #536	PNCT	--	U	567
-#537	FN	--	L	567	LR	570
+#537	FN	--	L	567
 #538	FN	--	P	566
 #539	FN	--	A	566
 #540	FN	--	E	559
@@ -114,12 +114,9 @@ peers	Word	--	Terminal	546
 #560	FN	--	A	566
 #561	FN	--	A	565
 #562	FN	--	A	563
-#563	FN	--	H	567	LA	568
-#564	FN	--	H	567	LA	569	LA	568
-#565	FN	--	H	567	LA	570	LA	569
-#566	FN	--	H	567	LA	570
+#563	FN	--	H	567
+#564	FN	--	H	567
+#565	FN	--	H	567
+#566	FN	--	H	567
 #567	FN	--	--	0
-#568	LKG	--	--	0
-#569	LKG	--	--	0
-#570	LKG	--	--	0
 #EOS 664012

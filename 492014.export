@@ -13,21 +13,22 @@ in	Word	--	Terminal	508
 March	Word	--	Terminal	509
 2013	Word	--	Terminal	510
 .	Punctuation	--	Terminal	511
-#500	FN	--	C	512
-#501	FN	--	R	512
+#500	FN	--	A	512
+#501	FN	--	S	512
 #502	FN	--	E	513
 #503	FN	--	E	513
-#504	FN	--	C	513
-#505	FN	--	E	513
-#506	FN	--	F	515
-#507	FN	--	P	515
-#508	FN	--	R	514
-#509	FN	--	E	514
-#510	FN	--	C	514
-#511	PNCT	--	U	514
+#504	FN	--	C	513	A*	512
+#505	FN	--	C	514
+#506	FN	--	F	516
+#507	FN	--	P	516
+#508	FN	--	R	515
+#509	FN	--	C	515
+#510	FN	--	C	515
+#511	PNCT	--	U	515
 #512	FN	--	E	513
-#513	FN	--	A	515
-#514	FN	--	D	515
-#515	FN	--	H	516
-#516	FN	--	--	0
+#513	FN	--	E	514
+#514	FN	--	A	516
+#515	FN	--	T	516
+#516	FN	--	H	517
+#517	FN	--	--	0
 #EOS 492014

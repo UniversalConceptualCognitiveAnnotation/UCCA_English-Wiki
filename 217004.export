@@ -10,17 +10,16 @@ critical	Word	--	Terminal	506
 success	Word	--	Terminal	507
 .	Punctuation	--	Terminal	508
 #500	PNCT	--	U	501
-#501	FN	--	A	512
-#502	FN	--	F	512
-#503	FN	--	E	509
+#501	FN	--	A	511
+#502	FN	--	F	511
+#503	FN	--	F	509
 #504	FN	--	C	509
 #505	FN	--	N	510
 #506	FN	--	C	510
-#507	FN	--	C	511
+#507	FN	--	S	511
 #508	PNCT	--	U	511
 #509	FN	--	C	510
-#510	FN	--	E	511
-#511	FN	--	S	512
-#512	FN	--	H	513
-#513	FN	--	--	0
+#510	FN	--	D	511
+#511	FN	--	H	512
+#512	FN	--	--	0
 #EOS 217004

@@ -1,53 +1,34 @@
 #BOS 213005
-In	Word	--	Terminal	500
-2001	Word	--	Terminal	501
-,	Punctuation	--	Terminal	502
-Dunst	Word	--	Terminal	503
-made	Word	--	Terminal	504
-her	Word	--	Terminal	505
-singing	Word	--	Terminal	506
-debut	Word	--	Terminal	507
-in	Word	--	Terminal	508
-the	Word	--	Terminal	509
-film	Word	--	Terminal	510
-Get	Word	--	Terminal	511
-Over	Word	--	Terminal	511
-It	Word	--	Terminal	511
-,	Punctuation	--	Terminal	512
-in	Word	--	Terminal	513
-which	Word	--	Terminal	514
-she	Word	--	Terminal	515
-performed	Word	--	Terminal	516
-two	Word	--	Terminal	517
-songs	Word	--	Terminal	518
-.	Punctuation	--	Terminal	519
-#500	FN	--	R	520
-#501	FN	--	C	520
-#502	PNCT	--	U	525
-#503	FN	--	A	525
-#504	FN	--	F	521
-#505	FN	--	E	521
-#506	FN	--	E	521
-#507	FN	--	C	521
-#508	FN	--	R	522
-#509	FN	--	E	522
-#510	FN	--	E	522
-#511	FN	--	C	522
-#512	PNCT	--	U	527
-#513	FN	--	R	523
-#514	FN	--	C	523
-#515	FN	--	A	526
-#516	FN	--	P	526
-#517	FN	--	E	524
-#518	FN	--	C	524
-#519	PNCT	--	U	524
-#520	FN	--	D	525
-#521	FN	--	P	525
-#522	FN	--	A	525
-#523	FN	--	L	527	LR	528
-#524	FN	--	A	526
-#525	FN	--	H	527	LA	528
-#526	FN	--	H	527	LA	528
-#527	FN	--	--	0
-#528	LKG	--	--	0
+She	Word	--	Terminal	500
+has	Word	--	Terminal	501
+one	Word	--	Terminal	502
+younger	Word	--	Terminal	503
+brother	Word	--	Terminal	504
+named	Word	--	Terminal	505
+Christian	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+born	Word	--	Terminal	508
+in	Word	--	Terminal	509
+1986	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	A	518	A*	512
+#501	FN	--	S	518
+#502	FN	--	Q	517
+#503	FN	--	S	513
+#504	FN	--	A	512	A*	516
+#505	FN	--	S	514
+#506	FN	--	A	514
+#507	PNCT	--	U	517
+#508	FN	--	S	516
+#509	FN	--	R	515
+#510	FN	--	C	515
+#511	PNCT	--	U	515
+#512	FN	--	C	517	A*	513	A*	514
+#513	FN	--	E	517
+#514	FN	--	E	517
+#515	FN	--	T	516
+#516	FN	--	E	517
+#517	FN	--	A	518
+#518	FN	--	H	519
+#519	FN	--	--	0
 #EOS 213005

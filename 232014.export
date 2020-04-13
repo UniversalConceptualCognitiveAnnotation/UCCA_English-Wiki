@@ -23,7 +23,7 @@ their	Word	--	Terminal	518
 action	Word	--	Terminal	519
 choreography	Word	--	Terminal	520
 .	Punctuation	--	Terminal	521
-#500	FN	--	L	530	LR	531
+#500	FN	--	L	530
 #501	FN	--	D	528
 #502	FN	--	E	522
 #503	FN	--	C	522
@@ -31,16 +31,16 @@ choreography	Word	--	Terminal	520
 #505	FN	--	R	523
 #506	FN	--	C	523
 #507	PNCT	--	U	530
-#508	FN	--	C	524
-#509	FN	--	R	524
+#508	FN	--	A	524
+#509	FN	--	S	524
 #510	FN	--	E	525
-#511	FN	--	C	525
+#511	FN	--	C	525	A*	524
 #512	FN	--	F	529
 #513	FN	--	F	529
 #514	FN	--	P	529
-#515	FN	--	E	526
+#515	FN	--	R	526
 #516	FN	--	C	526
-#517	FN	--	F	526
+#517	FN	--	R	526
 #518	FN	--	E	527
 #519	FN	--	E	527
 #520	FN	--	C	527
@@ -51,8 +51,7 @@ choreography	Word	--	Terminal	520
 #525	FN	--	A	529
 #526	FN	--	R	527
 #527	FN	--	A	529
-#528	FN	--	H	530	LA	531
-#529	FN	--	H	530	LA	531
+#528	FN	--	H	530
+#529	FN	--	H	530
 #530	FN	--	--	0
-#531	LKG	--	--	0
 #EOS 232014

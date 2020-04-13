@@ -15,26 +15,28 @@ as	Word	--	Terminal	512
 the	Word	--	Terminal	513
 grounds	Word	--	Terminal	514
 .	Punctuation	--	Terminal	515
-#500	FN	--	A	519	A*	520
-#501	FN	--	D	519
-#502	FN	--	A	519
+#500	FN	--	A	520	A*	522	A*	516
+#501	FN	--	P	520
+#502	FN	--	A	520	A*	516
 #503	FN	--	R	516
-#504	FN	--	C	516
+#504	FN	--	P	516
 #505	FN	--	R	517
 #506	FN	--	C	517
-#507	PNCT	--	U	521
-#508	FN	--	P	520
-#509	PNCT	--	U	520
-#510	FN	--	A	520
-#511	PNCT	--	U	520
-#512	FN	--	R	518
-#513	FN	--	E	518
-#514	FN	--	C	518
-#515	PNCT	--	U	518
-#516	FN	--	P	519
-#517	FN	--	D	519
-#518	FN	--	A	520
-#519	FN	--	H	521
-#520	FN	--	H	521
-#521	FN	--	--	0
+#507	PNCT	--	U	523
+#508	FN	--	P	522
+#509	PNCT	--	U	522
+#510	FN	--	S	518
+#511	PNCT	--	U	521
+#512	FN	--	R	519
+#513	FN	--	F	519
+#514	FN	--	C	519
+#515	PNCT	--	U	519
+#516	FN	--	A	520
+#517	FN	--	T	520
+#518	FN	--	A	521
+#519	FN	--	S	521
+#520	FN	--	H	523
+#521	FN	--	A	522
+#522	FN	--	H	523
+#523	FN	--	--	0
 #EOS 531010

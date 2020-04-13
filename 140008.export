@@ -15,13 +15,13 @@ a	Word	--	Terminal	512
 theatrical	Word	--	Terminal	513
 musical	Word	--	Terminal	514
 .	Punctuation	--	Terminal	515
-#500	FN	--	A	524
-#501	FN	--	P	524
-#502	FN	--	F	523
-#503	FN	--	L	523	LR	522
+#500	FN	--	A	523
+#501	FN	--	P	523
+#502	FN	--	R	522
+#503	FN	--	L	522
 #504	FN	--	E	516
 #505	FN	--	C	516
-#506	PNCT	--	U	523
+#506	PNCT	--	U	522
 #507	FN	--	A	519
 #508	FN	--	F	519
 #509	FN	--	D	519
@@ -34,11 +34,10 @@ musical	Word	--	Terminal	514
 #516	FN	--	A	521
 #517	FN	--	P	519
 #518	FN	--	A	519
-#519	FN	--	H	523	LA	522
+#519	FN	--	H	522
 #520	FN	--	P	521
-#521	FN	--	H	523	LA	522
-#522	LKG	--	--	0
-#523	FN	--	A	524
-#524	FN	--	H	525
-#525	FN	--	--	0
+#521	FN	--	H	522
+#522	FN	--	A	523
+#523	FN	--	H	524
+#524	FN	--	--	0
 #EOS 140008

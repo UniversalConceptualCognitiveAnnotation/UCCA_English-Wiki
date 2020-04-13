@@ -29,12 +29,12 @@ Tour	Word	--	Terminal	522
 .	Punctuation	--	Terminal	523
 #500	FN	--	P	530
 #501	FN	--	R	529
-#502	FN	--	E	524
-#503	FN	--	C	524
+#502	FN	--	F	524
+#503	FN	--	P	524
 #504	PNCT	--	U	505
-#505	FN	--	C	529
+#505	FN	--	C	529	A*	524
 #506	FN	--	R	525
-#507	FN	--	C	525
+#507	FN	--	P	525
 #508	PNCT	--	U	533
 #509	FN	--	A	532
 #510	FN	--	F	532
@@ -45,7 +45,7 @@ Tour	Word	--	Terminal	522
 #515	FN	--	E	526
 #516	FN	--	C	526
 #517	FN	--	R	531
-#518	FN	--	A	527
+#518	FN	--	C	531	A*	527
 #519	FN	--	F	527
 #520	FN	--	F	527
 #521	FN	--	P	527
@@ -53,8 +53,8 @@ Tour	Word	--	Terminal	522
 #523	PNCT	--	U	527
 #524	FN	--	E	529
 #525	FN	--	E	529
-#526	FN	--	D	532
-#527	FN	--	C	531
+#526	FN	--	T	532
+#527	FN	--	E	531
 #528	FN	--	A	530
 #529	FN	--	A	530
 #530	FN	--	H	533

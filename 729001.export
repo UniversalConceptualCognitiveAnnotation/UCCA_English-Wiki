@@ -13,32 +13,33 @@ success	Word	--	Terminal	510
 ,	Punctuation	--	Terminal	511
 earning	Word	--	Terminal	512
 $	Word	--	Terminal	513
-342	Word	--	Terminal	513
-million	Word	--	Terminal	513
-worldwide	Word	--	Terminal	514
-.	Punctuation	--	Terminal	515
-#500	FN	--	E	516
-#501	FN	--	C	516	A*	520	A*	517
-#502	FN	--	P	521
-#503	FN	--	D	521
-#504	FN	--	E	518
-#505	FN	--	C	518
-#506	FN	--	L	522	LR	523
-#507	FN	--	D	520
-#508	FN	--	E	519
-#509	FN	--	C	519
-#510	FN	--	S	520
-#511	PNCT	--	U	522
-#512	FN	--	P	517
-#513	FN	--	A	517
-#514	FN	--	A	517
-#515	PNCT	--	U	517
-#516	FN	--	A	521
-#517	FN	--	H	522	LA	523
-#518	FN	--	A	521
-#519	FN	--	A	520
-#520	FN	--	H	522	LA	523
-#521	FN	--	H	522	LA	523
-#522	FN	--	--	0
-#523	LKG	--	--	0
+342	Word	--	Terminal	514
+million	Word	--	Terminal	514
+worldwide	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	E	517
+#501	FN	--	C	517	A*	518	A*	522
+#502	FN	--	P	523
+#503	FN	--	D	523
+#504	FN	--	S	519
+#505	FN	--	C	520	A*	519
+#506	FN	--	L	524
+#507	FN	--	D	518
+#508	FN	--	F	518
+#509	FN	--	A	518
+#510	FN	--	S	518
+#511	PNCT	--	U	524
+#512	FN	--	P	522
+#513	FN	--	C	521
+#514	FN	--	Q	521
+#515	FN	--	A	522
+#516	PNCT	--	U	522
+#517	FN	--	A	523
+#518	FN	--	H	524
+#519	FN	--	E	520
+#520	FN	--	A	523
+#521	FN	--	A	522
+#522	FN	--	H	524
+#523	FN	--	H	524
+#524	FN	--	--	0
 #EOS 729001

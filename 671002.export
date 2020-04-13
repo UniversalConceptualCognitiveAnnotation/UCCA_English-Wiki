@@ -51,7 +51,7 @@ director	Word	--	Terminal	534
 #508	PNCT	--	U	509
 #509	FN	--	C	538
 #510	PNCT	--	U	552
-#511	FN	--	L	552	LR	553
+#511	FN	--	L	552
 #512	FN	--	A	550
 #513	FN	--	S	550
 #514	FN	--	R	539
@@ -60,7 +60,7 @@ director	Word	--	Terminal	534
 #517	FN	--	C	540
 #518	FN	--	C	541
 #519	PNCT	--	U	552
-#520	FN	--	L	552	LR	554
+#520	FN	--	L	552
 #521	FN	--	P	551
 #522	FN	--	C	542
 #523	FN	--	R	542
@@ -89,10 +89,8 @@ director	Word	--	Terminal	534
 #546	FN	--	E	547
 #547	FN	--	A	551
 #548	FN	--	A	549
-#549	FN	--	H	552	LA	553
-#550	FN	--	H	552	LA	554	LA	553
-#551	FN	--	H	552	LA	554
+#549	FN	--	H	552
+#550	FN	--	H	552
+#551	FN	--	H	552
 #552	FN	--	--	0
-#553	LKG	--	--	0
-#554	LKG	--	--	0
 #EOS 671002

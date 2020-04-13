@@ -1,54 +1,21 @@
 #BOS 135009
-It	Word	--	Terminal	500
-opened	Word	--	Terminal	501
-at	Word	--	Terminal	502
-the	Word	--	Terminal	503
-Cort	Word	--	Terminal	504
-Theatre	Word	--	Terminal	505
-in	Word	--	Terminal	506
-New	Word	--	Terminal	507
-York	Word	--	Terminal	507
-to	Word	--	Terminal	508
-a	Word	--	Terminal	509
-capacity	Word	--	Terminal	510
-audience	Word	--	Terminal	511
-,	Punctuation	--	Terminal	512
-and	Word	--	Terminal	513
-was	Word	--	Terminal	514
-virtually	Word	--	Terminal	515
-sold	Word	--	Terminal	516
-out	Word	--	Terminal	516
-for	Word	--	Terminal	517
-148	Word	--	Terminal	518
-shows	Word	--	Terminal	519
-.	Punctuation	--	Terminal	520
-#500	FN	--	A	525	A*	526
-#501	FN	--	P	525
-#502	FN	--	R	524
-#503	FN	--	E	524
-#504	FN	--	E	524
-#505	FN	--	C	524
-#506	FN	--	R	521
-#507	FN	--	C	521
-#508	FN	--	R	522
-#509	FN	--	E	522
-#510	FN	--	E	522
-#511	FN	--	C	522
-#512	PNCT	--	U	527
-#513	FN	--	L	527	LR	528
-#514	FN	--	F	526
-#515	FN	--	D	526
-#516	FN	--	P	526
-#517	FN	--	R	523
-#518	FN	--	E	523
-#519	FN	--	C	523
-#520	PNCT	--	U	523
-#521	FN	--	E	524
-#522	FN	--	A	525
-#523	FN	--	A	526
-#524	FN	--	A	525
-#525	FN	--	H	527	LA	528
-#526	FN	--	H	527	LA	528
-#527	FN	--	--	0
-#528	LKG	--	--	0
+The	Word	--	Terminal	500
+production	Word	--	Terminal	501
+then	Word	--	Terminal	502
+went	Word	--	Terminal	503
+on	Word	--	Terminal	504
+tour	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+#500	FN	--	E	507
+#501	FN	--	C	507
+#502	FN	--	L	511
+#503	FN	--	D	510
+#504	FN	--	R	508
+#505	FN	--	C	508
+#506	PNCT	--	U	508
+#507	FN	--	P	509
+#508	FN	--	P	510
+#509	FN	--	A	510
+#510	FN	--	H	511
+#511	FN	--	--	0
 #EOS 135009

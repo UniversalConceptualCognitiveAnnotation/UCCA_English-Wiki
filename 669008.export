@@ -53,7 +53,7 @@ in	Word	--	Terminal	545
 China	Word	--	Terminal	546
 .	Punctuation	--	Terminal	547
 #500	PNCT	--	U	501
-#501	FN	--	L	565	LR	566
+#501	FN	--	L	565
 #502	FN	--	E	548
 #503	FN	--	C	548
 #504	FN	--	F	555
@@ -107,7 +107,7 @@ China	Word	--	Terminal	546
 #552	FN	--	E	557
 #553	FN	--	E	558
 #554	FN	--	E	559
-#555	FN	--	H	565	LA	566
+#555	FN	--	H	565
 #556	FN	--	E	560
 #557	FN	--	C	561
 #558	FN	--	C	561
@@ -115,8 +115,7 @@ China	Word	--	Terminal	546
 #560	FN	--	A	563
 #561	FN	--	E	562
 #562	FN	--	A	564
-#563	FN	--	H	565	LA	566
-#564	FN	--	H	565	LA	566
+#563	FN	--	H	565
+#564	FN	--	H	565
 #565	FN	--	--	0
-#566	LKG	--	--	0
 #EOS 669008

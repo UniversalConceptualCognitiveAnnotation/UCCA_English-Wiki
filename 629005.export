@@ -8,18 +8,17 @@ after	Word	--	Terminal	505
 its	Word	--	Terminal	506
 release	Word	--	Terminal	507
 .	Punctuation	--	Terminal	508
-#500	FN	--	A	511
-#501	FN	--	F	511
-#502	FN	--	P	511
-#503	FN	--	E	509
-#504	FN	--	C	509
-#505	FN	--	L	512	LR	513
-#506	FN	--	A	510
-#507	FN	--	P	510
-#508	PNCT	--	U	510
-#509	FN	--	D	511
-#510	FN	--	H	512	LA	513
-#511	FN	--	H	512	LA	513
+#500	FN	--	A	509
+#501	FN	--	F	509
+#502	FN	--	P	509
+#503	FN	--	Q	510
+#504	FN	--	C	510
+#505	FN	--	R	510
+#506	FN	--	A	511
+#507	FN	--	P	511
+#508	PNCT	--	U	511
+#509	FN	--	H	512
+#510	FN	--	L	512
+#511	FN	--	H	512
 #512	FN	--	--	0
-#513	LKG	--	--	0
 #EOS 629005

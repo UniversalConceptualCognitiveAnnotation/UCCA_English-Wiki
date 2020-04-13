@@ -9,7 +9,7 @@ broadly	Word	--	Terminal	505
 negative	Word	--	Terminal	506
 reviews	Word	--	Terminal	507
 .	Punctuation	--	Terminal	508
-#500	FN	--	L	513	LR	514
+#500	FN	--	L	513
 #501	FN	--	P	509
 #502	PNCT	--	U	509
 #503	FN	--	A	512	A*	509
@@ -18,10 +18,9 @@ reviews	Word	--	Terminal	507
 #506	FN	--	C	510
 #507	FN	--	C	511
 #508	PNCT	--	U	511
-#509	FN	--	H	513	LA	514
+#509	FN	--	H	513
 #510	FN	--	E	511
 #511	FN	--	A	512
-#512	FN	--	H	513	LA	514
+#512	FN	--	H	513
 #513	FN	--	--	0
-#514	LKG	--	--	0
 #EOS 248009

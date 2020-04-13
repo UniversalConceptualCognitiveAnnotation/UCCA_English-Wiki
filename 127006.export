@@ -7,7 +7,7 @@ attend	Word	--	Terminal	504
 the	Word	--	Terminal	505
 awards	Word	--	Terminal	506
 ceremony	Word	--	Terminal	507
--	Punctuation	--	Terminal	508
+—	Punctuation	--	Terminal	508
 as	Word	--	Terminal	509
 she	Word	--	Terminal	510
 would	Word	--	Terminal	511
@@ -18,7 +18,7 @@ duration	Word	--	Terminal	515
 of	Word	--	Terminal	516
 her	Word	--	Terminal	517
 career	Word	--	Terminal	518
--	Punctuation	--	Terminal	519
+—	Punctuation	--	Terminal	519
 but	Word	--	Terminal	520
 was	Word	--	Terminal	521
 thrilled	Word	--	Terminal	522
@@ -26,44 +26,41 @@ with	Word	--	Terminal	523
 the	Word	--	Terminal	524
 win	Word	--	Terminal	525
 .	Punctuation	--	Terminal	526
-#500	FN	--	A	536	A*	533
-#501	FN	--	P	536
-#502	FN	--	D	533
-#503	FN	--	F	533
-#504	FN	--	P	533	P*	527
-#505	FN	--	E	528
-#506	FN	--	E	528
-#507	FN	--	C	528
-#508	PNCT	--	U	538
-#509	FN	--	L	538	LR	535
-#510	FN	--	A	527	A*	537
-#511	FN	--	D	527
-#512	FN	--	D	527
+#500	FN	--	A	532	A*	531
+#501	FN	--	P	532
+#502	FN	--	D	531
+#503	FN	--	F	531
+#504	FN	--	P	531	P*	533
+#505	FN	--	E	527
+#506	FN	--	E	527
+#507	FN	--	C	527
+#508	PNCT	--	U	536
+#509	FN	--	L	536
+#510	FN	--	A	533	A*	535
+#511	FN	--	D	533
+#512	FN	--	D	533
 #513	FN	--	R	529
-#514	FN	--	E	529
-#515	FN	--	C	529
-#516	FN	--	R	530
-#517	FN	--	C	530
-#518	FN	--	S	531
-#519	PNCT	--	U	538
-#520	FN	--	L	538	LR	539
-#521	FN	--	F	537
-#522	FN	--	S	537
-#523	FN	--	R	532
-#524	FN	--	E	532
-#525	FN	--	C	532
-#526	PNCT	--	U	532
-#527	FN	--	H	538	LA	534	LA	535
-#528	FN	--	A	533
-#529	FN	--	L	538	LR	534
-#530	FN	--	A	531
-#531	FN	--	H	538	LA	534	LA	535
-#532	FN	--	A	537
-#533	FN	--	A	536
-#534	LKG	--	--	0
-#535	LKG	--	--	0
-#536	FN	--	H	538	LA	539
-#537	FN	--	H	538	LA	539
-#538	FN	--	--	0
-#539	LKG	--	--	0
+#514	FN	--	E	528
+#515	FN	--	C	528
+#516	FN	--	F	529
+#517	FN	--	A	529
+#518	FN	--	P	529
+#519	PNCT	--	U	536
+#520	FN	--	L	536
+#521	FN	--	F	535
+#522	FN	--	S	535
+#523	FN	--	R	534
+#524	FN	--	E	530
+#525	FN	--	C	530
+#526	PNCT	--	U	530
+#527	FN	--	A	531
+#528	FN	--	T	529
+#529	FN	--	A	533
+#530	FN	--	P	534
+#531	FN	--	A	532
+#532	FN	--	H	536
+#533	FN	--	H	536
+#534	FN	--	A	535
+#535	FN	--	H	536
+#536	FN	--	--	0
 #EOS 127006

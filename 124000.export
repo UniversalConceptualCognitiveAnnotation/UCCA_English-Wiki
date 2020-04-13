@@ -9,18 +9,17 @@ become	Word	--	Terminal	505
 an	Word	--	Terminal	506
 actress	Word	--	Terminal	507
 .	Punctuation	--	Terminal	508
-#500	FN	--	A	512	A*	511	A*	510
-#501	FN	--	P	512
-#502	FN	--	A	512
-#503	FN	--	P	511
-#504	FN	--	F	510
-#505	FN	--	P	510
-#506	FN	--	E	509
-#507	FN	--	C	509
-#508	PNCT	--	U	509
-#509	FN	--	A	510
-#510	FN	--	A	511
-#511	FN	--	A	512
-#512	FN	--	H	513
-#513	FN	--	--	0
+#500	FN	--	A	509	A*	511
+#501	FN	--	P	509
+#502	FN	--	A	509
+#503	FN	--	D	511
+#504	FN	--	F	511
+#505	FN	--	D	511
+#506	FN	--	E	510
+#507	FN	--	C	510
+#508	PNCT	--	U	510
+#509	FN	--	H	512
+#510	FN	--	P	511
+#511	FN	--	H	512
+#512	FN	--	--	0
 #EOS 124000

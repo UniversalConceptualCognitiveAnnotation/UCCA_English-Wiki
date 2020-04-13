@@ -15,30 +15,27 @@ on	Word	--	Terminal	512
 December	Word	--	Terminal	513
 9	Word	--	Terminal	514
 .	Punctuation	--	Terminal	515
-#500	FN	--	E	516
-#501	FN	--	C	516
-#502	FN	--	D	522
-#503	FN	--	P	522
+#500	FN	--	F	516
+#501	FN	--	C	516	A*	521
+#502	FN	--	D	520
+#503	FN	--	P	520	P*	521
 #504	FN	--	R	517
-#505	FN	--	E	517
+#505	FN	--	C	517
 #506	FN	--	C	517
-#507	PNCT	--	U	524
-#508	FN	--	L	524	LR	525
-#509	FN	--	E	518
+#507	PNCT	--	U	522
+#508	FN	--	L	522
+#509	FN	--	F	518
 #510	FN	--	C	518
 #511	FN	--	E	518
 #512	FN	--	R	519
 #513	FN	--	C	519
-#514	FN	--	E	519
+#514	FN	--	C	519
 #515	PNCT	--	U	519
-#516	FN	--	P	521
-#517	FN	--	D	522
-#518	FN	--	S	523
-#519	FN	--	D	523
-#520	FN	--	A	521
-#521	FN	--	A	522	A*	523
-#522	FN	--	H	524	LA	525
-#523	FN	--	H	524	LA	525
-#524	FN	--	--	0
-#525	LKG	--	--	0
+#516	FN	--	A	520
+#517	FN	--	T	520
+#518	FN	--	D	521
+#519	FN	--	T	521
+#520	FN	--	H	522
+#521	FN	--	H	522
+#522	FN	--	--	0
 #EOS 252007

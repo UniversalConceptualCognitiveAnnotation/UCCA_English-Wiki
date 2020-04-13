@@ -35,7 +35,7 @@ other	Word	--	Terminal	530
 subsidiary	Word	--	Terminal	531
 companies	Word	--	Terminal	532
 .	Punctuation	--	Terminal	533
-#500	FN	--	L	547	LR	549
+#500	FN	--	L	547
 #501	FN	--	A	534
 #502	FN	--	S	534
 #503	PNCT	--	U	547
@@ -49,7 +49,7 @@ companies	Word	--	Terminal	532
 #511	FN	--	E	536
 #512	FN	--	C	536
 #513	PNCT	--	U	547
-#514	FN	--	L	547	LR	548
+#514	FN	--	L	547
 #515	FN	--	R	537
 #516	FN	--	E	537
 #517	FN	--	C	537
@@ -64,25 +64,23 @@ companies	Word	--	Terminal	532
 #526	FN	--	R	542
 #527	FN	--	C	541
 #528	FN	--	N	541
-#529	FN	--	E	538
+#529	FN	--	Q	538
 #530	FN	--	C	538
 #531	FN	--	E	539
 #532	FN	--	C	539
 #533	PNCT	--	U	539
-#534	FN	--	H	547	LA	549
+#534	FN	--	H	547
 #535	FN	--	A	540
 #536	FN	--	A	540
-#537	FN	--	D	546
+#537	FN	--	T	546
 #538	FN	--	E	539
 #539	FN	--	C	541
-#540	FN	--	H	547	LA	548	LA	549
+#540	FN	--	H	547
 #541	FN	--	C	542
 #542	FN	--	A	543
 #543	FN	--	E	544
 #544	FN	--	E	545
 #545	FN	--	A	546
-#546	FN	--	H	547	LA	548	LA	549
+#546	FN	--	H	547
 #547	FN	--	--	0
-#548	LKG	--	--	0
-#549	LKG	--	--	0
 #EOS 636005

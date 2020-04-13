@@ -20,34 +20,33 @@ detached	Word	--	Terminal	517
 from	Word	--	Terminal	518
 reality	Word	--	Terminal	519
 .	Punctuation	--	Terminal	520
-#500	FN	--	L	528	LR	529
+#500	FN	--	L	528
 #501	FN	--	A	525
 #502	FN	--	P	525
-#503	FN	--	E	521
-#504	FN	--	C	521
-#505	FN	--	D	522
-#506	FN	--	S	522
-#507	FN	--	R	523
-#508	FN	--	E	523
-#509	FN	--	C	523
+#503	FN	--	E	524
+#504	FN	--	C	524	A*	521
+#505	FN	--	S	521
+#506	FN	--	A	521
+#507	FN	--	R	522
+#508	FN	--	E	522
+#509	FN	--	C	522
 #510	PNCT	--	U	528
-#511	FN	--	A	527
+#511	FN	--	A	527	A*	526
 #512	FN	--	F	527
 #513	FN	--	P	527
 #514	FN	--	F	526
 #515	FN	--	F	526
 #516	FN	--	D	526
 #517	FN	--	P	526
-#518	FN	--	R	524
-#519	FN	--	C	524
-#520	PNCT	--	U	524
-#521	FN	--	A	522
+#518	FN	--	R	523
+#519	FN	--	C	523
+#520	PNCT	--	U	523
+#521	FN	--	E	524
 #522	FN	--	A	525
-#523	FN	--	A	525
-#524	FN	--	A	526
-#525	FN	--	H	528	LA	529
+#523	FN	--	A	526
+#524	FN	--	A	525
+#525	FN	--	H	528
 #526	FN	--	A	527
-#527	FN	--	H	528	LA	529
+#527	FN	--	H	528
 #528	FN	--	--	0
-#529	LKG	--	--	0
 #EOS 1026014

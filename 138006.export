@@ -33,7 +33,7 @@ Nothing	Word	--	Terminal	520
 #501	FN	--	R	522
 #502	FN	--	C	522
 #503	PNCT	--	U	522
-#504	FN	--	E	522
+#504	FN	--	C	522
 #505	PNCT	--	U	528
 #506	FN	--	R	523
 #507	FN	--	E	523
@@ -41,11 +41,11 @@ Nothing	Word	--	Terminal	520
 #509	PNCT	--	U	531
 #510	FN	--	A	529	A*	530
 #511	FN	--	P	529
-#512	FN	--	E	524
-#513	FN	--	C	524
+#512	FN	--	A	524
+#513	FN	--	A	524
 #514	FN	--	R	525
 #515	FN	--	C	525
-#516	FN	--	L	531	LR	532
+#516	FN	--	L	531
 #517	FN	--	P	530
 #518	FN	--	A	530
 #519	FN	--	R	526
@@ -58,8 +58,7 @@ Nothing	Word	--	Terminal	520
 #526	FN	--	A	530
 #527	FN	--	A	528
 #528	FN	--	H	531
-#529	FN	--	H	531	LA	532
-#530	FN	--	H	531	LA	532
+#529	FN	--	H	531
+#530	FN	--	H	531
 #531	FN	--	--	0
-#532	LKG	--	--	0
 #EOS 138006

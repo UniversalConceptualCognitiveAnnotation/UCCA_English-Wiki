@@ -12,23 +12,22 @@ Hoffman	Word	--	Terminal	508
 fifth	Word	--	Terminal	510
 nomination	Word	--	Terminal	511
 .	Punctuation	--	Terminal	512
-#500	FN	--	A	517
-#501	FN	--	P	517
-#502	FN	--	E	516
+#500	FN	--	A	514	A*	516
+#501	FN	--	D	514	D*	516
+#502	FN	--	D	514
 #503	FN	--	E	513
 #504	FN	--	C	513
-#505	FN	--	C	516
-#506	PNCT	--	U	516
-#507	FN	--	R	515
-#508	FN	--	C	514
-#509	FN	--	R	514
-#510	FN	--	E	515
-#511	FN	--	C	515
-#512	PNCT	--	U	515
-#513	FN	--	E	516
-#514	FN	--	E	515
-#515	FN	--	E	516
-#516	FN	--	A	517
-#517	FN	--	H	518
-#518	FN	--	--	0
+#505	FN	--	P	514
+#506	PNCT	--	U	517
+#507	FN	--	L	517
+#508	FN	--	C	515
+#509	FN	--	R	515
+#510	FN	--	D	516
+#511	FN	--	P	516
+#512	PNCT	--	U	516
+#513	FN	--	A	514
+#514	FN	--	H	517
+#515	FN	--	A	516
+#516	FN	--	H	517
+#517	FN	--	--	0
 #EOS 208010

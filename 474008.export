@@ -16,7 +16,7 @@ to	Word	--	Terminal	513
 purchase	Word	--	Terminal	514
 a	Word	--	Terminal	515
 5	Word	--	Terminal	516
-%	Punctuation	--	Terminal	517
+%	Word	--	Terminal	517
 share	Word	--	Terminal	518
 of	Word	--	Terminal	519
 the	Word	--	Terminal	520
@@ -25,42 +25,40 @@ in	Word	--	Terminal	522
 June	Word	--	Terminal	523
 1994	Word	--	Terminal	524
 .	Punctuation	--	Terminal	525
-#500	FN	--	P	532
-#501	FN	--	F	528
-#502	FN	--	F	528
-#503	FN	--	F	528
-#504	FN	--	D	528
-#505	FN	--	E	526
-#506	FN	--	C	526
-#507	FN	--	F	527
-#508	FN	--	P	527
-#509	PNCT	--	U	527
-#510	FN	--	A	535	A*	532	A*	534	A*	528	A*	527
-#511	FN	--	P	535
-#512	FN	--	L	536	LR	537
-#513	FN	--	F	534
-#514	FN	--	P	534
-#515	FN	--	E	529
-#516	FN	--	C	529
-#517	PNCT	--	U	533
-#518	FN	--	C	533
+#500	FN	--	P	528
+#501	FN	--	R	527
+#502	FN	--	F	527
+#503	FN	--	F	527
+#504	FN	--	D	527
+#505	FN	--	A	527	A*	526
+#506	FN	--	P	527
+#507	FN	--	F	526
+#508	FN	--	P	526
+#509	PNCT	--	U	528
+#510	FN	--	A	534	A*	528	A*	533
+#511	FN	--	P	534
+#512	FN	--	L	535
+#513	FN	--	F	533
+#514	FN	--	P	533
+#515	FN	--	F	532
+#516	FN	--	Q	529
+#517	FN	--	C	529
+#518	FN	--	C	532
 #519	FN	--	R	530
-#520	FN	--	E	530
+#520	FN	--	F	530
 #521	FN	--	C	530
 #522	FN	--	R	531
-#523	FN	--	E	531
+#523	FN	--	C	531
 #524	FN	--	C	531
 #525	PNCT	--	U	531
-#526	FN	--	P	528
+#526	FN	--	A	527
 #527	FN	--	A	528
-#528	FN	--	A	532
-#529	FN	--	E	533
-#530	FN	--	E	533
-#531	FN	--	D	535
-#532	FN	--	H	536	LA	537
+#528	FN	--	H	535
+#529	FN	--	Q	532
+#530	FN	--	E	532
+#531	FN	--	T	534
+#532	FN	--	A	533
 #533	FN	--	A	534
-#534	FN	--	A	535
-#535	FN	--	H	536	LA	537
-#536	FN	--	--	0
-#537	LKG	--	--	0
+#534	FN	--	H	535
+#535	FN	--	--	0
 #EOS 474008

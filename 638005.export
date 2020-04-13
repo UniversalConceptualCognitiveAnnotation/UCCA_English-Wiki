@@ -25,7 +25,7 @@ Sleep	Word	--	Terminal	517
 about	Word	--	Terminal	520
 himself	Word	--	Terminal	521
 .	Punctuation	--	Terminal	522
-#500	FN	--	L	529	LR	531
+#500	FN	--	L	529
 #501	PNCT	--	U	529
 #502	FN	--	A	526	A*	528
 #503	FN	--	P	526
@@ -36,7 +36,7 @@ himself	Word	--	Terminal	521
 #508	FN	--	E	524
 #509	PNCT	--	U	524
 #510	FN	--	C	524
-#511	FN	--	L	529	LR	530
+#511	FN	--	L	529
 #512	FN	--	P	528
 #513	FN	--	A	527
 #514	FN	--	F	527
@@ -49,12 +49,10 @@ himself	Word	--	Terminal	521
 #521	FN	--	C	525
 #522	PNCT	--	U	525
 #523	FN	--	A	526
-#524	FN	--	D	526
+#524	FN	--	T	526
 #525	FN	--	A	527
-#526	FN	--	H	529	LA	530	LA	531
+#526	FN	--	H	529
 #527	FN	--	A	528
-#528	FN	--	H	529	LA	530	LA	531
+#528	FN	--	H	529
 #529	FN	--	--	0
-#530	LKG	--	--	0
-#531	LKG	--	--	0
 #EOS 638005

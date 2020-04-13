@@ -29,13 +29,13 @@ film	Word	--	Terminal	525
 series	Word	--	Terminal	526
 .	Punctuation	--	Terminal	527
 #500	FN	--	R	528
-#501	FN	--	E	528
+#501	FN	--	C	528
 #502	FN	--	C	528
 #503	FN	--	A	533
 #504	FN	--	F	533
 #505	FN	--	P	533
-#506	FN	--	F	530
-#507	FN	--	E	529
+#506	FN	--	R	530
+#507	FN	--	F	529
 #508	PNCT	--	U	509
 #509	FN	--	E	529
 #510	FN	--	C	529
@@ -43,7 +43,7 @@ series	Word	--	Terminal	526
 #512	FN	--	F	530
 #513	FN	--	P	530
 #514	PNCT	--	U	535
-#515	FN	--	L	535	LR	536
+#515	FN	--	L	535
 #516	FN	--	P	534
 #517	FN	--	C	531
 #518	PNCT	--	U	531
@@ -52,17 +52,16 @@ series	Word	--	Terminal	526
 #521	FN	--	N	531
 #522	FN	--	C	531
 #523	FN	--	R	532
-#524	FN	--	E	532
+#524	FN	--	F	532
 #525	FN	--	E	532
 #526	FN	--	C	532
 #527	PNCT	--	U	532
-#528	FN	--	D	533
+#528	FN	--	T	533
 #529	FN	--	A	530
 #530	FN	--	A	533
 #531	FN	--	A	534
 #532	FN	--	A	534
-#533	FN	--	H	535	LA	536
-#534	FN	--	H	535	LA	536
+#533	FN	--	H	535
+#534	FN	--	H	535
 #535	FN	--	--	0
-#536	LKG	--	--	0
 #EOS 218013

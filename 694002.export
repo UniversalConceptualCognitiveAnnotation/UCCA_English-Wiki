@@ -14,24 +14,24 @@ on	Word	--	Terminal	510
 the	Word	--	Terminal	511
 program	Word	--	Terminal	512
 .	Punctuation	--	Terminal	513
-#500	FN	--	L	518	LR	519
-#501	FN	--	P	515
-#502	FN	--	R	514
+#500	FN	--	L	519
+#501	FN	--	P	518
+#502	FN	--	R	517
 #503	FN	--	E	514
 #504	FN	--	C	514
-#505	PNCT	--	U	515
-#506	FN	--	A	517	A*	515
-#507	FN	--	D	517
-#508	FN	--	F	517
-#509	FN	--	P	517
-#510	FN	--	R	516
-#511	FN	--	E	516
-#512	FN	--	C	516
-#513	PNCT	--	U	516
-#514	FN	--	A	515
-#515	FN	--	H	518	LA	519
-#516	FN	--	A	517
-#517	FN	--	H	518	LA	519
-#518	FN	--	--	0
-#519	LKG	--	--	0
+#505	PNCT	--	U	518
+#506	FN	--	A	516	A*	518
+#507	FN	--	D	516
+#508	FN	--	F	516
+#509	FN	--	P	516
+#510	FN	--	R	515
+#511	FN	--	E	515
+#512	FN	--	C	515
+#513	PNCT	--	U	515
+#514	FN	--	P	517
+#515	FN	--	A	516
+#516	FN	--	H	519
+#517	FN	--	A	518
+#518	FN	--	H	519
+#519	FN	--	--	0
 #EOS 694002

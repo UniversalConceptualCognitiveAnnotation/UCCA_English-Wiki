@@ -10,17 +10,18 @@ producing	Word	--	Terminal	506
 Liverpool	Word	--	Terminal	507
 Oratorio	Word	--	Terminal	507
 .	Punctuation	--	Terminal	508
-#500	FN	--	A	511	A*	509
-#501	FN	--	P	511
-#502	FN	--	R	510
-#503	FN	--	E	510
-#504	FN	--	C	510
-#505	PNCT	--	U	512
+#500	FN	--	A	512	A*	509
+#501	FN	--	P	512
+#502	FN	--	R	511
+#503	FN	--	P	510
+#504	FN	--	C	511
+#505	PNCT	--	U	513
 #506	FN	--	P	509
 #507	FN	--	A	509
 #508	PNCT	--	U	509
-#509	FN	--	H	512
-#510	FN	--	A	511
-#511	FN	--	H	512
-#512	FN	--	--	0
+#509	FN	--	H	513
+#510	FN	--	E	511
+#511	FN	--	A	512
+#512	FN	--	H	513
+#513	FN	--	--	0
 #EOS 608010

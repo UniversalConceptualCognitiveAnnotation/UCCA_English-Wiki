@@ -8,32 +8,34 @@ the	Word	--	Terminal	505
 critics	Word	--	Terminal	506
 but	Word	--	Terminal	507
 did	Word	--	Terminal	508
-very	Word	--	Terminal	508
-well	Word	--	Terminal	508
-at	Word	--	Terminal	509
-the	Word	--	Terminal	510
-box	Word	--	Terminal	511
-office	Word	--	Terminal	512
-.	Punctuation	--	Terminal	513
-#500	FN	--	E	514
-#501	FN	--	C	514
-#502	FN	--	F	517
-#503	FN	--	S	517
-#504	FN	--	R	515
-#505	FN	--	E	515
-#506	FN	--	C	515
-#507	FN	--	L	519	LR	520
-#508	FN	--	S	518
-#509	FN	--	E	516
-#510	FN	--	E	516
-#511	FN	--	E	516
-#512	FN	--	C	516
-#513	PNCT	--	U	516
-#514	FN	--	A	517	A*	518
-#515	FN	--	A	517
-#516	FN	--	A	518
-#517	FN	--	H	519	LA	520
-#518	FN	--	H	519	LA	520
-#519	FN	--	--	0
-#520	LKG	--	--	0
+very	Word	--	Terminal	509
+well	Word	--	Terminal	510
+at	Word	--	Terminal	511
+the	Word	--	Terminal	512
+box	Word	--	Terminal	513
+office	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	E	515
+#501	FN	--	C	515	A*	521
+#502	FN	--	F	520
+#503	FN	--	P	520
+#504	FN	--	R	519
+#505	FN	--	E	516
+#506	FN	--	C	516
+#507	FN	--	L	522
+#508	FN	--	F	517
+#509	FN	--	D	521
+#510	FN	--	C	517
+#511	FN	--	E	518
+#512	FN	--	E	518
+#513	FN	--	C	518
+#514	PNCT	--	U	518
+#515	FN	--	A	520
+#516	FN	--	A	519
+#517	FN	--	S	521
+#518	FN	--	A	521
+#519	FN	--	A	520
+#520	FN	--	H	522
+#521	FN	--	H	522
+#522	FN	--	--	0
 #EOS 565012

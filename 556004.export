@@ -23,29 +23,31 @@ for	Word	--	Terminal	515
 Teresa	Word	--	Terminal	516
 Brewer	Word	--	Terminal	516
 .	Punctuation	--	Terminal	517
-#500	FN	--	C	518
-#501	FN	--	N	518
-#502	FN	--	D	518
-#503	FN	--	C	518
+#500	FN	--	P	518
+#501	FN	--	L	526
+#502	FN	--	P	519
+#503	FN	--	A	519
 #504	PNCT	--	U	519
-#505	FN	--	A	523	A*	519
-#506	FN	--	P	523
-#507	FN	--	R	522
-#508	PNCT	--	U	522
-#509	FN	--	C	522
-#510	PNCT	--	U	522
-#511	PNCT	--	U	522
-#512	FN	--	E	521
-#513	FN	--	E	521
-#514	FN	--	C	521
-#515	FN	--	R	520
-#516	FN	--	C	520
+#505	FN	--	A	525	A*	518	A*	519
+#506	FN	--	P	525
+#507	FN	--	R	524
+#508	PNCT	--	U	524
+#509	FN	--	C	524
+#510	PNCT	--	U	524
+#511	PNCT	--	U	524
+#512	FN	--	E	523
+#513	FN	--	T	522
+#514	FN	--	C	523	A*	522	A*	520
+#515	FN	--	S	520
+#516	FN	--	A	520
 #517	PNCT	--	U	520
-#518	FN	--	P	519
-#519	FN	--	H	524
-#520	FN	--	E	521
-#521	FN	--	E	522
-#522	FN	--	A	523
-#523	FN	--	H	524
-#524	FN	--	--	0
+#518	FN	--	H	526
+#519	FN	--	H	526
+#520	FN	--	E	523
+#521	FN	--	P	522
+#522	FN	--	E	523
+#523	FN	--	E	524
+#524	FN	--	A	525
+#525	FN	--	H	526
+#526	FN	--	--	0
 #EOS 556004

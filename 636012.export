@@ -49,17 +49,17 @@ confiscated	Word	--	Terminal	541
 #503	FN	--	F	553
 #504	FN	--	P	553
 #505	FN	--	R	544
-#506	FN	--	E	544
-#507	FN	--	E	544
+#506	FN	--	C	544
+#507	FN	--	C	544
 #508	FN	--	C	544
 #509	PNCT	--	U	559
-#510	FN	--	L	559	LR	560
+#510	FN	--	L	559
 #511	FN	--	D	558
 #512	FN	--	P	558
 #513	FN	--	E	545
 #514	FN	--	C	545
 #515	FN	--	R	546
-#516	FN	--	E	546
+#516	FN	--	Q	546
 #517	FN	--	C	546
 #518	FN	--	P	547
 #519	PNCT	--	U	547
@@ -71,14 +71,14 @@ confiscated	Word	--	Terminal	541
 #525	FN	--	E	550
 #526	FN	--	C	550
 #527	PNCT	--	U	556
-#528	FN	--	E	549
+#528	FN	--	Q	549
 #529	FN	--	R	549
 #530	FN	--	E	549
 #531	FN	--	F	551
 #532	FN	--	P	551
 #533	FN	--	A	551
 #534	FN	--	L	555
-#535	FN	--	E	548
+#535	FN	--	Q	548
 #536	FN	--	R	548
 #537	FN	--	R	548
 #538	FN	--	F	554
@@ -87,7 +87,7 @@ confiscated	Word	--	Terminal	541
 #541	FN	--	C	552
 #542	PNCT	--	U	552
 #543	FN	--	A	553	A*	558
-#544	FN	--	D	553
+#544	FN	--	T	553
 #545	FN	--	E	546
 #546	FN	--	A	547
 #547	FN	--	A	557
@@ -96,12 +96,11 @@ confiscated	Word	--	Terminal	541
 #550	FN	--	E	556
 #551	FN	--	H	555
 #552	FN	--	P	554
-#553	FN	--	H	559	LA	560
+#553	FN	--	H	559
 #554	FN	--	H	555
 #555	FN	--	E	556
 #556	FN	--	A	557
 #557	FN	--	A	558
-#558	FN	--	H	559	LA	560
+#558	FN	--	H	559
 #559	FN	--	--	0
-#560	LKG	--	--	0
 #EOS 636012

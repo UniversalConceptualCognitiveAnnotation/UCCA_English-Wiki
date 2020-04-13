@@ -32,9 +32,9 @@ in	Word	--	Terminal	525
 "	Punctuation	--	Terminal	529
 .	Punctuation	--	Terminal	530
 #500	FN	--	R	539
-#501	FN	--	C	539	A*	544	A*	537
+#501	FN	--	C	539	A*	543	A*	537
 #502	PNCT	--	U	539
-#503	FN	--	F	537
+#503	FN	--	R	537
 #504	FN	--	F	537
 #505	FN	--	S	537
 #506	FN	--	R	531
@@ -47,14 +47,14 @@ in	Word	--	Terminal	525
 #513	FN	--	C	533
 #514	FN	--	F	540
 #515	FN	--	S	540
-#516	PNCT	--	U	545
-#517	PNCT	--	U	545
+#516	PNCT	--	U	544
+#517	PNCT	--	U	544
 #518	FN	--	A	541
 #519	FN	--	P	541
 #520	FN	--	A	541
 #521	FN	--	E	534
 #522	FN	--	C	534
-#523	FN	--	L	543	LR	542
+#523	FN	--	L	542
 #524	FN	--	A	536
 #525	FN	--	P	536
 #526	FN	--	E	535
@@ -63,18 +63,17 @@ in	Word	--	Terminal	525
 #529	PNCT	--	U	536
 #530	PNCT	--	U	536
 #531	FN	--	A	537
-#532	FN	--	D	537
+#532	FN	--	T	537
 #533	FN	--	A	540
 #534	FN	--	A	541
 #535	FN	--	A	536
-#536	FN	--	H	543	LA	542
+#536	FN	--	H	542
 #537	FN	--	E	539
-#538	FN	--	P	544
+#538	FN	--	P	543
 #539	FN	--	A	540
-#540	FN	--	H	545
-#541	FN	--	H	543	LA	542
-#542	LKG	--	--	0
-#543	FN	--	A	544
-#544	FN	--	H	545
-#545	FN	--	--	0
+#540	FN	--	H	544
+#541	FN	--	H	542
+#542	FN	--	A	543
+#543	FN	--	H	544
+#544	FN	--	--	0
 #EOS 643014

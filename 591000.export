@@ -18,42 +18,46 @@ will	Word	--	Terminal	514
 serve	Word	--	Terminal	515
 as	Word	--	Terminal	516
 actor	Word	--	Terminal	517
-and	Word	--	Terminal	519
-/	Punctuation	--	Terminal	518
-or	Word	--	Terminal	519
-producer	Word	--	Terminal	520
-.	Punctuation	--	Terminal	521
-#500	FN	--	R	522
-#501	FN	--	C	522
-#502	PNCT	--	U	526
-#503	FN	--	A	526
-#504	FN	--	P	526
-#505	FN	--	E	523
-#506	FN	--	E	523
-#507	FN	--	C	523
-#508	FN	--	C	524	A*	530	A*	528
-#509	FN	--	L	531	LR	532
-#510	FN	--	P	530
-#511	FN	--	C	529
-#512	FN	--	R	528
-#513	FN	--	A	528
-#514	FN	--	F	528
-#515	FN	--	P	528
-#516	FN	--	R	527
-#517	FN	--	C	525
-#518	PNCT	--	U	519
-#519	FN	--	N	525
-#520	FN	--	C	525
-#521	PNCT	--	U	525
-#522	FN	--	D	526
-#523	FN	--	E	524
-#524	FN	--	A	526
-#525	FN	--	C	527
-#526	FN	--	H	531	LA	532
-#527	FN	--	A	528
-#528	FN	--	E	529
-#529	FN	--	A	530
-#530	FN	--	H	531	LA	532
-#531	FN	--	--	0
-#532	LKG	--	--	0
+and	Word	--	Terminal	518
+/	Punctuation	--	Terminal	519
+or	Word	--	Terminal	520
+producer	Word	--	Terminal	521
+.	Punctuation	--	Terminal	522
+#500	FN	--	R	523
+#501	FN	--	C	523
+#502	PNCT	--	U	530
+#503	FN	--	A	530	A*	535
+#504	FN	--	P	530
+#505	FN	--	A	524
+#506	FN	--	E	525
+#507	FN	--	C	525	A*	524
+#508	FN	--	C	526
+#509	FN	--	L	536
+#510	FN	--	P	535
+#511	FN	--	C	534	A*	533
+#512	FN	--	R	533
+#513	FN	--	A	533
+#514	FN	--	F	533
+#515	FN	--	P	533
+#516	FN	--	R	532
+#517	FN	--	A	527
+#518	FN	--	C	528
+#519	PNCT	--	U	528
+#520	FN	--	C	528
+#521	FN	--	A	529
+#522	PNCT	--	U	529
+#523	FN	--	T	530
+#524	FN	--	E	525
+#525	FN	--	E	526
+#526	FN	--	A	530
+#527	FN	--	C	531
+#528	FN	--	N	531
+#529	FN	--	C	531
+#530	FN	--	H	536
+#531	FN	--	C	532
+#532	FN	--	A	533
+#533	FN	--	E	534
+#534	FN	--	A	535
+#535	FN	--	H	536
+#536	FN	--	--	0
 #EOS 591000
