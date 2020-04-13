@@ -1,28 +1,27 @@
 # ::id 216010
 # ::tok Also in 2001 , she depicted the late American actress Marion Davies in The Cat 's Meow , directed by Peter Bogdanovich .
-# ::alignments 0-1.1 1-1.2.2.1 2-1.2.2.2 4-1.2.3 5-1.2.4 6-1.2.5.1 7-1.2.5.2 8-1.2.5.3.1 9-1.2.5.3.2 10-1.2.5.4 11-1.2.5.4 12-1.2.6.1 13-1.2.6.2 14-1.2.6.2 15-1.2.6.2 16-1.2.6.2 18-1.2.6.3.2 19-1.2.6.3.3.1 20-1.2.6.3.3.2 21-1.2.6.3.3.2
+# ::alignments 0-1.1 1-1.2.2.1 2-1.2.2.2 4-1.2.3 5-1.2.4 7-1.2.5.2 8-1.2.5.3.1 9-1.2.5.3.2 10-1.2.5.4 11-1.2.5.4 12-1.2.6.1 13-1.2.6.2 14-1.2.6.2 15-1.2.6.2 16-1.2.6.2 18-1.2.6.3.2 19-1.2.6.3.3.1 20-1.2.6.3.3.2 21-1.2.6.3.3.2
 # ::format ucca
 (v1 / label
     :L (v2 / label~e.0)
     :H (v3 / label
-           :D (v4 / label
+           :T (v4 / label
                   :R (v9 / label~e.1)
                   :C (v10 / label~e.2))
            :A (v5 / label~e.4)
            :P (v6 / label~e.5)
            :A (v7 / label
-                  :E (v11 / label~e.6)
-                  :E (v12 / label~e.7)
-                  :E (v13 / label
-                          :E (v18 / label~e.8)
-                          :C (v19 / label~e.9))
-                  :C (v14 / label~e.10,11))
+                  :E (v11 / label~e.7)
+                  :E (v12 / label
+                          :E (v17 / label~e.8)
+                          :C (v18 / label~e.9))
+                  :C (v13 / label~e.10,11))
            :A (v8 / label
-                  :R (v15 / label~e.12)
-                  :C (v16 / label~e.13,14,15,16)
-                  :E (v17 / label
-                          :A v16
-                          :P (v20 / label~e.18)
-                          :A (v21 / label
-                                  :R (v22 / label~e.19)
-                                  :C (v23 / label~e.20,21))))))
+                  :R (v14 / label~e.12)
+                  :C (v15 / label~e.13,14,15,16)
+                  :E (v16 / label
+                          :A v15
+                          :P (v19 / label~e.18)
+                          :A (v20 / label
+                                  :R (v21 / label~e.19)
+                                  :C (v22 / label~e.20,21))))))

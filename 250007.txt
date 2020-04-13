@@ -1,6 +1,6 @@
 # ::id 250007
 # ::tok Hawke has described theater as his " first love " , a place where he is " free to be more creative " . Hawke made his Broadway debut in 1992 , portraying the playwright Konstantin Treplev in Anton Chekhov 's The Seagull at the Lyceum Theater in Manhattan .
-# ::alignments 0-1.1.1 2-1.1.3 3-1.1.4 4-1.1.5.1 5-1.1.5.2 7-1.1.5.3 8-1.1.5.4 11-1.1.6.1 12-1.1.6.2 14-1.1.6.3.2 17-1.1.6.3.4 20-1.1.6.3.5.4 21-1.1.6.3.5.5 24-1.2.1 26-1.2.3 27-1.2.4 28-1.2.2.2 29-1.2.5.1 30-1.2.5.2 32-1.3.5 33-1.3.1.1.1 34-1.3.1.1.2 35-1.3.1.2 36-1.3.1.2 37-1.3.2.1 38-1.3.2.2.1 39-1.3.2.2.1 40-1.3.2.2.2 41-1.3.2.3 42-1.3.2.3 43-1.3.3.1 44-1.3.3.2 45-1.3.3.3 46-1.3.3.4 47-1.3.3.5.1 48-1.3.3.5.2
+# ::alignments 0-1.1.1 2-1.1.3 3-1.1.4 4-1.1.5.3 5-1.1.5.4 7-1.1.5.5 8-1.1.5.6 12-1.1.6.3.2 13-1.1.6.3.3.1 14-1.1.6.3.3.2 17-1.1.6.3.3.4 20-1.1.6.3.3.7 21-1.1.6.3.3.8 24-1.2.1 27-1.2.4 28-1.2.2.2 29-1.2.5.1 30-1.2.5.2 32-1.3.5 34-1.3.1.1.3 35-1.3.1.2 36-1.3.1.2 37-1.3.2.1 38-1.3.2.2.2 39-1.3.2.2.2 40-1.3.2.2.3 41-1.3.2.3 42-1.3.2.3 43-1.3.3.1 45-1.3.3.3 46-1.3.3.4 47-1.3.3.5.1 48-1.3.3.5.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -8,49 +8,49 @@
            :P (v6 / label~e.2)
            :A (v7 / label~e.3)
            :A (v8 / label
-                  :R (v19 / label~e.4)
-                  :E (v20 / label~e.5)
-                  :E (v21 / label~e.7)
-                  :C (v22 / label~e.8))
+                  :A v7
+                  :R (v18 / label~e.4)
+                  :A (v19 / label~e.5)
+                  :D (v20 / label~e.7)
+                  :P (v21 / label~e.8))
            :A (v9 / label
-                  :E (v23 / label~e.11)
-                  :C (v24 / label~e.12)
-                  :E (v25 / label
-                          :A (v39 / label~e.14)
-                          :S (v40 / label~e.17)
-                          :A (v41 / label
-                                  :A v39
-                                  :D (v48 / label~e.20)
-                                  :P (v49 / label~e.21)))
-                  :R v19))
+                  :A v7
+                  :S (v22 / label)
+                  :A (v23 / label
+                          :C (v36 / label~e.12)
+                          :E (v37 / label
+                                  :R (v43 / label~e.13)
+                                  :A (v44 / label~e.14)
+                                  :D (v45 / label~e.17)
+                                  :D (v46 / label~e.20)
+                                  :P (v47 / label~e.21)))))
     :H (v3 / label
            :A (v10 / label~e.24)
            :P (v11 / label
-                   :C (v26 / label~e.28))
-           :A (v12 / label~e.26)
-           :A (v13 / label~e.27)
-           :D (v14 / label
-                   :R (v27 / label~e.29)
-                   :C (v28 / label~e.30)))
+                   :C (v24 / label~e.28))
+           :A (v12 / label~e.27)
+           :T (v13 / label
+                   :R (v25 / label~e.29)
+                   :C (v26 / label~e.30)))
     :H (v4 / label
+           :A (v14 / label
+                   :E (v27 / label
+                           :A (v28 / label~e.35,36)
+                           :P (v38 / label~e.34))
+                   :C v28)
            :A (v15 / label
-                   :E (v29 / label
-                           :E (v42 / label~e.33)
-                           :C (v43 / label~e.34))
-                   :C (v30 / label~e.35,36))
+                   :R (v29 / label~e.37)
+                   :E (v30 / label
+                           :A (v31 / label~e.41,42)
+                           :A (v39 / label~e.38,39)
+                           :S (v40 / label~e.40))
+                   :C v31)
            :A (v16 / label
-                   :R (v31 / label~e.37)
-                   :E (v32 / label
-                           :C (v44 / label~e.38,39)
-                           :R (v45 / label~e.40))
-                   :C (v33 / label~e.41,42))
-           :A (v17 / label
-                   :R (v34 / label~e.43)
-                   :E (v35 / label~e.44)
-                   :E (v36 / label~e.45)
-                   :C (v37 / label~e.46)
-                   :E (v38 / label
-                           :R (v46 / label~e.47)
-                           :C (v47 / label~e.48)))
+                   :R (v32 / label~e.43)
+                   :E (v33 / label~e.45)
+                   :C (v34 / label~e.46)
+                   :E (v35 / label
+                           :R (v41 / label~e.47)
+                           :C (v42 / label~e.48)))
            :A v10
-           :P (v18 / label~e.32)))
+           :P (v17 / label~e.32)))

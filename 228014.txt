@@ -1,25 +1,24 @@
 # ::id 228014
 # ::tok He is the co - director , executive producer , and lead star of the movie .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1.1.1 3-1.1.3.1.1.2 5-1.1.3.1.1.3 7-1.1.3.1.2.1 8-1.1.3.1.2.2 10-1.1.3.1.3 11-1.1.3.1.4.1 12-1.1.3.1.4.2 13-1.1.3.2.4 14-1.1.3.2.1 15-1.1.3.2.2
+# ::alignments 0-1.1.1 3-1.1.4.1 5-1.1.4.2 7-1.2.1 8-1.2.2 10-1.3 11-1.4.4 12-1.4.1 13-1.1.5.1 15-1.2.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :A (v3 / label~e.0)
-           :S (v4 / label~e.1)
-           :A (v5 / label
-                  :C (v6 / label
-                         :C (v8 / label
-                                :E (v15 / label~e.2)
-                                :E (v16 / label~e.3)
-                                :C (v17 / label~e.5))
-                         :C (v9 / label
-                                :E (v18 / label~e.7)
-                                :C (v19 / label~e.8))
-                         :N (v10 / label~e.10)
-                         :C (v11 / label
-                                 :E (v20 / label~e.11)
-                                 :C (v21 / label~e.12)))
-                  :E (v7 / label
-                         :E (v12 / label~e.14)
-                         :C (v13 / label~e.15)
-                         :R (v14 / label~e.13)))))
+           :A (v6 / label~e.0)
+           :P (v7 / label
+                  :E (v14 / label~e.3)
+                  :C (v15 / label~e.5))
+           :A (v8 / label
+                  :R (v16 / label~e.13)
+                  :C (v11 / label~e.15)))
+    :H (v3 / label
+           :D (v9 / label~e.7)
+           :P (v10 / label~e.8)
+           :A v6
+           :A v11)
+    :L (v4 / label~e.10)
+    :H (v5 / label
+           :P (v12 / label~e.12)
+           :A v6
+           :A v11
+           :D (v13 / label~e.11)))

@@ -1,67 +1,65 @@
 # ::id 234007
 # ::tok During a news conference in Shanghai on 28 March 2004 , Chan referred to the recently concluded Republic of China presidential election , 2004 in Taiwan , in which Democratic Progressive Party candidates Chen Shui - bian and Annette Lu were re - elected as President and Vice - President as " the biggest joke in the world . "
-# ::alignments 0-1.1 1-1.2.1.1 2-1.2.1.2 3-1.2.1.3 4-1.2.2.1 5-1.2.2.2 6-1.2.3.1 7-1.2.3.2 8-1.2.3.2 9-1.2.3.2 11-1.3.3 12-1.3.4 13-1.3.1.1 14-1.3.1.2.1.1.1 15-1.3.1.3 16-1.3.1.4 17-1.3.1.2.1.1.2 18-1.3.1.2.1.1.2 19-1.3.1.2.1.1.2 20-1.3.1.2.1.2 21-1.3.1.2.1.3 23-1.3.1.2.1.4 24-1.3.1.2.1.5.1 25-1.3.1.2.1.5.2 27-1.3.1.2.2.1 28-1.3.1.2.2.2 29-1.3.1.2.3.1.1.1 30-1.3.1.2.3.1.1.1 31-1.3.1.2.3.1.1.1 32-1.3.1.2.3.1.1.2 33-1.3.1.2.3.1.2.1 34-1.3.1.2.3.1.2.1 36-1.3.1.2.3.1.2.1 37-1.3.1.2.3.1.2.2 38-1.3.1.2.3.1.2.3 39-1.3.1.2.3.1.2.3 41-1.3.1.2.3.3.1 43-1.3.1.2.3.3.2 44-1.3.1.2.3.4.1 45-1.3.1.2.3.4.2.1 46-1.3.1.2.3.4.2.2 47-1.3.1.2.3.4.2.3.1 49-1.3.1.2.3.4.2.3.2 50-1.3.2.1 52-1.3.2.2 53-1.3.2.3 54-1.3.2.4 55-1.3.2.5.1 56-1.3.2.5.2 57-1.3.2.5.3
+# ::alignments 0-1.1 2-1.2.1.2 3-1.2.1.2 4-1.2.2.1 5-1.2.2.2 6-1.2.3.1 7-1.2.3.2 8-1.2.3.3 9-1.2.3.4 11-1.3.3 12-1.3.4 13-1.3.1.1 15-1.3.1.2.2.1 16-1.3.1.2.2.2 17-1.3.1.2.1.2 18-1.3.1.2.1.2 19-1.3.1.2.1.2 20-1.3.1.2.3 21-1.3.1.2.4 23-1.3.1.2.5 24-1.3.1.2.6.1 25-1.3.1.2.6.2 27-1.3.1.3.1 28-1.3.1.3.2 29-1.3.1.4.1.1.1 30-1.3.1.4.1.1.1 31-1.3.1.4.1.1.1 32-1.3.1.4.1.1.2 33-1.3.1.4.1.2.1 34-1.3.1.4.1.2.1 36-1.3.1.4.1.2.1 37-1.3.1.4.1.2.2 38-1.3.1.4.1.2.3 39-1.3.1.4.1.2.3 41-1.3.1.4.3 43-1.3.1.4.4 44-1.3.1.4.5.1 45-1.3.1.4.5.2.1 46-1.3.1.4.5.2.2 47-1.3.1.4.5.2.3.1 49-1.3.1.4.5.2.3.2 50-1.3.2.1 53-1.3.2.3.2 54-1.3.2.4 55-1.3.2.5.1 57-1.3.2.5.3
 # ::format ucca
 (v1 / label
     :L (v2 / label~e.0)
     :H (v3 / label
            :P (v5 / label
-                  :E (v12 / label~e.1)
-                  :E (v13 / label~e.2)
-                  :C (v14 / label~e.3))
+                  :C (v12 / label~e.2,3))
            :A (v6 / label
-                  :R (v15 / label~e.4)
-                  :C (v16 / label~e.5))
-           :D (v7 / label
-                  :R (v17 / label~e.6)
-                  :C (v18 / label~e.7,8,9)))
+                  :R (v13 / label~e.4)
+                  :C (v14 / label~e.5))
+           :T (v7 / label
+                  :R (v15 / label~e.6)
+                  :C (v16 / label~e.7)
+                  :C (v17 / label~e.8)
+                  :C (v18 / label~e.9)))
     :H (v4 / label
            :A (v8 / label
                   :R (v19 / label~e.13)
-                  :A (v20 / label
-                          :H (v28 / label
-                                  :A (v34 / label
-                                          :E (v44 / label~e.14)
-                                          :C (v45 / label~e.17,18,19))
-                                  :A (v35 / label~e.20)
-                                  :P (v36 / label~e.21)
-                                  :D (v37 / label~e.23)
-                                  :A (v38 / label
-                                          :R (v46 / label~e.24)
-                                          :C (v47 / label~e.25)))
-                          :L (v29 / label
-                                  :R (v39 / label~e.27)
-                                  :C (v40 / label~e.28))
-                          :H (v30 / label
-                                  :A (v41 / label
-                                          :E (v48 / label
-                                                  :E (v54 / label~e.29,30,31)
-                                                  :C (v55 / label~e.32))
-                                          :C (v49 / label
-                                                  :C (v56 / label~e.33,34,36)
-                                                  :N (v57 / label~e.37)
-                                                  :C (v58 / label~e.38,39)))
-                                  :P (v42 / label
-                                          :E (v50 / label~e.41)
-                                          :C (v51 / label~e.43))
-                                  :A (v43 / label
-                                          :R (v52 / label~e.44)
-                                          :C (v53 / label
-                                                  :C (v59 / label~e.45)
-                                                  :N (v60 / label~e.46)
-                                                  :C (v61 / label
-                                                          :E (v62 / label~e.47)
-                                                          :C (v63 / label~e.49))))))
-                  :D (v21 / label~e.15)
-                  :P (v22 / label~e.16))
+                  :H (v20 / label
+                          :A (v27 / label
+                                  :C (v42 / label~e.17,18,19))
+                          :D (v28 / label
+                                  :E (v43 / label~e.15)
+                                  :C (v44 / label~e.16))
+                          :A (v29 / label~e.20)
+                          :P (v30 / label~e.21)
+                          :T (v31 / label~e.23)
+                          :A (v32 / label
+                                  :R (v45 / label~e.24)
+                                  :C (v46 / label~e.25)))
+                  :L (v21 / label
+                          :R (v33 / label~e.27)
+                          :C (v34 / label~e.28))
+                  :H (v22 / label
+                          :A (v35 / label
+                                  :E (v47 / label
+                                          :A (v51 / label~e.29,30,31)
+                                          :A (v52 / label~e.32))
+                                  :C (v48 / label
+                                          :C (v53 / label~e.33,34,36)
+                                          :N (v54 / label~e.37)
+                                          :C (v55 / label~e.38,39)))
+                          :D (v36 / label~e.41)
+                          :P (v37 / label~e.43)
+                          :A (v38 / label
+                                  :R (v49 / label~e.44)
+                                  :C (v50 / label
+                                          :C (v56 / label~e.45)
+                                          :N (v57 / label~e.46)
+                                          :C (v58 / label
+                                                  :E (v59 / label~e.47)
+                                                  :C (v60 / label~e.49))))))
            :A (v9 / label
                   :R (v23 / label~e.50)
-                  :E (v24 / label~e.52)
-                  :E (v25 / label~e.53)
-                  :C (v26 / label~e.54)
-                  :E (v27 / label
-                          :R (v31 / label~e.55)
-                          :E (v32 / label~e.56)
-                          :C (v33 / label~e.57)))
+                  :E (v24 / label
+                          :A (v25 / label~e.54)
+                          :S (v39 / label~e.53))
+                  :C v25
+                  :E (v26 / label
+                          :R (v40 / label~e.55)
+                          :C (v41 / label~e.57)))
            :A (v10 / label~e.11)
            :P (v11 / label~e.12)))

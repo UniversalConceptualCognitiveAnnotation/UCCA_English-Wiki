@@ -1,23 +1,23 @@
 # ::id 220004
 # ::tok Reports have stated that she will join Clive Owen and Orlando Bloom in the international thriller titled Cities .
-# ::alignments 0-1.1.1 2-1.1.3 4-1.1.4.2 6-1.1.4.4 7-1.1.4.5.1 8-1.1.4.5.1 9-1.1.4.5.2 10-1.1.4.5.3 11-1.1.4.5.3 12-1.1.5.5 13-1.1.5.1.1 14-1.1.5.1.2 15-1.1.5.1.3 16-1.1.5.2 17-1.1.5.3
+# ::alignments 0-1.1.1 2-1.1.3 3-1.1.4.1 4-1.1.4.2 6-1.1.4.4 7-1.1.4.5.1 8-1.1.4.5.1 9-1.1.4.5.2 10-1.1.4.5.3 11-1.1.4.5.3 12-1.1.5.5 14-1.1.5.1.2 15-1.1.5.1.3 16-1.1.5.2 17-1.1.5.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v3 / label~e.0)
            :P (v4 / label~e.2)
            :A (v5 / label
-                  :A (v7 / label~e.4)
-                  :P (v8 / label~e.6)
-                  :A (v9 / label
-                         :C (v14 / label~e.7,8)
-                         :N (v15 / label~e.9)
-                         :C (v16 / label~e.10,11)))
-           :A (v6 / label
+                  :R (v7 / label~e.3)
+                  :A (v8 / label~e.4)
+                  :P (v9 / label~e.6)
                   :A (v10 / label
-                          :E (v17 / label~e.13)
+                          :C (v15 / label~e.7,8)
+                          :N (v16 / label~e.9)
+                          :C (v17 / label~e.10,11)))
+           :A (v6 / label
+                  :E (v11 / label
                           :E (v18 / label~e.14)
                           :C (v19 / label~e.15))
-                  :S (v11 / label~e.16)
-                  :A (v12 / label~e.17)
-                  :R (v13 / label~e.12))))
+                  :R (v12 / label~e.16)
+                  :C (v13 / label~e.17)
+                  :R (v14 / label~e.12))))

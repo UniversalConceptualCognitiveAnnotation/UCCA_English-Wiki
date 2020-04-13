@@ -1,26 +1,26 @@
 # ::id 214004
 # ::tok After graduating from Notre Dame in 2000 , Dunst continued the acting career that she had begun .
-# ::alignments 0-1.1 1-1.2.1 2-1.2.2.1 3-1.2.2.2 4-1.2.2.2 5-1.2.3.1 6-1.2.3.2 8-1.2.5 9-1.3.2 10-1.3.3.4 11-1.3.3.1 12-1.3.3.2 14-1.3.3.3.3 16-1.3.3.3.5
+# ::alignments 0-1.1 1-1.2.2 2-1.2.3.1 3-1.2.3.2 4-1.2.3.2 5-1.2.4.1 6-1.2.4.2 8-1.2.1 9-1.3.2 11-1.3.4 12-1.3.5 13-1.4 14-1.5.5 16-1.5.1
 # ::format ucca
 (v1 / label
     :L (v2 / label~e.0)
     :H (v3 / label
-           :P (v5 / label~e.1)
-           :A (v6 / label
-                  :R (v11 / label~e.2)
-                  :C (v12 / label~e.3,4))
-           :D (v7 / label
-                  :R (v13 / label~e.5)
-                  :C (v14 / label~e.6))
-           :A (v8 / label~e.8))
+           :A (v7 / label~e.8)
+           :P (v8 / label~e.1)
+           :A (v9 / label
+                  :R (v16 / label~e.2)
+                  :C (v17 / label~e.3,4))
+           :T (v10 / label
+                   :R (v18 / label~e.5)
+                   :C (v19 / label~e.6)))
     :H (v4 / label
-           :A v8
-           :P (v9 / label~e.9)
-           :A (v10 / label
-                   :E (v15 / label~e.11)
-                   :C (v16 / label~e.12)
-                   :E (v17 / label
-                           :A v16
-                           :A (v19 / label~e.14)
-                           :P (v20 / label~e.16))
-                   :E (v18 / label~e.10))))
+           :A v7
+           :D (v11 / label~e.9)
+           :D (v12 / label~e.11)
+           :P (v13 / label~e.12))
+    :L (v5 / label~e.13)
+    :H (v6 / label
+           :D (v14 / label~e.16)
+           :D v12
+           :P v13
+           :A (v15 / label~e.14)))

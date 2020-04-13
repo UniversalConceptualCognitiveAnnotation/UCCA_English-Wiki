@@ -1,10 +1,10 @@
 # ::id 221003
 # ::tok In May she went public with this information in order to highlight the struggle faced by so many other successful women and to dispel false rumors that had been very painful for her friends and family .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2 3-1.1.3 4-1.1.3 5-1.1.4.1 6-1.1.4.2 7-1.1.4.3 8-1.2 9-1.2 11-1.3.2 12-1.3.3.1.1 13-1.3.3.1.2 14-1.3.3.2 15-1.3.3.3.1 16-1.3.3.3.2.1 17-1.3.3.3.2.2 18-1.3.3.3.3 19-1.3.3.3.4 20-1.3.3.3.5 21-1.4 23-1.5.4 24-1.5.1.1 25-1.5.1.2 29-1.5.1.3.5 30-1.5.1.3.6 31-1.5.1.3.7.1 32-1.5.1.3.7.2 33-1.5.1.3.7.3.1 34-1.5.1.3.7.3.2 35-1.5.1.3.7.3.3
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2 3-1.1.3 4-1.1.3 5-1.1.4.1 6-1.1.4.2 7-1.1.4.3 8-1.2 9-1.2 11-1.3.2 13-1.3.3.2.1 14-1.3.3.3.2 15-1.3.3.3.3.1 16-1.3.3.3.3.2.1 17-1.3.3.3.3.2.2 18-1.3.3.3.3.3 19-1.3.3.3.3.4.2 20-1.3.3.3.3.5 21-1.4 23-1.5.4 24-1.5.1.1 25-1.5.1.2 26-1.5.1.3.2 29-1.5.1.3.5 30-1.5.1.3.6 31-1.5.1.3.7.1 32-1.5.1.3.7.2.1.1 33-1.5.1.3.7.2.1.2 34-1.5.1.3.7.2.2 35-1.5.1.3.7.2.3.1
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :D (v7 / label
+           :T (v7 / label
                   :R (v15 / label~e.0)
                   :C (v16 / label~e.1))
            :A (v8 / label~e.2)
@@ -17,34 +17,41 @@
     :H (v4 / label
            :P (v11 / label~e.11)
            :A (v12 / label
-                   :A (v20 / label
-                           :E (v26 / label~e.12)
-                           :C (v27 / label~e.13))
-                   :P (v21 / label~e.14)
-                   :A (v22 / label
-                           :R (v28 / label~e.15)
-                           :E (v29 / label
-                                   :E (v36 / label~e.16)
-                                   :C (v37 / label~e.17))
-                           :E (v30 / label~e.18)
-                           :E (v31 / label~e.19)
-                           :C (v32 / label~e.20)))
+                   :C (v20 / label
+                           :P (v25 / label~e.13))
+                   :E (v21 / label
+                           :A v20
+                           :P (v26 / label~e.14)
+                           :A (v27 / label
+                                   :R (v32 / label~e.15)
+                                   :Q (v33 / label
+                                           :E (v39 / label~e.16)
+                                           :C (v40 / label~e.17))
+                                   :E (v34 / label~e.18)
+                                   :E (v35 / label
+                                           :A (v36 / label~e.20)
+                                           :S (v41 / label~e.19))
+                                   :C v36)))
            :A v8)
     :L (v5 / label~e.21)
     :H (v6 / label
            :A (v13 / label
-                   :E (v23 / label~e.24)
-                   :C (v24 / label~e.25)
-                   :E (v25 / label
-                           :A v24
-                           :D (v33 / label~e.29)
-                           :S (v34 / label~e.30)
-                           :A (v35 / label
-                                   :R (v38 / label~e.31)
-                                   :E (v39 / label~e.32)
-                                   :C (v40 / label
-                                           :C (v41 / label~e.33)
-                                           :N (v42 / label~e.34)
-                                           :C (v43 / label~e.35)))))
+                   :E (v22 / label~e.24)
+                   :C (v23 / label~e.25)
+                   :E (v24 / label
+                           :A v23
+                           :R (v28 / label~e.26)
+                           :D (v29 / label~e.29)
+                           :S (v30 / label~e.30)
+                           :A (v31 / label
+                                   :R (v37 / label~e.31)
+                                   :C (v38 / label
+                                           :C (v42 / label
+                                                   :A (v45 / label~e.32)
+                                                   :S (v46 / label~e.33))
+                                           :N (v43 / label~e.34)
+                                           :C (v44 / label
+                                                   :A (v47 / label~e.35)
+                                                   :A v45)))))
            :A v8
            :P (v14 / label~e.23)))

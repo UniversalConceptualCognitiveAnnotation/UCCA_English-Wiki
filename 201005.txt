@@ -1,6 +1,6 @@
 # ::id 201005
 # ::tok Sorkin has also said , " As a writer , I do n't like to answer questions until the very moment that I have to . "
-# ::alignments 0-1.1.3 2-1.1.5 3-1.1.6 6-1.1.7.1.3.1 7-1.1.7.1.3.2 8-1.1.7.1.3.3 10-1.1.7.1.1 12-1.1.7.2.4 13-1.1.7.2.2.1.1 14-1.1.7.2.2.1.2 15-1.1.7.2.2.2 16-1.1.7.2.5 17-1.1.7.3 18-1.1.7.4.1.1 19-1.1.7.4.1.2 20-1.1.7.4.1.3 22-1.1.7.4.2.2 23-1.1.7.4.3.1.1 24-1.1.7.4.3.1.2
+# ::alignments 0-1.1.3 2-1.1.5 3-1.1.6 6-1.1.7.1.1 7-1.1.7.1.2.1 8-1.1.7.1.2.2 10-1.1.7.2.1 12-1.1.7.2.3 13-1.1.7.2.4 14-1.1.7.2.5.2 15-1.1.7.4.5 16-1.1.7.2.5.4 17-1.1.7.3 18-1.1.7.4.1.1 19-1.1.7.4.1.2 20-1.1.7.4.1.3 22-1.1.7.4.3 23-1.1.7.4.4 24-1.1.7.4.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -9,31 +9,25 @@
            :P (v5 / label~e.3)
            :A (v6 / label
                   :H (v7 / label
-                         :A (v11 / label~e.10)
-                         :S (v12 / label)
-                         :A (v13 / label
-                                 :R (v20 / label~e.6)
+                         :R (v11 / label~e.6)
+                         :A (v12 / label
                                  :E (v21 / label~e.7)
                                  :C (v22 / label~e.8)))
                   :H (v8 / label
-                         :A v11
-                         :P (v14 / label
-                                 :E (v23 / label
-                                         :C (v30 / label~e.13)
-                                         :R (v31 / label~e.14))
-                                 :C (v24 / label~e.15))
-                         :D (v15 / label~e.12)
-                         :A (v16 / label~e.16))
+                         :A (v13 / label~e.10)
+                         :D (v14 / label~e.12)
+                         :S (v15 / label~e.13)
+                         :A (v16 / label
+                                 :A v13
+                                 :R (v23 / label~e.14)
+                                 :P (v20 / label~e.15)
+                                 :A (v24 / label~e.16)))
                   :L (v9 / label~e.17)
                   :H (v10 / label
-                          :D (v17 / label
+                          :T (v17 / label
                                   :E (v25 / label~e.18)
                                   :E (v26 / label~e.19)
                                   :C (v27 / label~e.20))
-                          :A (v18 / label
-                                  :C (v28 / label~e.22))
-                          :P (v19 / label
-                                  :E (v29 / label
-                                          :C (v32 / label~e.23)
-                                          :E (v33 / label~e.24))
-                                  :C v24)))))
+                          :A (v18 / label~e.22)
+                          :D (v19 / label~e.23,24)
+                          :P v20))))

@@ -1,6 +1,6 @@
 # ::id 148012
 # ::tok Tracy remained married throughout their relationship ; although he and his wife Louise had been living separate lives since the 1930s , there was never an official split and neither party pursued a divorce .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.2 4-1.3.1 5-1.3.2 7-1.4 8-1.5.1.1 9-1.5.1.2 10-1.5.1.3.1.1 11-1.5.1.3.1.2 12-1.5.1.3.2 15-1.5.4 16-1.5.5.1 17-1.5.5.2 18-1.5.6.1 19-1.5.6.2 20-1.5.6.3 23-1.6.1.2 24-1.6.2 25-1.6.3.1 26-1.6.3.2 27-1.6.3.3 28-1.7 29-1.8.1.1 30-1.8.1.2 31-1.8.2 32-1.8.3.1 33-1.8.3.2
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.2 4-1.3.1 5-1.3.2 7-1.4 8-1.5.1.1 9-1.5.1.2 10-1.5.1.3.1.1 11-1.5.1.3.1.2 12-1.5.1.3.2 15-1.5.4 16-1.5.5.1 18-1.5.6.1 19-1.5.6.2 20-1.5.6.3 24-1.6.3 25-1.6.4.1 26-1.6.5 27-1.6.4.2 28-1.7 29-1.8.1.1 30-1.8.1.2 31-1.8.2 32-1.8.3.1.1 33-1.8.3.1.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -17,32 +17,30 @@
                    :C (v25 / label~e.8)
                    :N (v26 / label~e.9)
                    :C (v27 / label
-                           :E (v41 / label
-                                   :E (v43 / label~e.10)
-                                   :C (v44 / label~e.11))
-                           :C (v42 / label~e.12)))
+                           :E (v37 / label
+                                   :A (v41 / label~e.10)
+                                   :S (v42 / label~e.11))
+                           :C (v38 / label~e.12)))
            :P (v16 / label~e.15)
-           :A (v17 / label
-                   :E (v28 / label~e.16)
-                   :C (v29 / label~e.17))
-           :D (v18 / label
-                   :R (v30 / label~e.18)
-                   :E (v31 / label~e.19)
-                   :C (v32 / label~e.20)))
+           :D (v17 / label
+                   :C (v28 / label~e.16))
+           :T (v18 / label
+                   :R (v29 / label~e.18)
+                   :E (v30 / label~e.19)
+                   :C (v31 / label~e.20)))
     :H (v7 / label
-           :S (v19 / label
-                   :C (v33 / label~e.23))
-           :D (v20 / label~e.24)
-           :A (v21 / label
-                   :E (v34 / label~e.25)
-                   :E (v35 / label~e.26)
-                   :C (v36 / label~e.27)))
+           :D (v19 / label~e.24)
+           :P (v20 / label
+                   :E (v32 / label~e.25)
+                   :C (v33 / label~e.27))
+           :D (v21 / label~e.26))
     :L (v8 / label~e.28)
     :H (v9 / label
-           :A (v22 / label
-                   :E (v37 / label~e.29)
-                   :C (v38 / label~e.30))
+           :D (v22 / label
+                   :Q (v34 / label~e.29)
+                   :C (v35 / label~e.30))
            :P (v23 / label~e.31)
            :A (v24 / label
-                   :E (v39 / label~e.32)
-                   :C (v40 / label~e.33))))
+                   :P (v36 / label
+                           :E (v39 / label~e.32)
+                           :C (v40 / label~e.33)))))

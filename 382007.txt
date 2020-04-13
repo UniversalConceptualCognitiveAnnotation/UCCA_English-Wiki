@@ -1,20 +1,24 @@
 # ::id 382007
 # ::tok Gyllenhaal was named one of People magazine 's " 50 Most Beautiful People " in 2006 .
-# ::alignments 0-1.1.2 2-1.1.4 3-1.1.5.1.1 4-1.1.5.1.2 5-1.1.5.2.1 6-1.1.5.2.2 7-1.1.5.2.3 9-1.1.5.3 10-1.1.5.3 11-1.1.5.3 12-1.1.5.3 14-1.1.6.1 15-1.1.6.2
+# ::alignments 0-1.1.2 2-1.1.4 3-1.1.5.1 4-1.1.5.2 5-1.1.5.3.1 6-1.1.5.3.2 7-1.1.5.3.3 9-1.1.5.4 10-1.1.5.5.2 11-1.1.5.5.3 12-1.1.5.6 14-1.1.6.1 15-1.1.6.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v3 / label~e.0)
            :P (v4 / label~e.2)
            :A (v5 / label
-                  :E (v7 / label
-                         :C (v12 / label~e.3)
-                         :R (v13 / label~e.4))
-                  :E (v8 / label
-                         :E (v14 / label~e.5)
-                         :C (v15 / label~e.6)
-                         :R (v16 / label~e.7))
-                  :C (v9 / label~e.9,10,11,12))
-           :D (v6 / label
-                  :R (v10 / label~e.14)
-                  :C (v11 / label~e.15))))
+                  :Q (v7 / label~e.3)
+                  :R (v8 / label~e.4)
+                  :E (v9 / label
+                         :E (v15 / label~e.5)
+                         :C (v16 / label~e.6)
+                         :R (v17 / label~e.7))
+                  :Q (v10 / label~e.9)
+                  :E (v11 / label
+                          :A (v12 / label~e.12)
+                          :D (v18 / label~e.10)
+                          :S (v19 / label~e.11))
+                  :C v12)
+           :T (v6 / label
+                  :R (v13 / label~e.14)
+                  :C (v14 / label~e.15))))

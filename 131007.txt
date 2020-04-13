@@ -1,23 +1,26 @@
 # ::id 131007
-# ::tok No other star , either , has become so unpopular so quickly for so long a time . "
-# ::alignments 0-1.1.6.1 1-1.1.6.2 2-1.1.6.3 4-1.1.7 7-1.1.9 8-1.1.10 9-1.1.1 10-1.1.2.1 11-1.1.2.2 12-1.1.3.1 13-1.1.3.2 14-1.1.3.3 15-1.1.3.4 16-1.1.3.5
+# ::tok Following this decline in her career , Hepburn took action to create her own comeback vehicle .
+# ::alignments 0-1.1 1-1.2.1.1 2-1.2.1.2 4-1.2.3 5-1.2.4 7-1.3.1 9-1.3.2.2 10-1.3.3.1 11-1.3.3.2 12-1.3.3.3.1 13-1.3.3.3.2 14-1.3.3.3.3.1 15-1.3.3.3.3.2
 # ::format ucca
 (v1 / label
-    :H (v2 / label
-           :P (v3 / label~e.9)
-           :D (v4 / label
-                  :R (v10 / label~e.10)
-                  :C (v11 / label~e.11))
+    :L (v2 / label~e.0)
+    :H (v3 / label
            :D (v5 / label
-                  :R (v12 / label~e.12)
-                  :E (v13 / label~e.13)
-                  :E (v14 / label~e.14)
-                  :E (v15 / label~e.15)
-                  :C (v16 / label~e.16))
-           :A (v6 / label
-                  :E (v17 / label~e.0)
-                  :E (v18 / label~e.1)
-                  :C (v19 / label~e.2))
-           :D (v7 / label~e.4)
-           :D (v8 / label~e.7)
-           :D (v9 / label~e.8)))
+                  :E (v11 / label~e.1)
+                  :C (v12 / label~e.2))
+           :A (v6 / label~e.4)
+           :P (v7 / label~e.5))
+    :H (v4 / label
+           :A (v8 / label~e.7)
+           :P (v9 / label
+                  :C (v13 / label~e.9))
+           :A (v10 / label
+                   :R (v14 / label~e.10)
+                   :P (v15 / label~e.11)
+                   :A (v16 / label
+                           :A (v17 / label~e.12)
+                           :S (v18 / label~e.13)
+                           :A (v19 / label
+                                   :P (v20 / label~e.14)
+                                   :A (v21 / label~e.15)))
+                   :A v8)))

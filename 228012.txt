@@ -1,32 +1,31 @@
 # ::id 228012
 # ::tok In Chan 's next movie , Shaolin , he plays the cook of the temple instead of one of the major characters .
-# ::alignments 0-1.1.2.1 1-1.1.2.2.1 2-1.1.2.2.2 3-1.1.2.3 4-1.1.2.4 6-1.1.2.5 8-1.1.3 9-1.1.4 10-1.1.5.1 11-1.1.5.2 12-1.1.5.3.1 13-1.1.5.3.2 14-1.1.5.3.3 15-1.1.6.1.1 17-1.1.6.2.1 18-1.1.6.2.2 19-1.1.6.3 20-1.1.6.4 21-1.1.6.5
+# ::alignments 0-1.1.2.1 1-1.1.2.2.2 2-1.1.2.2.3 3-1.1.2.3 4-1.1.2.4 6-1.1.2.5 8-1.1.3 9-1.1.4 11-1.1.5.2 12-1.1.5.3.1 14-1.1.5.3.3 15-1.1.6.1.1 16-1.1.6.1.2 17-1.1.6.2.1 18-1.1.6.2.2 20-1.1.6.4 21-1.1.6.5
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v3 / label
-                  :E (v8 / label~e.0)
+                  :R (v8 / label~e.0)
                   :E (v9 / label
-                         :C (v21 / label~e.1)
-                         :R (v22 / label~e.2))
+                         :A (v12 / label~e.6)
+                         :A (v19 / label~e.1)
+                         :S (v20 / label~e.2))
                   :E (v10 / label~e.3)
                   :E (v11 / label~e.4)
-                  :C (v12 / label~e.6))
+                  :C v12)
            :A (v4 / label~e.8)
            :P (v5 / label~e.9)
            :A (v6 / label
-                  :E (v13 / label~e.10)
-                  :C (v14 / label~e.11)
-                  :E (v15 / label
-                          :R (v23 / label~e.12)
-                          :E (v24 / label~e.13)
-                          :C (v25 / label~e.14)))
+                  :A (v13 / label~e.11)
+                  :A (v14 / label
+                          :R (v21 / label~e.12)
+                          :C (v22 / label~e.14)))
            :A (v7 / label
-                  :R (v16 / label
-                          :C (v26 / label~e.15))
-                  :E (v17 / label
-                          :C (v27 / label~e.17)
-                          :R (v28 / label~e.18))
-                  :E (v18 / label~e.19)
-                  :E (v19 / label~e.20)
-                  :C (v20 / label~e.21))))
+                  :R (v15 / label
+                          :C (v23 / label~e.15)
+                          :R (v24 / label~e.16))
+                  :Q (v16 / label
+                          :C (v25 / label~e.17)
+                          :R (v26 / label~e.18))
+                  :E (v17 / label~e.20)
+                  :C (v18 / label~e.21))))

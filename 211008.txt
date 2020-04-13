@@ -1,31 +1,31 @@
 # ::id 211008
 # ::tok In the 2002 documentary The Weather Underground , Hoffman can be seen standing in the street during the aftermath of the explosion .
-# ::alignments 0-1.1.2.1 1-1.1.2.2.1 2-1.1.2.2.2 3-1.1.2.2.3 4-1.1.2.3 5-1.1.2.3 6-1.1.2.3 8-1.1.3 9-1.1.4.1.1 11-1.1.4.1.3 12-1.1.4.2 13-1.1.5.1 14-1.1.5.2 15-1.1.5.3 16-1.1.6.1 17-1.1.6.2 18-1.1.6.3 19-1.1.6.4.1 20-1.1.6.4.2 21-1.1.6.4.3
+# ::alignments 0-1.1.2.1 2-1.1.2.2.2.3 3-1.1.2.2.3 4-1.1.2.3 5-1.1.2.3 6-1.1.2.3 8-1.1.3.1.1 9-1.1.4 11-1.1.6 12-1.1.3.1.2 13-1.1.3.1.3.1 15-1.1.3.1.3.3 16-1.1.3.2 18-1.1.3.3.2 19-1.1.3.3.3.1 21-1.1.3.3.3.3.1
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v3 / label
-                  :R (v8 / label~e.0)
-                  :E (v9 / label
-                         :E (v20 / label~e.1)
-                         :E (v21 / label~e.2)
-                         :C (v22 / label~e.3))
-                  :C (v10 / label~e.4,5,6))
-           :A (v4 / label~e.8)
-           :P (v5 / label
-                  :E (v11 / label
-                          :E (v23 / label~e.9)
-                          :C (v24 / label~e.11))
-                  :C (v12 / label~e.12))
-           :A (v6 / label
-                  :R (v13 / label~e.13)
-                  :E (v14 / label~e.14)
-                  :C (v15 / label~e.15))
-           :A (v7 / label
-                  :R (v16 / label~e.16)
-                  :E (v17 / label~e.17)
-                  :C (v18 / label~e.18)
-                  :E (v19 / label
-                          :R (v25 / label~e.19)
-                          :E (v26 / label~e.20)
-                          :C (v27 / label~e.21)))))
+                  :R (v7 / label~e.0)
+                  :E (v8 / label
+                         :E (v13 / label
+                                 :A (v14 / label~e.3)
+                                 :P (v20 / label)
+                                 :T (v21 / label~e.2))
+                         :C v14)
+                  :C (v9 / label~e.4,5,6))
+           :A (v4 / label
+                  :H (v10 / label
+                          :A (v15 / label~e.8)
+                          :P (v16 / label~e.12)
+                          :A (v17 / label
+                                  :R (v22 / label~e.13)
+                                  :C (v23 / label~e.15)))
+                  :L (v11 / label~e.16)
+                  :H (v12 / label
+                          :S (v18 / label~e.18)
+                          :A (v19 / label
+                                  :R (v24 / label~e.19)
+                                  :C (v25 / label
+                                          :P (v26 / label~e.21)))))
+           :D (v5 / label~e.9)
+           :P (v6 / label~e.11)))

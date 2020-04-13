@@ -1,27 +1,26 @@
 # ::id 217003
 # ::tok In the Los Angeles Times review , critic Kenneth Turan noted that Dunst and Maguire made a real connection on screen , concluding that their relationship involved audiences to an extent rarely seen in films .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 3-1.1.1.3 4-1.1.1.3 5-1.1.1.4 7-1.1.2.1 8-1.2.1 9-1.2.1 10-1.1.3 12-1.1.4.2.1 13-1.1.4.2.2 14-1.1.4.2.3 16-1.1.4.4.1 17-1.1.4.4.2 18-1.1.4.3.2 19-1.1.4.5.1 20-1.1.4.5.2 22-1.2.2 24-1.2.3.5.1 25-1.2.3.5.2 26-1.2.3.1 27-1.2.3.2 28-1.2.3.3.1 29-1.2.3.3.2 30-1.2.3.3.3 31-1.2.3.3.4.1 32-1.2.3.3.4.2 33-1.2.3.3.4.3.1 34-1.2.3.3.4.3.2
+# ::alignments 0-1.1.1.1 2-1.1.1.3 3-1.1.1.3 4-1.1.1.3 5-1.1.1.4 7-1.1.2.1 8-1.2.1 9-1.2.1 10-1.1.3 11-1.1.4.1 12-1.1.4.2.1 13-1.1.4.2.2 14-1.1.4.2.3 17-1.1.4.4.2 18-1.1.4.3.2 19-1.1.4.5.1 20-1.1.4.5.2 22-1.2.2 23-1.2.3.4 24-1.2.3.5.1 25-1.2.3.5.2 26-1.2.3.1 27-1.2.3.2 28-1.2.3.3.1 30-1.2.3.3.3 31-1.2.3.3.4.2 32-1.2.3.3.4.3 33-1.2.3.3.4.4.1 34-1.2.3.3.4.4.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v4 / label
                   :R (v11 / label~e.0)
-                  :E (v12 / label~e.1)
-                  :E (v13 / label~e.2,3,4)
-                  :C (v14 / label~e.5))
+                  :A (v12 / label~e.2,3,4)
+                  :P (v13 / label~e.5))
            :A (v5 / label
-                  :E (v15 / label~e.7)
+                  :E (v14 / label~e.7)
                   :C (v8 / label~e.8,9))
            :P (v6 / label~e.10)
            :A (v7 / label
+                  :R (v15 / label~e.11)
                   :A (v16 / label
-                          :C (v24 / label~e.12)
-                          :N (v25 / label~e.13)
-                          :C (v26 / label~e.14))
+                          :C (v25 / label~e.12)
+                          :N (v26 / label~e.13)
+                          :C (v27 / label~e.14))
                   :P (v17 / label
-                          :C (v27 / label~e.18))
+                          :C (v28 / label~e.18))
                   :D (v18 / label
-                          :E (v28 / label~e.16)
                           :C (v29 / label~e.17))
                   :A (v19 / label
                           :R (v30 / label~e.19)
@@ -32,16 +31,17 @@
            :A (v10 / label
                    :P (v20 / label~e.26)
                    :A (v21 / label~e.27)
-                   :A (v22 / label
+                   :D (v22 / label
                            :R (v32 / label~e.28)
-                           :E (v33 / label~e.29)
-                           :C (v34 / label~e.30)
-                           :E (v35 / label
-                                   :D (v38 / label~e.31)
-                                   :P (v39 / label~e.32)
-                                   :A (v40 / label
-                                           :R (v41 / label~e.33)
-                                           :C (v42 / label~e.34))))
-                   :A (v23 / label
-                           :E (v36 / label~e.24)
-                           :C (v37 / label~e.25)))))
+                           :C (v33 / label~e.30)
+                           :E (v34 / label
+                                   :A v33
+                                   :D (v37 / label~e.31)
+                                   :P (v38 / label~e.32)
+                                   :A (v39 / label
+                                           :R (v40 / label~e.33)
+                                           :C (v41 / label~e.34))))
+                   :R (v23 / label~e.23)
+                   :A (v24 / label
+                           :A (v35 / label~e.24)
+                           :P (v36 / label~e.25)))))

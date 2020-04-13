@@ -1,6 +1,6 @@
 # ::id 243002
 # ::tok He then appeared in such films as White Fang ( 1991 ) , A Midnight Clear ( 1992 ) , and Alive ( 1993 ) before taking a role in the 1994 Generation X drama Reality Bites , for which he gained critical acclaim .
-# ::alignments 0-1.1.1 1-1.2 2-1.1.2 3-1.1.3.1 4-1.1.3.2.1 5-1.1.3.3 6-1.1.3.2.1 7-1.1.3.2.2.1.2 8-1.1.3.2.2.1.2 10-1.1.3.2.2.1.3 13-1.1.3.2.2.2.1 14-1.1.3.2.2.2.1 15-1.1.3.2.2.2.1 17-1.1.3.2.2.2.2 20-1.1.3.2.2.3 21-1.1.3.2.2.4.1 23-1.1.3.2.2.4.2 25-1.3 27-1.4.2.2 28-1.4.2.3 29-1.4.3.1 30-1.4.3.2 31-1.4.3.3 32-1.4.3.4.1.1 33-1.4.3.4.1.2 34-1.4.3.4.2 35-1.4.3.5 36-1.4.3.5 38-1.4.3.6.1.2 40-1.4.3.6.3 41-1.4.3.6.4 42-1.4.3.6.5.1 43-1.4.3.6.5.2
+# ::alignments 0-1.1.1 1-1.2 2-1.1.2 3-1.1.3.1 4-1.1.3.2.1 5-1.1.3.3 6-1.1.3.2.1 7-1.1.3.2.2.1.2 8-1.1.3.2.2.1.2 10-1.1.3.2.2.1.3.3 13-1.1.3.2.2.2.1 14-1.1.3.2.2.2.1 15-1.1.3.2.2.2.1 17-1.1.3.2.2.2.2.3 20-1.1.3.2.2.3 21-1.1.3.2.2.4.1 23-1.1.3.2.2.4.2.3 25-1.3 28-1.4.2.3 29-1.4.3.1 31-1.4.3.3.3 32-1.4.3.4.1.1 33-1.4.3.4.1.2 34-1.4.3.4.2 35-1.4.3.5 36-1.4.3.5 38-1.4.3.6.1.2 39-1.4.3.6.2 40-1.4.3.6.3 41-1.4.3.6.4 42-1.4.3.6.5.1 43-1.4.3.6.5.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -9,42 +9,53 @@
            :A (v8 / label
                   :R (v11 / label~e.3)
                   :E (v12 / label
-                          :R (v22 / label~e.4,6)
-                          :C (v23 / label
-                                  :C (v30 / label
-                                          :C (v39 / label~e.7,8)
-                                          :E (v40 / label~e.10))
+                          :R (v20 / label~e.4,6)
+                          :C (v21 / label
                                   :C (v31 / label
-                                          :C (v41 / label~e.13,14,15)
-                                          :E (v42 / label~e.17))
-                                  :N (v32 / label~e.20)
-                                  :C (v33 / label
-                                          :C (v43 / label~e.21)
-                                          :E (v44 / label~e.23))))
+                                          :C (v40 / label~e.7,8)
+                                          :E (v41 / label
+                                                  :A v40
+                                                  :P (v46 / label)
+                                                  :T (v47 / label~e.10)))
+                                  :C (v32 / label
+                                          :C (v42 / label~e.13,14,15)
+                                          :E (v43 / label
+                                                  :A v42
+                                                  :P (v48 / label)
+                                                  :T (v49 / label~e.17)))
+                                  :N (v33 / label~e.20)
+                                  :C (v34 / label
+                                          :C (v44 / label~e.21)
+                                          :E (v45 / label
+                                                  :A v44
+                                                  :P (v50 / label)
+                                                  :T (v51 / label~e.23)))))
                   :C (v13 / label~e.5)))
     :L (v3 / label~e.1)
     :L (v4 / label~e.25)
     :H (v5 / label
            :A v6
            :P (v9 / label
-                  :E (v14 / label~e.27)
-                  :C (v15 / label~e.28))
+                  :C (v14 / label~e.28))
            :A (v10 / label
-                   :R (v16 / label~e.29)
-                   :E (v17 / label~e.30)
-                   :E (v18 / label~e.31)
-                   :E (v19 / label
+                   :R (v15 / label~e.29)
+                   :E (v16 / label
+                           :A (v18 / label~e.35,36)
+                           :P (v22 / label)
+                           :T (v23 / label~e.31))
+                   :E (v17 / label
                            :E (v24 / label
-                                   :C (v34 / label~e.32)
-                                   :E (v35 / label~e.33))
+                                   :E (v35 / label~e.32)
+                                   :C (v36 / label~e.33))
                            :C (v25 / label~e.34))
-                   :C (v20 / label~e.35,36)
-                   :E (v21 / label
+                   :C v18
+                   :E (v19 / label
                            :A (v26 / label
-                                   :C v20
-                                   :R (v36 / label~e.38))
-                           :A (v27 / label~e.40)
-                           :P (v28 / label~e.41)
-                           :A (v29 / label
-                                   :A (v37 / label~e.42)
-                                   :P (v38 / label~e.43))))))
+                                   :C v18
+                                   :R (v37 / label~e.38))
+                           :R (v27 / label~e.39)
+                           :A (v28 / label~e.40)
+                           :P (v29 / label~e.41)
+                           :A (v30 / label
+                                   :D (v38 / label~e.42)
+                                   :P (v39 / label~e.43))))))

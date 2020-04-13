@@ -1,37 +1,37 @@
 # ::id 105001
 # ::tok She committed to acting at the age of 16 , but initially found it difficult to pass auditions , often being told that she was " too dark . "
-# ::alignments 0-1.1.1 1-1.1.2 3-1.1.3.2 4-1.1.4.1 5-1.1.4.2 6-1.1.4.3 8-1.1.4.5 10-1.2 11-1.3.1 12-1.3.2 14-1.3.3.2 15-1.3.4.1 16-1.3.4.2 17-1.3.4.3 19-1.4.1 21-1.4.3 22-1.4.4.1 23-1.4.4.2 26-1.4.4.4.1 27-1.4.4.4.2
+# ::alignments 0-1.1.1 1-1.1.2 3-1.1.4 4-1.2 6-1.3.2 8-1.3.3.3 10-1.4 11-1.5.1 12-1.5.2 14-1.5.3.2 15-1.5.3.3.1 16-1.5.3.3.2 17-1.5.3.3.3 19-1.6.2 21-1.6.4 22-1.6.5.1 23-1.6.5.2 26-1.6.5.4 27-1.6.5.5
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :A (v6 / label~e.0)
-           :P (v7 / label~e.1)
-           :A (v8 / label
-                  :C (v17 / label~e.3))
-           :D (v9 / label
-                  :R (v18 / label~e.4)
-                  :E (v19 / label~e.5)
-                  :E (v20 / label~e.6)
-                  :C (v21 / label~e.8)))
-    :L (v3 / label~e.10)
+           :A (v8 / label~e.0)
+           :D (v9 / label~e.1)
+           :P (v10 / label~e.3))
+    :L (v3 / label~e.4)
     :H (v4 / label
-           :D (v10 / label~e.11)
-           :D (v11 / label~e.12)
-           :P (v12 / label
-                   :C (v22 / label~e.14))
-           :A (v13 / label
-                   :R (v23 / label~e.15)
-                   :P (v24 / label~e.16)
-                   :A (v25 / label~e.17)
-                   :A v6)
-           :A v6)
-    :H (v5 / label
-           :D (v14 / label~e.19)
-           :P (v15 / label~e.21)
-           :A (v16 / label
-                   :R (v26 / label~e.22)
-                   :A (v27 / label~e.23)
-                   :S (v28 / label
-                           :E (v29 / label~e.26)
-                           :C (v30 / label~e.27)))
-           :A v6))
+           :S (v11 / label~e.6)
+           :T (v12 / label
+                   :C (v20 / label)
+                   :Q (v21 / label~e.8))
+           :A v8)
+    :L (v5 / label~e.10)
+    :H (v6 / label
+           :D (v13 / label~e.11)
+           :P (v14 / label~e.12)
+           :A (v15 / label
+                   :S (v22 / label~e.14)
+                   :A (v23 / label
+                           :R (v28 / label~e.15)
+                           :P (v29 / label~e.16)
+                           :A (v30 / label~e.17)))
+           :A v8)
+    :H (v7 / label
+           :A (v16 / label)
+           :D (v17 / label~e.19)
+           :P (v18 / label~e.21)
+           :A (v19 / label
+                   :R (v24 / label~e.22)
+                   :A (v25 / label~e.23)
+                   :D (v26 / label~e.26)
+                   :S (v27 / label~e.27))
+           :A v8))

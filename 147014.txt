@@ -18,11 +18,11 @@
            :P (v11 / label~e.9)
            :A (v12 / label
                    :A (v22 / label~e.10)
-                   :D (v23 / label~e.11)
+                   :T (v23 / label~e.11)
                    :P (v24 / label~e.12)))
     :L (v5 / label~e.14)
     :H (v6 / label
-           :D (v13 / label
+           :T (v13 / label
                    :R (v25 / label~e.15)
                    :E (v26 / label~e.16)
                    :C (v27 / label~e.17))
@@ -34,6 +34,6 @@
                    :R (v28 / label~e.22)
                    :P (v29 / label~e.23)
                    :A (v30 / label
-                           :E (v31 / label~e.24)
-                           :E (v32 / label~e.25)
-                           :C (v33 / label~e.26)))))
+                           :A (v31 / label~e.24)
+                           :D (v32 / label~e.25)
+                           :P (v33 / label~e.26)))))

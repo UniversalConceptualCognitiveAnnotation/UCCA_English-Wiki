@@ -1,6 +1,6 @@
 # ::id 376000
 # ::tok Jacob Benjamin " Jake " Gyllenhaal ( pron . : / ˈdʒɪlənhɔːl / jil - ən - hawl , born December 19 , 1980 ) is an American actor .
-# ::alignments 0-1.1.2.1 1-1.1.2.1 3-1.1.2.1 5-1.1.2.1 7-1.1.2.2.2 11-1.1.2.2.3.2 13-1.1.2.2.3.3 15-1.1.2.2.3.3 17-1.1.2.2.3.3 19-1.1.2.3.2 20-1.1.2.3.3.1 21-1.1.2.3.3.2 23-1.1.2.3.3.3 25-1.1.3 26-1.1.4.3 27-1.1.4.4 28-1.1.4.1
+# ::alignments 0-1.1.3.1 1-1.1.3.1 3-1.1.3.1 5-1.1.3.1 7-1.1.3.2.2 11-1.1.3.2.3.2 13-1.1.3.2.3.3 15-1.1.3.2.3.3 17-1.1.3.2.3.3 19-1.1.3.3.2 20-1.1.3.3.3.1 21-1.1.3.3.3.2 23-1.1.3.3.3.3 27-1.1.6 28-1.1.7
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -8,20 +8,17 @@
                   :C (v6 / label~e.0,1,3,5)
                   :E (v7 / label
                          :A v6
-                         :S (v12 / label~e.7)
-                         :A (v13 / label
-                                 :N (v16 / label)
-                                 :C (v17 / label~e.11)
-                                 :C (v18 / label~e.13,15,17)))
+                         :P (v9 / label~e.7)
+                         :A (v10 / label
+                                 :N (v13 / label)
+                                 :C (v14 / label~e.11)
+                                 :C (v15 / label~e.13,15,17)))
                   :E (v8 / label
                          :A v6
-                         :P (v14 / label~e.19)
-                         :D (v15 / label
-                                 :E (v19 / label~e.20)
-                                 :E (v20 / label~e.21)
-                                 :C (v21 / label~e.23))))
-           :S (v4 / label~e.25)
-           :A (v5 / label
-                  :C (v9 / label~e.28)
-                  :E (v10 / label~e.26)
-                  :E (v11 / label~e.27))))
+                         :P (v11 / label~e.19)
+                         :T (v12 / label
+                                 :C (v16 / label~e.20)
+                                 :C (v17 / label~e.21)
+                                 :C (v18 / label~e.23))))
+           :D (v4 / label~e.27)
+           :P (v5 / label~e.28)))

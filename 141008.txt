@@ -1,41 +1,45 @@
 # ::id 141008
 # ::tok Hepburn received an Emmy Award nomination for playing wistful Southern mother Amanda Wingfield , which opened her mind to future work on the small screen .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.1.3.3 5-1.1.4 6-1.1.5.2 7-1.1.5.3 8-1.1.5.4.1.1 9-1.1.5.4.1.2 10-1.1.5.4.1.3 11-1.1.5.4.2 12-1.1.5.4.2 14-1.2 15-1.3.3 16-1.3.1.4 17-1.3.4.2 18-1.3.1.1 19-1.3.1.2.1 20-1.3.1.2.2 21-1.3.1.3.1 22-1.3.1.3.2 23-1.3.1.3.3 24-1.3.1.3.4
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.1.3.3 5-1.1.4 6-1.1.5.2 7-1.1.5.3 8-1.1.5.4.1.1.2 9-1.1.5.4.1.2.2 10-1.1.5.4.1.3.1 11-1.1.5.4.2 12-1.1.5.4.2 14-1.2 15-1.3.2 16-1.3.3.1 17-1.3.3.2 18-1.3.4.1 19-1.3.4.2 20-1.3.4.3 21-1.3.4.4.1 22-1.3.4.4.2 23-1.3.4.4.3 24-1.3.4.4.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v5 / label~e.0)
            :D (v6 / label~e.1)
            :A (v7 / label
-                  :E (v14 / label~e.2)
-                  :E (v15 / label~e.3)
-                  :C (v16 / label~e.4))
+                  :E (v13 / label~e.2)
+                  :E (v14 / label~e.3)
+                  :C (v15 / label~e.4))
            :P (v8 / label~e.5)
            :A (v9 / label
                   :A v5
-                  :R (v17 / label~e.6)
-                  :P (v18 / label~e.7)
-                  :A (v19 / label
+                  :R (v16 / label~e.6)
+                  :P (v17 / label~e.7)
+                  :A (v18 / label
                           :E (v25 / label
-                                  :E (v33 / label~e.8)
-                                  :E (v34 / label~e.9)
-                                  :C (v35 / label~e.10))
+                                  :E (v31 / label
+                                          :A (v33 / label
+                                                  :S (v36 / label~e.10))
+                                          :S (v34 / label~e.8))
+                                  :E (v32 / label
+                                          :A v33
+                                          :S (v35 / label~e.9))
+                                  :C v33)
                           :C (v26 / label~e.11,12))))
     :L (v3 / label~e.14)
     :H (v4 / label
-           :A (v10 / label
-                   :R (v20 / label~e.18)
-                   :P (v21 / label
-                           :E (v27 / label~e.19)
-                           :C (v28 / label~e.20))
-                   :A (v22 / label
-                           :R (v29 / label~e.21)
-                           :E (v30 / label~e.22)
-                           :E (v31 / label~e.23)
-                           :C (v32 / label~e.24))
-                   :A (v23 / label~e.16))
-           :A (v11 / label)
-           :P (v12 / label~e.15)
-           :A (v13 / label
-                   :E v23
-                   :C (v24 / label~e.17))))
+           :A v9
+           :P (v10 / label~e.15)
+           :A (v11 / label
+                   :E (v19 / label~e.16)
+                   :C (v20 / label~e.17))
+           :A (v12 / label
+                   :R (v21 / label~e.18)
+                   :T (v22 / label~e.19)
+                   :P (v23 / label~e.20)
+                   :A (v24 / label
+                           :R (v27 / label~e.21)
+                           :E (v28 / label~e.22)
+                           :E (v29 / label~e.23)
+                           :C (v30 / label~e.24))
+                   :A v19)))

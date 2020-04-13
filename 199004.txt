@@ -1,20 +1,21 @@
 # ::id 199004
 # ::tok The Newsroom has been renewed for a second season , which will premiere in June 2013 .
-# ::alignments 0-1.1.1 1-1.1.1 4-1.1.4 5-1.1.5.5 6-1.1.5.6 7-1.1.5.1 8-1.1.5.2 12-1.1.5.3.4 13-1.1.5.3.5.1 14-1.1.5.3.5.2 15-1.1.5.3.5.3
+# ::alignments 0-1.1.1 1-1.1.1 4-1.1.4 5-1.1.5.5 6-1.1.5.6 7-1.1.5.1 8-1.1.5.2 10-1.1.5.3.2 12-1.1.5.3.4 13-1.1.5.3.5.1 14-1.1.5.3.5.2 15-1.1.5.3.5.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v3 / label~e.0,1)
            :P (v4 / label~e.4)
            :A (v5 / label
-                  :E (v6 / label~e.7)
+                  :Q (v6 / label~e.7)
                   :C (v7 / label~e.8)
                   :E (v8 / label
                          :A v7
-                         :P (v11 / label~e.12)
-                         :D (v12 / label
-                                 :R (v13 / label~e.13)
-                                 :E (v14 / label~e.14)
-                                 :C (v15 / label~e.15)))
+                         :R (v11 / label~e.10)
+                         :P (v12 / label~e.12)
+                         :T (v13 / label
+                                 :R (v14 / label~e.13)
+                                 :C (v15 / label~e.14)
+                                 :C (v16 / label~e.15)))
                   :R (v9 / label~e.5)
                   :E (v10 / label~e.6))))

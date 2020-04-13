@@ -1,37 +1,36 @@
 # ::id 222010
 # ::tok Chan attended the Nah - Hwa Primary School on Hong Kong Island , where he failed his first year , after which his parents withdrew him from the school .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 5-1.1.3.2 6-1.1.3.3 7-1.1.3.4 8-1.1.4.1 9-1.1.4.2 10-1.1.4.2 11-1.1.4.3 13-1.2 14-1.3.1 15-1.3.2 16-1.3.3.1 17-1.3.3.2 18-1.3.3.3 20-1.4.1 22-1.5.1.1 23-1.5.1.2 24-1.5.2 25-1.5.3 26-1.5.4.1 27-1.5.4.2 28-1.5.4.3
+# ::alignments 0-1.1.1 1-1.1.2 3-1.1.3.2 5-1.1.3.2 6-1.1.3.3.1 7-1.1.3.3.2 8-1.1.3.4.1 9-1.1.3.4.2 10-1.1.3.4.2 11-1.1.3.4.3 13-1.1.3.5.2 14-1.1.3.5.3 15-1.1.3.5.4 16-1.1.3.5.5.1 17-1.1.3.5.5.2 18-1.1.3.5.5.3 20-1.2 21-1.2 22-1.3.2.1 23-1.3.2.2 24-1.3.3 25-1.3.4 26-1.3.1.1 28-1.3.1.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :A (v7 / label~e.0)
-           :P (v8 / label~e.1)
-           :A (v9 / label
-                  :E (v19 / label~e.2)
-                  :E (v20 / label~e.3,5)
-                  :E (v21 / label~e.6)
-                  :C (v22 / label~e.7))
-           :A (v10 / label
-                   :R (v23 / label~e.8)
-                   :E (v24 / label~e.9,10)
-                   :C (v25 / label~e.11)))
-    :L (v3 / label~e.13)
+           :A (v5 / label~e.0)
+           :P (v6 / label~e.1)
+           :A (v7 / label
+                  :C (v12 / label~e.3,5)
+                  :E (v13 / label
+                          :E (v20 / label~e.6)
+                          :C (v21 / label~e.7))
+                  :E (v14 / label
+                          :R (v22 / label~e.8)
+                          :E (v23 / label~e.9,10)
+                          :C (v24 / label~e.11))
+                  :E (v15 / label
+                          :A v12
+                          :R (v25 / label~e.13)
+                          :A (v26 / label~e.14)
+                          :P (v27 / label~e.15)
+                          :T (v28 / label
+                                  :E (v29 / label~e.16)
+                                  :Q (v30 / label~e.17)
+                                  :C (v31 / label~e.18)))))
+    :L (v3 / label~e.20,21)
     :H (v4 / label
-           :A (v11 / label~e.14)
-           :P (v12 / label~e.15)
-           :D (v13 / label
-                   :E (v26 / label~e.16)
-                   :E (v27 / label~e.17)
-                   :C (v28 / label~e.18)))
-    :L (v5 / label
-           :C (v14 / label~e.20))
-    :H (v6 / label
-           :A (v15 / label
-                   :E (v29 / label~e.22)
-                   :C (v30 / label~e.23))
-           :P (v16 / label~e.24)
-           :A (v17 / label~e.25)
-           :A (v18 / label
-                   :R (v31 / label~e.26)
-                   :E (v32 / label~e.27)
-                   :C (v33 / label~e.28))))
+           :A (v8 / label
+                  :R (v16 / label~e.26)
+                  :C (v17 / label~e.28))
+           :A (v9 / label
+                  :A (v18 / label~e.22)
+                  :A (v19 / label~e.23))
+           :P (v10 / label~e.24)
+           :A (v11 / label~e.25)))

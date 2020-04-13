@@ -1,24 +1,32 @@
 # ::id 209000
 # ::tok In director Barry Levinson 's Rain Man ( 1988 ) , Hoffman starred as an autistic savant , opposite Tom Cruise .
-# ::alignments 0-1.1.4.1 1-1.1.4.2.1 2-1.1.4.2.2 3-1.1.4.2.2 4-1.1.4.2.3 5-1.1.4.3 6-1.1.4.3 8-1.1.4.4 11-1.1.5 12-1.1.6 13-1.1.7.1 14-1.1.7.2 15-1.1.7.3 16-1.1.7.4 18-1.1.8.1 19-1.1.8.2 20-1.1.8.2
+# ::alignments 0-1.1.4.1 1-1.1.4.2.2.1.1 2-1.1.4.2.2.2 3-1.1.4.2.2.2 4-1.1.4.2.3 5-1.1.4.3 6-1.1.4.3 8-1.1.4.4.3 11-1.1.5 12-1.1.6 13-1.1.7.1 15-1.1.7.3.2 16-1.1.7.4.1 18-1.1.8.1 19-1.1.8.2 20-1.1.8.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v3 / label
                   :R (v8 / label~e.0)
                   :E (v9 / label
-                         :E (v18 / label~e.1)
-                         :C (v19 / label~e.2,3)
-                         :R (v20 / label~e.4))
-                  :C (v10 / label~e.5,6)
-                  :E (v11 / label~e.8))
+                         :A (v10 / label~e.5,6)
+                         :A (v17 / label
+                                 :E (v23 / label
+                                         :P (v25 / label~e.1))
+                                 :C (v24 / label~e.2,3))
+                         :S (v18 / label~e.4))
+                  :C v10
+                  :E (v11 / label
+                          :A v10
+                          :P (v19 / label)
+                          :T (v20 / label~e.8)))
            :A (v4 / label~e.11)
            :P (v5 / label~e.12)
            :A (v6 / label
                   :R (v12 / label~e.13)
-                  :E (v13 / label~e.14)
-                  :E (v14 / label~e.15)
-                  :C (v15 / label~e.16))
+                  :E (v13 / label
+                          :A (v14 / label
+                                  :A (v22 / label~e.16))
+                          :S (v21 / label~e.15))
+                  :C v14)
            :A (v7 / label
-                  :R (v16 / label~e.18)
-                  :C (v17 / label~e.19,20))))
+                  :R (v15 / label~e.18)
+                  :C (v16 / label~e.19,20))))

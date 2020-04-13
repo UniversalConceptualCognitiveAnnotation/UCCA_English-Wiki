@@ -1,61 +1,64 @@
 # ::id 207000
 # ::tok Although Life magazine joked that " [ i ] f Dustin Hoffman 's face were his fortune , he 'd be committed to a life of poverty " , The Graduate was a gigantic box - office hit for Embassy Pictures , making Hoffman a major new star at the same time .
-# ::alignments 0-1.1 1-1.2.1.1 2-1.2.1.2 3-1.2.2 7-1.2.3.2 9-1.2.3.2 10-1.2.3.3.1.1.1 11-1.2.3.3.1.1.1 12-1.2.3.3.1.1.2 13-1.2.3.3.1.2 14-1.2.3.3.2 15-1.2.3.3.3.1 16-1.2.3.3.3.2 18-1.2.3.4.1 21-1.2.3.4.4 22-1.2.3.4.5.1 23-1.2.3.4.5.2.2.1 24-1.2.3.4.5.2.2.2 25-1.2.3.4.5.2.2.3.1 26-1.2.3.4.5.2.2.3.2 29-1.3.1 30-1.3.1 32-1.3.3.1 33-1.3.3.2 34-1.3.3.3 36-1.3.3.3 37-1.4.5 38-1.3.3.5.1 39-1.3.3.5.2 40-1.3.3.5.3 42-1.4.1 43-1.4.2 44-1.4.3.1 45-1.4.3.2 46-1.4.3.3 47-1.4.3.4 48-1.4.4.1 49-1.4.4.2 50-1.4.4.3 51-1.4.4.4
+# ::alignments 0-1.1 1-1.2.1.1 2-1.2.1.2 3-1.2.2 4-1.2.3.1 7-1.2.3.2 9-1.2.3.2 10-1.2.3.3.1.1.1 11-1.2.3.3.1.1.1 12-1.2.3.3.1.1.2 13-1.2.3.3.1.2 14-1.2.3.3.2 15-1.2.3.3.3.1.2 16-1.2.3.3.3.2 18-1.2.3.4.1 21-1.2.3.4.4 22-1.2.3.4.5.1 24-1.2.3.4.5.2.2 25-1.2.3.4.5.2.3.1 26-1.2.3.4.5.2.3.2 29-1.3.1 30-1.3.1 31-1.3.2 33-1.3.3.2.2 34-1.4.5 36-1.4.5 37-1.4.5 38-1.3.4.1 39-1.3.4.2 40-1.3.4.3 42-1.4.1 43-1.4.2 45-1.4.3.2.2 46-1.4.3.3.2 47-1.4.3.4 48-1.4.4.1 50-1.4.4.3 51-1.4.4.4
 # ::format ucca
 (v1 / label
     :L (v2 / label~e.0)
     :H (v3 / label
            :A (v6 / label
-                  :E (v16 / label~e.1)
-                  :C (v17 / label~e.2))
+                  :C (v18 / label~e.1)
+                  :E (v19 / label~e.2))
            :P (v7 / label~e.3)
            :A (v8 / label
-                  :L (v18 / label~e.7,9)
-                  :H (v19 / label
-                          :A (v33 / label
-                                  :E (v42 / label
-                                          :C (v48 / label~e.10,11)
-                                          :R (v49 / label~e.12))
-                                  :C (v43 / label~e.13))
-                          :S (v34 / label~e.14)
-                          :A (v35 / label
-                                  :E (v44 / label~e.15)
-                                  :C (v45 / label~e.16)))
-                  :H (v20 / label
-                          :A (v36 / label~e.18)
-                          :P (v37 / label~e.21)
-                          :A (v38 / label
-                                  :R (v46 / label~e.22)
-                                  :C (v47 / label
-                                          :A v36
-                                          :S (v50 / label
-                                                  :E (v51 / label~e.23)
-                                                  :C (v52 / label~e.24)
-                                                  :E (v53 / label
-                                                          :R (v54 / label~e.25)
-                                                          :C (v55 / label~e.26))))))))
+                  :R (v20 / label~e.4)
+                  :L (v21 / label~e.7,9)
+                  :H (v22 / label
+                          :A (v34 / label
+                                  :E (v43 / label
+                                          :C (v49 / label~e.10,11)
+                                          :R (v50 / label~e.12))
+                                  :C (v44 / label~e.13))
+                          :S (v35 / label~e.14)
+                          :A (v36 / label
+                                  :E (v45 / label
+                                          :A (v46 / label~e.16)
+                                          :A (v51 / label~e.15))
+                                  :C v46))
+                  :H (v23 / label
+                          :A (v37 / label~e.18)
+                          :D (v38 / label~e.21)
+                          :S (v39 / label
+                                  :R (v47 / label~e.22)
+                                  :C (v48 / label
+                                          :C (v52 / label~e.24)
+                                          :C (v53 / label
+                                                  :R (v54 / label~e.25)
+                                                  :C (v55 / label~e.26)))))))
     :H (v4 / label
            :A (v9 / label~e.29,30)
-           :S (v10 / label
-                   :E (v21 / label~e.32)
-                   :E (v22 / label~e.33)
-                   :E (v23 / label~e.34,36)
-                   :C (v15 / label~e.37)
+           :S (v10 / label~e.31)
+           :A (v11 / label
                    :E (v24 / label
-                           :R (v39 / label~e.38)
-                           :E (v40 / label~e.39)
-                           :C (v41 / label~e.40))))
+                           :A (v17 / label~e.34,36,37)
+                           :S (v40 / label~e.33))
+                   :C v17)
+           :A (v12 / label
+                   :R (v25 / label~e.38)
+                   :E (v26 / label~e.39)
+                   :C (v27 / label~e.40)))
     :H (v5 / label
-           :P (v11 / label~e.42)
-           :A (v12 / label~e.43)
-           :A (v13 / label
-                   :E (v25 / label~e.44)
-                   :E (v26 / label~e.45)
-                   :E (v27 / label~e.46)
-                   :C (v28 / label~e.47))
-           :D (v14 / label
-                   :R (v29 / label~e.48)
-                   :E (v30 / label~e.49)
-                   :E (v31 / label~e.50)
-                   :C (v32 / label~e.51))
-           :A v15))
+           :P (v13 / label~e.42)
+           :A (v14 / label~e.43)
+           :A (v15 / label
+                   :E (v28 / label
+                           :A (v30 / label~e.47)
+                           :S (v41 / label~e.45))
+                   :E (v29 / label
+                           :A v30
+                           :S (v42 / label~e.46))
+                   :C v30)
+           :T (v16 / label
+                   :R (v31 / label~e.48)
+                   :E (v32 / label~e.50)
+                   :C (v33 / label~e.51))
+           :A v17))

@@ -1,34 +1,35 @@
 # ::id 216002
 # ::tok The movie received generally favorable reviews , and San Francisco Chronicle critic Peter Stack noted in his review that Dunst " beautifully balances innocence and wantonness . "
-# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2 3-1.1.3.1 4-1.1.3.2 5-1.1.3.3 7-1.2 8-1.3.3.1.1 9-1.3.3.1.1 10-1.3.3.1.1 11-1.3.3.1.2 12-1.3.3.2 13-1.3.3.2 14-1.3.4 15-1.3.1.1 16-1.3.1.2 17-1.3.1.3 19-1.3.2.2 21-1.3.2.3 22-1.3.2.4 23-1.3.2.5.1 24-1.3.2.5.2 25-1.3.2.5.3
+# ::alignments 1-1.1.1.2 3-1.1.3.1 4-1.1.3.2 5-1.1.2.2 7-1.2 8-1.3.3.1.1 9-1.3.3.1.1 10-1.3.3.1.1 11-1.3.3.1.2 12-1.3.3.2 13-1.3.3.2 14-1.3.4 15-1.3.1.1 16-1.3.1.2 17-1.3.1.3 19-1.3.2.2 21-1.3.2.3 22-1.3.2.4 23-1.3.2.5.1.1 24-1.3.2.5.2 25-1.3.2.5.3.1
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v5 / label
-                  :E (v12 / label~e.0)
-                  :C (v13 / label~e.1))
-           :P (v6 / label~e.2)
-           :A (v7 / label
+                  :C (v12 / label~e.1))
+           :P (v6 / label
+                  :C (v13 / label~e.5))
+           :D (v7 / label
                   :E (v14 / label~e.3)
-                  :E (v15 / label~e.4)
-                  :C (v16 / label~e.5)))
+                  :C (v15 / label~e.4)))
     :L (v3 / label~e.7)
     :H (v4 / label
            :A (v8 / label
-                  :R (v17 / label~e.15)
-                  :E (v18 / label~e.16)
-                  :C (v19 / label~e.17))
+                  :R (v16 / label~e.15)
+                  :A (v17 / label~e.16)
+                  :P (v18 / label~e.17))
            :A (v9 / label
-                  :A (v20 / label~e.19)
-                  :D (v21 / label~e.21)
-                  :P (v22 / label~e.22)
-                  :A (v23 / label
-                          :C (v26 / label~e.23)
-                          :N (v27 / label~e.24)
-                          :C (v28 / label~e.25)))
+                  :A (v19 / label~e.19)
+                  :D (v20 / label~e.21)
+                  :P (v21 / label~e.22)
+                  :A (v22 / label
+                          :C (v25 / label
+                                  :S (v30 / label~e.23))
+                          :N (v26 / label~e.24)
+                          :C (v27 / label
+                                  :S (v31 / label~e.25))))
            :A (v10 / label
-                   :E (v24 / label
-                           :E (v29 / label~e.8,9,10)
-                           :C (v30 / label~e.11))
-                   :C (v25 / label~e.12,13))
+                   :E (v23 / label
+                           :E (v28 / label~e.8,9,10)
+                           :C (v29 / label~e.11))
+                   :C (v24 / label~e.12,13))
            :P (v11 / label~e.14)))

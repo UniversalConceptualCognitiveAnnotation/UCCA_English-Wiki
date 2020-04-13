@@ -1,25 +1,27 @@
 # ::id 253004
 # ::tok They have two daughters : Clementine Jane , born in 2008 , and Indiana , born in 2011 .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.2 3-1.1.3.3 5-1.1.3.4.1.1 6-1.1.3.4.1.1 8-1.1.3.4.1.2 9-1.1.3.4.1.3.1 10-1.1.3.4.1.3.2 12-1.1.3.4.2 13-1.1.3.4.3.1 15-1.1.3.4.3.2 16-1.1.3.4.3.3.1 17-1.1.3.4.3.3.2
+# ::alignments 0-1.1.2 2-1.1.4 3-1.1.5 5-1.1.6.1.1 6-1.1.6.1.1 8-1.1.6.1.2.2 9-1.1.6.1.2.3.1 10-1.1.6.1.2.3.2 12-1.1.6.2 13-1.1.6.3.1 15-1.1.6.3.2.2 16-1.1.6.3.2.3.1 17-1.1.6.3.2.3.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v3 / label~e.0)
-           :P (v4 / label~e.1)
-           :A (v5 / label
-                  :E (v6 / label~e.2)
-                  :C (v7 / label~e.3)
-                  :E (v8 / label
-                         :C (v9 / label
-                                :A (v12 / label~e.5,6)
-                                :P (v13 / label~e.8)
-                                :D (v14 / label
-                                        :R (v18 / label~e.9)
-                                        :C (v19 / label~e.10)))
-                         :N (v10 / label~e.12)
-                         :C (v11 / label
-                                 :A (v15 / label~e.13)
+           :D (v4 / label~e.2)
+           :S (v5 / label~e.3)
+           :A (v6 / label
+                  :C (v7 / label
+                         :C (v10 / label~e.5,6)
+                         :E (v11 / label
+                                 :A v10
+                                 :P (v14 / label~e.8)
+                                 :T (v15 / label
+                                         :R (v18 / label~e.9)
+                                         :C (v19 / label~e.10))))
+                  :N (v8 / label~e.12)
+                  :C (v9 / label
+                         :C (v12 / label~e.13)
+                         :E (v13 / label
+                                 :A v12
                                  :P (v16 / label~e.15)
-                                 :D (v17 / label
+                                 :T (v17 / label
                                          :R (v20 / label~e.16)
                                          :C (v21 / label~e.17)))))))

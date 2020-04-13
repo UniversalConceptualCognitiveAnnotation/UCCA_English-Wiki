@@ -1,47 +1,45 @@
 # ::id 136006
 # ::tok The first successful film she had made without Tracy since The Philadelphia Story a decade earlier , it proved that she could be a hit without him and fully reestablished her popularity .
-# ::alignments 0-1.1.3.1 1-1.1.3.2 2-1.1.3.3 3-1.1.3.4 4-1.1.3.5.2 6-1.1.3.5.4 7-1.1.3.5.5.1 8-1.1.3.5.5.2 9-1.1.3.5.6.1 10-1.1.3.5.6.2 11-1.1.3.5.6.2 12-1.1.3.5.6.2 13-1.1.3.5.6.3.1 14-1.1.3.5.6.3.2 15-1.1.3.5.6.3.3 17-1.1.1 18-1.2.2 20-1.2.3.2 21-1.2.3.4 23-1.2.3.3.1 24-1.2.3.3.2 25-1.2.3.6.1 26-1.2.3.6.2 27-1.3 28-1.4.2 29-1.4.3 30-1.4.4.1 31-1.4.4.2
+# ::alignments 0-1.1.1.1 1-1.1.2 2-1.1.3 3-1.1.1.2 4-1.1.4 6-1.1.6 7-1.1.7 8-1.1.8 9-1.1.9.3 10-1.1.9.4 11-1.1.9.4 12-1.1.9.4 13-1.1.9.5.1 14-1.1.9.5.2 15-1.1.9.5.3 17-1.2.1 18-1.2.2 19-1.2.3.1 20-1.2.3.2 21-1.2.3.3 23-1.2.3.5.1 24-1.2.3.5.2 25-1.2.3.6.1 26-1.2.3.6.2 27-1.3 28-1.4.3 29-1.4.4 30-1.4.1.1 31-1.4.1.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :A (v6 / label~e.17)
-           :S (v7 / label)
-           :A (v8 / label
-                  :E (v14 / label~e.0)
-                  :E (v15 / label~e.1)
-                  :E (v16 / label~e.2)
-                  :C (v17 / label~e.3)
-                  :E (v18 / label
-                          :A v17
-                          :A (v25 / label~e.4)
-                          :P (v26 / label~e.6)
-                          :A (v27 / label
-                                  :R (v33 / label~e.7)
-                                  :C (v34 / label~e.8))
-                          :D (v28 / label
-                                  :R (v35 / label~e.9)
-                                  :C (v36 / label~e.10,11,12)
-                                  :E (v37 / label
-                                          :E (v38 / label~e.13)
-                                          :E (v39 / label~e.14)
-                                          :C (v40 / label~e.15))))))
+           :A (v6 / label
+                  :E (v20 / label~e.0)
+                  :C (v21 / label~e.3))
+           :D (v7 / label~e.1)
+           :D (v8 / label~e.2)
+           :A (v9 / label~e.4)
+           :P (v10 / label~e.6)
+           :D (v11 / label~e.7)
+           :A (v12 / label~e.8)
+           :A (v13 / label
+                   :A v9
+                   :P v10
+                   :R (v22 / label~e.9)
+                   :A (v23 / label~e.10,11,12)
+                   :T (v24 / label
+                           :Q (v32 / label~e.13)
+                           :C (v33 / label~e.14)
+                           :R (v34 / label~e.15))))
     :H (v3 / label
-           :A v6
-           :P (v9 / label~e.18)
-           :A (v10 / label
-                   :A (v19 / label~e.20)
-                   :P (v20 / label
-                           :E (v29 / label~e.23)
-                           :C (v30 / label~e.24))
-                   :D (v21 / label~e.21)
-                   :A (v22 / label
-                           :R (v31 / label~e.25)
-                           :C (v32 / label~e.26))))
+           :A (v14 / label~e.17)
+           :P (v15 / label~e.18)
+           :A (v16 / label
+                   :R (v25 / label~e.19)
+                   :A (v26 / label~e.20)
+                   :D (v27 / label~e.21)
+                   :S (v28 / label
+                           :E (v35 / label~e.23)
+                           :C (v36 / label~e.24))
+                   :A (v29 / label
+                           :R (v37 / label~e.25)
+                           :C (v38 / label~e.26))))
     :L (v4 / label~e.27)
     :H (v5 / label
-           :A v6
-           :D (v11 / label~e.28)
-           :P (v12 / label~e.29)
-           :A (v13 / label
-                   :A (v23 / label~e.30)
-                   :S (v24 / label~e.31))))
+           :A (v17 / label
+                   :A (v30 / label~e.30)
+                   :S (v31 / label~e.31))
+           :A v14
+           :D (v18 / label~e.28)
+           :P (v19 / label~e.29)))

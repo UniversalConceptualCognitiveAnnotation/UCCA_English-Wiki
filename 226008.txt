@@ -1,6 +1,6 @@
 # ::id 226008
 # ::tok Chan declined and the role was taken by Wesley Snipes .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.2 3-1.3.1.1 4-1.3.1.2 6-1.3.3 7-1.3.4.1 8-1.3.4.2 9-1.3.4.2
+# ::alignments 0-1.1.1 1-1.1.2 2-1.2 4-1.3.1.2 6-1.3.3 7-1.3.4.1 8-1.3.4.2 9-1.3.4.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -9,9 +9,8 @@
     :L (v3 / label~e.2)
     :H (v4 / label
            :A (v7 / label
-                  :E (v10 / label~e.3)
-                  :C (v11 / label~e.4))
+                  :C (v10 / label~e.4))
            :P (v8 / label~e.6)
            :A (v9 / label
-                  :R (v12 / label~e.7)
-                  :C (v13 / label~e.8,9))))
+                  :R (v11 / label~e.7)
+                  :C (v12 / label~e.8,9))))

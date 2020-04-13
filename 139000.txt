@@ -1,33 +1,34 @@
 # ::id 139000
 # ::tok Hepburn returned to Stratford in the summer of 1960 to play Viola in Twelfth Night and Cleopatra in Antony and Cleopatra .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.1.4.1 5-1.1.4.2 6-1.1.4.3 7-1.1.4.4.1 8-1.1.4.4.2 10-1.2.3 11-1.2.4.2.1 12-1.2.4.2.2.1 13-1.2.4.2.2.2 14-1.2.4.2.2.2 15-1.2.4.3 16-1.2.4.1.1 17-1.2.4.1.2.1 18-1.2.4.1.2.2 19-1.2.4.1.2.2 20-1.2.4.1.2.2
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.1.4.1 5-1.1.4.2 6-1.1.4.3 7-1.1.4.4.1 8-1.1.4.4.2 9-1.2 10-1.3.1 11-1.3.2 12-1.3.3.1 13-1.3.3.2 14-1.3.3.2 15-1.4 16-1.5.3 17-1.5.4.1 18-1.5.4.2 19-1.5.4.2 20-1.5.4.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :A (v4 / label~e.0)
-           :P (v5 / label~e.1)
-           :A (v6 / label
-                  :R (v10 / label~e.2)
-                  :C (v11 / label~e.3))
-           :D (v7 / label
-                  :R (v12 / label~e.4)
-                  :E (v13 / label~e.5)
-                  :C (v14 / label~e.6)
-                  :E (v15 / label
-                          :R (v19 / label~e.7)
-                          :C (v20 / label~e.8))))
-    :H (v3 / label
-           :A v4
-           :P (v8 / label~e.10)
+           :A (v7 / label~e.0)
+           :P (v8 / label~e.1)
            :A (v9 / label
-                  :C (v16 / label
-                          :C (v21 / label~e.16)
-                          :E (v22 / label
-                                  :R (v25 / label~e.17)
-                                  :C (v26 / label~e.18,19,20)))
-                  :C (v17 / label
-                          :C (v23 / label~e.11)
-                          :E (v24 / label
-                                  :R (v27 / label~e.12)
-                                  :C (v28 / label~e.13,14)))
-                  :N (v18 / label~e.15))))
+                  :R (v16 / label~e.2)
+                  :C (v17 / label~e.3))
+           :T (v10 / label
+                   :R (v18 / label~e.4)
+                   :E (v19 / label~e.5)
+                   :C (v20 / label~e.6)
+                   :C (v21 / label
+                           :R (v26 / label~e.7)
+                           :C (v27 / label~e.8))))
+    :L (v3 / label~e.9)
+    :H (v4 / label
+           :P (v11 / label~e.10)
+           :A (v12 / label~e.11)
+           :A (v13 / label
+                   :R (v22 / label~e.12)
+                   :C (v23 / label~e.13,14))
+           :A v7)
+    :L (v5 / label~e.15)
+    :H (v6 / label
+           :P v11
+           :A v7
+           :A (v14 / label~e.16)
+           :A (v15 / label
+                   :R (v24 / label~e.17)
+                   :C (v25 / label~e.18,19,20))))

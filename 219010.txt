@@ -1,35 +1,27 @@
 # ::id 219010
-# ::tok She has expressed interest in playing the role of Blondie frontwoman Debbie Harry in Michel Gondry 's upcoming biographical film about the band .
-# ::alignments 0-1.1.1 2-1.1.3 3-1.1.4 4-1.1.5.4.1 5-1.1.5.4.2 6-1.1.5.1.1 7-1.1.5.1.2 8-1.1.5.1.3.1 9-1.1.5.1.3.2.1 10-1.1.5.1.3.2.2 11-1.1.5.1.3.3 12-1.1.5.1.3.3 13-1.1.5.2.1 14-1.1.5.2.2.1 15-1.1.5.2.2.1 16-1.1.5.2.2.2 17-1.1.5.2.3 18-1.1.5.2.4 19-1.1.5.2.5 20-1.1.5.2.6.1 21-1.1.5.2.6.2 22-1.1.5.2.6.3
+# ::tok Dunst is due to appear in Juan Diego Solanas ' science fiction - romance film Upside Down co - co - starring Jim Sturgess .
+# ::alignments 0-1.1.1 2-1.1.3 4-1.1.5 5-1.1.6.1 6-1.1.6.2.1.3 7-1.1.6.2.1.3 8-1.1.6.2.1.3 10-1.1.6.2.2.1 11-1.1.6.2.2.2 13-1.1.6.2.3 14-1.1.6.2.4 15-1.1.6.3 16-1.1.6.3 19-1.2.6 21-1.2.7 22-1.2.8 23-1.2.8
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :A (v3 / label~e.0)
-           :D (v4 / label~e.2)
-           :P (v5 / label~e.3)
-           :A (v6 / label
-                  :A (v7 / label
-                         :E (v10 / label~e.6)
-                         :C (v11 / label~e.7)
-                         :E (v12 / label
-                                 :R (v21 / label~e.8)
-                                 :E (v22 / label
-                                         :E (v29 / label~e.9)
-                                         :C (v30 / label~e.10))
-                                 :C (v23 / label~e.11,12)))
-                  :A (v8 / label
-                         :R (v13 / label~e.13)
-                         :E (v14 / label
-                                 :C (v24 / label~e.14,15)
-                                 :R (v25 / label~e.16))
-                         :E (v15 / label~e.17)
-                         :E (v16 / label~e.18)
-                         :C (v17 / label~e.19)
-                         :E (v18 / label
-                                 :R (v26 / label~e.20)
-                                 :E (v27 / label~e.21)
-                                 :C (v28 / label~e.22)))
-                  :A v3
-                  :P (v9 / label
-                         :R (v19 / label~e.4)
-                         :C (v20 / label~e.5)))))
+           :A (v4 / label~e.0)
+           :D (v5 / label~e.2)
+           :P (v6 / label~e.4)
+           :A (v7 / label
+                  :R (v11 / label~e.5)
+                  :E (v12 / label
+                          :E (v14 / label
+                                  :A (v17 / label~e.14)
+                                  :S (v18 / label)
+                                  :A (v19 / label~e.6,7,8))
+                          :E (v15 / label
+                                  :E (v20 / label~e.10)
+                                  :C (v21 / label~e.11))
+                          :E (v16 / label~e.13)
+                          :C v17)
+                  :C (v13 / label~e.15,16)))
+    :H (v3 / label
+           :A v4
+           :D (v8 / label~e.19)
+           :P (v9 / label~e.21)
+           :A (v10 / label~e.22,23)))

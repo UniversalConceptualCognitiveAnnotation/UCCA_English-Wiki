@@ -1,6 +1,6 @@
 # ::id 138009
 # ::tok The movie was shot in London , and was " a completely miserable experience " for Hepburn .
-# ::alignments 0-1.1.1.1 1-1.3.2 3-1.1.3 4-1.1.4.1 5-1.1.4.2 7-1.2 10-1.3.5.1 11-1.3.7 12-1.3.5.2 13-1.3.5.3 15-1.3.1.1 16-1.3.1.2
+# ::alignments 0-1.1.1.1 1-1.3.2 3-1.1.3 4-1.1.4.1 5-1.1.4.2 7-1.2 10-1.3.6.1 11-1.3.7.1 12-1.3.7.2 13-1.3.6.2 15-1.3.1.1 16-1.3.1.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -17,8 +17,9 @@
                   :R (v15 / label~e.15)
                   :C (v16 / label~e.16))
            :A v9
-           :S (v10 / label
+           :P (v10 / label
                    :E (v17 / label~e.10)
-                   :E (v18 / label~e.12)
-                   :C (v19 / label~e.13))
-           :D (v11 / label~e.11)))
+                   :C (v18 / label~e.13))
+           :D (v11 / label
+                   :E (v19 / label~e.11)
+                   :C (v20 / label~e.12))))

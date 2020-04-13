@@ -1,49 +1,44 @@
 # ::id 209006
 # ::tok As a reference to this episode , during the episode featuring the Itchy & Scratchy movie , Lisa claims that Dustin Hoffman had a cameo in that movie but did n't use his real name .
-# ::alignments 0-1.1.2 1-1.1.3.1 2-1.1.3.2 3-1.1.4.1 4-1.1.4.2 5-1.1.4.3 7-1.2 8-1.3.1.1 9-1.3.1.2 10-1.3.2 11-1.3.3.1.1 12-1.3.3.1.2 14-1.3.3.1.2 15-1.3.3.2 17-1.4.3 18-1.4.1 19-1.4.2.1.1 20-1.4.2.1.2 21-1.4.2.1.2 23-1.4.2.1.3.2 24-1.4.2.1.3.3 25-1.4.2.1.4.1 26-1.4.2.1.4.2 27-1.4.2.1.4.3 28-1.4.2.2 30-1.4.2.3.2 31-1.4.2.3.3 32-1.4.2.3.4.1 33-1.4.2.3.4.2 34-1.4.2.3.4.3
+# ::alignments 0-1.1.2 2-1.1.3.2 3-1.1.4.1 4-1.1.4.2 5-1.1.4.3 7-1.2 9-1.3.1.2 10-1.3.2 12-1.3.3.2 13-1.3.3.2 14-1.3.3.2 15-1.3.3.3 17-1.4.3 18-1.4.1 19-1.4.2.1.1 20-1.4.2.1.2 21-1.4.2.1.2 24-1.4.2.1.3.3 25-1.4.2.1.4.1 26-1.4.2.1.4.2 27-1.4.2.1.4.3 28-1.4.2.2 30-1.4.2.3.2 31-1.4.2.3.3 32-1.4.2.3.4.1 33-1.4.2.3.4.2 34-1.4.2.3.4.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v6 / label)
            :R (v7 / label~e.0)
            :P (v8 / label
-                  :E (v16 / label~e.1)
-                  :C (v17 / label~e.2))
+                  :C (v16 / label~e.2))
            :A (v9 / label
-                  :R (v18 / label~e.3)
-                  :E (v19 / label~e.4)
-                  :C (v20 / label~e.5)))
+                  :R (v17 / label~e.3)
+                  :E (v18 / label~e.4)
+                  :C (v19 / label~e.5)))
     :L (v3 / label~e.7)
     :H (v4 / label
            :A (v10 / label
-                   :E (v21 / label~e.8)
-                   :C (v22 / label~e.9))
+                   :C (v20 / label~e.9))
            :P (v11 / label~e.10)
            :A (v12 / label
-                   :E (v23 / label
-                           :E (v28 / label~e.11)
-                           :C (v29 / label~e.12,14))
-                   :C (v24 / label~e.15)))
+                   :C (v21 / label~e.12,13,14)
+                   :E (v22 / label~e.15)))
     :H (v5 / label
            :P (v13 / label~e.18)
            :A (v14 / label
+                   :H (v23 / label
+                           :R (v26 / label~e.19)
+                           :A (v27 / label~e.20,21)
+                           :P (v28 / label
+                                   :C (v33 / label~e.24))
+                           :A (v29 / label
+                                   :R (v34 / label~e.25)
+                                   :E (v35 / label~e.26)
+                                   :C (v36 / label~e.27)))
+                   :L (v24 / label~e.28)
                    :H (v25 / label
-                           :R (v30 / label~e.19)
-                           :A (v31 / label~e.20,21)
-                           :P (v32 / label
-                                   :E (v37 / label~e.23)
-                                   :C (v38 / label~e.24))
-                           :A (v33 / label
-                                   :R (v39 / label~e.25)
-                                   :E (v40 / label~e.26)
-                                   :C (v41 / label~e.27)))
-                   :L (v26 / label~e.28)
-                   :H (v27 / label
-                           :D (v34 / label~e.30)
-                           :P (v35 / label~e.31)
-                           :A (v36 / label
-                                   :E (v42 / label~e.32)
-                                   :E (v43 / label~e.33)
-                                   :C (v44 / label~e.34))
-                           :A v31))
+                           :D (v30 / label~e.30)
+                           :P (v31 / label~e.31)
+                           :A (v32 / label
+                                   :E (v37 / label~e.32)
+                                   :E (v38 / label~e.33)
+                                   :C (v39 / label~e.34))
+                           :A v27))
            :A (v15 / label~e.17)))

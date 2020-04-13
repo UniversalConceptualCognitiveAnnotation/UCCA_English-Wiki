@@ -1,13 +1,13 @@
 # ::id 105003
 # ::tok Their relationship during this time was less strained , with Jolie realizing that they were both " drama queens . "
-# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2.1 3-1.1.2.2 4-1.1.2.3 6-1.1.4 7-1.1.5 9-1.2 10-1.3.2 11-1.3.3 12-1.3.1.1 13-1.3.1.2 15-1.3.1.4 17-1.3.1.5.1 18-1.3.1.5.2
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2.1 3-1.1.2.2 4-1.1.2.3 6-1.1.4 7-1.1.5 9-1.2 10-1.3.2 11-1.3.3 12-1.3.1.1 13-1.3.1.2.1 15-1.3.1.2.2 17-1.3.1.4 18-1.3.1.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v5 / label
-                  :E (v12 / label~e.0)
-                  :C (v13 / label~e.1))
-           :D (v6 / label
+                  :A (v12 / label~e.0)
+                  :S (v13 / label~e.1))
+           :T (v6 / label
                   :R (v14 / label~e.2)
                   :E (v15 / label~e.3)
                   :C (v16 / label~e.4))
@@ -17,10 +17,9 @@
     :H (v4 / label
            :A (v9 / label
                   :R (v17 / label~e.12)
-                  :A (v18 / label~e.13)
-                  :D (v19 / label~e.15)
-                  :S (v20 / label
-                          :E (v21 / label~e.17)
-                          :C (v22 / label~e.18)))
+                  :A (v18 / label
+                          :C (v20 / label~e.13)
+                          :Q (v21 / label~e.15))
+                  :S (v19 / label~e.17,18))
            :A (v10 / label~e.10)
            :P (v11 / label~e.11)))

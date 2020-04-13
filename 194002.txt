@@ -1,28 +1,25 @@
 # ::id 194002
 # ::tok His drug addiction was highly publicized , most notably when Saturday Night Live did a parody called " The West Wing " , though he did recover .
-# ::alignments 0-1.1.1.1 1-1.1.1.2.1 2-1.1.1.2.2 4-1.1.3 5-1.1.4 7-1.2.1.1 8-1.2.1.2 9-1.3 10-1.2.2 11-1.2.2 12-1.2.2 14-1.2.3.1 15-1.2.3.2 16-1.2.5.1 18-1.2.5.2 19-1.2.5.2 20-1.2.5.2 23-1.4 24-1.5.1 26-1.5.3
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 4-1.1.3 5-1.1.4 7-1.2.1 8-1.2.1 9-1.3 10-1.2.2 11-1.2.2 12-1.2.2 14-1.2.4.1 15-1.2.4.2 16-1.2.5.1 18-1.2.5.2 19-1.2.5.2 20-1.2.5.2 23-1.4 24-1.5.1 26-1.5.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v7 / label
                   :A (v16 / label~e.0)
-                  :P (v17 / label
-                          :E (v24 / label~e.1)
-                          :C (v25 / label~e.2)))
+                  :A (v17 / label~e.1)
+                  :P (v18 / label~e.2))
            :D (v8 / label~e.4)
            :P (v9 / label~e.5))
     :H (v3 / label
-           :G (v10 / label
-                   :E (v18 / label~e.7)
-                   :C (v19 / label~e.8))
+           :G (v10 / label~e.7,8)
            :A (v11 / label~e.10,11,12)
            :P (v12 / label
-                   :E (v20 / label~e.14)
-                   :C (v21 / label~e.15))
+                   :E (v19 / label~e.14)
+                   :C (v20 / label~e.15))
            :A (v13 / label
-                   :P (v22 / label~e.16)
-                   :A (v23 / label~e.18,19,20)
-                   :A v21))
+                   :P (v21 / label~e.16)
+                   :A (v22 / label~e.18,19,20)
+                   :A v20))
     :L (v4 / label~e.9)
     :L (v5 / label~e.23)
     :H (v6 / label

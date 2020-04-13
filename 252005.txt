@@ -1,39 +1,34 @@
 # ::id 252005
 # ::tok A contributor from the New York Post noted it was Hawke 's " best performance in years " . Hawke won an Obie Award for his role in Blood from a Stone .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3.1 3-1.1.1.3.2 4-1.1.1.3.2 5-1.1.1.3.2 6-1.1.1.3.2 7-1.1.2 8-1.1.3.1 9-1.1.3.2 10-1.1.3.3.1.1 11-1.1.3.3.1.2 13-1.1.3.3.2.1 14-1.1.3.3.2.2 15-1.1.3.3.3.1 16-1.1.3.3.3.2 19-1.2.1 20-1.2.2 21-1.2.3.1 22-1.2.3.2 23-1.2.3.2 24-1.2.3.3.1 25-1.2.3.3.2 26-1.2.3.3.3 27-1.2.3.3.4.1 28-1.2.3.3.4.2 29-1.2.3.3.4.2 30-1.2.3.3.4.2 31-1.2.3.3.4.2
+# ::alignments 1-1.1.1.2 2-1.1.1.3.1 3-1.1.1.3.2 4-1.1.1.3.2 5-1.1.1.3.2 6-1.1.1.3.2 7-1.1.2 8-1.1.3.1 10-1.1.3.3.1 11-1.1.3.3.2 13-1.1.3.4 14-1.1.3.5 15-1.1.3.6.1 16-1.1.3.6.2 19-1.2.1 20-1.2.2 22-1.2.3.2 23-1.2.3.2 24-1.2.3.3.1 25-1.2.3.3.2 26-1.2.3.3.3 27-1.2.3.3.4.1 28-1.2.3.3.4.2 29-1.2.3.3.4.2 30-1.2.3.3.4.2 31-1.2.3.3.4.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v4 / label
-                  :E (v10 / label~e.0)
-                  :C (v11 / label~e.1)
-                  :E (v12 / label
+                  :A (v10 / label~e.1)
+                  :A (v11 / label
                           :R (v19 / label~e.2)
                           :C (v20 / label~e.3,4,5,6)))
            :P (v5 / label~e.7)
            :A (v6 / label
-                  :A (v13 / label~e.8)
-                  :S (v14 / label~e.9)
-                  :A (v15 / label
-                          :A (v21 / label
-                                  :C (v28 / label~e.10)
-                                  :R (v29 / label~e.11))
-                          :P (v22 / label
-                                  :E (v30 / label~e.13)
-                                  :C (v31 / label~e.14))
-                          :D (v23 / label
-                                  :R (v32 / label~e.15)
-                                  :C (v33 / label~e.16)))))
+                  :A (v12 / label~e.8)
+                  :A (v13 / label
+                          :C (v21 / label~e.10)
+                          :R (v22 / label~e.11))
+                  :D (v14 / label~e.13)
+                  :P (v15 / label~e.14)
+                  :T (v16 / label
+                          :R (v23 / label~e.15)
+                          :C (v24 / label~e.16))))
     :H (v3 / label
            :A (v7 / label~e.19)
            :P (v8 / label~e.20)
            :A (v9 / label
-                  :E (v16 / label~e.21)
                   :C (v17 / label~e.22,23)
                   :E (v18 / label
-                          :R (v24 / label~e.24)
-                          :A (v25 / label~e.25)
-                          :P (v26 / label~e.26)
-                          :A (v27 / label
-                                  :R (v34 / label~e.27)
-                                  :C (v35 / label~e.28,29,30,31))))))
+                          :R (v25 / label~e.24)
+                          :A (v26 / label~e.25)
+                          :P (v27 / label~e.26)
+                          :A (v28 / label
+                                  :R (v29 / label~e.27)
+                                  :C (v30 / label~e.28,29,30,31))))))

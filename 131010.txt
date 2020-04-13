@@ -1,35 +1,51 @@
 # ::id 131010
-# ::tok It was tailored to showcase the actress , with the character of socialite Tracy Lord incorporating a mixture of humor , aggression , nervousness , and vulnerability .
-# ::alignments 0-1.1.1 2-1.1.3 4-1.1.4.3 5-1.1.4.4.1 6-1.1.4.4.2 8-1.2 9-1.3.1.1 10-1.3.1.2 11-1.3.1.3.1 12-1.3.1.3.2 13-1.3.1.3.3 14-1.3.1.3.3 15-1.3.2 16-1.3.3.1 17-1.3.3.2 18-1.3.3.3.1 19-1.3.3.3.2.1 21-1.3.3.3.2.2 23-1.3.3.3.2.3 25-1.3.3.3.2.4 26-1.3.3.3.2.5
+# ::tok Howard Hughes , Hepburn 's beau at the time , sensed that the play could be her ticket back to Hollywood stardom and bought her the film rights before it even debuted on stage .
+# ::alignments 0-1.3.4 1-1.3.4 3-1.1.1.2.1.1 4-1.1.1.2.1.2 5-1.1.1.2.2 6-1.1.1.2.3.1 7-1.1.1.2.3.2 8-1.1.1.2.3.3 10-1.1.2 11-1.1.3.1 12-1.1.3.2.1.1 13-1.1.3.2.1.2 14-1.1.3.3 15-1.1.3.4 16-1.1.3.5.1 17-1.1.3.5.2 18-1.1.3.5.3 19-1.1.3.5.4.1 20-1.1.3.5.5 21-1.1.3.5.4.2 22-1.2 23-1.3.1 24-1.3.2 25-1.3.3.1 26-1.3.3.2 27-1.3.3.3 28-1.4 29-1.5.3 30-1.5.4 31-1.5.1 32-1.5.2.1 33-1.5.2.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :A (v5 / label~e.0)
-           :P (v6 / label~e.2)
            :A (v7 / label
-                  :A v5
-                  :P (v11 / label~e.4)
-                  :A (v12 / label
-                          :E (v19 / label~e.5)
-                          :C (v20 / label~e.6))))
-    :L (v3 / label~e.8)
+                  :C (v13 / label~e.0,1)
+                  :E (v18 / label
+                          :A (v29 / label
+                                  :C (v38 / label~e.3)
+                                  :R (v39 / label~e.4))
+                          :S (v30 / label~e.5)
+                          :T (v31 / label
+                                  :R (v40 / label~e.6)
+                                  :E (v41 / label~e.7)
+                                  :C (v42 / label~e.8))))
+           :P (v8 / label~e.10)
+           :A (v9 / label
+                  :R (v19 / label~e.11)
+                  :A (v20 / label
+                          :P (v32 / label
+                                  :E (v43 / label~e.12)
+                                  :C (v44 / label~e.13)))
+                  :D (v21 / label~e.14)
+                  :S (v22 / label~e.15)
+                  :A (v23 / label
+                          :A (v33 / label~e.16)
+                          :A (v34 / label~e.17)
+                          :D (v35 / label~e.18)
+                          :S (v36 / label
+                                  :R (v45 / label~e.19)
+                                  :C (v46 / label~e.21))
+                          :A (v37 / label~e.20))))
+    :L (v3 / label~e.22)
     :H (v4 / label
-           :A (v8 / label
-                  :E (v13 / label~e.9)
-                  :C (v14 / label~e.10)
-                  :E (v15 / label
-                          :R (v21 / label~e.11)
-                          :E (v22 / label~e.12)
-                          :C (v23 / label~e.13,14)))
-           :P (v9 / label~e.15)
-           :A (v10 / label
-                   :E (v16 / label~e.16)
-                   :C (v17 / label~e.17)
-                   :E (v18 / label
-                           :R (v24 / label~e.18)
-                           :C (v25 / label
-                                   :C (v26 / label~e.19)
-                                   :C (v27 / label~e.21)
-                                   :C (v28 / label~e.23)
-                                   :N (v29 / label~e.25)
-                                   :C (v30 / label~e.26))))))
+           :P (v10 / label~e.23)
+           :A (v11 / label~e.24)
+           :A (v12 / label
+                   :E (v24 / label~e.25)
+                   :E (v25 / label~e.26)
+                   :C (v26 / label~e.27))
+           :A v13)
+    :L (v5 / label~e.28)
+    :H (v6 / label
+           :P (v14 / label~e.31)
+           :A (v15 / label
+                   :R (v27 / label~e.32)
+                   :C (v28 / label~e.33))
+           :A (v16 / label~e.29)
+           :G (v17 / label~e.30)))

@@ -1,33 +1,40 @@
 # ::id 182007
 # ::tok Her forthright manner , clipped vocal style and ubiquitous cigarette contributed to a public persona which has often been imitated and satirized .
-# ::alignments 0-1.1.1.1.1 1-1.1.1.1.2 2-1.1.1.1.3 4-1.1.1.2.1 5-1.1.1.2.2 6-1.1.1.2.3 7-1.1.1.3 8-1.1.1.4.1 9-1.1.1.4.2 10-1.1.2.1 11-1.1.2.2 12-1.1.3.1 13-1.1.3.2 14-1.1.3.3 15-1.1.3.4.1 17-1.1.3.4.3 19-1.1.3.4.5.1 20-1.1.3.4.5.2 21-1.1.3.4.5.3
+# ::alignments 0-1.1.1.1.1 1-1.1.1.1.2 2-1.1.1.1.3 4-1.1.1.2.1 5-1.1.1.2.2 6-1.1.1.2.3 7-1.1.1.3 8-1.1.1.4.1 9-1.1.1.4.2 10-1.1.2 11-1.1.3.2 13-1.1.3.4 14-1.1.3.5 15-1.1.3.1.2.2 17-1.1.3.1.2.4 19-1.1.3.1.2.6 20-1.1.3.1.1 21-1.1.3.1.3.1
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v3 / label
                   :C (v6 / label
-                         :E (v16 / label~e.0)
-                         :E (v17 / label~e.1)
-                         :C (v18 / label~e.2))
+                         :A (v14 / label~e.0)
+                         :S (v15 / label~e.1)
+                         :D (v16 / label~e.2))
                   :C (v7 / label
-                         :E (v19 / label~e.4)
-                         :E (v20 / label~e.5)
-                         :C (v21 / label~e.6))
+                         :D (v17 / label~e.4)
+                         :P (v18 / label~e.5)
+                         :D (v19 / label~e.6)
+                         :A v14)
                   :N (v8 / label~e.7)
                   :C (v9 / label
-                         :E (v22 / label~e.8)
-                         :C (v23 / label~e.9)))
-           :P (v4 / label
-                  :C (v10 / label~e.10)
-                  :R (v11 / label~e.11))
+                         :E (v20 / label~e.8)
+                         :C (v21 / label~e.9)
+                         :E v14))
+           :P (v4 / label~e.10)
            :A (v5 / label
-                  :E (v12 / label~e.12)
-                  :E (v13 / label~e.13)
-                  :C (v14 / label~e.14)
-                  :E (v15 / label
-                          :R (v24 / label~e.15)
-                          :D (v25 / label~e.17)
-                          :P (v26 / label
-                                  :C (v27 / label~e.19)
-                                  :N (v28 / label~e.20)
-                                  :C (v29 / label~e.21))))))
+                  :E (v10 / label
+                          :L (v22 / label~e.20)
+                          :H (v23 / label
+                                  :A (v25 / label)
+                                  :R (v26 / label~e.15)
+                                  :D (v27 / label~e.17)
+                                  :P (v28 / label~e.19)
+                                  :A (v13 / label~e.14))
+                          :H (v24 / label
+                                  :P (v29 / label~e.21)
+                                  :A v25
+                                  :R v26
+                                  :D v27
+                                  :A v13))
+                  :R (v11 / label~e.11)
+                  :E (v12 / label~e.13)
+                  :C v13)))

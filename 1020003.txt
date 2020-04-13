@@ -1,41 +1,16 @@
 # ::id 1020003
-# ::tok In 1964 , Michael and Marlon joined the Jackson Brothers - a band formed by brothers Jackie , Tito , and Jermaine - as backup musicians playing congas and tambourine .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.1.4.1 4-1.1.4.2 5-1.1.4.3 6-1.1.5 7-1.1.6.1 8-1.1.6.2 9-1.1.6.2 11-1.1.6.3.1.1 12-1.1.6.3.1.2 13-1.1.6.3.2.1 14-1.1.6.3.2.2 15-1.1.6.3.3.1 16-1.1.6.3.3.2.1 18-1.1.6.3.3.2.2 20-1.1.6.3.3.2.3 21-1.1.6.3.3.2.4 23-1.1.7.1 24-1.1.7.2.1 25-1.1.7.2.2 26-1.1.7.3 27-1.1.7.4.1 28-1.1.7.4.2 29-1.1.7.4.3
+# ::tok Jackson later began performing backup vocals and dancing .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4 4-1.1.5.4.1 5-1.1.5.4.2 6-1.1.5.1 7-1.1.5.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :D (v3 / label
-                  :R (v8 / label~e.0)
-                  :C (v9 / label~e.1))
-           :A (v4 / label
-                  :C (v10 / label~e.3)
-                  :N (v11 / label~e.4)
-                  :C (v12 / label~e.5))
-           :P (v5 / label~e.6)
-           :A (v6 / label
-                  :E (v13 / label~e.7)
-                  :C (v14 / label~e.8,9)
-                  :E (v15 / label
-                          :A (v20 / label
-                                  :E (v28 / label~e.11)
-                                  :C (v29 / label~e.12))
-                          :P (v21 / label
-                                  :C (v30 / label~e.13)
-                                  :R (v31 / label~e.14))
-                          :A (v22 / label
-                                  :E (v32 / label~e.15)
-                                  :C (v33 / label
-                                          :C (v34 / label~e.16)
-                                          :C (v35 / label~e.18)
-                                          :N (v36 / label~e.20)
-                                          :C (v37 / label~e.21)))))
+           :A (v3 / label~e.0)
+           :T (v4 / label~e.1)
+           :D (v5 / label~e.2)
+           :P (v6 / label~e.3)
            :A (v7 / label
-                  :R (v16 / label~e.23)
-                  :A (v17 / label
-                          :E (v23 / label~e.24)
-                          :C (v24 / label~e.25))
-                  :P (v18 / label~e.26)
-                  :A (v19 / label
-                          :C (v25 / label~e.27)
-                          :N (v26 / label~e.28)
-                          :C (v27 / label~e.29)))))
+                  :N (v8 / label~e.6)
+                  :C (v9 / label~e.7)
+                  :C (v10 / label
+                          :E (v11 / label~e.4)
+                          :C (v12 / label~e.5)))))

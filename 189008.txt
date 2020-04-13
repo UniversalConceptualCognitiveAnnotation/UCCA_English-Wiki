@@ -7,7 +7,7 @@
     :H (v3 / label
            :A (v5 / label)
            :P (v6 / label~e.1)
-           :D (v7 / label
+           :T (v7 / label
                   :R (v11 / label~e.2)
                   :E (v12 / label~e.3)
                   :C (v13 / label~e.4)))
@@ -16,5 +16,5 @@
            :P (v9 / label~e.7)
            :A (v10 / label
                    :R (v14 / label~e.8)
-                   :E (v15 / label~e.9)
+                   :Q (v15 / label~e.9)
                    :C (v16 / label~e.10))))

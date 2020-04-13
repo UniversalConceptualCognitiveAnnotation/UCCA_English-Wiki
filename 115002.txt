@@ -1,54 +1,63 @@
 # ::id 115002
-# ::tok Three more Oscars came for her work in Guess Who 's Coming to Dinner ( 1967 ) , The Lion in Winter ( 1968 ) , and On Golden Pond ( 1981 ) . In the 1970s she began appearing in television movies , which became the focus of her career in later life .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 3-1.1.2 4-1.1.3.1 5-1.1.3.2 6-1.1.3.3 7-1.1.3.4.1 8-1.1.3.4.2.1.2 9-1.1.3.4.2.1.2 10-1.1.3.4.2.1.2 11-1.1.3.4.2.1.2 12-1.1.3.4.2.1.2 13-1.1.3.4.2.1.2 15-1.1.3.4.2.1.3 18-1.1.3.4.2.2.1 19-1.1.3.4.2.2.1 20-1.1.3.4.2.2.1 21-1.1.3.4.2.2.1 23-1.1.3.4.2.2.2 26-1.1.3.4.2.3 27-1.1.3.4.2.4.1 28-1.1.3.4.2.4.1 29-1.1.3.4.2.4.1 31-1.1.3.4.2.4.2 34-1.2.3.1 35-1.2.3.2 36-1.2.3.3 37-1.2.4 38-1.2.5 39-1.2.1 40-1.2.2.1 41-1.2.2.2 42-1.2.2.3 45-1.2.2.4.3 46-1.2.2.4.4.1 47-1.2.2.4.4.2 48-1.2.2.4.4.3.1 49-1.2.2.4.4.3.2 50-1.2.2.4.4.3.3 51-1.2.2.4.5.1 52-1.2.2.4.5.2 53-1.2.2.4.5.3
+# ::tok Three more Oscars came for her work in Guess Who's Coming to Dinner ( 1967 ) , The Lion in Winter ( 1968 ) , and On Golden Pond ( 1981 ) . In the 1970s she began appearing in television movies , which became the focus of her career in later life .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 3-1.1.2 4-1.1.3.1 5-1.1.3.2 6-1.1.3.3 7-1.1.3.4.1 8-1.1.3.4.2.2 9-1.1.3.4.2.2 10-1.1.3.4.2.2 11-1.1.3.4.2.2 12-1.1.3.4.2.2 14-1.1.3.4.2.3.3 17-1.1.3.4.3.1 18-1.1.3.4.3.1 19-1.1.3.4.3.1 20-1.1.3.4.3.1 22-1.1.3.4.3.2.3 25-1.1.3.4.4 26-1.1.3.4.5.1 27-1.1.3.4.5.1 28-1.1.3.4.5.1 30-1.1.3.4.5.2.3 33-1.2.1.1 34-1.2.1.2 35-1.2.1.3 36-1.2.2 37-1.2.3 38-1.2.4 39-1.2.5.1 40-1.2.5.2 41-1.4.6 43-1.3 44-1.4.1 45-1.4.2.1 46-1.4.2.2 47-1.4.3.1 48-1.4.4 49-1.4.3.2 50-1.4.5.1 51-1.4.5.2 52-1.4.5.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :A (v4 / label
-                  :E (v12 / label~e.0)
-                  :E (v13 / label~e.1)
-                  :C (v14 / label~e.2))
-           :P (v5 / label~e.3)
            :A (v6 / label
-                  :R (v15 / label~e.4)
-                  :A (v16 / label~e.5)
-                  :P (v17 / label~e.6)
-                  :A (v18 / label
-                          :R (v26 / label~e.7)
-                          :C (v27 / label
-                                  :C (v31 / label
-                                          :C (v41 / label~e.8,9,10,11,12,13)
-                                          :E (v42 / label~e.15))
-                                  :C (v32 / label
-                                          :C (v43 / label~e.18,19,20,21)
-                                          :E (v44 / label~e.23))
-                                  :N (v33 / label~e.26)
-                                  :C (v34 / label
-                                          :C (v45 / label~e.27,28,29)
-                                          :E (v46 / label~e.31))))))
-    :H (v3 / label
-           :P (v7 / label~e.39)
+                  :Q (v20 / label~e.0)
+                  :E (v21 / label~e.1)
+                  :C (v22 / label~e.2))
+           :P (v7 / label~e.3)
            :A (v8 / label
-                  :R (v19 / label~e.40)
-                  :E (v20 / label~e.41)
-                  :C (v21 / label~e.42)
-                  :E (v22 / label
-                          :A v21
-                          :S (v28 / label~e.45)
-                          :A (v29 / label
-                                  :E (v35 / label~e.46)
-                                  :C (v36 / label~e.47)
-                                  :E (v37 / label
-                                          :R (v47 / label~e.48)
-                                          :A (v48 / label~e.49)
-                                          :P (v49 / label~e.50)))
-                          :D (v30 / label
-                                  :R (v38 / label~e.51)
-                                  :E (v39 / label~e.52)
-                                  :C (v40 / label~e.53))))
-           :D (v9 / label
-                  :R (v23 / label~e.34)
-                  :E (v24 / label~e.35)
-                  :C (v25 / label~e.36))
-           :A (v10 / label~e.37)
-           :D (v11 / label~e.38)))
+                  :R (v23 / label~e.4)
+                  :A (v24 / label~e.5)
+                  :P (v25 / label~e.6)
+                  :A (v26 / label
+                          :R (v39 / label~e.7)
+                          :C (v40 / label
+                                  :C (v44 / label~e.8,9,10,11,12)
+                                  :E (v45 / label
+                                          :A v44
+                                          :P (v50 / label)
+                                          :T (v51 / label~e.14)))
+                          :C (v41 / label
+                                  :C (v46 / label~e.17,18,19,20)
+                                  :E (v47 / label
+                                          :A v46
+                                          :P (v52 / label)
+                                          :T (v53 / label~e.22)))
+                          :N (v42 / label~e.25)
+                          :C (v43 / label
+                                  :C (v48 / label~e.26,27,28)
+                                  :E (v49 / label
+                                          :A (v54 / label)
+                                          :P (v55 / label)
+                                          :T (v56 / label~e.30))))))
+    :H (v3 / label
+           :T (v9 / label
+                  :R (v27 / label~e.33)
+                  :E (v28 / label~e.34)
+                  :C (v29 / label~e.35))
+           :A (v10 / label~e.36)
+           :D (v11 / label~e.37)
+           :P (v12 / label~e.38)
+           :A (v13 / label
+                   :R (v30 / label~e.39)
+                   :E (v31 / label~e.40)
+                   :C (v19 / label~e.41)))
+    :L (v4 / label~e.43)
+    :H (v5 / label
+           :D (v14 / label~e.44)
+           :D (v15 / label
+                   :E (v32 / label~e.45)
+                   :C (v33 / label~e.46))
+           :P (v16 / label
+                   :R (v34 / label~e.47)
+                   :C (v35 / label~e.49))
+           :A (v17 / label~e.48)
+           :A (v18 / label
+                   :R (v36 / label~e.50)
+                   :E (v37 / label~e.51)
+                   :C (v38 / label~e.52))
+           :A v19))

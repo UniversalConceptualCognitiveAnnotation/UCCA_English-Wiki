@@ -1,8 +1,11 @@
 # ::id 191009
-# ::tok Rob Reiner directed .
-# ::alignments 0-1.1.1 1-1.1.1 2-1.1.2
+# ::tok The film was critically acclaimed .
+# ::alignments 0-1.1.2.1 1-1.1.2.2 3-1.1.4 4-1.1.5
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :A (v3 / label~e.0,1)
-           :P (v4 / label~e.2)))
+           :A (v3 / label
+                  :E (v6 / label~e.0)
+                  :C (v7 / label~e.1))
+           :D (v4 / label~e.3)
+           :P (v5 / label~e.4)))

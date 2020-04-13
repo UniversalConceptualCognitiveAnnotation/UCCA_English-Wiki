@@ -1,46 +1,42 @@
 # ::id 380004
 # ::tok When asked about the more intimate scenes with Ledger , Gyllenhaal likened them to " doing a sex scene with a woman I 'm not particularly attracted to . "
-# ::alignments 0-1.1 1-1.2.1 2-1.2.2.1 3-1.2.2.2.1 4-1.2.2.2.2.1 5-1.2.2.2.2.2 6-1.2.2.2.3 7-1.2.2.3.1 8-1.2.2.3.2 10-1.2.3 11-1.3.3 12-1.3.4 13-1.3.1.1 15-1.3.1.2.2 16-1.3.1.2.3.1 17-1.3.1.2.3.2 18-1.3.1.2.3.3 19-1.3.1.2.4.1 20-1.3.1.2.4.2 21-1.3.1.2.4.3 22-1.3.1.2.4.4.1 24-1.3.1.2.4.4.3 25-1.3.1.2.4.4.4 26-1.3.1.2.4.4.5 27-1.3.1.2.4.4.6.2
+# ::alignments 0-1.1 1-1.2.2 2-1.2.3.1 4-1.2.3.3.1 5-1.2.3.3.2 6-1.2.3.4 7-1.2.3.5.1 8-1.2.3.5.2 10-1.2.4 11-1.3.3 12-1.3.4 13-1.3.1.1 17-1.3.1.2.2.3 18-1.3.1.2.2.4 19-1.3.1.2.3.1 21-1.3.1.2.3.3 22-1.3.1.2.3.4.1 24-1.3.1.2.3.4.3 25-1.3.1.2.3.4.4 26-1.3.1.2.3.4.5 27-1.3.1.2.3.4.6.2
 # ::format ucca
 (v1 / label
     :L (v2 / label~e.0)
     :H (v3 / label
-           :P (v5 / label~e.1)
-           :A (v6 / label
-                  :R (v11 / label~e.2)
-                  :P (v12 / label
-                          :E (v16 / label~e.3)
-                          :E (v17 / label
-                                  :E (v25 / label~e.4)
-                                  :C (v26 / label~e.5))
-                          :C (v18 / label~e.6))
-                  :A (v13 / label
-                          :R (v19 / label~e.7)
-                          :C (v20 / label~e.8))
-                  :A (v7 / label~e.10))
-           :A v7)
+           :A (v5 / label)
+           :P (v6 / label~e.1)
+           :A (v7 / label
+                  :R (v12 / label~e.2)
+                  :D (v13 / label
+                          :E (v18 / label~e.4)
+                          :C (v19 / label~e.5))
+                  :P (v14 / label~e.6)
+                  :A (v15 / label
+                          :R (v20 / label~e.7)
+                          :C (v21 / label~e.8))
+                  :A (v8 / label~e.10))
+           :A v8)
     :H (v4 / label
-           :A (v8 / label
-                  :R (v14 / label~e.13)
-                  :C (v15 / label
-                          :A (v21 / label)
-                          :D (v22 / label~e.15)
+           :A (v9 / label
+                  :R (v16 / label~e.13)
+                  :C (v17 / label
+                          :A (v22 / label)
                           :P (v23 / label
-                                  :E (v27 / label~e.16)
-                                  :E (v28 / label~e.17)
-                                  :C (v29 / label~e.18))
+                                  :C (v25 / label~e.17)
+                                  :C (v26 / label~e.18))
                           :A (v24 / label
-                                  :R (v30 / label~e.19)
-                                  :E (v31 / label~e.20)
-                                  :C (v32 / label~e.21)
-                                  :E (v33 / label
-                                          :A (v34 / label~e.22)
-                                          :D (v35 / label~e.24)
-                                          :D (v36 / label~e.25)
-                                          :P (v37 / label~e.26)
-                                          :A (v38 / label
-                                                  :C v32
-                                                  :R (v39 / label~e.27))))))
-           :A v7
-           :P (v9 / label~e.11)
-           :A (v10 / label~e.12)))
+                                  :R (v27 / label~e.19)
+                                  :C (v28 / label~e.21)
+                                  :E (v29 / label
+                                          :A (v30 / label~e.22)
+                                          :D (v31 / label~e.24)
+                                          :D (v32 / label~e.25)
+                                          :P (v33 / label~e.26)
+                                          :A (v34 / label
+                                                  :C v28
+                                                  :R (v35 / label~e.27))))))
+           :A v8
+           :P (v10 / label~e.11)
+           :A (v11 / label~e.12)))

@@ -1,33 +1,30 @@
 # ::id 253006
 # ::tok He has served as a co - chair of the New York Public Library 's Young Lions Committee , one of New York 's major philanthropic boards .
-# ::alignments 0-1.1.1 2-1.1.3 3-1.1.4.5 4-1.1.4.6 5-1.1.4.1 7-1.1.4.2 8-1.1.4.3.1 9-1.1.4.3.2.1.1 10-1.1.4.3.2.1.2 11-1.1.4.3.2.1.2 12-1.1.4.3.2.2 13-1.1.4.3.2.3 14-1.1.4.3.2.4 15-1.1.4.3.3 16-1.1.4.3.3 17-1.1.4.3.4 19-1.1.4.3.5.1 20-1.1.4.3.5.2 21-1.1.4.3.5.3.1 22-1.1.4.3.5.3.1 23-1.1.4.3.5.3.2 24-1.1.4.3.5.4 25-1.1.4.3.5.5 26-1.1.4.3.5.6
+# ::alignments 0-1.1.4 2-1.1.6 3-1.1.7 5-1.1.9 7-1.1.1 8-1.1.2.1 10-1.1.2.2.1.2 11-1.1.2.2.1.2 12-1.1.2.2.2 13-1.1.2.2.3 14-1.1.2.2.4 15-1.1.2.3 16-1.1.2.3 17-1.1.2.4 19-1.1.2.5.1 20-1.1.2.5.2 21-1.1.2.5.3.1 22-1.1.2.5.3.1 23-1.1.2.5.3.2 24-1.1.2.5.4 25-1.1.2.5.5 26-1.1.2.5.6
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :A (v3 / label~e.0)
-           :P (v4 / label~e.2)
-           :A (v5 / label
-                  :E (v6 / label~e.5)
-                  :C (v7 / label~e.7)
-                  :E (v8 / label
-                         :R (v11 / label~e.8)
-                         :E (v12 / label
-                                 :E (v16 / label
-                                         :E (v26 / label~e.9)
-                                         :C (v27 / label~e.10,11))
-                                 :E (v17 / label~e.12)
-                                 :C (v18 / label~e.13)
-                                 :R (v19 / label~e.14))
-                         :E (v13 / label~e.15,16)
-                         :C (v14 / label~e.17)
-                         :E (v15 / label
-                                 :E (v20 / label~e.19)
-                                 :R (v21 / label~e.20)
-                                 :E (v22 / label
-                                         :C (v28 / label~e.21,22)
-                                         :R (v29 / label~e.23))
-                                 :E (v23 / label~e.24)
-                                 :E (v24 / label~e.25)
-                                 :C (v25 / label~e.26)))
-                  :R (v9 / label~e.3)
-                  :E (v10 / label~e.4))))
+           :P (v3 / label~e.7)
+           :A (v4 / label
+                  :R (v9 / label~e.8)
+                  :E (v10 / label
+                          :E (v14 / label
+                                  :C (v24 / label~e.10,11))
+                          :E (v15 / label~e.12)
+                          :C (v16 / label~e.13)
+                          :R (v17 / label~e.14))
+                  :E (v11 / label~e.15,16)
+                  :C (v12 / label~e.17)
+                  :E (v13 / label
+                          :Q (v18 / label~e.19)
+                          :R (v19 / label~e.20)
+                          :E (v20 / label
+                                  :C (v25 / label~e.21,22)
+                                  :R (v26 / label~e.23))
+                          :E (v21 / label~e.24)
+                          :E (v22 / label~e.25)
+                          :C (v23 / label~e.26)))
+           :A (v5 / label~e.0)
+           :D (v6 / label~e.2)
+           :R (v7 / label~e.3)
+           :D (v8 / label~e.5)))

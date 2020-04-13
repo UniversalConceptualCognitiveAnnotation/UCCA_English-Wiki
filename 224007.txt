@@ -1,32 +1,26 @@
 # ::id 224007
 # ::tok The film established the comedic kung fu genre , and proved to be a breath of fresh air for the Hong Kong audience .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2 3-1.1.3.1 4-1.1.3.2 5-1.1.3.3 6-1.1.3.3 7-1.1.3.4 9-1.2 10-1.3.4 12-1.3.6 13-1.3.1.1 14-1.3.1.2 15-1.3.1.3.1 16-1.3.1.3.2 17-1.3.1.3.3 18-1.3.2.1 19-1.3.2.2 20-1.3.2.3 21-1.3.2.3 22-1.3.2.4
+# ::alignments 1-1.1.1.2 2-1.1.2 4-1.1.3.2 5-1.1.3.3 6-1.1.3.3 7-1.1.3.4 9-1.2 10-1.3.2 11-1.3.3.5 12-1.3.3.1 13-1.3.3.2 14-1.3.3.2 15-1.3.3.2 16-1.3.3.2 17-1.3.3.2 18-1.3.3.3.1 20-1.3.3.3.3 21-1.3.3.3.3 22-1.3.3.3.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v5 / label
-                  :E (v12 / label~e.0)
-                  :C (v13 / label~e.1))
+                  :C (v10 / label~e.1))
            :P (v6 / label~e.2)
            :A (v7 / label
-                  :R (v14 / label~e.3)
-                  :E (v15 / label~e.4)
-                  :E (v16 / label~e.5,6)
-                  :C (v17 / label~e.7)))
+                  :E (v11 / label~e.4)
+                  :C (v12 / label~e.5,6)
+                  :E (v13 / label~e.7)))
     :L (v3 / label~e.9)
     :H (v4 / label
-           :A (v8 / label
-                  :E (v18 / label~e.13)
-                  :C (v19 / label~e.14)
-                  :E (v20 / label
-                          :R (v25 / label~e.15)
-                          :E (v26 / label~e.16)
-                          :C (v27 / label~e.17)))
-           :A (v9 / label
-                  :R (v21 / label~e.18)
-                  :E (v22 / label~e.19)
-                  :E (v23 / label~e.20,21)
-                  :C (v24 / label~e.22))
            :A v5
-           :P (v10 / label~e.10)
-           :D (v11 / label~e.12)))
+           :P (v8 / label~e.10)
+           :A (v9 / label
+                  :S (v14 / label~e.12)
+                  :A (v15 / label~e.13,14,15,16,17)
+                  :A (v16 / label
+                          :R (v18 / label~e.18)
+                          :A (v19 / label~e.20,21)
+                          :A (v20 / label~e.22))
+                  :A v5
+                  :R (v17 / label~e.11))))

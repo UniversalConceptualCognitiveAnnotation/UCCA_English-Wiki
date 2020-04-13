@@ -1,29 +1,32 @@
 # ::id 140007
 # ::tok From December 1969 to August 1970 , Hepburn starred in the Broadway musical Coco , about the life of Coco Chanel .
-# ::alignments 0-1.1.2.1 1-1.1.2.2 2-1.1.2.2 3-1.1.2.3 4-1.1.2.4 5-1.1.2.4 7-1.1.3 8-1.1.4 9-1.1.5.6 10-1.1.5.1 11-1.1.5.2.1 12-1.1.5.2.2 13-1.1.5.3 15-1.1.5.4.1 16-1.1.5.4.2.1.1 17-1.1.5.4.2.1.2 18-1.1.5.4.2.2.1 19-1.1.5.4.2.2.2 20-1.1.5.4.2.2.2
+# ::alignments 0-1.1.2.1 1-1.1.2.2.1 2-1.1.2.2.2 3-1.1.2.3 4-1.1.2.4.1 5-1.1.2.4.2 7-1.1.3 8-1.1.4 9-1.1.5.6 10-1.1.5.1 11-1.1.5.2.1 12-1.1.5.2.2 13-1.1.5.3 15-1.1.5.4.1 16-1.1.5.4.2.1 17-1.1.5.4.2.2 18-1.1.5.4.3.1 19-1.1.5.4.3.2 20-1.1.5.4.3.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :D (v3 / label
+           :T (v3 / label
                   :R (v7 / label~e.0)
-                  :C (v8 / label~e.1,2)
+                  :C (v8 / label
+                         :C (v16 / label~e.1)
+                         :C (v17 / label~e.2))
                   :R (v9 / label~e.3)
-                  :C (v10 / label~e.4,5))
+                  :C (v10 / label
+                          :C (v18 / label~e.4)
+                          :C (v19 / label~e.5)))
            :A (v4 / label~e.7)
            :P (v5 / label~e.8)
            :A (v6 / label
                   :E (v11 / label~e.10)
                   :E (v12 / label
-                          :E (v16 / label~e.11)
-                          :C (v17 / label~e.12))
+                          :E (v20 / label~e.11)
+                          :C (v21 / label~e.12))
                   :C (v13 / label~e.13)
                   :E (v14 / label
-                          :R (v18 / label~e.15)
-                          :C (v19 / label
-                                  :S (v20 / label
-                                          :E (v22 / label~e.16)
-                                          :C (v23 / label~e.17))
-                                  :A (v21 / label
-                                          :R (v24 / label~e.18)
-                                          :C (v25 / label~e.19,20))))
+                          :R (v22 / label~e.15)
+                          :S (v23 / label
+                                  :E (v25 / label~e.16)
+                                  :C (v26 / label~e.17))
+                          :A (v24 / label
+                                  :R (v27 / label~e.18)
+                                  :C (v28 / label~e.19,20)))
                   :R (v15 / label~e.9))))

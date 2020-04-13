@@ -1,48 +1,47 @@
 # ::id 116011
 # ::tok She loved swimming in Long Island Sound , and took ice - cold baths every morning in the belief that " the bitterer the medicine , the better it was for you . "
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.2 3-1.1.3.3.1 4-1.1.3.3.2 5-1.1.3.3.2 6-1.1.3.3.3 8-1.2 9-1.3.2.1 10-1.3.2.2.1.1 12-1.3.2.2.1.2 13-1.3.2.2.2 14-1.3.2.3.1 15-1.3.2.3.2 16-1.3.3.1 17-1.3.3.2 18-1.3.3.3 22-1.3.1.1.2.2 23-1.3.1.1.3.1 24-1.3.1.1.3.2 26-1.3.1.2.1.1 27-1.3.1.2.1.2 28-1.3.1.2.2 29-1.3.1.2.3 30-1.3.1.2.4.1 31-1.3.1.2.4.2
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.2 3-1.1.3.3.1 4-1.1.3.3.2 5-1.1.3.3.2 6-1.1.3.3.2 8-1.2 10-1.3.5.1 12-1.3.5.2 13-1.3.4.2 14-1.3.1.1 15-1.3.1.2 16-1.3.2.1 17-1.3.2.2.1 18-1.3.2.2.2 19-1.3.2.3.1 22-1.3.2.3.2.1.2 23-1.3.2.3.2.2.1 24-1.3.2.3.2.2.2 26-1.3.2.3.3.1.1 27-1.3.2.3.3.1.2 28-1.3.2.3.3.2 30-1.3.2.3.3.4.1 31-1.3.2.3.3.4.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v5 / label~e.0)
-           :P (v6 / label~e.1)
+           :S (v6 / label~e.1)
            :A (v7 / label
                   :A v5
-                  :P (v11 / label~e.2)
-                  :A (v12 / label
-                          :R (v21 / label~e.3)
-                          :E (v22 / label~e.4,5)
-                          :C (v23 / label~e.6))))
+                  :P (v12 / label~e.2)
+                  :A (v13 / label
+                          :R (v22 / label~e.3)
+                          :C (v23 / label~e.4,5,6))))
     :L (v3 / label~e.8)
     :H (v4 / label
-           :A (v8 / label
-                  :H (v13 / label
-                          :S (v24 / label
-                                  :C (v34 / label~e.22))
-                          :A (v25 / label
-                                  :E (v35 / label~e.23)
-                                  :C (v36 / label~e.24)))
-                  :H (v14 / label
-                          :S (v26 / label
-                                  :E (v37 / label~e.26)
-                                  :C (v38 / label~e.27))
-                          :A (v27 / label~e.28)
-                          :D (v28 / label~e.29)
-                          :A (v29 / label
-                                  :R (v39 / label~e.30)
-                                  :C (v40 / label~e.31))))
+           :T (v8 / label
+                  :E (v14 / label~e.14)
+                  :C (v15 / label~e.15))
            :A (v9 / label
-                  :P (v15 / label~e.9)
-                  :A (v16 / label
-                          :E (v30 / label
-                                  :E (v41 / label~e.10)
-                                  :C (v42 / label~e.12))
-                          :C (v31 / label~e.13))
-                  :D (v17 / label
-                          :R (v32 / label~e.14)
-                          :C (v33 / label~e.15))
+                  :R (v16 / label~e.16)
+                  :P (v17 / label
+                          :E (v24 / label~e.17)
+                          :C (v25 / label~e.18))
+                  :A (v18 / label
+                          :R (v26 / label~e.19)
+                          :H (v27 / label
+                                  :S (v29 / label
+                                          :C (v34 / label~e.22))
+                                  :A (v30 / label
+                                          :E (v35 / label~e.23)
+                                          :C (v36 / label~e.24)))
+                          :H (v28 / label
+                                  :S (v31 / label
+                                          :E (v37 / label~e.26)
+                                          :C (v38 / label~e.27))
+                                  :A (v32 / label~e.28)
+                                  :A (v33 / label
+                                          :R (v39 / label~e.30)
+                                          :C (v40 / label~e.31))))
                   :A v5)
+           :A v5
            :P (v10 / label
-                   :R (v18 / label~e.16)
-                   :E (v19 / label~e.17)
-                   :C (v20 / label~e.18))))
+                   :C (v19 / label~e.13))
+           :D (v11 / label
+                   :E (v20 / label~e.10)
+                   :C (v21 / label~e.12))))
