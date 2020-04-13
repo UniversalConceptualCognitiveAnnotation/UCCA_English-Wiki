@@ -2,7 +2,7 @@
 # sent_id = 656006
 # text = In 2010 , on what would have been Lennon 's 70th birthday , the John Lennon Peace Monument was unveiled in Chavasse Park , Liverpool , by Cynthia and Julian Lennon .
 1	In	_	Word	Word	_	2	R	2:R	_
-2	2010	_	Word	Word	_	20	D	20:D	_
+2	2010	_	Word	Word	_	20	T	20:T	_
 3	,	_	Punctuation	Punctuation	_	20	U	20:U	_
 4	on	_	Word	Word	_	12	L	12:L	_
 5	what	_	Word	Word	_	12	F	12:F	_
@@ -25,7 +25,7 @@
 22	Chavasse	_	Word	Word	_	23	E	23:E	_
 23	Park	_	Word	Word	_	20	A	20:A	_
 24	,	_	Punctuation	Punctuation	_	23	U	23:U	_
-25	Liverpool	_	Word	Word	_	23	E	23:E	_
+25	Liverpool	_	Word	Word	_	23	C	23:C	_
 26	,	_	Punctuation	Punctuation	_	20	U	20:U	_
 27	by	_	Word	Word	_	28	R	28:R	_
 28	Cynthia	_	Word	Word	_	20	A	20:A	_

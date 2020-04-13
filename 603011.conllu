@@ -1,39 +1,22 @@
 # format = ucca
 # sent_id = 603011
-# text = His first creative suggestion after this change of leadership was to propose that the band move forward on their plans to produce a film for television , which was to become Magical Mystery Tour .
-1	His	_	Word	Word	_	4	A	4:A|12:A	_
-2	first	_	Word	Word	_	4	D	4:D	_
-3	creative	_	Word	Word	_	4	E	4:E	_
-4	suggestion	_	Word	Word	_	10	A	10:A	_
-5	after	_	Word	Word	_	7	L	7:L	_
-6	this	_	Word	Word	_	7	F	7:F	_
-7	change	_	Word	Word	_	4	H	4:H	_
-8	of	_	Word	Word	_	9	E	9:E	_
-9	leadership	_	Word	Word	_	7	A	7:A	_
-10	was	_	Word	Word	_	0	H	0:H	_
-11	to	_	Word	Word	_	12	F	12:F	_
-12	propose	_	Word	Word	_	10	A	10:A	_
-13	that	_	Word	Word	_	16	F	16:F	_
-14	the	_	Word	Word	_	15	E	15:E	_
-15	band	_	Word	Word	_	16	A	16:A|22:A	_
-16	move	_	Word	Word	_	12	A	12:A	_
-17	forward	_	Word	Word	_	16	D	16:D	_
-18	on	_	Word	Word	_	20	R	20:R	_
-19	their	_	Word	Word	_	20	E	20:E	_
-20	plans	_	Word	Word	_	16	A	16:A	_
-21	to	_	Word	Word	_	22	F	22:F	_
-22	produce	_	Word	Word	_	20	E	20:E	_
-23	a	_	Word	Word	_	24	E	24:E	_
-24	film	_	Word	Word	_	22	A	22:A	_
-25	for	_	Word	Word	_	26	R	26:R	_
-26	television	_	Word	Word	_	24	E	24:E	_
-27	,	_	Punctuation	Punctuation	_	24	U	24:U	_
-28	which	_	Word	Word	_	31	F	31:F	_
-29	was	_	Word	Word	_	31	F	31:F	_
-30	to	_	Word	Word	_	31	F	31:F	_
-31	become	_	Word	Word	_	24	E	24:E	_
-32	Magical	_	Word	Word	_	31	A	31:A	_
-33	Mystery	_	Word	Word	_	32	Terminal	32:Terminal	_
-34	Tour	_	Word	Word	_	32	Terminal	32:Terminal	_
-35	.	_	Punctuation	Punctuation	_	31	U	31:U	_
+# text = The project was " an administrative nightmare throughout " , according to Beatles ' historian Mark Lewisohn .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	project	_	Word	Word	_	3	A	3:A	_
+3	was	_	Word	Word	_	11	A	11:A	_
+4	"	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	an	_	Word	Word	_	7	F	7:F	_
+6	administrative	_	Word	Word	_	7	E	7:E	_
+7	nightmare	_	Word	Word	_	3	A	3:A	_
+8	throughout	_	Word	Word	_	3	D	3:D	_
+9	"	_	Punctuation	Punctuation	_	11	U	11:U	_
+10	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+11	according	_	Word	Word	_	0	H	0:H	_
+12	to	_	Word	Word	_	16	R	16:R	_
+13	Beatles	_	Word	Word	_	15	A	15:A	_
+14	'	_	Punctuation	Punctuation	_	15	U	15:U	_
+15	historian	_	Word	Word	_	16	E	16:E	_
+16	Mark	_	Word	Word	_	11	A	11:A	_
+17	Lewisohn	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	.	_	Punctuation	Punctuation	_	16	U	16:U	_
 

@@ -1,9 +1,36 @@
 # format = ucca
 # sent_id = 381010
-# text = Gyllenhaal is politically active .
-1	Gyllenhaal	_	Word	Word	_	4	A	4:A	_
-2	is	_	Word	Word	_	4	F	4:F	_
-3	politically	_	Word	Word	_	4	D	4:D	_
-4	active	_	Word	Word	_	0	H	0:H	_
-5	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+# text = He shot a commercial for Rock the Vote , and along with his sister , visited the University of Southern California to encourage students to vote during the 2004 U.S. Election .
+1	He	_	Word	Word	_	2	A	2:A|16:A|23:A	_
+2	shot	_	Word	Word	_	0	H	0:H	_
+3	a	_	Word	Word	_	4	F	4:F	_
+4	commercial	_	Word	Word	_	2	A	2:A	_
+5	for	_	Word	Word	_	6	R	6:R	_
+6	Rock	_	Word	Word	_	2	A	2:A	_
+7	the	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	Vote	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+10	and	_	Word	Word	_	16	L	16:L	_
+11	along	_	Word	Word	_	13	R	13:R	_
+12	with	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	his	_	Word	Word	_	0	C	0:C|23:A	_
+14	sister	_	Word	Word	_	13	A	13:A	_
+15	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+16	visited	_	Word	Word	_	2	H	2:H	_
+17	the	_	Word	Word	_	18	F	18:F	_
+18	University	_	Word	Word	_	16	A	16:A	_
+19	of	_	Word	Word	_	20	R	20:R	_
+20	Southern	_	Word	Word	_	18	E	18:E	_
+21	California	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	to	_	Word	Word	_	23	L	23:L	_
+23	encourage	_	Word	Word	_	2	H	2:H	_
+24	students	_	Word	Word	_	23	A	23:A|26:A	_
+25	to	_	Word	Word	_	26	F	26:F	_
+26	vote	_	Word	Word	_	23	A	23:A	_
+27	during	_	Word	Word	_	31	L	31:L	_
+28	the	_	Word	Word	_	31	F	31:F	_
+29	2004	_	Word	Word	_	31	T	31:T	_
+30	U.S.	_	Word	Word	_	31	A	31:A	_
+31	Election	_	Word	Word	_	2	H	2:H	_
+32	.	_	Punctuation	Punctuation	_	31	U	31:U	_
 

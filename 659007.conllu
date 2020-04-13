@@ -1,28 +1,28 @@
 # format = ucca
 # sent_id = 659007
 # text = Though introducing her daughter to the world of classical opera , Patricia never pressured Carey to pursue a career in the genre , as she never seemed interested in that world of music .
-1	Though	_	Word	Word	_	17	L	17:L	_
+1	Though	_	Word	Word	_	14	L	14:L	_
 2	introducing	_	Word	Word	_	0	H	0:H	_
-3	her	_	Word	Word	_	4	E	4:E	_
-4	daughter	_	Word	Word	_	2	A	2:A	_
+3	her	_	Word	Word	_	2	A	2:A	_
+4	daughter	_	Word	Word	_	3	A	3:A	_
 5	to	_	Word	Word	_	7	R	7:R	_
-6	the	_	Word	Word	_	7	E	7:E	_
+6	the	_	Word	Word	_	7	F	7:F	_
 7	world	_	Word	Word	_	2	A	2:A	_
 8	of	_	Word	Word	_	10	R	10:R	_
 9	classical	_	Word	Word	_	10	E	10:E	_
 10	opera	_	Word	Word	_	7	E	7:E	_
 11	,	_	Punctuation	Punctuation	_	2	U	2:U	_
-12	Patricia	_	Word	Word	_	17	A	17:A|2:A	_
-13	never	_	Word	Word	_	17	D	17:D	_
-14	pressured	_	Word	Word	_	17	D	17:D	_
-15	Carey	_	Word	Word	_	17	A	17:A	_
+12	Patricia	_	Word	Word	_	14	A	14:A|2:A	_
+13	never	_	Word	Word	_	14	D	14:D	_
+14	pressured	_	Word	Word	_	2	H	2:H	_
+15	Carey	_	Word	Word	_	14	A	14:A|17:A|19:A	_
 16	to	_	Word	Word	_	17	F	17:F	_
-17	pursue	_	Word	Word	_	2	H	2:H	_
-18	a	_	Word	Word	_	19	E	19:E	_
+17	pursue	_	Word	Word	_	14	A	14:A	_
+18	a	_	Word	Word	_	19	F	19:F	_
 19	career	_	Word	Word	_	17	A	17:A	_
 20	in	_	Word	Word	_	22	R	22:R	_
-21	the	_	Word	Word	_	22	E	22:E	_
-22	genre	_	Word	Word	_	19	E	19:E	_
+21	the	_	Word	Word	_	22	F	22:F	_
+22	genre	_	Word	Word	_	19	A	19:A	_
 23	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 24	as	_	Word	Word	_	28	L	28:L	_
 25	she	_	Word	Word	_	28	A	28:A	_

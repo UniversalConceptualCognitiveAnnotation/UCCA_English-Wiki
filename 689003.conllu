@@ -1,19 +1,19 @@
 # format = ucca
 # sent_id = 689003
 # text = In his autobiography Chronicles : Volume One , Dylan writes that his paternal grandmother 's maiden name was Kirghiz and her family originated from Kağızman in north eastern Turkey .
-1	In	_	Word	Word	_	3	R	3:R	_
+1	In	_	Word	Word	_	4	R	4:R	_
 2	his	_	Word	Word	_	3	E	3:E	_
-3	autobiography	_	Word	Word	_	10	A	10:A	_
-4	Chronicles	_	Word	Word	_	3	E	3:E	_
+3	autobiography	_	Word	Word	_	4	E	4:E	_
+4	Chronicles	_	Word	Word	_	10	A	10:A	_
 5	:	_	Punctuation	Punctuation	_	4	U	4:U	_
 6	Volume	_	Word	Word	_	4	Terminal	4:Terminal	_
 7	One	_	Word	Word	_	4	Terminal	4:Terminal	_
 8	,	_	Punctuation	Punctuation	_	10	U	10:U	_
 9	Dylan	_	Word	Word	_	10	A	10:A	_
 10	writes	_	Word	Word	_	0	H	0:H	_
-11	that	_	Word	Word	_	18	F	18:F	_
-12	his	_	Word	Word	_	14	E	14:E	_
-13	paternal	_	Word	Word	_	14	E	14:E	_
+11	that	_	Word	Word	_	18	R	18:R	_
+12	his	_	Word	Word	_	14	A	14:A	_
+13	paternal	_	Word	Word	_	14	A	14:A	_
 14	grandmother	_	Word	Word	_	17	E	17:E	_
 15	's	_	Word	Word	_	14	R	14:R	_
 16	maiden	_	Word	Word	_	17	E	17:E	_
@@ -21,7 +21,7 @@
 18	was	_	Word	Word	_	10	A	10:A	_
 19	Kirghiz	_	Word	Word	_	18	A	18:A	_
 20	and	_	Word	Word	_	23	L	23:L	_
-21	her	_	Word	Word	_	22	E	22:E	_
+21	her	_	Word	Word	_	22	A	22:A	_
 22	family	_	Word	Word	_	23	A	23:A	_
 23	originated	_	Word	Word	_	18	H	18:H	_
 24	from	_	Word	Word	_	25	R	25:R	_

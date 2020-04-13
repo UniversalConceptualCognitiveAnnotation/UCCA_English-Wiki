@@ -1,34 +1,19 @@
 # format = ucca
 # sent_id = 215014
-# text = She later explained : " When I read it , I was 15 and I do n't think I was mature enough to understand the script 's material . "
-1	She	_	Word	Word	_	3	A	3:A	_
-2	later	_	Word	Word	_	3	D	3:D	_
-3	explained	_	Word	Word	_	0	H	0:H	_
-4	:	_	Punctuation	Punctuation	_	3	U	3:U	_
-5	"	_	Punctuation	Punctuation	_	3	U	3:U	_
-6	When	_	Word	Word	_	13	L	13:L	_
-7	I	_	Word	Word	_	8	A	8:A	_
-8	read	_	Word	Word	_	3	A	3:A	_
-9	it	_	Word	Word	_	8	A	8:A	_
-10	,	_	Punctuation	Punctuation	_	8	U	8:U	_
-11	I	_	Word	Word	_	13	A	13:A	_
-12	was	_	Word	Word	_	13	F	13:F	_
-13	15	_	Word	Word	_	8	H	8:H	_
-14	and	_	Word	Word	_	18	L	18:L	_
-15	I	_	Word	Word	_	18	A	18:A	_
-16	do	_	Word	Word	_	18	F	18:F	_
-17	n't	_	Word	Word	_	18	D	18:D	_
-18	think	_	Word	Word	_	8	H	8:H	_
-19	I	_	Word	Word	_	21	A	21:A|24:A	_
-20	was	_	Word	Word	_	21	F	21:F	_
-21	mature	_	Word	Word	_	18	A	18:A	_
-22	enough	_	Word	Word	_	21	D	21:D	_
-23	to	_	Word	Word	_	24	F	24:F	_
-24	understand	_	Word	Word	_	21	A	21:A	_
-25	the	_	Word	Word	_	28	E	28:E	_
-26	script	_	Word	Word	_	28	E	28:E	_
-27	's	_	Word	Word	_	26	R	26:R	_
-28	material	_	Word	Word	_	24	A	24:A	_
-29	.	_	Punctuation	Punctuation	_	28	U	28:U	_
-30	"	_	Punctuation	Punctuation	_	28	U	28:U	_
+# text = That same year , she appeared in the comedy Dick , alongside Michelle Williams .
+1	That	_	Word	Word	_	3	E	3:E	_
+2	same	_	Word	Word	_	3	E	3:E	_
+3	year	_	Word	Word	_	6	T	6:T	_
+4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	she	_	Word	Word	_	6	A	6:A	_
+6	appeared	_	Word	Word	_	0	H	0:H	_
+7	in	_	Word	Word	_	10	R	10:R	_
+8	the	_	Word	Word	_	10	F	10:F	_
+9	comedy	_	Word	Word	_	10	E	10:E	_
+10	Dick	_	Word	Word	_	6	A	6:A	_
+11	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+12	alongside	_	Word	Word	_	13	R	13:R	_
+13	Michelle	_	Word	Word	_	6	A	6:A	_
+14	Williams	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	.	_	Punctuation	Punctuation	_	13	U	13:U	_
 

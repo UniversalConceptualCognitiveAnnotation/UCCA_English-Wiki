@@ -2,13 +2,13 @@
 # sent_id = 726004
 # text = In 2000 , Jolie appeared in her first summer blockbuster , Gone In 60 Seconds , in which she played Sarah " Sway " Wayland , the ex - girlfriend of car thief Nicolas Cage .
 1	In	_	Word	Word	_	2	R	2:R	_
-2	2000	_	Word	Word	_	5	D	5:D	_
+2	2000	_	Word	Word	_	5	T	5:T	_
 3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 4	Jolie	_	Word	Word	_	5	A	5:A	_
 5	appeared	_	Word	Word	_	0	H	0:H	_
 6	in	_	Word	Word	_	12	R	12:R	_
-7	her	_	Word	Word	_	12	E	12:E	_
-8	first	_	Word	Word	_	12	E	12:E	_
+7	her	_	Word	Word	_	10	E	10:E	_
+8	first	_	Word	Word	_	10	Q	10:Q	_
 9	summer	_	Word	Word	_	10	E	10:E	_
 10	blockbuster	_	Word	Word	_	12	E	12:E	_
 11	,	_	Punctuation	Punctuation	_	12	U	12:U	_
@@ -16,25 +16,25 @@
 13	In	_	Word	Word	_	12	Terminal	12:Terminal	_
 14	60	_	Word	Word	_	12	Terminal	12:Terminal	_
 15	Seconds	_	Word	Word	_	12	Terminal	12:Terminal	_
-16	,	_	Punctuation	Punctuation	_	5	U	5:U	_
-17	in	_	Word	Word	_	20	L	20:L	_
+16	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+17	in	_	Word	Word	_	20	R	20:R	_
 18	which	_	Word	Word	_	17	Terminal	17:Terminal	_
 19	she	_	Word	Word	_	20	A	20:A	_
-20	played	_	Word	Word	_	5	H	5:H	_
+20	played	_	Word	Word	_	12	E	12:E	_
 21	Sarah	_	Word	Word	_	20	A	20:A	_
 22	"	_	Punctuation	Punctuation	_	21	U	21:U	_
 23	Sway	_	Word	Word	_	21	Terminal	21:Terminal	_
 24	"	_	Punctuation	Punctuation	_	21	U	21:U	_
 25	Wayland	_	Word	Word	_	21	Terminal	21:Terminal	_
 26	,	_	Punctuation	Punctuation	_	21	U	21:U	_
-27	the	_	Word	Word	_	30	E	30:E	_
-28	ex	_	Word	Word	_	30	E	30:E	_
+27	the	_	Word	Word	_	30	F	30:F	_
+28	ex	_	Word	Word	_	30	D	30:D	_
 29	-	_	Punctuation	Punctuation	_	30	U	30:U	_
 30	girlfriend	_	Word	Word	_	21	E	21:E	_
 31	of	_	Word	Word	_	34	R	34:R	_
-32	car	_	Word	Word	_	33	E	33:E	_
+32	car	_	Word	Word	_	33	A	33:A	_
 33	thief	_	Word	Word	_	34	E	34:E	_
-34	Nicolas	_	Word	Word	_	30	E	30:E	_
+34	Nicolas	_	Word	Word	_	30	A	30:A	_
 35	Cage	_	Word	Word	_	34	Terminal	34:Terminal	_
 36	.	_	Punctuation	Punctuation	_	34	U	34:U	_
 

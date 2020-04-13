@@ -1,27 +1,18 @@
 # format = ucca
 # sent_id = 491007
-# text = Bana is also an advocate for the Mental Illness Fellowship , which works to increase the awareness of mental illness in Australia .
-1	Bana	_	Word	Word	_	2	A	2:A	_
-2	is	_	Word	Word	_	0	H	0:H	_
-3	also	_	Word	Word	_	2	D	2:D	_
-4	an	_	Word	Word	_	5	E	5:E	_
-5	advocate	_	Word	Word	_	2	A	2:A	_
-6	for	_	Word	Word	_	10	R	10:R	_
-7	the	_	Word	Word	_	10	E	10:E	_
-8	Mental	_	Word	Word	_	9	E	9:E	_
-9	Illness	_	Word	Word	_	10	E	10:E	_
-10	Fellowship	_	Word	Word	_	5	E	5:E	_
-11	,	_	Punctuation	Punctuation	_	10	U	10:U	_
-12	which	_	Word	Word	_	13	R	13:R	_
-13	works	_	Word	Word	_	10	E	10:E	_
-14	to	_	Word	Word	_	15	F	15:F	_
-15	increase	_	Word	Word	_	13	A	13:A	_
-16	the	_	Word	Word	_	17	E	17:E	_
-17	awareness	_	Word	Word	_	15	A	15:A	_
-18	of	_	Word	Word	_	20	R	20:R	_
-19	mental	_	Word	Word	_	20	E	20:E	_
-20	illness	_	Word	Word	_	17	A	17:A	_
-21	in	_	Word	Word	_	22	R	22:R	_
-22	Australia	_	Word	Word	_	17	A	17:A	_
-23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+# text = In 2004 , he appeared in several high profile advertisements for the fellowship .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	2004	_	Word	Word	_	5	T	5:T	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	he	_	Word	Word	_	5	A	5:A	_
+5	appeared	_	Word	Word	_	0	H	0:H	_
+6	in	_	Word	Word	_	10	R	10:R	_
+7	several	_	Word	Word	_	10	Q	10:Q	_
+8	high	_	Word	Word	_	9	E	9:E	_
+9	profile	_	Word	Word	_	10	E	10:E	_
+10	advertisements	_	Word	Word	_	5	A	5:A	_
+11	for	_	Word	Word	_	13	R	13:R	_
+12	the	_	Word	Word	_	13	E	13:E	_
+13	fellowship	_	Word	Word	_	10	E	10:E	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
 

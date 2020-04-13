@@ -2,11 +2,11 @@
 # sent_id = 655003
 # text = The Beatles ' producer , George Martin , tells how Lennon " had an inborn dislike of his own voice which I could never understand . He was always saying to me : ' DO something with my voice ! ... put something on it ... Make it different . ' "
 1	The	_	Word	Word	_	2	E	2:E	_
-2	Beatles	_	Word	Word	_	4	E	4:E	_
+2	Beatles	_	Word	Word	_	4	A	4:A	_
 3	'	_	Punctuation	Punctuation	_	4	U	4:U	_
-4	producer	_	Word	Word	_	6	E	6:E	_
-5	,	_	Punctuation	Punctuation	_	6	U	6:U	_
-6	George	_	Word	Word	_	9	A	9:A	_
+4	producer	_	Word	Word	_	9	A	9:A	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	George	_	Word	Word	_	4	A	4:A	_
 7	Martin	_	Word	Word	_	6	Terminal	6:Terminal	_
 8	,	_	Punctuation	Punctuation	_	9	U	9:U	_
 9	tells	_	Word	Word	_	0	H	0:H	_
@@ -24,12 +24,12 @@
 21	which	_	Word	Word	_	25	L	25:L	_
 22	I	_	Word	Word	_	25	A	25:A	_
 23	could	_	Word	Word	_	25	D	25:D	_
-24	never	_	Word	Word	_	25	D	25:D	_
+24	never	_	Word	Word	_	25	T	25:T	_
 25	understand	_	Word	Word	_	16	H	16:H	_
 26	.	_	Punctuation	Punctuation	_	16	U	16:U	_
 27	He	_	Word	Word	_	30	A	30:A	_
 28	was	_	Word	Word	_	30	F	30:F	_
-29	always	_	Word	Word	_	30	D	30:D	_
+29	always	_	Word	Word	_	30	T	30:T	_
 30	saying	_	Word	Word	_	16	H	16:H	_
 31	to	_	Word	Word	_	32	R	32:R	_
 32	me	_	Word	Word	_	30	A	30:A	_

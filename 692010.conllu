@@ -2,7 +2,7 @@
 # sent_id = 692010
 # text = The song was widely recorded and became an international hit for Peter , Paul and Mary , setting a precedent for many other artists who had hits with Dylan 's songs . "
 1	The	_	Word	Word	_	2	E	2:E	_
-2	song	_	Word	Word	_	0	C	0:C|10:A|18:A	_
+2	song	_	Word	Word	_	0	C	0:C|10:A|20:A	_
 3	was	_	Word	Word	_	5	F	5:F	_
 4	widely	_	Word	Word	_	5	D	5:D	_
 5	recorded	_	Word	Word	_	0	H	0:H	_
@@ -18,19 +18,19 @@
 15	and	_	Word	Word	_	12	Terminal	12:Terminal	_
 16	Mary	_	Word	Word	_	12	Terminal	12:Terminal	_
 17	,	_	Punctuation	Punctuation	_	5	U	5:U	_
-18	setting	_	Word	Word	_	5	H	5:H	_
-19	a	_	Word	Word	_	18	Terminal	18:Terminal	_
-20	precedent	_	Word	Word	_	18	Terminal	18:Terminal	_
+18	setting	_	Word	Word	_	20	F	20:F	_
+19	a	_	Word	Word	_	20	F	20:F	_
+20	precedent	_	Word	Word	_	5	H	5:H	_
 21	for	_	Word	Word	_	24	R	24:R	_
-22	many	_	Word	Word	_	24	E	24:E	_
-23	other	_	Word	Word	_	24	E	24:E	_
-24	artists	_	Word	Word	_	18	A	18:A	_
-25	who	_	Word	Word	_	26	F	26:F	_
+22	many	_	Word	Word	_	24	D	24:D	_
+23	other	_	Word	Word	_	24	D	24:D	_
+24	artists	_	Word	Word	_	20	A	20:A	_
+25	who	_	Word	Word	_	26	R	26:R	_
 26	had	_	Word	Word	_	24	E	24:E	_
 27	hits	_	Word	Word	_	26	A	26:A	_
 28	with	_	Word	Word	_	31	R	31:R	_
-29	Dylan	_	Word	Word	_	31	E	31:E	_
-30	's	_	Word	Word	_	29	R	29:R	_
+29	Dylan	_	Word	Word	_	30	A	30:A	_
+30	's	_	Word	Word	_	31	E	31:E	_
 31	songs	_	Word	Word	_	26	A	26:A	_
 32	.	_	Punctuation	Punctuation	_	31	U	31:U	_
 33	"	_	Punctuation	Punctuation	_	31	U	31:U	_

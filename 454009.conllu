@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 454009
 # text = ABC originally expected a full recovery , and relocated Jennings to its Washington bureau to fill in for Reynolds while he was sick ; the move helped buoy the newscast 's ratings , although it remained in third place .
-1	ABC	_	Word	Word	_	3	A	3:A|9:A	_
+1	ABC	_	Word	Word	_	3	A	3:A|6:A|9:A	_
 2	originally	_	Word	Word	_	3	D	3:D	_
 3	expected	_	Word	Word	_	0	H	0:H	_
 4	a	_	Word	Word	_	5	E	5:E	_
@@ -38,7 +38,7 @@
 35	it	_	Word	Word	_	36	A	36:A	_
 36	remained	_	Word	Word	_	3	H	3:H	_
 37	in	_	Word	Word	_	39	R	39:R	_
-38	third	_	Word	Word	_	39	E	39:E	_
+38	third	_	Word	Word	_	39	Q	39:Q	_
 39	place	_	Word	Word	_	36	A	36:A	_
 40	.	_	Punctuation	Punctuation	_	39	U	39:U	_
 

@@ -2,14 +2,14 @@
 # sent_id = 673008
 # text = On September 25 , 2009 , Carey 's twelfth studio album , Memoirs of an Imperfect Angel , was released .
 1	On	_	Word	Word	_	2	R	2:R	_
-2	September	_	Word	Word	_	20	D	20:D	_
-3	25	_	Word	Word	_	2	Terminal	2:Terminal	_
+2	September	_	Word	Word	_	20	T	20:T	_
+3	25	_	Word	Word	_	2	C	2:C	_
 4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
-5	2009	_	Word	Word	_	2	Terminal	2:Terminal	_
+5	2009	_	Word	Word	_	2	C	2:C	_
 6	,	_	Punctuation	Punctuation	_	20	U	20:U	_
-7	Carey	_	Word	Word	_	13	E	13:E	_
-8	's	_	Word	Word	_	7	R	7:R	_
-9	twelfth	_	Word	Word	_	13	E	13:E	_
+7	Carey	_	Word	Word	_	8	A	8:A	_
+8	's	_	Word	Word	_	11	E	11:E	_
+9	twelfth	_	Word	Word	_	11	Q	11:Q	_
 10	studio	_	Word	Word	_	11	E	11:E	_
 11	album	_	Word	Word	_	13	E	13:E	_
 12	,	_	Punctuation	Punctuation	_	13	U	13:U	_

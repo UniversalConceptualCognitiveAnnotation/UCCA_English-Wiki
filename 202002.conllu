@@ -30,7 +30,7 @@
 27	in	_	Word	Word	_	26	Terminal	26:Terminal	_
 28	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 29	make	_	Word	Word	_	33	F	33:F	_
-30	design	_	Word	Word	_	33	E	33:E	_
+30	design	_	Word	Word	_	33	A	33:A	_
 31	and	_	Word	Word	_	30	N	30:N	_
 32	casting	_	Word	Word	_	30	C	30:C	_
 33	decisions	_	Word	Word	_	3	H	3:H	_
@@ -41,12 +41,12 @@
 38	budget	_	Word	Word	_	39	E	39:E	_
 39	meetings	_	Word	Word	_	36	A	36:A	_
 40	;	_	Punctuation	Punctuation	_	3	U	3:U	_
-41	Sorkin	_	Word	Word	_	44	A	44:A|47:A	_
-42	tends	_	Word	Word	_	44	E	44:E	_
-43	to	_	Word	Word	_	42	R	42:R	_
-44	stick	_	Word	Word	_	3	H	3:H	_
-45	strictly	_	Word	Word	_	44	D	44:D	_
+41	Sorkin	_	Word	Word	_	47	A	47:A	_
+42	tends	_	Word	Word	_	45	E	45:E	_
+43	to	_	Word	Word	_	44	R	44:R	_
+44	stick	_	Word	Word	_	45	E	45:E	_
+45	strictly	_	Word	Word	_	47	D	47:D	_
 46	to	_	Word	Word	_	47	F	47:F	_
-47	writing	_	Word	Word	_	44	A	44:A	_
+47	writing	_	Word	Word	_	3	H	3:H	_
 48	.	_	Punctuation	Punctuation	_	47	U	47:U	_
 

@@ -2,15 +2,15 @@
 # sent_id = 453016
 # text = In 1982 , Jennings ' and Marton 's second child , Christopher , was born .
 1	In	_	Word	Word	_	2	R	2:R	_
-2	1982	_	Word	Word	_	15	D	15:D	_
+2	1982	_	Word	Word	_	15	T	15:T	_
 3	,	_	Punctuation	Punctuation	_	15	U	15:U	_
-4	Jennings	_	Word	Word	_	10	E	10:E	_
+4	Jennings	_	Word	Word	_	12	E	12:E	_
 5	'	_	Punctuation	Punctuation	_	4	U	4:U	_
 6	and	_	Word	Word	_	4	N	4:N	_
 7	Marton	_	Word	Word	_	4	C	4:C	_
 8	's	_	Word	Word	_	7	R	7:R	_
-9	second	_	Word	Word	_	10	E	10:E	_
-10	child	_	Word	Word	_	12	E	12:E	_
+9	second	_	Word	Word	_	4	D	4:D	_
+10	child	_	Word	Word	_	4	A	4:A	_
 11	,	_	Punctuation	Punctuation	_	12	U	12:U	_
 12	Christopher	_	Word	Word	_	15	A	15:A	_
 13	,	_	Punctuation	Punctuation	_	15	U	15:U	_

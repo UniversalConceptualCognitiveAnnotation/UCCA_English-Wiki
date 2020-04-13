@@ -2,10 +2,10 @@
 # sent_id = 586006
 # text = On December 24 , 1983 , Depp married Lori Anne Allison , the sister of his band 's bass player and singer .
 1	On	_	Word	Word	_	2	R	2:R	_
-2	December	_	Word	Word	_	8	D	8:D	_
-3	24	_	Word	Word	_	2	Terminal	2:Terminal	_
+2	December	_	Word	Word	_	8	T	8:T	_
+3	24	_	Word	Word	_	2	C	2:C	_
 4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
-5	1983	_	Word	Word	_	2	Terminal	2:Terminal	_
+5	1983	_	Word	Word	_	2	C	2:C	_
 6	,	_	Punctuation	Punctuation	_	8	U	8:U	_
 7	Depp	_	Word	Word	_	8	A	8:A	_
 8	married	_	Word	Word	_	0	H	0:H	_
@@ -15,13 +15,13 @@
 12	,	_	Punctuation	Punctuation	_	9	U	9:U	_
 13	the	_	Word	Word	_	14	E	14:E	_
 14	sister	_	Word	Word	_	9	E	9:E	_
-15	of	_	Word	Word	_	20	R	20:R	_
-16	his	_	Word	Word	_	17	E	17:E	_
-17	band	_	Word	Word	_	20	E	20:E	_
-18	's	_	Word	Word	_	17	R	17:R	_
-19	bass	_	Word	Word	_	20	E	20:E	_
-20	player	_	Word	Word	_	14	A	14:A	_
-21	and	_	Word	Word	_	20	N	20:N	_
-22	singer	_	Word	Word	_	20	C	20:C	_
-23	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+15	of	_	Word	Word	_	16	R	16:R	_
+16	his	_	Word	Word	_	14	A	14:A	_
+17	band	_	Word	Word	_	16	A	16:A|22:A	_
+18	's	_	Word	Word	_	16	R	16:R	_
+19	bass	_	Word	Word	_	16	A	16:A	_
+20	player	_	Word	Word	_	16	A	16:A	_
+21	and	_	Word	Word	_	16	N	16:N	_
+22	singer	_	Word	Word	_	16	C	16:C	_
+23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
 

@@ -2,8 +2,8 @@
 # sent_id = 532016
 # text = In February 1967 , Garland was cast as Helen Lawson in Valley of the Dolls for 20th Century Fox .
 1	In	_	Word	Word	_	2	R	2:R	_
-2	February	_	Word	Word	_	7	D	7:D	_
-3	1967	_	Word	Word	_	2	Terminal	2:Terminal	_
+2	February	_	Word	Word	_	7	T	7:T	_
+3	1967	_	Word	Word	_	2	C	2:C	_
 4	,	_	Punctuation	Punctuation	_	7	U	7:U	_
 5	Garland	_	Word	Word	_	7	A	7:A	_
 6	was	_	Word	Word	_	7	F	7:F	_
@@ -16,9 +16,9 @@
 13	of	_	Word	Word	_	12	Terminal	12:Terminal	_
 14	the	_	Word	Word	_	12	Terminal	12:Terminal	_
 15	Dolls	_	Word	Word	_	12	Terminal	12:Terminal	_
-16	for	_	Word	Word	_	19	R	19:R	_
-17	20th	_	Word	Word	_	19	E	19:E	_
-18	Century	_	Word	Word	_	19	E	19:E	_
-19	Fox	_	Word	Word	_	12	E	12:E	_
-20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+16	for	_	Word	Word	_	12	E	12:E	_
+17	20th	_	Word	Word	_	16	A	16:A	_
+18	Century	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	Fox	_	Word	Word	_	17	Terminal	17:Terminal	_
+20	.	_	Punctuation	Punctuation	_	16	U	16:U	_
 

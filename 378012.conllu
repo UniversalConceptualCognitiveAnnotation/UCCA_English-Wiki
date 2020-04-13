@@ -1,27 +1,26 @@
 # format = ucca
 # sent_id = 378012
-# text = Instead , Gyllenhaal starred in the blockbuster The Day After Tomorrow in 2004 , co - starring Dennis Quaid as his father .
-1	Instead	_	Word	Word	_	17	L	17:L	_
-2	,	_	Punctuation	Punctuation	_	4	U	4:U	_
-3	Gyllenhaal	_	Word	Word	_	4	A	4:A|17:A	_
-4	starred	_	Word	Word	_	0	H	0:H	_
-5	in	_	Word	Word	_	8	R	8:R	_
-6	the	_	Word	Word	_	7	E	7:E	_
-7	blockbuster	_	Word	Word	_	8	E	8:E	_
-8	The	_	Word	Word	_	4	A	4:A	_
-9	Day	_	Word	Word	_	8	Terminal	8:Terminal	_
-10	After	_	Word	Word	_	8	Terminal	8:Terminal	_
-11	Tomorrow	_	Word	Word	_	8	Terminal	8:Terminal	_
-12	in	_	Word	Word	_	13	R	13:R	_
-13	2004	_	Word	Word	_	4	D	4:D	_
-14	,	_	Punctuation	Punctuation	_	4	U	4:U	_
-15	co	_	Word	Word	_	17	E	17:E	_
-16	-	_	Punctuation	Punctuation	_	17	U	17:U	_
-17	starring	_	Word	Word	_	4	H	4:H	_
-18	Dennis	_	Word	Word	_	17	A	17:A	_
-19	Quaid	_	Word	Word	_	18	Terminal	18:Terminal	_
-20	as	_	Word	Word	_	22	R	22:R	_
-21	his	_	Word	Word	_	22	E	22:E	_
-22	father	_	Word	Word	_	17	A	17:A	_
-23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+# text = In his theatrical debut , Gyllenhaal starred on the London stage in Kenneth Lonergan 's revival of This is Our Youth .
+1	In	_	Word	Word	_	7	L	7:L	_
+2	his	_	Word	Word	_	4	A	4:A	_
+3	theatrical	_	Word	Word	_	4	A	4:A	_
+4	debut	_	Word	Word	_	0	H	0:H	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	Gyllenhaal	_	Word	Word	_	7	A	7:A	_
+7	starred	_	Word	Word	_	4	H	4:H	_
+8	on	_	Word	Word	_	11	R	11:R	_
+9	the	_	Word	Word	_	11	F	11:F	_
+10	London	_	Word	Word	_	11	E	11:E	_
+11	stage	_	Word	Word	_	7	A	7:A	_
+12	in	_	Word	Word	_	16	R	16:R	_
+13	Kenneth	_	Word	Word	_	16	A	16:A	_
+14	Lonergan	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	's	_	Word	Word	_	13	R	13:R	_
+16	revival	_	Word	Word	_	7	A	7:A	_
+17	of	_	Word	Word	_	18	R	18:R	_
+18	This	_	Word	Word	_	16	A	16:A	_
+19	is	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	Our	_	Word	Word	_	18	Terminal	18:Terminal	_
+21	Youth	_	Word	Word	_	18	Terminal	18:Terminal	_
+22	.	_	Punctuation	Punctuation	_	18	U	18:U	_
 

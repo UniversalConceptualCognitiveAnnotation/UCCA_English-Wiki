@@ -1,28 +1,28 @@
 # format = ucca
 # sent_id = 377006
 # text = Along with their mother , Jake and Maggie appeared in two episodes of Molto Mario , an Italian cooking show on the Food Network .
-1	Along	_	Word	Word	_	2	E	2:E	_
-2	with	_	Word	Word	_	4	R	4:R	_
-3	their	_	Word	Word	_	4	E	4:E	_
-4	mother	_	Word	Word	_	9	A	9:A	_
+1	Along	_	Word	Word	_	3	R	3:R	_
+2	with	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	their	_	Word	Word	_	9	A	9:A	_
+4	mother	_	Word	Word	_	3	A	3:A	_
 5	,	_	Punctuation	Punctuation	_	9	U	9:U	_
 6	Jake	_	Word	Word	_	9	A	9:A	_
 7	and	_	Word	Word	_	6	N	6:N	_
 8	Maggie	_	Word	Word	_	6	C	6:C	_
 9	appeared	_	Word	Word	_	0	H	0:H	_
 10	in	_	Word	Word	_	14	R	14:R	_
-11	two	_	Word	Word	_	12	E	12:E	_
+11	two	_	Word	Word	_	12	Q	12:Q	_
 12	episodes	_	Word	Word	_	14	E	14:E	_
-13	of	_	Word	Word	_	12	R	12:R	_
+13	of	_	Word	Word	_	14	R	14:R	_
 14	Molto	_	Word	Word	_	9	A	9:A	_
 15	Mario	_	Word	Word	_	14	Terminal	14:Terminal	_
 16	,	_	Punctuation	Punctuation	_	14	U	14:U	_
-17	an	_	Word	Word	_	20	E	20:E	_
+17	an	_	Word	Word	_	20	F	20:F	_
 18	Italian	_	Word	Word	_	20	E	20:E	_
 19	cooking	_	Word	Word	_	20	E	20:E	_
 20	show	_	Word	Word	_	14	E	14:E	_
 21	on	_	Word	Word	_	23	R	23:R	_
-22	the	_	Word	Word	_	23	E	23:E	_
+22	the	_	Word	Word	_	23	F	23:F	_
 23	Food	_	Word	Word	_	20	E	20:E	_
 24	Network	_	Word	Word	_	23	Terminal	23:Terminal	_
 25	.	_	Punctuation	Punctuation	_	23	U	23:U	_

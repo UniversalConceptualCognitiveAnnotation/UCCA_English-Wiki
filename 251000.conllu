@@ -1,9 +1,9 @@
 # format = ucca
 # sent_id = 251000
 # text = In November 2006 , Hawke starred as Mikhail Bakunin in Tom Stoppard 's The Coast of Utopia , a nine - hour long production , at the Lincoln Center in New York .
-1	In	_	Word	Word	_	3	R	3:R	_
-2	November	_	Word	Word	_	3	E	3:E	_
-3	2006	_	Word	Word	_	6	D	6:D	_
+1	In	_	Word	Word	_	2	R	2:R	_
+2	November	_	Word	Word	_	6	T	6:T	_
+3	2006	_	Word	Word	_	2	C	2:C	_
 4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 5	Hawke	_	Word	Word	_	6	A	6:A	_
 6	starred	_	Word	Word	_	0	H	0:H	_
@@ -11,23 +11,23 @@
 8	Mikhail	_	Word	Word	_	6	A	6:A	_
 9	Bakunin	_	Word	Word	_	8	Terminal	8:Terminal	_
 10	in	_	Word	Word	_	14	R	14:R	_
-11	Tom	_	Word	Word	_	14	E	14:E	_
+11	Tom	_	Word	Word	_	13	A	13:A	_
 12	Stoppard	_	Word	Word	_	11	Terminal	11:Terminal	_
-13	's	_	Word	Word	_	11	R	11:R	_
+13	's	_	Word	Word	_	14	E	14:E	_
 14	The	_	Word	Word	_	6	A	6:A	_
 15	Coast	_	Word	Word	_	14	Terminal	14:Terminal	_
 16	of	_	Word	Word	_	14	Terminal	14:Terminal	_
 17	Utopia	_	Word	Word	_	14	Terminal	14:Terminal	_
 18	,	_	Punctuation	Punctuation	_	14	U	14:U	_
-19	a	_	Word	Word	_	24	E	24:E	_
-20	nine	_	Word	Word	_	22	E	22:E	_
+19	a	_	Word	Word	_	24	F	24:F	_
+20	nine	_	Word	Word	_	22	Q	22:Q	_
 21	-	_	Punctuation	Punctuation	_	22	U	22:U	_
 22	hour	_	Word	Word	_	24	E	24:E	_
 23	long	_	Word	Word	_	22	R	22:R	_
 24	production	_	Word	Word	_	14	E	14:E	_
 25	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 26	at	_	Word	Word	_	28	R	28:R	_
-27	the	_	Word	Word	_	28	E	28:E	_
+27	the	_	Word	Word	_	28	F	28:F	_
 28	Lincoln	_	Word	Word	_	6	A	6:A	_
 29	Center	_	Word	Word	_	28	Terminal	28:Terminal	_
 30	in	_	Word	Word	_	31	R	31:R	_

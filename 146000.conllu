@@ -1,29 +1,29 @@
 # format = ucca
 # sent_id = 146000
 # text = Hepburn 's relentless energy and enthusiasm for life is often cited in biographies , while a headstrong independence became key to her celebrity status .
-1	Hepburn	_	Word	Word	_	4	E	4:E	_
+1	Hepburn	_	Word	Word	_	0	C	0:C|6:A	_
 2	's	_	Word	Word	_	1	R	1:R	_
-3	relentless	_	Word	Word	_	4	E	4:E	_
+3	relentless	_	Word	Word	_	4	D	4:D	_
 4	energy	_	Word	Word	_	11	A	11:A	_
-5	and	_	Word	Word	_	4	N	4:N	_
-6	enthusiasm	_	Word	Word	_	4	C	4:C	_
+5	and	_	Word	Word	_	6	L	6:L	_
+6	enthusiasm	_	Word	Word	_	4	H	4:H	_
 7	for	_	Word	Word	_	8	R	8:R	_
-8	life	_	Word	Word	_	6	E	6:E	_
+8	life	_	Word	Word	_	6	A	6:A	_
 9	is	_	Word	Word	_	11	F	11:F	_
-10	often	_	Word	Word	_	11	D	11:D	_
+10	often	_	Word	Word	_	11	T	11:T	_
 11	cited	_	Word	Word	_	0	H	0:H	_
-12	in	_	Word	Word	_	13	E	13:E	_
+12	in	_	Word	Word	_	13	R	13:R	_
 13	biographies	_	Word	Word	_	11	A	11:A	_
 14	,	_	Punctuation	Punctuation	_	11	U	11:U	_
 15	while	_	Word	Word	_	20	L	20:L	_
-16	a	_	Word	Word	_	18	E	18:E	_
-17	headstrong	_	Word	Word	_	18	E	18:E	_
+16	a	_	Word	Word	_	18	F	18:F	_
+17	headstrong	_	Word	Word	_	18	D	18:D	_
 18	independence	_	Word	Word	_	20	A	20:A	_
-19	became	_	Word	Word	_	20	F	20:F	_
+19	became	_	Word	Word	_	20	D	20:D	_
 20	key	_	Word	Word	_	11	H	11:H	_
 21	to	_	Word	Word	_	24	R	24:R	_
-22	her	_	Word	Word	_	24	E	24:E	_
-23	celebrity	_	Word	Word	_	24	E	24:E	_
+22	her	_	Word	Word	_	24	A	24:A|18:A	_
+23	celebrity	_	Word	Word	_	24	A	24:A	_
 24	status	_	Word	Word	_	20	A	20:A	_
 25	.	_	Punctuation	Punctuation	_	24	U	24:U	_
 

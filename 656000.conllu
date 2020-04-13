@@ -1,9 +1,9 @@
 # format = ucca
 # sent_id = 656000
 # text = Music historians Schinder and Schwartz , writing of the transformation in popular music styles that took place between the 1950s and the 1960s , say that the Beatles ' influence cannot be overstated : having " revolutionised the sound , style , and attitude of popular music and opened rock and roll 's doors to a tidal wave of British rock acts " , the group then " spent the rest of the 1960s expanding rock 's stylistic frontiers " . Liam Gallagher , his group Oasis among the many who acknowledge the band 's influence , identifies Lennon as a hero ; in 1999 he named his first child Lennon Gallagher in tribute .
-1	Music	_	Word	Word	_	2	E	2:E	_
+1	Music	_	Word	Word	_	2	A	2:A	_
 2	historians	_	Word	Word	_	25	A	25:A	_
-3	Schinder	_	Word	Word	_	2	E	2:E|7:A	_
+3	Schinder	_	Word	Word	_	2	A	2:A|7:A	_
 4	and	_	Word	Word	_	3	N	3:N	_
 5	Schwartz	_	Word	Word	_	3	C	3:C	_
 6	,	_	Punctuation	Punctuation	_	7	U	7:U	_
@@ -15,12 +15,12 @@
 12	popular	_	Word	Word	_	13	E	13:E	_
 13	music	_	Word	Word	_	14	E	14:E	_
 14	styles	_	Word	Word	_	10	A	10:A	_
-15	that	_	Word	Word	_	16	F	16:F	_
-16	took	_	Word	Word	_	10	E	10:E	_
+15	that	_	Word	Word	_	10	R	10:R	_
+16	took	_	Word	Word	_	10	F	10:F	_
 17	place	_	Word	Word	_	16	Terminal	16:Terminal	_
 18	between	_	Word	Word	_	20	R	20:R	_
 19	the	_	Word	Word	_	20	E	20:E	_
-20	1950s	_	Word	Word	_	16	D	16:D	_
+20	1950s	_	Word	Word	_	10	T	10:T	_
 21	and	_	Word	Word	_	20	N	20:N	_
 22	the	_	Word	Word	_	23	E	23:E	_
 23	1960s	_	Word	Word	_	20	C	20:C	_
@@ -28,10 +28,10 @@
 25	say	_	Word	Word	_	0	H	0:H	_
 26	that	_	Word	Word	_	33	F	33:F	_
 27	the	_	Word	Word	_	30	E	30:E	_
-28	Beatles	_	Word	Word	_	30	E	30:E	_
+28	Beatles	_	Word	Word	_	30	E	30:E|37:A	_
 29	'	_	Punctuation	Punctuation	_	30	U	30:U	_
-30	influence	_	Word	Word	_	0	C	0:C|37:A|49:A	_
-31	cannot	_	Word	Word	_	33	E	33:E	_
+30	influence	_	Word	Word	_	0	C	0:C|49:A	_
+31	cannot	_	Word	Word	_	33	D	33:D	_
 32	be	_	Word	Word	_	33	F	33:F	_
 33	overstated	_	Word	Word	_	25	A	25:A	_
 34	:	_	Punctuation	Punctuation	_	33	U	33:U	_
@@ -51,8 +51,8 @@
 48	and	_	Word	Word	_	49	L	49:L	_
 49	opened	_	Word	Word	_	33	H	33:H	_
 50	rock	_	Word	Word	_	54	E	54:E	_
-51	and	_	Word	Word	_	50	N	50:N	_
-52	roll	_	Word	Word	_	50	C	50:C	_
+51	and	_	Word	Word	_	50	Terminal	50:Terminal	_
+52	roll	_	Word	Word	_	50	Terminal	50:Terminal	_
 53	's	_	Word	Word	_	50	R	50:R	_
 54	doors	_	Word	Word	_	49	A	49:A	_
 55	to	_	Word	Word	_	62	R	62:R	_
@@ -66,15 +66,15 @@
 63	"	_	Punctuation	Punctuation	_	33	U	33:U	_
 64	,	_	Punctuation	Punctuation	_	33	U	33:U	_
 65	the	_	Word	Word	_	66	E	66:E	_
-66	group	_	Word	Word	_	0	C	0:C|75:A	_
-67	then	_	Word	Word	_	69	L	69:L	_
+66	group	_	Word	Word	_	75	A	75:A	_
+67	then	_	Word	Word	_	75	L	75:L	_
 68	"	_	Punctuation	Punctuation	_	33	U	33:U	_
-69	spent	_	Word	Word	_	33	H	33:H	_
+69	spent	_	Word	Word	_	75	F	75:F	_
 70	the	_	Word	Word	_	71	E	71:E	_
 71	rest	_	Word	Word	_	74	E	74:E	_
 72	of	_	Word	Word	_	74	R	74:R	_
 73	the	_	Word	Word	_	74	E	74:E	_
-74	1960s	_	Word	Word	_	69	D	69:D	_
+74	1960s	_	Word	Word	_	75	T	75:T	_
 75	expanding	_	Word	Word	_	33	H	33:H	_
 76	rock	_	Word	Word	_	79	E	79:E	_
 77	's	_	Word	Word	_	76	R	76:R	_
@@ -91,7 +91,7 @@
 88	among	_	Word	Word	_	90	R	90:R	_
 89	the	_	Word	Word	_	90	E	90:E	_
 90	many	_	Word	Word	_	86	A	86:A	_
-91	who	_	Word	Word	_	92	F	92:F	_
+91	who	_	Word	Word	_	92	R	92:R	_
 92	acknowledge	_	Word	Word	_	90	E	90:E	_
 93	the	_	Word	Word	_	94	E	94:E	_
 94	band	_	Word	Word	_	96	A	96:A	_
@@ -105,15 +105,15 @@
 102	hero	_	Word	Word	_	98	A	98:A	_
 103	;	_	Punctuation	Punctuation	_	25	U	25:U	_
 104	in	_	Word	Word	_	105	R	105:R	_
-105	1999	_	Word	Word	_	107	D	107:D	_
+105	1999	_	Word	Word	_	107	T	107:T	_
 106	he	_	Word	Word	_	107	A	107:A	_
 107	named	_	Word	Word	_	25	H	25:H	_
-108	his	_	Word	Word	_	110	E	110:E	_
-109	first	_	Word	Word	_	110	E	110:E	_
+108	his	_	Word	Word	_	110	A	110:A	_
+109	first	_	Word	Word	_	110	D	110:D	_
 110	child	_	Word	Word	_	107	A	107:A	_
 111	Lennon	_	Word	Word	_	107	A	107:A	_
 112	Gallagher	_	Word	Word	_	111	Terminal	111:Terminal	_
 113	in	_	Word	Word	_	114	R	114:R	_
-114	tribute	_	Word	Word	_	107	A	107:A	_
+114	tribute	_	Word	Word	_	107	D	107:D	_
 115	.	_	Punctuation	Punctuation	_	114	U	114:U	_
 

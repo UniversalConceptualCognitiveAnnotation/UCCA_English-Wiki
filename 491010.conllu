@@ -1,31 +1,20 @@
 # format = ucca
 # sent_id = 491010
-# text = Since 1995 , he has participated in the Motorcycle Riders Association Toy Run in Melbourne , which raises money and toys for needy children at Christmas .
-1	Since	_	Word	Word	_	2	R	2:R	_
-2	1995	_	Word	Word	_	6	D	6:D	_
-3	,	_	Punctuation	Punctuation	_	6	U	6:U	_
-4	he	_	Word	Word	_	6	A	6:A	_
-5	has	_	Word	Word	_	6	F	6:F	_
-6	participated	_	Word	Word	_	0	H	0:H	_
-7	in	_	Word	Word	_	12	R	12:R	_
-8	the	_	Word	Word	_	12	E	12:E	_
-9	Motorcycle	_	Word	Word	_	10	E	10:E	_
-10	Riders	_	Word	Word	_	11	E	11:E	_
-11	Association	_	Word	Word	_	12	E	12:E	_
-12	Toy	_	Word	Word	_	6	A	6:A	_
-13	Run	_	Word	Word	_	12	Terminal	12:Terminal	_
-14	in	_	Word	Word	_	15	R	15:R	_
-15	Melbourne	_	Word	Word	_	12	E	12:E	_
-16	,	_	Punctuation	Punctuation	_	12	U	12:U	_
-17	which	_	Word	Word	_	18	R	18:R	_
-18	raises	_	Word	Word	_	12	E	12:E	_
-19	money	_	Word	Word	_	18	A	18:A	_
-20	and	_	Word	Word	_	19	N	19:N	_
-21	toys	_	Word	Word	_	19	C	19:C	_
-22	for	_	Word	Word	_	24	R	24:R	_
-23	needy	_	Word	Word	_	24	E	24:E	_
-24	children	_	Word	Word	_	18	A	18:A	_
-25	at	_	Word	Word	_	26	R	26:R	_
-26	Christmas	_	Word	Word	_	18	A	18:A	_
-27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+# text = In 2005 , Bana narrated the documentary Terrors of Tasmania about the endangered Tasmanian Devil .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	2005	_	Word	Word	_	5	T	5:T	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	Bana	_	Word	Word	_	5	A	5:A	_
+5	narrated	_	Word	Word	_	0	H	0:H	_
+6	the	_	Word	Word	_	8	E	8:E	_
+7	documentary	_	Word	Word	_	8	E	8:E	_
+8	Terrors	_	Word	Word	_	5	A	5:A	_
+9	of	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	Tasmania	_	Word	Word	_	8	Terminal	8:Terminal	_
+11	about	_	Word	Word	_	8	E	8:E	_
+12	the	_	Word	Word	_	14	E	14:E	_
+13	endangered	_	Word	Word	_	14	E	14:E	_
+14	Tasmanian	_	Word	Word	_	11	A	11:A	_
+15	Devil	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	.	_	Punctuation	Punctuation	_	14	U	14:U	_
 

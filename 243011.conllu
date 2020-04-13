@@ -1,28 +1,26 @@
 # format = ucca
 # sent_id = 243011
-# text = His maternal grandfather , Howard Lemuel Green , served five terms in the Texas Legislature and was a minor - league baseball commissioner .
-1	His	_	Word	Word	_	3	E	3:E	_
-2	maternal	_	Word	Word	_	3	E	3:E	_
-3	grandfather	_	Word	Word	_	5	E	5:E	_
-4	,	_	Punctuation	Punctuation	_	5	U	5:U	_
-5	Howard	_	Word	Word	_	0	C	0:C|17:A	_
-6	Lemuel	_	Word	Word	_	5	Terminal	5:Terminal	_
-7	Green	_	Word	Word	_	5	Terminal	5:Terminal	_
-8	,	_	Punctuation	Punctuation	_	9	U	9:U	_
-9	served	_	Word	Word	_	0	H	0:H	_
-10	five	_	Word	Word	_	11	E	11:E	_
-11	terms	_	Word	Word	_	9	A	9:A	_
-12	in	_	Word	Word	_	15	R	15:R	_
-13	the	_	Word	Word	_	15	E	15:E	_
-14	Texas	_	Word	Word	_	15	E	15:E	_
-15	Legislature	_	Word	Word	_	9	A	9:A	_
-16	and	_	Word	Word	_	17	L	17:L	_
-17	was	_	Word	Word	_	9	H	9:H	_
-18	a	_	Word	Word	_	23	E	23:E	_
-19	minor	_	Word	Word	_	21	E	21:E	_
-20	-	_	Punctuation	Punctuation	_	21	U	21:U	_
-21	league	_	Word	Word	_	22	E	22:E	_
-22	baseball	_	Word	Word	_	23	E	23:E	_
-23	commissioner	_	Word	Word	_	17	A	17:A	_
-24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+# text = Hawke 's parents were students at the University of Texas at the time of his birth , and separated in 1974 .
+1	Hawke	_	Word	Word	_	5	A	5:A	_
+2	's	_	Word	Word	_	1	R	1:R	_
+3	parents	_	Word	Word	_	1	A	1:A|19:A	_
+4	were	_	Word	Word	_	5	F	5:F	_
+5	students	_	Word	Word	_	0	H	0:H	_
+6	at	_	Word	Word	_	8	R	8:R	_
+7	the	_	Word	Word	_	8	F	8:F	_
+8	University	_	Word	Word	_	5	A	5:A	_
+9	of	_	Word	Word	_	10	R	10:R	_
+10	Texas	_	Word	Word	_	8	E	8:E	_
+11	at	_	Word	Word	_	16	L	16:L	_
+12	the	_	Word	Word	_	13	F	13:F	_
+13	time	_	Word	Word	_	16	E	16:E	_
+14	of	_	Word	Word	_	13	R	13:R	_
+15	his	_	Word	Word	_	16	A	16:A	_
+16	birth	_	Word	Word	_	5	H	5:H	_
+17	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+18	and	_	Word	Word	_	19	L	19:L	_
+19	separated	_	Word	Word	_	5	H	5:H	_
+20	in	_	Word	Word	_	21	R	21:R	_
+21	1974	_	Word	Word	_	19	T	19:T	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
 

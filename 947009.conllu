@@ -10,7 +10,7 @@
 7	title	_	Word	Word	_	8	E	8:E	_
 8	character	_	Word	Word	_	2	A	2:A	_
 9	of	_	Word	Word	_	14	R	14:R	_
-10	the	_	Word	Word	_	14	E	14:E	_
+10	the	_	Word	Word	_	13	E	13:E	_
 11	2004	_	Word	Word	_	13	E	13:E	_
 12	video	_	Word	Word	_	13	E	13:E	_
 13	game	_	Word	Word	_	14	E	14:E	_
@@ -22,12 +22,12 @@
 19	however	_	Word	Word	_	23	L	23:L	_
 20	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 21	the	_	Word	Word	_	22	E	22:E	_
-22	company	_	Word	Word	_	23	A	23:A	_
+22	company	_	Word	Word	_	0	C	0:C|17:A|26:A	_
 23	opted	_	Word	Word	_	2	H	2:H	_
 24	not	_	Word	Word	_	26	D	26:D	_
 25	to	_	Word	Word	_	26	F	26:F	_
 26	use	_	Word	Word	_	23	A	23:A	_
-27	No	_	Word	Word	_	30	E	30:E	_
+27	No	_	Word	Word	_	30	A	30:A	_
 28	Doubt	_	Word	Word	_	27	Terminal	27:Terminal	_
 29	band	_	Word	Word	_	30	E	30:E	_
 30	members	_	Word	Word	_	32	E	32:E	_

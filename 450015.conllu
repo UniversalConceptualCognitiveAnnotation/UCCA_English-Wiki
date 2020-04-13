@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 450015
 # text = His producers saw a youthful attractiveness in him that resembled that of Dick Clark , and Jennings soon found himself hosting Club Thirteen , a dance show similar to American Bandstand .
-1	His	_	Word	Word	_	2	E	2:E	_
+1	His	_	Word	Word	_	2	A	2:A	_
 2	producers	_	Word	Word	_	3	A	3:A	_
 3	saw	_	Word	Word	_	0	H	0:H	_
 4	a	_	Word	Word	_	6	E	6:E	_
@@ -9,7 +9,7 @@
 6	attractiveness	_	Word	Word	_	3	A	3:A	_
 7	in	_	Word	Word	_	8	R	8:R	_
 8	him	_	Word	Word	_	3	A	3:A	_
-9	that	_	Word	Word	_	10	F	10:F	_
+9	that	_	Word	Word	_	10	R	10:R	_
 10	resembled	_	Word	Word	_	6	E	6:E	_
 11	that	_	Word	Word	_	10	A	10:A	_
 12	of	_	Word	Word	_	13	R	13:R	_
@@ -20,7 +20,7 @@
 17	Jennings	_	Word	Word	_	19	A	19:A|21:A	_
 18	soon	_	Word	Word	_	19	D	19:D	_
 19	found	_	Word	Word	_	3	H	3:H	_
-20	himself	_	Word	Word	_	19	D	19:D	_
+20	himself	_	Word	Word	_	19	Terminal	19:Terminal	_
 21	hosting	_	Word	Word	_	19	A	19:A	_
 22	Club	_	Word	Word	_	21	A	21:A	_
 23	Thirteen	_	Word	Word	_	22	Terminal	22:Terminal	_

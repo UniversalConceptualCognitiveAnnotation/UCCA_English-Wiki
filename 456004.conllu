@@ -1,14 +1,14 @@
 # format = ucca
 # sent_id = 456004
 # text = Jennings was once again mindful of his audience , prefacing the coverage of the Senate confirmation hearings for Supreme Court nominee Clarence Thomas with remarks for children . "
-1	Jennings	_	Word	Word	_	5	A	5:A|10:A	_
+1	Jennings	_	Word	Word	_	5	A	5:A|10:A|25:A	_
 2	was	_	Word	Word	_	5	F	5:F	_
 3	once	_	Word	Word	_	5	D	5:D	_
 4	again	_	Word	Word	_	3	Terminal	3:Terminal	_
 5	mindful	_	Word	Word	_	0	H	0:H	_
-6	of	_	Word	Word	_	8	R	8:R	_
-7	his	_	Word	Word	_	8	E	8:E	_
-8	audience	_	Word	Word	_	5	A	5:A	_
+6	of	_	Word	Word	_	7	R	7:R	_
+7	his	_	Word	Word	_	5	A	5:A	_
+8	audience	_	Word	Word	_	7	A	7:A	_
 9	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 10	prefacing	_	Word	Word	_	5	H	5:H	_
 11	the	_	Word	Word	_	12	E	12:E	_
@@ -27,7 +27,7 @@
 24	with	_	Word	Word	_	25	R	25:R	_
 25	remarks	_	Word	Word	_	10	A	10:A	_
 26	for	_	Word	Word	_	27	R	27:R	_
-27	children	_	Word	Word	_	25	E	25:E	_
+27	children	_	Word	Word	_	25	A	25:A	_
 28	.	_	Punctuation	Punctuation	_	27	U	27:U	_
 29	"	_	Punctuation	Punctuation	_	27	U	27:U	_
 

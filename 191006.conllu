@@ -1,9 +1,9 @@
 # format = ucca
 # sent_id = 191006
-# text = Vincent Canby in The New York Times described the film as " deviously entertaining from its start through its finish " . Roger Ebert gave it 2 out of 4 stars , and Peter Travers in a 2000 Rolling Stone review summarized it as having " suspense but no staying power " .
+# text = Vincent Canby in The New York Times described the film as " deviously entertaining from its start through its finish " . Roger Ebert gave it 2 out of 4 stars , and Peter Travers in a 2000 Rolling Stone review summarized it as having " suspense but no staying power " . Sorkin 's last produced screenplay for Castle Rock was The American President and once again he worked with William Goldman , who served as a creative consultant .
 1	Vincent	_	Word	Word	_	8	A	8:A	_
 2	Canby	_	Word	Word	_	1	Terminal	1:Terminal	_
-3	in	_	Word	Word	_	1	R	1:R	_
+3	in	_	Word	Word	_	4	R	4:R	_
 4	The	_	Word	Word	_	1	E	1:E	_
 5	New	_	Word	Word	_	4	Terminal	4:Terminal	_
 6	York	_	Word	Word	_	4	Terminal	4:Terminal	_
@@ -15,12 +15,12 @@
 12	"	_	Punctuation	Punctuation	_	14	U	14:U	_
 13	deviously	_	Word	Word	_	14	D	14:D	_
 14	entertaining	_	Word	Word	_	8	A	8:A	_
-15	from	_	Word	Word	_	17	L	17:L	_
-16	its	_	Word	Word	_	17	A	17:A	_
-17	start	_	Word	Word	_	14	H	14:H	_
-18	through	_	Word	Word	_	20	L	20:L	_
-19	its	_	Word	Word	_	20	A	20:A	_
-20	finish	_	Word	Word	_	14	H	14:H	_
+15	from	_	Word	Word	_	17	N	17:N	_
+16	its	_	Word	Word	_	17	E	17:E	_
+17	start	_	Word	Word	_	14	T	14:T	_
+18	through	_	Word	Word	_	17	N	17:N	_
+19	its	_	Word	Word	_	20	E	20:E	_
+20	finish	_	Word	Word	_	17	C	17:C	_
 21	"	_	Punctuation	Punctuation	_	8	U	8:U	_
 22	.	_	Punctuation	Punctuation	_	8	U	8:U	_
 23	Roger	_	Word	Word	_	25	A	25:A	_
@@ -28,9 +28,9 @@
 25	gave	_	Word	Word	_	8	H	8:H	_
 26	it	_	Word	Word	_	25	A	25:A	_
 27	2	_	Word	Word	_	31	E	31:E	_
-28	out	_	Word	Word	_	27	R	27:R	_
+28	out	_	Word	Word	_	30	R	30:R	_
 29	of	_	Word	Word	_	28	Terminal	28:Terminal	_
-30	4	_	Word	Word	_	27	C	27:C	_
+30	4	_	Word	Word	_	27	E	27:E	_
 31	stars	_	Word	Word	_	25	A	25:A	_
 32	,	_	Punctuation	Punctuation	_	8	U	8:U	_
 33	and	_	Word	Word	_	42	L	42:L	_
@@ -43,15 +43,43 @@
 40	Stone	_	Word	Word	_	39	Terminal	39:Terminal	_
 41	review	_	Word	Word	_	42	A	42:A	_
 42	summarized	_	Word	Word	_	8	H	8:H	_
-43	it	_	Word	Word	_	42	A	42:A|45:A	_
-44	as	_	Word	Word	_	45	R	45:R	_
-45	having	_	Word	Word	_	42	A	42:A	_
-46	"	_	Punctuation	Punctuation	_	45	U	45:U	_
-47	suspense	_	Word	Word	_	45	A	45:A	_
-48	but	_	Word	Word	_	47	N	47:N	_
-49	no	_	Word	Word	_	51	E	51:E	_
+43	it	_	Word	Word	_	42	A	42:A|47:A|51:A	_
+44	as	_	Word	Word	_	47	R	47:R	_
+45	having	_	Word	Word	_	47	F	47:F	_
+46	"	_	Punctuation	Punctuation	_	47	U	47:U	_
+47	suspense	_	Word	Word	_	42	A	42:A	_
+48	but	_	Word	Word	_	51	L	51:L	_
+49	no	_	Word	Word	_	51	D	51:D	_
 50	staying	_	Word	Word	_	51	E	51:E	_
-51	power	_	Word	Word	_	47	C	47:C	_
-52	"	_	Punctuation	Punctuation	_	51	U	51:U	_
-53	.	_	Punctuation	Punctuation	_	51	U	51:U	_
+51	power	_	Word	Word	_	47	H	47:H	_
+52	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+53	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+54	Sorkin	_	Word	Word	_	58	E	58:E	_
+55	's	_	Word	Word	_	54	R	54:R	_
+56	last	_	Word	Word	_	58	E	58:E	_
+57	produced	_	Word	Word	_	58	E	58:E	_
+58	screenplay	_	Word	Word	_	62	A	62:A	_
+59	for	_	Word	Word	_	60	R	60:R	_
+60	Castle	_	Word	Word	_	58	E	58:E	_
+61	Rock	_	Word	Word	_	60	Terminal	60:Terminal	_
+62	was	_	Word	Word	_	8	H	8:H	_
+63	The	_	Word	Word	_	62	A	62:A	_
+64	American	_	Word	Word	_	63	Terminal	63:Terminal	_
+65	President	_	Word	Word	_	63	Terminal	63:Terminal	_
+66	and	_	Word	Word	_	70	L	70:L	_
+67	once	_	Word	Word	_	68	E	68:E	_
+68	again	_	Word	Word	_	70	D	70:D	_
+69	he	_	Word	Word	_	70	A	70:A	_
+70	worked	_	Word	Word	_	8	H	8:H	_
+71	with	_	Word	Word	_	72	R	72:R	_
+72	William	_	Word	Word	_	70	A	70:A	_
+73	Goldman	_	Word	Word	_	72	Terminal	72:Terminal	_
+74	,	_	Punctuation	Punctuation	_	72	U	72:U	_
+75	who	_	Word	Word	_	80	R	80:R	_
+76	served	_	Word	Word	_	80	D	80:D	_
+77	as	_	Word	Word	_	80	F	80:F	_
+78	a	_	Word	Word	_	80	E	80:E	_
+79	creative	_	Word	Word	_	80	D	80:D	_
+80	consultant	_	Word	Word	_	72	E	72:E	_
+81	.	_	Punctuation	Punctuation	_	80	U	80:U	_
 

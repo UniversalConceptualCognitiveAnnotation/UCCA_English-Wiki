@@ -1,32 +1,32 @@
 # format = ucca
 # sent_id = 662013
 # text = After declining to tour for her past two albums , Carey agreed to embark on a short stateside string of concerts , titled the Music Box Tour .
-1	After	_	Word	Word	_	14	L	14:L	_
+1	After	_	Word	Word	_	12	L	12:L	_
 2	declining	_	Word	Word	_	0	H	0:H	_
 3	to	_	Word	Word	_	4	F	4:F	_
 4	tour	_	Word	Word	_	2	A	2:A	_
 5	for	_	Word	Word	_	9	R	9:R	_
 6	her	_	Word	Word	_	9	E	9:E	_
 7	past	_	Word	Word	_	9	E	9:E	_
-8	two	_	Word	Word	_	9	E	9:E	_
+8	two	_	Word	Word	_	9	Q	9:Q	_
 9	albums	_	Word	Word	_	4	A	4:A	_
 10	,	_	Punctuation	Punctuation	_	4	U	4:U	_
-11	Carey	_	Word	Word	_	14	A	14:A|2:A|4:A	_
-12	agreed	_	Word	Word	_	14	D	14:D	_
+11	Carey	_	Word	Word	_	12	A	12:A|2:A|4:A|14:A	_
+12	agreed	_	Word	Word	_	2	H	2:H	_
 13	to	_	Word	Word	_	14	F	14:F	_
-14	embark	_	Word	Word	_	2	H	2:H	_
-15	on	_	Word	Word	_	21	R	21:R	_
-16	a	_	Word	Word	_	21	E	21:E	_
-17	short	_	Word	Word	_	21	E	21:E	_
-18	stateside	_	Word	Word	_	21	E	21:E	_
-19	string	_	Word	Word	_	21	E	21:E	_
+14	embark	_	Word	Word	_	12	A	12:A	_
+15	on	_	Word	Word	_	19	R	19:R	_
+16	a	_	Word	Word	_	19	F	19:F	_
+17	short	_	Word	Word	_	19	E	19:E	_
+18	stateside	_	Word	Word	_	19	E	19:E	_
+19	string	_	Word	Word	_	14	A	14:A	_
 20	of	_	Word	Word	_	19	R	19:R	_
-21	concerts	_	Word	Word	_	14	A	14:A	_
-22	,	_	Punctuation	Punctuation	_	21	U	21:U	_
-23	titled	_	Word	Word	_	21	E	21:E	_
-24	the	_	Word	Word	_	27	E	27:E	_
-25	Music	_	Word	Word	_	27	E	27:E	_
+21	concerts	_	Word	Word	_	19	C	19:C	_
+22	,	_	Punctuation	Punctuation	_	19	U	19:U	_
+23	titled	_	Word	Word	_	19	E	19:E	_
+24	the	_	Word	Word	_	25	F	25:F	_
+25	Music	_	Word	Word	_	23	A	23:A	_
 26	Box	_	Word	Word	_	25	Terminal	25:Terminal	_
-27	Tour	_	Word	Word	_	23	A	23:A	_
-28	.	_	Punctuation	Punctuation	_	27	U	27:U	_
+27	Tour	_	Word	Word	_	25	Terminal	25:Terminal	_
+28	.	_	Punctuation	Punctuation	_	25	U	25:U	_
 

@@ -2,7 +2,7 @@
 # sent_id = 462007
 # text = In June , Jennings visited the ABC News headquarters , and addressed staff members in an emotional speech ; he thanked Gibson for closing each broadcast with the phrase , " for Peter Jennings and all of us at ABC News . "
 1	In	_	Word	Word	_	2	R	2:R	_
-2	June	_	Word	Word	_	5	D	5:D	_
+2	June	_	Word	Word	_	5	T	5:T	_
 3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 4	Jennings	_	Word	Word	_	5	A	5:A|12:A	_
 5	visited	_	Word	Word	_	0	H	0:H	_
@@ -17,12 +17,12 @@
 14	members	_	Word	Word	_	12	A	12:A	_
 15	in	_	Word	Word	_	18	R	18:R	_
 16	an	_	Word	Word	_	18	E	18:E	_
-17	emotional	_	Word	Word	_	18	E	18:E	_
+17	emotional	_	Word	Word	_	18	D	18:D	_
 18	speech	_	Word	Word	_	12	A	12:A	_
 19	;	_	Punctuation	Punctuation	_	5	U	5:U	_
 20	he	_	Word	Word	_	21	A	21:A	_
 21	thanked	_	Word	Word	_	5	H	5:H	_
-22	Gibson	_	Word	Word	_	21	A	21:A	_
+22	Gibson	_	Word	Word	_	21	A	21:A|24:A	_
 23	for	_	Word	Word	_	24	R	24:R	_
 24	closing	_	Word	Word	_	21	A	21:A	_
 25	each	_	Word	Word	_	26	E	26:E	_
@@ -37,7 +37,7 @@
 34	Jennings	_	Word	Word	_	33	Terminal	33:Terminal	_
 35	and	_	Word	Word	_	33	N	33:N	_
 36	all	_	Word	Word	_	38	E	38:E	_
-37	of	_	Word	Word	_	36	R	36:R	_
+37	of	_	Word	Word	_	38	R	38:R	_
 38	us	_	Word	Word	_	33	C	33:C	_
 39	at	_	Word	Word	_	41	R	41:R	_
 40	ABC	_	Word	Word	_	41	E	41:E	_

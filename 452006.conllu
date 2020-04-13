@@ -2,7 +2,7 @@
 # sent_id = 452006
 # text = In 1972 , Jennings covered his first major breaking news story , the Munich Olympics massacre of Israeli athletes by Black September .
 1	In	_	Word	Word	_	2	R	2:R	_
-2	1972	_	Word	Word	_	5	D	5:D	_
+2	1972	_	Word	Word	_	5	T	5:T	_
 3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 4	Jennings	_	Word	Word	_	5	A	5:A	_
 5	covered	_	Word	Word	_	0	H	0:H	_
@@ -17,9 +17,9 @@
 14	Munich	_	Word	Word	_	15	E	15:E	_
 15	Olympics	_	Word	Word	_	16	A	16:A	_
 16	massacre	_	Word	Word	_	11	E	11:E	_
-17	of	_	Word	Word	_	19	R	19:R	_
-18	Israeli	_	Word	Word	_	19	E	19:E	_
-19	athletes	_	Word	Word	_	16	A	16:A	_
+17	of	_	Word	Word	_	18	R	18:R	_
+18	Israeli	_	Word	Word	_	16	A	16:A	_
+19	athletes	_	Word	Word	_	18	A	18:A	_
 20	by	_	Word	Word	_	22	R	22:R	_
 21	Black	_	Word	Word	_	22	E	22:E	_
 22	September	_	Word	Word	_	16	A	16:A	_

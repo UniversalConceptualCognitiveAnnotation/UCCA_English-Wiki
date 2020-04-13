@@ -1,8 +1,8 @@
 # format = ucca
 # sent_id = 567008
 # text = Villanova students pelted him with eggs in Philadelphia , and in Vancouver , the crowd rioted after the end of the show , destroying the stage .
-1	Villanova	_	Word	Word	_	2	E	2:E	_
-2	students	_	Word	Word	_	3	A	3:A	_
+1	Villanova	_	Word	Word	_	3	A	3:A	_
+2	students	_	Word	Word	_	1	A	1:A	_
 3	pelted	_	Word	Word	_	0	H	0:H	_
 4	him	_	Word	Word	_	3	A	3:A	_
 5	with	_	Word	Word	_	6	R	6:R	_
@@ -15,14 +15,14 @@
 12	Vancouver	_	Word	Word	_	16	A	16:A	_
 13	,	_	Punctuation	Punctuation	_	16	U	16:U	_
 14	the	_	Word	Word	_	15	E	15:E	_
-15	crowd	_	Word	Word	_	16	A	16:A|24:A	_
+15	crowd	_	Word	Word	_	0	C	0:C|24:A	_
 16	rioted	_	Word	Word	_	3	H	3:H	_
 17	after	_	Word	Word	_	19	R	19:R	_
 18	the	_	Word	Word	_	19	E	19:E	_
-19	end	_	Word	Word	_	16	D	16:D	_
+19	end	_	Word	Word	_	16	T	16:T	_
 20	of	_	Word	Word	_	22	R	22:R	_
 21	the	_	Word	Word	_	22	E	22:E	_
-22	show	_	Word	Word	_	19	E	19:E	_
+22	show	_	Word	Word	_	19	C	19:C	_
 23	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 24	destroying	_	Word	Word	_	3	H	3:H	_
 25	the	_	Word	Word	_	26	E	26:E	_

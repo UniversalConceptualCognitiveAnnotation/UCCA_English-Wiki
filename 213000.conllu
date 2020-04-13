@@ -1,18 +1,18 @@
 # format = ucca
 # sent_id = 213000
 # text = Kirsten Caroline Dunst ( born April 30 , 1982 ) is an American - German actress , singer and model .
-1	Kirsten	_	Word	Word	_	5	A	5:A	_
+1	Kirsten	_	Word	Word	_	11	A	11:A	_
 2	Caroline	_	Word	Word	_	1	Terminal	1:Terminal	_
 3	Dunst	_	Word	Word	_	1	Terminal	1:Terminal	_
-4	(	_	Punctuation	Punctuation	_	5	U	5:U	_
-5	born	_	Word	Word	_	11	A	11:A	_
-6	April	_	Word	Word	_	5	D	5:D	_
-7	30	_	Word	Word	_	6	Terminal	6:Terminal	_
+4	(	_	Punctuation	Punctuation	_	1	U	1:U	_
+5	born	_	Word	Word	_	1	E	1:E	_
+6	April	_	Word	Word	_	5	T	5:T	_
+7	30	_	Word	Word	_	6	C	6:C	_
 8	,	_	Punctuation	Punctuation	_	6	U	6:U	_
-9	1982	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	1982	_	Word	Word	_	6	C	6:C	_
 10	)	_	Punctuation	Punctuation	_	11	U	11:U	_
 11	is	_	Word	Word	_	0	H	0:H	_
-12	an	_	Word	Word	_	16	E	16:E	_
+12	an	_	Word	Word	_	16	F	16:F	_
 13	American	_	Word	Word	_	16	E	16:E	_
 14	-	_	Punctuation	Punctuation	_	13	U	13:U	_
 15	German	_	Word	Word	_	13	C	13:C	_
@@ -21,5 +21,5 @@
 18	singer	_	Word	Word	_	16	C	16:C	_
 19	and	_	Word	Word	_	16	N	16:N	_
 20	model	_	Word	Word	_	16	C	16:C	_
-21	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
 

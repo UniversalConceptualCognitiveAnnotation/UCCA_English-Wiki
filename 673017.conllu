@@ -2,22 +2,22 @@
 # sent_id = 673017
 # text = On December 31 , 2009 , Carey embarked her seventh concert tour , Angels Advocate Tour , which visited the United States and Canada .
 1	On	_	Word	Word	_	2	R	2:R	_
-2	December	_	Word	Word	_	8	D	8:D	_
-3	31	_	Word	Word	_	2	Terminal	2:Terminal	_
+2	December	_	Word	Word	_	8	T	8:T	_
+3	31	_	Word	Word	_	2	C	2:C	_
 4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
-5	2009	_	Word	Word	_	2	Terminal	2:Terminal	_
+5	2009	_	Word	Word	_	2	C	2:C	_
 6	,	_	Punctuation	Punctuation	_	8	U	8:U	_
 7	Carey	_	Word	Word	_	8	A	8:A	_
 8	embarked	_	Word	Word	_	0	H	0:H	_
-9	her	_	Word	Word	_	16	E	16:E	_
-10	seventh	_	Word	Word	_	16	E	16:E	_
-11	concert	_	Word	Word	_	12	E	12:E	_
+9	her	_	Word	Word	_	12	A	12:A	_
+10	seventh	_	Word	Word	_	12	D	12:D	_
+11	concert	_	Word	Word	_	12	A	12:A	_
 12	tour	_	Word	Word	_	16	E	16:E	_
 13	,	_	Punctuation	Punctuation	_	16	U	16:U	_
-14	Angels	_	Word	Word	_	16	E	16:E	_
+14	Angels	_	Word	Word	_	16	A	16:A	_
 15	Advocate	_	Word	Word	_	14	Terminal	14:Terminal	_
 16	Tour	_	Word	Word	_	8	A	8:A	_
-17	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+17	,	_	Punctuation	Punctuation	_	19	U	19:U	_
 18	which	_	Word	Word	_	19	R	19:R	_
 19	visited	_	Word	Word	_	16	E	16:E	_
 20	the	_	Word	Word	_	21	E	21:E	_

@@ -3,7 +3,7 @@
 # text = Their initial studio work was marred by a heated disagreement between Bowie and Cambridge over the latter 's drumming style ; matters came to a head when Bowie , enraged , accused , " You 're fucking up my album . "
 1	Their	_	Word	Word	_	4	A	4:A	_
 2	initial	_	Word	Word	_	4	D	4:D	_
-3	studio	_	Word	Word	_	4	E	4:E	_
+3	studio	_	Word	Word	_	4	A	4:A	_
 4	work	_	Word	Word	_	6	A	6:A	_
 5	was	_	Word	Word	_	6	F	6:F	_
 6	marred	_	Word	Word	_	0	H	0:H	_
@@ -14,7 +14,7 @@
 11	between	_	Word	Word	_	12	R	12:R	_
 12	Bowie	_	Word	Word	_	10	A	10:A	_
 13	and	_	Word	Word	_	12	N	12:N	_
-14	Cambridge	_	Word	Word	_	12	C	12:C	_
+14	Cambridge	_	Word	Word	_	12	C	12:C|32:A	_
 15	over	_	Word	Word	_	20	R	20:R	_
 16	the	_	Word	Word	_	17	E	17:E	_
 17	latter	_	Word	Word	_	20	E	20:E	_
@@ -27,11 +27,11 @@
 24	to	_	Word	Word	_	23	Terminal	23:Terminal	_
 25	a	_	Word	Word	_	23	Terminal	23:Terminal	_
 26	head	_	Word	Word	_	23	Terminal	23:Terminal	_
-27	when	_	Word	Word	_	30	L	30:L	_
+27	when	_	Word	Word	_	32	L	32:L	_
 28	Bowie	_	Word	Word	_	32	A	32:A	_
-29	,	_	Punctuation	Punctuation	_	6	U	6:U	_
-30	enraged	_	Word	Word	_	6	H	6:H	_
-31	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+29	,	_	Punctuation	Punctuation	_	28	U	28:U	_
+30	enraged	_	Word	Word	_	28	E	28:E	_
+31	,	_	Punctuation	Punctuation	_	32	U	32:U	_
 32	accused	_	Word	Word	_	6	H	6:H	_
 33	,	_	Punctuation	Punctuation	_	32	U	32:U	_
 34	"	_	Punctuation	Punctuation	_	32	U	32:U	_

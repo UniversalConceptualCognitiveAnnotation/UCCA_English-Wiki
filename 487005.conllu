@@ -3,8 +3,8 @@
 # text = Only after Read himself suggested Bana , having seen him perform a skit on television , did Dominik consider him for the part .
 1	Only	_	Word	Word	_	2	E	2:E	_
 2	after	_	Word	Word	_	9	L	9:L	_
-3	Read	_	Word	Word	_	5	A	5:A|9:A	_
-4	himself	_	Word	Word	_	5	D	5:D	_
+3	Read	_	Word	Word	_	0	C	0:C|9:A	_
+4	himself	_	Word	Word	_	3	E	3:E	_
 5	suggested	_	Word	Word	_	0	H	0:H	_
 6	Bana	_	Word	Word	_	5	A	5:A	_
 7	,	_	Punctuation	Punctuation	_	5	U	5:U	_
@@ -17,7 +17,7 @@
 14	on	_	Word	Word	_	15	R	15:R	_
 15	television	_	Word	Word	_	13	E	13:E	_
 16	,	_	Punctuation	Punctuation	_	5	U	5:U	_
-17	did	_	Word	Word	_	2	F	2:F	_
+17	did	_	Word	Word	_	19	F	19:F	_
 18	Dominik	_	Word	Word	_	19	A	19:A	_
 19	consider	_	Word	Word	_	5	H	5:H	_
 20	him	_	Word	Word	_	19	A	19:A	_

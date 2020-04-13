@@ -1,23 +1,23 @@
 # format = ucca
 # sent_id = 226007
 # text = For example , Sylvester Stallone offered him the role of Simon Phoenix , a criminal in the futuristic film Demolition Man .
-1	For	_	Word	Word	_	2	F	2:F	_
-2	example	_	Word	Word	_	6	G	6:G	_
+1	For	_	Word	Word	_	2	R	2:R	_
+2	example	_	Word	Word	_	6	L	6:L	_
 3	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 4	Sylvester	_	Word	Word	_	6	A	6:A	_
 5	Stallone	_	Word	Word	_	4	Terminal	4:Terminal	_
 6	offered	_	Word	Word	_	0	H	0:H	_
 7	him	_	Word	Word	_	6	A	6:A	_
-8	the	_	Word	Word	_	9	E	9:E	_
+8	the	_	Word	Word	_	9	F	9:F	_
 9	role	_	Word	Word	_	6	A	6:A	_
 10	of	_	Word	Word	_	11	R	11:R	_
 11	Simon	_	Word	Word	_	9	E	9:E	_
 12	Phoenix	_	Word	Word	_	11	Terminal	11:Terminal	_
 13	,	_	Punctuation	Punctuation	_	11	U	11:U	_
-14	a	_	Word	Word	_	15	E	15:E	_
+14	a	_	Word	Word	_	15	F	15:F	_
 15	criminal	_	Word	Word	_	11	E	11:E	_
 16	in	_	Word	Word	_	20	R	20:R	_
-17	the	_	Word	Word	_	20	E	20:E	_
+17	the	_	Word	Word	_	20	F	20:F	_
 18	futuristic	_	Word	Word	_	20	E	20:E	_
 19	film	_	Word	Word	_	20	E	20:E	_
 20	Demolition	_	Word	Word	_	6	A	6:A	_

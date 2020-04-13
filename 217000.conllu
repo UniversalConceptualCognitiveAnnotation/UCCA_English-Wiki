@@ -1,24 +1,24 @@
 # format = ucca
 # sent_id = 217000
 # text = In the 2002 superhero film Spider - Man , the most successful film of her career to date , Dunst played Mary Jane Watson , the best friend and love interest of the title character , played by Tobey Maguire .
-1	In	_	Word	Word	_	3	R	3:R	_
-2	the	_	Word	Word	_	3	E	3:E	_
-3	2002	_	Word	Word	_	6	E	6:E	_
+1	In	_	Word	Word	_	6	R	6:R	_
+2	the	_	Word	Word	_	5	F	5:F	_
+3	2002	_	Word	Word	_	5	E	5:E	_
 4	superhero	_	Word	Word	_	5	E	5:E	_
 5	film	_	Word	Word	_	6	E	6:E	_
 6	Spider	_	Word	Word	_	21	A	21:A	_
 7	-	_	Punctuation	Punctuation	_	6	U	6:U	_
 8	Man	_	Word	Word	_	6	Terminal	6:Terminal	_
 9	,	_	Punctuation	Punctuation	_	6	U	6:U	_
-10	the	_	Word	Word	_	13	E	13:E	_
-11	most	_	Word	Word	_	13	E	13:E	_
+10	the	_	Word	Word	_	13	F	13:F	_
+11	most	_	Word	Word	_	12	D	12:D	_
 12	successful	_	Word	Word	_	13	E	13:E	_
 13	film	_	Word	Word	_	6	E	6:E	_
 14	of	_	Word	Word	_	16	R	16:R	_
 15	her	_	Word	Word	_	16	A	16:A	_
 16	career	_	Word	Word	_	13	E	13:E	_
-17	to	_	Word	Word	_	18	R	18:R	_
-18	date	_	Word	Word	_	16	D	16:D	_
+17	to	_	Word	Word	_	12	D	12:D	_
+18	date	_	Word	Word	_	17	Terminal	17:Terminal	_
 19	,	_	Punctuation	Punctuation	_	21	U	21:U	_
 20	Dunst	_	Word	Word	_	21	A	21:A	_
 21	played	_	Word	Word	_	0	H	0:H	_
@@ -26,14 +26,14 @@
 23	Jane	_	Word	Word	_	22	Terminal	22:Terminal	_
 24	Watson	_	Word	Word	_	22	Terminal	22:Terminal	_
 25	,	_	Punctuation	Punctuation	_	22	U	22:U	_
-26	the	_	Word	Word	_	28	E	28:E	_
+26	the	_	Word	Word	_	28	F	28:F	_
 27	best	_	Word	Word	_	28	E	28:E	_
 28	friend	_	Word	Word	_	22	E	22:E	_
 29	and	_	Word	Word	_	28	N	28:N	_
-30	love	_	Word	Word	_	31	E	31:E	_
-31	interest	_	Word	Word	_	28	C	28:C	_
+30	love	_	Word	Word	_	28	C	28:C	_
+31	interest	_	Word	Word	_	30	E	30:E	_
 32	of	_	Word	Word	_	35	R	35:R	_
-33	the	_	Word	Word	_	35	E	35:E	_
+33	the	_	Word	Word	_	35	F	35:F	_
 34	title	_	Word	Word	_	35	E	35:E	_
 35	character	_	Word	Word	_	28	E	28:E	_
 36	,	_	Punctuation	Punctuation	_	35	U	35:U	_

@@ -1,21 +1,33 @@
 # format = ucca
 # sent_id = 456010
-# text = and a subsequent 90 - minute town forum with Perot and a studio audience in June .
-1	and	_	Word	Word	_	8	L	8:L	_
-2	a	_	Word	Word	_	8	E	8:E	_
-3	subsequent	_	Word	Word	_	8	E	8:E	_
-4	90	_	Word	Word	_	6	E	6:E	_
-5	-	_	Punctuation	Punctuation	_	6	U	6:U	_
-6	minute	_	Word	Word	_	8	E	8:E	_
-7	town	_	Word	Word	_	8	E	8:E	_
-8	forum	_	Word	Word	_	0	H	0:H	_
-9	with	_	Word	Word	_	10	R	10:R	_
-10	Perot	_	Word	Word	_	8	E	8:E	_
-11	and	_	Word	Word	_	10	N	10:N	_
-12	a	_	Word	Word	_	14	E	14:E	_
-13	studio	_	Word	Word	_	14	E	14:E	_
-14	audience	_	Word	Word	_	10	C	10:C	_
-15	in	_	Word	Word	_	16	R	16:R	_
-16	June	_	Word	Word	_	8	D	8:D	_
-17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+# text = On September 9 , 1992 , ABC announced that it would be switching the format of its political coverage to give less recognition to staged sound bites . "
+1	On	_	Word	Word	_	2	R	2:R	_
+2	September	_	Word	Word	_	8	T	8:T	_
+3	9	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	1992	_	Word	Word	_	2	C	2:C	_
+6	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	ABC	_	Word	Word	_	8	A	8:A|23:A	_
+8	announced	_	Word	Word	_	0	H	0:H	_
+9	that	_	Word	Word	_	13	R	13:R	_
+10	it	_	Word	Word	_	13	A	13:A	_
+11	would	_	Word	Word	_	13	F	13:F	_
+12	be	_	Word	Word	_	13	F	13:F	_
+13	switching	_	Word	Word	_	8	A	8:A	_
+14	the	_	Word	Word	_	15	E	15:E	_
+15	format	_	Word	Word	_	13	A	13:A	_
+16	of	_	Word	Word	_	19	R	19:R	_
+17	its	_	Word	Word	_	19	E	19:E	_
+18	political	_	Word	Word	_	19	E	19:E	_
+19	coverage	_	Word	Word	_	15	E	15:E	_
+20	to	_	Word	Word	_	23	L	23:L	_
+21	give	_	Word	Word	_	23	F	23:F	_
+22	less	_	Word	Word	_	23	D	23:D	_
+23	recognition	_	Word	Word	_	8	H	8:H	_
+24	to	_	Word	Word	_	27	R	27:R	_
+25	staged	_	Word	Word	_	27	E	27:E	_
+26	sound	_	Word	Word	_	27	E	27:E	_
+27	bites	_	Word	Word	_	23	A	23:A	_
+28	.	_	Punctuation	Punctuation	_	27	U	27:U	_
+29	"	_	Punctuation	Punctuation	_	27	U	27:U	_
 

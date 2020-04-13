@@ -1,28 +1,23 @@
 # format = ucca
 # sent_id = 710008
-# text = One critic wrote : " the songs themselves are uniformly powerful , adding up to Dylan 's best overall collection in years . "
-1	One	_	Word	Word	_	2	E	2:E	_
-2	critic	_	Word	Word	_	3	A	3:A	_
-3	wrote	_	Word	Word	_	0	H	0:H	_
-4	:	_	Punctuation	Punctuation	_	3	U	3:U	_
-5	"	_	Punctuation	Punctuation	_	3	U	3:U	_
-6	the	_	Word	Word	_	7	E	7:E	_
-7	songs	_	Word	Word	_	0	C	0:C|13:A	_
-8	themselves	_	Word	Word	_	7	F	7:F	_
-9	are	_	Word	Word	_	3	A	3:A	_
-10	uniformly	_	Word	Word	_	11	E	11:E	_
-11	powerful	_	Word	Word	_	9	A	9:A	_
-12	,	_	Punctuation	Punctuation	_	9	U	9:U	_
-13	adding	_	Word	Word	_	9	H	9:H	_
-14	up	_	Word	Word	_	13	Terminal	13:Terminal	_
-15	to	_	Word	Word	_	18	R	18:R	_
-16	Dylan	_	Word	Word	_	18	A	18:A	_
-17	's	_	Word	Word	_	16	R	16:R	_
-18	best	_	Word	Word	_	13	A	13:A	_
-19	overall	_	Word	Word	_	20	E	20:E	_
-20	collection	_	Word	Word	_	18	A	18:A	_
-21	in	_	Word	Word	_	22	R	22:R	_
-22	years	_	Word	Word	_	18	D	18:D	_
-23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
-24	"	_	Punctuation	Punctuation	_	22	U	22:U	_
+# text = This collection of complex songs won him his first solo " Album of the Year " Grammy Award .
+1	This	_	Word	Word	_	2	E	2:E	_
+2	collection	_	Word	Word	_	5	Q	5:Q	_
+3	of	_	Word	Word	_	5	R	5:R	_
+4	complex	_	Word	Word	_	5	E	5:E	_
+5	songs	_	Word	Word	_	6	A	6:A	_
+6	won	_	Word	Word	_	0	H	0:H	_
+7	him	_	Word	Word	_	6	A	6:A	_
+8	his	_	Word	Word	_	17	E	17:E	_
+9	first	_	Word	Word	_	17	Q	17:Q	_
+10	solo	_	Word	Word	_	17	E	17:E	_
+11	"	_	Punctuation	Punctuation	_	17	U	17:U	_
+12	Album	_	Word	Word	_	17	E	17:E	_
+13	of	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	the	_	Word	Word	_	12	Terminal	12:Terminal	_
+15	Year	_	Word	Word	_	12	Terminal	12:Terminal	_
+16	"	_	Punctuation	Punctuation	_	17	U	17:U	_
+17	Grammy	_	Word	Word	_	6	A	6:A	_
+18	Award	_	Word	Word	_	17	E	17:E	_
+19	.	_	Punctuation	Punctuation	_	17	U	17:U	_
 

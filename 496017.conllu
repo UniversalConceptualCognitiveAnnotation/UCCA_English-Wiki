@@ -1,26 +1,26 @@
 # format = ucca
 # sent_id = 496017
 # text = After a disastrous opening gig at the London Roundhouse , they reverted to a configuration presenting Bowie as a solo artist .
-1	After	_	Word	Word	_	12	L	12:L	_
+1	After	_	Word	Word	_	16	L	16:L	_
 2	a	_	Word	Word	_	3	E	3:E	_
 3	disastrous	_	Word	Word	_	5	D	5:D	_
-4	opening	_	Word	Word	_	5	E	5:E	_
+4	opening	_	Word	Word	_	5	A	5:A	_
 5	gig	_	Word	Word	_	0	H	0:H	_
 6	at	_	Word	Word	_	8	R	8:R	_
 7	the	_	Word	Word	_	8	E	8:E	_
 8	London	_	Word	Word	_	5	A	5:A	_
 9	Roundhouse	_	Word	Word	_	8	Terminal	8:Terminal	_
 10	,	_	Punctuation	Punctuation	_	5	U	5:U	_
-11	they	_	Word	Word	_	12	A	12:A	_
-12	reverted	_	Word	Word	_	5	H	5:H	_
+11	they	_	Word	Word	_	16	A	16:A	_
+12	reverted	_	Word	Word	_	16	D	16:D	_
 13	to	_	Word	Word	_	15	R	15:R	_
 14	a	_	Word	Word	_	15	E	15:E	_
-15	configuration	_	Word	Word	_	12	A	12:A	_
-16	presenting	_	Word	Word	_	15	E	15:E	_
+15	configuration	_	Word	Word	_	16	D	16:D	_
+16	presenting	_	Word	Word	_	5	H	5:H	_
 17	Bowie	_	Word	Word	_	16	A	16:A	_
 18	as	_	Word	Word	_	21	R	21:R	_
 19	a	_	Word	Word	_	21	E	21:E	_
-20	solo	_	Word	Word	_	21	E	21:E	_
+20	solo	_	Word	Word	_	21	A	21:A	_
 21	artist	_	Word	Word	_	16	A	16:A	_
 22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
 

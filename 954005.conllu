@@ -1,31 +1,31 @@
 # format = ucca
 # sent_id = 954005
 # text = Despite her relative inexperience , Leigh was chosen to play Ophelia to Olivier 's Hamlet in an Old Vic Theatre production staged at Elsinore , Denmark .
-1	Despite	_	Word	Word	_	10	L	10:L	_
+1	Despite	_	Word	Word	_	8	L	8:L	_
 2	her	_	Word	Word	_	4	A	4:A	_
 3	relative	_	Word	Word	_	4	D	4:D	_
 4	inexperience	_	Word	Word	_	0	H	0:H	_
 5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
-6	Leigh	_	Word	Word	_	10	A	10:A	_
-7	was	_	Word	Word	_	10	F	10:F	_
-8	chosen	_	Word	Word	_	10	D	10:D	_
+6	Leigh	_	Word	Word	_	8	A	8:A|10:A	_
+7	was	_	Word	Word	_	8	F	8:F	_
+8	chosen	_	Word	Word	_	4	H	4:H	_
 9	to	_	Word	Word	_	10	F	10:F	_
-10	play	_	Word	Word	_	4	H	4:H	_
+10	play	_	Word	Word	_	8	A	8:A	_
 11	Ophelia	_	Word	Word	_	10	A	10:A	_
 12	to	_	Word	Word	_	15	R	15:R	_
-13	Olivier	_	Word	Word	_	15	E	15:E	_
-14	's	_	Word	Word	_	13	R	13:R	_
+13	Olivier	_	Word	Word	_	14	A	14:A	_
+14	's	_	Word	Word	_	15	E	15:E	_
 15	Hamlet	_	Word	Word	_	10	A	10:A	_
 16	in	_	Word	Word	_	21	R	21:R	_
 17	an	_	Word	Word	_	21	E	21:E	_
-18	Old	_	Word	Word	_	19	E	19:E	_
-19	Vic	_	Word	Word	_	20	E	20:E	_
-20	Theatre	_	Word	Word	_	21	E	21:E	_
-21	production	_	Word	Word	_	15	E	15:E	_
+18	Old	_	Word	Word	_	21	E	21:E	_
+19	Vic	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	Theatre	_	Word	Word	_	18	Terminal	18:Terminal	_
+21	production	_	Word	Word	_	10	A	10:A	_
 22	staged	_	Word	Word	_	21	E	21:E	_
-23	at	_	Word	Word	_	22	R	22:R	_
+23	at	_	Word	Word	_	24	R	24:R	_
 24	Elsinore	_	Word	Word	_	22	A	22:A	_
 25	,	_	Punctuation	Punctuation	_	24	U	24:U	_
-26	Denmark	_	Word	Word	_	24	E	24:E	_
+26	Denmark	_	Word	Word	_	24	C	24:C	_
 27	.	_	Punctuation	Punctuation	_	24	U	24:U	_
 

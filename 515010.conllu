@@ -1,8 +1,8 @@
 # format = ucca
 # sent_id = 515010
 # text = Bowie 's record company sought to convey his unique status in popular music with the slogan , " There is old wave , there is new wave , and there is Bowie ... " Musicologist James Perone credits him with having " brought sophistication to rock music " , and critical reviews frequently acknowledge the intellectual depth of his work and influence .
-1	Bowie	_	Word	Word	_	4	E	4:E	_
-2	's	_	Word	Word	_	1	R	1:R	_
+1	Bowie	_	Word	Word	_	2	A	2:A	_
+2	's	_	Word	Word	_	4	E	4:E	_
 3	record	_	Word	Word	_	4	E	4:E	_
 4	company	_	Word	Word	_	7	A	7:A	_
 5	sought	_	Word	Word	_	7	D	7:D	_
@@ -19,20 +19,20 @@
 16	slogan	_	Word	Word	_	7	A	7:A	_
 17	,	_	Punctuation	Punctuation	_	16	U	16:U	_
 18	"	_	Punctuation	Punctuation	_	16	U	16:U	_
-19	There	_	Word	Word	_	20	F	20:F	_
-20	is	_	Word	Word	_	16	E	16:E	_
+19	There	_	Word	Word	_	16	E	16:E	_
+20	is	_	Word	Word	_	19	F	19:F	_
 21	old	_	Word	Word	_	22	E	22:E	_
-22	wave	_	Word	Word	_	20	A	20:A	_
-23	,	_	Punctuation	Punctuation	_	20	U	20:U	_
-24	there	_	Word	Word	_	25	F	25:F	_
-25	is	_	Word	Word	_	20	H	20:H	_
+22	wave	_	Word	Word	_	19	A	19:A	_
+23	,	_	Punctuation	Punctuation	_	19	U	19:U	_
+24	there	_	Word	Word	_	19	H	19:H	_
+25	is	_	Word	Word	_	24	F	24:F	_
 26	new	_	Word	Word	_	27	E	27:E	_
-27	wave	_	Word	Word	_	25	A	25:A	_
-28	,	_	Punctuation	Punctuation	_	20	U	20:U	_
-29	and	_	Word	Word	_	31	L	31:L	_
-30	there	_	Word	Word	_	31	F	31:F	_
-31	is	_	Word	Word	_	20	H	20:H	_
-32	Bowie	_	Word	Word	_	31	A	31:A	_
+27	wave	_	Word	Word	_	24	A	24:A	_
+28	,	_	Punctuation	Punctuation	_	19	U	19:U	_
+29	and	_	Word	Word	_	30	L	30:L	_
+30	there	_	Word	Word	_	19	H	19:H	_
+31	is	_	Word	Word	_	30	F	30:F	_
+32	Bowie	_	Word	Word	_	30	A	30:A	_
 33	...	_	Punctuation	Punctuation	_	7	U	7:U	_
 34	"	_	Punctuation	Punctuation	_	7	U	7:U	_
 35	Musicologist	_	Word	Word	_	36	E	36:E	_
@@ -53,15 +53,15 @@
 50	and	_	Word	Word	_	54	L	54:L	_
 51	critical	_	Word	Word	_	52	A	52:A	_
 52	reviews	_	Word	Word	_	54	A	54:A	_
-53	frequently	_	Word	Word	_	54	D	54:D	_
+53	frequently	_	Word	Word	_	54	T	54:T	_
 54	acknowledge	_	Word	Word	_	7	H	7:H	_
 55	the	_	Word	Word	_	57	E	57:E	_
 56	intellectual	_	Word	Word	_	57	E	57:E	_
 57	depth	_	Word	Word	_	54	A	54:A	_
 58	of	_	Word	Word	_	60	R	60:R	_
-59	his	_	Word	Word	_	60	E	60:E	_
+59	his	_	Word	Word	_	60	A	60:A|62:A	_
 60	work	_	Word	Word	_	57	E	57:E	_
 61	and	_	Word	Word	_	57	N	57:N	_
 62	influence	_	Word	Word	_	57	C	57:C	_
-63	.	_	Punctuation	Punctuation	_	57	U	57:U	_
+63	.	_	Punctuation	Punctuation	_	62	U	62:U	_
 

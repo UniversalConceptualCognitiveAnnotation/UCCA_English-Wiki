@@ -2,9 +2,9 @@
 # sent_id = 606010
 # text = In November , the Wings song " Mull of Kintyre " , co - written with Laine , was quickly becoming one of the best - selling singles in UK chart history .
 1	In	_	Word	Word	_	2	R	2:R	_
-2	November	_	Word	Word	_	21	D	21:D	_
+2	November	_	Word	Word	_	21	T	21:T	_
 3	,	_	Punctuation	Punctuation	_	21	U	21:U	_
-4	the	_	Word	Word	_	8	E	8:E	_
+4	the	_	Word	Word	_	6	E	6:E	_
 5	Wings	_	Word	Word	_	6	E	6:E	_
 6	song	_	Word	Word	_	8	E	8:E	_
 7	"	_	Punctuation	Punctuation	_	8	U	8:U	_
@@ -13,7 +13,7 @@
 10	Kintyre	_	Word	Word	_	8	Terminal	8:Terminal	_
 11	"	_	Punctuation	Punctuation	_	8	U	8:U	_
 12	,	_	Punctuation	Punctuation	_	8	U	8:U	_
-13	co	_	Word	Word	_	15	E	15:E	_
+13	co	_	Word	Word	_	15	D	15:D	_
 14	-	_	Punctuation	Punctuation	_	15	U	15:U	_
 15	written	_	Word	Word	_	8	E	8:E	_
 16	with	_	Word	Word	_	17	R	17:R	_
@@ -22,10 +22,10 @@
 19	was	_	Word	Word	_	21	F	21:F	_
 20	quickly	_	Word	Word	_	21	D	21:D	_
 21	becoming	_	Word	Word	_	0	H	0:H	_
-22	one	_	Word	Word	_	28	E	28:E	_
-23	of	_	Word	Word	_	22	R	22:R	_
+22	one	_	Word	Word	_	28	Q	28:Q	_
+23	of	_	Word	Word	_	28	R	28:R	_
 24	the	_	Word	Word	_	28	E	28:E	_
-25	best	_	Word	Word	_	27	E	27:E	_
+25	best	_	Word	Word	_	27	D	27:D	_
 26	-	_	Punctuation	Punctuation	_	27	U	27:U	_
 27	selling	_	Word	Word	_	28	E	28:E	_
 28	singles	_	Word	Word	_	21	A	21:A	_

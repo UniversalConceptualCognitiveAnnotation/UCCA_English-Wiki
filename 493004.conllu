@@ -2,7 +2,7 @@
 # sent_id = 493004
 # text = In 2004 , Rolling Stone ranked him 39th on their list of the " 100 Greatest Artists of All Time " , and 23rd on their list of the best singers of all time .
 1	In	_	Word	Word	_	2	R	2:R	_
-2	2004	_	Word	Word	_	6	D	6:D	_
+2	2004	_	Word	Word	_	6	T	6:T	_
 3	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 4	Rolling	_	Word	Word	_	6	A	6:A	_
 5	Stone	_	Word	Word	_	4	Terminal	4:Terminal	_
@@ -15,7 +15,7 @@
 12	of	_	Word	Word	_	17	R	17:R	_
 13	the	_	Word	Word	_	17	E	17:E	_
 14	"	_	Punctuation	Punctuation	_	17	U	17:U	_
-15	100	_	Word	Word	_	17	E	17:E	_
+15	100	_	Word	Word	_	17	Q	17:Q	_
 16	Greatest	_	Word	Word	_	17	E	17:E	_
 17	Artists	_	Word	Word	_	11	E	11:E	_
 18	of	_	Word	Word	_	20	R	20:R	_

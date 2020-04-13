@@ -2,8 +2,8 @@
 # sent_id = 611011
 # text = In June 2012 , McCartney closed Queen Elizabeth 's Diamond Jubilee Concert held outside Buckingham Palace , performing a set that included " Let It Be " and " Live and Let Die " . He closed the opening ceremony of the 2012 Summer Olympics in London on 27 July , singing " The End " and " Hey Jude " and inviting the audience to join in on the coda .
 1	In	_	Word	Word	_	2	R	2:R	_
-2	June	_	Word	Word	_	6	D	6:D	_
-3	2012	_	Word	Word	_	2	Terminal	2:Terminal	_
+2	June	_	Word	Word	_	6	T	6:T	_
+3	2012	_	Word	Word	_	2	C	2:C	_
 4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 5	McCartney	_	Word	Word	_	6	A	6:A|18:A	_
 6	closed	_	Word	Word	_	0	H	0:H	_
@@ -21,7 +21,7 @@
 18	performing	_	Word	Word	_	6	H	6:H	_
 19	a	_	Word	Word	_	20	E	20:E	_
 20	set	_	Word	Word	_	18	A	18:A	_
-21	that	_	Word	Word	_	22	F	22:F	_
+21	that	_	Word	Word	_	22	R	22:R	_
 22	included	_	Word	Word	_	20	E	20:E	_
 23	"	_	Punctuation	Punctuation	_	22	U	22:U	_
 24	Let	_	Word	Word	_	22	A	22:A	_
@@ -38,19 +38,19 @@
 35	.	_	Punctuation	Punctuation	_	6	U	6:U	_
 36	He	_	Word	Word	_	37	A	37:A|52:A|63:A	_
 37	closed	_	Word	Word	_	6	H	6:H	_
-38	the	_	Word	Word	_	40	E	40:E	_
-39	opening	_	Word	Word	_	40	E	40:E	_
+38	the	_	Word	Word	_	40	F	40:F	_
+39	opening	_	Word	Word	_	40	A	40:A	_
 40	ceremony	_	Word	Word	_	37	A	37:A	_
-41	of	_	Word	Word	_	43	R	43:R	_
-42	the	_	Word	Word	_	43	E	43:E	_
-43	2012	_	Word	Word	_	45	D	45:D	_
-44	Summer	_	Word	Word	_	45	E	45:E	_
-45	Olympics	_	Word	Word	_	40	E	40:E	_
+41	of	_	Word	Word	_	45	R	45:R	_
+42	the	_	Word	Word	_	45	F	45:F	_
+43	2012	_	Word	Word	_	45	T	45:T	_
+44	Summer	_	Word	Word	_	45	T	45:T	_
+45	Olympics	_	Word	Word	_	40	A	40:A	_
 46	in	_	Word	Word	_	47	R	47:R	_
 47	London	_	Word	Word	_	37	A	37:A	_
 48	on	_	Word	Word	_	49	R	49:R	_
-49	27	_	Word	Word	_	37	D	37:D	_
-50	July	_	Word	Word	_	49	Terminal	49:Terminal	_
+49	27	_	Word	Word	_	37	T	37:T	_
+50	July	_	Word	Word	_	49	C	49:C	_
 51	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 52	singing	_	Word	Word	_	6	H	6:H	_
 53	"	_	Punctuation	Punctuation	_	52	U	52:U	_
@@ -68,7 +68,7 @@
 65	audience	_	Word	Word	_	63	A	63:A|67:A	_
 66	to	_	Word	Word	_	67	F	67:F	_
 67	join	_	Word	Word	_	63	A	63:A	_
-68	in	_	Word	Word	_	67	E	67:E	_
+68	in	_	Word	Word	_	67	Terminal	67:Terminal	_
 69	on	_	Word	Word	_	71	R	71:R	_
 70	the	_	Word	Word	_	71	E	71:E	_
 71	coda	_	Word	Word	_	67	A	67:A	_

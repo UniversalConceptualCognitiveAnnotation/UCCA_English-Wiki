@@ -1,17 +1,17 @@
 # format = ucca
 # sent_id = 184002
 # text = She auditioned for admission to Eva LeGallienne 's Manhattan Civic Repertory , but was rejected by LeGallienne who described her attitude as " insincere " and " frivolous " . She was accepted by the John Murray Anderson School of Theatre , and studied dance with Martha Graham .
-1	She	_	Word	Word	_	2	A	2:A|15:A	_
+1	She	_	Word	Word	_	2	A	2:A|4:A|15:A	_
 2	auditioned	_	Word	Word	_	0	H	0:H	_
 3	for	_	Word	Word	_	4	R	4:R	_
 4	admission	_	Word	Word	_	2	A	2:A	_
-5	to	_	Word	Word	_	11	R	11:R	_
-6	Eva	_	Word	Word	_	11	E	11:E	_
+5	to	_	Word	Word	_	9	R	9:R	_
+6	Eva	_	Word	Word	_	8	A	8:A	_
 7	LeGallienne	_	Word	Word	_	6	Terminal	6:Terminal	_
-8	's	_	Word	Word	_	6	R	6:R	_
-9	Manhattan	_	Word	Word	_	11	E	11:E	_
-10	Civic	_	Word	Word	_	11	E	11:E	_
-11	Repertory	_	Word	Word	_	4	A	4:A	_
+8	's	_	Word	Word	_	9	E	9:E	_
+9	Manhattan	_	Word	Word	_	4	A	4:A	_
+10	Civic	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	Repertory	_	Word	Word	_	9	Terminal	9:Terminal	_
 12	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 13	but	_	Word	Word	_	15	L	15:L	_
 14	was	_	Word	Word	_	15	F	15:F	_
@@ -20,22 +20,22 @@
 17	LeGallienne	_	Word	Word	_	15	A	15:A	_
 18	who	_	Word	Word	_	19	R	19:R	_
 19	described	_	Word	Word	_	17	E	17:E	_
-20	her	_	Word	Word	_	21	E	21:E	_
+20	her	_	Word	Word	_	21	A	21:A	_
 21	attitude	_	Word	Word	_	19	A	19:A	_
-22	as	_	Word	Word	_	24	R	24:R	_
+22	as	_	Word	Word	_	24	R	24:R|28:R	_
 23	"	_	Punctuation	Punctuation	_	24	U	24:U	_
 24	insincere	_	Word	Word	_	19	A	19:A	_
 25	"	_	Punctuation	Punctuation	_	24	U	24:U	_
-26	and	_	Word	Word	_	24	N	24:N	_
+26	and	_	Word	Word	_	28	L	28:L	_
 27	"	_	Punctuation	Punctuation	_	24	U	24:U	_
-28	frivolous	_	Word	Word	_	24	C	24:C	_
+28	frivolous	_	Word	Word	_	24	H	24:H	_
 29	"	_	Punctuation	Punctuation	_	2	U	2:U	_
 30	.	_	Punctuation	Punctuation	_	2	U	2:U	_
 31	She	_	Word	Word	_	33	A	33:A|44:A	_
 32	was	_	Word	Word	_	33	F	33:F	_
 33	accepted	_	Word	Word	_	2	H	2:H	_
 34	by	_	Word	Word	_	39	R	39:R	_
-35	the	_	Word	Word	_	39	E	39:E	_
+35	the	_	Word	Word	_	39	F	39:F	_
 36	John	_	Word	Word	_	39	E	39:E	_
 37	Murray	_	Word	Word	_	36	Terminal	36:Terminal	_
 38	Anderson	_	Word	Word	_	36	Terminal	36:Terminal	_

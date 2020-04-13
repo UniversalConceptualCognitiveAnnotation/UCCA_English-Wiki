@@ -1,11 +1,11 @@
 # format = ucca
 # sent_id = 136004
 # text = Later in life , she released a memoir about the experience .
-1	Later	_	Word	Word	_	3	E	3:E	_
+1	Later	_	Word	Word	_	3	T	3:T	_
 2	in	_	Word	Word	_	3	R	3:R	_
-3	life	_	Word	Word	_	6	D	6:D	_
-4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
-5	she	_	Word	Word	_	6	A	6:A	_
+3	life	_	Word	Word	_	6	A	6:A	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	she	_	Word	Word	_	6	A	6:A|3:A	_
 6	released	_	Word	Word	_	0	H	0:H	_
 7	a	_	Word	Word	_	8	E	8:E	_
 8	memoir	_	Word	Word	_	6	A	6:A	_

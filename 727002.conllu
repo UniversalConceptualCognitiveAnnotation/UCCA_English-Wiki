@@ -2,30 +2,30 @@
 # sent_id = 727002
 # text = In 2002 , she starred in Life or Something Like It as an ambitious television reporter who is told that she will die in a week .
 1	In	_	Word	Word	_	2	R	2:R	_
-2	2002	_	Word	Word	_	5	D	5:D	_
+2	2002	_	Word	Word	_	5	T	5:T	_
 3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 4	she	_	Word	Word	_	5	A	5:A	_
 5	starred	_	Word	Word	_	0	H	0:H	_
-6	in	_	Word	Word	_	5	R	5:R	_
+6	in	_	Word	Word	_	7	R	7:R	_
 7	Life	_	Word	Word	_	5	A	5:A	_
 8	or	_	Word	Word	_	7	Terminal	7:Terminal	_
 9	Something	_	Word	Word	_	7	Terminal	7:Terminal	_
 10	Like	_	Word	Word	_	7	Terminal	7:Terminal	_
 11	It	_	Word	Word	_	7	Terminal	7:Terminal	_
 12	as	_	Word	Word	_	16	R	16:R	_
-13	an	_	Word	Word	_	16	E	16:E	_
-14	ambitious	_	Word	Word	_	16	E	16:E	_
-15	television	_	Word	Word	_	16	E	16:E	_
+13	an	_	Word	Word	_	16	F	16:F	_
+14	ambitious	_	Word	Word	_	16	D	16:D	_
+15	television	_	Word	Word	_	16	A	16:A	_
 16	reporter	_	Word	Word	_	5	A	5:A	_
 17	who	_	Word	Word	_	19	R	19:R	_
 18	is	_	Word	Word	_	19	F	19:F	_
 19	told	_	Word	Word	_	16	E	16:E	_
-20	that	_	Word	Word	_	23	F	23:F	_
+20	that	_	Word	Word	_	23	R	23:R	_
 21	she	_	Word	Word	_	23	A	23:A	_
 22	will	_	Word	Word	_	23	F	23:F	_
 23	die	_	Word	Word	_	19	A	19:A	_
 24	in	_	Word	Word	_	26	R	26:R	_
 25	a	_	Word	Word	_	26	E	26:E	_
-26	week	_	Word	Word	_	23	D	23:D	_
+26	week	_	Word	Word	_	23	T	23:T	_
 27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
 

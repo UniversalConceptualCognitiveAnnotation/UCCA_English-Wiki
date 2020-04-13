@@ -2,7 +2,7 @@
 # sent_id = 608002
 # text = In 1989 , he joined forces with fellow Merseysiders Gerry Marsden and Holly Johnson to record an updated version of " Ferry Cross the Mersey " , for the Hillsborough disaster appeal fund .
 1	In	_	Word	Word	_	2	R	2:R	_
-2	1989	_	Word	Word	_	6	D	6:D	_
+2	1989	_	Word	Word	_	6	T	6:T	_
 3	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 4	he	_	Word	Word	_	6	A	6:A|16:A	_
 5	joined	_	Word	Word	_	6	D	6:D	_
@@ -17,19 +17,19 @@
 14	Johnson	_	Word	Word	_	13	Terminal	13:Terminal	_
 15	to	_	Word	Word	_	16	L	16:L	_
 16	record	_	Word	Word	_	6	H	6:H	_
-17	an	_	Word	Word	_	19	E	19:E	_
+17	an	_	Word	Word	_	19	F	19:F	_
 18	updated	_	Word	Word	_	19	E	19:E	_
-19	version	_	Word	Word	_	22	E	22:E	_
-20	of	_	Word	Word	_	19	R	19:R	_
+19	version	_	Word	Word	_	16	A	16:A	_
+20	of	_	Word	Word	_	22	R	22:R	_
 21	"	_	Punctuation	Punctuation	_	22	U	22:U	_
-22	Ferry	_	Word	Word	_	16	A	16:A	_
+22	Ferry	_	Word	Word	_	19	E	19:E	_
 23	Cross	_	Word	Word	_	22	Terminal	22:Terminal	_
 24	the	_	Word	Word	_	22	Terminal	22:Terminal	_
 25	Mersey	_	Word	Word	_	22	Terminal	22:Terminal	_
 26	"	_	Punctuation	Punctuation	_	16	U	16:U	_
 27	,	_	Punctuation	Punctuation	_	16	U	16:U	_
 28	for	_	Word	Word	_	33	R	33:R	_
-29	the	_	Word	Word	_	33	E	33:E	_
+29	the	_	Word	Word	_	33	F	33:F	_
 30	Hillsborough	_	Word	Word	_	31	E	31:E	_
 31	disaster	_	Word	Word	_	33	E	33:E	_
 32	appeal	_	Word	Word	_	33	E	33:E	_

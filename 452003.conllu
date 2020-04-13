@@ -2,14 +2,14 @@
 # sent_id = 452003
 # text = As ABC 's Beirut bureau chief , Jennings soon became familiar with the intricacies of the Arab - Israeli conflict , including the rise of the Palestinian Black September Organization during the early 1970s .
 1	As	_	Word	Word	_	11	L	11:L	_
-2	ABC	_	Word	Word	_	6	E	6:E	_
+2	ABC	_	Word	Word	_	6	A	6:A	_
 3	's	_	Word	Word	_	2	R	2:R	_
-4	Beirut	_	Word	Word	_	6	E	6:E	_
+4	Beirut	_	Word	Word	_	6	A	6:A	_
 5	bureau	_	Word	Word	_	6	E	6:E	_
 6	chief	_	Word	Word	_	0	H	0:H	_
 7	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 8	Jennings	_	Word	Word	_	11	A	11:A|6:A	_
-9	soon	_	Word	Word	_	11	D	11:D	_
+9	soon	_	Word	Word	_	11	T	11:T	_
 10	became	_	Word	Word	_	11	D	11:D	_
 11	familiar	_	Word	Word	_	6	H	6:H	_
 12	with	_	Word	Word	_	14	R	14:R	_
@@ -34,6 +34,6 @@
 31	during	_	Word	Word	_	34	R	34:R	_
 32	the	_	Word	Word	_	34	E	34:E	_
 33	early	_	Word	Word	_	34	E	34:E	_
-34	1970s	_	Word	Word	_	24	D	24:D	_
+34	1970s	_	Word	Word	_	24	T	24:T	_
 35	.	_	Punctuation	Punctuation	_	34	U	34:U	_
 

@@ -1,25 +1,25 @@
 # format = ucca
 # sent_id = 66008
 # text = At the age of 14 , Jolie dropped out of her acting classes and aspired to become a funeral director .
-1	At	_	Word	Word	_	8	L	8:L	_
-2	the	_	Word	Word	_	3	E	3:E	_
+1	At	_	Word	Word	_	13	L	13:L	_
+2	the	_	Word	Word	_	3	F	3:F	_
 3	age	_	Word	Word	_	0	H	0:H	_
 4	of	_	Word	Word	_	5	R	5:R	_
-5	14	_	Word	Word	_	3	E	3:E	_
+5	14	_	Word	Word	_	3	T	3:T	_
 6	,	_	Punctuation	Punctuation	_	3	U	3:U	_
-7	Jolie	_	Word	Word	_	8	A	8:A|3:A|17:A	_
-8	dropped	_	Word	Word	_	3	H	3:H	_
+7	Jolie	_	Word	Word	_	13	A	13:A|3:A|15:A|20:A	_
+8	dropped	_	Word	Word	_	13	D	13:D	_
 9	out	_	Word	Word	_	8	Terminal	8:Terminal	_
 10	of	_	Word	Word	_	13	R	13:R	_
-11	her	_	Word	Word	_	13	E	13:E	_
-12	acting	_	Word	Word	_	13	E	13:E	_
-13	classes	_	Word	Word	_	8	A	8:A	_
-14	and	_	Word	Word	_	17	L	17:L	_
-15	aspired	_	Word	Word	_	17	D	17:D	_
-16	to	_	Word	Word	_	17	F	17:F	_
-17	become	_	Word	Word	_	3	H	3:H	_
-18	a	_	Word	Word	_	20	E	20:E	_
-19	funeral	_	Word	Word	_	20	E	20:E	_
-20	director	_	Word	Word	_	17	A	17:A	_
+11	her	_	Word	Word	_	13	F	13:F	_
+12	acting	_	Word	Word	_	13	A	13:A	_
+13	classes	_	Word	Word	_	3	H	3:H	_
+14	and	_	Word	Word	_	15	L	15:L	_
+15	aspired	_	Word	Word	_	3	H	3:H	_
+16	to	_	Word	Word	_	20	F	20:F	_
+17	become	_	Word	Word	_	20	D	20:D	_
+18	a	_	Word	Word	_	20	F	20:F	_
+19	funeral	_	Word	Word	_	20	A	20:A	_
+20	director	_	Word	Word	_	15	A	15:A	_
 21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
 

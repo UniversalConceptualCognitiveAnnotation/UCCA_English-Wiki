@@ -2,24 +2,24 @@
 # sent_id = 618001
 # text = In January 1962 , Polydor Records issued the first commercially released recording of the Beatles , a single called " My Bonnie " . Credited to Tony Sheridan and the Beat Brothers , Decca Records issued the track in the UK in April 1962 .
 1	In	_	Word	Word	_	2	R	2:R	_
-2	January	_	Word	Word	_	7	A	7:A	_
-3	1962	_	Word	Word	_	2	Terminal	2:Terminal	_
+2	January	_	Word	Word	_	7	T	7:T	_
+3	1962	_	Word	Word	_	2	C	2:C	_
 4	,	_	Punctuation	Punctuation	_	7	U	7:U	_
 5	Polydor	_	Word	Word	_	6	E	6:E	_
 6	Records	_	Word	Word	_	7	A	7:A	_
 7	issued	_	Word	Word	_	0	H	0:H	_
-8	the	_	Word	Word	_	12	E	12:E	_
-9	first	_	Word	Word	_	12	E	12:E	_
-10	commercially	_	Word	Word	_	11	E	11:E	_
+8	the	_	Word	Word	_	9	E	9:E	_
+9	first	_	Word	Word	_	11	D	11:D	_
+10	commercially	_	Word	Word	_	11	D	11:D	_
 11	released	_	Word	Word	_	12	E	12:E	_
-12	recording	_	Word	Word	_	7	A	7:A	_
-13	of	_	Word	Word	_	15	R	15:R	_
+12	recording	_	Word	Word	_	18	E	18:E	_
+13	of	_	Word	Word	_	12	E	12:E	_
 14	the	_	Word	Word	_	15	E	15:E	_
-15	Beatles	_	Word	Word	_	12	E	12:E	_
-16	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+15	Beatles	_	Word	Word	_	13	A	13:A	_
+16	,	_	Punctuation	Punctuation	_	18	U	18:U	_
 17	a	_	Word	Word	_	18	E	18:E	_
-18	single	_	Word	Word	_	19	A	19:A	_
-19	called	_	Word	Word	_	12	E	12:E	_
+18	single	_	Word	Word	_	7	A	7:A	_
+19	called	_	Word	Word	_	18	E	18:E	_
 20	"	_	Punctuation	Punctuation	_	19	U	19:U	_
 21	My	_	Word	Word	_	19	A	19:A	_
 22	Bonnie	_	Word	Word	_	21	Terminal	21:Terminal	_
@@ -38,12 +38,12 @@
 35	Records	_	Word	Word	_	36	A	36:A	_
 36	issued	_	Word	Word	_	7	H	7:H	_
 37	the	_	Word	Word	_	38	E	38:E	_
-38	track	_	Word	Word	_	36	A	36:A|25:A	_
+38	track	_	Word	Word	_	0	C	0:C|25:A	_
 39	in	_	Word	Word	_	41	R	41:R	_
 40	the	_	Word	Word	_	41	E	41:E	_
 41	UK	_	Word	Word	_	36	A	36:A	_
 42	in	_	Word	Word	_	43	R	43:R	_
-43	April	_	Word	Word	_	36	D	36:D	_
-44	1962	_	Word	Word	_	43	Terminal	43:Terminal	_
+43	April	_	Word	Word	_	36	T	36:T	_
+44	1962	_	Word	Word	_	43	C	43:C	_
 45	.	_	Punctuation	Punctuation	_	43	U	43:U	_
 

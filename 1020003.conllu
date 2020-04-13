@@ -1,35 +1,13 @@
 # format = ucca
 # sent_id = 1020003
-# text = In 1964 , Michael and Marlon joined the Jackson Brothers - a band formed by brothers Jackie , Tito , and Jermaine - as backup musicians playing congas and tambourine .
-1	In	_	Word	Word	_	2	R	2:R	_
-2	1964	_	Word	Word	_	7	D	7:D	_
-3	,	_	Punctuation	Punctuation	_	7	U	7:U	_
-4	Michael	_	Word	Word	_	7	A	7:A	_
-5	and	_	Word	Word	_	4	N	4:N	_
-6	Marlon	_	Word	Word	_	4	C	4:C	_
-7	joined	_	Word	Word	_	0	H	0:H	_
-8	the	_	Word	Word	_	9	E	9:E	_
-9	Jackson	_	Word	Word	_	7	A	7:A	_
-10	Brothers	_	Word	Word	_	9	Terminal	9:Terminal	_
-11	-	_	Punctuation	Punctuation	_	9	U	9:U	_
-12	a	_	Word	Word	_	13	E	13:E	_
-13	band	_	Word	Word	_	14	A	14:A	_
-14	formed	_	Word	Word	_	9	E	9:E	_
-15	by	_	Word	Word	_	14	R	14:R	_
-16	brothers	_	Word	Word	_	17	E	17:E	_
-17	Jackie	_	Word	Word	_	14	A	14:A	_
-18	,	_	Punctuation	Punctuation	_	17	U	17:U	_
-19	Tito	_	Word	Word	_	17	C	17:C	_
-20	,	_	Punctuation	Punctuation	_	17	U	17:U	_
-21	and	_	Word	Word	_	17	N	17:N	_
-22	Jermaine	_	Word	Word	_	17	C	17:C	_
-23	-	_	Punctuation	Punctuation	_	7	U	7:U	_
-24	as	_	Word	Word	_	27	R	27:R	_
-25	backup	_	Word	Word	_	26	E	26:E	_
-26	musicians	_	Word	Word	_	27	A	27:A	_
-27	playing	_	Word	Word	_	7	A	7:A	_
-28	congas	_	Word	Word	_	27	A	27:A	_
-29	and	_	Word	Word	_	28	N	28:N	_
-30	tambourine	_	Word	Word	_	28	C	28:C	_
-31	.	_	Punctuation	Punctuation	_	28	U	28:U	_
+# text = Jackson later began performing backup vocals and dancing .
+1	Jackson	_	Word	Word	_	4	A	4:A	_
+2	later	_	Word	Word	_	4	T	4:T	_
+3	began	_	Word	Word	_	4	D	4:D	_
+4	performing	_	Word	Word	_	0	H	0:H	_
+5	backup	_	Word	Word	_	6	E	6:E	_
+6	vocals	_	Word	Word	_	4	A	4:A	_
+7	and	_	Word	Word	_	6	N	6:N	_
+8	dancing	_	Word	Word	_	6	C	6:C	_
+9	.	_	Punctuation	Punctuation	_	6	U	6:U	_
 

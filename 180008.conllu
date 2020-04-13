@@ -1,16 +1,18 @@
 # format = ucca
 # sent_id = 180008
-# text = On May 2 , 2009 , she married Sarsgaard in Italy .
-1	On	_	Word	Word	_	2	R	2:R	_
-2	May	_	Word	Word	_	8	D	8:D	_
-3	2	_	Word	Word	_	2	Terminal	2:Terminal	_
-4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
-5	2009	_	Word	Word	_	2	Terminal	2:Terminal	_
-6	,	_	Punctuation	Punctuation	_	8	U	8:U	_
-7	she	_	Word	Word	_	8	A	8:A	_
-8	married	_	Word	Word	_	0	H	0:H	_
-9	Sarsgaard	_	Word	Word	_	8	A	8:A	_
-10	in	_	Word	Word	_	11	R	11:R	_
-11	Italy	_	Word	Word	_	8	A	8:A	_
-12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+# text = The second daughter , Gloria Ray , was born April 19 , 2012 .
+1	The	_	Word	Word	_	3	F	3:F	_
+2	second	_	Word	Word	_	3	D	3:D	_
+3	daughter	_	Word	Word	_	5	E	5:E	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	Gloria	_	Word	Word	_	9	A	9:A	_
+6	Ray	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+8	was	_	Word	Word	_	9	F	9:F	_
+9	born	_	Word	Word	_	0	H	0:H	_
+10	April	_	Word	Word	_	9	T	9:T	_
+11	19	_	Word	Word	_	10	C	10:C	_
+12	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+13	2012	_	Word	Word	_	10	C	10:C	_
+14	.	_	Punctuation	Punctuation	_	10	U	10:U	_
 

@@ -1,26 +1,26 @@
 # format = ucca
 # sent_id = 630010
 # text = His aunt purchased volumes of short stories for him , and his uncle , a dairyman at his family 's farm , bought him a mouth organ and engaged him in solving crossword puzzles .
-1	His	_	Word	Word	_	2	E	2:E	_
+1	His	_	Word	Word	_	2	A	2:A	_
 2	aunt	_	Word	Word	_	3	A	3:A	_
 3	purchased	_	Word	Word	_	0	H	0:H	_
-4	volumes	_	Word	Word	_	3	A	3:A	_
+4	volumes	_	Word	Word	_	7	Q	7:Q	_
 5	of	_	Word	Word	_	7	R	7:R	_
 6	short	_	Word	Word	_	7	E	7:E	_
-7	stories	_	Word	Word	_	4	E	4:E	_
+7	stories	_	Word	Word	_	3	A	3:A	_
 8	for	_	Word	Word	_	9	R	9:R	_
 9	him	_	Word	Word	_	3	A	3:A	_
 10	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 11	and	_	Word	Word	_	23	L	23:L	_
-12	his	_	Word	Word	_	13	E	13:E	_
-13	uncle	_	Word	Word	_	0	C	0:C|16:A|29:A	_
-14	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+12	his	_	Word	Word	_	23	A	23:A	_
+13	uncle	_	Word	Word	_	12	A	12:A|29:A	_
+14	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 15	a	_	Word	Word	_	16	E	16:E	_
-16	dairyman	_	Word	Word	_	13	E	13:E	_
+16	dairyman	_	Word	Word	_	12	E	12:E	_
 17	at	_	Word	Word	_	21	R	21:R	_
-18	his	_	Word	Word	_	19	E	19:E	_
-19	family	_	Word	Word	_	21	E	21:E	_
-20	's	_	Word	Word	_	19	R	19:R	_
+18	his	_	Word	Word	_	20	A	20:A	_
+19	family	_	Word	Word	_	18	A	18:A	_
+20	's	_	Word	Word	_	21	E	21:E	_
 21	farm	_	Word	Word	_	16	A	16:A	_
 22	,	_	Punctuation	Punctuation	_	23	U	23:U	_
 23	bought	_	Word	Word	_	3	H	3:H	_
@@ -31,7 +31,7 @@
 28	and	_	Word	Word	_	29	L	29:L	_
 29	engaged	_	Word	Word	_	3	H	3:H	_
 30	him	_	Word	Word	_	29	A	29:A	_
-31	in	_	Word	Word	_	32	F	32:F	_
+31	in	_	Word	Word	_	32	R	32:R	_
 32	solving	_	Word	Word	_	29	A	29:A	_
 33	crossword	_	Word	Word	_	34	E	34:E	_
 34	puzzles	_	Word	Word	_	32	A	32:A	_

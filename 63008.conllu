@@ -1,34 +1,32 @@
 # format = ucca
 # sent_id = 63008
-# text = His portrayal of the character has been described as a career - making performance , proving that Pitt could be more than a " cowboy - hatted hunk . "
+# text = His portrayal of the character has been described as a career-making performance , proving that Pitt could be more than a " cowboy - hatted hunk . "
 1	His	_	Word	Word	_	2	A	2:A	_
-2	portrayal	_	Word	Word	_	8	A	8:A|16:A	_
+2	portrayal	_	Word	Word	_	8	A	8:A|14:A	_
 3	of	_	Word	Word	_	5	R	5:R	_
 4	the	_	Word	Word	_	5	E	5:E	_
 5	character	_	Word	Word	_	2	A	2:A	_
 6	has	_	Word	Word	_	8	F	8:F	_
 7	been	_	Word	Word	_	8	F	8:F	_
 8	described	_	Word	Word	_	0	H	0:H	_
-9	as	_	Word	Word	_	14	R	14:R	_
-10	a	_	Word	Word	_	14	E	14:E	_
-11	career	_	Word	Word	_	14	E	14:E	_
-12	-	_	Punctuation	Punctuation	_	11	U	11:U	_
-13	making	_	Word	Word	_	11	Terminal	11:Terminal	_
-14	performance	_	Word	Word	_	8	A	8:A	_
-15	,	_	Punctuation	Punctuation	_	8	U	8:U	_
-16	proving	_	Word	Word	_	8	H	8:H	_
-17	that	_	Word	Word	_	21	R	21:R	_
-18	Pitt	_	Word	Word	_	21	A	21:A	_
-19	could	_	Word	Word	_	21	D	21:D	_
-20	be	_	Word	Word	_	21	F	21:F	_
-21	more	_	Word	Word	_	16	A	16:A	_
-22	than	_	Word	Word	_	28	R	28:R	_
-23	a	_	Word	Word	_	28	E	28:E	_
-24	"	_	Punctuation	Punctuation	_	28	U	28:U	_
-25	cowboy	_	Word	Word	_	27	E	27:E	_
-26	-	_	Punctuation	Punctuation	_	27	U	27:U	_
-27	hatted	_	Word	Word	_	28	E	28:E	_
-28	hunk	_	Word	Word	_	21	A	21:A	_
-29	.	_	Punctuation	Punctuation	_	28	U	28:U	_
-30	"	_	Punctuation	Punctuation	_	28	U	28:U	_
+9	as	_	Word	Word	_	12	R	12:R	_
+10	a	_	Word	Word	_	12	E	12:E	_
+11	career-making	_	Word	Word	_	12	D	12:D	_
+12	performance	_	Word	Word	_	8	A	8:A	_
+13	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+14	proving	_	Word	Word	_	8	H	8:H	_
+15	that	_	Word	Word	_	18	R	18:R	_
+16	Pitt	_	Word	Word	_	18	A	18:A	_
+17	could	_	Word	Word	_	18	D	18:D	_
+18	be	_	Word	Word	_	14	A	14:A	_
+19	more	_	Word	Word	_	26	E	26:E	_
+20	than	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	a	_	Word	Word	_	26	E	26:E	_
+22	"	_	Punctuation	Punctuation	_	26	U	26:U	_
+23	cowboy	_	Word	Word	_	25	A	25:A	_
+24	-	_	Punctuation	Punctuation	_	25	U	25:U	_
+25	hatted	_	Word	Word	_	26	E	26:E	_
+26	hunk	_	Word	Word	_	18	A	18:A	_
+27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+28	"	_	Punctuation	Punctuation	_	26	U	26:U	_
 

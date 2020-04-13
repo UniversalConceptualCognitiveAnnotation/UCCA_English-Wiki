@@ -3,9 +3,9 @@
 # text = Lennon failed all his GCE O - level examinations , and was accepted into the Liverpool College of Art only after his aunt and headmaster intervened .
 1	Lennon	_	Word	Word	_	2	A	2:A|13:A	_
 2	failed	_	Word	Word	_	0	H	0:H	_
-3	all	_	Word	Word	_	9	E	9:E	_
+3	all	_	Word	Word	_	9	Q	9:Q	_
 4	his	_	Word	Word	_	9	E	9:E	_
-5	GCE	_	Word	Word	_	8	E	8:E	_
+5	GCE	_	Word	Word	_	8	A	8:A	_
 6	O	_	Word	Word	_	5	Terminal	5:Terminal	_
 7	-	_	Punctuation	Punctuation	_	8	U	8:U	_
 8	level	_	Word	Word	_	9	E	9:E	_
@@ -20,9 +20,9 @@
 17	College	_	Word	Word	_	13	A	13:A	_
 18	of	_	Word	Word	_	19	R	19:R	_
 19	Art	_	Word	Word	_	17	E	17:E	_
-20	only	_	Word	Word	_	26	L	26:L	_
-21	after	_	Word	Word	_	20	Terminal	20:Terminal	_
-22	his	_	Word	Word	_	23	E	23:E	_
+20	only	_	Word	Word	_	21	E	21:E	_
+21	after	_	Word	Word	_	26	L	26:L	_
+22	his	_	Word	Word	_	23	A	23:A|25:A	_
 23	aunt	_	Word	Word	_	26	A	26:A	_
 24	and	_	Word	Word	_	23	N	23:N	_
 25	headmaster	_	Word	Word	_	23	C	23:C	_

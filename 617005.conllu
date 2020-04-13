@@ -1,31 +1,19 @@
 # format = ucca
 # sent_id = 617005
-# text = In 1992 , he worked with Dunbar on an animated film about the work of French artist Honoré Daumier , which won them a BAFTA award .
+# text = In 2004 , they worked together on the animated short film Tropic Island Hum .
 1	In	_	Word	Word	_	2	R	2:R	_
-2	1992	_	Word	Word	_	5	D	5:D	_
+2	2004	_	Word	Word	_	5	T	5:T	_
 3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
-4	he	_	Word	Word	_	5	A	5:A	_
+4	they	_	Word	Word	_	5	A	5:A	_
 5	worked	_	Word	Word	_	0	H	0:H	_
-6	with	_	Word	Word	_	7	R	7:R	_
-7	Dunbar	_	Word	Word	_	5	A	5:A	_
-8	on	_	Word	Word	_	11	R	11:R	_
-9	an	_	Word	Word	_	11	E	11:E	_
-10	animated	_	Word	Word	_	11	E	11:E	_
-11	film	_	Word	Word	_	5	A	5:A	_
-12	about	_	Word	Word	_	11	E	11:E	_
-13	the	_	Word	Word	_	14	E	14:E	_
-14	work	_	Word	Word	_	12	A	12:A	_
-15	of	_	Word	Word	_	18	R	18:R	_
-16	French	_	Word	Word	_	17	E	17:E	_
-17	artist	_	Word	Word	_	18	E	18:E	_
-18	Honoré	_	Word	Word	_	14	E	14:E	_
-19	Daumier	_	Word	Word	_	18	Terminal	18:Terminal	_
-20	,	_	Punctuation	Punctuation	_	11	U	11:U	_
-21	which	_	Word	Word	_	22	F	22:F	_
-22	won	_	Word	Word	_	11	E	11:E	_
-23	them	_	Word	Word	_	22	A	22:A	_
-24	a	_	Word	Word	_	26	E	26:E	_
-25	BAFTA	_	Word	Word	_	26	E	26:E	_
-26	award	_	Word	Word	_	22	A	22:A	_
-27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+6	together	_	Word	Word	_	5	D	5:D	_
+7	on	_	Word	Word	_	12	R	12:R	_
+8	the	_	Word	Word	_	12	E	12:E	_
+9	animated	_	Word	Word	_	11	E	11:E	_
+10	short	_	Word	Word	_	11	E	11:E	_
+11	film	_	Word	Word	_	12	E	12:E	_
+12	Tropic	_	Word	Word	_	5	A	5:A	_
+13	Island	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	Hum	_	Word	Word	_	12	Terminal	12:Terminal	_
+15	.	_	Punctuation	Punctuation	_	12	U	12:U	_
 

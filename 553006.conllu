@@ -1,30 +1,27 @@
 # format = ucca
 # sent_id = 553006
-# text = RCA Victor acquired his contract in a deal arranged by Colonel Tom Parker , who went on to manage the singer for over two decades .
-1	RCA	_	Word	Word	_	2	E	2:E	_
-2	Victor	_	Word	Word	_	3	A	3:A	_
-3	acquired	_	Word	Word	_	0	H	0:H	_
-4	his	_	Word	Word	_	5	E	5:E	_
-5	contract	_	Word	Word	_	3	A	3:A	_
-6	in	_	Word	Word	_	9	R	9:R	_
-7	a	_	Word	Word	_	8	E	8:E	_
-8	deal	_	Word	Word	_	9	A	9:A	_
-9	arranged	_	Word	Word	_	3	A	3:A	_
-10	by	_	Word	Word	_	12	R	12:R	_
-11	Colonel	_	Word	Word	_	12	E	12:E	_
-12	Tom	_	Word	Word	_	9	A	9:A	_
-13	Parker	_	Word	Word	_	12	Terminal	12:Terminal	_
-14	,	_	Punctuation	Punctuation	_	12	U	12:U	_
-15	who	_	Word	Word	_	19	F	19:F	_
-16	went	_	Word	Word	_	19	E	19:E	_
-17	on	_	Word	Word	_	16	Terminal	16:Terminal	_
-18	to	_	Word	Word	_	19	F	19:F	_
-19	manage	_	Word	Word	_	12	E	12:E	_
-20	the	_	Word	Word	_	21	E	21:E	_
-21	singer	_	Word	Word	_	19	A	19:A	_
-22	for	_	Word	Word	_	25	R	25:R	_
-23	over	_	Word	Word	_	25	R	25:R	_
-24	two	_	Word	Word	_	25	E	25:E	_
-25	decades	_	Word	Word	_	19	D	19:D	_
-26	.	_	Punctuation	Punctuation	_	25	U	25:U	_
+# text = Presley 's first RCA single , " Heartbreak Hotel " , released in January 1956 , was a number - one hit .
+1	Presley	_	Word	Word	_	2	A	2:A	_
+2	's	_	Word	Word	_	5	E	5:E	_
+3	first	_	Word	Word	_	5	Q	5:Q	_
+4	RCA	_	Word	Word	_	5	E	5:E	_
+5	single	_	Word	Word	_	8	E	8:E	_
+6	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+8	Heartbreak	_	Word	Word	_	22	A	22:A	_
+9	Hotel	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+11	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+12	released	_	Word	Word	_	8	E	8:E	_
+13	in	_	Word	Word	_	14	R	14:R	_
+14	January	_	Word	Word	_	12	T	12:T	_
+15	1956	_	Word	Word	_	14	C	14:C	_
+16	,	_	Punctuation	Punctuation	_	22	U	22:U	_
+17	was	_	Word	Word	_	22	F	22:F	_
+18	a	_	Word	Word	_	22	F	22:F	_
+19	number	_	Word	Word	_	22	D	22:D	_
+20	-	_	Punctuation	Punctuation	_	19	U	19:U	_
+21	one	_	Word	Word	_	19	Q	19:Q	_
+22	hit	_	Word	Word	_	0	H	0:H	_
+23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
 

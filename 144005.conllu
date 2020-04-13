@@ -1,26 +1,26 @@
 # format = ucca
 # sent_id = 144005
 # text = She received an Emmy nomination for 1986 's Mrs . Delafield Wants to Marry , then two years later returned for the comedy Laura Lansing Slept Here , which allowed Hepburn to act with her grandniece , Schuyler Grant .
-1	She	_	Word	Word	_	2	A	2:A|20:A	_
-2	received	_	Word	Word	_	0	H	0:H	_
+1	She	_	Word	Word	_	5	A	5:A|20:A	_
+2	received	_	Word	Word	_	5	D	5:D	_
 3	an	_	Word	Word	_	5	E	5:E	_
-4	Emmy	_	Word	Word	_	5	E	5:E	_
-5	nomination	_	Word	Word	_	2	A	2:A	_
+4	Emmy	_	Word	Word	_	5	A	5:A	_
+5	nomination	_	Word	Word	_	0	H	0:H	_
 6	for	_	Word	Word	_	9	R	9:R	_
 7	1986	_	Word	Word	_	9	E	9:E	_
 8	's	_	Word	Word	_	7	R	7:R	_
-9	Mrs	_	Word	Word	_	2	A	2:A	_
+9	Mrs	_	Word	Word	_	5	A	5:A	_
 10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
 11	Delafield	_	Word	Word	_	9	Terminal	9:Terminal	_
 12	Wants	_	Word	Word	_	9	Terminal	9:Terminal	_
 13	to	_	Word	Word	_	9	Terminal	9:Terminal	_
 14	Marry	_	Word	Word	_	9	Terminal	9:Terminal	_
-15	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+15	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 16	then	_	Word	Word	_	20	L	20:L	_
-17	two	_	Word	Word	_	18	E	18:E	_
-18	years	_	Word	Word	_	20	D	20:D	_
+17	two	_	Word	Word	_	18	Q	18:Q	_
+18	years	_	Word	Word	_	20	T	20:T	_
 19	later	_	Word	Word	_	18	R	18:R	_
-20	returned	_	Word	Word	_	2	H	2:H	_
+20	returned	_	Word	Word	_	5	H	5:H	_
 21	for	_	Word	Word	_	24	R	24:R	_
 22	the	_	Word	Word	_	24	E	24:E	_
 23	comedy	_	Word	Word	_	24	E	24:E	_
@@ -28,14 +28,14 @@
 25	Lansing	_	Word	Word	_	24	Terminal	24:Terminal	_
 26	Slept	_	Word	Word	_	24	Terminal	24:Terminal	_
 27	Here	_	Word	Word	_	24	Terminal	24:Terminal	_
-28	,	_	Punctuation	Punctuation	_	20	U	20:U	_
-29	which	_	Word	Word	_	33	F	33:F	_
+28	,	_	Punctuation	Punctuation	_	33	U	33:U	_
+29	which	_	Word	Word	_	33	R	33:R	_
 30	allowed	_	Word	Word	_	33	D	33:D	_
 31	Hepburn	_	Word	Word	_	33	A	33:A	_
 32	to	_	Word	Word	_	33	F	33:F	_
 33	act	_	Word	Word	_	20	A	20:A	_
 34	with	_	Word	Word	_	38	R	38:R	_
-35	her	_	Word	Word	_	38	E	38:E	_
+35	her	_	Word	Word	_	36	A	36:A	_
 36	grandniece	_	Word	Word	_	38	E	38:E	_
 37	,	_	Punctuation	Punctuation	_	38	U	38:U	_
 38	Schuyler	_	Word	Word	_	33	A	33:A	_

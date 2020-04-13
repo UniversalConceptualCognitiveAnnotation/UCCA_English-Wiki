@@ -1,36 +1,36 @@
 # format = ucca
 # sent_id = 249000
 # text = 2005 saw Hawke star in the action thriller Assault on Precinct 13 , a loose remake of John Carpenter 's 1976 film of the same title , with an updated plot .
-1	2005	_	Word	Word	_	4	D	4:D	_
-2	saw	_	Word	Word	_	1	F	1:F	_
+1	2005	_	Word	Word	_	4	T	4:T	_
+2	saw	_	Word	Word	_	4	F	4:F	_
 3	Hawke	_	Word	Word	_	4	A	4:A	_
 4	star	_	Word	Word	_	0	H	0:H	_
 5	in	_	Word	Word	_	9	R	9:R	_
-6	the	_	Word	Word	_	8	E	8:E	_
-7	action	_	Word	Word	_	8	E	8:E	_
-8	thriller	_	Word	Word	_	9	E	9:E	_
+6	the	_	Word	Word	_	7	F	7:F	_
+7	action	_	Word	Word	_	9	E	9:E	_
+8	thriller	_	Word	Word	_	7	C	7:C	_
 9	Assault	_	Word	Word	_	4	A	4:A	_
 10	on	_	Word	Word	_	9	Terminal	9:Terminal	_
 11	Precinct	_	Word	Word	_	9	Terminal	9:Terminal	_
 12	13	_	Word	Word	_	9	Terminal	9:Terminal	_
 13	,	_	Punctuation	Punctuation	_	9	U	9:U	_
-14	a	_	Word	Word	_	16	E	16:E	_
+14	a	_	Word	Word	_	16	F	16:F	_
 15	loose	_	Word	Word	_	16	E	16:E	_
 16	remake	_	Word	Word	_	9	E	9:E	_
 17	of	_	Word	Word	_	22	R	22:R	_
-18	John	_	Word	Word	_	22	E	22:E	_
+18	John	_	Word	Word	_	20	A	20:A	_
 19	Carpenter	_	Word	Word	_	18	Terminal	18:Terminal	_
-20	's	_	Word	Word	_	18	R	18:R	_
+20	's	_	Word	Word	_	22	E	22:E	_
 21	1976	_	Word	Word	_	22	E	22:E	_
-22	film	_	Word	Word	_	16	A	16:A	_
+22	film	_	Word	Word	_	16	E	16:E	_
 23	of	_	Word	Word	_	26	R	26:R	_
-24	the	_	Word	Word	_	26	E	26:E	_
+24	the	_	Word	Word	_	26	F	26:F	_
 25	same	_	Word	Word	_	26	E	26:E	_
 26	title	_	Word	Word	_	22	E	22:E	_
 27	,	_	Punctuation	Punctuation	_	16	U	16:U	_
 28	with	_	Word	Word	_	31	R	31:R	_
-29	an	_	Word	Word	_	31	E	31:E	_
+29	an	_	Word	Word	_	31	F	31:F	_
 30	updated	_	Word	Word	_	31	E	31:E	_
-31	plot	_	Word	Word	_	16	A	16:A	_
+31	plot	_	Word	Word	_	16	E	16:E	_
 32	.	_	Punctuation	Punctuation	_	31	U	31:U	_
 

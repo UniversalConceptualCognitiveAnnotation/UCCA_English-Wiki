@@ -2,11 +2,11 @@
 # sent_id = 496000
 # text = Because of his lack of commercial success , Bowie was forced to try to earn a living in different ways .
 1	Because	_	Word	Word	_	11	L	11:L	_
-2	of	_	Word	Word	_	3	R	3:R	_
+2	of	_	Word	Word	_	1	Terminal	1:Terminal	_
 3	his	_	Word	Word	_	7	A	7:A	_
 4	lack	_	Word	Word	_	7	D	7:D	_
-5	of	_	Word	Word	_	4	R	4:R	_
-6	commercial	_	Word	Word	_	7	E	7:E	_
+5	of	_	Word	Word	_	7	R	7:R	_
+6	commercial	_	Word	Word	_	7	A	7:A	_
 7	success	_	Word	Word	_	0	H	0:H	_
 8	,	_	Punctuation	Punctuation	_	7	U	7:U	_
 9	Bowie	_	Word	Word	_	11	A	11:A|15:A	_

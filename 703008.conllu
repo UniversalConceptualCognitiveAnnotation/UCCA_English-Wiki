@@ -1,27 +1,27 @@
 # format = ucca
 # sent_id = 703008
 # text = Novelist Rick Moody called it " the truest , most honest account of a love affair from tip to stern ever put down on magnetic tape . "
-1	Novelist	_	Word	Word	_	4	A	4:A	_
-2	Rick	_	Word	Word	_	1	E	1:E	_
+1	Novelist	_	Word	Word	_	2	E	2:E	_
+2	Rick	_	Word	Word	_	4	A	4:A	_
 3	Moody	_	Word	Word	_	2	Terminal	2:Terminal	_
 4	called	_	Word	Word	_	0	H	0:H	_
 5	it	_	Word	Word	_	4	A	4:A	_
 6	"	_	Punctuation	Punctuation	_	4	U	4:U	_
-7	the	_	Word	Word	_	8	E	8:E	_
+7	the	_	Word	Word	_	12	F	12:F	_
 8	truest	_	Word	Word	_	12	D	12:D	_
 9	,	_	Punctuation	Punctuation	_	12	U	12:U	_
 10	most	_	Word	Word	_	11	E	11:E	_
 11	honest	_	Word	Word	_	12	D	12:D	_
 12	account	_	Word	Word	_	22	A	22:A	_
 13	of	_	Word	Word	_	16	R	16:R	_
-14	a	_	Word	Word	_	15	E	15:E	_
+14	a	_	Word	Word	_	16	F	16:F	_
 15	love	_	Word	Word	_	16	A	16:A	_
 16	affair	_	Word	Word	_	12	A	12:A	_
-17	from	_	Word	Word	_	18	R	18:R	_
-18	tip	_	Word	Word	_	12	D	12:D	_
-19	to	_	Word	Word	_	18	R	18:R	_
-20	stern	_	Word	Word	_	18	C	18:C	_
-21	ever	_	Word	Word	_	22	D	22:D	_
+17	from	_	Word	Word	_	12	D	12:D	_
+18	tip	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	to	_	Word	Word	_	17	Terminal	17:Terminal	_
+20	stern	_	Word	Word	_	17	Terminal	17:Terminal	_
+21	ever	_	Word	Word	_	22	T	22:T	_
 22	put	_	Word	Word	_	4	A	4:A	_
 23	down	_	Word	Word	_	22	Terminal	22:Terminal	_
 24	on	_	Word	Word	_	26	R	26:R	_

@@ -2,15 +2,15 @@
 # sent_id = 550014
 # text = In the 1960s , she insisted that , despite his reputation for ruthlessness , Jack Warner had a softer side .
 1	In	_	Word	Word	_	3	R	3:R	_
-2	the	_	Word	Word	_	3	E	3:E	_
-3	1960s	_	Word	Word	_	6	D	6:D	_
+2	the	_	Word	Word	_	3	F	3:F	_
+3	1960s	_	Word	Word	_	6	T	6:T	_
 4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 5	she	_	Word	Word	_	6	A	6:A	_
 6	insisted	_	Word	Word	_	0	H	0:H	_
-7	that	_	Word	Word	_	11	F	11:F	_
+7	that	_	Word	Word	_	11	R	11:R	_
 8	,	_	Punctuation	Punctuation	_	11	U	11:U	_
 9	despite	_	Word	Word	_	17	L	17:L	_
-10	his	_	Word	Word	_	11	A	11:A	_
+10	his	_	Word	Word	_	11	A	11:A|13:A	_
 11	reputation	_	Word	Word	_	6	A	6:A	_
 12	for	_	Word	Word	_	13	R	13:R	_
 13	ruthlessness	_	Word	Word	_	11	A	11:A	_
@@ -18,7 +18,7 @@
 15	Jack	_	Word	Word	_	17	A	17:A	_
 16	Warner	_	Word	Word	_	15	Terminal	15:Terminal	_
 17	had	_	Word	Word	_	11	H	11:H	_
-18	a	_	Word	Word	_	20	E	20:E	_
+18	a	_	Word	Word	_	20	F	20:F	_
 19	softer	_	Word	Word	_	20	E	20:E	_
 20	side	_	Word	Word	_	17	A	17:A	_
 21	.	_	Punctuation	Punctuation	_	20	U	20:U	_

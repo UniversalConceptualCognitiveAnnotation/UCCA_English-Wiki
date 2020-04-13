@@ -1,26 +1,26 @@
 # format = ucca
 # sent_id = 134002
 # text = Her only appearance in 1943 was a cameo in the morale - building wartime film Stage Door Canteen , playing herself .
-1	Her	_	Word	Word	_	3	A	3:A	_
+1	Her	_	Word	Word	_	3	A	3:A|8:A|20:A	_
 2	only	_	Word	Word	_	3	D	3:D	_
 3	appearance	_	Word	Word	_	6	A	6:A	_
 4	in	_	Word	Word	_	5	R	5:R	_
-5	1943	_	Word	Word	_	3	D	3:D	_
+5	1943	_	Word	Word	_	3	T	3:T	_
 6	was	_	Word	Word	_	0	H	0:H	_
-7	a	_	Word	Word	_	8	E	8:E	_
-8	cameo	_	Word	Word	_	16	E	16:E	_
-9	in	_	Word	Word	_	8	R	8:R	_
-10	the	_	Word	Word	_	16	E	16:E	_
-11	morale	_	Word	Word	_	13	E	13:E	_
+7	a	_	Word	Word	_	8	F	8:F	_
+8	cameo	_	Word	Word	_	6	A	6:A	_
+9	in	_	Word	Word	_	16	R	16:R	_
+10	the	_	Word	Word	_	16	F	16:F	_
+11	morale	_	Word	Word	_	13	A	13:A	_
 12	-	_	Punctuation	Punctuation	_	13	U	13:U	_
 13	building	_	Word	Word	_	15	E	15:E	_
 14	wartime	_	Word	Word	_	15	E	15:E	_
 15	film	_	Word	Word	_	16	E	16:E	_
-16	Stage	_	Word	Word	_	20	A	20:A	_
+16	Stage	_	Word	Word	_	8	A	8:A	_
 17	Door	_	Word	Word	_	16	Terminal	16:Terminal	_
 18	Canteen	_	Word	Word	_	16	Terminal	16:Terminal	_
-19	,	_	Punctuation	Punctuation	_	20	U	20:U	_
-20	playing	_	Word	Word	_	6	A	6:A	_
+19	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+20	playing	_	Word	Word	_	8	E	8:E	_
 21	herself	_	Word	Word	_	20	A	20:A	_
 22	.	_	Punctuation	Punctuation	_	20	U	20:U	_
 

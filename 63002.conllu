@@ -1,38 +1,34 @@
 # format = ucca
 # sent_id = 63002
-# text = The same year , Pitt co - starred in six episodes of the short - lived Fox drama Glory Days , and took a supporting role in the HBO television movie The Image .
+# text = The same year , Pitt co-starred in six episodes of the short-lived Fox drama Glory Days , and took a supporting role in the HBO television movie The Image .
 1	The	_	Word	Word	_	3	E	3:E	_
 2	same	_	Word	Word	_	3	E	3:E	_
-3	year	_	Word	Word	_	8	D	8:D|26:D	_
-4	,	_	Punctuation	Punctuation	_	8	U	8:U	_
-5	Pitt	_	Word	Word	_	8	A	8:A|26:A	_
-6	co	_	Word	Word	_	8	E	8:E	_
-7	-	_	Punctuation	Punctuation	_	8	U	8:U	_
-8	starred	_	Word	Word	_	0	H	0:H	_
-9	in	_	Word	Word	_	19	R	19:R	_
-10	six	_	Word	Word	_	11	E	11:E	_
-11	episodes	_	Word	Word	_	19	E	19:E	_
-12	of	_	Word	Word	_	11	R	11:R	_
-13	the	_	Word	Word	_	19	E	19:E	_
-14	short	_	Word	Word	_	19	E	19:E	_
-15	-	_	Punctuation	Punctuation	_	14	U	14:U	_
-16	lived	_	Word	Word	_	14	Terminal	14:Terminal	_
-17	Fox	_	Word	Word	_	19	E	19:E	_
-18	drama	_	Word	Word	_	19	E	19:E	_
-19	Glory	_	Word	Word	_	8	A	8:A	_
-20	Days	_	Word	Word	_	19	Terminal	19:Terminal	_
-21	,	_	Punctuation	Punctuation	_	8	U	8:U	_
-22	and	_	Word	Word	_	26	L	26:L	_
-23	took	_	Word	Word	_	26	F	26:F	_
-24	a	_	Word	Word	_	26	E	26:E	_
-25	supporting	_	Word	Word	_	26	E	26:E	_
-26	role	_	Word	Word	_	8	H	8:H	_
-27	in	_	Word	Word	_	32	R	32:R	_
-28	the	_	Word	Word	_	32	E	32:E	_
-29	HBO	_	Word	Word	_	32	E	32:E	_
-30	television	_	Word	Word	_	31	E	31:E	_
-31	movie	_	Word	Word	_	32	E	32:E	_
-32	The	_	Word	Word	_	26	A	26:A	_
-33	Image	_	Word	Word	_	32	Terminal	32:Terminal	_
-34	.	_	Punctuation	Punctuation	_	32	U	32:U	_
+3	year	_	Word	Word	_	6	T	6:T	_
+4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	Pitt	_	Word	Word	_	6	A	6:A|22:A	_
+6	co-starred	_	Word	Word	_	0	H	0:H	_
+7	in	_	Word	Word	_	15	R	15:R	_
+8	six	_	Word	Word	_	9	Q	9:Q	_
+9	episodes	_	Word	Word	_	15	Q	15:Q	_
+10	of	_	Word	Word	_	15	R	15:R	_
+11	the	_	Word	Word	_	14	E	14:E	_
+12	short-lived	_	Word	Word	_	14	E	14:E	_
+13	Fox	_	Word	Word	_	14	E	14:E	_
+14	drama	_	Word	Word	_	15	E	15:E	_
+15	Glory	_	Word	Word	_	6	A	6:A	_
+16	Days	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+18	and	_	Word	Word	_	22	L	22:L	_
+19	took	_	Word	Word	_	22	F	22:F	_
+20	a	_	Word	Word	_	22	E	22:E	_
+21	supporting	_	Word	Word	_	22	A	22:A	_
+22	role	_	Word	Word	_	6	H	6:H	_
+23	in	_	Word	Word	_	28	R	28:R	_
+24	the	_	Word	Word	_	27	E	27:E	_
+25	HBO	_	Word	Word	_	27	E	27:E	_
+26	television	_	Word	Word	_	27	E	27:E	_
+27	movie	_	Word	Word	_	28	E	28:E	_
+28	The	_	Word	Word	_	22	A	22:A	_
+29	Image	_	Word	Word	_	28	Terminal	28:Terminal	_
+30	.	_	Punctuation	Punctuation	_	28	U	28:U	_
 

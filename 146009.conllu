@@ -1,33 +1,33 @@
 # format = ucca
 # sent_id = 146009
 # text = The anti - communist hysteria in 1940s Hollywood prompted her to political activity , and she made a speech against censorship in May 1947 that shocked the public .
-1	The	_	Word	Word	_	5	E	5:E	_
-2	anti	_	Word	Word	_	4	E	4:E	_
+1	The	_	Word	Word	_	5	F	5:F	_
+2	anti	_	Word	Word	_	4	R	4:R	_
 3	-	_	Punctuation	Punctuation	_	4	U	4:U	_
-4	communist	_	Word	Word	_	5	E	5:E	_
-5	hysteria	_	Word	Word	_	9	A	9:A	_
+4	communist	_	Word	Word	_	5	A	5:A	_
+5	hysteria	_	Word	Word	_	13	A	13:A	_
 6	in	_	Word	Word	_	8	R	8:R	_
-7	1940s	_	Word	Word	_	8	E	8:E	_
-8	Hollywood	_	Word	Word	_	5	E	5:E	_
-9	prompted	_	Word	Word	_	0	H	0:H	_
-10	her	_	Word	Word	_	9	A	9:A	_
-11	to	_	Word	Word	_	13	F	13:F	_
-12	political	_	Word	Word	_	13	E	13:E	_
-13	activity	_	Word	Word	_	9	A	9:A	_
-14	,	_	Punctuation	Punctuation	_	9	U	9:U	_
-15	and	_	Word	Word	_	19	L	19:L	_
+7	1940s	_	Word	Word	_	5	T	5:T	_
+8	Hollywood	_	Word	Word	_	5	A	5:A	_
+9	prompted	_	Word	Word	_	13	D	13:D	_
+10	her	_	Word	Word	_	13	A	13:A	_
+11	to	_	Word	Word	_	13	R	13:R	_
+12	political	_	Word	Word	_	13	A	13:A	_
+13	activity	_	Word	Word	_	0	H	0:H	_
+14	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+15	and	_	Word	Word	_	26	L	26:L	_
 16	she	_	Word	Word	_	19	A	19:A	_
 17	made	_	Word	Word	_	19	F	19:F	_
 18	a	_	Word	Word	_	19	E	19:E	_
-19	speech	_	Word	Word	_	9	H	9:H	_
+19	speech	_	Word	Word	_	0	C	0:C|26:A	_
 20	against	_	Word	Word	_	21	R	21:R	_
-21	censorship	_	Word	Word	_	19	E	19:E	_
+21	censorship	_	Word	Word	_	19	A	19:A	_
 22	in	_	Word	Word	_	23	R	23:R	_
-23	May	_	Word	Word	_	19	D	19:D	_
-24	1947	_	Word	Word	_	23	Terminal	23:Terminal	_
-25	that	_	Word	Word	_	26	R	26:R	_
-26	shocked	_	Word	Word	_	19	A	19:A	_
-27	the	_	Word	Word	_	28	E	28:E	_
+23	May	_	Word	Word	_	19	T	19:T	_
+24	1947	_	Word	Word	_	23	C	23:C	_
+25	that	_	Word	Word	_	26	L	26:L	_
+26	shocked	_	Word	Word	_	13	H	13:H	_
+27	the	_	Word	Word	_	28	F	28:F	_
 28	public	_	Word	Word	_	26	A	26:A	_
 29	.	_	Punctuation	Punctuation	_	28	U	28:U	_
 

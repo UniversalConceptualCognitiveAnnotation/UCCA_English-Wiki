@@ -1,21 +1,21 @@
 # format = ucca
 # sent_id = 474016
 # text = While Johnson played well in 1996 , there were struggles both on and off the court .
-1	While	_	Word	Word	_	9	L	9:L	_
+1	While	_	Word	Word	_	10	L	10:L	_
 2	Johnson	_	Word	Word	_	3	A	3:A	_
 3	played	_	Word	Word	_	0	H	0:H	_
 4	well	_	Word	Word	_	3	D	3:D	_
 5	in	_	Word	Word	_	6	R	6:R	_
-6	1996	_	Word	Word	_	3	D	3:D	_
+6	1996	_	Word	Word	_	3	T	3:T	_
 7	,	_	Punctuation	Punctuation	_	3	U	3:U	_
-8	there	_	Word	Word	_	9	F	9:F	_
-9	were	_	Word	Word	_	3	H	3:H	_
-10	struggles	_	Word	Word	_	9	A	9:A	_
+8	there	_	Word	Word	_	10	F	10:F	_
+9	were	_	Word	Word	_	10	F	10:F	_
+10	struggles	_	Word	Word	_	3	H	3:H	_
 11	both	_	Word	Word	_	12	N	12:N	_
-12	on	_	Word	Word	_	16	E	16:E	_
+12	on	_	Word	Word	_	16	R	16:R	_
 13	and	_	Word	Word	_	12	N	12:N	_
 14	off	_	Word	Word	_	12	C	12:C	_
-15	the	_	Word	Word	_	16	E	16:E	_
-16	court	_	Word	Word	_	9	A	9:A	_
+15	the	_	Word	Word	_	16	F	16:F	_
+16	court	_	Word	Word	_	10	A	10:A	_
 17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
 

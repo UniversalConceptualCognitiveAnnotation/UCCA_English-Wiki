@@ -1,40 +1,16 @@
 # format = ucca
 # sent_id = 530010
-# text = She was told by doctors that she likely had five years or less to live , and that even if she did survive she would be a semi - invalid and would never sing again .
-1	She	_	Word	Word	_	3	A	3:A	_
-2	was	_	Word	Word	_	3	F	3:F	_
-3	told	_	Word	Word	_	0	H	0:H	_
-4	by	_	Word	Word	_	5	R	5:R	_
-5	doctors	_	Word	Word	_	3	A	3:A	_
-6	that	_	Word	Word	_	15	R	15:R	_
-7	she	_	Word	Word	_	15	A	15:A	_
-8	likely	_	Word	Word	_	15	D	15:D	_
-9	had	_	Word	Word	_	15	F	15:F	_
-10	five	_	Word	Word	_	11	E	11:E	_
-11	years	_	Word	Word	_	15	D	15:D	_
-12	or	_	Word	Word	_	10	N	10:N	_
-13	less	_	Word	Word	_	10	C	10:C	_
-14	to	_	Word	Word	_	15	F	15:F	_
-15	live	_	Word	Word	_	3	A	3:A	_
-16	,	_	Punctuation	Punctuation	_	15	U	15:U	_
-17	and	_	Word	Word	_	23	L	23:L	_
-18	that	_	Word	Word	_	20	F	20:F	_
-19	even	_	Word	Word	_	20	E	20:E	_
-20	if	_	Word	Word	_	23	L	23:L	_
-21	she	_	Word	Word	_	23	A	23:A|34:A	_
-22	did	_	Word	Word	_	23	F	23:F	_
-23	survive	_	Word	Word	_	15	H	15:H	_
-24	she	_	Word	Word	_	30	A	30:A	_
-25	would	_	Word	Word	_	30	F	30:F	_
-26	be	_	Word	Word	_	30	D	30:D	_
-27	a	_	Word	Word	_	30	E	30:E	_
-28	semi	_	Word	Word	_	30	E	30:E	_
-29	-	_	Punctuation	Punctuation	_	30	U	30:U	_
-30	invalid	_	Word	Word	_	15	H	15:H	_
-31	and	_	Word	Word	_	34	L	34:L	_
-32	would	_	Word	Word	_	34	F	34:F	_
-33	never	_	Word	Word	_	34	D	34:D	_
-34	sing	_	Word	Word	_	15	H	15:H	_
-35	again	_	Word	Word	_	34	D	34:D	_
-36	.	_	Punctuation	Punctuation	_	34	U	34:U	_
+# text = She initially felt " greatly relieved " at the diagnosis . "
+1	She	_	Word	Word	_	6	A	6:A	_
+2	initially	_	Word	Word	_	6	D	6:D	_
+3	felt	_	Word	Word	_	6	D	6:D	_
+4	"	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	greatly	_	Word	Word	_	6	D	6:D	_
+6	relieved	_	Word	Word	_	0	H	0:H	_
+7	"	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	at	_	Word	Word	_	10	R	10:R	_
+9	the	_	Word	Word	_	10	F	10:F	_
+10	diagnosis	_	Word	Word	_	6	A	6:A	_
+11	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	"	_	Punctuation	Punctuation	_	10	U	10:U	_
 

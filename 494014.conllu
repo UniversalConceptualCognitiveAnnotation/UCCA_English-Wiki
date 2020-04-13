@@ -6,8 +6,8 @@
 3	to	_	Word	Word	_	11	R	11:R	_
 4	the	_	Word	Word	_	10	E	10:E	_
 5	newly	_	Word	Word	_	6	E	6:E	_
-6	successful	_	Word	Word	_	10	E	10:E	_
-7	washing	_	Word	Word	_	10	E	10:E	_
+6	successful	_	Word	Word	_	10	D	10:D	_
+7	washing	_	Word	Word	_	10	A	10:A	_
 8	-	_	Punctuation	Punctuation	_	7	U	7:U	_
 9	machine	_	Word	Word	_	7	Terminal	7:Terminal	_
 10	entrepreneur	_	Word	Word	_	11	E	11:E	_
@@ -20,11 +20,11 @@
 17	do	_	Word	Word	_	13	A	13:A	_
 18	for	_	Word	Word	_	19	R	19:R	_
 19	us	_	Word	Word	_	17	A	17:A	_
-20	what	_	Word	Word	_	24	F	24:F	_
+20	what	_	Word	Word	_	17	A	17:A	_
 21	Brian	_	Word	Word	_	24	A	24:A	_
 22	Epstein	_	Word	Word	_	21	Terminal	21:Terminal	_
 23	has	_	Word	Word	_	24	F	24:F	_
-24	done	_	Word	Word	_	17	A	17:A	_
+24	done	_	Word	Word	_	20	E	20:E	_
 25	for	_	Word	Word	_	27	R	27:R	_
 26	the	_	Word	Word	_	27	E	27:E	_
 27	Beatles	_	Word	Word	_	24	A	24:A	_

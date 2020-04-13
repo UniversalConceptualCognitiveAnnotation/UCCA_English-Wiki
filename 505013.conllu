@@ -1,26 +1,26 @@
 # format = ucca
 # sent_id = 505013
 # text = Modern Love " and " China Girl " made number two in the UK , accompanied by a pair of acclaimed promotional videos that , as described by biographer David Buckley , " were totally absorbing and activated key archetypes in the pop world . '
-1	Modern	_	Word	Word	_	9	A	9:A|16:A	_
+1	Modern	_	Word	Word	_	10	A	10:A|16:A	_
 2	Love	_	Word	Word	_	1	Terminal	1:Terminal	_
 3	"	_	Punctuation	Punctuation	_	1	U	1:U	_
 4	and	_	Word	Word	_	1	N	1:N	_
 5	"	_	Punctuation	Punctuation	_	1	U	1:U	_
 6	China	_	Word	Word	_	1	C	1:C	_
 7	Girl	_	Word	Word	_	6	Terminal	6:Terminal	_
-8	"	_	Punctuation	Punctuation	_	9	U	9:U	_
-9	made	_	Word	Word	_	0	H	0:H	_
-10	number	_	Word	Word	_	9	A	9:A	_
-11	two	_	Word	Word	_	10	E	10:E	_
+8	"	_	Punctuation	Punctuation	_	10	U	10:U	_
+9	made	_	Word	Word	_	10	D	10:D	_
+10	number	_	Word	Word	_	0	H	0:H	_
+11	two	_	Word	Word	_	10	Q	10:Q	_
 12	in	_	Word	Word	_	14	R	14:R	_
 13	the	_	Word	Word	_	14	E	14:E	_
-14	UK	_	Word	Word	_	9	A	9:A	_
-15	,	_	Punctuation	Punctuation	_	9	U	9:U	_
-16	accompanied	_	Word	Word	_	9	H	9:H	_
+14	UK	_	Word	Word	_	10	A	10:A	_
+15	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+16	accompanied	_	Word	Word	_	10	H	10:H	_
 17	by	_	Word	Word	_	23	R	23:R	_
 18	a	_	Word	Word	_	19	E	19:E	_
-19	pair	_	Word	Word	_	23	E	23:E	_
-20	of	_	Word	Word	_	19	R	19:R	_
+19	pair	_	Word	Word	_	23	Q	23:Q	_
+20	of	_	Word	Word	_	23	F	23:F	_
 21	acclaimed	_	Word	Word	_	23	E	23:E	_
 22	promotional	_	Word	Word	_	23	E	23:E	_
 23	videos	_	Word	Word	_	16	A	16:A	_
@@ -30,7 +30,7 @@
 27	described	_	Word	Word	_	23	E	23:E	_
 28	by	_	Word	Word	_	29	R	29:R	_
 29	biographer	_	Word	Word	_	27	A	27:A	_
-30	David	_	Word	Word	_	29	E	29:E	_
+30	David	_	Word	Word	_	29	A	29:A	_
 31	Buckley	_	Word	Word	_	30	Terminal	30:Terminal	_
 32	,	_	Punctuation	Punctuation	_	27	U	27:U	_
 33	"	_	Punctuation	Punctuation	_	27	U	27:U	_

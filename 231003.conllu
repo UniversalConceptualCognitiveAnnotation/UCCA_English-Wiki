@@ -2,26 +2,26 @@
 # sent_id = 231003
 # text = In 2000 , Chan hosted a fictionalised version of himself in the animated series Jackie Chan Adventures , which ran until 2005 .
 1	In	_	Word	Word	_	2	R	2:R	_
-2	2000	_	Word	Word	_	5	D	5:D	_
+2	2000	_	Word	Word	_	5	T	5:T	_
 3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 4	Chan	_	Word	Word	_	5	A	5:A	_
 5	hosted	_	Word	Word	_	0	H	0:H	_
-6	a	_	Word	Word	_	8	E	8:E	_
+6	a	_	Word	Word	_	8	F	8:F	_
 7	fictionalised	_	Word	Word	_	8	E	8:E	_
 8	version	_	Word	Word	_	5	A	5:A	_
 9	of	_	Word	Word	_	10	R	10:R	_
 10	himself	_	Word	Word	_	8	E	8:E	_
 11	in	_	Word	Word	_	15	R	15:R	_
-12	the	_	Word	Word	_	15	E	15:E	_
+12	the	_	Word	Word	_	15	F	15:F	_
 13	animated	_	Word	Word	_	14	E	14:E	_
 14	series	_	Word	Word	_	15	E	15:E	_
 15	Jackie	_	Word	Word	_	5	A	5:A	_
 16	Chan	_	Word	Word	_	15	Terminal	15:Terminal	_
 17	Adventures	_	Word	Word	_	15	Terminal	15:Terminal	_
 18	,	_	Punctuation	Punctuation	_	15	U	15:U	_
-19	which	_	Word	Word	_	20	F	20:F	_
+19	which	_	Word	Word	_	20	R	20:R	_
 20	ran	_	Word	Word	_	15	E	15:E	_
 21	until	_	Word	Word	_	22	R	22:R	_
-22	2005	_	Word	Word	_	20	D	20:D	_
+22	2005	_	Word	Word	_	20	T	20:T	_
 23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
 

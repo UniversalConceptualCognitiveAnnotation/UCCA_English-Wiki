@@ -1,33 +1,22 @@
 # format = ucca
 # sent_id = 376009
-# text = Gyllenhaal 's father , who was raised as a Swedenborgian , is of Swedish and English descent , and is a descendant of the Swedish noble Gyllenhaal family .
-1	Gyllenhaal	_	Word	Word	_	3	E	3:E	_
+# text = Jake 's last native Swedish ancestor was his great - great - grandfather , Anders Leonard Gyllenhaal .
+1	Jake	_	Word	Word	_	7	A	7:A	_
 2	's	_	Word	Word	_	1	R	1:R	_
-3	father	_	Word	Word	_	0	C	0:C|7:A|20:A	_
-4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
-5	who	_	Word	Word	_	7	G	7:G	_
-6	was	_	Word	Word	_	7	F	7:F	_
-7	raised	_	Word	Word	_	3	E	3:E	_
-8	as	_	Word	Word	_	10	R	10:R	_
-9	a	_	Word	Word	_	10	E	10:E	_
-10	Swedenborgian	_	Word	Word	_	7	A	7:A	_
-11	,	_	Punctuation	Punctuation	_	12	U	12:U	_
-12	is	_	Word	Word	_	0	H	0:H	_
-13	of	_	Word	Word	_	17	R	17:R	_
-14	Swedish	_	Word	Word	_	17	E	17:E	_
-15	and	_	Word	Word	_	14	N	14:N	_
-16	English	_	Word	Word	_	14	C	14:C	_
-17	descent	_	Word	Word	_	12	A	12:A	_
-18	,	_	Punctuation	Punctuation	_	12	U	12:U	_
-19	and	_	Word	Word	_	20	L	20:L	_
-20	is	_	Word	Word	_	12	H	12:H	_
-21	a	_	Word	Word	_	22	E	22:E	_
-22	descendant	_	Word	Word	_	20	A	20:A	_
-23	of	_	Word	Word	_	28	R	28:R	_
-24	the	_	Word	Word	_	28	E	28:E	_
-25	Swedish	_	Word	Word	_	28	E	28:E	_
-26	noble	_	Word	Word	_	28	E	28:E	_
-27	Gyllenhaal	_	Word	Word	_	28	E	28:E	_
-28	family	_	Word	Word	_	22	E	22:E	_
-29	.	_	Punctuation	Punctuation	_	28	U	28:U	_
+3	last	_	Word	Word	_	1	E	1:E	_
+4	native	_	Word	Word	_	1	E	1:E	_
+5	Swedish	_	Word	Word	_	1	E	1:E	_
+6	ancestor	_	Word	Word	_	1	A	1:A|5:A	_
+7	was	_	Word	Word	_	0	H	0:H	_
+8	his	_	Word	Word	_	13	A	13:A	_
+9	great	_	Word	Word	_	13	D	13:D	_
+10	-	_	Punctuation	Punctuation	_	9	U	9:U	_
+11	great	_	Word	Word	_	9	C	9:C	_
+12	-	_	Punctuation	Punctuation	_	13	U	13:U	_
+13	grandfather	_	Word	Word	_	15	E	15:E	_
+14	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+15	Anders	_	Word	Word	_	7	A	7:A	_
+16	Leonard	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	Gyllenhaal	_	Word	Word	_	15	Terminal	15:Terminal	_
+18	.	_	Punctuation	Punctuation	_	15	U	15:U	_
 

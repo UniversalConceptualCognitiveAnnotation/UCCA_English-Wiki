@@ -2,7 +2,7 @@
 # sent_id = 489005
 # text = In 2006 , Bana was invited to join the Academy of Motion Picture Arts and Sciences .
 1	In	_	Word	Word	_	2	R	2:R	_
-2	2006	_	Word	Word	_	6	D	6:D	_
+2	2006	_	Word	Word	_	6	T	6:T	_
 3	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 4	Bana	_	Word	Word	_	6	A	6:A|8:A	_
 5	was	_	Word	Word	_	6	F	6:F	_
@@ -11,10 +11,10 @@
 8	join	_	Word	Word	_	6	A	6:A	_
 9	the	_	Word	Word	_	10	E	10:E	_
 10	Academy	_	Word	Word	_	8	A	8:A	_
-11	of	_	Word	Word	_	14	R	14:R	_
+11	of	_	Word	Word	_	13	R	13:R	_
 12	Motion	_	Word	Word	_	13	E	13:E	_
-13	Picture	_	Word	Word	_	14	E	14:E	_
-14	Arts	_	Word	Word	_	10	E	10:E	_
+13	Picture	_	Word	Word	_	10	E	10:E	_
+14	Arts	_	Word	Word	_	13	E	13:E	_
 15	and	_	Word	Word	_	14	N	14:N	_
 16	Sciences	_	Word	Word	_	14	C	14:C	_
 17	.	_	Punctuation	Punctuation	_	14	U	14:U	_

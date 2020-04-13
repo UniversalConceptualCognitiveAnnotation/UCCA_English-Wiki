@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 245001
 # text = The film was critically well - received ; the Variety reviewer wrote " Hawke ... gives a haunting performance . "
-1	The	_	Word	Word	_	2	E	2:E	_
+1	The	_	Word	Word	_	2	F	2:F	_
 2	film	_	Word	Word	_	7	A	7:A	_
 3	was	_	Word	Word	_	7	F	7:F	_
 4	critically	_	Word	Word	_	7	A	7:A	_
@@ -9,17 +9,17 @@
 6	-	_	Punctuation	Punctuation	_	7	U	7:U	_
 7	received	_	Word	Word	_	0	H	0:H	_
 8	;	_	Punctuation	Punctuation	_	7	U	7:U	_
-9	the	_	Word	Word	_	11	E	11:E	_
-10	Variety	_	Word	Word	_	11	E	11:E	_
-11	reviewer	_	Word	Word	_	12	A	12:A	_
+9	the	_	Word	Word	_	10	F	10:F	_
+10	Variety	_	Word	Word	_	12	A	12:A	_
+11	reviewer	_	Word	Word	_	10	A	10:A	_
 12	wrote	_	Word	Word	_	7	H	7:H	_
 13	"	_	Punctuation	Punctuation	_	12	U	12:U	_
-14	Hawke	_	Word	Word	_	16	A	16:A	_
-15	...	_	Punctuation	Punctuation	_	16	U	16:U	_
-16	gives	_	Word	Word	_	12	A	12:A	_
-17	a	_	Word	Word	_	19	E	19:E	_
-18	haunting	_	Word	Word	_	19	E	19:E	_
-19	performance	_	Word	Word	_	16	A	16:A	_
+14	Hawke	_	Word	Word	_	19	A	19:A	_
+15	...	_	Punctuation	Punctuation	_	19	U	19:U	_
+16	gives	_	Word	Word	_	19	F	19:F	_
+17	a	_	Word	Word	_	19	F	19:F	_
+18	haunting	_	Word	Word	_	19	D	19:D	_
+19	performance	_	Word	Word	_	12	A	12:A	_
 20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
 21	"	_	Punctuation	Punctuation	_	19	U	19:U	_
 

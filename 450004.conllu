@@ -6,8 +6,8 @@
 3	academically	_	Word	Word	_	2	D	2:D	_
 4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 5	and	_	Word	Word	_	8	L	8:L	_
-6	Jennings	_	Word	Word	_	8	A	8:A|24:A	_
-7	later	_	Word	Word	_	8	D	8:D	_
+6	Jennings	_	Word	Word	_	8	A	8:A|16:A|24:A	_
+7	later	_	Word	Word	_	8	L	8:L	_
 8	surmised	_	Word	Word	_	2	H	2:H	_
 9	that	_	Word	Word	_	16	R	16:R	_
 10	it	_	Word	Word	_	16	F	16:F	_
@@ -18,7 +18,7 @@
 15	pure	_	Word	Word	_	16	D	16:D	_
 16	boredom	_	Word	Word	_	8	A	8:A	_
 17	"	_	Punctuation	Punctuation	_	16	U	16:U	_
-18	that	_	Word	Word	_	20	F	20:F	_
+18	that	_	Word	Word	_	20	R	20:R	_
 19	he	_	Word	Word	_	20	A	20:A	_
 20	failed	_	Word	Word	_	16	H	16:H	_
 21	10th	_	Word	Word	_	22	E	22:E	_

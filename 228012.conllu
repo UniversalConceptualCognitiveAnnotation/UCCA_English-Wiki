@@ -1,9 +1,9 @@
 # format = ucca
 # sent_id = 228012
 # text = In Chan 's next movie , Shaolin , he plays the cook of the temple instead of one of the major characters .
-1	In	_	Word	Word	_	7	E	7:E	_
-2	Chan	_	Word	Word	_	7	E	7:E	_
-3	's	_	Word	Word	_	2	R	2:R	_
+1	In	_	Word	Word	_	7	R	7:R	_
+2	Chan	_	Word	Word	_	3	A	3:A	_
+3	's	_	Word	Word	_	7	E	7:E	_
 4	next	_	Word	Word	_	7	E	7:E	_
 5	movie	_	Word	Word	_	7	E	7:E	_
 6	,	_	Punctuation	Punctuation	_	7	U	7:U	_
@@ -11,16 +11,16 @@
 8	,	_	Punctuation	Punctuation	_	10	U	10:U	_
 9	he	_	Word	Word	_	10	A	10:A	_
 10	plays	_	Word	Word	_	0	H	0:H	_
-11	the	_	Word	Word	_	12	E	12:E	_
+11	the	_	Word	Word	_	12	F	12:F	_
 12	cook	_	Word	Word	_	10	A	10:A	_
 13	of	_	Word	Word	_	15	R	15:R	_
-14	the	_	Word	Word	_	15	E	15:E	_
-15	temple	_	Word	Word	_	12	E	12:E	_
+14	the	_	Word	Word	_	15	F	15:F	_
+15	temple	_	Word	Word	_	12	A	12:A	_
 16	instead	_	Word	Word	_	22	R	22:R	_
-17	of	_	Word	Word	_	16	F	16:F	_
-18	one	_	Word	Word	_	22	E	22:E	_
+17	of	_	Word	Word	_	16	R	16:R	_
+18	one	_	Word	Word	_	22	Q	22:Q	_
 19	of	_	Word	Word	_	18	R	18:R	_
-20	the	_	Word	Word	_	22	E	22:E	_
+20	the	_	Word	Word	_	22	F	22:F	_
 21	major	_	Word	Word	_	22	E	22:E	_
 22	characters	_	Word	Word	_	10	A	10:A	_
 23	.	_	Punctuation	Punctuation	_	22	U	22:U	_

@@ -2,9 +2,9 @@
 # sent_id = 618009
 # text = In 1979 , McCartney signed with Columbia Records in the US and Canada reportedly receiving the industry 's most lucrative recording contract to date , while remaining with EMI for distribution throughout the rest of the world .
 1	In	_	Word	Word	_	2	R	2:R	_
-2	1979	_	Word	Word	_	5	D	5:D	_
+2	1979	_	Word	Word	_	5	T	5:T	_
 3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
-4	McCartney	_	Word	Word	_	5	A	5:A|15:A|27:A	_
+4	McCartney	_	Word	Word	_	5	A	5:A|15:A|27:A|31:A	_
 5	signed	_	Word	Word	_	0	H	0:H	_
 6	with	_	Word	Word	_	8	R	8:R	_
 7	Columbia	_	Word	Word	_	8	E	8:E	_
@@ -14,12 +14,12 @@
 11	US	_	Word	Word	_	5	A	5:A	_
 12	and	_	Word	Word	_	11	N	11:N	_
 13	Canada	_	Word	Word	_	11	C	11:C	_
-14	reportedly	_	Word	Word	_	15	D	15:D	_
+14	reportedly	_	Word	Word	_	15	G	15:G	_
 15	receiving	_	Word	Word	_	5	H	5:H	_
 16	the	_	Word	Word	_	17	E	17:E	_
 17	industry	_	Word	Word	_	22	E	22:E	_
 18	's	_	Word	Word	_	17	R	17:R	_
-19	most	_	Word	Word	_	20	E	20:E	_
+19	most	_	Word	Word	_	20	D	20:D	_
 20	lucrative	_	Word	Word	_	22	E	22:E	_
 21	recording	_	Word	Word	_	22	E	22:E	_
 22	contract	_	Word	Word	_	15	A	15:A	_
@@ -34,9 +34,9 @@
 31	distribution	_	Word	Word	_	27	A	27:A	_
 32	throughout	_	Word	Word	_	37	R	37:R	_
 33	the	_	Word	Word	_	34	E	34:E	_
-34	rest	_	Word	Word	_	37	E	37:E	_
-35	of	_	Word	Word	_	34	R	34:R	_
+34	rest	_	Word	Word	_	37	Q	37:Q	_
+35	of	_	Word	Word	_	37	R	37:R	_
 36	the	_	Word	Word	_	37	E	37:E	_
-37	world	_	Word	Word	_	31	E	31:E	_
+37	world	_	Word	Word	_	31	A	31:A	_
 38	.	_	Punctuation	Punctuation	_	37	U	37:U	_
 

@@ -3,9 +3,9 @@
 # text = Also in 2008 , he performed at a concert in Liverpool to celebrate the city 's year as European Capital of Culture .
 1	Also	_	Word	Word	_	9	L	9:L	_
 2	in	_	Word	Word	_	3	R	3:R	_
-3	2008	_	Word	Word	_	6	D	6:D	_
+3	2008	_	Word	Word	_	6	T	6:T	_
 4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
-5	he	_	Word	Word	_	6	A	6:A|13:A	_
+5	he	_	Word	Word	_	6	A	6:A|9:A|13:A	_
 6	performed	_	Word	Word	_	0	H	0:H	_
 7	at	_	Word	Word	_	9	L	9:L	_
 8	a	_	Word	Word	_	9	E	9:E	_

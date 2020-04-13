@@ -1,31 +1,14 @@
 # format = ucca
 # sent_id = 104004
-# text = She also began experimenting with drugs ; by the age of 20 , she had tried " just about every drug possible , " including heroin .
-1	She	_	Word	Word	_	4	A	4:A|12:A	_
-2	also	_	Word	Word	_	4	D	4:D	_
-3	began	_	Word	Word	_	4	D	4:D	_
-4	experimenting	_	Word	Word	_	0	H	0:H	_
-5	with	_	Word	Word	_	6	R	6:R	_
-6	drugs	_	Word	Word	_	4	A	4:A	_
-7	;	_	Punctuation	Punctuation	_	4	U	4:U	_
-8	by	_	Word	Word	_	12	L	12:L	_
-9	the	_	Word	Word	_	12	E	12:E	_
-10	age	_	Word	Word	_	12	E	12:E	_
-11	of	_	Word	Word	_	12	F	12:F	_
-12	20	_	Word	Word	_	4	H	4:H	_
-13	,	_	Punctuation	Punctuation	_	4	U	4:U	_
-14	she	_	Word	Word	_	16	A	16:A	_
-15	had	_	Word	Word	_	16	F	16:F	_
-16	tried	_	Word	Word	_	4	H	4:H	_
-17	"	_	Punctuation	Punctuation	_	16	U	16:U	_
-18	just	_	Word	Word	_	19	E	19:E	_
-19	about	_	Word	Word	_	20	E	20:E	_
-20	every	_	Word	Word	_	21	E	21:E	_
-21	drug	_	Word	Word	_	16	A	16:A	_
-22	possible	_	Word	Word	_	20	E	20:E	_
-23	,	_	Punctuation	Punctuation	_	21	U	21:U	_
-24	"	_	Punctuation	Punctuation	_	21	U	21:U	_
-25	including	_	Word	Word	_	26	R	26:R	_
-26	heroin	_	Word	Word	_	21	E	21:E	_
-27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+# text = Jolie has had a difficult relationship with her father .
+1	Jolie	_	Word	Word	_	6	A	6:A	_
+2	has	_	Word	Word	_	6	F	6:F	_
+3	had	_	Word	Word	_	6	F	6:F	_
+4	a	_	Word	Word	_	5	E	5:E	_
+5	difficult	_	Word	Word	_	6	D	6:D	_
+6	relationship	_	Word	Word	_	0	H	0:H	_
+7	with	_	Word	Word	_	9	R	9:R	_
+8	her	_	Word	Word	_	9	A	9:A	_
+9	father	_	Word	Word	_	6	A	6:A	_
+10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
 

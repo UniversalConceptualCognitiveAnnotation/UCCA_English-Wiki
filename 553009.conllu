@@ -1,30 +1,18 @@
 # format = ucca
 # sent_id = 553009
-# text = His energized interpretations of songs , many from African - American sources , and his uninhibited performance style made him enormously popular - and controversial .
-1	His	_	Word	Word	_	3	A	3:A	_
-2	energized	_	Word	Word	_	3	E	3:E	_
-3	interpretations	_	Word	Word	_	19	A	19:A	_
-4	of	_	Word	Word	_	5	R	5:R	_
-5	songs	_	Word	Word	_	3	A	3:A	_
-6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
-7	many	_	Word	Word	_	12	E	12:E	_
-8	from	_	Word	Word	_	12	R	12:R	_
-9	African	_	Word	Word	_	12	E	12:E	_
-10	-	_	Punctuation	Punctuation	_	9	U	9:U	_
-11	American	_	Word	Word	_	9	Terminal	9:Terminal	_
-12	sources	_	Word	Word	_	5	E	5:E	_
-13	,	_	Punctuation	Punctuation	_	3	U	3:U	_
-14	and	_	Word	Word	_	3	N	3:N	_
-15	his	_	Word	Word	_	18	A	18:A	_
-16	uninhibited	_	Word	Word	_	18	E	18:E	_
-17	performance	_	Word	Word	_	18	E	18:E	_
-18	style	_	Word	Word	_	3	C	3:C	_
-19	made	_	Word	Word	_	0	H	0:H	_
-20	him	_	Word	Word	_	19	A	19:A	_
-21	enormously	_	Word	Word	_	22	E	22:E	_
-22	popular	_	Word	Word	_	19	A	19:A	_
-23	-	_	Punctuation	Punctuation	_	22	U	22:U	_
-24	and	_	Word	Word	_	22	N	22:N	_
-25	controversial	_	Word	Word	_	22	C	22:C	_
-26	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+# text = In November 1956 , he made his film debut in Love Me Tender .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	November	_	Word	Word	_	9	T	9:T	_
+3	1956	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+5	he	_	Word	Word	_	9	A	9:A	_
+6	made	_	Word	Word	_	9	F	9:F	_
+7	his	_	Word	Word	_	9	F	9:F	_
+8	film	_	Word	Word	_	9	A	9:A	_
+9	debut	_	Word	Word	_	0	H	0:H	_
+10	in	_	Word	Word	_	11	R	11:R	_
+11	Love	_	Word	Word	_	9	A	9:A	_
+12	Me	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	Tender	_	Word	Word	_	11	Terminal	11:Terminal	_
+14	.	_	Punctuation	Punctuation	_	11	U	11:U	_
 

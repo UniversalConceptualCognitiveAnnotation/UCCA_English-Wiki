@@ -1,18 +1,18 @@
 # format = ucca
 # sent_id = 591006
 # text = As a guitar player , Depp has played slide guitar on the Oasis song " Fade In - Out " ( from Be Here Now , 1997 ) , as well as on " Fade Away ( Warchild Version ) " ( b - side of the " Do n't Go Away " single ) . He also played acoustic guitar in the movie Chocolat and on the soundtrack to Once Upon a Time in Mexico .
-1	As	_	Word	Word	_	4	R	4:R	_
-2	a	_	Word	Word	_	4	E	4:E	_
-3	guitar	_	Word	Word	_	4	E	4:E	_
-4	player	_	Word	Word	_	8	A	8:A	_
-5	,	_	Punctuation	Punctuation	_	8	U	8:U	_
-6	Depp	_	Word	Word	_	8	A	8:A	_
+1	As	_	Word	Word	_	8	L	8:L	_
+2	a	_	Word	Word	_	3	E	3:E	_
+3	guitar	_	Word	Word	_	4	A	4:A	_
+4	player	_	Word	Word	_	0	H	0:H	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	Depp	_	Word	Word	_	8	A	8:A|4:A	_
 7	has	_	Word	Word	_	8	F	8:F	_
-8	played	_	Word	Word	_	0	H	0:H	_
+8	played	_	Word	Word	_	4	H	4:H	_
 9	slide	_	Word	Word	_	10	E	10:E	_
 10	guitar	_	Word	Word	_	8	A	8:A	_
 11	on	_	Word	Word	_	16	R	16:R	_
-12	the	_	Word	Word	_	16	E	16:E	_
+12	the	_	Word	Word	_	14	E	14:E	_
 13	Oasis	_	Word	Word	_	14	E	14:E	_
 14	song	_	Word	Word	_	16	E	16:E	_
 15	"	_	Punctuation	Punctuation	_	16	U	16:U	_
@@ -33,8 +33,8 @@
 30	as	_	Word	Word	_	16	N	16:N	_
 31	well	_	Word	Word	_	30	Terminal	30:Terminal	_
 32	as	_	Word	Word	_	30	Terminal	30:Terminal	_
-33	on	_	Word	Word	_	30	F	30:F	_
-34	"	_	Punctuation	Punctuation	_	16	U	16:U	_
+33	on	_	Word	Word	_	35	R	35:R	_
+34	"	_	Punctuation	Punctuation	_	35	U	35:U	_
 35	Fade	_	Word	Word	_	16	C	16:C	_
 36	Away	_	Word	Word	_	35	Terminal	35:Terminal	_
 37	(	_	Punctuation	Punctuation	_	35	U	35:U	_
@@ -47,19 +47,19 @@
 44	-	_	Punctuation	Punctuation	_	43	U	43:U	_
 45	side	_	Word	Word	_	43	Terminal	43:Terminal	_
 46	of	_	Word	Word	_	49	R	49:R	_
-47	the	_	Word	Word	_	49	E	49:E	_
+47	the	_	Word	Word	_	49	F	49:F	_
 48	"	_	Punctuation	Punctuation	_	49	U	49:U	_
-49	Do	_	Word	Word	_	43	A	43:A	_
+49	Do	_	Word	Word	_	43	E	43:E	_
 50	n't	_	Word	Word	_	49	Terminal	49:Terminal	_
 51	Go	_	Word	Word	_	49	Terminal	49:Terminal	_
 52	Away	_	Word	Word	_	49	Terminal	49:Terminal	_
 53	"	_	Punctuation	Punctuation	_	49	U	49:U	_
 54	single	_	Word	Word	_	49	E	49:E	_
-55	)	_	Punctuation	Punctuation	_	8	U	8:U	_
-56	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+55	)	_	Punctuation	Punctuation	_	4	U	4:U	_
+56	.	_	Punctuation	Punctuation	_	4	U	4:U	_
 57	He	_	Word	Word	_	59	A	59:A	_
 58	also	_	Word	Word	_	59	D	59:D	_
-59	played	_	Word	Word	_	8	H	8:H	_
+59	played	_	Word	Word	_	4	H	4:H	_
 60	acoustic	_	Word	Word	_	61	E	61:E	_
 61	guitar	_	Word	Word	_	59	A	59:A	_
 62	in	_	Word	Word	_	65	R	65:R	_

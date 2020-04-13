@@ -2,7 +2,7 @@
 # sent_id = 1022011
 # text = In 1985 , The Making of Michael Jackson 's Thriller won a Grammy for Best Music Video , Longform .
 1	In	_	Word	Word	_	2	R	2:R	_
-2	1985	_	Word	Word	_	11	D	11:D	_
+2	1985	_	Word	Word	_	11	T	11:T	_
 3	,	_	Punctuation	Punctuation	_	11	U	11:U	_
 4	The	_	Word	Word	_	11	A	11:A	_
 5	Making	_	Word	Word	_	4	Terminal	4:Terminal	_
@@ -14,11 +14,11 @@
 11	won	_	Word	Word	_	0	H	0:H	_
 12	a	_	Word	Word	_	13	E	13:E	_
 13	Grammy	_	Word	Word	_	11	A	11:A	_
-14	for	_	Word	Word	_	13	R	13:R	_
+14	for	_	Word	Word	_	17	R	17:R	_
 15	Best	_	Word	Word	_	17	E	17:E	_
 16	Music	_	Word	Word	_	17	E	17:E	_
 17	Video	_	Word	Word	_	13	E	13:E	_
 18	,	_	Punctuation	Punctuation	_	17	U	17:U	_
 19	Longform	_	Word	Word	_	17	E	17:E	_
-20	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
 

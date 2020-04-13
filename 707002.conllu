@@ -17,12 +17,12 @@
 14	Nelson	_	Word	Word	_	13	Terminal	13:Terminal	_
 15	to	_	Word	Word	_	16	F	16:F	_
 16	organize	_	Word	Word	_	12	A	12:A	_
-17	a	_	Word	Word	_	20	E	20:E	_
-18	series	_	Word	Word	_	20	E	20:E	_
+17	a	_	Word	Word	_	20	F	20:F	_
+18	series	_	Word	Word	_	20	D	20:D	_
 19	of	_	Word	Word	_	20	R	20:R	_
-20	events	_	Word	Word	_	16	A	16:A	_
-21	,	_	Punctuation	Punctuation	_	20	U	20:U	_
-22	Farm	_	Word	Word	_	20	E	20:E|26:A	_
+20	events	_	Word	Word	_	22	E	22:E	_
+21	,	_	Punctuation	Punctuation	_	22	U	22:U	_
+22	Farm	_	Word	Word	_	0	C	0:C|26:A	_
 23	Aid	_	Word	Word	_	22	Terminal	22:Terminal	_
 24	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 25	to	_	Word	Word	_	26	L	26:L	_
@@ -30,7 +30,7 @@
 27	debt	_	Word	Word	_	29	A	29:A	_
 28	-	_	Punctuation	Punctuation	_	29	U	29:U	_
 29	ridden	_	Word	Word	_	31	E	31:E	_
-30	American	_	Word	Word	_	31	E	31:E	_
-31	farmers	_	Word	Word	_	26	A	26:A	_
-32	.	_	Punctuation	Punctuation	_	31	U	31:U	_
+30	American	_	Word	Word	_	31	A	31:A	_
+31	farmers	_	Word	Word	_	0	P	0:P|29:A	_
+32	.	_	Punctuation	Punctuation	_	29	U	29:U	_
 

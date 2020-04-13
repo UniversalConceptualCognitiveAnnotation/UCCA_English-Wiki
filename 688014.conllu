@@ -1,28 +1,28 @@
 # format = ucca
 # sent_id = 688014
 # text = As a songwriter and musician , Dylan has sold more than 100 million records worldwide and received numerous awards over the years including Grammy , Golden Globe , and Academy Awards ; he has been inducted into the Rock and Roll Hall of Fame , Minnesota Music Hall of Fame , Nashville Songwriters Hall of Fame , and Songwriters Hall of Fame .
-1	As	_	Word	Word	_	9	L	9:L	_
+1	As	_	Word	Word	_	3	L	3:L	_
 2	a	_	Word	Word	_	3	E	3:E	_
-3	songwriter	_	Word	Word	_	0	H	0:H	_
+3	songwriter	_	Word	Word	_	9	H	9:H	_
 4	and	_	Word	Word	_	3	N	3:N	_
 5	musician	_	Word	Word	_	3	C	3:C	_
 6	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 7	Dylan	_	Word	Word	_	9	A	9:A|3:A|17:A	_
 8	has	_	Word	Word	_	9	F	9:F	_
-9	sold	_	Word	Word	_	3	H	3:H	_
+9	sold	_	Word	Word	_	0	H	0:H	_
 10	more	_	Word	Word	_	12	E	12:E	_
-11	than	_	Word	Word	_	10	R	10:R	_
-12	100	_	Word	Word	_	14	E	14:E	_
+11	than	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	100	_	Word	Word	_	14	Q	14:Q	_
 13	million	_	Word	Word	_	12	Terminal	12:Terminal	_
 14	records	_	Word	Word	_	9	A	9:A	_
 15	worldwide	_	Word	Word	_	9	A	9:A	_
 16	and	_	Word	Word	_	17	L	17:L	_
-17	received	_	Word	Word	_	3	H	3:H	_
-18	numerous	_	Word	Word	_	19	E	19:E	_
+17	received	_	Word	Word	_	9	H	9:H	_
+18	numerous	_	Word	Word	_	19	Q	19:Q	_
 19	awards	_	Word	Word	_	17	A	17:A	_
 20	over	_	Word	Word	_	22	R	22:R	_
 21	the	_	Word	Word	_	22	E	22:E	_
-22	years	_	Word	Word	_	17	D	17:D	_
+22	years	_	Word	Word	_	17	T	17:T	_
 23	including	_	Word	Word	_	24	R	24:R	_
 24	Grammy	_	Word	Word	_	19	E	19:E	_
 25	,	_	Punctuation	Punctuation	_	24	U	24:U	_
@@ -32,16 +32,16 @@
 29	and	_	Word	Word	_	24	N	24:N	_
 30	Academy	_	Word	Word	_	24	C	24:C	_
 31	Awards	_	Word	Word	_	30	Terminal	30:Terminal	_
-32	;	_	Punctuation	Punctuation	_	3	U	3:U	_
+32	;	_	Punctuation	Punctuation	_	9	U	9:U	_
 33	he	_	Word	Word	_	36	A	36:A	_
 34	has	_	Word	Word	_	36	F	36:F	_
 35	been	_	Word	Word	_	36	F	36:F	_
-36	inducted	_	Word	Word	_	3	H	3:H	_
+36	inducted	_	Word	Word	_	9	H	9:H	_
 37	into	_	Word	Word	_	42	R	42:R	_
 38	the	_	Word	Word	_	39	E	39:E	_
 39	Rock	_	Word	Word	_	42	E	42:E	_
-40	and	_	Word	Word	_	39	N	39:N	_
-41	Roll	_	Word	Word	_	39	C	39:C	_
+40	and	_	Word	Word	_	39	Terminal	39:Terminal	_
+41	Roll	_	Word	Word	_	39	Terminal	39:Terminal	_
 42	Hall	_	Word	Word	_	36	A	36:A	_
 43	of	_	Word	Word	_	42	Terminal	42:Terminal	_
 44	Fame	_	Word	Word	_	42	Terminal	42:Terminal	_

@@ -1,32 +1,13 @@
 # format = ucca
 # sent_id = 590005
-# text = Producer Scott Rudin once said , " Basically Johnny Depp is playing Tim Burton in all his movies , " although Burton personally disapproved of the comment .
-1	Producer	_	Word	Word	_	2	E	2:E	_
-2	Scott	_	Word	Word	_	5	A	5:A	_
-3	Rudin	_	Word	Word	_	2	Terminal	2:Terminal	_
-4	once	_	Word	Word	_	5	D	5:D	_
-5	said	_	Word	Word	_	0	H	0:H	_
-6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
-7	"	_	Punctuation	Punctuation	_	5	U	5:U	_
-8	Basically	_	Word	Word	_	12	D	12:D	_
-9	Johnny	_	Word	Word	_	12	A	12:A	_
-10	Depp	_	Word	Word	_	9	Terminal	9:Terminal	_
-11	is	_	Word	Word	_	12	F	12:F	_
-12	playing	_	Word	Word	_	5	A	5:A	_
-13	Tim	_	Word	Word	_	12	A	12:A	_
-14	Burton	_	Word	Word	_	13	Terminal	13:Terminal	_
-15	in	_	Word	Word	_	18	R	18:R	_
-16	all	_	Word	Word	_	18	E	18:E	_
-17	his	_	Word	Word	_	18	E	18:E	_
-18	movies	_	Word	Word	_	12	A	12:A	_
-19	,	_	Punctuation	Punctuation	_	5	U	5:U	_
-20	"	_	Punctuation	Punctuation	_	5	U	5:U	_
-21	although	_	Word	Word	_	24	L	24:L	_
-22	Burton	_	Word	Word	_	24	A	24:A	_
-23	personally	_	Word	Word	_	24	D	24:D	_
-24	disapproved	_	Word	Word	_	5	H	5:H	_
-25	of	_	Word	Word	_	27	R	27:R	_
-26	the	_	Word	Word	_	27	E	27:E	_
-27	comment	_	Word	Word	_	24	A	24:A	_
-28	.	_	Punctuation	Punctuation	_	27	U	27:U	_
+# text = Depp , however agrees with Rudin 's statement .
+1	Depp	_	Word	Word	_	4	A	4:A	_
+2	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+3	however	_	Word	Word	_	4	L	4:L	_
+4	agrees	_	Word	Word	_	0	H	0:H	_
+5	with	_	Word	Word	_	8	R	8:R	_
+6	Rudin	_	Word	Word	_	8	A	8:A	_
+7	's	_	Word	Word	_	6	R	6:R	_
+8	statement	_	Word	Word	_	4	A	4:A	_
+9	.	_	Punctuation	Punctuation	_	8	U	8:U	_
 

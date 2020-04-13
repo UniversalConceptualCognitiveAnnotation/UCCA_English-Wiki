@@ -5,7 +5,7 @@
 2	and	_	Word	Word	_	1	N	1:N	_
 3	Gleeson	_	Word	Word	_	1	C	1:C	_
 4	have	_	Word	Word	_	0	H	0:H	_
-5	two	_	Word	Word	_	6	E	6:E	_
+5	two	_	Word	Word	_	6	Q	6:Q	_
 6	children	_	Word	Word	_	4	A	4:A	_
 7	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 8	a	_	Word	Word	_	11	E	11:E	_
@@ -14,8 +14,8 @@
 11	Klaus	_	Word	Word	_	6	E	6:E	_
 12	(	_	Punctuation	Punctuation	_	11	U	11:U	_
 13	born	_	Word	Word	_	11	E	11:E	_
-14	August	_	Word	Word	_	13	D	13:D	_
-15	1999	_	Word	Word	_	14	Terminal	14:Terminal	_
+14	August	_	Word	Word	_	13	T	13:T	_
+15	1999	_	Word	Word	_	14	C	14:C	_
 16	)	_	Punctuation	Punctuation	_	11	U	11:U	_
 17	,	_	Punctuation	Punctuation	_	11	U	11:U	_
 18	and	_	Word	Word	_	11	N	11:N	_
@@ -25,8 +25,8 @@
 22	Sophia	_	Word	Word	_	11	C	11:C	_
 23	(	_	Punctuation	Punctuation	_	22	U	22:U	_
 24	born	_	Word	Word	_	22	E	22:E	_
-25	April	_	Word	Word	_	24	D	24:D	_
-26	2002	_	Word	Word	_	25	Terminal	25:Terminal	_
+25	April	_	Word	Word	_	24	T	24:T	_
+26	2002	_	Word	Word	_	25	C	25:C	_
 27	)	_	Punctuation	Punctuation	_	4	U	4:U	_
 28	.	_	Punctuation	Punctuation	_	4	U	4:U	_
 29	They	_	Word	Word	_	30	A	30:A	_

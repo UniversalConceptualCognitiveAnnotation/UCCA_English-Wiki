@@ -1,14 +1,16 @@
 # format = ucca
 # sent_id = 705011
-# text = They used to convince me I was a prophet .
-1	They	_	Word	Word	_	4	A	4:A	_
-2	used	_	Word	Word	_	4	D	4:D	_
-3	to	_	Word	Word	_	4	F	4:F	_
-4	convince	_	Word	Word	_	0	H	0:H	_
-5	me	_	Word	Word	_	4	A	4:A	_
-6	I	_	Word	Word	_	7	A	7:A	_
-7	was	_	Word	Word	_	4	A	4:A	_
-8	a	_	Word	Word	_	9	E	9:E	_
-9	prophet	_	Word	Word	_	7	A	7:A	_
-10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+# text = Now I come out and say Jesus Christ is the answer .
+1	Now	_	Word	Word	_	3	T	3:T	_
+2	I	_	Word	Word	_	3	A	3:A	_
+3	come	_	Word	Word	_	0	H	0:H	_
+4	out	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	and	_	Word	Word	_	3	Terminal	3:Terminal	_
+6	say	_	Word	Word	_	3	Terminal	3:Terminal	_
+7	Jesus	_	Word	Word	_	9	A	9:A	_
+8	Christ	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	is	_	Word	Word	_	3	A	3:A	_
+10	the	_	Word	Word	_	11	E	11:E	_
+11	answer	_	Word	Word	_	9	A	9:A	_
+12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
 

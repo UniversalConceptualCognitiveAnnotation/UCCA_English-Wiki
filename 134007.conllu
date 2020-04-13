@@ -1,9 +1,9 @@
 # format = ucca
 # sent_id = 134007
 # text = Hepburn 's next film was Undercurrent ( 1946 ) , a film noir with Robert Taylor and Robert Mitchum that was poorly received .
-1	Hepburn	_	Word	Word	_	4	A	4:A	_
-2	's	_	Word	Word	_	1	R	1:R	_
-3	next	_	Word	Word	_	4	E	4:E	_
+1	Hepburn	_	Word	Word	_	2	A	2:A	_
+2	's	_	Word	Word	_	4	E	4:E	_
+3	next	_	Word	Word	_	4	Q	4:Q	_
 4	film	_	Word	Word	_	5	A	5:A	_
 5	was	_	Word	Word	_	0	H	0:H	_
 6	Undercurrent	_	Word	Word	_	5	A	5:A	_
@@ -11,16 +11,16 @@
 8	1946	_	Word	Word	_	6	E	6:E	_
 9	)	_	Punctuation	Punctuation	_	6	U	6:U	_
 10	,	_	Punctuation	Punctuation	_	6	U	6:U	_
-11	a	_	Word	Word	_	12	E	12:E	_
+11	a	_	Word	Word	_	12	F	12:F	_
 12	film	_	Word	Word	_	6	E	6:E	_
 13	noir	_	Word	Word	_	12	E	12:E	_
-14	with	_	Word	Word	_	12	R	12:R	_
+14	with	_	Word	Word	_	15	R	15:R	_
 15	Robert	_	Word	Word	_	12	E	12:E	_
 16	Taylor	_	Word	Word	_	15	Terminal	15:Terminal	_
 17	and	_	Word	Word	_	15	N	15:N	_
 18	Robert	_	Word	Word	_	15	C	15:C	_
 19	Mitchum	_	Word	Word	_	18	Terminal	18:Terminal	_
-20	that	_	Word	Word	_	23	F	23:F	_
+20	that	_	Word	Word	_	23	R	23:R	_
 21	was	_	Word	Word	_	23	F	23:F	_
 22	poorly	_	Word	Word	_	23	D	23:D	_
 23	received	_	Word	Word	_	12	E	12:E	_

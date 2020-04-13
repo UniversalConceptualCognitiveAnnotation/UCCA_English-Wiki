@@ -2,7 +2,7 @@
 # sent_id = 728006
 # text = According to the Chicago Tribune , " Jolie ages convincingly throughout , and is blithely unconcerned with how her brittle character is coming off in terms of audience sympathy . "
 1	According	_	Word	Word	_	0	H	0:H	_
-2	to	_	Word	Word	_	1	R	1:R	_
+2	to	_	Word	Word	_	1	Terminal	1:Terminal	_
 3	the	_	Word	Word	_	4	E	4:E	_
 4	Chicago	_	Word	Word	_	1	A	1:A	_
 5	Tribune	_	Word	Word	_	4	Terminal	4:Terminal	_
@@ -10,25 +10,25 @@
 7	"	_	Punctuation	Punctuation	_	1	U	1:U	_
 8	Jolie	_	Word	Word	_	9	A	9:A|16:A	_
 9	ages	_	Word	Word	_	1	A	1:A	_
-10	convincingly	_	Word	Word	_	9	D	9:D	_
-11	throughout	_	Word	Word	_	9	F	9:F	_
+10	convincingly	_	Word	Word	_	9	G	9:G	_
+11	throughout	_	Word	Word	_	9	A	9:A	_
 12	,	_	Punctuation	Punctuation	_	9	U	9:U	_
 13	and	_	Word	Word	_	16	L	16:L	_
 14	is	_	Word	Word	_	16	F	16:F	_
 15	blithely	_	Word	Word	_	16	D	16:D	_
 16	unconcerned	_	Word	Word	_	9	H	9:H	_
-17	with	_	Word	Word	_	23	R	23:R	_
-18	how	_	Word	Word	_	23	F	23:F	_
+17	with	_	Word	Word	_	18	R	18:R	_
+18	how	_	Word	Word	_	16	A	16:A	_
 19	her	_	Word	Word	_	21	E	21:E	_
 20	brittle	_	Word	Word	_	21	E	21:E	_
 21	character	_	Word	Word	_	23	A	23:A	_
 22	is	_	Word	Word	_	23	F	23:F	_
-23	coming	_	Word	Word	_	16	A	16:A	_
-24	off	_	Word	Word	_	23	R	23:R	_
-25	in	_	Word	Word	_	26	R	26:R	_
-26	terms	_	Word	Word	_	29	R	29:R	_
-27	of	_	Word	Word	_	26	R	26:R	_
-28	audience	_	Word	Word	_	29	E	29:E	_
+23	coming	_	Word	Word	_	18	E	18:E	_
+24	off	_	Word	Word	_	23	Terminal	23:Terminal	_
+25	in	_	Word	Word	_	29	R	29:R	_
+26	terms	_	Word	Word	_	25	Terminal	25:Terminal	_
+27	of	_	Word	Word	_	25	Terminal	25:Terminal	_
+28	audience	_	Word	Word	_	29	A	29:A	_
 29	sympathy	_	Word	Word	_	23	A	23:A	_
 30	.	_	Punctuation	Punctuation	_	29	U	29:U	_
 31	"	_	Punctuation	Punctuation	_	29	U	29:U	_

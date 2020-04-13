@@ -3,13 +3,13 @@
 # text = During the course of the movie , Hepburn signed a star contract with MGM .
 1	During	_	Word	Word	_	9	L	9:L	_
 2	the	_	Word	Word	_	3	E	3:E	_
-3	course	_	Word	Word	_	6	E	6:E	_
-4	of	_	Word	Word	_	3	R	3:R	_
+3	course	_	Word	Word	_	0	H	0:H	_
+4	of	_	Word	Word	_	6	R	6:R	_
 5	the	_	Word	Word	_	6	E	6:E	_
-6	movie	_	Word	Word	_	0	H	0:H	_
-7	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+6	movie	_	Word	Word	_	3	A	3:A	_
+7	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 8	Hepburn	_	Word	Word	_	9	A	9:A	_
-9	signed	_	Word	Word	_	6	H	6:H	_
+9	signed	_	Word	Word	_	3	H	3:H	_
 10	a	_	Word	Word	_	12	E	12:E	_
 11	star	_	Word	Word	_	12	E	12:E	_
 12	contract	_	Word	Word	_	9	A	9:A	_

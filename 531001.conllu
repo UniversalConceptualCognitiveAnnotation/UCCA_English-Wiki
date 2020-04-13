@@ -1,10 +1,10 @@
 # format = ucca
 # sent_id = 531001
 # text = The first , entitled The Judy Garland Show , aired in 1962 and featured guests Frank Sinatra and Dean Martin .
-1	The	_	Word	Word	_	2	E	2:E	_
-2	first	_	Word	Word	_	4	A	4:A	_
-3	,	_	Punctuation	Punctuation	_	4	U	4:U	_
-4	entitled	_	Word	Word	_	10	A	10:A	_
+1	The	_	Word	Word	_	2	F	2:F	_
+2	first	_	Word	Word	_	10	A	10:A	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	entitled	_	Word	Word	_	2	E	2:E	_
 5	The	_	Word	Word	_	4	A	4:A|14:A	_
 6	Judy	_	Word	Word	_	5	Terminal	5:Terminal	_
 7	Garland	_	Word	Word	_	5	Terminal	5:Terminal	_
@@ -12,7 +12,7 @@
 9	,	_	Punctuation	Punctuation	_	10	U	10:U	_
 10	aired	_	Word	Word	_	0	H	0:H	_
 11	in	_	Word	Word	_	12	R	12:R	_
-12	1962	_	Word	Word	_	10	D	10:D	_
+12	1962	_	Word	Word	_	10	T	10:T	_
 13	and	_	Word	Word	_	14	L	14:L	_
 14	featured	_	Word	Word	_	10	H	10:H	_
 15	guests	_	Word	Word	_	16	E	16:E	_

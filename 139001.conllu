@@ -1,17 +1,17 @@
 # format = ucca
 # sent_id = 139001
 # text = The New York Post wrote of her Cleopatra , " Hepburn offers a highly versatile performance ... once or twice going in for her famous mannerisms and always being fascinating to watch . "
-1	The	_	Word	Word	_	4	E	4:E	_
-2	New	_	Word	Word	_	4	E	4:E	_
-3	York	_	Word	Word	_	2	Terminal	2:Terminal	_
-4	Post	_	Word	Word	_	5	A	5:A	_
+1	The	_	Word	Word	_	5	A	5:A	_
+2	New	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	York	_	Word	Word	_	1	Terminal	1:Terminal	_
+4	Post	_	Word	Word	_	1	Terminal	1:Terminal	_
 5	wrote	_	Word	Word	_	0	H	0:H	_
-6	of	_	Word	Word	_	8	R	8:R	_
-7	her	_	Word	Word	_	8	E	8:E	_
-8	Cleopatra	_	Word	Word	_	5	A	5:A	_
+6	of	_	Word	Word	_	7	R	7:R	_
+7	her	_	Word	Word	_	5	A	5:A	_
+8	Cleopatra	_	Word	Word	_	7	A	7:A	_
 9	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 10	"	_	Punctuation	Punctuation	_	5	U	5:U	_
-11	Hepburn	_	Word	Word	_	12	A	12:A|21:A|30:A|32:A	_
+11	Hepburn	_	Word	Word	_	12	A	12:A|21:A|32:A	_
 12	offers	_	Word	Word	_	5	A	5:A	_
 13	a	_	Word	Word	_	16	E	16:E	_
 14	highly	_	Word	Word	_	16	E	16:E	_
@@ -27,12 +27,12 @@
 24	her	_	Word	Word	_	26	E	26:E	_
 25	famous	_	Word	Word	_	26	E	26:E	_
 26	mannerisms	_	Word	Word	_	21	A	21:A	_
-27	and	_	Word	Word	_	30	L	30:L	_
-28	always	_	Word	Word	_	30	D	30:D	_
-29	being	_	Word	Word	_	30	F	30:F	_
-30	fascinating	_	Word	Word	_	12	H	12:H	_
+27	and	_	Word	Word	_	32	L	32:L	_
+28	always	_	Word	Word	_	32	T	32:T	_
+29	being	_	Word	Word	_	32	F	32:F	_
+30	fascinating	_	Word	Word	_	32	D	32:D	_
 31	to	_	Word	Word	_	32	F	32:F	_
-32	watch	_	Word	Word	_	30	A	30:A	_
+32	watch	_	Word	Word	_	12	H	12:H	_
 33	.	_	Punctuation	Punctuation	_	32	U	32:U	_
 34	"	_	Punctuation	Punctuation	_	32	U	32:U	_
 

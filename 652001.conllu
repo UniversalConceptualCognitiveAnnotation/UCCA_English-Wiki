@@ -1,10 +1,10 @@
 # format = ucca
 # sent_id = 652001
 # text = On 23 March 1973 , Lennon was ordered to leave the US within 60 days .
-1	On	_	Word	Word	_	4	R	4:R	_
-2	23	_	Word	Word	_	4	E	4:E	_
-3	March	_	Word	Word	_	4	E	4:E	_
-4	1973	_	Word	Word	_	8	D	8:D	_
+1	On	_	Word	Word	_	2	R	2:R	_
+2	23	_	Word	Word	_	8	T	8:T	_
+3	March	_	Word	Word	_	2	C	2:C	_
+4	1973	_	Word	Word	_	2	C	2:C	_
 5	,	_	Punctuation	Punctuation	_	8	U	8:U	_
 6	Lennon	_	Word	Word	_	8	A	8:A|10:A	_
 7	was	_	Word	Word	_	8	F	8:F	_
@@ -14,7 +14,7 @@
 11	the	_	Word	Word	_	12	E	12:E	_
 12	US	_	Word	Word	_	10	A	10:A	_
 13	within	_	Word	Word	_	15	R	15:R	_
-14	60	_	Word	Word	_	15	E	15:E	_
-15	days	_	Word	Word	_	10	D	10:D	_
+14	60	_	Word	Word	_	15	Q	15:Q	_
+15	days	_	Word	Word	_	10	T	10:T	_
 16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
 

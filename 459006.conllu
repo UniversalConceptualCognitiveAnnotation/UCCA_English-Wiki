@@ -2,10 +2,10 @@
 # sent_id = 459006
 # text = On December 31 , 1999 , Jennings was on the air for 23 straight hours to anchor ABC 2000 Today , ABC 's massive millennium eve special .
 1	On	_	Word	Word	_	2	R	2:R	_
-2	December	_	Word	Word	_	11	D	11:D	_
-3	31	_	Word	Word	_	2	Terminal	2:Terminal	_
+2	December	_	Word	Word	_	11	T	11:T	_
+3	31	_	Word	Word	_	2	C	2:C	_
 4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
-5	1999	_	Word	Word	_	2	Terminal	2:Terminal	_
+5	1999	_	Word	Word	_	2	C	2:C	_
 6	,	_	Punctuation	Punctuation	_	11	U	11:U	_
 7	Jennings	_	Word	Word	_	11	A	11:A|17:A	_
 8	was	_	Word	Word	_	11	F	11:F	_
@@ -13,7 +13,7 @@
 10	the	_	Word	Word	_	11	E	11:E	_
 11	air	_	Word	Word	_	0	H	0:H	_
 12	for	_	Word	Word	_	15	R	15:R	_
-13	23	_	Word	Word	_	15	E	15:E	_
+13	23	_	Word	Word	_	15	Q	15:Q	_
 14	straight	_	Word	Word	_	15	E	15:E	_
 15	hours	_	Word	Word	_	11	A	11:A	_
 16	to	_	Word	Word	_	17	L	17:L	_

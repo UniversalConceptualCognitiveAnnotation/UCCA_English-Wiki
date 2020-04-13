@@ -2,17 +2,17 @@
 # sent_id = 590002
 # text = Depp later said that " within 10 minutes of hearing about the project , I was committed . "
 1	Depp	_	Word	Word	_	3	A	3:A	_
-2	later	_	Word	Word	_	3	D	3:D	_
+2	later	_	Word	Word	_	3	T	3:T	_
 3	said	_	Word	Word	_	0	H	0:H	_
-4	that	_	Word	Word	_	10	F	10:F	_
+4	that	_	Word	Word	_	10	R	10:R	_
 5	"	_	Punctuation	Punctuation	_	10	U	10:U	_
 6	within	_	Word	Word	_	8	R	8:R	_
-7	10	_	Word	Word	_	8	E	8:E	_
-8	minutes	_	Word	Word	_	17	L	17:L	_
+7	10	_	Word	Word	_	8	Q	8:Q	_
+8	minutes	_	Word	Word	_	10	T	10:T	_
 9	of	_	Word	Word	_	10	R	10:R	_
 10	hearing	_	Word	Word	_	3	A	3:A	_
 11	about	_	Word	Word	_	13	R	13:R	_
-12	the	_	Word	Word	_	13	E	13:E	_
+12	the	_	Word	Word	_	13	F	13:F	_
 13	project	_	Word	Word	_	10	A	10:A	_
 14	,	_	Punctuation	Punctuation	_	10	U	10:U	_
 15	I	_	Word	Word	_	17	A	17:A|10:A	_

@@ -2,15 +2,15 @@
 # sent_id = 142011
 # text = After three years away from the screen , Hepburn starred in the 1978 film Olly Olly Oxen Free .
 1	After	_	Word	Word	_	10	L	10:L	_
-2	three	_	Word	Word	_	3	E	3:E	_
-3	years	_	Word	Word	_	7	D	7:D	_
-4	away	_	Word	Word	_	7	D	7:D	_
+2	three	_	Word	Word	_	3	Q	3:Q	_
+3	years	_	Word	Word	_	4	T	4:T	_
+4	away	_	Word	Word	_	0	H	0:H	_
 5	from	_	Word	Word	_	7	R	7:R	_
 6	the	_	Word	Word	_	7	E	7:E	_
-7	screen	_	Word	Word	_	0	H	0:H	_
-8	,	_	Punctuation	Punctuation	_	7	U	7:U	_
-9	Hepburn	_	Word	Word	_	10	A	10:A|7:A	_
-10	starred	_	Word	Word	_	7	H	7:H	_
+7	screen	_	Word	Word	_	4	A	4:A	_
+8	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+9	Hepburn	_	Word	Word	_	10	A	10:A|4:A	_
+10	starred	_	Word	Word	_	4	H	4:H	_
 11	in	_	Word	Word	_	15	R	15:R	_
 12	the	_	Word	Word	_	15	E	15:E	_
 13	1978	_	Word	Word	_	15	E	15:E	_

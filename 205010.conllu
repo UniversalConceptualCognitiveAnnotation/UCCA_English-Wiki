@@ -1,24 +1,24 @@
 # format = ucca
 # sent_id = 205010
 # text = His father worked as a prop supervisor ( set decorator ) at Columbia Pictures before becoming a furniture salesman .
-1	His	_	Word	Word	_	2	E	2:E	_
-2	father	_	Word	Word	_	7	A	7:A|16:A	_
+1	His	_	Word	Word	_	2	A	2:A	_
+2	father	_	Word	Word	_	7	A	7:A|19:A	_
 3	worked	_	Word	Word	_	7	D	7:D	_
 4	as	_	Word	Word	_	7	R	7:R	_
-5	a	_	Word	Word	_	7	E	7:E	_
-6	prop	_	Word	Word	_	7	E	7:E	_
+5	a	_	Word	Word	_	7	F	7:F	_
+6	prop	_	Word	Word	_	7	A	7:A	_
 7	supervisor	_	Word	Word	_	0	H	0:H	_
 8	(	_	Punctuation	Punctuation	_	7	U	7:U	_
-9	set	_	Word	Word	_	10	E	10:E	_
-10	decorator	_	Word	Word	_	7	E	7:E	_
+9	set	_	Word	Word	_	7	C	7:C	_
+10	decorator	_	Word	Word	_	9	A	9:A	_
 11	)	_	Punctuation	Punctuation	_	7	U	7:U	_
-12	at	_	Word	Word	_	14	R	14:R	_
-13	Columbia	_	Word	Word	_	14	E	14:E	_
-14	Pictures	_	Word	Word	_	7	A	7:A	_
-15	before	_	Word	Word	_	16	L	16:L	_
-16	becoming	_	Word	Word	_	7	H	7:H	_
-17	a	_	Word	Word	_	19	E	19:E	_
-18	furniture	_	Word	Word	_	19	E	19:E	_
-19	salesman	_	Word	Word	_	16	A	16:A	_
+12	at	_	Word	Word	_	13	R	13:R	_
+13	Columbia	_	Word	Word	_	7	A	7:A	_
+14	Pictures	_	Word	Word	_	13	C	13:C	_
+15	before	_	Word	Word	_	19	L	19:L	_
+16	becoming	_	Word	Word	_	19	D	19:D	_
+17	a	_	Word	Word	_	19	F	19:F	_
+18	furniture	_	Word	Word	_	19	A	19:A	_
+19	salesman	_	Word	Word	_	7	H	7:H	_
 20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
 

@@ -1,21 +1,27 @@
 # format = ucca
 # sent_id = 590011
-# text = For his performance , Depp took inspiration from Angela Lansbury , Roddy McDowall and Basil Rathbone .
-1	For	_	Word	Word	_	7	L	7:L	_
-2	his	_	Word	Word	_	3	A	3:A	_
-3	performance	_	Word	Word	_	0	H	0:H	_
-4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
-5	Depp	_	Word	Word	_	7	A	7:A	_
-6	took	_	Word	Word	_	7	F	7:F	_
-7	inspiration	_	Word	Word	_	3	H	3:H	_
-8	from	_	Word	Word	_	9	R	9:R	_
-9	Angela	_	Word	Word	_	7	A	7:A	_
-10	Lansbury	_	Word	Word	_	9	Terminal	9:Terminal	_
-11	,	_	Punctuation	Punctuation	_	9	U	9:U	_
-12	Roddy	_	Word	Word	_	9	C	9:C	_
-13	McDowall	_	Word	Word	_	12	Terminal	12:Terminal	_
-14	and	_	Word	Word	_	9	N	9:N	_
-15	Basil	_	Word	Word	_	9	C	9:C	_
-16	Rathbone	_	Word	Word	_	15	Terminal	15:Terminal	_
-17	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+# text = Depp did not work with Burton again until 2005 in Charlie and the Chocolate Factory , in which he played Willy Wonka .
+1	Depp	_	Word	Word	_	4	A	4:A	_
+2	did	_	Word	Word	_	4	F	4:F	_
+3	not	_	Word	Word	_	4	D	4:D	_
+4	work	_	Word	Word	_	0	H	0:H	_
+5	with	_	Word	Word	_	6	R	6:R	_
+6	Burton	_	Word	Word	_	4	A	4:A	_
+7	again	_	Word	Word	_	4	D	4:D	_
+8	until	_	Word	Word	_	9	R	9:R	_
+9	2005	_	Word	Word	_	4	T	4:T	_
+10	in	_	Word	Word	_	11	R	11:R	_
+11	Charlie	_	Word	Word	_	4	A	4:A	_
+12	and	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	the	_	Word	Word	_	11	Terminal	11:Terminal	_
+14	Chocolate	_	Word	Word	_	11	Terminal	11:Terminal	_
+15	Factory	_	Word	Word	_	11	Terminal	11:Terminal	_
+16	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+17	in	_	Word	Word	_	20	A	20:A	_
+18	which	_	Word	Word	_	20	R	20:R	_
+19	he	_	Word	Word	_	20	A	20:A	_
+20	played	_	Word	Word	_	11	E	11:E	_
+21	Willy	_	Word	Word	_	20	A	20:A	_
+22	Wonka	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	.	_	Punctuation	Punctuation	_	20	U	20:U	_
 

@@ -1,9 +1,9 @@
 # format = ucca
 # sent_id = 659005
 # text = Carey had begun writing poems and adding melodies to them , thus starting as a singer - songwriter while attending Harborfields High School in Greenlawn , New York .
-1	Carey	_	Word	Word	_	4	A	4:A|7:A|13:A|20:A	_
-2	had	_	Word	Word	_	3	E	3:E	_
-3	begun	_	Word	Word	_	4	D	4:D	_
+1	Carey	_	Word	Word	_	4	A	4:A|7:A|16:A|18:A|20:A	_
+2	had	_	Word	Word	_	4	F	4:F	_
+3	begun	_	Word	Word	_	4	D	4:D|7:D	_
 4	writing	_	Word	Word	_	0	H	0:H	_
 5	poems	_	Word	Word	_	4	A	4:A	_
 6	and	_	Word	Word	_	7	L	7:L	_
@@ -12,13 +12,13 @@
 9	to	_	Word	Word	_	10	R	10:R	_
 10	them	_	Word	Word	_	7	A	7:A	_
 11	,	_	Punctuation	Punctuation	_	4	U	4:U	_
-12	thus	_	Word	Word	_	13	L	13:L	_
-13	starting	_	Word	Word	_	4	H	4:H	_
+12	thus	_	Word	Word	_	16	L	16:L	_
+13	starting	_	Word	Word	_	16	D	16:D|18:D	_
 14	as	_	Word	Word	_	16	R	16:R	_
-15	a	_	Word	Word	_	16	E	16:E	_
-16	singer	_	Word	Word	_	13	A	13:A	_
-17	-	_	Punctuation	Punctuation	_	16	U	16:U	_
-18	songwriter	_	Word	Word	_	16	C	16:C	_
+15	a	_	Word	Word	_	4	F	4:F	_
+16	singer	_	Word	Word	_	4	H	4:H	_
+17	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+18	songwriter	_	Word	Word	_	4	H	4:H	_
 19	while	_	Word	Word	_	20	L	20:L	_
 20	attending	_	Word	Word	_	4	H	4:H	_
 21	Harborfields	_	Word	Word	_	23	E	23:E	_
@@ -27,7 +27,7 @@
 24	in	_	Word	Word	_	25	R	25:R	_
 25	Greenlawn	_	Word	Word	_	23	E	23:E	_
 26	,	_	Punctuation	Punctuation	_	25	U	25:U	_
-27	New	_	Word	Word	_	25	E	25:E	_
+27	New	_	Word	Word	_	25	C	25:C	_
 28	York	_	Word	Word	_	27	Terminal	27:Terminal	_
 29	.	_	Punctuation	Punctuation	_	25	U	25:U	_
 

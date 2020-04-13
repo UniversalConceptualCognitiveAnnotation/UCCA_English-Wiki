@@ -1,22 +1,33 @@
 # format = ucca
 # sent_id = 564015
-# text = In fact , Presley was shown head - to - toe in the first and second shows .
-1	In	_	Word	Word	_	6	G	6:G	_
-2	fact	_	Word	Word	_	1	Terminal	1:Terminal	_
-3	,	_	Punctuation	Punctuation	_	6	U	6:U	_
-4	Presley	_	Word	Word	_	6	A	6:A	_
-5	was	_	Word	Word	_	6	F	6:F	_
-6	shown	_	Word	Word	_	0	H	0:H	_
-7	head	_	Word	Word	_	6	D	6:D	_
-8	-	_	Punctuation	Punctuation	_	7	U	7:U	_
-9	to	_	Word	Word	_	7	Terminal	7:Terminal	_
-10	-	_	Punctuation	Punctuation	_	7	U	7:U	_
-11	toe	_	Word	Word	_	7	Terminal	7:Terminal	_
-12	in	_	Word	Word	_	17	R	17:R	_
-13	the	_	Word	Word	_	17	E	17:E	_
-14	first	_	Word	Word	_	17	E	17:E	_
-15	and	_	Word	Word	_	14	N	14:N	_
-16	second	_	Word	Word	_	14	C	14:C	_
-17	shows	_	Word	Word	_	6	A	6:A	_
-18	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+# text = Though the camerawork was relatively discreet during his debut , with leg - concealing closeups when he danced , the studio audience reacted in customary style : screaming .
+1	Though	_	Word	Word	_	9	L	9:L	_
+2	the	_	Word	Word	_	3	E	3:E	_
+3	camerawork	_	Word	Word	_	0	H	0:H	_
+4	was	_	Word	Word	_	3	F	3:F	_
+5	relatively	_	Word	Word	_	6	E	6:E	_
+6	discreet	_	Word	Word	_	3	D	3:D	_
+7	during	_	Word	Word	_	9	L	9:L	_
+8	his	_	Word	Word	_	9	A	9:A	_
+9	debut	_	Word	Word	_	3	H	3:H	_
+10	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+11	with	_	Word	Word	_	14	L	14:L	_
+12	leg	_	Word	Word	_	14	A	14:A	_
+13	-	_	Punctuation	Punctuation	_	14	U	14:U	_
+14	concealing	_	Word	Word	_	3	H	3:H	_
+15	closeups	_	Word	Word	_	14	A	14:A	_
+16	when	_	Word	Word	_	18	L	18:L	_
+17	he	_	Word	Word	_	18	A	18:A	_
+18	danced	_	Word	Word	_	3	H	3:H	_
+19	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+20	the	_	Word	Word	_	21	F	21:F	_
+21	studio	_	Word	Word	_	28	A	28:A	_
+22	audience	_	Word	Word	_	21	A	21:A	_
+23	reacted	_	Word	Word	_	28	D	28:D	_
+24	in	_	Word	Word	_	26	R	26:R	_
+25	customary	_	Word	Word	_	26	E	26:E	_
+26	style	_	Word	Word	_	28	D	28:D	_
+27	:	_	Punctuation	Punctuation	_	28	U	28:U	_
+28	screaming	_	Word	Word	_	3	H	3:H	_
+29	.	_	Punctuation	Punctuation	_	28	U	28:U	_
 

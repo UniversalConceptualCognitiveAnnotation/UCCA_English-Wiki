@@ -1,21 +1,21 @@
 # format = ucca
 # sent_id = 505009
 # text = In March 1982 , the month before Paul Schrader 's film Cat People came out , Bowie 's title song , " Cat People ( Putting Out Fire ) " , was released as a single , becoming a minor US hit and entering the UK top 30 .
-1	In	_	Word	Word	_	3	R	3:R	_
-2	March	_	Word	Word	_	3	E	3:E	_
-3	1982	_	Word	Word	_	33	D	33:D	_
+1	In	_	Word	Word	_	2	R	2:R	_
+2	March	_	Word	Word	_	33	T	33:T	_
+3	1982	_	Word	Word	_	2	C	2:C	_
 4	,	_	Punctuation	Punctuation	_	33	U	33:U	_
-5	the	_	Word	Word	_	15	L	15:L	_
+5	the	_	Word	Word	_	14	L	14:L	_
 6	month	_	Word	Word	_	5	Terminal	5:Terminal	_
 7	before	_	Word	Word	_	5	Terminal	5:Terminal	_
 8	Paul	_	Word	Word	_	11	E	11:E	_
 9	Schrader	_	Word	Word	_	8	Terminal	8:Terminal	_
 10	's	_	Word	Word	_	8	R	8:R	_
 11	film	_	Word	Word	_	12	E	12:E	_
-12	Cat	_	Word	Word	_	15	A	15:A	_
+12	Cat	_	Word	Word	_	14	A	14:A	_
 13	People	_	Word	Word	_	12	Terminal	12:Terminal	_
-14	came	_	Word	Word	_	15	D	15:D	_
-15	out	_	Word	Word	_	33	H	33:H	_
+14	came	_	Word	Word	_	33	H	33:H	_
+15	out	_	Word	Word	_	14	Terminal	14:Terminal	_
 16	,	_	Punctuation	Punctuation	_	33	U	33:U	_
 17	Bowie	_	Word	Word	_	20	E	20:E	_
 18	's	_	Word	Word	_	17	R	17:R	_
@@ -38,16 +38,16 @@
 35	a	_	Word	Word	_	36	E	36:E	_
 36	single	_	Word	Word	_	33	A	33:A	_
 37	,	_	Punctuation	Punctuation	_	33	U	33:U	_
-38	becoming	_	Word	Word	_	33	H	33:H	_
+38	becoming	_	Word	Word	_	42	D	42:D	_
 39	a	_	Word	Word	_	42	E	42:E	_
-40	minor	_	Word	Word	_	42	E	42:E	_
-41	US	_	Word	Word	_	42	E	42:E	_
-42	hit	_	Word	Word	_	38	A	38:A	_
+40	minor	_	Word	Word	_	42	D	42:D	_
+41	US	_	Word	Word	_	42	A	42:A	_
+42	hit	_	Word	Word	_	33	H	33:H	_
 43	and	_	Word	Word	_	44	L	44:L	_
 44	entering	_	Word	Word	_	33	H	33:H	_
 45	the	_	Word	Word	_	47	E	47:E	_
 46	UK	_	Word	Word	_	47	E	47:E	_
 47	top	_	Word	Word	_	44	A	44:A	_
-48	30	_	Word	Word	_	47	E	47:E	_
+48	30	_	Word	Word	_	47	Q	47:Q	_
 49	.	_	Punctuation	Punctuation	_	47	U	47:U	_
 

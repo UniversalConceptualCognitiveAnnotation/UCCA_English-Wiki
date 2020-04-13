@@ -1,20 +1,20 @@
 # format = ucca
 # sent_id = 182003
 # text = She joined Warner Bros. in 1932 and established her career with several critically acclaimed performances .
-1	She	_	Word	Word	_	2	A	2:A|8:A	_
+1	She	_	Word	Word	_	2	A	2:A|10:A|15:A	_
 2	joined	_	Word	Word	_	0	H	0:H	_
 3	Warner	_	Word	Word	_	2	A	2:A	_
 4	Bros.	_	Word	Word	_	3	Terminal	3:Terminal	_
 5	in	_	Word	Word	_	6	R	6:R	_
-6	1932	_	Word	Word	_	2	D	2:D	_
-7	and	_	Word	Word	_	8	L	8:L	_
-8	established	_	Word	Word	_	2	H	2:H	_
-9	her	_	Word	Word	_	10	E	10:E	_
-10	career	_	Word	Word	_	8	A	8:A	_
-11	with	_	Word	Word	_	15	R	15:R	_
-12	several	_	Word	Word	_	15	E	15:E	_
+6	1932	_	Word	Word	_	2	T	2:T	_
+7	and	_	Word	Word	_	10	L	10:L	_
+8	established	_	Word	Word	_	10	D	10:D	_
+9	her	_	Word	Word	_	10	F	10:F	_
+10	career	_	Word	Word	_	2	H	2:H	_
+11	with	_	Word	Word	_	14	L	14:L	_
+12	several	_	Word	Word	_	15	D	15:D	_
 13	critically	_	Word	Word	_	14	A	14:A	_
-14	acclaimed	_	Word	Word	_	15	E	15:E	_
-15	performances	_	Word	Word	_	8	A	8:A	_
+14	acclaimed	_	Word	Word	_	2	H	2:H	_
+15	performances	_	Word	Word	_	2	H	2:H	_
 16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
 

@@ -1,18 +1,18 @@
 # format = ucca
 # sent_id = 129001
 # text = There was no such recurrence , and the picture was a commercial failure .
-1	There	_	Word	Word	_	2	F	2:F	_
-2	was	_	Word	Word	_	0	H	0:H	_
-3	no	_	Word	Word	_	2	D	2:D	_
-4	such	_	Word	Word	_	5	E	5:E	_
-5	recurrence	_	Word	Word	_	2	A	2:A	_
-6	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+1	There	_	Word	Word	_	5	F	5:F	_
+2	was	_	Word	Word	_	5	F	5:F	_
+3	no	_	Word	Word	_	5	D	5:D	_
+4	such	_	Word	Word	_	5	D	5:D	_
+5	recurrence	_	Word	Word	_	0	H	0:H	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 7	and	_	Word	Word	_	13	L	13:L	_
 8	the	_	Word	Word	_	9	E	9:E	_
 9	picture	_	Word	Word	_	13	A	13:A	_
 10	was	_	Word	Word	_	13	F	13:F	_
 11	a	_	Word	Word	_	12	E	12:E	_
-12	commercial	_	Word	Word	_	13	A	13:A	_
-13	failure	_	Word	Word	_	2	H	2:H	_
+12	commercial	_	Word	Word	_	13	D	13:D	_
+13	failure	_	Word	Word	_	5	H	5:H	_
 14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
 

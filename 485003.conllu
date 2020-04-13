@@ -1,39 +1,28 @@
 # format = ucca
 # sent_id = 485003
-# text = Bana has performed across a wide spectrum of leading roles in a variety of low - budget and major studio films , ranging from romantic comedies and drama to science fiction and action thrillers .
-1	Bana	_	Word	Word	_	3	A	3:A	_
-2	has	_	Word	Word	_	3	F	3:F	_
-3	performed	_	Word	Word	_	0	H	0:H	_
-4	across	_	Word	Word	_	10	R	10:R	_
-5	a	_	Word	Word	_	10	E	10:E	_
-6	wide	_	Word	Word	_	7	E	7:E	_
-7	spectrum	_	Word	Word	_	10	E	10:E	_
-8	of	_	Word	Word	_	7	R	7:R	_
-9	leading	_	Word	Word	_	10	E	10:E	_
-10	roles	_	Word	Word	_	3	A	3:A	_
-11	in	_	Word	Word	_	21	R	21:R	_
-12	a	_	Word	Word	_	21	E	21:E	_
-13	variety	_	Word	Word	_	21	E	21:E	_
-14	of	_	Word	Word	_	13	R	13:R	_
-15	low	_	Word	Word	_	17	E	17:E	_
-16	-	_	Punctuation	Punctuation	_	17	U	17:U	_
-17	budget	_	Word	Word	_	21	E	21:E	_
-18	and	_	Word	Word	_	17	N	17:N	_
-19	major	_	Word	Word	_	17	C	17:C	_
-20	studio	_	Word	Word	_	21	E	21:E	_
-21	films	_	Word	Word	_	10	E	10:E	_
+# text = Eric Bana was born Eric Banadinović in Melbourne , Victoria , the younger of two children ; he has a brother , Anthony .
+1	Eric	_	Word	Word	_	4	A	4:A|13:A	_
+2	Bana	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	was	_	Word	Word	_	4	F	4:F	_
+4	born	_	Word	Word	_	0	H	0:H	_
+5	Eric	_	Word	Word	_	4	A	4:A	_
+6	Banadinović	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	in	_	Word	Word	_	8	R	8:R	_
+8	Melbourne	_	Word	Word	_	4	A	4:A	_
+9	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+10	Victoria	_	Word	Word	_	8	C	8:C	_
+11	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+12	the	_	Word	Word	_	13	E	13:E	_
+13	younger	_	Word	Word	_	4	H	4:H	_
+14	of	_	Word	Word	_	16	R	16:R	_
+15	two	_	Word	Word	_	16	Q	16:Q	_
+16	children	_	Word	Word	_	13	E	13:E	_
+17	;	_	Punctuation	Punctuation	_	4	U	4:U	_
+18	he	_	Word	Word	_	21	A	21:A	_
+19	has	_	Word	Word	_	21	F	21:F	_
+20	a	_	Word	Word	_	21	E	21:E	_
+21	brother	_	Word	Word	_	4	H	4:H	_
 22	,	_	Punctuation	Punctuation	_	21	U	21:U	_
-23	ranging	_	Word	Word	_	21	E	21:E	_
-24	from	_	Word	Word	_	26	R	26:R	_
-25	romantic	_	Word	Word	_	26	E	26:E	_
-26	comedies	_	Word	Word	_	23	A	23:A	_
-27	and	_	Word	Word	_	26	N	26:N	_
-28	drama	_	Word	Word	_	26	C	26:C	_
-29	to	_	Word	Word	_	26	N	26:N	_
-30	science	_	Word	Word	_	31	E	31:E	_
-31	fiction	_	Word	Word	_	26	C	26:C	_
-32	and	_	Word	Word	_	31	N	31:N	_
-33	action	_	Word	Word	_	34	E	34:E	_
-34	thrillers	_	Word	Word	_	31	C	31:C	_
-35	.	_	Punctuation	Punctuation	_	34	U	34:U	_
+23	Anthony	_	Word	Word	_	21	A	21:A	_
+24	.	_	Punctuation	Punctuation	_	21	U	21:U	_
 

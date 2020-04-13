@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 138001
-# text = Hepburn said of playing such roles , " With Lizzie Curry [ The Rainmaker ] and Jane Hudson [ Summertime ] and Rosie Sayer [ The African Queen ] - I was playing me . It was n't difficult for me to play those women , because I 'm the maiden aunt . "
+# text = Hepburn said of playing such roles , " With Lizzie Curry [ The Rainmaker ] and Jane Hudson [ Summertime ] and Rosie Sayer [ The African Queen ] — I was playing me . It was n't difficult for me to play those women , because I 'm the maiden aunt . "
 1	Hepburn	_	Word	Word	_	2	A	2:A|4:A	_
 2	said	_	Word	Word	_	0	H	0:H	_
 3	of	_	Word	Word	_	4	R	4:R	_
@@ -30,7 +30,7 @@
 27	African	_	Word	Word	_	26	Terminal	26:Terminal	_
 28	Queen	_	Word	Word	_	26	Terminal	26:Terminal	_
 29	]	_	Punctuation	Punctuation	_	33	U	33:U	_
-30	-	_	Punctuation	Punctuation	_	33	U	33:U	_
+30	—	_	Punctuation	Punctuation	_	33	U	33:U	_
 31	I	_	Word	Word	_	33	A	33:A	_
 32	was	_	Word	Word	_	33	F	33:F	_
 33	playing	_	Word	Word	_	2	A	2:A	_

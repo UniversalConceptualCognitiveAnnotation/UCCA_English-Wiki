@@ -1,28 +1,23 @@
 # format = ucca
 # sent_id = 114008
-# text = In the 1940s she was contracted to Metro - Goldwyn - Mayer , where her career focused on an alliance with Spencer Tracy .
+# text = In the 1940s she was contracted to Metro-Goldwyn-Mayer, where her career focused on an alliance with Spencer Tracy .
 1	In	_	Word	Word	_	3	R	3:R	_
 2	the	_	Word	Word	_	3	E	3:E	_
-3	1940s	_	Word	Word	_	6	D	6:D	_
-4	she	_	Word	Word	_	6	A	6:A|20:A	_
+3	1940s	_	Word	Word	_	6	T	6:T	_
+4	she	_	Word	Word	_	6	A	6:A	_
 5	was	_	Word	Word	_	6	F	6:F	_
 6	contracted	_	Word	Word	_	0	H	0:H	_
 7	to	_	Word	Word	_	8	R	8:R	_
-8	Metro	_	Word	Word	_	6	A	6:A	_
-9	-	_	Punctuation	Punctuation	_	8	U	8:U	_
-10	Goldwyn	_	Word	Word	_	8	Terminal	8:Terminal	_
-11	-	_	Punctuation	Punctuation	_	8	U	8:U	_
-12	Mayer	_	Word	Word	_	8	Terminal	8:Terminal	_
-13	,	_	Punctuation	Punctuation	_	8	U	8:U	_
-14	where	_	Word	Word	_	17	R	17:R	_
-15	her	_	Word	Word	_	16	E	16:E	_
-16	career	_	Word	Word	_	17	A	17:A	_
-17	focused	_	Word	Word	_	8	E	8:E	_
-18	on	_	Word	Word	_	20	R	20:R	_
-19	an	_	Word	Word	_	20	E	20:E	_
-20	alliance	_	Word	Word	_	17	A	17:A	_
-21	with	_	Word	Word	_	22	R	22:R	_
-22	Spencer	_	Word	Word	_	20	A	20:A	_
-23	Tracy	_	Word	Word	_	22	Terminal	22:Terminal	_
-24	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+8	Metro-Goldwyn-Mayer,	_	Word	Word	_	6	A	6:A	_
+9	where	_	Word	Word	_	12	R	12:R	_
+10	her	_	Word	Word	_	11	A	11:A|15:A	_
+11	career	_	Word	Word	_	12	A	12:A	_
+12	focused	_	Word	Word	_	8	E	8:E	_
+13	on	_	Word	Word	_	15	R	15:R	_
+14	an	_	Word	Word	_	15	E	15:E	_
+15	alliance	_	Word	Word	_	12	A	12:A	_
+16	with	_	Word	Word	_	17	R	17:R	_
+17	Spencer	_	Word	Word	_	15	A	15:A	_
+18	Tracy	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	.	_	Punctuation	Punctuation	_	17	U	17:U	_
 

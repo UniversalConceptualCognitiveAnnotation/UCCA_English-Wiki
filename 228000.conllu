@@ -2,16 +2,16 @@
 # sent_id = 228000
 # text = In November 2007 , Chan began filming Shinjuku Incident , a dramatic role featuring no martial arts sequences with director Derek Yee , which sees Chan take on the role of a Chinese immigrant in Japan .
 1	In	_	Word	Word	_	2	R	2:R	_
-2	November	_	Word	Word	_	7	D	7:D	_
-3	2007	_	Word	Word	_	2	Terminal	2:Terminal	_
+2	November	_	Word	Word	_	7	T	7:T	_
+3	2007	_	Word	Word	_	2	C	2:C	_
 4	,	_	Punctuation	Punctuation	_	7	U	7:U	_
 5	Chan	_	Word	Word	_	7	A	7:A	_
 6	began	_	Word	Word	_	7	D	7:D	_
 7	filming	_	Word	Word	_	0	H	0:H	_
-8	Shinjuku	_	Word	Word	_	7	A	7:A|27:A	_
+8	Shinjuku	_	Word	Word	_	7	A	7:A|25:A	_
 9	Incident	_	Word	Word	_	8	Terminal	8:Terminal	_
 10	,	_	Punctuation	Punctuation	_	8	U	8:U	_
-11	a	_	Word	Word	_	13	E	13:E	_
+11	a	_	Word	Word	_	13	F	13:F	_
 12	dramatic	_	Word	Word	_	13	E	13:E	_
 13	role	_	Word	Word	_	8	E	8:E	_
 14	featuring	_	Word	Word	_	13	E	13:E	_
@@ -24,15 +24,15 @@
 21	Derek	_	Word	Word	_	7	A	7:A	_
 22	Yee	_	Word	Word	_	21	Terminal	21:Terminal	_
 23	,	_	Punctuation	Punctuation	_	7	U	7:U	_
-24	which	_	Word	Word	_	27	L	27:L	_
-25	sees	_	Word	Word	_	27	D	27:D	_
+24	which	_	Word	Word	_	25	L	25:L	_
+25	sees	_	Word	Word	_	7	H	7:H	_
 26	Chan	_	Word	Word	_	27	A	27:A	_
-27	take	_	Word	Word	_	7	H	7:H	_
+27	take	_	Word	Word	_	25	A	25:A	_
 28	on	_	Word	Word	_	27	Terminal	27:Terminal	_
-29	the	_	Word	Word	_	30	E	30:E	_
+29	the	_	Word	Word	_	30	F	30:F	_
 30	role	_	Word	Word	_	27	A	27:A	_
 31	of	_	Word	Word	_	34	R	34:R	_
-32	a	_	Word	Word	_	34	E	34:E	_
+32	a	_	Word	Word	_	34	F	34:F	_
 33	Chinese	_	Word	Word	_	34	E	34:E	_
 34	immigrant	_	Word	Word	_	30	E	30:E	_
 35	in	_	Word	Word	_	36	R	36:R	_

@@ -1,9 +1,9 @@
 # format = ucca
 # sent_id = 463004
 # text = Jennings 's widow , Kayce Freed , and family held a private service in New York .
-1	Jennings	_	Word	Word	_	3	E	3:E	_
+1	Jennings	_	Word	Word	_	5	E	5:E	_
 2	's	_	Word	Word	_	1	R	1:R	_
-3	widow	_	Word	Word	_	5	E	5:E	_
+3	widow	_	Word	Word	_	1	A	1:A	_
 4	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 5	Kayce	_	Word	Word	_	10	A	10:A	_
 6	Freed	_	Word	Word	_	5	Terminal	5:Terminal	_

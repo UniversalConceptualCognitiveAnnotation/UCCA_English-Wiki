@@ -1,16 +1,16 @@
 # format = ucca
 # sent_id = 66009
 # text = She began working as a fashion model , modeling mainly in Los Angeles , New York , and London .
-1	She	_	Word	Word	_	3	A	3:A|9:A	_
-2	began	_	Word	Word	_	3	D	3:D	_
-3	working	_	Word	Word	_	0	H	0:H	_
+1	She	_	Word	Word	_	7	A	7:A|9:A	_
+2	began	_	Word	Word	_	7	D	7:D	_
+3	working	_	Word	Word	_	7	D	7:D	_
 4	as	_	Word	Word	_	7	R	7:R	_
-5	a	_	Word	Word	_	7	E	7:E	_
-6	fashion	_	Word	Word	_	7	E	7:E	_
-7	model	_	Word	Word	_	3	A	3:A	_
-8	,	_	Punctuation	Punctuation	_	3	U	3:U	_
-9	modeling	_	Word	Word	_	3	H	3:H	_
-10	mainly	_	Word	Word	_	9	D	9:D	_
+5	a	_	Word	Word	_	7	F	7:F	_
+6	fashion	_	Word	Word	_	7	A	7:A	_
+7	model	_	Word	Word	_	0	H	0:H	_
+8	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	modeling	_	Word	Word	_	7	H	7:H	_
+10	mainly	_	Word	Word	_	11	E	11:E	_
 11	in	_	Word	Word	_	12	R	12:R	_
 12	Los	_	Word	Word	_	9	A	9:A	_
 13	Angeles	_	Word	Word	_	12	Terminal	12:Terminal	_

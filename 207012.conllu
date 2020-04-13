@@ -1,21 +1,29 @@
 # format = ucca
 # sent_id = 207012
-# text = For his performance in the production , Hoffman won a Drama Desk Award for Outstanding Performance .
-1	For	_	Word	Word	_	9	L	9:L	_
+# text = For his role as Ratso Rizzo in the film , Hoffman received his second Oscar nomination and the film won the Best Picture honor .
+1	For	_	Word	Word	_	12	L	12:L	_
 2	his	_	Word	Word	_	3	A	3:A	_
-3	performance	_	Word	Word	_	0	H	0:H	_
-4	in	_	Word	Word	_	6	R	6:R	_
-5	the	_	Word	Word	_	6	E	6:E	_
-6	production	_	Word	Word	_	3	A	3:A	_
-7	,	_	Punctuation	Punctuation	_	3	U	3:U	_
-8	Hoffman	_	Word	Word	_	9	A	9:A	_
-9	won	_	Word	Word	_	3	H	3:H	_
-10	a	_	Word	Word	_	13	E	13:E	_
-11	Drama	_	Word	Word	_	13	E	13:E	_
-12	Desk	_	Word	Word	_	11	Terminal	11:Terminal	_
-13	Award	_	Word	Word	_	9	A	9:A	_
-14	for	_	Word	Word	_	16	R	16:R	_
-15	Outstanding	_	Word	Word	_	16	E	16:E	_
-16	Performance	_	Word	Word	_	13	E	13:E	_
-17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+3	role	_	Word	Word	_	0	H	0:H	_
+4	as	_	Word	Word	_	5	R	5:R	_
+5	Ratso	_	Word	Word	_	3	A	3:A	_
+6	Rizzo	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	in	_	Word	Word	_	9	R	9:R	_
+8	the	_	Word	Word	_	9	F	9:F	_
+9	film	_	Word	Word	_	3	A	3:A	_
+10	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+11	Hoffman	_	Word	Word	_	12	A	12:A	_
+12	received	_	Word	Word	_	3	H	3:H	_
+13	his	_	Word	Word	_	16	A	16:A	_
+14	second	_	Word	Word	_	16	D	16:D	_
+15	Oscar	_	Word	Word	_	16	A	16:A	_
+16	nomination	_	Word	Word	_	12	A	12:A	_
+17	and	_	Word	Word	_	20	L	20:L	_
+18	the	_	Word	Word	_	19	F	19:F	_
+19	film	_	Word	Word	_	20	A	20:A	_
+20	won	_	Word	Word	_	3	H	3:H	_
+21	the	_	Word	Word	_	24	F	24:F	_
+22	Best	_	Word	Word	_	23	E	23:E	_
+23	Picture	_	Word	Word	_	24	E	24:E	_
+24	honor	_	Word	Word	_	20	A	20:A	_
+25	.	_	Punctuation	Punctuation	_	24	U	24:U	_
 

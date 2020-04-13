@@ -1,28 +1,28 @@
 # format = ucca
 # sent_id = 224007
 # text = The film established the comedic kung fu genre , and proved to be a breath of fresh air for the Hong Kong audience .
-1	The	_	Word	Word	_	2	E	2:E	_
-2	film	_	Word	Word	_	3	A	3:A|11:A	_
+1	The	_	Word	Word	_	2	F	2:F	_
+2	film	_	Word	Word	_	3	A	3:A|11:A|13:A	_
 3	established	_	Word	Word	_	0	H	0:H	_
-4	the	_	Word	Word	_	8	R	8:R	_
-5	comedic	_	Word	Word	_	8	E	8:E	_
-6	kung	_	Word	Word	_	8	E	8:E	_
+4	the	_	Word	Word	_	6	F	6:F	_
+5	comedic	_	Word	Word	_	6	E	6:E	_
+6	kung	_	Word	Word	_	3	A	3:A	_
 7	fu	_	Word	Word	_	6	Terminal	6:Terminal	_
-8	genre	_	Word	Word	_	3	A	3:A	_
+8	genre	_	Word	Word	_	6	E	6:E	_
 9	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 10	and	_	Word	Word	_	11	L	11:L	_
 11	proved	_	Word	Word	_	3	H	3:H	_
-12	to	_	Word	Word	_	11	F	11:F	_
-13	be	_	Word	Word	_	11	D	11:D	_
-14	a	_	Word	Word	_	15	E	15:E	_
-15	breath	_	Word	Word	_	11	A	11:A	_
-16	of	_	Word	Word	_	18	R	18:R	_
-17	fresh	_	Word	Word	_	18	E	18:E	_
-18	air	_	Word	Word	_	15	E	15:E	_
-19	for	_	Word	Word	_	23	R	23:R	_
-20	the	_	Word	Word	_	23	E	23:E	_
-21	Hong	_	Word	Word	_	23	E	23:E	_
+12	to	_	Word	Word	_	13	R	13:R	_
+13	be	_	Word	Word	_	11	A	11:A	_
+14	a	_	Word	Word	_	13	A	13:A	_
+15	breath	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	of	_	Word	Word	_	14	Terminal	14:Terminal	_
+17	fresh	_	Word	Word	_	14	Terminal	14:Terminal	_
+18	air	_	Word	Word	_	14	Terminal	14:Terminal	_
+19	for	_	Word	Word	_	21	R	21:R	_
+20	the	_	Word	Word	_	21	F	21:F	_
+21	Hong	_	Word	Word	_	13	A	13:A	_
 22	Kong	_	Word	Word	_	21	Terminal	21:Terminal	_
-23	audience	_	Word	Word	_	11	A	11:A	_
-24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+23	audience	_	Word	Word	_	21	A	21:A	_
+24	.	_	Punctuation	Punctuation	_	21	U	21:U	_
 

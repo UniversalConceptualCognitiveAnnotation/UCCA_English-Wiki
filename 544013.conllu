@@ -1,21 +1,21 @@
 # format = ucca
 # sent_id = 544013
 # text = Meanwhile , the studio received stern warnings from U.S . lawmaker Martin Dies about defaming a " friendly country . "
-1	Meanwhile	_	Word	Word	_	5	L	5:L	_
-2	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+1	Meanwhile	_	Word	Word	_	7	L	7:L	_
+2	,	_	Punctuation	Punctuation	_	7	U	7:U	_
 3	the	_	Word	Word	_	4	E	4:E	_
-4	studio	_	Word	Word	_	5	A	5:A	_
-5	received	_	Word	Word	_	0	H	0:H	_
-6	stern	_	Word	Word	_	7	E	7:E	_
-7	warnings	_	Word	Word	_	5	A	5:A	_
+4	studio	_	Word	Word	_	7	A	7:A	_
+5	received	_	Word	Word	_	7	D	7:D	_
+6	stern	_	Word	Word	_	7	D	7:D	_
+7	warnings	_	Word	Word	_	0	H	0:H	_
 8	from	_	Word	Word	_	12	R	12:R	_
-9	U.S	_	Word	Word	_	11	E	11:E	_
+9	U.S	_	Word	Word	_	11	A	11:A	_
 10	.	_	Punctuation	Punctuation	_	11	U	11:U	_
 11	lawmaker	_	Word	Word	_	12	E	12:E	_
-12	Martin	_	Word	Word	_	5	A	5:A	_
+12	Martin	_	Word	Word	_	7	A	7:A	_
 13	Dies	_	Word	Word	_	12	Terminal	12:Terminal	_
 14	about	_	Word	Word	_	15	R	15:R	_
-15	defaming	_	Word	Word	_	5	A	5:A	_
+15	defaming	_	Word	Word	_	7	A	7:A	_
 16	a	_	Word	Word	_	19	E	19:E	_
 17	"	_	Punctuation	Punctuation	_	19	U	19:U	_
 18	friendly	_	Word	Word	_	19	E	19:E	_

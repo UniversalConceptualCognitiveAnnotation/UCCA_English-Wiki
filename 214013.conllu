@@ -1,43 +1,43 @@
 # format = ucca
 # sent_id = 214013
 # text = Roger Ebert commented that Dunst 's creation of the child vampire Claudia was one of the " creepier " aspects of the film , and mentioned her ability to convey the impression of great age inside apparent youth .
-1	Roger	_	Word	Word	_	3	A	3:A	_
+1	Roger	_	Word	Word	_	3	A	3:A|26:A	_
 2	Ebert	_	Word	Word	_	1	Terminal	1:Terminal	_
 3	commented	_	Word	Word	_	0	H	0:H	_
-4	that	_	Word	Word	_	13	F	13:F	_
+4	that	_	Word	Word	_	13	R	13:R	_
 5	Dunst	_	Word	Word	_	7	A	7:A	_
 6	's	_	Word	Word	_	5	R	5:R	_
 7	creation	_	Word	Word	_	13	A	13:A	_
 8	of	_	Word	Word	_	12	R	12:R	_
-9	the	_	Word	Word	_	12	E	12:E	_
+9	the	_	Word	Word	_	12	F	12:F	_
 10	child	_	Word	Word	_	11	E	11:E	_
 11	vampire	_	Word	Word	_	12	E	12:E	_
 12	Claudia	_	Word	Word	_	7	A	7:A	_
 13	was	_	Word	Word	_	3	A	3:A	_
-14	one	_	Word	Word	_	20	E	20:E	_
+14	one	_	Word	Word	_	20	Q	20:Q	_
 15	of	_	Word	Word	_	14	R	14:R	_
-16	the	_	Word	Word	_	20	E	20:E	_
+16	the	_	Word	Word	_	20	F	20:F	_
 17	"	_	Punctuation	Punctuation	_	20	U	20:U	_
 18	creepier	_	Word	Word	_	20	E	20:E	_
-19	"	_	Punctuation	Punctuation	_	20	U	20:U	_
+19	"	_	Punctuation	Punctuation	_	18	U	18:U	_
 20	aspects	_	Word	Word	_	13	A	13:A	_
 21	of	_	Word	Word	_	23	R	23:R	_
-22	the	_	Word	Word	_	23	E	23:E	_
+22	the	_	Word	Word	_	23	F	23:F	_
 23	film	_	Word	Word	_	20	E	20:E	_
 24	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 25	and	_	Word	Word	_	26	L	26:L	_
 26	mentioned	_	Word	Word	_	3	H	3:H	_
-27	her	_	Word	Word	_	28	E	28:E	_
-28	ability	_	Word	Word	_	30	A	30:A	_
+27	her	_	Word	Word	_	30	A	30:A	_
+28	ability	_	Word	Word	_	30	D	30:D	_
 29	to	_	Word	Word	_	30	F	30:F	_
 30	convey	_	Word	Word	_	26	A	26:A	_
-31	the	_	Word	Word	_	35	E	35:E	_
-32	impression	_	Word	Word	_	35	E	35:E	_
-33	of	_	Word	Word	_	32	R	32:R	_
+31	the	_	Word	Word	_	32	F	32:F	_
+32	impression	_	Word	Word	_	30	A	30:A	_
+33	of	_	Word	Word	_	35	R	35:R	_
 34	great	_	Word	Word	_	35	E	35:E	_
-35	age	_	Word	Word	_	30	A	30:A	_
+35	age	_	Word	Word	_	32	A	32:A	_
 36	inside	_	Word	Word	_	38	R	38:R	_
 37	apparent	_	Word	Word	_	38	E	38:E	_
-38	youth	_	Word	Word	_	35	E	35:E	_
+38	youth	_	Word	Word	_	35	A	35:A	_
 39	.	_	Punctuation	Punctuation	_	38	U	38:U	_
 

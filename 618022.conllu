@@ -1,14 +1,14 @@
 # format = ucca
 # sent_id = 618022
 # text = Now formally dissolved , in 1995 it became absorbed in the Sony / ATV catalogue .
-1	Now	_	Word	Word	_	3	D	3:D	_
+1	Now	_	Word	Word	_	3	T	3:T	_
 2	formally	_	Word	Word	_	3	D	3:D	_
 3	dissolved	_	Word	Word	_	0	H	0:H	_
 4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 5	in	_	Word	Word	_	6	R	6:R	_
-6	1995	_	Word	Word	_	9	D	9:D	_
+6	1995	_	Word	Word	_	9	T	9:T	_
 7	it	_	Word	Word	_	9	A	9:A|3:A	_
-8	became	_	Word	Word	_	9	F	9:F	_
+8	became	_	Word	Word	_	9	D	9:D	_
 9	absorbed	_	Word	Word	_	3	H	3:H	_
 10	in	_	Word	Word	_	15	R	15:R	_
 11	the	_	Word	Word	_	15	E	15:E	_

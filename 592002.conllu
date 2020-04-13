@@ -2,15 +2,15 @@
 # sent_id = 592002
 # text = In July 2012 , Depp announced he would be co - editor , alongside Douglas Brinkley , of folk singer Woody Guthrie 's unpublished novel " House of Earth " , scheduled for release in 2013 .
 1	In	_	Word	Word	_	2	R	2:R	_
-2	July	_	Word	Word	_	6	D	6:D	_
-3	2012	_	Word	Word	_	2	Terminal	2:Terminal	_
+2	July	_	Word	Word	_	6	T	6:T	_
+3	2012	_	Word	Word	_	2	C	2:C	_
 4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 5	Depp	_	Word	Word	_	6	A	6:A	_
 6	announced	_	Word	Word	_	0	H	0:H	_
 7	he	_	Word	Word	_	12	A	12:A	_
-8	would	_	Word	Word	_	12	F	12:F	_
+8	would	_	Word	Word	_	12	D	12:D	_
 9	be	_	Word	Word	_	12	F	12:F	_
-10	co	_	Word	Word	_	12	E	12:E	_
+10	co	_	Word	Word	_	12	D	12:D	_
 11	-	_	Punctuation	Punctuation	_	12	U	12:U	_
 12	editor	_	Word	Word	_	6	A	6:A	_
 13	,	_	Punctuation	Punctuation	_	12	U	12:U	_
@@ -19,11 +19,11 @@
 16	Brinkley	_	Word	Word	_	15	Terminal	15:Terminal	_
 17	,	_	Punctuation	Punctuation	_	12	U	12:U	_
 18	of	_	Word	Word	_	27	R	27:R	_
-19	folk	_	Word	Word	_	20	E	20:E	_
-20	singer	_	Word	Word	_	21	E	21:E	_
-21	Woody	_	Word	Word	_	27	E	27:E	_
+19	folk	_	Word	Word	_	21	E	21:E	_
+20	singer	_	Word	Word	_	19	A	19:A	_
+21	Woody	_	Word	Word	_	23	A	23:A	_
 22	Guthrie	_	Word	Word	_	21	Terminal	21:Terminal	_
-23	's	_	Word	Word	_	21	R	21:R	_
+23	's	_	Word	Word	_	25	E	25:E	_
 24	unpublished	_	Word	Word	_	25	E	25:E	_
 25	novel	_	Word	Word	_	27	E	27:E	_
 26	"	_	Punctuation	Punctuation	_	27	U	27:U	_
@@ -36,6 +36,6 @@
 33	for	_	Word	Word	_	34	R	34:R	_
 34	release	_	Word	Word	_	32	A	32:A	_
 35	in	_	Word	Word	_	36	R	36:R	_
-36	2013	_	Word	Word	_	32	D	32:D	_
+36	2013	_	Word	Word	_	32	T	32:T	_
 37	.	_	Punctuation	Punctuation	_	36	U	36:U	_
 

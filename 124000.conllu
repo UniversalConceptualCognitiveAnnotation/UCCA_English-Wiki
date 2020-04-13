@@ -1,14 +1,14 @@
 # format = ucca
 # sent_id = 124000
 # text = Hepburn left Bryn Mawr determined to become an actress .
-1	Hepburn	_	Word	Word	_	2	A	2:A|5:A|7:A	_
+1	Hepburn	_	Word	Word	_	2	A	2:A|9:A	_
 2	left	_	Word	Word	_	0	H	0:H	_
 3	Bryn	_	Word	Word	_	2	A	2:A	_
 4	Mawr	_	Word	Word	_	3	Terminal	3:Terminal	_
-5	determined	_	Word	Word	_	2	A	2:A	_
-6	to	_	Word	Word	_	7	F	7:F	_
-7	become	_	Word	Word	_	5	A	5:A	_
+5	determined	_	Word	Word	_	9	D	9:D	_
+6	to	_	Word	Word	_	9	F	9:F	_
+7	become	_	Word	Word	_	9	D	9:D	_
 8	an	_	Word	Word	_	9	E	9:E	_
-9	actress	_	Word	Word	_	7	A	7:A	_
+9	actress	_	Word	Word	_	2	H	2:H	_
 10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
 

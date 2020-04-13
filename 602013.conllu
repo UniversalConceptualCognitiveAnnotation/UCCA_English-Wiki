@@ -1,26 +1,26 @@
 # format = ucca
 # sent_id = 602013
 # text = As McCartney explained , " We were fed up with being the Beatles . We really hated that fucking four little mop - top approach . We were not boys we were men ... and [ we ] thought of ourselves as artists rather than just performers . "
-1	As	_	Word	Word	_	3	R	3:R	_
+1	As	_	Word	Word	_	3	L	3:L	_
 2	McCartney	_	Word	Word	_	3	A	3:A	_
 3	explained	_	Word	Word	_	0	H	0:H	_
 4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 5	"	_	Punctuation	Punctuation	_	3	U	3:U	_
-6	We	_	Word	Word	_	8	A	8:A	_
+6	We	_	Word	Word	_	8	A	8:A|11:A	_
 7	were	_	Word	Word	_	8	F	8:F	_
 8	fed	_	Word	Word	_	3	A	3:A	_
 9	up	_	Word	Word	_	8	Terminal	8:Terminal	_
 10	with	_	Word	Word	_	11	R	11:R	_
 11	being	_	Word	Word	_	8	A	8:A	_
-12	the	_	Word	Word	_	13	E	13:E	_
-13	Beatles	_	Word	Word	_	11	A	11:A	_
+12	the	_	Word	Word	_	11	A	11:A	_
+13	Beatles	_	Word	Word	_	12	Terminal	12:Terminal	_
 14	.	_	Punctuation	Punctuation	_	8	U	8:U	_
 15	We	_	Word	Word	_	17	A	17:A	_
 16	really	_	Word	Word	_	17	D	17:D	_
 17	hated	_	Word	Word	_	8	H	8:H	_
 18	that	_	Word	Word	_	25	E	25:E	_
 19	fucking	_	Word	Word	_	25	E	25:E	_
-20	four	_	Word	Word	_	22	E	22:E	_
+20	four	_	Word	Word	_	22	Q	22:Q	_
 21	little	_	Word	Word	_	22	E	22:E	_
 22	mop	_	Word	Word	_	25	E	25:E	_
 23	-	_	Punctuation	Punctuation	_	22	U	22:U	_
@@ -46,7 +46,7 @@
 43	artists	_	Word	Word	_	39	A	39:A	_
 44	rather	_	Word	Word	_	47	R	47:R	_
 45	than	_	Word	Word	_	44	F	44:F	_
-46	just	_	Word	Word	_	47	E	47:E	_
+46	just	_	Word	Word	_	47	D	47:D	_
 47	performers	_	Word	Word	_	39	A	39:A	_
 48	.	_	Punctuation	Punctuation	_	47	U	47:U	_
 49	"	_	Punctuation	Punctuation	_	47	U	47:U	_

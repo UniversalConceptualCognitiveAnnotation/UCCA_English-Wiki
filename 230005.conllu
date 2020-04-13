@@ -1,33 +1,33 @@
 # format = ucca
 # sent_id = 230005
 # text = Promotional materials for Rumble in the Bronx emphasised that Chan performed all of the stunts , and one version of the movie poster even diagrammed his many injuries .
-1	Promotional	_	Word	Word	_	2	E	2:E	_
-2	materials	_	Word	Word	_	8	A	8:A	_
+1	Promotional	_	Word	Word	_	8	A	8:A	_
+2	materials	_	Word	Word	_	1	A	1:A	_
 3	for	_	Word	Word	_	4	R	4:R	_
-4	Rumble	_	Word	Word	_	2	E	2:E	_
+4	Rumble	_	Word	Word	_	1	A	1:A	_
 5	in	_	Word	Word	_	4	Terminal	4:Terminal	_
 6	the	_	Word	Word	_	4	Terminal	4:Terminal	_
 7	Bronx	_	Word	Word	_	4	Terminal	4:Terminal	_
 8	emphasised	_	Word	Word	_	0	H	0:H	_
-9	that	_	Word	Word	_	11	F	11:F	_
+9	that	_	Word	Word	_	11	R	11:R	_
 10	Chan	_	Word	Word	_	11	A	11:A	_
 11	performed	_	Word	Word	_	8	A	8:A	_
-12	all	_	Word	Word	_	15	E	15:E	_
-13	of	_	Word	Word	_	12	R	12:R	_
-14	the	_	Word	Word	_	15	E	15:E	_
+12	all	_	Word	Word	_	15	Q	15:Q	_
+13	of	_	Word	Word	_	15	R	15:R	_
+14	the	_	Word	Word	_	15	F	15:F	_
 15	stunts	_	Word	Word	_	11	A	11:A	_
 16	,	_	Punctuation	Punctuation	_	8	U	8:U	_
 17	and	_	Word	Word	_	25	L	25:L	_
-18	one	_	Word	Word	_	19	E	19:E	_
+18	one	_	Word	Word	_	19	Q	19:Q	_
 19	version	_	Word	Word	_	23	E	23:E	_
-20	of	_	Word	Word	_	19	R	19:R	_
-21	the	_	Word	Word	_	23	E	23:E	_
+20	of	_	Word	Word	_	23	R	23:R	_
+21	the	_	Word	Word	_	23	F	23:F	_
 22	movie	_	Word	Word	_	23	E	23:E	_
 23	poster	_	Word	Word	_	25	A	25:A	_
 24	even	_	Word	Word	_	25	D	25:D	_
 25	diagrammed	_	Word	Word	_	8	H	8:H	_
-26	his	_	Word	Word	_	28	E	28:E	_
-27	many	_	Word	Word	_	28	E	28:E	_
+26	his	_	Word	Word	_	28	A	28:A	_
+27	many	_	Word	Word	_	28	D	28:D	_
 28	injuries	_	Word	Word	_	25	A	25:A	_
 29	.	_	Punctuation	Punctuation	_	28	U	28:U	_
 

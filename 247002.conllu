@@ -1,23 +1,45 @@
 # format = ucca
 # sent_id = 247002
-# text = He also appeared that year in Frank Whaley 's directorial debut , Joe the King ( 1999 ) .
+# text = He also appeared that year in Frank Whaley 's directorial debut , Joe the King ( 1999 ) . Hawke 's next film role was in Michael Almereyda 's 2000 film Hamlet , in which he played the title character .
 1	He	_	Word	Word	_	3	A	3:A	_
-2	also	_	Word	Word	_	3	L	3:L	_
+2	also	_	Word	Word	_	24	L	24:L	_
 3	appeared	_	Word	Word	_	0	H	0:H	_
 4	that	_	Word	Word	_	5	E	5:E	_
-5	year	_	Word	Word	_	3	D	3:D	_
+5	year	_	Word	Word	_	3	T	3:T	_
 6	in	_	Word	Word	_	13	R	13:R	_
-7	Frank	_	Word	Word	_	11	A	11:A	_
+7	Frank	_	Word	Word	_	10	A	10:A	_
 8	Whaley	_	Word	Word	_	7	Terminal	7:Terminal	_
 9	's	_	Word	Word	_	7	R	7:R	_
-10	directorial	_	Word	Word	_	11	E	11:E	_
-11	debut	_	Word	Word	_	13	E	13:E	_
-12	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+10	directorial	_	Word	Word	_	13	E	13:E	_
+11	debut	_	Word	Word	_	10	D	10:D	_
+12	,	_	Punctuation	Punctuation	_	10	U	10:U	_
 13	Joe	_	Word	Word	_	3	A	3:A	_
 14	the	_	Word	Word	_	13	Terminal	13:Terminal	_
 15	King	_	Word	Word	_	13	Terminal	13:Terminal	_
 16	(	_	Punctuation	Punctuation	_	13	U	13:U	_
 17	1999	_	Word	Word	_	13	E	13:E	_
-18	)	_	Punctuation	Punctuation	_	13	U	13:U	_
-19	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+18	)	_	Punctuation	Punctuation	_	3	U	3:U	_
+19	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+20	Hawke	_	Word	Word	_	24	A	24:A	_
+21	's	_	Word	Word	_	20	R	20:R	_
+22	next	_	Word	Word	_	24	D	24:D	_
+23	film	_	Word	Word	_	24	A	24:A	_
+24	role	_	Word	Word	_	3	H	3:H	_
+25	was	_	Word	Word	_	24	F	24:F	_
+26	in	_	Word	Word	_	32	R	32:R	_
+27	Michael	_	Word	Word	_	29	A	29:A	_
+28	Almereyda	_	Word	Word	_	27	Terminal	27:Terminal	_
+29	's	_	Word	Word	_	31	E	31:E	_
+30	2000	_	Word	Word	_	31	E	31:E	_
+31	film	_	Word	Word	_	32	E	32:E	_
+32	Hamlet	_	Word	Word	_	24	A	24:A	_
+33	,	_	Punctuation	Punctuation	_	32	U	32:U	_
+34	in	_	Word	Word	_	37	A	37:A	_
+35	which	_	Word	Word	_	37	R	37:R	_
+36	he	_	Word	Word	_	37	A	37:A	_
+37	played	_	Word	Word	_	32	E	32:E	_
+38	the	_	Word	Word	_	40	F	40:F	_
+39	title	_	Word	Word	_	40	E	40:E	_
+40	character	_	Word	Word	_	37	A	37:A	_
+41	.	_	Punctuation	Punctuation	_	40	U	40:U	_
 

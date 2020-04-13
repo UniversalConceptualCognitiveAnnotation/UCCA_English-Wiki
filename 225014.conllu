@@ -1,20 +1,20 @@
 # format = ucca
 # sent_id = 225014
 # text = The film was Chan 's biggest domestic box office success up to that point , grossing over HK$35 million .
-1	The	_	Word	Word	_	2	E	2:E	_
+1	The	_	Word	Word	_	2	F	2:F	_
 2	film	_	Word	Word	_	3	A	3:A|16:A	_
 3	was	_	Word	Word	_	0	H	0:H	_
-4	Chan	_	Word	Word	_	10	E	10:E	_
+4	Chan	_	Word	Word	_	10	A	10:A	_
 5	's	_	Word	Word	_	4	R	4:R	_
-6	biggest	_	Word	Word	_	10	E	10:E	_
+6	biggest	_	Word	Word	_	10	D	10:D	_
 7	domestic	_	Word	Word	_	9	E	9:E	_
 8	box	_	Word	Word	_	9	E	9:E	_
-9	office	_	Word	Word	_	10	E	10:E	_
+9	office	_	Word	Word	_	10	A	10:A	_
 10	success	_	Word	Word	_	3	A	3:A	_
 11	up	_	Word	Word	_	14	R	14:R	_
 12	to	_	Word	Word	_	11	Terminal	11:Terminal	_
 13	that	_	Word	Word	_	14	E	14:E	_
-14	point	_	Word	Word	_	3	D	3:D	_
+14	point	_	Word	Word	_	3	T	3:T	_
 15	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 16	grossing	_	Word	Word	_	3	H	3:H	_
 17	over	_	Word	Word	_	18	R	18:R	_

@@ -1,12 +1,12 @@
 # format = ucca
 # sent_id = 600010
 # text = He found it difficult to play guitar right - handed , but after noticing a poster advertising a Slim Whitman concert and realising that Whitman also played left - handed , he reversed the order of the strings .
-1	He	_	Word	Word	_	2	A	2:A|4:A|6:A|14:A|23:A	_
+1	He	_	Word	Word	_	2	A	2:A|6:A|14:A|23:A	_
 2	found	_	Word	Word	_	0	H	0:H	_
 3	it	_	Word	Word	_	2	A	2:A	_
-4	difficult	_	Word	Word	_	2	A	2:A	_
+4	difficult	_	Word	Word	_	6	D	6:D	_
 5	to	_	Word	Word	_	6	F	6:F	_
-6	play	_	Word	Word	_	4	A	4:A	_
+6	play	_	Word	Word	_	2	A	2:A	_
 7	guitar	_	Word	Word	_	6	A	6:A	_
 8	right	_	Word	Word	_	10	E	10:E	_
 9	-	_	Punctuation	Punctuation	_	10	U	10:U	_
@@ -19,12 +19,12 @@
 16	poster	_	Word	Word	_	14	A	14:A	_
 17	advertising	_	Word	Word	_	16	E	16:E	_
 18	a	_	Word	Word	_	21	E	21:E	_
-19	Slim	_	Word	Word	_	21	E	21:E	_
+19	Slim	_	Word	Word	_	21	A	21:A	_
 20	Whitman	_	Word	Word	_	19	Terminal	19:Terminal	_
 21	concert	_	Word	Word	_	17	A	17:A	_
 22	and	_	Word	Word	_	23	L	23:L	_
 23	realising	_	Word	Word	_	2	H	2:H	_
-24	that	_	Word	Word	_	27	F	27:F	_
+24	that	_	Word	Word	_	27	R	27:R	_
 25	Whitman	_	Word	Word	_	27	A	27:A	_
 26	also	_	Word	Word	_	27	D	27:D	_
 27	played	_	Word	Word	_	23	A	23:A	_

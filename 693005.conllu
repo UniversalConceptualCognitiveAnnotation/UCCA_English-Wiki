@@ -1,10 +1,10 @@
 # format = ucca
 # sent_id = 693005
 # text = Many of his most famous early songs first reached the public through more immediately palatable versions by other performers , such as Joan Baez , who became Dylan 's advocate , as well as his lover .
-1	Many	_	Word	Word	_	7	E	7:E	_
+1	Many	_	Word	Word	_	7	Q	7:Q	_
 2	of	_	Word	Word	_	7	R	7:R	_
 3	his	_	Word	Word	_	7	E	7:E	_
-4	most	_	Word	Word	_	5	E	5:E	_
+4	most	_	Word	Word	_	5	D	5:D	_
 5	famous	_	Word	Word	_	7	E	7:E	_
 6	early	_	Word	Word	_	7	E	7:E	_
 7	songs	_	Word	Word	_	9	A	9:A	_
@@ -13,29 +13,29 @@
 10	the	_	Word	Word	_	11	E	11:E	_
 11	public	_	Word	Word	_	9	A	9:A	_
 12	through	_	Word	Word	_	16	R	16:R	_
-13	more	_	Word	Word	_	16	E	16:E	_
-14	immediately	_	Word	Word	_	15	E	15:E	_
+13	more	_	Word	Word	_	15	D	15:D	_
+14	immediately	_	Word	Word	_	15	T	15:T	_
 15	palatable	_	Word	Word	_	16	E	16:E	_
 16	versions	_	Word	Word	_	9	A	9:A	_
 17	by	_	Word	Word	_	19	R	19:R	_
-18	other	_	Word	Word	_	19	E	19:E	_
-19	performers	_	Word	Word	_	16	A	16:A	_
-20	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+18	other	_	Word	Word	_	19	D	19:D	_
+19	performers	_	Word	Word	_	16	E	16:E	_
+20	,	_	Punctuation	Punctuation	_	19	U	19:U	_
 21	such	_	Word	Word	_	23	R	23:R	_
 22	as	_	Word	Word	_	21	Terminal	21:Terminal	_
-23	Joan	_	Word	Word	_	16	E	16:E	_
+23	Joan	_	Word	Word	_	19	E	19:E	_
 24	Baez	_	Word	Word	_	23	Terminal	23:Terminal	_
 25	,	_	Punctuation	Punctuation	_	23	U	23:U	_
-26	who	_	Word	Word	_	27	R	27:R	_
-27	became	_	Word	Word	_	23	E	23:E	_
-28	Dylan	_	Word	Word	_	30	E	30:E	_
-29	's	_	Word	Word	_	30	R	30:R	_
-30	advocate	_	Word	Word	_	27	A	27:A	_
+26	who	_	Word	Word	_	30	R	30:R	_
+27	became	_	Word	Word	_	30	D	30:D|36:D	_
+28	Dylan	_	Word	Word	_	30	A	30:A	_
+29	's	_	Word	Word	_	28	R	28:R	_
+30	advocate	_	Word	Word	_	23	E	23:E	_
 31	,	_	Punctuation	Punctuation	_	30	U	30:U	_
-32	as	_	Word	Word	_	30	N	30:N	_
+32	as	_	Word	Word	_	36	L	36:L	_
 33	well	_	Word	Word	_	32	Terminal	32:Terminal	_
 34	as	_	Word	Word	_	32	Terminal	32:Terminal	_
-35	his	_	Word	Word	_	36	E	36:E	_
-36	lover	_	Word	Word	_	30	C	30:C	_
+35	his	_	Word	Word	_	36	A	36:A	_
+36	lover	_	Word	Word	_	30	H	30:H	_
 37	.	_	Punctuation	Punctuation	_	36	U	36:U	_
 

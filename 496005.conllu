@@ -1,30 +1,30 @@
 # format = ucca
 # sent_id = 496005
 # text = Space Oddity " was released on 11 July , five days ahead of the Apollo 11 launch , to become a UK top five hit .
-1	Space	_	Word	Word	_	5	A	5:A|20:A	_
+1	Space	_	Word	Word	_	5	A	5:A|25:A	_
 2	Oddity	_	Word	Word	_	1	Terminal	1:Terminal	_
 3	"	_	Punctuation	Punctuation	_	5	U	5:U	_
 4	was	_	Word	Word	_	5	F	5:F	_
 5	released	_	Word	Word	_	0	H	0:H	_
-6	on	_	Word	Word	_	8	R	8:R	_
-7	11	_	Word	Word	_	8	E	8:E	_
-8	July	_	Word	Word	_	5	D	5:D	_
+6	on	_	Word	Word	_	7	R	7:R	_
+7	11	_	Word	Word	_	5	T	5:T	_
+8	July	_	Word	Word	_	7	C	7:C	_
 9	,	_	Punctuation	Punctuation	_	5	U	5:U	_
-10	five	_	Word	Word	_	11	E	11:E	_
+10	five	_	Word	Word	_	11	Q	11:Q	_
 11	days	_	Word	Word	_	12	E	12:E	_
 12	ahead	_	Word	Word	_	17	L	17:L	_
-13	of	_	Word	Word	_	12	F	12:F	_
+13	of	_	Word	Word	_	12	Terminal	12:Terminal	_
 14	the	_	Word	Word	_	15	E	15:E	_
 15	Apollo	_	Word	Word	_	17	A	17:A	_
-16	11	_	Word	Word	_	15	E	15:E	_
+16	11	_	Word	Word	_	15	Terminal	15:Terminal	_
 17	launch	_	Word	Word	_	5	H	5:H	_
 18	,	_	Punctuation	Punctuation	_	5	U	5:U	_
-19	to	_	Word	Word	_	20	L	20:L	_
-20	become	_	Word	Word	_	5	H	5:H	_
-21	a	_	Word	Word	_	25	E	25:E	_
-22	UK	_	Word	Word	_	25	E	25:E	_
-23	top	_	Word	Word	_	25	E	25:E	_
-24	five	_	Word	Word	_	23	E	23:E	_
-25	hit	_	Word	Word	_	20	A	20:A	_
+19	to	_	Word	Word	_	25	L	25:L	_
+20	become	_	Word	Word	_	25	D	25:D	_
+21	a	_	Word	Word	_	23	E	23:E	_
+22	UK	_	Word	Word	_	25	A	25:A	_
+23	top	_	Word	Word	_	25	A	25:A	_
+24	five	_	Word	Word	_	23	Q	23:Q	_
+25	hit	_	Word	Word	_	5	H	5:H	_
 26	.	_	Punctuation	Punctuation	_	25	U	25:U	_
 

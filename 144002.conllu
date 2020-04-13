@@ -1,21 +1,21 @@
 # format = ucca
 # sent_id = 144002
 # text = In 1985 , she presented a television documentary about the life and career of Spencer Tracy .
-1	In	_	Word	Word	_	2	E	2:E	_
-2	1985	_	Word	Word	_	5	D	5:D	_
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1985	_	Word	Word	_	5	T	5:T	_
 3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 4	she	_	Word	Word	_	5	A	5:A	_
 5	presented	_	Word	Word	_	0	H	0:H	_
 6	a	_	Word	Word	_	8	E	8:E	_
 7	television	_	Word	Word	_	8	E	8:E	_
 8	documentary	_	Word	Word	_	5	A	5:A	_
-9	about	_	Word	Word	_	11	R	11:R	_
-10	the	_	Word	Word	_	11	E	11:E	_
+9	about	_	Word	Word	_	11	R	11:R|13:R	_
+10	the	_	Word	Word	_	11	F	11:F	_
 11	life	_	Word	Word	_	8	E	8:E	_
-12	and	_	Word	Word	_	11	N	11:N	_
-13	career	_	Word	Word	_	11	C	11:C	_
+12	and	_	Word	Word	_	13	L	13:L	_
+13	career	_	Word	Word	_	11	H	11:H	_
 14	of	_	Word	Word	_	15	R	15:R	_
-15	Spencer	_	Word	Word	_	11	A	11:A	_
+15	Spencer	_	Word	Word	_	11	A	11:A|13:A	_
 16	Tracy	_	Word	Word	_	15	Terminal	15:Terminal	_
 17	.	_	Punctuation	Punctuation	_	15	U	15:U	_
 

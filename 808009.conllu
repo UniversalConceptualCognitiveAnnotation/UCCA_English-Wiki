@@ -1,12 +1,12 @@
 # format = ucca
 # sent_id = 808009
 # text = They had a five - year relationship and planned to marry , but Asher broke off the engagement after she discovered he had become involved with Francie Schwartz .
-1	They	_	Word	Word	_	7	A	7:A|9:A|11:A	_
+1	They	_	Word	Word	_	7	A	7:A|9:A|11:A|18:A	_
 2	had	_	Word	Word	_	7	F	7:F	_
 3	a	_	Word	Word	_	7	E	7:E	_
-4	five	_	Word	Word	_	6	E	6:E	_
+4	five	_	Word	Word	_	6	Q	6:Q	_
 5	-	_	Punctuation	Punctuation	_	6	U	6:U	_
-6	year	_	Word	Word	_	7	D	7:D	_
+6	year	_	Word	Word	_	7	T	7:T	_
 7	relationship	_	Word	Word	_	0	H	0:H	_
 8	and	_	Word	Word	_	9	L	9:L	_
 9	planned	_	Word	Word	_	7	H	7:H	_
@@ -16,7 +16,7 @@
 13	but	_	Word	Word	_	15	L	15:L	_
 14	Asher	_	Word	Word	_	15	A	15:A	_
 15	broke	_	Word	Word	_	7	H	7:H	_
-16	off	_	Word	Word	_	15	R	15:R	_
+16	off	_	Word	Word	_	15	Terminal	15:Terminal	_
 17	the	_	Word	Word	_	18	E	18:E	_
 18	engagement	_	Word	Word	_	15	A	15:A	_
 19	after	_	Word	Word	_	21	L	21:L	_

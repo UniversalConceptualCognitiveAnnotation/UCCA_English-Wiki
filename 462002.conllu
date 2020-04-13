@@ -2,10 +2,10 @@
 # sent_id = 462002
 # text = On April 5 , 2005 , Jennings informed viewers through a taped message on World News Tonight that he had been diagnosed with lung cancer , and was starting chemotherapy treatment the following week . "
 1	On	_	Word	Word	_	2	R	2:R	_
-2	April	_	Word	Word	_	8	D	8:D	_
-3	5	_	Word	Word	_	2	Terminal	2:Terminal	_
+2	April	_	Word	Word	_	8	T	8:T	_
+3	5	_	Word	Word	_	2	C	2:C	_
 4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
-5	2005	_	Word	Word	_	2	Terminal	2:Terminal	_
+5	2005	_	Word	Word	_	2	C	2:C	_
 6	,	_	Punctuation	Punctuation	_	8	U	8:U	_
 7	Jennings	_	Word	Word	_	8	A	8:A	_
 8	informed	_	Word	Word	_	0	H	0:H	_
@@ -20,8 +20,8 @@
 17	Tonight	_	Word	Word	_	15	Terminal	15:Terminal	_
 18	that	_	Word	Word	_	22	R	22:R	_
 19	he	_	Word	Word	_	22	A	22:A|29:A	_
-20	had	_	Word	Word	_	21	E	21:E	_
-21	been	_	Word	Word	_	22	E	22:E	_
+20	had	_	Word	Word	_	22	F	22:F	_
+21	been	_	Word	Word	_	22	F	22:F	_
 22	diagnosed	_	Word	Word	_	8	A	8:A	_
 23	with	_	Word	Word	_	25	R	25:R	_
 24	lung	_	Word	Word	_	25	E	25:E	_
@@ -34,7 +34,7 @@
 31	treatment	_	Word	Word	_	29	A	29:A	_
 32	the	_	Word	Word	_	34	E	34:E	_
 33	following	_	Word	Word	_	34	E	34:E	_
-34	week	_	Word	Word	_	29	D	29:D	_
+34	week	_	Word	Word	_	29	T	29:T	_
 35	.	_	Punctuation	Punctuation	_	34	U	34:U	_
 36	"	_	Punctuation	Punctuation	_	34	U	34:U	_
 

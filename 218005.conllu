@@ -1,17 +1,17 @@
 # format = ucca
 # sent_id = 218005
 # text = Dunst 's next film role was the title character in the 2006 biographical film Marie Antoinette .
-1	Dunst	_	Word	Word	_	5	E	5:E	_
+1	Dunst	_	Word	Word	_	5	A	5:A	_
 2	's	_	Word	Word	_	1	R	1:R	_
-3	next	_	Word	Word	_	5	E	5:E	_
-4	film	_	Word	Word	_	5	E	5:E	_
+3	next	_	Word	Word	_	5	D	5:D	_
+4	film	_	Word	Word	_	5	A	5:A	_
 5	role	_	Word	Word	_	6	A	6:A	_
 6	was	_	Word	Word	_	0	H	0:H	_
-7	the	_	Word	Word	_	9	E	9:E	_
+7	the	_	Word	Word	_	9	F	9:F	_
 8	title	_	Word	Word	_	9	E	9:E	_
 9	character	_	Word	Word	_	6	A	6:A	_
 10	in	_	Word	Word	_	15	R	15:R	_
-11	the	_	Word	Word	_	15	E	15:E	_
+11	the	_	Word	Word	_	15	F	15:F	_
 12	2006	_	Word	Word	_	15	E	15:E	_
 13	biographical	_	Word	Word	_	14	E	14:E	_
 14	film	_	Word	Word	_	15	E	15:E	_

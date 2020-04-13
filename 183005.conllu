@@ -2,7 +2,7 @@
 # sent_id = 183005
 # text = In 1999 , Davis was placed second , after Katharine Hepburn , on the American Film Institute 's list of the greatest female stars of all time .
 1	In	_	Word	Word	_	2	R	2:R	_
-2	1999	_	Word	Word	_	6	D	6:D	_
+2	1999	_	Word	Word	_	6	T	6:T	_
 3	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 4	Davis	_	Word	Word	_	6	A	6:A	_
 5	was	_	Word	Word	_	6	F	6:F	_
@@ -14,14 +14,14 @@
 11	Hepburn	_	Word	Word	_	10	Terminal	10:Terminal	_
 12	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 13	on	_	Word	Word	_	19	R	19:R	_
-14	the	_	Word	Word	_	19	E	19:E	_
+14	the	_	Word	Word	_	19	F	19:F	_
 15	American	_	Word	Word	_	17	E	17:E	_
 16	Film	_	Word	Word	_	17	E	17:E	_
 17	Institute	_	Word	Word	_	19	E	19:E	_
 18	's	_	Word	Word	_	17	R	17:R	_
 19	list	_	Word	Word	_	6	A	6:A	_
 20	of	_	Word	Word	_	24	R	24:R	_
-21	the	_	Word	Word	_	24	E	24:E	_
+21	the	_	Word	Word	_	24	F	24:F	_
 22	greatest	_	Word	Word	_	24	E	24:E	_
 23	female	_	Word	Word	_	24	E	24:E	_
 24	stars	_	Word	Word	_	19	E	19:E	_

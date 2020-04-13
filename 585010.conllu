@@ -1,12 +1,35 @@
 # format = ucca
 # sent_id = 585010
-# text = The two divorced when Johnny was 15 .
-1	The	_	Word	Word	_	2	E	2:E	_
-2	two	_	Word	Word	_	3	A	3:A	_
-3	divorced	_	Word	Word	_	0	H	0:H	_
-4	when	_	Word	Word	_	7	L	7:L	_
-5	Johnny	_	Word	Word	_	7	A	7:A	_
-6	was	_	Word	Word	_	7	F	7:F	_
-7	15	_	Word	Word	_	3	H	3:H	_
-8	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+# text = The BBC genealogical TV program Who Do You Think You Are ? , traced Depp 's family name , Deppes , to 14th - century French Huguenots living in England .
+1	The	_	Word	Word	_	6	F	6:F	_
+2	BBC	_	Word	Word	_	5	E	5:E	_
+3	genealogical	_	Word	Word	_	5	E	5:E	_
+4	TV	_	Word	Word	_	5	E	5:E	_
+5	program	_	Word	Word	_	6	E	6:E	_
+6	Who	_	Word	Word	_	14	A	14:A	_
+7	Do	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	You	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	Think	_	Word	Word	_	6	Terminal	6:Terminal	_
+10	You	_	Word	Word	_	6	Terminal	6:Terminal	_
+11	Are	_	Word	Word	_	6	Terminal	6:Terminal	_
+12	?	_	Punctuation	Punctuation	_	14	U	14:U	_
+13	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+14	traced	_	Word	Word	_	0	H	0:H	_
+15	Depp	_	Word	Word	_	18	E	18:E	_
+16	's	_	Word	Word	_	15	R	15:R	_
+17	family	_	Word	Word	_	18	E	18:E	_
+18	name	_	Word	Word	_	20	E	20:E	_
+19	,	_	Punctuation	Punctuation	_	20	U	20:U	_
+20	Deppes	_	Word	Word	_	14	A	14:A	_
+21	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+22	to	_	Word	Word	_	27	R	27:R	_
+23	14th	_	Word	Word	_	25	Q	25:Q	_
+24	-	_	Punctuation	Punctuation	_	25	U	25:U	_
+25	century	_	Word	Word	_	27	E	27:E	_
+26	French	_	Word	Word	_	27	E	27:E	_
+27	Huguenots	_	Word	Word	_	14	A	14:A	_
+28	living	_	Word	Word	_	27	E	27:E	_
+29	in	_	Word	Word	_	30	R	30:R	_
+30	England	_	Word	Word	_	28	A	28:A	_
+31	.	_	Punctuation	Punctuation	_	30	U	30:U	_
 

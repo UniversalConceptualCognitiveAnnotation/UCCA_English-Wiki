@@ -1,18 +1,18 @@
 # format = ucca
 # sent_id = 183007
 # text = The family was Protestant , of English , French , and Welsh ancestry .
-1	The	_	Word	Word	_	2	E	2:E	_
-2	family	_	Word	Word	_	3	A	3:A|6:A	_
-3	was	_	Word	Word	_	0	H	0:H	_
-4	Protestant	_	Word	Word	_	3	A	3:A	_
-5	,	_	Punctuation	Punctuation	_	3	U	3:U	_
-6	of	_	Word	Word	_	3	H	3:H	_
-7	English	_	Word	Word	_	13	E	13:E	_
+1	The	_	Word	Word	_	2	F	2:F	_
+2	family	_	Word	Word	_	0	C	0:C|13:A	_
+3	was	_	Word	Word	_	4	F	4:F	_
+4	Protestant	_	Word	Word	_	0	H	0:H	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	of	_	Word	Word	_	7	R	7:R	_
+7	English	_	Word	Word	_	13	A	13:A	_
 8	,	_	Punctuation	Punctuation	_	7	U	7:U	_
 9	French	_	Word	Word	_	7	C	7:C	_
 10	,	_	Punctuation	Punctuation	_	7	U	7:U	_
 11	and	_	Word	Word	_	7	N	7:N	_
 12	Welsh	_	Word	Word	_	7	C	7:C	_
-13	ancestry	_	Word	Word	_	6	A	6:A	_
+13	ancestry	_	Word	Word	_	4	H	4:H	_
 14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
 

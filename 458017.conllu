@@ -1,10 +1,10 @@
 # format = ucca
 # sent_id = 458017
 # text = A 24 - hour strike by the National Association of Broadcast Employees and Technicians disrupted ABC 's coverage of 1998 's November elections after talks between the union and ABC broke down .
-1	A	_	Word	Word	_	4	E	4:E	_
-2	24	_	Word	Word	_	4	E	4:E	_
+1	A	_	Word	Word	_	5	E	5:E	_
+2	24	_	Word	Word	_	4	Q	4:Q	_
 3	-	_	Punctuation	Punctuation	_	4	U	4:U	_
-4	hour	_	Word	Word	_	5	D	5:D	_
+4	hour	_	Word	Word	_	5	T	5:T	_
 5	strike	_	Word	Word	_	15	A	15:A	_
 6	by	_	Word	Word	_	9	R	9:R	_
 7	the	_	Word	Word	_	9	E	9:E	_
@@ -20,9 +20,9 @@
 17	's	_	Word	Word	_	16	R	16:R	_
 18	coverage	_	Word	Word	_	15	A	15:A	_
 19	of	_	Word	Word	_	23	R	23:R	_
-20	1998	_	Word	Word	_	23	E	23:E	_
+20	1998	_	Word	Word	_	23	T	23:T	_
 21	's	_	Word	Word	_	20	R	20:R	_
-22	November	_	Word	Word	_	23	E	23:E	_
+22	November	_	Word	Word	_	23	T	23:T	_
 23	elections	_	Word	Word	_	18	E	18:E	_
 24	after	_	Word	Word	_	31	L	31:L	_
 25	talks	_	Word	Word	_	31	A	31:A	_

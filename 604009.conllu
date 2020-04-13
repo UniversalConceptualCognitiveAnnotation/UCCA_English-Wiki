@@ -1,27 +1,18 @@
 # format = ucca
 # sent_id = 604009
-# text = On 10 April 1970 , in the midst of business disagreements with his bandmates , McCartney announced his departure from the group .
-1	On	_	Word	Word	_	2	R	2:R	_
-2	10	_	Word	Word	_	17	D	17:D	_
-3	April	_	Word	Word	_	2	Terminal	2:Terminal	_
-4	1970	_	Word	Word	_	2	Terminal	2:Terminal	_
-5	,	_	Punctuation	Punctuation	_	17	U	17:U	_
-6	in	_	Word	Word	_	8	R	8:R	_
-7	the	_	Word	Word	_	8	E	8:E	_
-8	midst	_	Word	Word	_	11	L	11:L	_
-9	of	_	Word	Word	_	8	F	8:F	_
-10	business	_	Word	Word	_	11	A	11:A	_
-11	disagreements	_	Word	Word	_	17	H	17:H	_
-12	with	_	Word	Word	_	14	R	14:R	_
-13	his	_	Word	Word	_	14	E	14:E	_
-14	bandmates	_	Word	Word	_	11	A	11:A	_
-15	,	_	Punctuation	Punctuation	_	11	U	11:U	_
-16	McCartney	_	Word	Word	_	17	A	17:A|11:A	_
-17	announced	_	Word	Word	_	0	H	0:H	_
-18	his	_	Word	Word	_	19	A	19:A	_
-19	departure	_	Word	Word	_	17	A	17:A	_
-20	from	_	Word	Word	_	22	R	22:R	_
-21	the	_	Word	Word	_	22	E	22:E	_
-22	group	_	Word	Word	_	19	A	19:A	_
-23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+# text = He filed suit for the band 's formal dissolution on 31 December 1970 .
+1	He	_	Word	Word	_	3	A	3:A	_
+2	filed	_	Word	Word	_	3	D	3:D	_
+3	suit	_	Word	Word	_	0	H	0:H	_
+4	for	_	Word	Word	_	9	R	9:R	_
+5	the	_	Word	Word	_	6	E	6:E	_
+6	band	_	Word	Word	_	9	A	9:A	_
+7	's	_	Word	Word	_	6	R	6:R	_
+8	formal	_	Word	Word	_	9	D	9:D	_
+9	dissolution	_	Word	Word	_	3	A	3:A	_
+10	on	_	Word	Word	_	11	R	11:R	_
+11	31	_	Word	Word	_	3	T	3:T	_
+12	December	_	Word	Word	_	11	C	11:C	_
+13	1970	_	Word	Word	_	11	C	11:C	_
+14	.	_	Punctuation	Punctuation	_	11	U	11:U	_
 

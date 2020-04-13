@@ -1,22 +1,22 @@
 # format = ucca
 # sent_id = 600012
 # text = Against his father 's advice , he took few piano lessons , preferring to learn by ear .
-1	Against	_	Word	Word	_	5	R	5:R	_
-2	his	_	Word	Word	_	3	E	3:E	_
+1	Against	_	Word	Word	_	5	D	5:D	_
+2	his	_	Word	Word	_	3	A	3:A	_
 3	father	_	Word	Word	_	5	A	5:A	_
 4	's	_	Word	Word	_	3	R	3:R	_
-5	advice	_	Word	Word	_	8	A	8:A	_
-6	,	_	Punctuation	Punctuation	_	8	U	8:U	_
-7	he	_	Word	Word	_	8	A	8:A|13:A|15:A	_
-8	took	_	Word	Word	_	0	H	0:H	_
-9	few	_	Word	Word	_	11	E	11:E	_
-10	piano	_	Word	Word	_	11	E	11:E	_
-11	lessons	_	Word	Word	_	8	A	8:A	_
-12	,	_	Punctuation	Punctuation	_	8	U	8:U	_
-13	preferring	_	Word	Word	_	8	H	8:H	_
+5	advice	_	Word	Word	_	11	A	11:A	_
+6	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+7	he	_	Word	Word	_	11	A	11:A|13:A|15:A	_
+8	took	_	Word	Word	_	11	D	11:D	_
+9	few	_	Word	Word	_	11	D	11:D	_
+10	piano	_	Word	Word	_	11	A	11:A	_
+11	lessons	_	Word	Word	_	0	H	0:H	_
+12	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+13	preferring	_	Word	Word	_	11	H	11:H	_
 14	to	_	Word	Word	_	15	F	15:F	_
 15	learn	_	Word	Word	_	13	A	13:A	_
 16	by	_	Word	Word	_	17	R	17:R	_
-17	ear	_	Word	Word	_	15	A	15:A	_
+17	ear	_	Word	Word	_	15	D	15:D	_
 18	.	_	Punctuation	Punctuation	_	17	U	17:U	_
 

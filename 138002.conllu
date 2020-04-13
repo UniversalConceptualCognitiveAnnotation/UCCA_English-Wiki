@@ -1,13 +1,13 @@
 # format = ucca
 # sent_id = 138002
 # text = Less success that year came from The Iron Petticoat ( 1956 ) , a reworking of the classic comedy Ninotchka , with Bob Hope .
-1	Less	_	Word	Word	_	2	E	2:E	_
-2	success	_	Word	Word	_	5	E	5:E	_
+1	Less	_	Word	Word	_	2	D	2:D	_
+2	success	_	Word	Word	_	0	H	0:H	_
 3	that	_	Word	Word	_	4	E	4:E	_
-4	year	_	Word	Word	_	5	D	5:D	_
-5	came	_	Word	Word	_	0	H	0:H	_
+4	year	_	Word	Word	_	2	T	2:T	_
+5	came	_	Word	Word	_	2	D	2:D	_
 6	from	_	Word	Word	_	7	R	7:R	_
-7	The	_	Word	Word	_	5	A	5:A	_
+7	The	_	Word	Word	_	2	A	2:A	_
 8	Iron	_	Word	Word	_	7	Terminal	7:Terminal	_
 9	Petticoat	_	Word	Word	_	7	Terminal	7:Terminal	_
 10	(	_	Punctuation	Punctuation	_	7	U	7:U	_
@@ -16,14 +16,14 @@
 13	,	_	Punctuation	Punctuation	_	7	U	7:U	_
 14	a	_	Word	Word	_	15	E	15:E	_
 15	reworking	_	Word	Word	_	7	E	7:E	_
-16	of	_	Word	Word	_	20	R	20:R	_
-17	the	_	Word	Word	_	20	E	20:E	_
-18	classic	_	Word	Word	_	20	E	20:E	_
-19	comedy	_	Word	Word	_	20	E	20:E	_
-20	Ninotchka	_	Word	Word	_	15	E	15:E	_
+16	of	_	Word	Word	_	19	R	19:R	_
+17	the	_	Word	Word	_	19	E	19:E	_
+18	classic	_	Word	Word	_	19	D	19:D	_
+19	comedy	_	Word	Word	_	15	A	15:A	_
+20	Ninotchka	_	Word	Word	_	19	A	19:A	_
 21	,	_	Punctuation	Punctuation	_	15	U	15:U	_
 22	with	_	Word	Word	_	23	R	23:R	_
-23	Bob	_	Word	Word	_	15	E	15:E	_
+23	Bob	_	Word	Word	_	15	A	15:A	_
 24	Hope	_	Word	Word	_	23	Terminal	23:Terminal	_
 25	.	_	Punctuation	Punctuation	_	23	U	23:U	_
 

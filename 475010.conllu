@@ -2,23 +2,23 @@
 # sent_id = 475010
 # text = Playing in front of a sold out arena , Johnson had a triple - double and played the entire game , but his all - star team lost to the Spartans by two points .
 1	Playing	_	Word	Word	_	0	H	0:H	_
-2	in	_	Word	Word	_	3	F	3:F	_
+2	in	_	Word	Word	_	3	R	3:R	_
 3	front	_	Word	Word	_	8	R	8:R	_
-4	of	_	Word	Word	_	3	F	3:F	_
-5	a	_	Word	Word	_	6	E	6:E	_
+4	of	_	Word	Word	_	3	R	3:R	_
+5	a	_	Word	Word	_	6	F	6:F	_
 6	sold	_	Word	Word	_	8	E	8:E	_
 7	out	_	Word	Word	_	6	Terminal	6:Terminal	_
 8	arena	_	Word	Word	_	1	A	1:A	_
 9	,	_	Punctuation	Punctuation	_	1	U	1:U	_
 10	Johnson	_	Word	Word	_	11	A	11:A|17:A	_
 11	had	_	Word	Word	_	1	H	1:H	_
-12	a	_	Word	Word	_	13	E	13:E	_
+12	a	_	Word	Word	_	13	F	13:F	_
 13	triple	_	Word	Word	_	11	A	11:A	_
 14	-	_	Punctuation	Punctuation	_	13	U	13:U	_
 15	double	_	Word	Word	_	13	Terminal	13:Terminal	_
 16	and	_	Word	Word	_	17	L	17:L	_
 17	played	_	Word	Word	_	1	H	1:H	_
-18	the	_	Word	Word	_	20	E	20:E	_
+18	the	_	Word	Word	_	20	F	20:F	_
 19	entire	_	Word	Word	_	20	E	20:E	_
 20	game	_	Word	Word	_	17	A	17:A	_
 21	,	_	Punctuation	Punctuation	_	1	U	1:U	_
@@ -30,10 +30,10 @@
 27	team	_	Word	Word	_	28	A	28:A	_
 28	lost	_	Word	Word	_	1	H	1:H	_
 29	to	_	Word	Word	_	31	R	31:R	_
-30	the	_	Word	Word	_	31	E	31:E	_
+30	the	_	Word	Word	_	31	F	31:F	_
 31	Spartans	_	Word	Word	_	28	A	28:A	_
 32	by	_	Word	Word	_	34	R	34:R	_
-33	two	_	Word	Word	_	34	E	34:E	_
+33	two	_	Word	Word	_	34	Q	34:Q	_
 34	points	_	Word	Word	_	28	A	28:A	_
 35	.	_	Punctuation	Punctuation	_	34	U	34:U	_
 

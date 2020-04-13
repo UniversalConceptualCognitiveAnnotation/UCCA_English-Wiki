@@ -2,7 +2,7 @@
 # sent_id = 636000
 # text = In August , after having been introduced to the Maharishi Mahesh Yogi , the group attended a weekend of personal instruction at his Transcendental Meditation seminar in Bangor , Wales , and were informed of Epstein 's death during the seminar . "
 1	In	_	Word	Word	_	2	R	2:R	_
-2	August	_	Word	Word	_	16	D	16:D	_
+2	August	_	Word	Word	_	16	T	16:T	_
 3	,	_	Punctuation	Punctuation	_	16	U	16:U	_
 4	after	_	Word	Word	_	7	L	7:L	_
 5	having	_	Word	Word	_	7	F	7:F	_
@@ -18,7 +18,7 @@
 15	group	_	Word	Word	_	0	C	0:C|7:A|34:A	_
 16	attended	_	Word	Word	_	0	H	0:H	_
 17	a	_	Word	Word	_	18	E	18:E	_
-18	weekend	_	Word	Word	_	21	D	21:D	_
+18	weekend	_	Word	Word	_	21	T	21:T	_
 19	of	_	Word	Word	_	18	R	18:R	_
 20	personal	_	Word	Word	_	21	E	21:E	_
 21	instruction	_	Word	Word	_	16	A	16:A	_

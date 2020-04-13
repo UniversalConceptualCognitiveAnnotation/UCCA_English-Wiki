@@ -2,7 +2,7 @@
 # sent_id = 729000
 # text = Jolie co - starred alongside James McAvoy and Morgan Freeman in the 2008 action movie Wanted , an adaptation of Mark Millar 's graphic novel of the same name .
 1	Jolie	_	Word	Word	_	4	A	4:A	_
-2	co	_	Word	Word	_	4	E	4:E	_
+2	co	_	Word	Word	_	4	D	4:D	_
 3	-	_	Punctuation	Punctuation	_	4	U	4:U	_
 4	starred	_	Word	Word	_	0	H	0:H	_
 5	alongside	_	Word	Word	_	6	R	6:R	_
@@ -21,9 +21,9 @@
 18	an	_	Word	Word	_	19	E	19:E	_
 19	adaptation	_	Word	Word	_	16	E	16:E	_
 20	of	_	Word	Word	_	25	R	25:R	_
-21	Mark	_	Word	Word	_	25	E	25:E	_
+21	Mark	_	Word	Word	_	23	A	23:A	_
 22	Millar	_	Word	Word	_	21	Terminal	21:Terminal	_
-23	's	_	Word	Word	_	21	R	21:R	_
+23	's	_	Word	Word	_	25	E	25:E	_
 24	graphic	_	Word	Word	_	25	E	25:E	_
 25	novel	_	Word	Word	_	19	E	19:E	_
 26	of	_	Word	Word	_	29	R	29:R	_

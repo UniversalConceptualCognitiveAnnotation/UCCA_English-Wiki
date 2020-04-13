@@ -1,15 +1,15 @@
 # format = ucca
 # sent_id = 556005
-# text = Presley recalled that the performance did much for his reputation : " I was n't popular in school ... I failed music - only thing I ever failed . And then they entered me in this talent show ... when I came onstage I heard people kind of rumbling and whispering and so forth , ' cause nobody knew I even sang . It was amazing how popular I became after that . "
-1	Presley	_	Word	Word	_	2	A	2:A|5:A	_
+# text = Presley recalled that the performance did much for his reputation : " I was n't popular in school ... I failed music — only thing I ever failed . And then they entered me in this talent show ... when I came onstage I heard people kind of rumbling and whispering and so forth , ' cause nobody knew I even sang . It was amazing how popular I became after that . "
+1	Presley	_	Word	Word	_	2	A	2:A	_
 2	recalled	_	Word	Word	_	0	H	0:H	_
-3	that	_	Word	Word	_	6	F	6:F	_
+3	that	_	Word	Word	_	6	R	6:R	_
 4	the	_	Word	Word	_	5	E	5:E	_
 5	performance	_	Word	Word	_	6	A	6:A	_
 6	did	_	Word	Word	_	2	A	2:A	_
 7	much	_	Word	Word	_	6	D	6:D	_
 8	for	_	Word	Word	_	10	R	10:R	_
-9	his	_	Word	Word	_	10	E	10:E	_
+9	his	_	Word	Word	_	10	A	10:A	_
 10	reputation	_	Word	Word	_	6	A	6:A	_
 11	:	_	Punctuation	Punctuation	_	2	U	2:U	_
 12	"	_	Punctuation	Punctuation	_	2	U	2:U	_
@@ -17,27 +17,27 @@
 14	was	_	Word	Word	_	16	F	16:F	_
 15	n't	_	Word	Word	_	16	D	16:D	_
 16	popular	_	Word	Word	_	2	A	2:A	_
-17	in	_	Word	Word	_	18	E	18:E	_
+17	in	_	Word	Word	_	18	R	18:R	_
 18	school	_	Word	Word	_	16	A	16:A	_
 19	...	_	Punctuation	Punctuation	_	16	U	16:U	_
 20	I	_	Word	Word	_	21	A	21:A	_
 21	failed	_	Word	Word	_	16	H	16:H	_
 22	music	_	Word	Word	_	21	A	21:A	_
-23	-	_	Punctuation	Punctuation	_	22	U	22:U	_
-24	only	_	Word	Word	_	25	E	25:E	_
+23	—	_	Punctuation	Punctuation	_	22	U	22:U	_
+24	only	_	Word	Word	_	25	Q	25:Q	_
 25	thing	_	Word	Word	_	22	E	22:E	_
 26	I	_	Word	Word	_	28	A	28:A	_
-27	ever	_	Word	Word	_	28	D	28:D	_
+27	ever	_	Word	Word	_	28	T	28:T	_
 28	failed	_	Word	Word	_	25	E	25:E	_
 29	.	_	Punctuation	Punctuation	_	16	U	16:U	_
 30	And	_	Word	Word	_	33	L	33:L	_
-31	then	_	Word	Word	_	33	D	33:D	_
+31	then	_	Word	Word	_	33	L	33:L	_
 32	they	_	Word	Word	_	33	A	33:A	_
 33	entered	_	Word	Word	_	16	H	16:H	_
 34	me	_	Word	Word	_	33	A	33:A	_
-35	in	_	Word	Word	_	38	E	38:E	_
+35	in	_	Word	Word	_	38	R	38:R	_
 36	this	_	Word	Word	_	38	E	38:E	_
-37	talent	_	Word	Word	_	38	E	38:E	_
+37	talent	_	Word	Word	_	38	A	38:A	_
 38	show	_	Word	Word	_	33	A	33:A	_
 39	...	_	Punctuation	Punctuation	_	16	U	16:U	_
 40	when	_	Word	Word	_	42	L	42:L	_
@@ -67,12 +67,12 @@
 64	It	_	Word	Word	_	66	F	66:F	_
 65	was	_	Word	Word	_	66	F	66:F	_
 66	amazing	_	Word	Word	_	16	H	16:H	_
-67	how	_	Word	Word	_	68	D	68:D	_
-68	popular	_	Word	Word	_	66	A	66:A	_
+67	how	_	Word	Word	_	66	A	66:A	_
+68	popular	_	Word	Word	_	67	E	67:E	_
 69	I	_	Word	Word	_	68	A	68:A	_
 70	became	_	Word	Word	_	68	D	68:D	_
-71	after	_	Word	Word	_	72	R	72:R	_
-72	that	_	Word	Word	_	68	D	68:D	_
-73	.	_	Punctuation	Punctuation	_	72	U	72:U	_
-74	"	_	Punctuation	Punctuation	_	72	U	72:U	_
+71	after	_	Word	Word	_	72	L	72:L	_
+72	that	_	Word	Word	_	67	H	67:H	_
+73	.	_	Punctuation	Punctuation	_	67	U	67:U	_
+74	"	_	Punctuation	Punctuation	_	67	U	67:U	_
 

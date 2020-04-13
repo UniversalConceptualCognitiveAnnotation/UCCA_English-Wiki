@@ -1,34 +1,34 @@
 # format = ucca
 # sent_id = 500001
 # text = Diamond Dogs ( 1974 ) , parts of which found him heading towards soul and funk , was the product of two distinct ideas : a musical based on a wild future in a post - apocalyptic city , and setting George Orwell 's 1984 to music .
-1	Diamond	_	Word	Word	_	18	A	18:A	_
+1	Diamond	_	Word	Word	_	20	A	20:A	_
 2	Dogs	_	Word	Word	_	1	Terminal	1:Terminal	_
 3	(	_	Punctuation	Punctuation	_	1	U	1:U	_
 4	1974	_	Word	Word	_	1	E	1:E	_
 5	)	_	Punctuation	Punctuation	_	1	U	1:U	_
 6	,	_	Punctuation	Punctuation	_	1	U	1:U	_
-7	parts	_	Word	Word	_	10	A	10:A	_
+7	parts	_	Word	Word	_	12	A	12:A	_
 8	of	_	Word	Word	_	7	R	7:R	_
-9	which	_	Word	Word	_	10	F	10:F	_
-10	found	_	Word	Word	_	1	E	1:E	_
-11	him	_	Word	Word	_	10	A	10:A|12:A	_
-12	heading	_	Word	Word	_	10	A	10:A	_
+9	which	_	Word	Word	_	12	R	12:R	_
+10	found	_	Word	Word	_	12	G	12:G	_
+11	him	_	Word	Word	_	12	A	12:A	_
+12	heading	_	Word	Word	_	1	E	1:E	_
 13	towards	_	Word	Word	_	14	R	14:R	_
 14	soul	_	Word	Word	_	12	A	12:A	_
 15	and	_	Word	Word	_	14	N	14:N	_
 16	funk	_	Word	Word	_	14	C	14:C	_
-17	,	_	Punctuation	Punctuation	_	18	U	18:U	_
-18	was	_	Word	Word	_	0	H	0:H	_
+17	,	_	Punctuation	Punctuation	_	20	U	20:U	_
+18	was	_	Word	Word	_	20	F	20:F	_
 19	the	_	Word	Word	_	20	E	20:E	_
-20	product	_	Word	Word	_	18	A	18:A	_
+20	product	_	Word	Word	_	0	H	0:H	_
 21	of	_	Word	Word	_	28	R	28:R	_
-22	two	_	Word	Word	_	24	E	24:E	_
+22	two	_	Word	Word	_	24	Q	24:Q	_
 23	distinct	_	Word	Word	_	24	E	24:E	_
 24	ideas	_	Word	Word	_	28	E	28:E	_
 25	:	_	Punctuation	Punctuation	_	28	U	28:U	_
 26	a	_	Word	Word	_	27	E	27:E	_
 27	musical	_	Word	Word	_	28	A	28:A	_
-28	based	_	Word	Word	_	20	E	20:E	_
+28	based	_	Word	Word	_	20	A	20:A	_
 29	on	_	Word	Word	_	32	R	32:R	_
 30	a	_	Word	Word	_	32	E	32:E	_
 31	wild	_	Word	Word	_	32	E	32:E	_
@@ -40,13 +40,13 @@
 37	apocalyptic	_	Word	Word	_	38	E	38:E	_
 38	city	_	Word	Word	_	28	A	28:A	_
 39	,	_	Punctuation	Punctuation	_	28	U	28:U	_
-40	and	_	Word	Word	_	28	N	28:N	_
+40	and	_	Word	Word	_	47	L	47:L	_
 41	setting	_	Word	Word	_	47	D	47:D	_
-42	George	_	Word	Word	_	45	E	45:E	_
+42	George	_	Word	Word	_	44	A	44:A	_
 43	Orwell	_	Word	Word	_	42	Terminal	42:Terminal	_
-44	's	_	Word	Word	_	42	R	42:R	_
+44	's	_	Word	Word	_	45	E	45:E	_
 45	1984	_	Word	Word	_	47	A	47:A	_
-46	to	_	Word	Word	_	47	F	47:F	_
-47	music	_	Word	Word	_	28	C	28:C	_
+46	to	_	Word	Word	_	47	R	47:R	_
+47	music	_	Word	Word	_	28	H	28:H	_
 48	.	_	Punctuation	Punctuation	_	47	U	47:U	_
 

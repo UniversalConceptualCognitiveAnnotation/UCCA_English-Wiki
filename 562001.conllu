@@ -1,31 +1,31 @@
 # format = ucca
 # sent_id = 562001
 # text = His performance , on the deck of the USS Hancock in San Diego , prompted cheers and screams from an audience of sailors and their dates .
-1	His	_	Word	Word	_	2	E	2:E	_
-2	performance	_	Word	Word	_	16	A	16:A	_
-3	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+1	His	_	Word	Word	_	2	A	2:A	_
+2	performance	_	Word	Word	_	16	A	16:A|18:A	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 4	on	_	Word	Word	_	6	R	6:R	_
 5	the	_	Word	Word	_	6	E	6:E	_
-6	deck	_	Word	Word	_	16	A	16:A	_
-7	of	_	Word	Word	_	10	R	10:R	_
-8	the	_	Word	Word	_	10	E	10:E	_
-9	USS	_	Word	Word	_	10	E	10:E	_
-10	Hancock	_	Word	Word	_	6	E	6:E	_
+6	deck	_	Word	Word	_	2	A	2:A	_
+7	of	_	Word	Word	_	9	R	9:R	_
+8	the	_	Word	Word	_	9	E	9:E	_
+9	USS	_	Word	Word	_	6	E	6:E	_
+10	Hancock	_	Word	Word	_	9	Terminal	9:Terminal	_
 11	in	_	Word	Word	_	12	R	12:R	_
-12	San	_	Word	Word	_	6	E	6:E	_
+12	San	_	Word	Word	_	6	C	6:C	_
 13	Diego	_	Word	Word	_	12	Terminal	12:Terminal	_
 14	,	_	Punctuation	Punctuation	_	16	U	16:U	_
-15	prompted	_	Word	Word	_	16	D	16:D	_
+15	prompted	_	Word	Word	_	16	D	16:D|18:D	_
 16	cheers	_	Word	Word	_	0	H	0:H	_
-17	and	_	Word	Word	_	16	N	16:N	_
-18	screams	_	Word	Word	_	16	C	16:C	_
+17	and	_	Word	Word	_	18	L	18:L	_
+18	screams	_	Word	Word	_	16	H	16:H	_
 19	from	_	Word	Word	_	21	R	21:R	_
 20	an	_	Word	Word	_	21	E	21:E	_
-21	audience	_	Word	Word	_	16	A	16:A	_
+21	audience	_	Word	Word	_	16	A	16:A|18:A	_
 22	of	_	Word	Word	_	23	R	23:R	_
-23	sailors	_	Word	Word	_	21	E	21:E	_
+23	sailors	_	Word	Word	_	21	A	21:A	_
 24	and	_	Word	Word	_	23	N	23:N	_
-25	their	_	Word	Word	_	26	E	26:E	_
-26	dates	_	Word	Word	_	23	C	23:C	_
-27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+25	their	_	Word	Word	_	23	C	23:C	_
+26	dates	_	Word	Word	_	25	A	25:A	_
+27	.	_	Punctuation	Punctuation	_	25	U	25:U	_
 

@@ -1,26 +1,29 @@
 # format = ucca
 # sent_id = 642015
-# text = He performed on the evening of his wedding day , and would continue to do so almost daily from then on .
-1	He	_	Word	Word	_	2	A	2:A|12:A	_
-2	performed	_	Word	Word	_	0	H	0:H	_
-3	on	_	Word	Word	_	5	R	5:R	_
-4	the	_	Word	Word	_	5	E	5:E	_
-5	evening	_	Word	Word	_	2	D	2:D	_
-6	of	_	Word	Word	_	9	R	9:R	_
-7	his	_	Word	Word	_	9	A	9:A	_
-8	wedding	_	Word	Word	_	9	E	9:E	_
-9	day	_	Word	Word	_	2	A	2:A	_
-10	,	_	Punctuation	Punctuation	_	2	U	2:U	_
-11	and	_	Word	Word	_	12	L	12:L	_
-12	would	_	Word	Word	_	2	H	2:H	_
-13	continue	_	Word	Word	_	12	D	12:D	_
-14	to	_	Word	Word	_	12	F	12:F	_
-15	do	_	Word	Word	_	12	F	12:F	_
-16	so	_	Word	Word	_	12	A	12:A	_
-17	almost	_	Word	Word	_	18	E	18:E	_
-18	daily	_	Word	Word	_	12	D	12:D	_
-19	from	_	Word	Word	_	20	R	20:R	_
-20	then	_	Word	Word	_	12	D	12:D	_
-21	on	_	Word	Word	_	20	E	20:E	_
-22	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+# text = Epstein , fearing that fans would be alienated by the idea of a married Beatle , asked the Lennons to keep their marriage secret .
+1	Epstein	_	Word	Word	_	17	A	17:A	_
+2	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+3	fearing	_	Word	Word	_	1	E	1:E	_
+4	that	_	Word	Word	_	8	R	8:R	_
+5	fans	_	Word	Word	_	8	A	8:A	_
+6	would	_	Word	Word	_	8	D	8:D	_
+7	be	_	Word	Word	_	8	F	8:F	_
+8	alienated	_	Word	Word	_	3	A	3:A	_
+9	by	_	Word	Word	_	11	R	11:R	_
+10	the	_	Word	Word	_	11	E	11:E	_
+11	idea	_	Word	Word	_	8	A	8:A	_
+12	of	_	Word	Word	_	15	R	15:R	_
+13	a	_	Word	Word	_	15	E	15:E	_
+14	married	_	Word	Word	_	15	E	15:E	_
+15	Beatle	_	Word	Word	_	11	A	11:A	_
+16	,	_	Punctuation	Punctuation	_	17	U	17:U	_
+17	asked	_	Word	Word	_	0	H	0:H	_
+18	the	_	Word	Word	_	19	E	19:E	_
+19	Lennons	_	Word	Word	_	17	A	17:A	_
+20	to	_	Word	Word	_	24	F	24:F	_
+21	keep	_	Word	Word	_	24	D	24:D	_
+22	their	_	Word	Word	_	23	A	23:A	_
+23	marriage	_	Word	Word	_	24	A	24:A	_
+24	secret	_	Word	Word	_	17	A	17:A	_
+25	.	_	Punctuation	Punctuation	_	24	U	24:U	_
 

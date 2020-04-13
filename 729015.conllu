@@ -2,31 +2,31 @@
 # sent_id = 729015
 # text = Despite the general criticism , after a slow start at the domestic box office , the film went on to gross a respectable $ 278 million worldwide .
 1	Despite	_	Word	Word	_	9	L	9:L	_
-2	the	_	Word	Word	_	4	E	4:E	_
-3	general	_	Word	Word	_	4	E	4:E	_
+2	the	_	Word	Word	_	4	F	4:F	_
+3	general	_	Word	Word	_	4	D	4:D	_
 4	criticism	_	Word	Word	_	0	H	0:H	_
 5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
 6	after	_	Word	Word	_	9	L	9:L	_
 7	a	_	Word	Word	_	9	E	9:E	_
-8	slow	_	Word	Word	_	9	E	9:E	_
+8	slow	_	Word	Word	_	9	D	9:D	_
 9	start	_	Word	Word	_	4	H	4:H	_
-10	at	_	Word	Word	_	14	R	14:R	_
-11	the	_	Word	Word	_	14	E	14:E	_
-12	domestic	_	Word	Word	_	14	E	14:E	_
-13	box	_	Word	Word	_	14	E	14:E	_
-14	office	_	Word	Word	_	9	A	9:A	_
+10	at	_	Word	Word	_	13	R	13:R	_
+11	the	_	Word	Word	_	13	E	13:E	_
+12	domestic	_	Word	Word	_	13	E	13:E	_
+13	box	_	Word	Word	_	9	A	9:A	_
+14	office	_	Word	Word	_	13	Terminal	13:Terminal	_
 15	,	_	Punctuation	Punctuation	_	4	U	4:U	_
 16	the	_	Word	Word	_	17	E	17:E	_
 17	film	_	Word	Word	_	21	A	21:A	_
-18	went	_	Word	Word	_	21	E	21:E	_
-19	on	_	Word	Word	_	18	R	18:R	_
+18	went	_	Word	Word	_	21	D	21:D	_
+19	on	_	Word	Word	_	18	Terminal	18:Terminal	_
 20	to	_	Word	Word	_	21	F	21:F	_
 21	gross	_	Word	Word	_	4	H	4:H	_
-22	a	_	Word	Word	_	24	E	24:E	_
+22	a	_	Word	Word	_	24	F	24:F	_
 23	respectable	_	Word	Word	_	24	E	24:E	_
 24	$	_	Word	Word	_	21	A	21:A	_
-25	278	_	Word	Word	_	24	Terminal	24:Terminal	_
-26	million	_	Word	Word	_	24	Terminal	24:Terminal	_
+25	278	_	Word	Word	_	24	Q	24:Q	_
+26	million	_	Word	Word	_	25	Terminal	25:Terminal	_
 27	worldwide	_	Word	Word	_	21	A	21:A	_
 28	.	_	Punctuation	Punctuation	_	21	U	21:U	_
 

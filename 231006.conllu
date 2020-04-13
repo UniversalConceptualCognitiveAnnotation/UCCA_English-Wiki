@@ -1,15 +1,35 @@
 # format = ucca
 # sent_id = 231006
-# text = The series was produced by , and featured Jackie Chan .
-1	The	_	Word	Word	_	2	E	2:E	_
-2	series	_	Word	Word	_	4	A	4:A	_
-3	was	_	Word	Word	_	4	F	4:F	_
-4	produced	_	Word	Word	_	0	H	0:H	_
-5	by	_	Word	Word	_	4	E	4:E	_
-6	,	_	Punctuation	Punctuation	_	4	U	4:U	_
-7	and	_	Word	Word	_	4	N	4:N	_
-8	featured	_	Word	Word	_	4	C	4:C	_
-9	Jackie	_	Word	Word	_	4	A	4:A	_
-10	Chan	_	Word	Word	_	9	Terminal	9:Terminal	_
-11	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+# text = The aim of the program was to find a new star , skilled in acting and martial arts , to become Chan 's " successor " and student in filmmaking .
+1	The	_	Word	Word	_	2	F	2:F	_
+2	aim	_	Word	Word	_	0	H	0:H	_
+3	of	_	Word	Word	_	5	R	5:R	_
+4	the	_	Word	Word	_	5	F	5:F	_
+5	program	_	Word	Word	_	2	A	2:A	_
+6	was	_	Word	Word	_	2	F	2:F	_
+7	to	_	Word	Word	_	8	F	8:F	_
+8	find	_	Word	Word	_	2	A	2:A	_
+9	a	_	Word	Word	_	11	F	11:F	_
+10	new	_	Word	Word	_	11	E	11:E	_
+11	star	_	Word	Word	_	0	C	0:C|13:A|25:A|28:A	_
+12	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+13	skilled	_	Word	Word	_	11	E	11:E	_
+14	in	_	Word	Word	_	15	R	15:R	_
+15	acting	_	Word	Word	_	13	A	13:A	_
+16	and	_	Word	Word	_	15	N	15:N	_
+17	martial	_	Word	Word	_	18	E	18:E	_
+18	arts	_	Word	Word	_	15	C	15:C	_
+19	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+20	to	_	Word	Word	_	25	L	25:L	_
+21	become	_	Word	Word	_	25	D	25:D|28:D	_
+22	Chan	_	Word	Word	_	25	A	25:A|28:A	_
+23	's	_	Word	Word	_	22	R	22:R	_
+24	"	_	Punctuation	Punctuation	_	25	U	25:U	_
+25	successor	_	Word	Word	_	2	H	2:H	_
+26	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+27	and	_	Word	Word	_	28	L	28:L	_
+28	student	_	Word	Word	_	2	H	2:H	_
+29	in	_	Word	Word	_	30	R	30:R	_
+30	filmmaking	_	Word	Word	_	28	A	28:A	_
+31	.	_	Punctuation	Punctuation	_	30	U	30:U	_
 

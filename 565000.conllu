@@ -1,27 +1,27 @@
 # format = ucca
 # sent_id = 565000
 # text = Accompanying Presley 's rise to fame , a cultural shift was taking place that he both helped inspire and came to symbolize .
-1	Accompanying	_	Word	Word	_	0	H	0:H	_
-2	Presley	_	Word	Word	_	6	E	6:E	_
+1	Accompanying	_	Word	Word	_	18	L	18:L	_
+2	Presley	_	Word	Word	_	6	A	6:A	_
 3	's	_	Word	Word	_	2	R	2:R	_
-4	rise	_	Word	Word	_	6	E	6:E	_
-5	to	_	Word	Word	_	6	F	6:F	_
-6	fame	_	Word	Word	_	1	A	1:A	_
-7	,	_	Punctuation	Punctuation	_	1	U	1:U	_
-8	a	_	Word	Word	_	10	E	10:E	_
-9	cultural	_	Word	Word	_	10	E	10:E	_
-10	shift	_	Word	Word	_	0	C	0:C|1:A|18:A	_
-11	was	_	Word	Word	_	12	F	12:F	_
-12	taking	_	Word	Word	_	1	H	1:H	_
+4	rise	_	Word	Word	_	6	D	6:D	_
+5	to	_	Word	Word	_	6	R	6:R	_
+6	fame	_	Word	Word	_	0	H	0:H	_
+7	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	a	_	Word	Word	_	10	F	10:F	_
+9	cultural	_	Word	Word	_	10	A	10:A	_
+10	shift	_	Word	Word	_	0	C	0:C|18:A|22:A	_
+11	was	_	Word	Word	_	10	F	10:F	_
+12	taking	_	Word	Word	_	10	F	10:F	_
 13	place	_	Word	Word	_	12	Terminal	12:Terminal	_
-14	that	_	Word	Word	_	18	R	18:R	_
-15	he	_	Word	Word	_	18	A	18:A	_
-16	both	_	Word	Word	_	18	N	18:N	_
+14	that	_	Word	Word	_	18	L	18:L	_
+15	he	_	Word	Word	_	18	A	18:A|22:A	_
+16	both	_	Word	Word	_	18	L	18:L	_
 17	helped	_	Word	Word	_	18	D	18:D	_
-18	inspire	_	Word	Word	_	10	E	10:E	_
-19	and	_	Word	Word	_	16	Terminal	16:Terminal	_
-20	came	_	Word	Word	_	18	D	18:D	_
-21	to	_	Word	Word	_	18	F	18:F	_
-22	symbolize	_	Word	Word	_	18	C	18:C	_
-23	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+18	inspire	_	Word	Word	_	6	H	6:H	_
+19	and	_	Word	Word	_	22	L	22:L	_
+20	came	_	Word	Word	_	22	D	22:D	_
+21	to	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	symbolize	_	Word	Word	_	6	H	6:H	_
+23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
 

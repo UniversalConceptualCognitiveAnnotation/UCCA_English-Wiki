@@ -2,7 +2,7 @@
 # sent_id = 133011
 # text = MGM were eager to reunite Tracy and Hepburn for a new picture , and settled on Keeper of the Flame ( 1942 ) . A dark mystery with a propaganda message on the dangers of fascism , the film was seen by Hepburn as an opportunity to make a worthy political statement .
 1	MGM	_	Word	Word	_	3	A	3:A|5:A|15:A	_
-2	were	_	Word	Word	_	3	D	3:D	_
+2	were	_	Word	Word	_	3	F	3:F	_
 3	eager	_	Word	Word	_	0	H	0:H	_
 4	to	_	Word	Word	_	5	F	5:F	_
 5	reunite	_	Word	Word	_	3	A	3:A	_
@@ -17,7 +17,7 @@
 14	and	_	Word	Word	_	15	L	15:L	_
 15	settled	_	Word	Word	_	3	H	3:H	_
 16	on	_	Word	Word	_	17	R	17:R	_
-17	Keeper	_	Word	Word	_	15	A	15:A	_
+17	Keeper	_	Word	Word	_	0	C	0:C|22:A|27:A	_
 18	of	_	Word	Word	_	17	Terminal	17:Terminal	_
 19	the	_	Word	Word	_	17	Terminal	17:Terminal	_
 20	Flame	_	Word	Word	_	17	Terminal	17:Terminal	_
@@ -26,32 +26,32 @@
 23	)	_	Punctuation	Punctuation	_	3	U	3:U	_
 24	.	_	Punctuation	Punctuation	_	3	U	3:U	_
 25	A	_	Word	Word	_	27	E	27:E	_
-26	dark	_	Word	Word	_	27	E	27:E	_
+26	dark	_	Word	Word	_	27	D	27:D	_
 27	mystery	_	Word	Word	_	3	H	3:H	_
 28	with	_	Word	Word	_	31	R	31:R	_
 29	a	_	Word	Word	_	31	E	31:E	_
-30	propaganda	_	Word	Word	_	31	E	31:E	_
+30	propaganda	_	Word	Word	_	31	D	31:D	_
 31	message	_	Word	Word	_	27	A	27:A	_
-32	on	_	Word	Word	_	36	R	36:R	_
-33	the	_	Word	Word	_	36	E	36:E	_
-34	dangers	_	Word	Word	_	36	E	36:E	_
+32	on	_	Word	Word	_	34	R	34:R	_
+33	the	_	Word	Word	_	34	E	34:E	_
+34	dangers	_	Word	Word	_	31	A	31:A	_
 35	of	_	Word	Word	_	36	R	36:R	_
-36	fascism	_	Word	Word	_	31	E	31:E	_
-37	,	_	Punctuation	Punctuation	_	27	U	27:U	_
+36	fascism	_	Word	Word	_	34	A	34:A	_
+37	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 38	the	_	Word	Word	_	39	E	39:E	_
-39	film	_	Word	Word	_	41	A	41:A|27:A	_
+39	film	_	Word	Word	_	41	A	41:A	_
 40	was	_	Word	Word	_	41	F	41:F	_
 41	seen	_	Word	Word	_	3	H	3:H	_
 42	by	_	Word	Word	_	43	R	43:R	_
 43	Hepburn	_	Word	Word	_	41	A	41:A	_
-44	as	_	Word	Word	_	46	R	46:R	_
+44	as	_	Word	Word	_	52	R	52:R	_
 45	an	_	Word	Word	_	46	E	46:E	_
-46	opportunity	_	Word	Word	_	41	A	41:A	_
-47	to	_	Word	Word	_	48	F	48:F	_
-48	make	_	Word	Word	_	46	E	46:E	_
-49	a	_	Word	Word	_	52	E	52:E	_
-50	worthy	_	Word	Word	_	52	E	52:E	_
-51	political	_	Word	Word	_	52	E	52:E	_
-52	statement	_	Word	Word	_	48	A	48:A	_
+46	opportunity	_	Word	Word	_	52	D	52:D	_
+47	to	_	Word	Word	_	52	F	52:F	_
+48	make	_	Word	Word	_	52	F	52:F	_
+49	a	_	Word	Word	_	51	E	51:E	_
+50	worthy	_	Word	Word	_	52	D	52:D	_
+51	political	_	Word	Word	_	52	D	52:D	_
+52	statement	_	Word	Word	_	41	A	41:A	_
 53	.	_	Punctuation	Punctuation	_	52	U	52:U	_
 

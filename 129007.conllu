@@ -3,10 +3,10 @@
 # text = She chose George Cukor 's new project , Sylvia Scarlett ( 1935 ) , which paired her for the first time with Cary Grant .
 1	She	_	Word	Word	_	2	A	2:A	_
 2	chose	_	Word	Word	_	0	H	0:H	_
-3	George	_	Word	Word	_	7	E	7:E	_
+3	George	_	Word	Word	_	7	A	7:A	_
 4	Cukor	_	Word	Word	_	3	Terminal	3:Terminal	_
 5	's	_	Word	Word	_	3	R	3:R	_
-6	new	_	Word	Word	_	7	E	7:E	_
+6	new	_	Word	Word	_	7	D	7:D	_
 7	project	_	Word	Word	_	9	E	9:E	_
 8	,	_	Punctuation	Punctuation	_	9	U	9:U	_
 9	Sylvia	_	Word	Word	_	2	A	2:A	_
@@ -15,12 +15,12 @@
 12	1935	_	Word	Word	_	9	E	9:E	_
 13	)	_	Punctuation	Punctuation	_	9	U	9:U	_
 14	,	_	Punctuation	Punctuation	_	9	U	9:U	_
-15	which	_	Word	Word	_	16	F	16:F	_
+15	which	_	Word	Word	_	16	R	16:R	_
 16	paired	_	Word	Word	_	9	E	9:E	_
 17	her	_	Word	Word	_	16	A	16:A	_
 18	for	_	Word	Word	_	21	R	21:R	_
 19	the	_	Word	Word	_	21	E	21:E	_
-20	first	_	Word	Word	_	21	E	21:E	_
+20	first	_	Word	Word	_	21	Q	21:Q	_
 21	time	_	Word	Word	_	16	D	16:D	_
 22	with	_	Word	Word	_	23	R	23:R	_
 23	Cary	_	Word	Word	_	16	A	16:A	_

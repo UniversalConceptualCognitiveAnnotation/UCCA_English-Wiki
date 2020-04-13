@@ -1,25 +1,23 @@
 # format = ucca
 # sent_id = 28002
-# text = His television debut came in May 1987 with a two - episode role on the NBC soap opera Another World .
-1	His	_	Word	Word	_	3	E	3:E	_
-2	television	_	Word	Word	_	3	E	3:E	_
-3	debut	_	Word	Word	_	4	A	4:A	_
-4	came	_	Word	Word	_	0	H	0:H	_
+# text = His television debut came in May 1987 with a two-episode role on the NBC soap opera Another World .
+1	His	_	Word	Word	_	3	A	3:A	_
+2	television	_	Word	Word	_	3	A	3:A	_
+3	debut	_	Word	Word	_	0	H	0:H	_
+4	came	_	Word	Word	_	3	D	3:D	_
 5	in	_	Word	Word	_	6	R	6:R	_
-6	May	_	Word	Word	_	4	D	4:D	_
-7	1987	_	Word	Word	_	6	Terminal	6:Terminal	_
-8	with	_	Word	Word	_	13	R	13:R	_
-9	a	_	Word	Word	_	13	E	13:E	_
-10	two	_	Word	Word	_	12	E	12:E	_
-11	-	_	Punctuation	Punctuation	_	12	U	12:U	_
-12	episode	_	Word	Word	_	13	E	13:E	_
-13	role	_	Word	Word	_	4	A	4:A	_
-14	on	_	Word	Word	_	19	R	19:R	_
-15	the	_	Word	Word	_	19	E	19:E	_
-16	NBC	_	Word	Word	_	19	E	19:E	_
-17	soap	_	Word	Word	_	19	E	19:E	_
-18	opera	_	Word	Word	_	17	Terminal	17:Terminal	_
-19	Another	_	Word	Word	_	13	E	13:E	_
-20	World	_	Word	Word	_	19	Terminal	19:Terminal	_
-21	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+6	May	_	Word	Word	_	3	T	3:T	_
+7	1987	_	Word	Word	_	6	C	6:C	_
+8	with	_	Word	Word	_	11	R	11:R	_
+9	a	_	Word	Word	_	11	E	11:E	_
+10	two-episode	_	Word	Word	_	11	E	11:E	_
+11	role	_	Word	Word	_	3	A	3:A	_
+12	on	_	Word	Word	_	17	R	17:R	_
+13	the	_	Word	Word	_	15	E	15:E	_
+14	NBC	_	Word	Word	_	15	E	15:E	_
+15	soap	_	Word	Word	_	17	E	17:E	_
+16	opera	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	Another	_	Word	Word	_	11	E	11:E	_
+18	World	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	.	_	Punctuation	Punctuation	_	17	U	17:U	_
 

@@ -1,38 +1,31 @@
 # format = ucca
 # sent_id = 20008
-# text = He loved films \u2014 " a portal into different worlds for me " \u2014 and , since films were not made in Missouri , he decided to go to where they were made .
-1	He	_	Word	Word	_	2	A	2:A	_
-2	loved	_	Word	Word	_	0	H	0:H	_
-3	films	_	Word	Word	_	2	A	2:A	_
-4	\u2014	_	Punctuation	Punctuation	_	3	U	3:U	_
-5	"	_	Punctuation	Punctuation	_	3	U	3:U	_
-6	a	_	Word	Word	_	7	E	7:E	_
-7	portal	_	Word	Word	_	3	E	3:E	_
-8	into	_	Word	Word	_	10	R	10:R	_
-9	different	_	Word	Word	_	10	E	10:E	_
-10	worlds	_	Word	Word	_	7	E	7:E	_
-11	for	_	Word	Word	_	12	R	12:R	_
-12	me	_	Word	Word	_	7	E	7:E	_
-13	"	_	Punctuation	Punctuation	_	2	U	2:U	_
-14	\u2014	_	Punctuation	Punctuation	_	2	U	2:U	_
-15	and	_	Word	Word	_	21	L	21:L	_
-16	,	_	Punctuation	Punctuation	_	2	U	2:U	_
-17	since	_	Word	Word	_	21	L	21:L	_
-18	films	_	Word	Word	_	21	A	21:A	_
-19	were	_	Word	Word	_	21	F	21:F	_
-20	not	_	Word	Word	_	21	D	21:D	_
-21	made	_	Word	Word	_	2	H	2:H	_
-22	in	_	Word	Word	_	23	R	23:R	_
-23	Missouri	_	Word	Word	_	21	A	21:A	_
-24	,	_	Punctuation	Punctuation	_	2	U	2:U	_
-25	he	_	Word	Word	_	26	A	26:A|28:A	_
-26	decided	_	Word	Word	_	2	H	2:H	_
-27	to	_	Word	Word	_	28	F	28:F	_
-28	go	_	Word	Word	_	26	A	26:A	_
-29	to	_	Word	Word	_	33	R	33:R	_
-30	where	_	Word	Word	_	33	A	33:A	_
-31	they	_	Word	Word	_	33	A	33:A	_
-32	were	_	Word	Word	_	33	F	33:F	_
-33	made	_	Word	Word	_	28	A	28:A	_
-34	.	_	Punctuation	Punctuation	_	33	U	33:U	_
+# text = Two weeks before earning his degree , Pitt left the university and moved to Los Angeles , where he took acting lessons and worked odd jobs .
+1	Two	_	Word	Word	_	2	Q	2:Q	_
+2	weeks	_	Word	Word	_	9	L	9:L	_
+3	before	_	Word	Word	_	2	R	2:R	_
+4	earning	_	Word	Word	_	0	H	0:H	_
+5	his	_	Word	Word	_	6	E	6:E	_
+6	degree	_	Word	Word	_	4	A	4:A	_
+7	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+8	Pitt	_	Word	Word	_	9	A	9:A|4:A|13:A	_
+9	left	_	Word	Word	_	4	H	4:H	_
+10	the	_	Word	Word	_	11	E	11:E	_
+11	university	_	Word	Word	_	9	A	9:A	_
+12	and	_	Word	Word	_	13	L	13:L	_
+13	moved	_	Word	Word	_	4	H	4:H	_
+14	to	_	Word	Word	_	15	R	15:R	_
+15	Los	_	Word	Word	_	13	A	13:A	_
+16	Angeles	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+18	where	_	Word	Word	_	22	R	22:R	_
+19	he	_	Word	Word	_	22	A	22:A|24:A	_
+20	took	_	Word	Word	_	22	D	22:D	_
+21	acting	_	Word	Word	_	22	A	22:A	_
+22	lessons	_	Word	Word	_	15	E	15:E	_
+23	and	_	Word	Word	_	24	L	24:L	_
+24	worked	_	Word	Word	_	22	H	22:H	_
+25	odd	_	Word	Word	_	26	E	26:E	_
+26	jobs	_	Word	Word	_	24	A	24:A	_
+27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
 

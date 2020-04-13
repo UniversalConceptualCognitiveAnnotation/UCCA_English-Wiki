@@ -2,7 +2,7 @@
 # sent_id = 630004
 # text = After her sister , Mimi Smith , twice complained to Liverpool 's Social Services , Julia handed the care of Lennon over to her .
 1	After	_	Word	Word	_	17	L	17:L	_
-2	her	_	Word	Word	_	3	E	3:E	_
+2	her	_	Word	Word	_	3	A	3:A	_
 3	sister	_	Word	Word	_	5	E	5:E	_
 4	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 5	Mimi	_	Word	Word	_	9	A	9:A	_
@@ -22,7 +22,7 @@
 19	care	_	Word	Word	_	17	A	17:A	_
 20	of	_	Word	Word	_	21	R	21:R	_
 21	Lennon	_	Word	Word	_	19	A	19:A	_
-22	over	_	Word	Word	_	17	E	17:E	_
+22	over	_	Word	Word	_	17	Terminal	17:Terminal	_
 23	to	_	Word	Word	_	24	R	24:R	_
 24	her	_	Word	Word	_	17	A	17:A	_
 25	.	_	Punctuation	Punctuation	_	24	U	24:U	_

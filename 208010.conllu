@@ -1,17 +1,17 @@
 # format = ucca
 # sent_id = 208010
 # text = Tootsie earned ten Academy Award nominations , including Hoffman 's fifth nomination .
-1	Tootsie	_	Word	Word	_	2	A	2:A	_
-2	earned	_	Word	Word	_	0	H	0:H	_
-3	ten	_	Word	Word	_	6	E	6:E	_
+1	Tootsie	_	Word	Word	_	6	A	6:A|12:A	_
+2	earned	_	Word	Word	_	6	D	6:D|12:D	_
+3	ten	_	Word	Word	_	6	D	6:D	_
 4	Academy	_	Word	Word	_	5	E	5:E	_
-5	Award	_	Word	Word	_	6	E	6:E	_
-6	nominations	_	Word	Word	_	2	A	2:A	_
+5	Award	_	Word	Word	_	6	A	6:A	_
+6	nominations	_	Word	Word	_	0	H	0:H	_
 7	,	_	Punctuation	Punctuation	_	6	U	6:U	_
-8	including	_	Word	Word	_	12	R	12:R	_
-9	Hoffman	_	Word	Word	_	12	E	12:E	_
+8	including	_	Word	Word	_	12	L	12:L	_
+9	Hoffman	_	Word	Word	_	12	A	12:A	_
 10	's	_	Word	Word	_	9	R	9:R	_
-11	fifth	_	Word	Word	_	12	E	12:E	_
-12	nomination	_	Word	Word	_	6	E	6:E	_
+11	fifth	_	Word	Word	_	12	D	12:D	_
+12	nomination	_	Word	Word	_	6	H	6:H	_
 13	.	_	Punctuation	Punctuation	_	12	U	12:U	_
 

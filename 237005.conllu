@@ -1,27 +1,27 @@
 # format = ucca
 # sent_id = 237005
 # text = With each of his businesses , a percentage of the profits goes to various charities , including the Jackie Chan Charitable Foundation .
-1	With	_	Word	Word	_	5	R	5:R	_
-2	each	_	Word	Word	_	5	E	5:E	_
-3	of	_	Word	Word	_	2	R	2:R	_
-4	his	_	Word	Word	_	5	E	5:E	_
-5	businesses	_	Word	Word	_	12	A	12:A	_
+1	With	_	Word	Word	_	4	R	4:R	_
+2	each	_	Word	Word	_	4	Q	4:Q	_
+3	of	_	Word	Word	_	4	R	4:R	_
+4	his	_	Word	Word	_	12	A	12:A	_
+5	businesses	_	Word	Word	_	4	A	4:A	_
 6	,	_	Punctuation	Punctuation	_	12	U	12:U	_
-7	a	_	Word	Word	_	8	E	8:E	_
-8	percentage	_	Word	Word	_	12	A	12:A	_
+7	a	_	Word	Word	_	11	F	11:F	_
+8	percentage	_	Word	Word	_	11	Q	11:Q	_
 9	of	_	Word	Word	_	11	R	11:R	_
-10	the	_	Word	Word	_	11	E	11:E	_
-11	profits	_	Word	Word	_	8	E	8:E	_
+10	the	_	Word	Word	_	11	F	11:F	_
+11	profits	_	Word	Word	_	12	A	12:A	_
 12	goes	_	Word	Word	_	0	H	0:H	_
 13	to	_	Word	Word	_	15	R	15:R	_
 14	various	_	Word	Word	_	15	E	15:E	_
 15	charities	_	Word	Word	_	12	A	12:A	_
 16	,	_	Punctuation	Punctuation	_	15	U	15:U	_
-17	including	_	Word	Word	_	22	R	22:R	_
-18	the	_	Word	Word	_	22	E	22:E	_
-19	Jackie	_	Word	Word	_	22	E	22:E	_
+17	including	_	Word	Word	_	19	R	19:R	_
+18	the	_	Word	Word	_	19	F	19:F	_
+19	Jackie	_	Word	Word	_	15	E	15:E	_
 20	Chan	_	Word	Word	_	19	Terminal	19:Terminal	_
-21	Charitable	_	Word	Word	_	22	E	22:E	_
-22	Foundation	_	Word	Word	_	15	E	15:E	_
-23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+21	Charitable	_	Word	Word	_	19	Terminal	19:Terminal	_
+22	Foundation	_	Word	Word	_	19	Terminal	19:Terminal	_
+23	.	_	Punctuation	Punctuation	_	19	U	19:U	_
 

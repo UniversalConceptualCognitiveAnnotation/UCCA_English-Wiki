@@ -9,7 +9,7 @@
 6	book	_	Word	Word	_	4	A	4:A	_
 7	in	_	Word	Word	_	9	R	9:R	_
 8	early	_	Word	Word	_	9	E	9:E	_
-9	2001	_	Word	Word	_	4	D	4:D	_
+9	2001	_	Word	Word	_	4	T	4:T	_
 10	;	_	Punctuation	Punctuation	_	4	U	4:U	_
 11	after	_	Word	Word	_	14	L	14:L	_
 12	the	_	Word	Word	_	14	E	14:E	_
@@ -19,10 +19,10 @@
 16	they	_	Word	Word	_	17	A	17:A	_
 17	revisited	_	Word	Word	_	4	H	4:H	_
 18	many	_	Word	Word	_	21	E	21:E	_
-19	of	_	Word	Word	_	18	R	18:R	_
+19	of	_	Word	Word	_	21	R	21:R	_
 20	the	_	Word	Word	_	21	E	21:E	_
 21	people	_	Word	Word	_	24	A	24:A	_
-22	they	_	Word	Word	_	24	A	24:A	_
+22	they	_	Word	Word	_	24	A	24:A|26:A	_
 23	had	_	Word	Word	_	24	F	24:F	_
 24	interviewed	_	Word	Word	_	17	A	17:A	_
 25	to	_	Word	Word	_	26	L	26:L	_

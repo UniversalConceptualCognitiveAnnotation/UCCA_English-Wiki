@@ -2,13 +2,13 @@
 # sent_id = 512007
 # text = In 1976 he earned acclaim for his first major film role , portraying Thomas Jerome Newton , an alien from a dying planet , in The Man Who Fell to Earth , directed by Nic Roeg .
 1	In	_	Word	Word	_	2	R	2:R	_
-2	1976	_	Word	Word	_	5	D	5:D	_
+2	1976	_	Word	Word	_	5	T	5:T	_
 3	he	_	Word	Word	_	5	A	5:A|13:A	_
 4	earned	_	Word	Word	_	5	D	5:D	_
 5	acclaim	_	Word	Word	_	0	H	0:H	_
 6	for	_	Word	Word	_	11	R	11:R	_
 7	his	_	Word	Word	_	11	E	11:E	_
-8	first	_	Word	Word	_	11	E	11:E	_
+8	first	_	Word	Word	_	11	Q	11:Q	_
 9	major	_	Word	Word	_	11	E	11:E	_
 10	film	_	Word	Word	_	11	E	11:E	_
 11	role	_	Word	Word	_	5	A	5:A	_
@@ -19,11 +19,11 @@
 16	Newton	_	Word	Word	_	14	Terminal	14:Terminal	_
 17	,	_	Punctuation	Punctuation	_	14	U	14:U	_
 18	an	_	Word	Word	_	19	E	19:E	_
-19	alien	_	Word	Word	_	23	A	23:A	_
+19	alien	_	Word	Word	_	14	E	14:E	_
 20	from	_	Word	Word	_	23	R	23:R	_
 21	a	_	Word	Word	_	23	E	23:E	_
-22	dying	_	Word	Word	_	23	D	23:D	_
-23	planet	_	Word	Word	_	14	E	14:E	_
+22	dying	_	Word	Word	_	23	E	23:E	_
+23	planet	_	Word	Word	_	19	E	19:E	_
 24	,	_	Punctuation	Punctuation	_	13	U	13:U	_
 25	in	_	Word	Word	_	26	R	26:R	_
 26	The	_	Word	Word	_	13	A	13:A	_

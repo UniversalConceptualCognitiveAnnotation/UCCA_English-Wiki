@@ -1,24 +1,24 @@
 # format = ucca
 # sent_id = 618008
 # text = Following the formal dissolution of the Beatles ' partnership in 1975 , McCartney re - signed with EMI worldwide and Capitol in the US and Canada .
-1	Following	_	Word	Word	_	14	L	14:L	_
-2	the	_	Word	Word	_	4	E	4:E	_
-3	formal	_	Word	Word	_	4	E	4:E	_
+1	Following	_	Word	Word	_	16	L	16:L	_
+2	the	_	Word	Word	_	4	F	4:F	_
+3	formal	_	Word	Word	_	4	D	4:D	_
 4	dissolution	_	Word	Word	_	0	H	0:H	_
 5	of	_	Word	Word	_	9	R	9:R	_
 6	the	_	Word	Word	_	7	E	7:E	_
-7	Beatles	_	Word	Word	_	9	E	9:E	_
+7	Beatles	_	Word	Word	_	9	A	9:A	_
 8	'	_	Punctuation	Punctuation	_	9	U	9:U	_
 9	partnership	_	Word	Word	_	4	A	4:A	_
 10	in	_	Word	Word	_	11	R	11:R	_
-11	1975	_	Word	Word	_	4	D	4:D	_
+11	1975	_	Word	Word	_	4	T	4:T	_
 12	,	_	Punctuation	Punctuation	_	4	U	4:U	_
-13	McCartney	_	Word	Word	_	14	A	14:A	_
-14	re	_	Word	Word	_	4	H	4:H	_
-15	-	_	Punctuation	Punctuation	_	14	U	14:U	_
-16	signed	_	Word	Word	_	14	Terminal	14:Terminal	_
+13	McCartney	_	Word	Word	_	16	A	16:A	_
+14	re	_	Word	Word	_	16	D	16:D	_
+15	-	_	Punctuation	Punctuation	_	16	U	16:U	_
+16	signed	_	Word	Word	_	4	H	4:H	_
 17	with	_	Word	Word	_	18	R	18:R	_
-18	EMI	_	Word	Word	_	14	A	14:A	_
+18	EMI	_	Word	Word	_	16	A	16:A	_
 19	worldwide	_	Word	Word	_	18	E	18:E	_
 20	and	_	Word	Word	_	18	N	18:N	_
 21	Capitol	_	Word	Word	_	18	C	18:C	_

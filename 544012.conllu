@@ -1,30 +1,30 @@
 # format = ucca
 # sent_id = 544012
 # text = The German ambassador responded by issuing a protest to U.S . Secretary of State Cordell Hull , and German dictator Adolf Hitler , who screened the film at Berchtesgaden , was outraged .
-1	The	_	Word	Word	_	3	E	3:E	_
-2	German	_	Word	Word	_	3	E	3:E	_
-3	ambassador	_	Word	Word	_	4	A	4:A	_
-4	responded	_	Word	Word	_	0	H	0:H	_
+1	The	_	Word	Word	_	2	F	2:F	_
+2	German	_	Word	Word	_	8	A	8:A	_
+3	ambassador	_	Word	Word	_	2	A	2:A	_
+4	responded	_	Word	Word	_	8	D	8:D	_
 5	by	_	Word	Word	_	6	R	6:R	_
-6	issuing	_	Word	Word	_	4	A	4:A	_
+6	issuing	_	Word	Word	_	8	D	8:D	_
 7	a	_	Word	Word	_	8	E	8:E	_
-8	protest	_	Word	Word	_	6	A	6:A	_
+8	protest	_	Word	Word	_	0	H	0:H	_
 9	to	_	Word	Word	_	15	R	15:R	_
-10	U.S	_	Word	Word	_	12	E	12:E	_
-11	.	_	Punctuation	Punctuation	_	12	U	12:U	_
-12	Secretary	_	Word	Word	_	15	E	15:E	_
+10	U.S	_	Word	Word	_	15	E	15:E	_
+11	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	Secretary	_	Word	Word	_	10	A	10:A	_
 13	of	_	Word	Word	_	12	Terminal	12:Terminal	_
 14	State	_	Word	Word	_	12	Terminal	12:Terminal	_
-15	Cordell	_	Word	Word	_	6	A	6:A	_
+15	Cordell	_	Word	Word	_	8	A	8:A	_
 16	Hull	_	Word	Word	_	15	Terminal	15:Terminal	_
-17	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+17	,	_	Punctuation	Punctuation	_	8	U	8:U	_
 18	and	_	Word	Word	_	32	L	32:L	_
-19	German	_	Word	Word	_	20	E	20:E	_
-20	dictator	_	Word	Word	_	21	E	21:E	_
+19	German	_	Word	Word	_	21	E	21:E	_
+20	dictator	_	Word	Word	_	19	A	19:A	_
 21	Adolf	_	Word	Word	_	32	A	32:A	_
 22	Hitler	_	Word	Word	_	21	Terminal	21:Terminal	_
 23	,	_	Punctuation	Punctuation	_	21	U	21:U	_
-24	who	_	Word	Word	_	25	F	25:F	_
+24	who	_	Word	Word	_	25	R	25:R	_
 25	screened	_	Word	Word	_	21	E	21:E	_
 26	the	_	Word	Word	_	27	E	27:E	_
 27	film	_	Word	Word	_	25	A	25:A	_
@@ -32,6 +32,6 @@
 29	Berchtesgaden	_	Word	Word	_	25	A	25:A	_
 30	,	_	Punctuation	Punctuation	_	32	U	32:U	_
 31	was	_	Word	Word	_	32	F	32:F	_
-32	outraged	_	Word	Word	_	4	H	4:H	_
+32	outraged	_	Word	Word	_	8	H	8:H	_
 33	.	_	Punctuation	Punctuation	_	32	U	32:U	_
 

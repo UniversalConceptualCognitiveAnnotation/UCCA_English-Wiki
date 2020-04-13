@@ -1,24 +1,24 @@
 # format = ucca
 # sent_id = 209013
 # text = Hoffman next appeared in Moonlight Mile ( 2002 ) , followed by Confidence ( 2003 ) opposite Edward Burns , Andy García and Rachel Weisz .
-1	Hoffman	_	Word	Word	_	3	A	3:A|18:A	_
+1	Hoffman	_	Word	Word	_	3	A	3:A|13:A	_
 2	next	_	Word	Word	_	3	D	3:D	_
 3	appeared	_	Word	Word	_	0	H	0:H	_
 4	in	_	Word	Word	_	5	R	5:R	_
-5	Moonlight	_	Word	Word	_	0	C	0:C|11:A	_
+5	Moonlight	_	Word	Word	_	3	A	3:A	_
 6	Mile	_	Word	Word	_	5	Terminal	5:Terminal	_
 7	(	_	Punctuation	Punctuation	_	5	U	5:U	_
 8	2002	_	Word	Word	_	5	E	5:E	_
 9	)	_	Punctuation	Punctuation	_	3	U	3:U	_
 10	,	_	Punctuation	Punctuation	_	3	U	3:U	_
-11	followed	_	Word	Word	_	3	H	3:H	_
+11	followed	_	Word	Word	_	13	D	13:D	_
 12	by	_	Word	Word	_	13	R	13:R	_
-13	Confidence	_	Word	Word	_	11	A	11:A	_
+13	Confidence	_	Word	Word	_	3	H	3:H	_
 14	(	_	Punctuation	Punctuation	_	13	U	13:U	_
 15	2003	_	Word	Word	_	13	E	13:E	_
-16	)	_	Punctuation	Punctuation	_	11	U	11:U	_
+16	)	_	Punctuation	Punctuation	_	13	U	13:U	_
 17	opposite	_	Word	Word	_	18	R	18:R	_
-18	Edward	_	Word	Word	_	11	A	11:A	_
+18	Edward	_	Word	Word	_	13	A	13:A	_
 19	Burns	_	Word	Word	_	18	Terminal	18:Terminal	_
 20	,	_	Punctuation	Punctuation	_	18	U	18:U	_
 21	Andy	_	Word	Word	_	18	C	18:C	_

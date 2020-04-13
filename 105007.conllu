@@ -1,26 +1,26 @@
 # format = ucca
 # sent_id = 105007
 # text = The movie failed to make a profit at the box office , but developed a cult following after its video release .
-1	The	_	Word	Word	_	2	E	2:E	_
-2	movie	_	Word	Word	_	5	A	5:A	_
-3	failed	_	Word	Word	_	5	D	5:D	_
-4	to	_	Word	Word	_	5	F	5:F	_
-5	make	_	Word	Word	_	0	H	0:H	_
-6	a	_	Word	Word	_	7	E	7:E	_
-7	profit	_	Word	Word	_	5	E	5:E	_
-8	at	_	Word	Word	_	11	R	11:R	_
-9	the	_	Word	Word	_	11	E	11:E	_
-10	box	_	Word	Word	_	11	E	11:E	_
-11	office	_	Word	Word	_	5	A	5:A	_
-12	,	_	Punctuation	Punctuation	_	5	U	5:U	_
-13	but	_	Word	Word	_	14	L	14:L	_
-14	developed	_	Word	Word	_	5	H	5:H	_
-15	a	_	Word	Word	_	17	E	17:E	_
-16	cult	_	Word	Word	_	17	E	17:E	_
-17	following	_	Word	Word	_	14	A	14:A	_
+1	The	_	Word	Word	_	2	F	2:F	_
+2	movie	_	Word	Word	_	0	C	0:C|17:A	_
+3	failed	_	Word	Word	_	7	D	7:D	_
+4	to	_	Word	Word	_	7	F	7:F	_
+5	make	_	Word	Word	_	7	F	7:F	_
+6	a	_	Word	Word	_	7	F	7:F	_
+7	profit	_	Word	Word	_	0	H	0:H	_
+8	at	_	Word	Word	_	10	R	10:R	_
+9	the	_	Word	Word	_	10	F	10:F	_
+10	box	_	Word	Word	_	7	A	7:A	_
+11	office	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+13	but	_	Word	Word	_	17	L	17:L	_
+14	developed	_	Word	Word	_	17	D	17:D	_
+15	a	_	Word	Word	_	17	F	17:F	_
+16	cult	_	Word	Word	_	17	A	17:A	_
+17	following	_	Word	Word	_	7	H	7:H	_
 18	after	_	Word	Word	_	21	L	21:L	_
 19	its	_	Word	Word	_	21	A	21:A	_
-20	video	_	Word	Word	_	21	E	21:E	_
-21	release	_	Word	Word	_	5	H	5:H	_
+20	video	_	Word	Word	_	21	A	21:A	_
+21	release	_	Word	Word	_	7	H	7:H	_
 22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
 

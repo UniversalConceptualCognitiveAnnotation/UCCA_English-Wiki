@@ -1,30 +1,30 @@
 # format = ucca
 # sent_id = 214015
 # text = The film featured a scene in which Dunst shared her first on - screen kiss with Brad Pitt , who was eighteen years her senior .
-1	The	_	Word	Word	_	2	E	2:E	_
+1	The	_	Word	Word	_	2	F	2:F	_
 2	film	_	Word	Word	_	3	A	3:A	_
 3	featured	_	Word	Word	_	0	H	0:H	_
-4	a	_	Word	Word	_	5	E	5:E	_
+4	a	_	Word	Word	_	5	F	5:F	_
 5	scene	_	Word	Word	_	3	A	3:A	_
-6	in	_	Word	Word	_	7	R	7:R	_
-7	which	_	Word	Word	_	9	R	9:R	_
-8	Dunst	_	Word	Word	_	9	A	9:A	_
-9	shared	_	Word	Word	_	5	E	5:E	_
-10	her	_	Word	Word	_	15	E	15:E	_
-11	first	_	Word	Word	_	15	E	15:E	_
+6	in	_	Word	Word	_	15	A	15:A	_
+7	which	_	Word	Word	_	15	R	15:R	_
+8	Dunst	_	Word	Word	_	15	A	15:A	_
+9	shared	_	Word	Word	_	15	F	15:F	_
+10	her	_	Word	Word	_	15	F	15:F	_
+11	first	_	Word	Word	_	15	D	15:D	_
 12	on	_	Word	Word	_	14	R	14:R	_
 13	-	_	Punctuation	Punctuation	_	14	U	14:U	_
-14	screen	_	Word	Word	_	15	E	15:E	_
-15	kiss	_	Word	Word	_	9	A	9:A	_
+14	screen	_	Word	Word	_	15	D	15:D	_
+15	kiss	_	Word	Word	_	5	E	5:E	_
 16	with	_	Word	Word	_	17	R	17:R	_
-17	Brad	_	Word	Word	_	9	A	9:A	_
+17	Brad	_	Word	Word	_	15	A	15:A	_
 18	Pitt	_	Word	Word	_	17	Terminal	17:Terminal	_
 19	,	_	Punctuation	Punctuation	_	17	U	17:U	_
 20	who	_	Word	Word	_	25	R	25:R	_
 21	was	_	Word	Word	_	25	F	25:F	_
-22	eighteen	_	Word	Word	_	23	E	23:E	_
+22	eighteen	_	Word	Word	_	23	Q	23:Q	_
 23	years	_	Word	Word	_	25	D	25:D	_
-24	her	_	Word	Word	_	25	E	25:E	_
+24	her	_	Word	Word	_	25	A	25:A	_
 25	senior	_	Word	Word	_	17	E	17:E	_
 26	.	_	Punctuation	Punctuation	_	25	U	25:U	_
 

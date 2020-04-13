@@ -3,17 +3,17 @@
 # text = a ] He spent his first year at the anchor desk educating himself on American domestic affairs in preparation for the 1984 presidential campaign season . [
 1	a	_	Word	Word	_	12	F	12:F	_
 2	]	_	Punctuation	Punctuation	_	12	U	12:U	_
-3	He	_	Word	Word	_	4	A	4:A|19:A	_
-4	spent	_	Word	Word	_	12	A	12:A	_
+3	He	_	Word	Word	_	12	A	12:A|19:A	_
+4	spent	_	Word	Word	_	12	F	12:F	_
 5	his	_	Word	Word	_	7	E	7:E	_
-6	first	_	Word	Word	_	7	E	7:E	_
-7	year	_	Word	Word	_	11	E	11:E	_
+6	first	_	Word	Word	_	7	Q	7:Q	_
+7	year	_	Word	Word	_	12	T	12:T	_
 8	at	_	Word	Word	_	11	R	11:R	_
 9	the	_	Word	Word	_	11	E	11:E	_
 10	anchor	_	Word	Word	_	11	E	11:E	_
-11	desk	_	Word	Word	_	4	A	4:A	_
+11	desk	_	Word	Word	_	12	A	12:A	_
 12	educating	_	Word	Word	_	0	H	0:H	_
-13	himself	_	Word	Word	_	12	D	12:D	_
+13	himself	_	Word	Word	_	12	Terminal	12:Terminal	_
 14	on	_	Word	Word	_	17	R	17:R	_
 15	American	_	Word	Word	_	17	E	17:E	_
 16	domestic	_	Word	Word	_	17	E	17:E	_

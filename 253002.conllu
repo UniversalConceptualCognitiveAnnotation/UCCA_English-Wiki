@@ -1,11 +1,11 @@
 # format = ucca
 # sent_id = 253002
 # text = The couple separated in 2003 , amid allegations of Hawke 's infidelity , and filed for divorce the following year .
-1	The	_	Word	Word	_	2	E	2:E	_
-2	couple	_	Word	Word	_	3	A	3:A|17:A	_
+1	The	_	Word	Word	_	2	F	2:F	_
+2	couple	_	Word	Word	_	0	C	0:C|15:A|17:A	_
 3	separated	_	Word	Word	_	0	H	0:H	_
 4	in	_	Word	Word	_	5	R	5:R	_
-5	2003	_	Word	Word	_	3	D	3:D	_
+5	2003	_	Word	Word	_	3	T	3:T	_
 6	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 7	amid	_	Word	Word	_	8	L	8:L	_
 8	allegations	_	Word	Word	_	3	H	3:H	_
@@ -14,12 +14,12 @@
 11	's	_	Word	Word	_	10	R	10:R	_
 12	infidelity	_	Word	Word	_	8	A	8:A	_
 13	,	_	Punctuation	Punctuation	_	3	U	3:U	_
-14	and	_	Word	Word	_	17	L	17:L	_
-15	filed	_	Word	Word	_	17	E	17:E	_
-16	for	_	Word	Word	_	15	R	15:R	_
-17	divorce	_	Word	Word	_	3	H	3:H	_
-18	the	_	Word	Word	_	20	E	20:E	_
+14	and	_	Word	Word	_	15	L	15:L	_
+15	filed	_	Word	Word	_	3	H	3:H	_
+16	for	_	Word	Word	_	17	R	17:R	_
+17	divorce	_	Word	Word	_	15	A	15:A	_
+18	the	_	Word	Word	_	20	F	20:F	_
 19	following	_	Word	Word	_	20	R	20:R	_
-20	year	_	Word	Word	_	17	D	17:D	_
+20	year	_	Word	Word	_	15	T	15:T	_
 21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
 

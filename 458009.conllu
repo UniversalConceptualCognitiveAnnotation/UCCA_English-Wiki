@@ -3,11 +3,11 @@
 # text = Worried , Jennings and ABC decided to cut back on international reporting and give more air time to " soft stories " , in an effort to emulate the success of Nightly News .
 1	Worried	_	Word	Word	_	0	H	0:H	_
 2	,	_	Punctuation	Punctuation	_	1	U	1:U	_
-3	Jennings	_	Word	Word	_	6	A	6:A|1:A|8:A	_
+3	Jennings	_	Word	Word	_	6	A	6:A|1:A|8:A|14:A|28:A	_
 4	and	_	Word	Word	_	3	N	3:N	_
-5	ABC	_	Word	Word	_	3	C	3:C|14:A	_
+5	ABC	_	Word	Word	_	3	C	3:C	_
 6	decided	_	Word	Word	_	1	H	1:H	_
-7	to	_	Word	Word	_	8	F	8:F	_
+7	to	_	Word	Word	_	8	R	8:R	_
 8	cut	_	Word	Word	_	6	A	6:A	_
 9	back	_	Word	Word	_	8	Terminal	8:Terminal	_
 10	on	_	Word	Word	_	12	R	12:R	_

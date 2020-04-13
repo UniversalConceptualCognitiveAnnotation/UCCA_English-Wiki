@@ -1,26 +1,26 @@
 # format = ucca
 # sent_id = 205014
 # text = He graduated from Los Angeles High School in 1955 and enrolled at Santa Monica College with the intention of studying medicine .
-1	He	_	Word	Word	_	2	A	2:A|11:A|18:A|20:A	_
+1	He	_	Word	Word	_	2	A	2:A|11:A|20:A	_
 2	graduated	_	Word	Word	_	0	H	0:H	_
-3	from	_	Word	Word	_	6	R	6:R	_
-4	Los	_	Word	Word	_	6	E	6:E	_
+3	from	_	Word	Word	_	4	R	4:R	_
+4	Los	_	Word	Word	_	2	A	2:A	_
 5	Angeles	_	Word	Word	_	4	Terminal	4:Terminal	_
-6	High	_	Word	Word	_	2	A	2:A	_
+6	High	_	Word	Word	_	4	E	4:E	_
 7	School	_	Word	Word	_	6	Terminal	6:Terminal	_
 8	in	_	Word	Word	_	9	R	9:R	_
-9	1955	_	Word	Word	_	2	D	2:D	_
+9	1955	_	Word	Word	_	2	T	2:T	_
 10	and	_	Word	Word	_	11	L	11:L	_
 11	enrolled	_	Word	Word	_	2	H	2:H	_
-12	at	_	Word	Word	_	15	R	15:R	_
-13	Santa	_	Word	Word	_	15	E	15:E	_
+12	at	_	Word	Word	_	13	R	13:R	_
+13	Santa	_	Word	Word	_	11	A	11:A	_
 14	Monica	_	Word	Word	_	13	Terminal	13:Terminal	_
-15	College	_	Word	Word	_	11	A	11:A	_
-16	with	_	Word	Word	_	18	F	18:F	_
-17	the	_	Word	Word	_	18	E	18:E	_
-18	intention	_	Word	Word	_	11	A	11:A	_
-19	of	_	Word	Word	_	20	F	20:F	_
-20	studying	_	Word	Word	_	18	A	18:A	_
+15	College	_	Word	Word	_	13	E	13:E	_
+16	with	_	Word	Word	_	20	L	20:L	_
+17	the	_	Word	Word	_	18	F	18:F	_
+18	intention	_	Word	Word	_	20	D	20:D	_
+19	of	_	Word	Word	_	20	R	20:R	_
+20	studying	_	Word	Word	_	2	H	2:H	_
 21	medicine	_	Word	Word	_	20	A	20:A	_
 22	.	_	Punctuation	Punctuation	_	20	U	20:U	_
 

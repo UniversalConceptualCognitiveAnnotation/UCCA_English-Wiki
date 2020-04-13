@@ -1,16 +1,16 @@
 # format = ucca
 # sent_id = 558001
 # text = As they were about to give up and go home , Presley took his guitar and launched into a 1946 blues number , Arthur Crudup 's " That 's All Right " . Moore recalled , " All of a sudden , Elvis just started singing this song , jumping around and acting the fool , and then Bill picked up his bass , and he started acting the fool , too , and I started playing with them .
-1	As	_	Word	Word	_	13	L	13:L	_
-2	they	_	Word	Word	_	6	A	6:A	_
+1	As	_	Word	Word	_	9	L	9:L	_
+2	they	_	Word	Word	_	6	A	6:A|9:A	_
 3	were	_	Word	Word	_	6	F	6:F	_
-4	about	_	Word	Word	_	6	D	6:D	_
+4	about	_	Word	Word	_	6	D	6:D|9:D	_
 5	to	_	Word	Word	_	4	Terminal	4:Terminal	_
 6	give	_	Word	Word	_	0	H	0:H	_
 7	up	_	Word	Word	_	6	Terminal	6:Terminal	_
-8	and	_	Word	Word	_	6	N	6:N	_
-9	go	_	Word	Word	_	6	D	6:D	_
-10	home	_	Word	Word	_	6	C	6:C	_
+8	and	_	Word	Word	_	9	L	9:L	_
+9	go	_	Word	Word	_	6	H	6:H	_
+10	home	_	Word	Word	_	9	Terminal	9:Terminal	_
 11	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 12	Presley	_	Word	Word	_	13	A	13:A|17:A	_
 13	took	_	Word	Word	_	6	H	6:H	_
@@ -24,10 +24,10 @@
 21	blues	_	Word	Word	_	22	E	22:E	_
 22	number	_	Word	Word	_	28	E	28:E	_
 23	,	_	Punctuation	Punctuation	_	28	U	28:U	_
-24	Arthur	_	Word	Word	_	28	E	28:E	_
+24	Arthur	_	Word	Word	_	26	A	26:A	_
 25	Crudup	_	Word	Word	_	24	Terminal	24:Terminal	_
-26	's	_	Word	Word	_	24	R	24:R	_
-27	"	_	Punctuation	Punctuation	_	28	U	28:U	_
+26	's	_	Word	Word	_	28	E	28:E	_
+27	"	_	Punctuation	Punctuation	_	26	U	26:U	_
 28	That	_	Word	Word	_	17	A	17:A	_
 29	's	_	Word	Word	_	28	Terminal	28:Terminal	_
 30	All	_	Word	Word	_	28	Terminal	28:Terminal	_
@@ -38,7 +38,7 @@
 35	recalled	_	Word	Word	_	6	H	6:H	_
 36	,	_	Punctuation	Punctuation	_	35	U	35:U	_
 37	"	_	Punctuation	Punctuation	_	35	U	35:U	_
-38	All	_	Word	Word	_	46	D	46:D	_
+38	All	_	Word	Word	_	46	G	46:G	_
 39	of	_	Word	Word	_	38	Terminal	38:Terminal	_
 40	a	_	Word	Word	_	38	Terminal	38:Terminal	_
 41	sudden	_	Word	Word	_	38	Terminal	38:Terminal	_
@@ -58,7 +58,7 @@
 55	fool	_	Word	Word	_	53	Terminal	53:Terminal	_
 56	,	_	Punctuation	Punctuation	_	46	U	46:U	_
 57	and	_	Word	Word	_	60	L	60:L	_
-58	then	_	Word	Word	_	60	D	60:D	_
+58	then	_	Word	Word	_	60	L	60:L	_
 59	Bill	_	Word	Word	_	60	A	60:A	_
 60	picked	_	Word	Word	_	46	H	46:H	_
 61	up	_	Word	Word	_	60	Terminal	60:Terminal	_
@@ -72,13 +72,13 @@
 69	the	_	Word	Word	_	68	Terminal	68:Terminal	_
 70	fool	_	Word	Word	_	68	Terminal	68:Terminal	_
 71	,	_	Punctuation	Punctuation	_	68	U	68:U	_
-72	too	_	Word	Word	_	68	G	68:G	_
+72	too	_	Word	Word	_	66	E	66:E	_
 73	,	_	Punctuation	Punctuation	_	46	U	46:U	_
 74	and	_	Word	Word	_	77	L	77:L	_
 75	I	_	Word	Word	_	77	A	77:A	_
 76	started	_	Word	Word	_	77	D	77:D	_
 77	playing	_	Word	Word	_	46	H	46:H	_
-78	with	_	Word	Word	_	79	E	79:E	_
+78	with	_	Word	Word	_	79	R	79:R	_
 79	them	_	Word	Word	_	77	A	77:A	_
 80	.	_	Punctuation	Punctuation	_	79	U	79:U	_
 

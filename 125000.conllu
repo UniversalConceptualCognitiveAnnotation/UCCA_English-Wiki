@@ -2,7 +2,7 @@
 # sent_id = 125000
 # text = In 1929 , Hepburn turned down a role with the Theatre Guild to play the lead in Death Takes a Holiday .
 1	In	_	Word	Word	_	2	R	2:R	_
-2	1929	_	Word	Word	_	5	D	5:D	_
+2	1929	_	Word	Word	_	5	T	5:T	_
 3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 4	Hepburn	_	Word	Word	_	5	A	5:A|14:A	_
 5	turned	_	Word	Word	_	0	H	0:H	_
@@ -11,10 +11,10 @@
 8	role	_	Word	Word	_	5	A	5:A	_
 9	with	_	Word	Word	_	11	R	11:R	_
 10	the	_	Word	Word	_	11	E	11:E	_
-11	Theatre	_	Word	Word	_	8	E	8:E	_
+11	Theatre	_	Word	Word	_	8	A	8:A	_
 12	Guild	_	Word	Word	_	11	Terminal	11:Terminal	_
-13	to	_	Word	Word	_	14	F	14:F	_
-14	play	_	Word	Word	_	8	E	8:E	_
+13	to	_	Word	Word	_	14	L	14:L	_
+14	play	_	Word	Word	_	5	H	5:H	_
 15	the	_	Word	Word	_	16	E	16:E	_
 16	lead	_	Word	Word	_	14	A	14:A	_
 17	in	_	Word	Word	_	18	R	18:R	_

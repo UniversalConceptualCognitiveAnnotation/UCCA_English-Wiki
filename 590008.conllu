@@ -1,29 +1,16 @@
 # format = ucca
 # sent_id = 590008
-# text = Ed Wood reflected Burton 's relationship with Vincent Price ( very similar with Edward D . Wood , Jr . and Béla Lugosi ) .
-1	Ed	_	Word	Word	_	3	A	3:A	_
-2	Wood	_	Word	Word	_	1	Terminal	1:Terminal	_
+# text = Sleepy Hollow reflected Burton 's battle with the Hollywood studio system .
+1	Sleepy	_	Word	Word	_	3	A	3:A	_
+2	Hollow	_	Word	Word	_	1	Terminal	1:Terminal	_
 3	reflected	_	Word	Word	_	0	H	0:H	_
 4	Burton	_	Word	Word	_	6	A	6:A	_
 5	's	_	Word	Word	_	4	R	4:R	_
-6	relationship	_	Word	Word	_	0	P	0:P|14:P	_
-7	with	_	Word	Word	_	8	R	8:R	_
-8	Vincent	_	Word	Word	_	6	A	6:A	_
-9	Price	_	Word	Word	_	8	Terminal	8:Terminal	_
-10	(	_	Punctuation	Punctuation	_	3	U	3:U	_
-11	very	_	Word	Word	_	12	E	12:E	_
-12	similar	_	Word	Word	_	14	D	14:D	_
-13	with	_	Word	Word	_	14	R	14:R	_
-14	Edward	_	Word	Word	_	3	H	3:H	_
-15	D	_	Word	Word	_	14	Terminal	14:Terminal	_
-16	.	_	Punctuation	Punctuation	_	14	U	14:U	_
-17	Wood	_	Word	Word	_	14	Terminal	14:Terminal	_
-18	,	_	Punctuation	Punctuation	_	14	U	14:U	_
-19	Jr	_	Word	Word	_	14	Terminal	14:Terminal	_
-20	.	_	Punctuation	Punctuation	_	14	U	14:U	_
-21	and	_	Word	Word	_	22	R	22:R	_
-22	Béla	_	Word	Word	_	14	A	14:A	_
-23	Lugosi	_	Word	Word	_	22	Terminal	22:Terminal	_
-24	)	_	Punctuation	Punctuation	_	22	U	22:U	_
-25	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+6	battle	_	Word	Word	_	3	A	3:A	_
+7	with	_	Word	Word	_	11	R	11:R	_
+8	the	_	Word	Word	_	11	F	11:F	_
+9	Hollywood	_	Word	Word	_	11	E	11:E	_
+10	studio	_	Word	Word	_	11	E	11:E	_
+11	system	_	Word	Word	_	6	A	6:A	_
+12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
 

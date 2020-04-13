@@ -1,32 +1,35 @@
 # format = ucca
 # sent_id = 378009
-# text = The story , which received mixed reviews , is loosely based on writer / director Brad Silberling 's personal experiences following the murder of girlfriend Rebecca Schaeffer .
-1	The	_	Word	Word	_	2	E	2:E	_
-2	story	_	Word	Word	_	11	A	11:A	_
-3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
-4	which	_	Word	Word	_	5	F	5:F	_
-5	received	_	Word	Word	_	2	E	2:E	_
-6	mixed	_	Word	Word	_	7	E	7:E	_
-7	reviews	_	Word	Word	_	5	A	5:A	_
-8	,	_	Punctuation	Punctuation	_	11	U	11:U	_
-9	is	_	Word	Word	_	11	F	11:F	_
-10	loosely	_	Word	Word	_	11	D	11:D	_
-11	based	_	Word	Word	_	0	H	0:H	_
-12	on	_	Word	Word	_	20	R	20:R	_
-13	writer	_	Word	Word	_	16	E	16:E	_
-14	/	_	Punctuation	Punctuation	_	13	U	13:U	_
-15	director	_	Word	Word	_	13	C	13:C	_
-16	Brad	_	Word	Word	_	20	A	20:A	_
-17	Silberling	_	Word	Word	_	16	Terminal	16:Terminal	_
-18	's	_	Word	Word	_	16	R	16:R	_
-19	personal	_	Word	Word	_	20	E	20:E	_
-20	experiences	_	Word	Word	_	11	A	11:A	_
-21	following	_	Word	Word	_	23	L	23:L	_
-22	the	_	Word	Word	_	23	E	23:E	_
-23	murder	_	Word	Word	_	20	H	20:H	_
-24	of	_	Word	Word	_	26	R	26:R	_
-25	girlfriend	_	Word	Word	_	26	E	26:E	_
-26	Rebecca	_	Word	Word	_	23	A	23:A	_
-27	Schaeffer	_	Word	Word	_	26	Terminal	26:Terminal	_
-28	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+# text = Gyllenhaal was almost cast as Spider - Man for Spider - Man 2 due to director Sam Raimi 's concerns about original Spider - Man star Tobey Maguire 's health .
+1	Gyllenhaal	_	Word	Word	_	4	A	4:A	_
+2	was	_	Word	Word	_	4	F	4:F	_
+3	almost	_	Word	Word	_	4	D	4:D	_
+4	cast	_	Word	Word	_	0	H	0:H	_
+5	as	_	Word	Word	_	6	R	6:R	_
+6	Spider	_	Word	Word	_	4	A	4:A	_
+7	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	Man	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	for	_	Word	Word	_	10	R	10:R	_
+10	Spider	_	Word	Word	_	4	A	4:A	_
+11	-	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	Man	_	Word	Word	_	10	Terminal	10:Terminal	_
+13	2	_	Word	Word	_	10	Terminal	10:Terminal	_
+14	due	_	Word	Word	_	20	L	20:L	_
+15	to	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	director	_	Word	Word	_	17	E	17:E	_
+17	Sam	_	Word	Word	_	20	A	20:A	_
+18	Raimi	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	's	_	Word	Word	_	17	R	17:R	_
+20	concerns	_	Word	Word	_	4	H	4:H	_
+21	about	_	Word	Word	_	30	R	30:R	_
+22	original	_	Word	Word	_	26	D	26:D	_
+23	Spider	_	Word	Word	_	26	A	26:A	_
+24	-	_	Punctuation	Punctuation	_	23	U	23:U	_
+25	Man	_	Word	Word	_	23	Terminal	23:Terminal	_
+26	star	_	Word	Word	_	27	E	27:E	_
+27	Tobey	_	Word	Word	_	30	A	30:A	_
+28	Maguire	_	Word	Word	_	27	Terminal	27:Terminal	_
+29	's	_	Word	Word	_	27	R	27:R	_
+30	health	_	Word	Word	_	20	A	20:A	_
+31	.	_	Punctuation	Punctuation	_	30	U	30:U	_
 

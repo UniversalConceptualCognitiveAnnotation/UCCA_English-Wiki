@@ -1,18 +1,18 @@
 # format = ucca
 # sent_id = 379007
 # text = The film went on to win four Golden Globe Awards , four British Academy of Film and Television Arts ( BAFTA ) Awards , and three Academy Awards .
-1	The	_	Word	Word	_	2	E	2:E	_
+1	The	_	Word	Word	_	2	F	2:F	_
 2	film	_	Word	Word	_	6	A	6:A	_
-3	went	_	Word	Word	_	6	E	6:E	_
-4	on	_	Word	Word	_	3	R	3:R	_
+3	went	_	Word	Word	_	6	D	6:D	_
+4	on	_	Word	Word	_	3	Terminal	3:Terminal	_
 5	to	_	Word	Word	_	6	F	6:F	_
 6	win	_	Word	Word	_	0	H	0:H	_
-7	four	_	Word	Word	_	8	E	8:E	_
+7	four	_	Word	Word	_	8	Q	8:Q	_
 8	Golden	_	Word	Word	_	6	A	6:A	_
 9	Globe	_	Word	Word	_	8	Terminal	8:Terminal	_
 10	Awards	_	Word	Word	_	8	E	8:E	_
 11	,	_	Punctuation	Punctuation	_	8	U	8:U	_
-12	four	_	Word	Word	_	23	E	23:E	_
+12	four	_	Word	Word	_	23	Q	23:Q	_
 13	British	_	Word	Word	_	23	E	23:E	_
 14	Academy	_	Word	Word	_	13	Terminal	13:Terminal	_
 15	of	_	Word	Word	_	13	Terminal	13:Terminal	_
@@ -26,7 +26,7 @@
 23	Awards	_	Word	Word	_	8	C	8:C	_
 24	,	_	Punctuation	Punctuation	_	8	U	8:U	_
 25	and	_	Word	Word	_	8	N	8:N	_
-26	three	_	Word	Word	_	28	E	28:E	_
+26	three	_	Word	Word	_	28	Q	28:Q	_
 27	Academy	_	Word	Word	_	28	E	28:E	_
 28	Awards	_	Word	Word	_	8	C	8:C	_
 29	.	_	Punctuation	Punctuation	_	28	U	28:U	_

@@ -1,17 +1,17 @@
 # format = ucca
 # sent_id = 198003
 # text = In August 2008 , Sorkin announced that he had agreed to write a script for Sony and producer Scott Rudin about how Facebook was founded .
-1	In	_	Word	Word	_	3	R	3:R	_
-2	August	_	Word	Word	_	3	E	3:E	_
-3	2008	_	Word	Word	_	6	D	6:D	_
+1	In	_	Word	Word	_	2	R	2:R	_
+2	August	_	Word	Word	_	6	T	6:T	_
+3	2008	_	Word	Word	_	2	C	2:C	_
 4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 5	Sorkin	_	Word	Word	_	6	A	6:A	_
 6	announced	_	Word	Word	_	0	H	0:H	_
-7	that	_	Word	Word	_	10	F	10:F	_
+7	that	_	Word	Word	_	10	R	10:R	_
 8	he	_	Word	Word	_	10	A	10:A|12:A	_
 9	had	_	Word	Word	_	10	F	10:F	_
 10	agreed	_	Word	Word	_	6	A	6:A	_
-11	to	_	Word	Word	_	12	F	12:F	_
+11	to	_	Word	Word	_	12	R	12:R	_
 12	write	_	Word	Word	_	10	A	10:A	_
 13	a	_	Word	Word	_	14	E	14:E	_
 14	script	_	Word	Word	_	12	A	12:A	_
@@ -22,7 +22,7 @@
 19	Scott	_	Word	Word	_	16	C	16:C	_
 20	Rudin	_	Word	Word	_	19	Terminal	19:Terminal	_
 21	about	_	Word	Word	_	25	R	25:R	_
-22	how	_	Word	Word	_	25	R	25:R	_
+22	how	_	Word	Word	_	25	D	25:D	_
 23	Facebook	_	Word	Word	_	25	A	25:A	_
 24	was	_	Word	Word	_	25	F	25:F	_
 25	founded	_	Word	Word	_	14	E	14:E	_

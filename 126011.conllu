@@ -1,11 +1,11 @@
 # format = ucca
 # sent_id = 126011
 # text = On the strength of A Bill of Divorcement , RKO signed the actress to a long - term contract .
-1	On	_	Word	Word	_	5	R	5:R	_
-2	the	_	Word	Word	_	1	Terminal	1:Terminal	_
-3	strength	_	Word	Word	_	1	Terminal	1:Terminal	_
-4	of	_	Word	Word	_	1	Terminal	1:Terminal	_
-5	A	_	Word	Word	_	11	A	11:A	_
+1	On	_	Word	Word	_	3	R	3:R	_
+2	the	_	Word	Word	_	3	E	3:E	_
+3	strength	_	Word	Word	_	11	A	11:A	_
+4	of	_	Word	Word	_	5	R	5:R	_
+5	A	_	Word	Word	_	3	A	3:A	_
 6	Bill	_	Word	Word	_	5	Terminal	5:Terminal	_
 7	of	_	Word	Word	_	5	Terminal	5:Terminal	_
 8	Divorcement	_	Word	Word	_	5	Terminal	5:Terminal	_

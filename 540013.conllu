@@ -2,22 +2,22 @@
 # sent_id = 540013
 # text = In the years to come , Jack ran the Warner Bros . Burbank studio with an iron hand .
 1	In	_	Word	Word	_	3	R	3:R	_
-2	the	_	Word	Word	_	3	E	3:E	_
-3	years	_	Word	Word	_	8	D	8:D	_
-4	to	_	Word	Word	_	3	R	3:R	_
-5	come	_	Word	Word	_	4	Terminal	4:Terminal	_
+2	the	_	Word	Word	_	3	F	3:F	_
+3	years	_	Word	Word	_	8	T	8:T	_
+4	to	_	Word	Word	_	5	R	5:R	_
+5	come	_	Word	Word	_	3	E	3:E	_
 6	,	_	Punctuation	Punctuation	_	8	U	8:U	_
 7	Jack	_	Word	Word	_	8	A	8:A	_
 8	ran	_	Word	Word	_	0	H	0:H	_
-9	the	_	Word	Word	_	14	E	14:E	_
+9	the	_	Word	Word	_	14	F	14:F	_
 10	Warner	_	Word	Word	_	14	E	14:E	_
 11	Bros	_	Word	Word	_	10	E	10:E	_
 12	.	_	Punctuation	Punctuation	_	14	U	14:U	_
 13	Burbank	_	Word	Word	_	14	E	14:E	_
 14	studio	_	Word	Word	_	8	A	8:A	_
-15	with	_	Word	Word	_	18	R	18:R	_
-16	an	_	Word	Word	_	18	E	18:E	_
-17	iron	_	Word	Word	_	18	E	18:E	_
-18	hand	_	Word	Word	_	8	D	8:D	_
-19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+15	with	_	Word	Word	_	17	R	17:R	_
+16	an	_	Word	Word	_	17	F	17:F	_
+17	iron	_	Word	Word	_	8	D	8:D	_
+18	hand	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	.	_	Punctuation	Punctuation	_	17	U	17:U	_
 

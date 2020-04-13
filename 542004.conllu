@@ -1,14 +1,14 @@
 # format = ucca
 # sent_id = 542004
 # text = Then , in 1930 , he spotted future stars James Cagney , Joan Blondell , and Frank McHugh in the cast of a New York play called Penny Arcade .
-1	Then	_	Word	Word	_	7	D	7:D	_
+1	Then	_	Word	Word	_	7	L	7:L	_
 2	,	_	Punctuation	Punctuation	_	7	U	7:U	_
 3	in	_	Word	Word	_	4	R	4:R	_
-4	1930	_	Word	Word	_	7	D	7:D	_
+4	1930	_	Word	Word	_	7	T	7:T	_
 5	,	_	Punctuation	Punctuation	_	7	U	7:U	_
 6	he	_	Word	Word	_	7	A	7:A	_
 7	spotted	_	Word	Word	_	0	H	0:H	_
-8	future	_	Word	Word	_	9	E	9:E	_
+8	future	_	Word	Word	_	9	T	9:T	_
 9	stars	_	Word	Word	_	10	E	10:E	_
 10	James	_	Word	Word	_	7	A	7:A	_
 11	Cagney	_	Word	Word	_	10	Terminal	10:Terminal	_
@@ -20,10 +20,10 @@
 17	Frank	_	Word	Word	_	10	C	10:C	_
 18	McHugh	_	Word	Word	_	17	Terminal	17:Terminal	_
 19	in	_	Word	Word	_	21	R	21:R	_
-20	the	_	Word	Word	_	21	E	21:E	_
+20	the	_	Word	Word	_	21	F	21:F	_
 21	cast	_	Word	Word	_	7	A	7:A	_
 22	of	_	Word	Word	_	26	R	26:R	_
-23	a	_	Word	Word	_	26	E	26:E	_
+23	a	_	Word	Word	_	26	F	26:F	_
 24	New	_	Word	Word	_	26	E	26:E	_
 25	York	_	Word	Word	_	24	Terminal	24:Terminal	_
 26	play	_	Word	Word	_	21	E	21:E	_

@@ -2,23 +2,23 @@
 # sent_id = 611001
 # text = In 2009 , he played three sold - out concerts at the newly built Citi Field - a venue constructed to replace Shea Stadium in Queens , New York .
 1	In	_	Word	Word	_	2	R	2:R	_
-2	2009	_	Word	Word	_	5	D	5:D	_
+2	2009	_	Word	Word	_	5	T	5:T	_
 3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 4	he	_	Word	Word	_	5	A	5:A	_
 5	played	_	Word	Word	_	0	H	0:H	_
-6	three	_	Word	Word	_	10	E	10:E	_
+6	three	_	Word	Word	_	10	Q	10:Q	_
 7	sold	_	Word	Word	_	10	E	10:E	_
 8	-	_	Punctuation	Punctuation	_	7	U	7:U	_
 9	out	_	Word	Word	_	7	E	7:E	_
 10	concerts	_	Word	Word	_	5	A	5:A	_
 11	at	_	Word	Word	_	15	R	15:R	_
-12	the	_	Word	Word	_	14	E	14:E	_
-13	newly	_	Word	Word	_	14	E	14:E	_
+12	the	_	Word	Word	_	14	F	14:F	_
+13	newly	_	Word	Word	_	14	D	14:D	_
 14	built	_	Word	Word	_	15	E	15:E	_
 15	Citi	_	Word	Word	_	5	A	5:A	_
 16	Field	_	Word	Word	_	15	Terminal	15:Terminal	_
 17	-	_	Punctuation	Punctuation	_	15	U	15:U	_
-18	a	_	Word	Word	_	19	E	19:E	_
+18	a	_	Word	Word	_	19	F	19:F	_
 19	venue	_	Word	Word	_	15	E	15:E	_
 20	constructed	_	Word	Word	_	19	E	19:E	_
 21	to	_	Word	Word	_	22	L	22:L	_
@@ -28,7 +28,7 @@
 25	in	_	Word	Word	_	26	R	26:R	_
 26	Queens	_	Word	Word	_	22	A	22:A	_
 27	,	_	Punctuation	Punctuation	_	26	U	26:U	_
-28	New	_	Word	Word	_	26	Terminal	26:Terminal	_
-29	York	_	Word	Word	_	26	Terminal	26:Terminal	_
+28	New	_	Word	Word	_	26	C	26:C	_
+29	York	_	Word	Word	_	28	Terminal	28:Terminal	_
 30	.	_	Punctuation	Punctuation	_	26	U	26:U	_
 

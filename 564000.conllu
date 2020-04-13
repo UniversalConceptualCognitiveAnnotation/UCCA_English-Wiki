@@ -3,7 +3,7 @@
 # text = The next day , Presley recorded " Hound Dog " , along with " Any Way You Want Me " and " Do n't Be Cruel " . The Jordanaires sang harmony , as they had on The Steve Allen Show ; they would work with Presley through the 1960s .
 1	The	_	Word	Word	_	3	E	3:E	_
 2	next	_	Word	Word	_	3	E	3:E	_
-3	day	_	Word	Word	_	6	D	6:D	_
+3	day	_	Word	Word	_	6	T	6:T	_
 4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 5	Presley	_	Word	Word	_	6	A	6:A	_
 6	recorded	_	Word	Word	_	0	H	0:H	_
@@ -13,7 +13,7 @@
 10	"	_	Punctuation	Punctuation	_	6	U	6:U	_
 11	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 12	along	_	Word	Word	_	15	R	15:R	_
-13	with	_	Word	Word	_	15	R	15:R	_
+13	with	_	Word	Word	_	12	Terminal	12:Terminal	_
 14	"	_	Punctuation	Punctuation	_	15	U	15:U	_
 15	Any	_	Word	Word	_	6	A	6:A	_
 16	Way	_	Word	Word	_	15	Terminal	15:Terminal	_
@@ -32,7 +32,7 @@
 29	The	_	Word	Word	_	30	E	30:E	_
 30	Jordanaires	_	Word	Word	_	31	A	31:A	_
 31	sang	_	Word	Word	_	6	H	6:H	_
-32	harmony	_	Word	Word	_	31	A	31:A	_
+32	harmony	_	Word	Word	_	31	A	31:A|35:A	_
 33	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 34	as	_	Word	Word	_	35	L	35:L	_
 35	they	_	Word	Word	_	6	H	6:H	_
@@ -50,6 +50,6 @@
 47	Presley	_	Word	Word	_	45	A	45:A	_
 48	through	_	Word	Word	_	50	R	50:R	_
 49	the	_	Word	Word	_	50	E	50:E	_
-50	1960s	_	Word	Word	_	45	D	45:D	_
+50	1960s	_	Word	Word	_	45	T	45:T	_
 51	.	_	Punctuation	Punctuation	_	50	U	50:U	_
 

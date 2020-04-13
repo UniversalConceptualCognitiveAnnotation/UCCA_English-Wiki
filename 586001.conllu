@@ -2,23 +2,23 @@
 # sent_id = 586001
 # text = A year after his parents ' divorce , Depp dropped out of high school to become a rock musician .
 1	A	_	Word	Word	_	2	E	2:E	_
-2	year	_	Word	Word	_	10	L	10:L	_
-3	after	_	Word	Word	_	2	R	2:R	_
-4	his	_	Word	Word	_	5	E	5:E	_
-5	parents	_	Word	Word	_	7	A	7:A	_
+2	year	_	Word	Word	_	3	E	3:E	_
+3	after	_	Word	Word	_	10	L	10:L	_
+4	his	_	Word	Word	_	7	A	7:A	_
+5	parents	_	Word	Word	_	4	A	4:A	_
 6	'	_	Punctuation	Punctuation	_	7	U	7:U	_
 7	divorce	_	Word	Word	_	0	H	0:H	_
 8	,	_	Punctuation	Punctuation	_	7	U	7:U	_
-9	Depp	_	Word	Word	_	10	A	10:A|16:A	_
+9	Depp	_	Word	Word	_	10	A	10:A|19:A	_
 10	dropped	_	Word	Word	_	7	H	7:H	_
 11	out	_	Word	Word	_	10	Terminal	10:Terminal	_
 12	of	_	Word	Word	_	13	R	13:R	_
 13	high	_	Word	Word	_	10	A	10:A	_
 14	school	_	Word	Word	_	13	Terminal	13:Terminal	_
-15	to	_	Word	Word	_	16	L	16:L	_
-16	become	_	Word	Word	_	7	H	7:H	_
-17	a	_	Word	Word	_	19	E	19:E	_
-18	rock	_	Word	Word	_	19	E	19:E	_
-19	musician	_	Word	Word	_	16	A	16:A	_
+15	to	_	Word	Word	_	19	L	19:L	_
+16	become	_	Word	Word	_	19	D	19:D	_
+17	a	_	Word	Word	_	19	F	19:F	_
+18	rock	_	Word	Word	_	19	A	19:A	_
+19	musician	_	Word	Word	_	7	H	7:H	_
 20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
 

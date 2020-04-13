@@ -1,27 +1,27 @@
 # format = ucca
 # sent_id = 217005
 # text = The movie grossed $ 114 million during its opening weekend in North America and went on to earn $ 822 million worldwide .
-1	The	_	Word	Word	_	2	E	2:E	_
+1	The	_	Word	Word	_	2	F	2:F	_
 2	movie	_	Word	Word	_	0	C	0:C|18:A	_
 3	grossed	_	Word	Word	_	0	H	0:H	_
-4	$	_	Word	Word	_	6	E	6:E	_
-5	114	_	Word	Word	_	4	Terminal	4:Terminal	_
-6	million	_	Word	Word	_	3	A	3:A	_
-7	during	_	Word	Word	_	10	R	10:R	_
-8	its	_	Word	Word	_	10	E	10:E	_
-9	opening	_	Word	Word	_	10	E	10:E	_
-10	weekend	_	Word	Word	_	3	D	3:D	_
+4	$	_	Word	Word	_	3	A	3:A	_
+5	114	_	Word	Word	_	4	Q	4:Q	_
+6	million	_	Word	Word	_	5	C	5:C	_
+7	during	_	Word	Word	_	9	L	9:L	_
+8	its	_	Word	Word	_	9	A	9:A	_
+9	opening	_	Word	Word	_	3	H	3:H	_
+10	weekend	_	Word	Word	_	9	T	9:T	_
 11	in	_	Word	Word	_	12	R	12:R	_
-12	North	_	Word	Word	_	10	E	10:E	_
+12	North	_	Word	Word	_	9	A	9:A	_
 13	America	_	Word	Word	_	12	Terminal	12:Terminal	_
 14	and	_	Word	Word	_	18	L	18:L	_
 15	went	_	Word	Word	_	18	D	18:D	_
 16	on	_	Word	Word	_	15	F	15:F	_
 17	to	_	Word	Word	_	18	F	18:F	_
 18	earn	_	Word	Word	_	3	H	3:H	_
-19	$	_	Word	Word	_	21	E	21:E	_
-20	822	_	Word	Word	_	19	Terminal	19:Terminal	_
-21	million	_	Word	Word	_	18	A	18:A	_
+19	$	_	Word	Word	_	18	A	18:A	_
+20	822	_	Word	Word	_	19	Q	19:Q	_
+21	million	_	Word	Word	_	20	C	20:C	_
 22	worldwide	_	Word	Word	_	18	A	18:A	_
 23	.	_	Punctuation	Punctuation	_	18	U	18:U	_
 

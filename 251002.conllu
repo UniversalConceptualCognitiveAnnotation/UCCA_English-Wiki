@@ -1,12 +1,12 @@
 # format = ucca
 # sent_id = 251002
 # text = The performance earned Hawke his first Tony Award nomination for Best Featured Actor in a Play .
-1	The	_	Word	Word	_	2	E	2:E	_
+1	The	_	Word	Word	_	2	F	2:F	_
 2	performance	_	Word	Word	_	3	A	3:A	_
 3	earned	_	Word	Word	_	0	H	0:H	_
 4	Hawke	_	Word	Word	_	3	A	3:A|2:A	_
-5	his	_	Word	Word	_	6	E	6:E	_
-6	first	_	Word	Word	_	9	E	9:E	_
+5	his	_	Word	Word	_	9	E	9:E	_
+6	first	_	Word	Word	_	9	Q	9:Q	_
 7	Tony	_	Word	Word	_	9	E	9:E	_
 8	Award	_	Word	Word	_	7	E	7:E	_
 9	nomination	_	Word	Word	_	3	A	3:A	_

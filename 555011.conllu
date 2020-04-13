@@ -2,26 +2,26 @@
 # sent_id = 555011
 # text = When his music teacher told him he had no aptitude for singing , he brought in his guitar the next day and sang a recent hit , " Keep Them Cold Icy Fingers Off Me " , in an effort to prove otherwise .
 1	When	_	Word	Word	_	15	L	15:L	_
-2	his	_	Word	Word	_	4	E	4:E	_
-3	music	_	Word	Word	_	4	E	4:E	_
-4	teacher	_	Word	Word	_	5	A	5:A	_
+2	his	_	Word	Word	_	5	A	5:A	_
+3	music	_	Word	Word	_	2	A	2:A	_
+4	teacher	_	Word	Word	_	2	A	2:A	_
 5	told	_	Word	Word	_	0	H	0:H	_
 6	him	_	Word	Word	_	5	A	5:A	_
-7	he	_	Word	Word	_	10	A	10:A	_
+7	he	_	Word	Word	_	12	A	12:A	_
 8	had	_	Word	Word	_	10	F	10:F	_
-9	no	_	Word	Word	_	10	D	10:D	_
-10	aptitude	_	Word	Word	_	5	A	5:A	_
+9	no	_	Word	Word	_	12	D	12:D	_
+10	aptitude	_	Word	Word	_	12	D	12:D	_
 11	for	_	Word	Word	_	12	R	12:R	_
-12	singing	_	Word	Word	_	10	A	10:A	_
+12	singing	_	Word	Word	_	5	A	5:A	_
 13	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 14	he	_	Word	Word	_	15	A	15:A|23:A|42:A	_
 15	brought	_	Word	Word	_	5	H	5:H	_
-16	in	_	Word	Word	_	15	E	15:E	_
+16	in	_	Word	Word	_	15	D	15:D	_
 17	his	_	Word	Word	_	18	E	18:E	_
 18	guitar	_	Word	Word	_	15	A	15:A	_
 19	the	_	Word	Word	_	21	E	21:E	_
 20	next	_	Word	Word	_	21	E	21:E	_
-21	day	_	Word	Word	_	15	D	15:D	_
+21	day	_	Word	Word	_	15	T	15:T	_
 22	and	_	Word	Word	_	23	L	23:L	_
 23	sang	_	Word	Word	_	5	H	5:H	_
 24	a	_	Word	Word	_	26	E	26:E	_
@@ -36,13 +36,13 @@
 33	Fingers	_	Word	Word	_	29	Terminal	29:Terminal	_
 34	Off	_	Word	Word	_	29	Terminal	29:Terminal	_
 35	Me	_	Word	Word	_	29	Terminal	29:Terminal	_
-36	"	_	Punctuation	Punctuation	_	23	U	23:U	_
-37	,	_	Punctuation	Punctuation	_	23	U	23:U	_
-38	in	_	Word	Word	_	42	R	42:R	_
+36	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+37	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+38	in	_	Word	Word	_	42	L	42:L	_
 39	an	_	Word	Word	_	40	E	40:E	_
-40	effort	_	Word	Word	_	42	E	42:E	_
+40	effort	_	Word	Word	_	42	D	42:D	_
 41	to	_	Word	Word	_	42	F	42:F	_
-42	prove	_	Word	Word	_	23	A	23:A	_
-43	otherwise	_	Word	Word	_	42	A	42:A	_
-44	.	_	Punctuation	Punctuation	_	43	U	43:U	_
+42	prove	_	Word	Word	_	5	H	5:H	_
+43	otherwise	_	Word	Word	_	42	D	42:D	_
+44	.	_	Punctuation	Punctuation	_	42	U	42:U	_
 

@@ -1,23 +1,23 @@
 # format = ucca
 # sent_id = 594003
-# text = The ceremony took place at Harris 's home ; Comanche Nation Tribal Administrator Johnny Wauqua was in attendance .
+# text = The ceremony took place at Harris ’s home ; Comanche Nation Tribal Administrator Johnny Wauqua was in attendance .
 1	The	_	Word	Word	_	2	E	2:E	_
-2	ceremony	_	Word	Word	_	3	A	3:A	_
-3	took	_	Word	Word	_	0	H	0:H	_
-4	place	_	Word	Word	_	3	E	3:E	_
+2	ceremony	_	Word	Word	_	0	H	0:H	_
+3	took	_	Word	Word	_	2	D	2:D	_
+4	place	_	Word	Word	_	3	Terminal	3:Terminal	_
 5	at	_	Word	Word	_	8	R	8:R	_
-6	Harris	_	Word	Word	_	8	E	8:E	_
-7	's	_	Word	Word	_	6	R	6:R	_
-8	home	_	Word	Word	_	3	A	3:A	_
-9	;	_	Punctuation	Punctuation	_	3	U	3:U	_
-10	Comanche	_	Word	Word	_	13	E	13:E	_
+6	Harris	_	Word	Word	_	7	A	7:A	_
+7	’s	_	Word	Word	_	8	E	8:E	_
+8	home	_	Word	Word	_	2	A	2:A	_
+9	;	_	Punctuation	Punctuation	_	2	U	2:U	_
+10	Comanche	_	Word	Word	_	14	E	14:E	_
 11	Nation	_	Word	Word	_	10	Terminal	10:Terminal	_
-12	Tribal	_	Word	Word	_	13	E	13:E	_
-13	Administrator	_	Word	Word	_	14	E	14:E	_
+12	Tribal	_	Word	Word	_	10	A	10:A	_
+13	Administrator	_	Word	Word	_	10	A	10:A	_
 14	Johnny	_	Word	Word	_	18	A	18:A	_
 15	Wauqua	_	Word	Word	_	14	Terminal	14:Terminal	_
 16	was	_	Word	Word	_	18	F	18:F	_
-17	in	_	Word	Word	_	18	E	18:E	_
-18	attendance	_	Word	Word	_	3	H	3:H	_
+17	in	_	Word	Word	_	18	R	18:R	_
+18	attendance	_	Word	Word	_	2	H	2:H	_
 19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
 

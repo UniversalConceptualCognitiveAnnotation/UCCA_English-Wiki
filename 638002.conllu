@@ -1,33 +1,33 @@
 # format = ucca
 # sent_id = 638002
 # text = Lennon 's explanation was , " If you can imagine a world at peace , with no denominations of religion - not without religion , but without this ' my God is bigger than your God ' thing - then it can be true . "
-1	Lennon	_	Word	Word	_	3	E	3:E	_
+1	Lennon	_	Word	Word	_	3	A	3:A	_
 2	's	_	Word	Word	_	1	R	1:R	_
-3	explanation	_	Word	Word	_	4	A	4:A	_
-4	was	_	Word	Word	_	0	H	0:H	_
-5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
-6	"	_	Punctuation	Punctuation	_	4	U	4:U	_
+3	explanation	_	Word	Word	_	0	H	0:H	_
+4	was	_	Word	Word	_	3	F	3:F	_
+5	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+6	"	_	Punctuation	Punctuation	_	3	U	3:U	_
 7	If	_	Word	Word	_	44	L	44:L	_
 8	you	_	Word	Word	_	10	A	10:A	_
 9	can	_	Word	Word	_	10	D	10:D	_
-10	imagine	_	Word	Word	_	4	A	4:A	_
+10	imagine	_	Word	Word	_	3	A	3:A	_
 11	a	_	Word	Word	_	12	E	12:E	_
-12	world	_	Word	Word	_	14	A	14:A	_
+12	world	_	Word	Word	_	0	C	0:C|18:A|23:A|27:A	_
 13	at	_	Word	Word	_	14	R	14:R	_
 14	peace	_	Word	Word	_	10	A	10:A	_
 15	,	_	Punctuation	Punctuation	_	14	U	14:U	_
 16	with	_	Word	Word	_	18	R	18:R	_
 17	no	_	Word	Word	_	18	D	18:D	_
-18	denominations	_	Word	Word	_	14	A	14:A	_
+18	denominations	_	Word	Word	_	14	H	14:H	_
 19	of	_	Word	Word	_	20	R	20:R	_
-20	religion	_	Word	Word	_	18	E	18:E	_
-21	-	_	Punctuation	Punctuation	_	18	U	18:U	_
+20	religion	_	Word	Word	_	18	A	18:A	_
+21	-	_	Punctuation	Punctuation	_	14	U	14:U	_
 22	not	_	Word	Word	_	23	D	23:D	_
-23	without	_	Word	Word	_	18	E	18:E	_
+23	without	_	Word	Word	_	14	H	14:H	_
 24	religion	_	Word	Word	_	23	A	23:A	_
-25	,	_	Punctuation	Punctuation	_	23	U	23:U	_
+25	,	_	Punctuation	Punctuation	_	14	U	14:U	_
 26	but	_	Word	Word	_	27	L	27:L	_
-27	without	_	Word	Word	_	23	H	23:H	_
+27	without	_	Word	Word	_	14	H	14:H	_
 28	this	_	Word	Word	_	33	E	33:E	_
 29	'	_	Punctuation	Punctuation	_	33	U	33:U	_
 30	my	_	Word	Word	_	31	E	31:E	_

@@ -1,16 +1,16 @@
 # format = ucca
 # sent_id = 650003
 # text = In December 1971 at Ann Arbor , Michigan , 15,000 people attended the " John Sinclair Freedom Rally " , a protest and benefit concert with contributions from Lennon , Stevie Wonder , Bob Seger , Bobby Seale of the Black Panther Party , and others .
-1	In	_	Word	Word	_	3	R	3:R	_
-2	December	_	Word	Word	_	3	E	3:E	_
-3	1971	_	Word	Word	_	12	D	12:D	_
+1	In	_	Word	Word	_	2	R	2:R	_
+2	December	_	Word	Word	_	12	T	12:T	_
+3	1971	_	Word	Word	_	2	C	2:C	_
 4	at	_	Word	Word	_	5	R	5:R	_
 5	Ann	_	Word	Word	_	12	A	12:A	_
 6	Arbor	_	Word	Word	_	5	Terminal	5:Terminal	_
 7	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 8	Michigan	_	Word	Word	_	5	E	5:E	_
 9	,	_	Punctuation	Punctuation	_	12	U	12:U	_
-10	15,000	_	Word	Word	_	11	E	11:E	_
+10	15,000	_	Word	Word	_	11	Q	11:Q	_
 11	people	_	Word	Word	_	12	A	12:A	_
 12	attended	_	Word	Word	_	0	H	0:H	_
 13	the	_	Word	Word	_	15	E	15:E	_
@@ -23,11 +23,11 @@
 20	,	_	Punctuation	Punctuation	_	15	U	15:U	_
 21	a	_	Word	Word	_	22	E	22:E	_
 22	protest	_	Word	Word	_	15	E	15:E	_
-23	and	_	Word	Word	_	22	N	22:N	_
+23	and	_	Word	Word	_	25	L	25:L	_
 24	benefit	_	Word	Word	_	25	E	25:E	_
-25	concert	_	Word	Word	_	22	C	22:C	_
+25	concert	_	Word	Word	_	22	H	22:H	_
 26	with	_	Word	Word	_	27	R	27:R	_
-27	contributions	_	Word	Word	_	22	E	22:E	_
+27	contributions	_	Word	Word	_	22	A	22:A|25:A	_
 28	from	_	Word	Word	_	29	R	29:R	_
 29	Lennon	_	Word	Word	_	27	A	27:A	_
 30	,	_	Punctuation	Punctuation	_	29	U	29:U	_

@@ -1,11 +1,11 @@
 # format = ucca
 # sent_id = 451013
 # text = Some in the American audience disliked Jennings ' Canadian accent .
-1	Some	_	Word	Word	_	5	E	5:E	_
+1	Some	_	Word	Word	_	6	A	6:A	_
 2	in	_	Word	Word	_	5	R	5:R	_
 3	the	_	Word	Word	_	5	E	5:E	_
 4	American	_	Word	Word	_	5	E	5:E	_
-5	audience	_	Word	Word	_	6	A	6:A	_
+5	audience	_	Word	Word	_	1	E	1:E	_
 6	disliked	_	Word	Word	_	0	H	0:H	_
 7	Jennings	_	Word	Word	_	10	E	10:E	_
 8	'	_	Punctuation	Punctuation	_	10	U	10:U	_

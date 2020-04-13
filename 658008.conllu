@@ -1,9 +1,9 @@
 # format = ucca
 # sent_id = 658008
 # text = Her father , Alfred Roy , was of African American and Venezuelan ( including Afro - Venezuelan ) descent , while her mother , Patricia ( née Hickey ) , is of white Irish descent .
-1	Her	_	Word	Word	_	2	E	2:E	_
+1	Her	_	Word	Word	_	2	A	2:A	_
 2	father	_	Word	Word	_	4	E	4:E	_
-3	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 4	Alfred	_	Word	Word	_	19	A	19:A	_
 5	Roy	_	Word	Word	_	4	Terminal	4:Terminal	_
 6	,	_	Punctuation	Punctuation	_	19	U	19:U	_
@@ -22,13 +22,13 @@
 19	descent	_	Word	Word	_	0	H	0:H	_
 20	,	_	Punctuation	Punctuation	_	19	U	19:U	_
 21	while	_	Word	Word	_	35	L	35:L	_
-22	her	_	Word	Word	_	23	E	23:E	_
+22	her	_	Word	Word	_	23	A	23:A	_
 23	mother	_	Word	Word	_	25	E	25:E	_
-24	,	_	Punctuation	Punctuation	_	25	U	25:U	_
-25	Patricia	_	Word	Word	_	27	A	27:A	_
-26	(	_	Punctuation	Punctuation	_	27	U	27:U	_
-27	née	_	Word	Word	_	35	A	35:A	_
-28	Hickey	_	Word	Word	_	27	A	27:A	_
+24	,	_	Punctuation	Punctuation	_	23	U	23:U	_
+25	Patricia	_	Word	Word	_	35	A	35:A	_
+26	(	_	Punctuation	Punctuation	_	25	U	25:U	_
+27	née	_	Word	Word	_	28	R	28:R	_
+28	Hickey	_	Word	Word	_	25	E	25:E	_
 29	)	_	Punctuation	Punctuation	_	35	U	35:U	_
 30	,	_	Punctuation	Punctuation	_	35	U	35:U	_
 31	is	_	Word	Word	_	35	F	35:F	_

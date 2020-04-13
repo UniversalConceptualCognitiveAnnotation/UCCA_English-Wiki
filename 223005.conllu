@@ -1,29 +1,29 @@
 # format = ucca
 # sent_id = 223005
 # text = Due to the commercial failures of his early ventures into films and trouble finding stunt work , in 1975 Chan starred in a comedic adult film , All in the Family , which features Jackie Chan 's first nude sex scene filmed .
-1	Due	_	Word	Word	_	13	L	13:L	_
-2	to	_	Word	Word	_	1	F	1:F	_
-3	the	_	Word	Word	_	5	E	5:E	_
-4	commercial	_	Word	Word	_	5	D	5:D	_
-5	failures	_	Word	Word	_	0	H	0:H	_
+1	Due	_	Word	Word	_	14	L	14:L	_
+2	to	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	the	_	Word	Word	_	5	F	5:F	_
+4	commercial	_	Word	Word	_	5	E	5:E	_
+5	failures	_	Word	Word	_	9	D	9:D	_
 6	of	_	Word	Word	_	9	R	9:R	_
 7	his	_	Word	Word	_	9	A	9:A	_
 8	early	_	Word	Word	_	9	D	9:D	_
-9	ventures	_	Word	Word	_	5	A	5:A	_
+9	ventures	_	Word	Word	_	0	H	0:H	_
 10	into	_	Word	Word	_	11	R	11:R	_
 11	films	_	Word	Word	_	9	A	9:A	_
-12	and	_	Word	Word	_	13	L	13:L	_
-13	trouble	_	Word	Word	_	5	H	5:H	_
-14	finding	_	Word	Word	_	13	A	13:A	_
-15	stunt	_	Word	Word	_	16	E	16:E	_
-16	work	_	Word	Word	_	14	A	14:A	_
-17	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+12	and	_	Word	Word	_	14	L	14:L	_
+13	trouble	_	Word	Word	_	14	D	14:D	_
+14	finding	_	Word	Word	_	9	H	9:H	_
+15	stunt	_	Word	Word	_	14	A	14:A	_
+16	work	_	Word	Word	_	15	D	15:D	_
+17	,	_	Punctuation	Punctuation	_	9	U	9:U	_
 18	in	_	Word	Word	_	19	R	19:R	_
-19	1975	_	Word	Word	_	21	D	21:D	_
-20	Chan	_	Word	Word	_	21	A	21:A|5:A|13:A|14:A	_
-21	starred	_	Word	Word	_	5	H	5:H	_
+19	1975	_	Word	Word	_	21	T	21:T	_
+20	Chan	_	Word	Word	_	21	A	21:A|14:A	_
+21	starred	_	Word	Word	_	9	H	9:H	_
 22	in	_	Word	Word	_	28	R	28:R	_
-23	a	_	Word	Word	_	28	E	28:E	_
+23	a	_	Word	Word	_	28	F	28:F	_
 24	comedic	_	Word	Word	_	28	E	28:E	_
 25	adult	_	Word	Word	_	26	E	26:E	_
 26	film	_	Word	Word	_	28	E	28:E	_
@@ -33,15 +33,15 @@
 30	the	_	Word	Word	_	28	Terminal	28:Terminal	_
 31	Family	_	Word	Word	_	28	Terminal	28:Terminal	_
 32	,	_	Punctuation	Punctuation	_	28	U	28:U	_
-33	which	_	Word	Word	_	34	F	34:F	_
+33	which	_	Word	Word	_	34	R	34:R	_
 34	features	_	Word	Word	_	28	E	28:E	_
-35	Jackie	_	Word	Word	_	41	E	41:E	_
+35	Jackie	_	Word	Word	_	41	A	41:A	_
 36	Chan	_	Word	Word	_	35	Terminal	35:Terminal	_
 37	's	_	Word	Word	_	35	R	35:R	_
-38	first	_	Word	Word	_	41	E	41:E	_
-39	nude	_	Word	Word	_	41	E	41:E	_
-40	sex	_	Word	Word	_	41	E	41:E	_
+38	first	_	Word	Word	_	41	D	41:D	_
+39	nude	_	Word	Word	_	41	D	41:D	_
+40	sex	_	Word	Word	_	41	D	41:D	_
 41	scene	_	Word	Word	_	34	A	34:A	_
-42	filmed	_	Word	Word	_	41	E	41:E	_
+42	filmed	_	Word	Word	_	41	D	41:D	_
 43	.	_	Punctuation	Punctuation	_	41	U	41:U	_
 

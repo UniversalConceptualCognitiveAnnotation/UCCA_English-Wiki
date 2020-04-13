@@ -3,18 +3,18 @@
 # text = By late 1934 , the Gumm Sisters had changed their name to the Garland Sisters .
 1	By	_	Word	Word	_	3	R	3:R	_
 2	late	_	Word	Word	_	3	E	3:E	_
-3	1934	_	Word	Word	_	9	D	9:D	_
+3	1934	_	Word	Word	_	9	T	9:T	_
 4	,	_	Punctuation	Punctuation	_	9	U	9:U	_
-5	the	_	Word	Word	_	7	E	7:E	_
-6	Gumm	_	Word	Word	_	7	E	7:E	_
-7	Sisters	_	Word	Word	_	9	A	9:A	_
+5	the	_	Word	Word	_	6	F	6:F	_
+6	Gumm	_	Word	Word	_	9	A	9:A	_
+7	Sisters	_	Word	Word	_	6	Terminal	6:Terminal	_
 8	had	_	Word	Word	_	9	F	9:F	_
 9	changed	_	Word	Word	_	0	H	0:H	_
 10	their	_	Word	Word	_	11	E	11:E	_
 11	name	_	Word	Word	_	9	A	9:A	_
-12	to	_	Word	Word	_	15	R	15:R	_
-13	the	_	Word	Word	_	15	E	15:E	_
-14	Garland	_	Word	Word	_	15	E	15:E	_
-15	Sisters	_	Word	Word	_	9	A	9:A	_
-16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+12	to	_	Word	Word	_	14	R	14:R	_
+13	the	_	Word	Word	_	14	F	14:F	_
+14	Garland	_	Word	Word	_	9	A	9:A	_
+15	Sisters	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	.	_	Punctuation	Punctuation	_	14	U	14:U	_
 

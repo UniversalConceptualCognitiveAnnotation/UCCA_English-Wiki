@@ -1,14 +1,14 @@
 # format = ucca
 # sent_id = 546012
 # text = As Thomas noted , " They have since earned millions , but not for Warner Bros . "
-1	As	_	Word	Word	_	2	R	2:R	_
+1	As	_	Word	Word	_	3	L	3:L	_
 2	Thomas	_	Word	Word	_	3	A	3:A	_
 3	noted	_	Word	Word	_	0	H	0:H	_
 4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 5	"	_	Punctuation	Punctuation	_	3	U	3:U	_
-6	They	_	Word	Word	_	9	A	9:A	_
+6	They	_	Word	Word	_	9	A	9:A|15:A	_
 7	have	_	Word	Word	_	9	F	9:F	_
-8	since	_	Word	Word	_	9	D	9:D	_
+8	since	_	Word	Word	_	9	T	9:T	_
 9	earned	_	Word	Word	_	3	A	3:A	_
 10	millions	_	Word	Word	_	9	A	9:A	_
 11	,	_	Punctuation	Punctuation	_	9	U	9:U	_

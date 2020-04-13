@@ -1,33 +1,33 @@
 # format = ucca
 # sent_id = 650002
 # text = Another political activist , John Sinclair , poet and co - founder of the White Panther Party , was serving ten years in prison for selling two joints of marijuana after previous convictions for possession of the drug .
-1	Another	_	Word	Word	_	3	E	3:E	_
-2	political	_	Word	Word	_	3	E	3:E	_
+1	Another	_	Word	Word	_	3	R	3:R	_
+2	political	_	Word	Word	_	3	A	3:A	_
 3	activist	_	Word	Word	_	5	E	5:E	_
 4	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 5	John	_	Word	Word	_	20	A	20:A	_
 6	Sinclair	_	Word	Word	_	5	Terminal	5:Terminal	_
 7	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 8	poet	_	Word	Word	_	5	E	5:E	_
-9	and	_	Word	Word	_	8	N	8:N	_
+9	and	_	Word	Word	_	12	L	12:L	_
 10	co	_	Word	Word	_	12	E	12:E	_
 11	-	_	Punctuation	Punctuation	_	12	U	12:U	_
-12	founder	_	Word	Word	_	8	C	8:C	_
+12	founder	_	Word	Word	_	8	H	8:H	_
 13	of	_	Word	Word	_	17	R	17:R	_
 14	the	_	Word	Word	_	17	E	17:E	_
 15	White	_	Word	Word	_	17	E	17:E	_
 16	Panther	_	Word	Word	_	15	Terminal	15:Terminal	_
-17	Party	_	Word	Word	_	12	E	12:E	_
+17	Party	_	Word	Word	_	12	A	12:A	_
 18	,	_	Punctuation	Punctuation	_	20	U	20:U	_
 19	was	_	Word	Word	_	20	F	20:F	_
 20	serving	_	Word	Word	_	0	H	0:H	_
-21	ten	_	Word	Word	_	22	E	22:E	_
-22	years	_	Word	Word	_	20	D	20:D	_
+21	ten	_	Word	Word	_	22	Q	22:Q	_
+22	years	_	Word	Word	_	20	T	20:T	_
 23	in	_	Word	Word	_	24	R	24:R	_
 24	prison	_	Word	Word	_	20	A	20:A	_
 25	for	_	Word	Word	_	26	R	26:R	_
 26	selling	_	Word	Word	_	20	A	20:A	_
-27	two	_	Word	Word	_	28	E	28:E	_
+27	two	_	Word	Word	_	28	Q	28:Q	_
 28	joints	_	Word	Word	_	30	E	30:E	_
 29	of	_	Word	Word	_	30	R	30:R	_
 30	marijuana	_	Word	Word	_	26	A	26:A	_

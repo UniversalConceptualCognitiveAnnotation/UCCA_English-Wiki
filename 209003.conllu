@@ -1,20 +1,20 @@
 # format = ucca
 # sent_id = 209003
 # text = After Rain Man , Hoffman appeared with Sean Connery and Matthew Broderick in Family Business .
-1	After	_	Word	Word	_	2	R	2:R	_
-2	Rain	_	Word	Word	_	14	D	14:D	_
+1	After	_	Word	Word	_	6	L	6:L	_
+2	Rain	_	Word	Word	_	0	H	0:H	_
 3	Man	_	Word	Word	_	2	Terminal	2:Terminal	_
-4	,	_	Punctuation	Punctuation	_	14	U	14:U	_
-5	Hoffman	_	Word	Word	_	14	A	14:A	_
-6	appeared	_	Word	Word	_	14	D	14:D	_
+4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	Hoffman	_	Word	Word	_	6	A	6:A	_
+6	appeared	_	Word	Word	_	2	H	2:H	_
 7	with	_	Word	Word	_	8	R	8:R	_
-8	Sean	_	Word	Word	_	14	A	14:A	_
+8	Sean	_	Word	Word	_	6	A	6:A	_
 9	Connery	_	Word	Word	_	8	Terminal	8:Terminal	_
 10	and	_	Word	Word	_	8	N	8:N	_
 11	Matthew	_	Word	Word	_	8	C	8:C	_
 12	Broderick	_	Word	Word	_	11	Terminal	11:Terminal	_
 13	in	_	Word	Word	_	14	R	14:R	_
-14	Family	_	Word	Word	_	0	H	0:H	_
+14	Family	_	Word	Word	_	6	A	6:A	_
 15	Business	_	Word	Word	_	14	Terminal	14:Terminal	_
 16	.	_	Punctuation	Punctuation	_	14	U	14:U	_
 

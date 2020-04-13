@@ -1,8 +1,8 @@
 # format = ucca
 # sent_id = 245004
 # text = Hawke 's next film , 1991 's White Fang , brought his first leading role .
-1	Hawke	_	Word	Word	_	4	E	4:E	_
-2	's	_	Word	Word	_	1	R	1:R	_
+1	Hawke	_	Word	Word	_	2	A	2:A	_
+2	's	_	Word	Word	_	4	E	4:E	_
 3	next	_	Word	Word	_	4	E	4:E	_
 4	film	_	Word	Word	_	8	E	8:E	_
 5	,	_	Punctuation	Punctuation	_	8	U	8:U	_
@@ -12,9 +12,9 @@
 9	Fang	_	Word	Word	_	8	Terminal	8:Terminal	_
 10	,	_	Punctuation	Punctuation	_	11	U	11:U	_
 11	brought	_	Word	Word	_	0	H	0:H	_
-12	his	_	Word	Word	_	13	E	13:E	_
-13	first	_	Word	Word	_	15	E	15:E	_
-14	leading	_	Word	Word	_	15	E	15:E	_
+12	his	_	Word	Word	_	15	A	15:A	_
+13	first	_	Word	Word	_	15	D	15:D	_
+14	leading	_	Word	Word	_	15	D	15:D	_
 15	role	_	Word	Word	_	11	A	11:A	_
 16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
 

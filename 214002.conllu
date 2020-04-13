@@ -2,10 +2,10 @@
 # sent_id = 214002
 # text = In 1995 , her mother filed for divorce .
 1	In	_	Word	Word	_	2	R	2:R	_
-2	1995	_	Word	Word	_	6	D	6:D	_
+2	1995	_	Word	Word	_	6	T	6:T	_
 3	,	_	Punctuation	Punctuation	_	6	U	6:U	_
-4	her	_	Word	Word	_	5	E	5:E	_
-5	mother	_	Word	Word	_	6	A	6:A	_
+4	her	_	Word	Word	_	6	A	6:A	_
+5	mother	_	Word	Word	_	4	A	4:A	_
 6	filed	_	Word	Word	_	0	H	0:H	_
 7	for	_	Word	Word	_	8	R	8:R	_
 8	divorce	_	Word	Word	_	6	A	6:A	_

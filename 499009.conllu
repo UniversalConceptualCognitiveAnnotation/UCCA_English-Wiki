@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 499009
 # text = Life on Mars ? " , from Hunky Dory , was released in June 1973 and made number three in the UK singles chart .
-1	Life	_	Word	Word	_	0	C	0:C|17:A	_
+1	Life	_	Word	Word	_	0	C	0:C|18:A	_
 2	on	_	Word	Word	_	1	Terminal	1:Terminal	_
 3	Mars	_	Word	Word	_	1	Terminal	1:Terminal	_
 4	?	_	Punctuation	Punctuation	_	1	U	1:U	_
@@ -13,17 +13,17 @@
 10	,	_	Punctuation	Punctuation	_	12	U	12:U	_
 11	was	_	Word	Word	_	12	F	12:F	_
 12	released	_	Word	Word	_	0	H	0:H	_
-13	in	_	Word	Word	_	15	R	15:R	_
-14	June	_	Word	Word	_	15	E	15:E	_
-15	1973	_	Word	Word	_	12	D	12:D	_
-16	and	_	Word	Word	_	17	L	17:L	_
-17	made	_	Word	Word	_	12	H	12:H	_
-18	number	_	Word	Word	_	17	A	17:A	_
-19	three	_	Word	Word	_	18	E	18:E	_
+13	in	_	Word	Word	_	14	R	14:R	_
+14	June	_	Word	Word	_	12	T	12:T	_
+15	1973	_	Word	Word	_	14	C	14:C	_
+16	and	_	Word	Word	_	18	L	18:L	_
+17	made	_	Word	Word	_	18	D	18:D	_
+18	number	_	Word	Word	_	12	H	12:H	_
+19	three	_	Word	Word	_	18	Q	18:Q	_
 20	in	_	Word	Word	_	24	R	24:R	_
 21	the	_	Word	Word	_	24	E	24:E	_
 22	UK	_	Word	Word	_	24	E	24:E	_
 23	singles	_	Word	Word	_	24	E	24:E	_
-24	chart	_	Word	Word	_	18	E	18:E	_
+24	chart	_	Word	Word	_	18	A	18:A	_
 25	.	_	Punctuation	Punctuation	_	24	U	24:U	_
 

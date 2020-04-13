@@ -1,24 +1,24 @@
 # format = ucca
 # sent_id = 201002
 # text = He has a habit of chain smoking while he spends countless hours cooped up in his office plotting out his next scripts .
-1	He	_	Word	Word	_	4	A	4:A|7:A	_
+1	He	_	Word	Word	_	7	A	7:A	_
 2	has	_	Word	Word	_	4	F	4:F	_
 3	a	_	Word	Word	_	4	E	4:E	_
-4	habit	_	Word	Word	_	0	H	0:H	_
-5	of	_	Word	Word	_	7	R	7:R	_
+4	habit	_	Word	Word	_	7	D	7:D	_
+5	of	_	Word	Word	_	7	F	7:F	_
 6	chain	_	Word	Word	_	7	E	7:E	_
-7	smoking	_	Word	Word	_	4	A	4:A	_
-8	while	_	Word	Word	_	10	L	10:L	_
-9	he	_	Word	Word	_	10	A	10:A|13:A|18:A	_
-10	spends	_	Word	Word	_	4	H	4:H	_
+7	smoking	_	Word	Word	_	0	H	0:H	_
+8	while	_	Word	Word	_	13	L	13:L	_
+9	he	_	Word	Word	_	13	A	13:A|18:A	_
+10	spends	_	Word	Word	_	13	F	13:F	_
 11	countless	_	Word	Word	_	12	E	12:E	_
-12	hours	_	Word	Word	_	10	D	10:D	_
-13	cooped	_	Word	Word	_	10	A	10:A	_
+12	hours	_	Word	Word	_	13	T	13:T	_
+13	cooped	_	Word	Word	_	7	H	7:H	_
 14	up	_	Word	Word	_	13	Terminal	13:Terminal	_
 15	in	_	Word	Word	_	17	R	17:R	_
 16	his	_	Word	Word	_	17	E	17:E	_
 17	office	_	Word	Word	_	13	A	13:A	_
-18	plotting	_	Word	Word	_	4	H	4:H	_
+18	plotting	_	Word	Word	_	7	H	7:H	_
 19	out	_	Word	Word	_	18	Terminal	18:Terminal	_
 20	his	_	Word	Word	_	22	E	22:E	_
 21	next	_	Word	Word	_	22	E	22:E	_

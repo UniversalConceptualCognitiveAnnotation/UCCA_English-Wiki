@@ -1,18 +1,20 @@
 # format = ucca
 # sent_id = 644008
-# text = McCartney corroborated Lennon 's explanation that Julian innocently came up with the name .
-1	McCartney	_	Word	Word	_	2	A	2:A	_
-2	corroborated	_	Word	Word	_	0	H	0:H	_
-3	Lennon	_	Word	Word	_	5	A	5:A	_
-4	's	_	Word	Word	_	3	R	3:R	_
-5	explanation	_	Word	Word	_	2	A	2:A	_
-6	that	_	Word	Word	_	9	F	9:F	_
-7	Julian	_	Word	Word	_	9	A	9:A	_
-8	innocently	_	Word	Word	_	9	D	9:D	_
-9	came	_	Word	Word	_	5	A	5:A	_
-10	up	_	Word	Word	_	9	Terminal	9:Terminal	_
-11	with	_	Word	Word	_	13	R	13:R	_
-12	the	_	Word	Word	_	13	E	13:E	_
-13	name	_	Word	Word	_	9	A	9:A	_
-14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+# text = Lennon was distant from Julian , who felt closer to McCartney than to his father .
+1	Lennon	_	Word	Word	_	3	A	3:A	_
+2	was	_	Word	Word	_	3	F	3:F	_
+3	distant	_	Word	Word	_	0	H	0:H	_
+4	from	_	Word	Word	_	5	R	5:R	_
+5	Julian	_	Word	Word	_	3	A	3:A	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	who	_	Word	Word	_	9	R	9:R	_
+8	felt	_	Word	Word	_	9	E	9:E	_
+9	closer	_	Word	Word	_	5	E	5:E	_
+10	to	_	Word	Word	_	11	R	11:R	_
+11	McCartney	_	Word	Word	_	9	A	9:A	_
+12	than	_	Word	Word	_	15	R	15:R	_
+13	to	_	Word	Word	_	15	R	15:R	_
+14	his	_	Word	Word	_	15	A	15:A	_
+15	father	_	Word	Word	_	9	A	9:A	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
 

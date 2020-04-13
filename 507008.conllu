@@ -1,27 +1,27 @@
 # format = ucca
 # sent_id = 507008
 # text = Like his audience and his critics , Bowie himself became increasingly disaffected with his role as just one member of a band .
-1	Like	_	Word	Word	_	3	R	3:R	_
-2	his	_	Word	Word	_	3	E	3:E	_
-3	audience	_	Word	Word	_	12	A	12:A	_
+1	Like	_	Word	Word	_	3	L	3:L	_
+2	his	_	Word	Word	_	3	A	3:A	_
+3	audience	_	Word	Word	_	0	H	0:H	_
 4	and	_	Word	Word	_	3	N	3:N	_
-5	his	_	Word	Word	_	6	E	6:E	_
+5	his	_	Word	Word	_	6	A	6:A	_
 6	critics	_	Word	Word	_	3	C	3:C	_
-7	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+7	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 8	Bowie	_	Word	Word	_	12	A	12:A	_
-9	himself	_	Word	Word	_	12	D	12:D	_
-10	became	_	Word	Word	_	12	D	12:D	_
+9	himself	_	Word	Word	_	8	E	8:E	_
+10	became	_	Word	Word	_	12	F	12:F	_
 11	increasingly	_	Word	Word	_	12	D	12:D	_
-12	disaffected	_	Word	Word	_	0	H	0:H	_
+12	disaffected	_	Word	Word	_	0	P	0:P|3:P	_
 13	with	_	Word	Word	_	15	R	15:R	_
 14	his	_	Word	Word	_	15	E	15:E	_
 15	role	_	Word	Word	_	12	A	12:A	_
 16	as	_	Word	Word	_	19	R	19:R	_
 17	just	_	Word	Word	_	19	E	19:E	_
-18	one	_	Word	Word	_	19	E	19:E	_
+18	one	_	Word	Word	_	19	Q	19:Q	_
 19	member	_	Word	Word	_	15	E	15:E	_
 20	of	_	Word	Word	_	22	R	22:R	_
 21	a	_	Word	Word	_	22	E	22:E	_
-22	band	_	Word	Word	_	19	E	19:E	_
+22	band	_	Word	Word	_	19	A	19:A	_
 23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
 

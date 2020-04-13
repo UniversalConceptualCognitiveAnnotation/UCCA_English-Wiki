@@ -1,42 +1,20 @@
 # format = ucca
 # sent_id = 553013
-# text = In 1968 , after seven years away from the stage , he returned to live performance in a celebrated comeback television special that led to an extended Las Vegas concert residency and a string of profitable tours .
+# text = In 1973 Presley staged the first concert broadcast globally via satellite , Aloha from Hawaii .
 1	In	_	Word	Word	_	2	E	2:E	_
-2	1968	_	Word	Word	_	13	D	13:D	_
-3	,	_	Punctuation	Punctuation	_	13	U	13:U	_
-4	after	_	Word	Word	_	10	L	10:L	_
-5	seven	_	Word	Word	_	6	E	6:E	_
-6	years	_	Word	Word	_	10	D	10:D	_
-7	away	_	Word	Word	_	10	R	10:R	_
-8	from	_	Word	Word	_	10	R	10:R	_
-9	the	_	Word	Word	_	10	E	10:E	_
-10	stage	_	Word	Word	_	13	H	13:H	_
-11	,	_	Punctuation	Punctuation	_	10	U	10:U	_
-12	he	_	Word	Word	_	13	A	13:A|10:A|16:A|31:A|37:A	_
-13	returned	_	Word	Word	_	0	H	0:H	_
-14	to	_	Word	Word	_	16	R	16:R	_
-15	live	_	Word	Word	_	16	E	16:E	_
-16	performance	_	Word	Word	_	13	A	13:A	_
-17	in	_	Word	Word	_	22	R	22:R	_
-18	a	_	Word	Word	_	22	E	22:E	_
-19	celebrated	_	Word	Word	_	22	E	22:E	_
-20	comeback	_	Word	Word	_	22	E	22:E	_
-21	television	_	Word	Word	_	22	E	22:E	_
-22	special	_	Word	Word	_	13	A	13:A	_
-23	that	_	Word	Word	_	24	F	24:F	_
-24	led	_	Word	Word	_	22	E	22:E	_
-25	to	_	Word	Word	_	31	R	31:R	_
-26	an	_	Word	Word	_	31	E	31:E	_
-27	extended	_	Word	Word	_	31	D	31:D	_
-28	Las	_	Word	Word	_	31	E	31:E	_
-29	Vegas	_	Word	Word	_	28	Terminal	28:Terminal	_
-30	concert	_	Word	Word	_	31	E	31:E	_
-31	residency	_	Word	Word	_	24	A	24:A	_
-32	and	_	Word	Word	_	31	N	31:N	_
-33	a	_	Word	Word	_	34	E	34:E	_
-34	string	_	Word	Word	_	37	E	37:E	_
-35	of	_	Word	Word	_	34	R	34:R	_
-36	profitable	_	Word	Word	_	37	E	37:E	_
-37	tours	_	Word	Word	_	31	C	31:C	_
-38	.	_	Punctuation	Punctuation	_	37	U	37:U	_
+2	1973	_	Word	Word	_	7	T	7:T	_
+3	Presley	_	Word	Word	_	7	A	7:A	_
+4	staged	_	Word	Word	_	7	D	7:D	_
+5	the	_	Word	Word	_	8	F	8:F	_
+6	first	_	Word	Word	_	8	D	8:D	_
+7	concert	_	Word	Word	_	0	H	0:H	_
+8	broadcast	_	Word	Word	_	7	H	7:H	_
+9	globally	_	Word	Word	_	8	A	8:A	_
+10	via	_	Word	Word	_	11	R	11:R	_
+11	satellite	_	Word	Word	_	8	A	8:A	_
+12	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+13	Aloha	_	Word	Word	_	7	A	7:A	_
+14	from	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	Hawaii	_	Word	Word	_	13	Terminal	13:Terminal	_
+16	.	_	Punctuation	Punctuation	_	7	U	7:U	_
 

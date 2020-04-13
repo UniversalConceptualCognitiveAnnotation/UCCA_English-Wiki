@@ -2,12 +2,12 @@
 # sent_id = 610016
 # text = In 2008 , he released his third Fireman album , Electric Arguments .
 1	In	_	Word	Word	_	2	R	2:R	_
-2	2008	_	Word	Word	_	5	D	5:D	_
+2	2008	_	Word	Word	_	5	T	5:T	_
 3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 4	he	_	Word	Word	_	5	A	5:A	_
 5	released	_	Word	Word	_	0	H	0:H	_
 6	his	_	Word	Word	_	9	E	9:E	_
-7	third	_	Word	Word	_	9	E	9:E	_
+7	third	_	Word	Word	_	9	Q	9:Q	_
 8	Fireman	_	Word	Word	_	9	E	9:E	_
 9	album	_	Word	Word	_	11	E	11:E	_
 10	,	_	Punctuation	Punctuation	_	11	U	11:U	_

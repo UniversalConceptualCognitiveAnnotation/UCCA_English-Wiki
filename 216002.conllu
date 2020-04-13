@@ -1,13 +1,13 @@
 # format = ucca
 # sent_id = 216002
 # text = The movie received generally favorable reviews , and San Francisco Chronicle critic Peter Stack noted in his review that Dunst " beautifully balances innocence and wantonness . "
-1	The	_	Word	Word	_	2	E	2:E	_
-2	movie	_	Word	Word	_	3	A	3:A	_
-3	received	_	Word	Word	_	0	H	0:H	_
-4	generally	_	Word	Word	_	6	E	6:E	_
-5	favorable	_	Word	Word	_	6	E	6:E	_
-6	reviews	_	Word	Word	_	3	A	3:A	_
-7	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+1	The	_	Word	Word	_	2	F	2:F	_
+2	movie	_	Word	Word	_	6	A	6:A	_
+3	received	_	Word	Word	_	6	F	6:F	_
+4	generally	_	Word	Word	_	5	E	5:E	_
+5	favorable	_	Word	Word	_	6	D	6:D	_
+6	reviews	_	Word	Word	_	0	H	0:H	_
+7	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 8	and	_	Word	Word	_	15	L	15:L	_
 9	San	_	Word	Word	_	12	E	12:E	_
 10	Francisco	_	Word	Word	_	9	Terminal	9:Terminal	_
@@ -15,9 +15,9 @@
 12	critic	_	Word	Word	_	13	E	13:E	_
 13	Peter	_	Word	Word	_	15	A	15:A	_
 14	Stack	_	Word	Word	_	13	Terminal	13:Terminal	_
-15	noted	_	Word	Word	_	3	H	3:H	_
+15	noted	_	Word	Word	_	6	H	6:H	_
 16	in	_	Word	Word	_	18	R	18:R	_
-17	his	_	Word	Word	_	18	E	18:E	_
+17	his	_	Word	Word	_	18	A	18:A	_
 18	review	_	Word	Word	_	15	A	15:A	_
 19	that	_	Word	Word	_	23	F	23:F	_
 20	Dunst	_	Word	Word	_	23	A	23:A	_
@@ -27,6 +27,6 @@
 24	innocence	_	Word	Word	_	23	A	23:A	_
 25	and	_	Word	Word	_	24	N	24:N	_
 26	wantonness	_	Word	Word	_	24	C	24:C	_
-27	.	_	Punctuation	Punctuation	_	24	U	24:U	_
-28	"	_	Punctuation	Punctuation	_	24	U	24:U	_
+27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+28	"	_	Punctuation	Punctuation	_	26	U	26:U	_
 

@@ -1,28 +1,28 @@
 # format = ucca
 # sent_id = 653000
 # text = Beatles ' biographer Bill Harry writes that Lennon began drawing and writing creatively at an early age with the encouragement of his uncle .
-1	Beatles	_	Word	Word	_	3	E	3:E	_
+1	Beatles	_	Word	Word	_	3	A	3:A	_
 2	'	_	Punctuation	Punctuation	_	3	U	3:U	_
 3	biographer	_	Word	Word	_	6	A	6:A	_
-4	Bill	_	Word	Word	_	3	E	3:E	_
+4	Bill	_	Word	Word	_	3	A	3:A	_
 5	Harry	_	Word	Word	_	4	Terminal	4:Terminal	_
 6	writes	_	Word	Word	_	0	H	0:H	_
-7	that	_	Word	Word	_	10	F	10:F	_
-8	Lennon	_	Word	Word	_	10	A	10:A|17:A	_
-9	began	_	Word	Word	_	10	D	10:D	_
+7	that	_	Word	Word	_	10	R	10:R|12:R	_
+8	Lennon	_	Word	Word	_	10	A	10:A|12:A|17:A	_
+9	began	_	Word	Word	_	10	D	10:D|12:D	_
 10	drawing	_	Word	Word	_	6	A	6:A	_
-11	and	_	Word	Word	_	10	N	10:N	_
-12	writing	_	Word	Word	_	10	C	10:C	_
-13	creatively	_	Word	Word	_	10	D	10:D	_
-14	at	_	Word	Word	_	17	L	17:L	_
+11	and	_	Word	Word	_	12	L	12:L	_
+12	writing	_	Word	Word	_	10	H	10:H	_
+13	creatively	_	Word	Word	_	10	D	10:D|12:D	_
+14	at	_	Word	Word	_	17	R	17:R	_
 15	an	_	Word	Word	_	17	E	17:E	_
-16	early	_	Word	Word	_	17	E	17:E	_
-17	age	_	Word	Word	_	10	H	10:H	_
-18	with	_	Word	Word	_	20	L	20:L	_
+16	early	_	Word	Word	_	17	D	17:D	_
+17	age	_	Word	Word	_	10	A	10:A|12:A	_
+18	with	_	Word	Word	_	20	R	20:R	_
 19	the	_	Word	Word	_	20	E	20:E	_
-20	encouragement	_	Word	Word	_	10	H	10:H	_
+20	encouragement	_	Word	Word	_	10	A	10:A|12:A	_
 21	of	_	Word	Word	_	23	R	23:R	_
-22	his	_	Word	Word	_	23	E	23:E	_
+22	his	_	Word	Word	_	23	A	23:A	_
 23	uncle	_	Word	Word	_	20	A	20:A	_
 24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
 

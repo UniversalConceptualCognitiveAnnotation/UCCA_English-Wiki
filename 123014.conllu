@@ -3,15 +3,15 @@
 # text = She graduated with a degree in history and philosophy in June 1928 .
 1	She	_	Word	Word	_	2	A	2:A	_
 2	graduated	_	Word	Word	_	0	H	0:H	_
-3	with	_	Word	Word	_	4	R	4:R	_
+3	with	_	Word	Word	_	5	R	5:R	_
 4	a	_	Word	Word	_	5	E	5:E	_
 5	degree	_	Word	Word	_	2	A	2:A	_
 6	in	_	Word	Word	_	7	R	7:R	_
 7	history	_	Word	Word	_	5	E	5:E	_
 8	and	_	Word	Word	_	7	N	7:N	_
 9	philosophy	_	Word	Word	_	7	C	7:C	_
-10	in	_	Word	Word	_	12	R	12:R	_
-11	June	_	Word	Word	_	12	E	12:E	_
-12	1928	_	Word	Word	_	2	D	2:D	_
-13	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+10	in	_	Word	Word	_	11	R	11:R	_
+11	June	_	Word	Word	_	2	T	2:T	_
+12	1928	_	Word	Word	_	11	C	11:C	_
+13	.	_	Punctuation	Punctuation	_	11	U	11:U	_
 

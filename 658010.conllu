@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 658010
 # text = Patricia 's father had died while she was young ; however , she inherited his passion for music .
-1	Patricia	_	Word	Word	_	3	E	3:E	_
+1	Patricia	_	Word	Word	_	3	A	3:A	_
 2	's	_	Word	Word	_	1	R	1:R	_
 3	father	_	Word	Word	_	5	A	5:A	_
 4	had	_	Word	Word	_	5	F	5:F	_
@@ -15,9 +15,9 @@
 12	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 13	she	_	Word	Word	_	14	A	14:A	_
 14	inherited	_	Word	Word	_	5	H	5:H	_
-15	his	_	Word	Word	_	16	E	16:E	_
+15	his	_	Word	Word	_	16	A	16:A	_
 16	passion	_	Word	Word	_	14	A	14:A	_
 17	for	_	Word	Word	_	18	R	18:R	_
-18	music	_	Word	Word	_	16	E	16:E	_
+18	music	_	Word	Word	_	16	A	16:A	_
 19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
 

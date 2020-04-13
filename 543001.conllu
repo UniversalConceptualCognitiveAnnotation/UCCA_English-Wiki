@@ -1,25 +1,25 @@
 # format = ucca
 # sent_id = 543001
 # text = After acquiring a creative property , he often had little to do with a film 's production until it was ready for preview .
-1	After	_	Word	Word	_	12	L	12:L	_
+1	After	_	Word	Word	_	9	L	9:L	_
 2	acquiring	_	Word	Word	_	0	H	0:H	_
-3	a	_	Word	Word	_	5	E	5:E	_
+3	a	_	Word	Word	_	5	F	5:F	_
 4	creative	_	Word	Word	_	5	E	5:E	_
 5	property	_	Word	Word	_	2	A	2:A	_
 6	,	_	Punctuation	Punctuation	_	2	U	2:U	_
-7	he	_	Word	Word	_	12	A	12:A	_
-8	often	_	Word	Word	_	12	D	12:D	_
-9	had	_	Word	Word	_	12	F	12:F	_
-10	little	_	Word	Word	_	12	D	12:D	_
-11	to	_	Word	Word	_	12	F	12:F	_
-12	do	_	Word	Word	_	2	H	2:H	_
+7	he	_	Word	Word	_	9	A	9:A	_
+8	often	_	Word	Word	_	9	D	9:D	_
+9	had	_	Word	Word	_	2	H	2:H	_
+10	little	_	Word	Word	_	9	D	9:D	_
+11	to	_	Word	Word	_	9	Terminal	9:Terminal	_
+12	do	_	Word	Word	_	9	Terminal	9:Terminal	_
 13	with	_	Word	Word	_	17	R	17:R	_
-14	a	_	Word	Word	_	15	E	15:E	_
+14	a	_	Word	Word	_	15	F	15:F	_
 15	film	_	Word	Word	_	17	A	17:A	_
 16	's	_	Word	Word	_	15	R	15:R	_
-17	production	_	Word	Word	_	12	A	12:A	_
+17	production	_	Word	Word	_	9	A	9:A	_
 18	until	_	Word	Word	_	21	L	21:L	_
-19	it	_	Word	Word	_	21	A	21:A	_
+19	it	_	Word	Word	_	21	A	21:A|23:A	_
 20	was	_	Word	Word	_	21	F	21:F	_
 21	ready	_	Word	Word	_	2	H	2:H	_
 22	for	_	Word	Word	_	23	R	23:R	_

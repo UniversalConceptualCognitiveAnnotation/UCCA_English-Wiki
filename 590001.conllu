@@ -3,16 +3,16 @@
 # text = His next role with Burton was in the 1994 film , Ed Wood .
 1	His	_	Word	Word	_	3	A	3:A	_
 2	next	_	Word	Word	_	3	D	3:D	_
-3	role	_	Word	Word	_	6	A	6:A	_
+3	role	_	Word	Word	_	0	H	0:H	_
 4	with	_	Word	Word	_	5	R	5:R	_
 5	Burton	_	Word	Word	_	3	A	3:A	_
-6	was	_	Word	Word	_	0	H	0:H	_
+6	was	_	Word	Word	_	3	F	3:F	_
 7	in	_	Word	Word	_	12	R	12:R	_
-8	the	_	Word	Word	_	12	E	12:E	_
-9	1994	_	Word	Word	_	12	E	12:E	_
+8	the	_	Word	Word	_	12	F	12:F	_
+9	1994	_	Word	Word	_	10	E	10:E	_
 10	film	_	Word	Word	_	12	E	12:E	_
 11	,	_	Punctuation	Punctuation	_	12	U	12:U	_
-12	Ed	_	Word	Word	_	6	A	6:A	_
+12	Ed	_	Word	Word	_	3	A	3:A	_
 13	Wood	_	Word	Word	_	12	Terminal	12:Terminal	_
 14	.	_	Punctuation	Punctuation	_	12	U	12:U	_
 

@@ -2,7 +2,7 @@
 # sent_id = 637002
 # text = He later wrote , " I started the band . I disbanded it . It 's as simple as that . "
 1	He	_	Word	Word	_	3	A	3:A	_
-2	later	_	Word	Word	_	3	D	3:D	_
+2	later	_	Word	Word	_	3	T	3:T	_
 3	wrote	_	Word	Word	_	0	H	0:H	_
 4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 5	"	_	Punctuation	Punctuation	_	3	U	3:U	_
@@ -15,12 +15,12 @@
 12	disbanded	_	Word	Word	_	7	H	7:H	_
 13	it	_	Word	Word	_	12	A	12:A	_
 14	.	_	Punctuation	Punctuation	_	7	U	7:U	_
-15	It	_	Word	Word	_	16	A	16:A	_
-16	's	_	Word	Word	_	7	H	7:H	_
+15	It	_	Word	Word	_	18	A	18:A	_
+16	's	_	Word	Word	_	18	F	18:F	_
 17	as	_	Word	Word	_	18	R	18:R	_
-18	simple	_	Word	Word	_	16	A	16:A	_
+18	simple	_	Word	Word	_	7	H	7:H	_
 19	as	_	Word	Word	_	20	R	20:R	_
-20	that	_	Word	Word	_	18	E	18:E	_
+20	that	_	Word	Word	_	18	A	18:A	_
 21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
 22	"	_	Punctuation	Punctuation	_	20	U	20:U	_
 

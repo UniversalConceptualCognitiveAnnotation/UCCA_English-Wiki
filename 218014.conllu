@@ -2,7 +2,7 @@
 # sent_id = 218014
 # text = In 2008 , Dunst starred alongside Simon Pegg in How to Lose Friends and Alienate People , an adaptation of the memoir of the same name by former Vanity Fair contributing editor Toby Young .
 1	In	_	Word	Word	_	2	R	2:R	_
-2	2008	_	Word	Word	_	5	D	5:D	_
+2	2008	_	Word	Word	_	5	T	5:T	_
 3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 4	Dunst	_	Word	Word	_	5	A	5:A	_
 5	starred	_	Word	Word	_	0	H	0:H	_
@@ -18,20 +18,20 @@
 15	Alienate	_	Word	Word	_	10	Terminal	10:Terminal	_
 16	People	_	Word	Word	_	10	Terminal	10:Terminal	_
 17	,	_	Punctuation	Punctuation	_	10	U	10:U	_
-18	an	_	Word	Word	_	22	E	22:E	_
-19	adaptation	_	Word	Word	_	22	E	22:E	_
-20	of	_	Word	Word	_	19	R	19:R	_
-21	the	_	Word	Word	_	22	E	22:E	_
-22	memoir	_	Word	Word	_	10	E	10:E	_
+18	an	_	Word	Word	_	19	F	19:F	_
+19	adaptation	_	Word	Word	_	10	E	10:E	_
+20	of	_	Word	Word	_	22	R	22:R	_
+21	the	_	Word	Word	_	22	F	22:F	_
+22	memoir	_	Word	Word	_	19	A	19:A	_
 23	of	_	Word	Word	_	26	R	26:R	_
-24	the	_	Word	Word	_	26	E	26:E	_
+24	the	_	Word	Word	_	26	F	26:F	_
 25	same	_	Word	Word	_	26	E	26:E	_
 26	name	_	Word	Word	_	22	E	22:E	_
 27	by	_	Word	Word	_	33	R	33:R	_
-28	former	_	Word	Word	_	32	E	32:E	_
-29	Vanity	_	Word	Word	_	32	E	32:E	_
+28	former	_	Word	Word	_	32	D	32:D	_
+29	Vanity	_	Word	Word	_	32	A	32:A	_
 30	Fair	_	Word	Word	_	29	Terminal	29:Terminal	_
-31	contributing	_	Word	Word	_	32	E	32:E	_
+31	contributing	_	Word	Word	_	32	D	32:D	_
 32	editor	_	Word	Word	_	33	E	33:E	_
 33	Toby	_	Word	Word	_	22	E	22:E	_
 34	Young	_	Word	Word	_	33	Terminal	33:Terminal	_

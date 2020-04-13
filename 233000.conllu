@@ -1,28 +1,28 @@
 # format = ucca
 # sent_id = 233000
 # text = Chan is a cultural icon , having been referenced in Ash 's song " Kung Fu " , Heavy Vegetable 's " Jackie Chan Is a Punk Rocker " , Leehom Wang 's " Long Live Chinese People " , as well as in " Jackie Chan " by Frank Chickens , and television shows Tim and Eric Awesome Show , Great Job ! , Celebrity Deathmatch and Family Guy .
-1	Chan	_	Word	Word	_	2	A	2:A|9:A	_
-2	is	_	Word	Word	_	0	H	0:H	_
-3	a	_	Word	Word	_	5	E	5:E	_
-4	cultural	_	Word	Word	_	5	E	5:E	_
-5	icon	_	Word	Word	_	2	A	2:A	_
-6	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+1	Chan	_	Word	Word	_	5	A	5:A|9:A	_
+2	is	_	Word	Word	_	5	F	5:F	_
+3	a	_	Word	Word	_	5	F	5:F	_
+4	cultural	_	Word	Word	_	5	D	5:D	_
+5	icon	_	Word	Word	_	0	H	0:H	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 7	having	_	Word	Word	_	9	F	9:F	_
 8	been	_	Word	Word	_	9	F	9:F	_
-9	referenced	_	Word	Word	_	2	H	2:H	_
+9	referenced	_	Word	Word	_	5	H	5:H	_
 10	in	_	Word	Word	_	15	R	15:R	_
-11	Ash	_	Word	Word	_	15	E	15:E	_
-12	's	_	Word	Word	_	11	R	11:R	_
+11	Ash	_	Word	Word	_	12	A	12:A	_
+12	's	_	Word	Word	_	15	E	15:E	_
 13	song	_	Word	Word	_	15	E	15:E	_
 14	"	_	Punctuation	Punctuation	_	15	U	15:U	_
 15	Kung	_	Word	Word	_	9	A	9:A	_
 16	Fu	_	Word	Word	_	15	Terminal	15:Terminal	_
 17	"	_	Punctuation	Punctuation	_	15	U	15:U	_
 18	,	_	Punctuation	Punctuation	_	15	U	15:U	_
-19	Heavy	_	Word	Word	_	23	E	23:E	_
+19	Heavy	_	Word	Word	_	21	A	21:A	_
 20	Vegetable	_	Word	Word	_	19	Terminal	19:Terminal	_
-21	's	_	Word	Word	_	19	R	19:R	_
-22	"	_	Punctuation	Punctuation	_	23	U	23:U	_
+21	's	_	Word	Word	_	23	E	23:E	_
+22	"	_	Punctuation	Punctuation	_	21	U	21:U	_
 23	Jackie	_	Word	Word	_	15	C	15:C	_
 24	Chan	_	Word	Word	_	23	Terminal	23:Terminal	_
 25	Is	_	Word	Word	_	23	Terminal	23:Terminal	_
@@ -31,10 +31,10 @@
 28	Rocker	_	Word	Word	_	23	Terminal	23:Terminal	_
 29	"	_	Punctuation	Punctuation	_	15	U	15:U	_
 30	,	_	Punctuation	Punctuation	_	15	U	15:U	_
-31	Leehom	_	Word	Word	_	35	E	35:E	_
+31	Leehom	_	Word	Word	_	33	A	33:A	_
 32	Wang	_	Word	Word	_	31	Terminal	31:Terminal	_
-33	's	_	Word	Word	_	31	R	31:R	_
-34	"	_	Punctuation	Punctuation	_	35	U	35:U	_
+33	's	_	Word	Word	_	35	E	35:E	_
+34	"	_	Punctuation	Punctuation	_	33	U	33:U	_
 35	Long	_	Word	Word	_	15	C	15:C	_
 36	Live	_	Word	Word	_	35	Terminal	35:Terminal	_
 37	Chinese	_	Word	Word	_	35	Terminal	35:Terminal	_
@@ -49,8 +49,8 @@
 46	Jackie	_	Word	Word	_	15	C	15:C	_
 47	Chan	_	Word	Word	_	46	Terminal	46:Terminal	_
 48	"	_	Punctuation	Punctuation	_	46	U	46:U	_
-49	by	_	Word	Word	_	50	R	50:R	_
-50	Frank	_	Word	Word	_	46	E	46:E	_
+49	by	_	Word	Word	_	46	E	46:E	_
+50	Frank	_	Word	Word	_	49	A	49:A	_
 51	Chickens	_	Word	Word	_	50	Terminal	50:Terminal	_
 52	,	_	Punctuation	Punctuation	_	46	U	46:U	_
 53	and	_	Word	Word	_	46	N	46:N	_

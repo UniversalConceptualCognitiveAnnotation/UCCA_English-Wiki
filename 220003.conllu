@@ -3,13 +3,13 @@
 # text = As of September 2011 , Dunst finished filming the independent comedy , Bachelorette , produced by Will Ferrell and Adam McKay .
 1	As	_	Word	Word	_	3	R	3:R	_
 2	of	_	Word	Word	_	1	Terminal	1:Terminal	_
-3	September	_	Word	Word	_	8	D	8:D	_
-4	2011	_	Word	Word	_	3	Terminal	3:Terminal	_
+3	September	_	Word	Word	_	8	T	8:T	_
+4	2011	_	Word	Word	_	3	C	3:C	_
 5	,	_	Punctuation	Punctuation	_	8	U	8:U	_
 6	Dunst	_	Word	Word	_	8	A	8:A	_
 7	finished	_	Word	Word	_	8	D	8:D	_
 8	filming	_	Word	Word	_	0	H	0:H	_
-9	the	_	Word	Word	_	13	E	13:E	_
+9	the	_	Word	Word	_	13	F	13:F	_
 10	independent	_	Word	Word	_	11	E	11:E	_
 11	comedy	_	Word	Word	_	13	E	13:E	_
 12	,	_	Punctuation	Punctuation	_	13	U	13:U	_

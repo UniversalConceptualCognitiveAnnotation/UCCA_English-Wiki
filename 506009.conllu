@@ -4,7 +4,7 @@
 1	Peaking	_	Word	Word	_	0	H	0:H	_
 2	at	_	Word	Word	_	3	R	3:R	_
 3	number	_	Word	Word	_	1	A	1:A	_
-4	six	_	Word	Word	_	3	E	3:E	_
+4	six	_	Word	Word	_	3	Q	3:Q	_
 5	in	_	Word	Word	_	7	R	7:R	_
 6	the	_	Word	Word	_	7	E	7:E	_
 7	UK	_	Word	Word	_	1	A	1:A	_
@@ -14,7 +14,7 @@
 11	yielded	_	Word	Word	_	1	H	1:H	_
 12	the	_	Word	Word	_	13	E	13:E	_
 13	hits	_	Word	Word	_	15	E	15:E	_
-14	"	_	Punctuation	Punctuation	_	15	U	15:U	_
+14	"	_	Punctuation	Punctuation	_	13	U	13:U	_
 15	Day	_	Word	Word	_	11	A	11:A	_
 16	-	_	Punctuation	Punctuation	_	15	U	15:U	_
 17	In	_	Word	Word	_	15	Terminal	15:Terminal	_
@@ -44,7 +44,7 @@
 41	"	_	Punctuation	Punctuation	_	1	U	1:U	_
 42	.	_	Punctuation	Punctuation	_	1	U	1:U	_
 43	Bowie	_	Word	Word	_	45	A	45:A|53:A	_
-44	later	_	Word	Word	_	45	D	45:D	_
+44	later	_	Word	Word	_	45	T	45:T	_
 45	described	_	Word	Word	_	1	H	1:H	_
 46	it	_	Word	Word	_	45	A	45:A	_
 47	as	_	Word	Word	_	50	R	50:R	_
@@ -70,9 +70,9 @@
 67	and	_	Word	Word	_	68	L	68:L	_
 68	preceded	_	Word	Word	_	1	H	1:H	_
 69	by	_	Word	Word	_	73	R	73:R	_
-70	nine	_	Word	Word	_	73	E	73:E	_
-71	promotional	_	Word	Word	_	73	E	73:E	_
-72	press	_	Word	Word	_	73	E	73:E	_
+70	nine	_	Word	Word	_	73	D	73:D	_
+71	promotional	_	Word	Word	_	73	D	73:D	_
+72	press	_	Word	Word	_	73	A	73:A	_
 73	shows	_	Word	Word	_	68	A	68:A	_
 74	,	_	Punctuation	Punctuation	_	1	U	1:U	_
 75	the	_	Word	Word	_	78	E	78:E	_
@@ -83,8 +83,8 @@
 80	Spider	_	Word	Word	_	79	Terminal	79:Terminal	_
 81	Tour	_	Word	Word	_	0	C	0:C|61:A|68:A	_
 82	commenced	_	Word	Word	_	1	H	1:H	_
-83	on	_	Word	Word	_	85	R	85:R	_
-84	30	_	Word	Word	_	85	E	85:E	_
-85	May	_	Word	Word	_	82	D	82:D	_
-86	.	_	Punctuation	Punctuation	_	85	U	85:U	_
+83	on	_	Word	Word	_	84	R	84:R	_
+84	30	_	Word	Word	_	82	T	82:T	_
+85	May	_	Word	Word	_	84	C	84:C	_
+86	.	_	Punctuation	Punctuation	_	84	U	84:U	_
 

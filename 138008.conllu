@@ -2,8 +2,8 @@
 # sent_id = 138008
 # text = After two years away from the screen , she starred in a film adaptation of Tennessee Williams ' controversial play Suddenly , Last Summer ( 1959 ) with Elizabeth Taylor and Montgomery Clift .
 1	After	_	Word	Word	_	10	L	10:L	_
-2	two	_	Word	Word	_	3	E	3:E	_
-3	years	_	Word	Word	_	4	D	4:D	_
+2	two	_	Word	Word	_	3	Q	3:Q	_
+3	years	_	Word	Word	_	4	T	4:T	_
 4	away	_	Word	Word	_	0	H	0:H	_
 5	from	_	Word	Word	_	7	R	7:R	_
 6	the	_	Word	Word	_	7	E	7:E	_
@@ -11,25 +11,25 @@
 8	,	_	Punctuation	Punctuation	_	4	U	4:U	_
 9	she	_	Word	Word	_	10	A	10:A|4:A	_
 10	starred	_	Word	Word	_	4	H	4:H	_
-11	in	_	Word	Word	_	21	R	21:R	_
-12	a	_	Word	Word	_	21	E	21:E	_
-13	film	_	Word	Word	_	14	E	14:E	_
-14	adaptation	_	Word	Word	_	21	E	21:E	_
-15	of	_	Word	Word	_	14	R	14:R	_
+11	in	_	Word	Word	_	14	R	14:R	_
+12	a	_	Word	Word	_	14	E	14:E	_
+13	film	_	Word	Word	_	14	A	14:A	_
+14	adaptation	_	Word	Word	_	10	A	10:A	_
+15	of	_	Word	Word	_	20	R	20:R	_
 16	Tennessee	_	Word	Word	_	20	E	20:E	_
 17	Williams	_	Word	Word	_	16	Terminal	16:Terminal	_
 18	'	_	Punctuation	Punctuation	_	20	U	20:U	_
 19	controversial	_	Word	Word	_	20	E	20:E	_
-20	play	_	Word	Word	_	14	E	14:E	_
-21	Suddenly	_	Word	Word	_	10	A	10:A	_
+20	play	_	Word	Word	_	14	A	14:A	_
+21	Suddenly	_	Word	Word	_	14	A	14:A	_
 22	,	_	Punctuation	Punctuation	_	21	U	21:U	_
 23	Last	_	Word	Word	_	21	Terminal	21:Terminal	_
 24	Summer	_	Word	Word	_	21	Terminal	21:Terminal	_
 25	(	_	Punctuation	Punctuation	_	21	U	21:U	_
 26	1959	_	Word	Word	_	21	E	21:E	_
-27	)	_	Punctuation	Punctuation	_	21	U	21:U	_
+27	)	_	Punctuation	Punctuation	_	10	U	10:U	_
 28	with	_	Word	Word	_	29	R	29:R	_
-29	Elizabeth	_	Word	Word	_	21	E	21:E	_
+29	Elizabeth	_	Word	Word	_	10	A	10:A	_
 30	Taylor	_	Word	Word	_	29	Terminal	29:Terminal	_
 31	and	_	Word	Word	_	29	N	29:N	_
 32	Montgomery	_	Word	Word	_	29	C	29:C	_

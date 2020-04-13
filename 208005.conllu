@@ -1,21 +1,21 @@
 # format = ucca
 # sent_id = 208005
 # text = His next film , Michael Apted 's Agatha , was with Vanessa Redgrave as Agatha Christie .
-1	His	_	Word	Word	_	3	A	3:A	_
+1	His	_	Word	Word	_	3	E	3:E	_
 2	next	_	Word	Word	_	3	E	3:E	_
 3	film	_	Word	Word	_	8	E	8:E	_
 4	,	_	Punctuation	Punctuation	_	8	U	8:U	_
-5	Michael	_	Word	Word	_	8	E	8:E	_
+5	Michael	_	Word	Word	_	7	A	7:A	_
 6	Apted	_	Word	Word	_	5	Terminal	5:Terminal	_
-7	's	_	Word	Word	_	5	R	5:R	_
-8	Agatha	_	Word	Word	_	12	A	12:A	_
-9	,	_	Punctuation	Punctuation	_	12	U	12:U	_
-10	was	_	Word	Word	_	12	F	12:F	_
+7	's	_	Word	Word	_	8	E	8:E	_
+8	Agatha	_	Word	Word	_	10	A	10:A	_
+9	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+10	was	_	Word	Word	_	0	H	0:H	_
 11	with	_	Word	Word	_	12	R	12:R	_
-12	Vanessa	_	Word	Word	_	0	H	0:H	_
+12	Vanessa	_	Word	Word	_	10	A	10:A	_
 13	Redgrave	_	Word	Word	_	12	Terminal	12:Terminal	_
 14	as	_	Word	Word	_	15	R	15:R	_
-15	Agatha	_	Word	Word	_	12	E	12:E	_
+15	Agatha	_	Word	Word	_	10	A	10:A	_
 16	Christie	_	Word	Word	_	15	Terminal	15:Terminal	_
 17	.	_	Punctuation	Punctuation	_	15	U	15:U	_
 

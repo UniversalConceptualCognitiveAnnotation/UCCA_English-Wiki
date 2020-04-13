@@ -1,41 +1,25 @@
 # format = ucca
 # sent_id = 607007
-# text = The album contained the song " Coming Up " , the live version of which , recorded in Glasgow , Scotland , in 1979 by Wings , became the group 's last number - one hit .
-1	The	_	Word	Word	_	2	E	2:E	_
-2	album	_	Word	Word	_	3	A	3:A	_
-3	contained	_	Word	Word	_	0	H	0:H	_
-4	the	_	Word	Word	_	5	E	5:E	_
-5	song	_	Word	Word	_	7	E	7:E	_
-6	"	_	Punctuation	Punctuation	_	7	U	7:U	_
-7	Coming	_	Word	Word	_	3	A	3:A	_
-8	Up	_	Word	Word	_	7	Terminal	7:Terminal	_
-9	"	_	Punctuation	Punctuation	_	7	U	7:U	_
-10	,	_	Punctuation	Punctuation	_	7	U	7:U	_
-11	the	_	Word	Word	_	28	A	28:A	_
-12	live	_	Word	Word	_	13	E	13:E	_
-13	version	_	Word	Word	_	11	E	11:E	_
-14	of	_	Word	Word	_	11	R	11:R	_
-15	which	_	Word	Word	_	11	F	11:F	_
-16	,	_	Punctuation	Punctuation	_	11	U	11:U	_
-17	recorded	_	Word	Word	_	11	E	11:E	_
-18	in	_	Word	Word	_	19	R	19:R	_
-19	Glasgow	_	Word	Word	_	17	A	17:A	_
-20	,	_	Punctuation	Punctuation	_	19	U	19:U	_
-21	Scotland	_	Word	Word	_	19	Terminal	19:Terminal	_
-22	,	_	Punctuation	Punctuation	_	17	U	17:U	_
-23	in	_	Word	Word	_	24	R	24:R	_
-24	1979	_	Word	Word	_	17	D	17:D	_
-25	by	_	Word	Word	_	26	R	26:R	_
-26	Wings	_	Word	Word	_	17	A	17:A	_
-27	,	_	Punctuation	Punctuation	_	28	U	28:U	_
-28	became	_	Word	Word	_	7	E	7:E	_
-29	the	_	Word	Word	_	30	E	30:E	_
-30	group	_	Word	Word	_	36	E	36:E	_
-31	's	_	Word	Word	_	30	R	30:R	_
-32	last	_	Word	Word	_	36	E	36:E	_
-33	number	_	Word	Word	_	36	E	36:E	_
-34	-	_	Punctuation	Punctuation	_	33	U	33:U	_
-35	one	_	Word	Word	_	33	E	33:E	_
-36	hit	_	Word	Word	_	28	A	28:A	_
-37	.	_	Punctuation	Punctuation	_	36	U	36:U	_
+# text = By 1981 , McCartney felt he had accomplished all he could creatively with Wings and decided he needed a change .
+1	By	_	Word	Word	_	2	R	2:R	_
+2	1981	_	Word	Word	_	5	T	5:T	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	McCartney	_	Word	Word	_	5	A	5:A|16:A	_
+5	felt	_	Word	Word	_	0	H	0:H	_
+6	he	_	Word	Word	_	8	A	8:A	_
+7	had	_	Word	Word	_	8	F	8:F	_
+8	accomplished	_	Word	Word	_	5	A	5:A	_
+9	all	_	Word	Word	_	8	A	8:A	_
+10	he	_	Word	Word	_	9	E	9:E	_
+11	could	_	Word	Word	_	10	D	10:D	_
+12	creatively	_	Word	Word	_	10	D	10:D	_
+13	with	_	Word	Word	_	14	R	14:R	_
+14	Wings	_	Word	Word	_	10	A	10:A	_
+15	and	_	Word	Word	_	16	L	16:L	_
+16	decided	_	Word	Word	_	5	H	5:H	_
+17	he	_	Word	Word	_	20	A	20:A	_
+18	needed	_	Word	Word	_	20	D	20:D	_
+19	a	_	Word	Word	_	20	E	20:E	_
+20	change	_	Word	Word	_	16	A	16:A	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
 

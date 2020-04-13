@@ -2,15 +2,15 @@
 # sent_id = 659018
 # text = Shortly thereafter , she was introduced to rising pop singer Brenda K. Starr .
 1	Shortly	_	Word	Word	_	2	E	2:E	_
-2	thereafter	_	Word	Word	_	6	D	6:D	_
+2	thereafter	_	Word	Word	_	6	L	6:L	_
 3	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 4	she	_	Word	Word	_	6	A	6:A	_
 5	was	_	Word	Word	_	6	F	6:F	_
 6	introduced	_	Word	Word	_	0	H	0:H	_
 7	to	_	Word	Word	_	11	R	11:R	_
 8	rising	_	Word	Word	_	10	E	10:E	_
-9	pop	_	Word	Word	_	10	E	10:E	_
-10	singer	_	Word	Word	_	11	E	11:E	_
+9	pop	_	Word	Word	_	10	A	10:A	_
+10	singer	_	Word	Word	_	0	P	0:P|8:A	_
 11	Brenda	_	Word	Word	_	6	A	6:A	_
 12	K.	_	Word	Word	_	11	Terminal	11:Terminal	_
 13	Starr	_	Word	Word	_	11	Terminal	11:Terminal	_

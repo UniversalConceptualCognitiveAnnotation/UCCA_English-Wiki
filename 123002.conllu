@@ -1,27 +1,27 @@
 # format = ucca
 # sent_id = 123002
 # text = The Hepburn family denied it was suicide and maintained that Tom 's death must have been an experiment that had gone wrong .
-1	The	_	Word	Word	_	3	E	3:E	_
-2	Hepburn	_	Word	Word	_	3	E	3:E	_
-3	family	_	Word	Word	_	0	C	0:C|9:A	_
+1	The	_	Word	Word	_	3	F	3:F	_
+2	Hepburn	_	Word	Word	_	4	A	4:A	_
+3	family	_	Word	Word	_	0	S	0:S|9:A	_
 4	denied	_	Word	Word	_	0	H	0:H	_
-5	it	_	Word	Word	_	6	A	6:A	_
-6	was	_	Word	Word	_	4	A	4:A	_
-7	suicide	_	Word	Word	_	6	Terminal	6:Terminal	_
+5	it	_	Word	Word	_	7	A	7:A	_
+6	was	_	Word	Word	_	7	F	7:F	_
+7	suicide	_	Word	Word	_	4	A	4:A	_
 8	and	_	Word	Word	_	9	L	9:L	_
 9	maintained	_	Word	Word	_	4	H	4:H	_
-10	that	_	Word	Word	_	18	F	18:F	_
+10	that	_	Word	Word	_	16	R	16:R	_
 11	Tom	_	Word	Word	_	13	A	13:A	_
 12	's	_	Word	Word	_	11	R	11:R	_
-13	death	_	Word	Word	_	18	A	18:A	_
-14	must	_	Word	Word	_	18	D	18:D	_
-15	have	_	Word	Word	_	18	F	18:F	_
-16	been	_	Word	Word	_	18	F	18:F	_
-17	an	_	Word	Word	_	18	E	18:E	_
-18	experiment	_	Word	Word	_	9	A	9:A	_
-19	that	_	Word	Word	_	22	R	22:R	_
+13	death	_	Word	Word	_	16	A	16:A	_
+14	must	_	Word	Word	_	16	D	16:D	_
+15	have	_	Word	Word	_	16	F	16:F	_
+16	been	_	Word	Word	_	9	A	9:A	_
+17	an	_	Word	Word	_	18	F	18:F	_
+18	experiment	_	Word	Word	_	0	P	0:P|22:A	_
+19	that	_	Word	Word	_	22	L	22:L	_
 20	had	_	Word	Word	_	22	F	22:F	_
 21	gone	_	Word	Word	_	22	D	22:D	_
-22	wrong	_	Word	Word	_	18	E	18:E	_
+22	wrong	_	Word	Word	_	16	H	16:H	_
 23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
 

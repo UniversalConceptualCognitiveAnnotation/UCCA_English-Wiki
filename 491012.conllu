@@ -1,30 +1,33 @@
 # format = ucca
 # sent_id = 491012
-# text = The film followed the life of a female Tasmanian Devil called Manganinnie and discussed the incurable facial cancer which threatens the survival of the species .
-1	The	_	Word	Word	_	2	E	2:E	_
-2	film	_	Word	Word	_	3	A	3:A|14:A	_
-3	followed	_	Word	Word	_	0	H	0:H	_
-4	the	_	Word	Word	_	5	E	5:E	_
-5	life	_	Word	Word	_	3	A	3:A	_
-6	of	_	Word	Word	_	9	R	9:R	_
-7	a	_	Word	Word	_	9	E	9:E	_
-8	female	_	Word	Word	_	9	E	9:E	_
-9	Tasmanian	_	Word	Word	_	5	E	5:E	_
-10	Devil	_	Word	Word	_	9	Terminal	9:Terminal	_
-11	called	_	Word	Word	_	9	E	9:E	_
-12	Manganinnie	_	Word	Word	_	11	A	11:A	_
-13	and	_	Word	Word	_	14	L	14:L	_
-14	discussed	_	Word	Word	_	3	H	3:H	_
-15	the	_	Word	Word	_	18	E	18:E	_
-16	incurable	_	Word	Word	_	18	E	18:E	_
-17	facial	_	Word	Word	_	18	E	18:E	_
-18	cancer	_	Word	Word	_	14	A	14:A	_
-19	which	_	Word	Word	_	20	R	20:R	_
-20	threatens	_	Word	Word	_	18	E	18:E	_
-21	the	_	Word	Word	_	22	E	22:E	_
-22	survival	_	Word	Word	_	20	A	20:A	_
-23	of	_	Word	Word	_	25	R	25:R	_
-24	the	_	Word	Word	_	25	E	25:E	_
-25	species	_	Word	Word	_	22	A	22:A	_
-26	.	_	Punctuation	Punctuation	_	25	U	25:U	_
+# text = He has also worked with the Royal Society for the Prevention of Cruelty to Animals , donating money to animal shelters in Berlin while filming Troy in 2004 .
+1	He	_	Word	Word	_	4	A	4:A|17:A|25:A	_
+2	has	_	Word	Word	_	4	F	4:F	_
+3	also	_	Word	Word	_	4	D	4:D	_
+4	worked	_	Word	Word	_	0	H	0:H	_
+5	with	_	Word	Word	_	7	R	7:R	_
+6	the	_	Word	Word	_	7	E	7:E	_
+7	Royal	_	Word	Word	_	4	A	4:A	_
+8	Society	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	for	_	Word	Word	_	7	Terminal	7:Terminal	_
+10	the	_	Word	Word	_	7	Terminal	7:Terminal	_
+11	Prevention	_	Word	Word	_	7	Terminal	7:Terminal	_
+12	of	_	Word	Word	_	7	Terminal	7:Terminal	_
+13	Cruelty	_	Word	Word	_	7	Terminal	7:Terminal	_
+14	to	_	Word	Word	_	7	Terminal	7:Terminal	_
+15	Animals	_	Word	Word	_	7	Terminal	7:Terminal	_
+16	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+17	donating	_	Word	Word	_	4	H	4:H	_
+18	money	_	Word	Word	_	17	A	17:A	_
+19	to	_	Word	Word	_	21	R	21:R	_
+20	animal	_	Word	Word	_	21	E	21:E	_
+21	shelters	_	Word	Word	_	17	A	17:A	_
+22	in	_	Word	Word	_	23	R	23:R	_
+23	Berlin	_	Word	Word	_	21	E	21:E	_
+24	while	_	Word	Word	_	25	L	25:L	_
+25	filming	_	Word	Word	_	4	H	4:H	_
+26	Troy	_	Word	Word	_	25	A	25:A	_
+27	in	_	Word	Word	_	28	R	28:R	_
+28	2004	_	Word	Word	_	25	T	25:T	_
+29	.	_	Punctuation	Punctuation	_	28	U	28:U	_
 

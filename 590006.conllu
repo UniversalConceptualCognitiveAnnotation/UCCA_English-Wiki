@@ -1,13 +1,20 @@
 # format = ucca
 # sent_id = 590006
-# text = Depp , however agrees with Rudin 's statement .
-1	Depp	_	Word	Word	_	4	A	4:A	_
-2	,	_	Punctuation	Punctuation	_	4	U	4:U	_
-3	however	_	Word	Word	_	4	L	4:L	_
-4	agrees	_	Word	Word	_	0	H	0:H	_
-5	with	_	Word	Word	_	8	R	8:R	_
-6	Rudin	_	Word	Word	_	8	E	8:E	_
-7	's	_	Word	Word	_	6	R	6:R	_
-8	statement	_	Word	Word	_	4	A	4:A	_
-9	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+# text = According to Depp , Edward Scissorhands represented Burton 's inability to communicate as a teenager .
+1	According	_	Word	Word	_	0	H	0:H	_
+2	to	_	Word	Word	_	1	F	1:F	_
+3	Depp	_	Word	Word	_	1	A	1:A	_
+4	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+5	Edward	_	Word	Word	_	7	A	7:A	_
+6	Scissorhands	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	represented	_	Word	Word	_	1	A	1:A	_
+8	Burton	_	Word	Word	_	0	C	0:C|15:A	_
+9	's	_	Word	Word	_	8	R	8:R	_
+10	inability	_	Word	Word	_	7	A	7:A	_
+11	to	_	Word	Word	_	12	F	12:F	_
+12	communicate	_	Word	Word	_	10	A	10:A	_
+13	as	_	Word	Word	_	15	L	15:L	_
+14	a	_	Word	Word	_	15	F	15:F	_
+15	teenager	_	Word	Word	_	10	H	10:H	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
 

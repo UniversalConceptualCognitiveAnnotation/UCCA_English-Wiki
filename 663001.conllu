@@ -1,10 +1,10 @@
 # format = ucca
 # sent_id = 663001
 # text = The album 's second single , " One Sweet Day " was inspired by the death of David Cole , as well as her sister Alison , who had contracted AIDS .
-1	The	_	Word	Word	_	8	E	8:E	_
+1	The	_	Word	Word	_	8	F	8:F	_
 2	album	_	Word	Word	_	5	E	5:E	_
 3	's	_	Word	Word	_	2	R	2:R	_
-4	second	_	Word	Word	_	5	E	5:E	_
+4	second	_	Word	Word	_	5	Q	5:Q	_
 5	single	_	Word	Word	_	8	E	8:E	_
 6	,	_	Punctuation	Punctuation	_	8	U	8:U	_
 7	"	_	Punctuation	Punctuation	_	8	U	8:U	_
@@ -15,7 +15,7 @@
 12	was	_	Word	Word	_	13	F	13:F	_
 13	inspired	_	Word	Word	_	0	H	0:H	_
 14	by	_	Word	Word	_	16	R	16:R	_
-15	the	_	Word	Word	_	16	E	16:E	_
+15	the	_	Word	Word	_	16	F	16:F	_
 16	death	_	Word	Word	_	13	A	13:A	_
 17	of	_	Word	Word	_	18	R	18:R	_
 18	David	_	Word	Word	_	16	A	16:A	_
@@ -24,7 +24,7 @@
 21	as	_	Word	Word	_	18	N	18:N	_
 22	well	_	Word	Word	_	21	Terminal	21:Terminal	_
 23	as	_	Word	Word	_	21	Terminal	21:Terminal	_
-24	her	_	Word	Word	_	25	E	25:E	_
+24	her	_	Word	Word	_	25	A	25:A	_
 25	sister	_	Word	Word	_	26	E	26:E	_
 26	Alison	_	Word	Word	_	18	C	18:C	_
 27	,	_	Punctuation	Punctuation	_	26	U	26:U	_

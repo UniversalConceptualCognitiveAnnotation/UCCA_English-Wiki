@@ -1,17 +1,17 @@
 # format = ucca
 # sent_id = 498005
 # text = At the same time the non - album single " John , I 'm Only Dancing " , and " All the Young Dudes " , a song he wrote and produced for Mott the Hoople , became UK hits .
-1	At	_	Word	Word	_	38	L	38:L	_
-2	the	_	Word	Word	_	1	Terminal	1:Terminal	_
-3	same	_	Word	Word	_	1	Terminal	1:Terminal	_
-4	time	_	Word	Word	_	1	Terminal	1:Terminal	_
+1	At	_	Word	Word	_	4	R	4:R	_
+2	the	_	Word	Word	_	4	F	4:F	_
+3	same	_	Word	Word	_	4	E	4:E	_
+4	time	_	Word	Word	_	40	L	40:L	_
 5	the	_	Word	Word	_	9	E	9:E	_
-6	non	_	Word	Word	_	8	E	8:E	_
+6	non	_	Word	Word	_	8	D	8:D	_
 7	-	_	Punctuation	Punctuation	_	8	U	8:U	_
 8	album	_	Word	Word	_	9	E	9:E	_
 9	single	_	Word	Word	_	11	E	11:E	_
 10	"	_	Punctuation	Punctuation	_	11	U	11:U	_
-11	John	_	Word	Word	_	38	A	38:A	_
+11	John	_	Word	Word	_	40	A	40:A	_
 12	,	_	Punctuation	Punctuation	_	11	U	11:U	_
 13	I	_	Word	Word	_	11	Terminal	11:Terminal	_
 14	'm	_	Word	Word	_	11	Terminal	11:Terminal	_
@@ -29,17 +29,17 @@
 26	,	_	Punctuation	Punctuation	_	21	U	21:U	_
 27	a	_	Word	Word	_	28	E	28:E	_
 28	song	_	Word	Word	_	21	E	21:E	_
-29	he	_	Word	Word	_	30	A	30:A	_
+29	he	_	Word	Word	_	30	A	30:A|32:A	_
 30	wrote	_	Word	Word	_	28	E	28:E	_
-31	and	_	Word	Word	_	30	N	30:N	_
-32	produced	_	Word	Word	_	30	C	30:C	_
+31	and	_	Word	Word	_	32	L	32:L	_
+32	produced	_	Word	Word	_	30	H	30:H	_
 33	for	_	Word	Word	_	34	R	34:R	_
-34	Mott	_	Word	Word	_	30	A	30:A	_
+34	Mott	_	Word	Word	_	30	A	30:A|32:A	_
 35	the	_	Word	Word	_	34	Terminal	34:Terminal	_
 36	Hoople	_	Word	Word	_	34	Terminal	34:Terminal	_
-37	,	_	Punctuation	Punctuation	_	38	U	38:U	_
-38	became	_	Word	Word	_	0	H	0:H	_
-39	UK	_	Word	Word	_	40	E	40:E	_
-40	hits	_	Word	Word	_	38	A	38:A	_
+37	,	_	Punctuation	Punctuation	_	40	U	40:U	_
+38	became	_	Word	Word	_	40	D	40:D	_
+39	UK	_	Word	Word	_	40	A	40:A	_
+40	hits	_	Word	Word	_	0	H	0:H	_
 41	.	_	Punctuation	Punctuation	_	40	U	40:U	_
 

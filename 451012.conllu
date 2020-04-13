@@ -1,22 +1,22 @@
 # format = ucca
 # sent_id = 451012
 # text = An inexperienced Jennings had a hard time keeping up with his rivals at the other networks , and he - and the upstart ABC News - could not compete with the venerable newscasts of Walter Cronkite at CBS and Chet Huntley and David Brinkley at NBC .
-1	An	_	Word	Word	_	3	E	3:E	_
-2	inexperienced	_	Word	Word	_	3	E	3:E	_
-3	Jennings	_	Word	Word	_	8	A	8:A	_
-4	had	_	Word	Word	_	8	F	8:F	_
+1	An	_	Word	Word	_	2	E	2:E	_
+2	inexperienced	_	Word	Word	_	8	A	8:A	_
+3	Jennings	_	Word	Word	_	2	A	2:A	_
+4	had	_	Word	Word	_	7	F	7:F	_
 5	a	_	Word	Word	_	7	E	7:E	_
 6	hard	_	Word	Word	_	7	E	7:E	_
-7	time	_	Word	Word	_	8	E	8:E	_
+7	time	_	Word	Word	_	8	D	8:D	_
 8	keeping	_	Word	Word	_	0	H	0:H	_
 9	up	_	Word	Word	_	8	Terminal	8:Terminal	_
-10	with	_	Word	Word	_	12	R	12:R	_
-11	his	_	Word	Word	_	12	E	12:E	_
-12	rivals	_	Word	Word	_	8	A	8:A	_
+10	with	_	Word	Word	_	11	R	11:R	_
+11	his	_	Word	Word	_	8	A	8:A	_
+12	rivals	_	Word	Word	_	11	A	11:A	_
 13	at	_	Word	Word	_	16	R	16:R	_
 14	the	_	Word	Word	_	16	E	16:E	_
 15	other	_	Word	Word	_	16	E	16:E	_
-16	networks	_	Word	Word	_	12	E	12:E	_
+16	networks	_	Word	Word	_	11	A	11:A	_
 17	,	_	Punctuation	Punctuation	_	8	U	8:U	_
 18	and	_	Word	Word	_	29	L	29:L	_
 19	he	_	Word	Word	_	29	A	29:A	_
@@ -46,6 +46,6 @@
 43	David	_	Word	Word	_	40	C	40:C	_
 44	Brinkley	_	Word	Word	_	43	Terminal	43:Terminal	_
 45	at	_	Word	Word	_	46	R	46:R	_
-46	NBC	_	Word	Word	_	43	E	43:E	_
+46	NBC	_	Word	Word	_	40	E	40:E	_
 47	.	_	Punctuation	Punctuation	_	46	U	46:U	_
 

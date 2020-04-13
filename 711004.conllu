@@ -1,18 +1,18 @@
 # format = ucca
 # sent_id = 711004
 # text = Love and Theft " generated controversy when The Wall Street Journal pointed out similarities between the album 's lyrics and Japanese author Junichi Saga 's book Confessions of a Yakuza .
-1	Love	_	Word	Word	_	5	A	5:A	_
+1	Love	_	Word	Word	_	6	A	6:A	_
 2	and	_	Word	Word	_	1	Terminal	1:Terminal	_
 3	Theft	_	Word	Word	_	1	Terminal	1:Terminal	_
-4	"	_	Punctuation	Punctuation	_	5	U	5:U	_
-5	generated	_	Word	Word	_	0	H	0:H	_
-6	controversy	_	Word	Word	_	5	A	5:A	_
+4	"	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	generated	_	Word	Word	_	6	D	6:D	_
+6	controversy	_	Word	Word	_	0	H	0:H	_
 7	when	_	Word	Word	_	12	L	12:L	_
 8	The	_	Word	Word	_	12	A	12:A	_
 9	Wall	_	Word	Word	_	8	Terminal	8:Terminal	_
 10	Street	_	Word	Word	_	8	Terminal	8:Terminal	_
 11	Journal	_	Word	Word	_	8	Terminal	8:Terminal	_
-12	pointed	_	Word	Word	_	5	H	5:H	_
+12	pointed	_	Word	Word	_	6	H	6:H	_
 13	out	_	Word	Word	_	12	Terminal	12:Terminal	_
 14	similarities	_	Word	Word	_	12	A	12:A	_
 15	between	_	Word	Word	_	19	R	19:R	_
@@ -21,15 +21,15 @@
 18	's	_	Word	Word	_	17	R	17:R	_
 19	lyrics	_	Word	Word	_	14	E	14:E	_
 20	and	_	Word	Word	_	19	N	19:N	_
-21	Japanese	_	Word	Word	_	22	E	22:E	_
-22	author	_	Word	Word	_	26	E	26:E	_
-23	Junichi	_	Word	Word	_	22	E	22:E	_
+21	Japanese	_	Word	Word	_	22	A	22:A	_
+22	author	_	Word	Word	_	23	E	23:E	_
+23	Junichi	_	Word	Word	_	25	A	25:A	_
 24	Saga	_	Word	Word	_	23	Terminal	23:Terminal	_
-25	's	_	Word	Word	_	22	R	22:R	_
-26	book	_	Word	Word	_	19	C	19:C	_
-27	Confessions	_	Word	Word	_	26	E	26:E	_
+25	's	_	Word	Word	_	26	E	26:E	_
+26	book	_	Word	Word	_	27	E	27:E	_
+27	Confessions	_	Word	Word	_	19	C	19:C	_
 28	of	_	Word	Word	_	27	Terminal	27:Terminal	_
 29	a	_	Word	Word	_	27	Terminal	27:Terminal	_
 30	Yakuza	_	Word	Word	_	27	Terminal	27:Terminal	_
-31	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+31	.	_	Punctuation	Punctuation	_	27	U	27:U	_
 

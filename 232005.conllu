@@ -4,7 +4,7 @@
 1	His	_	Word	Word	_	4	E	4:E	_
 2	Cantonese	_	Word	Word	_	3	E	3:E	_
 3	song	_	Word	Word	_	4	E	4:E	_
-4	Story	_	Word	Word	_	19	A	19:A|27:A	_
+4	Story	_	Word	Word	_	0	C	0:C|1:A|27:A	_
 5	of	_	Word	Word	_	4	Terminal	4:Terminal	_
 6	a	_	Word	Word	_	4	Terminal	4:Terminal	_
 7	Hero	_	Word	Word	_	4	Terminal	4:Terminal	_
@@ -21,18 +21,18 @@
 18	was	_	Word	Word	_	19	F	19:F	_
 19	selected	_	Word	Word	_	0	H	0:H	_
 20	by	_	Word	Word	_	22	R	22:R	_
-21	the	_	Word	Word	_	22	E	22:E	_
+21	the	_	Word	Word	_	22	F	22:F	_
 22	Royal	_	Word	Word	_	19	A	19:A	_
 23	Hong	_	Word	Word	_	22	Terminal	22:Terminal	_
 24	Kong	_	Word	Word	_	22	Terminal	22:Terminal	_
 25	Police	_	Word	Word	_	22	Terminal	22:Terminal	_
 26	and	_	Word	Word	_	27	L	27:L	_
 27	incorporated	_	Word	Word	_	19	H	19:H	_
-28	into	_	Word	Word	_	31	R	31:R	_
-29	their	_	Word	Word	_	31	E	31:E	_
-30	recruitment	_	Word	Word	_	31	E	31:E	_
-31	advertisement	_	Word	Word	_	27	A	27:A	_
+28	into	_	Word	Word	_	30	R	30:R	_
+29	their	_	Word	Word	_	30	A	30:A	_
+30	recruitment	_	Word	Word	_	27	A	27:A	_
+31	advertisement	_	Word	Word	_	30	C	30:C	_
 32	in	_	Word	Word	_	33	R	33:R	_
-33	1994	_	Word	Word	_	27	D	27:D	_
+33	1994	_	Word	Word	_	27	T	27:T	_
 34	.	_	Punctuation	Punctuation	_	33	U	33:U	_
 

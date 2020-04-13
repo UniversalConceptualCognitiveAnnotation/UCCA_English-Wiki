@@ -2,7 +2,7 @@
 # sent_id = 587003
 # text = In 1990 , he undertook the quirky title role of the Tim Burton film , Edward Scissorhands .
 1	In	_	Word	Word	_	2	R	2:R	_
-2	1990	_	Word	Word	_	5	D	5:D	_
+2	1990	_	Word	Word	_	5	T	5:T	_
 3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 4	he	_	Word	Word	_	5	A	5:A	_
 5	undertook	_	Word	Word	_	0	H	0:H	_
@@ -11,7 +11,7 @@
 8	title	_	Word	Word	_	9	E	9:E	_
 9	role	_	Word	Word	_	5	A	5:A	_
 10	of	_	Word	Word	_	16	R	16:R	_
-11	the	_	Word	Word	_	16	E	16:E	_
+11	the	_	Word	Word	_	14	E	14:E	_
 12	Tim	_	Word	Word	_	14	E	14:E	_
 13	Burton	_	Word	Word	_	12	Terminal	12:Terminal	_
 14	film	_	Word	Word	_	16	E	16:E	_

@@ -18,8 +18,8 @@
 15	of	_	Word	Word	_	16	R	16:R	_
 16	Seattle	_	Word	Word	_	12	E	12:E	_
 17	in	_	Word	Word	_	18	R	18:R	_
-18	February	_	Word	Word	_	3	D	3:D	_
-19	1995	_	Word	Word	_	18	Terminal	18:Terminal	_
+18	February	_	Word	Word	_	3	T	3:T	_
+19	1995	_	Word	Word	_	18	C	18:C	_
 20	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 21	Jennings	_	Word	Word	_	23	A	23:A	_
 22	expressed	_	Word	Word	_	23	D	23:D	_
@@ -31,8 +31,8 @@
 28	remarks	_	Word	Word	_	23	A	23:A	_
 29	on	_	Word	Word	_	33	R	33:R	_
 30	the	_	Word	Word	_	33	E	33:E	_
-31	1994	_	Word	Word	_	33	E	33:E	_
-32	midterm	_	Word	Word	_	33	E	33:E	_
+31	1994	_	Word	Word	_	33	T	33:T	_
+32	midterm	_	Word	Word	_	33	D	33:D	_
 33	elections	_	Word	Word	_	28	E	28:E	_
 34	.	_	Punctuation	Punctuation	_	33	U	33:U	_
 35	"	_	Punctuation	Punctuation	_	33	U	33:U	_

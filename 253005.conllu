@@ -1,24 +1,24 @@
 # format = ucca
 # sent_id = 253005
 # text = Hawke is a long - time supporter of the Doe Fund which helps homeless people obtain housing and employment .
-1	Hawke	_	Word	Word	_	2	A	2:A	_
-2	is	_	Word	Word	_	0	H	0:H	_
-3	a	_	Word	Word	_	7	E	7:E	_
+1	Hawke	_	Word	Word	_	7	A	7:A	_
+2	is	_	Word	Word	_	7	F	7:F	_
+3	a	_	Word	Word	_	7	F	7:F	_
 4	long	_	Word	Word	_	6	E	6:E	_
 5	-	_	Punctuation	Punctuation	_	6	U	6:U	_
-6	time	_	Word	Word	_	7	E	7:E	_
-7	supporter	_	Word	Word	_	2	A	2:A	_
+6	time	_	Word	Word	_	7	T	7:T	_
+7	supporter	_	Word	Word	_	0	H	0:H	_
 8	of	_	Word	Word	_	11	R	11:R	_
-9	the	_	Word	Word	_	11	E	11:E	_
+9	the	_	Word	Word	_	11	F	11:F	_
 10	Doe	_	Word	Word	_	11	E	11:E	_
-11	Fund	_	Word	Word	_	7	E	7:E	_
-12	which	_	Word	Word	_	13	F	13:F	_
-13	helps	_	Word	Word	_	11	E	11:E	_
-14	homeless	_	Word	Word	_	15	E	15:E|16:A	_
-15	people	_	Word	Word	_	13	A	13:A	_
-16	obtain	_	Word	Word	_	13	A	13:A	_
+11	Fund	_	Word	Word	_	7	A	7:A	_
+12	which	_	Word	Word	_	16	R	16:R	_
+13	helps	_	Word	Word	_	16	D	16:D|19:D	_
+14	homeless	_	Word	Word	_	16	A	16:A	_
+15	people	_	Word	Word	_	14	A	14:A|19:A	_
+16	obtain	_	Word	Word	_	11	E	11:E	_
 17	housing	_	Word	Word	_	16	A	16:A	_
-18	and	_	Word	Word	_	17	N	17:N	_
-19	employment	_	Word	Word	_	17	C	17:C	_
-20	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+18	and	_	Word	Word	_	19	L	19:L	_
+19	employment	_	Word	Word	_	16	H	16:H	_
+20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
 

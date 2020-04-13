@@ -2,7 +2,7 @@
 # sent_id = 618011
 # text = In 2007 , McCartney signed with Hear Music , becoming the label 's first artist .
 1	In	_	Word	Word	_	2	R	2:R	_
-2	2007	_	Word	Word	_	5	D	5:D	_
+2	2007	_	Word	Word	_	5	T	5:T	_
 3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 4	McCartney	_	Word	Word	_	5	A	5:A|10:A	_
 5	signed	_	Word	Word	_	0	H	0:H	_
@@ -12,9 +12,9 @@
 9	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 10	becoming	_	Word	Word	_	5	H	5:H	_
 11	the	_	Word	Word	_	12	E	12:E	_
-12	label	_	Word	Word	_	15	E	15:E	_
-13	's	_	Word	Word	_	12	R	12:R	_
-14	first	_	Word	Word	_	15	E	15:E	_
-15	artist	_	Word	Word	_	10	A	10:A	_
-16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+12	label	_	Word	Word	_	13	A	13:A	_
+13	's	_	Word	Word	_	15	E	15:E	_
+14	first	_	Word	Word	_	15	Q	15:Q	_
+15	artist	_	Word	Word	_	0	P	0:P|13:A	_
+16	.	_	Punctuation	Punctuation	_	13	U	13:U	_
 

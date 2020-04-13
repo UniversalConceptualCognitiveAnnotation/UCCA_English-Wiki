@@ -1,18 +1,9 @@
 # format = ucca
 # sent_id = 381009
-# text = He dated singer - songwriter Taylor Swift from October 2010 until January 2011 .
-1	He	_	Word	Word	_	2	A	2:A	_
-2	dated	_	Word	Word	_	0	H	0:H	_
-3	singer	_	Word	Word	_	6	E	6:E	_
-4	-	_	Punctuation	Punctuation	_	3	U	3:U	_
-5	songwriter	_	Word	Word	_	3	C	3:C	_
-6	Taylor	_	Word	Word	_	2	A	2:A	_
-7	Swift	_	Word	Word	_	6	Terminal	6:Terminal	_
-8	from	_	Word	Word	_	10	R	10:R	_
-9	October	_	Word	Word	_	10	E	10:E	_
-10	2010	_	Word	Word	_	2	D	2:D	_
-11	until	_	Word	Word	_	10	R	10:R	_
-12	January	_	Word	Word	_	13	E	13:E	_
-13	2011	_	Word	Word	_	10	C	10:C	_
-14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+# text = Gyllenhaal is politically active .
+1	Gyllenhaal	_	Word	Word	_	4	A	4:A	_
+2	is	_	Word	Word	_	4	F	4:F	_
+3	politically	_	Word	Word	_	4	A	4:A	_
+4	active	_	Word	Word	_	0	H	0:H	_
+5	.	_	Punctuation	Punctuation	_	4	U	4:U	_
 

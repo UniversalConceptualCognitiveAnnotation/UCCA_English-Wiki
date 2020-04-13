@@ -1,22 +1,22 @@
 # format = ucca
 # sent_id = 585002
 # text = Depp rose to prominence on the 1980s television series 21 Jump Street , becoming a teen idol .
-1	Depp	_	Word	Word	_	4	A	4:A|14:A	_
+1	Depp	_	Word	Word	_	4	A	4:A|17:A	_
 2	rose	_	Word	Word	_	4	D	4:D	_
 3	to	_	Word	Word	_	4	F	4:F	_
 4	prominence	_	Word	Word	_	0	H	0:H	_
 5	on	_	Word	Word	_	10	R	10:R	_
-6	the	_	Word	Word	_	10	E	10:E	_
-7	1980s	_	Word	Word	_	10	E	10:E	_
+6	the	_	Word	Word	_	10	F	10:F	_
+7	1980s	_	Word	Word	_	9	E	9:E	_
 8	television	_	Word	Word	_	9	E	9:E	_
 9	series	_	Word	Word	_	10	E	10:E	_
 10	21	_	Word	Word	_	4	A	4:A	_
 11	Jump	_	Word	Word	_	10	Terminal	10:Terminal	_
 12	Street	_	Word	Word	_	10	Terminal	10:Terminal	_
 13	,	_	Punctuation	Punctuation	_	4	U	4:U	_
-14	becoming	_	Word	Word	_	4	H	4:H	_
-15	a	_	Word	Word	_	17	E	17:E	_
-16	teen	_	Word	Word	_	17	E	17:E	_
-17	idol	_	Word	Word	_	14	A	14:A	_
+14	becoming	_	Word	Word	_	17	D	17:D	_
+15	a	_	Word	Word	_	17	F	17:F	_
+16	teen	_	Word	Word	_	17	A	17:A	_
+17	idol	_	Word	Word	_	4	H	4:H	_
 18	.	_	Punctuation	Punctuation	_	17	U	17:U	_
 

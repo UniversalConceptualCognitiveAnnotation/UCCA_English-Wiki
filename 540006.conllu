@@ -2,7 +2,7 @@
 # sent_id = 540006
 # text = Despite the success of Rin Tin Tin and other projects , however , Warner Bros . was unable to compete with Hollywood 's " Big Three " - Paramount , Universal , and First National studios .
 1	Despite	_	Word	Word	_	20	L	20:L	_
-2	the	_	Word	Word	_	3	E	3:E	_
+2	the	_	Word	Word	_	3	F	3:F	_
 3	success	_	Word	Word	_	0	H	0:H	_
 4	of	_	Word	Word	_	5	R	5:R	_
 5	Rin	_	Word	Word	_	3	A	3:A	_
@@ -18,7 +18,7 @@
 15	Bros	_	Word	Word	_	14	Terminal	14:Terminal	_
 16	.	_	Punctuation	Punctuation	_	20	U	20:U	_
 17	was	_	Word	Word	_	20	F	20:F	_
-18	unable	_	Word	Word	_	20	E	20:E	_
+18	unable	_	Word	Word	_	20	D	20:D	_
 19	to	_	Word	Word	_	20	F	20:F	_
 20	compete	_	Word	Word	_	3	H	3:H	_
 21	with	_	Word	Word	_	29	R	29:R	_
@@ -36,6 +36,6 @@
 33	and	_	Word	Word	_	29	N	29:N	_
 34	First	_	Word	Word	_	29	C	29:C	_
 35	National	_	Word	Word	_	34	Terminal	34:Terminal	_
-36	studios	_	Word	Word	_	34	Terminal	34:Terminal	_
+36	studios	_	Word	Word	_	29	E	29:E|26:C	_
 37	.	_	Punctuation	Punctuation	_	29	U	29:U	_
 

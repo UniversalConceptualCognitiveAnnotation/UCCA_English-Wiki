@@ -5,8 +5,8 @@
 2	newscast	_	Word	Word	_	0	C	0:C|17:A	_
 3	had	_	Word	Word	_	4	F	4:F	_
 4	gained	_	Word	Word	_	0	H	0:H	_
-5	1.9	_	Word	Word	_	6	E	6:E	_
-6	million	_	Word	Word	_	7	E	7:E	_
+5	1.9	_	Word	Word	_	7	Q	7:Q	_
+6	million	_	Word	Word	_	5	Terminal	5:Terminal	_
 7	households	_	Word	Word	_	4	A	4:A	_
 8	from	_	Word	Word	_	10	R	10:R	_
 9	its	_	Word	Word	_	10	A	10:A	_
@@ -14,7 +14,7 @@
 11	,	_	Punctuation	Punctuation	_	4	U	4:U	_
 12	and	_	Word	Word	_	17	L	17:L	_
 13	was	_	Word	Word	_	17	F	17:F	_
-14	now	_	Word	Word	_	17	D	17:D	_
+14	now	_	Word	Word	_	17	T	17:T	_
 15	in	_	Word	Word	_	17	R	17:R	_
 16	a	_	Word	Word	_	17	E	17:E	_
 17	dead	_	Word	Word	_	4	H	4:H	_

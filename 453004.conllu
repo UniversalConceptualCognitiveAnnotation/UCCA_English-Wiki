@@ -2,14 +2,14 @@
 # sent_id = 453004
 # text = In November 1975 , Jennings moved abroad once again , this time as ABC 's chief foreign correspondent .
 1	In	_	Word	Word	_	2	R	2:R	_
-2	November	_	Word	Word	_	6	D	6:D	_
-3	1975	_	Word	Word	_	2	Terminal	2:Terminal	_
+2	November	_	Word	Word	_	6	T	6:T	_
+3	1975	_	Word	Word	_	2	C	2:C	_
 4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 5	Jennings	_	Word	Word	_	6	A	6:A|13:A	_
 6	moved	_	Word	Word	_	0	H	0:H	_
-7	abroad	_	Word	Word	_	6	D	6:D	_
-8	once	_	Word	Word	_	6	D	6:D	_
-9	again	_	Word	Word	_	8	Terminal	8:Terminal	_
+7	abroad	_	Word	Word	_	6	A	6:A	_
+8	once	_	Word	Word	_	9	F	9:F	_
+9	again	_	Word	Word	_	6	D	6:D	_
 10	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 11	this	_	Word	Word	_	12	E	12:E	_
 12	time	_	Word	Word	_	13	D	13:D	_

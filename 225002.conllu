@@ -3,13 +3,13 @@
 # text = His first Hollywood film was Battle Creek Brawl in 1980 .
 1	His	_	Word	Word	_	4	E	4:E	_
 2	first	_	Word	Word	_	4	E	4:E	_
-3	Hollywood	_	Word	Word	_	4	R	4:R	_
+3	Hollywood	_	Word	Word	_	4	E	4:E	_
 4	film	_	Word	Word	_	5	A	5:A	_
 5	was	_	Word	Word	_	0	H	0:H	_
 6	Battle	_	Word	Word	_	5	A	5:A	_
 7	Creek	_	Word	Word	_	6	Terminal	6:Terminal	_
 8	Brawl	_	Word	Word	_	6	Terminal	6:Terminal	_
 9	in	_	Word	Word	_	10	R	10:R	_
-10	1980	_	Word	Word	_	5	D	5:D	_
+10	1980	_	Word	Word	_	5	T	5:T	_
 11	.	_	Punctuation	Punctuation	_	10	U	10:U	_
 

@@ -1,10 +1,10 @@
 # format = ucca
 # sent_id = 193003
 # text = When a year later some other networks started showing interest in The West Wing , NBC decided to greenlight the series despite their previous reluctance .
-1	When	_	Word	Word	_	17	L	17:L	_
-2	a	_	Word	Word	_	4	E	4:E	_
-3	year	_	Word	Word	_	4	E	4:E	_
-4	later	_	Word	Word	_	9	D	9:D	_
+1	When	_	Word	Word	_	19	L	19:L	_
+2	a	_	Word	Word	_	3	Q	3:Q	_
+3	year	_	Word	Word	_	19	L	19:L	_
+4	later	_	Word	Word	_	3	R	3:R	_
 5	some	_	Word	Word	_	7	E	7:E	_
 6	other	_	Word	Word	_	7	E	7:E	_
 7	networks	_	Word	Word	_	9	A	9:A	_
@@ -16,10 +16,10 @@
 13	West	_	Word	Word	_	12	Terminal	12:Terminal	_
 14	Wing	_	Word	Word	_	12	Terminal	12:Terminal	_
 15	,	_	Punctuation	Punctuation	_	9	U	9:U	_
-16	NBC	_	Word	Word	_	17	A	17:A|19:A	_
-17	decided	_	Word	Word	_	9	H	9:H	_
+16	NBC	_	Word	Word	_	19	A	19:A	_
+17	decided	_	Word	Word	_	19	D	19:D	_
 18	to	_	Word	Word	_	19	F	19:F	_
-19	greenlight	_	Word	Word	_	17	A	17:A	_
+19	greenlight	_	Word	Word	_	9	H	9:H	_
 20	the	_	Word	Word	_	21	E	21:E	_
 21	series	_	Word	Word	_	19	A	19:A	_
 22	despite	_	Word	Word	_	25	L	25:L	_

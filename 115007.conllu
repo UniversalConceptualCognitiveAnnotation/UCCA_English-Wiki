@@ -1,17 +1,17 @@
 # format = ucca
 # sent_id = 115007
 # text = She married once , as a young woman , but thereafter lived independently .
-1	She	_	Word	Word	_	2	A	2:A|8:A|12:A	_
+1	She	_	Word	Word	_	2	A	2:A|12:A	_
 2	married	_	Word	Word	_	0	H	0:H	_
 3	once	_	Word	Word	_	2	D	2:D	_
 4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
-5	as	_	Word	Word	_	8	L	8:L	_
+5	as	_	Word	Word	_	7	R	7:R	_
 6	a	_	Word	Word	_	8	E	8:E	_
-7	young	_	Word	Word	_	8	E	8:E	_
-8	woman	_	Word	Word	_	2	H	2:H	_
+7	young	_	Word	Word	_	2	A	2:A	_
+8	woman	_	Word	Word	_	7	A	7:A	_
 9	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 10	but	_	Word	Word	_	12	L	12:L	_
-11	thereafter	_	Word	Word	_	12	D	12:D	_
+11	thereafter	_	Word	Word	_	12	L	12:L	_
 12	lived	_	Word	Word	_	2	H	2:H	_
 13	independently	_	Word	Word	_	12	D	12:D	_
 14	.	_	Punctuation	Punctuation	_	12	U	12:U	_

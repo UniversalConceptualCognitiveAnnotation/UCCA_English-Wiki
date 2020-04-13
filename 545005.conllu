@@ -2,16 +2,16 @@
 # sent_id = 545005
 # text = In 1941 , Warner also produced the influential pro - war film Sergeant York .
 1	In	_	Word	Word	_	2	R	2:R	_
-2	1941	_	Word	Word	_	6	D	6:D	_
+2	1941	_	Word	Word	_	6	T	6:T	_
 3	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 4	Warner	_	Word	Word	_	6	A	6:A	_
 5	also	_	Word	Word	_	6	D	6:D	_
 6	produced	_	Word	Word	_	0	H	0:H	_
 7	the	_	Word	Word	_	12	E	12:E	_
 8	influential	_	Word	Word	_	12	E	12:E	_
-9	pro	_	Word	Word	_	11	E	11:E	_
-10	-	_	Punctuation	Punctuation	_	11	U	11:U	_
-11	war	_	Word	Word	_	12	E	12:E	_
+9	pro	_	Word	Word	_	12	E	12:E	_
+10	-	_	Punctuation	Punctuation	_	9	U	9:U	_
+11	war	_	Word	Word	_	9	A	9:A	_
 12	film	_	Word	Word	_	13	E	13:E	_
 13	Sergeant	_	Word	Word	_	6	A	6:A	_
 14	York	_	Word	Word	_	13	Terminal	13:Terminal	_

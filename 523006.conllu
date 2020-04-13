@@ -1,16 +1,16 @@
 # format = ucca
 # sent_id = 523006
 # text = The duo first appeared together in the 1937 B movie Thoroughbreds Do n't Cry as supporting characters .
-1	The	_	Word	Word	_	2	E	2:E	_
+1	The	_	Word	Word	_	2	F	2:F	_
 2	duo	_	Word	Word	_	4	A	4:A	_
 3	first	_	Word	Word	_	4	D	4:D	_
 4	appeared	_	Word	Word	_	0	H	0:H	_
 5	together	_	Word	Word	_	4	D	4:D	_
 6	in	_	Word	Word	_	11	R	11:R	_
-7	the	_	Word	Word	_	11	E	11:E	_
-8	1937	_	Word	Word	_	11	E	11:E	_
-9	B	_	Word	Word	_	10	E	10:E	_
-10	movie	_	Word	Word	_	11	E	11:E	_
+7	the	_	Word	Word	_	9	F	9:F	_
+8	1937	_	Word	Word	_	9	E	9:E	_
+9	B	_	Word	Word	_	11	E	11:E	_
+10	movie	_	Word	Word	_	9	Terminal	9:Terminal	_
 11	Thoroughbreds	_	Word	Word	_	4	A	4:A	_
 12	Do	_	Word	Word	_	11	Terminal	11:Terminal	_
 13	n't	_	Word	Word	_	11	Terminal	11:Terminal	_

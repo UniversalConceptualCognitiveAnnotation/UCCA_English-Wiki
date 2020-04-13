@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 131003
 # text = Many actors were afraid to leave the stability of the studio system at the time , but Hepburn 's personal wealth meant she could afford to be independent .
-1	Many	_	Word	Word	_	2	E	2:E	_
+1	Many	_	Word	Word	_	2	Q	2:Q	_
 2	actors	_	Word	Word	_	4	A	4:A	_
 3	were	_	Word	Word	_	4	F	4:F	_
 4	afraid	_	Word	Word	_	0	H	0:H	_
@@ -12,21 +12,21 @@
 9	of	_	Word	Word	_	12	R	12:R	_
 10	the	_	Word	Word	_	12	E	12:E	_
 11	studio	_	Word	Word	_	12	E	12:E	_
-12	system	_	Word	Word	_	8	E	8:E	_
+12	system	_	Word	Word	_	8	A	8:A	_
 13	at	_	Word	Word	_	15	R	15:R	_
 14	the	_	Word	Word	_	15	E	15:E	_
-15	time	_	Word	Word	_	4	D	4:D	_
+15	time	_	Word	Word	_	4	T	4:T	_
 16	,	_	Punctuation	Punctuation	_	4	U	4:U	_
-17	but	_	Word	Word	_	19	L	19:L	_
-18	Hepburn	_	Word	Word	_	19	A	19:A	_
-19	's	_	Word	Word	_	4	H	4:H	_
-20	personal	_	Word	Word	_	21	E	21:E	_
-21	wealth	_	Word	Word	_	19	A	19:A	_
+17	but	_	Word	Word	_	21	L	21:L	_
+18	Hepburn	_	Word	Word	_	21	A	21:A	_
+19	's	_	Word	Word	_	18	R	18:R	_
+20	personal	_	Word	Word	_	21	D	21:D	_
+21	wealth	_	Word	Word	_	4	H	4:H	_
 22	meant	_	Word	Word	_	25	L	25:L	_
 23	she	_	Word	Word	_	25	A	25:A|28:A	_
-24	could	_	Word	Word	_	25	F	25:F	_
+24	could	_	Word	Word	_	25	D	25:D	_
 25	afford	_	Word	Word	_	4	H	4:H	_
-26	to	_	Word	Word	_	28	F	28:F	_
+26	to	_	Word	Word	_	28	R	28:R	_
 27	be	_	Word	Word	_	28	F	28:F	_
 28	independent	_	Word	Word	_	25	A	25:A	_
 29	.	_	Punctuation	Punctuation	_	28	U	28:U	_

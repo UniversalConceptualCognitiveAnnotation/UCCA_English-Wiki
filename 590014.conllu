@@ -1,14 +1,21 @@
 # format = ucca
 # sent_id = 590014
-# text = Depp modeled the character 's hair on Anna Wintour .
-1	Depp	_	Word	Word	_	2	A	2:A	_
-2	modeled	_	Word	Word	_	0	H	0:H	_
-3	the	_	Word	Word	_	6	E	6:E	_
-4	character	_	Word	Word	_	6	E	6:E	_
-5	's	_	Word	Word	_	4	R	4:R	_
-6	hair	_	Word	Word	_	2	A	2:A	_
-7	on	_	Word	Word	_	8	R	8:R	_
-8	Anna	_	Word	Word	_	2	A	2:A	_
-9	Wintour	_	Word	Word	_	8	Terminal	8:Terminal	_
-10	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+# text = Gene Wilder , who played Willy Wonka in the 1971 film , initially criticized this version .
+1	Gene	_	Word	Word	_	14	A	14:A	_
+2	Wilder	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+4	who	_	Word	Word	_	5	R	5:R	_
+5	played	_	Word	Word	_	1	E	1:E	_
+6	Willy	_	Word	Word	_	5	A	5:A	_
+7	Wonka	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	in	_	Word	Word	_	11	R	11:R	_
+9	the	_	Word	Word	_	11	F	11:F	_
+10	1971	_	Word	Word	_	11	E	11:E	_
+11	film	_	Word	Word	_	5	A	5:A	_
+12	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+13	initially	_	Word	Word	_	14	D	14:D	_
+14	criticized	_	Word	Word	_	0	H	0:H	_
+15	this	_	Word	Word	_	16	E	16:E	_
+16	version	_	Word	Word	_	14	A	14:A	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
 

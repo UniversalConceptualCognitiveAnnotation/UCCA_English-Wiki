@@ -1,34 +1,27 @@
 # format = ucca
 # sent_id = 231014
-# text = The films will be entitled Speedpost 206 , Wo n't Tell You and Tropical Tornado and will be directed by Xie Dong , Jiang Tao and Cai Rong Hui .
-1	The	_	Word	Word	_	2	E	2:E	_
-2	films	_	Word	Word	_	5	A	5:A|19:A	_
-3	will	_	Word	Word	_	5	F	5:F	_
-4	be	_	Word	Word	_	5	F	5:F	_
-5	entitled	_	Word	Word	_	0	H	0:H	_
-6	Speedpost	_	Word	Word	_	5	A	5:A	_
-7	206	_	Word	Word	_	6	Terminal	6:Terminal	_
-8	,	_	Punctuation	Punctuation	_	6	U	6:U	_
-9	Wo	_	Word	Word	_	6	C	6:C	_
-10	n't	_	Word	Word	_	9	Terminal	9:Terminal	_
-11	Tell	_	Word	Word	_	9	Terminal	9:Terminal	_
-12	You	_	Word	Word	_	9	Terminal	9:Terminal	_
-13	and	_	Word	Word	_	6	N	6:N	_
-14	Tropical	_	Word	Word	_	6	C	6:C	_
-15	Tornado	_	Word	Word	_	14	Terminal	14:Terminal	_
-16	and	_	Word	Word	_	19	L	19:L	_
-17	will	_	Word	Word	_	19	F	19:F	_
-18	be	_	Word	Word	_	19	F	19:F	_
-19	directed	_	Word	Word	_	5	H	5:H	_
-20	by	_	Word	Word	_	21	R	21:R	_
-21	Xie	_	Word	Word	_	19	A	19:A	_
-22	Dong	_	Word	Word	_	21	Terminal	21:Terminal	_
-23	,	_	Punctuation	Punctuation	_	21	U	21:U	_
-24	Jiang	_	Word	Word	_	21	C	21:C	_
-25	Tao	_	Word	Word	_	24	Terminal	24:Terminal	_
-26	and	_	Word	Word	_	21	N	21:N	_
-27	Cai	_	Word	Word	_	21	C	21:C	_
-28	Rong	_	Word	Word	_	27	Terminal	27:Terminal	_
-29	Hui	_	Word	Word	_	27	Terminal	27:Terminal	_
-30	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+# text = All 16 finalists will be given the opportunity to work on the films , or to join the Jackie Chan Stunt Team .
+1	All	_	Word	Word	_	3	Q	3:Q	_
+2	16	_	Word	Word	_	3	Q	3:Q	_
+3	finalists	_	Word	Word	_	10	A	10:A|17:A	_
+4	will	_	Word	Word	_	10	F	10:F	_
+5	be	_	Word	Word	_	10	F	10:F	_
+6	given	_	Word	Word	_	8	F	8:F	_
+7	the	_	Word	Word	_	8	F	8:F	_
+8	opportunity	_	Word	Word	_	10	D	10:D|17:D	_
+9	to	_	Word	Word	_	10	F	10:F	_
+10	work	_	Word	Word	_	0	H	0:H	_
+11	on	_	Word	Word	_	13	R	13:R	_
+12	the	_	Word	Word	_	13	F	13:F	_
+13	films	_	Word	Word	_	10	A	10:A	_
+14	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+15	or	_	Word	Word	_	17	L	17:L	_
+16	to	_	Word	Word	_	17	F	17:F	_
+17	join	_	Word	Word	_	10	H	10:H	_
+18	the	_	Word	Word	_	19	F	19:F	_
+19	Jackie	_	Word	Word	_	17	A	17:A	_
+20	Chan	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	Stunt	_	Word	Word	_	19	Terminal	19:Terminal	_
+22	Team	_	Word	Word	_	19	Terminal	19:Terminal	_
+23	.	_	Punctuation	Punctuation	_	19	U	19:U	_
 

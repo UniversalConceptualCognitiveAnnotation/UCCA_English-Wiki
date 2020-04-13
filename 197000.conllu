@@ -2,7 +2,7 @@
 # sent_id = 197000
 # text = In 2003 , Sorkin was writing a screenplay on spec about the story of inventor and television pioneer Philo Farnsworth , a topic he had first become familiar with back in the early 1990s when producer Fred Zollo approached him with the idea of adapting a memoir by Elma Farnsworth into a biopic .
 1	In	_	Word	Word	_	2	R	2:R	_
-2	2003	_	Word	Word	_	6	D	6:D	_
+2	2003	_	Word	Word	_	6	T	6:T	_
 3	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 4	Sorkin	_	Word	Word	_	6	A	6:A	_
 5	was	_	Word	Word	_	6	F	6:F	_
@@ -34,7 +34,7 @@
 31	in	_	Word	Word	_	34	R	34:R	_
 32	the	_	Word	Word	_	34	E	34:E	_
 33	early	_	Word	Word	_	34	E	34:E	_
-34	1990s	_	Word	Word	_	28	D	28:D	_
+34	1990s	_	Word	Word	_	28	T	28:T	_
 35	when	_	Word	Word	_	39	L	39:L	_
 36	producer	_	Word	Word	_	37	E	37:E	_
 37	Fred	_	Word	Word	_	39	A	39:A	_

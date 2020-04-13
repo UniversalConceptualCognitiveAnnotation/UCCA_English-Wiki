@@ -1,14 +1,14 @@
 # format = ucca
 # sent_id = 142001
-# text = She received a standing ovation , and joked with the audience , " I 'm very happy I did n't hear anyone call out ' It 's about time ' . " The following year , she was paired with John Wayne in the Western Rooster Cogburn , a sequel to his Oscar - winning film True Grit .
-1	She	_	Word	Word	_	2	A	2:A|8:A	_
-2	received	_	Word	Word	_	0	H	0:H	_
+# text = She received a standing ovation , and joked with the audience , " I 'm very happy I did n't hear anyone call out ' It 's about time ' . " The following year , she was paired with John Wayne in the Western Rooster Cogburn , a sequel to his Oscar-winning film True Grit .
+1	She	_	Word	Word	_	4	A	4:A|8:A	_
+2	received	_	Word	Word	_	4	D	4:D	_
 3	a	_	Word	Word	_	4	E	4:E	_
-4	standing	_	Word	Word	_	2	A	2:A	_
+4	standing	_	Word	Word	_	0	H	0:H	_
 5	ovation	_	Word	Word	_	4	Terminal	4:Terminal	_
-6	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+6	,	_	Punctuation	Punctuation	_	4	U	4:U	_
 7	and	_	Word	Word	_	8	L	8:L	_
-8	joked	_	Word	Word	_	2	H	2:H	_
+8	joked	_	Word	Word	_	4	H	4:H	_
 9	with	_	Word	Word	_	11	R	11:R	_
 10	the	_	Word	Word	_	11	E	11:E	_
 11	audience	_	Word	Word	_	8	A	8:A	_
@@ -24,22 +24,22 @@
 21	hear	_	Word	Word	_	17	A	17:A	_
 22	anyone	_	Word	Word	_	23	A	23:A	_
 23	call	_	Word	Word	_	21	A	21:A	_
-24	out	_	Word	Word	_	23	E	23:E	_
+24	out	_	Word	Word	_	23	Terminal	23:Terminal	_
 25	'	_	Punctuation	Punctuation	_	23	U	23:U	_
 26	It	_	Word	Word	_	23	A	23:A	_
 27	's	_	Word	Word	_	26	Terminal	26:Terminal	_
 28	about	_	Word	Word	_	26	Terminal	26:Terminal	_
 29	time	_	Word	Word	_	26	Terminal	26:Terminal	_
-30	'	_	Punctuation	Punctuation	_	2	U	2:U	_
-31	.	_	Punctuation	Punctuation	_	2	U	2:U	_
-32	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+30	'	_	Punctuation	Punctuation	_	4	U	4:U	_
+31	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+32	"	_	Punctuation	Punctuation	_	4	U	4:U	_
 33	The	_	Word	Word	_	35	E	35:E	_
 34	following	_	Word	Word	_	35	E	35:E	_
-35	year	_	Word	Word	_	39	D	39:D	_
+35	year	_	Word	Word	_	39	T	39:T	_
 36	,	_	Punctuation	Punctuation	_	39	U	39:U	_
 37	she	_	Word	Word	_	39	A	39:A	_
 38	was	_	Word	Word	_	39	F	39:F	_
-39	paired	_	Word	Word	_	2	H	2:H	_
+39	paired	_	Word	Word	_	4	H	4:H	_
 40	with	_	Word	Word	_	41	R	41:R	_
 41	John	_	Word	Word	_	39	A	39:A	_
 42	Wayne	_	Word	Word	_	41	Terminal	41:Terminal	_
@@ -51,13 +51,11 @@
 48	,	_	Punctuation	Punctuation	_	46	U	46:U	_
 49	a	_	Word	Word	_	50	E	50:E	_
 50	sequel	_	Word	Word	_	46	E	46:E	_
-51	to	_	Word	Word	_	57	R	57:R	_
-52	his	_	Word	Word	_	57	E	57:E	_
-53	Oscar	_	Word	Word	_	55	E	55:E	_
-54	-	_	Punctuation	Punctuation	_	55	U	55:U	_
-55	winning	_	Word	Word	_	57	E	57:E	_
-56	film	_	Word	Word	_	57	E	57:E	_
-57	True	_	Word	Word	_	50	A	50:A	_
-58	Grit	_	Word	Word	_	57	Terminal	57:Terminal	_
-59	.	_	Punctuation	Punctuation	_	57	U	57:U	_
+51	to	_	Word	Word	_	53	R	53:R	_
+52	his	_	Word	Word	_	53	A	53:A	_
+53	Oscar-winning	_	Word	Word	_	50	A	50:A	_
+54	film	_	Word	Word	_	55	E	55:E	_
+55	True	_	Word	Word	_	53	A	53:A	_
+56	Grit	_	Word	Word	_	55	Terminal	55:Terminal	_
+57	.	_	Punctuation	Punctuation	_	55	U	55:U	_
 

@@ -1,36 +1,36 @@
 # format = ucca
 # sent_id = 549006
-# text = Faced with a polarized political climate , few Americans were drawn to " a cheery exercise in prerepublic civics " . Warner 's efforts to promote the film were sometimes counterproductive .
-1	Faced	_	Word	Word	_	0	H	0:H	_
+# text = Faced with a polarized political climate Americans , few were drawn to " a cheery exercise in prerepublic civics " . Warner 's efforts to promote the film were sometimes counterproductive .
+1	Faced	_	Word	Word	_	7	E	7:E	_
 2	with	_	Word	Word	_	6	R	6:R	_
-3	a	_	Word	Word	_	6	E	6:E	_
+3	a	_	Word	Word	_	6	F	6:F	_
 4	polarized	_	Word	Word	_	6	E	6:E	_
 5	political	_	Word	Word	_	6	E	6:E	_
 6	climate	_	Word	Word	_	1	A	1:A	_
-7	,	_	Punctuation	Punctuation	_	1	U	1:U	_
-8	few	_	Word	Word	_	9	E	9:E	_
-9	Americans	_	Word	Word	_	0	C	0:C|1:A	_
+7	Americans	_	Word	Word	_	11	A	11:A	_
+8	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+9	few	_	Word	Word	_	11	D	11:D	_
 10	were	_	Word	Word	_	11	F	11:F	_
-11	drawn	_	Word	Word	_	1	H	1:H	_
+11	drawn	_	Word	Word	_	0	H	0:H	_
 12	to	_	Word	Word	_	16	R	16:R	_
 13	"	_	Punctuation	Punctuation	_	16	U	16:U	_
-14	a	_	Word	Word	_	15	E	15:E	_
+14	a	_	Word	Word	_	16	F	16:F	_
 15	cheery	_	Word	Word	_	16	E	16:E	_
 16	exercise	_	Word	Word	_	11	A	11:A	_
 17	in	_	Word	Word	_	19	R	19:R	_
 18	prerepublic	_	Word	Word	_	19	E	19:E	_
 19	civics	_	Word	Word	_	16	E	16:E	_
-20	"	_	Punctuation	Punctuation	_	1	U	1:U	_
-21	.	_	Punctuation	Punctuation	_	1	U	1:U	_
-22	Warner	_	Word	Word	_	26	A	26:A	_
+20	"	_	Punctuation	Punctuation	_	11	U	11:U	_
+21	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+22	Warner	_	Word	Word	_	24	A	24:A	_
 23	's	_	Word	Word	_	22	R	22:R	_
-24	efforts	_	Word	Word	_	26	E	26:E	_
+24	efforts	_	Word	Word	_	31	A	31:A	_
 25	to	_	Word	Word	_	26	F	26:F	_
-26	promote	_	Word	Word	_	31	A	31:A	_
-27	the	_	Word	Word	_	28	E	28:E	_
+26	promote	_	Word	Word	_	24	A	24:A	_
+27	the	_	Word	Word	_	28	F	28:F	_
 28	film	_	Word	Word	_	26	A	26:A	_
 29	were	_	Word	Word	_	31	F	31:F	_
 30	sometimes	_	Word	Word	_	31	D	31:D	_
-31	counterproductive	_	Word	Word	_	1	H	1:H	_
+31	counterproductive	_	Word	Word	_	11	H	11:H	_
 32	.	_	Punctuation	Punctuation	_	31	U	31:U	_
 

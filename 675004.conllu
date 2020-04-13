@@ -2,12 +2,12 @@
 # sent_id = 675004
 # text = In October 2011 , Carey announced that she re - recorded her song " All I Want for Christmas Is You " with Justin Bieber as a duet for his Christmas album , Under the Mistletoe .
 1	In	_	Word	Word	_	2	R	2:R	_
-2	October	_	Word	Word	_	6	D	6:D	_
-3	2011	_	Word	Word	_	2	Terminal	2:Terminal	_
+2	October	_	Word	Word	_	6	T	6:T	_
+3	2011	_	Word	Word	_	2	C	2:C	_
 4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 5	Carey	_	Word	Word	_	6	A	6:A	_
 6	announced	_	Word	Word	_	0	H	0:H	_
-7	that	_	Word	Word	_	11	F	11:F	_
+7	that	_	Word	Word	_	11	R	11:R	_
 8	she	_	Word	Word	_	11	A	11:A	_
 9	re	_	Word	Word	_	11	D	11:D	_
 10	-	_	Punctuation	Punctuation	_	11	U	11:U	_
@@ -30,7 +30,7 @@
 27	a	_	Word	Word	_	28	E	28:E	_
 28	duet	_	Word	Word	_	11	A	11:A	_
 29	for	_	Word	Word	_	34	R	34:R	_
-30	his	_	Word	Word	_	34	E	34:E	_
+30	his	_	Word	Word	_	32	E	32:E	_
 31	Christmas	_	Word	Word	_	32	E	32:E	_
 32	album	_	Word	Word	_	34	E	34:E	_
 33	,	_	Punctuation	Punctuation	_	34	U	34:U	_

@@ -4,15 +4,15 @@
 1	A	_	Word	Word	_	2	E	2:E	_
 2	combination	_	Word	Word	_	17	A	17:A	_
 3	of	_	Word	Word	_	6	R	6:R	_
-4	his	_	Word	Word	_	6	E	6:E	_
-5	strong	_	Word	Word	_	6	E	6:E	_
+4	his	_	Word	Word	_	6	A	6:A|10:A	_
+5	strong	_	Word	Word	_	6	D	6:D	_
 6	response	_	Word	Word	_	2	E	2:E	_
 7	to	_	Word	Word	_	8	R	8:R	_
-8	rhythm	_	Word	Word	_	6	E	6:E	_
-9	and	_	Word	Word	_	6	N	6:N	_
-10	nervousness	_	Word	Word	_	6	C	6:C	_
+8	rhythm	_	Word	Word	_	6	A	6:A	_
+9	and	_	Word	Word	_	10	L	10:L	_
+10	nervousness	_	Word	Word	_	6	H	6:H	_
 11	at	_	Word	Word	_	12	R	12:R	_
-12	playing	_	Word	Word	_	10	E	10:E	_
+12	playing	_	Word	Word	_	10	A	10:A	_
 13	before	_	Word	Word	_	16	R	16:R	_
 14	a	_	Word	Word	_	16	E	16:E	_
 15	large	_	Word	Word	_	16	E	16:E	_
@@ -33,10 +33,10 @@
 30	cut	_	Word	Word	_	31	E	31:E	_
 31	pants	_	Word	Word	_	32	A	32:A	_
 32	emphasized	_	Word	Word	_	17	H	17:H	_
-33	his	_	Word	Word	_	34	E	34:E	_
-34	movements	_	Word	Word	_	32	A	32:A|36:A	_
-35	,	_	Punctuation	Punctuation	_	36	U	36:U	_
-36	causing	_	Word	Word	_	17	H	17:H	_
+33	his	_	Word	Word	_	34	A	34:A	_
+34	movements	_	Word	Word	_	32	A	32:A	_
+35	,	_	Punctuation	Punctuation	_	17	U	17:U	_
+36	causing	_	Word	Word	_	44	L	44:L	_
 37	young	_	Word	Word	_	38	E	38:E	_
 38	women	_	Word	Word	_	44	A	44:A	_
 39	in	_	Word	Word	_	41	R	41:R	_
@@ -44,6 +44,6 @@
 41	audience	_	Word	Word	_	38	E	38:E	_
 42	to	_	Word	Word	_	44	F	44:F	_
 43	start	_	Word	Word	_	44	D	44:D	_
-44	screaming	_	Word	Word	_	36	A	36:A	_
+44	screaming	_	Word	Word	_	17	H	17:H	_
 45	.	_	Punctuation	Punctuation	_	44	U	44:U	_
 

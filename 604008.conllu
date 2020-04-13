@@ -1,31 +1,27 @@
 # format = ucca
 # sent_id = 604008
-# text = They eventually compromised , agreeing to McCartney 's suggestion : an LP featuring individual songs on side one , and a long medley on side two .
-1	They	_	Word	Word	_	3	A	3:A|5:A	_
-2	eventually	_	Word	Word	_	3	D	3:D	_
-3	compromised	_	Word	Word	_	0	H	0:H	_
-4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
-5	agreeing	_	Word	Word	_	3	H	3:H	_
-6	to	_	Word	Word	_	9	R	9:R	_
-7	McCartney	_	Word	Word	_	9	A	9:A	_
-8	's	_	Word	Word	_	7	R	7:R	_
-9	suggestion	_	Word	Word	_	5	A	5:A	_
-10	:	_	Punctuation	Punctuation	_	9	U	9:U	_
-11	an	_	Word	Word	_	12	E	12:E	_
-12	LP	_	Word	Word	_	13	A	13:A	_
-13	featuring	_	Word	Word	_	9	A	9:A	_
-14	individual	_	Word	Word	_	15	E	15:E	_
-15	songs	_	Word	Word	_	13	A	13:A	_
-16	on	_	Word	Word	_	18	R	18:R	_
-17	side	_	Word	Word	_	18	E	18:E	_
-18	one	_	Word	Word	_	15	E	15:E	_
-19	,	_	Punctuation	Punctuation	_	15	U	15:U	_
-20	and	_	Word	Word	_	15	N	15:N	_
-21	a	_	Word	Word	_	23	E	23:E	_
-22	long	_	Word	Word	_	23	E	23:E	_
-23	medley	_	Word	Word	_	15	C	15:C	_
-24	on	_	Word	Word	_	26	R	26:R	_
-25	side	_	Word	Word	_	26	E	26:E	_
-26	two	_	Word	Word	_	23	E	23:E	_
-27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+# text = On 10 April 1970 , in the midst of business disagreements with his bandmates , McCartney announced his departure from the group .
+1	On	_	Word	Word	_	2	R	2:R	_
+2	10	_	Word	Word	_	17	T	17:T	_
+3	April	_	Word	Word	_	2	C	2:C	_
+4	1970	_	Word	Word	_	2	C	2:C	_
+5	,	_	Punctuation	Punctuation	_	17	U	17:U	_
+6	in	_	Word	Word	_	11	L	11:L	_
+7	the	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	midst	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	of	_	Word	Word	_	6	Terminal	6:Terminal	_
+10	business	_	Word	Word	_	11	A	11:A	_
+11	disagreements	_	Word	Word	_	17	H	17:H	_
+12	with	_	Word	Word	_	13	R	13:R	_
+13	his	_	Word	Word	_	11	A	11:A	_
+14	bandmates	_	Word	Word	_	13	A	13:A	_
+15	,	_	Punctuation	Punctuation	_	17	U	17:U	_
+16	McCartney	_	Word	Word	_	17	A	17:A	_
+17	announced	_	Word	Word	_	0	H	0:H	_
+18	his	_	Word	Word	_	19	A	19:A	_
+19	departure	_	Word	Word	_	17	A	17:A	_
+20	from	_	Word	Word	_	22	R	22:R	_
+21	the	_	Word	Word	_	22	F	22:F	_
+22	group	_	Word	Word	_	19	A	19:A	_
+23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
 

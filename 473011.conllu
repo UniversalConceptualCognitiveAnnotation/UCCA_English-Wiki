@@ -1,39 +1,31 @@
 # format = ucca
 # sent_id = 473011
-# text = Magic Johnson joined Shaquille O ' Neal and celebrity coach Spike Lee to lead the blue team to a 147 - 132 victory over the white team , which was coached by Arsenio Hall .
-1	Magic	_	Word	Word	_	3	A	3:A|14:A	_
-2	Johnson	_	Word	Word	_	1	Terminal	1:Terminal	_
-3	joined	_	Word	Word	_	0	H	0:H	_
-4	Shaquille	_	Word	Word	_	3	A	3:A	_
-5	O	_	Word	Word	_	4	Terminal	4:Terminal	_
-6	'	_	Punctuation	Punctuation	_	4	U	4:U	_
-7	Neal	_	Word	Word	_	4	Terminal	4:Terminal	_
-8	and	_	Word	Word	_	4	N	4:N	_
-9	celebrity	_	Word	Word	_	10	E	10:E	_
-10	coach	_	Word	Word	_	11	E	11:E	_
-11	Spike	_	Word	Word	_	4	C	4:C	_
-12	Lee	_	Word	Word	_	11	Terminal	11:Terminal	_
-13	to	_	Word	Word	_	14	L	14:L	_
-14	lead	_	Word	Word	_	3	H	3:H	_
-15	the	_	Word	Word	_	17	E	17:E	_
-16	blue	_	Word	Word	_	17	E	17:E	_
-17	team	_	Word	Word	_	14	A	14:A	_
-18	to	_	Word	Word	_	23	R	23:R	_
-19	a	_	Word	Word	_	23	E	23:E	_
-20	147	_	Word	Word	_	23	E	23:E	_
-21	-	_	Punctuation	Punctuation	_	20	U	20:U	_
-22	132	_	Word	Word	_	20	Terminal	20:Terminal	_
-23	victory	_	Word	Word	_	14	A	14:A	_
-24	over	_	Word	Word	_	27	R	27:R	_
-25	the	_	Word	Word	_	27	E	27:E	_
-26	white	_	Word	Word	_	27	E	27:E	_
-27	team	_	Word	Word	_	23	A	23:A	_
-28	,	_	Punctuation	Punctuation	_	27	U	27:U	_
-29	which	_	Word	Word	_	31	F	31:F	_
-30	was	_	Word	Word	_	31	F	31:F	_
-31	coached	_	Word	Word	_	27	E	27:E	_
-32	by	_	Word	Word	_	33	R	33:R	_
-33	Arsenio	_	Word	Word	_	31	A	31:A	_
-34	Hall	_	Word	Word	_	33	Terminal	33:Terminal	_
-35	.	_	Punctuation	Punctuation	_	33	U	33:U	_
+# text = The 1992 event , which was the first one held after Johnson 's appearance in the 1992 Olympics , raised over $ 1.3 million for UNCF .
+1	The	_	Word	Word	_	3	F	3:F	_
+2	1992	_	Word	Word	_	3	E	3:E	_
+3	event	_	Word	Word	_	20	A	20:A	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	which	_	Word	Word	_	6	R	6:R	_
+6	was	_	Word	Word	_	3	E	3:E	_
+7	the	_	Word	Word	_	9	F	9:F	_
+8	first	_	Word	Word	_	9	Q	9:Q	_
+9	one	_	Word	Word	_	6	A	6:A	_
+10	held	_	Word	Word	_	9	E	9:E	_
+11	after	_	Word	Word	_	14	L	14:L	_
+12	Johnson	_	Word	Word	_	14	A	14:A	_
+13	's	_	Word	Word	_	12	R	12:R	_
+14	appearance	_	Word	Word	_	10	H	10:H	_
+15	in	_	Word	Word	_	18	R	18:R	_
+16	the	_	Word	Word	_	18	F	18:F	_
+17	1992	_	Word	Word	_	18	E	18:E	_
+18	Olympics	_	Word	Word	_	14	A	14:A	_
+19	,	_	Punctuation	Punctuation	_	20	U	20:U	_
+20	raised	_	Word	Word	_	0	H	0:H	_
+21	over	_	Word	Word	_	23	R	23:R	_
+22	$	_	Word	Word	_	20	A	20:A	_
+23	1.3	_	Word	Word	_	22	Q	22:Q	_
+24	million	_	Word	Word	_	23	C	23:C	_
+25	for	_	Word	Word	_	26	R	26:R	_
+26	UNCF	_	Word	Word	_	20	A	20:A	_
+27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
 

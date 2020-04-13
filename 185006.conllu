@@ -1,13 +1,13 @@
 # format = ucca
 # sent_id = 185006
 # text = Sorkin spent the early 1990s writing two other screenplays at Castle Rock , Malice and The American President .
-1	Sorkin	_	Word	Word	_	2	A	2:A|6:A	_
-2	spent	_	Word	Word	_	0	H	0:H	_
+1	Sorkin	_	Word	Word	_	6	A	6:A	_
+2	spent	_	Word	Word	_	6	F	6:F	_
 3	the	_	Word	Word	_	5	E	5:E	_
 4	early	_	Word	Word	_	5	E	5:E	_
-5	1990s	_	Word	Word	_	2	D	2:D	_
-6	writing	_	Word	Word	_	2	A	2:A	_
-7	two	_	Word	Word	_	9	E	9:E	_
+5	1990s	_	Word	Word	_	6	T	6:T	_
+6	writing	_	Word	Word	_	0	H	0:H	_
+7	two	_	Word	Word	_	9	Q	9:Q	_
 8	other	_	Word	Word	_	9	E	9:E	_
 9	screenplays	_	Word	Word	_	14	E	14:E	_
 10	at	_	Word	Word	_	11	R	11:R	_

@@ -1,32 +1,32 @@
 # format = ucca
 # sent_id = 674013
 # text = In an interview , Carey stated that her pregnancy was very difficult ; she suffered from high blood pressure , pre - eclampsia , and gestational diabetes .
-1	In	_	Word	Word	_	3	R	3:R	_
+1	In	_	Word	Word	_	6	L	6:L	_
 2	an	_	Word	Word	_	3	E	3:E	_
-3	interview	_	Word	Word	_	6	A	6:A	_
-4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+3	interview	_	Word	Word	_	0	H	0:H	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 5	Carey	_	Word	Word	_	6	A	6:A	_
-6	stated	_	Word	Word	_	0	H	0:H	_
-7	that	_	Word	Word	_	12	F	12:F	_
-8	her	_	Word	Word	_	9	E	9:E	_
-9	pregnancy	_	Word	Word	_	12	A	12:A	_
-10	was	_	Word	Word	_	12	F	12:F	_
-11	very	_	Word	Word	_	12	D	12:D	_
-12	difficult	_	Word	Word	_	6	A	6:A	_
-13	;	_	Punctuation	Punctuation	_	6	U	6:U	_
-14	she	_	Word	Word	_	15	A	15:A	_
-15	suffered	_	Word	Word	_	6	H	6:H	_
+6	stated	_	Word	Word	_	3	H	3:H	_
+7	that	_	Word	Word	_	9	R	9:R	_
+8	her	_	Word	Word	_	9	A	9:A	_
+9	pregnancy	_	Word	Word	_	6	A	6:A	_
+10	was	_	Word	Word	_	9	F	9:F	_
+11	very	_	Word	Word	_	12	E	12:E	_
+12	difficult	_	Word	Word	_	9	D	9:D	_
+13	;	_	Punctuation	Punctuation	_	3	U	3:U	_
+14	she	_	Word	Word	_	19	A	19:A|23:A|27:A	_
+15	suffered	_	Word	Word	_	19	D	19:D|23:D|27:D	_
 16	from	_	Word	Word	_	19	R	19:R	_
-17	high	_	Word	Word	_	19	E	19:E	_
-18	blood	_	Word	Word	_	19	E	19:E	_
-19	pressure	_	Word	Word	_	15	A	15:A	_
-20	,	_	Punctuation	Punctuation	_	19	U	19:U	_
-21	pre	_	Word	Word	_	23	E	23:E	_
+17	high	_	Word	Word	_	19	D	19:D	_
+18	blood	_	Word	Word	_	19	A	19:A	_
+19	pressure	_	Word	Word	_	3	H	3:H	_
+20	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+21	pre	_	Word	Word	_	23	D	23:D	_
 22	-	_	Punctuation	Punctuation	_	23	U	23:U	_
-23	eclampsia	_	Word	Word	_	19	C	19:C	_
-24	,	_	Punctuation	Punctuation	_	19	U	19:U	_
-25	and	_	Word	Word	_	19	N	19:N	_
-26	gestational	_	Word	Word	_	27	E	27:E	_
-27	diabetes	_	Word	Word	_	19	C	19:C	_
+23	eclampsia	_	Word	Word	_	3	H	3:H	_
+24	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+25	and	_	Word	Word	_	27	L	27:L	_
+26	gestational	_	Word	Word	_	27	A	27:A	_
+27	diabetes	_	Word	Word	_	3	H	3:H	_
 28	.	_	Punctuation	Punctuation	_	27	U	27:U	_
 

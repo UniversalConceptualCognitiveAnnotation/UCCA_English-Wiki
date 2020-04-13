@@ -1,9 +1,9 @@
 # format = ucca
 # sent_id = 610019
 # text = More than forty - five years after the Beatles first appeared on American television during The Ed Sullivan Show , he returned to the same New York theatre to perform on Late Show with David Letterman .
-1	More	_	Word	Word	_	3	R	3:R	_
-2	than	_	Word	Word	_	3	F	3:F	_
-3	forty	_	Word	Word	_	6	E	6:E	_
+1	More	_	Word	Word	_	3	E	3:E	_
+2	than	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	forty	_	Word	Word	_	6	Q	6:Q	_
 4	-	_	Punctuation	Punctuation	_	3	U	3:U	_
 5	five	_	Word	Word	_	3	Terminal	3:Terminal	_
 6	years	_	Word	Word	_	22	L	22:L	_
@@ -24,7 +24,7 @@
 21	he	_	Word	Word	_	22	A	22:A|30:A	_
 22	returned	_	Word	Word	_	11	H	11:H	_
 23	to	_	Word	Word	_	28	R	28:R	_
-24	the	_	Word	Word	_	28	E	28:E	_
+24	the	_	Word	Word	_	28	F	28:F	_
 25	same	_	Word	Word	_	28	E	28:E	_
 26	New	_	Word	Word	_	28	E	28:E	_
 27	York	_	Word	Word	_	26	Terminal	26:Terminal	_

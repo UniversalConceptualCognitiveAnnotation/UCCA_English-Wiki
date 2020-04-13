@@ -3,27 +3,27 @@
 # text = Following rumors that Frank Gumm had made sexual advances toward male ushers , the family relocated to Lancaster , California , in June 1926 .
 1	Following	_	Word	Word	_	16	L	16:L	_
 2	rumors	_	Word	Word	_	0	H	0:H	_
-3	that	_	Word	Word	_	9	F	9:F	_
+3	that	_	Word	Word	_	9	R	9:R	_
 4	Frank	_	Word	Word	_	9	A	9:A	_
 5	Gumm	_	Word	Word	_	4	Terminal	4:Terminal	_
 6	had	_	Word	Word	_	9	F	9:F	_
 7	made	_	Word	Word	_	9	F	9:F	_
-8	sexual	_	Word	Word	_	9	E	9:E	_
-9	advances	_	Word	Word	_	2	E	2:E	_
+8	sexual	_	Word	Word	_	9	A	9:A	_
+9	advances	_	Word	Word	_	2	A	2:A	_
 10	toward	_	Word	Word	_	12	R	12:R	_
 11	male	_	Word	Word	_	12	E	12:E	_
 12	ushers	_	Word	Word	_	9	A	9:A	_
 13	,	_	Punctuation	Punctuation	_	2	U	2:U	_
-14	the	_	Word	Word	_	15	E	15:E	_
+14	the	_	Word	Word	_	15	F	15:F	_
 15	family	_	Word	Word	_	16	A	16:A	_
 16	relocated	_	Word	Word	_	2	H	2:H	_
 17	to	_	Word	Word	_	18	R	18:R	_
 18	Lancaster	_	Word	Word	_	16	A	16:A	_
 19	,	_	Punctuation	Punctuation	_	18	U	18:U	_
-20	California	_	Word	Word	_	18	E	18:E	_
+20	California	_	Word	Word	_	18	C	18:C	_
 21	,	_	Punctuation	Punctuation	_	16	U	16:U	_
 22	in	_	Word	Word	_	23	R	23:R	_
-23	June	_	Word	Word	_	16	D	16:D	_
-24	1926	_	Word	Word	_	23	Terminal	23:Terminal	_
+23	June	_	Word	Word	_	16	T	16:T	_
+24	1926	_	Word	Word	_	23	C	23:C	_
 25	.	_	Punctuation	Punctuation	_	23	U	23:U	_
 

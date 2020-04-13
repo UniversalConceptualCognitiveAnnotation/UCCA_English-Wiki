@@ -1,30 +1,30 @@
 # format = ucca
 # sent_id = 558002
 # text = Sam , I think , had the door to the control booth open ... he stuck his head out and said , ' What are you doing ? '
-1	Sam	_	Word	Word	_	6	A	6:A	_
+1	Sam	_	Word	Word	_	13	A	13:A	_
 2	,	_	Punctuation	Punctuation	_	4	U	4:U	_
 3	I	_	Word	Word	_	4	A	4:A	_
 4	think	_	Word	Word	_	0	H	0:H	_
 5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
-6	had	_	Word	Word	_	4	A	4:A	_
+6	had	_	Word	Word	_	13	F	13:F	_
 7	the	_	Word	Word	_	8	E	8:E	_
 8	door	_	Word	Word	_	13	A	13:A	_
 9	to	_	Word	Word	_	12	R	12:R	_
 10	the	_	Word	Word	_	12	E	12:E	_
 11	control	_	Word	Word	_	12	E	12:E	_
 12	booth	_	Word	Word	_	8	E	8:E	_
-13	open	_	Word	Word	_	6	A	6:A	_
+13	open	_	Word	Word	_	4	A	4:A	_
 14	...	_	Punctuation	Punctuation	_	4	U	4:U	_
 15	he	_	Word	Word	_	16	A	16:A|21:A	_
 16	stuck	_	Word	Word	_	4	H	4:H	_
 17	his	_	Word	Word	_	18	E	18:E	_
 18	head	_	Word	Word	_	16	A	16:A	_
-19	out	_	Word	Word	_	16	Terminal	16:Terminal	_
+19	out	_	Word	Word	_	16	D	16:D	_
 20	and	_	Word	Word	_	21	L	21:L	_
 21	said	_	Word	Word	_	4	H	4:H	_
 22	,	_	Punctuation	Punctuation	_	21	U	21:U	_
 23	'	_	Punctuation	Punctuation	_	21	U	21:U	_
-24	What	_	Word	Word	_	27	D	27:D	_
+24	What	_	Word	Word	_	27	A	27:A	_
 25	are	_	Word	Word	_	27	F	27:F	_
 26	you	_	Word	Word	_	27	A	27:A	_
 27	doing	_	Word	Word	_	21	A	21:A	_

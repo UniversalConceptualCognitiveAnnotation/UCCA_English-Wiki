@@ -1,41 +1,21 @@
 # format = ucca
 # sent_id = 557007
-# text = Presley cut a second acetate in January 1954 - " I 'll Never Stand In Your Way " and " It Would n't Be the Same Without You " - but again nothing came of it .
-1	Presley	_	Word	Word	_	2	A	2:A	_
-2	cut	_	Word	Word	_	0	H	0:H	_
-3	a	_	Word	Word	_	5	E	5:E	_
-4	second	_	Word	Word	_	5	E	5:E	_
-5	acetate	_	Word	Word	_	11	E	11:E	_
-6	in	_	Word	Word	_	7	R	7:R	_
-7	January	_	Word	Word	_	2	D	2:D	_
-8	1954	_	Word	Word	_	7	Terminal	7:Terminal	_
-9	-	_	Punctuation	Punctuation	_	2	U	2:U	_
-10	"	_	Punctuation	Punctuation	_	2	U	2:U	_
-11	I	_	Word	Word	_	2	A	2:A	_
-12	'll	_	Word	Word	_	11	Terminal	11:Terminal	_
-13	Never	_	Word	Word	_	11	Terminal	11:Terminal	_
-14	Stand	_	Word	Word	_	11	Terminal	11:Terminal	_
-15	In	_	Word	Word	_	11	Terminal	11:Terminal	_
-16	Your	_	Word	Word	_	11	Terminal	11:Terminal	_
-17	Way	_	Word	Word	_	11	Terminal	11:Terminal	_
-18	"	_	Punctuation	Punctuation	_	11	U	11:U	_
-19	and	_	Word	Word	_	11	N	11:N	_
-20	"	_	Punctuation	Punctuation	_	11	U	11:U	_
-21	It	_	Word	Word	_	11	C	11:C	_
-22	Would	_	Word	Word	_	21	Terminal	21:Terminal	_
-23	n't	_	Word	Word	_	21	Terminal	21:Terminal	_
-24	Be	_	Word	Word	_	21	Terminal	21:Terminal	_
-25	the	_	Word	Word	_	21	Terminal	21:Terminal	_
-26	Same	_	Word	Word	_	21	Terminal	21:Terminal	_
-27	Without	_	Word	Word	_	21	Terminal	21:Terminal	_
-28	You	_	Word	Word	_	21	Terminal	21:Terminal	_
-29	"	_	Punctuation	Punctuation	_	2	U	2:U	_
-30	-	_	Punctuation	Punctuation	_	2	U	2:U	_
-31	but	_	Word	Word	_	34	L	34:L	_
-32	again	_	Word	Word	_	34	D	34:D	_
-33	nothing	_	Word	Word	_	34	A	34:A	_
-34	came	_	Word	Word	_	2	H	2:H	_
-35	of	_	Word	Word	_	34	Terminal	34:Terminal	_
-36	it	_	Word	Word	_	34	A	34:A	_
-37	.	_	Punctuation	Punctuation	_	34	U	34:U	_
+# text = Not long after , he failed an audition for a local vocal quartet , the Songfellows .
+1	Not	_	Word	Word	_	2	E	2:E	_
+2	long	_	Word	Word	_	6	T	6:T	_
+3	after	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	he	_	Word	Word	_	6	A	6:A	_
+6	failed	_	Word	Word	_	0	H	0:H	_
+7	an	_	Word	Word	_	8	E	8:E	_
+8	audition	_	Word	Word	_	6	A	6:A	_
+9	for	_	Word	Word	_	15	R	15:R	_
+10	a	_	Word	Word	_	11	F	11:F	_
+11	local	_	Word	Word	_	15	E	15:E	_
+12	vocal	_	Word	Word	_	11	A	11:A	_
+13	quartet	_	Word	Word	_	11	A	11:A	_
+14	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+15	the	_	Word	Word	_	8	A	8:A	_
+16	Songfellows	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	.	_	Punctuation	Punctuation	_	15	U	15:U	_
 

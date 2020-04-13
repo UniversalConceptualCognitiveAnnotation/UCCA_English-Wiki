@@ -1,11 +1,11 @@
 # format = ucca
 # sent_id = 515001
 # text = His early compositions and performances were strongly influenced by not only rock and rollers like Little Richard and Elvis Presley but also the wider world of show business .
-1	His	_	Word	Word	_	3	A	3:A	_
-2	early	_	Word	Word	_	3	D	3:D	_
+1	His	_	Word	Word	_	3	A	3:A|5:A	_
+2	early	_	Word	Word	_	3	D	3:D|5:D	_
 3	compositions	_	Word	Word	_	8	A	8:A	_
-4	and	_	Word	Word	_	3	N	3:N	_
-5	performances	_	Word	Word	_	3	C	3:C	_
+4	and	_	Word	Word	_	5	L	5:L	_
+5	performances	_	Word	Word	_	3	H	3:H	_
 6	were	_	Word	Word	_	8	F	8:F	_
 7	strongly	_	Word	Word	_	8	D	8:D	_
 8	influenced	_	Word	Word	_	0	H	0:H	_
@@ -22,7 +22,7 @@
 19	Elvis	_	Word	Word	_	16	C	16:C	_
 20	Presley	_	Word	Word	_	19	Terminal	19:Terminal	_
 21	but	_	Word	Word	_	22	E	22:E	_
-22	also	_	Word	Word	_	11	C	11:C	_
+22	also	_	Word	Word	_	12	N	12:N	_
 23	the	_	Word	Word	_	25	E	25:E	_
 24	wider	_	Word	Word	_	25	E	25:E	_
 25	world	_	Word	Word	_	28	E	28:E	_

@@ -1,37 +1,28 @@
 # format = ucca
 # sent_id = 944013
-# text = As a result , reviews of the album were mixed , and it was described as " fun as hell but [ ... ] not exactly rife with subversive social commentary . "
-1	As	_	Word	Word	_	3	R	3:R	_
-2	a	_	Word	Word	_	3	E	3:E	_
-3	result	_	Word	Word	_	15	L	15:L	_
-4	,	_	Punctuation	Punctuation	_	10	U	10:U	_
-5	reviews	_	Word	Word	_	10	A	10:A	_
-6	of	_	Word	Word	_	5	R	5:R	_
-7	the	_	Word	Word	_	8	E	8:E	_
-8	album	_	Word	Word	_	5	E	5:E	_
-9	were	_	Word	Word	_	10	F	10:F	_
-10	mixed	_	Word	Word	_	0	H	0:H	_
-11	,	_	Punctuation	Punctuation	_	10	U	10:U	_
-12	and	_	Word	Word	_	15	L	15:L	_
-13	it	_	Word	Word	_	15	A	15:A	_
-14	was	_	Word	Word	_	15	F	15:F	_
-15	described	_	Word	Word	_	10	H	10:H	_
-16	as	_	Word	Word	_	15	R	15:R	_
-17	"	_	Punctuation	Punctuation	_	15	U	15:U	_
-18	fun	_	Word	Word	_	15	A	15:A	_
-19	as	_	Word	Word	_	20	R	20:R	_
-20	hell	_	Word	Word	_	18	E	18:E	_
-21	but	_	Word	Word	_	27	L	27:L	_
-22	[	_	Punctuation	Punctuation	_	18	U	18:U	_
-23	...	_	Punctuation	Punctuation	_	18	U	18:U	_
-24	]	_	Punctuation	Punctuation	_	18	U	18:U	_
-25	not	_	Word	Word	_	26	E	26:E	_
-26	exactly	_	Word	Word	_	27	E	27:E	_
-27	rife	_	Word	Word	_	18	H	18:H	_
-28	with	_	Word	Word	_	31	R	31:R	_
-29	subversive	_	Word	Word	_	31	E	31:E	_
-30	social	_	Word	Word	_	31	E	31:E	_
-31	commentary	_	Word	Word	_	27	E	27:E	_
-32	.	_	Punctuation	Punctuation	_	31	U	31:U	_
-33	"	_	Punctuation	Punctuation	_	31	U	31:U	_
+# text = The album debuted on the US Billboard 200 albums chart at number seven , selling 309 , 000 copies in its first week .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	album	_	Word	Word	_	0	C	0:C|15:A	_
+3	debuted	_	Word	Word	_	0	H	0:H	_
+4	on	_	Word	Word	_	10	R	10:R	_
+5	the	_	Word	Word	_	10	E	10:E	_
+6	US	_	Word	Word	_	10	E	10:E	_
+7	Billboard	_	Word	Word	_	10	E	10:E	_
+8	200	_	Word	Word	_	9	Q	9:Q	_
+9	albums	_	Word	Word	_	10	E	10:E	_
+10	chart	_	Word	Word	_	3	A	3:A	_
+11	at	_	Word	Word	_	12	R	12:R	_
+12	number	_	Word	Word	_	3	A	3:A	_
+13	seven	_	Word	Word	_	12	Q	12:Q	_
+14	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+15	selling	_	Word	Word	_	3	H	3:H	_
+16	309	_	Word	Word	_	19	Q	19:Q	_
+17	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+18	000	_	Word	Word	_	16	Terminal	16:Terminal	_
+19	copies	_	Word	Word	_	15	A	15:A	_
+20	in	_	Word	Word	_	21	L	21:L	_
+21	its	_	Word	Word	_	3	H	3:H	_
+22	first	_	Word	Word	_	23	Q	23:Q	_
+23	week	_	Word	Word	_	21	T	21:T	_
+24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
 

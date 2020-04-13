@@ -1,12 +1,12 @@
 # format = ucca
 # sent_id = 499002
 # text = With satisfaction came severe personal difficulties : acting the same role over an extended period , it became impossible for him to separate Ziggy Stardust - and , later , the Thin White Duke - from his own character offstage .
-1	With	_	Word	Word	_	3	L	3:L	_
+1	With	_	Word	Word	_	6	L	6:L	_
 2	satisfaction	_	Word	Word	_	0	H	0:H	_
-3	came	_	Word	Word	_	2	H	2:H	_
-4	severe	_	Word	Word	_	6	E	6:E	_
-5	personal	_	Word	Word	_	6	E	6:E	_
-6	difficulties	_	Word	Word	_	3	A	3:A	_
+3	came	_	Word	Word	_	6	L	6:L	_
+4	severe	_	Word	Word	_	6	D	6:D	_
+5	personal	_	Word	Word	_	6	A	6:A	_
+6	difficulties	_	Word	Word	_	2	H	2:H	_
 7	:	_	Punctuation	Punctuation	_	2	U	2:U	_
 8	acting	_	Word	Word	_	2	H	2:H	_
 9	the	_	Word	Word	_	11	E	11:E	_
@@ -15,15 +15,15 @@
 12	over	_	Word	Word	_	15	R	15:R	_
 13	an	_	Word	Word	_	15	E	15:E	_
 14	extended	_	Word	Word	_	15	E	15:E	_
-15	period	_	Word	Word	_	8	D	8:D	_
+15	period	_	Word	Word	_	8	T	8:T	_
 16	,	_	Punctuation	Punctuation	_	2	U	2:U	_
-17	it	_	Word	Word	_	19	F	19:F	_
-18	became	_	Word	Word	_	19	D	19:D	_
-19	impossible	_	Word	Word	_	2	H	2:H	_
+17	it	_	Word	Word	_	23	F	23:F	_
+18	became	_	Word	Word	_	19	E	19:E	_
+19	impossible	_	Word	Word	_	23	D	23:D	_
 20	for	_	Word	Word	_	21	R	21:R	_
-21	him	_	Word	Word	_	19	A	19:A	_
+21	him	_	Word	Word	_	23	A	23:A	_
 22	to	_	Word	Word	_	23	F	23:F	_
-23	separate	_	Word	Word	_	19	A	19:A	_
+23	separate	_	Word	Word	_	2	H	2:H	_
 24	Ziggy	_	Word	Word	_	23	A	23:A	_
 25	Stardust	_	Word	Word	_	24	Terminal	24:Terminal	_
 26	-	_	Punctuation	Punctuation	_	24	U	24:U	_

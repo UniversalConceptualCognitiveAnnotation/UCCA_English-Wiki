@@ -1,22 +1,22 @@
 # format = ucca
 # sent_id = 468003
 # text = Johnson averaged 18.0 points , 7.7 rebounds , and 7.3 assists per game for the season , was selected to the NBA All - Rookie Team , and was named an NBA All - Star Game starter .
-1	Johnson	_	Word	Word	_	2	A	2:A|19:A|30:A	_
+1	Johnson	_	Word	Word	_	2	A	2:A|7:A|11:A|19:A|30:A	_
 2	averaged	_	Word	Word	_	0	H	0:H	_
-3	18.0	_	Word	Word	_	4	E	4:E	_
+3	18.0	_	Word	Word	_	4	Q	4:Q	_
 4	points	_	Word	Word	_	2	A	2:A	_
 5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
-6	7.7	_	Word	Word	_	7	E	7:E	_
+6	7.7	_	Word	Word	_	7	Q	7:Q	_
 7	rebounds	_	Word	Word	_	4	C	4:C	_
 8	,	_	Punctuation	Punctuation	_	4	U	4:U	_
 9	and	_	Word	Word	_	4	N	4:N	_
-10	7.3	_	Word	Word	_	11	E	11:E	_
+10	7.3	_	Word	Word	_	11	Q	11:Q	_
 11	assists	_	Word	Word	_	4	C	4:C	_
 12	per	_	Word	Word	_	13	R	13:R	_
 13	game	_	Word	Word	_	4	E	4:E	_
 14	for	_	Word	Word	_	16	R	16:R	_
 15	the	_	Word	Word	_	16	E	16:E	_
-16	season	_	Word	Word	_	2	D	2:D	_
+16	season	_	Word	Word	_	2	T	2:T	_
 17	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 18	was	_	Word	Word	_	19	F	19:F	_
 19	selected	_	Word	Word	_	2	H	2:H	_

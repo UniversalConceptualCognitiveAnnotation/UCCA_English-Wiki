@@ -1,0 +1,39 @@
+# format = ucca
+# sent_id = 473012
+# text = Magic Johnson joined Shaquille O ' Neal and celebrity coach Spike Lee to lead the blue team to a 147 - 132 victory over the white team , which was coached by Arsenio Hall .
+1	Magic	_	Word	Word	_	3	A	3:A|23:A	_
+2	Johnson	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	joined	_	Word	Word	_	0	H	0:H	_
+4	Shaquille	_	Word	Word	_	3	A	3:A	_
+5	O	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	'	_	Punctuation	Punctuation	_	4	U	4:U	_
+7	Neal	_	Word	Word	_	4	Terminal	4:Terminal	_
+8	and	_	Word	Word	_	4	N	4:N	_
+9	celebrity	_	Word	Word	_	10	A	10:A	_
+10	coach	_	Word	Word	_	11	E	11:E	_
+11	Spike	_	Word	Word	_	4	C	4:C	_
+12	Lee	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	to	_	Word	Word	_	23	L	23:L	_
+14	lead	_	Word	Word	_	23	D	23:D	_
+15	the	_	Word	Word	_	17	F	17:F	_
+16	blue	_	Word	Word	_	17	E	17:E	_
+17	team	_	Word	Word	_	23	A	23:A	_
+18	to	_	Word	Word	_	20	R	20:R	_
+19	a	_	Word	Word	_	20	F	20:F	_
+20	147	_	Word	Word	_	23	A	23:A	_
+21	-	_	Punctuation	Punctuation	_	20	U	20:U	_
+22	132	_	Word	Word	_	20	C	20:C	_
+23	victory	_	Word	Word	_	3	H	3:H	_
+24	over	_	Word	Word	_	27	R	27:R	_
+25	the	_	Word	Word	_	27	F	27:F	_
+26	white	_	Word	Word	_	27	E	27:E	_
+27	team	_	Word	Word	_	23	A	23:A	_
+28	,	_	Punctuation	Punctuation	_	27	U	27:U	_
+29	which	_	Word	Word	_	31	R	31:R	_
+30	was	_	Word	Word	_	31	F	31:F	_
+31	coached	_	Word	Word	_	27	E	27:E	_
+32	by	_	Word	Word	_	33	R	33:R	_
+33	Arsenio	_	Word	Word	_	31	A	31:A	_
+34	Hall	_	Word	Word	_	33	Terminal	33:Terminal	_
+35	.	_	Punctuation	Punctuation	_	33	U	33:U	_
+

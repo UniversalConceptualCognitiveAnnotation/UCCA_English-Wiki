@@ -2,13 +2,13 @@
 # sent_id = 195006
 # text = In 2003 Sorkin divulged to the American television interviewer Charlie Rose on The Charlie Rose Show that he was developing a TV series based on a late - night sketch comedy show like Saturday Night Live .
 1	In	_	Word	Word	_	2	R	2:R	_
-2	2003	_	Word	Word	_	4	D	4:D	_
+2	2003	_	Word	Word	_	4	T	4:T	_
 3	Sorkin	_	Word	Word	_	4	A	4:A	_
 4	divulged	_	Word	Word	_	0	H	0:H	_
-5	to	_	Word	Word	_	9	R	9:R	_
+5	to	_	Word	Word	_	10	R	10:R	_
 6	the	_	Word	Word	_	9	E	9:E	_
-7	American	_	Word	Word	_	9	E	9:E	_
-8	television	_	Word	Word	_	9	E	9:E	_
+7	American	_	Word	Word	_	9	A	9:A	_
+8	television	_	Word	Word	_	9	A	9:A	_
 9	interviewer	_	Word	Word	_	10	E	10:E	_
 10	Charlie	_	Word	Word	_	4	A	4:A	_
 11	Rose	_	Word	Word	_	10	Terminal	10:Terminal	_
@@ -17,7 +17,7 @@
 14	Charlie	_	Word	Word	_	13	Terminal	13:Terminal	_
 15	Rose	_	Word	Word	_	13	Terminal	13:Terminal	_
 16	Show	_	Word	Word	_	13	Terminal	13:Terminal	_
-17	that	_	Word	Word	_	20	F	20:F	_
+17	that	_	Word	Word	_	20	R	20:R	_
 18	he	_	Word	Word	_	20	A	20:A	_
 19	was	_	Word	Word	_	20	F	20:F	_
 20	developing	_	Word	Word	_	4	A	4:A	_

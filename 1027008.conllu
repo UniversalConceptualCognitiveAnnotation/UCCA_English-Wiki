@@ -7,8 +7,8 @@
 4	top	_	Word	Word	_	0	H	0:H	_
 5	Thriller	_	Word	Word	_	4	A	4:A	_
 6	as	_	Word	Word	_	11	R	11:R	_
-7	a	_	Word	Word	_	11	E	11:E	_
-8	commercial	_	Word	Word	_	11	E	11:E	_
+7	a	_	Word	Word	_	11	F	11:F	_
+8	commercial	_	Word	Word	_	11	A	11:A	_
 9	or	_	Word	Word	_	8	N	8:N	_
 10	artistic	_	Word	Word	_	8	C	8:C	_
 11	triumph	_	Word	Word	_	4	A	4:A	_
@@ -20,9 +20,9 @@
 17	a	_	Word	Word	_	18	E	18:E	_
 18	substantial	_	Word	Word	_	19	D	19:D	_
 19	success	_	Word	Word	_	4	H	4:H	_
-20	in	_	Word	Word	_	23	R	23:R	_
-21	its	_	Word	Word	_	23	E	23:E	_
-22	own	_	Word	Word	_	23	E	23:E	_
-23	right	_	Word	Word	_	19	A	19:A	_
-24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+20	in	_	Word	Word	_	19	D	19:D	_
+21	its	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	own	_	Word	Word	_	20	Terminal	20:Terminal	_
+23	right	_	Word	Word	_	20	Terminal	20:Terminal	_
+24	.	_	Punctuation	Punctuation	_	19	U	19:U	_
 

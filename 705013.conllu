@@ -1,15 +1,11 @@
 # format = ucca
 # sent_id = 705013
-# text = They say , " Bob Dylan 's no prophet . "
-1	They	_	Word	Word	_	2	A	2:A	_
-2	say	_	Word	Word	_	0	H	0:H	_
-3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
-4	"	_	Punctuation	Punctuation	_	2	U	2:U	_
-5	Bob	_	Word	Word	_	7	A	7:A	_
-6	Dylan	_	Word	Word	_	5	Terminal	5:Terminal	_
-7	's	_	Word	Word	_	2	A	2:A	_
-8	no	_	Word	Word	_	7	D	7:D	_
-9	prophet	_	Word	Word	_	7	A	7:A	_
-10	.	_	Punctuation	Punctuation	_	7	U	7:U	_
-11	"	_	Punctuation	Punctuation	_	7	U	7:U	_
+# text = They just ca n't handle it .
+1	They	_	Word	Word	_	5	A	5:A	_
+2	just	_	Word	Word	_	5	D	5:D	_
+3	ca	_	Word	Word	_	5	D	5:D	_
+4	n't	_	Word	Word	_	5	D	5:D	_
+5	handle	_	Word	Word	_	0	H	0:H	_
+6	it	_	Word	Word	_	5	A	5:A	_
+7	.	_	Punctuation	Punctuation	_	5	U	5:U	_
 

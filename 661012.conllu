@@ -1,26 +1,26 @@
 # format = ucca
 # sent_id = 661012
 # text = The show 's purpose was to present name artists , and feature them " unplugged " or stripped of studio equipment .
-1	The	_	Word	Word	_	4	E	4:E	_
+1	The	_	Word	Word	_	7	F	7:F	_
 2	show	_	Word	Word	_	0	C	0:C|12:A	_
 3	's	_	Word	Word	_	2	R	2:R	_
-4	purpose	_	Word	Word	_	7	A	7:A	_
+4	purpose	_	Word	Word	_	7	D	7:D|12:D	_
 5	was	_	Word	Word	_	7	F	7:F	_
 6	to	_	Word	Word	_	7	F	7:F	_
 7	present	_	Word	Word	_	0	H	0:H	_
 8	name	_	Word	Word	_	9	E	9:E	_
-9	artists	_	Word	Word	_	7	A	7:A	_
+9	artists	_	Word	Word	_	0	A	0:A|8:A	_
 10	,	_	Punctuation	Punctuation	_	7	U	7:U	_
 11	and	_	Word	Word	_	12	L	12:L	_
 12	feature	_	Word	Word	_	7	H	7:H	_
-13	them	_	Word	Word	_	12	A	12:A	_
+13	them	_	Word	Word	_	12	A	12:A|15:A	_
 14	"	_	Punctuation	Punctuation	_	12	U	12:U	_
 15	unplugged	_	Word	Word	_	12	A	12:A	_
 16	"	_	Punctuation	Punctuation	_	15	U	15:U	_
-17	or	_	Word	Word	_	15	N	15:N	_
-18	stripped	_	Word	Word	_	15	C	15:C	_
-19	of	_	Word	Word	_	18	R	18:R	_
+17	or	_	Word	Word	_	18	R	18:R	_
+18	stripped	_	Word	Word	_	15	E	15:E	_
+19	of	_	Word	Word	_	21	R	21:R	_
 20	studio	_	Word	Word	_	21	E	21:E	_
-21	equipment	_	Word	Word	_	18	A	18:A	_
+21	equipment	_	Word	Word	_	18	E	18:E	_
 22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
 

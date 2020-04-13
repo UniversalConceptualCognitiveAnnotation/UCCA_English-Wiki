@@ -1,34 +1,34 @@
 # format = ucca
 # sent_id = 206004
 # text = In 1960 , Hoffman was cast in a role in an Off - Broadway production and followed with a walk - on role in a Broadway production in 1961 .
-1	In	_	Word	Word	_	2	E	2:E	_
-2	1960	_	Word	Word	_	6	D	6:D	_
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1960	_	Word	Word	_	6	T	6:T	_
 3	,	_	Punctuation	Punctuation	_	6	U	6:U	_
-4	Hoffman	_	Word	Word	_	6	A	6:A|17:A	_
+4	Hoffman	_	Word	Word	_	6	A	6:A|23:A	_
 5	was	_	Word	Word	_	6	F	6:F	_
 6	cast	_	Word	Word	_	0	H	0:H	_
 7	in	_	Word	Word	_	9	R	9:R	_
-8	a	_	Word	Word	_	9	E	9:E	_
+8	a	_	Word	Word	_	9	F	9:F	_
 9	role	_	Word	Word	_	6	A	6:A	_
 10	in	_	Word	Word	_	15	R	15:R	_
-11	an	_	Word	Word	_	15	E	15:E	_
-12	Off	_	Word	Word	_	15	E	15:E	_
+11	an	_	Word	Word	_	15	F	15:F	_
+12	Off	_	Word	Word	_	15	A	15:A	_
 13	-	_	Punctuation	Punctuation	_	12	U	12:U	_
 14	Broadway	_	Word	Word	_	12	Terminal	12:Terminal	_
-15	production	_	Word	Word	_	9	E	9:E	_
-16	and	_	Word	Word	_	17	L	17:L	_
-17	followed	_	Word	Word	_	6	H	6:H	_
+15	production	_	Word	Word	_	6	A	6:A	_
+16	and	_	Word	Word	_	23	L	23:L	_
+17	followed	_	Word	Word	_	23	D	23:D	_
 18	with	_	Word	Word	_	23	R	23:R	_
-19	a	_	Word	Word	_	23	E	23:E	_
-20	walk	_	Word	Word	_	23	E	23:E	_
+19	a	_	Word	Word	_	23	F	23:F	_
+20	walk	_	Word	Word	_	23	D	23:D	_
 21	-	_	Punctuation	Punctuation	_	20	U	20:U	_
 22	on	_	Word	Word	_	20	Terminal	20:Terminal	_
-23	role	_	Word	Word	_	17	A	17:A	_
+23	role	_	Word	Word	_	6	H	6:H	_
 24	in	_	Word	Word	_	27	R	27:R	_
-25	a	_	Word	Word	_	27	E	27:E	_
-26	Broadway	_	Word	Word	_	27	E	27:E	_
-27	production	_	Word	Word	_	23	E	23:E	_
+25	a	_	Word	Word	_	27	F	27:F	_
+26	Broadway	_	Word	Word	_	27	A	27:A	_
+27	production	_	Word	Word	_	23	A	23:A	_
 28	in	_	Word	Word	_	29	R	29:R	_
-29	1961	_	Word	Word	_	17	D	17:D	_
+29	1961	_	Word	Word	_	23	T	23:T	_
 30	.	_	Punctuation	Punctuation	_	29	U	29:U	_
 

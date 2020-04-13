@@ -3,12 +3,12 @@
 # text = Known for her headstrong independence and spirited personality , Hepburn 's career as a Hollywood leading lady spanned more than 60 years .
 1	Known	_	Word	Word	_	0	H	0:H	_
 2	for	_	Word	Word	_	5	R	5:R	_
-3	her	_	Word	Word	_	5	E	5:E	_
-4	headstrong	_	Word	Word	_	5	E	5:E	_
+3	her	_	Word	Word	_	5	A	5:A|8:A	_
+4	headstrong	_	Word	Word	_	5	D	5:D	_
 5	independence	_	Word	Word	_	1	A	1:A	_
-6	and	_	Word	Word	_	5	N	5:N	_
-7	spirited	_	Word	Word	_	8	E	8:E	_
-8	personality	_	Word	Word	_	5	C	5:C	_
+6	and	_	Word	Word	_	8	L	8:L	_
+7	spirited	_	Word	Word	_	8	D	8:D	_
+8	personality	_	Word	Word	_	5	H	5:H	_
 9	,	_	Punctuation	Punctuation	_	1	U	1:U	_
 10	Hepburn	_	Word	Word	_	12	A	12:A	_
 11	's	_	Word	Word	_	10	R	10:R	_
@@ -19,9 +19,9 @@
 16	leading	_	Word	Word	_	17	E	17:E	_
 17	lady	_	Word	Word	_	12	A	12:A	_
 18	spanned	_	Word	Word	_	1	H	1:H	_
-19	more	_	Word	Word	_	22	R	22:R	_
-20	than	_	Word	Word	_	22	F	22:F	_
-21	60	_	Word	Word	_	22	E	22:E	_
-22	years	_	Word	Word	_	18	D	18:D	_
+19	more	_	Word	Word	_	22	E	22:E	_
+20	than	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	60	_	Word	Word	_	22	Q	22:Q	_
+22	years	_	Word	Word	_	18	T	18:T	_
 23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
 

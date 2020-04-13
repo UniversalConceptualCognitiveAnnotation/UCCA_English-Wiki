@@ -2,26 +2,26 @@
 # sent_id = 133010
 # text = Critics were unenthusiastic about the production but with Hepburn 's popularity at a high it ran for 16 sold - out weeks .
 1	Critics	_	Word	Word	_	3	A	3:A	_
-2	were	_	Word	Word	_	3	D	3:D	_
+2	were	_	Word	Word	_	3	F	3:F	_
 3	unenthusiastic	_	Word	Word	_	0	H	0:H	_
 4	about	_	Word	Word	_	6	R	6:R	_
 5	the	_	Word	Word	_	6	E	6:E	_
 6	production	_	Word	Word	_	3	A	3:A	_
 7	but	_	Word	Word	_	16	L	16:L	_
-8	with	_	Word	Word	_	14	R	14:R	_
+8	with	_	Word	Word	_	11	R	11:R	_
 9	Hepburn	_	Word	Word	_	11	A	11:A	_
 10	's	_	Word	Word	_	9	R	9:R	_
-11	popularity	_	Word	Word	_	14	A	14:A	_
+11	popularity	_	Word	Word	_	16	A	16:A	_
 12	at	_	Word	Word	_	14	F	14:F	_
 13	a	_	Word	Word	_	14	E	14:E	_
-14	high	_	Word	Word	_	16	A	16:A	_
+14	high	_	Word	Word	_	11	D	11:D	_
 15	it	_	Word	Word	_	16	A	16:A	_
 16	ran	_	Word	Word	_	3	H	3:H	_
 17	for	_	Word	Word	_	22	R	22:R	_
-18	16	_	Word	Word	_	22	E	22:E	_
-19	sold	_	Word	Word	_	22	E	22:E	_
+18	16	_	Word	Word	_	22	Q	22:Q	_
+19	sold	_	Word	Word	_	16	D	16:D	_
 20	-	_	Punctuation	Punctuation	_	19	U	19:U	_
 21	out	_	Word	Word	_	19	Terminal	19:Terminal	_
-22	weeks	_	Word	Word	_	16	D	16:D	_
+22	weeks	_	Word	Word	_	16	T	16:T	_
 23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
 

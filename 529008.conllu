@@ -3,10 +3,10 @@
 # text = Garland engaged Sid Luft as her manager the same year she divorced Minnelli .
 1	Garland	_	Word	Word	_	2	A	2:A	_
 2	engaged	_	Word	Word	_	0	H	0:H	_
-3	Sid	_	Word	Word	_	2	A	2:A	_
+3	Sid	_	Word	Word	_	2	A	2:A|7:A	_
 4	Luft	_	Word	Word	_	3	Terminal	3:Terminal	_
 5	as	_	Word	Word	_	7	R	7:R	_
-6	her	_	Word	Word	_	7	E	7:E	_
+6	her	_	Word	Word	_	7	A	7:A	_
 7	manager	_	Word	Word	_	2	A	2:A	_
 8	the	_	Word	Word	_	10	E	10:E	_
 9	same	_	Word	Word	_	10	E	10:E	_

@@ -1,29 +1,20 @@
 # format = ucca
 # sent_id = 219011
-# text = Dunst is due to appear in Juan Diego Solanas ' science fiction - romance film Upside Down co - co - starring Jim Sturgess .
+# text = Dunst has also recently filmed the short film The Second Bakery Attack with Brian Geraghty .
 1	Dunst	_	Word	Word	_	5	A	5:A	_
-2	is	_	Word	Word	_	5	F	5:F	_
-3	due	_	Word	Word	_	5	D	5:D	_
-4	to	_	Word	Word	_	5	F	5:F	_
-5	appear	_	Word	Word	_	0	H	0:H	_
-6	in	_	Word	Word	_	16	R	16:R	_
-7	Juan	_	Word	Word	_	16	E	16:E	_
-8	Diego	_	Word	Word	_	7	Terminal	7:Terminal	_
-9	Solanas	_	Word	Word	_	7	Terminal	7:Terminal	_
-10	'	_	Punctuation	Punctuation	_	16	U	16:U	_
-11	science	_	Word	Word	_	15	E	15:E	_
-12	fiction	_	Word	Word	_	14	E	14:E	_
-13	-	_	Punctuation	Punctuation	_	14	U	14:U	_
-14	romance	_	Word	Word	_	15	E	15:E	_
-15	film	_	Word	Word	_	16	E	16:E	_
-16	Upside	_	Word	Word	_	5	A	5:A	_
-17	Down	_	Word	Word	_	16	Terminal	16:Terminal	_
-18	co	_	Word	Word	_	22	F	22:F	_
-19	-	_	Punctuation	Punctuation	_	22	U	22:U	_
-20	co	_	Word	Word	_	22	E	22:E	_
-21	-	_	Punctuation	Punctuation	_	22	U	22:U	_
-22	starring	_	Word	Word	_	16	E	16:E	_
-23	Jim	_	Word	Word	_	22	A	22:A	_
-24	Sturgess	_	Word	Word	_	23	Terminal	23:Terminal	_
-25	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+2	has	_	Word	Word	_	5	F	5:F	_
+3	also	_	Word	Word	_	5	D	5:D	_
+4	recently	_	Word	Word	_	5	T	5:T	_
+5	filmed	_	Word	Word	_	0	H	0:H	_
+6	the	_	Word	Word	_	8	F	8:F	_
+7	short	_	Word	Word	_	8	E	8:E	_
+8	film	_	Word	Word	_	9	E	9:E	_
+9	The	_	Word	Word	_	5	A	5:A	_
+10	Second	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	Bakery	_	Word	Word	_	9	Terminal	9:Terminal	_
+12	Attack	_	Word	Word	_	9	Terminal	9:Terminal	_
+13	with	_	Word	Word	_	14	R	14:R	_
+14	Brian	_	Word	Word	_	5	A	5:A	_
+15	Geraghty	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	.	_	Punctuation	Punctuation	_	14	U	14:U	_
 

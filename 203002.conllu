@@ -1,13 +1,13 @@
 # format = ucca
 # sent_id = 203002
 # text = Sorkin and Bingham have one daughter , Roxy .
-1	Sorkin	_	Word	Word	_	4	A	4:A	_
+1	Sorkin	_	Word	Word	_	6	A	6:A	_
 2	and	_	Word	Word	_	1	N	1:N	_
 3	Bingham	_	Word	Word	_	1	C	1:C	_
-4	have	_	Word	Word	_	0	H	0:H	_
-5	one	_	Word	Word	_	6	E	6:E	_
-6	daughter	_	Word	Word	_	8	E	8:E	_
-7	,	_	Punctuation	Punctuation	_	8	U	8:U	_
-8	Roxy	_	Word	Word	_	4	A	4:A	_
-9	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+4	have	_	Word	Word	_	6	F	6:F	_
+5	one	_	Word	Word	_	6	D	6:D	_
+6	daughter	_	Word	Word	_	0	H	0:H	_
+7	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	Roxy	_	Word	Word	_	6	A	6:A	_
+9	.	_	Punctuation	Punctuation	_	6	U	6:U	_
 

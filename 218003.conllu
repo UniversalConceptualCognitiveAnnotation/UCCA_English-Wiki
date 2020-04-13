@@ -1,30 +1,30 @@
 # format = ucca
 # sent_id = 218003
 # text = The movie garnered mixed reviews , with the Chicago Tribune rating it one out of four stars and describing Dunst 's portrayal of a flight attendant as " cloying . "
-1	The	_	Word	Word	_	2	E	2:E	_
-2	movie	_	Word	Word	_	3	A	3:A	_
-3	garnered	_	Word	Word	_	0	H	0:H	_
-4	mixed	_	Word	Word	_	5	E	5:E	_
-5	reviews	_	Word	Word	_	3	A	3:A	_
-6	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+1	The	_	Word	Word	_	2	F	2:F	_
+2	movie	_	Word	Word	_	5	A	5:A	_
+3	garnered	_	Word	Word	_	5	F	5:F	_
+4	mixed	_	Word	Word	_	5	D	5:D	_
+5	reviews	_	Word	Word	_	0	H	0:H	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 7	with	_	Word	Word	_	11	L	11:L	_
-8	the	_	Word	Word	_	9	E	9:E	_
+8	the	_	Word	Word	_	9	F	9:F	_
 9	Chicago	_	Word	Word	_	11	A	11:A	_
 10	Tribune	_	Word	Word	_	9	Terminal	9:Terminal	_
-11	rating	_	Word	Word	_	3	H	3:H	_
+11	rating	_	Word	Word	_	5	H	5:H	_
 12	it	_	Word	Word	_	11	A	11:A	_
-13	one	_	Word	Word	_	11	A	11:A	_
-14	out	_	Word	Word	_	17	E	17:E	_
-15	of	_	Word	Word	_	17	R	17:R	_
-16	four	_	Word	Word	_	17	E	17:E	_
-17	stars	_	Word	Word	_	13	E	13:E	_
+13	one	_	Word	Word	_	17	Q	17:Q	_
+14	out	_	Word	Word	_	16	R	16:R	_
+15	of	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	four	_	Word	Word	_	13	E	13:E	_
+17	stars	_	Word	Word	_	11	A	11:A	_
 18	and	_	Word	Word	_	19	L	19:L	_
-19	describing	_	Word	Word	_	3	H	3:H	_
+19	describing	_	Word	Word	_	5	H	5:H	_
 20	Dunst	_	Word	Word	_	22	A	22:A	_
 21	's	_	Word	Word	_	20	R	20:R	_
 22	portrayal	_	Word	Word	_	19	A	19:A	_
 23	of	_	Word	Word	_	26	R	26:R	_
-24	a	_	Word	Word	_	26	E	26:E	_
+24	a	_	Word	Word	_	26	F	26:F	_
 25	flight	_	Word	Word	_	26	E	26:E	_
 26	attendant	_	Word	Word	_	22	A	22:A	_
 27	as	_	Word	Word	_	29	R	29:R	_

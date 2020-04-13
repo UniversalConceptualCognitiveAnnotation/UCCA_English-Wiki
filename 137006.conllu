@@ -1,27 +1,27 @@
 # format = ucca
 # sent_id = 137006
 # text = Pat and Mike was the last film Hepburn completed on her MGM contract , making her free to select her own projects .
-1	Pat	_	Word	Word	_	4	A	4:A	_
+1	Pat	_	Word	Word	_	6	A	6:A	_
 2	and	_	Word	Word	_	1	Terminal	1:Terminal	_
 3	Mike	_	Word	Word	_	1	Terminal	1:Terminal	_
-4	was	_	Word	Word	_	0	H	0:H	_
-5	the	_	Word	Word	_	7	F	7:F	_
-6	last	_	Word	Word	_	7	E	7:E	_
-7	film	_	Word	Word	_	4	A	4:A	_
+4	was	_	Word	Word	_	6	F	6:F	_
+5	the	_	Word	Word	_	7	E	7:E	_
+6	last	_	Word	Word	_	0	H	0:H	_
+7	film	_	Word	Word	_	6	A	6:A	_
 8	Hepburn	_	Word	Word	_	9	A	9:A	_
-9	completed	_	Word	Word	_	7	E	7:E	_
+9	completed	_	Word	Word	_	6	A	6:A	_
 10	on	_	Word	Word	_	13	R	13:R	_
 11	her	_	Word	Word	_	13	E	13:E	_
 12	MGM	_	Word	Word	_	13	E	13:E	_
 13	contract	_	Word	Word	_	9	A	9:A	_
-14	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+14	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 15	making	_	Word	Word	_	17	D	17:D	_
 16	her	_	Word	Word	_	17	A	17:A|19:A	_
-17	free	_	Word	Word	_	4	H	4:H	_
+17	free	_	Word	Word	_	6	H	6:H	_
 18	to	_	Word	Word	_	19	F	19:F	_
 19	select	_	Word	Word	_	17	A	17:A	_
-20	her	_	Word	Word	_	22	E	22:E	_
-21	own	_	Word	Word	_	22	E	22:E	_
-22	projects	_	Word	Word	_	19	A	19:A	_
-23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+20	her	_	Word	Word	_	21	A	21:A	_
+21	own	_	Word	Word	_	19	A	19:A	_
+22	projects	_	Word	Word	_	21	A	21:A	_
+23	.	_	Punctuation	Punctuation	_	21	U	21:U	_
 

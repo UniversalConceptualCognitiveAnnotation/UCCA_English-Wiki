@@ -7,10 +7,10 @@
 4	to	_	Word	Word	_	5	F	5:F	_
 5	report	_	Word	Word	_	0	H	0:H	_
 6	to	_	Word	Word	_	8	R	8:R	_
-7	the	_	Word	Word	_	8	E	8:E	_
+7	the	_	Word	Word	_	8	F	8:F	_
 8	set	_	Word	Word	_	5	A	5:A	_
 9	on	_	Word	Word	_	11	R	11:R	_
-10	multiple	_	Word	Word	_	11	E	11:E	_
+10	multiple	_	Word	Word	_	11	Q	11:Q	_
 11	occasions	_	Word	Word	_	5	D	5:D	_
 12	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 13	and	_	Word	Word	_	16	L	16:L	_
@@ -20,9 +20,9 @@
 17	her	_	Word	Word	_	18	E	18:E	_
 18	contract	_	Word	Word	_	16	A	16:A	_
 19	on	_	Word	Word	_	20	R	20:R	_
-20	June	_	Word	Word	_	16	D	16:D	_
-21	17	_	Word	Word	_	20	Terminal	20:Terminal	_
+20	June	_	Word	Word	_	16	T	16:T	_
+21	17	_	Word	Word	_	20	C	20:C	_
 22	,	_	Punctuation	Punctuation	_	20	U	20:U	_
-23	1950	_	Word	Word	_	20	Terminal	20:Terminal	_
+23	1950	_	Word	Word	_	20	C	20:C	_
 24	.	_	Punctuation	Punctuation	_	20	U	20:U	_
 

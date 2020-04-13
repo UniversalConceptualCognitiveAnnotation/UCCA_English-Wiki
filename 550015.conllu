@@ -2,14 +2,14 @@
 # sent_id = 550015
 # text = In a note to author Dean Jennings , who assisted Warner on his 1964 autobiography , My First Hundred Years in Hollywood , Ann Warner wrote : " He is extremely sensitive , but there are few who know that because he covers it with a cloak . "
 1	In	_	Word	Word	_	3	R	3:R	_
-2	a	_	Word	Word	_	3	E	3:E	_
+2	a	_	Word	Word	_	3	F	3:F	_
 3	note	_	Word	Word	_	26	A	26:A	_
 4	to	_	Word	Word	_	6	R	6:R	_
 5	author	_	Word	Word	_	6	E	6:E	_
 6	Dean	_	Word	Word	_	3	E	3:E	_
 7	Jennings	_	Word	Word	_	6	Terminal	6:Terminal	_
 8	,	_	Punctuation	Punctuation	_	6	U	6:U	_
-9	who	_	Word	Word	_	10	F	10:F	_
+9	who	_	Word	Word	_	10	R	10:R	_
 10	assisted	_	Word	Word	_	6	E	6:E	_
 11	Warner	_	Word	Word	_	10	A	10:A	_
 12	on	_	Word	Word	_	17	R	17:R	_
@@ -38,7 +38,7 @@
 35	there	_	Word	Word	_	36	F	36:F	_
 36	are	_	Word	Word	_	32	H	32:H	_
 37	few	_	Word	Word	_	36	A	36:A	_
-38	who	_	Word	Word	_	39	F	39:F	_
+38	who	_	Word	Word	_	39	R	39:R	_
 39	know	_	Word	Word	_	37	E	37:E	_
 40	that	_	Word	Word	_	39	A	39:A	_
 41	because	_	Word	Word	_	43	L	43:L	_
@@ -46,7 +46,7 @@
 43	covers	_	Word	Word	_	32	H	32:H	_
 44	it	_	Word	Word	_	43	A	43:A	_
 45	with	_	Word	Word	_	47	R	47:R	_
-46	a	_	Word	Word	_	47	E	47:E	_
+46	a	_	Word	Word	_	47	F	47:F	_
 47	cloak	_	Word	Word	_	43	A	43:A	_
 48	.	_	Punctuation	Punctuation	_	47	U	47:U	_
 49	"	_	Punctuation	Punctuation	_	47	U	47:U	_

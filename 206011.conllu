@@ -1,31 +1,31 @@
 # format = ucca
 # sent_id = 206011
 # text = The $ 1,000 he received for the eight - week contract was all he had to hold him over until the funds from the movie materialized .
-1	The	_	Word	Word	_	2	E	2:E	_
-2	$	_	Word	Word	_	15	A	15:A	_
-3	1,000	_	Word	Word	_	2	Terminal	2:Terminal	_
+1	The	_	Word	Word	_	2	F	2:F	_
+2	$	_	Word	Word	_	12	A	12:A	_
+3	1,000	_	Word	Word	_	2	Q	2:Q	_
 4	he	_	Word	Word	_	5	A	5:A	_
 5	received	_	Word	Word	_	2	E	2:E	_
 6	for	_	Word	Word	_	11	R	11:R	_
-7	the	_	Word	Word	_	11	E	11:E	_
-8	eight	_	Word	Word	_	10	E	10:E	_
+7	the	_	Word	Word	_	11	F	11:F	_
+8	eight	_	Word	Word	_	10	Q	10:Q	_
 9	-	_	Punctuation	Punctuation	_	10	U	10:U	_
 10	week	_	Word	Word	_	11	E	11:E	_
 11	contract	_	Word	Word	_	5	A	5:A	_
-12	was	_	Word	Word	_	15	F	15:F	_
+12	was	_	Word	Word	_	0	H	0:H	_
 13	all	_	Word	Word	_	15	D	15:D	_
 14	he	_	Word	Word	_	15	A	15:A	_
-15	had	_	Word	Word	_	0	H	0:H	_
+15	had	_	Word	Word	_	12	A	12:A	_
 16	to	_	Word	Word	_	17	L	17:L	_
 17	hold	_	Word	Word	_	15	H	15:H	_
 18	him	_	Word	Word	_	17	A	17:A	_
 19	over	_	Word	Word	_	17	Terminal	17:Terminal	_
 20	until	_	Word	Word	_	26	L	26:L	_
-21	the	_	Word	Word	_	22	E	22:E	_
+21	the	_	Word	Word	_	22	F	22:F	_
 22	funds	_	Word	Word	_	26	A	26:A	_
 23	from	_	Word	Word	_	25	R	25:R	_
-24	the	_	Word	Word	_	25	E	25:E	_
+24	the	_	Word	Word	_	25	F	25:F	_
 25	movie	_	Word	Word	_	22	E	22:E	_
-26	materialized	_	Word	Word	_	15	H	15:H	_
+26	materialized	_	Word	Word	_	12	H	12:H	_
 27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
 

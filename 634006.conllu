@@ -1,18 +1,20 @@
 # format = ucca
 # sent_id = 634006
-# text = The Beatles achieved mainstream success in the UK during the beginning of 1963 .
-1	The	_	Word	Word	_	2	E	2:E	_
-2	Beatles	_	Word	Word	_	5	A	5:A	_
-3	achieved	_	Word	Word	_	5	D	5:D	_
-4	mainstream	_	Word	Word	_	5	A	5:A	_
-5	success	_	Word	Word	_	0	H	0:H	_
-6	in	_	Word	Word	_	8	R	8:R	_
-7	the	_	Word	Word	_	8	E	8:E	_
-8	UK	_	Word	Word	_	5	A	5:A	_
-9	during	_	Word	Word	_	13	R	13:R	_
-10	the	_	Word	Word	_	13	E	13:E	_
-11	beginning	_	Word	Word	_	13	E	13:E	_
-12	of	_	Word	Word	_	13	R	13:R	_
-13	1963	_	Word	Word	_	5	D	5:D	_
-14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+# text = Lennon was on tour when his first son , Julian , was born in April .
+1	Lennon	_	Word	Word	_	4	A	4:A	_
+2	was	_	Word	Word	_	4	F	4:F	_
+3	on	_	Word	Word	_	4	R	4:R	_
+4	tour	_	Word	Word	_	0	H	0:H	_
+5	when	_	Word	Word	_	13	L	13:L	_
+6	his	_	Word	Word	_	8	E	8:E	_
+7	first	_	Word	Word	_	8	E	8:E	_
+8	son	_	Word	Word	_	13	A	13:A	_
+9	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+10	Julian	_	Word	Word	_	8	C	8:C	_
+11	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+12	was	_	Word	Word	_	13	F	13:F	_
+13	born	_	Word	Word	_	4	H	4:H	_
+14	in	_	Word	Word	_	15	R	15:R	_
+15	April	_	Word	Word	_	13	T	13:T	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
 

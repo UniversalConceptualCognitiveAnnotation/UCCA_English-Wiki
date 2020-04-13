@@ -1,25 +1,25 @@
 # format = ucca
 # sent_id = 139000
 # text = Hepburn returned to Stratford in the summer of 1960 to play Viola in Twelfth Night and Cleopatra in Antony and Cleopatra .
-1	Hepburn	_	Word	Word	_	2	A	2:A|11:A	_
+1	Hepburn	_	Word	Word	_	2	A	2:A|11:A|17:A	_
 2	returned	_	Word	Word	_	0	H	0:H	_
 3	to	_	Word	Word	_	4	R	4:R	_
 4	Stratford	_	Word	Word	_	2	A	2:A	_
 5	in	_	Word	Word	_	7	R	7:R	_
 6	the	_	Word	Word	_	7	E	7:E	_
-7	summer	_	Word	Word	_	2	D	2:D	_
+7	summer	_	Word	Word	_	2	T	2:T	_
 8	of	_	Word	Word	_	9	R	9:R	_
-9	1960	_	Word	Word	_	7	E	7:E	_
-10	to	_	Word	Word	_	11	F	11:F	_
+9	1960	_	Word	Word	_	7	C	7:C	_
+10	to	_	Word	Word	_	11	L	11:L	_
 11	play	_	Word	Word	_	2	H	2:H	_
 12	Viola	_	Word	Word	_	11	A	11:A	_
 13	in	_	Word	Word	_	14	R	14:R	_
-14	Twelfth	_	Word	Word	_	12	E	12:E	_
+14	Twelfth	_	Word	Word	_	11	A	11:A	_
 15	Night	_	Word	Word	_	14	Terminal	14:Terminal	_
-16	and	_	Word	Word	_	12	N	12:N	_
-17	Cleopatra	_	Word	Word	_	12	C	12:C	_
+16	and	_	Word	Word	_	17	L	17:L	_
+17	Cleopatra	_	Word	Word	_	2	H	2:H	_
 18	in	_	Word	Word	_	19	R	19:R	_
-19	Antony	_	Word	Word	_	17	E	17:E	_
+19	Antony	_	Word	Word	_	17	A	17:A	_
 20	and	_	Word	Word	_	19	Terminal	19:Terminal	_
 21	Cleopatra	_	Word	Word	_	19	Terminal	19:Terminal	_
 22	.	_	Punctuation	Punctuation	_	19	U	19:U	_

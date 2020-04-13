@@ -1,16 +1,16 @@
 # format = ucca
 # sent_id = 131006
-# text = Reflecting on this change in fortunes , Andrew Britton writes of Hepburn , " No other star has emerged with greater rapidity or with more ecstatic acclaim .
-1	Reflecting	_	Word	Word	_	0	H	0:H	_
+# text = Reflecting on this change in fortunes , Andrew Britton writes of Hepburn , " No other star has emerged with greater rapidity or with more ecstatic acclaim . No other star , either , has become so unpopular so quickly for so long a time . "
+1	Reflecting	_	Word	Word	_	8	E	8:E	_
 2	on	_	Word	Word	_	4	R	4:R	_
-3	this	_	Word	Word	_	4	F	4:F	_
+3	this	_	Word	Word	_	4	E	4:E	_
 4	change	_	Word	Word	_	1	A	1:A	_
-5	in	_	Word	Word	_	6	F	6:F	_
+5	in	_	Word	Word	_	6	R	6:R	_
 6	fortunes	_	Word	Word	_	4	A	4:A	_
 7	,	_	Punctuation	Punctuation	_	1	U	1:U	_
-8	Andrew	_	Word	Word	_	10	A	10:A|1:A	_
+8	Andrew	_	Word	Word	_	10	A	10:A	_
 9	Britton	_	Word	Word	_	8	Terminal	8:Terminal	_
-10	writes	_	Word	Word	_	1	H	1:H	_
+10	writes	_	Word	Word	_	0	H	0:H	_
 11	of	_	Word	Word	_	12	R	12:R	_
 12	Hepburn	_	Word	Word	_	10	A	10:A	_
 13	,	_	Punctuation	Punctuation	_	10	U	10:U	_
@@ -24,9 +24,28 @@
 21	greater	_	Word	Word	_	22	E	22:E	_
 22	rapidity	_	Word	Word	_	19	D	19:D	_
 23	or	_	Word	Word	_	22	N	22:N	_
-24	with	_	Word	Word	_	27	E	27:E	_
+24	with	_	Word	Word	_	27	R	27:R	_
 25	more	_	Word	Word	_	26	E	26:E	_
 26	ecstatic	_	Word	Word	_	27	E	27:E	_
 27	acclaim	_	Word	Word	_	22	C	22:C	_
-28	.	_	Punctuation	Punctuation	_	27	U	27:U	_
+28	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+29	No	_	Word	Word	_	31	E	31:E	_
+30	other	_	Word	Word	_	31	E	31:E	_
+31	star	_	Word	Word	_	38	A	38:A	_
+32	,	_	Punctuation	Punctuation	_	38	U	38:U	_
+33	either	_	Word	Word	_	38	D	38:D	_
+34	,	_	Punctuation	Punctuation	_	38	U	38:U	_
+35	has	_	Word	Word	_	38	F	38:F	_
+36	become	_	Word	Word	_	38	D	38:D	_
+37	so	_	Word	Word	_	38	D	38:D	_
+38	unpopular	_	Word	Word	_	19	H	19:H	_
+39	so	_	Word	Word	_	40	R	40:R	_
+40	quickly	_	Word	Word	_	38	D	38:D	_
+41	for	_	Word	Word	_	45	R	45:R	_
+42	so	_	Word	Word	_	45	E	45:E	_
+43	long	_	Word	Word	_	45	E	45:E	_
+44	a	_	Word	Word	_	45	E	45:E	_
+45	time	_	Word	Word	_	38	T	38:T	_
+46	.	_	Punctuation	Punctuation	_	45	U	45:U	_
+47	"	_	Punctuation	Punctuation	_	45	U	45:U	_
 

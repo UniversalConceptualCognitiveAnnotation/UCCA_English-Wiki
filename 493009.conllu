@@ -2,20 +2,20 @@
 # sent_id = 493009
 # text = In 1953 the family moved to the suburb of Bromley , where , two years later , Bowie progressed to Burnt Ash Junior School .
 1	In	_	Word	Word	_	2	R	2:R	_
-2	1953	_	Word	Word	_	5	D	5:D	_
+2	1953	_	Word	Word	_	5	T	5:T	_
 3	the	_	Word	Word	_	4	E	4:E	_
 4	family	_	Word	Word	_	5	A	5:A	_
 5	moved	_	Word	Word	_	0	H	0:H	_
 6	to	_	Word	Word	_	10	R	10:R	_
-7	the	_	Word	Word	_	8	E	8:E	_
+7	the	_	Word	Word	_	10	E	10:E	_
 8	suburb	_	Word	Word	_	10	E	10:E	_
-9	of	_	Word	Word	_	8	R	8:R	_
+9	of	_	Word	Word	_	10	R	10:R	_
 10	Bromley	_	Word	Word	_	5	A	5:A	_
 11	,	_	Punctuation	Punctuation	_	10	U	10:U	_
-12	where	_	Word	Word	_	19	F	19:F	_
+12	where	_	Word	Word	_	19	R	19:R	_
 13	,	_	Punctuation	Punctuation	_	19	U	19:U	_
-14	two	_	Word	Word	_	15	E	15:E	_
-15	years	_	Word	Word	_	19	D	19:D	_
+14	two	_	Word	Word	_	15	Q	15:Q	_
+15	years	_	Word	Word	_	19	T	19:T	_
 16	later	_	Word	Word	_	15	R	15:R	_
 17	,	_	Punctuation	Punctuation	_	19	U	19:U	_
 18	Bowie	_	Word	Word	_	19	A	19:A	_

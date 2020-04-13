@@ -1,11 +1,11 @@
 # format = ucca
 # sent_id = 125014
 # text = Biographer Charles Higham states that the play was ideal for the actress , requiring an aggressive energy and athleticism , and she enthusiastically involved herself with its production .
-1	Biographer	_	Word	Word	_	2	E	2:E	_
-2	Charles	_	Word	Word	_	4	A	4:A	_
+1	Biographer	_	Word	Word	_	4	A	4:A	_
+2	Charles	_	Word	Word	_	1	A	1:A	_
 3	Higham	_	Word	Word	_	2	Terminal	2:Terminal	_
 4	states	_	Word	Word	_	0	H	0:H	_
-5	that	_	Word	Word	_	9	F	9:F	_
+5	that	_	Word	Word	_	9	R	9:R	_
 6	the	_	Word	Word	_	7	E	7:E	_
 7	play	_	Word	Word	_	0	C	0:C|14:A	_
 8	was	_	Word	Word	_	9	F	9:F	_
@@ -25,7 +25,7 @@
 22	she	_	Word	Word	_	24	A	24:A	_
 23	enthusiastically	_	Word	Word	_	24	D	24:D	_
 24	involved	_	Word	Word	_	9	H	9:H	_
-25	herself	_	Word	Word	_	24	D	24:D	_
+25	herself	_	Word	Word	_	24	A	24:A	_
 26	with	_	Word	Word	_	28	R	28:R	_
 27	its	_	Word	Word	_	28	A	28:A	_
 28	production	_	Word	Word	_	24	A	24:A	_

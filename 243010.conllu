@@ -1,31 +1,28 @@
 # format = ucca
 # sent_id = 243010
-# text = Hawke was born in Austin , Texas , to Leslie ( née Green ) , a charity worker , and James Hawke , an insurance actuary .
-1	Hawke	_	Word	Word	_	3	A	3:A	_
-2	was	_	Word	Word	_	3	F	3:F	_
-3	born	_	Word	Word	_	0	H	0:H	_
-4	in	_	Word	Word	_	5	R	5:R	_
-5	Austin	_	Word	Word	_	3	A	3:A	_
-6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
-7	Texas	_	Word	Word	_	5	Terminal	5:Terminal	_
-8	,	_	Punctuation	Punctuation	_	3	U	3:U	_
-9	to	_	Word	Word	_	10	R	10:R	_
-10	Leslie	_	Word	Word	_	3	A	3:A	_
-11	(	_	Punctuation	Punctuation	_	10	U	10:U	_
-12	née	_	Word	Word	_	13	R	13:R	_
-13	Green	_	Word	Word	_	10	E	10:E	_
-14	)	_	Punctuation	Punctuation	_	10	U	10:U	_
-15	,	_	Punctuation	Punctuation	_	10	U	10:U	_
-16	a	_	Word	Word	_	18	E	18:E	_
-17	charity	_	Word	Word	_	18	E	18:E	_
-18	worker	_	Word	Word	_	10	E	10:E	_
-19	,	_	Punctuation	Punctuation	_	10	U	10:U	_
-20	and	_	Word	Word	_	10	N	10:N	_
-21	James	_	Word	Word	_	10	C	10:C	_
-22	Hawke	_	Word	Word	_	21	Terminal	21:Terminal	_
-23	,	_	Punctuation	Punctuation	_	21	U	21:U	_
-24	an	_	Word	Word	_	26	E	26:E	_
-25	insurance	_	Word	Word	_	26	E	26:E	_
-26	actuary	_	Word	Word	_	21	E	21:E	_
-27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+# text = His maternal grandfather , Howard Lemuel Green , served five terms in the Texas Legislature and was a minor - league baseball commissioner .
+1	His	_	Word	Word	_	5	E	5:E	_
+2	maternal	_	Word	Word	_	1	E	1:E	_
+3	grandfather	_	Word	Word	_	1	A	1:A	_
+4	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+5	Howard	_	Word	Word	_	0	C	0:C|23:A	_
+6	Lemuel	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	Green	_	Word	Word	_	5	Terminal	5:Terminal	_
+8	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+9	served	_	Word	Word	_	11	F	11:F	_
+10	five	_	Word	Word	_	11	D	11:D	_
+11	terms	_	Word	Word	_	0	H	0:H	_
+12	in	_	Word	Word	_	15	R	15:R	_
+13	the	_	Word	Word	_	15	F	15:F	_
+14	Texas	_	Word	Word	_	15	E	15:E	_
+15	Legislature	_	Word	Word	_	11	A	11:A	_
+16	and	_	Word	Word	_	23	L	23:L	_
+17	was	_	Word	Word	_	23	F	23:F	_
+18	a	_	Word	Word	_	23	F	23:F	_
+19	minor	_	Word	Word	_	21	E	21:E	_
+20	-	_	Punctuation	Punctuation	_	21	U	21:U	_
+21	league	_	Word	Word	_	22	E	22:E	_
+22	baseball	_	Word	Word	_	23	A	23:A	_
+23	commissioner	_	Word	Word	_	11	H	11:H	_
+24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
 

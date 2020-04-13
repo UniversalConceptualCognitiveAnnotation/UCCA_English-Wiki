@@ -1,8 +1,8 @@
 # format = ucca
 # sent_id = 515006
 # text = Bowie 's innovative songs and stagecraft brought a new dimension to popular music in the early 1970s , strongly influencing both its immediate forms and its subsequent development .
-1	Bowie	_	Word	Word	_	0	C	0:C|20:A	_
-2	's	_	Word	Word	_	1	R	1:R	_
+1	Bowie	_	Word	Word	_	2	A	2:A|20:A	_
+2	's	_	Word	Word	_	4	E	4:E	_
 3	innovative	_	Word	Word	_	4	E	4:E	_
 4	songs	_	Word	Word	_	7	A	7:A	_
 5	and	_	Word	Word	_	4	N	4:N	_
@@ -17,11 +17,11 @@
 14	in	_	Word	Word	_	17	R	17:R	_
 15	the	_	Word	Word	_	17	E	17:E	_
 16	early	_	Word	Word	_	17	E	17:E	_
-17	1970s	_	Word	Word	_	7	D	7:D	_
+17	1970s	_	Word	Word	_	7	T	7:T	_
 18	,	_	Punctuation	Punctuation	_	7	U	7:U	_
 19	strongly	_	Word	Word	_	20	D	20:D	_
 20	influencing	_	Word	Word	_	7	H	7:H	_
-21	both	_	Word	Word	_	24	N	24:N	_
+21	both	_	Word	Word	_	24	Q	24:Q	_
 22	its	_	Word	Word	_	24	E	24:E	_
 23	immediate	_	Word	Word	_	24	E	24:E	_
 24	forms	_	Word	Word	_	20	A	20:A	_

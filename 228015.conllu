@@ -1,37 +1,37 @@
 # format = ucca
 # sent_id = 228015
 # text = While Chan has directed over ten films over his career , this is his first directorial work in over ten years , since Jackie Chan 's Who Am I ? in 1998 .
-1	While	_	Word	Word	_	13	L	13:L	_
+1	While	_	Word	Word	_	10	L	10:L	_
 2	Chan	_	Word	Word	_	4	A	4:A	_
 3	has	_	Word	Word	_	4	F	4:F	_
 4	directed	_	Word	Word	_	0	H	0:H	_
-5	over	_	Word	Word	_	7	R	7:R	_
-6	ten	_	Word	Word	_	7	E	7:E	_
+5	over	_	Word	Word	_	6	R	6:R	_
+6	ten	_	Word	Word	_	7	Q	7:Q	_
 7	films	_	Word	Word	_	4	A	4:A	_
-8	over	_	Word	Word	_	10	R	10:R	_
-9	his	_	Word	Word	_	10	E	10:E	_
-10	career	_	Word	Word	_	4	A	4:A	_
+8	over	_	Word	Word	_	10	L	10:L	_
+9	his	_	Word	Word	_	10	A	10:A	_
+10	career	_	Word	Word	_	4	H	4:H	_
 11	,	_	Punctuation	Punctuation	_	4	U	4:U	_
 12	this	_	Word	Word	_	13	A	13:A	_
 13	is	_	Word	Word	_	4	H	4:H	_
-14	his	_	Word	Word	_	17	E	17:E	_
-15	first	_	Word	Word	_	17	E	17:E	_
-16	directorial	_	Word	Word	_	17	E	17:E	_
-17	work	_	Word	Word	_	13	A	13:A	_
+14	his	_	Word	Word	_	16	A	16:A	_
+15	first	_	Word	Word	_	16	D	16:D	_
+16	directorial	_	Word	Word	_	13	A	13:A	_
+17	work	_	Word	Word	_	16	D	16:D	_
 18	in	_	Word	Word	_	21	R	21:R	_
-19	over	_	Word	Word	_	21	E	21:E	_
-20	ten	_	Word	Word	_	21	E	21:E	_
-21	years	_	Word	Word	_	17	E	17:E	_
+19	over	_	Word	Word	_	20	R	20:R	_
+20	ten	_	Word	Word	_	21	Q	21:Q	_
+21	years	_	Word	Word	_	13	T	13:T	_
 22	,	_	Punctuation	Punctuation	_	4	U	4:U	_
-23	since	_	Word	Word	_	27	L	27:L	_
-24	Jackie	_	Word	Word	_	27	E	27:E	_
+23	since	_	Word	Word	_	24	L	24:L	_
+24	Jackie	_	Word	Word	_	4	H	4:H	_
 25	Chan	_	Word	Word	_	24	Terminal	24:Terminal	_
 26	's	_	Word	Word	_	24	R	24:R	_
-27	Who	_	Word	Word	_	4	H	4:H	_
+27	Who	_	Word	Word	_	24	A	24:A	_
 28	Am	_	Word	Word	_	27	Terminal	27:Terminal	_
 29	I	_	Word	Word	_	27	Terminal	27:Terminal	_
-30	?	_	Punctuation	Punctuation	_	27	U	27:U	_
+30	?	_	Punctuation	Punctuation	_	24	U	24:U	_
 31	in	_	Word	Word	_	32	R	32:R	_
-32	1998	_	Word	Word	_	27	D	27:D	_
+32	1998	_	Word	Word	_	24	T	24:T	_
 33	.	_	Punctuation	Punctuation	_	32	U	32:U	_
 

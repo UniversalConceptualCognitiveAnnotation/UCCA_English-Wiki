@@ -1,32 +1,32 @@
 # format = ucca
 # sent_id = 662015
 # text = Following Music Box , Carey took a relatively large period of time away from the public eye , and began working on an unknown project throughout 1994 .
-1	Following	_	Word	Word	_	12	L	12:L	_
+1	Following	_	Word	Word	_	13	L	13:L	_
 2	Music	_	Word	Word	_	0	H	0:H	_
 3	Box	_	Word	Word	_	2	Terminal	2:Terminal	_
 4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
-5	Carey	_	Word	Word	_	12	A	12:A|21:A	_
-6	took	_	Word	Word	_	12	F	12:F	_
-7	a	_	Word	Word	_	10	E	10:E	_
+5	Carey	_	Word	Word	_	13	A	13:A|2:A|21:A	_
+6	took	_	Word	Word	_	13	F	13:F	_
+7	a	_	Word	Word	_	10	F	10:F	_
 8	relatively	_	Word	Word	_	9	E	9:E	_
 9	large	_	Word	Word	_	10	E	10:E	_
-10	period	_	Word	Word	_	12	D	12:D	_
+10	period	_	Word	Word	_	13	T	13:T	_
 11	of	_	Word	Word	_	10	R	10:R	_
-12	time	_	Word	Word	_	2	H	2:H	_
-13	away	_	Word	Word	_	12	D	12:D	_
-14	from	_	Word	Word	_	17	R	17:R	_
-15	the	_	Word	Word	_	17	E	17:E	_
-16	public	_	Word	Word	_	17	E	17:E	_
-17	eye	_	Word	Word	_	12	A	12:A	_
+12	time	_	Word	Word	_	10	C	10:C	_
+13	away	_	Word	Word	_	2	H	2:H	_
+14	from	_	Word	Word	_	16	R	16:R	_
+15	the	_	Word	Word	_	16	F	16:F	_
+16	public	_	Word	Word	_	13	A	13:A	_
+17	eye	_	Word	Word	_	16	Terminal	16:Terminal	_
 18	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 19	and	_	Word	Word	_	21	L	21:L	_
 20	began	_	Word	Word	_	21	D	21:D	_
 21	working	_	Word	Word	_	2	H	2:H	_
 22	on	_	Word	Word	_	25	R	25:R	_
-23	an	_	Word	Word	_	25	E	25:E	_
+23	an	_	Word	Word	_	25	F	25:F	_
 24	unknown	_	Word	Word	_	25	E	25:E	_
 25	project	_	Word	Word	_	21	A	21:A	_
 26	throughout	_	Word	Word	_	27	R	27:R	_
-27	1994	_	Word	Word	_	21	D	21:D	_
+27	1994	_	Word	Word	_	21	T	21:T	_
 28	.	_	Punctuation	Punctuation	_	27	U	27:U	_
 

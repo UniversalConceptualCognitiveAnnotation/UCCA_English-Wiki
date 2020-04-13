@@ -12,11 +12,11 @@
 9	McCartney	_	Word	Word	_	11	A	11:A	_
 10	's	_	Word	Word	_	9	R	9:R	_
 11	collaboration	_	Word	Word	_	8	A	8:A	_
-12	with	_	Word	Word	_	15	R	15:R	_
-13	a	_	Word	Word	_	15	E	15:E	_
-14	rock	_	Word	Word	_	15	E	15:E	_
-15	supergroup	_	Word	Word	_	11	A	11:A	_
-16	dubbed	_	Word	Word	_	15	E	15:E	_
+12	with	_	Word	Word	_	14	R	14:R	_
+13	a	_	Word	Word	_	14	F	14:F	_
+14	rock	_	Word	Word	_	11	A	11:A	_
+15	supergroup	_	Word	Word	_	14	A	14:A|16:A	_
+16	dubbed	_	Word	Word	_	14	E	14:E	_
 17	"	_	Punctuation	Punctuation	_	16	U	16:U	_
 18	the	_	Word	Word	_	16	A	16:A	_
 19	Rockestra	_	Word	Word	_	18	Terminal	18:Terminal	_
@@ -26,7 +26,7 @@
 23	to	_	Word	Word	_	24	R	24:R	_
 24	Wings	_	Word	Word	_	22	A	22:A	_
 25	,	_	Punctuation	Punctuation	_	8	U	8:U	_
-26	the	_	Word	Word	_	27	E	27:E	_
+26	the	_	Word	Word	_	27	F	27:F	_
 27	band	_	Word	Word	_	0	C	0:C|22:A	_
 28	included	_	Word	Word	_	8	H	8:H	_
 29	Pete	_	Word	Word	_	28	A	28:A	_

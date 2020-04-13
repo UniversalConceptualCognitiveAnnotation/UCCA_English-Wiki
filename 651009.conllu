@@ -1,18 +1,35 @@
 # format = ucca
 # sent_id = 651009
-# text = While the legal battle continued , Lennon attended rallies and made television appearances .
-1	While	_	Word	Word	_	8	L	8:L	_
-2	the	_	Word	Word	_	4	E	4:E	_
-3	legal	_	Word	Word	_	4	E	4:E	_
-4	battle	_	Word	Word	_	5	A	5:A	_
-5	continued	_	Word	Word	_	0	H	0:H	_
-6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
-7	Lennon	_	Word	Word	_	8	A	8:A|13:A	_
-8	attended	_	Word	Word	_	5	H	5:H	_
-9	rallies	_	Word	Word	_	8	A	8:A	_
-10	and	_	Word	Word	_	13	L	13:L	_
-11	made	_	Word	Word	_	13	F	13:F	_
-12	television	_	Word	Word	_	13	A	13:A	_
-13	appearances	_	Word	Word	_	5	H	5:H	_
-14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+# text = Lennon and Ono co - hosted the Mike Douglas Show for a week in February 1972 , introducing guests such as Jerry Rubin and Bobby Seale to mid - America .
+1	Lennon	_	Word	Word	_	6	A	6:A|18:A	_
+2	and	_	Word	Word	_	1	N	1:N	_
+3	Ono	_	Word	Word	_	1	C	1:C	_
+4	co	_	Word	Word	_	6	E	6:E	_
+5	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+6	hosted	_	Word	Word	_	0	H	0:H	_
+7	the	_	Word	Word	_	8	E	8:E	_
+8	Mike	_	Word	Word	_	6	A	6:A	_
+9	Douglas	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	Show	_	Word	Word	_	8	Terminal	8:Terminal	_
+11	for	_	Word	Word	_	13	R	13:R	_
+12	a	_	Word	Word	_	13	E	13:E	_
+13	week	_	Word	Word	_	6	T	6:T	_
+14	in	_	Word	Word	_	15	R	15:R	_
+15	February	_	Word	Word	_	6	T	6:T	_
+16	1972	_	Word	Word	_	15	C	15:C	_
+17	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+18	introducing	_	Word	Word	_	6	H	6:H	_
+19	guests	_	Word	Word	_	18	A	18:A	_
+20	such	_	Word	Word	_	22	R	22:R	_
+21	as	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	Jerry	_	Word	Word	_	19	E	19:E	_
+23	Rubin	_	Word	Word	_	22	Terminal	22:Terminal	_
+24	and	_	Word	Word	_	22	N	22:N	_
+25	Bobby	_	Word	Word	_	22	C	22:C	_
+26	Seale	_	Word	Word	_	25	Terminal	25:Terminal	_
+27	to	_	Word	Word	_	30	R	30:R	_
+28	mid	_	Word	Word	_	30	E	30:E	_
+29	-	_	Punctuation	Punctuation	_	30	U	30:U	_
+30	America	_	Word	Word	_	18	A	18:A	_
+31	.	_	Punctuation	Punctuation	_	30	U	30:U	_
 

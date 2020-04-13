@@ -1,11 +1,11 @@
 # format = ucca
 # sent_id = 105003
 # text = Their relationship during this time was less strained , with Jolie realizing that they were both " drama queens . "
-1	Their	_	Word	Word	_	2	E	2:E	_
+1	Their	_	Word	Word	_	2	A	2:A	_
 2	relationship	_	Word	Word	_	8	A	8:A	_
 3	during	_	Word	Word	_	5	R	5:R	_
 4	this	_	Word	Word	_	5	E	5:E	_
-5	time	_	Word	Word	_	8	D	8:D	_
+5	time	_	Word	Word	_	8	T	8:T	_
 6	was	_	Word	Word	_	8	F	8:F	_
 7	less	_	Word	Word	_	8	D	8:D	_
 8	strained	_	Word	Word	_	0	H	0:H	_
@@ -13,13 +13,13 @@
 10	with	_	Word	Word	_	12	L	12:L	_
 11	Jolie	_	Word	Word	_	12	A	12:A	_
 12	realizing	_	Word	Word	_	8	H	8:H	_
-13	that	_	Word	Word	_	19	R	19:R	_
-14	they	_	Word	Word	_	19	A	19:A	_
-15	were	_	Word	Word	_	19	F	19:F	_
-16	both	_	Word	Word	_	19	D	19:D	_
-17	"	_	Punctuation	Punctuation	_	19	U	19:U	_
-18	drama	_	Word	Word	_	19	E	19:E	_
-19	queens	_	Word	Word	_	12	A	12:A	_
-20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
-21	"	_	Punctuation	Punctuation	_	19	U	19:U	_
+13	that	_	Word	Word	_	18	R	18:R	_
+14	they	_	Word	Word	_	18	A	18:A	_
+15	were	_	Word	Word	_	18	F	18:F	_
+16	both	_	Word	Word	_	14	Q	14:Q	_
+17	"	_	Punctuation	Punctuation	_	18	U	18:U	_
+18	drama	_	Word	Word	_	12	A	12:A	_
+19	queens	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+21	"	_	Punctuation	Punctuation	_	18	U	18:U	_
 

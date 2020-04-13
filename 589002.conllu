@@ -12,13 +12,13 @@
 9	praised	_	Word	Word	_	2	H	2:H	_
 10	Tim	_	Word	Word	_	9	A	9:A	_
 11	Burton	_	Word	Word	_	10	Terminal	10:Terminal	_
-12	for	_	Word	Word	_	16	R	16:R	_
-13	his	_	Word	Word	_	16	A	16:A	_
+12	for	_	Word	Word	_	16	R	16:R|18:R	_
+13	his	_	Word	Word	_	16	A	16:A|18:A	_
 14	"	_	Punctuation	Punctuation	_	16	U	16:U	_
-15	unwavering	_	Word	Word	_	16	D	16:D	_
+15	unwavering	_	Word	Word	_	16	D	16:D|18:D	_
 16	trust	_	Word	Word	_	9	A	9:A	_
-17	and	_	Word	Word	_	16	N	16:N	_
-18	support	_	Word	Word	_	16	C	16:C	_
-19	.	_	Punctuation	Punctuation	_	16	U	16:U	_
-20	"	_	Punctuation	Punctuation	_	16	U	16:U	_
+17	and	_	Word	Word	_	18	L	18:L	_
+18	support	_	Word	Word	_	16	H	16:H	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+20	"	_	Punctuation	Punctuation	_	18	U	18:U	_
 

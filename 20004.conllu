@@ -1,23 +1,31 @@
 # format = ucca
 # sent_id = 20004
-# text = He participated in the school 's Key and Forensics clubs , in school debates , and in musicals .
-1	He	_	Word	Word	_	2	A	2:A	_
-2	participated	_	Word	Word	_	0	H	0:H	_
-3	in	_	Word	Word	_	10	R	10:R	_
-4	the	_	Word	Word	_	10	E	10:E	_
-5	school	_	Word	Word	_	10	E	10:E	_
-6	's	_	Word	Word	_	5	R	5:R	_
-7	Key	_	Word	Word	_	10	E	10:E	_
-8	and	_	Word	Word	_	7	N	7:N	_
-9	Forensics	_	Word	Word	_	7	C	7:C	_
-10	clubs	_	Word	Word	_	2	A	2:A	_
-11	,	_	Punctuation	Punctuation	_	10	U	10:U	_
-12	in	_	Word	Word	_	14	R	14:R	_
-13	school	_	Word	Word	_	14	E	14:E	_
-14	debates	_	Word	Word	_	10	C	10:C	_
-15	,	_	Punctuation	Punctuation	_	10	U	10:U	_
-16	and	_	Word	Word	_	10	N	10:N	_
-17	in	_	Word	Word	_	18	R	18:R	_
-18	musicals	_	Word	Word	_	10	C	10:C	_
-19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+# text = Following his graduation from high school , Pitt enrolled in the University of Missouri in 1982 , majoring in journalism , with a focus on advertising .
+1	Following	_	Word	Word	_	9	L	9:L	_
+2	his	_	Word	Word	_	3	A	3:A	_
+3	graduation	_	Word	Word	_	0	H	0:H	_
+4	from	_	Word	Word	_	6	R	6:R	_
+5	high	_	Word	Word	_	6	E	6:E	_
+6	school	_	Word	Word	_	3	A	3:A	_
+7	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+8	Pitt	_	Word	Word	_	9	A	9:A|18:A|24:A	_
+9	enrolled	_	Word	Word	_	3	H	3:H	_
+10	in	_	Word	Word	_	12	R	12:R	_
+11	the	_	Word	Word	_	12	E	12:E	_
+12	University	_	Word	Word	_	9	A	9:A	_
+13	of	_	Word	Word	_	14	R	14:R	_
+14	Missouri	_	Word	Word	_	12	E	12:E	_
+15	in	_	Word	Word	_	16	R	16:R	_
+16	1982	_	Word	Word	_	9	T	9:T	_
+17	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+18	majoring	_	Word	Word	_	3	H	3:H	_
+19	in	_	Word	Word	_	20	R	20:R	_
+20	journalism	_	Word	Word	_	18	A	18:A	_
+21	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+22	with	_	Word	Word	_	24	L	24:L	_
+23	a	_	Word	Word	_	24	E	24:E	_
+24	focus	_	Word	Word	_	3	H	3:H	_
+25	on	_	Word	Word	_	26	R	26:R	_
+26	advertising	_	Word	Word	_	24	A	24:A	_
+27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
 

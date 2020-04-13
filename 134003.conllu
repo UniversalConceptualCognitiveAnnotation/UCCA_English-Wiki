@@ -3,23 +3,23 @@
 # text = She took an atypical role in 1944 , playing a Chinese peasant in the high - budget drama Dragon Seed .
 1	She	_	Word	Word	_	2	A	2:A|9:A	_
 2	took	_	Word	Word	_	0	H	0:H	_
-3	an	_	Word	Word	_	5	E	5:E	_
+3	an	_	Word	Word	_	5	F	5:F	_
 4	atypical	_	Word	Word	_	5	E	5:E	_
 5	role	_	Word	Word	_	2	A	2:A	_
 6	in	_	Word	Word	_	7	R	7:R	_
-7	1944	_	Word	Word	_	2	D	2:D	_
+7	1944	_	Word	Word	_	2	T	2:T	_
 8	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 9	playing	_	Word	Word	_	2	H	2:H	_
-10	a	_	Word	Word	_	12	E	12:E	_
+10	a	_	Word	Word	_	12	F	12:F	_
 11	Chinese	_	Word	Word	_	12	E	12:E	_
-12	peasant	_	Word	Word	_	9	A	9:A	_
+12	peasant	_	Word	Word	_	0	A	0:A|11:A	_
 13	in	_	Word	Word	_	19	R	19:R	_
-14	the	_	Word	Word	_	18	E	18:E	_
-15	high	_	Word	Word	_	17	E	17:E	_
+14	the	_	Word	Word	_	18	F	18:F	_
+15	high	_	Word	Word	_	17	D	17:D	_
 16	-	_	Punctuation	Punctuation	_	17	U	17:U	_
 17	budget	_	Word	Word	_	18	E	18:E	_
 18	drama	_	Word	Word	_	19	E	19:E	_
-19	Dragon	_	Word	Word	_	12	E	12:E	_
+19	Dragon	_	Word	Word	_	9	A	9:A	_
 20	Seed	_	Word	Word	_	19	Terminal	19:Terminal	_
 21	.	_	Punctuation	Punctuation	_	19	U	19:U	_
 

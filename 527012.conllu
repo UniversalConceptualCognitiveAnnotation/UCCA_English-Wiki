@@ -1,33 +1,33 @@
 # format = ucca
 # sent_id = 527012
 # text = Her 19 - week engagement exceeded all previous records for the theater and was described as " one of the greatest personal triumphs in show business history . "
-1	Her	_	Word	Word	_	5	E	5:E	_
-2	19	_	Word	Word	_	4	E	4:E	_
+1	Her	_	Word	Word	_	5	A	5:A	_
+2	19	_	Word	Word	_	4	Q	4:Q	_
 3	-	_	Punctuation	Punctuation	_	4	U	4:U	_
-4	week	_	Word	Word	_	5	E	5:E	_
-5	engagement	_	Word	Word	_	0	C	0:C|15:A	_
+4	week	_	Word	Word	_	5	T	5:T	_
+5	engagement	_	Word	Word	_	0	P	0:P|15:A|16:A	_
 6	exceeded	_	Word	Word	_	0	H	0:H	_
-7	all	_	Word	Word	_	9	E	9:E	_
+7	all	_	Word	Word	_	9	Q	9:Q	_
 8	previous	_	Word	Word	_	9	E	9:E	_
 9	records	_	Word	Word	_	6	A	6:A	_
-10	for	_	Word	Word	_	12	R	12:R	_
-11	the	_	Word	Word	_	12	E	12:E	_
-12	theater	_	Word	Word	_	9	E	9:E	_
+10	for	_	Word	Word	_	9	E	9:E	_
+11	the	_	Word	Word	_	12	F	12:F	_
+12	theater	_	Word	Word	_	10	A	10:A	_
 13	and	_	Word	Word	_	15	L	15:L	_
 14	was	_	Word	Word	_	15	F	15:F	_
 15	described	_	Word	Word	_	6	H	6:H	_
-16	as	_	Word	Word	_	23	R	23:R	_
-17	"	_	Punctuation	Punctuation	_	23	U	23:U	_
-18	one	_	Word	Word	_	23	E	23:E	_
-19	of	_	Word	Word	_	18	R	18:R	_
-20	the	_	Word	Word	_	23	E	23:E	_
-21	greatest	_	Word	Word	_	23	E	23:E	_
-22	personal	_	Word	Word	_	23	E	23:E	_
-23	triumphs	_	Word	Word	_	15	A	15:A	_
+16	as	_	Word	Word	_	15	A	15:A	_
+17	"	_	Punctuation	Punctuation	_	16	U	16:U	_
+18	one	_	Word	Word	_	23	D	23:D	_
+19	of	_	Word	Word	_	23	R	23:R	_
+20	the	_	Word	Word	_	23	F	23:F	_
+21	greatest	_	Word	Word	_	23	D	23:D	_
+22	personal	_	Word	Word	_	23	A	23:A	_
+23	triumphs	_	Word	Word	_	16	A	16:A	_
 24	in	_	Word	Word	_	27	R	27:R	_
-25	show	_	Word	Word	_	26	E	26:E	_
-26	business	_	Word	Word	_	27	E	27:E	_
-27	history	_	Word	Word	_	23	E	23:E	_
+25	show	_	Word	Word	_	27	E	27:E	_
+26	business	_	Word	Word	_	25	Terminal	25:Terminal	_
+27	history	_	Word	Word	_	23	T	23:T	_
 28	.	_	Punctuation	Punctuation	_	27	U	27:U	_
 29	"	_	Punctuation	Punctuation	_	27	U	27:U	_
 

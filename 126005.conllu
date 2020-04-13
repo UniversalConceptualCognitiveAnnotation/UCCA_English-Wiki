@@ -1,9 +1,9 @@
 # format = ucca
 # sent_id = 126005
 # text = RKO head David O . Selznick recounted that he took a " tremendous chance " in casting the unusual actress .
-1	RKO	_	Word	Word	_	2	E	2:E	_
-2	head	_	Word	Word	_	3	E	3:E	_
-3	David	_	Word	Word	_	7	A	7:A	_
+1	RKO	_	Word	Word	_	2	A	2:A	_
+2	head	_	Word	Word	_	7	A	7:A	_
+3	David	_	Word	Word	_	2	A	2:A	_
 4	O	_	Word	Word	_	3	Terminal	3:Terminal	_
 5	.	_	Punctuation	Punctuation	_	3	U	3:U	_
 6	Selznick	_	Word	Word	_	3	Terminal	3:Terminal	_
@@ -13,13 +13,13 @@
 10	took	_	Word	Word	_	14	F	14:F	_
 11	a	_	Word	Word	_	14	E	14:E	_
 12	"	_	Punctuation	Punctuation	_	14	U	14:U	_
-13	tremendous	_	Word	Word	_	14	E	14:E	_
+13	tremendous	_	Word	Word	_	14	D	14:D	_
 14	chance	_	Word	Word	_	7	A	7:A	_
 15	"	_	Punctuation	Punctuation	_	14	U	14:U	_
 16	in	_	Word	Word	_	17	R	17:R	_
 17	casting	_	Word	Word	_	14	A	14:A	_
 18	the	_	Word	Word	_	20	E	20:E	_
-19	unusual	_	Word	Word	_	20	E	20:E	_
+19	unusual	_	Word	Word	_	20	D	20:D	_
 20	actress	_	Word	Word	_	17	A	17:A	_
 21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
 

@@ -1,25 +1,20 @@
 # format = ucca
 # sent_id = 616010
-# text = McCartney took up painting in 1983 , and he first exhibited his work in Siegen , Germany , in 1999 .
-1	McCartney	_	Word	Word	_	4	A	4:A	_
-2	took	_	Word	Word	_	4	E	4:E	_
-3	up	_	Word	Word	_	2	Terminal	2:Terminal	_
-4	painting	_	Word	Word	_	0	H	0:H	_
-5	in	_	Word	Word	_	6	R	6:R	_
-6	1983	_	Word	Word	_	4	D	4:D	_
-7	,	_	Punctuation	Punctuation	_	4	U	4:U	_
-8	and	_	Word	Word	_	11	L	11:L	_
-9	he	_	Word	Word	_	11	A	11:A	_
-10	first	_	Word	Word	_	11	D	11:D	_
-11	exhibited	_	Word	Word	_	4	H	4:H	_
-12	his	_	Word	Word	_	13	A	13:A	_
-13	work	_	Word	Word	_	11	A	11:A	_
-14	in	_	Word	Word	_	15	R	15:R	_
-15	Siegen	_	Word	Word	_	11	A	11:A	_
-16	,	_	Punctuation	Punctuation	_	15	U	15:U	_
-17	Germany	_	Word	Word	_	15	Terminal	15:Terminal	_
-18	,	_	Punctuation	Punctuation	_	11	U	11:U	_
-19	in	_	Word	Word	_	20	R	20:R	_
-20	1999	_	Word	Word	_	11	D	11:D	_
-21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+# text = The 70 - painting show featured portraits of Lennon , Andy Warhol and David Bowie .
+1	The	_	Word	Word	_	5	F	5:F	_
+2	70	_	Word	Word	_	4	Q	4:Q	_
+3	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+4	painting	_	Word	Word	_	5	A	5:A	_
+5	show	_	Word	Word	_	6	A	6:A	_
+6	featured	_	Word	Word	_	0	H	0:H	_
+7	portraits	_	Word	Word	_	6	A	6:A	_
+8	of	_	Word	Word	_	9	R	9:R	_
+9	Lennon	_	Word	Word	_	7	E	7:E	_
+10	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+11	Andy	_	Word	Word	_	9	C	9:C	_
+12	Warhol	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	and	_	Word	Word	_	9	N	9:N	_
+14	David	_	Word	Word	_	9	C	9:C	_
+15	Bowie	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	.	_	Punctuation	Punctuation	_	9	U	9:U	_
 

@@ -1,9 +1,9 @@
 # format = ucca
 # sent_id = 942005
 # text = Stefani 's second and final solo studio album , The Sweet Escape ( 2006 ) , yielded " Wind It Up " , " 4 in the Morning " , and the highest - selling single " The Sweet Escape " . Including her work with No Doubt , Stefani has sold more than forty million albums worldwide .
-1	Stefani	_	Word	Word	_	10	E	10:E	_
-2	's	_	Word	Word	_	1	R	1:R	_
-3	second	_	Word	Word	_	8	E	8:E	_
+1	Stefani	_	Word	Word	_	2	A	2:A	_
+2	's	_	Word	Word	_	8	E	8:E	_
+3	second	_	Word	Word	_	8	Q	8:Q	_
 4	and	_	Word	Word	_	3	N	3:N	_
 5	final	_	Word	Word	_	3	C	3:C	_
 6	solo	_	Word	Word	_	8	E	8:E	_
@@ -32,8 +32,8 @@
 29	"	_	Punctuation	Punctuation	_	19	U	19:U	_
 30	,	_	Punctuation	Punctuation	_	19	U	19:U	_
 31	and	_	Word	Word	_	19	N	19:N	_
-32	the	_	Word	Word	_	38	E	38:E	_
-33	highest	_	Word	Word	_	35	E	35:E	_
+32	the	_	Word	Word	_	36	E	36:E	_
+33	highest	_	Word	Word	_	35	D	35:D	_
 34	-	_	Punctuation	Punctuation	_	35	U	35:U	_
 35	selling	_	Word	Word	_	36	E	36:E	_
 36	single	_	Word	Word	_	38	E	38:E	_
@@ -53,9 +53,9 @@
 50	Stefani	_	Word	Word	_	52	A	52:A	_
 51	has	_	Word	Word	_	52	F	52:F	_
 52	sold	_	Word	Word	_	17	H	17:H	_
-53	more	_	Word	Word	_	57	E	57:E	_
-54	than	_	Word	Word	_	53	R	53:R	_
-55	forty	_	Word	Word	_	57	E	57:E	_
+53	more	_	Word	Word	_	55	E	55:E	_
+54	than	_	Word	Word	_	53	Terminal	53:Terminal	_
+55	forty	_	Word	Word	_	57	Q	57:Q	_
 56	million	_	Word	Word	_	55	Terminal	55:Terminal	_
 57	albums	_	Word	Word	_	52	A	52:A	_
 58	worldwide	_	Word	Word	_	52	A	52:A	_

@@ -2,9 +2,9 @@
 # sent_id = 656003
 # text = For music historians Urish and Bielen , Lennon 's most significant effort was " the self - portraits ... in his songs [ which ] spoke to , for , and about , the human condition . "
 1	For	_	Word	Word	_	3	R	3:R	_
-2	music	_	Word	Word	_	3	E	3:E	_
+2	music	_	Word	Word	_	3	A	3:A	_
 3	historians	_	Word	Word	_	13	A	13:A	_
-4	Urish	_	Word	Word	_	3	E	3:E	_
+4	Urish	_	Word	Word	_	3	A	3:A	_
 5	and	_	Word	Word	_	4	N	4:N	_
 6	Bielen	_	Word	Word	_	4	C	4:C	_
 7	,	_	Punctuation	Punctuation	_	13	U	13:U	_
@@ -24,7 +24,7 @@
 21	his	_	Word	Word	_	22	E	22:E	_
 22	songs	_	Word	Word	_	18	E	18:E	_
 23	[	_	Punctuation	Punctuation	_	18	U	18:U	_
-24	which	_	Word	Word	_	26	F	26:F	_
+24	which	_	Word	Word	_	26	R	26:R	_
 25	]	_	Punctuation	Punctuation	_	26	U	26:U	_
 26	spoke	_	Word	Word	_	18	E	18:E	_
 27	to	_	Word	Word	_	36	R	36:R	_

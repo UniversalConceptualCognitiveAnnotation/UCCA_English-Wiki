@@ -1,22 +1,22 @@
 # format = ucca
 # sent_id = 217008
 # text = The film generated mostly negative reviews , with Manohla Dargis of the Los Angeles Times describing it as " smug and reductive . "
-1	The	_	Word	Word	_	2	E	2:E	_
-2	film	_	Word	Word	_	3	A	3:A	_
-3	generated	_	Word	Word	_	0	H	0:H	_
-4	mostly	_	Word	Word	_	6	E	6:E	_
-5	negative	_	Word	Word	_	6	E	6:E	_
-6	reviews	_	Word	Word	_	3	A	3:A	_
-7	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+1	The	_	Word	Word	_	2	F	2:F	_
+2	film	_	Word	Word	_	6	A	6:A	_
+3	generated	_	Word	Word	_	6	F	6:F	_
+4	mostly	_	Word	Word	_	5	E	5:E	_
+5	negative	_	Word	Word	_	6	D	6:D	_
+6	reviews	_	Word	Word	_	0	H	0:H	_
+7	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 8	with	_	Word	Word	_	16	L	16:L	_
 9	Manohla	_	Word	Word	_	16	A	16:A	_
 10	Dargis	_	Word	Word	_	9	Terminal	9:Terminal	_
 11	of	_	Word	Word	_	13	R	13:R	_
-12	the	_	Word	Word	_	13	E	13:E	_
+12	the	_	Word	Word	_	13	F	13:F	_
 13	Los	_	Word	Word	_	9	E	9:E	_
 14	Angeles	_	Word	Word	_	13	Terminal	13:Terminal	_
 15	Times	_	Word	Word	_	13	Terminal	13:Terminal	_
-16	describing	_	Word	Word	_	3	H	3:H	_
+16	describing	_	Word	Word	_	6	H	6:H	_
 17	it	_	Word	Word	_	16	A	16:A|20:A	_
 18	as	_	Word	Word	_	20	R	20:R	_
 19	"	_	Punctuation	Punctuation	_	20	U	20:U	_

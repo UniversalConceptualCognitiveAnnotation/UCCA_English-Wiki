@@ -1,13 +1,13 @@
 # format = ucca
 # sent_id = 249012
 # text = The following year he starred as a vampire researcher trying to save humanity from extinction in the horror - thriller Daybreakers ( 2010 ) . The feature received reasonable reviews , and earned $ 51 million worldwide .
-1	The	_	Word	Word	_	3	E	3:E	_
+1	The	_	Word	Word	_	3	F	3:F	_
 2	following	_	Word	Word	_	3	E	3:E	_
-3	year	_	Word	Word	_	5	D	5:D	_
+3	year	_	Word	Word	_	5	T	5:T	_
 4	he	_	Word	Word	_	5	A	5:A	_
 5	starred	_	Word	Word	_	0	H	0:H	_
 6	as	_	Word	Word	_	9	R	9:R	_
-7	a	_	Word	Word	_	9	E	9:E	_
+7	a	_	Word	Word	_	9	F	9:F	_
 8	vampire	_	Word	Word	_	9	E	9:E	_
 9	researcher	_	Word	Word	_	12	A	12:A	_
 10	trying	_	Word	Word	_	12	D	12:D	_
@@ -17,17 +17,17 @@
 14	from	_	Word	Word	_	15	R	15:R	_
 15	extinction	_	Word	Word	_	12	A	12:A	_
 16	in	_	Word	Word	_	21	R	21:R	_
-17	the	_	Word	Word	_	21	E	21:E	_
+17	the	_	Word	Word	_	21	F	21:F	_
 18	horror	_	Word	Word	_	20	E	20:E	_
 19	-	_	Punctuation	Punctuation	_	20	U	20:U	_
 20	thriller	_	Word	Word	_	21	E	21:E	_
-21	Daybreakers	_	Word	Word	_	0	C	0:C|33:A	_
+21	Daybreakers	_	Word	Word	_	5	A	5:A	_
 22	(	_	Punctuation	Punctuation	_	21	U	21:U	_
 23	2010	_	Word	Word	_	21	E	21:E	_
 24	)	_	Punctuation	Punctuation	_	5	U	5:U	_
 25	.	_	Punctuation	Punctuation	_	5	U	5:U	_
-26	The	_	Word	Word	_	27	E	27:E	_
-27	feature	_	Word	Word	_	28	A	28:A	_
+26	The	_	Word	Word	_	27	F	27:F	_
+27	feature	_	Word	Word	_	0	C	0:C|33:A	_
 28	received	_	Word	Word	_	5	H	5:H	_
 29	reasonable	_	Word	Word	_	30	E	30:E	_
 30	reviews	_	Word	Word	_	28	A	28:A	_
@@ -35,8 +35,8 @@
 32	and	_	Word	Word	_	33	L	33:L	_
 33	earned	_	Word	Word	_	5	H	5:H	_
 34	$	_	Word	Word	_	33	A	33:A	_
-35	51	_	Word	Word	_	34	Terminal	34:Terminal	_
-36	million	_	Word	Word	_	34	E	34:E	_
-37	worldwide	_	Word	Word	_	34	E	34:E	_
-38	.	_	Punctuation	Punctuation	_	34	U	34:U	_
+35	51	_	Word	Word	_	34	Q	34:Q	_
+36	million	_	Word	Word	_	35	C	35:C	_
+37	worldwide	_	Word	Word	_	33	A	33:A	_
+38	.	_	Punctuation	Punctuation	_	33	U	33:U	_
 

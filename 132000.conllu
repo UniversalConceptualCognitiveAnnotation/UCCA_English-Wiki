@@ -1,22 +1,22 @@
 # format = ucca
 # sent_id = 132000
 # text = Several of the major film studios approached Hepburn to produce the movie version of Barry 's play .
-1	Several	_	Word	Word	_	6	E	6:E	_
+1	Several	_	Word	Word	_	6	Q	6:Q	_
 2	of	_	Word	Word	_	6	R	6:R	_
 3	the	_	Word	Word	_	6	E	6:E	_
 4	major	_	Word	Word	_	6	E	6:E	_
 5	film	_	Word	Word	_	6	E	6:E	_
-6	studios	_	Word	Word	_	7	A	7:A|10:A	_
+6	studios	_	Word	Word	_	7	A	7:A	_
 7	approached	_	Word	Word	_	0	H	0:H	_
 8	Hepburn	_	Word	Word	_	7	A	7:A	_
 9	to	_	Word	Word	_	10	R	10:R	_
 10	produce	_	Word	Word	_	7	A	7:A	_
-11	the	_	Word	Word	_	17	E	17:E	_
-12	movie	_	Word	Word	_	13	E	13:E	_
-13	version	_	Word	Word	_	17	E	17:E	_
-14	of	_	Word	Word	_	13	R	13:R	_
-15	Barry	_	Word	Word	_	17	E	17:E	_
-16	's	_	Word	Word	_	15	R	15:R	_
-17	play	_	Word	Word	_	10	A	10:A	_
-18	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+11	the	_	Word	Word	_	13	E	13:E	_
+12	movie	_	Word	Word	_	10	A	10:A	_
+13	version	_	Word	Word	_	12	E	12:E	_
+14	of	_	Word	Word	_	16	R	16:R	_
+15	Barry	_	Word	Word	_	16	A	16:A	_
+16	's	_	Word	Word	_	12	E	12:E	_
+17	play	_	Word	Word	_	16	A	16:A	_
+18	.	_	Punctuation	Punctuation	_	16	U	16:U	_
 

@@ -1,18 +1,17 @@
 # format = ucca
 # sent_id = 530007
-# text = She opened in September , once again to rave reviews and popular acclaim .
-1	She	_	Word	Word	_	2	A	2:A	_
-2	opened	_	Word	Word	_	0	H	0:H	_
-3	in	_	Word	Word	_	4	R	4:R	_
-4	September	_	Word	Word	_	2	D	2:D	_
-5	,	_	Punctuation	Punctuation	_	2	U	2:U	_
-6	once	_	Word	Word	_	10	D	10:D	_
-7	again	_	Word	Word	_	6	Terminal	6:Terminal	_
-8	to	_	Word	Word	_	10	R	10:R	_
-9	rave	_	Word	Word	_	10	E	10:E	_
-10	reviews	_	Word	Word	_	2	H	2:H	_
-11	and	_	Word	Word	_	10	N	10:N	_
-12	popular	_	Word	Word	_	13	E	13:E	_
-13	acclaim	_	Word	Word	_	10	C	10:C	_
-14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+# text = In November 1959 , Garland was hospitalized , diagnosed with acute hepatitis .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	November	_	Word	Word	_	7	T	7:T	_
+3	1959	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+5	Garland	_	Word	Word	_	7	A	7:A|9:A	_
+6	was	_	Word	Word	_	7	F	7:F	_
+7	hospitalized	_	Word	Word	_	0	H	0:H	_
+8	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	diagnosed	_	Word	Word	_	7	H	7:H	_
+10	with	_	Word	Word	_	12	R	12:R	_
+11	acute	_	Word	Word	_	12	E	12:E	_
+12	hepatitis	_	Word	Word	_	9	A	9:A	_
+13	.	_	Punctuation	Punctuation	_	12	U	12:U	_
 

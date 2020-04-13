@@ -2,7 +2,7 @@
 # sent_id = 380005
 # text = Following the release of Brokeback Mountain , rumors circulated regarding the actor 's sexual orientation .
 1	Following	_	Word	Word	_	9	L	9:L	_
-2	the	_	Word	Word	_	3	E	3:E	_
+2	the	_	Word	Word	_	3	F	3:F	_
 3	release	_	Word	Word	_	0	H	0:H	_
 4	of	_	Word	Word	_	5	R	5:R	_
 5	Brokeback	_	Word	Word	_	3	A	3:A	_
@@ -11,10 +11,10 @@
 8	rumors	_	Word	Word	_	9	A	9:A	_
 9	circulated	_	Word	Word	_	3	H	3:H	_
 10	regarding	_	Word	Word	_	15	R	15:R	_
-11	the	_	Word	Word	_	12	E	12:E	_
-12	actor	_	Word	Word	_	15	E	15:E	_
+11	the	_	Word	Word	_	12	F	12:F	_
+12	actor	_	Word	Word	_	15	A	15:A	_
 13	's	_	Word	Word	_	12	R	12:R	_
-14	sexual	_	Word	Word	_	15	E	15:E	_
+14	sexual	_	Word	Word	_	15	A	15:A	_
 15	orientation	_	Word	Word	_	9	A	9:A	_
 16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
 

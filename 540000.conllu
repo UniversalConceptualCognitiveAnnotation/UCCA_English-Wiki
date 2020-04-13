@@ -1,10 +1,10 @@
 # format = ucca
 # sent_id = 540000
 # text = The studio discovered a trained German Shepherd named Rin Tin Tin in 1923 .
-1	The	_	Word	Word	_	2	E	2:E	_
+1	The	_	Word	Word	_	2	F	2:F	_
 2	studio	_	Word	Word	_	3	A	3:A	_
 3	discovered	_	Word	Word	_	0	H	0:H	_
-4	a	_	Word	Word	_	6	E	6:E	_
+4	a	_	Word	Word	_	6	F	6:F	_
 5	trained	_	Word	Word	_	6	E	6:E	_
 6	German	_	Word	Word	_	3	A	3:A	_
 7	Shepherd	_	Word	Word	_	6	Terminal	6:Terminal	_
@@ -13,6 +13,6 @@
 10	Tin	_	Word	Word	_	9	Terminal	9:Terminal	_
 11	Tin	_	Word	Word	_	9	Terminal	9:Terminal	_
 12	in	_	Word	Word	_	13	R	13:R	_
-13	1923	_	Word	Word	_	3	D	3:D	_
+13	1923	_	Word	Word	_	3	T	3:T	_
 14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
 

@@ -1,31 +1,31 @@
 # format = ucca
 # sent_id = 519000
 # text = Judy Garland ( born Frances Ethel Gumm ; June 10 , 1922 - June 22 , 1969 ) was an American actress , singer and vaudevillian .
-1	Judy	_	Word	Word	_	5	A	5:A|19:A	_
+1	Judy	_	Word	Word	_	22	A	22:A|24:A|26:A	_
 2	Garland	_	Word	Word	_	1	Terminal	1:Terminal	_
-3	(	_	Punctuation	Punctuation	_	5	U	5:U	_
-4	born	_	Word	Word	_	5	D	5:D	_
-5	Frances	_	Word	Word	_	0	H	0:H	_
+3	(	_	Punctuation	Punctuation	_	1	U	1:U	_
+4	born	_	Word	Word	_	1	E	1:E	_
+5	Frances	_	Word	Word	_	4	A	4:A	_
 6	Ethel	_	Word	Word	_	5	Terminal	5:Terminal	_
 7	Gumm	_	Word	Word	_	5	Terminal	5:Terminal	_
-8	;	_	Punctuation	Punctuation	_	5	U	5:U	_
-9	June	_	Word	Word	_	5	D	5:D	_
-10	10	_	Word	Word	_	9	Terminal	9:Terminal	_
+8	;	_	Punctuation	Punctuation	_	1	U	1:U	_
+9	June	_	Word	Word	_	1	E	1:E	_
+10	10	_	Word	Word	_	9	C	9:C	_
 11	,	_	Punctuation	Punctuation	_	9	U	9:U	_
-12	1922	_	Word	Word	_	9	Terminal	9:Terminal	_
+12	1922	_	Word	Word	_	9	C	9:C	_
 13	-	_	Punctuation	Punctuation	_	9	U	9:U	_
 14	June	_	Word	Word	_	9	C	9:C	_
-15	22	_	Word	Word	_	14	Terminal	14:Terminal	_
+15	22	_	Word	Word	_	14	C	14:C	_
 16	,	_	Punctuation	Punctuation	_	14	U	14:U	_
-17	1969	_	Word	Word	_	14	Terminal	14:Terminal	_
-18	)	_	Punctuation	Punctuation	_	5	U	5:U	_
-19	was	_	Word	Word	_	5	H	5:H	_
-20	an	_	Word	Word	_	22	E	22:E	_
-21	American	_	Word	Word	_	22	E	22:E	_
-22	actress	_	Word	Word	_	19	A	19:A	_
+17	1969	_	Word	Word	_	14	C	14:C	_
+18	)	_	Punctuation	Punctuation	_	22	U	22:U	_
+19	was	_	Word	Word	_	22	F	22:F	_
+20	an	_	Word	Word	_	22	F	22:F	_
+21	American	_	Word	Word	_	22	D	22:D|24:D|26:D	_
+22	actress	_	Word	Word	_	0	H	0:H	_
 23	,	_	Punctuation	Punctuation	_	22	U	22:U	_
-24	singer	_	Word	Word	_	22	C	22:C	_
-25	and	_	Word	Word	_	22	N	22:N	_
-26	vaudevillian	_	Word	Word	_	22	C	22:C	_
-27	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+24	singer	_	Word	Word	_	22	H	22:H	_
+25	and	_	Word	Word	_	26	L	26:L	_
+26	vaudevillian	_	Word	Word	_	22	H	22:H	_
+27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
 

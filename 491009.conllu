@@ -1,22 +1,31 @@
 # format = ucca
 # sent_id = 491009
-# text = Bana is also active in campaigns with the Australian Childhood Foundation and the Bone Marrow Donor Institute .
-1	Bana	_	Word	Word	_	4	A	4:A	_
-2	is	_	Word	Word	_	4	F	4:F	_
-3	also	_	Word	Word	_	4	D	4:D	_
-4	active	_	Word	Word	_	0	H	0:H	_
-5	in	_	Word	Word	_	6	R	6:R	_
-6	campaigns	_	Word	Word	_	4	A	4:A	_
-7	with	_	Word	Word	_	9	R	9:R	_
-8	the	_	Word	Word	_	9	E	9:E	_
-9	Australian	_	Word	Word	_	6	E	6:E	_
-10	Childhood	_	Word	Word	_	9	Terminal	9:Terminal	_
-11	Foundation	_	Word	Word	_	9	Terminal	9:Terminal	_
-12	and	_	Word	Word	_	9	N	9:N	_
-13	the	_	Word	Word	_	14	E	14:E	_
-14	Bone	_	Word	Word	_	9	C	9:C	_
-15	Marrow	_	Word	Word	_	14	Terminal	14:Terminal	_
-16	Donor	_	Word	Word	_	14	Terminal	14:Terminal	_
-17	Institute	_	Word	Word	_	14	Terminal	14:Terminal	_
-18	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+# text = Since 1995 , he has participated in the Motorcycle Riders Association Toy Run in Melbourne , which raises money and toys for needy children at Christmas .
+1	Since	_	Word	Word	_	2	R	2:R	_
+2	1995	_	Word	Word	_	6	T	6:T	_
+3	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+4	he	_	Word	Word	_	6	A	6:A	_
+5	has	_	Word	Word	_	6	F	6:F	_
+6	participated	_	Word	Word	_	0	H	0:H	_
+7	in	_	Word	Word	_	12	R	12:R	_
+8	the	_	Word	Word	_	12	E	12:E	_
+9	Motorcycle	_	Word	Word	_	10	A	10:A	_
+10	Riders	_	Word	Word	_	11	E	11:E	_
+11	Association	_	Word	Word	_	12	E	12:E	_
+12	Toy	_	Word	Word	_	6	A	6:A	_
+13	Run	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	in	_	Word	Word	_	15	R	15:R	_
+15	Melbourne	_	Word	Word	_	12	E	12:E	_
+16	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+17	which	_	Word	Word	_	18	R	18:R	_
+18	raises	_	Word	Word	_	12	E	12:E	_
+19	money	_	Word	Word	_	18	A	18:A	_
+20	and	_	Word	Word	_	19	N	19:N	_
+21	toys	_	Word	Word	_	19	C	19:C	_
+22	for	_	Word	Word	_	24	R	24:R	_
+23	needy	_	Word	Word	_	24	E	24:E	_
+24	children	_	Word	Word	_	18	A	18:A	_
+25	at	_	Word	Word	_	26	R	26:R	_
+26	Christmas	_	Word	Word	_	18	A	18:A	_
+27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
 

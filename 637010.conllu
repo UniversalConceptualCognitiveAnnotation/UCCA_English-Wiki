@@ -3,7 +3,7 @@
 # text = The same year , Tariq Ali 's revolutionary political views , expressed when he interviewed Lennon , inspired the singer to write " Power to the People " . Lennon also became involved with Ali during a protest against Oz magazine 's prosecution for alleged obscenity .
 1	The	_	Word	Word	_	3	E	3:E	_
 2	same	_	Word	Word	_	3	E	3:E	_
-3	year	_	Word	Word	_	18	D	18:D	_
+3	year	_	Word	Word	_	18	T	18:T	_
 4	,	_	Punctuation	Punctuation	_	18	U	18:U	_
 5	Tariq	_	Word	Word	_	10	E	10:E	_
 6	Ali	_	Word	Word	_	5	Terminal	5:Terminal	_
@@ -30,7 +30,7 @@
 27	People	_	Word	Word	_	24	Terminal	24:Terminal	_
 28	"	_	Punctuation	Punctuation	_	18	U	18:U	_
 29	.	_	Punctuation	Punctuation	_	18	U	18:U	_
-30	Lennon	_	Word	Word	_	33	A	33:A	_
+30	Lennon	_	Word	Word	_	33	A	33:A|38:A	_
 31	also	_	Word	Word	_	33	D	33:D	_
 32	became	_	Word	Word	_	33	D	33:D	_
 33	involved	_	Word	Word	_	18	H	18:H	_

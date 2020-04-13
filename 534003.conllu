@@ -1,16 +1,18 @@
 # format = ucca
 # sent_id = 534003
-# text = Garland was posthumously awarded the Grammy Lifetime Achievement Award in 1997 .
-1	Garland	_	Word	Word	_	4	A	4:A	_
-2	was	_	Word	Word	_	4	F	4:F	_
-3	posthumously	_	Word	Word	_	4	D	4:D	_
-4	awarded	_	Word	Word	_	0	H	0:H	_
-5	the	_	Word	Word	_	9	E	9:E	_
-6	Grammy	_	Word	Word	_	9	E	9:E	_
-7	Lifetime	_	Word	Word	_	8	E	8:E	_
-8	Achievement	_	Word	Word	_	9	E	9:E	_
-9	Award	_	Word	Word	_	4	A	4:A	_
-10	in	_	Word	Word	_	11	R	11:R	_
-11	1997	_	Word	Word	_	4	D	4:D	_
-12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+# text = Several of her recordings have been inducted into the Grammy Hall of Fame .
+1	Several	_	Word	Word	_	4	Q	4:Q	_
+2	of	_	Word	Word	_	4	R	4:R	_
+3	her	_	Word	Word	_	4	E	4:E	_
+4	recordings	_	Word	Word	_	7	A	7:A	_
+5	have	_	Word	Word	_	7	F	7:F	_
+6	been	_	Word	Word	_	7	F	7:F	_
+7	inducted	_	Word	Word	_	0	H	0:H	_
+8	into	_	Word	Word	_	11	R	11:R	_
+9	the	_	Word	Word	_	11	F	11:F	_
+10	Grammy	_	Word	Word	_	11	E	11:E	_
+11	Hall	_	Word	Word	_	7	A	7:A	_
+12	of	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	Fame	_	Word	Word	_	11	Terminal	11:Terminal	_
+14	.	_	Punctuation	Punctuation	_	11	U	11:U	_
 

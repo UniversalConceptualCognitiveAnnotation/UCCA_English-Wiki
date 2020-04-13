@@ -1,13 +1,13 @@
 # format = ucca
 # sent_id = 600008
 # text = A trumpet player and pianist who led Jim Mac 's Jazz Band in the 1920s , McCartney 's father kept an upright piano in the front room , and he encouraged his sons to be musical .
-1	A	_	Word	Word	_	3	E	3:E	_
+1	A	_	Word	Word	_	3	F	3:F	_
 2	trumpet	_	Word	Word	_	3	E	3:E	_
-3	player	_	Word	Word	_	20	A	20:A	_
-4	and	_	Word	Word	_	3	N	3:N	_
-5	pianist	_	Word	Word	_	3	C	3:C	_
+3	player	_	Word	Word	_	17	E	17:E	_
+4	and	_	Word	Word	_	5	L	5:L	_
+5	pianist	_	Word	Word	_	3	H	3:H	_
 6	who	_	Word	Word	_	7	R	7:R	_
-7	led	_	Word	Word	_	3	A	3:A	_
+7	led	_	Word	Word	_	3	A	3:A|5:A	_
 8	Jim	_	Word	Word	_	12	E	12:E	_
 9	Mac	_	Word	Word	_	8	Terminal	8:Terminal	_
 10	's	_	Word	Word	_	8	R	8:R	_
@@ -15,11 +15,11 @@
 12	Band	_	Word	Word	_	7	A	7:A	_
 13	in	_	Word	Word	_	15	R	15:R	_
 14	the	_	Word	Word	_	15	E	15:E	_
-15	1920s	_	Word	Word	_	7	D	7:D	_
+15	1920s	_	Word	Word	_	7	T	7:T	_
 16	,	_	Punctuation	Punctuation	_	7	U	7:U	_
-17	McCartney	_	Word	Word	_	19	E	19:E	_
+17	McCartney	_	Word	Word	_	20	A	20:A	_
 18	's	_	Word	Word	_	17	R	17:R	_
-19	father	_	Word	Word	_	3	A	3:A|7:A	_
+19	father	_	Word	Word	_	17	A	17:A	_
 20	kept	_	Word	Word	_	0	H	0:H	_
 21	an	_	Word	Word	_	23	E	23:E	_
 22	upright	_	Word	Word	_	23	E	23:E	_
@@ -32,8 +32,8 @@
 29	and	_	Word	Word	_	31	L	31:L	_
 30	he	_	Word	Word	_	31	A	31:A	_
 31	encouraged	_	Word	Word	_	20	H	20:H	_
-32	his	_	Word	Word	_	33	E	33:E	_
-33	sons	_	Word	Word	_	31	A	31:A|36:A	_
+32	his	_	Word	Word	_	33	A	33:A	_
+33	sons	_	Word	Word	_	31	A	31:A	_
 34	to	_	Word	Word	_	36	F	36:F	_
 35	be	_	Word	Word	_	36	F	36:F	_
 36	musical	_	Word	Word	_	31	A	31:A	_

@@ -2,7 +2,7 @@
 # sent_id = 107001
 # text = The film was very well received by critics and won , among other awards , the Golden Globe Award for Best Miniseries or Television Film .
 1	The	_	Word	Word	_	2	E	2:E	_
-2	film	_	Word	Word	_	6	A	6:A	_
+2	film	_	Word	Word	_	0	C	0:C|10:A|14:A	_
 3	was	_	Word	Word	_	6	F	6:F	_
 4	very	_	Word	Word	_	5	E	5:E	_
 5	well	_	Word	Word	_	6	D	6:D	_
@@ -11,14 +11,14 @@
 8	critics	_	Word	Word	_	6	A	6:A	_
 9	and	_	Word	Word	_	10	L	10:L	_
 10	won	_	Word	Word	_	6	H	6:H	_
-11	,	_	Punctuation	Punctuation	_	10	U	10:U	_
-12	among	_	Word	Word	_	14	R	14:R	_
+11	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+12	among	_	Word	Word	_	14	L	14:L	_
 13	other	_	Word	Word	_	14	E	14:E	_
-14	awards	_	Word	Word	_	19	E	19:E	_
-15	,	_	Punctuation	Punctuation	_	19	U	19:U	_
+14	awards	_	Word	Word	_	6	H	6:H	_
+15	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 16	the	_	Word	Word	_	19	E	19:E	_
 17	Golden	_	Word	Word	_	19	E	19:E	_
-18	Globe	_	Word	Word	_	19	E	19:E	_
+18	Globe	_	Word	Word	_	17	Terminal	17:Terminal	_
 19	Award	_	Word	Word	_	10	A	10:A	_
 20	for	_	Word	Word	_	22	R	22:R	_
 21	Best	_	Word	Word	_	22	E	22:E	_

@@ -1,10 +1,10 @@
 # format = ucca
 # sent_id = 219004
 # text = The film , which also stars Charlotte Gainsbourg , Kiefer Sutherland and Charlotte Rampling premiered at the 2011 Cannes Film Festival .
-1	The	_	Word	Word	_	2	E	2:E	_
+1	The	_	Word	Word	_	2	F	2:F	_
 2	film	_	Word	Word	_	15	A	15:A	_
 3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
-4	which	_	Word	Word	_	6	F	6:F	_
+4	which	_	Word	Word	_	6	R	6:R	_
 5	also	_	Word	Word	_	6	D	6:D	_
 6	stars	_	Word	Word	_	2	E	2:E	_
 7	Charlotte	_	Word	Word	_	6	A	6:A	_
@@ -17,7 +17,7 @@
 14	Rampling	_	Word	Word	_	13	Terminal	13:Terminal	_
 15	premiered	_	Word	Word	_	0	H	0:H	_
 16	at	_	Word	Word	_	21	R	21:R	_
-17	the	_	Word	Word	_	21	E	21:E	_
+17	the	_	Word	Word	_	21	F	21:F	_
 18	2011	_	Word	Word	_	21	E	21:E	_
 19	Cannes	_	Word	Word	_	21	E	21:E	_
 20	Film	_	Word	Word	_	21	E	21:E	_

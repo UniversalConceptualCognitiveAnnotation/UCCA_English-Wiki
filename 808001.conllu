@@ -2,18 +2,18 @@
 # sent_id = 808001
 # text = According to Spitz , Rhone felt that McCartney had a compulsion to control situations .
 1	According	_	Word	Word	_	0	H	0:H	_
-2	to	_	Word	Word	_	3	R	3:R	_
+2	to	_	Word	Word	_	1	Terminal	1:Terminal	_
 3	Spitz	_	Word	Word	_	1	A	1:A	_
 4	,	_	Punctuation	Punctuation	_	1	U	1:U	_
 5	Rhone	_	Word	Word	_	6	A	6:A	_
 6	felt	_	Word	Word	_	1	A	1:A	_
-7	that	_	Word	Word	_	11	F	11:F	_
-8	McCartney	_	Word	Word	_	11	A	11:A|13:A	_
+7	that	_	Word	Word	_	13	R	13:R	_
+8	McCartney	_	Word	Word	_	13	A	13:A	_
 9	had	_	Word	Word	_	11	F	11:F	_
 10	a	_	Word	Word	_	11	E	11:E	_
-11	compulsion	_	Word	Word	_	6	A	6:A	_
+11	compulsion	_	Word	Word	_	13	D	13:D	_
 12	to	_	Word	Word	_	13	F	13:F	_
-13	control	_	Word	Word	_	11	A	11:A	_
+13	control	_	Word	Word	_	6	A	6:A	_
 14	situations	_	Word	Word	_	13	A	13:A	_
-15	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+15	.	_	Punctuation	Punctuation	_	14	U	14:U	_
 

@@ -2,7 +2,7 @@
 # sent_id = 552012
 # text = In the days following Warner 's death , newspaper obituaries recounted the familiar story of " the four brothers who left the family butcher shop for nicklelodeons " and went on to revolutionize American cinema .
 1	In	_	Word	Word	_	3	R	3:R	_
-2	the	_	Word	Word	_	3	E	3:E	_
+2	the	_	Word	Word	_	3	F	3:F	_
 3	days	_	Word	Word	_	11	L	11:L	_
 4	following	_	Word	Word	_	3	R	3:R	_
 5	Warner	_	Word	Word	_	7	A	7:A	_
@@ -12,17 +12,17 @@
 9	newspaper	_	Word	Word	_	10	E	10:E	_
 10	obituaries	_	Word	Word	_	11	A	11:A	_
 11	recounted	_	Word	Word	_	7	H	7:H	_
-12	the	_	Word	Word	_	14	E	14:E	_
-13	familiar	_	Word	Word	_	14	E	14:E	_
+12	the	_	Word	Word	_	14	F	14:F	_
+13	familiar	_	Word	Word	_	14	D	14:D	_
 14	story	_	Word	Word	_	11	A	11:A	_
 15	of	_	Word	Word	_	19	R	19:R	_
 16	"	_	Punctuation	Punctuation	_	19	U	19:U	_
-17	the	_	Word	Word	_	19	E	19:E	_
-18	four	_	Word	Word	_	19	E	19:E	_
-19	brothers	_	Word	Word	_	14	E	14:E	_
-20	who	_	Word	Word	_	21	F	21:F	_
+17	the	_	Word	Word	_	19	F	19:F	_
+18	four	_	Word	Word	_	19	Q	19:Q	_
+19	brothers	_	Word	Word	_	14	A	14:A	_
+20	who	_	Word	Word	_	21	R	21:R	_
 21	left	_	Word	Word	_	19	E	19:E	_
-22	the	_	Word	Word	_	25	E	25:E	_
+22	the	_	Word	Word	_	25	F	25:F	_
 23	family	_	Word	Word	_	25	E	25:E	_
 24	butcher	_	Word	Word	_	25	E	25:E	_
 25	shop	_	Word	Word	_	21	A	21:A	_
@@ -30,7 +30,7 @@
 27	nicklelodeons	_	Word	Word	_	21	A	21:A	_
 28	"	_	Punctuation	Punctuation	_	21	U	21:U	_
 29	and	_	Word	Word	_	33	L	33:L	_
-30	went	_	Word	Word	_	33	E	33:E	_
+30	went	_	Word	Word	_	33	D	33:D	_
 31	on	_	Word	Word	_	30	Terminal	30:Terminal	_
 32	to	_	Word	Word	_	33	F	33:F	_
 33	revolutionize	_	Word	Word	_	21	H	21:H	_

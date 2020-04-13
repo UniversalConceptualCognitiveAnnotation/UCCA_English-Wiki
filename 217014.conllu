@@ -1,22 +1,22 @@
 # format = ucca
 # sent_id = 217014
 # text = With revenue of $ 783 million worldwide , it was the second highest grossing film in 2004 .
-1	With	_	Word	Word	_	15	L	15:L	_
+1	With	_	Word	Word	_	10	L	10:L	_
 2	revenue	_	Word	Word	_	0	H	0:H	_
-3	of	_	Word	Word	_	6	R	6:R	_
-4	$	_	Word	Word	_	6	E	6:E	_
-5	783	_	Word	Word	_	4	Terminal	4:Terminal	_
-6	million	_	Word	Word	_	2	E	2:E	_
-7	worldwide	_	Word	Word	_	6	E	6:E	_
+3	of	_	Word	Word	_	4	R	4:R	_
+4	$	_	Word	Word	_	2	E	2:E	_
+5	783	_	Word	Word	_	4	Q	4:Q	_
+6	million	_	Word	Word	_	5	C	5:C	_
+7	worldwide	_	Word	Word	_	2	A	2:A	_
 8	,	_	Punctuation	Punctuation	_	2	U	2:U	_
-9	it	_	Word	Word	_	15	A	15:A|2:A	_
-10	was	_	Word	Word	_	15	F	15:F	_
-11	the	_	Word	Word	_	15	E	15:E	_
-12	second	_	Word	Word	_	15	E	15:E	_
-13	highest	_	Word	Word	_	14	E	14:E	_
+9	it	_	Word	Word	_	10	A	10:A	_
+10	was	_	Word	Word	_	2	H	2:H	_
+11	the	_	Word	Word	_	15	F	15:F	_
+12	second	_	Word	Word	_	13	Q	13:Q	_
+13	highest	_	Word	Word	_	14	D	14:D	_
 14	grossing	_	Word	Word	_	15	E	15:E	_
-15	film	_	Word	Word	_	2	H	2:H	_
+15	film	_	Word	Word	_	0	C	0:C|2:A|14:A	_
 16	in	_	Word	Word	_	17	R	17:R	_
-17	2004	_	Word	Word	_	15	D	15:D	_
+17	2004	_	Word	Word	_	10	T	10:T	_
 18	.	_	Punctuation	Punctuation	_	17	U	17:U	_
 

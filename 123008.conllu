@@ -1,17 +1,17 @@
 # format = ucca
 # sent_id = 123008
 # text = She attended the institution primarily to satisfy her mother , who had studied there , and recalled disliking the experience .
-1	She	_	Word	Word	_	2	A	2:A|7:A|17:A|18:A	_
+1	She	_	Word	Word	_	2	A	2:A|7:A|17:A|18:A|20:A	_
 2	attended	_	Word	Word	_	0	H	0:H	_
-3	the	_	Word	Word	_	4	E	4:E	_
+3	the	_	Word	Word	_	4	F	4:F	_
 4	institution	_	Word	Word	_	2	A	2:A	_
-5	primarily	_	Word	Word	_	2	D	2:D	_
+5	primarily	_	Word	Word	_	6	E	6:E	_
 6	to	_	Word	Word	_	7	L	7:L	_
 7	satisfy	_	Word	Word	_	2	H	2:H	_
-8	her	_	Word	Word	_	9	E	9:E	_
+8	her	_	Word	Word	_	9	A	9:A	_
 9	mother	_	Word	Word	_	7	A	7:A	_
-10	,	_	Punctuation	Punctuation	_	9	U	9:U	_
-11	who	_	Word	Word	_	13	F	13:F	_
+10	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+11	who	_	Word	Word	_	13	R	13:R	_
 12	had	_	Word	Word	_	13	F	13:F	_
 13	studied	_	Word	Word	_	9	E	9:E	_
 14	there	_	Word	Word	_	13	A	13:A	_
@@ -19,7 +19,7 @@
 16	and	_	Word	Word	_	17	L	17:L	_
 17	recalled	_	Word	Word	_	2	H	2:H	_
 18	disliking	_	Word	Word	_	17	A	17:A	_
-19	the	_	Word	Word	_	20	E	20:E	_
+19	the	_	Word	Word	_	20	F	20:F	_
 20	experience	_	Word	Word	_	18	A	18:A	_
 21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
 

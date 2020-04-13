@@ -1,21 +1,18 @@
 # format = ucca
 # sent_id = 727012
-# text = She portrayed an FBI profiler summoned to help Montreal law enforcement hunt down a serial killer .
-1	She	_	Word	Word	_	2	A	2:A	_
-2	portrayed	_	Word	Word	_	0	H	0:H	_
-3	an	_	Word	Word	_	5	E	5:E	_
-4	FBI	_	Word	Word	_	5	E	5:E	_
-5	profiler	_	Word	Word	_	8	A	8:A	_
-6	summoned	_	Word	Word	_	8	D	8:D	_
-7	to	_	Word	Word	_	8	F	8:F	_
-8	help	_	Word	Word	_	2	A	2:A	_
-9	Montreal	_	Word	Word	_	11	E	11:E	_
-10	law	_	Word	Word	_	11	E	11:E	_
-11	enforcement	_	Word	Word	_	8	A	8:A	_
-12	hunt	_	Word	Word	_	8	A	8:A	_
-13	down	_	Word	Word	_	12	Terminal	12:Terminal	_
-14	a	_	Word	Word	_	16	E	16:E	_
-15	serial	_	Word	Word	_	16	E	16:E	_
-16	killer	_	Word	Word	_	12	A	12:A	_
-17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+# text = In 2004 , Jolie starred alongside Ethan Hawke in the thriller Taking Lives .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	2004	_	Word	Word	_	5	T	5:T	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	Jolie	_	Word	Word	_	5	A	5:A	_
+5	starred	_	Word	Word	_	0	H	0:H	_
+6	alongside	_	Word	Word	_	7	R	7:R	_
+7	Ethan	_	Word	Word	_	5	A	5:A	_
+8	Hawke	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	in	_	Word	Word	_	12	R	12:R	_
+10	the	_	Word	Word	_	11	E	11:E	_
+11	thriller	_	Word	Word	_	12	E	12:E	_
+12	Taking	_	Word	Word	_	5	A	5:A	_
+13	Lives	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	.	_	Punctuation	Punctuation	_	12	U	12:U	_
 

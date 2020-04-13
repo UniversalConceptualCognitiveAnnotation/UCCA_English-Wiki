@@ -1,35 +1,35 @@
 # format = ucca
 # sent_id = 472001
 # text = However , after Johnson went down with a hamstring injury in Game 2 , the Lakers were no match for the Pistons , who swept them 4 - 0 . -
-1	However	_	Word	Word	_	3	E	3:E	_
-2	,	_	Punctuation	Punctuation	_	3	U	3:U	_
-3	after	_	Word	Word	_	19	L	19:L	_
-4	Johnson	_	Word	Word	_	5	A	5:A	_
+1	However	_	Word	Word	_	10	L	10:L	_
+2	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+3	after	_	Word	Word	_	10	L	10:L	_
+4	Johnson	_	Word	Word	_	5	A	5:A|10:A	_
 5	went	_	Word	Word	_	0	H	0:H	_
 6	down	_	Word	Word	_	5	Terminal	5:Terminal	_
-7	with	_	Word	Word	_	10	R	10:R	_
-8	a	_	Word	Word	_	10	E	10:E	_
-9	hamstring	_	Word	Word	_	10	E	10:E	_
-10	injury	_	Word	Word	_	5	A	5:A	_
+7	with	_	Word	Word	_	10	L	10:L	_
+8	a	_	Word	Word	_	10	F	10:F	_
+9	hamstring	_	Word	Word	_	10	A	10:A	_
+10	injury	_	Word	Word	_	5	H	5:H	_
 11	in	_	Word	Word	_	12	R	12:R	_
 12	Game	_	Word	Word	_	5	A	5:A	_
-13	2	_	Word	Word	_	12	E	12:E	_
+13	2	_	Word	Word	_	12	Q	12:Q	_
 14	,	_	Punctuation	Punctuation	_	5	U	5:U	_
-15	the	_	Word	Word	_	16	E	16:E	_
+15	the	_	Word	Word	_	16	F	16:F	_
 16	Lakers	_	Word	Word	_	19	A	19:A	_
 17	were	_	Word	Word	_	19	F	19:F	_
 18	no	_	Word	Word	_	19	D	19:D	_
 19	match	_	Word	Word	_	5	H	5:H	_
 20	for	_	Word	Word	_	22	R	22:R	_
-21	the	_	Word	Word	_	22	E	22:E	_
+21	the	_	Word	Word	_	22	F	22:F	_
 22	Pistons	_	Word	Word	_	19	A	19:A	_
 23	,	_	Punctuation	Punctuation	_	22	U	22:U	_
-24	who	_	Word	Word	_	25	F	25:F	_
+24	who	_	Word	Word	_	25	R	25:R	_
 25	swept	_	Word	Word	_	22	E	22:E	_
 26	them	_	Word	Word	_	25	A	25:A	_
 27	4	_	Word	Word	_	25	A	25:A	_
 28	-	_	Punctuation	Punctuation	_	27	U	27:U	_
-29	0	_	Word	Word	_	27	Terminal	27:Terminal	_
-30	.	_	Punctuation	Punctuation	_	25	U	25:U	_
-31	-	_	Punctuation	Punctuation	_	25	U	25:U	_
+29	0	_	Word	Word	_	27	C	27:C	_
+30	.	_	Punctuation	Punctuation	_	27	U	27:U	_
+31	-	_	Punctuation	Punctuation	_	27	U	27:U	_
 

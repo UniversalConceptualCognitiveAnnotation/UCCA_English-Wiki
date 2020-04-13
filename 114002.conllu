@@ -2,13 +2,13 @@
 # sent_id = 114002
 # text = Her work came in a range of genres , from screwball comedy to literary drama , and she received four Academy Awards for Best Actress - a record for any performer .
 1	Her	_	Word	Word	_	2	A	2:A	_
-2	work	_	Word	Word	_	3	A	3:A	_
-3	came	_	Word	Word	_	0	H	0:H	_
-4	in	_	Word	Word	_	6	R	6:R	_
+2	work	_	Word	Word	_	0	H	0:H	_
+3	came	_	Word	Word	_	2	D	2:D	_
+4	in	_	Word	Word	_	8	R	8:R	_
 5	a	_	Word	Word	_	6	E	6:E	_
-6	range	_	Word	Word	_	3	A	3:A	_
+6	range	_	Word	Word	_	8	Q	8:Q	_
 7	of	_	Word	Word	_	8	R	8:R	_
-8	genres	_	Word	Word	_	6	E	6:E	_
+8	genres	_	Word	Word	_	2	A	2:A	_
 9	,	_	Punctuation	Punctuation	_	8	U	8:U	_
 10	from	_	Word	Word	_	12	R	12:R	_
 11	screwball	_	Word	Word	_	12	E	12:E	_
@@ -16,21 +16,21 @@
 13	to	_	Word	Word	_	15	R	15:R	_
 14	literary	_	Word	Word	_	15	E	15:E	_
 15	drama	_	Word	Word	_	12	C	12:C	_
-16	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+16	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 17	and	_	Word	Word	_	19	L	19:L	_
 18	she	_	Word	Word	_	19	A	19:A	_
-19	received	_	Word	Word	_	3	H	3:H	_
-20	four	_	Word	Word	_	22	E	22:E	_
+19	received	_	Word	Word	_	2	H	2:H	_
+20	four	_	Word	Word	_	22	Q	22:Q	_
 21	Academy	_	Word	Word	_	22	E	22:E	_
 22	Awards	_	Word	Word	_	19	A	19:A	_
-23	for	_	Word	Word	_	25	R	25:R	_
-24	Best	_	Word	Word	_	25	E	25:E	_
-25	Actress	_	Word	Word	_	22	E	22:E	_
-26	-	_	Punctuation	Punctuation	_	22	U	22:U	_
+23	for	_	Word	Word	_	24	R	24:R	_
+24	Best	_	Word	Word	_	22	E	22:E	_
+25	Actress	_	Word	Word	_	24	A	24:A	_
+26	-	_	Punctuation	Punctuation	_	19	U	19:U	_
 27	a	_	Word	Word	_	28	E	28:E	_
-28	record	_	Word	Word	_	22	E	22:E	_
+28	record	_	Word	Word	_	19	A	19:A	_
 29	for	_	Word	Word	_	31	R	31:R	_
-30	any	_	Word	Word	_	31	E	31:E	_
+30	any	_	Word	Word	_	31	Q	31:Q	_
 31	performer	_	Word	Word	_	28	A	28:A	_
 32	.	_	Punctuation	Punctuation	_	31	U	31:U	_
 

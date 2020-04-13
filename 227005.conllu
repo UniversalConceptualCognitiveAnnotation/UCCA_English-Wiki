@@ -2,7 +2,7 @@
 # sent_id = 227005
 # text = In 2004 he teamed up with Steve Coogan in the big - budget loose adaptation of Jules Verne 's Around the World in 80 Days .
 1	In	_	Word	Word	_	2	R	2:R	_
-2	2004	_	Word	Word	_	4	D	4:D	_
+2	2004	_	Word	Word	_	4	T	4:T	_
 3	he	_	Word	Word	_	4	A	4:A	_
 4	teamed	_	Word	Word	_	0	H	0:H	_
 5	up	_	Word	Word	_	4	F	4:F	_
@@ -10,16 +10,16 @@
 7	Steve	_	Word	Word	_	4	A	4:A	_
 8	Coogan	_	Word	Word	_	7	Terminal	7:Terminal	_
 9	in	_	Word	Word	_	15	R	15:R	_
-10	the	_	Word	Word	_	15	E	15:E	_
+10	the	_	Word	Word	_	15	F	15:F	_
 11	big	_	Word	Word	_	13	E	13:E	_
-12	-	_	Punctuation	Punctuation	_	13	U	13:U	_
+12	-	_	Punctuation	Punctuation	_	11	U	11:U	_
 13	budget	_	Word	Word	_	15	E	15:E	_
 14	loose	_	Word	Word	_	15	E	15:E	_
 15	adaptation	_	Word	Word	_	4	A	4:A	_
 16	of	_	Word	Word	_	20	R	20:R	_
-17	Jules	_	Word	Word	_	20	E	20:E	_
+17	Jules	_	Word	Word	_	19	A	19:A	_
 18	Verne	_	Word	Word	_	17	Terminal	17:Terminal	_
-19	's	_	Word	Word	_	17	R	17:R	_
+19	's	_	Word	Word	_	20	E	20:E	_
 20	Around	_	Word	Word	_	15	E	15:E	_
 21	the	_	Word	Word	_	20	Terminal	20:Terminal	_
 22	World	_	Word	Word	_	20	Terminal	20:Terminal	_

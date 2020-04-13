@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 647007
 # text = Pang , 22 , astounded by Ono 's proposition , eventually agreed to become Lennon 's companion .
-1	Pang	_	Word	Word	_	0	C	0:C|3:A|14:A	_
+1	Pang	_	Word	Word	_	0	C	0:C|3:A|12:A|17:A	_
 2	,	_	Punctuation	Punctuation	_	1	U	1:U	_
 3	22	_	Word	Word	_	1	E	1:E	_
 4	,	_	Punctuation	Punctuation	_	5	U	5:U	_
@@ -11,12 +11,12 @@
 8	's	_	Word	Word	_	7	R	7:R	_
 9	proposition	_	Word	Word	_	5	A	5:A	_
 10	,	_	Punctuation	Punctuation	_	5	U	5:U	_
-11	eventually	_	Word	Word	_	14	D	14:D	_
-12	agreed	_	Word	Word	_	14	D	14:D	_
-13	to	_	Word	Word	_	14	F	14:F	_
-14	become	_	Word	Word	_	5	H	5:H	_
-15	Lennon	_	Word	Word	_	17	E	17:E	_
+11	eventually	_	Word	Word	_	12	D	12:D	_
+12	agreed	_	Word	Word	_	5	H	5:H	_
+13	to	_	Word	Word	_	17	R	17:R	_
+14	become	_	Word	Word	_	17	D	17:D	_
+15	Lennon	_	Word	Word	_	17	A	17:A	_
 16	's	_	Word	Word	_	15	R	15:R	_
-17	companion	_	Word	Word	_	14	A	14:A	_
+17	companion	_	Word	Word	_	12	A	12:A	_
 18	.	_	Punctuation	Punctuation	_	17	U	17:U	_
 

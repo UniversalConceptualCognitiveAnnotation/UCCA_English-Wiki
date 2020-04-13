@@ -2,22 +2,22 @@
 # sent_id = 457003
 # text = In January 1994 , he locked horns with his executive producer on World News Tonight , Emily Rooney .
 1	In	_	Word	Word	_	2	R	2:R	_
-2	January	_	Word	Word	_	7	D	7:D	_
-3	1994	_	Word	Word	_	2	Terminal	2:Terminal	_
-4	,	_	Punctuation	Punctuation	_	7	U	7:U	_
-5	he	_	Word	Word	_	7	A	7:A	_
-6	locked	_	Word	Word	_	7	D	7:D	_
-7	horns	_	Word	Word	_	0	H	0:H	_
+2	January	_	Word	Word	_	6	T	6:T	_
+3	1994	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	he	_	Word	Word	_	6	A	6:A	_
+6	locked	_	Word	Word	_	0	H	0:H	_
+7	horns	_	Word	Word	_	6	Terminal	6:Terminal	_
 8	with	_	Word	Word	_	17	R	17:R	_
-9	his	_	Word	Word	_	11	E	11:E	_
+9	his	_	Word	Word	_	11	A	11:A	_
 10	executive	_	Word	Word	_	11	E	11:E	_
 11	producer	_	Word	Word	_	17	E	17:E	_
 12	on	_	Word	Word	_	13	R	13:R	_
-13	World	_	Word	Word	_	11	E	11:E	_
+13	World	_	Word	Word	_	11	A	11:A	_
 14	News	_	Word	Word	_	13	Terminal	13:Terminal	_
 15	Tonight	_	Word	Word	_	13	Terminal	13:Terminal	_
 16	,	_	Punctuation	Punctuation	_	17	U	17:U	_
-17	Emily	_	Word	Word	_	7	A	7:A	_
+17	Emily	_	Word	Word	_	6	A	6:A	_
 18	Rooney	_	Word	Word	_	17	Terminal	17:Terminal	_
 19	.	_	Punctuation	Punctuation	_	17	U	17:U	_
 

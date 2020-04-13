@@ -1,19 +1,19 @@
 # format = ucca
 # sent_id = 694007
-# text = This political material was accompanied by two personal love songs , " Boots of Spanish Leather " and " One Too Many Mornings " .
+# text = This political material was accompanied by two personal love songs , " Boots of Spanish Leather " and " One Too Many Mornings " . By the end of 1963 , Dylan felt both manipulated and constrained by the folk and protest movements .
 1	This	_	Word	Word	_	3	E	3:E	_
 2	political	_	Word	Word	_	3	E	3:E	_
 3	material	_	Word	Word	_	5	A	5:A	_
 4	was	_	Word	Word	_	5	F	5:F	_
 5	accompanied	_	Word	Word	_	0	H	0:H	_
-6	by	_	Word	Word	_	10	R	10:R	_
-7	two	_	Word	Word	_	10	E	10:E	_
+6	by	_	Word	Word	_	13	R	13:R	_
+7	two	_	Word	Word	_	10	Q	10:Q	_
 8	personal	_	Word	Word	_	10	E	10:E	_
 9	love	_	Word	Word	_	10	E	10:E	_
-10	songs	_	Word	Word	_	5	A	5:A	_
-11	,	_	Punctuation	Punctuation	_	10	U	10:U	_
-12	"	_	Punctuation	Punctuation	_	10	U	10:U	_
-13	Boots	_	Word	Word	_	10	E	10:E	_
+10	songs	_	Word	Word	_	13	E	13:E	_
+11	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+12	"	_	Punctuation	Punctuation	_	13	U	13:U	_
+13	Boots	_	Word	Word	_	5	A	5:A	_
 14	of	_	Word	Word	_	13	Terminal	13:Terminal	_
 15	Spanish	_	Word	Word	_	13	Terminal	13:Terminal	_
 16	Leather	_	Word	Word	_	13	Terminal	13:Terminal	_
@@ -24,6 +24,25 @@
 21	Too	_	Word	Word	_	20	Terminal	20:Terminal	_
 22	Many	_	Word	Word	_	20	Terminal	20:Terminal	_
 23	Mornings	_	Word	Word	_	20	Terminal	20:Terminal	_
-24	"	_	Punctuation	Punctuation	_	13	U	13:U	_
-25	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+24	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+25	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+26	By	_	Word	Word	_	28	R	28:R	_
+27	the	_	Word	Word	_	28	E	28:E	_
+28	end	_	Word	Word	_	35	T	35:T	_
+29	of	_	Word	Word	_	30	R	30:R	_
+30	1963	_	Word	Word	_	28	C	28:C	_
+31	,	_	Punctuation	Punctuation	_	35	U	35:U	_
+32	Dylan	_	Word	Word	_	35	A	35:A|37:A	_
+33	felt	_	Word	Word	_	35	D	35:D	_
+34	both	_	Word	Word	_	35	L	35:L	_
+35	manipulated	_	Word	Word	_	5	H	5:H	_
+36	and	_	Word	Word	_	37	L	37:L	_
+37	constrained	_	Word	Word	_	5	H	5:H	_
+38	by	_	Word	Word	_	43	R	43:R	_
+39	the	_	Word	Word	_	43	F	43:F	_
+40	folk	_	Word	Word	_	43	A	43:A	_
+41	and	_	Word	Word	_	40	N	40:N	_
+42	protest	_	Word	Word	_	40	C	40:C	_
+43	movements	_	Word	Word	_	0	S	0:S|37:A	_
+44	.	_	Punctuation	Punctuation	_	37	U	37:U	_
 

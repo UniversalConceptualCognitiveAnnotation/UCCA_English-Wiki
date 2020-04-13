@@ -2,7 +2,7 @@
 # sent_id = 489002
 # text = The film was a critical success , and was nominated for five Academy Awards in 2006 .
 1	The	_	Word	Word	_	2	E	2:E	_
-2	film	_	Word	Word	_	6	A	6:A|10:A	_
+2	film	_	Word	Word	_	0	C	0:C|10:A	_
 3	was	_	Word	Word	_	6	F	6:F	_
 4	a	_	Word	Word	_	5	E	5:E	_
 5	critical	_	Word	Word	_	6	A	6:A	_
@@ -12,10 +12,10 @@
 9	was	_	Word	Word	_	10	F	10:F	_
 10	nominated	_	Word	Word	_	6	H	6:H	_
 11	for	_	Word	Word	_	13	R	13:R	_
-12	five	_	Word	Word	_	13	E	13:E	_
+12	five	_	Word	Word	_	13	Q	13:Q	_
 13	Academy	_	Word	Word	_	10	A	10:A	_
 14	Awards	_	Word	Word	_	13	Terminal	13:Terminal	_
 15	in	_	Word	Word	_	16	R	16:R	_
-16	2006	_	Word	Word	_	10	D	10:D	_
+16	2006	_	Word	Word	_	10	T	10:T	_
 17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
 

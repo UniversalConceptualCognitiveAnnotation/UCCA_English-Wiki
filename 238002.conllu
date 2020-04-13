@@ -1,15 +1,15 @@
 # format = ucca
 # sent_id = 238002
 # text = Hassan himself reciprocated the desire to work with the action superstar , urging Chan to keep his promise of working with him on a possible film project .
-1	Hassan	_	Word	Word	_	3	A	3:A|7:A|13:A	_
+1	Hassan	_	Word	Word	_	0	C	0:C|13:A	_
 2	himself	_	Word	Word	_	1	E	1:E	_
 3	reciprocated	_	Word	Word	_	0	H	0:H	_
-4	the	_	Word	Word	_	5	E	5:E	_
-5	desire	_	Word	Word	_	3	A	3:A	_
+4	the	_	Word	Word	_	7	F	7:F	_
+5	desire	_	Word	Word	_	7	D	7:D	_
 6	to	_	Word	Word	_	7	R	7:R	_
-7	work	_	Word	Word	_	5	E	5:E	_
+7	work	_	Word	Word	_	3	A	3:A	_
 8	with	_	Word	Word	_	11	R	11:R	_
-9	the	_	Word	Word	_	11	E	11:E	_
+9	the	_	Word	Word	_	11	F	11:F	_
 10	action	_	Word	Word	_	11	E	11:E	_
 11	superstar	_	Word	Word	_	7	A	7:A	_
 12	,	_	Punctuation	Punctuation	_	3	U	3:U	_
@@ -17,14 +17,14 @@
 14	Chan	_	Word	Word	_	13	A	13:A|16:A|20:A	_
 15	to	_	Word	Word	_	16	F	16:F	_
 16	keep	_	Word	Word	_	13	A	13:A	_
-17	his	_	Word	Word	_	18	E	18:E	_
+17	his	_	Word	Word	_	18	A	18:A	_
 18	promise	_	Word	Word	_	16	A	16:A	_
 19	of	_	Word	Word	_	20	R	20:R	_
-20	working	_	Word	Word	_	18	E	18:E	_
+20	working	_	Word	Word	_	18	A	18:A	_
 21	with	_	Word	Word	_	22	R	22:R	_
 22	him	_	Word	Word	_	20	A	20:A	_
 23	on	_	Word	Word	_	27	R	27:R	_
-24	a	_	Word	Word	_	27	E	27:E	_
+24	a	_	Word	Word	_	27	F	27:F	_
 25	possible	_	Word	Word	_	27	E	27:E	_
 26	film	_	Word	Word	_	27	E	27:E	_
 27	project	_	Word	Word	_	20	A	20:A	_

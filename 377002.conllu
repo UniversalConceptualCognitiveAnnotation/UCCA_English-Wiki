@@ -1,31 +1,31 @@
 # format = ucca
 # sent_id = 377002
 # text = His parents did not allow him to appear in the 1992 film The Mighty Ducks because it would have required his leaving home for two months .
-1	His	_	Word	Word	_	2	E	2:E	_
-2	parents	_	Word	Word	_	5	A	5:A	_
-3	did	_	Word	Word	_	5	F	5:F	_
-4	not	_	Word	Word	_	5	D	5:D	_
-5	allow	_	Word	Word	_	0	H	0:H	_
-6	him	_	Word	Word	_	5	A	5:A|8:A	_
+1	His	_	Word	Word	_	8	A	8:A	_
+2	parents	_	Word	Word	_	1	A	1:A	_
+3	did	_	Word	Word	_	8	F	8:F	_
+4	not	_	Word	Word	_	8	D	8:D	_
+5	allow	_	Word	Word	_	8	D	8:D	_
+6	him	_	Word	Word	_	8	A	8:A	_
 7	to	_	Word	Word	_	8	F	8:F	_
-8	appear	_	Word	Word	_	5	A	5:A	_
+8	appear	_	Word	Word	_	0	H	0:H	_
 9	in	_	Word	Word	_	13	R	13:R	_
-10	the	_	Word	Word	_	12	E	12:E	_
-11	1992	_	Word	Word	_	12	E	12:E	_
+10	the	_	Word	Word	_	13	F	13:F	_
+11	1992	_	Word	Word	_	13	E	13:E	_
 12	film	_	Word	Word	_	13	E	13:E	_
 13	The	_	Word	Word	_	8	A	8:A	_
 14	Mighty	_	Word	Word	_	13	Terminal	13:Terminal	_
 15	Ducks	_	Word	Word	_	13	Terminal	13:Terminal	_
-16	because	_	Word	Word	_	20	L	20:L	_
-17	it	_	Word	Word	_	20	A	20:A	_
-18	would	_	Word	Word	_	20	D	20:D	_
-19	have	_	Word	Word	_	20	F	20:F	_
-20	required	_	Word	Word	_	5	H	5:H	_
+16	because	_	Word	Word	_	22	L	22:L	_
+17	it	_	Word	Word	_	22	A	22:A	_
+18	would	_	Word	Word	_	22	D	22:D	_
+19	have	_	Word	Word	_	22	F	22:F	_
+20	required	_	Word	Word	_	22	D	22:D	_
 21	his	_	Word	Word	_	22	A	22:A	_
-22	leaving	_	Word	Word	_	20	A	20:A	_
+22	leaving	_	Word	Word	_	8	H	8:H	_
 23	home	_	Word	Word	_	22	A	22:A	_
 24	for	_	Word	Word	_	26	R	26:R	_
-25	two	_	Word	Word	_	26	E	26:E	_
-26	months	_	Word	Word	_	22	D	22:D	_
+25	two	_	Word	Word	_	26	Q	26:Q	_
+26	months	_	Word	Word	_	22	T	22:T	_
 27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
 

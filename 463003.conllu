@@ -3,7 +3,7 @@
 # text = For the week of his death , World News Tonight placed number one in the ratings race for the first time since June 2004 .
 1	For	_	Word	Word	_	3	R	3:R	_
 2	the	_	Word	Word	_	3	E	3:E	_
-3	week	_	Word	Word	_	11	D	11:D	_
+3	week	_	Word	Word	_	11	T	11:T	_
 4	of	_	Word	Word	_	6	R	6:R	_
 5	his	_	Word	Word	_	6	E	6:E	_
 6	death	_	Word	Word	_	3	E	3:E	_
@@ -24,6 +24,6 @@
 21	time	_	Word	Word	_	11	D	11:D	_
 22	since	_	Word	Word	_	23	R	23:R	_
 23	June	_	Word	Word	_	21	E	21:E	_
-24	2004	_	Word	Word	_	23	Terminal	23:Terminal	_
+24	2004	_	Word	Word	_	23	C	23:C	_
 25	.	_	Punctuation	Punctuation	_	23	U	23:U	_
 

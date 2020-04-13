@@ -1,28 +1,28 @@
 # format = ucca
 # sent_id = 252005
 # text = A contributor from the New York Post noted it was Hawke 's " best performance in years " . Hawke won an Obie Award for his role in Blood from a Stone .
-1	A	_	Word	Word	_	2	E	2:E	_
+1	A	_	Word	Word	_	2	F	2:F	_
 2	contributor	_	Word	Word	_	8	A	8:A	_
 3	from	_	Word	Word	_	4	R	4:R	_
-4	the	_	Word	Word	_	2	E	2:E	_
+4	the	_	Word	Word	_	2	A	2:A	_
 5	New	_	Word	Word	_	4	Terminal	4:Terminal	_
 6	York	_	Word	Word	_	4	Terminal	4:Terminal	_
 7	Post	_	Word	Word	_	4	Terminal	4:Terminal	_
 8	noted	_	Word	Word	_	0	H	0:H	_
-9	it	_	Word	Word	_	10	A	10:A	_
-10	was	_	Word	Word	_	8	A	8:A	_
+9	it	_	Word	Word	_	15	A	15:A	_
+10	was	_	Word	Word	_	15	F	15:F	_
 11	Hawke	_	Word	Word	_	15	A	15:A	_
 12	's	_	Word	Word	_	11	R	11:R	_
 13	"	_	Punctuation	Punctuation	_	15	U	15:U	_
-14	best	_	Word	Word	_	15	E	15:E	_
-15	performance	_	Word	Word	_	10	A	10:A	_
+14	best	_	Word	Word	_	15	D	15:D	_
+15	performance	_	Word	Word	_	8	A	8:A	_
 16	in	_	Word	Word	_	17	R	17:R	_
-17	years	_	Word	Word	_	15	D	15:D	_
+17	years	_	Word	Word	_	15	T	15:T	_
 18	"	_	Punctuation	Punctuation	_	8	U	8:U	_
 19	.	_	Punctuation	Punctuation	_	8	U	8:U	_
 20	Hawke	_	Word	Word	_	21	A	21:A	_
 21	won	_	Word	Word	_	8	H	8:H	_
-22	an	_	Word	Word	_	23	E	23:E	_
+22	an	_	Word	Word	_	23	F	23:F	_
 23	Obie	_	Word	Word	_	21	A	21:A	_
 24	Award	_	Word	Word	_	23	Terminal	23:Terminal	_
 25	for	_	Word	Word	_	27	R	27:R	_

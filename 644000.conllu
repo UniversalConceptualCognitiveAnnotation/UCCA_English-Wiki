@@ -1,10 +1,10 @@
 # format = ucca
 # sent_id = 644000
 # text = Lennon delighted in mocking Epstein for his homosexuality and for the fact that he was Jewish .
-1	Lennon	_	Word	Word	_	2	A	2:A|4:A	_
-2	delighted	_	Word	Word	_	0	H	0:H	_
+1	Lennon	_	Word	Word	_	4	A	4:A	_
+2	delighted	_	Word	Word	_	4	D	4:D	_
 3	in	_	Word	Word	_	4	F	4:F	_
-4	mocking	_	Word	Word	_	2	A	2:A	_
+4	mocking	_	Word	Word	_	0	H	0:H	_
 5	Epstein	_	Word	Word	_	4	A	4:A	_
 6	for	_	Word	Word	_	8	R	8:R	_
 7	his	_	Word	Word	_	8	A	8:A	_
@@ -13,7 +13,7 @@
 10	for	_	Word	Word	_	12	R	12:R	_
 11	the	_	Word	Word	_	12	E	12:E	_
 12	fact	_	Word	Word	_	8	C	8:C	_
-13	that	_	Word	Word	_	16	F	16:F	_
+13	that	_	Word	Word	_	16	R	16:R	_
 14	he	_	Word	Word	_	16	A	16:A	_
 15	was	_	Word	Word	_	16	F	16:F	_
 16	Jewish	_	Word	Word	_	12	E	12:E	_

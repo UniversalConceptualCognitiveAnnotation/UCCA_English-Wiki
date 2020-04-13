@@ -2,29 +2,29 @@
 # sent_id = 474008
 # text = Stating that it was never his dream to coach , he chose instead to purchase a 5 % share of the team in June 1994 .
 1	Stating	_	Word	Word	_	0	H	0:H	_
-2	that	_	Word	Word	_	7	F	7:F	_
+2	that	_	Word	Word	_	7	R	7:R	_
 3	it	_	Word	Word	_	7	F	7:F	_
 4	was	_	Word	Word	_	7	F	7:F	_
 5	never	_	Word	Word	_	7	D	7:D	_
-6	his	_	Word	Word	_	7	E	7:E	_
+6	his	_	Word	Word	_	7	A	7:A|9:A	_
 7	dream	_	Word	Word	_	1	A	1:A	_
 8	to	_	Word	Word	_	9	F	9:F	_
 9	coach	_	Word	Word	_	7	A	7:A	_
-10	,	_	Punctuation	Punctuation	_	9	U	9:U	_
-11	he	_	Word	Word	_	12	A	12:A|1:A|7:A|9:A|15:A	_
+10	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+11	he	_	Word	Word	_	12	A	12:A|1:A|15:A	_
 12	chose	_	Word	Word	_	1	H	1:H	_
 13	instead	_	Word	Word	_	1	L	1:L	_
 14	to	_	Word	Word	_	15	F	15:F	_
 15	purchase	_	Word	Word	_	12	A	12:A	_
-16	a	_	Word	Word	_	17	E	17:E	_
-17	5	_	Word	Word	_	19	E	19:E	_
-18	%	_	Punctuation	Punctuation	_	19	U	19:U	_
+16	a	_	Word	Word	_	19	F	19:F	_
+17	5	_	Word	Word	_	18	Q	18:Q	_
+18	%	_	Word	Word	_	19	Q	19:Q	_
 19	share	_	Word	Word	_	15	A	15:A	_
 20	of	_	Word	Word	_	22	R	22:R	_
-21	the	_	Word	Word	_	22	E	22:E	_
+21	the	_	Word	Word	_	22	F	22:F	_
 22	team	_	Word	Word	_	19	E	19:E	_
-23	in	_	Word	Word	_	25	R	25:R	_
-24	June	_	Word	Word	_	25	E	25:E	_
-25	1994	_	Word	Word	_	12	D	12:D	_
-26	.	_	Punctuation	Punctuation	_	25	U	25:U	_
+23	in	_	Word	Word	_	24	R	24:R	_
+24	June	_	Word	Word	_	12	T	12:T	_
+25	1994	_	Word	Word	_	24	C	24:C	_
+26	.	_	Punctuation	Punctuation	_	24	U	24:U	_
 

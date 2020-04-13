@@ -1,13 +1,13 @@
 # format = ucca
 # sent_id = 183010
 # text = Betty was inspired to become an actress after seeing Rudolph Valentino in The Four Horsemen of the Apocalypse ( 1921 ) and Mary Pickford in Little Lord Fauntleroy ( 1921 ) , and changed the spelling of her name to " Bette " after Honoré de Balzac 's La Cousine Bette .
-1	Betty	_	Word	Word	_	3	A	3:A|5:A|9:A|34:A	_
+1	Betty	_	Word	Word	_	3	A	3:A|7:A|9:A|34:A	_
 2	was	_	Word	Word	_	3	F	3:F	_
 3	inspired	_	Word	Word	_	0	H	0:H	_
-4	to	_	Word	Word	_	5	F	5:F	_
-5	become	_	Word	Word	_	3	A	3:A	_
-6	an	_	Word	Word	_	7	E	7:E	_
-7	actress	_	Word	Word	_	5	A	5:A	_
+4	to	_	Word	Word	_	7	F	7:F	_
+5	become	_	Word	Word	_	7	D	7:D	_
+6	an	_	Word	Word	_	7	F	7:F	_
+7	actress	_	Word	Word	_	3	A	3:A	_
 8	after	_	Word	Word	_	9	L	9:L	_
 9	seeing	_	Word	Word	_	3	H	3:H	_
 10	Rudolph	_	Word	Word	_	9	A	9:A	_
@@ -35,7 +35,7 @@
 32	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 33	and	_	Word	Word	_	34	L	34:L	_
 34	changed	_	Word	Word	_	3	H	3:H	_
-35	the	_	Word	Word	_	36	E	36:E	_
+35	the	_	Word	Word	_	36	F	36:F	_
 36	spelling	_	Word	Word	_	34	A	34:A	_
 37	of	_	Word	Word	_	39	R	39:R	_
 38	her	_	Word	Word	_	39	E	39:E	_
@@ -44,13 +44,13 @@
 41	"	_	Punctuation	Punctuation	_	42	U	42:U	_
 42	Bette	_	Word	Word	_	34	A	34:A	_
 43	"	_	Punctuation	Punctuation	_	42	U	42:U	_
-44	after	_	Word	Word	_	51	R	51:R	_
-45	Honoré	_	Word	Word	_	51	E	51:E	_
+44	after	_	Word	Word	_	49	R	49:R	_
+45	Honoré	_	Word	Word	_	48	A	48:A	_
 46	de	_	Word	Word	_	45	Terminal	45:Terminal	_
 47	Balzac	_	Word	Word	_	45	Terminal	45:Terminal	_
-48	's	_	Word	Word	_	45	R	45:R	_
-49	La	_	Word	Word	_	50	E	50:E	_
-50	Cousine	_	Word	Word	_	51	E	51:E	_
-51	Bette	_	Word	Word	_	42	E	42:E	_
-52	.	_	Punctuation	Punctuation	_	51	U	51:U	_
+48	's	_	Word	Word	_	49	E	49:E	_
+49	La	_	Word	Word	_	42	E	42:E	_
+50	Cousine	_	Word	Word	_	49	Terminal	49:Terminal	_
+51	Bette	_	Word	Word	_	49	Terminal	49:Terminal	_
+52	.	_	Punctuation	Punctuation	_	49	U	49:U	_
 

@@ -5,10 +5,10 @@
 2	next	_	Word	Word	_	3	D	3:D	_
 3	appeared	_	Word	Word	_	0	H	0:H	_
 4	in	_	Word	Word	_	9	R	9:R	_
-5	Robert	_	Word	Word	_	9	E	9:E	_
+5	Robert	_	Word	Word	_	8	A	8:A	_
 6	De	_	Word	Word	_	5	Terminal	5:Terminal	_
 7	Niro	_	Word	Word	_	5	Terminal	5:Terminal	_
-8	's	_	Word	Word	_	5	R	5:R	_
+8	's	_	Word	Word	_	9	E	9:E	_
 9	The	_	Word	Word	_	3	A	3:A	_
 10	Good	_	Word	Word	_	9	Terminal	9:Terminal	_
 11	Shepherd	_	Word	Word	_	9	Terminal	9:Terminal	_
@@ -18,10 +18,10 @@
 15	,	_	Punctuation	Punctuation	_	9	U	9:U	_
 16	a	_	Word	Word	_	17	E	17:E	_
 17	film	_	Word	Word	_	9	E	9:E	_
-18	about	_	Word	Word	_	21	R	21:R	_
+18	about	_	Word	Word	_	17	E	17:E	_
 19	the	_	Word	Word	_	21	E	21:E	_
 20	early	_	Word	Word	_	21	E	21:E	_
-21	history	_	Word	Word	_	17	E	17:E	_
+21	history	_	Word	Word	_	18	A	18:A	_
 22	of	_	Word	Word	_	24	R	24:R	_
 23	the	_	Word	Word	_	24	E	24:E	_
 24	CIA	_	Word	Word	_	21	E	21:E	_
@@ -36,16 +36,16 @@
 33	Wilson	_	Word	Word	_	32	Terminal	32:Terminal	_
 34	,	_	Punctuation	Punctuation	_	32	U	32:U	_
 35	an	_	Word	Word	_	36	E	36:E	_
-36	officer	_	Word	Word	_	0	C	0:C|43:A	_
-37	based	_	Word	Word	_	32	E	32:E	_
-38	on	_	Word	Word	_	37	R	37:R	_
+36	officer	_	Word	Word	_	32	E	32:E	_
+37	based	_	Word	Word	_	36	E	36:E	_
+38	on	_	Word	Word	_	39	R	39:R	_
 39	James	_	Word	Word	_	37	A	37:A	_
 40	Jesus	_	Word	Word	_	39	Terminal	39:Terminal	_
 41	Angleton	_	Word	Word	_	39	Terminal	39:Terminal	_
 42	and	_	Word	Word	_	43	L	43:L	_
 43	played	_	Word	Word	_	37	H	37:H	_
-44	by	_	Word	Word	_	43	R	43:R	_
+44	by	_	Word	Word	_	45	R	45:R	_
 45	Matt	_	Word	Word	_	43	A	43:A	_
 46	Damon	_	Word	Word	_	45	Terminal	45:Terminal	_
-47	.	_	Punctuation	Punctuation	_	43	U	43:U	_
+47	.	_	Punctuation	Punctuation	_	45	U	45:U	_
 

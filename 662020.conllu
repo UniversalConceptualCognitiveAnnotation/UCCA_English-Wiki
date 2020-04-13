@@ -1,27 +1,27 @@
 # format = ucca
 # sent_id = 662020
 # text = The album eventually became the best - selling Christmas album of all time , with global sales reaching over 15 million copies .
-1	The	_	Word	Word	_	2	E	2:E	_
+1	The	_	Word	Word	_	2	F	2:F	_
 2	album	_	Word	Word	_	4	A	4:A	_
 3	eventually	_	Word	Word	_	4	D	4:D	_
 4	became	_	Word	Word	_	0	H	0:H	_
-5	the	_	Word	Word	_	10	E	10:E	_
-6	best	_	Word	Word	_	8	E	8:E	_
+5	the	_	Word	Word	_	10	F	10:F	_
+6	best	_	Word	Word	_	8	D	8:D	_
 7	-	_	Punctuation	Punctuation	_	8	U	8:U	_
 8	selling	_	Word	Word	_	10	E	10:E	_
 9	Christmas	_	Word	Word	_	10	E	10:E	_
-10	album	_	Word	Word	_	0	C	0:C|18:A	_
+10	album	_	Word	Word	_	0	C	0:C|8:A|17:A	_
 11	of	_	Word	Word	_	13	R	13:R	_
-12	all	_	Word	Word	_	13	E	13:E	_
-13	time	_	Word	Word	_	10	E	10:E	_
+12	all	_	Word	Word	_	13	Q	13:Q	_
+13	time	_	Word	Word	_	8	T	8:T	_
 14	,	_	Punctuation	Punctuation	_	4	U	4:U	_
-15	with	_	Word	Word	_	18	L	18:L	_
-16	global	_	Word	Word	_	17	E	17:E	_
-17	sales	_	Word	Word	_	18	A	18:A	_
-18	reaching	_	Word	Word	_	4	H	4:H	_
+15	with	_	Word	Word	_	17	L	17:L	_
+16	global	_	Word	Word	_	17	A	17:A	_
+17	sales	_	Word	Word	_	4	H	4:H	_
+18	reaching	_	Word	Word	_	17	F	17:F	_
 19	over	_	Word	Word	_	22	R	22:R	_
-20	15	_	Word	Word	_	21	E	21:E	_
-21	million	_	Word	Word	_	22	E	22:E	_
-22	copies	_	Word	Word	_	18	A	18:A	_
+20	15	_	Word	Word	_	22	Q	22:Q	_
+21	million	_	Word	Word	_	20	C	20:C	_
+22	copies	_	Word	Word	_	17	A	17:A	_
 23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
 

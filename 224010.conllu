@@ -1,16 +1,16 @@
 # format = ucca
 # sent_id = 224010
 # text = He also gave Chan the opportunity to co - direct The Fearless Hyena with Kenneth Tsang .
-1	He	_	Word	Word	_	3	A	3:A	_
-2	also	_	Word	Word	_	3	D	3:D	_
-3	gave	_	Word	Word	_	0	H	0:H	_
-4	Chan	_	Word	Word	_	3	A	3:A|10:A	_
-5	the	_	Word	Word	_	6	E	6:E	_
-6	opportunity	_	Word	Word	_	3	A	3:A	_
+1	He	_	Word	Word	_	10	A	10:A	_
+2	also	_	Word	Word	_	10	D	10:D	_
+3	gave	_	Word	Word	_	6	F	6:F	_
+4	Chan	_	Word	Word	_	10	A	10:A	_
+5	the	_	Word	Word	_	6	F	6:F	_
+6	opportunity	_	Word	Word	_	10	D	10:D	_
 7	to	_	Word	Word	_	10	F	10:F	_
 8	co	_	Word	Word	_	10	E	10:E	_
 9	-	_	Punctuation	Punctuation	_	10	U	10:U	_
-10	direct	_	Word	Word	_	6	E	6:E	_
+10	direct	_	Word	Word	_	0	H	0:H	_
 11	The	_	Word	Word	_	10	A	10:A	_
 12	Fearless	_	Word	Word	_	11	Terminal	11:Terminal	_
 13	Hyena	_	Word	Word	_	11	Terminal	11:Terminal	_

@@ -3,12 +3,12 @@
 # text = As of 2013 , McCartney remains one of the world 's top draws .
 1	As	_	Word	Word	_	3	R	3:R	_
 2	of	_	Word	Word	_	1	Terminal	1:Terminal	_
-3	2013	_	Word	Word	_	6	D	6:D	_
+3	2013	_	Word	Word	_	6	T	6:T	_
 4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 5	McCartney	_	Word	Word	_	6	A	6:A	_
 6	remains	_	Word	Word	_	0	H	0:H	_
-7	one	_	Word	Word	_	13	E	13:E	_
-8	of	_	Word	Word	_	7	R	7:R	_
+7	one	_	Word	Word	_	13	Q	13:Q	_
+8	of	_	Word	Word	_	13	R	13:R	_
 9	the	_	Word	Word	_	10	E	10:E	_
 10	world	_	Word	Word	_	13	E	13:E	_
 11	's	_	Word	Word	_	10	R	10:R	_

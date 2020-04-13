@@ -1,9 +1,9 @@
 # format = ucca
 # sent_id = 640003
 # text = On 28 November , Lennon made a surprise guest appearance at Elton John 's Thanksgiving concert at Madison Square Garden , in fulfilment of his promise to join the singer in a live show if " Whatever Gets You Thru the Night " - a song whose commercial potential Lennon had doubted - reached number one .
-1	On	_	Word	Word	_	3	R	3:R	_
-2	28	_	Word	Word	_	3	E	3:E	_
-3	November	_	Word	Word	_	9	D	9:D	_
+1	On	_	Word	Word	_	2	R	2:R	_
+2	28	_	Word	Word	_	9	T	9:T	_
+3	November	_	Word	Word	_	2	C	2:C	_
 4	,	_	Punctuation	Punctuation	_	9	U	9:U	_
 5	Lennon	_	Word	Word	_	9	A	9:A|23:A|28:A	_
 6	made	_	Word	Word	_	9	F	9:F	_
@@ -47,7 +47,7 @@
 44	-	_	Punctuation	Punctuation	_	37	U	37:U	_
 45	a	_	Word	Word	_	46	E	46:E	_
 46	song	_	Word	Word	_	37	E	37:E	_
-47	whose	_	Word	Word	_	52	F	52:F	_
+47	whose	_	Word	Word	_	52	R	52:R	_
 48	commercial	_	Word	Word	_	49	E	49:E	_
 49	potential	_	Word	Word	_	52	A	52:A	_
 50	Lennon	_	Word	Word	_	52	A	52:A	_

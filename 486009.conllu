@@ -2,11 +2,11 @@
 # sent_id = 486009
 # text = This success led him to record the comedy album Out of Bounds in 1994 and to host his own television special , titled Eric , in 1996 .
 1	This	_	Word	Word	_	2	F	2:F	_
-2	success	_	Word	Word	_	3	A	3:A	_
-3	led	_	Word	Word	_	0	H	0:H	_
-4	him	_	Word	Word	_	3	A	3:A|2:A|6:A|17:A	_
+2	success	_	Word	Word	_	6	A	6:A	_
+3	led	_	Word	Word	_	6	D	6:D	_
+4	him	_	Word	Word	_	6	A	6:A|2:A|17:A	_
 5	to	_	Word	Word	_	6	F	6:F	_
-6	record	_	Word	Word	_	3	A	3:A	_
+6	record	_	Word	Word	_	0	H	0:H	_
 7	the	_	Word	Word	_	10	E	10:E	_
 8	comedy	_	Word	Word	_	9	E	9:E	_
 9	album	_	Word	Word	_	10	E	10:E	_
@@ -17,7 +17,7 @@
 14	1994	_	Word	Word	_	6	D	6:D	_
 15	and	_	Word	Word	_	17	L	17:L	_
 16	to	_	Word	Word	_	17	F	17:F	_
-17	host	_	Word	Word	_	3	H	3:H	_
+17	host	_	Word	Word	_	6	H	6:H	_
 18	his	_	Word	Word	_	24	E	24:E	_
 19	own	_	Word	Word	_	24	E	24:E	_
 20	television	_	Word	Word	_	21	E	21:E	_
@@ -27,6 +27,6 @@
 24	Eric	_	Word	Word	_	17	A	17:A	_
 25	,	_	Punctuation	Punctuation	_	17	U	17:U	_
 26	in	_	Word	Word	_	27	R	27:R	_
-27	1996	_	Word	Word	_	17	D	17:D	_
+27	1996	_	Word	Word	_	17	T	17:T	_
 28	.	_	Punctuation	Punctuation	_	27	U	27:U	_
 

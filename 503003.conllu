@@ -1,20 +1,20 @@
 # format = ucca
 # sent_id = 503003
 # text = Its title track , though only reaching number 24 in the UK singles chart , gained lasting popularity , and within months had been released in both German and French .
-1	Its	_	Word	Word	_	3	R	3:R	_
+1	Its	_	Word	Word	_	3	E	3:E	_
 2	title	_	Word	Word	_	3	E	3:E	_
-3	track	_	Word	Word	_	0	C	0:C|7:A	_
+3	track	_	Word	Word	_	0	C	0:C|8:A	_
 4	,	_	Punctuation	Punctuation	_	18	U	18:U	_
-5	though	_	Word	Word	_	7	L	7:L	_
-6	only	_	Word	Word	_	7	D	7:D	_
-7	reaching	_	Word	Word	_	18	H	18:H	_
-8	number	_	Word	Word	_	7	A	7:A	_
-9	24	_	Word	Word	_	8	E	8:E	_
+5	though	_	Word	Word	_	8	L	8:L	_
+6	only	_	Word	Word	_	8	D	8:D	_
+7	reaching	_	Word	Word	_	8	D	8:D	_
+8	number	_	Word	Word	_	18	H	18:H	_
+9	24	_	Word	Word	_	8	Q	8:Q	_
 10	in	_	Word	Word	_	14	R	14:R	_
 11	the	_	Word	Word	_	14	E	14:E	_
 12	UK	_	Word	Word	_	14	E	14:E	_
 13	singles	_	Word	Word	_	14	E	14:E	_
-14	chart	_	Word	Word	_	7	A	7:A	_
+14	chart	_	Word	Word	_	8	A	8:A	_
 15	,	_	Punctuation	Punctuation	_	18	U	18:U	_
 16	gained	_	Word	Word	_	18	D	18:D	_
 17	lasting	_	Word	Word	_	18	D	18:D	_
@@ -22,12 +22,12 @@
 19	,	_	Punctuation	Punctuation	_	18	U	18:U	_
 20	and	_	Word	Word	_	25	L	25:L	_
 21	within	_	Word	Word	_	22	R	22:R	_
-22	months	_	Word	Word	_	25	D	25:D	_
+22	months	_	Word	Word	_	25	T	25:T	_
 23	had	_	Word	Word	_	25	F	25:F	_
 24	been	_	Word	Word	_	25	F	25:F	_
 25	released	_	Word	Word	_	18	H	18:H	_
 26	in	_	Word	Word	_	28	R	28:R	_
-27	both	_	Word	Word	_	28	N	28:N	_
+27	both	_	Word	Word	_	28	Q	28:Q	_
 28	German	_	Word	Word	_	25	A	25:A	_
 29	and	_	Word	Word	_	28	N	28:N	_
 30	French	_	Word	Word	_	28	C	28:C	_

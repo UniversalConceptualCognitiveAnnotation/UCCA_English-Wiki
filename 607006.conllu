@@ -1,17 +1,41 @@
 # format = ucca
 # sent_id = 607006
-# text = As with his first album , he composed and performed it alone .
-1	As	_	Word	Word	_	2	E	2:E	_
-2	with	_	Word	Word	_	5	R	5:R	_
-3	his	_	Word	Word	_	5	E	5:E	_
-4	first	_	Word	Word	_	5	E	5:E	_
-5	album	_	Word	Word	_	8	A	8:A	_
-6	,	_	Punctuation	Punctuation	_	8	U	8:U	_
-7	he	_	Word	Word	_	8	A	8:A	_
-8	composed	_	Word	Word	_	0	H	0:H	_
-9	and	_	Word	Word	_	8	N	8:N	_
-10	performed	_	Word	Word	_	8	C	8:C	_
-11	it	_	Word	Word	_	8	A	8:A	_
-12	alone	_	Word	Word	_	8	D	8:D	_
-13	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+# text = The album contained the song " Coming Up " , the live version of which , recorded in Glasgow , Scotland , in 1979 by Wings , became the group 's last number - one hit .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	album	_	Word	Word	_	3	A	3:A	_
+3	contained	_	Word	Word	_	0	H	0:H	_
+4	the	_	Word	Word	_	5	E	5:E	_
+5	song	_	Word	Word	_	7	E	7:E	_
+6	"	_	Punctuation	Punctuation	_	7	U	7:U	_
+7	Coming	_	Word	Word	_	3	A	3:A	_
+8	Up	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	"	_	Punctuation	Punctuation	_	7	U	7:U	_
+10	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+11	the	_	Word	Word	_	13	F	13:F	_
+12	live	_	Word	Word	_	13	E	13:E	_
+13	version	_	Word	Word	_	28	A	28:A	_
+14	of	_	Word	Word	_	13	E	13:E	_
+15	which	_	Word	Word	_	28	R	28:R	_
+16	,	_	Punctuation	Punctuation	_	28	U	28:U	_
+17	recorded	_	Word	Word	_	13	E	13:E	_
+18	in	_	Word	Word	_	19	R	19:R	_
+19	Glasgow	_	Word	Word	_	17	A	17:A	_
+20	,	_	Punctuation	Punctuation	_	19	U	19:U	_
+21	Scotland	_	Word	Word	_	19	C	19:C	_
+22	,	_	Punctuation	Punctuation	_	17	U	17:U	_
+23	in	_	Word	Word	_	24	R	24:R	_
+24	1979	_	Word	Word	_	17	T	17:T	_
+25	by	_	Word	Word	_	26	R	26:R	_
+26	Wings	_	Word	Word	_	17	A	17:A	_
+27	,	_	Punctuation	Punctuation	_	28	U	28:U	_
+28	became	_	Word	Word	_	7	E	7:E	_
+29	the	_	Word	Word	_	30	F	30:F	_
+30	group	_	Word	Word	_	31	A	31:A	_
+31	's	_	Word	Word	_	36	E	36:E	_
+32	last	_	Word	Word	_	36	Q	36:Q	_
+33	number	_	Word	Word	_	36	E	36:E	_
+34	-	_	Punctuation	Punctuation	_	33	U	33:U	_
+35	one	_	Word	Word	_	33	Q	33:Q	_
+36	hit	_	Word	Word	_	28	A	28:A	_
+37	.	_	Punctuation	Punctuation	_	36	U	36:U	_
 

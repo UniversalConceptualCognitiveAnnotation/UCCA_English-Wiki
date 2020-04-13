@@ -3,11 +3,11 @@
 # text = During this time , Leigh read the Margaret Mitchell novel Gone with the Wind and instructed her American agent to suggest her to David O. Selznick , who was planning a film version .
 1	During	_	Word	Word	_	3	R	3:R	_
 2	this	_	Word	Word	_	3	E	3:E	_
-3	time	_	Word	Word	_	6	D	6:D	_
+3	time	_	Word	Word	_	6	T	6:T	_
 4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 5	Leigh	_	Word	Word	_	6	A	6:A|16:A	_
 6	read	_	Word	Word	_	0	H	0:H	_
-7	the	_	Word	Word	_	11	E	11:E	_
+7	the	_	Word	Word	_	10	E	10:E	_
 8	Margaret	_	Word	Word	_	10	E	10:E	_
 9	Mitchell	_	Word	Word	_	8	Terminal	8:Terminal	_
 10	novel	_	Word	Word	_	11	E	11:E	_
@@ -17,9 +17,9 @@
 14	Wind	_	Word	Word	_	11	Terminal	11:Terminal	_
 15	and	_	Word	Word	_	16	L	16:L	_
 16	instructed	_	Word	Word	_	6	H	6:H	_
-17	her	_	Word	Word	_	19	E	19:E	_
+17	her	_	Word	Word	_	19	A	19:A	_
 18	American	_	Word	Word	_	19	E	19:E	_
-19	agent	_	Word	Word	_	16	A	16:A	_
+19	agent	_	Word	Word	_	0	P	0:P|18:A|21:A	_
 20	to	_	Word	Word	_	21	F	21:F	_
 21	suggest	_	Word	Word	_	16	A	16:A	_
 22	her	_	Word	Word	_	21	A	21:A	_

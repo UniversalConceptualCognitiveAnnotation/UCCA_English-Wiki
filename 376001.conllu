@@ -1,24 +1,24 @@
 # format = ucca
 # sent_id = 376001
 # text = The son of director Stephen Gyllenhaal and screenwriter Naomi Foner , Gyllenhaal began acting at the age of ten .
-1	The	_	Word	Word	_	2	E	2:E	_
+1	The	_	Word	Word	_	2	F	2:F	_
 2	son	_	Word	Word	_	0	H	0:H	_
 3	of	_	Word	Word	_	5	R	5:R	_
 4	director	_	Word	Word	_	5	E	5:E	_
-5	Stephen	_	Word	Word	_	2	E	2:E	_
+5	Stephen	_	Word	Word	_	2	A	2:A	_
 6	Gyllenhaal	_	Word	Word	_	5	Terminal	5:Terminal	_
 7	and	_	Word	Word	_	5	N	5:N	_
 8	screenwriter	_	Word	Word	_	9	E	9:E	_
 9	Naomi	_	Word	Word	_	5	C	5:C	_
 10	Foner	_	Word	Word	_	9	Terminal	9:Terminal	_
 11	,	_	Punctuation	Punctuation	_	2	U	2:U	_
-12	Gyllenhaal	_	Word	Word	_	14	A	14:A	_
+12	Gyllenhaal	_	Word	Word	_	14	A	14:A|17:A	_
 13	began	_	Word	Word	_	14	D	14:D	_
 14	acting	_	Word	Word	_	2	H	2:H	_
-15	at	_	Word	Word	_	19	R	19:R	_
-16	the	_	Word	Word	_	17	E	17:E	_
-17	age	_	Word	Word	_	19	E	19:E	_
-18	of	_	Word	Word	_	17	R	17:R	_
-19	ten	_	Word	Word	_	14	A	14:A	_
+15	at	_	Word	Word	_	17	L	17:L	_
+16	the	_	Word	Word	_	17	F	17:F	_
+17	age	_	Word	Word	_	2	H	2:H	_
+18	of	_	Word	Word	_	19	R	19:R	_
+19	ten	_	Word	Word	_	17	T	17:T	_
 20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
 

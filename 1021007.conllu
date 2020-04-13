@@ -1,12 +1,12 @@
 # format = ucca
 # sent_id = 1021007
 # text = Jones agreed to produce Jackson 's next solo album , Off the Wall .
-1	Jones	_	Word	Word	_	2	A	2:A	_
+1	Jones	_	Word	Word	_	2	A	2:A|4:A	_
 2	agreed	_	Word	Word	_	0	H	0:H	_
 3	to	_	Word	Word	_	4	F	4:F	_
 4	produce	_	Word	Word	_	2	A	2:A	_
-5	Jackson	_	Word	Word	_	9	E	9:E	_
-6	's	_	Word	Word	_	5	R	5:R	_
+5	Jackson	_	Word	Word	_	6	A	6:A	_
+6	's	_	Word	Word	_	9	E	9:E	_
 7	next	_	Word	Word	_	9	E	9:E	_
 8	solo	_	Word	Word	_	9	E	9:E	_
 9	album	_	Word	Word	_	11	E	11:E	_

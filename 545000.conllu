@@ -1,13 +1,13 @@
 # format = ucca
 # sent_id = 545000
 # text = Initially , the studio bowed to pressure from the Roosevelt Administration , the Hays Office , and isolationist lawmakers to desist from similar projects .
-1	Initially	_	Word	Word	_	7	D	7:D	_
-2	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+1	Initially	_	Word	Word	_	5	D	5:D	_
+2	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 3	the	_	Word	Word	_	4	E	4:E	_
-4	studio	_	Word	Word	_	7	A	7:A	_
-5	bowed	_	Word	Word	_	7	D	7:D	_
+4	studio	_	Word	Word	_	5	A	5:A	_
+5	bowed	_	Word	Word	_	0	H	0:H	_
 6	to	_	Word	Word	_	7	F	7:F	_
-7	pressure	_	Word	Word	_	0	H	0:H	_
+7	pressure	_	Word	Word	_	5	A	5:A	_
 8	from	_	Word	Word	_	11	R	11:R	_
 9	the	_	Word	Word	_	11	E	11:E	_
 10	Roosevelt	_	Word	Word	_	11	E	11:E	_

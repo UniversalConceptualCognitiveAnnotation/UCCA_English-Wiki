@@ -1,30 +1,15 @@
 # format = ucca
 # sent_id = 705008
-# text = I used to say , " No I 'm not a prophet " they say " Yes you are a prophet , you 're . "
-1	I	_	Word	Word	_	4	A	4:A	_
-2	used	_	Word	Word	_	4	D	4:D	_
-3	to	_	Word	Word	_	4	F	4:F	_
-4	say	_	Word	Word	_	0	H	0:H	_
-5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
-6	"	_	Punctuation	Punctuation	_	4	U	4:U	_
-7	No	_	Word	Word	_	4	A	4:A	_
-8	I	_	Word	Word	_	9	A	9:A	_
-9	'm	_	Word	Word	_	7	H	7:H	_
-10	not	_	Word	Word	_	9	D	9:D	_
-11	a	_	Word	Word	_	12	E	12:E	_
-12	prophet	_	Word	Word	_	9	A	9:A	_
-13	"	_	Punctuation	Punctuation	_	4	U	4:U	_
-14	they	_	Word	Word	_	15	A	15:A	_
-15	say	_	Word	Word	_	4	H	4:H	_
-16	"	_	Punctuation	Punctuation	_	15	U	15:U	_
-17	Yes	_	Word	Word	_	15	A	15:A	_
-18	you	_	Word	Word	_	19	A	19:A	_
-19	are	_	Word	Word	_	17	H	17:H	_
-20	a	_	Word	Word	_	21	E	21:E	_
-21	prophet	_	Word	Word	_	19	A	19:A	_
-22	,	_	Punctuation	Punctuation	_	17	U	17:U	_
-23	you	_	Word	Word	_	24	A	24:A	_
-24	're	_	Word	Word	_	17	H	17:H	_
-25	.	_	Punctuation	Punctuation	_	24	U	24:U	_
-26	"	_	Punctuation	Punctuation	_	24	U	24:U	_
+# text = I said , " No it 's not me . "
+1	I	_	Word	Word	_	2	A	2:A	_
+2	said	_	Word	Word	_	0	H	0:H	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	No	_	Word	Word	_	2	A	2:A	_
+6	it	_	Word	Word	_	7	A	7:A	_
+7	's	_	Word	Word	_	5	H	5:H	_
+8	not	_	Word	Word	_	7	D	7:D	_
+9	me	_	Word	Word	_	7	A	7:A	_
+10	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+11	"	_	Punctuation	Punctuation	_	7	U	7:U	_
 

@@ -3,7 +3,7 @@
 # text = He and his roommates had purchased a Macintosh 512 k so when he returned home he would empty his pockets of the cocktail napkins and type them into the computer , forming a basis from which he wrote many drafts for A Few Good Men .
 1	He	_	Word	Word	_	6	A	6:A	_
 2	and	_	Word	Word	_	1	N	1:N	_
-3	his	_	Word	Word	_	4	E	4:E	_
+3	his	_	Word	Word	_	4	A	4:A	_
 4	roommates	_	Word	Word	_	1	C	1:C	_
 5	had	_	Word	Word	_	6	F	6:F	_
 6	purchased	_	Word	Word	_	0	H	0:H	_
@@ -17,7 +17,7 @@
 14	returned	_	Word	Word	_	6	H	6:H	_
 15	home	_	Word	Word	_	14	A	14:A	_
 16	he	_	Word	Word	_	18	A	18:A|26:A|32:A	_
-17	would	_	Word	Word	_	18	D	18:D	_
+17	would	_	Word	Word	_	18	F	18:F	_
 18	empty	_	Word	Word	_	6	H	6:H	_
 19	his	_	Word	Word	_	20	E	20:E	_
 20	pockets	_	Word	Word	_	18	A	18:A	_
@@ -39,7 +39,7 @@
 36	which	_	Word	Word	_	38	F	38:F	_
 37	he	_	Word	Word	_	38	A	38:A	_
 38	wrote	_	Word	Word	_	34	E	34:E	_
-39	many	_	Word	Word	_	40	E	40:E	_
+39	many	_	Word	Word	_	40	Q	40:Q	_
 40	drafts	_	Word	Word	_	38	A	38:A	_
 41	for	_	Word	Word	_	42	R	42:R	_
 42	A	_	Word	Word	_	40	E	40:E	_

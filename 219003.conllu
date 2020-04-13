@@ -2,29 +2,29 @@
 # sent_id = 219003
 # text = In 2011 , Dunst starred in Lars von Trier 's science - fiction film Melancholia as a depressed woman at the end of the world .
 1	In	_	Word	Word	_	2	R	2:R	_
-2	2011	_	Word	Word	_	5	D	5:D	_
+2	2011	_	Word	Word	_	5	T	5:T	_
 3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 4	Dunst	_	Word	Word	_	5	A	5:A	_
 5	starred	_	Word	Word	_	0	H	0:H	_
 6	in	_	Word	Word	_	15	R	15:R	_
-7	Lars	_	Word	Word	_	14	E	14:E	_
+7	Lars	_	Word	Word	_	10	A	10:A	_
 8	von	_	Word	Word	_	7	Terminal	7:Terminal	_
 9	Trier	_	Word	Word	_	7	Terminal	7:Terminal	_
-10	's	_	Word	Word	_	7	R	7:R	_
+10	's	_	Word	Word	_	14	E	14:E	_
 11	science	_	Word	Word	_	13	E	13:E	_
 12	-	_	Punctuation	Punctuation	_	13	U	13:U	_
 13	fiction	_	Word	Word	_	14	E	14:E	_
 14	film	_	Word	Word	_	15	E	15:E	_
 15	Melancholia	_	Word	Word	_	5	A	5:A	_
 16	as	_	Word	Word	_	19	R	19:R	_
-17	a	_	Word	Word	_	19	E	19:E	_
+17	a	_	Word	Word	_	19	F	19:F	_
 18	depressed	_	Word	Word	_	19	E	19:E	_
 19	woman	_	Word	Word	_	5	A	5:A	_
 20	at	_	Word	Word	_	22	R	22:R	_
-21	the	_	Word	Word	_	22	E	22:E	_
+21	the	_	Word	Word	_	22	F	22:F	_
 22	end	_	Word	Word	_	19	E	19:E	_
 23	of	_	Word	Word	_	25	R	25:R	_
-24	the	_	Word	Word	_	25	E	25:E	_
+24	the	_	Word	Word	_	25	F	25:F	_
 25	world	_	Word	Word	_	22	E	22:E	_
 26	.	_	Punctuation	Punctuation	_	25	U	25:U	_
 

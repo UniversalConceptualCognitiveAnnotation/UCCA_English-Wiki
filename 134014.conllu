@@ -3,7 +3,7 @@
 # text = Her next film role came unexpectedly , as she agreed to replace Claudette Colbert only days before shooting began on Frank Capra 's political drama State of the Union ( 1948 ) . Tracy had long been signed to play the male lead , and so Hepburn was already familiar with the script and stepped up for the fifth Tracy - Hepburn picture .
 1	Her	_	Word	Word	_	4	A	4:A	_
 2	next	_	Word	Word	_	4	D	4:D	_
-3	film	_	Word	Word	_	4	E	4:E	_
+3	film	_	Word	Word	_	4	A	4:A	_
 4	role	_	Word	Word	_	5	A	5:A	_
 5	came	_	Word	Word	_	0	H	0:H	_
 6	unexpectedly	_	Word	Word	_	5	D	5:D	_
@@ -20,10 +20,10 @@
 17	before	_	Word	Word	_	16	R	16:R	_
 18	shooting	_	Word	Word	_	19	A	19:A	_
 19	began	_	Word	Word	_	5	H	5:H	_
-20	on	_	Word	Word	_	21	R	21:R	_
-21	Frank	_	Word	Word	_	26	E	26:E	_
+20	on	_	Word	Word	_	26	R	26:R	_
+21	Frank	_	Word	Word	_	23	A	23:A	_
 22	Capra	_	Word	Word	_	21	Terminal	21:Terminal	_
-23	's	_	Word	Word	_	21	R	21:R	_
+23	's	_	Word	Word	_	26	E	26:E	_
 24	political	_	Word	Word	_	25	E	25:E	_
 25	drama	_	Word	Word	_	26	E	26:E	_
 26	State	_	Word	Word	_	19	A	19:A	_
@@ -41,7 +41,7 @@
 38	signed	_	Word	Word	_	5	H	5:H	_
 39	to	_	Word	Word	_	40	F	40:F	_
 40	play	_	Word	Word	_	38	A	38:A	_
-41	the	_	Word	Word	_	43	E	43:E	_
+41	the	_	Word	Word	_	43	F	43:F	_
 42	male	_	Word	Word	_	43	E	43:E	_
 43	lead	_	Word	Word	_	40	A	40:A	_
 44	,	_	Punctuation	Punctuation	_	5	U	5:U	_
@@ -52,14 +52,14 @@
 49	already	_	Word	Word	_	50	D	50:D	_
 50	familiar	_	Word	Word	_	5	H	5:H	_
 51	with	_	Word	Word	_	53	R	53:R	_
-52	the	_	Word	Word	_	53	E	53:E	_
+52	the	_	Word	Word	_	53	F	53:F	_
 53	script	_	Word	Word	_	50	A	50:A	_
 54	and	_	Word	Word	_	55	L	55:L	_
 55	stepped	_	Word	Word	_	5	H	5:H	_
 56	up	_	Word	Word	_	55	Terminal	55:Terminal	_
 57	for	_	Word	Word	_	63	R	63:R	_
-58	the	_	Word	Word	_	63	E	63:E	_
-59	fifth	_	Word	Word	_	63	E	63:E	_
+58	the	_	Word	Word	_	63	F	63:F	_
+59	fifth	_	Word	Word	_	63	Q	63:Q	_
 60	Tracy	_	Word	Word	_	63	E	63:E	_
 61	-	_	Punctuation	Punctuation	_	60	U	60:U	_
 62	Hepburn	_	Word	Word	_	60	C	60:C	_

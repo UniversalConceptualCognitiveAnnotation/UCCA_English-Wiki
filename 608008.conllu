@@ -4,7 +4,7 @@
 1	He	_	Word	Word	_	2	A	2:A	_
 2	performed	_	Word	Word	_	0	H	0:H	_
 3	for	_	Word	Word	_	8	R	8:R	_
-4	the	_	Word	Word	_	8	E	8:E	_
+4	the	_	Word	Word	_	8	F	8:F	_
 5	largest	_	Word	Word	_	8	E	8:E	_
 6	paying	_	Word	Word	_	8	E	8:E	_
 7	stadium	_	Word	Word	_	8	E	8:E	_
@@ -12,12 +12,12 @@
 9	in	_	Word	Word	_	10	R	10:R	_
 10	history	_	Word	Word	_	8	E	8:E	_
 11	on	_	Word	Word	_	12	R	12:R	_
-12	21	_	Word	Word	_	2	D	2:D	_
-13	April	_	Word	Word	_	12	Terminal	12:Terminal	_
-14	1990	_	Word	Word	_	12	Terminal	12:Terminal	_
+12	21	_	Word	Word	_	2	T	2:T	_
+13	April	_	Word	Word	_	12	C	12:C	_
+14	1990	_	Word	Word	_	12	C	12:C	_
 15	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 16	when	_	Word	Word	_	19	L	19:L	_
-17	184,000	_	Word	Word	_	18	E	18:E	_
+17	184,000	_	Word	Word	_	18	Q	18:Q	_
 18	people	_	Word	Word	_	19	A	19:A	_
 19	attended	_	Word	Word	_	2	H	2:H	_
 20	his	_	Word	Word	_	21	A	21:A	_
@@ -30,6 +30,6 @@
 27	de	_	Word	Word	_	26	Terminal	26:Terminal	_
 28	Janeiro	_	Word	Word	_	26	Terminal	26:Terminal	_
 29	,	_	Punctuation	Punctuation	_	26	U	26:U	_
-30	Brazil	_	Word	Word	_	26	Terminal	26:Terminal	_
+30	Brazil	_	Word	Word	_	26	C	26:C	_
 31	.	_	Punctuation	Punctuation	_	26	U	26:U	_
 

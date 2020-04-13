@@ -2,28 +2,28 @@
 # sent_id = 236000
 # text = On 24 August 2010 , Chan tweeted about the botched rescue operation on the Manila hostage crisis that left 8 Hong Kong tourists dead .
 1	On	_	Word	Word	_	2	R	2:R	_
-2	24	_	Word	Word	_	7	D	7:D	_
-3	August	_	Word	Word	_	2	Terminal	2:Terminal	_
-4	2010	_	Word	Word	_	2	Terminal	2:Terminal	_
+2	24	_	Word	Word	_	7	T	7:T	_
+3	August	_	Word	Word	_	2	C	2:C	_
+4	2010	_	Word	Word	_	2	C	2:C	_
 5	,	_	Punctuation	Punctuation	_	7	U	7:U	_
 6	Chan	_	Word	Word	_	7	A	7:A	_
 7	tweeted	_	Word	Word	_	0	H	0:H	_
-8	about	_	Word	Word	_	12	R	12:R	_
-9	the	_	Word	Word	_	12	E	12:E	_
-10	botched	_	Word	Word	_	12	E	12:E	_
-11	rescue	_	Word	Word	_	12	E	12:E	_
-12	operation	_	Word	Word	_	7	A	7:A	_
+8	about	_	Word	Word	_	11	R	11:R	_
+9	the	_	Word	Word	_	11	F	11:F	_
+10	botched	_	Word	Word	_	11	E	11:E	_
+11	rescue	_	Word	Word	_	7	A	7:A	_
+12	operation	_	Word	Word	_	11	C	11:C	_
 13	on	_	Word	Word	_	17	L	17:L	_
-14	the	_	Word	Word	_	15	E	15:E	_
+14	the	_	Word	Word	_	17	F	17:F	_
 15	Manila	_	Word	Word	_	17	A	17:A	_
-16	hostage	_	Word	Word	_	17	E	17:E	_
-17	crisis	_	Word	Word	_	12	H	12:H	_
-18	that	_	Word	Word	_	19	R	19:R	_
-19	left	_	Word	Word	_	12	E	12:E	_
-20	8	_	Word	Word	_	23	E	23:E	_
+16	hostage	_	Word	Word	_	17	A	17:A	_
+17	crisis	_	Word	Word	_	11	H	11:H	_
+18	that	_	Word	Word	_	24	L	24:L	_
+19	left	_	Word	Word	_	24	D	24:D	_
+20	8	_	Word	Word	_	23	Q	23:Q	_
 21	Hong	_	Word	Word	_	23	E	23:E	_
 22	Kong	_	Word	Word	_	21	Terminal	21:Terminal	_
 23	tourists	_	Word	Word	_	24	A	24:A	_
-24	dead	_	Word	Word	_	19	A	19:A	_
+24	dead	_	Word	Word	_	11	H	11:H	_
 25	.	_	Punctuation	Punctuation	_	24	U	24:U	_
 

@@ -2,12 +2,12 @@
 # sent_id = 144000
 # text = In 1984 , Hepburn starred in the dark comedy Grace Quigley , the story of an elderly woman who enlists a hitman ( Nick Nolte ) to kill her .
 1	In	_	Word	Word	_	2	R	2:R	_
-2	1984	_	Word	Word	_	5	D	5:D	_
+2	1984	_	Word	Word	_	5	T	5:T	_
 3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 4	Hepburn	_	Word	Word	_	5	A	5:A	_
 5	starred	_	Word	Word	_	0	H	0:H	_
 6	in	_	Word	Word	_	10	R	10:R	_
-7	the	_	Word	Word	_	10	E	10:E	_
+7	the	_	Word	Word	_	9	E	9:E	_
 8	dark	_	Word	Word	_	9	E	9:E	_
 9	comedy	_	Word	Word	_	10	E	10:E	_
 10	Grace	_	Word	Word	_	5	A	5:A	_
@@ -18,8 +18,8 @@
 15	of	_	Word	Word	_	18	R	18:R	_
 16	an	_	Word	Word	_	18	E	18:E	_
 17	elderly	_	Word	Word	_	18	E	18:E	_
-18	woman	_	Word	Word	_	14	E	14:E	_
-19	who	_	Word	Word	_	20	F	20:F	_
+18	woman	_	Word	Word	_	14	A	14:A	_
+19	who	_	Word	Word	_	20	R	20:R	_
 20	enlists	_	Word	Word	_	18	E	18:E	_
 21	a	_	Word	Word	_	22	E	22:E	_
 22	hitman	_	Word	Word	_	20	A	20:A	_

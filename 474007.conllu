@@ -1,30 +1,30 @@
 # format = ucca
 # sent_id = 474007
 # text = The Lakers finished the season on a ten game losing streak , and Johnson 's final record as a head coach was 5 - 11 .
-1	The	_	Word	Word	_	2	E	2:E	_
+1	The	_	Word	Word	_	2	F	2:F	_
 2	Lakers	_	Word	Word	_	3	A	3:A	_
 3	finished	_	Word	Word	_	0	H	0:H	_
-4	the	_	Word	Word	_	5	E	5:E	_
+4	the	_	Word	Word	_	5	F	5:F	_
 5	season	_	Word	Word	_	3	A	3:A	_
-6	on	_	Word	Word	_	11	R	11:R	_
-7	a	_	Word	Word	_	11	E	11:E	_
-8	ten	_	Word	Word	_	9	E	9:E	_
-9	game	_	Word	Word	_	11	E	11:E	_
-10	losing	_	Word	Word	_	11	E	11:E	_
-11	streak	_	Word	Word	_	3	A	3:A	_
+6	on	_	Word	Word	_	10	R	10:R	_
+7	a	_	Word	Word	_	10	F	10:F	_
+8	ten	_	Word	Word	_	9	Q	9:Q	_
+9	game	_	Word	Word	_	10	E	10:E	_
+10	losing	_	Word	Word	_	3	A	3:A	_
+11	streak	_	Word	Word	_	10	E	10:E	_
 12	,	_	Punctuation	Punctuation	_	3	U	3:U	_
-13	and	_	Word	Word	_	22	L	22:L	_
-14	Johnson	_	Word	Word	_	17	E	17:E	_
+13	and	_	Word	Word	_	17	L	17:L	_
+14	Johnson	_	Word	Word	_	17	A	17:A	_
 15	's	_	Word	Word	_	14	R	14:R	_
-16	final	_	Word	Word	_	17	E	17:E	_
-17	record	_	Word	Word	_	22	A	22:A	_
+16	final	_	Word	Word	_	17	D	17:D	_
+17	record	_	Word	Word	_	3	H	3:H	_
 18	as	_	Word	Word	_	21	R	21:R	_
-19	a	_	Word	Word	_	21	E	21:E	_
+19	a	_	Word	Word	_	21	F	21:F	_
 20	head	_	Word	Word	_	21	E	21:E	_
-21	coach	_	Word	Word	_	17	E	17:E	_
-22	was	_	Word	Word	_	3	H	3:H	_
-23	5	_	Word	Word	_	22	A	22:A	_
+21	coach	_	Word	Word	_	17	A	17:A	_
+22	was	_	Word	Word	_	17	F	17:F	_
+23	5	_	Word	Word	_	17	A	17:A	_
 24	-	_	Punctuation	Punctuation	_	23	U	23:U	_
-25	11	_	Word	Word	_	23	Terminal	23:Terminal	_
-26	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+25	11	_	Word	Word	_	23	C	23:C	_
+26	.	_	Punctuation	Punctuation	_	23	U	23:U	_
 

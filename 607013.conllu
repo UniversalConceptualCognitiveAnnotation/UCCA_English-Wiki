@@ -1,35 +1,24 @@
 # format = ucca
 # sent_id = 607013
-# text = In 1984 , McCartney starred in the musical Give My Regards to Broad Street , a feature film he also wrote and produced which included Starr in an acting role .
+# text = In 1985 , Warner Brothers commissioned McCartney to write a song for the comedic feature film Spies Like Us .
 1	In	_	Word	Word	_	2	R	2:R	_
-2	1984	_	Word	Word	_	5	D	5:D	_
-3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
-4	McCartney	_	Word	Word	_	5	A	5:A	_
-5	starred	_	Word	Word	_	0	H	0:H	_
-6	in	_	Word	Word	_	9	R	9:R	_
-7	the	_	Word	Word	_	8	E	8:E	_
-8	musical	_	Word	Word	_	9	E	9:E	_
-9	Give	_	Word	Word	_	5	A	5:A	_
-10	My	_	Word	Word	_	9	Terminal	9:Terminal	_
-11	Regards	_	Word	Word	_	9	Terminal	9:Terminal	_
-12	to	_	Word	Word	_	9	Terminal	9:Terminal	_
-13	Broad	_	Word	Word	_	9	Terminal	9:Terminal	_
-14	Street	_	Word	Word	_	9	Terminal	9:Terminal	_
-15	,	_	Punctuation	Punctuation	_	9	U	9:U	_
-16	a	_	Word	Word	_	18	E	18:E	_
-17	feature	_	Word	Word	_	18	E	18:E	_
-18	film	_	Word	Word	_	9	E	9:E	_
-19	he	_	Word	Word	_	21	A	21:A	_
-20	also	_	Word	Word	_	21	D	21:D	_
-21	wrote	_	Word	Word	_	18	E	18:E	_
-22	and	_	Word	Word	_	21	N	21:N	_
-23	produced	_	Word	Word	_	21	C	21:C	_
-24	which	_	Word	Word	_	25	L	25:L	_
-25	included	_	Word	Word	_	21	H	21:H	_
-26	Starr	_	Word	Word	_	25	A	25:A	_
-27	in	_	Word	Word	_	30	R	30:R	_
-28	an	_	Word	Word	_	30	E	30:E	_
-29	acting	_	Word	Word	_	30	E	30:E	_
-30	role	_	Word	Word	_	25	A	25:A	_
-31	.	_	Punctuation	Punctuation	_	30	U	30:U	_
+2	1985	_	Word	Word	_	6	T	6:T	_
+3	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+4	Warner	_	Word	Word	_	6	A	6:A	_
+5	Brothers	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	commissioned	_	Word	Word	_	0	H	0:H	_
+7	McCartney	_	Word	Word	_	6	A	6:A|9:A	_
+8	to	_	Word	Word	_	9	F	9:F	_
+9	write	_	Word	Word	_	6	A	6:A	_
+10	a	_	Word	Word	_	11	E	11:E	_
+11	song	_	Word	Word	_	9	A	9:A	_
+12	for	_	Word	Word	_	17	R	17:R	_
+13	the	_	Word	Word	_	16	F	16:F	_
+14	comedic	_	Word	Word	_	16	E	16:E	_
+15	feature	_	Word	Word	_	16	E	16:E	_
+16	film	_	Word	Word	_	17	E	17:E	_
+17	Spies	_	Word	Word	_	9	A	9:A	_
+18	Like	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	Us	_	Word	Word	_	17	Terminal	17:Terminal	_
+20	.	_	Punctuation	Punctuation	_	17	U	17:U	_
 

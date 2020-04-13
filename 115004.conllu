@@ -1,24 +1,24 @@
 # format = ucca
 # sent_id = 115004
 # text = After a period of inactivity and ill - health , Hepburn died in 2003 at the age of 96 .
-1	After	_	Word	Word	_	12	L	12:L	_
+1	After	_	Word	Word	_	9	L	9:L	_
 2	a	_	Word	Word	_	3	E	3:E	_
-3	period	_	Word	Word	_	0	H	0:H	_
+3	period	_	Word	Word	_	5	T	5:T|9:T	_
 4	of	_	Word	Word	_	5	R	5:R	_
-5	inactivity	_	Word	Word	_	3	E	3:E	_
-6	and	_	Word	Word	_	5	N	5:N	_
+5	inactivity	_	Word	Word	_	0	H	0:H	_
+6	and	_	Word	Word	_	9	L	9:L	_
 7	ill	_	Word	Word	_	9	E	9:E	_
 8	-	_	Punctuation	Punctuation	_	9	U	9:U	_
-9	health	_	Word	Word	_	5	C	5:C	_
-10	,	_	Punctuation	Punctuation	_	3	U	3:U	_
-11	Hepburn	_	Word	Word	_	12	A	12:A|3:A|17:A	_
-12	died	_	Word	Word	_	3	H	3:H	_
+9	health	_	Word	Word	_	5	H	5:H	_
+10	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+11	Hepburn	_	Word	Word	_	12	A	12:A|5:A|9:A|17:A	_
+12	died	_	Word	Word	_	5	H	5:H	_
 13	in	_	Word	Word	_	14	R	14:R	_
-14	2003	_	Word	Word	_	12	D	12:D	_
-15	at	_	Word	Word	_	17	L	17:L	_
+14	2003	_	Word	Word	_	12	T	12:T	_
+15	at	_	Word	Word	_	17	R	17:R	_
 16	the	_	Word	Word	_	17	E	17:E	_
-17	age	_	Word	Word	_	3	H	3:H	_
+17	age	_	Word	Word	_	12	A	12:A	_
 18	of	_	Word	Word	_	19	R	19:R	_
-19	96	_	Word	Word	_	17	E	17:E	_
+19	96	_	Word	Word	_	17	T	17:T	_
 20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
 

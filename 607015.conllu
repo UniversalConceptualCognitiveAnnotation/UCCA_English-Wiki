@@ -1,24 +1,39 @@
 # format = ucca
 # sent_id = 607015
-# text = In 1985 , Warner Brothers commissioned McCartney to write a song for the comedic feature film Spies Like Us .
-1	In	_	Word	Word	_	2	R	2:R	_
-2	1985	_	Word	Word	_	6	D	6:D	_
-3	,	_	Punctuation	Punctuation	_	6	U	6:U	_
-4	Warner	_	Word	Word	_	6	A	6:A	_
-5	Brothers	_	Word	Word	_	4	Terminal	4:Terminal	_
-6	commissioned	_	Word	Word	_	0	H	0:H	_
-7	McCartney	_	Word	Word	_	6	A	6:A|9:A	_
-8	to	_	Word	Word	_	9	F	9:F	_
-9	write	_	Word	Word	_	6	A	6:A	_
-10	a	_	Word	Word	_	11	E	11:E	_
-11	song	_	Word	Word	_	9	A	9:A	_
-12	for	_	Word	Word	_	17	R	17:R	_
-13	the	_	Word	Word	_	16	E	16:E	_
-14	comedic	_	Word	Word	_	16	E	16:E	_
-15	feature	_	Word	Word	_	16	E	16:E	_
-16	film	_	Word	Word	_	17	E	17:E	_
-17	Spies	_	Word	Word	_	9	A	9:A	_
-18	Like	_	Word	Word	_	17	Terminal	17:Terminal	_
-19	Us	_	Word	Word	_	17	Terminal	17:Terminal	_
-20	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+# text = McCartney participated in Live Aid , performing " Let it Be " , but technical difficulties rendered his vocals and piano barely audible for the first two verses , punctuated by squeals of feedback .
+1	McCartney	_	Word	Word	_	2	A	2:A|7:A	_
+2	participated	_	Word	Word	_	0	H	0:H	_
+3	in	_	Word	Word	_	4	R	4:R	_
+4	Live	_	Word	Word	_	2	A	2:A	_
+5	Aid	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+7	performing	_	Word	Word	_	2	H	2:H	_
+8	"	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	Let	_	Word	Word	_	7	A	7:A	_
+10	it	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	Be	_	Word	Word	_	9	Terminal	9:Terminal	_
+12	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+13	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+14	but	_	Word	Word	_	17	L	17:L	_
+15	technical	_	Word	Word	_	16	A	16:A	_
+16	difficulties	_	Word	Word	_	17	A	17:A	_
+17	rendered	_	Word	Word	_	2	H	2:H	_
+18	his	_	Word	Word	_	19	E	19:E	_
+19	vocals	_	Word	Word	_	0	C	0:C|18:A|34:A	_
+20	and	_	Word	Word	_	19	N	19:N	_
+21	piano	_	Word	Word	_	19	C	19:C	_
+22	barely	_	Word	Word	_	23	D	23:D	_
+23	audible	_	Word	Word	_	17	A	17:A	_
+24	for	_	Word	Word	_	28	L	28:L	_
+25	the	_	Word	Word	_	28	F	28:F	_
+26	first	_	Word	Word	_	28	Q	28:Q	_
+27	two	_	Word	Word	_	28	Q	28:Q	_
+28	verses	_	Word	Word	_	2	H	2:H	_
+29	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+30	punctuated	_	Word	Word	_	34	D	34:D	_
+31	by	_	Word	Word	_	32	R	32:R	_
+32	squeals	_	Word	Word	_	34	A	34:A	_
+33	of	_	Word	Word	_	34	R	34:R	_
+34	feedback	_	Word	Word	_	2	H	2:H	_
+35	.	_	Punctuation	Punctuation	_	34	U	34:U	_
 

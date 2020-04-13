@@ -1,18 +1,18 @@
 # format = ucca
 # sent_id = 539000
 # text = The Warner brothers pooled their resources and moved into film production in 1910 .
-1	The	_	Word	Word	_	3	E	3:E	_
+1	The	_	Word	Word	_	3	F	3:F	_
 2	Warner	_	Word	Word	_	3	E	3:E	_
-3	brothers	_	Word	Word	_	0	C	0:C|8:A	_
+3	brothers	_	Word	Word	_	0	C	0:C|11:A	_
 4	pooled	_	Word	Word	_	0	H	0:H	_
-5	their	_	Word	Word	_	6	E	6:E	_
-6	resources	_	Word	Word	_	4	A	4:A	_
-7	and	_	Word	Word	_	8	L	8:L	_
-8	moved	_	Word	Word	_	4	H	4:H	_
+5	their	_	Word	Word	_	4	A	4:A	_
+6	resources	_	Word	Word	_	5	A	5:A	_
+7	and	_	Word	Word	_	11	L	11:L	_
+8	moved	_	Word	Word	_	11	D	11:D	_
 9	into	_	Word	Word	_	11	R	11:R	_
-10	film	_	Word	Word	_	11	E	11:E	_
-11	production	_	Word	Word	_	8	A	8:A	_
+10	film	_	Word	Word	_	11	A	11:A	_
+11	production	_	Word	Word	_	4	H	4:H	_
 12	in	_	Word	Word	_	13	R	13:R	_
-13	1910	_	Word	Word	_	8	D	8:D	_
+13	1910	_	Word	Word	_	11	T	11:T	_
 14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
 

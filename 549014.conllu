@@ -1,43 +1,43 @@
 # format = ucca
 # sent_id = 549014
 # text = Jack 's older brother , Harry , reflected the Warner family feelings about the marriage when he exclaimed , " Thank God our mother did n't live to see this " . Warner married Ann after the divorce .
-1	Jack	_	Word	Word	_	4	E	4:E	_
+1	Jack	_	Word	Word	_	4	A	4:A	_
 2	's	_	Word	Word	_	1	R	1:R	_
 3	older	_	Word	Word	_	4	E	4:E	_
 4	brother	_	Word	Word	_	6	E	6:E	_
-5	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
 6	Harry	_	Word	Word	_	8	A	8:A	_
 7	,	_	Punctuation	Punctuation	_	8	U	8:U	_
 8	reflected	_	Word	Word	_	0	H	0:H	_
-9	the	_	Word	Word	_	11	E	11:E	_
+9	the	_	Word	Word	_	11	F	11:F	_
 10	Warner	_	Word	Word	_	11	E	11:E	_
 11	family	_	Word	Word	_	12	A	12:A	_
 12	feelings	_	Word	Word	_	8	A	8:A	_
 13	about	_	Word	Word	_	15	R	15:R	_
-14	the	_	Word	Word	_	15	E	15:E	_
+14	the	_	Word	Word	_	15	F	15:F	_
 15	marriage	_	Word	Word	_	12	A	12:A	_
 16	when	_	Word	Word	_	18	L	18:L	_
 17	he	_	Word	Word	_	18	A	18:A	_
 18	exclaimed	_	Word	Word	_	8	H	8:H	_
 19	,	_	Punctuation	Punctuation	_	18	U	18:U	_
 20	"	_	Punctuation	Punctuation	_	18	U	18:U	_
-21	Thank	_	Word	Word	_	18	A	18:A	_
-22	God	_	Word	Word	_	21	A	21:A	_
-23	our	_	Word	Word	_	24	E	24:E	_
+21	Thank	_	Word	Word	_	29	G	29:G	_
+22	God	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	our	_	Word	Word	_	24	A	24:A	_
 24	mother	_	Word	Word	_	29	A	29:A	_
 25	did	_	Word	Word	_	29	F	29:F	_
 26	n't	_	Word	Word	_	29	D	29:D	_
 27	live	_	Word	Word	_	29	D	29:D	_
 28	to	_	Word	Word	_	29	F	29:F	_
-29	see	_	Word	Word	_	21	H	21:H	_
+29	see	_	Word	Word	_	18	A	18:A	_
 30	this	_	Word	Word	_	29	A	29:A	_
 31	"	_	Punctuation	Punctuation	_	8	U	8:U	_
 32	.	_	Punctuation	Punctuation	_	8	U	8:U	_
-33	Warner	_	Word	Word	_	34	A	34:A	_
+33	Warner	_	Word	Word	_	34	A	34:A|38:A	_
 34	married	_	Word	Word	_	8	H	8:H	_
 35	Ann	_	Word	Word	_	34	A	34:A	_
 36	after	_	Word	Word	_	38	L	38:L	_
-37	the	_	Word	Word	_	38	E	38:E	_
+37	the	_	Word	Word	_	38	F	38:F	_
 38	divorce	_	Word	Word	_	8	H	8:H	_
 39	.	_	Punctuation	Punctuation	_	38	U	38:U	_
 

@@ -1,13 +1,13 @@
 # format = ucca
 # sent_id = 228001
 # text = The film was released on 2 April 2009 .
-1	The	_	Word	Word	_	2	E	2:E	_
+1	The	_	Word	Word	_	2	F	2:F	_
 2	film	_	Word	Word	_	4	A	4:A	_
 3	was	_	Word	Word	_	4	F	4:F	_
 4	released	_	Word	Word	_	0	H	0:H	_
 5	on	_	Word	Word	_	6	R	6:R	_
-6	2	_	Word	Word	_	4	D	4:D	_
-7	April	_	Word	Word	_	6	Terminal	6:Terminal	_
-8	2009	_	Word	Word	_	6	Terminal	6:Terminal	_
+6	2	_	Word	Word	_	4	T	4:T	_
+7	April	_	Word	Word	_	6	C	6:C	_
+8	2009	_	Word	Word	_	6	C	6:C	_
 9	.	_	Punctuation	Punctuation	_	6	U	6:U	_
 

@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 210002
 # text = Seven years after his nomination for Wag the Dog , Hoffman got a second opportunity to perform again with Robert De Niro , co - starring with Barbra Streisand and Ben Stiller in the 2004 comedy Meet the Fockers , a sequel to Meet the Parents ( 2000 ) . Hoffman won the 2005 MTV Movie Award for Best Comedic Performance .
-1	Seven	_	Word	Word	_	2	E	2:E	_
+1	Seven	_	Word	Word	_	2	Q	2:Q	_
 2	years	_	Word	Word	_	3	E	3:E	_
 3	after	_	Word	Word	_	17	L	17:L	_
 4	his	_	Word	Word	_	5	A	5:A	_
@@ -12,10 +12,10 @@
 9	Dog	_	Word	Word	_	7	Terminal	7:Terminal	_
 10	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 11	Hoffman	_	Word	Word	_	17	A	17:A|26:A	_
-12	got	_	Word	Word	_	15	E	15:E	_
-13	a	_	Word	Word	_	15	E	15:E	_
-14	second	_	Word	Word	_	15	E	15:E	_
-15	opportunity	_	Word	Word	_	17	E	17:E	_
+12	got	_	Word	Word	_	15	F	15:F	_
+13	a	_	Word	Word	_	15	F	15:F	_
+14	second	_	Word	Word	_	15	Q	15:Q	_
+15	opportunity	_	Word	Word	_	17	D	17:D	_
 16	to	_	Word	Word	_	17	F	17:F	_
 17	perform	_	Word	Word	_	5	H	5:H	_
 18	again	_	Word	Word	_	17	D	17:D	_
@@ -34,14 +34,14 @@
 31	Ben	_	Word	Word	_	28	C	28:C	_
 32	Stiller	_	Word	Word	_	31	Terminal	31:Terminal	_
 33	in	_	Word	Word	_	37	R	37:R	_
-34	the	_	Word	Word	_	37	E	37:E	_
+34	the	_	Word	Word	_	37	F	37:F	_
 35	2004	_	Word	Word	_	37	E	37:E	_
 36	comedy	_	Word	Word	_	37	E	37:E	_
 37	Meet	_	Word	Word	_	26	A	26:A	_
 38	the	_	Word	Word	_	37	Terminal	37:Terminal	_
 39	Fockers	_	Word	Word	_	37	Terminal	37:Terminal	_
 40	,	_	Punctuation	Punctuation	_	37	U	37:U	_
-41	a	_	Word	Word	_	42	E	42:E	_
+41	a	_	Word	Word	_	42	F	42:F	_
 42	sequel	_	Word	Word	_	37	E	37:E	_
 43	to	_	Word	Word	_	44	R	44:R	_
 44	Meet	_	Word	Word	_	42	A	42:A	_
@@ -53,7 +53,7 @@
 50	.	_	Punctuation	Punctuation	_	5	U	5:U	_
 51	Hoffman	_	Word	Word	_	52	A	52:A	_
 52	won	_	Word	Word	_	5	H	5:H	_
-53	the	_	Word	Word	_	57	E	57:E	_
+53	the	_	Word	Word	_	57	F	57:F	_
 54	2005	_	Word	Word	_	57	E	57:E	_
 55	MTV	_	Word	Word	_	57	E	57:E	_
 56	Movie	_	Word	Word	_	57	E	57:E	_

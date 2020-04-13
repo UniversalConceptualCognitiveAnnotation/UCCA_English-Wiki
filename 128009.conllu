@@ -3,16 +3,16 @@
 # text = It opened at the Martin Beck Theatre on December 26 , 1933 , and Hepburn was roundly panned by the critics .
 1	It	_	Word	Word	_	2	A	2:A	_
 2	opened	_	Word	Word	_	0	H	0:H	_
-3	at	_	Word	Word	_	7	R	7:R	_
-4	the	_	Word	Word	_	7	E	7:E	_
-5	Martin	_	Word	Word	_	7	E	7:E	_
+3	at	_	Word	Word	_	5	R	5:R	_
+4	the	_	Word	Word	_	5	E	5:E	_
+5	Martin	_	Word	Word	_	2	A	2:A	_
 6	Beck	_	Word	Word	_	5	Terminal	5:Terminal	_
-7	Theatre	_	Word	Word	_	2	A	2:A	_
+7	Theatre	_	Word	Word	_	5	Terminal	5:Terminal	_
 8	on	_	Word	Word	_	9	R	9:R	_
-9	December	_	Word	Word	_	2	D	2:D	_
-10	26	_	Word	Word	_	9	Terminal	9:Terminal	_
+9	December	_	Word	Word	_	2	T	2:T	_
+10	26	_	Word	Word	_	9	C	9:C	_
 11	,	_	Punctuation	Punctuation	_	9	U	9:U	_
-12	1933	_	Word	Word	_	9	Terminal	9:Terminal	_
+12	1933	_	Word	Word	_	9	C	9:C	_
 13	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 14	and	_	Word	Word	_	18	L	18:L	_
 15	Hepburn	_	Word	Word	_	18	A	18:A	_

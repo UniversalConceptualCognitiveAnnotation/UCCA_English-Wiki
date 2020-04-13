@@ -3,14 +3,14 @@
 # text = The pair soon moved to California , beginning an 18 - month period he later called his " lost weekend " . In Los Angeles , Pang encouraged Lennon to develop regular contact with Julian , whom he had not seen for two years .
 1	The	_	Word	Word	_	2	E	2:E	_
 2	pair	_	Word	Word	_	0	C	0:C|8:A	_
-3	soon	_	Word	Word	_	4	D	4:D	_
+3	soon	_	Word	Word	_	8	L	8:L	_
 4	moved	_	Word	Word	_	0	H	0:H	_
 5	to	_	Word	Word	_	6	R	6:R	_
 6	California	_	Word	Word	_	4	A	4:A	_
 7	,	_	Punctuation	Punctuation	_	4	U	4:U	_
 8	beginning	_	Word	Word	_	4	H	4:H	_
 9	an	_	Word	Word	_	13	E	13:E	_
-10	18	_	Word	Word	_	12	E	12:E	_
+10	18	_	Word	Word	_	12	Q	12:Q	_
 11	-	_	Punctuation	Punctuation	_	12	U	12:U	_
 12	month	_	Word	Word	_	13	E	13:E	_
 13	period	_	Word	Word	_	0	C	0:C|16:A	_
@@ -30,9 +30,9 @@
 27	Pang	_	Word	Word	_	28	A	28:A	_
 28	encouraged	_	Word	Word	_	4	H	4:H	_
 29	Lennon	_	Word	Word	_	28	A	28:A|33:A	_
-30	to	_	Word	Word	_	33	F	33:F	_
+30	to	_	Word	Word	_	33	R	33:R	_
 31	develop	_	Word	Word	_	33	D	33:D	_
-32	regular	_	Word	Word	_	33	D	33:D	_
+32	regular	_	Word	Word	_	33	T	33:T	_
 33	contact	_	Word	Word	_	28	A	28:A	_
 34	with	_	Word	Word	_	35	R	35:R	_
 35	Julian	_	Word	Word	_	33	A	33:A	_
@@ -43,7 +43,7 @@
 40	not	_	Word	Word	_	41	D	41:D	_
 41	seen	_	Word	Word	_	35	E	35:E	_
 42	for	_	Word	Word	_	44	R	44:R	_
-43	two	_	Word	Word	_	44	E	44:E	_
-44	years	_	Word	Word	_	41	D	41:D	_
+43	two	_	Word	Word	_	44	Q	44:Q	_
+44	years	_	Word	Word	_	41	T	41:T	_
 45	.	_	Punctuation	Punctuation	_	44	U	44:U	_
 

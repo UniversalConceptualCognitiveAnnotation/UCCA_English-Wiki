@@ -1,19 +1,19 @@
 # format = ucca
 # sent_id = 454001
 # text = His nightly appearance at an anchor desk in London gave the impression that ABC News was more dedicated to foreign news than the other networks .
-1	His	_	Word	Word	_	3	E	3:E	_
-2	nightly	_	Word	Word	_	3	D	3:D	_
+1	His	_	Word	Word	_	3	A	3:A	_
+2	nightly	_	Word	Word	_	3	T	3:T	_
 3	appearance	_	Word	Word	_	12	A	12:A	_
-4	at	_	Word	Word	_	7	R	7:R	_
+4	at	_	Word	Word	_	9	R	9:R	_
 5	an	_	Word	Word	_	7	E	7:E	_
 6	anchor	_	Word	Word	_	7	E	7:E	_
-7	desk	_	Word	Word	_	3	A	3:A	_
+7	desk	_	Word	Word	_	9	E	9:E	_
 8	in	_	Word	Word	_	9	R	9:R	_
-9	London	_	Word	Word	_	7	E	7:E	_
+9	London	_	Word	Word	_	3	A	3:A	_
 10	gave	_	Word	Word	_	12	F	12:F	_
 11	the	_	Word	Word	_	12	E	12:E	_
 12	impression	_	Word	Word	_	0	H	0:H	_
-13	that	_	Word	Word	_	18	F	18:F	_
+13	that	_	Word	Word	_	18	R	18:R	_
 14	ABC	_	Word	Word	_	15	E	15:E	_
 15	News	_	Word	Word	_	18	A	18:A	_
 16	was	_	Word	Word	_	18	F	18:F	_
@@ -21,10 +21,10 @@
 18	dedicated	_	Word	Word	_	12	A	12:A	_
 19	to	_	Word	Word	_	21	R	21:R	_
 20	foreign	_	Word	Word	_	21	E	21:E	_
-21	news	_	Word	Word	_	18	A	18:A	_
-22	than	_	Word	Word	_	25	R	25:R	_
+21	news	_	Word	Word	_	18	A	18:A|25:A	_
+22	than	_	Word	Word	_	25	L	25:L	_
 23	the	_	Word	Word	_	25	E	25:E	_
 24	other	_	Word	Word	_	25	E	25:E	_
-25	networks	_	Word	Word	_	18	A	18:A	_
+25	networks	_	Word	Word	_	18	H	18:H	_
 26	.	_	Punctuation	Punctuation	_	25	U	25:U	_
 

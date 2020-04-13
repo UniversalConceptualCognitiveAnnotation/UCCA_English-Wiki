@@ -1,47 +1,18 @@
 # format = ucca
 # sent_id = 534012
-# text = However the same historical documentary states that there were several patrons at the Stonewall bar that night , Garland fans who , according to bar patron Sylvia Rivera had come from the Garland funeral earlier in the day to drink and mourn .
-1	However	_	Word	Word	_	23	L	23:L	_
-2	the	_	Word	Word	_	5	E	5:E	_
-3	same	_	Word	Word	_	5	E	5:E	_
-4	historical	_	Word	Word	_	5	E	5:E	_
-5	documentary	_	Word	Word	_	6	A	6:A	_
-6	states	_	Word	Word	_	0	H	0:H	_
-7	that	_	Word	Word	_	9	F	9:F	_
-8	there	_	Word	Word	_	9	F	9:F	_
-9	were	_	Word	Word	_	6	A	6:A	_
-10	several	_	Word	Word	_	11	E	11:E	_
-11	patrons	_	Word	Word	_	9	A	9:A	_
-12	at	_	Word	Word	_	15	R	15:R	_
-13	the	_	Word	Word	_	15	E	15:E	_
-14	Stonewall	_	Word	Word	_	15	E	15:E	_
-15	bar	_	Word	Word	_	11	E	11:E	_
-16	that	_	Word	Word	_	17	E	17:E	_
-17	night	_	Word	Word	_	9	D	9:D	_
-18	,	_	Punctuation	Punctuation	_	6	U	6:U	_
-19	Garland	_	Word	Word	_	20	E	20:E	_
-20	fans	_	Word	Word	_	0	C	0:C|40:A	_
-21	who	_	Word	Word	_	30	R	30:R	_
-22	,	_	Punctuation	Punctuation	_	23	U	23:U	_
-23	according	_	Word	Word	_	6	H	6:H	_
-24	to	_	Word	Word	_	23	R	23:R	_
-25	bar	_	Word	Word	_	26	E	26:E	_
-26	patron	_	Word	Word	_	27	E	27:E	_
-27	Sylvia	_	Word	Word	_	23	A	23:A	_
-28	Rivera	_	Word	Word	_	27	Terminal	27:Terminal	_
-29	had	_	Word	Word	_	30	F	30:F	_
-30	come	_	Word	Word	_	20	E	20:E	_
-31	from	_	Word	Word	_	34	R	34:R	_
-32	the	_	Word	Word	_	34	E	34:E	_
-33	Garland	_	Word	Word	_	34	E	34:E	_
-34	funeral	_	Word	Word	_	30	A	30:A	_
-35	earlier	_	Word	Word	_	38	R	38:R	_
-36	in	_	Word	Word	_	38	E	38:E	_
-37	the	_	Word	Word	_	38	E	38:E	_
-38	day	_	Word	Word	_	30	D	30:D	_
-39	to	_	Word	Word	_	40	L	40:L	_
-40	drink	_	Word	Word	_	6	H	6:H	_
-41	and	_	Word	Word	_	40	N	40:N	_
-42	mourn	_	Word	Word	_	40	C	40:C	_
-43	.	_	Punctuation	Punctuation	_	40	U	40:U	_
+# text = The two events are deeply connected in the lore of the gay community .
+1	The	_	Word	Word	_	3	F	3:F	_
+2	two	_	Word	Word	_	3	D	3:D	_
+3	events	_	Word	Word	_	6	A	6:A	_
+4	are	_	Word	Word	_	6	F	6:F	_
+5	deeply	_	Word	Word	_	6	D	6:D	_
+6	connected	_	Word	Word	_	9	A	9:A	_
+7	in	_	Word	Word	_	9	R	9:R	_
+8	the	_	Word	Word	_	9	F	9:F	_
+9	lore	_	Word	Word	_	0	H	0:H	_
+10	of	_	Word	Word	_	12	R	12:R	_
+11	the	_	Word	Word	_	12	F	12:F	_
+12	gay	_	Word	Word	_	9	A	9:A	_
+13	community	_	Word	Word	_	12	C	12:C	_
+14	.	_	Punctuation	Punctuation	_	12	U	12:U	_
 

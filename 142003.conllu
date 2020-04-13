@@ -2,9 +2,9 @@
 # sent_id = 142003
 # text = The movie received mediocre reviews .
 1	The	_	Word	Word	_	2	E	2:E	_
-2	movie	_	Word	Word	_	3	A	3:A	_
-3	received	_	Word	Word	_	0	H	0:H	_
-4	mediocre	_	Word	Word	_	5	E	5:E	_
-5	reviews	_	Word	Word	_	3	A	3:A	_
+2	movie	_	Word	Word	_	5	A	5:A	_
+3	received	_	Word	Word	_	5	D	5:D	_
+4	mediocre	_	Word	Word	_	5	D	5:D	_
+5	reviews	_	Word	Word	_	0	H	0:H	_
 6	.	_	Punctuation	Punctuation	_	5	U	5:U	_
 

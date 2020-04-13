@@ -2,16 +2,16 @@
 # sent_id = 490002
 # text = In 2009 , Bana released a self - produced and directed documentary - style film called Love the Beast .
 1	In	_	Word	Word	_	2	R	2:R	_
-2	2009	_	Word	Word	_	5	D	5:D	_
+2	2009	_	Word	Word	_	5	T	5:T	_
 3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
-4	Bana	_	Word	Word	_	5	A	5:A	_
+4	Bana	_	Word	Word	_	5	A	5:A|9:A|11:A	_
 5	released	_	Word	Word	_	0	H	0:H	_
 6	a	_	Word	Word	_	15	E	15:E	_
-7	self	_	Word	Word	_	9	E	9:E	_
+7	self	_	Word	Word	_	9	D	9:D|11:D	_
 8	-	_	Punctuation	Punctuation	_	9	U	9:U	_
 9	produced	_	Word	Word	_	15	E	15:E	_
-10	and	_	Word	Word	_	9	N	9:N	_
-11	directed	_	Word	Word	_	9	C	9:C	_
+10	and	_	Word	Word	_	11	L	11:L	_
+11	directed	_	Word	Word	_	9	H	9:H	_
 12	documentary	_	Word	Word	_	14	E	14:E	_
 13	-	_	Punctuation	Punctuation	_	14	U	14:U	_
 14	style	_	Word	Word	_	15	E	15:E	_

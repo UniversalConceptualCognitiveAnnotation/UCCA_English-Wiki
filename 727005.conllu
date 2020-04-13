@@ -3,13 +3,13 @@
 # text = Jolie reprised her role as Lara Croft in Lara Croft Tomb Raider : The Cradle of Life ( 2003 ) , which established her among Hollywood 's highest - paid actresses .
 1	Jolie	_	Word	Word	_	2	A	2:A	_
 2	reprised	_	Word	Word	_	0	H	0:H	_
-3	her	_	Word	Word	_	4	E	4:E	_
-4	role	_	Word	Word	_	2	A	2:A	_
+3	her	_	Word	Word	_	4	A	4:A	_
+4	role	_	Word	Word	_	0	P	0:P|23:A	_
 5	as	_	Word	Word	_	6	R	6:R	_
-6	Lara	_	Word	Word	_	4	E	4:E	_
+6	Lara	_	Word	Word	_	4	A	4:A	_
 7	Croft	_	Word	Word	_	6	Terminal	6:Terminal	_
 8	in	_	Word	Word	_	9	R	9:R	_
-9	Lara	_	Word	Word	_	6	E	6:E	_
+9	Lara	_	Word	Word	_	4	A	4:A	_
 10	Croft	_	Word	Word	_	9	Terminal	9:Terminal	_
 11	Tomb	_	Word	Word	_	9	Terminal	9:Terminal	_
 12	Raider	_	Word	Word	_	9	Terminal	9:Terminal	_
@@ -26,9 +26,9 @@
 23	established	_	Word	Word	_	2	H	2:H	_
 24	her	_	Word	Word	_	23	A	23:A	_
 25	among	_	Word	Word	_	31	R	31:R	_
-26	Hollywood	_	Word	Word	_	31	E	31:E	_
+26	Hollywood	_	Word	Word	_	31	A	31:A	_
 27	's	_	Word	Word	_	26	R	26:R	_
-28	highest	_	Word	Word	_	30	E	30:E	_
+28	highest	_	Word	Word	_	30	D	30:D	_
 29	-	_	Punctuation	Punctuation	_	30	U	30:U	_
 30	paid	_	Word	Word	_	31	E	31:E	_
 31	actresses	_	Word	Word	_	23	A	23:A	_

@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 651001
-# text = However , the FBI considered Lennon to have limited effectiveness as a revolutionary since he was " constantly under the influence of narcotics " .
+# text = However , the FBI considered Lennon to have limited effectiveness as a revolutionary since he was " constantly under the influence of narcotics " . In 1973 , Lennon contributed a limerick called " Why Make It Sad To Be Gay ? " to Len Richmond 's The Gay Liberation Book .
 1	However	_	Word	Word	_	19	L	19:L	_
 2	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 3	the	_	Word	Word	_	4	E	4:E	_
@@ -18,12 +18,39 @@
 15	he	_	Word	Word	_	19	A	19:A	_
 16	was	_	Word	Word	_	19	F	19:F	_
 17	"	_	Punctuation	Punctuation	_	19	U	19:U	_
-18	constantly	_	Word	Word	_	19	D	19:D	_
+18	constantly	_	Word	Word	_	19	T	19:T	_
 19	under	_	Word	Word	_	5	H	5:H	_
 20	the	_	Word	Word	_	19	Terminal	19:Terminal	_
 21	influence	_	Word	Word	_	19	Terminal	19:Terminal	_
 22	of	_	Word	Word	_	23	R	23:R	_
 23	narcotics	_	Word	Word	_	19	A	19:A	_
-24	"	_	Punctuation	Punctuation	_	23	U	23:U	_
-25	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+24	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+25	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+26	In	_	Word	Word	_	27	R	27:R	_
+27	1973	_	Word	Word	_	30	T	30:T	_
+28	,	_	Punctuation	Punctuation	_	30	U	30:U	_
+29	Lennon	_	Word	Word	_	30	A	30:A	_
+30	contributed	_	Word	Word	_	5	H	5:H	_
+31	a	_	Word	Word	_	32	E	32:E	_
+32	limerick	_	Word	Word	_	30	A	30:A	_
+33	called	_	Word	Word	_	32	E	32:E	_
+34	"	_	Punctuation	Punctuation	_	33	U	33:U	_
+35	Why	_	Word	Word	_	33	A	33:A	_
+36	Make	_	Word	Word	_	35	Terminal	35:Terminal	_
+37	It	_	Word	Word	_	35	Terminal	35:Terminal	_
+38	Sad	_	Word	Word	_	35	Terminal	35:Terminal	_
+39	To	_	Word	Word	_	35	Terminal	35:Terminal	_
+40	Be	_	Word	Word	_	35	Terminal	35:Terminal	_
+41	Gay	_	Word	Word	_	35	Terminal	35:Terminal	_
+42	?	_	Punctuation	Punctuation	_	30	U	30:U	_
+43	"	_	Punctuation	Punctuation	_	30	U	30:U	_
+44	to	_	Word	Word	_	48	R	48:R	_
+45	Len	_	Word	Word	_	48	E	48:E	_
+46	Richmond	_	Word	Word	_	45	Terminal	45:Terminal	_
+47	's	_	Word	Word	_	45	R	45:R	_
+48	The	_	Word	Word	_	30	A	30:A	_
+49	Gay	_	Word	Word	_	48	Terminal	48:Terminal	_
+50	Liberation	_	Word	Word	_	48	Terminal	48:Terminal	_
+51	Book	_	Word	Word	_	48	Terminal	48:Terminal	_
+52	.	_	Punctuation	Punctuation	_	48	U	48:U	_
 

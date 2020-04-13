@@ -2,7 +2,7 @@
 # sent_id = 662003
 # text = During the album 's recording , Carey and Mottola became romantically involved .
 1	During	_	Word	Word	_	12	L	12:L	_
-2	the	_	Word	Word	_	3	E	3:E	_
+2	the	_	Word	Word	_	3	F	3:F	_
 3	album	_	Word	Word	_	5	A	5:A	_
 4	's	_	Word	Word	_	3	R	3:R	_
 5	recording	_	Word	Word	_	0	H	0:H	_
@@ -11,7 +11,7 @@
 8	and	_	Word	Word	_	7	N	7:N	_
 9	Mottola	_	Word	Word	_	7	C	7:C	_
 10	became	_	Word	Word	_	12	D	12:D	_
-11	romantically	_	Word	Word	_	12	D	12:D	_
+11	romantically	_	Word	Word	_	12	A	12:A	_
 12	involved	_	Word	Word	_	5	H	5:H	_
 13	.	_	Punctuation	Punctuation	_	12	U	12:U	_
 

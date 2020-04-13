@@ -2,28 +2,28 @@
 # sent_id = 182005
 # text = Until the late 1940s , she was one of American cinema 's most celebrated leading ladies , known for her forceful and intense style .
 1	Until	_	Word	Word	_	4	R	4:R	_
-2	the	_	Word	Word	_	4	E	4:E	_
+2	the	_	Word	Word	_	4	F	4:F	_
 3	late	_	Word	Word	_	4	E	4:E	_
-4	1940s	_	Word	Word	_	7	D	7:D	_
+4	1940s	_	Word	Word	_	7	T	7:T	_
 5	,	_	Punctuation	Punctuation	_	7	U	7:U	_
 6	she	_	Word	Word	_	7	A	7:A|18:A	_
 7	was	_	Word	Word	_	0	H	0:H	_
-8	one	_	Word	Word	_	16	E	16:E	_
-9	of	_	Word	Word	_	8	R	8:R	_
+8	one	_	Word	Word	_	16	Q	16:Q	_
+9	of	_	Word	Word	_	16	R	16:R	_
 10	American	_	Word	Word	_	11	E	11:E	_
 11	cinema	_	Word	Word	_	16	E	16:E	_
 12	's	_	Word	Word	_	11	R	11:R	_
-13	most	_	Word	Word	_	16	E	16:E	_
+13	most	_	Word	Word	_	14	D	14:D	_
 14	celebrated	_	Word	Word	_	16	E	16:E	_
 15	leading	_	Word	Word	_	16	E	16:E	_
 16	ladies	_	Word	Word	_	7	A	7:A	_
 17	,	_	Punctuation	Punctuation	_	7	U	7:U	_
 18	known	_	Word	Word	_	7	H	7:H	_
-19	for	_	Word	Word	_	24	R	24:R	_
-20	her	_	Word	Word	_	24	E	24:E	_
-21	forceful	_	Word	Word	_	24	E	24:E	_
-22	and	_	Word	Word	_	21	N	21:N	_
-23	intense	_	Word	Word	_	21	C	21:C	_
-24	style	_	Word	Word	_	18	A	18:A	_
-25	.	_	Punctuation	Punctuation	_	24	U	24:U	_
+19	for	_	Word	Word	_	21	R	21:R	_
+20	her	_	Word	Word	_	21	A	21:A|23:A	_
+21	forceful	_	Word	Word	_	18	A	18:A	_
+22	and	_	Word	Word	_	23	L	23:L	_
+23	intense	_	Word	Word	_	21	H	21:H	_
+24	style	_	Word	Word	_	21	D	21:D|23:D	_
+25	.	_	Punctuation	Punctuation	_	21	U	21:U	_
 

@@ -1,8 +1,8 @@
 # format = ucca
 # sent_id = 647017
 # text = Two days later , Lennon reappeared at a joint dental appointment , stupefied and confused to such an extent that Pang believed he had been brainwashed .
-1	Two	_	Word	Word	_	2	E	2:E	_
-2	days	_	Word	Word	_	6	D	6:D	_
+1	Two	_	Word	Word	_	2	Q	2:Q	_
+2	days	_	Word	Word	_	13	L	13:L	_
 3	later	_	Word	Word	_	2	R	2:R	_
 4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 5	Lennon	_	Word	Word	_	6	A	6:A	_
@@ -14,8 +14,8 @@
 11	appointment	_	Word	Word	_	6	A	6:A	_
 12	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 13	stupefied	_	Word	Word	_	6	H	6:H	_
-14	and	_	Word	Word	_	13	N	13:N	_
-15	confused	_	Word	Word	_	13	C	13:C	_
+14	and	_	Word	Word	_	15	L	15:L	_
+15	confused	_	Word	Word	_	6	H	6:H	_
 16	to	_	Word	Word	_	19	R	19:R	_
 17	such	_	Word	Word	_	19	E	19:E	_
 18	an	_	Word	Word	_	17	R	17:R	_
@@ -23,7 +23,7 @@
 20	that	_	Word	Word	_	22	F	22:F	_
 21	Pang	_	Word	Word	_	22	A	22:A	_
 22	believed	_	Word	Word	_	6	H	6:H	_
-23	he	_	Word	Word	_	26	A	26:A|13:A	_
+23	he	_	Word	Word	_	26	A	26:A|13:A|15:A	_
 24	had	_	Word	Word	_	26	F	26:F	_
 25	been	_	Word	Word	_	26	F	26:F	_
 26	brainwashed	_	Word	Word	_	22	A	22:A	_

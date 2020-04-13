@@ -2,12 +2,12 @@
 # sent_id = 600002
 # text = In 1954 , he met schoolmate George Harrison on the bus to the Institute from his suburban home in Speke .
 1	In	_	Word	Word	_	2	R	2:R	_
-2	1954	_	Word	Word	_	5	D	5:D	_
+2	1954	_	Word	Word	_	5	T	5:T	_
 3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 4	he	_	Word	Word	_	5	A	5:A	_
 5	met	_	Word	Word	_	0	H	0:H	_
-6	schoolmate	_	Word	Word	_	7	E	7:E	_
-7	George	_	Word	Word	_	5	A	5:A	_
+6	schoolmate	_	Word	Word	_	5	A	5:A	_
+7	George	_	Word	Word	_	6	A	6:A	_
 8	Harrison	_	Word	Word	_	7	Terminal	7:Terminal	_
 9	on	_	Word	Word	_	11	R	11:R	_
 10	the	_	Word	Word	_	11	E	11:E	_

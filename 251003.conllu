@@ -1,33 +1,33 @@
 # format = ucca
 # sent_id = 251003
 # text = In November 2007 he directed Things We Want , a two - act play by Jonathan Marc Sherman , for the artist - driven Off - Broadway company The New Group .
-1	In	_	Word	Word	_	3	R	3:R	_
-2	November	_	Word	Word	_	3	E	3:E	_
-3	2007	_	Word	Word	_	5	D	5:D	_
+1	In	_	Word	Word	_	2	R	2:R	_
+2	November	_	Word	Word	_	5	T	5:T	_
+3	2007	_	Word	Word	_	2	C	2:C	_
 4	he	_	Word	Word	_	5	A	5:A	_
 5	directed	_	Word	Word	_	0	H	0:H	_
 6	Things	_	Word	Word	_	5	A	5:A	_
 7	We	_	Word	Word	_	6	Terminal	6:Terminal	_
 8	Want	_	Word	Word	_	6	Terminal	6:Terminal	_
 9	,	_	Punctuation	Punctuation	_	6	U	6:U	_
-10	a	_	Word	Word	_	13	E	13:E	_
-11	two	_	Word	Word	_	13	E	13:E	_
+10	a	_	Word	Word	_	14	F	14:F	_
+11	two	_	Word	Word	_	13	Q	13:Q	_
 12	-	_	Punctuation	Punctuation	_	13	U	13:U	_
 13	act	_	Word	Word	_	14	E	14:E	_
 14	play	_	Word	Word	_	6	E	6:E	_
 15	by	_	Word	Word	_	16	R	16:R	_
-16	Jonathan	_	Word	Word	_	14	A	14:A	_
+16	Jonathan	_	Word	Word	_	6	E	6:E	_
 17	Marc	_	Word	Word	_	16	Terminal	16:Terminal	_
 18	Sherman	_	Word	Word	_	16	Terminal	16:Terminal	_
 19	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 20	for	_	Word	Word	_	29	R	29:R	_
-21	the	_	Word	Word	_	29	E	29:E	_
-22	artist	_	Word	Word	_	24	E	24:E	_
+21	the	_	Word	Word	_	29	F	29:F	_
+22	artist	_	Word	Word	_	24	A	24:A	_
 23	-	_	Punctuation	Punctuation	_	24	U	24:U	_
 24	driven	_	Word	Word	_	29	E	29:E	_
 25	Off	_	Word	Word	_	27	E	27:E	_
 26	-	_	Punctuation	Punctuation	_	27	U	27:U	_
-27	Broadway	_	Word	Word	_	28	E	28:E	_
+27	Broadway	_	Word	Word	_	29	E	29:E	_
 28	company	_	Word	Word	_	29	E	29:E	_
 29	The	_	Word	Word	_	5	A	5:A	_
 30	New	_	Word	Word	_	29	Terminal	29:Terminal	_

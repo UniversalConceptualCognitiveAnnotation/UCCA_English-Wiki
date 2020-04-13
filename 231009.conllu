@@ -1,21 +1,16 @@
 # format = ucca
 # sent_id = 231009
-# text = The regular judges on the program were He Ping , Wu Yue and Cheng Pei Pei .
-1	The	_	Word	Word	_	3	E	3:E	_
-2	regular	_	Word	Word	_	3	E	3:E	_
-3	judges	_	Word	Word	_	7	A	7:A	_
-4	on	_	Word	Word	_	6	R	6:R	_
-5	the	_	Word	Word	_	6	E	6:E	_
-6	program	_	Word	Word	_	7	A	7:A	_
-7	were	_	Word	Word	_	0	H	0:H	_
-8	He	_	Word	Word	_	7	A	7:A	_
-9	Ping	_	Word	Word	_	8	Terminal	8:Terminal	_
-10	,	_	Punctuation	Punctuation	_	8	U	8:U	_
-11	Wu	_	Word	Word	_	8	C	8:C	_
-12	Yue	_	Word	Word	_	11	Terminal	11:Terminal	_
-13	and	_	Word	Word	_	8	N	8:N	_
-14	Cheng	_	Word	Word	_	8	C	8:C	_
-15	Pei	_	Word	Word	_	14	Terminal	14:Terminal	_
-16	Pei	_	Word	Word	_	14	Terminal	14:Terminal	_
-17	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+# text = Guest judges include Stanley Tong , Sammo Hung and Yuen Biao .
+1	Guest	_	Word	Word	_	2	D	2:D	_
+2	judges	_	Word	Word	_	0	H	0:H	_
+3	include	_	Word	Word	_	4	R	4:R	_
+4	Stanley	_	Word	Word	_	2	A	2:A	_
+5	Tong	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+7	Sammo	_	Word	Word	_	4	C	4:C	_
+8	Hung	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	and	_	Word	Word	_	4	N	4:N	_
+10	Yuen	_	Word	Word	_	4	C	4:C	_
+11	Biao	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	.	_	Punctuation	Punctuation	_	4	U	4:U	_
 

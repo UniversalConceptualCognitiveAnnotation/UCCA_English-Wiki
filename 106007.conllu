@@ -2,7 +2,7 @@
 # sent_id = 106007
 # text = That year , she also appeared as a stripper in the music video for " Anybody Seen My Baby ? " by the Rolling Stones .
 1	That	_	Word	Word	_	2	E	2:E	_
-2	year	_	Word	Word	_	6	D	6:D	_
+2	year	_	Word	Word	_	6	T	6:T	_
 3	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 4	she	_	Word	Word	_	6	A	6:A	_
 5	also	_	Word	Word	_	6	D	6:D	_
@@ -22,9 +22,9 @@
 19	Baby	_	Word	Word	_	16	Terminal	16:Terminal	_
 20	?	_	Punctuation	Punctuation	_	16	U	16:U	_
 21	"	_	Punctuation	Punctuation	_	16	U	16:U	_
-22	by	_	Word	Word	_	24	R	24:R	_
+22	by	_	Word	Word	_	16	E	16:E	_
 23	the	_	Word	Word	_	24	E	24:E	_
-24	Rolling	_	Word	Word	_	16	A	16:A	_
+24	Rolling	_	Word	Word	_	22	A	22:A	_
 25	Stones	_	Word	Word	_	24	Terminal	24:Terminal	_
 26	.	_	Punctuation	Punctuation	_	24	U	24:U	_
 

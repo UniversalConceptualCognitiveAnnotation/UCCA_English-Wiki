@@ -2,11 +2,11 @@
 # sent_id = 140007
 # text = From December 1969 to August 1970 , Hepburn starred in the Broadway musical Coco , about the life of Coco Chanel .
 1	From	_	Word	Word	_	2	R	2:R	_
-2	December	_	Word	Word	_	9	D	9:D	_
-3	1969	_	Word	Word	_	2	Terminal	2:Terminal	_
+2	December	_	Word	Word	_	9	T	9:T	_
+3	1969	_	Word	Word	_	2	C	2:C	_
 4	to	_	Word	Word	_	2	R	2:R	_
 5	August	_	Word	Word	_	2	C	2:C	_
-6	1970	_	Word	Word	_	5	Terminal	5:Terminal	_
+6	1970	_	Word	Word	_	5	C	5:C	_
 7	,	_	Punctuation	Punctuation	_	9	U	9:U	_
 8	Hepburn	_	Word	Word	_	9	A	9:A	_
 9	starred	_	Word	Word	_	0	H	0:H	_

@@ -1,20 +1,14 @@
 # format = ucca
 # sent_id = 603013
-# text = McCartney largely directed the film , which brought the group their first unfavourable critical response .
-1	McCartney	_	Word	Word	_	3	A	3:A	_
-2	largely	_	Word	Word	_	3	D	3:D	_
-3	directed	_	Word	Word	_	0	H	0:H|8:A	_
-4	the	_	Word	Word	_	5	E	5:E	_
-5	film	_	Word	Word	_	3	A	3:A	_
-6	,	_	Punctuation	Punctuation	_	3	U	3:U	_
-7	which	_	Word	Word	_	8	L	8:L	_
-8	brought	_	Word	Word	_	3	H	3:H	_
-9	the	_	Word	Word	_	10	E	10:E	_
-10	group	_	Word	Word	_	8	A	8:A	_
-11	their	_	Word	Word	_	12	E	12:E	_
-12	first	_	Word	Word	_	15	E	15:E	_
-13	unfavourable	_	Word	Word	_	15	E	15:E	_
-14	critical	_	Word	Word	_	15	E	15:E	_
-15	response	_	Word	Word	_	8	A	8:A	_
-16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+# text = However , the film 's soundtrack was more successful .
+1	However	_	Word	Word	_	9	L	9:L	_
+2	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+3	the	_	Word	Word	_	4	E	4:E	_
+4	film	_	Word	Word	_	6	E	6:E	_
+5	's	_	Word	Word	_	4	R	4:R	_
+6	soundtrack	_	Word	Word	_	9	A	9:A	_
+7	was	_	Word	Word	_	9	F	9:F	_
+8	more	_	Word	Word	_	9	D	9:D	_
+9	successful	_	Word	Word	_	0	H	0:H	_
+10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
 

@@ -4,7 +4,7 @@
 1	It	_	Word	Word	_	3	F	3:F	_
 2	was	_	Word	Word	_	3	F	3:F	_
 3	reported	_	Word	Word	_	0	H	0:H	_
-4	that	_	Word	Word	_	7	F	7:F	_
+4	that	_	Word	Word	_	7	R	7:R	_
 5	Jackson	_	Word	Word	_	7	A	7:A|9:A	_
 6	had	_	Word	Word	_	7	F	7:F	_
 7	offered	_	Word	Word	_	3	A	3:A	_
@@ -16,10 +16,10 @@
 13	Joseph	_	Word	Word	_	11	E	11:E	_
 14	Merrick	_	Word	Word	_	13	Terminal	13:Terminal	_
 15	(	_	Punctuation	Punctuation	_	13	U	13:U	_
-16	the	_	Word	Word	_	19	E	19:E	_
-17	"	_	Punctuation	Punctuation	_	19	U	19:U	_
-18	elephant	_	Word	Word	_	19	E	19:E	_
-19	man	_	Word	Word	_	13	E	13:E	_
+16	the	_	Word	Word	_	18	E	18:E	_
+17	"	_	Punctuation	Punctuation	_	18	U	18:U	_
+18	elephant	_	Word	Word	_	13	E	13:E	_
+19	man	_	Word	Word	_	18	Terminal	18:Terminal	_
 20	"	_	Punctuation	Punctuation	_	3	U	3:U	_
 21	)	_	Punctuation	Punctuation	_	3	U	3:U	_
 22	and	_	Word	Word	_	24	L	24:L	_

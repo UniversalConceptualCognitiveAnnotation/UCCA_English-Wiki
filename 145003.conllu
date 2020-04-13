@@ -1,27 +1,27 @@
 # format = ucca
 # sent_id = 145003
 # text = Hepburn was known for being fiercely private , and would not give interviews or talk to fans for much of her career .
-1	Hepburn	_	Word	Word	_	3	A	3:A|7:A|10:A|12:A|15:A	_
-2	was	_	Word	Word	_	3	F	3:F	_
-3	known	_	Word	Word	_	0	H	0:H	_
-4	for	_	Word	Word	_	7	R	7:R	_
+1	Hepburn	_	Word	Word	_	7	A	7:A|13:A|15:A	_
+2	was	_	Word	Word	_	7	F	7:F	_
+3	known	_	Word	Word	_	7	G	7:G	_
+4	for	_	Word	Word	_	7	F	7:F	_
 5	being	_	Word	Word	_	7	F	7:F	_
 6	fiercely	_	Word	Word	_	7	D	7:D	_
-7	private	_	Word	Word	_	3	A	3:A	_
-8	,	_	Punctuation	Punctuation	_	3	U	3:U	_
-9	and	_	Word	Word	_	10	L	10:L	_
-10	would	_	Word	Word	_	3	H	3:H	_
-11	not	_	Word	Word	_	10	D	10:D	_
-12	give	_	Word	Word	_	10	A	10:A	_
-13	interviews	_	Word	Word	_	12	A	12:A	_
-14	or	_	Word	Word	_	12	N	12:N	_
-15	talk	_	Word	Word	_	12	C	12:C	_
+7	private	_	Word	Word	_	0	H	0:H	_
+8	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	and	_	Word	Word	_	13	L	13:L	_
+10	would	_	Word	Word	_	13	F	13:F	_
+11	not	_	Word	Word	_	13	D	13:D|15:D	_
+12	give	_	Word	Word	_	13	F	13:F	_
+13	interviews	_	Word	Word	_	7	H	7:H	_
+14	or	_	Word	Word	_	15	L	15:L	_
+15	talk	_	Word	Word	_	7	H	7:H	_
 16	to	_	Word	Word	_	17	R	17:R	_
 17	fans	_	Word	Word	_	15	A	15:A	_
-18	for	_	Word	Word	_	22	R	22:R	_
-19	much	_	Word	Word	_	22	E	22:E	_
-20	of	_	Word	Word	_	19	R	19:R	_
-21	her	_	Word	Word	_	22	E	22:E	_
-22	career	_	Word	Word	_	12	E	12:E	_
-23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+18	for	_	Word	Word	_	21	R	21:R	_
+19	much	_	Word	Word	_	21	D	21:D	_
+20	of	_	Word	Word	_	21	F	21:F	_
+21	her	_	Word	Word	_	13	A	13:A	_
+22	career	_	Word	Word	_	21	T	21:T	_
+23	.	_	Punctuation	Punctuation	_	21	U	21:U	_
 

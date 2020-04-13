@@ -3,18 +3,18 @@
 # text = At the time , ABC lagged behind the more established news divisions of NBC and CBS , and the network was trying to attract younger viewers .
 1	At	_	Word	Word	_	3	R	3:R	_
 2	the	_	Word	Word	_	3	E	3:E	_
-3	time	_	Word	Word	_	6	D	6:D	_
+3	time	_	Word	Word	_	6	T	6:T	_
 4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 5	ABC	_	Word	Word	_	6	A	6:A	_
 6	lagged	_	Word	Word	_	0	H	0:H	_
-7	behind	_	Word	Word	_	6	E	6:E	_
+7	behind	_	Word	Word	_	6	F	6:F	_
 8	the	_	Word	Word	_	12	E	12:E	_
-9	more	_	Word	Word	_	10	E	10:E	_
+9	more	_	Word	Word	_	10	D	10:D	_
 10	established	_	Word	Word	_	12	E	12:E	_
 11	news	_	Word	Word	_	12	E	12:E	_
 12	divisions	_	Word	Word	_	6	A	6:A	_
 13	of	_	Word	Word	_	14	R	14:R	_
-14	NBC	_	Word	Word	_	12	E	12:E	_
+14	NBC	_	Word	Word	_	12	E	12:E|10:A	_
 15	and	_	Word	Word	_	14	N	14:N	_
 16	CBS	_	Word	Word	_	14	C	14:C	_
 17	,	_	Punctuation	Punctuation	_	6	U	6:U	_
@@ -25,7 +25,7 @@
 22	trying	_	Word	Word	_	24	D	24:D	_
 23	to	_	Word	Word	_	24	F	24:F	_
 24	attract	_	Word	Word	_	6	H	6:H	_
-25	younger	_	Word	Word	_	26	E	26:E	_
+25	younger	_	Word	Word	_	26	D	26:D	_
 26	viewers	_	Word	Word	_	24	A	24:A	_
 27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
 

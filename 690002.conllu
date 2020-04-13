@@ -2,14 +2,14 @@
 # sent_id = 690002
 # text = During his Dinkytown days , Zimmerman began introducing himself as " Bob Dylan " . In his autobiography , Dylan acknowledged that he had been influenced by the poetry of Dylan Thomas . [
 1	During	_	Word	Word	_	8	L	8:L	_
-2	his	_	Word	Word	_	4	E	4:E	_
-3	Dinkytown	_	Word	Word	_	4	E	4:E	_
+2	his	_	Word	Word	_	4	A	4:A	_
+3	Dinkytown	_	Word	Word	_	4	A	4:A	_
 4	days	_	Word	Word	_	0	H	0:H	_
 5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
 6	Zimmerman	_	Word	Word	_	8	A	8:A	_
 7	began	_	Word	Word	_	8	D	8:D	_
 8	introducing	_	Word	Word	_	4	H	4:H	_
-9	himself	_	Word	Word	_	8	D	8:D	_
+9	himself	_	Word	Word	_	8	Terminal	8:Terminal	_
 10	as	_	Word	Word	_	12	R	12:R	_
 11	"	_	Punctuation	Punctuation	_	12	U	12:U	_
 12	Bob	_	Word	Word	_	8	A	8:A	_
@@ -22,7 +22,7 @@
 19	,	_	Punctuation	Punctuation	_	21	U	21:U	_
 20	Dylan	_	Word	Word	_	21	A	21:A	_
 21	acknowledged	_	Word	Word	_	4	H	4:H	_
-22	that	_	Word	Word	_	26	F	26:F	_
+22	that	_	Word	Word	_	26	R	26:R	_
 23	he	_	Word	Word	_	26	A	26:A	_
 24	had	_	Word	Word	_	26	F	26:F	_
 25	been	_	Word	Word	_	26	F	26:F	_

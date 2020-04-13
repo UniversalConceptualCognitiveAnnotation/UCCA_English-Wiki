@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 495004
 # text = You 've Got a Habit of Leaving " fared no better , signalling the end of Conn 's contract .
-1	You	_	Word	Word	_	9	A	9:A|13:A	_
+1	You	_	Word	Word	_	9	A	9:A|15:A	_
 2	've	_	Word	Word	_	1	Terminal	1:Terminal	_
 3	Got	_	Word	Word	_	1	Terminal	1:Terminal	_
 4	a	_	Word	Word	_	1	Terminal	1:Terminal	_
@@ -13,12 +13,12 @@
 10	no	_	Word	Word	_	11	E	11:E	_
 11	better	_	Word	Word	_	9	D	9:D	_
 12	,	_	Punctuation	Punctuation	_	9	U	9:U	_
-13	signalling	_	Word	Word	_	9	H	9:H	_
+13	signalling	_	Word	Word	_	15	D	15:D	_
 14	the	_	Word	Word	_	15	E	15:E	_
-15	end	_	Word	Word	_	13	A	13:A	_
+15	end	_	Word	Word	_	9	H	9:H	_
 16	of	_	Word	Word	_	19	R	19:R	_
-17	Conn	_	Word	Word	_	19	E	19:E	_
-18	's	_	Word	Word	_	17	R	17:R	_
+17	Conn	_	Word	Word	_	18	A	18:A	_
+18	's	_	Word	Word	_	19	E	19:E	_
 19	contract	_	Word	Word	_	15	A	15:A	_
 20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
 

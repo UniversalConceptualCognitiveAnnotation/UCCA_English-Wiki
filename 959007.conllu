@@ -1,13 +1,13 @@
 # format = ucca
 # sent_id = 959007
 # text = Leigh found the role grueling and commented to the Los Angeles Times , " I had nine months in the theatre of Blanche DuBois . Now she 's in command of me . "
-1	Leigh	_	Word	Word	_	5	A	5:A|7:A	_
-2	found	_	Word	Word	_	5	D	5:D	_
+1	Leigh	_	Word	Word	_	2	A	2:A|7:A	_
+2	found	_	Word	Word	_	0	H	0:H	_
 3	the	_	Word	Word	_	4	E	4:E	_
 4	role	_	Word	Word	_	5	A	5:A	_
-5	grueling	_	Word	Word	_	0	H	0:H	_
+5	grueling	_	Word	Word	_	2	A	2:A	_
 6	and	_	Word	Word	_	7	L	7:L	_
-7	commented	_	Word	Word	_	5	H	5:H	_
+7	commented	_	Word	Word	_	2	H	2:H	_
 8	to	_	Word	Word	_	10	R	10:R	_
 9	the	_	Word	Word	_	10	E	10:E	_
 10	Los	_	Word	Word	_	7	A	7:A	_
@@ -15,24 +15,24 @@
 12	Times	_	Word	Word	_	10	Terminal	10:Terminal	_
 13	,	_	Punctuation	Punctuation	_	7	U	7:U	_
 14	"	_	Punctuation	Punctuation	_	7	U	7:U	_
-15	I	_	Word	Word	_	16	A	16:A	_
-16	had	_	Word	Word	_	7	A	7:A	_
-17	nine	_	Word	Word	_	18	E	18:E	_
-18	months	_	Word	Word	_	16	A	16:A	_
-19	in	_	Word	Word	_	21	R	21:R	_
+15	I	_	Word	Word	_	19	A	19:A	_
+16	had	_	Word	Word	_	18	F	18:F	_
+17	nine	_	Word	Word	_	18	Q	18:Q	_
+18	months	_	Word	Word	_	19	D	19:D	_
+19	in	_	Word	Word	_	7	A	7:A	_
 20	the	_	Word	Word	_	21	E	21:E	_
-21	theatre	_	Word	Word	_	18	E	18:E	_
-22	of	_	Word	Word	_	21	R	21:R	_
+21	theatre	_	Word	Word	_	19	A	19:A	_
+22	of	_	Word	Word	_	23	R	23:R	_
 23	Blanche	_	Word	Word	_	21	E	21:E	_
 24	DuBois	_	Word	Word	_	23	Terminal	23:Terminal	_
-25	.	_	Punctuation	Punctuation	_	16	U	16:U	_
-26	Now	_	Word	Word	_	30	D	30:D	_
+25	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+26	Now	_	Word	Word	_	30	T	30:T	_
 27	she	_	Word	Word	_	30	A	30:A	_
 28	's	_	Word	Word	_	30	F	30:F	_
 29	in	_	Word	Word	_	30	R	30:R	_
-30	command	_	Word	Word	_	16	H	16:H	_
-31	of	_	Word	Word	_	30	R	30:R	_
+30	command	_	Word	Word	_	19	H	19:H	_
+31	of	_	Word	Word	_	32	R	32:R	_
 32	me	_	Word	Word	_	30	A	30:A	_
-33	.	_	Punctuation	Punctuation	_	30	U	30:U	_
-34	"	_	Punctuation	Punctuation	_	30	U	30:U	_
+33	.	_	Punctuation	Punctuation	_	32	U	32:U	_
+34	"	_	Punctuation	Punctuation	_	32	U	32:U	_
 

@@ -1,24 +1,24 @@
 # format = ucca
 # sent_id = 659001
 # text = As the years passed , Carey would grow apart from her father , and would later stop seeing him altogether .
-1	As	_	Word	Word	_	9	L	9:L	_
-2	the	_	Word	Word	_	3	E	3:E	_
-3	years	_	Word	Word	_	4	A	4:A	_
-4	passed	_	Word	Word	_	0	H	0:H	_
-5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
-6	Carey	_	Word	Word	_	9	A	9:A|18:A	_
-7	would	_	Word	Word	_	9	F	9:F	_
-8	grow	_	Word	Word	_	9	D	9:D	_
-9	apart	_	Word	Word	_	4	H	4:H	_
+1	As	_	Word	Word	_	3	R	3:R	_
+2	the	_	Word	Word	_	3	F	3:F	_
+3	years	_	Word	Word	_	8	T	8:T	_
+4	passed	_	Word	Word	_	3	F	3:F	_
+5	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+6	Carey	_	Word	Word	_	8	A	8:A|18:A	_
+7	would	_	Word	Word	_	8	F	8:F	_
+8	grow	_	Word	Word	_	0	H	0:H	_
+9	apart	_	Word	Word	_	8	Terminal	8:Terminal	_
 10	from	_	Word	Word	_	12	R	12:R	_
-11	her	_	Word	Word	_	12	E	12:E	_
-12	father	_	Word	Word	_	9	A	9:A	_
-13	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+11	her	_	Word	Word	_	12	A	12:A	_
+12	father	_	Word	Word	_	8	A	8:A	_
+13	,	_	Punctuation	Punctuation	_	8	U	8:U	_
 14	and	_	Word	Word	_	18	L	18:L	_
 15	would	_	Word	Word	_	18	F	18:F	_
-16	later	_	Word	Word	_	18	D	18:D	_
+16	later	_	Word	Word	_	18	T	18:T	_
 17	stop	_	Word	Word	_	18	D	18:D	_
-18	seeing	_	Word	Word	_	4	H	4:H	_
+18	seeing	_	Word	Word	_	8	H	8:H	_
 19	him	_	Word	Word	_	18	A	18:A	_
 20	altogether	_	Word	Word	_	18	D	18:D	_
 21	.	_	Punctuation	Punctuation	_	18	U	18:U	_

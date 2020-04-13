@@ -1,21 +1,21 @@
 # format = ucca
 # sent_id = 66012
 # text = She graduated from high school and returned to theater studies , though in recent times she has referred to this period with the observation , " I am still at heart \u2014 and always will be \u2014 just a punk kid with tattoos . "
-1	She	_	Word	Word	_	2	A	2:A|7:A	_
+1	She	_	Word	Word	_	2	A	2:A|10:A	_
 2	graduated	_	Word	Word	_	0	H	0:H	_
 3	from	_	Word	Word	_	5	R	5:R	_
 4	high	_	Word	Word	_	5	E	5:E	_
 5	school	_	Word	Word	_	2	A	2:A	_
-6	and	_	Word	Word	_	7	L	7:L	_
-7	returned	_	Word	Word	_	2	H	2:H	_
+6	and	_	Word	Word	_	10	L	10:L	_
+7	returned	_	Word	Word	_	10	D	10:D	_
 8	to	_	Word	Word	_	10	R	10:R	_
-9	theater	_	Word	Word	_	10	E	10:E	_
-10	studies	_	Word	Word	_	7	A	7:A	_
+9	theater	_	Word	Word	_	10	A	10:A	_
+10	studies	_	Word	Word	_	2	H	2:H	_
 11	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 12	though	_	Word	Word	_	18	L	18:L	_
 13	in	_	Word	Word	_	15	R	15:R	_
 14	recent	_	Word	Word	_	15	E	15:E	_
-15	times	_	Word	Word	_	18	D	18:D	_
+15	times	_	Word	Word	_	18	T	18:T	_
 16	she	_	Word	Word	_	18	A	18:A	_
 17	has	_	Word	Word	_	18	F	18:F	_
 18	referred	_	Word	Word	_	2	H	2:H	_
@@ -23,7 +23,7 @@
 20	this	_	Word	Word	_	21	E	21:E	_
 21	period	_	Word	Word	_	18	A	18:A	_
 22	with	_	Word	Word	_	28	R	28:R	_
-23	the	_	Word	Word	_	24	E	24:E	_
+23	the	_	Word	Word	_	24	F	24:F	_
 24	observation	_	Word	Word	_	28	E	28:E	_
 25	,	_	Punctuation	Punctuation	_	28	U	28:U	_
 26	"	_	Punctuation	Punctuation	_	28	U	28:U	_
@@ -39,7 +39,7 @@
 36	be	_	Word	Word	_	28	H	28:H	_
 37	\u2014	_	Punctuation	Punctuation	_	28	U	28:U	_
 38	just	_	Word	Word	_	28	D	28:D	_
-39	a	_	Word	Word	_	41	E	41:E	_
+39	a	_	Word	Word	_	41	F	41:F	_
 40	punk	_	Word	Word	_	41	E	41:E	_
 41	kid	_	Word	Word	_	28	A	28:A|36:A	_
 42	with	_	Word	Word	_	43	R	43:R	_

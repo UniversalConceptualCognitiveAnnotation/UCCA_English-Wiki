@@ -1,15 +1,15 @@
 # format = ucca
 # sent_id = 228013
 # text = His 100th movie 1911 was released on 26 September 2011 .
-1	His	_	Word	Word	_	4	E	4:E	_
-2	100th	_	Word	Word	_	4	E	4:E	_
+1	His	_	Word	Word	_	3	E	3:E	_
+2	100th	_	Word	Word	_	3	Q	3:Q	_
 3	movie	_	Word	Word	_	4	E	4:E	_
 4	1911	_	Word	Word	_	6	A	6:A	_
 5	was	_	Word	Word	_	6	F	6:F	_
 6	released	_	Word	Word	_	0	H	0:H	_
 7	on	_	Word	Word	_	8	R	8:R	_
-8	26	_	Word	Word	_	6	D	6:D	_
-9	September	_	Word	Word	_	8	Terminal	8:Terminal	_
-10	2011	_	Word	Word	_	8	Terminal	8:Terminal	_
+8	26	_	Word	Word	_	6	T	6:T	_
+9	September	_	Word	Word	_	8	C	8:C	_
+10	2011	_	Word	Word	_	8	C	8:C	_
 11	.	_	Punctuation	Punctuation	_	8	U	8:U	_
 

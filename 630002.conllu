@@ -1,8 +1,8 @@
 # format = ucca
 # sent_id = 630002
 # text = His father was often away from home but sent regular pay cheques to 9 Newcastle Road , Liverpool , where Lennon lived with his mother , but the cheques stopped when he went absent without leave in February 1944 .
-1	His	_	Word	Word	_	2	E	2:E	_
-2	father	_	Word	Word	_	0	C	0:C|9:A	_
+1	His	_	Word	Word	_	5	A	5:A	_
+2	father	_	Word	Word	_	1	A	1:A|9:A	_
 3	was	_	Word	Word	_	5	F	5:F	_
 4	often	_	Word	Word	_	5	D	5:D	_
 5	away	_	Word	Word	_	0	H	0:H	_
@@ -10,22 +10,22 @@
 7	home	_	Word	Word	_	5	A	5:A	_
 8	but	_	Word	Word	_	9	L	9:L	_
 9	sent	_	Word	Word	_	5	H	5:H	_
-10	regular	_	Word	Word	_	12	E	12:E	_
+10	regular	_	Word	Word	_	9	T	9:T	_
 11	pay	_	Word	Word	_	12	E	12:E	_
 12	cheques	_	Word	Word	_	9	A	9:A	_
-13	to	_	Word	Word	_	15	R	15:R	_
-14	9	_	Word	Word	_	15	E	15:E	_
-15	Newcastle	_	Word	Word	_	9	A	9:A|22:A	_
+13	to	_	Word	Word	_	14	R	14:R	_
+14	9	_	Word	Word	_	9	A	9:A	_
+15	Newcastle	_	Word	Word	_	14	C	14:C|22:A	_
 16	Road	_	Word	Word	_	15	Terminal	15:Terminal	_
-17	,	_	Punctuation	Punctuation	_	15	U	15:U	_
-18	Liverpool	_	Word	Word	_	15	E	15:E	_
-19	,	_	Punctuation	Punctuation	_	5	U	5:U	_
-20	where	_	Word	Word	_	22	L	22:L	_
+17	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+18	Liverpool	_	Word	Word	_	14	C	14:C	_
+19	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+20	where	_	Word	Word	_	22	R	22:R	_
 21	Lennon	_	Word	Word	_	22	A	22:A	_
-22	lived	_	Word	Word	_	5	H	5:H	_
-23	with	_	Word	Word	_	25	R	25:R	_
-24	his	_	Word	Word	_	25	E	25:E	_
-25	mother	_	Word	Word	_	22	A	22:A	_
+22	lived	_	Word	Word	_	14	E	14:E	_
+23	with	_	Word	Word	_	24	R	24:R	_
+24	his	_	Word	Word	_	22	A	22:A	_
+25	mother	_	Word	Word	_	24	A	24:A	_
 26	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 27	but	_	Word	Word	_	30	L	30:L	_
 28	the	_	Word	Word	_	29	E	29:E	_
@@ -37,8 +37,8 @@
 34	absent	_	Word	Word	_	5	H	5:H	_
 35	without	_	Word	Word	_	36	R	36:R	_
 36	leave	_	Word	Word	_	34	E	34:E	_
-37	in	_	Word	Word	_	39	R	39:R	_
-38	February	_	Word	Word	_	39	E	39:E	_
-39	1944	_	Word	Word	_	34	D	34:D	_
-40	.	_	Punctuation	Punctuation	_	39	U	39:U	_
+37	in	_	Word	Word	_	38	R	38:R	_
+38	February	_	Word	Word	_	34	T	34:T	_
+39	1944	_	Word	Word	_	38	C	38:C	_
+40	.	_	Punctuation	Punctuation	_	38	U	38:U	_
 

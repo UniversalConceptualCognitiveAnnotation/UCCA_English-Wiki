@@ -1,28 +1,28 @@
 # format = ucca
 # sent_id = 709011
 # text = Many critics and fans commented on the quiet beauty of the song " Lone Pilgrim " , penned by a 19th century teacher and sung by Dylan with a haunting reverence .
-1	Many	_	Word	Word	_	2	E	2:E	_
+1	Many	_	Word	Word	_	2	Q	2:Q	_
 2	critics	_	Word	Word	_	5	A	5:A	_
 3	and	_	Word	Word	_	2	N	2:N	_
 4	fans	_	Word	Word	_	2	C	2:C	_
 5	commented	_	Word	Word	_	0	H	0:H	_
 6	on	_	Word	Word	_	9	R	9:R	_
-7	the	_	Word	Word	_	9	E	9:E	_
-8	quiet	_	Word	Word	_	9	E	9:E	_
+7	the	_	Word	Word	_	9	F	9:F	_
+8	quiet	_	Word	Word	_	9	D	9:D	_
 9	beauty	_	Word	Word	_	5	A	5:A	_
-10	of	_	Word	Word	_	12	R	12:R	_
+10	of	_	Word	Word	_	14	R	14:R	_
 11	the	_	Word	Word	_	12	E	12:E	_
-12	song	_	Word	Word	_	9	E	9:E	_
-13	"	_	Punctuation	Punctuation	_	12	U	12:U	_
-14	Lone	_	Word	Word	_	12	E	12:E|18:A|25:A	_
+12	song	_	Word	Word	_	14	E	14:E	_
+13	"	_	Punctuation	Punctuation	_	14	U	14:U	_
+14	Lone	_	Word	Word	_	9	A	9:A	_
 15	Pilgrim	_	Word	Word	_	14	Terminal	14:Terminal	_
-16	"	_	Punctuation	Punctuation	_	18	U	18:U	_
-17	,	_	Punctuation	Punctuation	_	18	U	18:U	_
-18	penned	_	Word	Word	_	9	E	9:E	_
+16	"	_	Punctuation	Punctuation	_	14	U	14:U	_
+17	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+18	penned	_	Word	Word	_	14	E	14:E	_
 19	by	_	Word	Word	_	23	R	23:R	_
-20	a	_	Word	Word	_	23	E	23:E	_
+20	a	_	Word	Word	_	23	F	23:F	_
 21	19th	_	Word	Word	_	22	E	22:E	_
-22	century	_	Word	Word	_	23	E	23:E	_
+22	century	_	Word	Word	_	23	T	23:T	_
 23	teacher	_	Word	Word	_	18	A	18:A	_
 24	and	_	Word	Word	_	25	L	25:L	_
 25	sung	_	Word	Word	_	18	H	18:H	_
@@ -31,6 +31,6 @@
 28	with	_	Word	Word	_	31	R	31:R	_
 29	a	_	Word	Word	_	31	E	31:E	_
 30	haunting	_	Word	Word	_	31	E	31:E	_
-31	reverence	_	Word	Word	_	25	A	25:A	_
+31	reverence	_	Word	Word	_	25	D	25:D	_
 32	.	_	Punctuation	Punctuation	_	31	U	31:U	_
 

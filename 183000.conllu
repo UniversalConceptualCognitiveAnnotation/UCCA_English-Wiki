@@ -1,25 +1,25 @@
 # format = ucca
 # sent_id = 183000
 # text = Davis was the co - founder of the Hollywood Canteen , and was the first female president of the Academy of Motion Picture Arts and Sciences .
-1	Davis	_	Word	Word	_	2	A	2:A|13:A	_
-2	was	_	Word	Word	_	0	H	0:H	_
-3	the	_	Word	Word	_	6	E	6:E	_
-4	co	_	Word	Word	_	6	E	6:E	_
+1	Davis	_	Word	Word	_	6	A	6:A|13:A	_
+2	was	_	Word	Word	_	6	F	6:F	_
+3	the	_	Word	Word	_	6	F	6:F	_
+4	co	_	Word	Word	_	6	D	6:D	_
 5	-	_	Punctuation	Punctuation	_	6	U	6:U	_
-6	founder	_	Word	Word	_	2	A	2:A	_
+6	founder	_	Word	Word	_	0	H	0:H	_
 7	of	_	Word	Word	_	9	R	9:R	_
-8	the	_	Word	Word	_	9	E	9:E	_
-9	Hollywood	_	Word	Word	_	6	E	6:E	_
+8	the	_	Word	Word	_	9	F	9:F	_
+9	Hollywood	_	Word	Word	_	6	A	6:A	_
 10	Canteen	_	Word	Word	_	9	Terminal	9:Terminal	_
-11	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+11	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 12	and	_	Word	Word	_	13	L	13:L	_
-13	was	_	Word	Word	_	2	H	2:H	_
-14	the	_	Word	Word	_	17	E	17:E	_
-15	first	_	Word	Word	_	17	E	17:E	_
+13	was	_	Word	Word	_	6	H	6:H	_
+14	the	_	Word	Word	_	17	F	17:F	_
+15	first	_	Word	Word	_	17	Q	17:Q	_
 16	female	_	Word	Word	_	17	E	17:E	_
 17	president	_	Word	Word	_	13	A	13:A	_
 18	of	_	Word	Word	_	20	R	20:R	_
-19	the	_	Word	Word	_	20	E	20:E	_
+19	the	_	Word	Word	_	20	F	20:F	_
 20	Academy	_	Word	Word	_	17	E	17:E	_
 21	of	_	Word	Word	_	24	R	24:R	_
 22	Motion	_	Word	Word	_	23	E	23:E	_

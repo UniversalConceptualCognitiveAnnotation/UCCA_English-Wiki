@@ -2,7 +2,7 @@
 # sent_id = 248006
 # text = In 2004 Hawke returned to film , starring in two features , Taking Lives and Before Sunset .
 1	In	_	Word	Word	_	2	R	2:R	_
-2	2004	_	Word	Word	_	4	D	4:D	_
+2	2004	_	Word	Word	_	4	T	4:T	_
 3	Hawke	_	Word	Word	_	4	A	4:A|8:A	_
 4	returned	_	Word	Word	_	0	H	0:H	_
 5	to	_	Word	Word	_	6	R	6:R	_
@@ -10,7 +10,7 @@
 7	,	_	Punctuation	Punctuation	_	4	U	4:U	_
 8	starring	_	Word	Word	_	4	H	4:H	_
 9	in	_	Word	Word	_	13	R	13:R	_
-10	two	_	Word	Word	_	11	E	11:E	_
+10	two	_	Word	Word	_	11	Q	11:Q	_
 11	features	_	Word	Word	_	13	E	13:E	_
 12	,	_	Punctuation	Punctuation	_	13	U	13:U	_
 13	Taking	_	Word	Word	_	8	A	8:A	_

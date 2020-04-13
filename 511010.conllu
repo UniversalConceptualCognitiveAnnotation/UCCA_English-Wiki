@@ -1,9 +1,9 @@
 # format = ucca
 # sent_id = 511010
 # text = Bowie 's first studio album in a decade , The Next Day contains 14 songs plus 3 bonus tracks .
-1	Bowie	_	Word	Word	_	3	E	3:E	_
-2	's	_	Word	Word	_	1	R	1:R	_
-3	first	_	Word	Word	_	5	E	5:E	_
+1	Bowie	_	Word	Word	_	2	A	2:A	_
+2	's	_	Word	Word	_	5	E	5:E	_
+3	first	_	Word	Word	_	5	Q	5:Q	_
 4	studio	_	Word	Word	_	5	E	5:E	_
 5	album	_	Word	Word	_	0	H	0:H	_
 6	in	_	Word	Word	_	8	R	8:R	_
@@ -14,10 +14,10 @@
 11	Next	_	Word	Word	_	10	Terminal	10:Terminal	_
 12	Day	_	Word	Word	_	10	Terminal	10:Terminal	_
 13	contains	_	Word	Word	_	5	H	5:H	_
-14	14	_	Word	Word	_	15	E	15:E	_
+14	14	_	Word	Word	_	15	Q	15:Q	_
 15	songs	_	Word	Word	_	13	A	13:A	_
 16	plus	_	Word	Word	_	15	N	15:N	_
-17	3	_	Word	Word	_	19	E	19:E	_
+17	3	_	Word	Word	_	19	Q	19:Q	_
 18	bonus	_	Word	Word	_	19	E	19:E	_
 19	tracks	_	Word	Word	_	15	C	15:C	_
 20	.	_	Punctuation	Punctuation	_	19	U	19:U	_

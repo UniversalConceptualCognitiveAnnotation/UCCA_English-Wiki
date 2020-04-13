@@ -2,7 +2,7 @@
 # sent_id = 137003
 # text = In October 1952 it opened at the Shubert Theatre , where despite a lukewarm critical response it sold out its ten - week run .
 1	In	_	Word	Word	_	2	R	2:R	_
-2	October	_	Word	Word	_	5	D	5:D	_
+2	October	_	Word	Word	_	5	T	5:T	_
 3	1952	_	Word	Word	_	2	Terminal	2:Terminal	_
 4	it	_	Word	Word	_	5	A	5:A	_
 5	opened	_	Word	Word	_	0	H	0:H	_
@@ -13,17 +13,17 @@
 10	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 11	where	_	Word	Word	_	16	L	16:L	_
 12	despite	_	Word	Word	_	16	L	16:L	_
-13	a	_	Word	Word	_	14	E	14:E	_
+13	a	_	Word	Word	_	16	E	16:E	_
 14	lukewarm	_	Word	Word	_	16	D	16:D	_
 15	critical	_	Word	Word	_	16	A	16:A	_
 16	response	_	Word	Word	_	5	H	5:H	_
 17	it	_	Word	Word	_	18	A	18:A	_
 18	sold	_	Word	Word	_	5	H	5:H	_
 19	out	_	Word	Word	_	18	Terminal	18:Terminal	_
-20	its	_	Word	Word	_	24	E	24:E	_
-21	ten	_	Word	Word	_	23	E	23:E	_
+20	its	_	Word	Word	_	24	A	24:A	_
+21	ten	_	Word	Word	_	23	Q	23:Q	_
 22	-	_	Punctuation	Punctuation	_	23	U	23:U	_
-23	week	_	Word	Word	_	24	E	24:E	_
+23	week	_	Word	Word	_	24	T	24:T	_
 24	run	_	Word	Word	_	18	A	18:A	_
 25	.	_	Punctuation	Punctuation	_	24	U	24:U	_
 

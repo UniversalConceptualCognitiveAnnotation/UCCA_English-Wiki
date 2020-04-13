@@ -1,30 +1,51 @@
 # format = ucca
 # sent_id = 472008
-# text = In the last championship series of his career , Johnson averaged 18.6 points on .431 shooting , 12.4 assists , and 8.0 rebounds per triple game
+# text = In the last championship series of his career , Johnson averaged 18.6 points on .431 shooting , 12.4 assists , and 8.0 rebounds per triple game After a physical before the 1991 - 92 NBA season , Johnson discovered that he had tested positive for HIV .
 1	In	_	Word	Word	_	11	L	11:L	_
-2	the	_	Word	Word	_	3	E	3:E	_
-3	last	_	Word	Word	_	5	D	5:D	_
+2	the	_	Word	Word	_	5	F	5:F	_
+3	last	_	Word	Word	_	5	Q	5:Q	_
 4	championship	_	Word	Word	_	5	E	5:E	_
 5	series	_	Word	Word	_	0	H	0:H	_
 6	of	_	Word	Word	_	8	R	8:R	_
 7	his	_	Word	Word	_	8	A	8:A	_
-8	career	_	Word	Word	_	5	A	5:A	_
+8	career	_	Word	Word	_	5	E	5:E	_
 9	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 10	Johnson	_	Word	Word	_	11	A	11:A	_
 11	averaged	_	Word	Word	_	5	H	5:H	_
-12	18.6	_	Word	Word	_	13	E	13:E	_
+12	18.6	_	Word	Word	_	13	Q	13:Q	_
 13	points	_	Word	Word	_	11	A	11:A	_
 14	on	_	Word	Word	_	16	R	16:R	_
-15	.431	_	Word	Word	_	16	E	16:E	_
+15	.431	_	Word	Word	_	16	Q	16:Q	_
 16	shooting	_	Word	Word	_	13	E	13:E	_
 17	,	_	Punctuation	Punctuation	_	13	U	13:U	_
-18	12.4	_	Word	Word	_	19	E	19:E	_
+18	12.4	_	Word	Word	_	19	Q	19:Q	_
 19	assists	_	Word	Word	_	13	C	13:C	_
 20	,	_	Punctuation	Punctuation	_	13	U	13:U	_
 21	and	_	Word	Word	_	13	N	13:N	_
-22	8.0	_	Word	Word	_	23	E	23:E	_
+22	8.0	_	Word	Word	_	23	Q	23:Q	_
 23	rebounds	_	Word	Word	_	13	C	13:C	_
 24	per	_	Word	Word	_	26	R	26:R	_
 25	triple	_	Word	Word	_	26	E	26:E	_
-26	game	_	Word	Word	_	13	E	13:E	_
+26	game	_	Word	Word	_	11	A	11:A	_
+27	After	_	Word	Word	_	29	L	29:L	_
+28	a	_	Word	Word	_	29	F	29:F	_
+29	physical	_	Word	Word	_	5	H	5:H	_
+30	before	_	Word	Word	_	36	L	36:L	_
+31	the	_	Word	Word	_	32	F	32:F	_
+32	1991	_	Word	Word	_	36	T	36:T	_
+33	-	_	Punctuation	Punctuation	_	32	U	32:U	_
+34	92	_	Word	Word	_	32	C	32:C	_
+35	NBA	_	Word	Word	_	36	A	36:A	_
+36	season	_	Word	Word	_	5	H	5:H	_
+37	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+38	Johnson	_	Word	Word	_	39	A	39:A|29:A	_
+39	discovered	_	Word	Word	_	5	H	5:H	_
+40	that	_	Word	Word	_	43	R	43:R	_
+41	he	_	Word	Word	_	43	A	43:A	_
+42	had	_	Word	Word	_	43	F	43:F	_
+43	tested	_	Word	Word	_	39	A	39:A	_
+44	positive	_	Word	Word	_	43	A	43:A	_
+45	for	_	Word	Word	_	46	R	46:R	_
+46	HIV	_	Word	Word	_	43	A	43:A	_
+47	.	_	Punctuation	Punctuation	_	46	U	46:U	_
 

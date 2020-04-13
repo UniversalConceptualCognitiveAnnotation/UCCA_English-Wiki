@@ -1,37 +1,33 @@
 # format = ucca
 # sent_id = 1023001
-# text = On March 25 , 1983 , Michael Jackson reunited with his brothers for a legendary live performance which was taped for a Motown 25 : Yesterday , Today , Forever television special .
-1	On	_	Word	Word	_	2	R	2:R	_
-2	March	_	Word	Word	_	9	D	9:D	_
-3	25	_	Word	Word	_	2	Terminal	2:Terminal	_
-4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
-5	1983	_	Word	Word	_	2	Terminal	2:Terminal	_
-6	,	_	Punctuation	Punctuation	_	9	U	9:U	_
-7	Michael	_	Word	Word	_	9	A	9:A	_
-8	Jackson	_	Word	Word	_	7	Terminal	7:Terminal	_
-9	reunited	_	Word	Word	_	0	H	0:H	_
-10	with	_	Word	Word	_	9	R	9:R	_
-11	his	_	Word	Word	_	12	E	12:E	_
-12	brothers	_	Word	Word	_	9	A	9:A	_
-13	for	_	Word	Word	_	17	R	17:R	_
-14	a	_	Word	Word	_	17	E	17:E	_
-15	legendary	_	Word	Word	_	17	E	17:E	_
-16	live	_	Word	Word	_	17	E	17:E	_
-17	performance	_	Word	Word	_	9	A	9:A	_
-18	which	_	Word	Word	_	20	F	20:F	_
-19	was	_	Word	Word	_	20	F	20:F	_
-20	taped	_	Word	Word	_	17	E	17:E	_
-21	for	_	Word	Word	_	20	R	20:R	_
-22	a	_	Word	Word	_	32	E	32:E	_
-23	Motown	_	Word	Word	_	32	E	32:E	_
-24	25	_	Word	Word	_	23	Terminal	23:Terminal	_
-25	:	_	Punctuation	Punctuation	_	32	U	32:U	_
-26	Yesterday	_	Word	Word	_	32	E	32:E	_
-27	,	_	Punctuation	Punctuation	_	26	U	26:U	_
-28	Today	_	Word	Word	_	26	C	26:C	_
-29	,	_	Punctuation	Punctuation	_	26	U	26:U	_
-30	Forever	_	Word	Word	_	26	C	26:C	_
-31	television	_	Word	Word	_	32	E	32:E	_
-32	special	_	Word	Word	_	20	A	20:A	_
-33	.	_	Punctuation	Punctuation	_	32	U	32:U	_
+# text = The show aired on May 16 , 1983 , to an audience of 47 million viewers , and featured the Jacksons and a number of other Motown stars .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	show	_	Word	Word	_	0	C	0:C|19:A	_
+3	aired	_	Word	Word	_	0	H	0:H	_
+4	on	_	Word	Word	_	5	R	5:R	_
+5	May	_	Word	Word	_	3	T	3:T	_
+6	16	_	Word	Word	_	5	C	5:C	_
+7	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+8	1983	_	Word	Word	_	5	C	5:C	_
+9	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+10	to	_	Word	Word	_	12	R	12:R	_
+11	an	_	Word	Word	_	12	E	12:E	_
+12	audience	_	Word	Word	_	3	A	3:A	_
+13	of	_	Word	Word	_	16	R	16:R	_
+14	47	_	Word	Word	_	16	Q	16:Q	_
+15	million	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	viewers	_	Word	Word	_	12	E	12:E	_
+17	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+18	and	_	Word	Word	_	19	L	19:L	_
+19	featured	_	Word	Word	_	3	H	3:H	_
+20	the	_	Word	Word	_	21	E	21:E	_
+21	Jacksons	_	Word	Word	_	19	A	19:A	_
+22	and	_	Word	Word	_	21	N	21:N	_
+23	a	_	Word	Word	_	24	E	24:E	_
+24	number	_	Word	Word	_	28	Q	28:Q	_
+25	of	_	Word	Word	_	28	R	28:R	_
+26	other	_	Word	Word	_	28	D	28:D	_
+27	Motown	_	Word	Word	_	28	A	28:A	_
+28	stars	_	Word	Word	_	21	C	21:C	_
+29	.	_	Punctuation	Punctuation	_	28	U	28:U	_
 

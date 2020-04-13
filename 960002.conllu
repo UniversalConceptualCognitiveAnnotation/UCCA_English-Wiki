@@ -2,28 +2,28 @@
 # sent_id = 960002
 # text = In 1951 , Leigh and Olivier performed two plays about Cleopatra , William Shakespeare 's Antony and Cleopatra and George Bernard Shaw 's Caesar and Cleopatra , alternating the play each night and winning good reviews .
 1	In	_	Word	Word	_	2	R	2:R	_
-2	1951	_	Word	Word	_	7	D	7:D	_
+2	1951	_	Word	Word	_	7	T	7:T	_
 3	,	_	Punctuation	Punctuation	_	7	U	7:U	_
 4	Leigh	_	Word	Word	_	0	C	0:C|28:A|34:A	_
 5	and	_	Word	Word	_	4	N	4:N	_
 6	Olivier	_	Word	Word	_	4	C	4:C|28:A|34:A	_
 7	performed	_	Word	Word	_	0	H	0:H	_
-8	two	_	Word	Word	_	9	E	9:E	_
+8	two	_	Word	Word	_	9	Q	9:Q	_
 9	plays	_	Word	Word	_	7	A	7:A	_
-10	about	_	Word	Word	_	11	R	11:R	_
-11	Cleopatra	_	Word	Word	_	9	E	9:E	_
+10	about	_	Word	Word	_	9	E	9:E	_
+11	Cleopatra	_	Word	Word	_	10	A	10:A	_
 12	,	_	Punctuation	Punctuation	_	9	U	9:U	_
-13	William	_	Word	Word	_	16	E	16:E	_
+13	William	_	Word	Word	_	15	A	15:A	_
 14	Shakespeare	_	Word	Word	_	13	Terminal	13:Terminal	_
-15	's	_	Word	Word	_	13	R	13:R	_
+15	's	_	Word	Word	_	16	E	16:E	_
 16	Antony	_	Word	Word	_	9	E	9:E	_
 17	and	_	Word	Word	_	16	Terminal	16:Terminal	_
 18	Cleopatra	_	Word	Word	_	16	Terminal	16:Terminal	_
 19	and	_	Word	Word	_	16	N	16:N	_
-20	George	_	Word	Word	_	24	E	24:E	_
+20	George	_	Word	Word	_	23	A	23:A	_
 21	Bernard	_	Word	Word	_	20	Terminal	20:Terminal	_
 22	Shaw	_	Word	Word	_	20	Terminal	20:Terminal	_
-23	's	_	Word	Word	_	20	R	20:R	_
+23	's	_	Word	Word	_	24	E	24:E	_
 24	Caesar	_	Word	Word	_	16	C	16:C	_
 25	and	_	Word	Word	_	24	Terminal	24:Terminal	_
 26	Cleopatra	_	Word	Word	_	24	Terminal	24:Terminal	_
@@ -32,7 +32,7 @@
 29	the	_	Word	Word	_	30	E	30:E	_
 30	play	_	Word	Word	_	28	A	28:A	_
 31	each	_	Word	Word	_	32	E	32:E	_
-32	night	_	Word	Word	_	28	D	28:D	_
+32	night	_	Word	Word	_	28	T	28:T	_
 33	and	_	Word	Word	_	34	L	34:L	_
 34	winning	_	Word	Word	_	7	H	7:H	_
 35	good	_	Word	Word	_	36	E	36:E	_

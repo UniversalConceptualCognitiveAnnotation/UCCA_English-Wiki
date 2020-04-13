@@ -3,12 +3,12 @@
 # text = Shortly after the accident , his son , Jack Jr . , joined other family members in France , where the unconscious studio head was hospitalized .
 1	Shortly	_	Word	Word	_	2	E	2:E	_
 2	after	_	Word	Word	_	13	L	13:L	_
-3	the	_	Word	Word	_	4	E	4:E	_
+3	the	_	Word	Word	_	4	F	4:F	_
 4	accident	_	Word	Word	_	0	H	0:H	_
 5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
-6	his	_	Word	Word	_	7	E	7:E	_
+6	his	_	Word	Word	_	7	A	7:A	_
 7	son	_	Word	Word	_	9	E	9:E	_
-8	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+8	,	_	Punctuation	Punctuation	_	7	U	7:U	_
 9	Jack	_	Word	Word	_	13	A	13:A	_
 10	Jr	_	Word	Word	_	9	Terminal	9:Terminal	_
 11	.	_	Punctuation	Punctuation	_	13	U	13:U	_
@@ -20,11 +20,11 @@
 17	in	_	Word	Word	_	18	R	18:R	_
 18	France	_	Word	Word	_	13	A	13:A	_
 19	,	_	Punctuation	Punctuation	_	18	U	18:U	_
-20	where	_	Word	Word	_	26	F	26:F	_
-21	the	_	Word	Word	_	24	E	24:E	_
-22	unconscious	_	Word	Word	_	24	E	24:E	_
-23	studio	_	Word	Word	_	24	E	24:E	_
-24	head	_	Word	Word	_	26	A	26:A	_
+20	where	_	Word	Word	_	26	R	26:R	_
+21	the	_	Word	Word	_	23	F	23:F	_
+22	unconscious	_	Word	Word	_	23	E	23:E	_
+23	studio	_	Word	Word	_	26	A	26:A	_
+24	head	_	Word	Word	_	23	A	23:A|22:A	_
 25	was	_	Word	Word	_	26	F	26:F	_
 26	hospitalized	_	Word	Word	_	18	E	18:E	_
 27	.	_	Punctuation	Punctuation	_	26	U	26:U	_

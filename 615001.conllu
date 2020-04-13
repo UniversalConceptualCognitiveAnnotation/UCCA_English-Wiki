@@ -2,10 +2,10 @@
 # sent_id = 615001
 # text = In the mid - 1960s , when visiting artist friend John Dunbar 's flat in London , McCartney brought tapes he had compiled at then - girlfriend Jane Asher 's home .
 1	In	_	Word	Word	_	5	R	5:R	_
-2	the	_	Word	Word	_	5	E	5:E	_
+2	the	_	Word	Word	_	5	F	5:F	_
 3	mid	_	Word	Word	_	5	E	5:E	_
 4	-	_	Punctuation	Punctuation	_	5	U	5:U	_
-5	1960s	_	Word	Word	_	19	D	19:D	_
+5	1960s	_	Word	Word	_	19	T	19:T	_
 6	,	_	Punctuation	Punctuation	_	19	U	19:U	_
 7	when	_	Word	Word	_	8	L	8:L	_
 8	visiting	_	Word	Word	_	19	H	19:H	_
@@ -25,12 +25,12 @@
 22	had	_	Word	Word	_	23	F	23:F	_
 23	compiled	_	Word	Word	_	20	E	20:E	_
 24	at	_	Word	Word	_	31	R	31:R	_
-25	then	_	Word	Word	_	27	E	27:E	_
+25	then	_	Word	Word	_	27	T	27:T	_
 26	-	_	Punctuation	Punctuation	_	27	U	27:U	_
 27	girlfriend	_	Word	Word	_	28	E	28:E	_
-28	Jane	_	Word	Word	_	31	E	31:E	_
+28	Jane	_	Word	Word	_	30	A	30:A	_
 29	Asher	_	Word	Word	_	28	Terminal	28:Terminal	_
-30	's	_	Word	Word	_	28	R	28:R	_
+30	's	_	Word	Word	_	31	E	31:E	_
 31	home	_	Word	Word	_	23	A	23:A	_
 32	.	_	Punctuation	Punctuation	_	31	U	31:U	_
 

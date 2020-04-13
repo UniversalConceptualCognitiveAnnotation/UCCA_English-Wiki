@@ -2,13 +2,13 @@
 # sent_id = 449005
 # text = In 1965 , ABC News tapped him to anchor its flagship evening news program .
 1	In	_	Word	Word	_	2	R	2:R	_
-2	1965	_	Word	Word	_	6	D	6:D	_
+2	1965	_	Word	Word	_	6	T	6:T	_
 3	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 4	ABC	_	Word	Word	_	5	E	5:E	_
 5	News	_	Word	Word	_	6	A	6:A	_
 6	tapped	_	Word	Word	_	0	H	0:H	_
 7	him	_	Word	Word	_	6	A	6:A|9:A	_
-8	to	_	Word	Word	_	9	F	9:F	_
+8	to	_	Word	Word	_	9	R	9:R	_
 9	anchor	_	Word	Word	_	6	A	6:A	_
 10	its	_	Word	Word	_	14	E	14:E	_
 11	flagship	_	Word	Word	_	14	E	14:E	_

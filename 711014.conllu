@@ -7,7 +7,7 @@
 4	on	_	Word	Word	_	6	R	6:R	_
 5	the	_	Word	Word	_	6	E	6:E	_
 6	period	_	Word	Word	_	3	A	3:A	_
-7	from	_	Word	Word	_	10	R	10:R	_
+7	from	_	Word	Word	_	19	L	19:L	_
 8	Dylan	_	Word	Word	_	10	A	10:A	_
 9	's	_	Word	Word	_	8	R	8:R	_
 10	arrival	_	Word	Word	_	6	E	6:E	_
@@ -15,18 +15,18 @@
 12	New	_	Word	Word	_	10	A	10:A	_
 13	York	_	Word	Word	_	12	Terminal	12:Terminal	_
 14	in	_	Word	Word	_	15	R	15:R	_
-15	1961	_	Word	Word	_	10	D	10:D	_
-16	to	_	Word	Word	_	10	R	10:R	_
-17	his	_	Word	Word	_	18	E	18:E	_
+15	1961	_	Word	Word	_	10	T	10:T	_
+16	to	_	Word	Word	_	19	L	19:L	_
+17	his	_	Word	Word	_	19	A	19:A	_
 18	motorcycle	_	Word	Word	_	19	A	19:A	_
-19	crash	_	Word	Word	_	10	C	10:C	_
+19	crash	_	Word	Word	_	10	H	10:H	_
 20	in	_	Word	Word	_	21	R	21:R	_
-21	1966	_	Word	Word	_	19	D	19:D	_
+21	1966	_	Word	Word	_	19	T	19:T	_
 22	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 23	featuring	_	Word	Word	_	3	H	3:H	_
 24	interviews	_	Word	Word	_	23	A	23:A	_
 25	with	_	Word	Word	_	26	R	26:R	_
-26	Suze	_	Word	Word	_	24	E	24:E	_
+26	Suze	_	Word	Word	_	24	A	24:A	_
 27	Rotolo	_	Word	Word	_	26	Terminal	26:Terminal	_
 28	,	_	Punctuation	Punctuation	_	26	U	26:U	_
 29	Liam	_	Word	Word	_	26	C	26:C	_
@@ -46,6 +46,6 @@
 43	,	_	Punctuation	Punctuation	_	26	U	26:U	_
 44	and	_	Word	Word	_	26	N	26:N	_
 45	Dylan	_	Word	Word	_	26	C	26:C	_
-46	himself	_	Word	Word	_	45	D	45:D	_
+46	himself	_	Word	Word	_	45	F	45:F	_
 47	.	_	Punctuation	Punctuation	_	45	U	45:U	_
 

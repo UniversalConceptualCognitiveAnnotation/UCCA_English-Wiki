@@ -1,23 +1,23 @@
 # format = ucca
 # sent_id = 250014
 # text = In April 2005 Hawke starred in the Off - Broadway revival of David Rabe 's dark comedy Hurlyburly .
-1	In	_	Word	Word	_	3	R	3:R	_
-2	April	_	Word	Word	_	3	E	3:E	_
-3	2005	_	Word	Word	_	5	D	5:D	_
+1	In	_	Word	Word	_	2	R	2:R	_
+2	April	_	Word	Word	_	5	T	5:T	_
+3	2005	_	Word	Word	_	2	C	2:C	_
 4	Hawke	_	Word	Word	_	5	A	5:A	_
 5	starred	_	Word	Word	_	0	H	0:H	_
 6	in	_	Word	Word	_	11	R	11:R	_
-7	the	_	Word	Word	_	11	E	11:E	_
+7	the	_	Word	Word	_	11	F	11:F	_
 8	Off	_	Word	Word	_	10	E	10:E	_
 9	-	_	Punctuation	Punctuation	_	10	U	10:U	_
 10	Broadway	_	Word	Word	_	11	E	11:E	_
 11	revival	_	Word	Word	_	5	A	5:A	_
 12	of	_	Word	Word	_	18	R	18:R	_
-13	David	_	Word	Word	_	18	E	18:E	_
+13	David	_	Word	Word	_	15	A	15:A	_
 14	Rabe	_	Word	Word	_	13	Terminal	13:Terminal	_
-15	's	_	Word	Word	_	13	R	13:R	_
+15	's	_	Word	Word	_	18	E	18:E	_
 16	dark	_	Word	Word	_	17	E	17:E	_
 17	comedy	_	Word	Word	_	18	E	18:E	_
-18	Hurlyburly	_	Word	Word	_	11	A	11:A	_
+18	Hurlyburly	_	Word	Word	_	11	E	11:E	_
 19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
 

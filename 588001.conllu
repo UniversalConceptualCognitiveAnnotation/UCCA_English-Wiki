@@ -1,24 +1,24 @@
 # format = ucca
 # sent_id = 588001
 # text = Studio bosses were more ambivalent at first , but the character became popular with the movie - going public .
-1	Studio	_	Word	Word	_	2	E	2:E	_
-2	bosses	_	Word	Word	_	5	A	5:A	_
+1	Studio	_	Word	Word	_	5	A	5:A	_
+2	bosses	_	Word	Word	_	1	A	1:A	_
 3	were	_	Word	Word	_	5	F	5:F	_
 4	more	_	Word	Word	_	5	D	5:D	_
 5	ambivalent	_	Word	Word	_	0	H	0:H	_
-6	at	_	Word	Word	_	7	R	7:R	_
-7	first	_	Word	Word	_	5	D	5:D	_
+6	at	_	Word	Word	_	5	T	5:T	_
+7	first	_	Word	Word	_	6	Terminal	6:Terminal	_
 8	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 9	but	_	Word	Word	_	13	L	13:L	_
 10	the	_	Word	Word	_	11	E	11:E	_
 11	character	_	Word	Word	_	13	A	13:A	_
 12	became	_	Word	Word	_	13	D	13:D	_
 13	popular	_	Word	Word	_	5	H	5:H	_
-14	with	_	Word	Word	_	19	L	19:L	_
+14	with	_	Word	Word	_	19	R	19:R	_
 15	the	_	Word	Word	_	16	E	16:E	_
-16	movie	_	Word	Word	_	19	A	19:A	_
-17	-	_	Punctuation	Punctuation	_	19	U	19:U	_
-18	going	_	Word	Word	_	19	D	19:D	_
-19	public	_	Word	Word	_	5	H	5:H	_
+16	movie	_	Word	Word	_	18	A	18:A	_
+17	-	_	Punctuation	Punctuation	_	18	U	18:U	_
+18	going	_	Word	Word	_	19	E	19:E	_
+19	public	_	Word	Word	_	13	A	13:A	_
 20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
 

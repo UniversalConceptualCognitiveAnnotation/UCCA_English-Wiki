@@ -1,27 +1,27 @@
 # format = ucca
 # sent_id = 544003
-# text = In 1917 , while still in distribution , the Warners had secured the rights for War Brides , a film that featured Alla Nazimova as " a woman who kills herself rather than breed children for an unidentified country whose army looks suspiciously Teutonic . "
+# text = In 1917 , while still in distribution War Brides , the Warners had secured the rights for , a film that featured Alla Nazimova as " a woman who kills herself rather than breed children for an unidentified country whose army looks suspiciously Teutonic . "
 1	In	_	Word	Word	_	2	R	2:R	_
-2	1917	_	Word	Word	_	12	D	12:D	_
-3	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+2	1917	_	Word	Word	_	16	T	16:T	_
+3	,	_	Punctuation	Punctuation	_	16	U	16:U	_
 4	while	_	Word	Word	_	7	L	7:L	_
 5	still	_	Word	Word	_	7	D	7:D	_
 6	in	_	Word	Word	_	7	R	7:R	_
-7	distribution	_	Word	Word	_	12	H	12:H	_
-8	,	_	Punctuation	Punctuation	_	12	U	12:U	_
-9	the	_	Word	Word	_	10	E	10:E	_
-10	Warners	_	Word	Word	_	12	A	12:A	_
-11	had	_	Word	Word	_	12	F	12:F	_
-12	secured	_	Word	Word	_	0	H	0:H	_
-13	the	_	Word	Word	_	14	E	14:E	_
-14	rights	_	Word	Word	_	12	A	12:A	_
-15	for	_	Word	Word	_	16	R	16:R	_
-16	War	_	Word	Word	_	0	C	0:C|7:A	_
-17	Brides	_	Word	Word	_	16	Terminal	16:Terminal	_
-18	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+7	distribution	_	Word	Word	_	16	H	16:H	_
+8	War	_	Word	Word	_	7	A	7:A	_
+9	Brides	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+11	the	_	Word	Word	_	12	E	12:E	_
+12	Warners	_	Word	Word	_	0	C	0:C|7:A	_
+13	had	_	Word	Word	_	16	F	16:F	_
+14	secured	_	Word	Word	_	16	D	16:D	_
+15	the	_	Word	Word	_	16	E	16:E	_
+16	rights	_	Word	Word	_	0	H	0:H	_
+17	for	_	Word	Word	_	20	R	20:R	_
+18	,	_	Punctuation	Punctuation	_	20	U	20:U	_
 19	a	_	Word	Word	_	20	E	20:E	_
-20	film	_	Word	Word	_	16	E	16:E	_
-21	that	_	Word	Word	_	22	F	22:F	_
+20	film	_	Word	Word	_	16	A	16:A	_
+21	that	_	Word	Word	_	22	R	22:R	_
 22	featured	_	Word	Word	_	20	E	20:E	_
 23	Alla	_	Word	Word	_	22	A	22:A	_
 24	Nazimova	_	Word	Word	_	23	Terminal	23:Terminal	_
@@ -29,18 +29,18 @@
 26	"	_	Punctuation	Punctuation	_	28	U	28:U	_
 27	a	_	Word	Word	_	28	E	28:E	_
 28	woman	_	Word	Word	_	22	A	22:A	_
-29	who	_	Word	Word	_	30	F	30:F	_
+29	who	_	Word	Word	_	30	R	30:R	_
 30	kills	_	Word	Word	_	28	E	28:E	_
-31	herself	_	Word	Word	_	30	A	30:A	_
+31	herself	_	Word	Word	_	30	D	30:D	_
 32	rather	_	Word	Word	_	34	L	34:L	_
-33	than	_	Word	Word	_	32	E	32:E	_
+33	than	_	Word	Word	_	32	Terminal	32:Terminal	_
 34	breed	_	Word	Word	_	30	H	30:H	_
 35	children	_	Word	Word	_	34	A	34:A	_
 36	for	_	Word	Word	_	39	R	39:R	_
 37	an	_	Word	Word	_	39	E	39:E	_
 38	unidentified	_	Word	Word	_	39	E	39:E	_
 39	country	_	Word	Word	_	34	A	34:A	_
-40	whose	_	Word	Word	_	44	F	44:F	_
+40	whose	_	Word	Word	_	44	R	44:R	_
 41	army	_	Word	Word	_	44	A	44:A	_
 42	looks	_	Word	Word	_	44	G	44:G	_
 43	suspiciously	_	Word	Word	_	44	D	44:D	_

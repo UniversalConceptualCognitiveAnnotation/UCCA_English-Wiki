@@ -1,30 +1,30 @@
 # format = ucca
 # sent_id = 147004
-# text = The move to Hollywood in 1932 cemented the couple 's estrangement , and in 1934 , she traveled to Mexico to get a quick divorce .
+# text = The move to Hollywood the couple 's in 1932 cemented estrangement , and in 1934 , she traveled to Mexico to get a quick divorce .
 1	The	_	Word	Word	_	2	E	2:E	_
-2	move	_	Word	Word	_	7	A	7:A	_
+2	move	_	Word	Word	_	11	A	11:A	_
 3	to	_	Word	Word	_	4	R	4:R	_
 4	Hollywood	_	Word	Word	_	2	A	2:A	_
-5	in	_	Word	Word	_	6	R	6:R	_
-6	1932	_	Word	Word	_	7	D	7:D	_
-7	cemented	_	Word	Word	_	0	H	0:H	_
-8	the	_	Word	Word	_	9	E	9:E	_
-9	couple	_	Word	Word	_	11	A	11:A|2:A	_
-10	's	_	Word	Word	_	9	R	9:R	_
-11	estrangement	_	Word	Word	_	7	A	7:A	_
-12	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+5	the	_	Word	Word	_	6	E	6:E	_
+6	couple	_	Word	Word	_	2	A	2:A	_
+7	's	_	Word	Word	_	6	R	6:R	_
+8	in	_	Word	Word	_	9	R	9:R	_
+9	1932	_	Word	Word	_	11	T	11:T	_
+10	cemented	_	Word	Word	_	11	D	11:D	_
+11	estrangement	_	Word	Word	_	0	H	0:H	_
+12	,	_	Punctuation	Punctuation	_	11	U	11:U	_
 13	and	_	Word	Word	_	18	L	18:L	_
 14	in	_	Word	Word	_	15	R	15:R	_
-15	1934	_	Word	Word	_	18	D	18:D	_
+15	1934	_	Word	Word	_	18	T	18:T	_
 16	,	_	Punctuation	Punctuation	_	18	U	18:U	_
-17	she	_	Word	Word	_	18	A	18:A|22:A	_
-18	traveled	_	Word	Word	_	7	H	7:H	_
+17	she	_	Word	Word	_	18	A	18:A|25:A	_
+18	traveled	_	Word	Word	_	11	H	11:H	_
 19	to	_	Word	Word	_	20	R	20:R	_
 20	Mexico	_	Word	Word	_	18	A	18:A	_
-21	to	_	Word	Word	_	22	R	22:R	_
-22	get	_	Word	Word	_	18	A	18:A	_
-23	a	_	Word	Word	_	25	E	25:E	_
-24	quick	_	Word	Word	_	25	E	25:E	_
-25	divorce	_	Word	Word	_	22	A	22:A	_
+21	to	_	Word	Word	_	25	R	25:R	_
+22	get	_	Word	Word	_	25	D	25:D	_
+23	a	_	Word	Word	_	24	E	24:E	_
+24	quick	_	Word	Word	_	25	D	25:D	_
+25	divorce	_	Word	Word	_	18	A	18:A	_
 26	.	_	Punctuation	Punctuation	_	25	U	25:U	_
 

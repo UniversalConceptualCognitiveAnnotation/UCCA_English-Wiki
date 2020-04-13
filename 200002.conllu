@@ -2,7 +2,7 @@
 # sent_id = 200002
 # text = The first script is titled The Trial of the Chicago 7 , which Sorkin was already developing with Steven Spielberg and producers Walter Parkes and Laurie MacDonald .
 1	The	_	Word	Word	_	3	E	3:E	_
-2	first	_	Word	Word	_	3	E	3:E	_
+2	first	_	Word	Word	_	3	Q	3:Q	_
 3	script	_	Word	Word	_	5	A	5:A	_
 4	is	_	Word	Word	_	5	F	5:F	_
 5	titled	_	Word	Word	_	0	H	0:H	_
@@ -13,7 +13,7 @@
 10	Chicago	_	Word	Word	_	6	Terminal	6:Terminal	_
 11	7	_	Word	Word	_	6	Terminal	6:Terminal	_
 12	,	_	Punctuation	Punctuation	_	6	U	6:U	_
-13	which	_	Word	Word	_	17	F	17:F	_
+13	which	_	Word	Word	_	17	R	17:R	_
 14	Sorkin	_	Word	Word	_	17	A	17:A	_
 15	was	_	Word	Word	_	17	F	17:F	_
 16	already	_	Word	Word	_	17	D	17:D	_
@@ -22,8 +22,8 @@
 19	Steven	_	Word	Word	_	17	A	17:A	_
 20	Spielberg	_	Word	Word	_	19	Terminal	19:Terminal	_
 21	and	_	Word	Word	_	19	N	19:N	_
-22	producers	_	Word	Word	_	23	E	23:E	_
-23	Walter	_	Word	Word	_	19	C	19:C	_
+22	producers	_	Word	Word	_	19	C	19:C	_
+23	Walter	_	Word	Word	_	22	A	22:A	_
 24	Parkes	_	Word	Word	_	23	Terminal	23:Terminal	_
 25	and	_	Word	Word	_	23	N	23:N	_
 26	Laurie	_	Word	Word	_	23	C	23:C	_

@@ -1,31 +1,31 @@
 # format = ucca
 # sent_id = 63003
 # text = His next appearance came in the 1991 film Across the Tracks ; Pitt portrayed Joe Maloney , a high school runner with a criminal brother , played by Ricky Schroder .
-1	His	_	Word	Word	_	3	E	3:E	_
-2	next	_	Word	Word	_	3	E	3:E	_
-3	appearance	_	Word	Word	_	4	A	4:A	_
-4	came	_	Word	Word	_	0	H	0:H	_
+1	His	_	Word	Word	_	3	A	3:A	_
+2	next	_	Word	Word	_	3	D	3:D	_
+3	appearance	_	Word	Word	_	0	H	0:H	_
+4	came	_	Word	Word	_	3	D	3:D	_
 5	in	_	Word	Word	_	9	R	9:R	_
-6	the	_	Word	Word	_	9	E	9:E	_
-7	1991	_	Word	Word	_	9	E	9:E	_
+6	the	_	Word	Word	_	8	E	8:E	_
+7	1991	_	Word	Word	_	8	E	8:E	_
 8	film	_	Word	Word	_	9	E	9:E	_
-9	Across	_	Word	Word	_	4	A	4:A	_
+9	Across	_	Word	Word	_	3	A	3:A	_
 10	the	_	Word	Word	_	9	Terminal	9:Terminal	_
 11	Tracks	_	Word	Word	_	9	Terminal	9:Terminal	_
-12	;	_	Punctuation	Punctuation	_	4	U	4:U	_
+12	;	_	Punctuation	Punctuation	_	3	U	3:U	_
 13	Pitt	_	Word	Word	_	14	A	14:A	_
-14	portrayed	_	Word	Word	_	4	H	4:H	_
+14	portrayed	_	Word	Word	_	3	H	3:H	_
 15	Joe	_	Word	Word	_	14	A	14:A	_
 16	Maloney	_	Word	Word	_	15	Terminal	15:Terminal	_
 17	,	_	Punctuation	Punctuation	_	15	U	15:U	_
 18	a	_	Word	Word	_	21	E	21:E	_
 19	high	_	Word	Word	_	20	E	20:E	_
-20	school	_	Word	Word	_	21	E	21:E	_
-21	runner	_	Word	Word	_	15	E	15:E	_
-22	with	_	Word	Word	_	25	R	25:R	_
+20	school	_	Word	Word	_	21	A	21:A	_
+21	runner	_	Word	Word	_	0	C	0:C|22:A	_
+22	with	_	Word	Word	_	21	E	21:E	_
 23	a	_	Word	Word	_	25	E	25:E	_
 24	criminal	_	Word	Word	_	25	E	25:E	_
-25	brother	_	Word	Word	_	21	E	21:E	_
+25	brother	_	Word	Word	_	22	A	22:A	_
 26	,	_	Punctuation	Punctuation	_	25	U	25:U	_
 27	played	_	Word	Word	_	25	E	25:E	_
 28	by	_	Word	Word	_	29	R	29:R	_

@@ -1,35 +1,35 @@
 # format = ucca
 # sent_id = 181002
 # text = Her last purely Swedish ancestor was her great - grandfather , a descendant of Leonard Gyllenhaal , a leading Swedenborgian who supported the printing and spreading of Swedenborg 's writings .
-1	Her	_	Word	Word	_	2	E	2:E	_
-2	last	_	Word	Word	_	5	E	5:E	_
+1	Her	_	Word	Word	_	5	A	5:A	_
+2	last	_	Word	Word	_	5	D	5:D	_
 3	purely	_	Word	Word	_	4	E	4:E	_
-4	Swedish	_	Word	Word	_	5	E	5:E	_
+4	Swedish	_	Word	Word	_	5	A	5:A	_
 5	ancestor	_	Word	Word	_	6	A	6:A	_
 6	was	_	Word	Word	_	0	H	0:H	_
-7	her	_	Word	Word	_	8	E	8:E	_
+7	her	_	Word	Word	_	8	A	8:A	_
 8	great	_	Word	Word	_	6	A	6:A	_
 9	-	_	Punctuation	Punctuation	_	8	U	8:U	_
 10	grandfather	_	Word	Word	_	8	Terminal	8:Terminal	_
-11	,	_	Punctuation	Punctuation	_	8	U	8:U	_
-12	a	_	Word	Word	_	13	E	13:E	_
+11	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+12	a	_	Word	Word	_	13	F	13:F	_
 13	descendant	_	Word	Word	_	8	E	8:E	_
 14	of	_	Word	Word	_	15	R	15:R	_
-15	Leonard	_	Word	Word	_	13	E	13:E	_
+15	Leonard	_	Word	Word	_	13	A	13:A	_
 16	Gyllenhaal	_	Word	Word	_	15	Terminal	15:Terminal	_
 17	,	_	Punctuation	Punctuation	_	15	U	15:U	_
-18	a	_	Word	Word	_	20	E	20:E	_
+18	a	_	Word	Word	_	20	F	20:F	_
 19	leading	_	Word	Word	_	20	D	20:D	_
 20	Swedenborgian	_	Word	Word	_	15	E	15:E	_
-21	who	_	Word	Word	_	22	F	22:F	_
-22	supported	_	Word	Word	_	20	A	20:A	_
-23	the	_	Word	Word	_	24	E	24:E	_
+21	who	_	Word	Word	_	22	R	22:R	_
+22	supported	_	Word	Word	_	15	E	15:E	_
+23	the	_	Word	Word	_	24	F	24:F	_
 24	printing	_	Word	Word	_	22	A	22:A	_
-25	and	_	Word	Word	_	24	N	24:N	_
-26	spreading	_	Word	Word	_	24	C	24:C	_
+25	and	_	Word	Word	_	26	L	26:L	_
+26	spreading	_	Word	Word	_	24	H	24:H	_
 27	of	_	Word	Word	_	30	R	30:R	_
-28	Swedenborg	_	Word	Word	_	30	E	30:E	_
-29	's	_	Word	Word	_	28	R	28:R	_
-30	writings	_	Word	Word	_	24	A	24:A	_
+28	Swedenborg	_	Word	Word	_	29	A	29:A	_
+29	's	_	Word	Word	_	30	E	30:E	_
+30	writings	_	Word	Word	_	24	A	24:A|26:A	_
 31	.	_	Punctuation	Punctuation	_	30	U	30:U	_
 

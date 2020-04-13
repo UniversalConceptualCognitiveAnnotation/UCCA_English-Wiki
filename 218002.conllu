@@ -1,9 +1,9 @@
 # format = ucca
 # sent_id = 218002
 # text = Dunst revealed that working with Crowe was enjoyable , but more demanding than she had expected .
-1	Dunst	_	Word	Word	_	2	A	2:A	_
+1	Dunst	_	Word	Word	_	2	A	2:A|4:A	_
 2	revealed	_	Word	Word	_	0	H	0:H	_
-3	that	_	Word	Word	_	8	F	8:F	_
+3	that	_	Word	Word	_	8	R	8:R	_
 4	working	_	Word	Word	_	0	P	0:P|12:A	_
 5	with	_	Word	Word	_	6	R	6:R	_
 6	Crowe	_	Word	Word	_	4	A	4:A	_

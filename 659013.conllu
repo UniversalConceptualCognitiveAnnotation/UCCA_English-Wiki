@@ -2,13 +2,13 @@
 # sent_id = 659013
 # text = Following her graduation from high school , Carey 's mother remarried , which ultimately prompted her to move out from their apartment .
 1	Following	_	Word	Word	_	11	L	11:L	_
-2	her	_	Word	Word	_	3	E	3:E	_
+2	her	_	Word	Word	_	3	A	3:A	_
 3	graduation	_	Word	Word	_	0	H	0:H	_
 4	from	_	Word	Word	_	6	R	6:R	_
 5	high	_	Word	Word	_	6	E	6:E	_
 6	school	_	Word	Word	_	3	A	3:A	_
 7	,	_	Punctuation	Punctuation	_	3	U	3:U	_
-8	Carey	_	Word	Word	_	10	E	10:E	_
+8	Carey	_	Word	Word	_	10	A	10:A	_
 9	's	_	Word	Word	_	8	R	8:R	_
 10	mother	_	Word	Word	_	11	A	11:A	_
 11	remarried	_	Word	Word	_	3	H	3:H	_
@@ -19,7 +19,7 @@
 16	her	_	Word	Word	_	18	A	18:A	_
 17	to	_	Word	Word	_	18	F	18:F	_
 18	move	_	Word	Word	_	3	H	3:H	_
-19	out	_	Word	Word	_	18	R	18:R	_
+19	out	_	Word	Word	_	18	Terminal	18:Terminal	_
 20	from	_	Word	Word	_	22	R	22:R	_
 21	their	_	Word	Word	_	22	E	22:E	_
 22	apartment	_	Word	Word	_	18	A	18:A	_

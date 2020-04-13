@@ -1,27 +1,19 @@
 # format = ucca
 # sent_id = 641009
-# text = Lennon was taken to the emergency room of nearby Roosevelt Hospital and was pronounced dead on arrival at 11 : 07 pm .
-1	Lennon	_	Word	Word	_	3	A	3:A|14:A	_
-2	was	_	Word	Word	_	3	F	3:F	_
-3	taken	_	Word	Word	_	0	H	0:H	_
-4	to	_	Word	Word	_	7	R	7:R	_
-5	the	_	Word	Word	_	7	E	7:E	_
-6	emergency	_	Word	Word	_	7	E	7:E	_
-7	room	_	Word	Word	_	3	A	3:A	_
-8	of	_	Word	Word	_	11	R	11:R	_
-9	nearby	_	Word	Word	_	11	E	11:E	_
-10	Roosevelt	_	Word	Word	_	11	E	11:E	_
-11	Hospital	_	Word	Word	_	7	E	7:E	_
-12	and	_	Word	Word	_	14	L	14:L	_
-13	was	_	Word	Word	_	14	F	14:F	_
-14	pronounced	_	Word	Word	_	3	H	3:H	_
-15	dead	_	Word	Word	_	14	A	14:A	_
-16	on	_	Word	Word	_	15	Terminal	15:Terminal	_
-17	arrival	_	Word	Word	_	15	Terminal	15:Terminal	_
-18	at	_	Word	Word	_	22	R	22:R	_
-19	11	_	Word	Word	_	22	E	22:E	_
-20	:	_	Punctuation	Punctuation	_	19	U	19:U	_
-21	07	_	Word	Word	_	19	Terminal	19:Terminal	_
-22	pm	_	Word	Word	_	14	D	14:D	_
-23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+# text = Earlier that evening , Lennon had autographed a copy of Double Fantasy for Chapman .
+1	Earlier	_	Word	Word	_	3	E	3:E	_
+2	that	_	Word	Word	_	3	E	3:E	_
+3	evening	_	Word	Word	_	7	T	7:T	_
+4	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+5	Lennon	_	Word	Word	_	7	A	7:A	_
+6	had	_	Word	Word	_	7	F	7:F	_
+7	autographed	_	Word	Word	_	0	H	0:H	_
+8	a	_	Word	Word	_	9	E	9:E	_
+9	copy	_	Word	Word	_	11	E	11:E	_
+10	of	_	Word	Word	_	9	R	9:R	_
+11	Double	_	Word	Word	_	7	A	7:A	_
+12	Fantasy	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	for	_	Word	Word	_	14	R	14:R	_
+14	Chapman	_	Word	Word	_	7	A	7:A	_
+15	.	_	Punctuation	Punctuation	_	14	U	14:U	_
 

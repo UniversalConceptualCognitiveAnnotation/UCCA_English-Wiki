@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 124006
 # text = A week before opening , the lead was fired and replaced with Hepburn , which gave her a starring role after only four weeks in the theatre .
-1	A	_	Word	Word	_	2	E	2:E	_
+1	A	_	Word	Word	_	2	Q	2:Q	_
 2	week	_	Word	Word	_	9	L	9:L	_
 3	before	_	Word	Word	_	2	R	2:R	_
 4	opening	_	Word	Word	_	0	H	0:H	_
@@ -17,16 +17,16 @@
 14	,	_	Punctuation	Punctuation	_	4	U	4:U	_
 15	which	_	Word	Word	_	16	L	16:L	_
 16	gave	_	Word	Word	_	4	H	4:H	_
-17	her	_	Word	Word	_	16	A	16:A|20:A|27:A	_
+17	her	_	Word	Word	_	16	A	16:A|20:A|25:A	_
 18	a	_	Word	Word	_	20	E	20:E	_
 19	starring	_	Word	Word	_	20	D	20:D	_
 20	role	_	Word	Word	_	16	A	16:A	_
-21	after	_	Word	Word	_	27	L	27:L	_
-22	only	_	Word	Word	_	27	D	27:D	_
-23	four	_	Word	Word	_	24	E	24:E	_
-24	weeks	_	Word	Word	_	27	D	27:D	_
-25	in	_	Word	Word	_	27	R	27:R	_
+21	after	_	Word	Word	_	25	L	25:L	_
+22	only	_	Word	Word	_	24	E	24:E	_
+23	four	_	Word	Word	_	24	Q	24:Q	_
+24	weeks	_	Word	Word	_	25	T	25:T	_
+25	in	_	Word	Word	_	4	H	4:H	_
 26	the	_	Word	Word	_	27	E	27:E	_
-27	theatre	_	Word	Word	_	4	H	4:H	_
+27	theatre	_	Word	Word	_	25	A	25:A	_
 28	.	_	Punctuation	Punctuation	_	27	U	27:U	_
 

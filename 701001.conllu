@@ -1,14 +1,14 @@
 # format = ucca
 # sent_id = 701001
 # text = Variety magazine wrote , " Dylan is definitely doing something that can be called singing . Somehow he has managed to add an octave to his range . "
-1	Variety	_	Word	Word	_	2	E	2:E	_
-2	magazine	_	Word	Word	_	3	A	3:A	_
+1	Variety	_	Word	Word	_	3	A	3:A	_
+2	magazine	_	Word	Word	_	1	E	1:E	_
 3	wrote	_	Word	Word	_	0	H	0:H	_
 4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
 5	"	_	Punctuation	Punctuation	_	3	U	3:U	_
 6	Dylan	_	Word	Word	_	9	A	9:A	_
 7	is	_	Word	Word	_	9	F	9:F	_
-8	definitely	_	Word	Word	_	9	D	9:D	_
+8	definitely	_	Word	Word	_	9	G	9:G	_
 9	doing	_	Word	Word	_	3	A	3:A	_
 10	something	_	Word	Word	_	9	A	9:A	_
 11	that	_	Word	Word	_	14	R	14:R	_
@@ -17,7 +17,7 @@
 14	called	_	Word	Word	_	10	E	10:E	_
 15	singing	_	Word	Word	_	14	A	14:A	_
 16	.	_	Punctuation	Punctuation	_	9	U	9:U	_
-17	Somehow	_	Word	Word	_	22	D	22:D	_
+17	Somehow	_	Word	Word	_	9	H	9:H	_
 18	he	_	Word	Word	_	22	A	22:A	_
 19	has	_	Word	Word	_	22	F	22:F	_
 20	managed	_	Word	Word	_	22	D	22:D	_

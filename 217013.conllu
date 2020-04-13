@@ -1,28 +1,28 @@
 # format = ucca
 # sent_id = 217013
 # text = The movie was well received by critics and a financial success , setting a new opening weekend box office record for North America .
-1	The	_	Word	Word	_	2	E	2:E	_
-2	movie	_	Word	Word	_	5	A	5:A|11:A|13:A	_
+1	The	_	Word	Word	_	2	F	2:F	_
+2	movie	_	Word	Word	_	0	C	0:C|11:A|20:A	_
 3	was	_	Word	Word	_	5	F	5:F	_
 4	well	_	Word	Word	_	5	D	5:D	_
 5	received	_	Word	Word	_	0	H	0:H	_
 6	by	_	Word	Word	_	7	R	7:R	_
 7	critics	_	Word	Word	_	5	A	5:A	_
 8	and	_	Word	Word	_	11	L	11:L	_
-9	a	_	Word	Word	_	11	E	11:E	_
-10	financial	_	Word	Word	_	11	E	11:E	_
+9	a	_	Word	Word	_	11	F	11:F	_
+10	financial	_	Word	Word	_	11	D	11:D	_
 11	success	_	Word	Word	_	5	H	5:H	_
 12	,	_	Punctuation	Punctuation	_	5	U	5:U	_
-13	setting	_	Word	Word	_	5	H	5:H	_
-14	a	_	Word	Word	_	20	E	20:E	_
-15	new	_	Word	Word	_	20	E	20:E	_
+13	setting	_	Word	Word	_	20	F	20:F	_
+14	a	_	Word	Word	_	20	F	20:F	_
+15	new	_	Word	Word	_	20	D	20:D	_
 16	opening	_	Word	Word	_	17	E	17:E	_
-17	weekend	_	Word	Word	_	20	E	20:E	_
+17	weekend	_	Word	Word	_	20	D	20:D	_
 18	box	_	Word	Word	_	19	E	19:E	_
-19	office	_	Word	Word	_	20	E	20:E	_
-20	record	_	Word	Word	_	13	A	13:A	_
+19	office	_	Word	Word	_	20	D	20:D	_
+20	record	_	Word	Word	_	5	H	5:H	_
 21	for	_	Word	Word	_	22	R	22:R	_
-22	North	_	Word	Word	_	20	E	20:E	_
+22	North	_	Word	Word	_	20	A	20:A	_
 23	America	_	Word	Word	_	22	Terminal	22:Terminal	_
 24	.	_	Punctuation	Punctuation	_	22	U	22:U	_
 

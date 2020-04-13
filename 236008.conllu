@@ -1,31 +1,31 @@
 # format = ucca
 # sent_id = 236008
 # text = The same month , in an interview with Phoenix TV , Chan dubbed the United States as the " most corrupt " country in the world .
-1	The	_	Word	Word	_	3	E	3:E	_
+1	The	_	Word	Word	_	3	F	3:F	_
 2	same	_	Word	Word	_	3	E	3:E	_
-3	month	_	Word	Word	_	13	D	13:D	_
+3	month	_	Word	Word	_	13	T	13:T	_
 4	,	_	Punctuation	Punctuation	_	13	U	13:U	_
-5	in	_	Word	Word	_	7	R	7:R	_
-6	an	_	Word	Word	_	7	E	7:E	_
-7	interview	_	Word	Word	_	13	A	13:A	_
+5	in	_	Word	Word	_	7	L	7:L	_
+6	an	_	Word	Word	_	7	F	7:F	_
+7	interview	_	Word	Word	_	13	H	13:H	_
 8	with	_	Word	Word	_	9	R	9:R	_
-9	Phoenix	_	Word	Word	_	7	E	7:E	_
+9	Phoenix	_	Word	Word	_	7	A	7:A	_
 10	TV	_	Word	Word	_	9	Terminal	9:Terminal	_
-11	,	_	Punctuation	Punctuation	_	13	U	13:U	_
-12	Chan	_	Word	Word	_	13	A	13:A	_
+11	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+12	Chan	_	Word	Word	_	13	A	13:A|7:A	_
 13	dubbed	_	Word	Word	_	0	H	0:H	_
-14	the	_	Word	Word	_	15	E	15:E	_
+14	the	_	Word	Word	_	15	F	15:F	_
 15	United	_	Word	Word	_	13	A	13:A	_
 16	States	_	Word	Word	_	15	Terminal	15:Terminal	_
-17	as	_	Word	Word	_	21	R	21:R	_
-18	the	_	Word	Word	_	20	E	20:E	_
-19	"	_	Punctuation	Punctuation	_	20	U	20:U	_
+17	as	_	Word	Word	_	23	R	23:R	_
+18	the	_	Word	Word	_	21	F	21:F	_
+19	"	_	Punctuation	Punctuation	_	21	U	21:U	_
 20	most	_	Word	Word	_	21	D	21:D	_
-21	corrupt	_	Word	Word	_	13	A	13:A	_
+21	corrupt	_	Word	Word	_	23	E	23:E	_
 22	"	_	Punctuation	Punctuation	_	21	U	21:U	_
-23	country	_	Word	Word	_	21	A	21:A	_
+23	country	_	Word	Word	_	13	A	13:A	_
 24	in	_	Word	Word	_	26	R	26:R	_
-25	the	_	Word	Word	_	26	E	26:E	_
-26	world	_	Word	Word	_	21	D	21:D	_
+25	the	_	Word	Word	_	26	F	26:F	_
+26	world	_	Word	Word	_	23	E	23:E	_
 27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
 

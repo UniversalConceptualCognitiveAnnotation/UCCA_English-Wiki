@@ -2,11 +2,11 @@
 # sent_id = 617002
 # text = In 2001 , McCartney published Blackbird Singing , a volume of poems and lyrics to his songs for which he gave readings in Liverpool and New York City .
 1	In	_	Word	Word	_	2	R	2:R	_
-2	2001	_	Word	Word	_	5	D	5:D	_
+2	2001	_	Word	Word	_	5	T	5:T	_
 3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 4	McCartney	_	Word	Word	_	5	A	5:A	_
 5	published	_	Word	Word	_	0	H	0:H	_
-6	Blackbird	_	Word	Word	_	5	A	5:A|22:A	_
+6	Blackbird	_	Word	Word	_	0	C	0:C|22:A	_
 7	Singing	_	Word	Word	_	6	Terminal	6:Terminal	_
 8	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 9	a	_	Word	Word	_	10	E	10:E	_
@@ -19,7 +19,7 @@
 16	his	_	Word	Word	_	17	E	17:E	_
 17	songs	_	Word	Word	_	14	E	14:E	_
 18	for	_	Word	Word	_	22	L	22:L	_
-19	which	_	Word	Word	_	18	F	18:F	_
+19	which	_	Word	Word	_	18	Terminal	18:Terminal	_
 20	he	_	Word	Word	_	22	A	22:A	_
 21	gave	_	Word	Word	_	22	F	22:F	_
 22	readings	_	Word	Word	_	5	H	5:H	_

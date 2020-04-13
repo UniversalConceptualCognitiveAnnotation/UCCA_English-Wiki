@@ -3,13 +3,13 @@
 # text = She married five times , with her first four marriages ending in divorce .
 1	She	_	Word	Word	_	2	A	2:A	_
 2	married	_	Word	Word	_	0	H	0:H	_
-3	five	_	Word	Word	_	4	E	4:E	_
+3	five	_	Word	Word	_	4	Q	4:Q	_
 4	times	_	Word	Word	_	2	D	2:D	_
 5	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 6	with	_	Word	Word	_	11	L	11:L	_
-7	her	_	Word	Word	_	10	E	10:E	_
-8	first	_	Word	Word	_	10	E	10:E	_
-9	four	_	Word	Word	_	10	E	10:E	_
+7	her	_	Word	Word	_	10	A	10:A|13:A	_
+8	first	_	Word	Word	_	10	D	10:D	_
+9	four	_	Word	Word	_	10	D	10:D	_
 10	marriages	_	Word	Word	_	11	A	11:A	_
 11	ending	_	Word	Word	_	2	H	2:H	_
 12	in	_	Word	Word	_	13	R	13:R	_

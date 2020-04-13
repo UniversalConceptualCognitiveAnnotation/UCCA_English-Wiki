@@ -3,10 +3,10 @@
 # text = Depp and his wife divorced in 1985 .
 1	Depp	_	Word	Word	_	5	A	5:A	_
 2	and	_	Word	Word	_	1	N	1:N	_
-3	his	_	Word	Word	_	4	E	4:E	_
-4	wife	_	Word	Word	_	1	C	1:C	_
+3	his	_	Word	Word	_	1	C	1:C	_
+4	wife	_	Word	Word	_	3	A	3:A	_
 5	divorced	_	Word	Word	_	0	H	0:H	_
 6	in	_	Word	Word	_	7	R	7:R	_
-7	1985	_	Word	Word	_	5	D	5:D	_
+7	1985	_	Word	Word	_	5	T	5:T	_
 8	.	_	Punctuation	Punctuation	_	7	U	7:U	_
 

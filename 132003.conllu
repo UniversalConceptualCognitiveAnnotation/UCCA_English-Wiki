@@ -11,18 +11,18 @@
 8	Stewart	_	Word	Word	_	7	Terminal	7:Terminal	_
 9	and	_	Word	Word	_	7	N	7:N	_
 10	$	_	Word	Word	_	7	C	7:C	_
-11	150	_	Word	Word	_	10	Terminal	10:Terminal	_
-12	,	_	Punctuation	Punctuation	_	10	U	10:U	_
-13	000	_	Word	Word	_	10	Terminal	10:Terminal	_
+11	150	_	Word	Word	_	10	Q	10:Q	_
+12	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+13	000	_	Word	Word	_	11	Terminal	11:Terminal	_
 14	"	_	Punctuation	Punctuation	_	10	U	10:U	_
-15	for	_	Word	Word	_	16	R	16:R	_
-16	anyone	_	Word	Word	_	10	E	10:E	_
+15	for	_	Word	Word	_	19	R	19:R|22:R	_
+16	anyone	_	Word	Word	_	19	A	19:A|22:A	_
 17	else	_	Word	Word	_	16	E	16:E	_
-18	you	_	Word	Word	_	19	A	19:A	_
-19	want	_	Word	Word	_	16	E	16:E	_
-20	or	_	Word	Word	_	19	N	19:N	_
+18	you	_	Word	Word	_	19	A	19:A|22:A	_
+19	want	_	Word	Word	_	10	E	10:E	_
+20	or	_	Word	Word	_	22	L	22:L	_
 21	can	_	Word	Word	_	22	F	22:F	_
-22	get	_	Word	Word	_	19	C	19:C	_
+22	get	_	Word	Word	_	19	H	19:H	_
 23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
 24	"	_	Punctuation	Punctuation	_	22	U	22:U	_
 

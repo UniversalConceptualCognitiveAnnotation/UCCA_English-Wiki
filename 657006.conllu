@@ -1,25 +1,25 @@
 # format = ucca
 # sent_id = 657006
 # text = Carey left Columbia in 2000 , and signed a record - breaking $ 100 million recording contract with Virgin Records .
-1	Carey	_	Word	Word	_	0	H	0:H	_
-2	left	_	Word	Word	_	1	P	1:P	_
-3	Columbia	_	Word	Word	_	1	A	1:A	_
+1	Carey	_	Word	Word	_	2	A	2:A|8:A	_
+2	left	_	Word	Word	_	0	H	0:H	_
+3	Columbia	_	Word	Word	_	2	A	2:A	_
 4	in	_	Word	Word	_	5	R	5:R	_
-5	2000	_	Word	Word	_	1	D	1:D	_
-6	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+5	2000	_	Word	Word	_	2	T	2:T	_
+6	,	_	Punctuation	Punctuation	_	2	U	2:U	_
 7	and	_	Word	Word	_	8	L	8:L	_
-8	signed	_	Word	Word	_	1	H	1:H	_
-9	a	_	Word	Word	_	17	E	17:E	_
-10	record	_	Word	Word	_	17	E	17:E	_
-11	-	_	Punctuation	Punctuation	_	10	U	10:U	_
-12	breaking	_	Word	Word	_	10	E	10:E	_
+8	signed	_	Word	Word	_	2	H	2:H	_
+9	a	_	Word	Word	_	17	F	17:F	_
+10	record	_	Word	Word	_	12	A	12:A	_
+11	-	_	Punctuation	Punctuation	_	12	U	12:U	_
+12	breaking	_	Word	Word	_	17	E	17:E	_
 13	$	_	Word	Word	_	17	E	17:E	_
-14	100	_	Word	Word	_	13	Terminal	13:Terminal	_
-15	million	_	Word	Word	_	13	Terminal	13:Terminal	_
+14	100	_	Word	Word	_	13	Q	13:Q	_
+15	million	_	Word	Word	_	14	C	14:C	_
 16	recording	_	Word	Word	_	17	E	17:E	_
 17	contract	_	Word	Word	_	8	A	8:A	_
 18	with	_	Word	Word	_	19	R	19:R	_
-19	Virgin	_	Word	Word	_	17	E	17:E	_
+19	Virgin	_	Word	Word	_	8	A	8:A	_
 20	Records	_	Word	Word	_	19	Terminal	19:Terminal	_
 21	.	_	Punctuation	Punctuation	_	19	U	19:U	_
 

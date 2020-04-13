@@ -4,7 +4,7 @@
 1	Bana	_	Word	Word	_	2	A	2:A	_
 2	completed	_	Word	Word	_	0	H	0:H	_
 3	a	_	Word	Word	_	4	E	4:E	_
-4	lap	_	Word	Word	_	2	A	2:A|28:A	_
+4	lap	_	Word	Word	_	2	A	2:A	_
 5	of	_	Word	Word	_	10	R	10:R	_
 6	the	_	Word	Word	_	10	E	10:E	_
 7	Top	_	Word	Word	_	10	E	10:E	_
@@ -12,7 +12,7 @@
 9	test	_	Word	Word	_	10	E	10:E	_
 10	track	_	Word	Word	_	4	E	4:E	_
 11	in	_	Word	Word	_	12	R	12:R	_
-12	1	_	Word	Word	_	2	A	2:A	_
+12	1	_	Word	Word	_	2	T	2:T	_
 13	-	_	Punctuation	Punctuation	_	12	U	12:U	_
 14	minute	_	Word	Word	_	12	Terminal	12:Terminal	_
 15	and	_	Word	Word	_	12	Terminal	12:Terminal	_
@@ -23,14 +23,14 @@
 20	wet	_	Word	Word	_	21	E	21:E	_
 21	track	_	Word	Word	_	2	A	2:A	_
 22	,	_	Punctuation	Punctuation	_	2	U	2:U	_
-23	the	_	Word	Word	_	26	E	26:E	_
-24	fastest	_	Word	Word	_	26	E	26:E	_
+23	the	_	Word	Word	_	24	E	24:E	_
+24	fastest	_	Word	Word	_	2	H	2:H	_
 25	wet	_	Word	Word	_	26	E	26:E	_
-26	lap	_	Word	Word	_	28	A	28:A	_
-27	ever	_	Word	Word	_	28	D	28:D	_
-28	recorded	_	Word	Word	_	2	H	2:H	_
+26	lap	_	Word	Word	_	24	A	24:A	_
+27	ever	_	Word	Word	_	24	T	24:T	_
+28	recorded	_	Word	Word	_	24	D	24:D	_
 29	at	_	Word	Word	_	31	R	31:R	_
 30	that	_	Word	Word	_	31	E	31:E	_
-31	time	_	Word	Word	_	28	D	28:D	_
+31	time	_	Word	Word	_	24	T	24:T	_
 32	.	_	Punctuation	Punctuation	_	31	U	31:U	_
 

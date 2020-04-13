@@ -2,17 +2,17 @@
 # sent_id = 547007
 # text = In 1965 , Warner surprised many industry observers when he purchased the rights to Who 's Afraid of Virginia Woolf ? , Edward Albee 's searing play about a destructive marriage .
 1	In	_	Word	Word	_	2	R	2:R	_
-2	1965	_	Word	Word	_	5	D	5:D	_
+2	1965	_	Word	Word	_	5	T	5:T	_
 3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 4	Warner	_	Word	Word	_	5	A	5:A	_
 5	surprised	_	Word	Word	_	0	H	0:H	_
-6	many	_	Word	Word	_	8	E	8:E	_
-7	industry	_	Word	Word	_	8	E	8:E	_
+6	many	_	Word	Word	_	8	Q	8:Q	_
+7	industry	_	Word	Word	_	8	A	8:A	_
 8	observers	_	Word	Word	_	5	A	5:A	_
 9	when	_	Word	Word	_	11	L	11:L	_
 10	he	_	Word	Word	_	11	A	11:A	_
 11	purchased	_	Word	Word	_	5	H	5:H	_
-12	the	_	Word	Word	_	13	E	13:E	_
+12	the	_	Word	Word	_	13	F	13:F	_
 13	rights	_	Word	Word	_	11	A	11:A	_
 14	to	_	Word	Word	_	15	R	15:R	_
 15	Who	_	Word	Word	_	13	E	13:E	_
@@ -23,14 +23,14 @@
 20	Woolf	_	Word	Word	_	15	Terminal	15:Terminal	_
 21	?	_	Punctuation	Punctuation	_	15	U	15:U	_
 22	,	_	Punctuation	Punctuation	_	15	U	15:U	_
-23	Edward	_	Word	Word	_	27	E	27:E	_
+23	Edward	_	Word	Word	_	25	A	25:A	_
 24	Albee	_	Word	Word	_	23	Terminal	23:Terminal	_
-25	's	_	Word	Word	_	23	R	23:R	_
+25	's	_	Word	Word	_	27	E	27:E	_
 26	searing	_	Word	Word	_	27	E	27:E	_
 27	play	_	Word	Word	_	15	E	15:E	_
-28	about	_	Word	Word	_	27	E	27:E	_
-29	a	_	Word	Word	_	31	E	31:E	_
+28	about	_	Word	Word	_	31	R	31:R	_
+29	a	_	Word	Word	_	31	F	31:F	_
 30	destructive	_	Word	Word	_	31	E	31:E	_
-31	marriage	_	Word	Word	_	28	A	28:A	_
+31	marriage	_	Word	Word	_	27	E	27:E	_
 32	.	_	Punctuation	Punctuation	_	31	U	31:U	_
 

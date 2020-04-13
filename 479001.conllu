@@ -1,32 +1,32 @@
 # format = ucca
 # sent_id = 479001
 # text = The rivalry continued in the NBA , and reached its climax when Boston and Los Angeles met in three out of four NBA Finals from 1984 to 1987 .
-1	The	_	Word	Word	_	2	E	2:E	_
-2	rivalry	_	Word	Word	_	3	A	3:A|9:A	_
-3	continued	_	Word	Word	_	0	H	0:H	_
+1	The	_	Word	Word	_	2	F	2:F	_
+2	rivalry	_	Word	Word	_	0	C	0:C|11:A	_
+3	continued	_	Word	Word	_	2	D	2:D	_
 4	in	_	Word	Word	_	6	R	6:R	_
-5	the	_	Word	Word	_	6	E	6:E	_
-6	NBA	_	Word	Word	_	3	A	3:A	_
-7	,	_	Punctuation	Punctuation	_	3	U	3:U	_
-8	and	_	Word	Word	_	9	L	9:L	_
-9	reached	_	Word	Word	_	3	H	3:H	_
-10	its	_	Word	Word	_	11	E	11:E	_
-11	climax	_	Word	Word	_	9	A	9:A	_
+5	the	_	Word	Word	_	6	F	6:F	_
+6	NBA	_	Word	Word	_	2	A	2:A	_
+7	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+8	and	_	Word	Word	_	11	L	11:L	_
+9	reached	_	Word	Word	_	11	F	11:F	_
+10	its	_	Word	Word	_	11	F	11:F	_
+11	climax	_	Word	Word	_	2	H	2:H	_
 12	when	_	Word	Word	_	17	L	17:L	_
 13	Boston	_	Word	Word	_	17	A	17:A	_
 14	and	_	Word	Word	_	13	N	13:N	_
 15	Los	_	Word	Word	_	13	C	13:C	_
 16	Angeles	_	Word	Word	_	15	Terminal	15:Terminal	_
-17	met	_	Word	Word	_	3	H	3:H	_
+17	met	_	Word	Word	_	2	H	2:H	_
 18	in	_	Word	Word	_	19	R	19:R	_
 19	three	_	Word	Word	_	24	E	24:E	_
-20	out	_	Word	Word	_	19	R	19:R	_
+20	out	_	Word	Word	_	22	R	22:R	_
 21	of	_	Word	Word	_	20	Terminal	20:Terminal	_
-22	four	_	Word	Word	_	19	C	19:C	_
+22	four	_	Word	Word	_	19	E	19:E	_
 23	NBA	_	Word	Word	_	24	E	24:E	_
-24	Finals	_	Word	Word	_	17	D	17:D	_
+24	Finals	_	Word	Word	_	17	A	17:A	_
 25	from	_	Word	Word	_	26	R	26:R	_
-26	1984	_	Word	Word	_	17	D	17:D	_
+26	1984	_	Word	Word	_	17	T	17:T	_
 27	to	_	Word	Word	_	26	R	26:R	_
 28	1987	_	Word	Word	_	26	C	26:C	_
 29	.	_	Punctuation	Punctuation	_	26	U	26:U	_

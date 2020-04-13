@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 641007
-# text = Sufficient additional material was recorded for a planned follow - up album Milk and Honey ( released posthumously in 1984 ) . Released jointly with Ono , Double Fantasy was not well received , drawing comments such as Melody Maker 's " indulgent sterility ... a godawful yawn " .
+# text = Sufficient additional material was recorded for a planned follow - up album Milk and Honey ( released posthumously in 1984 ) . Released jointly with Ono , Double Fantasy was not well received , drawing comments such as Melody Maker 's " indulgent sterility ... a godawful yawn " . At around 10 : 50 pm on 8 December 1980 , as Lennon and Ono returned to their New York apartment in The Dakota , Mark David Chapman shot Lennon in the back four times at the entrance to the building .
 1	Sufficient	_	Word	Word	_	3	E	3:E	_
 2	additional	_	Word	Word	_	3	E	3:E	_
 3	material	_	Word	Word	_	5	A	5:A	_
@@ -20,7 +20,7 @@
 17	released	_	Word	Word	_	13	E	13:E	_
 18	posthumously	_	Word	Word	_	17	D	17:D	_
 19	in	_	Word	Word	_	20	R	20:R	_
-20	1984	_	Word	Word	_	17	D	17:D	_
+20	1984	_	Word	Word	_	17	T	17:T	_
 21	)	_	Punctuation	Punctuation	_	5	U	5:U	_
 22	.	_	Punctuation	Punctuation	_	5	U	5:U	_
 23	Released	_	Word	Word	_	5	H	5:H	_
@@ -49,6 +49,48 @@
 46	a	_	Word	Word	_	48	E	48:E	_
 47	godawful	_	Word	Word	_	48	E	48:E	_
 48	yawn	_	Word	Word	_	44	H	44:H	_
-49	"	_	Punctuation	Punctuation	_	48	U	48:U	_
-50	.	_	Punctuation	Punctuation	_	48	U	48:U	_
+49	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+50	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+51	At	_	Word	Word	_	53	R	53:R	_
+52	around	_	Word	Word	_	53	E	53:E	_
+53	10	_	Word	Word	_	79	T	79:T	_
+54	:	_	Punctuation	Punctuation	_	53	U	53:U	_
+55	50	_	Word	Word	_	53	Terminal	53:Terminal	_
+56	pm	_	Word	Word	_	53	C	53:C	_
+57	on	_	Word	Word	_	58	R	58:R	_
+58	8	_	Word	Word	_	79	T	79:T	_
+59	December	_	Word	Word	_	58	C	58:C	_
+60	1980	_	Word	Word	_	58	C	58:C	_
+61	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+62	as	_	Word	Word	_	66	L	66:L	_
+63	Lennon	_	Word	Word	_	66	A	66:A	_
+64	and	_	Word	Word	_	63	N	63:N	_
+65	Ono	_	Word	Word	_	63	C	63:C	_
+66	returned	_	Word	Word	_	5	H	5:H	_
+67	to	_	Word	Word	_	71	R	71:R	_
+68	their	_	Word	Word	_	71	E	71:E	_
+69	New	_	Word	Word	_	71	E	71:E	_
+70	York	_	Word	Word	_	69	Terminal	69:Terminal	_
+71	apartment	_	Word	Word	_	66	A	66:A	_
+72	in	_	Word	Word	_	74	R	74:R	_
+73	The	_	Word	Word	_	74	E	74:E	_
+74	Dakota	_	Word	Word	_	71	E	71:E	_
+75	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+76	Mark	_	Word	Word	_	79	A	79:A	_
+77	David	_	Word	Word	_	76	Terminal	76:Terminal	_
+78	Chapman	_	Word	Word	_	76	Terminal	76:Terminal	_
+79	shot	_	Word	Word	_	5	H	5:H	_
+80	Lennon	_	Word	Word	_	79	A	79:A	_
+81	in	_	Word	Word	_	83	R	83:R	_
+82	the	_	Word	Word	_	83	E	83:E	_
+83	back	_	Word	Word	_	79	A	79:A	_
+84	four	_	Word	Word	_	85	Q	85:Q	_
+85	times	_	Word	Word	_	79	A	79:A	_
+86	at	_	Word	Word	_	88	R	88:R	_
+87	the	_	Word	Word	_	88	E	88:E	_
+88	entrance	_	Word	Word	_	79	A	79:A	_
+89	to	_	Word	Word	_	91	R	91:R	_
+90	the	_	Word	Word	_	91	E	91:E	_
+91	building	_	Word	Word	_	88	E	88:E	_
+92	.	_	Punctuation	Punctuation	_	91	U	91:U	_
 

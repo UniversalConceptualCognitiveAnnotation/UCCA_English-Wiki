@@ -2,8 +2,8 @@
 # sent_id = 149011
 # text = In May 2003 , an aggressive tumor was found in Hepburn 's neck .
 1	In	_	Word	Word	_	2	R	2:R	_
-2	May	_	Word	Word	_	9	D	9:D	_
-3	2003	_	Word	Word	_	2	Terminal	2:Terminal	_
+2	May	_	Word	Word	_	9	T	9:T	_
+3	2003	_	Word	Word	_	2	C	2:C	_
 4	,	_	Punctuation	Punctuation	_	9	U	9:U	_
 5	an	_	Word	Word	_	7	E	7:E	_
 6	aggressive	_	Word	Word	_	7	E	7:E	_

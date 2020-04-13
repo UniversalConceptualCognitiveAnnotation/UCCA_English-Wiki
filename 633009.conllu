@@ -1,17 +1,17 @@
 # format = ucca
 # sent_id = 633009
 # text = In August that year , the Beatles engaged for a 48 - night residency in Hamburg , Germany , and desperately in need of a drummer , asked Pete Best to join them .
-1	In	_	Word	Word	_	4	R	4:R	_
-2	August	_	Word	Word	_	4	E	4:E	_
+1	In	_	Word	Word	_	2	R	2:R	_
+2	August	_	Word	Word	_	8	T	8:T	_
 3	that	_	Word	Word	_	4	E	4:E	_
-4	year	_	Word	Word	_	8	D	8:D	_
+4	year	_	Word	Word	_	2	C	2:C	_
 5	,	_	Punctuation	Punctuation	_	8	U	8:U	_
 6	the	_	Word	Word	_	7	E	7:E	_
 7	Beatles	_	Word	Word	_	0	C	0:C|23:A|28:A	_
 8	engaged	_	Word	Word	_	0	H	0:H	_
 9	for	_	Word	Word	_	14	R	14:R	_
 10	a	_	Word	Word	_	14	E	14:E	_
-11	48	_	Word	Word	_	13	E	13:E	_
+11	48	_	Word	Word	_	13	Q	13:Q	_
 12	-	_	Punctuation	Punctuation	_	13	U	13:U	_
 13	night	_	Word	Word	_	14	E	14:E	_
 14	residency	_	Word	Word	_	8	A	8:A	_

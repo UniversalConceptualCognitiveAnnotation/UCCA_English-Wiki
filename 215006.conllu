@@ -1,12 +1,12 @@
 # format = ucca
 # sent_id = 215006
 # text = The movie grossed $ 262 million worldwide .
-1	The	_	Word	Word	_	2	E	2:E	_
+1	The	_	Word	Word	_	2	F	2:F	_
 2	movie	_	Word	Word	_	3	A	3:A	_
 3	grossed	_	Word	Word	_	0	H	0:H	_
 4	$	_	Word	Word	_	3	A	3:A	_
-5	262	_	Word	Word	_	4	Terminal	4:Terminal	_
-6	million	_	Word	Word	_	4	Terminal	4:Terminal	_
+5	262	_	Word	Word	_	4	Q	4:Q	_
+6	million	_	Word	Word	_	5	C	5:C	_
 7	worldwide	_	Word	Word	_	3	A	3:A	_
 8	.	_	Punctuation	Punctuation	_	3	U	3:U	_
 

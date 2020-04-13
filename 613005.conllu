@@ -1,42 +1,25 @@
 # format = ucca
 # sent_id = 613005
-# text = McCartney played lead electric guitar on several Beatles recordings , including what MacDonald described as a " fiercely angular slide guitar solo " on " Drive My Car " , which McCartney played on an Epiphone Casino .
+# text = McCartney said of the instrument , " if I had to pick one electric guitar it would be this . "
 1	McCartney	_	Word	Word	_	2	A	2:A	_
-2	played	_	Word	Word	_	0	H	0:H	_
-3	lead	_	Word	Word	_	5	E	5:E	_
-4	electric	_	Word	Word	_	5	E	5:E	_
-5	guitar	_	Word	Word	_	2	A	2:A	_
-6	on	_	Word	Word	_	9	R	9:R	_
-7	several	_	Word	Word	_	9	E	9:E	_
-8	Beatles	_	Word	Word	_	9	E	9:E	_
-9	recordings	_	Word	Word	_	2	A	2:A	_
-10	,	_	Punctuation	Punctuation	_	9	U	9:U	_
-11	including	_	Word	Word	_	14	R	14:R	_
-12	what	_	Word	Word	_	14	F	14:F	_
-13	MacDonald	_	Word	Word	_	14	A	14:A	_
-14	described	_	Word	Word	_	9	E	9:E	_
-15	as	_	Word	Word	_	14	A	14:A	_
-16	a	_	Word	Word	_	22	E	22:E	_
-17	"	_	Punctuation	Punctuation	_	22	U	22:U	_
-18	fiercely	_	Word	Word	_	19	E	19:E	_
-19	angular	_	Word	Word	_	22	E	22:E|15:C	_
-20	slide	_	Word	Word	_	21	E	21:E	_
-21	guitar	_	Word	Word	_	22	E	22:E	_
-22	solo	_	Word	Word	_	14	A	14:A	_
-23	"	_	Punctuation	Punctuation	_	14	U	14:U	_
-24	on	_	Word	Word	_	26	R	26:R	_
-25	"	_	Punctuation	Punctuation	_	26	U	26:U	_
-26	Drive	_	Word	Word	_	14	E	14:E	_
-27	My	_	Word	Word	_	26	Terminal	26:Terminal	_
-28	Car	_	Word	Word	_	26	Terminal	26:Terminal	_
-29	"	_	Punctuation	Punctuation	_	26	U	26:U	_
-30	,	_	Punctuation	Punctuation	_	26	U	26:U	_
-31	which	_	Word	Word	_	33	F	33:F	_
-32	McCartney	_	Word	Word	_	33	A	33:A	_
-33	played	_	Word	Word	_	26	E	26:E	_
-34	on	_	Word	Word	_	36	R	36:R	_
-35	an	_	Word	Word	_	36	E	36:E	_
-36	Epiphone	_	Word	Word	_	33	A	33:A	_
-37	Casino	_	Word	Word	_	36	Terminal	36:Terminal	_
-38	.	_	Punctuation	Punctuation	_	36	U	36:U	_
+2	said	_	Word	Word	_	0	H	0:H	_
+3	of	_	Word	Word	_	5	R	5:R	_
+4	the	_	Word	Word	_	5	F	5:F	_
+5	instrument	_	Word	Word	_	2	A	2:A	_
+6	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+7	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+8	if	_	Word	Word	_	18	L	18:L	_
+9	I	_	Word	Word	_	12	A	12:A	_
+10	had	_	Word	Word	_	12	D	12:D	_
+11	to	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	pick	_	Word	Word	_	2	A	2:A	_
+13	one	_	Word	Word	_	15	Q	15:Q	_
+14	electric	_	Word	Word	_	15	E	15:E	_
+15	guitar	_	Word	Word	_	12	A	12:A	_
+16	it	_	Word	Word	_	18	A	18:A	_
+17	would	_	Word	Word	_	18	D	18:D	_
+18	be	_	Word	Word	_	12	H	12:H	_
+19	this	_	Word	Word	_	18	A	18:A	_
+20	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+21	"	_	Punctuation	Punctuation	_	18	U	18:U	_
 

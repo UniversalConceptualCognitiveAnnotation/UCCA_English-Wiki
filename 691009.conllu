@@ -1,9 +1,9 @@
 # format = ucca
 # sent_id = 691009
 # text = In March 1962 , Dylan contributed harmonica and back - up vocals to the album Three Kings and the Queen , accompanying Victoria Spivey and Big Joe Williams on a recording for Spivey Records .
-1	In	_	Word	Word	_	3	R	3:R	_
-2	March	_	Word	Word	_	3	E	3:E	_
-3	1962	_	Word	Word	_	6	D	6:D	_
+1	In	_	Word	Word	_	2	R	2:R	_
+2	March	_	Word	Word	_	6	T	6:T	_
+3	1962	_	Word	Word	_	2	C	2:C	_
 4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 5	Dylan	_	Word	Word	_	6	A	6:A|22:A	_
 6	contributed	_	Word	Word	_	0	H	0:H	_
@@ -13,10 +13,10 @@
 10	-	_	Punctuation	Punctuation	_	9	U	9:U	_
 11	up	_	Word	Word	_	9	Terminal	9:Terminal	_
 12	vocals	_	Word	Word	_	7	C	7:C	_
-13	to	_	Word	Word	_	15	R	15:R	_
+13	to	_	Word	Word	_	16	R	16:R	_
 14	the	_	Word	Word	_	15	E	15:E	_
-15	album	_	Word	Word	_	6	A	6:A	_
-16	Three	_	Word	Word	_	15	E	15:E	_
+15	album	_	Word	Word	_	16	E	16:E	_
+16	Three	_	Word	Word	_	6	A	6:A	_
 17	Kings	_	Word	Word	_	16	Terminal	16:Terminal	_
 18	and	_	Word	Word	_	16	Terminal	16:Terminal	_
 19	the	_	Word	Word	_	16	Terminal	16:Terminal	_

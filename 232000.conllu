@@ -1,19 +1,19 @@
 # format = ucca
 # sent_id = 232000
 # text = Jackie Chan had vocal lessons whilst at the Peking Opera School in his childhood .
-1	Jackie	_	Word	Word	_	3	A	3:A|11:A	_
+1	Jackie	_	Word	Word	_	5	A	5:A|11:A	_
 2	Chan	_	Word	Word	_	1	Terminal	1:Terminal	_
-3	had	_	Word	Word	_	0	H	0:H	_
-4	vocal	_	Word	Word	_	5	E	5:E	_
-5	lessons	_	Word	Word	_	3	A	3:A	_
+3	had	_	Word	Word	_	5	F	5:F	_
+4	vocal	_	Word	Word	_	5	A	5:A	_
+5	lessons	_	Word	Word	_	0	H	0:H	_
 6	whilst	_	Word	Word	_	11	L	11:L	_
 7	at	_	Word	Word	_	11	R	11:R	_
-8	the	_	Word	Word	_	11	E	11:E	_
+8	the	_	Word	Word	_	11	F	11:F	_
 9	Peking	_	Word	Word	_	11	E	11:E	_
 10	Opera	_	Word	Word	_	11	E	11:E	_
-11	School	_	Word	Word	_	3	H	3:H	_
-12	in	_	Word	Word	_	14	R	14:R	_
-13	his	_	Word	Word	_	14	E	14:E	_
-14	childhood	_	Word	Word	_	11	D	11:D	_
+11	School	_	Word	Word	_	5	H	5:H	_
+12	in	_	Word	Word	_	14	L	14:L	_
+13	his	_	Word	Word	_	14	A	14:A	_
+14	childhood	_	Word	Word	_	5	H	5:H	_
 15	.	_	Punctuation	Punctuation	_	14	U	14:U	_
 

@@ -1,28 +1,16 @@
 # format = ucca
 # sent_id = 180007
-# text = In 2006 , the two became engaged , and Gyllenhaal gave birth to their daughter , Ramona , on October 3 , 2006 .
-1	In	_	Word	Word	_	2	R	2:R	_
-2	2006	_	Word	Word	_	7	D	7:D	_
-3	,	_	Punctuation	Punctuation	_	7	U	7:U	_
-4	the	_	Word	Word	_	5	E	5:E	_
-5	two	_	Word	Word	_	7	A	7:A	_
-6	became	_	Word	Word	_	7	D	7:D	_
-7	engaged	_	Word	Word	_	0	H	0:H	_
-8	,	_	Punctuation	Punctuation	_	7	U	7:U	_
-9	and	_	Word	Word	_	11	L	11:L	_
-10	Gyllenhaal	_	Word	Word	_	11	A	11:A	_
-11	gave	_	Word	Word	_	7	H	7:H	_
-12	birth	_	Word	Word	_	11	Terminal	11:Terminal	_
-13	to	_	Word	Word	_	17	R	17:R	_
-14	their	_	Word	Word	_	15	E	15:E	_
-15	daughter	_	Word	Word	_	17	E	17:E	_
-16	,	_	Punctuation	Punctuation	_	17	U	17:U	_
-17	Ramona	_	Word	Word	_	11	A	11:A	_
-18	,	_	Punctuation	Punctuation	_	11	U	11:U	_
-19	on	_	Word	Word	_	20	R	20:R	_
-20	October	_	Word	Word	_	11	D	11:D	_
-21	3	_	Word	Word	_	20	Terminal	20:Terminal	_
-22	,	_	Punctuation	Punctuation	_	20	U	20:U	_
-23	2006	_	Word	Word	_	20	Terminal	20:Terminal	_
-24	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+# text = On May 2 , 2009 , she married Sarsgaard in Italy .
+1	On	_	Word	Word	_	2	R	2:R	_
+2	May	_	Word	Word	_	8	T	8:T	_
+3	2	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	2009	_	Word	Word	_	2	C	2:C	_
+6	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	she	_	Word	Word	_	8	A	8:A	_
+8	married	_	Word	Word	_	0	H	0:H	_
+9	Sarsgaard	_	Word	Word	_	8	A	8:A	_
+10	in	_	Word	Word	_	11	R	11:R	_
+11	Italy	_	Word	Word	_	8	A	8:A	_
+12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
 

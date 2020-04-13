@@ -1,8 +1,8 @@
 # format = ucca
 # sent_id = 206012
 # text = In 1967 , director Mike Nichols cast Hoffman in The Graduate , his first major role , for which he received an Academy Award nomination for his performance .
-1	In	_	Word	Word	_	2	E	2:E	_
-2	1967	_	Word	Word	_	7	D	7:D	_
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1967	_	Word	Word	_	7	T	7:T	_
 3	,	_	Punctuation	Punctuation	_	7	U	7:U	_
 4	director	_	Word	Word	_	5	E	5:E	_
 5	Mike	_	Word	Word	_	7	A	7:A	_
@@ -19,15 +19,15 @@
 16	role	_	Word	Word	_	10	E	10:E	_
 17	,	_	Punctuation	Punctuation	_	16	U	16:U	_
 18	for	_	Word	Word	_	21	A	21:A	_
-19	which	_	Word	Word	_	21	F	21:F	_
+19	which	_	Word	Word	_	21	R	21:R	_
 20	he	_	Word	Word	_	21	A	21:A	_
 21	received	_	Word	Word	_	16	E	16:E	_
 22	an	_	Word	Word	_	25	E	25:E	_
 23	Academy	_	Word	Word	_	24	E	24:E	_
-24	Award	_	Word	Word	_	25	E	25:E	_
+24	Award	_	Word	Word	_	25	A	25:A	_
 25	nomination	_	Word	Word	_	21	A	21:A	_
 26	for	_	Word	Word	_	28	R	28:R	_
 27	his	_	Word	Word	_	28	A	28:A	_
-28	performance	_	Word	Word	_	25	E	25:E	_
+28	performance	_	Word	Word	_	25	A	25:A	_
 29	.	_	Punctuation	Punctuation	_	28	U	28:U	_
 

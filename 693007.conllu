@@ -2,22 +2,22 @@
 # sent_id = 693007
 # text = Others who recorded and had hits with Dylan 's songs in the early and mid - 1960s included The Byrds ; Sonny and Cher ; The Hollies ; Peter , Paul and Mary ; The Association ; Manfred Mann ; and The Turtles .
 1	Others	_	Word	Word	_	18	A	18:A	_
-2	who	_	Word	Word	_	3	R	3:R	_
+2	who	_	Word	Word	_	3	R	3:R|6:R	_
 3	recorded	_	Word	Word	_	1	E	1:E	_
-4	and	_	Word	Word	_	3	N	3:N	_
+4	and	_	Word	Word	_	6	L	6:L	_
 5	had	_	Word	Word	_	6	F	6:F	_
-6	hits	_	Word	Word	_	3	C	3:C	_
+6	hits	_	Word	Word	_	3	H	3:H	_
 7	with	_	Word	Word	_	10	R	10:R	_
-8	Dylan	_	Word	Word	_	10	E	10:E	_
-9	's	_	Word	Word	_	10	R	10:R	_
-10	songs	_	Word	Word	_	3	A	3:A	_
+8	Dylan	_	Word	Word	_	9	A	9:A	_
+9	's	_	Word	Word	_	10	E	10:E	_
+10	songs	_	Word	Word	_	3	A	3:A|6:A	_
 11	in	_	Word	Word	_	17	R	17:R	_
 12	the	_	Word	Word	_	17	E	17:E	_
 13	early	_	Word	Word	_	17	E	17:E	_
 14	and	_	Word	Word	_	13	N	13:N	_
 15	mid	_	Word	Word	_	13	C	13:C	_
 16	-	_	Punctuation	Punctuation	_	17	U	17:U	_
-17	1960s	_	Word	Word	_	3	D	3:D	_
+17	1960s	_	Word	Word	_	3	T	3:T|6:T	_
 18	included	_	Word	Word	_	0	H	0:H	_
 19	The	_	Word	Word	_	18	A	18:A	_
 20	Byrds	_	Word	Word	_	19	Terminal	19:Terminal	_

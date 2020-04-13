@@ -1,19 +1,30 @@
 # format = ucca
 # sent_id = 215015
-# text = That same year , she appeared in the comedy Dick , alongside Michelle Williams .
-1	That	_	Word	Word	_	3	E	3:E	_
-2	same	_	Word	Word	_	3	E	3:E	_
-3	year	_	Word	Word	_	6	D	6:D	_
-4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
-5	she	_	Word	Word	_	6	A	6:A	_
-6	appeared	_	Word	Word	_	0	H	0:H	_
-7	in	_	Word	Word	_	10	R	10:R	_
-8	the	_	Word	Word	_	10	E	10:E	_
-9	comedy	_	Word	Word	_	10	E	10:E	_
-10	Dick	_	Word	Word	_	6	A	6:A	_
-11	,	_	Punctuation	Punctuation	_	6	U	6:U	_
-12	alongside	_	Word	Word	_	13	R	13:R	_
-13	Michelle	_	Word	Word	_	6	A	6:A	_
-14	Williams	_	Word	Word	_	13	Terminal	13:Terminal	_
-15	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+# text = The film is a parody retelling the events of the Watergate scandal which lead to the resignation of U . S . president Richard Nixon .
+1	The	_	Word	Word	_	2	F	2:F	_
+2	film	_	Word	Word	_	6	A	6:A	_
+3	is	_	Word	Word	_	6	F	6:F	_
+4	a	_	Word	Word	_	5	F	5:F	_
+5	parody	_	Word	Word	_	6	D	6:D	_
+6	retelling	_	Word	Word	_	0	H	0:H	_
+7	the	_	Word	Word	_	12	F	12:F	_
+8	events	_	Word	Word	_	12	E	12:E	_
+9	of	_	Word	Word	_	8	R	8:R	_
+10	the	_	Word	Word	_	12	E	12:E	_
+11	Watergate	_	Word	Word	_	12	E	12:E	_
+12	scandal	_	Word	Word	_	6	A	6:A	_
+13	which	_	Word	Word	_	17	R	17:R	_
+14	lead	_	Word	Word	_	17	D	17:D	_
+15	to	_	Word	Word	_	17	R	17:R	_
+16	the	_	Word	Word	_	17	F	17:F	_
+17	resignation	_	Word	Word	_	12	E	12:E	_
+18	of	_	Word	Word	_	24	R	24:R	_
+19	U	_	Word	Word	_	23	E	23:E	_
+20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+21	S	_	Word	Word	_	19	Terminal	19:Terminal	_
+22	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+23	president	_	Word	Word	_	24	E	24:E	_
+24	Richard	_	Word	Word	_	17	A	17:A	_
+25	Nixon	_	Word	Word	_	24	Terminal	24:Terminal	_
+26	.	_	Punctuation	Punctuation	_	24	U	24:U	_
 

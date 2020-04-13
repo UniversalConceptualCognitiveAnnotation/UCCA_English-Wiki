@@ -3,15 +3,15 @@
 # text = During this period , Warner took an active role in recruiting talent .
 1	During	_	Word	Word	_	3	R	3:R	_
 2	this	_	Word	Word	_	3	E	3:E	_
-3	period	_	Word	Word	_	9	D	9:D	_
-4	,	_	Punctuation	Punctuation	_	9	U	9:U	_
-5	Warner	_	Word	Word	_	9	A	9:A|11:A	_
+3	period	_	Word	Word	_	11	T	11:T	_
+4	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+5	Warner	_	Word	Word	_	11	A	11:A	_
 6	took	_	Word	Word	_	9	F	9:F	_
-7	an	_	Word	Word	_	8	E	8:E	_
-8	active	_	Word	Word	_	9	D	9:D	_
-9	role	_	Word	Word	_	0	H	0:H	_
+7	an	_	Word	Word	_	9	F	9:F	_
+8	active	_	Word	Word	_	9	E	9:E	_
+9	role	_	Word	Word	_	11	D	11:D	_
 10	in	_	Word	Word	_	11	R	11:R	_
-11	recruiting	_	Word	Word	_	9	A	9:A	_
+11	recruiting	_	Word	Word	_	0	H	0:H	_
 12	talent	_	Word	Word	_	11	A	11:A	_
 13	.	_	Punctuation	Punctuation	_	11	U	11:U	_
 

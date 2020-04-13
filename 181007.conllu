@@ -2,7 +2,7 @@
 # sent_id = 181007
 # text = In 1995 , she graduated from Harvard - Westlake and moved to New York to attend Columbia University , where she studied literature and Eastern religions ; she graduated in 1999 with a Bachelor of Arts degree .
 1	In	_	Word	Word	_	2	R	2:R	_
-2	1995	_	Word	Word	_	5	D	5:D	_
+2	1995	_	Word	Word	_	5	T	5:T	_
 3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
 4	she	_	Word	Word	_	5	A	5:A|11:A|16:A	_
 5	graduated	_	Word	Word	_	0	H	0:H	_
@@ -20,7 +20,7 @@
 17	Columbia	_	Word	Word	_	18	E	18:E	_
 18	University	_	Word	Word	_	16	A	16:A	_
 19	,	_	Punctuation	Punctuation	_	18	U	18:U	_
-20	where	_	Word	Word	_	22	F	22:F	_
+20	where	_	Word	Word	_	22	R	22:R	_
 21	she	_	Word	Word	_	22	A	22:A	_
 22	studied	_	Word	Word	_	18	E	18:E	_
 23	literature	_	Word	Word	_	22	A	22:A	_
@@ -31,9 +31,9 @@
 28	she	_	Word	Word	_	29	A	29:A	_
 29	graduated	_	Word	Word	_	5	H	5:H	_
 30	in	_	Word	Word	_	31	R	31:R	_
-31	1999	_	Word	Word	_	29	D	29:D	_
+31	1999	_	Word	Word	_	29	T	29:T	_
 32	with	_	Word	Word	_	37	R	37:R	_
-33	a	_	Word	Word	_	34	E	34:E	_
+33	a	_	Word	Word	_	34	F	34:F	_
 34	Bachelor	_	Word	Word	_	37	E	37:E	_
 35	of	_	Word	Word	_	36	R	36:R	_
 36	Arts	_	Word	Word	_	34	E	34:E	_

@@ -5,9 +5,9 @@
 2	Cambridge	_	Word	Word	_	1	Terminal	1:Terminal	_
 3	,	_	Punctuation	Punctuation	_	1	U	1:U	_
 4	a	_	Word	Word	_	5	E	5:E	_
-5	drummer	_	Word	Word	_	7	A	7:A	_
+5	drummer	_	Word	Word	_	0	C	0:C|7:A	_
 6	Bowie	_	Word	Word	_	7	A	7:A	_
-7	met	_	Word	Word	_	1	E	1:E	_
+7	met	_	Word	Word	_	5	E	5:E	_
 8	at	_	Word	Word	_	10	R	10:R	_
 9	the	_	Word	Word	_	10	E	10:E	_
 10	Arts	_	Word	Word	_	7	A	7:A	_
@@ -15,16 +15,16 @@
 12	,	_	Punctuation	Punctuation	_	14	U	14:U	_
 13	was	_	Word	Word	_	14	F	14:F	_
 14	joined	_	Word	Word	_	0	H	0:H	_
-15	by	_	Word	Word	_	19	R	19:R	_
-16	Tony	_	Word	Word	_	19	A	19:A	_
+15	by	_	Word	Word	_	16	R	16:R	_
+16	Tony	_	Word	Word	_	14	A	14:A	_
 17	Visconti	_	Word	Word	_	16	Terminal	16:Terminal	_
-18	on	_	Word	Word	_	19	R	19:R	_
-19	bass	_	Word	Word	_	14	A	14:A	_
-20	and	_	Word	Word	_	19	N	19:N	_
-21	Mick	_	Word	Word	_	25	A	25:A	_
+18	on	_	Word	Word	_	16	E	16:E	_
+19	bass	_	Word	Word	_	18	A	18:A	_
+20	and	_	Word	Word	_	16	N	16:N	_
+21	Mick	_	Word	Word	_	16	C	16:C	_
 22	Ronson	_	Word	Word	_	21	Terminal	21:Terminal	_
-23	on	_	Word	Word	_	25	R	25:R	_
+23	on	_	Word	Word	_	21	E	21:E	_
 24	electric	_	Word	Word	_	25	E	25:E	_
-25	guitar	_	Word	Word	_	19	C	19:C	_
+25	guitar	_	Word	Word	_	23	A	23:A	_
 26	.	_	Punctuation	Punctuation	_	25	U	25:U	_
 

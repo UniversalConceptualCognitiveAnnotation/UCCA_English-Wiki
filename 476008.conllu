@@ -1,19 +1,19 @@
 # format = ucca
 # sent_id = 476008
 # text = The basketball game was part of festivities organized to celebrate Obama 's 49th birthday .
-1	The	_	Word	Word	_	3	E	3:E	_
-2	basketball	_	Word	Word	_	3	E	3:E	_
-3	game	_	Word	Word	_	4	A	4:A	_
-4	was	_	Word	Word	_	0	H	0:H	_
-5	part	_	Word	Word	_	8	E	8:E	_
-6	of	_	Word	Word	_	5	R	5:R	_
-7	festivities	_	Word	Word	_	8	A	8:A|10:A	_
-8	organized	_	Word	Word	_	4	A	4:A	_
+1	The	_	Word	Word	_	2	F	2:F	_
+2	basketball	_	Word	Word	_	5	A	5:A	_
+3	game	_	Word	Word	_	2	E	2:E	_
+4	was	_	Word	Word	_	5	F	5:F	_
+5	part	_	Word	Word	_	0	H	0:H	_
+6	of	_	Word	Word	_	7	R	7:R	_
+7	festivities	_	Word	Word	_	5	A	5:A	_
+8	organized	_	Word	Word	_	7	E	7:E	_
 9	to	_	Word	Word	_	10	L	10:L	_
 10	celebrate	_	Word	Word	_	8	H	8:H	_
 11	Obama	_	Word	Word	_	14	E	14:E	_
 12	's	_	Word	Word	_	11	R	11:R	_
-13	49th	_	Word	Word	_	14	E	14:E	_
+13	49th	_	Word	Word	_	14	Q	14:Q	_
 14	birthday	_	Word	Word	_	10	A	10:A	_
 15	.	_	Punctuation	Punctuation	_	14	U	14:U	_
 

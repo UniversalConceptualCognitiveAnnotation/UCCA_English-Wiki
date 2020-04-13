@@ -1,27 +1,11 @@
 # format = ucca
 # sent_id = 135009
-# text = It opened at the Cort Theatre in New York to a capacity audience , and was virtually sold out for 148 shows .
-1	It	_	Word	Word	_	2	A	2:A|18:A	_
-2	opened	_	Word	Word	_	0	H	0:H	_
-3	at	_	Word	Word	_	6	R	6:R	_
-4	the	_	Word	Word	_	6	E	6:E	_
-5	Cort	_	Word	Word	_	6	E	6:E	_
-6	Theatre	_	Word	Word	_	2	A	2:A	_
-7	in	_	Word	Word	_	8	R	8:R	_
-8	New	_	Word	Word	_	6	E	6:E	_
-9	York	_	Word	Word	_	8	Terminal	8:Terminal	_
-10	to	_	Word	Word	_	13	R	13:R	_
-11	a	_	Word	Word	_	13	E	13:E	_
-12	capacity	_	Word	Word	_	13	E	13:E	_
-13	audience	_	Word	Word	_	2	A	2:A	_
-14	,	_	Punctuation	Punctuation	_	2	U	2:U	_
-15	and	_	Word	Word	_	18	L	18:L	_
-16	was	_	Word	Word	_	18	F	18:F	_
-17	virtually	_	Word	Word	_	18	D	18:D	_
-18	sold	_	Word	Word	_	2	H	2:H	_
-19	out	_	Word	Word	_	18	Terminal	18:Terminal	_
-20	for	_	Word	Word	_	22	R	22:R	_
-21	148	_	Word	Word	_	22	E	22:E	_
-22	shows	_	Word	Word	_	18	A	18:A	_
-23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+# text = The production then went on tour .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	production	_	Word	Word	_	6	A	6:A	_
+3	then	_	Word	Word	_	6	L	6:L	_
+4	went	_	Word	Word	_	6	D	6:D	_
+5	on	_	Word	Word	_	6	R	6:R	_
+6	tour	_	Word	Word	_	0	H	0:H	_
+7	.	_	Punctuation	Punctuation	_	6	U	6:U	_
 

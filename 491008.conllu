@@ -1,18 +1,22 @@
 # format = ucca
 # sent_id = 491008
-# text = In 2004 , he appeared in several high profile advertisements for the fellowship .
-1	In	_	Word	Word	_	2	R	2:R	_
-2	2004	_	Word	Word	_	5	D	5:D	_
-3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
-4	he	_	Word	Word	_	5	A	5:A	_
-5	appeared	_	Word	Word	_	0	H	0:H	_
-6	in	_	Word	Word	_	10	R	10:R	_
-7	several	_	Word	Word	_	10	E	10:E	_
-8	high	_	Word	Word	_	9	E	9:E	_
-9	profile	_	Word	Word	_	10	E	10:E	_
-10	advertisements	_	Word	Word	_	5	A	5:A	_
-11	for	_	Word	Word	_	13	R	13:R	_
-12	the	_	Word	Word	_	13	E	13:E	_
-13	fellowship	_	Word	Word	_	10	E	10:E	_
-14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+# text = Bana is also active in campaigns with the Australian Childhood Foundation and the Bone Marrow Donor Institute .
+1	Bana	_	Word	Word	_	4	A	4:A	_
+2	is	_	Word	Word	_	4	F	4:F	_
+3	also	_	Word	Word	_	4	D	4:D	_
+4	active	_	Word	Word	_	0	H	0:H	_
+5	in	_	Word	Word	_	6	R	6:R	_
+6	campaigns	_	Word	Word	_	4	A	4:A	_
+7	with	_	Word	Word	_	9	R	9:R	_
+8	the	_	Word	Word	_	9	E	9:E	_
+9	Australian	_	Word	Word	_	4	A	4:A	_
+10	Childhood	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	Foundation	_	Word	Word	_	9	Terminal	9:Terminal	_
+12	and	_	Word	Word	_	9	N	9:N	_
+13	the	_	Word	Word	_	14	E	14:E	_
+14	Bone	_	Word	Word	_	9	C	9:C	_
+15	Marrow	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	Donor	_	Word	Word	_	14	Terminal	14:Terminal	_
+17	Institute	_	Word	Word	_	14	Terminal	14:Terminal	_
+18	.	_	Punctuation	Punctuation	_	14	U	14:U	_
 

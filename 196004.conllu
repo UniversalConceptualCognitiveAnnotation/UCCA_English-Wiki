@@ -1,17 +1,17 @@
 # format = ucca
 # sent_id = 196004
 # text = After two months on hiatus , Studio 60 resumed to air the last episodes of season one , which would be its only season .
-1	After	_	Word	Word	_	9	L	9:L	_
-2	two	_	Word	Word	_	3	E	3:E	_
-3	months	_	Word	Word	_	5	D	5:D	_
+1	After	_	Word	Word	_	11	L	11:L	_
+2	two	_	Word	Word	_	3	Q	3:Q	_
+3	months	_	Word	Word	_	5	T	5:T	_
 4	on	_	Word	Word	_	5	R	5:R	_
 5	hiatus	_	Word	Word	_	0	H	0:H	_
 6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
-7	Studio	_	Word	Word	_	9	A	9:A|5:A|11:A	_
+7	Studio	_	Word	Word	_	11	A	11:A|5:A	_
 8	60	_	Word	Word	_	7	Terminal	7:Terminal	_
-9	resumed	_	Word	Word	_	5	H	5:H	_
+9	resumed	_	Word	Word	_	11	D	11:D	_
 10	to	_	Word	Word	_	11	F	11:F	_
-11	air	_	Word	Word	_	9	A	9:A	_
+11	air	_	Word	Word	_	5	H	5:H	_
 12	the	_	Word	Word	_	14	E	14:E	_
 13	last	_	Word	Word	_	14	E	14:E	_
 14	episodes	_	Word	Word	_	11	A	11:A	_
@@ -19,7 +19,7 @@
 16	season	_	Word	Word	_	14	E	14:E	_
 17	one	_	Word	Word	_	16	E	16:E	_
 18	,	_	Punctuation	Punctuation	_	16	U	16:U	_
-19	which	_	Word	Word	_	21	F	21:F	_
+19	which	_	Word	Word	_	21	R	21:R	_
 20	would	_	Word	Word	_	21	F	21:F	_
 21	be	_	Word	Word	_	16	E	16:E	_
 22	its	_	Word	Word	_	23	E	23:E	_

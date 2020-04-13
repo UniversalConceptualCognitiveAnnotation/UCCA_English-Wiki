@@ -2,7 +2,7 @@
 # sent_id = 450012
 # text = In 1959 , CFJR , a local radio station , hired him as a member of its news department ; many of his stories , including his coverage of a local train wreck , were picked up by the CBC .
 1	In	_	Word	Word	_	2	R	2:R	_
-2	1959	_	Word	Word	_	11	D	11:D	_
+2	1959	_	Word	Word	_	11	T	11:T	_
 3	,	_	Punctuation	Punctuation	_	11	U	11:U	_
 4	CFJR	_	Word	Word	_	11	A	11:A	_
 5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
@@ -21,15 +21,15 @@
 18	news	_	Word	Word	_	19	E	19:E	_
 19	department	_	Word	Word	_	15	E	15:E	_
 20	;	_	Punctuation	Punctuation	_	11	U	11:U	_
-21	many	_	Word	Word	_	24	E	24:E	_
-22	of	_	Word	Word	_	21	R	21:R	_
+21	many	_	Word	Word	_	24	Q	24:Q	_
+22	of	_	Word	Word	_	24	R	24:R	_
 23	his	_	Word	Word	_	24	E	24:E	_
 24	stories	_	Word	Word	_	36	A	36:A	_
 25	,	_	Punctuation	Punctuation	_	24	U	24:U	_
 26	including	_	Word	Word	_	28	R	28:R	_
 27	his	_	Word	Word	_	28	E	28:E	_
 28	coverage	_	Word	Word	_	24	E	24:E	_
-29	of	_	Word	Word	_	28	R	28:R	_
+29	of	_	Word	Word	_	33	R	33:R	_
 30	a	_	Word	Word	_	33	E	33:E	_
 31	local	_	Word	Word	_	33	E	33:E	_
 32	train	_	Word	Word	_	33	E	33:E	_

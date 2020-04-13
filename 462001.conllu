@@ -2,10 +2,10 @@
 # sent_id = 462001
 # text = On April 1 , 2005 , he anchored World News Tonight for the last time ; his poor health also prevented him from covering the death and funeral of Pope John Paul II .
 1	On	_	Word	Word	_	2	R	2:R	_
-2	April	_	Word	Word	_	8	D	8:D	_
-3	1	_	Word	Word	_	2	Terminal	2:Terminal	_
+2	April	_	Word	Word	_	8	T	8:T	_
+3	1	_	Word	Word	_	2	C	2:C	_
 4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
-5	2005	_	Word	Word	_	2	Terminal	2:Terminal	_
+5	2005	_	Word	Word	_	2	C	2:C	_
 6	,	_	Punctuation	Punctuation	_	8	U	8:U	_
 7	he	_	Word	Word	_	8	A	8:A	_
 8	anchored	_	Word	Word	_	0	H	0:H	_
@@ -17,8 +17,8 @@
 14	last	_	Word	Word	_	15	E	15:E	_
 15	time	_	Word	Word	_	8	D	8:D	_
 16	;	_	Punctuation	Punctuation	_	8	U	8:U	_
-17	his	_	Word	Word	_	19	E	19:E	_
-18	poor	_	Word	Word	_	19	E	19:E	_
+17	his	_	Word	Word	_	19	A	19:A	_
+18	poor	_	Word	Word	_	19	D	19:D	_
 19	health	_	Word	Word	_	21	A	21:A	_
 20	also	_	Word	Word	_	21	D	21:D	_
 21	prevented	_	Word	Word	_	8	H	8:H	_

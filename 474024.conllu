@@ -1,28 +1,28 @@
 # format = ucca
 # sent_id = 474024
 # text = Although they were facing the defending NBA champion Houston Rockets , the Lakers had home court advantage in the five - game series .
-1	Although	_	Word	Word	_	14	L	14:L	_
+1	Although	_	Word	Word	_	17	L	17:L	_
 2	they	_	Word	Word	_	4	A	4:A	_
 3	were	_	Word	Word	_	4	F	4:F	_
 4	facing	_	Word	Word	_	0	H	0:H	_
-5	the	_	Word	Word	_	6	E	6:E	_
-6	defending	_	Word	Word	_	9	E	9:E	_
-7	NBA	_	Word	Word	_	8	E	8:E	_
-8	champion	_	Word	Word	_	6	E	6:E	_
+5	the	_	Word	Word	_	8	F	8:F	_
+6	defending	_	Word	Word	_	8	D	8:D	_
+7	NBA	_	Word	Word	_	8	A	8:A	_
+8	champion	_	Word	Word	_	9	E	9:E	_
 9	Houston	_	Word	Word	_	4	A	4:A	_
 10	Rockets	_	Word	Word	_	9	Terminal	9:Terminal	_
 11	,	_	Punctuation	Punctuation	_	4	U	4:U	_
-12	the	_	Word	Word	_	13	E	13:E	_
-13	Lakers	_	Word	Word	_	14	A	14:A	_
-14	had	_	Word	Word	_	4	H	4:H	_
+12	the	_	Word	Word	_	13	F	13:F	_
+13	Lakers	_	Word	Word	_	17	A	17:A	_
+14	had	_	Word	Word	_	17	F	17:F	_
 15	home	_	Word	Word	_	16	E	16:E	_
-16	court	_	Word	Word	_	17	E	17:E	_
-17	advantage	_	Word	Word	_	14	A	14:A	_
-18	in	_	Word	Word	_	23	R	23:R	_
-19	the	_	Word	Word	_	23	E	23:E	_
-20	five	_	Word	Word	_	22	E	22:E	_
+16	court	_	Word	Word	_	17	A	17:A	_
+17	advantage	_	Word	Word	_	4	H	4:H	_
+18	in	_	Word	Word	_	22	R	22:R	_
+19	the	_	Word	Word	_	22	F	22:F	_
+20	five	_	Word	Word	_	22	Q	22:Q	_
 21	-	_	Punctuation	Punctuation	_	22	U	22:U	_
-22	game	_	Word	Word	_	23	E	23:E	_
-23	series	_	Word	Word	_	14	A	14:A	_
-24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+22	game	_	Word	Word	_	17	A	17:A	_
+23	series	_	Word	Word	_	22	E	22:E	_
+24	.	_	Punctuation	Punctuation	_	22	U	22:U	_
 
