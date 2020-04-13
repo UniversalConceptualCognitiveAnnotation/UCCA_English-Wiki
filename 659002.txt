@@ -1,53 +1,48 @@
 # ::id 659002
 # ::tok By the age of four , Carey recalled that she had begun to sneak the radio under her covers at night , and just sing from her heart , and try and find peace within the music .
-# ::alignments 0-1.1 1-1.2.2.1 2-1.2.2.2 3-1.2.2.3 4-1.2.2.4 6-1.2.1 7-1.3.2 9-1.3.3.2 10-1.3.3.3.1 11-1.3.3.3.2 13-1.3.3.5 14-1.3.3.6.1 15-1.3.3.6.2 16-1.3.3.7.1 17-1.3.3.7.2 18-1.3.3.7.3 19-1.3.3.8.1 20-1.3.3.8.2 22-1.4 23-1.5.1 24-1.5.2 25-1.5.3.1 26-1.5.3.2 27-1.5.3.3 29-1.6 30-1.7.1.1 31-1.7.1.2 32-1.7.1.3 33-1.7.2 34-1.7.3.1 35-1.7.3.2 36-1.7.3.3
+# ::alignments 0-1.1.1.8 2-1.1.1.9.2 3-1.1.1.9.3.2 4-1.1.1.9.3.3 6-1.1.2 7-1.1.3 8-1.1.1.10 9-1.1.1.1.1 11-1.1.1.1.3 13-1.1.1.1.5 15-1.1.1.1.6.2 16-1.1.1.1.7.1 18-1.1.1.1.7.3 19-1.1.1.1.8.1 20-1.1.1.1.8.2 22-1.1.1.2 23-1.1.1.3.1 24-1.1.1.3.2 25-1.1.1.3.3.1 26-1.1.1.3.3.2 27-1.1.1.3.3.3 29-1.1.1.4 30-1.1.1.5.1 32-1.1.1.5.3 33-1.1.1.5.4 34-1.1.1.5.5.1 36-1.1.1.5.5.3
 # ::format ucca
 (v1 / label
-    :L (v2 / label~e.0)
-    :H (v3 / label
-           :A (v9 / label~e.6)
-           :S (v10 / label
-                   :E (v19 / label~e.1)
-                   :C (v20 / label~e.2)
-                   :R (v21 / label~e.3)
-                   :E (v22 / label~e.4)))
-    :H (v4 / label
-           :A v9
-           :P (v11 / label~e.7)
-           :A (v12 / label
-                   :A (v23 / label~e.9)
-                   :D (v24 / label
-                           :E (v38 / label~e.10)
-                           :C (v39 / label~e.11))
-                   :P (v25 / label~e.13)
-                   :A (v26 / label
-                           :E (v40 / label~e.14)
-                           :C (v41 / label~e.15))
-                   :A (v27 / label
-                           :R (v42 / label~e.16)
-                           :E (v43 / label~e.17)
-                           :C (v44 / label~e.18))
-                   :D (v28 / label
-                           :R (v45 / label~e.19)
-                           :C (v46 / label~e.20))))
-    :L (v5 / label~e.22)
-    :H (v6 / label
-           :D (v13 / label~e.23)
-           :P (v14 / label~e.24)
-           :A (v15 / label
-                   :R (v29 / label~e.25)
-                   :E (v30 / label~e.26)
-                   :C (v31 / label~e.27))
-           :A v9)
-    :L (v7 / label~e.29)
-    :H (v8 / label
-           :P (v16 / label
-                   :C (v32 / label~e.30)
-                   :N (v33 / label~e.31)
-                   :C (v34 / label~e.32))
-           :A (v17 / label~e.33)
-           :A (v18 / label
-                   :R (v35 / label~e.34)
-                   :E (v36 / label~e.35)
-                   :C (v37 / label~e.36))
-           :A v9))
+    :H (v2 / label
+           :A (v3 / label
+                  :H (v6 / label
+                         :A (v14 / label~e.9)
+                         :D (v15 / label~e.11)
+                         :P (v16 / label~e.13)
+                         :A (v17 / label
+                                 :C (v29 / label~e.15))
+                         :A (v18 / label
+                                 :R (v30 / label~e.16)
+                                 :C (v31 / label~e.18))
+                         :T (v19 / label
+                                 :R (v32 / label~e.19)
+                                 :C (v33 / label~e.20)))
+                  :L (v7 / label~e.22)
+                  :H (v8 / label
+                         :D (v20 / label~e.23)
+                         :P (v21 / label~e.24)
+                         :A (v22 / label
+                                 :R (v34 / label~e.25)
+                                 :E (v35 / label~e.26)
+                                 :C (v36 / label~e.27))
+                         :A (v4 / label~e.6))
+                  :L (v9 / label~e.29)
+                  :H (v10 / label
+                          :D (v23 / label~e.30)
+                          :P (v24 / label~e.32)
+                          :A (v25 / label~e.33)
+                          :A (v26 / label
+                                  :R (v37 / label~e.34)
+                                  :C (v38 / label~e.36))
+                          :A v4)
+                  :L (v11 / label~e.0)
+                  :H (v12 / label
+                          :S (v27 / label~e.2)
+                          :D (v28 / label
+                                  :C (v39 / label)
+                                  :R (v40 / label~e.3)
+                                  :Q (v41 / label~e.4))
+                          :A v4)
+                  :R (v13 / label~e.8))
+           :A v4
+           :P (v5 / label~e.7)))

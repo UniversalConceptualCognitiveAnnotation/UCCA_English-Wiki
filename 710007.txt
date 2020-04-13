@@ -1,36 +1,35 @@
 # ::id 710007
-# ::tok With its bitter assessment of love and morbid ruminations , Dylan 's first collection of original songs in seven years was highly acclaimed .
-# ::alignments 0-1.1.3.1 1-1.1.3.2.1.1 2-1.1.3.2.1.2 3-1.1.3.2.1.3 4-1.1.3.2.1.4.1 5-1.1.3.2.1.4.2 6-1.1.3.2.2 7-1.1.3.2.3.1 8-1.1.3.2.3.2 10-1.1.4.1.1 11-1.1.4.1.2 12-1.1.4.2 13-1.1.4.3 14-1.1.4.4.1 15-1.1.4.4.2 16-1.1.4.4.3 17-1.1.4.5.1 18-1.1.4.5.2 19-1.1.4.5.3 21-1.1.6 22-1.1.7
+# ::tok One critic wrote : " the songs themselves are uniformly powerful , adding up to Dylan 's best overall collection in years . "
+# ::alignments 0-1.1.3.1 1-1.1.3.2.1 2-1.1.4 5-1.1.5.1.1.1 6-1.1.5.2.3 9-1.1.5.1.3 10-1.1.5.1.4 12-1.1.5.2.1 13-1.1.5.2.1 14-1.1.5.2.2.1 15-1.1.5.2.2.2.2 16-1.1.5.2.2.2.3 17-1.1.5.2.2.3.2 18-1.1.5.2.2.3.3 19-1.1.5.2.2.4 20-1.1.5.2.2.5.1 21-1.1.5.2.2.5.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v3 / label
-                  :R (v7 / label~e.0)
-                  :C (v8 / label
-                         :C (v14 / label
-                                 :A (v25 / label~e.1)
-                                 :D (v26 / label~e.2)
-                                 :P (v27 / label~e.3)
-                                 :A (v28 / label
-                                         :R (v31 / label~e.4)
-                                         :C (v32 / label~e.5)))
-                         :N (v15 / label~e.6)
-                         :C (v16 / label
-                                 :E (v29 / label~e.7)
-                                 :C (v30 / label~e.8))))
-           :A (v4 / label
-                  :E (v9 / label
-                         :C (v17 / label~e.10)
-                         :R (v18 / label~e.11))
-                  :E (v10 / label~e.12)
-                  :C (v11 / label~e.13)
-                  :E (v12 / label
-                          :R (v19 / label~e.14)
-                          :E (v20 / label~e.15)
-                          :C (v21 / label~e.16))
-                  :E (v13 / label
-                          :R (v22 / label~e.17)
-                          :E (v23 / label~e.18)
-                          :C (v24 / label~e.19)))
-           :D (v5 / label~e.21)
-           :P (v6 / label~e.22)))
+                  :Q (v6 / label~e.0)
+                  :C (v7 / label
+                         :P (v10 / label~e.1)))
+           :P (v4 / label~e.2)
+           :A (v5 / label
+                  :H (v8 / label
+                         :A (v11 / label
+                                 :E (v17 / label~e.5)
+                                 :C (v16 / label~e.6))
+                         :D (v12 / label~e.9)
+                         :S (v13 / label~e.10))
+                  :H (v9 / label
+                         :P (v14 / label~e.12,13)
+                         :A (v15 / label
+                                 :R (v18 / label~e.14)
+                                 :E (v19 / label
+                                         :A (v21 / label~e.19)
+                                         :A (v23 / label~e.15)
+                                         :S (v24 / label~e.16))
+                                 :E (v20 / label
+                                         :A v21
+                                         :S (v25 / label~e.17)
+                                         :A (v26 / label~e.18))
+                                 :C v21
+                                 :E (v22 / label
+                                         :R (v27 / label~e.20)
+                                         :C (v28 / label~e.21)))
+                         :A v16))))

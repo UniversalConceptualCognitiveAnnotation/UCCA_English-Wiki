@@ -1,6 +1,6 @@
 # ::id 648000
 # ::tok When Lennon and Ono were reunited , she became pregnant , but having previously suffered three miscarriages in her attempt to have a child with Lennon , she said she wanted an abortion .
-# ::alignments 0-1.1 1-1.2.1.1 2-1.2.1.2 3-1.2.1.3 5-1.2.3 7-1.3.1 8-1.3.2 9-1.3.3 11-1.4 13-1.5.2 14-1.5.3 15-1.5.4.1 16-1.5.4.2 17-1.5.5.1 18-1.5.5.2.1 19-1.5.5.2.2.1 21-1.5.5.2.2.2 22-1.5.5.2.4.1 23-1.5.5.2.4.2 24-1.5.5.2.5.1 25-1.5.5.2.5.2 27-1.6.1 28-1.6.2 29-1.6.3.1 30-1.6.3.2 31-1.6.3.3.1 32-1.6.3.3.2
+# ::alignments 0-1.1 1-1.2.1.1 2-1.2.1.2 3-1.2.1.3 5-1.2.3 7-1.3.1 8-1.3.2 9-1.3.3 11-1.4 13-1.5.2 14-1.5.3 15-1.5.4.1 16-1.5.4.2 17-1.5.5.1 18-1.5.5.2 19-1.5.5.3 22-1.5.5.5.2 23-1.5.5.5.3 24-1.5.5.6.1 25-1.5.5.6.2 27-1.6.1 28-1.6.2 29-1.6.3.1 30-1.6.3.2 31-1.6.3.3.1.1 32-1.6.3.3.1.2
 # ::format ucca
 (v1 / label
     :L (v2 / label~e.0)
@@ -19,28 +19,26 @@
            :D (v13 / label~e.13)
            :P (v14 / label~e.14)
            :A (v15 / label
-                   :E (v23 / label~e.15)
+                   :Q (v23 / label~e.15)
                    :C (v24 / label~e.16))
            :A (v16 / label
                    :R (v25 / label~e.17)
-                   :C (v26 / label
-                           :A (v30 / label~e.18)
-                           :P (v31 / label
-                                   :E (v36 / label~e.19)
-                                   :C (v37 / label~e.21))
-                           :A (v32 / label
-                                   :E (v38 / label~e.22)
-                                   :C (v39 / label~e.23))
-                           :A (v33 / label
-                                   :R (v40 / label~e.24)
-                                   :C (v41 / label~e.25))))
+                   :A (v26 / label~e.18)
+                   :D (v27 / label~e.19)
+                   :P (v28 / label
+                           :E (v33 / label~e.22)
+                           :C (v34 / label~e.23))
+                   :A (v29 / label
+                           :R (v35 / label~e.24)
+                           :C (v36 / label~e.25)))
            :A v10)
     :H (v7 / label
            :A (v17 / label~e.27)
            :P (v18 / label~e.28)
            :A (v19 / label
-                   :A (v27 / label~e.29)
-                   :P (v28 / label~e.30)
-                   :A (v29 / label
-                           :E (v34 / label~e.31)
-                           :C (v35 / label~e.32)))))
+                   :A (v30 / label~e.29)
+                   :P (v31 / label~e.30)
+                   :A (v32 / label
+                           :P (v37 / label
+                                   :E (v38 / label~e.31)
+                                   :C (v39 / label~e.32))))))

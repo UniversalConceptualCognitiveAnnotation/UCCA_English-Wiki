@@ -1,6 +1,6 @@
 # ::id 649002
 # ::tok When McCartney released , " Coming Up " , in 1980 , the year Lennon returned to the studio and the last year of his life , he took notice . "
-# ::alignments 0-1.1 1-1.2.1 2-1.2.2 5-1.2.3 6-1.2.3 9-1.2.4.1 10-1.2.4.2 12-1.3.1 13-1.3.2 14-1.4.1 15-1.4.2 16-1.4.3.1 17-1.4.3.2 18-1.4.3.3 19-1.5 20-1.6.1.1 21-1.6.1.2 22-1.6.1.3 23-1.6.1.4 24-1.6.2 25-1.6.3 27-1.7.1 28-1.7.2 29-1.7.2
+# ::alignments 0-1.1 1-1.2.1 2-1.2.2 5-1.2.3 6-1.2.3 9-1.2.4.1 10-1.2.4.2 12-1.3.1 13-1.3.2 14-1.4.1 15-1.4.2 16-1.4.3.1 17-1.4.3.2 18-1.4.3.3 19-1.5 20-1.6.1.1 21-1.6.1.2 22-1.6.1.3 24-1.6.3 25-1.6.4 27-1.7.1 28-1.7.2 29-1.7.2
 # ::format ucca
 (v1 / label
     :L (v2 / label~e.0)
@@ -8,7 +8,7 @@
            :A (v9 / label~e.1)
            :P (v10 / label~e.2)
            :A (v11 / label~e.5,6)
-           :D (v12 / label
+           :T (v12 / label
                    :R (v23 / label~e.9)
                    :C (v24 / label~e.10)))
     :L (v4 / label
@@ -23,11 +23,10 @@
                    :C (v27 / label~e.18)))
     :L (v6 / label~e.19)
     :H (v7 / label
-           :D (v18 / label
+           :T (v18 / label
                    :E (v28 / label~e.20)
                    :E (v29 / label~e.21)
-                   :C (v30 / label~e.22)
-                   :R (v31 / label~e.23))
+                   :C (v30 / label~e.22))
            :A (v19 / label~e.24)
            :P (v20 / label~e.25))
     :H (v8 / label

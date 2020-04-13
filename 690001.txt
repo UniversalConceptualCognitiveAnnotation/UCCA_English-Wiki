@@ -5,7 +5,7 @@
 (v1 / label
     :H (v2 / label
            :A (v5 / label~e.0)
-           :D (v6 / label~e.1)
+           :T (v6 / label~e.1)
            :D (v7 / label~e.2)
            :P (v8 / label~e.4)
            :A (v9 / label
@@ -18,7 +18,7 @@
                           :E (v26 / label
                                   :E (v29 / label
                                           :E (v32 / label~e.15)
-                                          :E (v33 / label~e.16)
+                                          :Q (v33 / label~e.16)
                                           :C (v34 / label~e.17))
                                   :R (v30 / label~e.18)
                                   :C (v31 / label~e.19)))))

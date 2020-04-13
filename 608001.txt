@@ -1,36 +1,38 @@
 # ::id 608001
 # ::tok In 1988 , McCartney released Снова в СССР , released only in the Soviet Union , which contained eighteen covers ; recorded over the course of two days .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.1.2 4-1.1.3 9-1.1.4.1.1 10-1.1.4.1.2 11-1.1.4.1.3.1 12-1.1.4.1.3.2 13-1.1.4.1.3.3 14-1.1.4.1.3.3 16-1.2 17-1.3.1 18-1.3.2.1 19-1.3.2.2 21-1.4.3 22-1.4.1.1.1 23-1.4.1.1.2 24-1.4.1.1.3 26-1.4.1.2 27-1.4.1.3
+# ::alignments 0-1.1.2.1 1-1.1.2.2 3-1.1.3 4-1.1.4 5-1.1.5.7 6-1.1.5.7 7-1.1.5.7 9-1.1.5.1.1 10-1.1.5.1.2 11-1.1.5.1.3.1 12-1.1.5.1.3.2 13-1.1.5.1.3.3 14-1.1.5.1.3.3 16-1.1.5.2.1 17-1.1.5.2.2 18-1.1.5.2.3.1 19-1.1.5.2.3.2 21-1.1.5.3.1 22-1.1.5.3.2.1.1 24-1.1.5.3.2.1.3 25-1.1.5.3.2.1.4 26-1.1.5.3.2.2 27-1.1.5.3.2.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :D (v6 / label
-                  :R (v14 / label~e.0)
-                  :C (v15 / label~e.1))
-           :A (v7 / label~e.3)
-           :P (v8 / label~e.4)
-           :A (v9 / label
-                  :E (v16 / label
-                          :P (v22 / label~e.9)
-                          :D (v23 / label~e.10)
-                          :A (v24 / label
-                                  :R (v28 / label~e.11)
-                                  :E (v29 / label~e.12)
-                                  :C (v30 / label~e.13,14)))))
-    :L (v3 / label~e.16)
-    :H (v4 / label
-           :S (v10 / label~e.17)
-           :A (v11 / label
-                   :E (v17 / label~e.18)
-                   :C (v18 / label~e.19))
-           :A v9)
-    :H (v5 / label
-           :D (v12 / label
-                   :R (v19 / label
-                           :E (v25 / label~e.22)
-                           :E (v26 / label~e.23)
-                           :C (v27 / label~e.24))
-                   :E (v20 / label~e.26)
-                   :C (v21 / label~e.27))
-           :A v9
-           :P (v13 / label~e.21)))
+           :T (v3 / label
+                  :R (v7 / label~e.0)
+                  :C (v8 / label~e.1))
+           :A (v4 / label~e.3)
+           :P (v5 / label~e.4)
+           :A (v6 / label
+                  :E (v9 / label
+                         :P (v13 / label~e.9)
+                         :D (v14 / label~e.10)
+                         :A (v15 / label
+                                 :R (v21 / label~e.11)
+                                 :E (v22 / label~e.12)
+                                 :C (v23 / label~e.13,14))
+                         :A (v12 / label~e.5,6,7))
+                  :E (v10 / label
+                          :R (v16 / label~e.16)
+                          :S (v17 / label~e.17)
+                          :A (v18 / label
+                                  :Q (v24 / label~e.18)
+                                  :C (v25 / label~e.19))
+                          :A v12)
+                  :E (v11 / label
+                          :P (v19 / label~e.21)
+                          :T (v20 / label
+                                  :R (v26 / label
+                                          :R (v29 / label~e.22)
+                                          :C (v30 / label~e.24)
+                                          :R (v31 / label~e.25))
+                                  :Q (v27 / label~e.26)
+                                  :C (v28 / label~e.27))
+                          :A v12)
+                  :C v12)))

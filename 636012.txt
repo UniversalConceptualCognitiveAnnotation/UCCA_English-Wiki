@@ -9,10 +9,10 @@
                   :N (v12 / label~e.1)
                   :C (v13 / label~e.2))
            :P (v6 / label~e.4)
-           :D (v7 / label
+           :T (v7 / label
                   :R (v14 / label~e.5)
-                  :E (v15 / label~e.6)
-                  :E (v16 / label~e.7)
+                  :C (v15 / label~e.6)
+                  :C (v16 / label~e.7)
                   :C (v17 / label~e.8)))
     :L (v3 / label~e.10)
     :H (v4 / label
@@ -26,7 +26,7 @@
                                            :E (v37 / label~e.13)
                                            :C (v38 / label~e.14))
                                    :R (v28 / label~e.15)
-                                   :E (v29 / label~e.16)
+                                   :Q (v29 / label~e.16)
                                    :C (v30 / label~e.17))
                            :P (v22 / label~e.18)
                            :A (v23 / label~e.20,21))
@@ -41,7 +41,7 @@
                                    :H (v34 / label
                                            :A (v39 / label
                                                    :C v24
-                                                   :E (v44 / label~e.29)
+                                                   :Q (v44 / label~e.29)
                                                    :R (v45 / label~e.30)
                                                    :E (v46 / label~e.31))
                                            :P (v40 / label~e.33)
@@ -50,7 +50,7 @@
                                    :H (v36 / label
                                            :A (v42 / label
                                                    :C v24
-                                                   :E (v47 / label~e.36)
+                                                   :Q (v47 / label~e.36)
                                                    :R (v48 / label~e.37)
                                                    :R (v49 / label~e.38))
                                            :P (v43 / label

@@ -1,11 +1,11 @@
 # ::id 808002
 # ::tok He often chose clothes and make - up for her , encouraging her to grow her hair out like Brigitte Bardot ' s , and at least once insisting she have it re - styled , to disappointing effect .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4.1 4-1.1.4.2 5-1.1.4.3 7-1.1.4.3 8-1.1.5.1 9-1.1.5.2 11-1.2.1 12-1.2.2 14-1.2.3.2.1 15-1.2.3.4.1 16-1.2.3.4.2 17-1.2.3.2.2 18-1.2.3.5.1 19-1.2.3.5.2.1.1 20-1.2.3.5.2.1.1 22-1.2.3.5.2.1.2 24-1.3 25-1.4.1.1.1 26-1.4.1.1.2 27-1.4.1.2 28-1.4.2 29-1.4.3.1 31-1.4.3.4 32-1.4.3.2.1 34-1.4.3.2.2 36-1.5 37-1.6.2.1 38-1.6.2.2
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4.1 4-1.1.4.2 5-1.1.4.3 7-1.1.4.3 8-1.1.5.1 9-1.1.5.2 11-1.2.1 12-1.2.2 14-1.2.3.2.2 15-1.2.3.2.3.1 16-1.2.3.2.3.2 17-1.2.3.2.2 18-1.2.3.3 19-1.2.3.4.2.1.1 20-1.2.3.4.2.1.1 22-1.2.3.4.2.1.2 24-1.3 25-1.4.1.1 26-1.4.1.1 27-1.4.1.2 28-1.4.2 29-1.4.3.2 30-1.4.3.3 31-1.4.3.4 32-1.4.3.5 34-1.4.3.6 36-1.5 37-1.6.1 38-1.6.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v8 / label~e.0)
-           :D (v9 / label~e.1)
+           :T (v9 / label~e.1)
            :P (v10 / label~e.2)
            :A (v11 / label
                    :C (v21 / label~e.3)
@@ -18,38 +18,36 @@
            :P (v13 / label~e.11)
            :A (v14 / label~e.12)
            :A (v15 / label
-                   :A v14
-                   :P (v26 / label
-                           :C (v36 / label~e.14)
-                           :E (v37 / label~e.17))
-                   :A (v27 / label
-                           :E (v38 / label~e.15)
-                           :C (v39 / label~e.16))
-                   :A (v28 / label
-                           :R (v40 / label~e.18)
-                           :E (v41 / label
-                                   :E (v46 / label
-                                           :C (v47 / label~e.19,20)
-                                           :R (v48 / label~e.22)))
-                           :C v39))
+                   :H (v26 / label
+                           :A v14
+                           :P (v37 / label~e.14,17)
+                           :A (v38 / label
+                                   :E (v41 / label~e.15)
+                                   :C (v42 / label~e.16)))
+                   :L (v27 / label~e.18)
+                   :H (v28 / label
+                           :S (v39 / label)
+                           :A (v40 / label
+                                   :E (v43 / label
+                                           :C (v44 / label~e.19,20)
+                                           :R (v45 / label~e.22))
+                                   :C v42)))
            :A v8)
     :L (v4 / label~e.24)
     :H (v5 / label
            :D (v16 / label
-                   :E (v29 / label
-                           :R (v42 / label~e.25)
-                           :C (v43 / label~e.26))
+                   :E (v29 / label~e.25,26)
                    :C (v30 / label~e.27))
            :P (v17 / label~e.28)
            :A (v18 / label
-                   :A (v31 / label~e.29)
-                   :P (v32 / label
-                           :E (v44 / label~e.32)
-                           :C (v45 / label~e.34))
-                   :A (v33 / label~e.31)))
+                   :A (v31 / label)
+                   :A (v32 / label~e.29)
+                   :D (v33 / label~e.30)
+                   :A (v34 / label~e.31)
+                   :D (v35 / label~e.32)
+                   :P (v36 / label~e.34))
+           :A v8)
     :L (v6 / label~e.36)
     :H (v7 / label
-           :P (v19 / label)
-           :A (v20 / label
-                   :E (v34 / label~e.37)
-                   :C (v35 / label~e.38))))
+           :S (v19 / label~e.37)
+           :A (v20 / label~e.38)))

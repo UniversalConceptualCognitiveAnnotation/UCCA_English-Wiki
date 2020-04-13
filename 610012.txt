@@ -5,10 +5,10 @@
 (v1 / label
     :H (v2 / label
            :A (v4 / label
-                  :E (v11 / label
+                  :A (v11 / label
                           :E (v21 / label~e.0)
                           :C (v22 / label~e.1))
-                  :C (v12 / label~e.3))
+                  :P (v12 / label~e.3))
            :S (v5 / label~e.4)
            :A (v6 / label
                   :C (v13 / label~e.5,6,7)
@@ -22,7 +22,7 @@
                                           :C (v28 / label~e.12,13,14))))))
     :H (v3 / label
            :A (v7 / label~e.26,27)
-           :D (v8 / label
+           :T (v8 / label
                   :R (v15 / label~e.17)
                   :C (v16 / label~e.18))
            :A (v9 / label

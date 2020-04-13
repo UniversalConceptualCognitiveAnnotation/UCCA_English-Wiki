@@ -1,55 +1,40 @@
 # ::id 694011
-# ::tok The surreal , humorous Dylan reemerged on " I Shall Be Free No . 10 " and " Motorpsycho Nightmare " . " Spanish Harlem Incident " and " To Ramona " are romantic and passionate love songs , while " Black Crow Blues " and " I Do n't Believe You ( She Acts Like We Never Have Met ) " suggest the rock and roll soon to dominate Dylan 's music . "
-# ::alignments 0-1.1.1.1.1 1-1.1.1.1.2.3 3-1.1.1.1.2.4 4-1.1.1.2 5-1.1.2 6-1.1.3.1 8-1.1.3.2.1 9-1.1.3.2.1 10-1.1.3.2.1 11-1.1.3.2.1 12-1.1.3.2.1 14-1.1.3.2.1 16-1.1.3.2.2 18-1.1.3.2.3 19-1.1.3.2.3 23-1.2.1.1 24-1.2.1.1 25-1.2.1.1 27-1.2.1.2 29-1.2.1.3 30-1.2.1.3 32-1.2.2 33-1.2.3.1.1 34-1.2.3.1.2 35-1.2.3.1.3 36-1.2.3.2 37-1.2.3.3 39-1.3 41-1.4.1.1 42-1.4.1.1 43-1.4.1.1 45-1.4.1.2 47-1.4.1.3 48-1.4.1.3 49-1.4.1.3 50-1.4.1.3 51-1.4.1.3 53-1.4.1.3 54-1.4.1.3 55-1.4.1.3 56-1.4.1.3 57-1.4.1.3 58-1.4.1.3 59-1.4.1.3 62-1.4.2 63-1.4.3.1.1 64-1.4.3.1.2.1 65-1.4.3.1.2.2 66-1.4.3.1.2.3 67-1.4.3.2 69-1.4.3.4 70-1.4.3.5.1.1 71-1.4.3.5.1.2 72-1.4.3.5.2
+# ::tok It Ai n't Me Babe " , on the surface a song about spurned love , has been described as a rejection of the role his reputation had thrust at him .
+# ::alignments 0-1.1.1.1 1-1.1.1.1 2-1.1.1.1 3-1.1.1.1 4-1.1.1.1 7-1.1.1.2.1.1 8-1.1.1.2.1.2 9-1.1.1.2.1.3 10-1.1.1.2.2 11-1.1.1.2.3 12-1.1.1.2.4.1 13-1.1.1.2.4.2 14-1.1.1.2.4.3 18-1.1.5 19-1.1.6.1 20-1.1.6.2.1 21-1.1.6.2.2 22-1.1.6.3.1 23-1.1.6.3.2.1.1 24-1.1.6.3.3.5 25-1.1.6.3.3.1.1 26-1.1.6.3.3.1.2 28-1.1.6.3.3.3 29-1.1.6.3.3.4.1 30-1.1.6.3.3.4.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :A (v6 / label
-                  :E (v15 / label
-                          :E (v32 / label~e.0)
-                          :C (v33 / label
-                                  :N (v44 / label)
-                                  :C (v45 / label~e.1)
-                                  :C (v46 / label~e.3)))
-                  :C (v16 / label~e.4))
-           :P (v7 / label~e.5)
-           :A (v8 / label
-                  :R (v17 / label~e.6)
-                  :C (v18 / label
-                          :C (v34 / label~e.8,9,10,11,12,14)
-                          :N (v35 / label~e.16)
-                          :C (v36 / label~e.18,19))))
-    :H (v3 / label
-           :A (v9 / label
-                  :C (v19 / label~e.23,24,25)
-                  :N (v20 / label~e.27)
-                  :C (v21 / label~e.29,30))
-           :S (v10 / label~e.32)
-           :A (v11 / label
-                   :E (v22 / label
-                           :C (v37 / label~e.33)
-                           :N (v38 / label~e.34)
-                           :C (v39 / label~e.35))
-                   :E (v23 / label~e.36)
-                   :C (v24 / label~e.37)))
-    :L (v4 / label~e.39)
-    :H (v5 / label
-           :A (v12 / label
-                   :C (v25 / label~e.41,42,43)
-                   :N (v26 / label~e.45)
-                   :C (v27 / label~e.47,48,49,50,51,53,54,55,56,57,58,59))
-           :P (v13 / label~e.62)
-           :A (v14 / label
-                   :A (v28 / label
-                           :E (v40 / label~e.63)
-                           :C (v41 / label
-                                   :C (v47 / label~e.64)
-                                   :N (v48 / label~e.65)
-                                   :C (v49 / label~e.66)))
-                   :D (v29 / label~e.67)
-                   :P (v30 / label~e.69)
-                   :A (v31 / label
-                           :E (v42 / label
-                                   :C (v50 / label~e.70)
-                                   :R (v51 / label~e.71))
-                           :C (v43 / label~e.72)))))
+           :A (v3 / label
+                  :C (v6 / label~e.0,1,2,3,4)
+                  :E (v7 / label
+                         :E (v11 / label
+                                 :R (v20 / label~e.7)
+                                 :E (v21 / label~e.8)
+                                 :C (v22 / label~e.9))
+                         :E (v12 / label~e.10)
+                         :C (v13 / label~e.11)
+                         :E (v14 / label
+                                 :R (v23 / label~e.12)
+                                 :D (v24 / label~e.13)
+                                 :S (v25 / label~e.14))))
+           :P (v4 / label~e.18)
+           :A (v5 / label
+                  :R (v8 / label~e.19)
+                  :P (v9 / label
+                         :E (v15 / label~e.20)
+                         :C (v16 / label~e.21))
+                  :A (v10 / label
+                          :R (v17 / label~e.22)
+                          :C (v18 / label
+                                  :S (v26 / label
+                                          :E (v31 / label~e.23)
+                                          :C (v30 / label~e.24)))
+                          :E (v19 / label
+                                  :A (v27 / label
+                                          :A (v32 / label~e.25)
+                                          :S (v33 / label~e.26))
+                                  :P (v28 / label~e.28)
+                                  :A (v29 / label
+                                          :R (v34 / label~e.29)
+                                          :C (v35 / label~e.30))
+                                  :A v30)))))

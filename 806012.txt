@@ -1,6 +1,6 @@
 # ::id 806012
 # ::tok McCartney also supports the Make Poverty History campaign .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4.3 4-1.1.4.4 5-1.1.4.4 6-1.1.4.4 7-1.1.4.1
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4.2 4-1.1.4.3 5-1.1.4.3 6-1.1.4.3 7-1.1.4.1.1
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -8,6 +8,7 @@
            :D (v4 / label~e.1)
            :P (v5 / label~e.2)
            :A (v6 / label
-                  :E (v7 / label~e.7)
+                  :E (v7 / label
+                         :P (v10 / label~e.7))
                   :E (v8 / label~e.3)
                   :C (v9 / label~e.4,5,6))))

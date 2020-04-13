@@ -1,6 +1,6 @@
 # ::id 709004
 # ::tok Dylan 's 1990s began with Under the Red Sky ( 1990 ) , an about - face from the serious Oh Mercy .
-# ::alignments 0-1.1.2.1 1-1.1.2.2 2-1.1.3 4-1.1.5.5 5-1.1.5.1.2 6-1.1.5.1.2 7-1.1.5.1.2 8-1.1.5.1.2 10-1.1.5.1.3 13-1.1.5.2.1 14-1.1.5.2.2 16-1.1.5.2.2 17-1.1.5.2.3.1 18-1.1.5.2.3.2 19-1.1.5.2.3.3 20-1.1.5.2.3.4 21-1.1.5.2.3.4
+# ::alignments 0-1.1.2.1 1-1.1.2.2 2-1.1.3 4-1.1.5.7 5-1.1.5.1 6-1.1.5.1 7-1.1.5.1 8-1.1.5.1 10-1.1.5.2.3 14-1.1.5.3.3 16-1.1.5.3.3 17-1.1.5.3.4.1 18-1.1.5.3.4.2 19-1.1.5.3.4.3.2 20-1.1.5.3.4.4 21-1.1.5.3.4.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -8,18 +8,21 @@
            :A (v4 / label
                   :C (v7 / label~e.0)
                   :R (v8 / label~e.1))
-           :D (v5 / label~e.2)
+           :T (v5 / label~e.2)
            :A (v6 / label
-                  :C (v9 / label
-                         :P (v12 / label)
-                         :A (v13 / label~e.5,6,7,8)
-                         :D (v14 / label~e.10))
+                  :C (v9 / label~e.5,6,7,8)
                   :E (v10 / label
-                          :E (v15 / label~e.13)
-                          :C (v16 / label~e.14,16)
-                          :E (v17 / label
-                                  :R (v18 / label~e.17)
-                                  :E (v19 / label~e.18)
-                                  :C (v20 / label~e.19)
-                                  :E (v21 / label~e.20,21)))
-                  :R (v11 / label~e.4))))
+                          :A v9
+                          :P (v13 / label)
+                          :T (v14 / label~e.10))
+                  :E (v11 / label
+                          :A v9
+                          :S (v15 / label~e.14,16)
+                          :A (v16 / label
+                                  :R (v17 / label~e.17)
+                                  :E (v18 / label~e.18)
+                                  :E (v19 / label
+                                          :A (v20 / label~e.20,21)
+                                          :S (v21 / label~e.19))
+                                  :C v20))
+                  :R (v12 / label~e.4))))

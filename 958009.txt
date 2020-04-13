@@ -5,5 +5,5 @@
 (v1 / label
     :H (v2 / label
            :A (v3 / label~e.0)
-           :D (v4 / label~e.1)
-           :S (v5 / label~e.2,3)))
+           :S (v4 / label~e.1)
+           :A (v5 / label~e.2,3)))

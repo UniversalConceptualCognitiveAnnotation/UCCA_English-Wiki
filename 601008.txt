@@ -1,6 +1,6 @@
 # ::id 601008
 # ::tok They recorded professionally for the first time while in Hamburg , credited as the Beat Brothers , as the backing band for English singer Tony Sheridan on the single " My Bonnie " . This brought them to the attention of Brian Epstein , a key figure in their subsequent development and success .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4.1 4-1.1.4.2 5-1.1.4.3 6-1.1.4.4 7-1.1.5.1 8-1.1.5.2 9-1.1.5.3 11-1.2.1 12-1.2.2.1 13-1.2.2.2 14-1.2.2.3 15-1.2.2.3 17-1.2.3.1 18-1.2.3.2 19-1.2.3.3 20-1.2.3.4 21-1.2.3.5.1 22-1.2.3.5.2 23-1.2.3.5.3 24-1.2.3.5.4 25-1.2.3.5.4 26-1.2.3.6.1 27-1.2.3.6.2 28-1.2.3.6.3 30-1.2.3.6.4 31-1.2.3.6.4 34-1.3.4 35-1.3.1 36-1.3.2 38-1.3.3.2.1 39-1.3.3.2.2 40-1.3.3.3.1 41-1.3.3.3.2 42-1.3.3.3.2 44-1.3.3.3.3.2.1 45-1.3.3.3.3.2.2 46-1.3.3.3.3.2.3 47-1.3.3.3.3.3.1 48-1.3.3.3.3.3.2 49-1.3.3.3.3.3.3 50-1.3.3.3.3.3.4.1 51-1.3.3.3.3.3.4.2 52-1.3.3.3.3.3.4.3
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4.1 4-1.1.4.2 5-1.1.4.3 6-1.1.4.4 7-1.1.5.1 8-1.1.5.2 9-1.1.5.3 11-1.2.1 12-1.2.2.1 13-1.2.2.2 14-1.2.2.3 15-1.2.2.3 17-1.2.3.1 18-1.2.3.2 19-1.2.3.3 20-1.2.3.4 21-1.2.3.5.1 22-1.2.3.5.2 23-1.2.3.5.3 24-1.2.3.5.4 25-1.2.3.5.4 26-1.2.3.6.1 27-1.2.3.6.2 28-1.2.3.6.3 30-1.2.3.6.4 31-1.2.3.6.4 34-1.3.6 35-1.3.1 36-1.3.2 38-1.3.4.1 39-1.3.4.2 40-1.3.5.1 41-1.3.5.2 42-1.3.5.2 44-1.3.5.3.2.1 45-1.3.5.3.3 46-1.3.5.3.2.2 47-1.3.5.3.4.1.1 48-1.3.5.3.4.1.2 49-1.3.5.3.4.1.3 50-1.3.5.3.4.1.4 51-1.3.5.3.4.2 52-1.3.5.3.4.3.1
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -8,58 +8,61 @@
            :P (v6 / label~e.1)
            :D (v7 / label~e.2)
            :D (v8 / label
-                  :R (v17 / label~e.3)
-                  :E (v18 / label~e.4)
-                  :E (v19 / label~e.5)
-                  :C (v20 / label~e.6))
+                  :R (v18 / label~e.3)
+                  :E (v19 / label~e.4)
+                  :E (v20 / label~e.5)
+                  :C (v21 / label~e.6))
            :A (v9 / label
-                  :R (v21 / label~e.7)
-                  :E (v22 / label~e.8)
-                  :C (v23 / label~e.9)))
+                  :R (v22 / label~e.7)
+                  :E (v23 / label~e.8)
+                  :C (v24 / label~e.9)))
     :H (v3 / label
            :S (v10 / label~e.11)
            :A (v11 / label
-                   :R (v24 / label~e.12)
-                   :E (v25 / label~e.13)
-                   :C (v26 / label~e.14,15))
+                   :R (v25 / label~e.12)
+                   :E (v26 / label~e.13)
+                   :C (v27 / label~e.14,15))
            :A (v12 / label
-                   :R (v27 / label~e.17)
-                   :E (v28 / label~e.18)
-                   :E (v29 / label~e.19)
-                   :C (v30 / label~e.20)
-                   :E (v31 / label
-                           :R (v35 / label~e.21)
-                           :E (v36 / label~e.22)
-                           :E (v37 / label~e.23)
-                           :C (v38 / label~e.24,25))
+                   :R (v28 / label~e.17)
+                   :E (v29 / label~e.18)
+                   :E (v30 / label~e.19)
+                   :C (v31 / label~e.20)
                    :E (v32 / label
-                           :R (v39 / label~e.26)
-                           :E (v40 / label~e.27)
-                           :E (v41 / label~e.28)
-                           :C (v42 / label~e.30,31)))
+                           :R (v39 / label~e.21)
+                           :E (v40 / label~e.22)
+                           :E (v41 / label~e.23)
+                           :C (v42 / label~e.24,25))
+                   :E (v33 / label
+                           :R (v43 / label~e.26)
+                           :E (v44 / label~e.27)
+                           :E (v45 / label~e.28)
+                           :C (v46 / label~e.30,31)))
            :A v5)
     :H (v4 / label
-           :P (v13 / label~e.35)
+           :D (v13 / label~e.35)
            :A (v14 / label~e.36)
-           :A (v15 / label
-                   :P (v33 / label
-                           :E (v43 / label~e.38)
-                           :C (v44 / label~e.39))
-                   :A (v34 / label
-                           :R (v45 / label~e.40)
-                           :C (v46 / label~e.41,42)
-                           :E (v47 / label
-                                   :A v46
-                                   :S (v48 / label
-                                           :E (v50 / label~e.44)
-                                           :E (v51 / label~e.45)
-                                           :C (v52 / label~e.46))
-                                   :A (v49 / label
-                                           :R (v53 / label~e.47)
-                                           :A (v54 / label~e.48)
-                                           :D (v55 / label~e.49)
-                                           :P (v56 / label
-                                                   :C (v57 / label~e.50)
-                                                   :N (v58 / label~e.51)
-                                                   :C (v59 / label~e.52))))))
-           :A (v16 / label~e.34)))
+           :P (v15 / label
+                   :E (v34 / label~e.38)
+                   :C (v35 / label~e.39))
+           :A (v16 / label
+                   :R (v36 / label~e.40)
+                   :C (v37 / label~e.41,42)
+                   :E (v38 / label
+                           :A v37
+                           :S (v47 / label
+                                   :E (v50 / label~e.44)
+                                   :C (v51 / label~e.46))
+                           :D (v48 / label~e.45)
+                           :A (v49 / label
+                                   :H (v52 / label
+                                           :R (v55 / label~e.47)
+                                           :A (v56 / label~e.48)
+                                           :D (v57 / label~e.49)
+                                           :P (v58 / label~e.50))
+                                   :L (v53 / label~e.51)
+                                   :H (v54 / label
+                                           :P (v59 / label~e.52)
+                                           :R v55
+                                           :A v56
+                                           :D v57))))
+           :A (v17 / label~e.34)))

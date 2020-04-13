@@ -1,6 +1,6 @@
 # ::id 703004
 # ::tok In the NME , Nick Kent described " the accompaniments [ as ] often so trashy they sound like mere practice takes . "
-# ::alignments 0-1.1.4.1 1-1.1.4.2 2-1.1.4.3 4-1.1.5 5-1.1.5 6-1.1.6 8-1.1.7.1 9-1.1.7.2 11-1.1.8.1 13-1.1.8.2.1 14-1.1.8.2.2 15-1.1.8.2.3 16-1.1.8.2.4.1 17-1.1.8.2.4.2 18-1.1.8.2.4.3.1 19-1.1.8.2.4.3.2 20-1.1.8.2.4.3.3 21-1.1.8.2.4.3.4
+# ::alignments 0-1.1.4.1 1-1.1.4.2 2-1.1.4.3 4-1.1.5 5-1.1.5 6-1.1.6 8-1.1.7.1 9-1.1.7.2 11-1.1.8.1 13-1.1.8.2.1 14-1.1.8.2.2 15-1.1.8.2.3 16-1.1.8.3.2 17-1.1.8.3.3 18-1.1.8.3.4.1 19-1.1.8.3.4.2 20-1.1.8.3.4.3.1 21-1.1.8.3.4.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -15,16 +15,18 @@
                   :C (v12 / label~e.9))
            :A (v7 / label
                   :R (v13 / label~e.11)
-                  :C (v14 / label
-                          :D (v15 / label~e.13)
-                          :D (v16 / label~e.14)
-                          :S (v17 / label~e.15)
-                          :A (v18 / label
-                                  :A (v19 / label~e.16)
-                                  :P (v20 / label~e.17)
-                                  :A (v21 / label
-                                          :E (v22 / label~e.18)
-                                          :E (v23 / label~e.19)
-                                          :E (v24 / label~e.20)
-                                          :C (v25 / label~e.21)))
-                          :A v12))))
+                  :H (v14 / label
+                          :D (v16 / label~e.13)
+                          :D (v17 / label~e.14)
+                          :S (v18 / label~e.15)
+                          :A v12)
+                  :H (v15 / label
+                          :S (v19 / label)
+                          :A (v20 / label~e.16)
+                          :G (v21 / label~e.17)
+                          :A (v22 / label
+                                  :R (v23 / label~e.18)
+                                  :E (v24 / label~e.19)
+                                  :E (v25 / label
+                                          :P (v27 / label~e.20))
+                                  :C (v26 / label~e.21))))))

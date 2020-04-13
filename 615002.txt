@@ -1,37 +1,36 @@
 # ::id 615002
 # ::tok They included mixes of various songs , musical pieces and comments made by McCartney that Dick James made into a demo for him .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.3.1 3-1.1.3.3.2 4-1.1.3.4 5-1.1.3.5.1 7-1.1.3.5.2.1 8-1.1.3.5.2.2 9-1.1.3.5.3 10-1.1.3.5.4 11-1.1.3.1.1 12-1.1.3.1.2.1 13-1.1.3.1.2.2 15-1.1.3.2.2 16-1.1.3.2.2 17-1.1.3.2.3 18-1.1.3.2.4.1 19-1.1.3.2.4.2 20-1.1.3.2.4.3 21-1.1.3.2.5.1 22-1.1.3.2.5.2
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.4 3-1.1.3.5 4-1.1.3.1 5-1.1.3.6.1 7-1.1.3.6.2.1 8-1.1.3.6.2.2 9-1.1.3.6.3 10-1.1.3.6.4 11-1.1.3.2.1 12-1.1.3.2.2.1 13-1.1.3.2.2.2 14-1.1.3.3.1 15-1.1.3.3.2 16-1.1.3.3.2 17-1.1.3.3.3 18-1.1.3.3.4.1 20-1.1.3.3.4.3 21-1.1.3.3.5.1 22-1.1.3.3.5.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v3 / label~e.0)
            :P (v4 / label~e.1)
            :A (v5 / label
-                  :E (v6 / label
-                         :P (v11 / label~e.11)
-                         :A (v12 / label
+                  :Q (v6 / label~e.4)
+                  :E (v7 / label
+                         :P (v12 / label~e.11)
+                         :A (v13 / label
                                  :R (v23 / label~e.12)
                                  :C (v24 / label~e.13))
-                         :A (v10 / label
+                         :A (v11 / label
                                  :C (v19 / label~e.5)
                                  :C (v20 / label
-                                         :E (v30 / label~e.7)
-                                         :C (v31 / label~e.8))
+                                         :E (v29 / label~e.7)
+                                         :C (v30 / label~e.8))
                                  :N (v21 / label~e.9)
                                  :C (v22 / label~e.10)))
-                  :E (v7 / label
-                         :A (v13 / label~e.15,16)
-                         :P (v14 / label~e.17)
-                         :A (v15 / label
-                                 :R (v25 / label~e.18)
-                                 :E (v26 / label~e.19)
-                                 :C (v27 / label~e.20))
-                         :A (v16 / label
-                                 :R (v28 / label~e.21)
-                                 :C (v29 / label~e.22))
-                         :A v10)
                   :E (v8 / label
-                         :C (v17 / label~e.2)
-                         :R (v18 / label~e.3))
-                  :E (v9 / label~e.4)
-                  :C v10)))
+                         :R (v14 / label~e.14)
+                         :A (v15 / label~e.15,16)
+                         :P (v16 / label~e.17)
+                         :A (v17 / label
+                                 :R (v25 / label~e.18)
+                                 :C (v26 / label~e.20))
+                         :A (v18 / label
+                                 :R (v27 / label~e.21)
+                                 :C (v28 / label~e.22))
+                         :A v11)
+                  :E (v9 / label~e.2)
+                  :R (v10 / label~e.3)
+                  :C v11)))

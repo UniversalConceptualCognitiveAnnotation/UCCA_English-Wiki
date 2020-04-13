@@ -1,12 +1,12 @@
 # ::id 647014
 # ::tok In January 1975 , he agreed to meet Ono - who said she had found a cure for smoking .
-# ::alignments 0-1.1.2.1 1-1.1.2.2 2-1.1.2.3 4-1.1.3 5-1.1.4 7-1.1.6 8-1.1.7.1 11-1.1.7.2.3 12-1.1.7.2.4.1 14-1.1.7.2.4.3 15-1.1.7.2.4.4.1 16-1.1.7.2.4.4.2 17-1.1.7.2.4.4.3.1 18-1.1.7.2.4.4.3.2
+# ::alignments 0-1.1.2.1 1-1.1.2.2 2-1.1.2.3 4-1.1.3 5-1.1.4 7-1.1.6 8-1.1.7.1 10-1.1.7.2.2 11-1.1.7.2.3 12-1.1.7.2.4.1 14-1.1.7.2.4.3 15-1.1.7.2.4.4.1.1 16-1.1.7.2.4.4.1.2 17-1.1.7.2.4.4.2.1 18-1.1.7.2.4.4.2.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :D (v3 / label
+           :T (v3 / label
                   :R (v8 / label~e.0)
-                  :E (v9 / label~e.1)
+                  :C (v9 / label~e.1)
                   :C (v10 / label~e.2))
            :A (v4 / label~e.4)
            :D (v5 / label~e.5)
@@ -15,13 +15,15 @@
                   :C (v11 / label~e.8)
                   :E (v12 / label
                           :A v11
-                          :P (v13 / label~e.11)
-                          :A (v14 / label
-                                  :A (v15 / label~e.12)
-                                  :P (v16 / label~e.14)
-                                  :A (v17 / label
-                                          :E (v18 / label~e.15)
-                                          :C (v19 / label~e.16)
-                                          :E (v20 / label
-                                                  :R (v21 / label~e.17)
-                                                  :C (v22 / label~e.18))))))))
+                          :R (v13 / label~e.10)
+                          :P (v14 / label~e.11)
+                          :A (v15 / label
+                                  :A (v16 / label~e.12)
+                                  :P (v17 / label~e.14)
+                                  :A (v18 / label
+                                          :S (v19 / label
+                                                  :E (v21 / label~e.15)
+                                                  :C (v22 / label~e.16))
+                                          :A (v20 / label
+                                                  :R (v23 / label~e.17)
+                                                  :P (v24 / label~e.18))))))))

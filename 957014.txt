@@ -1,51 +1,53 @@
 # ::id 957014
 # ::tok The Oliviers remained favourites of Churchill , attending dinners and occasions at his request for the rest of his life ; and , of Leigh , he was quoted as saying , " By Jove , she 's a clinker . "
-# ::alignments 0-1.1.1.1 1-1.2.5 2-1.1.2 3-1.1.3 4-1.1.4.1 5-1.1.4.2 7-1.2.1 8-1.2.2.1 9-1.2.2.2 10-1.2.2.3 11-1.2.3.1 12-1.2.3.2 13-1.2.3.3 14-1.2.4.1 15-1.2.4.2.1 16-1.2.4.2.2 17-1.2.4.2.3 18-1.2.4.3 19-1.2.4.4 21-1.3 23-1.4.5.1.1 24-1.4.5.1.2 26-1.4.1 28-1.4.3 29-1.4.5.2.1 30-1.4.5.2.2 33-1.4.5.3.1 34-1.4.5.3.1 36-1.4.5.3.2.1 38-1.4.5.3.2.2.1 39-1.4.5.3.2.2.2
+# ::alignments 0-1.1.1.1 1-1.2.3 2-1.1.2 3-1.1.3 4-1.1.4.1 5-1.1.4.2 7-1.2.1 8-1.2.2.1.1 9-1.2.2.2 10-1.2.2.3.1 11-1.3 12-1.4.1 13-1.4.2 14-1.5 15-1.6.1.1 16-1.6.1.2 17-1.6.2.1 18-1.6.3 19-1.6.2.2 21-1.7 23-1.8.1.2.1 24-1.8.1.2.2 26-1.8.2 28-1.8.4 29-1.8.1.3 30-1.8.1.4 33-1.8.1.5.1 34-1.8.1.5.1 36-1.8.1.5.2 38-1.8.1.5.4.1 39-1.8.1.5.4.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :A (v6 / label
-                  :E (v18 / label~e.0)
-                  :C (v14 / label~e.1))
-           :D (v7 / label~e.2)
-           :S (v8 / label~e.3)
-           :A (v9 / label
-                  :R (v19 / label~e.4)
-                  :C (v20 / label~e.5)))
+           :A (v10 / label
+                   :E (v25 / label~e.0)
+                   :C (v16 / label~e.1))
+           :D (v11 / label~e.2)
+           :S (v12 / label~e.3)
+           :A (v13 / label
+                   :R (v26 / label~e.4)
+                   :C (v27 / label~e.5)))
     :H (v3 / label
-           :P (v10 / label~e.7)
-           :A (v11 / label
-                   :C (v21 / label~e.8)
-                   :N (v22 / label~e.9)
-                   :C (v23 / label~e.10))
-           :A (v12 / label
-                   :R (v24 / label~e.11)
-                   :E (v25 / label~e.12)
-                   :C (v26 / label~e.13))
-           :D (v13 / label
-                   :R (v27 / label~e.14)
-                   :E (v28 / label
-                           :E (v34 / label~e.15)
-                           :C (v35 / label~e.16)
-                           :R (v36 / label~e.17))
-                   :E (v29 / label~e.18)
-                   :C (v30 / label~e.19))
-           :A v14)
-    :L (v4 / label~e.21)
+           :P (v14 / label~e.7)
+           :A (v15 / label
+                   :H (v28 / label
+                           :P (v39 / label~e.8))
+                   :L (v29 / label~e.9)
+                   :H (v30 / label
+                           :P (v40 / label~e.10)))
+           :A v16)
+    :L (v4 / label~e.11)
     :H (v5 / label
-           :A (v15 / label~e.26)
-           :P (v16 / label~e.28)
-           :A (v17 / label
-                   :A (v31 / label
-                           :R (v37 / label~e.23)
-                           :C (v38 / label~e.24))
-                   :P (v32 / label
-                           :R (v39 / label~e.29)
-                           :C (v40 / label~e.30))
-                   :A (v33 / label
-                           :H (v41 / label~e.33,34)
-                           :H (v42 / label
-                                   :A (v43 / label~e.36)
-                                   :S (v44 / label
-                                           :E (v45 / label~e.38)
-                                           :C (v46 / label~e.39)))))))
+           :A (v17 / label~e.12)
+           :P (v18 / label~e.13))
+    :L (v6 / label~e.14)
+    :H (v7 / label
+           :D (v19 / label
+                   :E (v31 / label~e.15)
+                   :C (v32 / label~e.16))
+           :P (v20 / label
+                   :R (v33 / label~e.17)
+                   :C (v34 / label~e.19))
+           :A (v21 / label~e.18))
+    :L (v8 / label~e.21)
+    :H (v9 / label
+           :A (v22 / label
+                   :A (v23 / label~e.26)
+                   :A (v35 / label
+                           :R (v41 / label~e.23)
+                           :C (v42 / label~e.24))
+                   :R (v36 / label~e.29)
+                   :P (v37 / label~e.30)
+                   :A (v38 / label
+                           :G (v43 / label~e.33,34)
+                           :A (v44 / label~e.36)
+                           :S (v45 / label
+                                   :E (v46 / label~e.38)
+                                   :C (v47 / label~e.39))))
+           :A v23
+           :P (v24 / label~e.28)))

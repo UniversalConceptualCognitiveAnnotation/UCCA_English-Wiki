@@ -1,6 +1,6 @@
 # ::id 696003
 # ::tok An alternative account claims audience members were merely upset by poor sound quality and a surprisingly short set .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 3-1.1.2 4-1.1.3.3.1 5-1.1.3.3.2 7-1.1.3.5 8-1.1.3.1 9-1.1.3.2.1 10-1.1.3.2.2.1.1 11-1.1.3.2.2.1.2 12-1.1.3.2.2.1.3 13-1.1.3.2.2.2 14-1.1.3.2.2.3.1 15-1.1.3.2.2.3.2.1 16-1.1.3.2.2.3.2.2 17-1.1.3.2.2.3.3
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 3-1.1.2 4-1.1.3.3.1.1 5-1.1.3.3.1.2 7-1.1.3.5 8-1.1.3.1 9-1.1.3.2.1 10-1.1.3.2.2.1 11-1.1.3.2.2.2 12-1.1.3.2.2.3 13-1.1.3.2.3 15-1.1.3.2.4.2.1 16-1.1.3.2.4.2.2 17-1.1.3.2.4.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -13,19 +13,18 @@
                   :S (v9 / label~e.8)
                   :A (v10 / label
                           :R (v13 / label~e.9)
-                          :C (v14 / label
-                                  :C (v17 / label
-                                          :E (v20 / label~e.10)
-                                          :E (v21 / label~e.11)
-                                          :C (v22 / label~e.12))
-                                  :N (v18 / label~e.13)
-                                  :C (v19 / label
-                                          :E (v23 / label~e.14)
-                                          :E (v24 / label
-                                                  :E (v26 / label~e.15)
-                                                  :C (v27 / label~e.16))
-                                          :C (v25 / label~e.17))))
+                          :H (v14 / label
+                                  :D (v18 / label~e.10)
+                                  :A (v19 / label~e.11)
+                                  :S (v20 / label~e.12))
+                          :L (v15 / label~e.13)
+                          :H (v16 / label
+                                  :T (v21 / label
+                                          :E (v25 / label~e.15)
+                                          :C (v26 / label~e.16))
+                                  :P (v22 / label~e.17)))
                   :A (v11 / label
-                          :E (v15 / label~e.4)
-                          :C (v16 / label~e.5))
+                          :S (v17 / label
+                                  :E (v23 / label~e.4)
+                                  :C (v24 / label~e.5)))
                   :D (v12 / label~e.7))))

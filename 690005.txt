@@ -1,6 +1,6 @@
 # ::id 690005
 # ::tok Guthrie had been a revelation to Dylan and was the biggest influence on his early performances .
-# ::alignments 0-1.1.1 3-1.1.2.1 4-1.1.2.2 5-1.1.5.1 6-1.1.5.2 7-1.2 9-1.3.3.1 10-1.3.3.2 11-1.3.4 12-1.3.5.1 13-1.3.5.2.1 14-1.3.5.2.2 15-1.3.5.2.3
+# ::alignments 0-1.1.1 3-1.1.4.1 4-1.1.4.2 5-1.1.5.1 6-1.1.5.2 7-1.2 9-1.3.3.1 10-1.3.3.2 11-1.3.4 12-1.3.5.1 13-1.3.5.2 14-1.3.5.3 15-1.3.5.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -20,7 +20,6 @@
            :S (v9 / label~e.11)
            :A (v10 / label
                    :R (v17 / label~e.12)
-                   :C (v18 / label
-                           :A (v19 / label~e.13)
-                           :D (v20 / label~e.14)
-                           :P (v21 / label~e.15)))))
+                   :A (v18 / label~e.13)
+                   :D (v19 / label~e.14)
+                   :P (v20 / label~e.15))))

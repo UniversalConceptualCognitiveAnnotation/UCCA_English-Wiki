@@ -1,27 +1,95 @@
 # ::id 613006
-# ::tok McCartney said of the instrument , " if I had to pick one electric guitar it would be this . "
-# ::alignments 0-1.1.3 1-1.1.4 2-1.1.5.1 3-1.1.5.2 4-1.1.5.3 7-1.1.6.1 8-1.1.6.2.1 9-1.1.6.2.2 11-1.1.6.2.4 12-1.1.6.2.5.1 13-1.1.6.2.5.2 14-1.1.6.2.5.3 15-1.1.6.3.1 17-1.1.6.3.2.2 18-1.1.6.3.3
+# ::tok He contributed what MacDonald described as " a startling guitar solo " on the Harrison composition " Taxman " and the " shrieking " guitar on " Sgt . Pepper 's Lonely Hearts Club Band " and " Helter Skelter " . MacDonald also praised McCartney 's " coruscating pseudo - Indian " guitar solo on " Good Morning Good Morning " . McCartney also played lead guitar on " Another Girl " . On his " Taxman " solo , McCartney commented , " I was very inspired by Jimi Hendrix . It was really my first voyage into feedback . "
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1.1 3-1.1.3.1.2.2 4-1.1.3.1.2.3 5-1.1.3.1.2.4.1 8-1.1.3.1.2.4.3 9-1.1.3.1.2.4.4 10-1.1.3.1.2.4.5 12-1.1.3.1.2.4.6.1 14-1.1.3.1.2.4.6.2.2.3 15-1.1.3.1.2.4.6.2.3 17-1.1.3.1.2.4.6.3 19-1.1.3.2 22-1.1.3.3.3.3 24-1.1.3.3.4 25-1.1.3.3.5.2 27-1.1.3.3.5.3.3 29-1.1.3.3.5.3.3 30-1.1.3.3.5.3.3 31-1.1.3.3.5.3.3 32-1.1.3.3.5.3.3 33-1.1.3.3.5.3.3 34-1.1.3.3.5.3.3 36-1.1.3.3.5.3.4 38-1.1.3.3.5.3.5 39-1.1.3.3.5.3.5 42-1.2.1 43-1.2.2 44-1.2.3 45-1.2.4.3.1 46-1.2.4.3.2 48-1.2.4.4 49-1.2.4.5.2 51-1.2.4.5.3 53-1.2.4.6 54-1.2.4.7 55-1.2.4.8.2 57-1.2.4.8.3 58-1.2.4.8.3 59-1.2.4.8.3 60-1.2.4.8.3 63-1.3.1 64-1.3.2 65-1.3.3 66-1.3.4.1 67-1.3.4.2 68-1.3.5.2 70-1.3.5.3 71-1.3.5.3 74-1.4.3.3 75-1.4.3.4.2 77-1.4.3.5 79-1.4.3.6 81-1.4.5 82-1.4.6 85-1.4.7.2.1 87-1.4.7.2.3 88-1.4.7.2.4 89-1.4.7.2.5.1 90-1.4.7.2.5.2 91-1.4.7.2.5.2 93-1.4.7.3.1 95-1.4.7.3.3 96-1.4.7.3.4 97-1.4.7.3.5 98-1.4.7.3.6 99-1.4.7.3.7.3 100-1.4.7.3.7.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :A (v3 / label~e.0)
-           :P (v4 / label~e.1)
-           :A (v5 / label
-                  :R (v7 / label~e.2)
-                  :E (v8 / label~e.3)
-                  :C (v9 / label~e.4))
-           :A (v6 / label
-                  :L (v10 / label~e.7)
-                  :H (v11 / label
-                          :A (v13 / label~e.8)
-                          :D (v14 / label~e.9)
-                          :P (v15 / label~e.11)
-                          :A (v16 / label
-                                  :E (v20 / label~e.12)
-                                  :E (v21 / label~e.13)
-                                  :C (v22 / label~e.14)))
-                  :H (v12 / label
-                          :A (v17 / label~e.15)
-                          :P (v18 / label
-                                  :C (v23 / label~e.17))
-                          :A (v19 / label~e.18)))))
+           :A (v6 / label~e.0)
+           :P (v7 / label~e.1)
+           :A (v8 / label
+                  :C (v22 / label
+                          :C (v41 / label~e.2)
+                          :E (v42 / label
+                                  :A v41
+                                  :A (v63 / label~e.3)
+                                  :P (v64 / label~e.4)
+                                  :A (v65 / label
+                                          :R (v73 / label~e.5)
+                                          :G (v74 / label~e.8)
+                                          :A (v75 / label~e.9)
+                                          :P (v76 / label~e.10)
+                                          :A (v77 / label
+                                                  :R (v81 / label~e.12)
+                                                  :E (v82 / label
+                                                          :E (v84 / label
+                                                                  :A (v85 / label~e.15)
+                                                                  :S (v86 / label)
+                                                                  :A (v87 / label~e.14))
+                                                          :C v85)
+                                                  :C (v83 / label~e.17)))))
+                  :N (v23 / label~e.19)
+                  :C (v24 / label
+                          :E (v43 / label
+                                  :A (v44 / label~e.24)
+                                  :S (v66 / label~e.22))
+                          :C v44
+                          :E (v45 / label
+                                  :R (v67 / label~e.25)
+                                  :C (v68 / label
+                                          :C (v78 / label~e.27,29,30,31,32,33,34)
+                                          :N (v79 / label~e.36)
+                                          :C (v80 / label~e.38,39))))))
+    :H (v3 / label
+           :A (v9 / label~e.42)
+           :D (v10 / label~e.43)
+           :P (v11 / label~e.44)
+           :A (v12 / label
+                   :A (v25 / label
+                           :C (v46 / label~e.45)
+                           :R (v47 / label~e.46))
+                   :D (v26 / label~e.48)
+                   :A (v27 / label
+                           :E (v48 / label~e.49)
+                           :C (v49 / label~e.51))
+                   :A (v28 / label~e.53)
+                   :P (v29 / label~e.54)
+                   :A (v30 / label
+                           :R (v50 / label~e.55)
+                           :C (v51 / label~e.57,58,59,60))))
+    :H (v4 / label
+           :A (v13 / label~e.63)
+           :D (v14 / label~e.64)
+           :P (v15 / label~e.65)
+           :A (v16 / label
+                   :E (v31 / label~e.66)
+                   :C (v32 / label~e.67))
+           :A (v17 / label
+                   :R (v33 / label~e.68)
+                   :C (v34 / label~e.70,71)))
+    :H (v5 / label
+           :A (v18 / label
+                   :R (v35 / label~e.74)
+                   :E (v36 / label
+                           :A (v38 / label~e.79)
+                           :S (v52 / label~e.75))
+                   :E (v37 / label~e.77)
+                   :C v38)
+           :A (v19 / label~e.81)
+           :P (v20 / label~e.82)
+           :A (v21 / label
+                   :H (v39 / label
+                           :A (v53 / label~e.85)
+                           :D (v54 / label~e.87)
+                           :P (v55 / label~e.88)
+                           :A (v56 / label
+                                   :R (v69 / label~e.89)
+                                   :C (v70 / label~e.90,91)))
+                   :H (v40 / label
+                           :A (v57 / label~e.93)
+                           :G (v58 / label~e.95)
+                           :A (v59 / label~e.96)
+                           :D (v60 / label~e.97)
+                           :P (v61 / label~e.98)
+                           :A (v62 / label
+                                   :R (v71 / label~e.99)
+                                   :C (v72 / label~e.100))))))

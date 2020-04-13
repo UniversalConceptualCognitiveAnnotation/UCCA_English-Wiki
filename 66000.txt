@@ -1,6 +1,6 @@
 # ::id 66000
 # ::tok Born in Los Angeles , California , Jolie is the daughter of actors Jon Voight and Marcheline Bertrand .
-# ::alignments 0-1.1.1 1-1.1.2.1 2-1.1.2.2 3-1.1.2.2 5-1.1.2.3 7-1.1.4 8-1.2.2 9-1.2.3.2 10-1.2.3.3 11-1.2.3.1.1 12-1.2.3.1.2 13-1.2.3.1.3.1 14-1.2.3.1.3.1 15-1.2.3.1.3.2 16-1.2.3.1.3.3 17-1.2.3.1.3.3
+# ::alignments 0-1.1.1 1-1.1.2.1 2-1.1.2.2 3-1.1.2.2 5-1.1.2.3 7-1.1.4 10-1.2.4 11-1.2.5.1 12-1.2.5.2.2 13-1.2.5.3.1 14-1.2.5.3.1 15-1.2.5.3.2 16-1.2.5.3.3 17-1.2.5.3.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -8,18 +8,17 @@
            :A (v5 / label
                   :R (v9 / label~e.1)
                   :C (v10 / label~e.2,3)
-                  :E (v11 / label~e.5))
+                  :C (v11 / label~e.5))
            :A (v6 / label~e.7))
     :H (v3 / label
            :A v6
-           :S (v7 / label~e.8)
+           :S (v7 / label~e.10)
            :A (v8 / label
-                  :E (v12 / label
-                          :R (v15 / label~e.11)
-                          :E (v16 / label~e.12)
-                          :C (v17 / label
-                                  :C (v18 / label~e.13,14)
-                                  :N (v19 / label~e.15)
-                                  :C (v20 / label~e.16,17)))
-                  :E (v13 / label~e.9)
-                  :C (v14 / label~e.10))))
+                  :R (v12 / label~e.11)
+                  :E (v13 / label
+                          :A (v14 / label
+                                  :C (v16 / label~e.13,14)
+                                  :N (v17 / label~e.15)
+                                  :C (v18 / label~e.16,17))
+                          :P (v15 / label~e.12))
+                  :C v14)))

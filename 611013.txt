@@ -1,47 +1,49 @@
 # ::id 611013
 # ::tok On 12 December , McCartney performed , supported by Krist Novoselic , Dave Grohl , and Pat Smear ( all former members of Nirvana ) , the closing act of 12 - 12 - 12 : The Concert for Sandy Relief , seen by approximately two billion people worldwide .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.2 4-1.1.2 5-1.1.3 7-1.2.2 8-1.2.3.4 9-1.2.3.1.1 10-1.2.3.1.1 12-1.2.3.1.2 13-1.2.3.1.2 15-1.2.3.1.3 16-1.2.3.1.4 17-1.2.3.1.4 19-1.2.3.2.1 20-1.2.3.2.2.1 21-1.2.3.2.2.2 22-1.2.3.2.3.1 23-1.2.3.2.3.2 26-1.1.4.1 27-1.1.4.2 28-1.1.4.3 29-1.1.4.4.1 30-1.1.4.4.2 32-1.1.4.4.2 34-1.1.4.4.2 36-1.1.4.4.2 37-1.1.4.4.2 38-1.1.4.4.2 39-1.1.4.4.2 40-1.1.4.4.2 42-1.1.4.5.2 43-1.1.4.5.3.1 44-1.1.4.5.3.2.1 45-1.1.4.5.3.2.2 46-1.1.4.5.3.2.3 47-1.1.4.5.3.3 48-1.1.4.5.3.4
+# ::alignments 0-1.1.1.1 1-1.1.1.2.1 2-1.1.1.2.2 4-1.1.2 5-1.1.3 7-1.2.2 8-1.2.3.4 9-1.2.3.1.1 10-1.2.3.1.1 12-1.2.3.1.2 13-1.2.3.1.2 15-1.2.3.1.3 16-1.2.3.1.4 17-1.2.3.1.4 19-1.2.3.2.1 20-1.2.3.2.2 21-1.2.3.2.3 22-1.2.3.2.4.1 23-1.2.3.2.4.2 26-1.1.4.1 27-1.1.4.2.2 28-1.1.4.3 29-1.1.4.4.1 30-1.1.4.4.2 32-1.1.4.4.2 34-1.1.4.4.2 36-1.1.4.4.2 37-1.1.4.4.2 38-1.1.4.4.2 39-1.1.4.4.2 40-1.1.4.4.2 42-1.1.4.5.2 43-1.1.4.5.3.1 44-1.1.4.5.3.2.1 45-1.1.4.5.3.2.2 46-1.1.4.5.3.2.2 47-1.1.4.5.3.3 48-1.1.4.5.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :D (v4 / label
+           :T (v4 / label
                   :R (v10 / label~e.0)
-                  :C (v11 / label~e.1,2))
+                  :C (v11 / label
+                          :C (v20 / label~e.1)
+                          :C (v21 / label~e.2)))
            :A (v5 / label~e.4)
            :P (v6 / label~e.5)
            :A (v7 / label
                   :E (v12 / label~e.26)
-                  :E (v13 / label~e.27)
-                  :C (v14 / label~e.28)
+                  :E (v13 / label
+                          :A (v14 / label~e.28)
+                          :S (v22 / label~e.27))
+                  :C v14
                   :E (v15 / label
-                          :R (v20 / label~e.29)
-                          :C (v21 / label~e.30,32,34,36,37,38,39,40))
+                          :R (v23 / label~e.29)
+                          :C (v24 / label~e.30,32,34,36,37,38,39,40))
                   :E (v16 / label
                           :A v14
-                          :P (v22 / label~e.42)
-                          :A (v23 / label
-                                  :R (v31 / label~e.43)
-                                  :E (v32 / label
-                                          :E (v39 / label~e.44)
-                                          :E (v40 / label~e.45)
-                                          :C (v41 / label~e.46))
-                                  :C (v33 / label~e.47)
-                                  :E (v34 / label~e.48)))))
+                          :P (v25 / label~e.42)
+                          :A (v26 / label
+                                  :R (v36 / label~e.43)
+                                  :Q (v37 / label
+                                          :E (v41 / label~e.44)
+                                          :C (v42 / label~e.45,46))
+                                  :C (v38 / label~e.47))
+                          :A (v27 / label~e.48))))
     :H (v3 / label
            :A v5
            :P (v8 / label~e.7)
            :A (v9 / label
                   :C (v17 / label
-                          :C (v24 / label~e.9,10)
-                          :C (v25 / label~e.12,13)
-                          :N (v26 / label~e.15)
-                          :C (v27 / label~e.16,17))
+                          :C (v28 / label~e.9,10)
+                          :C (v29 / label~e.12,13)
+                          :N (v30 / label~e.15)
+                          :C (v31 / label~e.16,17))
                   :E (v18 / label
-                          :A (v28 / label~e.19)
-                          :S (v29 / label
-                                  :E (v35 / label~e.20)
-                                  :C (v36 / label~e.21))
-                          :A (v30 / label
-                                  :R (v37 / label~e.22)
-                                  :C (v38 / label~e.23)))
+                          :A (v32 / label~e.19)
+                          :D (v33 / label~e.20)
+                          :S (v34 / label~e.21)
+                          :A (v35 / label
+                                  :R (v39 / label~e.22)
+                                  :C (v40 / label~e.23)))
                   :R (v19 / label~e.8))))

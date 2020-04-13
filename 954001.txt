@@ -12,16 +12,16 @@
                    :C (v18 / label~e.5,6,7,8)))
     :L (v3 / label~e.10)
     :H (v4 / label
-           :A (v11 / label
+           :S (v11 / label
                    :E (v19 / label~e.11)
                    :C (v20 / label~e.12))
-           :P (v12 / label~e.13))
+           :D (v12 / label~e.13))
     :L (v5 / label~e.14)
     :H (v6 / label
            :P (v13 / label~e.16)
            :A (v14 / label~e.17)
            :A (v15 / label
                    :R (v21 / label~e.18)
-                   :E (v22 / label~e.19)
-                   :C (v23 / label~e.20))
+                   :A (v22 / label~e.19)
+                   :P (v23 / label~e.20))
            :A (v16 / label~e.15)))

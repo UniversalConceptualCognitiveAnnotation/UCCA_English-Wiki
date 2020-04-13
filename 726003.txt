@@ -1,6 +1,6 @@
 # ::id 726003
 # ::tok Variety noted , " Jolie is excellent as the flamboyant , irresponsible girl who turns out to be far more instrumental than the doctors in Susanna 's rehabilitation . "
-# ::alignments 0-1.1.3 1-1.1.4 4-1.1.5.1 6-1.1.5.3 7-1.1.5.4.1 8-1.1.5.4.2 9-1.1.5.4.3 11-1.1.5.4.4 12-1.1.5.4.5 14-1.1.5.4.6.3.1 15-1.1.5.4.6.3.1 17-1.1.5.4.6.5 18-1.1.5.4.6.6 19-1.1.5.4.6.7 20-1.1.5.4.6.3.2 21-1.1.5.4.6.8.1 22-1.1.5.4.6.8.2 23-1.1.5.4.6.8.3 24-1.1.5.4.6.9.1 25-1.1.5.4.6.9.2.1 26-1.1.5.4.6.9.2.2 27-1.1.5.4.6.9.3
+# ::alignments 0-1.1.3 1-1.1.4 4-1.1.5.1 6-1.1.5.3 7-1.1.5.4.1 8-1.1.5.4.2 9-1.1.5.4.3.2 11-1.1.5.4.4.2 12-1.1.5.4.5 13-1.1.5.4.6.1 14-1.1.5.4.6.2.2 15-1.1.5.4.6.2.2 18-1.1.5.4.6.2.5.1 19-1.1.5.4.6.2.5.2 20-1.1.5.4.6.2.6 21-1.1.5.4.6.3 23-1.1.5.4.6.4.1.2 24-1.1.5.4.6.2.7.1 25-1.1.5.4.6.2.7.2.1 26-1.1.5.4.6.2.7.2.2 27-1.1.5.4.6.4.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -12,24 +12,31 @@
                   :A (v8 / label
                          :R (v9 / label~e.7)
                          :E (v10 / label~e.8)
-                         :E (v11 / label~e.9)
-                         :E (v12 / label~e.11)
-                         :C (v13 / label~e.12)
+                         :E (v11 / label
+                                 :A (v13 / label~e.12)
+                                 :S (v15 / label~e.9))
+                         :E (v12 / label
+                                 :A v13
+                                 :S (v16 / label~e.11))
+                         :C v13
                          :E (v14 / label
-                                 :A v6
-                                 :S (v15 / label
-                                         :E (v21 / label~e.14,15)
-                                         :C (v22 / label~e.20))
-                                 :D (v16 / label~e.17)
-                                 :D (v17 / label~e.18)
-                                 :D (v18 / label~e.19)
-                                 :A (v19 / label
-                                         :R (v23 / label~e.21)
-                                         :E (v24 / label~e.22)
-                                         :C (v25 / label~e.23))
-                                 :A (v20 / label
-                                         :R (v26 / label~e.24)
-                                         :E (v27 / label
-                                                 :C (v29 / label~e.25)
-                                                 :R (v30 / label~e.26))
-                                         :C (v28 / label~e.27)))))))
+                                 :R (v17 / label~e.13)
+                                 :H (v18 / label
+                                         :A v13
+                                         :D (v21 / label~e.14,15)
+                                         :D (v22 / label
+                                                 :E (v27 / label~e.18)
+                                                 :C (v28 / label~e.19))
+                                         :S (v23 / label~e.20)
+                                         :A (v24 / label
+                                                 :R (v29 / label~e.24)
+                                                 :A (v30 / label
+                                                         :C (v32 / label~e.25)
+                                                         :R (v33 / label~e.26))
+                                                 :P (v26 / label~e.27)))
+                                 :L (v19 / label~e.21)
+                                 :H (v20 / label
+                                         :A (v25 / label
+                                                 :P (v31 / label~e.23))
+                                         :S v23
+                                         :A v26))))))

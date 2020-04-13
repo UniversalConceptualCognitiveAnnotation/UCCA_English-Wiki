@@ -1,6 +1,6 @@
 # ::id 600004
 # ::tok The two quickly became friends ; McCartney later admitted : " I tended to talk down to him , because he was a year younger . "
-# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2 3-1.1.3 4-1.1.4 6-1.2.4 7-1.2.5 8-1.2.6 11-1.2.1.1.1 12-1.2.1.1.2 14-1.2.1.1.3.3.1 15-1.2.1.1.3.3.2 16-1.2.1.1.3.4.1 17-1.2.1.1.3.4.2 19-1.2.1.2 20-1.2.1.3.1 21-1.2.1.3.2 22-1.2.1.3.3.1 23-1.2.1.3.3.2 24-1.2.1.3.3.3
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2 3-1.1.3 4-1.1.4 6-1.2.4 7-1.2.5 8-1.2.6 11-1.2.1.1.1 12-1.2.1.1.2 14-1.2.1.1.4.1 15-1.2.1.1.4.2 16-1.2.1.1.5.1 17-1.2.1.1.5.2 19-1.2.1.2 20-1.2.1.3.1 22-1.2.1.3.3.1 23-1.2.1.3.3.2 24-1.2.1.3.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -8,29 +8,26 @@
                   :E (v12 / label~e.0)
                   :C (v13 / label~e.1))
            :D (v5 / label~e.2)
-           :P (v6 / label~e.3)
-           :A (v7 / label~e.4))
+           :D (v6 / label~e.3)
+           :S (v7 / label~e.4))
     :H (v3 / label
            :A (v8 / label
                   :H (v14 / label
                           :A (v17 / label~e.11)
-                          :P (v18 / label~e.12)
-                          :A (v19 / label
-                                  :A v17
-                                  :P (v23 / label
-                                          :C (v28 / label~e.14)
-                                          :E (v29 / label~e.15))
-                                  :A (v24 / label
-                                          :R (v30 / label~e.16)
-                                          :C (v31 / label~e.17))))
+                          :D (v18 / label~e.12)
+                          :P (v19 / label
+                                  :C (v24 / label~e.14)
+                                  :E (v25 / label~e.15))
+                          :A (v20 / label
+                                  :R (v26 / label~e.16)
+                                  :C (v27 / label~e.17)))
                   :L (v15 / label~e.19)
                   :H (v16 / label
-                          :A (v20 / label~e.20)
-                          :S (v21 / label~e.21)
-                          :A (v22 / label
-                                  :E (v25 / label~e.22)
-                                  :C (v26 / label~e.23)
-                                  :R (v27 / label~e.24))))
+                          :A (v21 / label~e.20)
+                          :T (v22 / label
+                                  :Q (v28 / label~e.22)
+                                  :C (v29 / label~e.23))
+                          :S (v23 / label~e.24)))
            :A (v9 / label~e.6)
-           :D (v10 / label~e.7)
+           :T (v10 / label~e.7)
            :P (v11 / label~e.8)))

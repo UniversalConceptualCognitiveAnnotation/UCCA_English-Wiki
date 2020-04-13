@@ -1,37 +1,35 @@
 # ::id 662008
 # ::tok The album 's second single , " Hero " , would eventually come to be one of Carey 's most popular and inspirational songs of her career .
-# ::alignments 0-1.1.1.1 1-1.1.1.2.1 2-1.1.1.2.2 3-1.1.1.3.1 4-1.1.1.3.2 7-1.1.1.4 11-1.1.5 12-1.1.6 14-1.1.4.2 15-1.1.8.1.1 16-1.1.8.1.2 17-1.1.8.2.1 18-1.1.8.2.2 19-1.1.8.3.1.1 20-1.1.8.3.1.2 21-1.1.8.3.2 22-1.1.8.3.3 23-1.1.8.4 24-1.1.8.5 25-1.1.8.6.1 26-1.1.8.6.2
+# ::alignments 1-1.1.2.2.1.1 2-1.1.2.2.1.2 3-1.1.2.2.2 4-1.1.2.2.3 7-1.1.2.3 11-1.1.6 12-1.1.7 14-1.1.9 15-1.1.1.1 16-1.1.1.2 17-1.1.1.3.1 18-1.1.1.3.2 19-1.1.1.4.2 20-1.1.1.4.3.1 21-1.1.1.4.3.2 22-1.1.1.4.3.3 23-1.1.1.5 24-1.1.1.4.4.1 25-1.1.1.4.4.2 26-1.1.1.4.4.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v3 / label
-                  :E (v8 / label~e.0)
-                  :E (v9 / label
-                         :C (v19 / label~e.1)
-                         :R (v20 / label~e.2))
+                  :Q (v8 / label~e.15)
+                  :R (v9 / label~e.16)
                   :E (v10 / label
-                          :E (v21 / label~e.3)
+                          :C (v15 / label~e.17)
+                          :R (v16 / label~e.18))
+                  :E (v11 / label
+                          :A (v12 / label~e.23)
+                          :D (v17 / label~e.19)
+                          :S (v18 / label
+                                  :C (v23 / label~e.20)
+                                  :N (v24 / label~e.21)
+                                  :C (v25 / label~e.22))
+                          :T (v19 / label
+                                  :R (v26 / label~e.24)
+                                  :E (v27 / label~e.25)
+                                  :C (v28 / label~e.26)))
+                  :C v12)
+           :A (v4 / label
+                  :E (v13 / label
+                          :E (v20 / label
+                                  :C (v29 / label~e.1)
+                                  :R (v30 / label~e.2))
+                          :Q (v21 / label~e.3)
                           :C (v22 / label~e.4))
-                  :C (v11 / label~e.7))
-           :S (v4 / label
-                  :C (v12 / label~e.14))
+                  :C (v14 / label~e.7))
            :D (v5 / label~e.11)
            :D (v6 / label~e.12)
-           :A (v7 / label
-                  :E (v13 / label
-                          :C (v23 / label~e.15)
-                          :R (v24 / label~e.16))
-                  :E (v14 / label
-                          :C (v25 / label~e.17)
-                          :R (v26 / label~e.18))
-                  :E (v15 / label
-                          :C (v27 / label
-                                  :E (v32 / label~e.19)
-                                  :C (v33 / label~e.20))
-                          :N (v28 / label~e.21)
-                          :C (v29 / label~e.22))
-                  :C (v16 / label~e.23)
-                  :R (v17 / label~e.24)
-                  :E (v18 / label
-                          :E (v30 / label~e.25)
-                          :C (v31 / label~e.26)))))
+           :S (v7 / label~e.14)))

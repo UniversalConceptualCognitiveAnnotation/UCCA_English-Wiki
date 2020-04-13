@@ -1,30 +1,25 @@
 # ::id 658017
 # ::tok When Carey was three years old , her parents divorced due to the increasingly strenuous nature of their marriage .
-# ::alignments 0-1.1 1-1.2.1 3-1.2.2.1.1 4-1.2.2.1.2 5-1.2.2.2 7-1.3.1.1 8-1.3.1.2 9-1.3.2 10-1.4 11-1.4 12-1.5.1.1 13-1.5.1.2.1 14-1.5.1.2.2 15-1.5.1.3 16-1.5.1.4 17-1.5.2.1 18-1.5.2.2
+# ::alignments 0-1.1 1-1.2.1 3-1.2.3.1 4-1.2.3.2 5-1.2.4 7-1.3.1.1 8-1.3.1.2 9-1.3.2 10-1.4 11-1.4 13-1.5.5 14-1.5.1 16-1.5.3.1 17-1.5.3.2 18-1.5.3.3
 # ::format ucca
 (v1 / label
     :L (v2 / label~e.0)
     :H (v3 / label
            :A (v7 / label~e.1)
-           :S (v8 / label
-                  :E (v13 / label
-                          :E (v23 / label~e.3)
-                          :C (v24 / label~e.4))
-                  :C (v14 / label~e.5)))
+           :D (v8 / label
+                  :Q (v15 / label~e.3)
+                  :C (v16 / label~e.4))
+           :S (v9 / label~e.5))
     :H (v4 / label
-           :A (v9 / label
-                  :E (v15 / label~e.7)
-                  :C (v16 / label~e.8))
-           :P (v10 / label~e.9))
+           :A (v10 / label
+                   :A (v17 / label~e.7)
+                   :S (v18 / label~e.8))
+           :P (v11 / label~e.9))
     :L (v5 / label~e.10,11)
     :H (v6 / label
-           :E (v11 / label
-                   :E (v17 / label~e.12)
-                   :E (v18 / label
-                           :E (v25 / label~e.13)
-                           :C (v26 / label~e.14))
-                   :C (v19 / label~e.15)
-                   :R (v20 / label~e.16))
-           :C (v12 / label
-                   :A (v21 / label~e.17)
-                   :S (v22 / label~e.18))))
+           :S (v12 / label~e.14)
+           :A (v13 / label
+                   :R (v19 / label~e.16)
+                   :A (v20 / label~e.17)
+                   :P (v21 / label~e.18))
+           :D (v14 / label~e.13)))

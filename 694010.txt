@@ -1,22 +1,60 @@
 # ::id 694010
-# ::tok Another Side of Bob Dylan , recorded on a single June evening in 1964 , had a lighter mood than its predecessor .
-# ::alignments 0-1.1.2.1 1-1.1.2.1 2-1.1.2.1 3-1.1.2.1 4-1.1.2.1 6-1.1.2.2 7-1.1.2.3.1 8-1.1.2.3.2 9-1.1.2.3.3 10-1.1.2.3.4 11-1.1.2.3.4 12-1.1.2.4.1 13-1.1.2.4.2 15-1.1.3 16-1.1.3 17-1.1.3 18-1.1.3 19-1.1.4.3 20-1.1.4.4 21-1.1.4.1
+# ::tok The surreal , humorous Dylan reemerged on " I Shall Be Free No . 10 " and " Motorpsycho Nightmare " . " Spanish Harlem Incident " and " To Ramona " are romantic and passionate love songs , while " Black Crow Blues " and " I Do n't Believe You ( She Acts Like We Never Have Met ) " suggest the rock and roll soon to dominate Dylan 's music . "
+# ::alignments 0-1.1.1.2 1-1.1.1.3.2 3-1.1.1.4.2 4-1.1.1.5 5-1.1.2 6-1.1.3.1 8-1.1.3.2.1 9-1.1.3.2.1 10-1.1.3.2.1 11-1.1.3.2.1 12-1.1.3.2.1 14-1.1.3.2.1 16-1.1.3.2.2 18-1.1.3.2.3 19-1.1.3.2.3 23-1.2.1.1 24-1.2.1.1 25-1.2.1.1 27-1.2.1.2 29-1.2.1.3 30-1.2.1.3 32-1.2.2 33-1.2.3.1.2.2 34-1.2.3.1.1 35-1.2.3.1.3.2 36-1.2.3.2.2 37-1.2.3.3 39-1.3 41-1.4.1.1 42-1.4.1.1 43-1.4.1.1 45-1.4.1.2 47-1.4.1.3 48-1.4.1.3 49-1.4.1.3 50-1.4.1.3 51-1.4.1.3 53-1.4.1.3 54-1.4.1.3 55-1.4.1.3 56-1.4.1.3 57-1.4.1.3 58-1.4.1.3 59-1.4.1.3 62-1.4.2 63-1.4.3.1.1 64-1.4.3.1.2 65-1.4.3.1.2 66-1.4.3.1.2 67-1.4.3.2 69-1.4.3.4 70-1.4.3.5.1.2 71-1.4.3.5.1.3 72-1.4.3.5.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :A (v3 / label
-                  :A (v6 / label~e.0,1,2,3,4)
-                  :P (v7 / label~e.6)
-                  :A (v8 / label
-                         :R (v13 / label~e.7)
-                         :E (v14 / label~e.8)
-                         :C (v15 / label~e.9)
-                         :E (v16 / label~e.10,11))
-                  :D (v9 / label
-                         :R (v17 / label~e.12)
-                         :C (v18 / label~e.13)))
-           :P (v4 / label~e.15,16,17,18)
-           :A (v5 / label
-                  :C (v10 / label~e.21)
-                  :R (v11 / label~e.19)
-                  :E (v12 / label~e.20))))
+           :A (v6 / label
+                  :E (v15 / label~e.0)
+                  :E (v16 / label
+                          :A (v18 / label~e.4)
+                          :S (v34 / label~e.1))
+                  :E (v17 / label
+                          :A v18
+                          :S (v35 / label~e.3))
+                  :C v18)
+           :P (v7 / label~e.5)
+           :A (v8 / label
+                  :R (v19 / label~e.6)
+                  :C (v20 / label
+                          :C (v36 / label~e.8,9,10,11,12,14)
+                          :N (v37 / label~e.16)
+                          :C (v38 / label~e.18,19))))
+    :H (v3 / label
+           :A (v9 / label
+                  :C (v21 / label~e.23,24,25)
+                  :N (v22 / label~e.27)
+                  :C (v23 / label~e.29,30))
+           :S (v10 / label~e.32)
+           :A (v11 / label
+                   :E (v24 / label
+                           :L (v39 / label~e.34)
+                           :H (v40 / label
+                                   :A (v26 / label~e.37)
+                                   :S (v47 / label~e.33))
+                           :H (v41 / label
+                                   :A v26
+                                   :S (v48 / label~e.35)))
+                   :E (v25 / label
+                           :A v26
+                           :S (v42 / label~e.36))
+                   :C v26))
+    :L (v4 / label~e.39)
+    :H (v5 / label
+           :A (v12 / label
+                   :C (v27 / label~e.41,42,43)
+                   :N (v28 / label~e.45)
+                   :C (v29 / label~e.47,48,49,50,51,53,54,55,56,57,58,59))
+           :P (v13 / label~e.62)
+           :A (v14 / label
+                   :A (v30 / label
+                           :E (v43 / label~e.63)
+                           :C (v44 / label~e.64,65,66))
+                   :T (v31 / label~e.67)
+                   :P (v32 / label~e.69)
+                   :A (v33 / label
+                           :E (v45 / label
+                                   :A (v46 / label~e.72)
+                                   :A (v49 / label~e.70)
+                                   :S (v50 / label~e.71))
+                           :C v46))))

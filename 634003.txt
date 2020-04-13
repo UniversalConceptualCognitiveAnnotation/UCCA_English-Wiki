@@ -14,12 +14,12 @@
            :A (v10 / label
                    :R (v22 / label~e.10)
                    :R (v23 / label~e.11)
-                   :E (v24 / label~e.12)
+                   :Q (v24 / label~e.12)
                    :C (v25 / label~e.13))
-           :D (v11 / label
+           :T (v11 / label
                    :R (v26 / label~e.14)
-                   :E (v27 / label~e.15)
-                   :E (v28 / label~e.16)
+                   :C (v27 / label~e.15)
+                   :C (v28 / label~e.16)
                    :C (v29 / label~e.17)))
     :L (v3 / label~e.19,20,21)
     :H (v4 / label
@@ -47,7 +47,7 @@
                                            :E (v46 / label~e.39)
                                            :C (v47 / label~e.40))
                                    :P (v42 / label~e.43)
-                                   :D (v43 / label
+                                   :T (v43 / label
                                            :E (v48 / label~e.44)
                                            :C (v49 / label~e.45)))
                            :E (v40 / label~e.47,48,49)))

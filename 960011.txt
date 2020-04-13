@@ -1,45 +1,42 @@
 # ::id 960011
 # ::tok David Niven said she had been " quite , quite mad " ; and in his diary Noël Coward expressed surprise that " things had been bad and getting worse since 1948 or thereabouts . "
-# ::alignments 0-1.1.1 1-1.1.1 2-1.1.2 3-1.1.3.1 4-1.1.3.2.1.1 5-1.1.3.2.1.2 7-1.1.3.2.2 9-1.1.3.2.3 10-1.1.3.2.4 13-1.2 14-1.3.4.1 15-1.3.4.2 16-1.3.4.3 17-1.3.1 18-1.3.1 19-1.3.2 20-1.3.3.1 23-1.3.3.2.2 24-1.3.3.2.3.1.1.1 25-1.3.3.2.3.1.1.2 26-1.3.3.2.3.1.2 27-1.3.3.2.3.2 28-1.3.3.2.3.3.1 29-1.3.3.2.3.3.2 30-1.3.3.2.4.1 31-1.3.3.2.4.2.1 32-1.3.3.2.4.2.2 33-1.3.3.2.4.2.3
+# ::alignments 0-1.1.1 1-1.1.1 2-1.1.2 3-1.1.3.1 7-1.1.3.4.1 9-1.1.3.4.2 10-1.1.3.5 13-1.2 14-1.3.5.1 15-1.3.5.2.2 16-1.3.5.3 17-1.3.1 18-1.3.1 19-1.3.2 20-1.3.3 21-1.3.4.1 23-1.3.4.2.1 26-1.3.4.2.4 27-1.3.4.3 28-1.3.4.4.1 29-1.3.4.4.2 30-1.3.4.2.5.1 31-1.3.4.4.4.1 32-1.3.4.4.4.2 33-1.3.4.4.4.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v5 / label~e.0,1)
            :P (v6 / label~e.2)
            :A (v7 / label
-                  :A (v12 / label~e.3)
-                  :S (v13 / label
-                          :E (v19 / label
-                                  :E (v26 / label~e.4)
-                                  :C (v27 / label~e.5))
-                          :D (v20 / label~e.7)
-                          :D (v21 / label~e.9)
-                          :C (v22 / label~e.10))))
+                  :A (v13 / label~e.3)
+                  :D (v14 / label
+                          :C (v23 / label~e.7)
+                          :C (v24 / label~e.9))
+                  :S (v15 / label~e.10)))
     :L (v3 / label~e.13)
     :H (v4 / label
            :A (v8 / label~e.17,18)
-           :P (v9 / label~e.19)
-           :A (v10 / label
-                   :C (v14 / label~e.20)
-                   :E (v15 / label
-                           :A (v23 / label~e.23)
-                           :S (v24 / label
-                                   :C (v28 / label
-                                           :E (v33 / label
-                                                   :E (v40 / label~e.24)
-                                                   :C (v41 / label~e.25))
-                                           :C (v34 / label~e.26))
-                                   :N (v29 / label~e.27)
-                                   :C (v30 / label
-                                           :C (v35 / label~e.28)
-                                           :E (v36 / label~e.29)))
-                           :D (v25 / label
-                                   :R (v31 / label~e.30)
-                                   :C (v32 / label
-                                           :C (v37 / label~e.31)
-                                           :N (v38 / label~e.32)
-                                           :C (v39 / label~e.33)))))
+           :D (v9 / label~e.19)
+           :S (v10 / label~e.20)
            :A (v11 / label
-                   :R (v16 / label~e.14)
-                   :E (v17 / label~e.15)
-                   :C (v18 / label~e.16))))
+                   :R (v16 / label~e.21)
+                   :H (v17 / label
+                           :A (v25 / label~e.23)
+                           :S (v26 / label~e.26)
+                           :T (v27 / label
+                                   :R (v32 / label~e.30)
+                                   :C (v30 / label
+                                           :C (v33 / label~e.31)
+                                           :N (v34 / label~e.32)
+                                           :C (v35 / label~e.33))))
+                   :L (v18 / label~e.27)
+                   :H (v19 / label
+                           :D (v28 / label~e.28)
+                           :S (v29 / label~e.29)
+                           :A v25
+                           :T v30))
+           :A (v12 / label
+                   :R (v20 / label~e.14)
+                   :E (v21 / label
+                           :A (v22 / label~e.16)
+                           :S (v31 / label~e.15))
+                   :C v22)))

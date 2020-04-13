@@ -1,67 +1,68 @@
 # ::id 606011
 # ::tok The most successful single of McCartney 's solo career , it achieved double the sales of the previous record holder , " She Loves You " , and went on to sell 2.5 million copies and hold the UK sales record until the 1984 charity single , " Do They Know It 's Christmas ? " .
-# ::alignments 0-1.1.3.1 1-1.1.3.2.1 2-1.1.3.2.2 3-1.1.3.3 4-1.1.3.4.1 5-1.1.3.4.2.1 6-1.1.3.4.2.2 7-1.1.3.4.3.1 8-1.1.3.4.3.2 10-1.1.1 11-1.2.2 12-1.2.3.1 13-1.2.3.2 14-1.2.3.3 15-1.2.3.4.1 16-1.2.3.4.2 17-1.2.3.4.3.1 18-1.2.3.4.3.2 19-1.2.3.4.3.3 22-1.2.3.4.4 23-1.2.3.4.4 24-1.2.3.4.4 27-1.3 28-1.4.1.1.1 29-1.4.1.1.2 31-1.4.1.2 32-1.4.3.1 33-1.4.3.1 34-1.4.3.2 35-1.5 36-1.6.1 37-1.6.2.1 38-1.6.2.2 39-1.6.2.3 40-1.6.2.4 41-1.7 42-1.8.2.1 43-1.8.2.2 44-1.8.2.3.1 45-1.8.2.3.2 48-1.8.2.4 49-1.8.2.4 50-1.8.2.4 51-1.8.2.4 52-1.8.2.4 53-1.8.2.4
+# ::alignments 1-1.1.3.2.2 2-1.1.3.2.3 3-1.1.3.3 4-1.1.3.4.1 5-1.1.3.4.2.1 6-1.1.3.4.2.2 7-1.1.3.4.3 8-1.1.3.4.4 10-1.1.1 11-1.2.2 12-1.2.3 14-1.4.2 15-1.3 17-1.4.1.2.1 18-1.4.1.2.2 19-1.4.1.2.3 22-1.4.1.3 23-1.4.1.3 24-1.4.1.3 27-1.5 28-1.6.1 29-1.6.1 31-1.6.3 32-1.6.4.1 33-1.6.4.1 34-1.6.4.2 35-1.7 36-1.8.1 38-1.8.2.2.1 39-1.8.2.2.2 40-1.10.3 41-1.9 42-1.10.1.1.1 43-1.10.1.1.2.3 44-1.10.1.1.3.1 45-1.10.1.1.4 48-1.10.1.2 49-1.10.1.2 50-1.10.1.2 51-1.10.1.2 52-1.10.1.2 53-1.10.1.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :A (v10 / label~e.10)
-           :S (v11 / label)
-           :A (v12 / label
-                   :E (v21 / label~e.0)
-                   :E (v22 / label
-                           :E (v41 / label~e.1)
-                           :C (v42 / label~e.2))
-                   :C (v23 / label~e.3)
-                   :E (v24 / label
-                           :R (v43 / label~e.4)
-                           :A (v44 / label
-                                   :C (v54 / label~e.5)
-                                   :R (v55 / label~e.6))
-                           :P (v45 / label
-                                   :E (v56 / label~e.7)
-                                   :C (v57 / label~e.8)))))
-    :H (v3 / label
-           :A v10
-           :P (v13 / label~e.11)
+           :A (v12 / label~e.10)
+           :S (v13 / label)
            :A (v14 / label
-                   :E (v25 / label~e.12)
-                   :E (v26 / label~e.13)
-                   :C (v27 / label~e.14)
-                   :E (v28 / label
-                           :R (v46 / label~e.15)
-                           :E (v47 / label~e.16)
-                           :E (v48 / label
-                                   :E (v58 / label~e.17)
-                                   :E (v59 / label~e.18)
-                                   :C (v60 / label~e.19))
-                           :C (v49 / label~e.22,23,24))))
-    :L (v4 / label~e.27)
-    :H (v5 / label
-           :P (v15 / label
+                   :E (v27 / label
+                           :A (v28 / label~e.3)
+                           :D (v37 / label~e.1)
+                           :S (v38 / label~e.2))
+                   :C v28
                    :E (v29 / label
-                           :C (v50 / label~e.28)
-                           :E (v51 / label~e.29))
-                   :C (v30 / label~e.31))
-           :A (v16 / label
-                   :E (v31 / label~e.32,33)
-                   :C (v32 / label~e.34))
-           :A v10)
-    :L (v6 / label~e.35)
-    :H (v7 / label
-           :P (v17 / label~e.36)
+                           :R (v39 / label~e.4)
+                           :A (v40 / label
+                                   :C (v52 / label~e.5)
+                                   :R (v53 / label~e.6))
+                           :A (v41 / label~e.7)
+                           :P (v42 / label~e.8))))
+    :H (v3 / label
+           :A v12
+           :D (v15 / label~e.11)
+           :D (v16 / label~e.12)
+           :P (v17 / label
+                   :C (v19 / label~e.14)))
+    :L (v4 / label~e.15)
+    :H (v5 / label
            :A (v18 / label
-                   :E (v33 / label~e.37)
-                   :E (v34 / label~e.38)
-                   :E (v35 / label~e.39)
-                   :C (v36 / label~e.40))
-           :A v10)
-    :L (v8 / label~e.41)
+                   :E (v30 / label
+                           :D (v43 / label~e.17)
+                           :A (v44 / label~e.18)
+                           :A (v45 / label~e.19))
+                   :C (v31 / label~e.22,23,24))
+           :P v19)
+    :L (v6 / label~e.27)
+    :H (v7 / label
+           :D (v20 / label~e.28,29)
+           :P (v21 / label~e.31)
+           :A (v22 / label
+                   :Q (v32 / label~e.32,33)
+                   :C (v33 / label~e.34))
+           :A v12)
+    :L (v8 / label~e.35)
     :H (v9 / label
-           :P (v19 / label)
-           :A (v20 / label
-                   :E (v37 / label~e.42)
-                   :E (v38 / label~e.43)
-                   :E (v39 / label
-                           :E (v52 / label~e.44)
-                           :C (v53 / label~e.45))
-                   :C (v40 / label~e.48,49,50,51,52,53))))
+           :P (v23 / label~e.36)
+           :A (v24 / label
+                   :E (v34 / label
+                           :A (v46 / label~e.38)
+                           :P (v47 / label~e.39))
+                   :C (v26 / label~e.40))
+           :A v12)
+    :L (v10 / label~e.41)
+    :H (v11 / label
+            :A (v25 / label
+                    :E (v35 / label
+                            :E (v48 / label~e.42)
+                            :E (v49 / label
+                                    :A (v51 / label~e.45)
+                                    :P (v54 / label)
+                                    :T (v55 / label~e.43))
+                            :E (v50 / label
+                                    :S (v56 / label~e.44))
+                            :C v51)
+                    :C (v36 / label~e.48,49,50,51,52,53))
+            :P v23
+            :A v26))
