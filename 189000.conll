@@ -2,13 +2,12 @@
 # sent_id = 189000
 1	Sorkin	_	Word	Word	_	4	A	_	_
 1	Sorkin	_	Word	Word	_	6	A*	_	_
-2	got	_	Word	Word	_	4	D	_	_
-3	the	_	Word	Word	_	4	E	_	_
+2	got	_	Word	Word	_	4	F	_	_
+3	the	_	Word	Word	_	4	F	_	_
 4	inspiration	_	Word	Word	_	0	H	_	_
-5	to	_	Word	Word	_	6	F	_	_
+5	to	_	Word	Word	_	6	R	_	_
 6	write	_	Word	Word	_	4	A	_	_
 7	his	_	Word	Word	_	9	E	_	_
-7	his	_	Word	Word	_	23	A*	_	_
 8	next	_	Word	Word	_	9	E	_	_
 9	play	_	Word	Word	_	13	E	_	_
 10	,	_	Punctuation	Punctuation	_	13	U	_	_
@@ -23,14 +22,14 @@
 19	,	_	Punctuation	Punctuation	_	4	U	_	_
 20	from	_	Word	Word	_	23	R	_	_
 21	a	_	Word	Word	_	23	E	_	_
-22	phone	_	Word	Word	_	23	E	_	_
+22	phone	_	Word	Word	_	23	A	_	_
 23	conversation	_	Word	Word	_	4	A	_	_
 24	with	_	Word	Word	_	27	R	_	_
-25	his	_	Word	Word	_	27	E	_	_
+25	his	_	Word	Word	_	26	A	_	_
 26	sister	_	Word	Word	_	27	E	_	_
 27	Deborah	_	Word	Word	_	23	A	_	_
 28	,	_	Punctuation	Punctuation	_	27	U	_	_
-29	who	_	Word	Word	_	31	F	_	_
+29	who	_	Word	Word	_	31	R	_	_
 30	had	_	Word	Word	_	31	F	_	_
 31	graduated	_	Word	Word	_	27	E	_	_
 32	from	_	Word	Word	_	34	R	_	_
@@ -39,14 +38,14 @@
 35	Law	_	Word	Word	_	34	E	_	_
 36	School	_	Word	Word	_	35	E	_	_
 37	and	_	Word	Word	_	31	L	_	_
-38	signed	_	Word	Word	_	39	D	_	_
-39	up	_	Word	Word	_	31	H	_	_
+38	signed	_	Word	Word	_	31	H	_	_
+39	up	_	Word	Word	_	38	Terminal	_	_
 40	for	_	Word	Word	_	45	R	_	_
 41	a	_	Word	Word	_	45	E	_	_
-42	3	_	Word	Word	_	44	E	_	_
+42	3	_	Word	Word	_	44	Q	_	_
 43	-	_	Punctuation	Punctuation	_	44	U	_	_
-44	year	_	Word	Word	_	45	E	_	_
-45	stint	_	Word	Word	_	39	A	_	_
+44	year	_	Word	Word	_	45	T	_	_
+45	stint	_	Word	Word	_	38	A	_	_
 46	with	_	Word	Word	_	54	R	_	_
 47	the	_	Word	Word	_	54	E	_	_
 48	U.S.	_	Word	Word	_	49	E	_	_
@@ -55,6 +54,6 @@
 51	Advocate	_	Word	Word	_	52	E	_	_
 52	General	_	Word	Word	_	54	E	_	_
 53	's	_	Word	Word	_	52	R	_	_
-54	Corps	_	Word	Word	_	45	E	_	_
+54	Corps	_	Word	Word	_	45	A	_	_
 55	.	_	Punctuation	Punctuation	_	54	U	_	_
 

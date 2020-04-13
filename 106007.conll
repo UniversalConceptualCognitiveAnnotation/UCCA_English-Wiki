@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 106007
 1	That	_	Word	Word	_	2	E	_	_
-2	year	_	Word	Word	_	6	D	_	_
+2	year	_	Word	Word	_	6	T	_	_
 3	,	_	Punctuation	Punctuation	_	6	U	_	_
 4	she	_	Word	Word	_	6	A	_	_
 5	also	_	Word	Word	_	6	D	_	_
@@ -21,9 +21,9 @@
 19	Baby	_	Word	Word	_	16	Terminal	_	_
 20	?	_	Punctuation	Punctuation	_	16	U	_	_
 21	"	_	Punctuation	Punctuation	_	16	U	_	_
-22	by	_	Word	Word	_	24	R	_	_
+22	by	_	Word	Word	_	16	E	_	_
 23	the	_	Word	Word	_	24	E	_	_
-24	Rolling	_	Word	Word	_	16	A	_	_
+24	Rolling	_	Word	Word	_	22	A	_	_
 25	Stones	_	Word	Word	_	24	Terminal	_	_
 26	.	_	Punctuation	Punctuation	_	24	U	_	_
 

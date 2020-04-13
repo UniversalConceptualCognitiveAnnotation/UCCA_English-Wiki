@@ -1,6 +1,7 @@
 # format = ucca
 # sent_id = 454009
 1	ABC	_	Word	Word	_	3	A	_	_
+1	ABC	_	Word	Word	_	6	A*	_	_
 1	ABC	_	Word	Word	_	9	A*	_	_
 2	originally	_	Word	Word	_	3	D	_	_
 3	expected	_	Word	Word	_	0	H	_	_
@@ -39,7 +40,7 @@
 35	it	_	Word	Word	_	36	A	_	_
 36	remained	_	Word	Word	_	3	H	_	_
 37	in	_	Word	Word	_	39	R	_	_
-38	third	_	Word	Word	_	39	E	_	_
+38	third	_	Word	Word	_	39	Q	_	_
 39	place	_	Word	Word	_	36	A	_	_
 40	.	_	Punctuation	Punctuation	_	39	U	_	_
 

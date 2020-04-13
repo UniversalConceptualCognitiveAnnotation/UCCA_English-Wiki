@@ -1,24 +1,24 @@
 # format = ucca
 # sent_id = 228011
 1	In	_	Word	Word	_	3	R	_	_
-2	the	_	Word	Word	_	3	E	_	_
+2	the	_	Word	Word	_	3	F	_	_
 3	film	_	Word	Word	_	6	A	_	_
 4	,	_	Punctuation	Punctuation	_	6	U	_	_
 5	he	_	Word	Word	_	6	A	_	_
 6	plays	_	Word	Word	_	0	H	_	_
-7	Mr	_	Word	Word	_	6	A	_	_
-8	.	_	Punctuation	Punctuation	_	7	U	_	_
-9	Han	_	Word	Word	_	7	Terminal	_	_
-10	,	_	Punctuation	Punctuation	_	7	U	_	_
-11	a	_	Word	Word	_	14	E	_	_
-12	kung	_	Word	Word	_	14	E	_	_
+7	Mr	_	Word	Word	_	9	E	_	_
+8	.	_	Punctuation	Punctuation	_	9	U	_	_
+9	Han	_	Word	Word	_	6	A	_	_
+10	,	_	Punctuation	Punctuation	_	9	U	_	_
+11	a	_	Word	Word	_	14	F	_	_
+12	kung	_	Word	Word	_	14	A	_	_
 13	fu	_	Word	Word	_	12	Terminal	_	_
-14	master	_	Word	Word	_	7	E	_	_
+14	master	_	Word	Word	_	9	E	_	_
 15	and	_	Word	Word	_	14	N	_	_
-16	maintenance	_	Word	Word	_	17	E	_	_
-17	man	_	Word	Word	_	14	C	_	_
+16	maintenance	_	Word	Word	_	14	C	_	_
+17	man	_	Word	Word	_	16	E	_	_
 18	who	_	Word	Word	_	19	R	_	_
-19	teaches	_	Word	Word	_	7	E	_	_
+19	teaches	_	Word	Word	_	9	E	_	_
 20	Jaden	_	Word	Word	_	23	E	_	_
 21	Smith	_	Word	Word	_	20	Terminal	_	_
 22	's	_	Word	Word	_	20	R	_	_
@@ -31,11 +31,11 @@
 29	fu	_	Word	Word	_	27	Terminal	_	_
 30	so	_	Word	Word	_	19	L	_	_
 31	he	_	Word	Word	_	33	A	_	_
-32	can	_	Word	Word	_	33	F	_	_
+32	can	_	Word	Word	_	33	D	_	_
 33	defend	_	Word	Word	_	19	H	_	_
-34	himself	_	Word	Word	_	33	D	_	_
-35	from	_	Word	Word	_	37	R	_	_
-36	school	_	Word	Word	_	37	E	_	_
-37	bullies	_	Word	Word	_	33	A	_	_
-38	.	_	Punctuation	Punctuation	_	37	U	_	_
+34	himself	_	Word	Word	_	33	Terminal	_	_
+35	from	_	Word	Word	_	36	R	_	_
+36	school	_	Word	Word	_	33	A	_	_
+37	bullies	_	Word	Word	_	36	A	_	_
+38	.	_	Punctuation	Punctuation	_	36	U	_	_
 

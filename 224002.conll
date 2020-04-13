@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 224002
 1	Lo	_	Word	Word	_	3	A	_	_
-1	Lo	_	Word	Word	_	19	A*	_	_
 1	Lo	_	Word	Word	_	21	A*	_	_
 2	had	_	Word	Word	_	3	F	_	_
 3	seen	_	Word	Word	_	0	H	_	_
@@ -9,10 +8,11 @@
 5	's	_	Word	Word	_	4	R	_	_
 6	performance	_	Word	Word	_	3	A	_	_
 7	in	_	Word	Word	_	12	R	_	_
-8	the	_	Word	Word	_	12	E	_	_
-9	John	_	Word	Word	_	11	E	_	_
+8	the	_	Word	Word	_	12	F	_	_
+9	John	_	Word	Word	_	12	E	_	_
 10	Woo	_	Word	Word	_	9	Terminal	_	_
 11	film	_	Word	Word	_	12	E	_	_
+11	film	_	Word	Word	_	9	A*	_	_
 12	Hand	_	Word	Word	_	3	A	_	_
 13	of	_	Word	Word	_	12	Terminal	_	_
 14	Death	_	Word	Word	_	12	Terminal	_	_
@@ -20,15 +20,15 @@
 16	1976	_	Word	Word	_	12	E	_	_
 17	)	_	Punctuation	Punctuation	_	3	U	_	_
 18	and	_	Word	Word	_	3	L	_	_
-19	planned	_	Word	Word	_	3	H	_	_
+19	planned	_	Word	Word	_	21	D	_	_
 20	to	_	Word	Word	_	21	F	_	_
-21	model	_	Word	Word	_	19	A	_	_
+21	model	_	Word	Word	_	3	H	_	_
 22	him	_	Word	Word	_	21	A	_	_
 23	after	_	Word	Word	_	24	R	_	_
 24	Bruce	_	Word	Word	_	21	A	_	_
 25	Lee	_	Word	Word	_	24	Terminal	_	_
 26	with	_	Word	Word	_	29	R	_	_
-27	the	_	Word	Word	_	29	E	_	_
+27	the	_	Word	Word	_	29	F	_	_
 28	film	_	Word	Word	_	29	E	_	_
 29	New	_	Word	Word	_	21	A	_	_
 30	Fist	_	Word	Word	_	29	Terminal	_	_

@@ -1,31 +1,32 @@
 # format = ucca
 # sent_id = 191003
-1	When	_	Word	Word	_	8	L	_	_
-2	production	_	Word	Word	_	8	A	_	_
+1	When	_	Word	Word	_	2	L	_	_
+2	production	_	Word	Word	_	0	H	_	_
 3	on	_	Word	Word	_	4	R	_	_
 4	A	_	Word	Word	_	2	A	_	_
 5	Few	_	Word	Word	_	4	Terminal	_	_
 6	Good	_	Word	Word	_	4	Terminal	_	_
 7	Men	_	Word	Word	_	4	Terminal	_	_
-8	wrapped	_	Word	Word	_	0	H	_	_
+8	wrapped	_	Word	Word	_	2	D	_	_
 9	up	_	Word	Word	_	8	Terminal	_	_
-10	,	_	Punctuation	Punctuation	_	8	U	_	_
+10	,	_	Punctuation	Punctuation	_	2	U	_	_
 11	Sorkin	_	Word	Word	_	12	A	_	_
-12	took	_	Word	Word	_	8	H	_	_
+11	Sorkin	_	Word	Word	_	16	A*	_	_
+12	took	_	Word	Word	_	2	H	_	_
 13	over	_	Word	Word	_	12	Terminal	_	_
-14	and	_	Word	Word	_	8	L	_	_
+14	and	_	Word	Word	_	2	L	_	_
 15	continued	_	Word	Word	_	16	D	_	_
-16	working	_	Word	Word	_	8	H	_	_
+16	working	_	Word	Word	_	2	H	_	_
 17	on	_	Word	Word	_	19	R	_	_
 18	the	_	Word	Word	_	19	E	_	_
 19	script	_	Word	Word	_	16	A	_	_
 20	for	_	Word	Word	_	21	R	_	_
 21	Malice	_	Word	Word	_	19	E	_	_
 22	through	_	Word	Word	_	23	E	_	_
-23	until	_	Word	Word	_	8	L	_	_
+23	until	_	Word	Word	_	2	L	_	_
 24	the	_	Word	Word	_	27	E	_	_
 25	final	_	Word	Word	_	27	E	_	_
 26	shooting	_	Word	Word	_	27	E	_	_
-27	script	_	Word	Word	_	8	H	_	_
+27	script	_	Word	Word	_	2	H	_	_
 28	.	_	Punctuation	Punctuation	_	27	U	_	_
 

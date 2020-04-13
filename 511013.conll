@@ -1,13 +1,13 @@
 # format = ucca
 # sent_id = 511013
 1	The	_	Word	Word	_	2	E	_	_
-2	announcement	_	Word	Word	_	4	A	_	_
-3	was	_	Word	Word	_	4	F	_	_
-4	accompanied	_	Word	Word	_	0	H	_	_
+2	announcement	_	Word	Word	_	0	H	_	_
+3	was	_	Word	Word	_	2	F	_	_
+4	accompanied	_	Word	Word	_	2	D	_	_
 5	by	_	Word	Word	_	8	R	_	_
 6	the	_	Word	Word	_	8	E	_	_
 7	immediate	_	Word	Word	_	8	D	_	_
-8	release	_	Word	Word	_	4	A	_	_
+8	release	_	Word	Word	_	2	A	_	_
 9	of	_	Word	Word	_	14	R	_	_
 10	a	_	Word	Word	_	11	E	_	_
 11	single	_	Word	Word	_	14	E	_	_
@@ -20,18 +20,20 @@
 18	?	_	Punctuation	Punctuation	_	14	U	_	_
 19	"	_	Punctuation	Punctuation	_	14	U	_	_
 20	,	_	Punctuation	Punctuation	_	14	U	_	_
-21	written	_	Word	Word	_	14	E	_	_
-22	and	_	Word	Word	_	21	N	_	_
-23	recorded	_	Word	Word	_	21	C	_	_
+21	written	_	Word	Word	_	30	H	_	_
+22	and	_	Word	Word	_	30	L	_	_
+23	recorded	_	Word	Word	_	30	H	_	_
 24	by	_	Word	Word	_	25	R	_	_
 25	Bowie	_	Word	Word	_	21	A	_	_
+25	Bowie	_	Word	Word	_	23	A*	_	_
 26	in	_	Word	Word	_	27	R	_	_
 27	New	_	Word	Word	_	21	A	_	_
+27	New	_	Word	Word	_	23	A*	_	_
 28	York	_	Word	Word	_	27	Terminal	_	_
-29	and	_	Word	Word	_	21	L	_	_
-30	produced	_	Word	Word	_	21	H	_	_
+29	and	_	Word	Word	_	30	L	_	_
+30	produced	_	Word	Word	_	14	E	_	_
 31	by	_	Word	Word	_	34	R	_	_
-32	longtime	_	Word	Word	_	33	E	_	_
+32	longtime	_	Word	Word	_	33	T	_	_
 33	collaborator	_	Word	Word	_	34	E	_	_
 34	Tony	_	Word	Word	_	30	A	_	_
 35	Visconti	_	Word	Word	_	34	Terminal	_	_

@@ -1,13 +1,13 @@
 # format = ucca
 # sent_id = 182004
 1	In	_	Word	Word	_	2	R	_	_
-2	1937	_	Word	Word	_	7	D	_	_
+2	1937	_	Word	Word	_	7	T	_	_
 3	,	_	Punctuation	Punctuation	_	7	U	_	_
 4	she	_	Word	Word	_	7	A	_	_
 5	attempted	_	Word	Word	_	7	D	_	_
 6	to	_	Word	Word	_	7	F	_	_
 7	free	_	Word	Word	_	0	H	_	_
-8	herself	_	Word	Word	_	7	D	_	_
+8	herself	_	Word	Word	_	7	Terminal	_	_
 9	from	_	Word	Word	_	11	R	_	_
 10	her	_	Word	Word	_	11	E	_	_
 11	contract	_	Word	Word	_	7	A	_	_
@@ -15,8 +15,8 @@
 13	although	_	Word	Word	_	7	L	_	_
 14	she	_	Word	Word	_	15	A	_	_
 15	lost	_	Word	Word	_	7	H	_	_
-16	a	_	Word	Word	_	21	E	_	_
-17	well	_	Word	Word	_	19	E	_	_
+16	a	_	Word	Word	_	21	F	_	_
+17	well	_	Word	Word	_	19	D	_	_
 18	-	_	Punctuation	Punctuation	_	19	U	_	_
 19	publicized	_	Word	Word	_	21	E	_	_
 20	legal	_	Word	Word	_	21	E	_	_
@@ -24,15 +24,15 @@
 22	,	_	Punctuation	Punctuation	_	7	U	_	_
 23	it	_	Word	Word	_	24	A	_	_
 24	marked	_	Word	Word	_	7	H	_	_
-25	the	_	Word	Word	_	26	E	_	_
-26	beginning	_	Word	Word	_	24	A	_	_
-27	of	_	Word	Word	_	31	R	_	_
-28	the	_	Word	Word	_	31	E	_	_
-29	most	_	Word	Word	_	31	E	_	_
-30	successful	_	Word	Word	_	31	E	_	_
-31	period	_	Word	Word	_	26	E	_	_
+25	the	_	Word	Word	_	34	F	_	_
+26	beginning	_	Word	Word	_	34	D	_	_
+27	of	_	Word	Word	_	34	R	_	_
+28	the	_	Word	Word	_	34	F	_	_
+29	most	_	Word	Word	_	30	E	_	_
+30	successful	_	Word	Word	_	34	D	_	_
+31	period	_	Word	Word	_	34	D	_	_
 32	of	_	Word	Word	_	34	R	_	_
-33	her	_	Word	Word	_	34	E	_	_
-34	career	_	Word	Word	_	31	E	_	_
+33	her	_	Word	Word	_	34	A	_	_
+34	career	_	Word	Word	_	24	A	_	_
 35	.	_	Punctuation	Punctuation	_	34	U	_	_
 

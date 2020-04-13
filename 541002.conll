@@ -2,16 +2,15 @@
 # sent_id = 541002
 1	Hollywood	_	Word	Word	_	5	E	_	_
 2	's	_	Word	Word	_	1	R	_	_
-3	five	_	Word	Word	_	5	E	_	_
+3	five	_	Word	Word	_	5	Q	_	_
 4	major	_	Word	Word	_	5	E	_	_
 5	studios	_	Word	Word	_	20	A	_	_
-5	studios	_	Word	Word	_	35	A*	_	_
 6	,	_	Punctuation	Punctuation	_	5	U	_	_
-7	which	_	Word	Word	_	8	F	_	_
+7	which	_	Word	Word	_	8	R	_	_
 8	controlled	_	Word	Word	_	5	E	_	_
-9	most	_	Word	Word	_	15	E	_	_
-10	of	_	Word	Word	_	9	R	_	_
-11	the	_	Word	Word	_	15	E	_	_
+9	most	_	Word	Word	_	15	Q	_	_
+10	of	_	Word	Word	_	15	R	_	_
+11	the	_	Word	Word	_	15	F	_	_
 12	nation	_	Word	Word	_	15	E	_	_
 13	's	_	Word	Word	_	12	R	_	_
 14	movie	_	Word	Word	_	15	E	_	_
@@ -21,7 +20,7 @@
 18	attempted	_	Word	Word	_	20	D	_	_
 19	to	_	Word	Word	_	20	F	_	_
 20	block	_	Word	Word	_	0	H	_	_
-21	the	_	Word	Word	_	22	E	_	_
+21	the	_	Word	Word	_	22	F	_	_
 22	growth	_	Word	Word	_	20	A	_	_
 23	of	_	Word	Word	_	26	R	_	_
 24	"	_	Punctuation	Punctuation	_	26	U	_	_
@@ -30,7 +29,7 @@
 27	"	_	Punctuation	Punctuation	_	20	U	_	_
 28	.	_	Punctuation	Punctuation	_	20	U	_	_
 29	In	_	Word	Word	_	31	R	_	_
-30	the	_	Word	Word	_	31	E	_	_
+30	the	_	Word	Word	_	31	F	_	_
 31	face	_	Word	Word	_	20	L	_	_
 32	of	_	Word	Word	_	31	R	_	_
 33	such	_	Word	Word	_	35	E	_	_
@@ -38,15 +37,15 @@
 35	opposition	_	Word	Word	_	20	H	_	_
 36	,	_	Punctuation	Punctuation	_	20	U	_	_
 37	Warner	_	Word	Word	_	40	A	_	_
-38	Bros	_	Word	Word	_	37	E	_	_
+38	Bros	_	Word	Word	_	37	Terminal	_	_
 39	.	_	Punctuation	Punctuation	_	40	U	_	_
 40	produced	_	Word	Word	_	20	H	_	_
-41	12	_	Word	Word	_	43	E	_	_
+41	12	_	Word	Word	_	43	Q	_	_
 42	"	_	Punctuation	Punctuation	_	43	U	_	_
 43	talkies	_	Word	Word	_	40	A	_	_
 44	"	_	Punctuation	Punctuation	_	40	U	_	_
 45	in	_	Word	Word	_	46	R	_	_
-46	1928	_	Word	Word	_	40	D	_	_
+46	1928	_	Word	Word	_	40	T	_	_
 47	alone	_	Word	Word	_	46	E	_	_
 48	.	_	Punctuation	Punctuation	_	46	U	_	_
 

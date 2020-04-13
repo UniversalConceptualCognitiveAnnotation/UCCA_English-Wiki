@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 558022
-1	House	_	Word	Word	_	2	E	_	_
+1	House	_	Word	Word	_	2	A	_	_
 2	drummer	_	Word	Word	_	3	E	_	_
 3	D.J	_	Word	Word	_	0	C	_	_
 3	D.J	_	Word	Word	_	11	A*	_	_
@@ -18,11 +18,12 @@
 15	with	_	Word	Word	_	17	R	_	_
 16	accented	_	Word	Word	_	17	E	_	_
 17	beats	_	Word	Word	_	11	A	_	_
-18	that	_	Word	Word	_	22	F	_	_
-19	he	_	Word	Word	_	22	A	_	_
-20	had	_	Word	Word	_	22	F	_	_
-21	mastered	_	Word	Word	_	22	D	_	_
-22	playing	_	Word	Word	_	17	E	_	_
+18	that	_	Word	Word	_	21	R	_	_
+19	he	_	Word	Word	_	21	A	_	_
+19	he	_	Word	Word	_	22	A*	_	_
+20	had	_	Word	Word	_	21	F	_	_
+21	mastered	_	Word	Word	_	17	E	_	_
+22	playing	_	Word	Word	_	21	A	_	_
 23	in	_	Word	Word	_	25	R	_	_
 24	strip	_	Word	Word	_	25	E	_	_
 25	clubs	_	Word	Word	_	22	A	_	_

@@ -1,10 +1,10 @@
 # format = ucca
 # sent_id = 657004
 1	During	_	Word	Word	_	3	L	_	_
-2	the	_	Word	Word	_	3	E	_	_
+2	the	_	Word	Word	_	3	F	_	_
 3	recording	_	Word	Word	_	0	H	_	_
-4	of	_	Word	Word	_	3	R	_	_
-5	the	_	Word	Word	_	6	E	_	_
+4	of	_	Word	Word	_	6	R	_	_
+5	the	_	Word	Word	_	6	F	_	_
 6	album	_	Word	Word	_	3	A	_	_
 7	,	_	Punctuation	Punctuation	_	3	U	_	_
 8	Carey	_	Word	Word	_	11	A	_	_
@@ -15,7 +15,7 @@
 12	from	_	Word	Word	_	19	R	_	_
 13	her	_	Word	Word	_	19	E	_	_
 14	R	_	Word	Word	_	19	E	_	_
-15	&	_	Punctuation	Punctuation	_	14	U	_	_
+15	&	_	Word	Word	_	14	Terminal	_	_
 16	B	_	Word	Word	_	14	Terminal	_	_
 17	and	_	Word	Word	_	14	N	_	_
 18	pop	_	Word	Word	_	14	C	_	_

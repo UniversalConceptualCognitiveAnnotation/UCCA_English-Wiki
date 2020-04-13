@@ -1,16 +1,19 @@
 # format = ucca
 # sent_id = 490002
 1	In	_	Word	Word	_	2	R	_	_
-2	2009	_	Word	Word	_	5	D	_	_
+2	2009	_	Word	Word	_	5	T	_	_
 3	,	_	Punctuation	Punctuation	_	5	U	_	_
 4	Bana	_	Word	Word	_	5	A	_	_
+4	Bana	_	Word	Word	_	9	A*	_	_
+4	Bana	_	Word	Word	_	11	A*	_	_
 5	released	_	Word	Word	_	0	H	_	_
 6	a	_	Word	Word	_	15	E	_	_
-7	self	_	Word	Word	_	9	E	_	_
+7	self	_	Word	Word	_	9	D	_	_
+7	self	_	Word	Word	_	11	D*	_	_
 8	-	_	Punctuation	Punctuation	_	9	U	_	_
 9	produced	_	Word	Word	_	15	E	_	_
-10	and	_	Word	Word	_	9	N	_	_
-11	directed	_	Word	Word	_	9	C	_	_
+10	and	_	Word	Word	_	9	L	_	_
+11	directed	_	Word	Word	_	9	H	_	_
 12	documentary	_	Word	Word	_	14	E	_	_
 13	-	_	Punctuation	Punctuation	_	14	U	_	_
 14	style	_	Word	Word	_	15	E	_	_

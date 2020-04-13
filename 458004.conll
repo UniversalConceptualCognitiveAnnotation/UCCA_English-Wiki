@@ -1,6 +1,7 @@
 # format = ucca
 # sent_id = 458004
 1	Jennings	_	Word	Word	_	4	A	_	_
+1	Jennings	_	Word	Word	_	8	A*	_	_
 2	was	_	Word	Word	_	4	F	_	_
 3	also	_	Word	Word	_	4	D	_	_
 4	credited	_	Word	Word	_	0	H	_	_
@@ -17,8 +18,8 @@
 15	story	_	Word	Word	_	8	A	_	_
 16	,	_	Punctuation	Punctuation	_	15	U	_	_
 17	the	_	Word	Word	_	20	E	_	_
-18	1995	_	Word	Word	_	20	E	_	_
-19	Quebec	_	Word	Word	_	20	E	_	_
+18	1995	_	Word	Word	_	20	T	_	_
+19	Quebec	_	Word	Word	_	20	A	_	_
 20	referendum	_	Word	Word	_	15	E	_	_
 21	.	_	Punctuation	Punctuation	_	20	U	_	_
 

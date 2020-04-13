@@ -1,6 +1,9 @@
 # format = ucca
 # sent_id = 585000
-1	John	_	Word	Word	_	15	A	_	_
+1	John	_	Word	Word	_	0	C	_	_
+1	John	_	Word	Word	_	9	A*	_	_
+1	John	_	Word	Word	_	21	A*	_	_
+1	John	_	Word	Word	_	24	A*	_	_
 2	Christopher	_	Word	Word	_	1	Terminal	_	_
 3	"	_	Punctuation	Punctuation	_	1	U	_	_
 4	Johnny	_	Word	Word	_	1	Terminal	_	_
@@ -9,20 +12,20 @@
 7	II	_	Word	Word	_	1	Terminal	_	_
 8	(	_	Punctuation	Punctuation	_	1	U	_	_
 9	born	_	Word	Word	_	1	E	_	_
-10	June	_	Word	Word	_	9	D	_	_
-11	9	_	Word	Word	_	10	Terminal	_	_
+10	June	_	Word	Word	_	9	T	_	_
+11	9	_	Word	Word	_	10	C	_	_
 12	,	_	Punctuation	Punctuation	_	10	U	_	_
-13	1963	_	Word	Word	_	10	Terminal	_	_
-14	)	_	Punctuation	Punctuation	_	15	U	_	_
-15	is	_	Word	Word	_	0	H	_	_
-16	an	_	Word	Word	_	18	E	_	_
-17	American	_	Word	Word	_	18	E	_	_
-18	actor	_	Word	Word	_	15	A	_	_
+13	1963	_	Word	Word	_	10	C	_	_
+14	)	_	Punctuation	Punctuation	_	18	U	_	_
+15	is	_	Word	Word	_	18	F	_	_
+16	an	_	Word	Word	_	18	F	_	_
+17	American	_	Word	Word	_	18	H	_	_
+18	actor	_	Word	Word	_	0	H	_	_
 19	,	_	Punctuation	Punctuation	_	18	U	_	_
-20	film	_	Word	Word	_	21	E	_	_
-21	producer	_	Word	Word	_	18	C	_	_
+20	film	_	Word	Word	_	21	A	_	_
+21	producer	_	Word	Word	_	18	H	_	_
 22	,	_	Punctuation	Punctuation	_	18	U	_	_
-23	and	_	Word	Word	_	18	N	_	_
-24	musician	_	Word	Word	_	18	C	_	_
-25	.	_	Punctuation	Punctuation	_	18	U	_	_
+23	and	_	Word	Word	_	18	L	_	_
+24	musician	_	Word	Word	_	18	H	_	_
+25	.	_	Punctuation	Punctuation	_	24	U	_	_
 

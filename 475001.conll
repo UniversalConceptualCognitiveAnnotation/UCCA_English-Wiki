@@ -1,14 +1,14 @@
 # format = ucca
 # sent_id = 475001
-1	A	_	Word	Word	_	3	E	_	_
-2	few	_	Word	Word	_	3	E	_	_
-3	days	_	Word	Word	_	6	D	_	_
+1	A	_	Word	Word	_	3	F	_	_
+2	few	_	Word	Word	_	3	Q	_	_
+3	days	_	Word	Word	_	6	T	_	_
 4	later	_	Word	Word	_	3	R	_	_
 5	Johnson	_	Word	Word	_	6	A	_	_
 5	Johnson	_	Word	Word	_	10	A*	_	_
 5	Johnson	_	Word	Word	_	13	A*	_	_
 6	changed	_	Word	Word	_	0	H	_	_
-7	his	_	Word	Word	_	6	Terminal	_	_
+7	his	_	Word	Word	_	6	F	_	_
 8	mind	_	Word	Word	_	6	Terminal	_	_
 9	and	_	Word	Word	_	6	L	_	_
 10	retired	_	Word	Word	_	6	H	_	_
@@ -25,18 +25,18 @@
 21	my	_	Word	Word	_	22	E	_	_
 22	terms	_	Word	Word	_	18	D	_	_
 23	,	_	Punctuation	Punctuation	_	18	U	_	_
-24	something	_	Word	Word	_	28	F	_	_
+24	something	_	Word	Word	_	28	A	_	_
 25	I	_	Word	Word	_	28	A	_	_
 26	could	_	Word	Word	_	28	D	_	_
 27	n't	_	Word	Word	_	28	D	_	_
 28	say	_	Word	Word	_	18	H	_	_
 29	when	_	Word	Word	_	18	L	_	_
-30	I	_	Word	Word	_	31	A	_	_
-31	aborted	_	Word	Word	_	18	H	_	_
-32	a	_	Word	Word	_	33	E	_	_
-33	comeback	_	Word	Word	_	31	A	_	_
+30	I	_	Word	Word	_	33	A	_	_
+31	aborted	_	Word	Word	_	33	D	_	_
+32	a	_	Word	Word	_	33	F	_	_
+33	comeback	_	Word	Word	_	18	H	_	_
 34	in	_	Word	Word	_	35	R	_	_
-35	1992	_	Word	Word	_	31	D	_	_
+35	1992	_	Word	Word	_	33	T	_	_
 36	.	_	Punctuation	Punctuation	_	35	U	_	_
 37	"	_	Punctuation	Punctuation	_	35	U	_	_
 

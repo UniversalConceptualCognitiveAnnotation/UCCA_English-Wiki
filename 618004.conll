@@ -1,15 +1,15 @@
 # format = ucca
 # sent_id = 618004
-1	Also	_	Word	Word	_	3	R	_	_
+1	Also	_	Word	Word	_	3	E	_	_
 2	that	_	Word	Word	_	3	E	_	_
-3	year	_	Word	Word	_	7	D	_	_
+3	year	_	Word	Word	_	7	T	_	_
 4	,	_	Punctuation	Punctuation	_	7	U	_	_
 5	Swan	_	Word	Word	_	6	E	_	_
 6	Records	_	Word	Word	_	7	A	_	_
 7	released	_	Word	Word	_	0	H	_	_
 8	the	_	Word	Word	_	9	E	_	_
-9	group	_	Word	Word	_	13	E	_	_
-10	's	_	Word	Word	_	9	R	_	_
+9	group	_	Word	Word	_	10	A	_	_
+10	's	_	Word	Word	_	13	E	_	_
 11	UK	_	Word	Word	_	13	E	_	_
 12	Parlophone	_	Word	Word	_	13	E	_	_
 13	single	_	Word	Word	_	15	E	_	_
@@ -20,10 +20,10 @@
 18	"	_	Punctuation	Punctuation	_	15	U	_	_
 19	/	_	Punctuation	Punctuation	_	15	U	_	_
 20	"	_	Punctuation	Punctuation	_	15	U	_	_
-21	I	_	Word	Word	_	15	C	_	_
-22	'll	_	Word	Word	_	21	Terminal	_	_
-23	Get	_	Word	Word	_	21	Terminal	_	_
-24	You	_	Word	Word	_	21	Terminal	_	_
+21	I	_	Word	Word	_	15	Terminal	_	_
+22	'll	_	Word	Word	_	15	Terminal	_	_
+23	Get	_	Word	Word	_	15	Terminal	_	_
+24	You	_	Word	Word	_	15	Terminal	_	_
 25	"	_	Punctuation	Punctuation	_	7	U	_	_
 26	in	_	Word	Word	_	28	R	_	_
 27	the	_	Word	Word	_	28	E	_	_

@@ -4,14 +4,14 @@
 2	to	_	Word	Word	_	1	Terminal	_	_
 3	a	_	Word	Word	_	4	E	_	_
 4	negotiator	_	Word	Word	_	1	A	_	_
-5	for	_	Word	Word	_	4	R	_	_
-6	Holmes	_	Word	Word	_	4	E	_	_
+5	for	_	Word	Word	_	6	R	_	_
+6	Holmes	_	Word	Word	_	4	A	_	_
 7	à	_	Word	Word	_	6	Terminal	_	_
 8	Court	_	Word	Word	_	6	Terminal	_	_
 9	in	_	Word	Word	_	12	R	_	_
 10	the	_	Word	Word	_	12	E	_	_
-11	1984	_	Word	Word	_	12	E	_	_
-12	sale	_	Word	Word	_	4	E	_	_
+11	1984	_	Word	Word	_	12	T	_	_
+12	sale	_	Word	Word	_	4	A	_	_
 13	,	_	Punctuation	Punctuation	_	1	U	_	_
 14	"	_	Punctuation	Punctuation	_	1	U	_	_
 15	We	_	Word	Word	_	17	A	_	_
@@ -19,10 +19,10 @@
 17	given	_	Word	Word	_	1	A	_	_
 18	Paul	_	Word	Word	_	17	A	_	_
 19	McCartney	_	Word	Word	_	18	Terminal	_	_
-20	first	_	Word	Word	_	21	E	_	_
+20	first	_	Word	Word	_	21	D	_	_
 21	right	_	Word	Word	_	17	A	_	_
-22	of	_	Word	Word	_	21	R	_	_
-23	refusal	_	Word	Word	_	21	E	_	_
+22	of	_	Word	Word	_	23	R	_	_
+23	refusal	_	Word	Word	_	21	A	_	_
 24	but	_	Word	Word	_	17	L	_	_
 25	Paul	_	Word	Word	_	28	A	_	_
 26	did	_	Word	Word	_	28	F	_	_
@@ -31,7 +31,7 @@
 29	it	_	Word	Word	_	28	A	_	_
 30	at	_	Word	Word	_	32	R	_	_
 31	that	_	Word	Word	_	32	E	_	_
-32	time	_	Word	Word	_	28	D	_	_
+32	time	_	Word	Word	_	28	T	_	_
 33	.	_	Punctuation	Punctuation	_	32	U	_	_
 34	"	_	Punctuation	Punctuation	_	32	U	_	_
 

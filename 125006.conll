@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 125006
 1	She	_	Word	Word	_	3	A	_	_
-1	She	_	Word	Word	_	37	A*	_	_
 2	was	_	Word	Word	_	3	F	_	_
 3	released	_	Word	Word	_	0	H	_	_
 4	from	_	Word	Word	_	6	R	_	_
@@ -19,25 +18,26 @@
 15	,	_	Punctuation	Punctuation	_	3	U	_	_
 16	saying	_	Word	Word	_	3	H	_	_
 17	"	_	Punctuation	Punctuation	_	16	U	_	_
-18	She	_	Word	Word	_	21	A	_	_
-19	looks	_	Word	Word	_	21	G	_	_
+18	She	_	Word	Word	_	19	A	_	_
+19	looks	_	Word	Word	_	16	A	_	_
 20	a	_	Word	Word	_	21	F	_	_
-21	fright	_	Word	Word	_	16	A	_	_
-22	,	_	Punctuation	Punctuation	_	21	U	_	_
-23	her	_	Word	Word	_	24	E	_	_
-24	manner	_	Word	Word	_	26	A	_	_
-25	is	_	Word	Word	_	26	F	_	_
-26	objectionable	_	Word	Word	_	21	H	_	_
-27	,	_	Punctuation	Punctuation	_	21	U	_	_
-28	and	_	Word	Word	_	21	L	_	_
+21	fright	_	Word	Word	_	19	A	_	_
+22	,	_	Punctuation	Punctuation	_	19	U	_	_
+23	her	_	Word	Word	_	24	A	_	_
+24	manner	_	Word	Word	_	19	H	_	_
+25	is	_	Word	Word	_	24	F	_	_
+26	objectionable	_	Word	Word	_	24	D	_	_
+27	,	_	Punctuation	Punctuation	_	19	U	_	_
+28	and	_	Word	Word	_	19	L	_	_
 29	she	_	Word	Word	_	32	A	_	_
+29	she	_	Word	Word	_	37	A*	_	_
 30	has	_	Word	Word	_	32	F	_	_
 31	no	_	Word	Word	_	32	D	_	_
-32	talent	_	Word	Word	_	21	H	_	_
+32	talent	_	Word	Word	_	19	H	_	_
 33	"	_	Punctuation	Punctuation	_	3	U	_	_
 34	,	_	Punctuation	Punctuation	_	3	U	_	_
 35	but	_	Word	Word	_	3	L	_	_
-36	then	_	Word	Word	_	37	D	_	_
+36	then	_	Word	Word	_	3	L	_	_
 37	rehired	_	Word	Word	_	3	H	_	_
 38	when	_	Word	Word	_	3	L	_	_
 39	no	_	Word	Word	_	44	D	_	_

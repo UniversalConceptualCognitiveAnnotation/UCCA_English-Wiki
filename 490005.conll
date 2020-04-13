@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 490005
 1	In	_	Word	Word	_	2	R	_	_
-2	2011	_	Word	Word	_	5	D	_	_
+2	2011	_	Word	Word	_	5	T	_	_
 3	,	_	Punctuation	Punctuation	_	5	U	_	_
 4	Bana	_	Word	Word	_	5	A	_	_
 4	Bana	_	Word	Word	_	16	A*	_	_
@@ -20,7 +20,7 @@
 17	alongside	_	Word	Word	_	18	R	_	_
 18	Saoirse	_	Word	Word	_	16	A	_	_
 19	Ronan	_	Word	Word	_	18	Terminal	_	_
-20	&	_	Punctuation	Punctuation	_	18	U	_	_
+20	&	_	Word	Word	_	18	N	_	_
 21	Cate	_	Word	Word	_	18	C	_	_
 22	Blanchett	_	Word	Word	_	21	Terminal	_	_
 23	.	_	Punctuation	Punctuation	_	18	U	_	_

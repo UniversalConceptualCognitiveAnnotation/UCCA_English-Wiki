@@ -1,30 +1,33 @@
 # format = ucca
 # sent_id = 562001
-1	His	_	Word	Word	_	2	E	_	_
+1	His	_	Word	Word	_	2	A	_	_
 2	performance	_	Word	Word	_	16	A	_	_
-3	,	_	Punctuation	Punctuation	_	16	U	_	_
+2	performance	_	Word	Word	_	18	A*	_	_
+3	,	_	Punctuation	Punctuation	_	2	U	_	_
 4	on	_	Word	Word	_	6	R	_	_
 5	the	_	Word	Word	_	6	E	_	_
-6	deck	_	Word	Word	_	16	A	_	_
-7	of	_	Word	Word	_	10	R	_	_
-8	the	_	Word	Word	_	10	E	_	_
-9	USS	_	Word	Word	_	10	E	_	_
-10	Hancock	_	Word	Word	_	6	E	_	_
+6	deck	_	Word	Word	_	2	A	_	_
+7	of	_	Word	Word	_	9	R	_	_
+8	the	_	Word	Word	_	9	E	_	_
+9	USS	_	Word	Word	_	6	E	_	_
+10	Hancock	_	Word	Word	_	9	Terminal	_	_
 11	in	_	Word	Word	_	12	R	_	_
-12	San	_	Word	Word	_	6	E	_	_
+12	San	_	Word	Word	_	6	C	_	_
 13	Diego	_	Word	Word	_	12	Terminal	_	_
 14	,	_	Punctuation	Punctuation	_	16	U	_	_
 15	prompted	_	Word	Word	_	16	D	_	_
+15	prompted	_	Word	Word	_	18	D*	_	_
 16	cheers	_	Word	Word	_	0	H	_	_
-17	and	_	Word	Word	_	16	N	_	_
-18	screams	_	Word	Word	_	16	C	_	_
+17	and	_	Word	Word	_	16	L	_	_
+18	screams	_	Word	Word	_	16	H	_	_
 19	from	_	Word	Word	_	21	R	_	_
 20	an	_	Word	Word	_	21	E	_	_
 21	audience	_	Word	Word	_	16	A	_	_
+21	audience	_	Word	Word	_	18	A*	_	_
 22	of	_	Word	Word	_	23	R	_	_
-23	sailors	_	Word	Word	_	21	E	_	_
+23	sailors	_	Word	Word	_	21	A	_	_
 24	and	_	Word	Word	_	23	N	_	_
-25	their	_	Word	Word	_	26	E	_	_
-26	dates	_	Word	Word	_	23	C	_	_
-27	.	_	Punctuation	Punctuation	_	26	U	_	_
+25	their	_	Word	Word	_	23	C	_	_
+26	dates	_	Word	Word	_	25	A	_	_
+27	.	_	Punctuation	Punctuation	_	25	U	_	_
 

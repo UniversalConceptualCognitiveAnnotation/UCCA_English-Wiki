@@ -1,19 +1,20 @@
 # format = ucca
 # sent_id = 485000
-1	Eric	_	Word	Word	_	9	A	_	_
+1	Eric	_	Word	Word	_	15	A	_	_
+1	Eric	_	Word	Word	_	4	A*	_	_
 2	Bana	_	Word	Word	_	1	Terminal	_	_
-3	(	_	Punctuation	Punctuation	_	1	U	_	_
-4	born	_	Word	Word	_	1	E	_	_
-5	9	_	Word	Word	_	4	D	_	_
-6	August	_	Word	Word	_	5	Terminal	_	_
-7	1968	_	Word	Word	_	5	Terminal	_	_
-8	)	_	Punctuation	Punctuation	_	9	U	_	_
-9	is	_	Word	Word	_	0	H	_	_
+3	(	_	Punctuation	Punctuation	_	15	U	_	_
+4	born	_	Word	Word	_	15	A	_	_
+5	9	_	Word	Word	_	4	T	_	_
+6	August	_	Word	Word	_	5	C	_	_
+7	1968	_	Word	Word	_	5	C	_	_
+8	)	_	Punctuation	Punctuation	_	15	U	_	_
+9	is	_	Word	Word	_	15	F	_	_
 10	an	_	Word	Word	_	15	E	_	_
-11	Australian	_	Word	Word	_	15	E	_	_
-12	film	_	Word	Word	_	15	E	_	_
+11	Australian	_	Word	Word	_	15	A	_	_
+12	film	_	Word	Word	_	15	A	_	_
 13	and	_	Word	Word	_	12	N	_	_
 14	television	_	Word	Word	_	12	C	_	_
-15	actor	_	Word	Word	_	9	A	_	_
+15	actor	_	Word	Word	_	0	H	_	_
 16	.	_	Punctuation	Punctuation	_	15	U	_	_
 

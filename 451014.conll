@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 451014
 1	He	_	Word	Word	_	2	A	_	_
-1	He	_	Word	Word	_	9	A*	_	_
+1	He	_	Word	Word	_	11	A*	_	_
 1	He	_	Word	Word	_	18	A*	_	_
 2	pronounced	_	Word	Word	_	0	H	_	_
 3	lieutenant	_	Word	Word	_	2	A	_	_
@@ -10,9 +10,9 @@
 6	leftenant	_	Word	Word	_	2	A	_	_
 7	"	_	Punctuation	Punctuation	_	2	U	_	_
 8	,	_	Punctuation	Punctuation	_	2	U	_	_
-9	mangled	_	Word	Word	_	2	H	_	_
+9	mangled	_	Word	Word	_	11	D	_	_
 10	the	_	Word	Word	_	11	E	_	_
-11	pronunciation	_	Word	Word	_	9	A	_	_
+11	pronunciation	_	Word	Word	_	2	H	_	_
 12	of	_	Word	Word	_	14	R	_	_
 13	"	_	Punctuation	Punctuation	_	14	U	_	_
 14	Appomattox	_	Word	Word	_	11	A	_	_
@@ -32,7 +32,7 @@
 28	Aweigh	_	Word	Word	_	27	Terminal	_	_
 29	"	_	Punctuation	Punctuation	_	18	U	_	_
 30	at	_	Word	Word	_	35	R	_	_
-31	Lyndon	_	Word	Word	_	35	E	_	_
+31	Lyndon	_	Word	Word	_	35	A	_	_
 32	Johnson	_	Word	Word	_	31	Terminal	_	_
 33	's	_	Word	Word	_	31	R	_	_
 34	presidential	_	Word	Word	_	35	E	_	_
@@ -48,8 +48,8 @@
 44	of	_	Word	Word	_	46	R	_	_
 45	American	_	Word	Word	_	46	E	_	_
 46	affairs	_	Word	Word	_	43	A	_	_
-47	and	_	Word	Word	_	43	N	_	_
-48	culture	_	Word	Word	_	43	C	_	_
+47	and	_	Word	Word	_	46	N	_	_
+48	culture	_	Word	Word	_	46	C	_	_
 49	led	_	Word	Word	_	52	D	_	_
 50	critics	_	Word	Word	_	52	A	_	_
 51	to	_	Word	Word	_	52	F	_	_
@@ -68,22 +68,22 @@
 63	a	_	Word	Word	_	64	E	_	_
 64	little	_	Word	Word	_	65	D	_	_
 65	ridiculous	_	Word	Word	_	75	A	_	_
-66	when	_	Word	Word	_	65	L	_	_
-67	you	_	Word	Word	_	68	A	_	_
-68	think	_	Word	Word	_	65	H	_	_
-69	about	_	Word	Word	_	70	R	_	_
-70	it	_	Word	Word	_	68	A	_	_
+66	when	_	Word	Word	_	65	G	_	_
+67	you	_	Word	Word	_	66	Terminal	_	_
+68	think	_	Word	Word	_	66	Terminal	_	_
+69	about	_	Word	Word	_	66	Terminal	_	_
+70	it	_	Word	Word	_	66	Terminal	_	_
 71	,	_	Punctuation	Punctuation	_	75	U	_	_
 72	"	_	Punctuation	Punctuation	_	75	U	_	_
 73	he	_	Word	Word	_	75	A	_	_
-74	later	_	Word	Word	_	75	D	_	_
+74	later	_	Word	Word	_	2	L	_	_
 75	reflected	_	Word	Word	_	2	H	_	_
 76	.	_	Punctuation	Punctuation	_	75	U	_	_
 77	"	_	Punctuation	Punctuation	_	75	U	_	_
 78	A	_	Word	Word	_	83	E	_	_
-79	26	_	Word	Word	_	83	E	_	_
-80	-	_	Punctuation	Punctuation	_	83	U	_	_
-81	year	_	Word	Word	_	83	E	_	_
+79	26	_	Word	Word	_	81	Q	_	_
+80	-	_	Punctuation	Punctuation	_	81	U	_	_
+81	year	_	Word	Word	_	83	T	_	_
 82	-	_	Punctuation	Punctuation	_	83	U	_	_
 83	old	_	Word	Word	_	86	A	_	_
 84	trying	_	Word	Word	_	86	D	_	_

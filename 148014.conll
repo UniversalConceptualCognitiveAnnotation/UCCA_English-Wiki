@@ -1,24 +1,23 @@
 # format = ucca
 # sent_id = 148014
-1	With	_	Word	Word	_	3	L	_	_
-2	Tracy	_	Word	Word	_	3	A	_	_
-2	Tracy	_	Word	Word	_	5	A*	_	_
+1	With	_	Word	Word	_	5	L	_	_
+2	Tracy	_	Word	Word	_	5	A	_	_
 2	Tracy	_	Word	Word	_	7	A*	_	_
-3	determined	_	Word	Word	_	0	H	_	_
+3	determined	_	Word	Word	_	5	D	_	_
 4	to	_	Word	Word	_	5	F	_	_
-5	conceal	_	Word	Word	_	3	A	_	_
+5	conceal	_	Word	Word	_	0	H	_	_
 6	the	_	Word	Word	_	7	E	_	_
 7	relationship	_	Word	Word	_	5	A	_	_
 8	with	_	Word	Word	_	9	R	_	_
 9	Hepburn	_	Word	Word	_	7	A	_	_
 10	from	_	Word	Word	_	12	R	_	_
-11	his	_	Word	Word	_	12	E	_	_
+11	his	_	Word	Word	_	12	A	_	_
 12	wife	_	Word	Word	_	5	A	_	_
-13	,	_	Punctuation	Punctuation	_	3	U	_	_
-14	it	_	Word	Word	_	17	A	_	_
-15	had	_	Word	Word	_	17	F	_	_
-16	to	_	Word	Word	_	17	F	_	_
-17	remain	_	Word	Word	_	3	H	_	_
-18	private	_	Word	Word	_	17	A	_	_
-19	.	_	Punctuation	Punctuation	_	17	U	_	_
+13	,	_	Punctuation	Punctuation	_	5	U	_	_
+14	it	_	Word	Word	_	18	A	_	_
+15	had	_	Word	Word	_	18	D	_	_
+16	to	_	Word	Word	_	15	Terminal	_	_
+17	remain	_	Word	Word	_	18	D	_	_
+18	private	_	Word	Word	_	5	H	_	_
+19	.	_	Punctuation	Punctuation	_	18	U	_	_
 

@@ -1,23 +1,26 @@
 # format = ucca
 # sent_id = 556006
 1	Presley	_	Word	Word	_	15	A	_	_
+1	Presley	_	Word	Word	_	17	A*	_	_
 2	,	_	Punctuation	Punctuation	_	1	U	_	_
-3	who	_	Word	Word	_	8	F	_	_
+3	who	_	Word	Word	_	8	R	_	_
 4	never	_	Word	Word	_	8	D	_	_
+4	never	_	Word	Word	_	10	D*	_	_
 5	received	_	Word	Word	_	8	D	_	_
-6	formal	_	Word	Word	_	8	E	_	_
-7	music	_	Word	Word	_	8	E	_	_
+6	formal	_	Word	Word	_	8	D	_	_
+7	music	_	Word	Word	_	8	A	_	_
 8	training	_	Word	Word	_	1	E	_	_
-9	or	_	Word	Word	_	8	N	_	_
-10	learned	_	Word	Word	_	8	D	_	_
-11	to	_	Word	Word	_	8	F	_	_
-12	read	_	Word	Word	_	13	D	_	_
-13	music	_	Word	Word	_	8	C	_	_
+9	or	_	Word	Word	_	8	L	_	_
+10	learned	_	Word	Word	_	8	H	_	_
+11	to	_	Word	Word	_	12	F	_	_
+12	read	_	Word	Word	_	10	A	_	_
+13	music	_	Word	Word	_	12	A	_	_
 14	,	_	Punctuation	Punctuation	_	15	U	_	_
 15	studied	_	Word	Word	_	0	H	_	_
-16	and	_	Word	Word	_	15	N	_	_
-17	played	_	Word	Word	_	15	C	_	_
+16	and	_	Word	Word	_	15	L	_	_
+17	played	_	Word	Word	_	15	H	_	_
 18	by	_	Word	Word	_	15	D	_	_
+18	by	_	Word	Word	_	17	D*	_	_
 19	ear	_	Word	Word	_	18	Terminal	_	_
 20	.	_	Punctuation	Punctuation	_	15	U	_	_
 

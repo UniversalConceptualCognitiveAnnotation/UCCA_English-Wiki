@@ -1,32 +1,34 @@
 # format = ucca
 # sent_id = 730009
 1	In	_	Word	Word	_	2	R	_	_
-2	February	_	Word	Word	_	7	D	_	_
-3	2013	_	Word	Word	_	2	Terminal	_	_
+2	February	_	Word	Word	_	7	T	_	_
+3	2013	_	Word	Word	_	2	C	_	_
 4	,	_	Punctuation	Punctuation	_	7	U	_	_
 5	it	_	Word	Word	_	7	F	_	_
 6	was	_	Word	Word	_	7	F	_	_
 7	announced	_	Word	Word	_	0	H	_	_
-8	that	_	Word	Word	_	12	F	_	_
+8	that	_	Word	Word	_	12	R	_	_
 9	Jolie	_	Word	Word	_	12	A	_	_
+9	Jolie	_	Word	Word	_	19	A*	_	_
 10	will	_	Word	Word	_	12	F	_	_
 11	be	_	Word	Word	_	12	F	_	_
 12	teaming	_	Word	Word	_	7	A	_	_
-13	up	_	Word	Word	_	12	R	_	_
+13	up	_	Word	Word	_	12	Terminal	_	_
 14	with	_	Word	Word	_	16	R	_	_
 15	the	_	Word	Word	_	16	E	_	_
-16	Coen	_	Word	Word	_	12	A	_	_
+16	Coen	_	Word	Word	_	0	C	_	_
+16	Coen	_	Word	Word	_	19	A*	_	_
 17	brothers	_	Word	Word	_	16	Terminal	_	_
 18	to	_	Word	Word	_	7	L	_	_
 19	tell	_	Word	Word	_	7	H	_	_
 20	the	_	Word	Word	_	21	E	_	_
 21	story	_	Word	Word	_	19	A	_	_
 22	of	_	Word	Word	_	27	R	_	_
-23	World	_	Word	Word	_	24	E	_	_
-24	War	_	Word	Word	_	26	E	_	_
-25	II	_	Word	Word	_	24	E	_	_
+23	World	_	Word	Word	_	26	A	_	_
+24	War	_	Word	Word	_	23	Terminal	_	_
+25	II	_	Word	Word	_	23	Terminal	_	_
 26	hero	_	Word	Word	_	27	E	_	_
-27	Louis	_	Word	Word	_	21	E	_	_
+27	Louis	_	Word	Word	_	21	A	_	_
 28	Zamperini	_	Word	Word	_	27	Terminal	_	_
 29	.	_	Punctuation	Punctuation	_	27	U	_	_
 

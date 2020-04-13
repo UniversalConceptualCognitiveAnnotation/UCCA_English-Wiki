@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 226010
-1	The	_	Word	Word	_	2	E	_	_
+1	The	_	Word	Word	_	2	F	_	_
 2	success	_	Word	Word	_	8	A	_	_
 3	of	_	Word	Word	_	4	R	_	_
 4	Rumble	_	Word	Word	_	2	A	_	_
@@ -9,33 +9,32 @@
 7	Bronx	_	Word	Word	_	4	Terminal	_	_
 8	led	_	Word	Word	_	0	H	_	_
 9	to	_	Word	Word	_	12	F	_	_
-10	a	_	Word	Word	_	11	E	_	_
-11	1996	_	Word	Word	_	12	D	_	_
+10	a	_	Word	Word	_	11	F	_	_
+11	1996	_	Word	Word	_	12	T	_	_
 12	release	_	Word	Word	_	8	A	_	_
 13	of	_	Word	Word	_	14	R	_	_
 14	Police	_	Word	Word	_	12	A	_	_
-14	Police	_	Word	Word	_	30	A*	_	_
 15	Story	_	Word	Word	_	14	Terminal	_	_
 16	3	_	Word	Word	_	14	Terminal	_	_
 17	:	_	Punctuation	Punctuation	_	14	U	_	_
 18	Super	_	Word	Word	_	14	Terminal	_	_
 19	Cop	_	Word	Word	_	14	Terminal	_	_
 20	in	_	Word	Word	_	22	R	_	_
-21	the	_	Word	Word	_	22	E	_	_
+21	the	_	Word	Word	_	22	F	_	_
 22	United	_	Word	Word	_	12	A	_	_
 23	States	_	Word	Word	_	22	Terminal	_	_
 24	under	_	Word	Word	_	27	R	_	_
-25	the	_	Word	Word	_	27	E	_	_
+25	the	_	Word	Word	_	27	F	_	_
 26	title	_	Word	Word	_	27	E	_	_
-27	Supercop	_	Word	Word	_	12	A	_	_
+27	Supercop	_	Word	Word	_	14	E	_	_
 28	,	_	Punctuation	Punctuation	_	8	U	_	_
 29	which	_	Word	Word	_	8	L	_	_
 30	grossed	_	Word	Word	_	8	H	_	_
-31	a	_	Word	Word	_	32	E	_	_
-32	total	_	Word	Word	_	30	A	_	_
-33	of	_	Word	Word	_	34	R	_	_
-34	US	_	Word	Word	_	32	E	_	_
-35	$	_	Word	Word	_	34	Terminal	_	_
-36	16,270,600	_	Word	Word	_	34	Terminal	_	_
-37	.	_	Punctuation	Punctuation	_	34	U	_	_
+31	a	_	Word	Word	_	35	F	_	_
+32	total	_	Word	Word	_	35	E	_	_
+33	of	_	Word	Word	_	35	R	_	_
+34	US	_	Word	Word	_	35	E	_	_
+35	$	_	Word	Word	_	30	A	_	_
+36	16,270,600	_	Word	Word	_	35	Q	_	_
+37	.	_	Punctuation	Punctuation	_	35	U	_	_
 

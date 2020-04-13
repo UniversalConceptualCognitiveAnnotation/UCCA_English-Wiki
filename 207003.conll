@@ -2,10 +2,10 @@
 # sent_id = 207003
 1	According	_	Word	Word	_	0	H	_	_
 2	to	_	Word	Word	_	1	Terminal	_	_
-3	Hoffman	_	Word	Word	_	4	E	_	_
+3	Hoffman	_	Word	Word	_	4	A	_	_
 4	biographer	_	Word	Word	_	8	E	_	_
 5	and	_	Word	Word	_	4	N	_	_
-6	film	_	Word	Word	_	7	E	_	_
+6	film	_	Word	Word	_	7	A	_	_
 7	historian	_	Word	Word	_	4	C	_	_
 8	Jeff	_	Word	Word	_	1	A	_	_
 9	Lenburg	_	Word	Word	_	8	Terminal	_	_
@@ -13,12 +13,12 @@
 11	"	_	Punctuation	Punctuation	_	1	U	_	_
 12	newspapers	_	Word	Word	_	17	A	_	_
 13	across	_	Word	Word	_	15	R	_	_
-14	the	_	Word	Word	_	15	E	_	_
+14	the	_	Word	Word	_	15	F	_	_
 15	country	_	Word	Word	_	12	E	_	_
 16	were	_	Word	Word	_	17	F	_	_
 17	deluged	_	Word	Word	_	1	A	_	_
 18	with	_	Word	Word	_	21	R	_	_
-19	thousands	_	Word	Word	_	21	E	_	_
+19	thousands	_	Word	Word	_	21	Q	_	_
 20	of	_	Word	Word	_	19	R	_	_
 21	letters	_	Word	Word	_	17	A	_	_
 22	from	_	Word	Word	_	23	R	_	_
@@ -28,10 +28,24 @@
 26	including	_	Word	Word	_	27	R	_	_
 27	one	_	Word	Word	_	21	E	_	_
 28	published	_	Word	Word	_	27	E	_	_
-29	in	_	Word	Word	_	33	R	_	_
-30	the	_	Word	Word	_	33	E	_	_
-31	New	_	Word	Word	_	33	E	_	_
+29	in	_	Word	Word	_	31	R	_	_
+30	the	_	Word	Word	_	31	F	_	_
+31	New	_	Word	Word	_	28	A	_	_
 32	York	_	Word	Word	_	31	Terminal	_	_
-33	Times	_	Word	Word	_	28	A	_	_
-34	:	_	Punctuation	Punctuation	_	33	U	_	_
+33	Times	_	Word	Word	_	31	Terminal	_	_
+34	:	_	Punctuation	Punctuation	_	1	U	_	_
+35	I	_	Word	Word	_	36	A	_	_
+36	identified	_	Word	Word	_	1	H	_	_
+37	with	_	Word	Word	_	38	R	_	_
+38	Ben	_	Word	Word	_	36	A	_	_
+39	...	_	Punctuation	Punctuation	_	1	U	_	_
+40	I	_	Word	Word	_	41	A	_	_
+41	thought	_	Word	Word	_	1	H	_	_
+42	of	_	Word	Word	_	43	R	_	_
+43	him	_	Word	Word	_	41	A	_	_
+44	as	_	Word	Word	_	47	R	_	_
+45	a	_	Word	Word	_	47	F	_	_
+46	spiritual	_	Word	Word	_	47	D	_	_
+47	brother	_	Word	Word	_	41	A	_	_
+48	.	_	Punctuation	Punctuation	_	47	U	_	_
 

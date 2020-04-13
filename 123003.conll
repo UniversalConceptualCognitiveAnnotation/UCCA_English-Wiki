@@ -1,18 +1,23 @@
 # format = ucca
 # sent_id = 123003
-1	The	_	Word	Word	_	2	E	_	_
-2	incident	_	Word	Word	_	7	A	_	_
-3	made	_	Word	Word	_	7	F	_	_
-4	the	_	Word	Word	_	6	E	_	_
+1	The	_	Word	Word	_	2	F	_	_
+2	incident	_	Word	Word	_	0	P	_	_
+2	incident	_	Word	Word	_	12	A*	_	_
+3	made	_	Word	Word	_	7	D	_	_
+3	made	_	Word	Word	_	9	D*	_	_
+3	made	_	Word	Word	_	12	D*	_	_
+4	the	_	Word	Word	_	6	F	_	_
 5	teenage	_	Word	Word	_	6	E	_	_
-6	Hepburn	_	Word	Word	_	7	A	_	_
-7	nervous	_	Word	Word	_	0	H	_	_
-8	,	_	Punctuation	Punctuation	_	7	U	_	_
-9	moody	_	Word	Word	_	7	C	_	_
-10	,	_	Punctuation	Punctuation	_	7	U	_	_
-11	and	_	Word	Word	_	7	N	_	_
-12	suspicious	_	Word	Word	_	7	C	_	_
+6	Hepburn	_	Word	Word	_	0	C	_	_
+6	Hepburn	_	Word	Word	_	5	A*	_	_
+6	Hepburn	_	Word	Word	_	12	A*	_	_
+7	nervous	_	Word	Word	_	12	H	_	_
+8	,	_	Punctuation	Punctuation	_	12	U	_	_
+9	moody	_	Word	Word	_	12	H	_	_
+10	,	_	Punctuation	Punctuation	_	12	U	_	_
+11	and	_	Word	Word	_	12	L	_	_
+12	suspicious	_	Word	Word	_	0	H	_	_
 13	of	_	Word	Word	_	14	R	_	_
-14	people	_	Word	Word	_	12	E	_	_
+14	people	_	Word	Word	_	12	A	_	_
 15	.	_	Punctuation	Punctuation	_	14	U	_	_
 

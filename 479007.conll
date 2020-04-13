@@ -1,34 +1,35 @@
 # format = ucca
 # sent_id = 479007
 1	With	_	Word	Word	_	5	R	_	_
-2	the	_	Word	Word	_	5	E	_	_
-3	two	_	Word	Word	_	5	E	_	_
+2	the	_	Word	Word	_	5	F	_	_
+3	two	_	Word	Word	_	5	Q	_	_
 4	future	_	Word	Word	_	5	E	_	_
 5	Hall	_	Word	Word	_	11	A	_	_
 6	of	_	Word	Word	_	5	Terminal	_	_
 7	Famers	_	Word	Word	_	5	Terminal	_	_
 8	,	_	Punctuation	Punctuation	_	11	U	_	_
-9	the	_	Word	Word	_	10	E	_	_
-10	league	_	Word	Word	_	11	A	_	_
+9	the	_	Word	Word	_	10	F	_	_
+10	league	_	Word	Word	_	0	C	_	_
+10	league	_	Word	Word	_	19	A*	_	_
 11	won	_	Word	Word	_	0	H	_	_
-12	a	_	Word	Word	_	14	E	_	_
+12	a	_	Word	Word	_	14	F	_	_
 13	whole	_	Word	Word	_	14	E	_	_
 14	generation	_	Word	Word	_	17	E	_	_
-15	of	_	Word	Word	_	14	R	_	_
+15	of	_	Word	Word	_	17	R	_	_
 16	new	_	Word	Word	_	17	E	_	_
 17	fans	_	Word	Word	_	11	A	_	_
 18	,	_	Punctuation	Punctuation	_	11	U	_	_
 19	drawing	_	Word	Word	_	11	H	_	_
 20	both	_	Word	Word	_	22	N	_	_
-21	traditionalist	_	Word	Word	_	22	E	_	_
+21	traditionalist	_	Word	Word	_	22	D	_	_
 22	adherents	_	Word	Word	_	19	A	_	_
 23	of	_	Word	Word	_	29	R	_	_
 24	Bird	_	Word	Word	_	29	A	_	_
 25	's	_	Word	Word	_	24	R	_	_
 26	dirt	_	Word	Word	_	27	E	_	_
-27	court	_	Word	Word	_	29	E	_	_
-28	Indiana	_	Word	Word	_	29	E	_	_
-29	game	_	Word	Word	_	22	E	_	_
+27	court	_	Word	Word	_	29	A	_	_
+28	Indiana	_	Word	Word	_	29	A	_	_
+29	game	_	Word	Word	_	22	A	_	_
 30	and	_	Word	Word	_	22	N	_	_
 31	those	_	Word	Word	_	32	A	_	_
 32	appreciative	_	Word	Word	_	22	C	_	_
@@ -36,7 +37,7 @@
 34	Johnson	_	Word	Word	_	38	A	_	_
 35	's	_	Word	Word	_	34	R	_	_
 36	public	_	Word	Word	_	37	E	_	_
-37	park	_	Word	Word	_	38	E	_	_
+37	park	_	Word	Word	_	38	A	_	_
 38	flair	_	Word	Word	_	32	A	_	_
 39	.	_	Punctuation	Punctuation	_	38	U	_	_
 

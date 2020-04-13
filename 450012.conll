@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 450012
 1	In	_	Word	Word	_	2	R	_	_
-2	1959	_	Word	Word	_	11	D	_	_
+2	1959	_	Word	Word	_	11	T	_	_
 3	,	_	Punctuation	Punctuation	_	11	U	_	_
 4	CFJR	_	Word	Word	_	11	A	_	_
 5	,	_	Punctuation	Punctuation	_	4	U	_	_
@@ -20,15 +20,15 @@
 18	news	_	Word	Word	_	19	E	_	_
 19	department	_	Word	Word	_	15	E	_	_
 20	;	_	Punctuation	Punctuation	_	11	U	_	_
-21	many	_	Word	Word	_	24	E	_	_
-22	of	_	Word	Word	_	21	R	_	_
+21	many	_	Word	Word	_	24	Q	_	_
+22	of	_	Word	Word	_	24	R	_	_
 23	his	_	Word	Word	_	24	E	_	_
 24	stories	_	Word	Word	_	36	A	_	_
 25	,	_	Punctuation	Punctuation	_	24	U	_	_
 26	including	_	Word	Word	_	28	R	_	_
 27	his	_	Word	Word	_	28	E	_	_
 28	coverage	_	Word	Word	_	24	E	_	_
-29	of	_	Word	Word	_	28	R	_	_
+29	of	_	Word	Word	_	33	R	_	_
 30	a	_	Word	Word	_	33	E	_	_
 31	local	_	Word	Word	_	33	E	_	_
 32	train	_	Word	Word	_	33	E	_	_

@@ -2,12 +2,12 @@
 # sent_id = 954003
 1	During	_	Word	Word	_	3	R	_	_
 2	this	_	Word	Word	_	3	E	_	_
-3	time	_	Word	Word	_	6	D	_	_
+3	time	_	Word	Word	_	6	T	_	_
 4	,	_	Punctuation	Punctuation	_	6	U	_	_
 5	Leigh	_	Word	Word	_	6	A	_	_
 5	Leigh	_	Word	Word	_	16	A*	_	_
 6	read	_	Word	Word	_	0	H	_	_
-7	the	_	Word	Word	_	11	E	_	_
+7	the	_	Word	Word	_	10	E	_	_
 8	Margaret	_	Word	Word	_	10	E	_	_
 9	Mitchell	_	Word	Word	_	8	Terminal	_	_
 10	novel	_	Word	Word	_	11	E	_	_
@@ -17,9 +17,11 @@
 14	Wind	_	Word	Word	_	11	Terminal	_	_
 15	and	_	Word	Word	_	6	L	_	_
 16	instructed	_	Word	Word	_	6	H	_	_
-17	her	_	Word	Word	_	19	E	_	_
+17	her	_	Word	Word	_	19	A	_	_
 18	American	_	Word	Word	_	19	E	_	_
-19	agent	_	Word	Word	_	16	A	_	_
+19	agent	_	Word	Word	_	0	P	_	_
+19	agent	_	Word	Word	_	18	A*	_	_
+19	agent	_	Word	Word	_	21	A*	_	_
 20	to	_	Word	Word	_	21	F	_	_
 21	suggest	_	Word	Word	_	16	A	_	_
 22	her	_	Word	Word	_	21	A	_	_

@@ -1,7 +1,6 @@
 # format = ucca
 # sent_id = 646005
 1	They	_	Word	Word	_	3	A	_	_
-1	They	_	Word	Word	_	16	A*	_	_
 1	They	_	Word	Word	_	26	A*	_	_
 2	were	_	Word	Word	_	3	F	_	_
 3	married	_	Word	Word	_	0	H	_	_
@@ -12,19 +11,19 @@
 8	in	_	Word	Word	_	9	R	_	_
 9	Gibraltar	_	Word	Word	_	7	E	_	_
 10	on	_	Word	Word	_	11	R	_	_
-11	20	_	Word	Word	_	3	D	_	_
-12	March	_	Word	Word	_	11	Terminal	_	_
-13	1969	_	Word	Word	_	11	Terminal	_	_
+11	20	_	Word	Word	_	3	T	_	_
+12	March	_	Word	Word	_	11	C	_	_
+13	1969	_	Word	Word	_	11	C	_	_
 14	,	_	Punctuation	Punctuation	_	3	U	_	_
 15	and	_	Word	Word	_	3	L	_	_
-16	spent	_	Word	Word	_	3	H	_	_
-17	their	_	Word	Word	_	18	E	_	_
-18	honeymoon	_	Word	Word	_	16	A	_	_
+16	spent	_	Word	Word	_	18	T	_	_
+17	their	_	Word	Word	_	18	A	_	_
+18	honeymoon	_	Word	Word	_	3	H	_	_
 19	at	_	Word	Word	_	23	R	_	_
 20	the	_	Word	Word	_	23	E	_	_
 21	Amsterdam	_	Word	Word	_	23	E	_	_
 22	Hilton	_	Word	Word	_	21	Terminal	_	_
-23	Hotel	_	Word	Word	_	16	A	_	_
+23	Hotel	_	Word	Word	_	18	A	_	_
 24	in	_	Word	Word	_	25	R	_	_
 25	Amsterdam	_	Word	Word	_	23	E	_	_
 26	campaigning	_	Word	Word	_	3	H	_	_

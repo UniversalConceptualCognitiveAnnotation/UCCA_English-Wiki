@@ -1,15 +1,15 @@
 # format = ucca
 # sent_id = 507011
-1	In	_	Word	Word	_	3	R	_	_
-2	October	_	Word	Word	_	3	E	_	_
-3	1990	_	Word	Word	_	21	D	_	_
+1	In	_	Word	Word	_	2	R	_	_
+2	October	_	Word	Word	_	21	T	_	_
+3	1990	_	Word	Word	_	2	C	_	_
 4	,	_	Punctuation	Punctuation	_	21	U	_	_
-5	a	_	Word	Word	_	21	L	_	_
-6	decade	_	Word	Word	_	5	Terminal	_	_
-7	after	_	Word	Word	_	5	Terminal	_	_
+5	a	_	Word	Word	_	6	F	_	_
+6	decade	_	Word	Word	_	21	L	_	_
+7	after	_	Word	Word	_	6	R	_	_
 8	his	_	Word	Word	_	9	A	_	_
 9	divorce	_	Word	Word	_	21	H	_	_
-10	from	_	Word	Word	_	11	E	_	_
+10	from	_	Word	Word	_	11	R	_	_
 11	Angela	_	Word	Word	_	9	A	_	_
 12	,	_	Punctuation	Punctuation	_	21	U	_	_
 13	Bowie	_	Word	Word	_	21	A	_	_
@@ -18,12 +18,14 @@
 16	-	_	Punctuation	Punctuation	_	17	U	_	_
 17	born	_	Word	Word	_	19	E	_	_
 18	supermodel	_	Word	Word	_	19	E	_	_
-19	Iman	_	Word	Word	_	13	C	_	_
+19	Iman	_	Word	Word	_	0	C	_	_
+19	Iman	_	Word	Word	_	17	A*	_	_
+19	Iman	_	Word	Word	_	25	A*	_	_
 20	were	_	Word	Word	_	21	F	_	_
 21	introduced	_	Word	Word	_	0	H	_	_
 22	by	_	Word	Word	_	25	R	_	_
 23	a	_	Word	Word	_	25	E	_	_
-24	mutual	_	Word	Word	_	25	E	_	_
+24	mutual	_	Word	Word	_	25	D	_	_
 25	friend	_	Word	Word	_	21	A	_	_
 26	.	_	Punctuation	Punctuation	_	25	U	_	_
 

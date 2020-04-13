@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 144010
 1	These	_	Word	Word	_	3	E	_	_
-2	later	_	Word	Word	_	3	E	_	_
+2	later	_	Word	Word	_	3	R	_	_
 3	roles	_	Word	Word	_	6	A	_	_
 4	have	_	Word	Word	_	6	F	_	_
 5	been	_	Word	Word	_	6	F	_	_
@@ -9,21 +9,21 @@
 7	as	_	Word	Word	_	11	R	_	_
 8	"	_	Punctuation	Punctuation	_	11	U	_	_
 9	a	_	Word	Word	_	11	E	_	_
-10	fictional	_	Word	Word	_	11	E	_	_
+10	fictional	_	Word	Word	_	11	D	_	_
 11	version	_	Word	Word	_	6	A	_	_
-12	of	_	Word	Word	_	18	R	_	_
+12	of	_	Word	Word	_	15	R	_	_
 13	the	_	Word	Word	_	18	E	_	_
-14	typically	_	Word	Word	_	18	E	_	_
-15	feisty	_	Word	Word	_	18	E	_	_
+14	typically	_	Word	Word	_	15	D	_	_
+15	feisty	_	Word	Word	_	11	A	_	_
 16	Kate	_	Word	Word	_	18	E	_	_
 17	Hepburn	_	Word	Word	_	16	Terminal	_	_
-18	character	_	Word	Word	_	11	E	_	_
+18	character	_	Word	Word	_	15	A	_	_
 19	"	_	Punctuation	Punctuation	_	6	U	_	_
 20	and	_	Word	Word	_	6	L	_	_
 21	critics	_	Word	Word	_	23	A	_	_
 22	have	_	Word	Word	_	23	F	_	_
 23	remarked	_	Word	Word	_	6	H	_	_
-24	that	_	Word	Word	_	28	F	_	_
+24	that	_	Word	Word	_	28	R	_	_
 25	Hepburn	_	Word	Word	_	28	A	_	_
 26	was	_	Word	Word	_	28	F	_	_
 27	essentially	_	Word	Word	_	28	D	_	_

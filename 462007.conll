@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 462007
 1	In	_	Word	Word	_	2	R	_	_
-2	June	_	Word	Word	_	5	D	_	_
+2	June	_	Word	Word	_	5	T	_	_
 3	,	_	Punctuation	Punctuation	_	5	U	_	_
 4	Jennings	_	Word	Word	_	5	A	_	_
 4	Jennings	_	Word	Word	_	12	A*	_	_
@@ -17,12 +17,13 @@
 14	members	_	Word	Word	_	12	A	_	_
 15	in	_	Word	Word	_	18	R	_	_
 16	an	_	Word	Word	_	18	E	_	_
-17	emotional	_	Word	Word	_	18	E	_	_
+17	emotional	_	Word	Word	_	18	D	_	_
 18	speech	_	Word	Word	_	12	A	_	_
 19	;	_	Punctuation	Punctuation	_	5	U	_	_
 20	he	_	Word	Word	_	21	A	_	_
 21	thanked	_	Word	Word	_	5	H	_	_
 22	Gibson	_	Word	Word	_	21	A	_	_
+22	Gibson	_	Word	Word	_	24	A*	_	_
 23	for	_	Word	Word	_	24	R	_	_
 24	closing	_	Word	Word	_	21	A	_	_
 25	each	_	Word	Word	_	26	E	_	_
@@ -37,7 +38,7 @@
 34	Jennings	_	Word	Word	_	33	Terminal	_	_
 35	and	_	Word	Word	_	33	N	_	_
 36	all	_	Word	Word	_	38	E	_	_
-37	of	_	Word	Word	_	36	R	_	_
+37	of	_	Word	Word	_	38	R	_	_
 38	us	_	Word	Word	_	33	C	_	_
 39	at	_	Word	Word	_	41	R	_	_
 40	ABC	_	Word	Word	_	41	E	_	_

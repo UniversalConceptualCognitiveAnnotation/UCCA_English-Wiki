@@ -1,11 +1,11 @@
 # format = ucca
 # sent_id = 635005
-1	A	_	Word	Word	_	3	E	_	_
-2	few	_	Word	Word	_	3	E	_	_
-3	months	_	Word	Word	_	6	E	_	_
+1	A	_	Word	Word	_	3	Q	_	_
+2	few	_	Word	Word	_	1	Terminal	_	_
+3	months	_	Word	Word	_	19	T	_	_
 4	later	_	Word	Word	_	3	R	_	_
 5	in	_	Word	Word	_	6	R	_	_
-6	March	_	Word	Word	_	19	D	_	_
+6	March	_	Word	Word	_	3	C	_	_
 7	,	_	Punctuation	Punctuation	_	19	U	_	_
 8	during	_	Word	Word	_	19	L	_	_
 9	an	_	Word	Word	_	10	E	_	_
@@ -36,17 +36,17 @@
 33	're	_	Word	Word	_	35	F	_	_
 34	more	_	Word	Word	_	35	D	_	_
 35	popular	_	Word	Word	_	24	H	_	_
-36	than	_	Word	Word	_	37	E	_	_
+36	than	_	Word	Word	_	37	R	_	_
 37	Jesus	_	Word	Word	_	35	A	_	_
-38	now	_	Word	Word	_	35	D	_	_
+38	now	_	Word	Word	_	35	T	_	_
 39	-	_	Punctuation	Punctuation	_	24	U	_	_
 40	I	_	Word	Word	_	43	A	_	_
 41	do	_	Word	Word	_	43	F	_	_
 42	n't	_	Word	Word	_	43	D	_	_
 43	know	_	Word	Word	_	24	H	_	_
-44	which	_	Word	Word	_	46	F	_	_
+44	which	_	Word	Word	_	43	A	_	_
 45	will	_	Word	Word	_	46	F	_	_
-46	go	_	Word	Word	_	43	A	_	_
+46	go	_	Word	Word	_	44	E	_	_
 47	first	_	Word	Word	_	46	D	_	_
 48	,	_	Punctuation	Punctuation	_	46	U	_	_
 49	rock	_	Word	Word	_	46	A	_	_

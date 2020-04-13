@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 698006
-1	Journalist	_	Word	Word	_	8	A	_	_
-2	Nora	_	Word	Word	_	1	E	_	_
+1	Journalist	_	Word	Word	_	2	E	_	_
+2	Nora	_	Word	Word	_	8	A	_	_
 3	Ephron	_	Word	Word	_	2	Terminal	_	_
 4	first	_	Word	Word	_	8	D	_	_
 5	made	_	Word	Word	_	8	F	_	_
@@ -13,19 +13,19 @@
 11	New	_	Word	Word	_	8	A	_	_
 12	York	_	Word	Word	_	11	Terminal	_	_
 13	Post	_	Word	Word	_	11	Terminal	_	_
-14	in	_	Word	Word	_	16	R	_	_
-15	February	_	Word	Word	_	16	E	_	_
-16	1966	_	Word	Word	_	8	D	_	_
-17	with	_	Word	Word	_	19	R	_	_
+14	in	_	Word	Word	_	15	R	_	_
+15	February	_	Word	Word	_	8	T	_	_
+16	1966	_	Word	Word	_	15	C	_	_
+17	with	_	Word	Word	_	21	R	_	_
 18	the	_	Word	Word	_	19	E	_	_
-19	headline	_	Word	Word	_	8	A	_	_
-20	"	_	Punctuation	Punctuation	_	19	U	_	_
-21	Hush	_	Word	Word	_	19	E	_	_
+19	headline	_	Word	Word	_	21	E	_	_
+20	"	_	Punctuation	Punctuation	_	21	U	_	_
+21	Hush	_	Word	Word	_	8	A	_	_
 22	!	_	Punctuation	Punctuation	_	21	U	_	_
-23	Bob	_	Word	Word	_	26	A	_	_
-24	Dylan	_	Word	Word	_	23	Terminal	_	_
-25	is	_	Word	Word	_	26	F	_	_
-26	wed	_	Word	Word	_	21	H	_	_
-27	.	_	Punctuation	Punctuation	_	26	U	_	_
-28	"	_	Punctuation	Punctuation	_	26	U	_	_
+23	Bob	_	Word	Word	_	21	Terminal	_	_
+24	Dylan	_	Word	Word	_	21	Terminal	_	_
+25	is	_	Word	Word	_	21	Terminal	_	_
+26	wed	_	Word	Word	_	21	Terminal	_	_
+27	.	_	Punctuation	Punctuation	_	21	U	_	_
+28	"	_	Punctuation	Punctuation	_	21	U	_	_
 

@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 526006
-1	Garland	_	Word	Word	_	5	E	_	_
-2	's	_	Word	Word	_	1	R	_	_
+1	Garland	_	Word	Word	_	2	A	_	_
+2	's	_	Word	Word	_	5	E	_	_
 3	other	_	Word	Word	_	5	E	_	_
 4	famous	_	Word	Word	_	5	E	_	_
 5	films	_	Word	Word	_	9	A	_	_
@@ -17,12 +17,12 @@
 15	)	_	Punctuation	Punctuation	_	10	U	_	_
 16	,	_	Punctuation	Punctuation	_	10	U	_	_
 17	in	_	Word	Word	_	20	R	_	_
-18	which	_	Word	Word	_	20	F	_	_
+18	which	_	Word	Word	_	17	Terminal	_	_
 19	she	_	Word	Word	_	20	A	_	_
 20	introduced	_	Word	Word	_	10	E	_	_
-21	the	_	Word	Word	_	28	E	_	_
-22	Academy	_	Word	Word	_	23	E	_	_
-23	Award	_	Word	Word	_	25	E	_	_
+21	the	_	Word	Word	_	26	F	_	_
+22	Academy	_	Word	Word	_	25	A	_	_
+23	Award	_	Word	Word	_	22	Terminal	_	_
 24	-	_	Punctuation	Punctuation	_	25	U	_	_
 25	winning	_	Word	Word	_	26	E	_	_
 26	song	_	Word	Word	_	28	E	_	_
@@ -43,6 +43,30 @@
 41	Pirate	_	Word	Word	_	40	Terminal	_	_
 42	(	_	Punctuation	Punctuation	_	40	U	_	_
 43	1948	_	Word	Word	_	40	E	_	_
-44	)	_	Punctuation	Punctuation	_	43	U	_	_
-45	.	_	Punctuation	Punctuation	_	43	U	_	_
+44	)	_	Punctuation	Punctuation	_	9	U	_	_
+45	.	_	Punctuation	Punctuation	_	9	U	_	_
+46	During	_	Word	Word	_	9	L	_	_
+47	filming	_	Word	Word	_	9	H	_	_
+48	for	_	Word	Word	_	49	R	_	_
+49	The	_	Word	Word	_	47	A	_	_
+50	Pirate	_	Word	Word	_	49	Terminal	_	_
+51	in	_	Word	Word	_	52	R	_	_
+52	April	_	Word	Word	_	47	T	_	_
+53	1947	_	Word	Word	_	52	C	_	_
+54	,	_	Punctuation	Punctuation	_	47	U	_	_
+55	Garland	_	Word	Word	_	59	A	_	_
+55	Garland	_	Word	Word	_	47	A*	_	_
+55	Garland	_	Word	Word	_	62	A*	_	_
+56	suffered	_	Word	Word	_	59	D	_	_
+57	a	_	Word	Word	_	59	F	_	_
+58	nervous	_	Word	Word	_	59	E	_	_
+59	breakdown	_	Word	Word	_	9	H	_	_
+60	and	_	Word	Word	_	9	L	_	_
+61	was	_	Word	Word	_	62	F	_	_
+62	placed	_	Word	Word	_	9	H	_	_
+63	in	_	Word	Word	_	66	R	_	_
+64	a	_	Word	Word	_	66	F	_	_
+65	private	_	Word	Word	_	66	E	_	_
+66	sanitarium	_	Word	Word	_	62	A	_	_
+67	.	_	Punctuation	Punctuation	_	66	U	_	_
 

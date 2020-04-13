@@ -1,13 +1,13 @@
 # format = ucca
 # sent_id = 451002
 1	In	_	Word	Word	_	2	R	_	_
-2	1964	_	Word	Word	_	5	D	_	_
+2	1964	_	Word	Word	_	5	T	_	_
 3	,	_	Punctuation	Punctuation	_	5	U	_	_
 4	CTV	_	Word	Word	_	5	A	_	_
 5	sent	_	Word	Word	_	0	H	_	_
 6	Jennings	_	Word	Word	_	5	A	_	_
 6	Jennings	_	Word	Word	_	8	A*	_	_
-7	to	_	Word	Word	_	8	F	_	_
+7	to	_	Word	Word	_	8	R	_	_
 8	cover	_	Word	Word	_	5	A	_	_
 9	the	_	Word	Word	_	12	E	_	_
 10	Democratic	_	Word	Word	_	12	E	_	_
@@ -17,7 +17,7 @@
 14	Atlantic	_	Word	Word	_	12	E	_	_
 15	City	_	Word	Word	_	14	Terminal	_	_
 16	,	_	Punctuation	Punctuation	_	14	U	_	_
-17	New	_	Word	Word	_	14	E	_	_
+17	New	_	Word	Word	_	14	C	_	_
 18	Jersey	_	Word	Word	_	17	Terminal	_	_
 19	.	_	Punctuation	Punctuation	_	14	U	_	_
 

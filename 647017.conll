@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 647017
-1	Two	_	Word	Word	_	2	E	_	_
-2	days	_	Word	Word	_	6	D	_	_
+1	Two	_	Word	Word	_	2	Q	_	_
+2	days	_	Word	Word	_	6	L	_	_
 3	later	_	Word	Word	_	2	R	_	_
 4	,	_	Punctuation	Punctuation	_	6	U	_	_
 5	Lennon	_	Word	Word	_	6	A	_	_
@@ -13,8 +13,8 @@
 11	appointment	_	Word	Word	_	6	A	_	_
 12	,	_	Punctuation	Punctuation	_	6	U	_	_
 13	stupefied	_	Word	Word	_	6	H	_	_
-14	and	_	Word	Word	_	13	N	_	_
-15	confused	_	Word	Word	_	13	C	_	_
+14	and	_	Word	Word	_	6	L	_	_
+15	confused	_	Word	Word	_	6	H	_	_
 16	to	_	Word	Word	_	19	R	_	_
 17	such	_	Word	Word	_	19	E	_	_
 18	an	_	Word	Word	_	17	R	_	_
@@ -24,6 +24,7 @@
 22	believed	_	Word	Word	_	6	H	_	_
 23	he	_	Word	Word	_	26	A	_	_
 23	he	_	Word	Word	_	13	A*	_	_
+23	he	_	Word	Word	_	15	A*	_	_
 24	had	_	Word	Word	_	26	F	_	_
 25	been	_	Word	Word	_	26	F	_	_
 26	brainwashed	_	Word	Word	_	22	A	_	_

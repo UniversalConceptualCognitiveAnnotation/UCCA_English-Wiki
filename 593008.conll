@@ -1,13 +1,13 @@
 # format = ucca
 # sent_id = 593008
-1	The	_	Word	Word	_	8	E	_	_
+1	The	_	Word	Word	_	6	E	_	_
 2	July	_	Word	Word	_	6	E	_	_
-3	17	_	Word	Word	_	2	Terminal	_	_
+3	17	_	Word	Word	_	2	C	_	_
 4	,	_	Punctuation	Punctuation	_	2	U	_	_
-5	2006	_	Word	Word	_	2	Terminal	_	_
-6	edition	_	Word	Word	_	8	E	_	_
-7	of	_	Word	Word	_	6	R	_	_
-8	Newsweek	_	Word	Word	_	9	A	_	_
+5	2006	_	Word	Word	_	2	C	_	_
+6	edition	_	Word	Word	_	9	A	_	_
+7	of	_	Word	Word	_	8	R	_	_
+8	Newsweek	_	Word	Word	_	6	C	_	_
 9	reprinted	_	Word	Word	_	0	H	_	_
 10	the	_	Word	Word	_	15	E	_	_
 11	"	_	Punctuation	Punctuation	_	15	U	_	_
@@ -18,9 +18,9 @@
 16	,	_	Punctuation	Punctuation	_	9	U	_	_
 17	verbatim	_	Word	Word	_	9	D	_	_
 18	,	_	Punctuation	Punctuation	_	9	U	_	_
-19	in	_	Word	Word	_	24	R	_	_
+19	in	_	Word	Word	_	21	R	_	_
 20	the	_	Word	Word	_	21	E	_	_
-21	context	_	Word	Word	_	24	E	_	_
+21	context	_	Word	Word	_	24	R	_	_
 22	of	_	Word	Word	_	21	R	_	_
 23	a	_	Word	Word	_	24	E	_	_
 24	Letter	_	Word	Word	_	9	A	_	_

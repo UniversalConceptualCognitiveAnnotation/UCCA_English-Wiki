@@ -1,24 +1,23 @@
 # format = ucca
 # sent_id = 610013
 1	In	_	Word	Word	_	2	R	_	_
-2	July	_	Word	Word	_	6	D	_	_
-3	2005	_	Word	Word	_	2	Terminal	_	_
+2	July	_	Word	Word	_	6	T	_	_
+3	2005	_	Word	Word	_	2	C	_	_
 4	,	_	Punctuation	Punctuation	_	6	U	_	_
 5	he	_	Word	Word	_	6	A	_	_
 5	he	_	Word	Word	_	18	A*	_	_
 5	he	_	Word	Word	_	37	A*	_	_
-5	he	_	Word	Word	_	41	A*	_	_
 6	performed	_	Word	Word	_	0	H	_	_
 7	at	_	Word	Word	_	6	L	_	_
-8	the	_	Word	Word	_	9	E	_	_
-9	Live	_	Word	Word	_	6	H	_	_
+8	the	_	Word	Word	_	11	F	_	_
+9	Live	_	Word	Word	_	11	A	_	_
 10	8	_	Word	Word	_	9	Terminal	_	_
-11	event	_	Word	Word	_	9	E	_	_
+11	event	_	Word	Word	_	6	H	_	_
 12	in	_	Word	Word	_	13	R	_	_
-13	Hyde	_	Word	Word	_	9	A	_	_
+13	Hyde	_	Word	Word	_	11	A	_	_
 14	Park	_	Word	Word	_	13	Terminal	_	_
 15	,	_	Punctuation	Punctuation	_	13	U	_	_
-16	London	_	Word	Word	_	13	Terminal	_	_
+16	London	_	Word	Word	_	13	C	_	_
 17	,	_	Punctuation	Punctuation	_	6	U	_	_
 18	opening	_	Word	Word	_	6	H	_	_
 19	the	_	Word	Word	_	20	E	_	_
@@ -49,7 +48,7 @@
 44	"	_	Punctuation	Punctuation	_	41	U	_	_
 45	(	_	Punctuation	Punctuation	_	41	U	_	_
 46	with	_	Word	Word	_	47	R	_	_
-47	George	_	Word	Word	_	41	A	_	_
+47	George	_	Word	Word	_	41	E	_	_
 48	Michael	_	Word	Word	_	47	Terminal	_	_
 49	)	_	Punctuation	Punctuation	_	41	U	_	_
 50	,	_	Punctuation	Punctuation	_	41	U	_	_
@@ -68,7 +67,7 @@
 63	"	_	Punctuation	Punctuation	_	6	U	_	_
 64	.	_	Punctuation	Punctuation	_	6	U	_	_
 65	In	_	Word	Word	_	66	R	_	_
-66	September	_	Word	Word	_	69	D	_	_
+66	September	_	Word	Word	_	69	T	_	_
 67	,	_	Punctuation	Punctuation	_	69	U	_	_
 68	he	_	Word	Word	_	69	A	_	_
 69	released	_	Word	Word	_	6	H	_	_
@@ -82,13 +81,13 @@
 77	the	_	Word	Word	_	73	Terminal	_	_
 78	Backyard	_	Word	Word	_	73	Terminal	_	_
 79	,	_	Punctuation	Punctuation	_	73	U	_	_
-80	for	_	Word	Word	_	83	R	_	_
-81	which	_	Word	Word	_	80	F	_	_
-82	he	_	Word	Word	_	83	A	_	_
-83	provided	_	Word	Word	_	73	E	_	_
-84	most	_	Word	Word	_	87	E	_	_
-85	of	_	Word	Word	_	84	R	_	_
-86	the	_	Word	Word	_	87	E	_	_
-87	instrumentation	_	Word	Word	_	83	A	_	_
+80	for	_	Word	Word	_	87	R	_	_
+81	which	_	Word	Word	_	80	Terminal	_	_
+82	he	_	Word	Word	_	87	A	_	_
+83	provided	_	Word	Word	_	87	D	_	_
+84	most	_	Word	Word	_	87	D	_	_
+85	of	_	Word	Word	_	87	R	_	_
+86	the	_	Word	Word	_	87	F	_	_
+87	instrumentation	_	Word	Word	_	73	E	_	_
 88	.	_	Punctuation	Punctuation	_	87	U	_	_
 

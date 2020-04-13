@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 450015
-1	His	_	Word	Word	_	2	E	_	_
+1	His	_	Word	Word	_	2	A	_	_
 2	producers	_	Word	Word	_	3	A	_	_
 3	saw	_	Word	Word	_	0	H	_	_
 4	a	_	Word	Word	_	6	E	_	_
@@ -8,7 +8,7 @@
 6	attractiveness	_	Word	Word	_	3	A	_	_
 7	in	_	Word	Word	_	8	R	_	_
 8	him	_	Word	Word	_	3	A	_	_
-9	that	_	Word	Word	_	10	F	_	_
+9	that	_	Word	Word	_	10	R	_	_
 10	resembled	_	Word	Word	_	6	E	_	_
 11	that	_	Word	Word	_	10	A	_	_
 12	of	_	Word	Word	_	13	R	_	_
@@ -20,7 +20,7 @@
 17	Jennings	_	Word	Word	_	21	A*	_	_
 18	soon	_	Word	Word	_	19	D	_	_
 19	found	_	Word	Word	_	3	H	_	_
-20	himself	_	Word	Word	_	19	D	_	_
+20	himself	_	Word	Word	_	19	Terminal	_	_
 21	hosting	_	Word	Word	_	19	A	_	_
 22	Club	_	Word	Word	_	21	A	_	_
 23	Thirteen	_	Word	Word	_	22	Terminal	_	_

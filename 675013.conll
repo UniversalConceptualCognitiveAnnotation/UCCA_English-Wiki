@@ -1,10 +1,10 @@
 # format = ucca
 # sent_id = 675013
 1	The	_	Word	Word	_	3	E	_	_
-2	three	_	Word	Word	_	3	E	_	_
-3	songs	_	Word	Word	_	5	A	_	_
+2	three	_	Word	Word	_	3	Q	_	_
+3	songs	_	Word	Word	_	6	A	_	_
 4	she	_	Word	Word	_	5	A	_	_
-5	performed	_	Word	Word	_	6	A	_	_
+5	performed	_	Word	Word	_	3	E	_	_
 6	were	_	Word	Word	_	0	H	_	_
 7	"	_	Punctuation	Punctuation	_	6	U	_	_
 8	Hero	_	Word	Word	_	6	A	_	_
@@ -23,30 +23,29 @@
 21	titled	_	Word	Word	_	20	E	_	_
 22	"	_	Punctuation	Punctuation	_	21	U	_	_
 23	Bring	_	Word	Word	_	21	A	_	_
-23	Bring	_	Word	Word	_	31	A*	_	_
 24	It	_	Word	Word	_	23	Terminal	_	_
 25	On	_	Word	Word	_	23	Terminal	_	_
 26	Home	_	Word	Word	_	23	Terminal	_	_
 27	"	_	Punctuation	Punctuation	_	20	U	_	_
 28	,	_	Punctuation	Punctuation	_	20	U	_	_
-29	which	_	Word	Word	_	31	F	_	_
+29	which	_	Word	Word	_	31	R	_	_
 30	Carey	_	Word	Word	_	31	A	_	_
 30	Carey	_	Word	Word	_	39	A*	_	_
 31	wrote	_	Word	Word	_	20	E	_	_
-32	specifically	_	Word	Word	_	31	D	_	_
-33	for	_	Word	Word	_	35	R	_	_
+32	specifically	_	Word	Word	_	33	E	_	_
+33	for	_	Word	Word	_	31	L	_	_
 34	the	_	Word	Word	_	35	E	_	_
-35	event	_	Word	Word	_	31	A	_	_
+35	event	_	Word	Word	_	31	H	_	_
 36	to	_	Word	Word	_	31	L	_	_
 37	show	_	Word	Word	_	39	D	_	_
 38	her	_	Word	Word	_	39	A	_	_
 39	support	_	Word	Word	_	31	H	_	_
 40	behind	_	Word	Word	_	46	R	_	_
-41	Obama	_	Word	Word	_	46	E	_	_
+41	Obama	_	Word	Word	_	45	A	_	_
 42	's	_	Word	Word	_	41	R	_	_
-43	re	_	Word	Word	_	45	E	_	_
+43	re	_	Word	Word	_	45	D	_	_
 44	-	_	Punctuation	Punctuation	_	45	U	_	_
-45	election	_	Word	Word	_	46	E	_	_
+45	election	_	Word	Word	_	46	A	_	_
 46	campaign	_	Word	Word	_	39	A	_	_
 47	.	_	Punctuation	Punctuation	_	46	U	_	_
 
