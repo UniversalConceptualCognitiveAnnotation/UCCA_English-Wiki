@@ -1,14 +1,13 @@
 # format = ucca
-1	Now	_	Word	-	-	_	D	_	_	_
-2	I	_	Word	-	-	_	A	_	_	_
-3	come	_	Word	-	+	_	_	_	_	_
-4	out	_	Word	-	-	_	Terminal	_	_	_
-5	and	_	Word	-	-	_	Terminal	_	_	_
-6	say	_	Word	-	-	_	Terminal	_	_	_
-7	Jesus	_	Word	-	+	_	_	_	A	_
-8	Christ	_	Word	-	-	_	_	Terminal	_	_
-9	is	_	Word	-	+	_	A	_	_	_
-10	the	_	Word	-	-	_	_	_	_	E
-11	answer	_	Word	-	+	_	_	_	A	_
-12	.	_	Punctuation	-	-	_	_	_	_	U
+1	They	_	Word	-	-	_	A	_	_
+2	say	_	Word	-	+	_	_	_	_
+3	,	_	Punctuation	-	-	_	U	_	_
+4	"	_	Punctuation	-	-	_	U	_	_
+5	Bob	_	Word	-	+	_	_	_	A
+6	Dylan	_	Word	-	-	_	_	Terminal	_
+7	's	_	Word	-	-	_	_	_	F
+8	no	_	Word	-	-	_	_	_	D
+9	prophet	_	Word	-	+	_	A	_	_
+10	.	_	Punctuation	-	-	_	_	_	U
+11	"	_	Punctuation	-	-	_	_	_	U
 

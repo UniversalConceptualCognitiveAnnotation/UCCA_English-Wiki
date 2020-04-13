@@ -1,6 +1,6 @@
 # format = ucca
 1	In	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_	_	_
-2	the	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+2	the	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_	_	_
 3	days	_	Word	-	+	_	_	_	L	_	_	_	_	_	_	_	_	_	_
 4	following	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_	_	_
 5	Warner	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_
@@ -10,17 +10,17 @@
 9	newspaper	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_
 10	obituaries	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_
 11	recounted	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_	_
-12	the	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-13	familiar	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_
+12	the	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_	_	_	_
+13	familiar	_	Word	-	-	_	_	_	_	_	_	D	_	_	_	_	_	_	_
 14	story	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_
 15	of	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_
 16	"	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_
-17	the	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-18	four	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-19	brothers	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-20	who	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_	_	_
+17	the	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_	_	_	_
+18	four	_	Word	-	-	_	_	_	_	_	_	_	Q	_	_	_	_	_	_
+19	brothers	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+20	who	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_
 21	left	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-22	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_
+22	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_	_	_
 23	family	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_
 24	butcher	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_
 25	shop	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_
@@ -28,7 +28,7 @@
 27	nicklelodeons	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_
 28	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_	_
 29	and	_	Word	-	-	_	_	_	_	_	_	_	_	L	_	_	_	_	_
-30	went	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+30	went	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	D	_
 31	on	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
 32	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	F	_
 33	revolutionize	_	Word	-	+	_	_	_	_	_	_	_	_	H	_	_	_	_	_

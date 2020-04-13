@@ -1,31 +1,31 @@
 # format = ucca
-1	Hawke	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_
-2	is	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
-3	also	_	Word	-	-	_	D	_	_	_	_	_	_	_	_	_	_
-4	an	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_
-5	activist	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_
-6	for	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_
-7	gay	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_
-8	rights	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_	_
-9	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_
-10	in	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_
-11	March	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_
-12	2011	_	Word	-	+	_	_	_	_	_	_	_	D	_	_	_	_
-13	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_
-14	he	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_
-15	and	_	Word	-	-	_	_	_	_	_	N	_	_	_	_	_	_
-16	his	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_
-17	wife	_	Word	-	+	_	_	_	_	_	C	_	_	_	_	_	_
-18	released	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_
-19	a	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_
-20	video	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_
-21	pressing	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_
-22	for	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_
-23	marriage	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_
-24	equality	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_
-25	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R
-26	New	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_
-27	York	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal
-28	State	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal
-29	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
+1	Hawke	_	Word	-	-	_	A	_	_	_	_	_	_	_	_
+2	is	_	Word	-	-	_	F	_	_	_	_	_	_	_	_
+3	also	_	Word	-	-	_	D	_	_	_	_	_	_	_	_
+4	an	_	Word	-	-	_	F	_	_	_	_	_	_	_	_
+5	activist	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+6	for	_	Word	-	-	_	_	R	_	_	_	_	_	_	_
+7	gay	_	Word	-	-	_	_	A	_	_	_	_	_	_	_
+8	rights	_	Word	-	+	_	A	_	_	_	_	_	_	_	_
+9	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_
+10	in	_	Word	-	-	_	_	_	R	_	_	_	_	_	_
+11	March	_	Word	-	+	_	_	_	_	_	_	T	_	_	_
+12	2011	_	Word	-	-	_	_	_	C	_	_	_	_	_	_
+13	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_
+14	he	_	Word	-	+	_	_	_	_	_	_	A	_	_	_
+15	and	_	Word	-	-	_	_	_	_	N	_	_	_	_	_
+16	his	_	Word	-	+	_	_	_	_	C	_	_	_	_	_
+17	wife	_	Word	-	-	_	_	_	_	_	A	_	_	_	_
+18	released	_	Word	-	+	_	H	_	_	_	_	_	_	_	_
+19	a	_	Word	-	-	_	_	_	_	_	_	_	F	_	_
+20	video	_	Word	-	-	_	_	_	_	_	_	_	E	_	_
+21	pressing	_	Word	-	+	_	_	_	_	_	_	A	_	_	_
+22	for	_	Word	-	-	_	_	_	_	_	_	_	_	R	_
+23	marriage	_	Word	-	-	_	_	_	_	_	_	_	_	A	_
+24	equality	_	Word	-	+	_	_	_	_	_	_	_	E	_	_
+25	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	R
+26	New	_	Word	-	+	_	_	_	_	_	_	_	_	A	_
+27	York	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal
+28	State	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal
+29	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
 

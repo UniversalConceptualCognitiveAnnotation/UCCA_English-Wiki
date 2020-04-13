@@ -1,7 +1,7 @@
 # format = ucca
 1	Bowie	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_	_
 2	plays	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	many	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+3	many	_	Word	-	-	_	_	Q	_	_	_	_	_	_	_	_	_	_	_
 4	instruments	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_
 5	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_
 6	among	_	Word	-	+	_	_	_	_	_	_	R	_	_	_	_	_	_	_
@@ -11,7 +11,7 @@
 10	acoustic	_	Word	-	-	_	_	_	_	C	_	_	_	_	_	_	_	_	_
 11	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_
 12	and	_	Word	-	-	_	_	_	_	N	_	_	_	_	_	_	_	_	_
-13	twelve	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_
+13	twelve	_	Word	-	-	_	_	_	_	_	Q	_	_	_	_	_	_	_	_
 14	-	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_
 15	string	_	Word	-	+	_	_	_	_	C	_	_	_	_	_	_	_	_	_
 16	guitar	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_	_	_	_
@@ -26,10 +26,10 @@
 25	keyboards	_	Word	-	+	_	_	_	_	_	_	C	_	_	_	_	_	_	_
 26	including	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_
 27	piano	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-28	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_
-29	synthesisers	_	Word	-	-	_	_	_	_	_	_	C	_	_	_	_	_	_	_
-30	and	_	Word	-	-	_	_	_	_	_	_	N	_	_	_	_	_	_	_
-31	Mellotron	_	Word	-	-	_	_	_	_	_	_	C	_	_	_	_	_	_	_
+28	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_
+29	synthesisers	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	C	_	_	_
+30	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	N	_	_	_
+31	Mellotron	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	C	_	_	_
 32	;	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_
 33	harmonica	_	Word	-	-	_	_	_	_	_	_	C	_	_	_	_	_	_	_
 34	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_

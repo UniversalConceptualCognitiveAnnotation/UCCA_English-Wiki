@@ -1,6 +1,6 @@
 # format = ucca
 1	Same	_	Word	-	-	_	E	_	_	_	_
-2	sex	_	Word	-	+	_	_	E	_	_	_
+2	sex	_	Word	-	+	_	_	A	_	_	_
 3	marriage	_	Word	-	+	_	_	_	A	_	_
 4	was	_	Word	-	-	_	_	_	F	_	_
 5	ultimately	_	Word	-	-	_	_	_	D	_	_
@@ -9,9 +9,9 @@
 8	New	_	Word	-	+	_	_	_	A	_	_
 9	York	_	Word	-	-	_	_	_	_	Terminal	_
 10	on	_	Word	-	-	_	_	_	_	_	R
-11	June	_	Word	-	-	_	_	_	_	_	E
-12	24	_	Word	-	-	_	_	_	_	_	E
+11	June	_	Word	-	+	_	_	_	T	_	_
+12	24	_	Word	-	-	_	_	_	_	_	C
 13	,	_	Punctuation	-	-	_	_	_	_	_	U
-14	2011	_	Word	-	+	_	_	_	D	_	_
+14	2011	_	Word	-	-	_	_	_	_	_	C
 15	.	_	Punctuation	-	-	_	_	_	_	_	U
 

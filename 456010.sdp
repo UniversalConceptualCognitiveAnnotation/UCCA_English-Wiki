@@ -1,19 +1,31 @@
 # format = ucca
-1	and	_	Word	-	-	_	_	L	_	_	_
-2	a	_	Word	-	-	_	_	E	_	_	_
-3	subsequent	_	Word	-	-	_	_	E	_	_	_
-4	90	_	Word	-	-	_	E	_	_	_	_
-5	-	_	Punctuation	-	-	_	U	_	_	_	_
-6	minute	_	Word	-	+	_	_	E	_	_	_
-7	town	_	Word	-	-	_	_	E	_	_	_
-8	forum	_	Word	-	+	_	_	_	_	_	_
-9	with	_	Word	-	-	_	_	_	R	_	_
-10	Perot	_	Word	-	+	_	_	E	_	_	_
-11	and	_	Word	-	-	_	_	_	N	_	_
-12	a	_	Word	-	-	_	_	_	_	E	_
-13	studio	_	Word	-	-	_	_	_	_	E	_
-14	audience	_	Word	-	+	_	_	_	C	_	_
-15	in	_	Word	-	-	_	_	_	_	_	R
-16	June	_	Word	-	+	_	_	D	_	_	_
-17	.	_	Punctuation	-	-	_	_	_	_	_	U
+1	On	_	Word	-	-	_	R	_	_	_	_	_	_
+2	September	_	Word	-	+	_	_	T	_	_	_	_	_
+3	9	_	Word	-	-	_	C	_	_	_	_	_	_
+4	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+5	1992	_	Word	-	-	_	C	_	_	_	_	_	_
+6	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_
+7	ABC	_	Word	-	-	_	_	A	_	_	_	A*	_
+8	announced	_	Word	-	+	_	_	_	_	_	_	_	_
+9	that	_	Word	-	-	_	_	_	R	_	_	_	_
+10	it	_	Word	-	-	_	_	_	A	_	_	_	_
+11	would	_	Word	-	-	_	_	_	F	_	_	_	_
+12	be	_	Word	-	-	_	_	_	F	_	_	_	_
+13	switching	_	Word	-	+	_	_	A	_	_	_	_	_
+14	the	_	Word	-	-	_	_	_	_	E	_	_	_
+15	format	_	Word	-	+	_	_	_	A	_	_	_	_
+16	of	_	Word	-	-	_	_	_	_	_	R	_	_
+17	its	_	Word	-	-	_	_	_	_	_	E	_	_
+18	political	_	Word	-	-	_	_	_	_	_	E	_	_
+19	coverage	_	Word	-	+	_	_	_	_	E	_	_	_
+20	to	_	Word	-	-	_	_	L	_	_	_	_	_
+21	give	_	Word	-	-	_	_	_	_	_	_	F	_
+22	less	_	Word	-	-	_	_	_	_	_	_	D	_
+23	recognition	_	Word	-	+	_	_	H	_	_	_	_	_
+24	to	_	Word	-	-	_	_	_	_	_	_	_	R
+25	staged	_	Word	-	-	_	_	_	_	_	_	_	E
+26	sound	_	Word	-	-	_	_	_	_	_	_	_	E
+27	bites	_	Word	-	+	_	_	_	_	_	_	A	_
+28	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+29	"	_	Punctuation	-	-	_	_	_	_	_	_	_	U
 

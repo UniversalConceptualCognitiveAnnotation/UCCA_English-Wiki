@@ -1,60 +1,60 @@
 # format = ucca
-1	John	_	Word	-	+	_	_	A	_	_	_	_	_	A*	_	_	_	_	_	_	_	_	_
-2	Winston	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	Ono	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-4	Lennon	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-5	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-6	MBE	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-7	(	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-8	born	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
-9	John	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-10	Winston	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-11	Lennon	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-12	;	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-13	9	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
-14	October	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
-15	1940	_	Word	-	+	_	_	D	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-16	-	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
-17	8	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-18	December	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-19	1980	_	Word	-	+	_	_	_	_	C	_	_	_	_	_	_	_	_	_	_	_	_	_
-20	)	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
-21	was	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-22	an	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-23	English	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-24	musician	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
-25	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
-26	singer	_	Word	-	-	_	_	_	_	_	_	_	C	_	_	_	_	_	_	_	_	_	_
-27	and	_	Word	-	-	_	_	_	_	_	_	_	N	_	_	_	_	_	_	_	_	_	_
-28	songwriter	_	Word	-	-	_	_	_	_	_	_	_	C	_	_	_	_	_	_	_	_	_	_
-29	who	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_
-30	rose	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-31	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_
-32	worldwide	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-33	fame	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
-34	as	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_
-35	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-36	founder	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-37	member	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
-38	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_
-39	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-40	Beatles	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-41	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_
-42	one	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-43	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
-44	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-45	most	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-46	commercially	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-47	successful	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-48	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	N	_	_	_	_
-49	critically	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-50	acclaimed	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	C	_	_	_	_
-51	acts	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-52	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
-53	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-54	history	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-55	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
-56	popular	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-57	music	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-58	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	John	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+2	Winston	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	Ono	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	Lennon	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	MBE	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	(	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	born	_	Word	-	+	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	John	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	Winston	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	Lennon	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	;	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	9	_	Word	-	+	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	October	_	Word	-	-	_	_	_	_	C	_	_	_	_	_	_	_	_	_	_	_	_
+15	1940	_	Word	-	-	_	_	_	_	C	_	_	_	_	_	_	_	_	_	_	_	_
+16	-	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	8	_	Word	-	+	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	December	_	Word	-	-	_	_	_	_	_	C	_	_	_	_	_	_	_	_	_	_	_
+19	1980	_	Word	-	-	_	_	_	_	_	C	_	_	_	_	_	_	_	_	_	_	_
+20	)	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
+21	was	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	an	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+23	English	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+24	musician	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+25	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_
+26	singer	_	Word	-	-	_	_	_	_	_	_	_	C	_	_	_	_	_	_	_	_	_
+27	and	_	Word	-	-	_	_	_	_	_	_	_	N	_	_	_	_	_	_	_	_	_
+28	songwriter	_	Word	-	-	_	_	_	_	_	_	_	C	_	_	_	_	_	_	_	_	_
+29	who	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_
+30	rose	_	Word	-	-	_	_	_	_	_	_	_	_	D	_	_	_	_	_	_	_	_
+31	to	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_
+32	worldwide	_	Word	-	-	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
+33	fame	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+34	as	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_
+35	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_
+36	founder	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
+37	member	_	Word	-	+	_	_	_	_	_	_	_	_	_	A*	_	_	_	_	_	_	_
+38	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
+39	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+40	Beatles	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
+41	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_
+42	one	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Q	_	_
+43	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_
+44	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_
+45	most	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	D	_	_	_	_
+46	commercially	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	D	_	_	_	_
+47	successful	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
+48	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	L	_	_	_	_
+49	critically	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
+50	acclaimed	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	H	_	_	_	_
+51	acts	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+52	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
+53	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+54	history	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
+55	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+56	popular	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+57	music	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+58	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

@@ -1,25 +1,24 @@
 # format = ucca
-1	Instead	_	Word	-	-	_	L	_	_	_	_	_	_
-2	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_
-3	Gyllenhaal	_	Word	-	-	_	A	_	_	_	A*	_	_
-4	starred	_	Word	-	+	_	_	_	_	_	_	_	_
-5	in	_	Word	-	-	_	_	_	R	_	_	_	_
-6	the	_	Word	-	-	_	_	E	_	_	_	_	_
-7	blockbuster	_	Word	-	+	_	_	_	E	_	_	_	_
-8	The	_	Word	-	+	_	A	_	_	_	_	_	_
-9	Day	_	Word	-	-	_	_	_	Terminal	_	_	_	_
-10	After	_	Word	-	-	_	_	_	Terminal	_	_	_	_
-11	Tomorrow	_	Word	-	-	_	_	_	Terminal	_	_	_	_
-12	in	_	Word	-	-	_	_	_	_	R	_	_	_
-13	2004	_	Word	-	+	_	D	_	_	_	_	_	_
-14	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_
-15	co	_	Word	-	-	_	_	_	_	_	E	_	_
-16	-	_	Punctuation	-	-	_	_	_	_	_	U	_	_
-17	starring	_	Word	-	+	_	H	_	_	_	_	_	_
-18	Dennis	_	Word	-	+	_	_	_	_	_	A	_	_
-19	Quaid	_	Word	-	-	_	_	_	_	_	_	Terminal	_
-20	as	_	Word	-	-	_	_	_	_	_	_	_	R
-21	his	_	Word	-	-	_	_	_	_	_	_	_	E
-22	father	_	Word	-	+	_	_	_	_	_	A	_	_
-23	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+1	In	_	Word	-	-	_	L	_	_	_	_	_
+2	his	_	Word	-	-	_	A	_	_	_	_	_
+3	theatrical	_	Word	-	-	_	A	_	_	_	_	_
+4	debut	_	Word	-	+	_	_	_	_	_	_	_
+5	,	_	Punctuation	-	-	_	U	_	_	_	_	_
+6	Gyllenhaal	_	Word	-	-	_	_	A	_	_	_	_
+7	starred	_	Word	-	+	_	H	_	_	_	_	_
+8	on	_	Word	-	-	_	_	_	R	_	_	_
+9	the	_	Word	-	-	_	_	_	F	_	_	_
+10	London	_	Word	-	-	_	_	_	E	_	_	_
+11	stage	_	Word	-	+	_	_	A	_	_	_	_
+12	in	_	Word	-	-	_	_	_	_	_	R	_
+13	Kenneth	_	Word	-	+	_	_	_	_	_	A	_
+14	Lonergan	_	Word	-	-	_	_	_	_	Terminal	_	_
+15	's	_	Word	-	-	_	_	_	_	R	_	_
+16	revival	_	Word	-	+	_	_	A	_	_	_	_
+17	of	_	Word	-	-	_	_	_	_	_	_	R
+18	This	_	Word	-	+	_	_	_	_	_	A	_
+19	is	_	Word	-	-	_	_	_	_	_	_	Terminal
+20	Our	_	Word	-	-	_	_	_	_	_	_	Terminal
+21	Youth	_	Word	-	-	_	_	_	_	_	_	Terminal
+22	.	_	Punctuation	-	-	_	_	_	_	_	_	U
 

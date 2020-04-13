@@ -1,18 +1,37 @@
 # format = ucca
-1	In	_	Word	-	-	_	R	_	_	_	_
-2	April	_	Word	-	+	_	_	D	_	_	_
-3	,	_	Punctuation	-	-	_	_	U	_	_	_
-4	Presley	_	Word	-	-	_	_	A	_	_	_
-5	began	_	Word	-	-	_	_	D	_	_	_
-6	working	_	Word	-	+	_	_	_	_	_	_
-7	for	_	Word	-	-	_	_	_	_	R	_
-8	the	_	Word	-	-	_	_	_	_	E	_
-9	Crown	_	Word	-	+	_	_	_	_	E	_
-10	Electric	_	Word	-	-	_	_	_	Terminal	_	_
-11	company	_	Word	-	+	_	_	A	_	_	_
-12	as	_	Word	-	-	_	_	_	_	_	R
-13	a	_	Word	-	-	_	_	_	_	_	E
-14	truck	_	Word	-	-	_	_	_	_	_	E
-15	driver	_	Word	-	+	_	_	A	_	_	_
-16	.	_	Punctuation	-	-	_	_	_	_	_	U
+1	His	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+2	friend	_	Word	-	-	_	A	_	A*	_	_	_	_	_	_	_	_	_	_
+3	Ronnie	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_
+4	Smith	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
+5	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_
+6	after	_	Word	-	-	_	_	_	_	_	_	_	L	_	_	_	_	_	_
+7	playing	_	Word	-	+	_	_	_	_	_	_	_	H	_	_	_	_	_	_
+8	a	_	Word	-	+	_	_	_	_	_	Q	_	_	_	_	_	_	_	_
+9	few	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
+10	local	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_
+11	gigs	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+12	with	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_	_
+13	him	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+14	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_
+15	suggested	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	he	_	Word	-	-	_	_	_	_	_	_	_	_	A	_	_	_	_	_
+17	contact	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_
+18	Eddie	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_
+19	Bond	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_
+20	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_
+21	leader	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_	_	_
+22	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_
+23	Smith	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_
+24	's	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_
+25	professional	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	D	_	_
+26	band	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A	A*	_
+27	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U	_
+28	which	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_
+29	had	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	F	_
+30	an	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+31	opening	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_	_
+32	for	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+33	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+34	vocalist	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_
+35	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

@@ -1,29 +1,23 @@
 # format = ucca
-1	In	_	Word	-	-	_	R	_	_	_	_	_	_
-2	1995	_	Word	-	+	_	_	D	_	_	_	_	_
-3	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_
-4	he	_	Word	-	-	_	_	A	_	_	A*	_	_
-5	made	_	Word	-	-	_	_	F	_	_	_	_	_
-6	a	_	Word	-	-	_	_	E	_	_	_	_	_
-7	guest	_	Word	-	-	_	_	E	_	_	_	_	_
-8	appearance	_	Word	-	+	_	_	_	_	_	_	_	_
-9	on	_	Word	-	-	_	_	_	_	R	_	_	_
-10	the	_	Word	-	-	_	_	_	_	E	_	_	_
-11	Simpsons	_	Word	-	-	_	_	_	E	_	_	_	_
-12	episode	_	Word	-	+	_	_	_	_	E	_	_	_
-13	"	_	Punctuation	-	-	_	_	_	_	U	_	_	_
-14	Lisa	_	Word	-	+	_	_	A	_	_	_	_	_
-15	the	_	Word	-	-	_	_	_	_	Terminal	_	_	_
-16	Vegetarian	_	Word	-	-	_	_	_	_	Terminal	_	_	_
-17	"	_	Punctuation	-	-	_	_	U	_	_	_	_	_
-18	and	_	Word	-	-	_	_	L	_	_	_	_	_
-19	directed	_	Word	-	+	_	_	H	_	_	_	_	_
-20	a	_	Word	-	-	_	_	_	_	_	_	E	_
-21	short	_	Word	-	-	_	_	_	_	_	_	E	_
-22	documentary	_	Word	-	+	_	_	_	_	_	A	_	_
-23	about	_	Word	-	-	_	_	_	_	_	_	_	R
-24	the	_	Word	-	-	_	_	_	_	_	_	_	E
-25	Grateful	_	Word	-	+	_	_	_	_	_	_	E	_
-26	Dead	_	Word	-	-	_	_	_	_	_	_	_	Terminal
-27	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+1	McCartney	_	Word	-	-	_	A	_	_	A*	_	_	_	_
+2	is	_	Word	-	+	_	_	_	_	_	_	_	_	_
+3	one	_	Word	-	-	_	_	_	Q	_	_	_	_	_
+4	of	_	Word	-	-	_	_	_	R	_	_	_	_	_
+5	the	_	Word	-	-	_	_	E	_	_	_	_	_	_
+6	UK	_	Word	-	+	_	_	_	E	_	_	_	_	_
+7	's	_	Word	-	-	_	_	R	_	_	_	_	_	_
+8	wealthiest	_	Word	-	-	_	_	_	E	_	_	_	_	_
+9	people	_	Word	-	+	_	A	_	_	_	_	_	_	_
+10	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_
+11	with	_	Word	-	+	_	H	_	_	_	_	_	_	_
+12	an	_	Word	-	-	_	_	_	_	_	E	_	_	_
+13	estimated	_	Word	-	-	_	_	_	_	_	E	_	_	_
+14	fortune	_	Word	-	+	_	_	_	_	A	_	_	_	_
+15	of	_	Word	-	-	_	_	_	_	_	_	R	_	_
+16	£	_	Word	-	+	_	_	_	_	_	E	_	_	_
+17	475	_	Word	-	+	_	_	_	_	_	_	Q	_	_
+18	million	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_
+19	in	_	Word	-	-	_	_	_	_	_	_	_	_	R
+20	2010	_	Word	-	+	_	_	_	_	T	_	_	_	_
+21	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
 

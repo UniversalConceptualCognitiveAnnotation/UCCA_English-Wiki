@@ -1,40 +1,40 @@
 # format = ucca
-1	In	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_
-2	the	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_
-3	road	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_
-4	movie	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_	_	_
-5	Mojave	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_
-6	Moon	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
-7	(	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_
-8	1996	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_
-9	)	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_
-10	she	_	Word	-	-	_	_	_	A	_	_	_	_	_	_	_	_	_
-11	played	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-12	a	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_
-13	young	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_
-14	woman	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_
-15	who	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_
-16	falls	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_
-17	for	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_	_
-18	Danny	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_	_
-19	Aiello	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
-20	's	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_
-21	middle	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_
-22	-	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_
-23	aged	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_	_
-24	character	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_
-25	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_
-26	while	_	Word	-	-	_	_	_	_	_	L	_	_	_	_	_	_	_
-27	he	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_	_	_
-28	develops	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	_	_	_
-29	feelings	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_	_	_
-30	for	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_
-31	her	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_
-32	mother	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_
-33	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_
-34	played	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_	_
-35	by	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R
-36	Anne	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_
-37	Archer	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
-38	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	In	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_
+2	the	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+3	road	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+4	movie	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+5	Mojave	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+6	Moon	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
+7	(	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+8	1996	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+9	)	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_
+10	she	_	Word	-	-	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+11	played	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	a	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+13	young	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+14	woman	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+15	who	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_
+16	falls	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+17	for	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
+18	Danny	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_
+19	Aiello	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_
+20	's	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_	_	_
+21	middle	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+22	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_	_
+23	aged	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_	_	_
+24	character	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_
+25	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_
+26	while	_	Word	-	-	_	_	_	_	_	L	_	_	_	_	_	_	_	_
+27	he	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A	_	_	_
+28	develops	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D	_	_	_
+29	feelings	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_	_	_	_
+30	for	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_
+31	her	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+32	mother	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_
+33	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U	_
+34	played	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_	_
+35	by	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+36	Anne	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_
+37	Archer	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
+38	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

@@ -1,24 +1,24 @@
 # format = ucca
-1	Chan	_	Word	-	-	_	A	_	_	_	_
-2	then	_	Word	-	-	_	D	_	_	_	_
-3	played	_	Word	-	+	_	_	_	_	_	_
-4	a	_	Word	-	-	_	_	E	_	_	_
-5	minor	_	Word	-	-	_	_	E	_	_	_
-6	role	_	Word	-	+	_	A	_	_	_	_
-7	in	_	Word	-	-	_	_	_	R	_	_
-8	the	_	Word	-	-	_	_	_	E	_	_
-9	1981	_	Word	-	-	_	_	_	E	_	_
-10	film	_	Word	-	-	_	_	_	E	_	_
-11	The	_	Word	-	+	_	A	_	_	_	_
-12	Cannonball	_	Word	-	-	_	_	_	Terminal	_	_
-13	Run	_	Word	-	-	_	_	_	Terminal	_	_
-14	,	_	Punctuation	-	-	_	_	_	U	_	_
-15	which	_	Word	-	-	_	_	_	_	R	_
-16	grossed	_	Word	-	+	_	_	_	E	_	_
-17	US	_	Word	-	+	_	_	_	_	A	_
-18	$	_	Word	-	-	_	_	_	_	_	Terminal
-19	100	_	Word	-	-	_	_	_	_	_	Terminal
-20	million	_	Word	-	-	_	_	_	_	_	Terminal
-21	worldwide	_	Word	-	-	_	_	_	_	A	_
-22	.	_	Punctuation	-	-	_	_	_	_	U	_
+1	Chan	_	Word	-	-	_	A	_	_	_	_	_
+2	then	_	Word	-	-	_	D	_	_	_	_	_
+3	played	_	Word	-	+	_	_	_	_	_	_	_
+4	a	_	Word	-	-	_	_	F	_	_	_	_
+5	minor	_	Word	-	-	_	_	E	_	_	_	_
+6	role	_	Word	-	+	_	A	_	_	_	_	_
+7	in	_	Word	-	-	_	_	_	R	_	_	_
+8	the	_	Word	-	-	_	_	_	F	_	_	_
+9	1981	_	Word	-	-	_	_	_	E	_	_	_
+10	film	_	Word	-	-	_	_	_	E	_	_	_
+11	The	_	Word	-	+	_	A	_	_	_	_	_
+12	Cannonball	_	Word	-	-	_	_	_	Terminal	_	_	_
+13	Run	_	Word	-	-	_	_	_	Terminal	_	_	_
+14	,	_	Punctuation	-	-	_	_	_	U	_	_	_
+15	which	_	Word	-	-	_	_	_	_	R	_	_
+16	grossed	_	Word	-	+	_	_	_	E	_	_	_
+17	US	_	Word	-	-	_	_	_	_	_	E	_
+18	$	_	Word	-	+	_	_	_	_	A	_	_
+19	100	_	Word	-	+	_	_	_	_	_	Q	_
+20	million	_	Word	-	-	_	_	_	_	_	_	C
+21	worldwide	_	Word	-	-	_	_	_	_	A	_	_
+22	.	_	Punctuation	-	-	_	_	_	_	U	_	_
 

@@ -1,39 +1,39 @@
 # format = ucca
-1	The	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_
-2	success	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_
-3	of	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_
-4	Rumble	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_
-5	in	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_
-6	the	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_
-7	Bronx	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_
-8	led	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
-9	to	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_	_
-10	a	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_
-11	1996	_	Word	-	+	_	_	_	_	_	D	_	_	_	_	_	_
-12	release	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_
-13	of	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_
-14	Police	_	Word	-	+	_	_	_	_	_	A	_	_	_	A*	_	_
-15	Story	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_
-16	3	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_
-17	:	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_
-18	Super	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_
-19	Cop	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_
-20	in	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_
-21	the	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_
-22	United	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_
-23	States	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_
-24	under	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_
-25	the	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_
-26	title	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_
-27	Supercop	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_
-28	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_
-29	which	_	Word	-	-	_	_	_	L	_	_	_	_	_	_	_	_
-30	grossed	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_
-31	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_
-32	total	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_
-33	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R
-34	US	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_
-35	$	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal
-36	16,270,600	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal
-37	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
+1	The	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_
+2	success	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_
+3	of	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_
+4	Rumble	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_
+5	in	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_
+6	the	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_
+7	Bronx	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_
+8	led	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+9	to	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_
+10	a	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_
+11	1996	_	Word	-	+	_	_	_	_	_	T	_	_	_	_	_
+12	release	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_
+13	of	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_
+14	Police	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_
+15	Story	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_
+16	3	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_
+17	:	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_
+18	Super	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_
+19	Cop	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_
+20	in	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_
+21	the	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_
+22	United	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_
+23	States	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_
+24	under	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_
+25	the	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_
+26	title	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_
+27	Supercop	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_
+28	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_
+29	which	_	Word	-	-	_	_	_	L	_	_	_	_	_	_	_
+30	grossed	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_
+31	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F
+32	total	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E
+33	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
+34	US	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E
+35	$	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_
+36	16,270,600	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Q
+37	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
 

@@ -1,6 +1,6 @@
 # format = ucca
 1	In	_	Word	-	-	_	R	_	_	_	_	_	_	_	_
-2	1983	_	Word	-	+	_	_	D	_	_	_	_	_	_	_
+2	1983	_	Word	-	+	_	_	T	_	_	_	_	_	_	_
 3	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_
 4	Reynolds	_	Word	-	-	_	_	A	_	_	_	_	_	A*	_
 5	fell	_	Word	-	-	_	_	D	_	_	_	_	_	_	_
@@ -9,13 +9,13 @@
 8	multiple	_	Word	-	-	_	_	_	E	_	_	_	_	_	_
 9	myeloma	_	Word	-	+	_	_	A	_	_	_	_	_	_	_
 10	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_
-11	a	_	Word	-	-	_	_	_	_	_	E	_	_	_	_
+11	a	_	Word	-	-	_	_	_	_	E	_	_	_	_	_
 12	type	_	Word	-	+	_	_	_	_	_	E	_	_	_	_
-13	of	_	Word	-	-	_	_	_	_	R	_	_	_	_	_
+13	of	_	Word	-	-	_	_	_	_	_	R	_	_	_	_
 14	leukemia	_	Word	-	+	_	_	_	E	_	_	_	_	_	_
 15	/	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_
 16	lymphoma	_	Word	-	-	_	_	_	_	_	C	_	_	_	_
-17	that	_	Word	-	-	_	_	_	_	_	_	F	_	_	_
+17	that	_	Word	-	-	_	_	_	_	_	_	R	_	_	_
 18	often	_	Word	-	-	_	_	_	_	_	_	D	_	_	_
 19	attacks	_	Word	-	+	_	_	_	_	_	E	_	_	_	_
 20	the	_	Word	-	-	_	_	_	_	_	_	_	E	_	_
@@ -28,6 +28,6 @@
 27	stop	_	Word	-	-	_	_	_	_	_	_	_	_	D	_
 28	anchoring	_	Word	-	+	_	_	H	_	_	_	_	_	_	_
 29	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	R
-30	April	_	Word	-	+	_	_	_	_	_	_	_	_	D	_
+30	April	_	Word	-	+	_	_	_	_	_	_	_	_	T	_
 31	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
 

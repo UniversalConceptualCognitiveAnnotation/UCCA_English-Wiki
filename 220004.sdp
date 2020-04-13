@@ -2,7 +2,7 @@
 1	Reports	_	Word	-	-	_	A	_	_	_	_	_
 2	have	_	Word	-	-	_	F	_	_	_	_	_
 3	stated	_	Word	-	+	_	_	_	_	_	_	_
-4	that	_	Word	-	-	_	_	F	_	_	_	_
+4	that	_	Word	-	-	_	_	R	_	_	_	_
 5	she	_	Word	-	-	_	_	A	_	_	_	_
 6	will	_	Word	-	-	_	_	F	_	_	_	_
 7	join	_	Word	-	+	_	A	_	_	_	_	_
@@ -12,10 +12,10 @@
 11	Orlando	_	Word	-	+	_	_	_	C	_	_	_
 12	Bloom	_	Word	-	-	_	_	_	_	Terminal	_	_
 13	in	_	Word	-	-	_	_	_	_	_	_	R
-14	the	_	Word	-	-	_	_	_	_	_	E	_
+14	the	_	Word	-	-	_	_	_	_	_	F	_
 15	international	_	Word	-	-	_	_	_	_	_	E	_
-16	thriller	_	Word	-	+	_	_	_	_	_	_	A
-17	titled	_	Word	-	+	_	A	_	_	_	_	_
-18	Cities	_	Word	-	-	_	_	_	_	_	_	A
+16	thriller	_	Word	-	+	_	_	_	_	_	_	E
+17	titled	_	Word	-	-	_	_	_	_	_	_	R
+18	Cities	_	Word	-	+	_	A	_	_	_	_	_
 19	.	_	Punctuation	-	-	_	_	_	_	_	_	U
 

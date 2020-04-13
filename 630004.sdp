@@ -1,6 +1,6 @@
 # format = ucca
 1	After	_	Word	-	-	_	_	_	L	_	_	_	_	_	_
-2	her	_	Word	-	-	_	E	_	_	_	_	_	_	_	_
+2	her	_	Word	-	-	_	A	_	_	_	_	_	_	_	_
 3	sister	_	Word	-	+	_	_	E	_	_	_	_	_	_	_
 4	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_
 5	Mimi	_	Word	-	+	_	_	_	A	_	_	_	_	_	_
@@ -20,7 +20,7 @@
 19	care	_	Word	-	+	_	_	_	_	_	_	A	_	_	_
 20	of	_	Word	-	-	_	_	_	_	_	_	_	_	R	_
 21	Lennon	_	Word	-	+	_	_	_	_	_	_	_	A	_	_
-22	over	_	Word	-	-	_	_	_	_	_	_	E	_	_	_
+22	over	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_
 23	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	R
 24	her	_	Word	-	+	_	_	_	_	_	_	A	_	_	_
 25	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U

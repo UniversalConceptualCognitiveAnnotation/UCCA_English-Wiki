@@ -1,49 +1,49 @@
 # format = ucca
-1	After	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_
-2	uneven	_	Word	-	-	_	D	_	_	_	_	_	_	_	_	_	_	_
-3	commercial	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_
-4	success	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-5	in	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_
-6	the	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_
-7	late	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_
-8	1970s	_	Word	-	+	_	D	_	_	_	_	_	_	_	_	_	_	_
-9	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_
-10	Bowie	_	Word	-	-	_	A*	_	A	_	_	_	_	_	_	_	A*	_
-11	had	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_
-12	UK	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_
-13	number	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_
-14	ones	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_
-15	with	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_
-16	the	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_
-17	1980	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_
-18	single	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_	_
-19	"	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_
-20	Ashes	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_
-21	to	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
-22	Ashes	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
-23	"	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_
-24	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_
-25	its	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_
-26	parent	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_
-27	album	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_	_
-28	Scary	_	Word	-	+	_	_	_	_	_	_	C	_	_	_	_	_	_
-29	Monsters	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_	_
-30	(	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_
-31	and	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_	_
-32	Super	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_	_
-33	Creeps	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_	_
-34	)	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_
-35	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_
-36	and	_	Word	-	-	_	_	_	_	_	_	N	_	_	_	_	_	_
-37	"	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_
-38	Under	_	Word	-	+	_	_	_	_	_	_	C	_	_	_	_	_	_
-39	Pressure	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
-40	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_
-41	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_
-42	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_
-43	1981	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	D	_
-44	collaboration	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_	_
-45	with	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R
-46	Queen	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_
-47	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	After	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_
+2	uneven	_	Word	-	-	_	D	_	_	_	_	_	_	_	_	_	_	_	_
+3	commercial	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_	_
+4	success	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	in	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_
+6	the	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+7	late	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+8	1970s	_	Word	-	+	_	T	_	_	_	_	_	_	_	_	_	_	_	_
+9	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+10	Bowie	_	Word	-	-	_	A*	_	A	_	_	_	_	_	_	_	_	A*	_
+11	had	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_
+12	UK	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+13	number	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+14	ones	_	Word	-	-	_	_	_	_	Q	_	_	_	_	_	_	_	_	_
+15	with	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_	_
+16	the	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_
+17	1980	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_
+18	single	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_	_	_
+19	"	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_
+20	Ashes	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+21	to	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_
+22	Ashes	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_
+23	"	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_
+24	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_
+25	its	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	_	_	_	_
+26	parent	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+27	album	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_	_	_
+28	Scary	_	Word	-	+	_	_	_	_	_	_	C	_	_	_	_	_	_	_
+29	Monsters	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_
+30	(	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_
+31	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_
+32	Super	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_
+33	Creeps	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_
+34	)	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_
+35	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_
+36	and	_	Word	-	-	_	_	_	_	_	_	N	_	_	_	_	_	_	_
+37	"	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_
+38	Under	_	Word	-	+	_	_	_	_	_	_	C	_	_	_	_	_	_	_
+39	Pressure	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
+40	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_
+41	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_
+42	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_
+43	1981	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	T	_
+44	collaboration	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+45	with	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+46	Queen	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_
+47	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

@@ -1,44 +1,44 @@
 # format = ucca
-1	The	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
-2	film	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
-3	follows	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-4	a	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-5	young	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-6	American	_	Word	-	+	_	_	_	_	_	_	A*	_	A*	_	A*	A*	_	_	A*
-7	(	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
-8	Hawke	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-9	)	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
-10	and	_	Word	-	-	_	_	_	N	_	_	_	_	_	_	_	_	_	_	_
-11	a	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-12	young	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-13	French	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-14	woman	_	Word	-	+	_	_	_	_	_	_	A*	_	A*	_	A*	A*	_	_	A*
-15	(	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
-16	Julie	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-17	Delpy	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
-18	)	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
-19	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
-20	who	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_
-21	meet	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-22	on	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_
-23	a	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-24	train	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
-25	and	_	Word	-	-	_	_	_	_	_	_	L	_	_	_	_	_	_	_	_
-26	disembark	_	Word	-	+	_	_	_	_	_	_	H	_	_	_	_	_	_	_	_
-27	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
-28	Vienna	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
-29	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-30	spending	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D	_	_	_	_
-31	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-32	night	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_
-33	exploring	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
-34	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-35	city	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
-36	and	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_
-37	getting	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-38	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
-39	know	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_
-40	one	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A
-41	another	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A
-42	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	The	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_	_	_
+2	film	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_
+3	follows	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	a	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_	_	_
+5	young	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_
+6	American	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+7	(	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_
+8	Hawke	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+9	)	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_
+10	and	_	Word	-	-	_	_	_	N	_	_	_	_	_	_	_	_	_	_
+11	a	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_	_	_	_
+12	young	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+13	French	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+14	woman	_	Word	-	+	_	_	_	C	_	_	_	_	_	_	_	_	_	_
+15	(	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_
+16	Julie	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+17	Delpy	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
+18	)	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_
+19	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_
+20	who	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_	_
+21	meet	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+22	on	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_
+23	a	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_	_	_	_
+24	train	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+25	and	_	Word	-	-	_	_	_	_	_	_	L	_	_	_	_	_	_	_
+26	disembark	_	Word	-	+	_	_	_	_	_	_	H	_	_	_	_	_	_	_
+27	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_
+28	Vienna	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_
+29	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_
+30	spending	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	D	_	_
+31	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_	_	_
+32	night	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	T	_	_
+33	exploring	_	Word	-	+	_	_	_	_	_	_	H	_	_	_	_	_	_	_
+34	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	F	_
+35	city	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+36	and	_	Word	-	-	_	_	_	_	_	_	L	_	_	_	_	_	_	_
+37	getting	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	D
+38	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	F
+39	know	_	Word	-	+	_	_	_	_	_	_	H	_	_	_	_	_	_	_
+40	one	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	A
+41	another	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	A
+42	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

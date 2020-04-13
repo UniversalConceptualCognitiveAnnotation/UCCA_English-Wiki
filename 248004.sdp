@@ -1,11 +1,11 @@
 # format = ucca
-1	A	_	Word	-	-	_	E	_	_	_	_	_	_	_	_
-2	second	_	Word	-	-	_	E	_	_	_	_	_	_	_	_
-3	novel	_	Word	-	+	_	_	_	_	A	_	_	_	_	_
-4	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
-5	2002	_	Word	-	+	_	E	_	_	_	_	_	_	_	_
+1	A	_	Word	-	-	_	F	_	_	_	_	_	_	_	_
+2	second	_	Word	-	-	_	Q	_	_	_	_	_	_	_	_
+3	novel	_	Word	-	+	_	_	_	E	_	_	_	_	_	_
+4	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_
+5	2002	_	Word	-	+	_	_	_	E	_	_	_	_	_	_
 6	's	_	Word	-	-	_	_	R	_	_	_	_	_	_	_
-7	Ash	_	Word	-	+	_	E	_	_	_	A*	_	_	_	_
+7	Ash	_	Word	-	+	_	_	A*	_	_	A*	_	_	_	_
 8	Wednesday	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_
 9	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_
 10	was	_	Word	-	-	_	_	_	_	F	_	_	_	_	_

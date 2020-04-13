@@ -1,38 +1,38 @@
 # format = ucca
-1	By	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_
-2	the	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_
-3	summer	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	D	_
-4	of	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_
-5	1979	_	Word	-	+	_	E	_	_	_	_	_	_	_	_	_	_
-6	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_
-7	the	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_
-8	innovative	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_
-9	broadcast	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_
-10	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_
-11	which	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_	_
-12	featured	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_
-13	some	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_
-14	of	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_
-15	the	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_
-16	same	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_
-17	glitzy	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_
-18	presentation	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_
-19	as	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_
-20	Arledge	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_
-21	's	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_
-22	previous	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_
-23	television	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_
-24	coup	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_
-25	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_
-26	Wide	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_
-27	World	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_
-28	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_
-29	Sports	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_
-30	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_
-31	had	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_
-32	climbed	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
-33	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R
-34	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E
-35	ratings	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_
-36	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
+1	By	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_
+2	the	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_
+3	summer	_	Word	-	+	_	_	_	_	_	_	_	_	_	T	_
+4	of	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_
+5	1979	_	Word	-	+	_	C	_	_	_	_	_	_	_	_	_
+6	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_
+7	the	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_
+8	innovative	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_
+9	broadcast	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_
+10	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_
+11	which	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_
+12	featured	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_
+13	some	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_
+14	of	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_
+15	the	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_
+16	same	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_
+17	glitzy	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_
+18	presentation	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_
+19	as	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_
+20	Arledge	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_
+21	's	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_
+22	previous	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_
+23	television	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_
+24	coup	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_
+25	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_
+26	Wide	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_
+27	World	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_
+28	of	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_
+29	Sports	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_
+30	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_
+31	had	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_
+32	climbed	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+33	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
+34	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E
+35	ratings	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_
+36	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
 

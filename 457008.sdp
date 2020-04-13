@@ -1,8 +1,8 @@
 # format = ucca
 1	A	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-2	July	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	1995	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-4	documentary	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	July	_	Word	-	+	_	_	_	_	T	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	1995	_	Word	-	-	_	C	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	documentary	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 5	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 6	Peter	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
 7	Jennings	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
@@ -16,7 +16,7 @@
 15	Was	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 16	Dropped	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 17	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-18	which	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	which	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 19	aired	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 20	a	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
 21	week	_	Word	-	+	_	_	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_
@@ -26,10 +26,10 @@
 25	anniversary	_	Word	-	+	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 26	of	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_
 27	the	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-28	atomic	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+28	atomic	_	Word	-	-	_	_	_	_	_	_	_	_	D	_	_	_	_	_	_	_	_	_	_
 29	bombing	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
 30	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_
-31	Hiroshima	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+31	Hiroshima	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
 32	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_
 33	also	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D	_	_	_	_	_	_	_	_
 34	drew	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D	_	_	_	_	_	_	_	_
@@ -41,7 +41,7 @@
 40	television	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
 41	critics	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	C	_	_	_	_	_	_	_
 42	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_
-43	who	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_
+43	who	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
 44	called	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
 45	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
 46	program	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
@@ -51,7 +51,7 @@
 50	at	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_
 51	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
 52	decision	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-53	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_
+53	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
 54	drop	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
 55	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
 56	bomb	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_

@@ -1,22 +1,22 @@
 # format = ucca
-1	After	_	Word	-	-	_	L	_	_	_	_	_	_
+1	After	_	Word	-	-	_	_	L	_	_	_	_	_
 2	a	_	Word	-	-	_	E	_	_	_	_	_	_
-3	period	_	Word	-	+	_	_	_	_	_	_	_	_
+3	period	_	Word	-	+	_	_	T	T*	_	_	_	_
 4	of	_	Word	-	-	_	_	R	_	_	_	_	_
-5	inactivity	_	Word	-	+	_	E	_	_	_	_	_	_
-6	and	_	Word	-	-	_	_	N	_	_	_	_	_
+5	inactivity	_	Word	-	+	_	_	_	_	_	_	_	_
+6	and	_	Word	-	-	_	_	L	_	_	_	_	_
 7	ill	_	Word	-	-	_	_	_	E	_	_	_	_
 8	-	_	Punctuation	-	-	_	_	_	U	_	_	_	_
-9	health	_	Word	-	+	_	_	C	_	_	_	_	_
-10	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_
-11	Hepburn	_	Word	-	-	_	A*	_	_	A	_	A*	_
-12	died	_	Word	-	+	_	H	_	_	_	_	_	_
+9	health	_	Word	-	+	_	_	H	_	_	_	_	_
+10	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_
+11	Hepburn	_	Word	-	-	_	_	A*	A*	A	_	A*	_
+12	died	_	Word	-	+	_	_	H	_	_	_	_	_
 13	in	_	Word	-	-	_	_	_	_	_	R	_	_
-14	2003	_	Word	-	+	_	_	_	_	D	_	_	_
-15	at	_	Word	-	-	_	L	_	_	_	_	_	_
+14	2003	_	Word	-	+	_	_	_	_	T	_	_	_
+15	at	_	Word	-	-	_	_	_	_	_	_	R	_
 16	the	_	Word	-	-	_	_	_	_	_	_	E	_
-17	age	_	Word	-	+	_	H	_	_	_	_	_	_
+17	age	_	Word	-	+	_	_	_	_	A	_	_	_
 18	of	_	Word	-	-	_	_	_	_	_	_	_	R
-19	96	_	Word	-	+	_	_	_	_	_	_	E	_
+19	96	_	Word	-	+	_	_	_	_	_	_	T	_
 20	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
 

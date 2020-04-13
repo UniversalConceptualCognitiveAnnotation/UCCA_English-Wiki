@@ -1,43 +1,43 @@
 # format = ucca
-1	The	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_
-2	day	_	Word	-	+	_	_	_	L	_	_	_	_	_	_	_	_
-3	before	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_
-4	the	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_
-5	Beijing	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_
-6	Olympics	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_
-7	opened	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
-8	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_
-9	Chan	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_	_
-10	released	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_
-11	one	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_
-12	of	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_
-13	the	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_
-14	two	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_
-15	official	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_
-16	Olympics	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_
-17	albums	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_
-18	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_
-19	Official	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_
-20	Album	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_
-21	for	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_
-22	the	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_
-23	Beijing	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_
-24	2008	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_
-25	Olympic	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_
-26	Games	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_
-27	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_
-28	Jackie	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_
-29	Chan	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_
-30	's	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_
-31	Version	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_
-32	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_
-33	which	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_
-34	featured	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_
-35	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E
-36	number	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E
-37	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_
-38	special	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E
-39	guest	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E
-40	appearances	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_
-41	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
+1	The	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_
+2	day	_	Word	-	+	_	_	_	L	_	_	_	_	_	_	_
+3	before	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_
+4	the	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_
+5	Beijing	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_
+6	Olympics	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_
+7	opened	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+8	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_
+9	Chan	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_
+10	released	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_
+11	one	_	Word	-	+	_	_	_	_	_	_	_	Q	_	_	_
+12	of	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_
+13	the	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_
+14	two	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_
+15	official	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_
+16	Olympics	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_
+17	albums	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_
+18	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_
+19	Official	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_
+20	Album	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_
+21	for	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_
+22	the	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_
+23	Beijing	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_
+24	2008	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_
+25	Olympic	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_
+26	Games	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_
+27	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_
+28	Jackie	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_
+29	Chan	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_
+30	's	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_
+31	Version	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_
+32	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_
+33	which	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
+34	featured	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D
+35	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F
+36	number	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	D
+37	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_
+38	special	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D
+39	guest	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A
+40	appearances	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_
+41	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
 

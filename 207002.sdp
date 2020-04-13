@@ -1,22 +1,22 @@
 # format = ucca
-1	Time	_	Word	-	-	_	E	_	_	_	_	_	_
-2	magazine	_	Word	-	+	_	_	A	_	_	_	_	_
-3	called	_	Word	-	+	_	_	_	_	_	_	_	_
-4	Hoffman	_	Word	-	-	_	_	A	_	_	A*	_	_
-5	"	_	Punctuation	-	-	_	_	U	_	_	_	_	_
-6	a	_	Word	-	-	_	_	_	E	_	_	_	_
-7	symbol	_	Word	-	+	_	_	A	_	_	_	_	_
-8	of	_	Word	-	-	_	_	_	_	R	_	_	_
-9	youth	_	Word	-	+	_	_	_	E	_	_	_	_
-10	"	_	Punctuation	-	-	_	_	_	U	_	_	_	_
-11	who	_	Word	-	-	_	_	_	_	_	F	_	_
-12	represented	_	Word	-	+	_	_	_	E	_	_	_	_
-13	"	_	Punctuation	-	-	_	_	_	_	_	U	_	_
-14	a	_	Word	-	-	_	_	_	_	_	_	E	_
-15	new	_	Word	-	-	_	_	_	_	_	_	E	_
-16	breed	_	Word	-	+	_	_	_	_	_	A	_	_
-17	of	_	Word	-	-	_	_	_	_	_	_	_	R
-18	actors	_	Word	-	+	_	_	_	_	_	_	E	_
-19	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
-20	"	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+1	Time	_	Word	-	+	_	_	A	_	_	_	_
+2	magazine	_	Word	-	-	_	E	_	_	_	_	_
+3	called	_	Word	-	+	_	_	_	_	_	_	_
+4	Hoffman	_	Word	-	-	_	_	A	_	_	_	_
+5	"	_	Punctuation	-	-	_	_	U	_	_	_	_
+6	a	_	Word	-	-	_	_	_	F	_	_	_
+7	symbol	_	Word	-	+	_	_	A	_	_	_	_
+8	of	_	Word	-	-	_	_	_	_	R	_	_
+9	youth	_	Word	-	+	_	_	_	E	_	_	_
+10	"	_	Punctuation	-	-	_	_	_	U	_	_	_
+11	who	_	Word	-	-	_	_	_	_	_	R	_
+12	represented	_	Word	-	+	_	_	_	E	_	_	_
+13	"	_	Punctuation	-	-	_	_	_	_	_	U	_
+14	a	_	Word	-	-	_	_	_	_	_	_	F
+15	new	_	Word	-	-	_	_	_	_	_	_	E
+16	breed	_	Word	-	-	_	_	_	_	_	_	E
+17	of	_	Word	-	-	_	_	_	_	_	_	R
+18	actors	_	Word	-	+	_	_	_	_	_	A	_
+19	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+20	"	_	Punctuation	-	-	_	_	_	_	_	_	U
 

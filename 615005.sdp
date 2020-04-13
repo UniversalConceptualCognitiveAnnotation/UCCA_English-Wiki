@@ -1,24 +1,63 @@
 # format = ucca
-1	McCartney	_	Word	-	+	_	_	E	_	_	_	_	_	_
-2	's	_	Word	-	-	_	R	_	_	_	_	_	_	_
-3	earliest	_	Word	-	-	_	_	E	_	_	_	_	_	_
-4	musical	_	Word	-	-	_	_	E	_	_	_	_	_	_
-5	influences	_	Word	-	+	_	_	_	A	_	_	_	_	_
-6	include	_	Word	-	+	_	_	_	_	_	_	_	_	_
-7	Little	_	Word	-	+	_	_	_	A	_	_	_	_	_
-8	Richard	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_
-9	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_
-10	Elvis	_	Word	-	+	_	_	_	_	C	_	_	_	_
-11	Presley	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_
-12	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_
-13	Buddy	_	Word	-	+	_	_	_	_	C	_	_	_	_
-14	Holly	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_
-15	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_
-16	Carl	_	Word	-	+	_	_	_	_	C	_	_	_	_
-17	Perkins	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_
-18	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_
-19	and	_	Word	-	-	_	_	_	_	N	_	_	_	_
-20	Chuck	_	Word	-	+	_	_	_	_	C	_	_	_	_
-21	Berry	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal
-22	.	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_
+1	When	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	asked	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	why	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	the	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	Beatles	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	did	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	not	_	Word	-	-	_	_	_	_	D	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	include	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	Presley	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	on	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	the	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	Sgt	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	.	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	Pepper	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	cover	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	McCartney	_	Word	-	-	_	A*	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	replied	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	"	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	Elvis	_	Word	-	-	_	_	_	_	_	_	_	_	A	_	A*	_	_	A*	_	_	_	_	_	_	_	_
+22	was	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	too	_	Word	-	-	_	_	_	_	_	_	_	_	D	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	important	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	and	_	Word	-	-	_	_	_	_	_	_	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_
+26	too	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+27	far	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	D	_	_	_	_	_	_	_	_	_	_	_
+28	above	_	Word	-	+	_	_	_	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
+29	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_
+30	rest	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
+31	even	_	Word	-	+	_	_	_	_	_	_	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_
+32	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_
+33	mention	_	Word	-	+	_	_	_	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
+34	...	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+35	so	_	Word	-	-	_	_	_	_	_	_	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_
+36	we	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+37	did	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_	_
+38	n't	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_	_	_	_	_	_	_
+39	put	_	Word	-	+	_	_	_	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
+40	him	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+41	on	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_
+42	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_
+43	list	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+44	because	_	Word	-	-	_	_	_	_	_	_	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_
+45	he	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
+46	was	_	Word	-	+	_	_	_	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
+47	more	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+48	than	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_
+49	merely	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_	_	_
+50	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_
+51	...	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_
+52	pop	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
+53	singer	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
+54	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+55	he	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+56	was	_	Word	-	+	_	_	_	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
+57	Elvis	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+58	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F
+59	King	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+60	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+61	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

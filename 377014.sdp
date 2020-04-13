@@ -1,40 +1,40 @@
 # format = ucca
-1	Gyllenhaal	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
-2	's	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	performance	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
-4	was	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_
-5	well	_	Word	-	-	_	_	_	D	_	_	_	_	_	_	_	_	_	_	_
-6	received	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-7	by	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_
-8	critics	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
-9	;	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
-10	Gary	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
-11	Mairs	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
-12	of	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_
-13	Culture	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-14	Vulture	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
-15	wrote	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_
-16	that	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_
-17	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_
-18	Gyllenhaal	_	Word	-	-	_	_	_	_	_	_	_	_	A	_	A*	_	_	_	_
-19	manages	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
-20	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-21	difficult	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-22	trick	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-23	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
-24	seeming	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
-25	both	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	N	_	_	_
-26	blandly	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-27	normal	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
-28	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	N	_	_	_
-29	profoundly	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-30	disturbed	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	C	_	_	_
-31	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_
-32	often	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-33	within	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
-34	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-35	same	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-36	scene	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
-37	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
-38	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	Gyllenhaal	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	's	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	performance	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
+4	was	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_
+5	well	_	Word	-	-	_	_	_	D	_	_	_	_	_	_	_	_	_	_	_	_
+6	received	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	by	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_
+8	critics	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
+9	;	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+10	Gary	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
+11	Mairs	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
+12	of	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_
+13	Culture	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+14	Vulture	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
+15	wrote	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_
+16	that	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_
+17	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_
+18	Gyllenhaal	_	Word	-	-	_	_	_	_	_	_	_	_	A	_	_	_	A*	A*	_	_
+19	manages	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
+20	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_
+21	difficult	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
+22	trick	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+23	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
+24	seeming	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	G	G*	_	_
+25	both	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	L	_	_	_
+26	blandly	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	D	_	_	_
+27	normal	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+28	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_
+29	profoundly	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_	_
+30	disturbed	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	H	_	_	_
+31	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_
+32	often	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+33	within	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+34	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F
+35	same	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+36	scene	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	A*	_	_
+37	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+38	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

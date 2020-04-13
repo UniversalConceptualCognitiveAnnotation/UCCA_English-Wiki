@@ -1,42 +1,42 @@
 # format = ucca
-1	He	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_	_
-2	performed	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	again	_	Word	-	-	_	D	_	_	_	_	_	_	_	_	_	_	_	_
-4	in	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_
-5	November	_	Word	-	+	_	D	_	_	_	_	_	_	_	_	_	_	_	_
-6	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-7	alongside	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_
-8	Alicia	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_
-9	Keys	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
-10	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-11	at	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_
-12	the	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-13	Black	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_
-14	Ball	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
-15	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_
-16	a	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-17	New	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-18	York	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
-19	benefit	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-20	event	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-21	for	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_
-22	Keep	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-23	a	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
-24	Child	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
-25	Alive	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
-26	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-27	a	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-28	performance	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_
-29	that	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_	_	_
-30	marks	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_
-31	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-32	last	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-33	time	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	D	_	_
-34	Bowie	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A	_	_
-35	performed	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_
-36	his	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-37	music	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_
-38	on	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R
-39	stage	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_
-40	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	He	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_
+2	performed	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	again	_	Word	-	-	_	D	_	_	_	_	_	_	_	_	_	_	_
+4	in	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_
+5	November	_	Word	-	+	_	T	_	_	_	_	_	_	_	_	_	_	_
+6	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_
+7	alongside	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_
+8	Alicia	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_
+9	Keys	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
+10	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_
+11	at	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_
+12	the	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_
+13	Black	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_
+14	Ball	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
+15	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_
+16	a	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_
+17	New	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_
+18	York	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_	_
+19	benefit	_	Word	-	-	_	_	_	_	_	_	A	_	_	_	_	_	_
+20	event	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_
+21	for	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_
+22	Keep	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_
+23	a	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_
+24	Child	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_
+25	Alive	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_
+26	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_
+27	a	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_
+28	performance	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_
+29	that	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_
+30	marks	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D	_	_
+31	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_
+32	last	_	Word	-	-	_	_	_	_	_	_	_	_	_	Q	_	_	_
+33	time	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	D	_	_
+34	Bowie	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A	_	_
+35	performed	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_
+36	his	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_
+37	music	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_
+38	on	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R
+39	stage	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_
+40	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
 

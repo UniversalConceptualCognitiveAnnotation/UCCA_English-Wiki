@@ -1,31 +1,31 @@
 # format = ucca
-1	The	_	Word	-	-	_	E	_	_	_	_	_	_	_	_
-2	film	_	Word	-	+	_	_	A	A*	_	_	_	A*	_	_
-3	is	_	Word	-	-	_	_	F	_	_	_	_	_	_	_
-4	expected	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-5	to	_	Word	-	-	_	_	_	F	_	_	_	_	_	_
-6	be	_	Word	-	+	_	_	A	_	_	_	_	_	_	_
-7	the	_	Word	-	-	_	_	_	_	E	_	_	_	_	_
-8	third	_	Word	-	+	_	_	_	_	_	_	E	_	_	_
-9	in	_	Word	-	-	_	_	_	_	F	_	_	_	_	_
-10	the	_	Word	-	-	_	_	_	_	_	_	E	_	_	_
-11	Armour	_	Word	-	+	_	_	_	_	_	_	E	_	_	_
-12	of	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_
-13	God	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_
-14	series	_	Word	-	+	_	_	_	A	_	_	_	_	_	_
-15	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_
-16	and	_	Word	-	-	_	_	L	_	_	_	_	_	_	_
-17	has	_	Word	-	+	_	_	H	_	_	_	_	_	_	_
-18	a	_	Word	-	-	_	_	_	_	_	_	_	_	E	_
-19	working	_	Word	-	-	_	_	_	_	_	_	_	_	E	_
-20	title	_	Word	-	+	_	_	_	_	_	_	_	A	_	_
-21	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	F
-22	Armour	_	Word	-	+	_	_	_	_	_	_	_	_	E	_
-23	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal
-24	God	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal
-25	III	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal
-26	:	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
-27	Chinese	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal
-28	Zodiac	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal
-29	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+1	The	_	Word	-	-	_	F	_	_	_	_	_	_	_
+2	film	_	Word	-	+	_	_	A	A*	_	_	A*	_	_
+3	is	_	Word	-	-	_	_	F	_	_	_	_	_	_
+4	expected	_	Word	-	+	_	_	_	_	_	_	_	_	_
+5	to	_	Word	-	-	_	_	_	F	_	_	_	_	_
+6	be	_	Word	-	+	_	_	A	_	_	_	_	_	_
+7	the	_	Word	-	-	_	_	_	_	F	_	_	_	_
+8	third	_	Word	-	+	_	_	_	A	_	_	_	_	_
+9	in	_	Word	-	-	_	_	_	_	_	R	_	_	_
+10	the	_	Word	-	-	_	_	_	_	_	F	_	_	_
+11	Armour	_	Word	-	+	_	_	_	_	E	_	_	_	_
+12	of	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_
+13	God	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_
+14	series	_	Word	-	-	_	_	_	_	_	E	_	_	_
+15	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_
+16	and	_	Word	-	-	_	_	L	_	_	_	_	_	_
+17	has	_	Word	-	+	_	_	H	_	_	_	_	_	_
+18	a	_	Word	-	-	_	_	_	_	_	_	_	_	F
+19	working	_	Word	-	-	_	_	_	_	_	_	_	E	_
+20	title	_	Word	-	+	_	_	_	_	_	_	_	_	E
+21	of	_	Word	-	-	_	_	_	_	_	_	_	_	R
+22	Armour	_	Word	-	+	_	_	_	_	_	_	A	_	_
+23	of	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal
+24	God	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal
+25	III	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal
+26	:	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+27	Chinese	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal
+28	Zodiac	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal
+29	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
 

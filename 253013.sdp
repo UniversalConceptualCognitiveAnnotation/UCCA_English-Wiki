@@ -1,35 +1,35 @@
 # format = ucca
-1	He	_	Word	-	-	_	A	_	A*	_	_	_	_	_	_
-2	supports	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-3	the	_	Word	-	+	_	A	_	_	_	_	_	_	_	_
-4	United	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_
-5	States	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_
-6	Democratic	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_
-7	Party	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_
-8	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
-9	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_
-10	supported	_	Word	-	+	_	H	_	_	_	_	_	_	_	_
-11	Bill	_	Word	-	+	_	_	_	A	_	_	_	_	_	_
-12	Bradley	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_
-13	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_
-14	John	_	Word	-	+	_	_	_	_	C	_	_	_	_	_
-15	Kerry	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_
-16	and	_	Word	-	-	_	_	_	_	N	_	_	_	_	_
-17	Barack	_	Word	-	+	_	_	_	_	C	_	_	_	_	_
-18	Obama	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_
-19	for	_	Word	-	-	_	_	_	_	_	_	_	R	_	_
-20	President	_	Word	-	+	_	_	_	A	_	_	_	_	_	_
-21	of	_	Word	-	-	_	_	_	_	_	_	_	_	R	_
-22	the	_	Word	-	-	_	_	_	_	_	_	_	_	E	_
-23	United	_	Word	-	+	_	_	_	_	_	_	_	E	_	_
-24	States	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_
-25	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	R
-26	2000	_	Word	-	+	_	_	_	D	_	_	_	_	_	_
-27	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
-28	2004	_	Word	-	-	_	_	_	_	_	_	_	_	_	C
-29	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	N
-30	2008	_	Word	-	-	_	_	_	_	_	_	_	_	_	C
-31	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
-32	respectively	_	Word	-	-	_	_	_	_	_	_	_	_	_	R
-33	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+1	He	_	Word	-	-	_	A	_	_	A*	_	_	_	_	_	_
+2	supports	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+3	the	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_
+4	United	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_
+5	States	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_
+6	Democratic	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_
+7	Party	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_
+8	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_
+9	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_
+10	supported	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_
+11	Bill	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_
+12	Bradley	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_
+13	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_
+14	John	_	Word	-	+	_	_	_	_	_	C	_	_	_	_	_
+15	Kerry	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_
+16	and	_	Word	-	-	_	_	_	_	_	N	_	_	_	_	_
+17	Barack	_	Word	-	+	_	_	_	_	_	C	_	_	_	_	_
+18	Obama	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_
+19	for	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_
+20	President	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_
+21	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_
+22	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_
+23	United	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_
+24	States	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_
+25	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
+26	2000	_	Word	-	+	_	_	_	_	T	_	_	_	_	_	_
+27	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
+28	2004	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	C
+29	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	N
+30	2008	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	C
+31	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
+32	respectively	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
+33	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
 

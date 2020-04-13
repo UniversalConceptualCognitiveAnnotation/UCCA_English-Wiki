@@ -1,23 +1,23 @@
 # format = ucca
-1	Many	_	Word	-	+	_	_	E	_	_	_	_	_	_
-2	of	_	Word	-	-	_	R	_	_	_	_	_	_	_
-3	his	_	Word	-	-	_	_	E	_	_	_	_	_	_
-4	future	_	Word	-	-	_	_	E	_	_	_	_	_	_
-5	recordings	_	Word	-	+	_	_	_	A	_	_	_	_	_
-6	were	_	Word	-	-	_	_	_	F	_	_	_	_	_
-7	inspired	_	Word	-	+	_	_	_	_	_	_	_	_	_
-8	by	_	Word	-	-	_	_	_	_	_	R	_	_	_
-9	local	_	Word	-	-	_	_	_	_	_	E	_	_	_
-10	African	_	Word	-	+	_	_	_	_	_	E	_	_	_
-11	-	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_
-12	American	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_
-13	musicians	_	Word	-	+	_	_	_	A	_	_	_	_	_
-14	such	_	Word	-	+	_	_	_	_	_	_	_	R	_
-15	as	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_
-16	Arthur	_	Word	-	+	_	_	_	_	_	E	_	_	_
-17	Crudup	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_
-18	and	_	Word	-	-	_	_	_	_	_	_	_	N	_
-19	Rufus	_	Word	-	+	_	_	_	_	_	_	_	C	_
-20	Thomas	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal
-21	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_
+1	Many	_	Word	-	-	_	Q	_	_	_	_	_	_
+2	of	_	Word	-	-	_	R	_	_	_	_	_	_
+3	his	_	Word	-	-	_	E	_	_	_	_	_	_
+4	future	_	Word	-	-	_	E	_	_	_	_	_	_
+5	recordings	_	Word	-	+	_	_	A	_	_	_	_	_
+6	were	_	Word	-	-	_	_	F	_	_	_	_	_
+7	inspired	_	Word	-	+	_	_	_	_	_	_	_	_
+8	by	_	Word	-	-	_	_	_	R	_	_	_	_
+9	local	_	Word	-	+	_	_	A	_	_	_	_	_
+10	African	_	Word	-	-	_	_	_	_	E	_	_	_
+11	-	_	Punctuation	-	-	_	_	_	_	U	_	_	_
+12	American	_	Word	-	+	_	_	_	E	_	_	_	_
+13	musicians	_	Word	-	-	_	_	_	A	A*	_	_	_
+14	such	_	Word	-	+	_	_	_	_	_	_	R	_
+15	as	_	Word	-	-	_	_	_	_	_	Terminal	_	_
+16	Arthur	_	Word	-	+	_	_	_	E	_	_	_	_
+17	Crudup	_	Word	-	-	_	_	_	_	_	_	Terminal	_
+18	and	_	Word	-	-	_	_	_	_	_	_	N	_
+19	Rufus	_	Word	-	+	_	_	_	_	_	_	C	_
+20	Thomas	_	Word	-	-	_	_	_	_	_	_	_	Terminal
+21	.	_	Punctuation	-	-	_	_	_	_	_	_	U	_
 

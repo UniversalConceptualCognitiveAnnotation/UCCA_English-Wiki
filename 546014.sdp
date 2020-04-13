@@ -1,47 +1,47 @@
 # format = ucca
-1	The	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-2	deal	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_
-3	did	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_	_	_
-4	not	_	Word	-	-	_	_	D	_	_	_	_	_	_	_	_	_	_	_
-5	include	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-6	the	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-7	black	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-8	-	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_
-9	and	_	Word	-	-	_	_	_	N	_	_	_	_	_	_	_	_	_	_
-10	-	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_
-11	white	_	Word	-	-	_	_	_	C	_	_	_	_	_	_	_	_	_	_
-12	Looney	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-13	Tunes	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
-14	films	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_
-15	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_
-16	the	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-17	first	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-18	Merrie	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-19	Melodie	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_
-20	film	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-21	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_	_
-22	Lady	_	Word	-	+	_	_	_	_	_	C	_	_	_	_	_	_	_	_
-23	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_	_
-24	Play	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_
-25	Your	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_
-26	Mandolin	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_
-27	!	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_
-28	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_
-29	and	_	Word	-	-	_	_	_	_	_	N	_	_	_	_	_	_	_	_
-30	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-31	color	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-32	cartoons	_	Word	-	+	_	_	_	_	_	C	_	_	_	_	_	_	_	_
-33	released	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-34	between	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_
-35	August	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-36	1	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-37	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_	_
-38	1948	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	D	_	_	_
-39	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_	_
-40	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	N	_	_
-41	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-42	close	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-43	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_
-44	1949	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	C	_	_
-45	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	The	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_	_
+2	deal	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_
+3	did	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_	_
+4	not	_	Word	-	-	_	_	D	_	_	_	_	_	_	_	_	_	_
+5	include	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	the	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_	_	_
+7	black	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_	_
+8	-	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_
+9	and	_	Word	-	-	_	_	_	N	_	_	_	_	_	_	_	_	_
+10	-	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_
+11	white	_	Word	-	-	_	_	_	C	_	_	_	_	_	_	_	_	_
+12	Looney	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_	_
+13	Tunes	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
+14	films	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_
+15	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_
+16	the	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_	_	_
+17	first	_	Word	-	-	_	_	_	_	_	_	_	Q	_	_	_	_	_
+18	Merrie	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_	_
+19	Melodie	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
+20	film	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_	_
+21	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_
+22	Lady	_	Word	-	+	_	_	_	_	_	C	_	_	_	_	_	_	_
+23	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_
+24	Play	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_	_
+25	Your	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_	_
+26	Mandolin	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_	_
+27	!	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_
+28	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_
+29	and	_	Word	-	-	_	_	_	_	_	N	_	_	_	_	_	_	_
+30	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_	_
+31	color	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_
+32	cartoons	_	Word	-	+	_	_	_	_	_	C	_	_	_	_	_	_	_
+33	released	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_	_
+34	between	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_
+35	August	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	T	_	_
+36	1	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	C	_
+37	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_
+38	1948	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	C	_
+39	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_
+40	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	N	_
+41	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	F
+42	close	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	C	_
+43	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R
+44	1949	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	C
+45	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
 

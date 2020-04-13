@@ -1,42 +1,42 @@
 # format = ucca
-1	Her	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_
-2	final	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_
-3	years	_	Word	-	+	_	_	D	_	_	_	_	_	_	_	_	_	_
-4	were	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_	_
-5	marred	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-6	by	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_
-7	a	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_
-8	long	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_
-9	period	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_
-10	of	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_
-11	ill	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_
-12	health	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_
-13	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_
-14	but	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_
-15	she	_	Word	-	-	_	_	_	_	_	A	_	_	_	_	_	_	_
-16	continued	_	Word	-	-	_	_	_	_	_	D	_	_	_	_	_	_	_
-17	acting	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_
-18	until	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_
-19	shortly	_	Word	-	+	_	_	L	_	_	_	_	_	_	_	_	_	_
-20	before	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_
-21	her	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_
-22	death	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_
-23	from	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_
-24	breast	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_
-25	cancer	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_
-26	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_
-27	with	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R
-28	more	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_
-29	than	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_	_
-30	100	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_
-31	films	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A
-32	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_
-33	television	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	C	_	_
-34	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	N	_	_
-35	theater	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_
-36	roles	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	C	_	_
-37	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	F
-38	her	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E
-39	credit	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_
-40	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	Her	_	Word	-	-	_	E	_	_	A*	_	_	_	_	_	_	_
+2	final	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_
+3	years	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_
+4	were	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_
+5	marred	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
+6	by	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_
+7	a	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_
+8	long	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_
+9	period	_	Word	-	+	_	_	_	_	T	_	_	_	_	_	_	_
+10	of	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_
+11	ill	_	Word	-	-	_	_	_	_	D	_	_	_	_	_	_	_
+12	health	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_
+13	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_
+14	but	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_
+15	she	_	Word	-	-	_	_	_	_	_	A	_	_	_	_	_	_
+16	continued	_	Word	-	-	_	_	_	_	_	D	_	_	_	_	_	_
+17	acting	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_
+18	until	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_
+19	shortly	_	Word	-	+	_	_	L	_	_	_	_	_	_	_	_	_
+20	before	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_
+21	her	_	Word	-	-	_	_	_	_	_	_	_	A	A*	_	_	_
+22	death	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_
+23	from	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_
+24	breast	_	Word	-	-	_	_	_	_	_	_	_	_	A	_	_	_
+25	cancer	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_
+26	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_
+27	with	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R
+28	more	_	Word	-	-	_	_	_	_	_	_	_	_	_	Q	_	_
+29	than	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_
+30	100	_	Word	-	-	_	_	_	_	_	_	_	_	_	Q	_	_
+31	films	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A
+32	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_
+33	television	_	Word	-	-	_	_	_	_	_	_	_	_	_	C	_	_
+34	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	N	_	_
+35	theater	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_
+36	roles	_	Word	-	+	_	_	_	_	_	_	_	_	_	C	_	_
+37	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F
+38	her	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A
+39	credit	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_
+40	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
 

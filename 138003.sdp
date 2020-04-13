@@ -1,39 +1,39 @@
 # format = ucca
-1	Hepburn	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_
-2	played	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
-3	a	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_
-4	cold	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_
-5	-	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_
-6	hearted	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_
-7	Soviet	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_
-8	pilot	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_
-9	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_
-10	a	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_
-11	performance	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_
-12	Bosley	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_
-13	Crowther	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_
-14	called	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_
-15	"	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_
-16	horrible	_	Word	-	-	_	_	_	_	_	_	A	_	_	_	_	_
-17	"	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_
-18	.	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_
-19	It	_	Word	-	-	_	_	_	_	_	_	_	_	A	_	_	_
-20	was	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_
-21	a	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_
-22	critical	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_
-23	and	_	Word	-	-	_	_	_	_	_	_	_	N	_	_	_	_
-24	commercial	_	Word	-	-	_	_	_	_	_	_	_	C	_	_	_	_
-25	failure	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_
-26	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_
-27	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_
-28	Hepburn	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_	_
-29	considered	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_
-30	it	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_	_
-31	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_
-32	worst	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_
-33	film	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_
-34	on	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R
-35	her	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E
-36	resume	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_
-37	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
+1	Hepburn	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_
+2	played	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	a	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_
+4	cold	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_
+5	-	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_
+6	hearted	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_
+7	Soviet	_	Word	-	-	_	_	_	A	_	_	_	_	_	_	_	_	_
+8	pilot	_	Word	-	+	_	_	A*	_	_	_	_	_	_	_	_	_	_
+9	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_
+10	a	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_
+11	performance	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_
+12	Bosley	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_
+13	Crowther	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_	_
+14	called	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_
+15	"	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_
+16	horrible	_	Word	-	-	_	_	_	_	_	_	A	_	_	_	_	_	_
+17	"	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_
+18	.	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_
+19	It	_	Word	-	-	_	_	_	_	_	_	_	_	A	_	_	_	_
+20	was	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_	_
+21	a	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_	_	_
+22	critical	_	Word	-	+	_	_	_	_	_	_	_	_	D	_	_	_	_
+23	and	_	Word	-	-	_	_	_	_	_	_	_	N	_	_	_	_	_
+24	commercial	_	Word	-	-	_	_	_	_	_	_	_	C	_	_	_	_	_
+25	failure	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_
+26	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_
+27	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_
+28	Hepburn	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_	_	_
+29	considered	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_
+30	it	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_	_	_
+31	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_
+32	worst	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_
+33	film	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_
+34	on	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R
+35	her	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E
+36	resume	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_
+37	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
 

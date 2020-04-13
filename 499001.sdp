@@ -1,28 +1,28 @@
 # format = ucca
-1	Offstage	_	Word	-	-	_	A	_	_	_	_	_	_	_
-2	I	_	Word	-	-	_	A	_	_	_	_	_	_	_
-3	'm	_	Word	-	+	_	_	_	_	_	_	_	_	_
-4	a	_	Word	-	-	_	_	E	_	_	_	_	_	_
-5	robot	_	Word	-	+	_	A	_	_	_	_	_	_	_
-6	.	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_
-7	Onstage	_	Word	-	-	_	_	_	A	_	_	_	_	_
-8	I	_	Word	-	-	_	_	_	A	_	_	_	_	_
-9	achieve	_	Word	-	+	_	H	_	_	_	_	_	_	_
-10	emotion	_	Word	-	-	_	_	_	A	_	_	_	_	_
-11	.	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_
-12	It	_	Word	-	+	_	L	_	_	_	_	_	_	_
-13	's	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_
-14	probably	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_
-15	why	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_
-16	I	_	Word	-	-	_	_	_	_	_	A	A*	_	A*
-17	prefer	_	Word	-	+	_	H	_	_	_	_	_	_	_
-18	dressing	_	Word	-	+	_	_	_	_	_	A	_	_	_
-19	up	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_
-20	as	_	Word	-	-	_	_	_	_	_	_	_	R	_
-21	Ziggy	_	Word	-	+	_	_	_	_	_	_	A	_	_
-22	to	_	Word	-	-	_	_	_	_	_	_	N	_	_
-23	being	_	Word	-	+	_	_	_	_	_	_	C	_	_
-24	David	_	Word	-	-	_	_	_	_	_	_	_	_	A
-25	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
-26	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+1	Offstage	_	Word	-	-	_	A	_	_	_	_	_	_
+2	I	_	Word	-	-	_	A	_	_	_	_	_	_
+3	'm	_	Word	-	+	_	_	_	_	_	_	_	_
+4	a	_	Word	-	-	_	_	E	_	_	_	_	_
+5	robot	_	Word	-	+	_	A	_	_	_	_	_	_
+6	.	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+7	Onstage	_	Word	-	-	_	_	_	A	_	_	_	_
+8	I	_	Word	-	-	_	_	_	A	_	_	_	_
+9	achieve	_	Word	-	+	_	H	_	_	_	_	_	_
+10	emotion	_	Word	-	-	_	_	_	A	_	_	_	_
+11	.	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+12	It	_	Word	-	-	_	_	_	_	F	_	_	_
+13	's	_	Word	-	-	_	_	_	_	F	_	_	_
+14	probably	_	Word	-	-	_	_	_	_	E	_	_	_
+15	why	_	Word	-	+	_	H	_	_	_	_	_	_
+16	I	_	Word	-	-	_	_	_	_	_	A	_	A*
+17	prefer	_	Word	-	-	_	_	_	_	_	D	_	_
+18	dressing	_	Word	-	+	_	H	_	_	_	_	_	_
+19	up	_	Word	-	-	_	_	_	_	_	Terminal	_	_
+20	as	_	Word	-	-	_	_	_	_	_	_	R	_
+21	Ziggy	_	Word	-	+	_	_	_	_	_	A	_	_
+22	to	_	Word	-	-	_	L	_	_	_	_	_	_
+23	being	_	Word	-	+	_	H	_	_	_	_	_	_
+24	David	_	Word	-	-	_	_	_	_	_	_	_	A
+25	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+26	"	_	Punctuation	-	-	_	_	_	_	_	_	_	U
 

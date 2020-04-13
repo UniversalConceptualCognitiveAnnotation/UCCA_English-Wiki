@@ -1,53 +1,53 @@
 # format = ucca
-1	Amid	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-2	speculation	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	from	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-4	general	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-5	manager	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-6	Jerry	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-7	West	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-8	that	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-9	he	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-10	may	_	Word	-	-	_	_	_	_	D	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-11	only	_	Word	-	-	_	_	_	_	D	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-12	coach	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-13	until	_	Word	-	-	_	_	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-14	the	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
-15	end	_	Word	-	+	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-16	of	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_
-17	the	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-18	season	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
-19	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-20	Johnson	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	_	_	A*	_	_	_	_	_	_
-21	took	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-22	over	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
-23	a	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-24	team	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
-25	that	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_
-26	had	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-27	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-28	28	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-29	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_
-30	38	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
-31	record	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
-32	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-33	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-34	won	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-35	his	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-36	first	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-37	game	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
-38	as	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_
-39	head	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-40	coach	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-41	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_
-42	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-43	110	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-44	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_
-45	101	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
-46	victory	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
-47	over	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
-48	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-49	Milwaukee	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
-50	Bucks	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
-51	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	Amid	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	speculation	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	from	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_
+4	general	_	Word	-	-	_	_	D	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	manager	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+6	Jerry	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	West	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_
+8	that	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_
+9	he	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
+10	may	_	Word	-	-	_	_	_	_	D	_	_	_	_	_	_	_	_	_	_	_
+11	only	_	Word	-	-	_	_	_	_	D	_	_	_	_	_	_	_	_	_	_	_
+12	coach	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	until	_	Word	-	-	_	_	_	_	L	_	_	_	_	_	_	_	_	_	_	_
+14	the	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_
+15	end	_	Word	-	+	_	_	_	_	_	_	D	_	_	_	_	_	_	_	_	_
+16	of	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_
+17	the	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_
+18	season	_	Word	-	+	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_
+19	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	Johnson	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	_	A*	_	_	_	_
+21	took	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	over	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
+23	a	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_	_
+24	team	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
+25	that	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
+26	had	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_
+27	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_
+28	28	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
+29	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_
+30	38	_	Word	-	-	_	_	_	_	_	_	_	_	_	C	_	_	_	_	_	_
+31	record	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
+32	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+33	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+34	won	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+35	his	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
+36	first	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	D	_	_	_
+37	game	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+38	as	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_
+39	head	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_	_
+40	coach	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
+41	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_
+42	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_
+43	110	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+44	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_
+45	101	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	C	_
+46	victory	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_
+47	over	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+48	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F
+49	Milwaukee	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+50	Bucks	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
+51	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

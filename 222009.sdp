@@ -1,33 +1,33 @@
 # format = ucca
-1	Since	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_
-2	his	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_
-3	parents	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_
-4	worked	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
-5	for	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_
-6	the	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_
-7	French	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_
-8	ambassador	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_
-9	in	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_
-10	Hong	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_
-11	Kong	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_
-12	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_
-13	Chan	_	Word	-	-	_	_	_	_	_	A	_	_	_	_	_	_
-14	spent	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_
-15	his	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_
-16	formative	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_
-17	years	_	Word	-	+	_	_	_	_	_	D	_	_	_	_	_	_
-18	within	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_
-19	the	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_
-20	grounds	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_
-21	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_
-22	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_
-23	consul	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_
-24	's	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_
-25	residence	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_
-26	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R
-27	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E
-28	Victoria	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E
-29	Peak	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_
-30	district	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_
-31	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
+1	Since	_	Word	-	-	_	_	L	_	_	_	_	_	_	_
+2	his	_	Word	-	-	_	A	_	_	_	_	_	_	_	_
+3	parents	_	Word	-	+	_	_	A	_	_	_	_	_	_	_
+4	worked	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+5	for	_	Word	-	-	_	_	_	R	_	_	_	_	_	_
+6	the	_	Word	-	-	_	_	_	F	_	_	_	_	_	_
+7	French	_	Word	-	+	_	_	A	_	_	_	_	_	_	_
+8	ambassador	_	Word	-	-	_	_	_	A	_	_	_	_	_	_
+9	in	_	Word	-	-	_	_	_	_	R	_	_	_	_	_
+10	Hong	_	Word	-	+	_	_	_	A	_	_	_	_	_	_
+11	Kong	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_
+12	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_
+13	Chan	_	Word	-	-	_	_	_	_	_	A	_	_	_	_
+14	spent	_	Word	-	+	_	_	H	_	_	_	_	_	_	_
+15	his	_	Word	-	-	_	_	_	_	_	_	E	_	_	_
+16	formative	_	Word	-	-	_	_	_	_	_	_	E	_	_	_
+17	years	_	Word	-	+	_	_	_	_	_	T	_	_	_	_
+18	within	_	Word	-	-	_	_	_	_	_	_	_	_	R	_
+19	the	_	Word	-	-	_	_	_	_	_	_	_	_	F	_
+20	grounds	_	Word	-	-	_	_	_	_	_	_	_	_	E	_
+21	of	_	Word	-	-	_	_	_	_	_	_	_	_	R	_
+22	the	_	Word	-	-	_	_	_	_	_	_	_	_	F	_
+23	consul	_	Word	-	+	_	_	_	_	_	_	_	_	A*	_
+24	's	_	Word	-	-	_	_	_	_	_	_	_	R	_	_
+25	residence	_	Word	-	+	_	_	_	_	_	A	_	_	_	_
+26	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	R
+27	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	F
+28	Victoria	_	Word	-	+	_	_	_	_	_	_	_	_	E	_
+29	Peak	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal
+30	district	_	Word	-	-	_	_	_	_	_	_	_	_	_	E
+31	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
 

@@ -1,22 +1,65 @@
 # format = ucca
-1	The	_	Word	-	-	_	E	_	_	_	_	_	_	_
-2	film	_	Word	-	+	_	_	_	_	_	A*	_	A*	_
-3	was	_	Word	-	+	_	_	_	_	_	_	_	_	_
-4	a	_	Word	-	-	_	_	_	_	E	_	_	_	_
-5	box	_	Word	-	+	_	_	_	_	E	_	_	_	_
-6	office	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_
-7	hit	_	Word	-	+	_	_	A	_	_	_	_	_	_
-8	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_
-9	taking	_	Word	-	+	_	_	H	_	_	_	_	_	_
-10	$	_	Word	-	+	_	_	_	_	_	A	_	_	_
-11	104	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_
-12	million	_	Word	-	-	_	_	_	_	_	_	E	_	_
-13	worldwide	_	Word	-	-	_	_	_	_	_	_	E	_	_
-14	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_
-15	and	_	Word	-	-	_	_	L	_	_	_	_	_	_
-16	garnered	_	Word	-	+	_	_	H	_	_	_	_	_	_
-17	generally	_	Word	-	-	_	_	_	_	_	_	_	D	_
-18	favorable	_	Word	-	-	_	_	_	_	_	_	_	_	E
-19	reviews	_	Word	-	+	_	_	_	_	_	_	_	A	_
-20	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+1	Paul	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	Clinton	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	of	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	CNN	_	Word	-	+	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	reported	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	that	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	Hawke	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	's	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	performance	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	was	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	"	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	totally	_	Word	-	-	_	_	_	_	_	_	D	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	believable	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	as	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	a	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	doe	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	-	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	eyed	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	rookie	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	going	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	toe	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	toe	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_
+26	with	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_
+27	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_
+28	legend	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+29	[	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+30	Washington	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
+31	]	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+32	"	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+33	.	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+34	Hawke	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
+35	himself	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_
+36	described	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+37	Training	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
+38	Day	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
+39	as	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_
+40	his	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+41	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_
+42	best	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_	_	_	_	_	_	_
+43	experience	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
+44	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_
+45	Hollywood	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+46	"	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+47	.	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+48	His	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
+49	performance	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+50	earned	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+51	him	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+52	Screen	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+53	Actors	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
+54	Guild	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
+55	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	N	_	_	_
+56	Academy	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	C	_	_	_
+57	Award	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
+58	nominations	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+59	for	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+60	Best	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+61	Supporting	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+62	Actor	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+63	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

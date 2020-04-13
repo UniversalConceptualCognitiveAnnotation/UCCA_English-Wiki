@@ -15,8 +15,8 @@
 14	in	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_
 15	Woolton	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
 16	on	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_
-17	6	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-18	July	_	Word	-	+	_	_	_	_	_	D	_	_	_	_	_	_	_	_	_
+17	6	_	Word	-	+	_	_	_	_	_	T	_	_	_	_	_	_	_	_	_
+18	July	_	Word	-	-	_	_	_	_	_	_	_	C	_	_	_	_	_	_	_
 19	at	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_
 20	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
 21	St.	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
@@ -28,11 +28,11 @@
 27	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
 28	after	_	Word	-	+	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_
 29	which	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
-30	McCartney	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_
+30	McCartney	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	A	A*	_
 31	was	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_
-32	asked	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+32	asked	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
 33	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_
-34	join	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
+34	join	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
 35	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
 36	band	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_
 37	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U

@@ -1,40 +1,17 @@
 # format = ucca
-1	At	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_
-2	the	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_
-3	time	_	Word	-	+	_	_	_	_	_	_	D	_	_	_	_	_
-4	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_
-5	only	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_
-6	a	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_
-7	small	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_
-8	percentage	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_
-9	of	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_
-10	HIV	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_
-11	-	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_
-12	positive	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_
-13	American	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_
-14	men	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_
-15	had	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_	_
-16	contracted	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
-17	it	_	Word	-	-	_	_	_	_	_	_	A	_	_	_	_	_
-18	from	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_
-19	heterosexual	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_
-20	sex	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_
-21	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_
-22	and	_	Word	-	-	_	_	_	_	_	_	L	_	_	_	_	_
-23	it	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_
-24	was	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_
-25	initially	_	Word	-	-	_	_	_	_	_	_	_	_	D	_	_	_
-26	rumored	_	Word	-	+	_	_	_	_	_	_	H	_	_	_	_	_
-27	that	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_
-28	Johnson	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_	_
-29	was	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_
-30	gay	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_
-31	or	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_
-32	bisexual	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_
-33	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_
-34	although	_	Word	-	-	_	_	_	_	_	_	L	_	_	_	_	_
-35	he	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A
-36	denied	_	Word	-	+	_	_	_	_	_	_	H	_	_	_	_	_
-37	both	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A
-38	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
+1	Johnson	_	Word	-	-	_	A	_	_	_	_	_
+2	later	_	Word	-	-	_	T	_	_	_	_	_
+3	accused	_	Word	-	+	_	_	_	_	_	_	_
+4	Isiah	_	Word	-	+	_	A	_	A*	_	_	_
+5	Thomas	_	Word	-	-	_	_	Terminal	_	_	_	_
+6	of	_	Word	-	-	_	_	_	R	_	_	_
+7	spreading	_	Word	-	+	_	A	_	_	_	_	_
+8	the	_	Word	-	-	_	_	_	_	F	_	_
+9	rumors	_	Word	-	+	_	_	_	A	_	_	_
+10	,	_	Punctuation	-	-	_	U	_	_	_	_	_
+11	a	_	Word	-	-	_	_	_	_	_	F	_
+12	claim	_	Word	-	+	_	_	_	_	_	_	A
+13	Thomas	_	Word	-	-	_	_	_	_	_	_	A
+14	denied	_	Word	-	+	_	H	_	_	_	_	_
+15	.	_	Punctuation	-	-	_	_	_	_	_	_	U
 

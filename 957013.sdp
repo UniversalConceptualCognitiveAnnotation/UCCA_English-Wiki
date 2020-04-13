@@ -1,54 +1,54 @@
 # format = ucca
-1	Winston	_	Word	-	+	_	_	A	_	_	_	_	_	A*	_	A*	_	_	_	_	_	_	_	_	_	_
-2	Churchill	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	arranged	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-4	a	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-5	screening	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-6	for	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-7	a	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-8	party	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-9	that	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-10	included	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-11	Franklin	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-12	D.	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-13	Roosevelt	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-14	and	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-15	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-16	on	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_
-17	its	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
-18	conclusion	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
-19	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-20	addressed	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-21	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-22	group	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
-23	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-24	saying	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-25	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
-26	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
-27	Gentlemen	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
-28	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_
-29	I	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
-30	thought	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
-31	this	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-32	film	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A*	_	_	_	_	_	_
-33	would	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_	_
-34	interest	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
-35	you	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
-36	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_
-37	showing	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_
-38	great	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-39	events	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
-40	similar	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-41	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_
-42	those	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
-43	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_
-44	which	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-45	you	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A
-46	have	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-47	just	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_	_	_	_
-48	been	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-49	taking	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
-50	part	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
-51	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
-52	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	Winston	_	Word	-	+	_	_	A	_	_	_	_	_	A*	_	A*	_	_	_	_	_	_	_	_	_
+2	Churchill	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	arranged	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	a	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	screening	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	for	_	Word	-	-	_	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	a	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	party	_	Word	-	+	_	_	_	_	_	A*	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	that	_	Word	-	-	_	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	included	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	Franklin	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	D.	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	Roosevelt	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	and	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	on	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	its	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
+18	conclusion	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	addressed	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+22	group	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
+23	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	saying	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_
+26	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_
+27	Gentlemen	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	G	_	_	_	_	_	_	_	_
+28	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_
+29	I	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
+30	thought	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
+31	this	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
+32	film	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A*	_	_	_	_	_
+33	would	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_	_	_	_	_	_
+34	interest	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
+35	you	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
+36	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_
+37	showing	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	H	_	_	_	_	_	_	_	_
+38	great	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_	_	_	_
+39	events	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
+40	similar	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
+41	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_
+42	those	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
+43	in	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+44	which	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_
+45	you	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A
+46	have	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F
+47	just	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	T
+48	been	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F
+49	taking	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F
+50	part	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
+51	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+52	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

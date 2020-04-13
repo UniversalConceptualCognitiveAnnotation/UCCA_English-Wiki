@@ -1,14 +1,14 @@
 # format = ucca
-1	He	_	Word	-	-	_	A	_	_	_
-2	adored	_	Word	-	+	_	_	_	_	_
-3	the	_	Word	-	-	_	_	E	_	_
-4	music	_	Word	-	+	_	A	_	_	_
-5	of	_	Word	-	-	_	_	_	_	R
-6	black	_	Word	-	-	_	_	_	_	E
-7	gospel	_	Word	-	-	_	_	_	E	_
-8	singer	_	Word	-	+	_	_	_	_	E
-9	Sister	_	Word	-	-	_	_	_	_	E
-10	Rosetta	_	Word	-	+	_	_	E	_	_
-11	Tharpe	_	Word	-	-	_	_	_	_	Terminal
-12	.	_	Punctuation	-	-	_	_	_	_	U
+1	He	_	Word	-	-	_	A	_	_	_	_	_
+2	adored	_	Word	-	+	_	_	_	_	_	_	_
+3	the	_	Word	-	-	_	_	E	_	_	_	_
+4	music	_	Word	-	+	_	A	_	_	_	_	_
+5	of	_	Word	-	+	_	_	E	_	_	_	_
+6	black	_	Word	-	+	_	_	_	_	_	_	E
+7	gospel	_	Word	-	+	_	_	_	_	_	_	E
+8	singer	_	Word	-	-	_	_	_	_	A*	A	_
+9	Sister	_	Word	-	-	_	_	_	_	_	_	E
+10	Rosetta	_	Word	-	+	_	_	_	A	_	_	_
+11	Tharpe	_	Word	-	-	_	_	_	_	_	_	Terminal
+12	.	_	Punctuation	-	-	_	_	_	_	_	_	U
 

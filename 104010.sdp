@@ -1,26 +1,27 @@
 # format = ucca
-1	In	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_
-2	response	_	Word	-	+	_	_	L	_	_	_	_	_	_	_	_
-3	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_
-4	Jolie	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_
-5	released	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
-6	a	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_
-7	statement	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_
-8	in	_	Word	-	+	_	_	_	_	_	R	_	_	_	_	_
-9	which	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_
-10	she	_	Word	-	-	_	_	_	_	_	A	_	_	_	_	_
-11	indicated	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_
-12	that	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_
-13	she	_	Word	-	-	_	_	_	_	_	_	_	A	A*	A*	_
-14	no	_	Word	-	+	_	_	_	_	_	_	_	D	_	_	_
-15	longer	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_
-16	wished	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_
-17	to	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_
-18	pursue	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_
-19	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_
-20	relationship	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_
-21	with	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
-22	her	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E
-23	father	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_
-24	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
+1	She	_	Word	-	-	_	A	_	_	_	_	_	_	_
+2	explained	_	Word	-	+	_	_	_	_	_	_	_	_	_
+3	that	_	Word	-	-	_	_	R	_	_	_	_	_	_
+4	because	_	Word	-	-	_	_	L	_	_	_	_	_	_
+5	she	_	Word	-	-	_	_	A	_	_	_	_	_	_
+6	had	_	Word	-	-	_	_	F	_	_	_	_	_	_
+7	adopted	_	Word	-	+	_	A	_	_	_	_	_	_	_
+8	her	_	Word	-	-	_	_	_	A	_	_	_	_	_
+9	son	_	Word	-	+	_	_	_	_	E	_	_	_	_
+10	Maddox	_	Word	-	+	_	_	A	_	_	_	_	_	_
+11	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_
+12	she	_	Word	-	-	_	_	_	_	_	A	_	_	_
+13	did	_	Word	-	-	_	_	_	_	_	F	_	_	_
+14	not	_	Word	-	-	_	_	_	_	_	D	_	_	_
+15	think	_	Word	-	+	_	_	H	_	_	_	_	_	_
+16	it	_	Word	-	-	_	_	_	_	_	_	F	_	_
+17	was	_	Word	-	-	_	_	_	_	_	_	F	_	_
+18	healthy	_	Word	-	+	_	_	_	_	_	A	_	_	_
+19	for	_	Word	-	-	_	_	_	_	_	_	_	R	_
+20	her	_	Word	-	-	_	_	_	_	_	_	_	A	_
+21	to	_	Word	-	-	_	_	_	_	_	_	_	F	_
+22	associate	_	Word	-	+	_	_	_	_	_	_	A	_	_
+23	with	_	Word	-	-	_	_	_	_	_	_	_	_	R
+24	Voight	_	Word	-	+	_	_	_	_	_	_	_	A	_
+25	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
 

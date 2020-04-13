@@ -1,35 +1,35 @@
 # format = ucca
-1	Jennings	_	Word	-	-	_	A	_	_	_	A*	_	_	_	_	_	_	_
-2	returned	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	to	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_
-4	the	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_
-5	U.S.	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_
-6	at	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_
-7	the	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_
-8	end	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_
-9	of	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_
-10	1974	_	Word	-	+	_	D	_	_	_	_	_	_	_	_	_	_	_
-11	to	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_
-12	become	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_
-13	Washington	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_
-14	correspondent	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_
-15	and	_	Word	-	-	_	_	_	_	_	_	N	_	_	_	_	_	_
-16	news	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_
-17	anchor	_	Word	-	+	_	_	_	_	_	_	C	_	_	_	_	_	_
-18	for	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_
-19	ABC	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_	_
-20	's	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_
-21	new	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_
-22	morning	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_
-23	program	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_	_
-24	AM	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_	_
-25	America	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
-26	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_
-27	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_
-28	predecessor	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_	_
-29	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R
-30	Good	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_
-31	Morning	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
-32	America	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
-33	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	Jennings	_	Word	-	-	_	A	_	_	A*	_	_	_	_	_	_	_
+2	returned	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
+3	to	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_
+4	the	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_
+5	U.S.	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_
+6	at	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_
+7	the	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_
+8	end	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_
+9	of	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_
+10	1974	_	Word	-	+	_	T	_	_	_	_	_	_	_	_	_	_
+11	to	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_
+12	become	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_
+13	Washington	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_
+14	correspondent	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_
+15	and	_	Word	-	-	_	_	_	_	_	N	_	_	_	_	_	_
+16	news	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_
+17	anchor	_	Word	-	+	_	_	_	_	_	C	_	_	_	_	_	_
+18	for	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_
+19	ABC	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_
+20	's	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_
+21	new	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_
+22	morning	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_
+23	program	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_
+24	AM	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_
+25	America	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_
+26	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_
+27	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_
+28	predecessor	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_
+29	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R
+30	Good	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_
+31	Morning	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal
+32	America	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal
+33	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
 

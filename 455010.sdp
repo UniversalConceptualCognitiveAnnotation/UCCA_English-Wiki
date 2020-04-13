@@ -1,49 +1,49 @@
 # format = ucca
-1	It	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_
-2	was	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_
-3	World	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
-4	News	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_
-5	Tonight	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_
-6	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-7	however	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_
-8	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-9	that	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_
-10	ended	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-11	the	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-12	year	_	Word	-	+	_	_	D	_	_	_	_	_	_	_	_	_	_	_	_
-13	at	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_
-14	the	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-15	top	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-16	;	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-17	ABC	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-18	's	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_
-19	evening	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-20	newscast	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
-21	spent	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_
-22	the	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-23	last	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-24	13	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-25	weeks	_	Word	-	+	_	_	_	_	_	_	_	D	_	_	_	_	_	_	_
-26	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
-27	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-28	year	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-29	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_
-30	first	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-31	place	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
-32	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-33	and	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_
-34	its	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-35	average	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-36	ratings	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_
-37	for	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_
-38	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-39	entire	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-40	year	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-41	beat	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_
-42	CBS	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_
-43	for	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
-44	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-45	first	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-46	time	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_
-47	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	It	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_	_
+2	was	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_	_
+3	World	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_
+4	News	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
+5	Tonight	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
+6	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_
+7	however	_	Word	-	-	_	_	_	L	_	_	_	_	_	_	_	_	_
+8	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_
+9	that	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_	_
+10	ended	_	Word	-	-	_	_	_	D	_	_	_	_	_	_	_	_	_
+11	the	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_
+12	year	_	Word	-	+	_	_	_	T	_	_	_	_	_	_	_	_	_
+13	at	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_
+14	the	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_
+15	top	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	;	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_
+17	ABC	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_	_
+18	's	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_
+19	evening	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_
+20	newscast	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_
+21	spent	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_	_
+22	the	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_
+23	last	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_
+24	13	_	Word	-	-	_	_	_	_	_	_	Q	_	_	_	_	_	_
+25	weeks	_	Word	-	+	_	_	_	_	_	_	_	_	T	_	_	_	_
+26	of	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_
+27	the	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_
+28	year	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_	_
+29	in	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_
+30	first	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_
+31	place	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_
+32	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_
+33	and	_	Word	-	-	_	_	_	L	_	_	_	_	_	_	_	_	_
+34	its	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_
+35	average	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_
+36	ratings	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_
+37	for	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_
+38	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_
+39	entire	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_
+40	year	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_	_
+41	beat	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_
+42	CBS	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A	_
+43	for	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R
+44	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E
+45	first	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E
+46	time	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	D	_
+47	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
 

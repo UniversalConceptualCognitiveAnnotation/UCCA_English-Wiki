@@ -1,29 +1,29 @@
 # format = ucca
-1	In	_	Word	-	-	_	R	_	_	_	_	_	_	_	_
-2	Taking	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-3	Lives	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_
-4	opposite	_	Word	-	-	_	_	R	_	_	_	_	_	_	_
-5	Angelina	_	Word	-	+	_	A	_	_	_	_	_	_	_	_
-6	Jolie	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_
-7	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
-8	he	_	Word	-	-	_	A*	_	A	_	_	_	_	_	_
-9	played	_	Word	-	+	_	P*	_	_	_	_	_	_	_	_
-10	a	_	Word	-	-	_	_	_	_	E	_	_	_	_	_
-11	man	_	Word	-	+	_	_	_	A	_	_	_	_	_	_
-12	who	_	Word	-	-	_	_	_	_	_	F	_	_	_	_
-13	could	_	Word	-	-	_	_	_	_	_	D	_	_	_	_
-14	identify	_	Word	-	+	_	_	_	_	E	_	_	_	_	_
-15	a	_	Word	-	-	_	_	_	_	_	_	E	_	_	_
-16	serial	_	Word	-	-	_	_	_	_	_	_	E	_	_	_
-17	killer	_	Word	-	+	_	_	_	_	_	A	_	_	_	_
-18	who	_	Word	-	-	_	_	_	_	_	_	_	F	_	_
-19	had	_	Word	-	-	_	_	_	_	_	_	_	F	_	_
-20	been	_	Word	-	-	_	_	_	_	_	_	_	F	_	_
-21	assuming	_	Word	-	+	_	_	_	_	_	_	E	_	_	_
-22	the	_	Word	-	-	_	_	_	_	_	_	_	_	E	_
-23	identity	_	Word	-	+	_	_	_	_	_	_	_	A	_	_
-24	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	R
-25	his	_	Word	-	-	_	_	_	_	_	_	_	_	_	E
-26	victims	_	Word	-	+	_	_	_	_	_	_	_	_	E	_
-27	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+1	In	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_
+2	Taking	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_
+3	Lives	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_
+4	opposite	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_
+5	Angelina	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_
+6	Jolie	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_
+7	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_
+8	he	_	Word	-	-	_	_	_	A	_	_	_	_	_	_	_
+9	played	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+10	a	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_
+11	man	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_
+12	who	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_
+13	could	_	Word	-	-	_	_	_	_	_	D	_	_	_	_	_
+14	identify	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_
+15	a	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_
+16	serial	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_
+17	killer	_	Word	-	+	_	_	_	_	_	_	A*	_	_	_	_
+18	who	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_
+19	had	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_
+20	been	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_
+21	assuming	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_
+22	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_
+23	identity	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_
+24	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
+25	his	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_
+26	victims	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A
+27	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
 

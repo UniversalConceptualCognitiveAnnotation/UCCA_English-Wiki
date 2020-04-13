@@ -9,12 +9,12 @@
 8	Cheever	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_
 9	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_
 10	a	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_
-11	professional	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_
-12	poker	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_
-13	player	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_
+11	professional	_	Word	-	-	_	_	_	_	D	_	_	_	_	_	_
+12	poker	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_
+13	player	_	Word	-	+	_	_	_	_	_	A*	_	A*	_	_	_
 14	who	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_
 15	must	_	Word	-	-	_	_	_	_	_	D	_	_	_	_	_
-16	overcome	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_
+16	overcome	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_
 17	his	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_
 18	personal	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_
 19	problems	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_
@@ -22,10 +22,10 @@
 21	win	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_
 22	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_
 23	high	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_
-24	stakes	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_
+24	stakes	_	Word	-	+	_	_	_	_	_	_	_	_	_	D	_
 25	tournament	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_
 26	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
-27	Las	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_
+27	Las	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_
 28	Vegas	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal
 29	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
 

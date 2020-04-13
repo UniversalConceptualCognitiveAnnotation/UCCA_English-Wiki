@@ -1,39 +1,39 @@
 # format = ucca
-1	During	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_
-2	her	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_
-3	early	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_
-4	years	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
-5	at	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_
-6	the	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_
-7	studio	_	Word	-	+	_	E	_	_	_	_	_	_	_	_	_	_
-8	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_
-9	she	_	Word	-	-	_	_	_	A	_	_	A*	_	_	_	_	_
-10	was	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_
-11	photographed	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_
-12	and	_	Word	-	-	_	_	_	N	_	_	_	_	_	_	_	_
-13	dressed	_	Word	-	-	_	_	_	C	_	_	_	_	_	_	_	_
-14	in	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_
-15	plain	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_
-16	garments	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_
-17	or	_	Word	-	-	_	_	_	_	N	_	_	_	_	_	_	_
-18	frilly	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_
-19	juvenile	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_
-20	gowns	_	Word	-	+	_	_	_	_	C	_	_	_	_	_	_	_
-21	and	_	Word	-	-	_	_	_	_	_	N	_	_	_	_	_	_
-22	costumes	_	Word	-	-	_	_	_	_	_	C	_	_	_	_	_	_
-23	to	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_
-24	match	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_
-25	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_
-26	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_
-27	girl	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_
-28	next	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_
-29	door	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_
-30	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_
-31	image	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_
-32	that	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_
-33	was	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_
-34	created	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_
-35	for	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R
-36	her	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_
-37	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
+1	During	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_
+2	her	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	early	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_
+4	years	_	Word	-	+	_	T	_	_	_	_	_	_	_	_	_	_	_
+5	at	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_
+6	the	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_	_
+7	studio	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_
+8	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_
+9	she	_	Word	-	-	_	_	_	_	A	A*	_	_	A*	_	_	_	_
+10	was	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_	_	_
+11	photographed	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_
+12	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_
+13	dressed	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_
+14	in	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_
+15	plain	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_
+16	garments	_	Word	-	+	_	_	_	_	A	A*	_	_	_	_	_	_	_
+17	or	_	Word	-	-	_	_	_	_	_	_	N	_	_	_	_	_	_
+18	frilly	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_
+19	juvenile	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_
+20	gowns	_	Word	-	+	_	_	_	_	_	_	C	_	_	_	_	_	_
+21	and	_	Word	-	-	_	_	_	_	_	_	_	N	_	_	_	_	_
+22	costumes	_	Word	-	-	_	_	_	_	_	_	_	C	_	_	_	_	_
+23	to	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_
+24	match	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_
+25	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_	_
+26	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_
+27	girl	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_
+28	next	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_
+29	door	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_	_
+30	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_
+31	image	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_
+32	that	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_
+33	was	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F	_
+34	created	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_	_
+35	for	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R
+36	her	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_
+37	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
 

@@ -1,15 +1,39 @@
 # format = ucca
-1	As	_	Word	-	-	_	E	_	_
-2	with	_	Word	-	+	_	_	R	_
-3	his	_	Word	-	-	_	_	E	_
-4	first	_	Word	-	-	_	_	E	_
-5	album	_	Word	-	+	_	_	_	A
-6	,	_	Punctuation	-	-	_	_	_	U
-7	he	_	Word	-	-	_	_	_	A
-8	composed	_	Word	-	+	_	_	_	_
-9	and	_	Word	-	-	_	_	_	N
-10	performed	_	Word	-	-	_	_	_	C
-11	it	_	Word	-	-	_	_	_	A
-12	alone	_	Word	-	-	_	_	_	D
-13	.	_	Punctuation	-	-	_	_	_	U
+1	The	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	album	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
+3	contained	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	the	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+5	song	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+6	"	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
+7	Coming	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
+8	Up	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
+9	"	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
+10	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
+11	the	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_
+12	live	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+13	version	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+14	of	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+15	which	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_
+16	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_
+17	recorded	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+18	in	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_
+19	Glasgow	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
+20	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_
+21	Scotland	_	Word	-	-	_	_	_	_	_	_	_	C	_	_	_	_	_	_	_
+22	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_
+23	in	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_
+24	1979	_	Word	-	+	_	_	_	_	_	_	T	_	_	_	_	_	_	_	_
+25	by	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
+26	Wings	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
+27	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_
+28	became	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+29	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_
+30	group	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+31	's	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+32	last	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Q
+33	number	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+34	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_
+35	one	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	Q	_
+36	hit	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+37	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

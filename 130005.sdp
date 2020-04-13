@@ -1,34 +1,34 @@
 # format = ucca
-1	It	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_
-2	had	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	a	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_
-4	successful	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_
-5	tour	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_
-6	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_
-7	but	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_
-8	uncertain	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_
-9	about	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_
-10	the	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_
-11	script	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_
-12	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_
-13	unwilling	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_
-14	to	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_
-15	risk	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_
-16	failure	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
-17	after	_	Word	-	-	_	_	_	_	_	_	L	_	_	_	_	_	_
-18	the	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_
-19	disaster	_	Word	-	+	_	_	_	_	_	_	H	_	_	_	_	_	_
-20	of	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_	_
-21	The	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_
-22	Lake	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_	_
-23	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_
-24	Hepburn	_	Word	-	-	_	_	_	A*	_	A*	A*	_	_	A	A*	_	_
-25	decided	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_
-26	against	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	_	_	_
-27	taking	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_
-28	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_
-29	show	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_
-30	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R
-31	Broadway	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_
-32	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	It	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_
+2	had	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_
+3	a	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_
+4	successful	_	Word	-	-	_	D	_	_	_	_	_	_	_	_	_	_
+5	tour	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
+6	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_
+7	but	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_
+8	uncertain	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_
+9	about	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_
+10	the	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_
+11	script	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_
+12	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_
+13	unwilling	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_
+14	to	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_
+15	risk	_	Word	-	-	_	_	_	_	_	D	_	_	_	_	_	_
+16	failure	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_
+17	after	_	Word	-	-	_	_	_	_	_	L	_	_	_	_	_	_
+18	the	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_	_
+19	disaster	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_	_
+20	of	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_	_
+21	The	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_
+22	Lake	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_
+23	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_
+24	Hepburn	_	Word	-	-	_	_	A*	_	A*	A*	_	_	A	_	_	_
+25	decided	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_
+26	against	_	Word	-	-	_	_	_	_	_	_	_	_	D	_	_	_
+27	taking	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_
+28	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_
+29	show	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_
+30	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R
+31	Broadway	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_
+32	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
 

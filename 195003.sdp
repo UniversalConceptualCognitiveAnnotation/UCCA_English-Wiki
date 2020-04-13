@@ -1,48 +1,48 @@
 # format = ucca
-1	In	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-2	2003	_	Word	-	+	_	_	_	_	_	_	_	D	_	_	_	_	_	_	_	_	_	_	_
-3	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
-4	at	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-5	the	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-6	end	_	Word	-	+	_	_	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_
-7	of	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-8	the	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-9	fourth	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-10	season	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-11	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
-12	Sorkin	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
-13	and	_	Word	-	-	_	_	_	_	N	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-14	fellow	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
-15	executive	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
-16	producer	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-17	Thomas	_	Word	-	+	_	_	_	_	C	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-18	Schlamme	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_
-19	left	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-20	the	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-21	show	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
-22	due	_	Word	-	+	_	_	_	_	_	_	_	L	_	_	_	_	_	_	_	_	_	_	_
-23	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
-24	internal	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-25	conflicts	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A*	_	_	_	_
-26	at	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_
-27	Warner	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
-28	Bros.	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_
-29	TV	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_
-30	not	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	D	_	_	_	_	_	_
-31	involving	_	Word	-	+	_	_	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_
-32	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-33	NBC	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-34	network	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
-35	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_
-36	thrusting	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	H	_	_	_	_	_	_
-37	producer	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
-38	John	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-39	Wells	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
-40	into	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
-41	an	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-42	expanded	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-43	role	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-44	as	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
-45	showrunner	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
-46	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	In	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	2003	_	Word	-	+	_	_	_	_	_	_	_	T	_	_	_	_	_	_	_	_	_	_
+3	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
+4	at	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	the	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	end	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	of	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	the	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	fourth	_	Word	-	-	_	_	_	Q	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	season	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+11	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
+12	Sorkin	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	and	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	fellow	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+15	executive	_	Word	-	-	_	_	_	_	_	D	_	_	_	_	_	_	_	_	_	_	_	_
+16	producer	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+17	Thomas	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	Schlamme	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
+19	left	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	the	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+21	show	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+22	due	_	Word	-	+	_	_	_	_	_	_	_	L	_	_	_	_	_	_	_	_	_	_
+23	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
+24	internal	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D	_	_	_	_	_	_	_
+25	conflicts	_	Word	-	+	_	_	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_
+26	at	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_
+27	Warner	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+28	Bros.	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
+29	TV	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
+30	not	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	D	_	_	_	_	_
+31	involving	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+32	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
+33	NBC	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
+34	network	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
+35	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
+36	thrusting	_	Word	-	-	_	_	_	_	_	_	_	L	_	_	_	_	_	_	_	_	_	_
+37	producer	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A
+38	John	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
+39	Wells	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
+40	into	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
+41	an	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+42	expanded	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+43	role	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D
+44	as	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+45	showrunner	_	Word	-	+	_	_	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_
+46	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

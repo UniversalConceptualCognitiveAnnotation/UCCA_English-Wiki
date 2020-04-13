@@ -1,32 +1,32 @@
 # format = ucca
-1	In	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_
-2	1960	_	Word	-	+	_	_	D	_	_	_	_	_	_	_	_
-3	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_
-4	Hoffman	_	Word	-	-	_	_	A	_	_	_	A*	_	_	_	_
-5	was	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_
-6	cast	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
-7	in	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_
-8	a	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_
-9	role	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_
-10	in	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_
-11	an	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_
-12	Off	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_
-13	-	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_
-14	Broadway	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_
-15	production	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_
-16	and	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_
-17	followed	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_
-18	with	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_
-19	a	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_
-20	walk	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_
-21	-	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_
-22	on	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_
-23	role	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_
-24	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_
-25	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_
-26	Broadway	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_
-27	production	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_
-28	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
-29	1961	_	Word	-	+	_	_	_	_	_	_	D	_	_	_	_
-30	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
+1	In	_	Word	-	-	_	R	_	_	_	_	_	_	_	_
+2	1960	_	Word	-	+	_	_	T	_	_	_	_	_	_	_
+3	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_
+4	Hoffman	_	Word	-	-	_	_	A	_	_	_	_	A*	_	_
+5	was	_	Word	-	-	_	_	F	_	_	_	_	_	_	_
+6	cast	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+7	in	_	Word	-	-	_	_	_	R	_	_	_	_	_	_
+8	a	_	Word	-	-	_	_	_	F	_	_	_	_	_	_
+9	role	_	Word	-	+	_	_	A	_	_	_	_	_	_	_
+10	in	_	Word	-	-	_	_	_	_	_	R	_	_	_	_
+11	an	_	Word	-	-	_	_	_	_	_	F	_	_	_	_
+12	Off	_	Word	-	+	_	_	_	_	_	A	_	_	_	_
+13	-	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_
+14	Broadway	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_
+15	production	_	Word	-	+	_	_	A	_	_	_	_	_	_	_
+16	and	_	Word	-	-	_	_	L	_	_	_	_	_	_	_
+17	followed	_	Word	-	-	_	_	_	_	_	_	_	D	_	_
+18	with	_	Word	-	-	_	_	_	_	_	_	_	R	_	_
+19	a	_	Word	-	-	_	_	_	_	_	_	_	F	_	_
+20	walk	_	Word	-	+	_	_	_	_	_	_	_	D	_	_
+21	-	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_
+22	on	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_
+23	role	_	Word	-	+	_	_	H	_	_	_	_	_	_	_
+24	in	_	Word	-	-	_	_	_	_	_	_	_	_	R	_
+25	a	_	Word	-	-	_	_	_	_	_	_	_	_	F	_
+26	Broadway	_	Word	-	-	_	_	_	_	_	_	_	_	A	_
+27	production	_	Word	-	+	_	_	_	_	_	_	_	A	_	_
+28	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	R
+29	1961	_	Word	-	+	_	_	_	_	_	_	_	T	_	_
+30	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
 

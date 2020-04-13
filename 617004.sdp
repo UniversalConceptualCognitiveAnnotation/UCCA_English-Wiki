@@ -1,39 +1,29 @@
 # format = ucca
-1	In	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_	_
-2	1981	_	Word	-	+	_	_	D	_	_	_	_	_	_	_	_	_	_
-3	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_
-4	McCartney	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_	_	_
-5	asked	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-6	Geoff	_	Word	-	+	_	_	A	_	A*	_	_	_	_	_	_	_	_
-7	Dunbar	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
-8	to	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_	_	_
-9	direct	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_
-10	a	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_
-11	short	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_
-12	animated	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_
-13	film	_	Word	-	+	_	_	_	_	A	_	_	_	A*	_	_	_	_
-14	called	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_	_
-15	Rupert	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_
-16	and	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_
-17	the	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_
-18	Frog	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_
-19	Song	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_
-20	;	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_
-21	McCartney	_	Word	-	-	_	_	_	_	_	_	_	_	A	_	_	_	_
-22	was	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_
-23	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_
-24	writer	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_
-25	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	N	_	_	_
-26	producer	_	Word	-	-	_	_	_	_	_	_	_	_	_	C	_	_	_
-27	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_
-28	and	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_
-29	he	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A	_	_
-30	also	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D	_	_
-31	added	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_
-32	some	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	E
-33	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_
-34	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E
-35	character	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E
-36	voices	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_
-37	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	In	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_
+2	1992	_	Word	-	+	_	_	T	_	_	_	_	_	_	_	_
+3	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_
+4	he	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_
+5	worked	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+6	with	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_
+7	Dunbar	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_
+8	on	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_
+9	an	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_
+10	animated	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_
+11	film	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_
+12	about	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_
+13	the	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_
+14	work	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_
+15	of	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_
+16	French	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	_
+17	artist	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_
+18	Honoré	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_
+19	Daumier	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_
+20	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_
+21	which	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_
+22	won	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_
+23	them	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_
+24	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E
+25	BAFTA	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E
+26	award	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_
+27	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
 

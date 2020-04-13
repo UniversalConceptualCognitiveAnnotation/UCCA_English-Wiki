@@ -1,9 +1,23 @@
 # format = ucca
-1	It	_	Word	-	-	_	A	_
-2	grossed	_	Word	-	+	_	_	_
-3	US	_	Word	-	+	_	A	_
-4	$	_	Word	-	-	_	_	Terminal
-5	255	_	Word	-	-	_	_	Terminal
-6	million	_	Word	-	-	_	_	Terminal
-7	.	_	Punctuation	-	-	_	U	_
+1	However	_	Word	-	-	_	L	_	_	_	_	_
+2	,	_	Punctuation	-	-	_	U	_	_	_	_	_
+3	it	_	Word	-	-	_	A	_	A*	_	_	_
+4	was	_	Word	-	-	_	F	_	_	_	_	_
+5	a	_	Word	-	-	_	F	_	_	_	_	_
+6	disappointment	_	Word	-	+	_	_	_	_	_	_	_
+7	in	_	Word	-	-	_	_	R	_	_	_	_
+8	Hong	_	Word	-	+	_	A	_	_	_	_	_
+9	Kong	_	Word	-	-	_	_	Terminal	_	_	_	_
+10	,	_	Punctuation	-	-	_	U	_	_	_	_	_
+11	grossing	_	Word	-	+	_	H	_	_	_	_	_
+12	only	_	Word	-	-	_	_	_	_	_	E	_
+13	HK	_	Word	-	-	_	_	_	_	E	_	_
+14	$	_	Word	-	+	_	_	_	A	_	_	_
+15	3.5	_	Word	-	+	_	_	_	_	Q	_	_
+16	million	_	Word	-	-	_	_	_	_	_	C	_
+17	during	_	Word	-	-	_	L	_	_	_	_	_
+18	its	_	Word	-	-	_	_	_	_	_	_	A
+19	opening	_	Word	-	+	_	H	_	_	_	_	_
+20	weekend	_	Word	-	-	_	_	_	_	_	_	T
+21	.	_	Punctuation	-	-	_	_	_	_	_	_	U
 

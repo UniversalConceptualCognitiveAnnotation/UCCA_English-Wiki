@@ -1,34 +1,32 @@
 # format = ucca
-1	The	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_
-2	tour	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_
-3	earned	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
-4	a	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_
-5	reported	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_
-6	$	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_
-7	126	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_
-8	.	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_
-9	2	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_
-10	million	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_
-11	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_
-12	an	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_
-13	average	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_
-14	of	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_
-15	over	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_
-16	$	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_
-17	2	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_
-18	million	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_
-19	per	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_
-20	night	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_
-21	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_
-22	and	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_
-23	Billboard	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_	_
-24	named	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_
-25	it	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_	_
-26	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_
-27	top	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_
-28	tour	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_
-29	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R
-30	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E
-31	year	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_
-32	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
+1	The	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_	_
+2	tour	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_
+3	earned	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	a	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_	_
+5	reported	_	Word	-	+	_	_	G	_	_	_	_	_	_	_	_	_	_
+6	$	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_
+7	126.2	_	Word	-	+	_	_	_	_	Q	_	_	_	_	_	_	_	_
+8	million	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_	_
+9	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_
+10	an	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_	_	_
+11	average	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_
+12	of	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_
+13	over	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_
+14	$	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_	_
+15	2	_	Word	-	+	_	_	_	_	_	_	_	Q	_	_	_	_	_
+16	million	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_	_
+17	per	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_
+18	night	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_	_
+19	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_
+20	and	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_
+21	Billboard	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A	_	_
+22	named	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_
+23	it	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A	_	_
+24	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F	_
+25	top	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	D	_
+26	tour	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_
+27	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R
+28	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E
+29	year	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	T	_
+30	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
 

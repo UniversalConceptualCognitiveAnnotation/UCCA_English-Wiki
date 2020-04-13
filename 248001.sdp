@@ -1,33 +1,33 @@
 # format = ucca
-1	He	_	Word	-	-	_	_	A	_	_	_	_	_	_
-2	made	_	Word	-	-	_	_	F	_	_	_	_	_	_
-3	his	_	Word	-	-	_	A	_	_	_	_	_	_	_
-4	directorial	_	Word	-	-	_	E	_	_	_	_	_	_	_
-5	feature	_	Word	-	+	_	_	A	_	_	_	_	_	_
-6	debut	_	Word	-	+	_	_	_	_	_	_	_	_	_
-7	with	_	Word	-	-	_	_	_	R	_	_	_	_	_
-8	Chelsea	_	Word	-	+	_	_	A	_	_	_	_	_	_
-9	Walls	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_
-10	(	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_
-11	2002	_	Word	-	-	_	_	_	E	_	_	_	_	_
-12	)	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_
-13	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_
-14	an	_	Word	-	-	_	_	_	_	E	_	_	_	_
-15	independent	_	Word	-	-	_	_	_	_	E	_	_	_	_
-16	drama	_	Word	-	+	_	_	_	E	_	_	_	_	_
-17	about	_	Word	-	-	_	_	_	_	_	_	R	_	_
-18	five	_	Word	-	-	_	_	_	_	_	E	_	_	_
-19	struggling	_	Word	-	-	_	_	_	_	_	E	_	_	_
-20	artists	_	Word	-	+	_	_	_	_	_	_	A	_	_
-21	living	_	Word	-	+	_	_	_	_	E	_	_	_	_
-22	in	_	Word	-	-	_	_	_	_	_	_	_	R	_
-23	the	_	Word	-	-	_	_	_	_	_	_	_	E	_
-24	famed	_	Word	-	-	_	_	_	_	_	_	_	E	_
-25	Chelsea	_	Word	-	-	_	_	_	_	_	_	_	E	_
-26	Hotel	_	Word	-	+	_	_	_	_	_	_	A	_	_
-27	in	_	Word	-	-	_	_	_	_	_	_	_	_	R
-28	New	_	Word	-	+	_	_	_	_	_	_	A	_	_
-29	York	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal
-30	City	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal
-31	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+1	He	_	Word	-	-	_	A	_	_	_	_	_	_
+2	made	_	Word	-	-	_	F	_	_	_	_	_	_
+3	his	_	Word	-	-	_	F	_	_	_	_	_	_
+4	directorial	_	Word	-	-	_	A	_	_	_	_	_	_
+5	feature	_	Word	-	-	_	A	_	_	_	_	_	_
+6	debut	_	Word	-	+	_	_	_	_	_	_	_	_
+7	with	_	Word	-	-	_	_	R	_	_	_	_	_
+8	Chelsea	_	Word	-	+	_	A	_	_	_	_	_	_
+9	Walls	_	Word	-	-	_	_	Terminal	_	_	_	_	_
+10	(	_	Punctuation	-	-	_	_	U	_	_	_	_	_
+11	2002	_	Word	-	-	_	_	E	_	_	_	_	_
+12	)	_	Punctuation	-	-	_	_	U	_	_	_	_	_
+13	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_
+14	an	_	Word	-	-	_	_	_	F	_	_	_	_
+15	independent	_	Word	-	-	_	_	_	E	_	_	_	_
+16	drama	_	Word	-	+	_	_	E	_	_	_	_	_
+17	about	_	Word	-	-	_	_	_	_	R	_	_	_
+18	five	_	Word	-	-	_	_	_	_	Q	_	_	_
+19	struggling	_	Word	-	-	_	_	_	_	E	_	_	_
+20	artists	_	Word	-	+	_	_	_	E	_	_	_	_
+21	living	_	Word	-	+	_	_	_	_	E	_	_	_
+22	in	_	Word	-	-	_	_	_	_	_	_	R	_
+23	the	_	Word	-	-	_	_	_	_	_	_	F	_
+24	famed	_	Word	-	-	_	_	_	_	_	_	E	_
+25	Chelsea	_	Word	-	-	_	_	_	_	_	_	E	_
+26	Hotel	_	Word	-	+	_	_	_	_	_	A	_	_
+27	in	_	Word	-	-	_	_	_	_	_	_	_	R
+28	New	_	Word	-	+	_	_	_	_	_	A	_	_
+29	York	_	Word	-	-	_	_	_	_	_	_	_	Terminal
+30	City	_	Word	-	-	_	_	_	_	_	_	_	Terminal
+31	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
 

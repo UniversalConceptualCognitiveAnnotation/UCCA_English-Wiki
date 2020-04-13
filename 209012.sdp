@@ -1,34 +1,34 @@
 # format = ucca
-1	He	_	Word	-	-	_	A	_	_	_	_	_	_	_	_
-2	next	_	Word	-	-	_	D	_	_	_	_	_	_	_	_
-3	appeared	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-4	in	_	Word	-	-	_	_	_	_	R	_	_	_	_	_
-5	Barry	_	Word	-	+	_	_	_	_	E	_	_	_	_	_
-6	Levinson	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_
-7	's	_	Word	-	-	_	_	R	_	_	_	_	_	_	_
-8	adaptation	_	Word	-	+	_	_	_	_	E	_	_	_	_	_
-9	of	_	Word	-	-	_	_	_	R	_	_	_	_	_	_
-10	Sphere	_	Word	-	+	_	A	_	_	_	_	_	_	_	_
-11	(	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_
-12	1998	_	Word	-	-	_	_	_	_	E	_	_	_	_	_
-13	)	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
-14	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
-15	opposite	_	Word	-	-	_	_	_	_	_	R	_	_	_	_
-16	Sharon	_	Word	-	+	_	A	_	_	_	_	_	_	_	_
-17	Stone	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_
-18	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_
-19	Samuel	_	Word	-	+	_	_	_	_	_	C	_	_	_	_
-20	L	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_
-21	.	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_
-22	Jackson	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_
-23	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_
-24	Peter	_	Word	-	+	_	_	_	_	_	C	_	_	_	_
-25	Coyote	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_
-26	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_
-27	Queen	_	Word	-	+	_	_	_	_	_	C	_	_	_	_
-28	Latifah	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_
-29	and	_	Word	-	-	_	_	_	_	_	N	_	_	_	_
-30	Liev	_	Word	-	+	_	_	_	_	_	C	_	_	_	_
-31	Schreiber	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal
-32	.	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_
+1	He	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_
+2	next	_	Word	-	-	_	D	_	_	_	_	_	_	_	_	_
+3	appeared	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+4	in	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_
+5	Barry	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_
+6	Levinson	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_
+7	's	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_
+8	adaptation	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_
+9	of	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_
+10	Sphere	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_
+11	(	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_
+12	1998	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_
+13	)	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_
+14	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_
+15	opposite	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_
+16	Sharon	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_
+17	Stone	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_
+18	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_
+19	Samuel	_	Word	-	+	_	_	_	_	_	_	C	_	_	_	_
+20	L	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_
+21	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_
+22	Jackson	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_
+23	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_
+24	Peter	_	Word	-	+	_	_	_	_	_	_	C	_	_	_	_
+25	Coyote	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_
+26	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_
+27	Queen	_	Word	-	+	_	_	_	_	_	_	C	_	_	_	_
+28	Latifah	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_
+29	and	_	Word	-	-	_	_	_	_	_	_	N	_	_	_	_
+30	Liev	_	Word	-	+	_	_	_	_	_	_	C	_	_	_	_
+31	Schreiber	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal
+32	.	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_
 

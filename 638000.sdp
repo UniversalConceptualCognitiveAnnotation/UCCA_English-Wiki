@@ -1,20 +1,20 @@
 # format = ucca
 1	Sample	_	Word	-	+	_	_	_	_	_	_
-2	of	_	Word	-	-	_	_	_	_	_	R
-3	"	_	Punctuation	-	-	_	_	_	_	_	U
-4	Imagine	_	Word	-	-	_	_	_	_	_	E
-5	"	_	Punctuation	-	-	_	_	_	_	_	U
-6	,	_	Punctuation	-	-	_	_	_	_	_	U
-7	Lennon	_	Word	-	+	_	_	_	_	_	E
-8	's	_	Word	-	-	_	_	R	_	_	_
-9	"	_	Punctuation	-	-	_	_	_	_	_	U
-10	most	_	Word	-	-	_	_	_	E	_	_
-11	famous	_	Word	-	+	_	_	_	_	_	E
-12	post	_	Word	-	-	_	_	_	_	E	_
-13	-	_	Punctuation	-	-	_	_	_	_	U	_
-14	Beatles	_	Word	-	+	_	_	_	_	_	E
-15	'	_	Punctuation	-	-	_	_	_	_	_	U
-16	track	_	Word	-	+	_	E	_	_	_	_
-17	.	_	Punctuation	-	-	_	_	_	_	_	U
-18	"	_	Punctuation	-	-	_	_	_	_	_	U
+2	of	_	Word	-	-	_	_	R	_	_	_
+3	"	_	Punctuation	-	-	_	_	U	_	_	_
+4	Imagine	_	Word	-	+	_	E	_	_	_	_
+5	"	_	Punctuation	-	-	_	_	U	_	_	_
+6	,	_	Punctuation	-	-	_	_	U	_	_	_
+7	Lennon	_	Word	-	-	_	_	_	A	_	_
+8	's	_	Word	-	+	_	_	_	_	A	_
+9	"	_	Punctuation	-	-	_	_	_	_	U	_
+10	most	_	Word	-	-	_	_	_	_	E	_
+11	famous	_	Word	-	+	_	_	E	_	_	_
+12	post	_	Word	-	-	_	_	_	_	_	E
+13	-	_	Punctuation	-	-	_	_	_	_	_	U
+14	Beatles	_	Word	-	+	_	_	_	_	D	_
+15	'	_	Punctuation	-	-	_	_	_	_	U	_
+16	track	_	Word	-	-	_	_	_	A*	A	_
+17	.	_	Punctuation	-	-	_	_	_	_	U	_
+18	"	_	Punctuation	-	-	_	_	_	_	U	_
 

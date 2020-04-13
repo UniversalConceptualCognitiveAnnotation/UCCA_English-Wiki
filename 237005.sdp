@@ -1,25 +1,25 @@
 # format = ucca
-1	With	_	Word	-	-	_	_	R	_	_	_	_	_	_
-2	each	_	Word	-	+	_	_	E	_	_	_	_	_	_
-3	of	_	Word	-	-	_	R	_	_	_	_	_	_	_
-4	his	_	Word	-	-	_	_	E	_	_	_	_	_	_
-5	businesses	_	Word	-	+	_	_	_	_	_	A	_	_	_
-6	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_
-7	a	_	Word	-	-	_	_	_	E	_	_	_	_	_
-8	percentage	_	Word	-	+	_	_	_	_	_	A	_	_	_
-9	of	_	Word	-	-	_	_	_	_	R	_	_	_	_
-10	the	_	Word	-	-	_	_	_	_	E	_	_	_	_
-11	profits	_	Word	-	+	_	_	_	E	_	_	_	_	_
-12	goes	_	Word	-	+	_	_	_	_	_	_	_	_	_
-13	to	_	Word	-	-	_	_	_	_	_	_	R	_	_
-14	various	_	Word	-	-	_	_	_	_	_	_	E	_	_
-15	charities	_	Word	-	+	_	_	_	_	_	A	_	_	_
-16	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_
-17	including	_	Word	-	-	_	_	_	_	_	_	_	_	R
-18	the	_	Word	-	-	_	_	_	_	_	_	_	_	E
-19	Jackie	_	Word	-	+	_	_	_	_	_	_	_	_	E
-20	Chan	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_
-21	Charitable	_	Word	-	-	_	_	_	_	_	_	_	_	E
-22	Foundation	_	Word	-	+	_	_	_	_	_	_	E	_	_
-23	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+1	With	_	Word	-	-	_	R	_	_	_	_
+2	each	_	Word	-	-	_	Q	_	_	_	_
+3	of	_	Word	-	-	_	R	_	_	_	_
+4	his	_	Word	-	+	_	_	_	A	_	_
+5	businesses	_	Word	-	-	_	A	_	_	_	_
+6	,	_	Punctuation	-	-	_	_	_	U	_	_
+7	a	_	Word	-	-	_	_	F	_	_	_
+8	percentage	_	Word	-	-	_	_	Q	_	_	_
+9	of	_	Word	-	-	_	_	R	_	_	_
+10	the	_	Word	-	-	_	_	F	_	_	_
+11	profits	_	Word	-	+	_	_	_	A	_	_
+12	goes	_	Word	-	+	_	_	_	_	_	_
+13	to	_	Word	-	-	_	_	_	_	R	_
+14	various	_	Word	-	-	_	_	_	_	E	_
+15	charities	_	Word	-	+	_	_	_	A	_	_
+16	,	_	Punctuation	-	-	_	_	_	_	U	_
+17	including	_	Word	-	-	_	_	_	_	_	R
+18	the	_	Word	-	-	_	_	_	_	_	F
+19	Jackie	_	Word	-	+	_	_	_	_	E	_
+20	Chan	_	Word	-	-	_	_	_	_	_	Terminal
+21	Charitable	_	Word	-	-	_	_	_	_	_	Terminal
+22	Foundation	_	Word	-	-	_	_	_	_	_	Terminal
+23	.	_	Punctuation	-	-	_	_	_	_	_	U
 

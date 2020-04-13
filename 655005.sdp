@@ -1,33 +1,33 @@
 # format = ucca
-1	Music	_	Word	-	-	_	E	_	_	_	_	_	_	_
-2	critic	_	Word	-	+	_	_	_	A	_	_	_	_	_
-3	Robert	_	Word	-	+	_	E	_	_	_	_	_	_	_
-4	Christgau	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_
-5	says	_	Word	-	+	_	_	_	_	_	_	_	_	_
-6	that	_	Word	-	-	_	_	_	_	_	R	_	_	_
-7	Lennon	_	Word	-	+	_	_	_	_	_	_	A*	A*	_
-8	's	_	Word	-	-	_	_	_	_	R	_	_	_	_
-9	"	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_
-10	greatest	_	Word	-	-	_	_	_	_	_	D	_	_	_
-11	vocal	_	Word	-	-	_	_	_	_	_	D	_	_	_
-12	performance	_	Word	-	+	_	_	_	_	_	_	_	_	A
-13	...	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_
-14	from	_	Word	-	-	_	_	_	_	_	L	_	_	_
-15	scream	_	Word	-	+	_	_	_	_	_	H	_	_	_
-16	to	_	Word	-	-	_	_	_	_	_	L	_	_	_
-17	whine	_	Word	-	+	_	_	_	_	_	H	_	_	_
-18	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
-19	is	_	Word	-	-	_	_	_	_	_	_	_	_	F
-20	modulated	_	Word	-	+	_	_	_	A	_	_	_	_	_
-21	electronically	_	Word	-	-	_	_	_	_	_	_	_	_	D
-22	...	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
-23	echoed	_	Word	-	-	_	_	_	_	_	_	_	_	C
-24	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
-25	filtered	_	Word	-	-	_	_	_	_	_	_	_	_	C
-26	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
-27	and	_	Word	-	-	_	_	_	_	_	_	_	_	N
-28	double	_	Word	-	-	_	_	_	_	_	_	_	_	D
-29	tracked	_	Word	-	-	_	_	_	_	_	_	_	_	C
-30	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
-31	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+1	Music	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_
+2	critic	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_
+3	Robert	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_
+4	Christgau	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_
+5	says	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
+6	that	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_
+7	Lennon	_	Word	-	+	_	_	_	_	_	_	A*	A*	_	_	_	_
+8	's	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_
+9	"	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_
+10	greatest	_	Word	-	-	_	_	_	_	_	D	_	_	_	_	_	_
+11	vocal	_	Word	-	-	_	_	_	_	_	D	_	_	_	_	_	_
+12	performance	_	Word	-	+	_	_	_	_	_	_	_	_	A	A*	A*	A*
+13	...	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_
+14	from	_	Word	-	-	_	_	_	_	_	L	_	_	_	_	_	_
+15	scream	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_	_
+16	to	_	Word	-	-	_	_	_	_	_	L	_	_	_	_	_	_
+17	whine	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_	_
+18	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_
+19	is	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_
+20	modulated	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_
+21	electronically	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_
+22	...	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_
+23	echoed	_	Word	-	+	_	_	_	_	_	_	_	_	H	_	_	_
+24	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_
+25	filtered	_	Word	-	+	_	_	_	_	_	_	_	_	H	_	_	_
+26	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_
+27	and	_	Word	-	-	_	_	_	_	_	_	_	_	L	_	_	_
+28	double	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E
+29	tracked	_	Word	-	+	_	_	_	_	_	_	_	_	H	_	_	_
+30	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
+31	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
 

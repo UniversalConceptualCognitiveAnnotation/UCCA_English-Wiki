@@ -1,7 +1,7 @@
 # format = ucca
 1	The	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_
 2	next	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_
-3	year	_	Word	-	+	_	_	D	_	_	_	_	_	_	_	_
+3	year	_	Word	-	+	_	_	T	_	_	_	_	_	_	_	_
 4	he	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_
 5	completed	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
 6	the	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_
@@ -29,7 +29,7 @@
 28	Schlamme	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_
 29	signed	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_
 30	on	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_
-31	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F
+31	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
 32	direct	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_
 33	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
 

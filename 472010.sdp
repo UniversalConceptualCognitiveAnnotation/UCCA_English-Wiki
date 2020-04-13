@@ -1,24 +1,62 @@
 # format = ucca
-1	In	_	Word	-	-	_	_	L	_	_	_
-2	a	_	Word	-	-	_	E	_	_	_	_
-3	press	_	Word	-	+	_	_	A	_	_	_
-4	conference	_	Word	-	-	_	Terminal	_	_	_	_
-5	held	_	Word	-	+	_	_	_	_	_	_
-6	on	_	Word	-	-	_	_	_	R	_	_
-7	November	_	Word	-	-	_	_	_	E	_	_
-8	7	_	Word	-	-	_	_	_	E	_	_
-9	,	_	Punctuation	-	-	_	_	_	U	_	_
-10	1991	_	Word	-	+	_	_	D	_	_	_
-11	,	_	Punctuation	-	-	_	_	U	_	_	_
-12	Johnson	_	Word	-	-	_	_	A*	_	A	_
-13	made	_	Word	-	-	_	_	_	_	F	_
-14	a	_	Word	-	-	_	_	_	_	E	_
-15	public	_	Word	-	-	_	_	_	_	E	_
-16	announcement	_	Word	-	+	_	_	H	_	_	_
-17	that	_	Word	-	-	_	_	_	_	_	F
-18	he	_	Word	-	-	_	_	_	_	_	A
-19	would	_	Word	-	-	_	_	_	_	_	F
-20	retire	_	Word	-	+	_	_	_	_	A	_
-21	immediately	_	Word	-	-	_	_	_	_	_	D
-22	.	_	Punctuation	-	-	_	_	_	_	_	U
+1	He	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	stated	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	that	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_
+4	his	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	wife	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	Cookie	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
+7	and	_	Word	-	-	_	_	_	N	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	their	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	unborn	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	child	_	Word	-	+	_	_	_	C	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	did	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_
+12	not	_	Word	-	-	_	_	_	_	_	D	_	_	_	_	_	_	_	_	_	_	_	_
+13	have	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_
+14	HIV	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+16	and	_	Word	-	-	_	_	_	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_
+17	that	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_
+18	he	_	Word	-	-	_	_	_	_	_	_	A	_	A*	_	_	_	_	_	_	_	_	_
+19	would	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_
+20	dedicate	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_
+21	his	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+22	life	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
+23	to	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_
+24	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_
+25	battle	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
+26	this	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
+27	deadly	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
+28	disease	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
+29	"	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+30	.	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+31	Johnson	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A	_	_	_	A*	_	A*	_
+32	initially	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	T	_	_	_	_	_	_	_
+33	said	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+34	that	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_
+35	he	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
+36	did	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_
+37	not	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	D	_	_	_	_	_	_
+38	know	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+39	how	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	D	_	_	_	_	_
+40	he	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
+41	contracted	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
+42	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_
+43	disease	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
+44	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+45	but	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+46	later	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	T	_	_	_
+47	acknowledged	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+48	that	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_
+49	it	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+50	was	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
+51	through	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
+52	having	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_
+53	multiple	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_
+54	sexual	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_
+55	partners	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+56	during	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	L	_
+57	his	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A
+58	playing	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A
+59	career	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	H	_
+60	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

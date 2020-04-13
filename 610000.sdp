@@ -1,32 +1,32 @@
 # format = ucca
-1	Having	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_
-2	witnessed	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
-3	the	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_
-4	11	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_
-5	September	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_
-6	2001	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_
-7	attacks	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_
-8	from	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_
-9	the	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_
-10	JFK	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_
-11	airport	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_
-12	tarmac	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_
-13	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_
-14	McCartney	_	Word	-	-	_	A*	_	_	_	_	A	A*	_	A*	_	_
-15	was	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_	_
-16	inspired	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_
-17	to	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_	_
-18	take	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_
-19	a	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_
-20	leading	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_
-21	role	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_
-22	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_
-23	organising	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_
-24	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_
-25	Concert	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_
-26	for	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R
-27	New	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_
-28	York	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal
-29	City	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal
-30	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
+1	Having	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_
+2	witnessed	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+3	the	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_
+4	11	_	Word	-	+	_	_	_	T	_	_	_	_	_	_	_
+5	September	_	Word	-	-	_	_	C	_	_	_	_	_	_	_	_
+6	2001	_	Word	-	-	_	_	C	_	_	_	_	_	_	_	_
+7	attacks	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_
+8	from	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_
+9	the	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_
+10	JFK	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_
+11	airport	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_
+12	tarmac	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_
+13	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_
+14	McCartney	_	Word	-	-	_	A*	_	_	_	_	A	A*	A*	_	_
+15	was	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_
+16	inspired	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_
+17	to	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_
+18	take	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_
+19	a	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_
+20	leading	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	_
+21	role	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_
+22	in	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_
+23	organising	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_
+24	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_
+25	Concert	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_
+26	for	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
+27	New	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_
+28	York	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal
+29	City	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal
+30	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
 

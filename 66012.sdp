@@ -1,47 +1,47 @@
 # format = ucca
-1	She	_	Word	-	-	_	A	_	A*	_	_	_	_	_	_	_	_	_	_
-2	graduated	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	from	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_
-4	high	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-5	school	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_
-6	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_
-7	returned	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_
-8	to	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_
-9	theater	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-10	studies	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_
-11	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-12	though	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_
-13	in	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_
-14	recent	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-15	times	_	Word	-	+	_	_	_	_	_	_	D	_	_	_	_	_	_	_
-16	she	_	Word	-	-	_	_	_	_	_	_	A	_	_	_	_	_	_	_
-17	has	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_	_	_	_
-18	referred	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_
-19	to	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_
-20	this	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-21	period	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_
-22	with	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_
-23	the	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-24	observation	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-25	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_
-26	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_
-27	I	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_	A*	_	_
-28	am	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_
-29	still	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	_	_	_	_
-30	at	_	Word	-	+	_	_	_	_	_	_	_	_	_	D	_	_	_	_
-31	heart	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
-32	\u2014	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_
-33	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	L	_	_	_	_
-34	always	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	D	_	_
-35	will	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F	_	_
-36	be	_	Word	-	+	_	_	_	_	_	_	_	_	_	H	_	_	_	_
-37	\u2014	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_
-38	just	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	_	_	_	_
-39	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-40	punk	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-41	kid	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	A*	_	_
-42	with	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R
-43	tattoos	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-44	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
-45	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	She	_	Word	-	-	_	A	_	A*	_	_	_	_	_	_	_	_	_
+2	graduated	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	from	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_
+4	high	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_
+5	school	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_
+6	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_
+7	returned	_	Word	-	-	_	_	_	D	_	_	_	_	_	_	_	_	_
+8	to	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_
+9	theater	_	Word	-	-	_	_	_	A	_	_	_	_	_	_	_	_	_
+10	studies	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_
+11	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_
+12	though	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_
+13	in	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_
+14	recent	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_
+15	times	_	Word	-	+	_	_	_	_	_	T	_	_	_	_	_	_	_
+16	she	_	Word	-	-	_	_	_	_	_	A	_	_	_	_	_	_	_
+17	has	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_	_	_
+18	referred	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_
+19	to	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_
+20	this	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_
+21	period	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_
+22	with	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_
+23	the	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_	_	_
+24	observation	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_	_
+25	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_
+26	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_
+27	I	_	Word	-	-	_	_	_	_	_	_	_	_	A	_	A*	_	_
+28	am	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_
+29	still	_	Word	-	-	_	_	_	_	_	_	_	_	D	_	_	_	_
+30	at	_	Word	-	+	_	_	_	_	_	_	_	_	D	_	_	_	_
+31	heart	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
+32	\u2014	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_
+33	and	_	Word	-	-	_	_	_	_	_	_	_	_	L	_	_	_	_
+34	always	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D	_	_
+35	will	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_	_
+36	be	_	Word	-	+	_	_	_	_	_	_	_	_	H	_	_	_	_
+37	\u2014	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_
+38	just	_	Word	-	-	_	_	_	_	_	_	_	_	D	_	_	_	_
+39	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F	_
+40	punk	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_
+41	kid	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	A*	_	_
+42	with	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R
+43	tattoos	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_
+44	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
+45	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
 

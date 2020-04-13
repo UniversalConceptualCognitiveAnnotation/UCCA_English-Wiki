@@ -1,47 +1,47 @@
 # format = ucca
-1	A	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-2	combination	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
-3	of	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-4	his	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-5	strong	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-6	response	_	Word	-	+	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-7	to	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-8	rhythm	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-9	and	_	Word	-	-	_	_	N	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-10	nervousness	_	Word	-	+	_	_	C	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-11	at	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_
-12	playing	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-13	before	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_
-14	a	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-15	large	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-16	crowd	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
-17	led	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-18	Presley	_	Word	-	-	_	_	_	_	_	A*	_	A	A*	_	_	_	_	_	_	_	_	_	_
-19	to	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_
-20	shake	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
-21	his	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-22	legs	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
-23	as	_	Word	-	-	_	_	_	_	_	_	_	_	L	_	_	_	_	_	_	_	_	_	_
-24	he	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
-25	performed	_	Word	-	+	_	_	_	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_
-26	:	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
-27	his	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-28	wide	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	D	_	_	_	_	_	_	_
-29	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_
-30	cut	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-31	pants	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
-32	emphasized	_	Word	-	+	_	_	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_
-33	his	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-34	movements	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	A*	_	_	_
-35	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_
-36	causing	_	Word	-	+	_	_	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_
-37	young	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-38	women	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A
-39	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
-40	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-41	audience	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-42	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F
-43	start	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D
-44	screaming	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
-45	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	A	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	combination	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+3	of	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	his	_	Word	-	-	_	_	A	_	A*	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	strong	_	Word	-	-	_	_	D	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	response	_	Word	-	+	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	to	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	rhythm	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	and	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	nervousness	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	at	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_
+12	playing	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	before	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_
+14	a	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+15	large	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+16	crowd	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
+17	led	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	Presley	_	Word	-	-	_	_	_	_	_	A*	_	A	A*	_	_	_	_	_	_	_	_	_
+19	to	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_
+20	shake	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+21	his	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
+22	legs	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
+23	as	_	Word	-	-	_	_	_	_	_	_	_	_	L	_	_	_	_	_	_	_	_	_
+24	he	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+25	performed	_	Word	-	+	_	_	_	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_
+26	:	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
+27	his	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+28	wide	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	D	_	_	_	_	_	_
+29	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_
+30	cut	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+31	pants	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+32	emphasized	_	Word	-	+	_	_	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_
+33	his	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
+34	movements	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+35	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
+36	causing	_	Word	-	-	_	_	_	_	_	_	_	L	_	_	_	_	_	_	_	_	_	_
+37	young	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
+38	women	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A
+39	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
+40	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+41	audience	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
+42	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F
+43	start	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D
+44	screaming	_	Word	-	+	_	_	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_
+45	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

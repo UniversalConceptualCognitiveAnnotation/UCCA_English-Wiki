@@ -1,47 +1,47 @@
 # format = ucca
-1	Depp	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-2	has	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	noted	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-4	this	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-5	period	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-6	of	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-7	his	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-8	career	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
-9	was	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_
-10	full	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-11	of	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_
-12	"	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
-13	studio	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-14	defined	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-15	failures	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
-16	"	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
-17	and	_	Word	-	-	_	_	_	_	_	_	N	_	_	_	_	_	_	_	_	_	_	_
-18	films	_	Word	-	+	_	_	_	_	_	_	C	_	_	_	_	_	_	_	_	_	_	_
-19	that	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_
-20	were	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-21	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_
-22	box	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-23	office	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-24	poison	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
-25	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-26	"	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-27	but	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-28	he	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
-29	thought	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-30	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-31	studios	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	A*	_	_
-32	never	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_	_	_	_
-33	understood	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
-34	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-35	films	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
-36	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	L	_	_	_	_
-37	did	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_
-38	not	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_	_
-39	do	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	H	_	_	_	_
-40	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-41	good	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-42	job	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-43	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
-44	marketing	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
-45	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	Depp	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_	_
+2	has	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_	_	_
+3	noted	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	this	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+5	period	_	Word	-	+	_	_	_	_	_	_	_	T*	_	_	_	_	_	_
+6	of	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_
+7	his	_	Word	-	-	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+8	career	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+9	was	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_	_	_	_
+10	full	_	Word	-	-	_	_	_	_	_	D	_	_	_	_	_	_	_	_
+11	of	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_
+12	"	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_
+13	studio	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_	_	_	_
+14	defined	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_	_	_	_
+15	failures	_	Word	-	+	_	_	_	_	A*	_	_	_	_	_	_	_	_	_
+16	"	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_
+17	and	_	Word	-	-	_	_	_	_	_	L	_	_	_	_	_	_	_	_
+18	films	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	_	_	_	_
+19	that	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_	_	_	_
+20	were	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_	_	_	_
+21	"	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_
+22	box	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_
+23	office	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_
+24	poison	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_	_	_	_
+25	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+26	"	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+27	but	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_
+28	he	_	Word	-	-	_	_	_	_	_	_	_	_	A	_	_	_	_	_
+29	thought	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_
+30	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_
+31	studios	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A*
+32	never	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D	_	_	_
+33	understood	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_
+34	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_
+35	films	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_
+36	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	L	_	_	_
+37	did	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	F
+38	not	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	D
+39	do	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	F	_
+40	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+41	good	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+42	job	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	D
+43	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+44	marketing	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	H	_	_	_
+45	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

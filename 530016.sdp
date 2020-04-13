@@ -1,21 +1,11 @@
 # format = ucca
-1	The	_	Word	-	-	_	E	_	_	_	_	_	_
-2	album	_	Word	-	+	_	_	A	_	_	_	_	_
-3	won	_	Word	-	+	_	_	_	_	_	_	_	_
-4	four	_	Word	-	-	_	_	_	E	_	_	_	_
-5	Grammy	_	Word	-	-	_	_	_	E	_	_	_	_
-6	Awards	_	Word	-	+	_	_	A	_	_	_	_	_
-7	including	_	Word	-	-	_	_	_	_	R	_	_	_
-8	Album	_	Word	-	+	_	_	_	E	_	_	_	_
-9	of	_	Word	-	-	_	_	_	_	_	R	_	_
-10	the	_	Word	-	-	_	_	_	_	_	E	_	_
-11	Year	_	Word	-	+	_	_	_	_	E	_	_	_
-12	and	_	Word	-	-	_	_	_	_	N	_	_	_
-13	Best	_	Word	-	-	_	_	_	_	_	_	E	_
-14	Female	_	Word	-	-	_	_	_	_	_	_	E	_
-15	Vocal	_	Word	-	+	_	_	_	_	C	_	_	_
-16	of	_	Word	-	-	_	_	_	_	_	_	_	R
-17	the	_	Word	-	-	_	_	_	_	_	_	_	E
-18	Year	_	Word	-	+	_	_	_	_	_	_	E	_
-19	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+1	The	_	Word	-	-	_	F	_
+2	album	_	Word	-	+	_	_	A
+3	has	_	Word	-	-	_	_	F
+4	never	_	Word	-	-	_	_	T
+5	been	_	Word	-	-	_	_	F
+6	out	_	Word	-	+	_	_	_
+7	of	_	Word	-	-	_	_	Terminal
+8	print	_	Word	-	-	_	_	Terminal
+9	.	_	Punctuation	-	-	_	_	U
 

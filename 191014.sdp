@@ -1,39 +1,34 @@
 # format = ucca
-1	He	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	A*	_	_	_	_
-2	worked	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	on	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_
-4	Excess	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
-5	Baggage	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_
-6	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-7	a	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-8	comedy	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-9	about	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_
-10	a	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-11	girl	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-12	who	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_
-13	stages	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-14	her	_	Word	-	-	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
-15	own	_	Word	-	-	_	_	_	_	_	D	_	_	_	_	_	_	_	_	_
-16	kidnapping	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
-17	to	_	Word	-	-	_	_	_	_	_	L	_	_	_	_	_	_	_	_	_
-18	get	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_
-19	her	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-20	father	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-21	's	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_
-22	attention	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
-23	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
-24	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_
-25	rewrote	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
-26	some	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-27	of	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
-28	Will	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-29	Smith	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
-30	's	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_
-31	scenes	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
-32	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
-33	Enemy	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-34	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
-35	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
-36	State	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
-37	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	Beatty	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_
+2	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_
+3	known	_	Word	-	+	_	E	_	_	_	_	_	_	_	_	_	_
+4	for	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_
+5	occasionally	_	Word	-	-	_	_	_	T	_	_	_	_	_	_	_	_
+6	personally	_	Word	-	-	_	_	_	A	_	_	_	_	_	_	_	_
+7	financing	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_
+8	his	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_	_
+9	film	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_	_
+10	projects	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_
+11	through	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_
+12	pre	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_
+13	-	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_
+14	production	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_
+15	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_
+16	also	_	Word	-	-	_	_	_	_	_	_	D	_	_	_	_	_
+17	hired	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
+18	Sorkin	_	Word	-	-	_	_	_	_	_	_	A	A*	_	_	_	_
+19	to	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_
+20	rewrite	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_
+21	a	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_
+22	script	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_
+23	titled	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_
+24	Ocean	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_
+25	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_
+26	Storms	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_
+27	which	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R
+28	never	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	T
+29	went	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F
+30	into	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R
+31	production	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_
+32	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
 

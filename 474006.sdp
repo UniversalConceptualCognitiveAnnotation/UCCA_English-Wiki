@@ -1,38 +1,38 @@
 # format = ucca
-1	The	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_
-2	Lakers	_	Word	-	+	_	_	A	_	_	_	_	A*	_	_	_	_	_
-3	played	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-4	well	_	Word	-	-	_	_	D	_	_	_	_	_	_	_	_	_	_
-5	initially	_	Word	-	-	_	_	D	_	_	_	_	_	_	_	_	_	_
-6	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_
-7	winning	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_
-8	five	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_	_
-9	of	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_
-10	their	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_
-11	first	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_
-12	six	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_
-13	games	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_
-14	under	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_
-15	Johnson	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_
-16	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_
-17	but	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_
-18	after	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_
-19	losing	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_
-20	the	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_
-21	next	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_
-22	five	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_
-23	games	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_
-24	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_
-25	Johnson	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_	_	_
-26	announced	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_
-27	that	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_	_
-28	he	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A	_	_
-29	was	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_	_
-30	resigning	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_
-31	as	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_
-32	coach	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_
-33	after	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R
-34	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E
-35	season	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	D	_	_
-36	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	The	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_	_	_
+2	Lakers	_	Word	-	+	_	_	A	A*	_	_	_	_	A*	_	_	_	_	_
+3	played	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	well	_	Word	-	-	_	_	D	_	_	_	_	_	_	_	_	_	_	_
+5	initially	_	Word	-	-	_	_	T	_	_	_	_	_	_	_	_	_	_	_
+6	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+7	winning	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_
+8	five	_	Word	-	+	_	_	_	_	_	_	Q	_	_	_	_	_	_	_
+9	of	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_
+10	their	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_
+11	first	_	Word	-	-	_	_	_	_	_	Q	_	_	_	_	_	_	_	_
+12	six	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+13	games	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+14	under	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_
+15	Johnson	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_	_	_
+16	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+17	but	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_
+18	after	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_
+19	losing	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_
+20	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_	_	_
+21	next	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_
+22	five	_	Word	-	-	_	_	_	_	_	_	_	_	_	Q	_	_	_	_
+23	games	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_
+24	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+25	Johnson	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A	_	_	_
+26	announced	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_
+27	that	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_
+28	he	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+29	was	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F	_	_
+30	resigning	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_
+31	as	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_
+32	coach	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+33	after	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	L	_	_
+34	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	F
+35	season	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	H	_	_
+36	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

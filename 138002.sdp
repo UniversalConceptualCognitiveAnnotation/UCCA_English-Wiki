@@ -1,27 +1,27 @@
 # format = ucca
-1	Less	_	Word	-	-	_	E	_	_	_	_	_	_
-2	success	_	Word	-	+	_	_	_	E	_	_	_	_
-3	that	_	Word	-	-	_	_	E	_	_	_	_	_
-4	year	_	Word	-	+	_	_	_	D	_	_	_	_
-5	came	_	Word	-	+	_	_	_	_	_	_	_	_
-6	from	_	Word	-	-	_	_	_	_	R	_	_	_
-7	The	_	Word	-	+	_	_	_	A	_	_	_	_
-8	Iron	_	Word	-	-	_	_	_	_	Terminal	_	_	_
-9	Petticoat	_	Word	-	-	_	_	_	_	Terminal	_	_	_
-10	(	_	Punctuation	-	-	_	_	_	_	U	_	_	_
-11	1956	_	Word	-	-	_	_	_	_	E	_	_	_
-12	)	_	Punctuation	-	-	_	_	_	_	U	_	_	_
-13	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_
-14	a	_	Word	-	-	_	_	_	_	_	E	_	_
-15	reworking	_	Word	-	+	_	_	_	_	E	_	_	_
-16	of	_	Word	-	-	_	_	_	_	_	_	R	_
-17	the	_	Word	-	-	_	_	_	_	_	_	E	_
-18	classic	_	Word	-	-	_	_	_	_	_	_	E	_
-19	comedy	_	Word	-	-	_	_	_	_	_	_	E	_
-20	Ninotchka	_	Word	-	+	_	_	_	_	_	E	_	_
-21	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_
-22	with	_	Word	-	-	_	_	_	_	_	_	_	R
-23	Bob	_	Word	-	+	_	_	_	_	_	E	_	_
-24	Hope	_	Word	-	-	_	_	_	_	_	_	_	Terminal
-25	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+1	Less	_	Word	-	-	_	D	_	_	_	_	_
+2	success	_	Word	-	+	_	_	_	_	_	_	_
+3	that	_	Word	-	-	_	_	E	_	_	_	_
+4	year	_	Word	-	+	_	T	_	_	_	_	_
+5	came	_	Word	-	-	_	D	_	_	_	_	_
+6	from	_	Word	-	-	_	_	_	R	_	_	_
+7	The	_	Word	-	+	_	A	_	_	_	_	_
+8	Iron	_	Word	-	-	_	_	_	Terminal	_	_	_
+9	Petticoat	_	Word	-	-	_	_	_	Terminal	_	_	_
+10	(	_	Punctuation	-	-	_	_	_	U	_	_	_
+11	1956	_	Word	-	-	_	_	_	E	_	_	_
+12	)	_	Punctuation	-	-	_	_	_	U	_	_	_
+13	,	_	Punctuation	-	-	_	_	_	U	_	_	_
+14	a	_	Word	-	-	_	_	_	_	E	_	_
+15	reworking	_	Word	-	+	_	_	_	E	_	_	_
+16	of	_	Word	-	-	_	_	_	_	_	R	_
+17	the	_	Word	-	-	_	_	_	_	_	E	_
+18	classic	_	Word	-	-	_	_	_	_	_	D	_
+19	comedy	_	Word	-	+	_	_	_	_	A	_	_
+20	Ninotchka	_	Word	-	-	_	_	_	_	_	A	_
+21	,	_	Punctuation	-	-	_	_	_	_	U	_	_
+22	with	_	Word	-	-	_	_	_	_	_	_	R
+23	Bob	_	Word	-	+	_	_	_	_	A	_	_
+24	Hope	_	Word	-	-	_	_	_	_	_	_	Terminal
+25	.	_	Punctuation	-	-	_	_	_	_	_	_	U
 

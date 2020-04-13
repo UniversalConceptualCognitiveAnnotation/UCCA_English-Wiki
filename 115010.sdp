@@ -1,20 +1,20 @@
 # format = ucca
 1	In	_	Word	-	-	_	R	_	_	_
-2	1999	_	Word	-	+	_	_	D	_	_
+2	1999	_	Word	-	+	_	_	T	_	_
 3	,	_	Punctuation	-	-	_	_	U	_	_
-4	she	_	Word	-	-	_	_	A	_	_
+4	she	_	Word	-	-	_	_	A	_	A*
 5	was	_	Word	-	-	_	_	F	_	_
 6	named	_	Word	-	+	_	_	_	_	_
 7	by	_	Word	-	-	_	_	_	R	_
 8	the	_	Word	-	-	_	_	_	E	_
-9	American	_	Word	-	-	_	_	_	E	_
-10	Film	_	Word	-	-	_	_	_	E	_
-11	Institute	_	Word	-	+	_	_	A	_	_
+9	American	_	Word	-	+	_	_	A	_	_
+10	Film	_	Word	-	-	_	_	_	Terminal	_
+11	Institute	_	Word	-	-	_	_	_	Terminal	_
 12	as	_	Word	-	-	_	_	_	_	R
 13	the	_	Word	-	-	_	_	_	_	E
-14	top	_	Word	-	-	_	_	_	_	E
-15	female	_	Word	-	-	_	_	_	_	E
-16	Hollywood	_	Word	-	-	_	_	_	_	E
+14	top	_	Word	-	-	_	_	_	_	D
+15	female	_	Word	-	-	_	_	_	_	D
+16	Hollywood	_	Word	-	-	_	_	_	_	A
 17	legend	_	Word	-	+	_	_	A	_	_
 18	.	_	Punctuation	-	-	_	_	_	_	U
 

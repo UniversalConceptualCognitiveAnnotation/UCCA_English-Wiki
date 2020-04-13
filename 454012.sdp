@@ -9,12 +9,12 @@
 8	York	_	Word	-	-	_	_	_	Terminal	_	_	_
 9	City	_	Word	-	-	_	_	_	Terminal	_	_	_
 10	,	_	Punctuation	-	-	_	_	_	U	_	_	_
-11	the	_	Word	-	-	_	_	_	_	_	_	E
-12	program	_	Word	-	+	_	_	_	_	_	_	E
+11	the	_	Word	-	-	_	_	_	_	_	E	_
+12	program	_	Word	-	+	_	_	_	_	_	E	_
 13	's	_	Word	-	-	_	_	_	_	R	_	_
-14	new	_	Word	-	-	_	_	_	_	_	_	E
+14	new	_	Word	-	-	_	_	_	_	_	E	_
 15	base	_	Word	-	+	_	_	_	_	_	_	E
-16	of	_	Word	-	-	_	_	_	_	_	R	_
+16	of	_	Word	-	-	_	_	_	_	_	_	R
 17	operations	_	Word	-	+	_	_	_	E	_	_	_
 18	.	_	Punctuation	-	-	_	_	_	_	_	_	U
 

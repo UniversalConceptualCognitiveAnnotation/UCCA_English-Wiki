@@ -1,30 +1,30 @@
 # format = ucca
-1	After	_	Word	-	-	_	L	_	_	_	_	_	_	_	_
-2	their	_	Word	-	-	_	A	_	_	_	_	_	_	_	_
-3	divorce	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-4	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
-5	according	_	Word	-	+	_	H	_	_	_	_	_	_	_	_
-6	to	_	Word	-	-	_	_	R	_	_	_	_	_	_	_
-7	the	_	Word	-	-	_	_	_	E	_	_	_	_	_	_
-8	style	_	Word	-	+	_	_	_	_	A	_	_	_	_	_
-9	granted	_	Word	-	+	_	_	A	_	_	_	_	_	_	_
-10	to	_	Word	-	-	_	_	_	_	R	_	_	_	_	_
-11	the	_	Word	-	-	_	_	_	_	_	E	_	_	_	_
-12	divorced	_	Word	-	-	_	_	_	_	_	E	_	_	_	_
-13	wife	_	Word	-	+	_	_	_	_	A	_	_	_	_	_
-14	of	_	Word	-	-	_	_	_	_	_	R	_	_	_	_
-15	a	_	Word	-	-	_	_	_	_	_	_	E	_	_	_
-16	knight	_	Word	-	+	_	_	_	_	_	E	_	_	_	_
-17	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_
-18	she	_	Word	-	-	_	_	_	_	_	_	_	A	_	_
-19	became	_	Word	-	-	_	_	_	_	_	_	_	E	_	_
-20	known	_	Word	-	+	_	_	A	_	_	_	_	_	_	_
-21	socially	_	Word	-	-	_	_	_	_	_	_	_	D	_	_
-22	as	_	Word	-	-	_	_	_	_	_	_	_	R	_	_
-23	Vivien	_	Word	-	+	_	_	_	_	_	_	_	A	_	_
-24	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_
-25	Lady	_	Word	-	+	_	_	_	_	_	_	_	_	E	_
-26	Olivier	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal
-27	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_
-28	)	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_
+1	After	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_
+2	their	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_
+3	divorce	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+4	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_
+5	according	_	Word	-	+	_	L	_	_	_	_	_	_	_	_	_
+6	to	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_
+7	the	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_
+8	style	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_
+9	granted	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_
+10	to	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_
+11	the	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_
+12	divorced	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_
+13	wife	_	Word	-	+	_	_	_	_	_	A*	_	_	_	_	_
+14	of	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_
+15	a	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_
+16	knight	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_
+17	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_
+18	she	_	Word	-	-	_	_	_	_	_	_	_	_	A	_	_
+19	became	_	Word	-	-	_	_	_	_	_	_	_	_	D	_	_
+20	known	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_
+21	socially	_	Word	-	-	_	_	_	_	_	_	_	_	A	_	_
+22	as	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_
+23	Vivien	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_
+24	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_
+25	Lady	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_
+26	Olivier	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal
+27	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_
+28	)	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_
 

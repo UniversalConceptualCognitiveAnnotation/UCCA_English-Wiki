@@ -1,39 +1,39 @@
 # format = ucca
-1	To	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_
-2	further	_	Word	-	-	_	D	_	_	_	_	_	_	_	_	_	_
-3	shed	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
-4	the	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_
-5	image	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_
-6	of	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_
-7	Mr	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_	_
-8	.	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_
-9	Nice	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_
-10	Guy	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_
-11	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_
-12	Chan	_	Word	-	-	_	A*	_	_	A	_	_	_	A*	_	_	_
-13	played	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_
-14	an	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_
-15	anti	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_
-16	-	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_
-17	hero	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_
-18	for	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_
-19	the	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_
-20	first	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_
-21	time	_	Word	-	+	_	_	_	_	D	_	_	_	_	_	_	_
-22	in	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_
-23	Rob	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_
-24	-	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_
-25	B	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_
-26	-	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_
-27	Hood	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_
-28	starring	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_
-29	as	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_
-30	Thongs	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_
-31	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_
-32	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_
-33	burglar	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A
-34	with	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F
-35	gambling	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E
-36	problems	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_
-37	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
+1	To	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_
+2	further	_	Word	-	-	_	D	_	_	_	_	_	_	_	_	_
+3	shed	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+4	the	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_
+5	image	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_
+6	of	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_
+7	Mr	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_
+8	.	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_
+9	Nice	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_
+10	Guy	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_
+11	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_
+12	Chan	_	Word	-	-	_	A*	_	A	_	_	_	A*	_	_	_
+13	played	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_
+14	an	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_
+15	anti	_	Word	-	-	_	_	_	_	D	_	_	_	_	_	_
+16	-	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_
+17	hero	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_
+18	for	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_
+19	the	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_
+20	first	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_
+21	time	_	Word	-	+	_	_	_	T	_	_	_	_	_	_	_
+22	in	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_
+23	Rob	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_
+24	-	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_
+25	B	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_
+26	-	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_
+27	Hood	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_
+28	starring	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_
+29	as	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_
+30	Thongs	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_
+31	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_
+32	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_
+33	burglar	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_
+34	with	_	Word	-	-	_	_	_	_	_	_	_	_	_	L	_
+35	gambling	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A
+36	problems	_	Word	-	+	_	_	_	_	_	_	_	_	_	H	_
+37	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
 

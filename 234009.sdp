@@ -1,44 +1,44 @@
 # format = ucca
-1	Some	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-2	50	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	police	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
-4	and	_	Word	-	-	_	N	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-5	security	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
-6	personnel	_	Word	-	+	_	C	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-7	were	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_
-8	required	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-9	to	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_
-10	separate	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
-11	protesters	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
-12	from	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_
-13	Chan	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
-14	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-15	as	_	Word	-	-	_	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_
-16	they	_	Word	-	-	_	_	_	_	_	_	A	A*	_	_	_	_	_	_	_	_
-17	were	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_
-18	attempting	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_
-19	to	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_
-20	spit	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
-21	at	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_
-22	him	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
-23	when	_	Word	-	-	_	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_
-24	he	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
-25	arrived	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_
-26	at	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
-27	Taipei	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-28	airport	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
-29	for	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_
-30	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-31	charity	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
-32	sponsored	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-33	by	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
-34	cable	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-35	TV	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-36	channel	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-37	TVBS	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
-38	on	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
-39	18	_	Word	-	+	_	_	_	_	_	_	_	_	_	D	_	_	_	_	_	_
-40	June	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
-41	2008	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
-42	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	Some	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	50	_	Word	-	-	_	Q	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	police	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
+4	and	_	Word	-	-	_	N	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	security	_	Word	-	+	_	C	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	personnel	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
+7	were	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_
+8	required	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	to	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_
+10	separate	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
+11	protesters	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+12	from	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_
+13	Chan	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+14	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+15	as	_	Word	-	-	_	_	_	L	_	_	_	_	_	_	_	_	_	_	_
+16	they	_	Word	-	-	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
+17	were	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_
+18	attempting	_	Word	-	-	_	_	_	_	_	_	D	_	_	_	_	_	_	_	_
+19	to	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_
+20	spit	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_
+21	at	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_
+22	him	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
+23	when	_	Word	-	-	_	_	_	L	_	_	_	_	_	_	_	_	_	_	_
+24	he	_	Word	-	-	_	_	_	_	_	_	_	_	A	_	A*	_	_	_	_
+25	arrived	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_
+26	at	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
+27	Taipei	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+28	airport	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
+29	for	_	Word	-	-	_	_	_	L	_	_	_	_	_	_	_	_	_	_	_
+30	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_
+31	charity	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_
+32	sponsored	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_
+33	by	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
+34	cable	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
+35	TV	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+36	channel	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+37	TVBS	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
+38	on	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+39	18	_	Word	-	+	_	_	_	_	_	_	_	_	T	_	_	_	_	_	_
+40	June	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	C
+41	2008	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	C
+42	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

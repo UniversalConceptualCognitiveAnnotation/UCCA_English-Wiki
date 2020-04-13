@@ -1,17 +1,17 @@
 # format = ucca
 1	In	_	Word	-	-	_	_	_	R	_	_	_	_
-2	director	_	Word	-	+	_	_	_	A	_	_	_	_
-3	David	_	Word	-	+	_	E	_	_	_	_	_	_
-4	O	_	Word	-	-	_	_	Terminal	_	_	_	_	_
-5	.	_	Punctuation	-	-	_	_	U	_	_	_	_	_
-6	Russell	_	Word	-	-	_	_	Terminal	_	_	_	_	_
-7	's	_	Word	-	-	_	R	_	_	_	_	_	_
+2	director	_	Word	-	-	_	E	_	_	_	_	_	_
+3	David	_	Word	-	+	_	_	A	_	_	_	_	_
+4	O	_	Word	-	-	_	Terminal	_	_	_	_	_	_
+5	.	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+6	Russell	_	Word	-	-	_	Terminal	_	_	_	_	_	_
+7	's	_	Word	-	+	_	_	_	E	_	_	_	_
 8	I	_	Word	-	+	_	_	_	_	_	A	_	_
 9	Heart	_	Word	-	-	_	_	_	Terminal	_	_	_	_
 10	Huckabees	_	Word	-	-	_	_	_	Terminal	_	_	_	_
 11	(	_	Punctuation	-	-	_	_	_	U	_	_	_	_
-12	also	_	Word	-	-	_	_	_	_	R	_	_	_
-13	2004	_	Word	-	+	_	_	_	E	_	_	_	_
+12	also	_	Word	-	+	_	_	_	E	_	_	_	_
+13	2004	_	Word	-	-	_	_	_	_	T	_	_	_
 14	)	_	Punctuation	-	-	_	_	_	_	_	U	_	_
 15	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_
 16	Hoffman	_	Word	-	-	_	_	_	_	_	A	_	_
@@ -20,7 +20,7 @@
 19	Lily	_	Word	-	+	_	_	_	_	_	A	_	_
 20	Tomlin	_	Word	-	-	_	_	_	_	_	_	Terminal	_
 21	as	_	Word	-	-	_	_	_	_	_	_	_	R
-22	an	_	Word	-	-	_	_	_	_	_	_	_	E
+22	an	_	Word	-	-	_	_	_	_	_	_	_	F
 23	existential	_	Word	-	-	_	_	_	_	_	_	_	E
 24	detective	_	Word	-	-	_	_	_	_	_	_	_	E
 25	team	_	Word	-	-	_	_	_	_	_	_	_	E

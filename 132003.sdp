@@ -1,26 +1,26 @@
 # format = ucca
-1	Louis	_	Word	-	+	_	_	A	_	_	_	_	_
-2	B	_	Word	-	-	_	Terminal	_	_	_	_	_	_
-3	.	_	Punctuation	-	-	_	U	_	_	_	_	_	_
-4	Mayer	_	Word	-	-	_	Terminal	_	_	_	_	_	_
-5	promised	_	Word	-	+	_	_	_	_	_	_	_	_
-6	her	_	Word	-	-	_	_	A	_	_	_	_	_
-7	James	_	Word	-	+	_	_	A	_	_	_	_	_
-8	Stewart	_	Word	-	-	_	_	_	Terminal	_	_	_	_
-9	and	_	Word	-	-	_	_	_	N	_	_	_	_
-10	$	_	Word	-	+	_	_	_	C	_	_	_	_
-11	150	_	Word	-	-	_	_	_	_	Terminal	_	_	_
-12	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_
-13	000	_	Word	-	-	_	_	_	_	Terminal	_	_	_
-14	"	_	Punctuation	-	-	_	_	_	_	U	_	_	_
-15	for	_	Word	-	-	_	_	_	_	_	R	_	_
-16	anyone	_	Word	-	+	_	_	_	_	E	_	_	_
-17	else	_	Word	-	-	_	_	_	_	_	E	_	_
-18	you	_	Word	-	-	_	_	_	_	_	_	A	_
-19	want	_	Word	-	+	_	_	_	_	_	E	_	_
-20	or	_	Word	-	-	_	_	_	_	_	_	N	_
-21	can	_	Word	-	-	_	_	_	_	_	_	_	F
-22	get	_	Word	-	+	_	_	_	_	_	_	C	_
-23	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
-24	"	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+1	Louis	_	Word	-	+	_	_	A	_	_	_	_	_	_
+2	B	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_
+3	.	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_
+4	Mayer	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_
+5	promised	_	Word	-	+	_	_	_	_	_	_	_	_	_
+6	her	_	Word	-	-	_	_	A	_	_	_	_	_	_
+7	James	_	Word	-	+	_	_	A	_	_	_	_	_	_
+8	Stewart	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_
+9	and	_	Word	-	-	_	_	_	N	_	_	_	_	_
+10	$	_	Word	-	+	_	_	_	C	_	_	_	_	_
+11	150	_	Word	-	+	_	_	_	_	Q	_	_	_	_
+12	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_
+13	000	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_
+14	"	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_
+15	for	_	Word	-	-	_	_	_	_	_	_	_	R	R*
+16	anyone	_	Word	-	+	_	_	_	_	_	_	_	A	A*
+17	else	_	Word	-	-	_	_	_	_	_	_	E	_	_
+18	you	_	Word	-	-	_	_	_	_	_	_	_	A	A*
+19	want	_	Word	-	+	_	_	_	_	E	_	_	_	_
+20	or	_	Word	-	-	_	_	_	_	_	_	_	L	_
+21	can	_	Word	-	-	_	_	_	_	_	_	_	_	F
+22	get	_	Word	-	+	_	_	_	_	_	_	_	H	_
+23	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+24	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
 

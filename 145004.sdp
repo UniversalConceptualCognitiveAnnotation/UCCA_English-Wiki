@@ -1,38 +1,38 @@
 # format = ucca
-1	She	_	Word	-	-	_	A	_	A*	_	_	_	_	_	_	_	_
-2	distanced	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
-3	herself	_	Word	-	-	_	D	_	_	_	_	_	_	_	_	_	_
-4	from	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_
-5	the	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_
-6	celebrity	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_
-7	lifestyle	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_
-8	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_
-9	uninterested	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_
-10	in	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_
-11	a	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_
-12	social	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_
-13	scene	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_
-14	she	_	Word	-	-	_	_	_	_	_	A	_	_	_	_	_	_
-15	saw	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_
-16	as	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_
-17	tedious	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_
-18	and	_	Word	-	-	_	_	_	_	_	_	N	_	_	_	_	_
-19	superficial	_	Word	-	-	_	_	_	_	_	_	C	_	_	_	_	_
-20	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_
-21	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_
-22	she	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	_	_
-23	wore	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_
-24	casual	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_
-25	clothes	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_
-26	that	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_
-27	went	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_
-28	strongly	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	_	_
-29	against	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_
-30	convention	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_	_
-31	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_
-32	an	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_
-33	era	_	Word	-	+	_	_	_	_	_	_	_	_	_	D	_	_
-34	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R
-35	glamour	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_
-36	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
+1	She	_	Word	-	-	_	A	_	A*	_	_	_	_	_	_	_	_	_
+2	distanced	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	herself	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
+4	from	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_
+5	the	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_
+6	celebrity	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_	_	_
+7	lifestyle	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_
+8	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_
+9	uninterested	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_
+10	in	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_
+11	a	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_
+12	social	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_
+13	scene	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_
+14	she	_	Word	-	-	_	_	_	_	_	A	_	_	_	_	_	_	_
+15	saw	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_
+16	as	_	Word	-	-	_	_	_	_	_	_	R	R*	_	_	_	_	_
+17	tedious	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_
+18	and	_	Word	-	-	_	_	_	_	_	_	L	_	_	_	_	_	_
+19	superficial	_	Word	-	+	_	_	_	_	_	_	H	_	_	_	_	_	_
+20	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_
+21	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_
+22	she	_	Word	-	-	_	_	_	_	_	_	_	_	A	_	_	_	_
+23	wore	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_
+24	casual	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_
+25	clothes	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_
+26	that	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_
+27	went	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_	_
+28	strongly	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D	_	_
+29	against	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_	_
+30	convention	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A	_	_
+31	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_
+32	an	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_
+33	era	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_
+34	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R
+35	glamour	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_
+36	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
 

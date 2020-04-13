@@ -1,50 +1,50 @@
 # format = ucca
-1	When	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-2	the	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	Gulf	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-4	War	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-5	started	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-6	on	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_
-7	January	_	Word	-	+	_	_	D	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-8	16	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_
-9	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
-10	1991	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_
-11	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-12	Jennings	_	Word	-	-	_	_	_	_	A	_	A*	_	A*	_	_	_	_	A*	_	_	_
-13	began	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-14	a	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-15	marathon	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-16	anchoring	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-17	stint	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
-18	to	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-19	cover	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-20	the	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-21	story	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
-22	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-23	spending	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-24	20	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-25	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_
-26	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-27	first	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-28	48	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-29	hours	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
-30	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
-31	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-32	war	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-33	on	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_
-34	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_
-35	air	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
-36	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-37	and	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-38	leading	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-39	ABC	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-40	News	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
-41	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
-42	its	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-43	highest	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-44	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_
-45	ever	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-46	ratings	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
-47	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
-48	[	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	When	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_
+2	the	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_
+3	Gulf	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_
+4	War	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	started	_	Word	-	-	_	D	_	_	_	_	_	_	_	_	_	_	_
+6	on	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_
+7	January	_	Word	-	+	_	T	_	_	_	_	_	_	_	_	_	_	_
+8	16	_	Word	-	-	_	_	C	_	_	_	_	_	_	_	_	_	_
+9	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_
+10	1991	_	Word	-	-	_	_	C	_	_	_	_	_	_	_	_	_	_
+11	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_
+12	Jennings	_	Word	-	-	_	_	_	_	A	A*	_	_	_	A*	A*	_	_
+13	began	_	Word	-	-	_	_	_	_	D	_	_	_	_	_	_	_	_
+14	a	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_
+15	marathon	_	Word	-	+	_	_	_	_	D	_	_	_	_	_	_	_	_
+16	anchoring	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_
+17	stint	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_
+18	to	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_
+19	cover	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_
+20	the	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_
+21	story	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_
+22	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_
+23	spending	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_	_
+24	20	_	Word	-	-	_	_	_	_	_	_	_	Q	_	_	_	_	_
+25	of	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_
+26	the	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_
+27	first	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_
+28	48	_	Word	-	-	_	_	_	_	_	_	_	Q	_	_	_	_	_
+29	hours	_	Word	-	+	_	_	_	_	_	_	_	_	_	T	_	_	_
+30	of	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_
+31	the	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_
+32	war	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_
+33	on	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_
+34	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_
+35	air	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_
+36	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_
+37	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_
+38	leading	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_
+39	ABC	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_
+40	News	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_
+41	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R
+42	its	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	A
+43	highest	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_
+44	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
+45	ever	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	T
+46	ratings	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	A
+47	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
+48	[	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
 

@@ -1,50 +1,50 @@
 # format = ucca
-1	In	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_
-2	March	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	2007	_	Word	-	+	_	_	D	_	_	_	_	_	_	_	_	_	_	_	_
-4	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-5	it	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_
-6	was	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_
-7	reported	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-8	that	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_
-9	Sorkin	_	Word	-	-	_	_	_	A	_	_	_	_	_	_	_	A*	_	_	_
-10	had	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_
-11	signed	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
-12	on	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
-13	to	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_
-14	write	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
-15	a	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-16	musical	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-17	adaptation	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
-18	of	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_
-19	the	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-20	hit	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-21	2002	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-22	record	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-23	Yoshimi	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
-24	Battles	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_
-25	the	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_
-26	Pink	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_
-27	Robots	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_
-28	by	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
-29	psychedelic	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-30	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_
-31	rock	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-32	band	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-33	The	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-34	Flaming	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_
-35	Lips	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_
-36	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-37	collaborating	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_
-38	with	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_
-39	director	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	A*	_
-40	Des	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
-41	McAnuff	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
-42	who	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_
-43	has	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_
-44	been	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_
-45	developing	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-46	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-47	project	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_
-48	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	In	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	March	_	Word	-	+	_	_	T	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	2007	_	Word	-	-	_	C	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	it	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	was	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	reported	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	that	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	Sorkin	_	Word	-	-	_	_	_	A	A*	_	_	_	_	_	_	_	A*	_	_	_	_
+10	had	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	signed	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	on	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	to	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_
+14	write	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	a	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+16	musical	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+17	adaptation	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
+18	of	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_
+19	the	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+20	hit	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+21	2002	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+22	record	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+23	Yoshimi	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+24	Battles	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
+25	the	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
+26	Pink	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
+27	Robots	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
+28	by	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+29	psychedelic	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
+30	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_
+31	rock	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
+32	band	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+33	The	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
+34	Flaming	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_
+35	Lips	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_
+36	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+37	collaborating	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+38	with	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_
+39	director	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+40	Des	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	A*	_
+41	McAnuff	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
+42	who	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
+43	has	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_
+44	been	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_
+45	developing	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
+46	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+47	project	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_
+48	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

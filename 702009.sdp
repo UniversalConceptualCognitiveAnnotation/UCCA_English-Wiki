@@ -1,11 +1,11 @@
 # format = ucca
-1	A	_	Word	-	-	_	_	_	E	_	_
-2	live	_	Word	-	-	_	_	_	E	_	_
+1	A	_	Word	-	-	_	E	_	_	_	_
+2	live	_	Word	-	-	_	E	_	_	_	_
 3	double	_	Word	-	-	_	E	_	_	_	_
 4	album	_	Word	-	+	_	_	_	E	_	_
 5	of	_	Word	-	-	_	_	R	_	_	_
 6	the	_	Word	-	-	_	_	E	_	_	_
-7	tour	_	Word	-	+	_	_	_	E	_	_
+7	tour	_	Word	-	+	_	E	_	_	_	_
 8	,	_	Punctuation	-	-	_	_	_	U	_	_
 9	Before	_	Word	-	+	_	_	_	_	A	_
 10	the	_	Word	-	-	_	_	_	Terminal	_	_
@@ -14,7 +14,7 @@
 13	was	_	Word	-	-	_	_	_	_	F	_
 14	released	_	Word	-	+	_	_	_	_	_	_
 15	on	_	Word	-	-	_	_	_	_	_	R
-16	Asylum	_	Word	-	-	_	_	_	_	_	E
-17	Records	_	Word	-	+	_	_	_	_	A	_
+16	Asylum	_	Word	-	+	_	_	_	_	A	_
+17	Records	_	Word	-	-	_	_	_	_	_	Terminal
 18	.	_	Punctuation	-	-	_	_	_	_	_	U
 

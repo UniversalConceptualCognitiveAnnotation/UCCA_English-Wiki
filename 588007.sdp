@@ -7,7 +7,7 @@
 6	Jack	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_
 7	Sparrow	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_
 8	in	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_
-9	the	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_
+9	the	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_
 10	Pirates	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_
 11	of	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_
 12	the	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_
@@ -39,11 +39,11 @@
 38	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_
 39	which	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
 40	were	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F
-41	each	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A
+41	each	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D
 42	also	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D
 43	major	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D
-44	box	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_
-45	office	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A
+44	box	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A
+45	office	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_
 46	successes	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_
 47	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
 

@@ -1,36 +1,36 @@
 # format = ucca
-1	With	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_
-2	Stefani	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_
-3	promoting	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-4	her	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_
-5	second	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_
-6	solo	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_
-7	album	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_
-8	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_
-9	No	_	Word	-	+	_	_	_	_	A	_	_	_	A*	_	_	_	_
-10	Doubt	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
-11	began	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_
-12	initial	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_
-13	work	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_
-14	on	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_
-15	a	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_
-16	new	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_
-17	album	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_	_
-18	without	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_
-19	her	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_
-20	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_
-21	planned	_	Word	-	-	_	_	_	_	_	_	_	_	D	_	_	_	_
-22	to	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_	_
-23	complete	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_
-24	it	_	Word	-	-	_	_	_	_	_	_	_	_	A	_	_	_	_
-25	after	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_
-26	Stefani	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_
-27	's	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_
-28	The	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_
-29	Sweet	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
-30	Escape	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
-31	Tour	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A
-32	was	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	F
-33	finished	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_
-34	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	With	_	Word	-	-	_	L	_	_	_	_	_	_	_	_
+2	Stefani	_	Word	-	-	_	A	_	_	_	_	_	_	_	_
+3	promoting	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+4	her	_	Word	-	-	_	_	E	_	_	_	_	_	_	_
+5	second	_	Word	-	-	_	_	Q	_	_	_	_	_	_	_
+6	solo	_	Word	-	-	_	_	E	_	_	_	_	_	_	_
+7	album	_	Word	-	+	_	A	_	_	_	_	_	_	_	_
+8	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
+9	No	_	Word	-	+	_	_	_	_	A	_	_	A*	_	_
+10	Doubt	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_
+11	began	_	Word	-	-	_	_	_	_	D	_	_	_	_	_
+12	initial	_	Word	-	-	_	_	_	_	D	_	_	_	_	_
+13	work	_	Word	-	+	_	H	_	_	_	_	_	_	_	_
+14	on	_	Word	-	-	_	_	_	_	_	R	_	_	_	_
+15	a	_	Word	-	-	_	_	_	_	_	E	_	_	_	_
+16	new	_	Word	-	-	_	_	_	_	_	E	_	_	_	_
+17	album	_	Word	-	+	_	_	_	_	A	_	_	_	_	_
+18	without	_	Word	-	-	_	_	_	_	_	_	R	_	_	_
+19	her	_	Word	-	+	_	_	_	_	A	_	_	_	_	_
+20	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_
+21	planned	_	Word	-	-	_	_	_	_	_	_	_	D	_	_
+22	to	_	Word	-	-	_	_	_	_	_	_	_	F	_	_
+23	complete	_	Word	-	+	_	H	_	_	_	_	_	_	_	_
+24	it	_	Word	-	-	_	_	_	_	_	_	_	A	_	_
+25	after	_	Word	-	-	_	L	_	_	_	_	_	_	_	_
+26	Stefani	_	Word	-	+	_	_	_	_	_	_	_	_	_	A
+27	's	_	Word	-	-	_	_	_	_	_	_	_	_	R	_
+28	The	_	Word	-	+	_	H	_	_	_	_	_	_	_	_
+29	Sweet	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal
+30	Escape	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal
+31	Tour	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal
+32	was	_	Word	-	-	_	_	_	_	_	_	_	_	_	F
+33	finished	_	Word	-	-	_	_	_	_	_	_	_	_	_	D
+34	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
 

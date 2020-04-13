@@ -1,49 +1,49 @@
 # format = ucca
-1	As	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-2	one	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	critic	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-4	described	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-5	it	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-6	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-7	the	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
-8	song	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
-9	projected	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-10	"	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-11	something	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
-12	hymnal	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-13	and	_	Word	-	-	_	_	_	_	_	_	N	_	_	_	_	_	_	_	_	_	_
-14	heartfelt	_	Word	-	-	_	_	_	_	_	_	C	_	_	_	_	_	_	_	_	_	_
-15	that	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_
-16	spoke	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-17	of	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_
-18	the	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-19	father	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
-20	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_
-21	Dylan	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-22	"	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-23	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-24	and	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-25	Dylan	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
-26	himself	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D	_	_	_	_	_	_
-27	commented	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-28	:	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_
-29	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_
-30	I	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A	A*	_	_	A*	_
-31	wrote	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
-32	it	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
-33	thinking	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	H	_	_	_	_	_
-34	about	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_
-35	one	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-36	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_
-37	my	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-38	boys	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
-39	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	L	_	_	_	_	_
-40	not	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_
-41	wanting	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_
-42	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_
-43	be	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	H	_	_	_	_	_
-44	too	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-45	sentimental	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_
-46	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
-47	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	As	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_
+2	one	_	Word	-	-	_	Q	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	critic	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
+4	described	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	it	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
+6	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+7	the	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+8	song	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+9	projected	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_
+10	"	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
+11	something	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+12	hymnal	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+13	and	_	Word	-	-	_	_	_	_	_	_	L	_	_	_	_	_	_	_	_
+14	heartfelt	_	Word	-	-	_	_	_	_	_	_	H	_	_	_	_	_	_	_	_
+15	that	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_
+16	spoke	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+17	of	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_
+18	the	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
+19	father	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+20	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
+21	Dylan	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
+22	"	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+23	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+24	and	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_
+25	Dylan	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+26	himself	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D	_	_	_	_
+27	commented	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_
+28	:	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_
+29	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_
+30	I	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A	A*	_	A*
+31	wrote	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+32	it	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
+33	thinking	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	H	_	_	_
+34	about	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
+35	one	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	Q	_
+36	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
+37	my	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_
+38	boys	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+39	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	L	_	_	_
+40	not	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D
+41	wanting	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D
+42	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F
+43	be	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F
+44	too	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D
+45	sentimental	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	H	_	_	_
+46	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+47	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

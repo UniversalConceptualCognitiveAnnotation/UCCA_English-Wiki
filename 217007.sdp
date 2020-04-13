@@ -1,7 +1,7 @@
 # format = ucca
 1	That	_	Word	-	-	_	E	_	_	_	_	_	_	_	_
 2	same	_	Word	-	-	_	E	_	_	_	_	_	_	_	_
-3	year	_	Word	-	+	_	_	D	_	_	_	_	_	_	_
+3	year	_	Word	-	+	_	_	T	_	_	_	_	_	_	_
 4	she	_	Word	-	-	_	_	A	_	_	_	_	_	_	_
 5	starred	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
 6	in	_	Word	-	-	_	_	_	R	_	_	_	_	_	_
@@ -13,13 +13,13 @@
 12	)	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_
 13	.	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_
 14	She	_	Word	-	-	_	_	_	_	A	_	_	_	_	_
-15	was	_	Word	-	-	_	_	_	_	F	_	_	_	_	_
-16	part	_	Word	-	+	_	_	H	_	_	_	_	_	_	_
-17	of	_	Word	-	-	_	_	_	_	R	_	_	_	_	_
-18	an	_	Word	-	-	_	_	_	_	_	E	_	_	_	_
+15	was	_	Word	-	+	_	_	H	_	_	_	_	_	_	_
+16	part	_	Word	-	-	_	_	_	_	_	E	_	_	_	_
+17	of	_	Word	-	-	_	_	_	_	_	R	_	_	_	_
+18	an	_	Word	-	-	_	_	_	_	_	F	_	_	_	_
 19	ensemble	_	Word	-	-	_	_	_	_	_	E	_	_	_	_
 20	cast	_	Word	-	+	_	_	_	_	A	_	_	_	_	_
-21	that	_	Word	-	-	_	_	_	_	_	_	F	_	_	_
+21	that	_	Word	-	-	_	_	_	_	_	_	R	_	_	_
 22	included	_	Word	-	+	_	_	_	_	_	E	_	_	_	_
 23	Julia	_	Word	-	+	_	_	_	_	_	_	A	_	_	_
 24	Roberts	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_

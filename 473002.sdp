@@ -1,60 +1,29 @@
 # format = ucca
-1	The	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-2	game	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	ended	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-4	after	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-5	he	_	Word	-	-	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-6	made	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-7	a	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-8	last	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-9	-	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-10	minute	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-11	three	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-12	-	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-13	pointer	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-14	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-15	and	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-16	players	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
-17	from	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_
-18	both	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-19	teams	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
-20	ran	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-21	onto	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_
-22	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-23	court	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
-24	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_
-25	congratulate	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
-26	Johnson	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A	_	A*	_	_	_	_	_	_	_
-27	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_
-28	Johnson	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
-29	was	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_
-30	chosen	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-31	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_	_
-32	compete	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
-33	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_
-34	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-35	1992	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-36	Summer	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-37	Olympics	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
-38	for	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
-39	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-40	US	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-41	basketball	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-42	team	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
-43	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_
-44	dubbed	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-45	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-46	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_
-47	Dream	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
-48	Team	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
-49	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_
-50	because	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	L	_	_	_	_
-51	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_
-52	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-53	NBA	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-54	stars	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A
-55	on	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
-56	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-57	roster	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	H	_	_	_	_
-58	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	The	_	Word	-	-	_	F	_	_	_	_	_	_	_
+2	game	_	Word	-	+	_	_	_	_	_	_	_	_	_
+3	ended	_	Word	-	-	_	D	_	_	_	_	_	_	_
+4	after	_	Word	-	-	_	L	_	_	_	_	_	_	_
+5	he	_	Word	-	-	_	_	_	A	_	_	_	_	_
+6	made	_	Word	-	-	_	_	_	F	_	_	_	_	_
+7	a	_	Word	-	-	_	_	F	_	_	_	_	_	_
+8	last	_	Word	-	-	_	_	E	_	_	_	_	_	_
+9	-	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_
+10	minute	_	Word	-	+	_	_	_	T	_	_	_	_	_
+11	three	_	Word	-	+	_	H	_	_	_	_	_	_	_
+12	-	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_
+13	pointer	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_
+14	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_
+15	and	_	Word	-	-	_	L	_	_	_	_	_	_	_
+16	players	_	Word	-	+	_	_	_	_	_	_	_	_	A*
+17	from	_	Word	-	-	_	_	_	_	_	R	_	_	_
+18	both	_	Word	-	-	_	_	_	_	_	Q	_	_	_
+19	teams	_	Word	-	+	_	_	_	_	E	_	_	_	_
+20	ran	_	Word	-	+	_	H	_	_	_	_	_	_	_
+21	onto	_	Word	-	-	_	_	_	_	_	_	_	R	_
+22	the	_	Word	-	-	_	_	_	_	_	_	_	F	_
+23	court	_	Word	-	+	_	_	_	_	_	_	A	_	_
+24	to	_	Word	-	-	_	L	_	_	_	_	_	_	_
+25	congratulate	_	Word	-	+	_	H	_	_	_	_	_	_	_
+26	Johnson	_	Word	-	-	_	_	_	_	_	_	_	_	A
+27	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
 

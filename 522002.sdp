@@ -1,37 +1,37 @@
 # format = ucca
-1	In	_	Word	-	-	_	R	_	_	_	_	_	_	_
-2	1935	_	Word	-	+	_	_	D	_	_	_	_	_	_
-3	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_
-4	Garland	_	Word	-	-	_	_	A	_	_	_	_	_	_
-5	was	_	Word	-	-	_	_	F	_	_	_	_	_	_
-6	signed	_	Word	-	+	_	_	_	_	_	_	_	_	_
-7	to	_	Word	-	-	_	_	_	R	_	_	_	_	_
-8	a	_	Word	-	-	_	_	_	E	_	_	_	_	_
-9	contract	_	Word	-	+	_	_	A	_	_	_	_	_	_
-10	with	_	Word	-	-	_	_	_	_	R	_	_	_	_
-11	Metro	_	Word	-	+	_	_	_	E	_	_	_	_	_
-12	-	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_
-13	Goldwyn	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_
-14	-	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_
-15	Mayer	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_
-16	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_
-17	supposedly	_	Word	-	-	_	_	D	_	_	_	_	_	_
-18	without	_	Word	-	-	_	_	_	_	_	R	_	_	_
-19	a	_	Word	-	-	_	_	_	_	_	E	_	_	_
-20	screen	_	Word	-	-	_	_	_	_	_	E	_	_	_
-21	test	_	Word	-	+	_	_	A	_	_	_	_	_	_
-22	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_
-23	though	_	Word	-	-	_	_	L	_	_	_	_	_	_
-24	she	_	Word	-	-	_	_	_	_	_	_	A	_	_
-25	had	_	Word	-	-	_	_	_	_	_	_	F	_	_
-26	made	_	Word	-	-	_	_	_	_	_	_	F	_	_
-27	a	_	Word	-	-	_	_	_	_	_	_	E	_	_
-28	test	_	Word	-	+	_	_	H	_	_	_	_	_	_
-29	for	_	Word	-	-	_	_	_	_	_	_	_	R	_
-30	the	_	Word	-	-	_	_	_	_	_	_	_	E	_
-31	studio	_	Word	-	+	_	_	_	_	_	_	A	_	_
-32	several	_	Word	-	-	_	_	_	_	_	_	_	_	E
-33	months	_	Word	-	+	_	_	_	_	_	_	D	_	_
-34	earlier	_	Word	-	-	_	_	_	_	_	_	_	_	E
-35	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+1	In	_	Word	-	-	_	R	_	_	_	_	_	_	_	_
+2	1935	_	Word	-	+	_	_	T	_	_	_	_	_	_	_
+3	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_
+4	Garland	_	Word	-	-	_	_	A	_	_	_	A*	_	_	_
+5	was	_	Word	-	-	_	_	F	_	_	_	_	_	_	_
+6	signed	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+7	to	_	Word	-	-	_	_	_	R	_	_	_	_	_	_
+8	a	_	Word	-	-	_	_	_	F	_	_	_	_	_	_
+9	contract	_	Word	-	+	_	_	A	_	_	_	_	_	_	_
+10	with	_	Word	-	-	_	_	_	_	R	_	_	_	_	_
+11	Metro	_	Word	-	+	_	_	A	_	_	_	_	_	_	_
+12	-	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_
+13	Goldwyn	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_
+14	-	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_
+15	Mayer	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_
+16	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_
+17	supposedly	_	Word	-	-	_	_	_	_	_	E	_	_	_	_
+18	without	_	Word	-	+	_	_	L	_	_	_	_	_	_	_
+19	a	_	Word	-	-	_	_	_	_	_	_	F	_	_	_
+20	screen	_	Word	-	+	_	_	H	_	_	_	_	_	_	_
+21	test	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_
+22	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_
+23	though	_	Word	-	-	_	_	L	_	_	_	_	_	_	_
+24	she	_	Word	-	-	_	_	_	_	_	_	_	A	_	_
+25	had	_	Word	-	-	_	_	_	_	_	_	_	F	_	_
+26	made	_	Word	-	-	_	_	_	_	_	_	_	F	_	_
+27	a	_	Word	-	-	_	_	_	_	_	_	_	F	_	_
+28	test	_	Word	-	+	_	_	H	_	_	_	_	_	_	_
+29	for	_	Word	-	-	_	_	_	_	_	_	_	_	R	_
+30	the	_	Word	-	-	_	_	_	_	_	_	_	_	F	_
+31	studio	_	Word	-	+	_	_	_	_	_	_	_	A	_	_
+32	several	_	Word	-	-	_	_	_	_	_	_	_	_	_	Q
+33	months	_	Word	-	+	_	_	_	_	_	_	_	T	_	_
+34	earlier	_	Word	-	-	_	_	_	_	_	_	_	_	_	E
+35	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
 

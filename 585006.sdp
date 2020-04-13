@@ -1,50 +1,32 @@
 # format = ucca
-1	He	_	Word	-	-	_	A	_	_	A*	_	_	_	_	_
-2	has	_	Word	-	-	_	F	_	_	_	_	_	_	_	_
-3	been	_	Word	-	-	_	F	_	_	_	_	_	_	_	_
-4	nominated	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-5	for	_	Word	-	-	_	_	R	_	_	_	_	_	_	_
-6	top	_	Word	-	-	_	_	E	_	_	_	_	_	_	_
-7	awards	_	Word	-	+	_	A	_	_	_	_	_	_	_	_
-8	many	_	Word	-	-	_	_	_	E	_	_	_	_	_	_
-9	times	_	Word	-	+	_	D	_	_	_	_	_	_	_	_
-10	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
-11	winning	_	Word	-	+	_	H	_	_	_	_	_	_	_	_
-12	the	_	Word	-	-	_	_	_	_	_	E	_	_	_	_
-13	Best	_	Word	-	+	_	_	_	_	A	_	_	_	_	_
-14	Actor	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_
-15	Awards	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_
-16	from	_	Word	-	-	_	_	_	_	_	_	R	_	_	_
-17	the	_	Word	-	-	_	_	_	_	_	_	E	_	_	_
-18	Golden	_	Word	-	+	_	_	_	_	_	E	_	_	_	_
-19	Globes	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_
-20	for	_	Word	-	-	_	_	_	_	_	_	_	R	_	_
-21	Sweeney	_	Word	-	+	_	_	_	_	_	_	E	_	_	_
-22	Todd	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_
-23	:	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_
-24	The	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_
-25	Demon	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_
-26	Barber	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_
-27	of	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_
-28	Fleet	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_
-29	Street	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_
-30	and	_	Word	-	-	_	_	_	_	_	_	N	_	_	_
-31	from	_	Word	-	-	_	_	_	_	_	_	_	_	R	_
-32	the	_	Word	-	-	_	_	_	_	_	_	_	_	E	_
-33	Screen	_	Word	-	+	_	_	_	_	_	_	C	_	_	_
-34	Actors	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_
-35	Guild	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_
-36	for	_	Word	-	-	_	_	_	_	_	_	_	_	_	R
-37	Pirates	_	Word	-	+	_	_	_	_	_	_	_	_	E	_
-38	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal
-39	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal
-40	Caribbean	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal
-41	:	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
-42	The	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal
-43	Curse	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal
-44	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal
-45	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal
-46	Black	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal
-47	Pearl	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal
-48	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+1	He	_	Word	-	-	_	_	A	_	A*	_	_	_
+2	also	_	Word	-	-	_	_	D	_	_	_	_	_
+3	has	_	Word	-	-	_	_	F	_	_	_	_	_
+4	garnered	_	Word	-	-	_	_	D	_	_	_	_	_
+5	a	_	Word	-	-	_	F	_	_	_	_	_	_
+6	sex	_	Word	-	-	_	E	_	_	_	_	_	_
+7	symbol	_	Word	-	+	_	_	A	_	_	_	_	_
+8	status	_	Word	-	+	_	_	_	_	_	_	_	_
+9	in	_	Word	-	-	_	_	_	R	_	_	_	_
+10	American	_	Word	-	-	_	_	_	E	_	_	_	_
+11	cinema	_	Word	-	+	_	_	A	_	_	_	_	_
+12	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_
+13	being	_	Word	-	-	_	_	L	_	_	_	_	_
+14	twice	_	Word	-	-	_	_	_	_	D	_	_	_
+15	named	_	Word	-	+	_	_	H	_	_	_	_	_
+16	as	_	Word	-	-	_	_	_	_	_	R	_	_
+17	the	_	Word	-	-	_	_	_	_	_	F	_	_
+18	"	_	Punctuation	-	-	_	_	_	_	_	U	_	_
+19	Sexiest	_	Word	-	+	_	_	_	_	A	_	_	_
+20	Man	_	Word	-	-	_	_	_	_	_	Terminal	_	_
+21	Alive	_	Word	-	-	_	_	_	_	_	Terminal	_	_
+22	"	_	Punctuation	-	-	_	_	_	_	U	_	_	_
+23	by	_	Word	-	-	_	_	_	_	_	_	R	_
+24	People	_	Word	-	+	_	_	_	_	A	_	_	_
+25	magazine	_	Word	-	-	_	_	_	_	_	_	E	_
+26	in	_	Word	-	-	_	_	_	_	_	_	_	R
+27	2003	_	Word	-	+	_	_	_	_	T	_	_	_
+28	and	_	Word	-	-	_	_	_	_	_	_	_	N
+29	2009	_	Word	-	-	_	_	_	_	_	_	_	C
+30	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
 

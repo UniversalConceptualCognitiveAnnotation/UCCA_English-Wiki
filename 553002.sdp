@@ -1,33 +1,55 @@
 # format = ucca
-1	One	_	Word	-	+	_	_	_	E	_	_	_	_	_
-2	of	_	Word	-	-	_	R	_	_	_	_	_	_	_
-3	the	_	Word	-	-	_	_	_	E	_	_	_	_	_
-4	most	_	Word	-	-	_	_	E	_	_	_	_	_	_
-5	popular	_	Word	-	+	_	_	_	E	_	_	_	_	_
-6	musicians	_	Word	-	+	_	_	_	_	_	_	_	_	_
-7	of	_	Word	-	-	_	_	_	_	R	_	_	_	_
-8	the	_	Word	-	-	_	_	_	_	E	_	_	_	_
-9	20th	_	Word	-	-	_	_	_	_	E	_	_	_	_
-10	century	_	Word	-	+	_	_	_	E	_	_	_	_	_
-11	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_
-12	he	_	Word	-	-	_	_	_	A*	_	A	_	_	_
-13	is	_	Word	-	-	_	_	_	_	_	F	_	_	_
-14	often	_	Word	-	-	_	_	_	_	_	D	_	_	_
-15	referred	_	Word	-	+	_	_	_	H	_	_	_	_	_
-16	to	_	Word	-	-	_	_	_	_	_	E	_	_	_
-17	as	_	Word	-	-	_	_	_	_	_	_	R	_	_
-18	the	_	Word	-	-	_	_	_	_	_	_	E	_	_
-19	"	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_
-20	King	_	Word	-	+	_	_	_	_	_	A	_	_	_
-21	of	_	Word	-	-	_	_	_	_	_	_	_	R	_
-22	Rock	_	Word	-	+	_	_	_	_	_	_	E	_	_
-23	and	_	Word	-	-	_	_	_	_	_	_	_	N	_
-24	Roll	_	Word	-	-	_	_	_	_	_	_	_	C	_
-25	"	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_
-26	or	_	Word	-	-	_	_	_	_	_	_	N	_	_
-27	"	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_
-28	the	_	Word	-	-	_	_	_	_	_	_	_	_	E
-29	King	_	Word	-	+	_	_	_	_	_	_	C	_	_
-30	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
-31	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+1	One	_	Word	-	-	_	_	D	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	of	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	the	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	most	_	Word	-	+	_	_	D	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	popular	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	musicians	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	of	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_
+8	the	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+9	20th	_	Word	-	-	_	_	_	_	Q	_	_	_	_	_	_	_	_	_	_	_	_
+10	century	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	he	_	Word	-	+	_	_	_	A*	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	is	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_
+14	often	_	Word	-	-	_	_	_	_	_	_	D	_	_	_	_	_	_	_	_	_	_
+15	referred	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	to	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_
+17	as	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_
+18	the	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+19	"	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_
+20	King	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+21	of	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_
+22	Rock	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+23	and	_	Word	-	-	_	_	_	_	_	_	_	_	N	_	_	_	_	_	_	_	_
+24	Roll	_	Word	-	-	_	_	_	_	_	_	_	_	C	_	_	_	_	_	_	_	_
+25	"	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_
+26	or	_	Word	-	-	_	_	_	_	_	_	_	N	_	_	_	_	_	_	_	_	_
+27	"	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_
+28	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
+29	King	_	Word	-	+	_	_	_	_	_	_	_	C	_	_	_	_	_	_	_	_	_
+30	"	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+31	.	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+32	Born	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
+33	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
+34	Tupelo	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
+35	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_
+36	Mississippi	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	C	_	_	_	_	_
+37	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_
+38	Presley	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A*	_	A	_	_	A*	_
+39	moved	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
+40	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_
+41	Memphis	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+42	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_
+43	Tennessee	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	C	_	_	_
+44	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_
+45	with	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_
+46	his	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+47	family	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+48	at	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
+49	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+50	age	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+51	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+52	13	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	T	_
+53	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

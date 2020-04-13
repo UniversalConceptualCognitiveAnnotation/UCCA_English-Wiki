@@ -1,6 +1,6 @@
 # format = ucca
 1	Despite	_	Word	-	-	_	_	L	_	_	_	_	_	_
-2	the	_	Word	-	-	_	E	_	_	_	_	_	_	_
+2	the	_	Word	-	-	_	F	_	_	_	_	_	_	_
 3	"	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_
 4	outrageous	_	Word	-	+	_	_	D	_	_	_	_	_	_
 5	"	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_
@@ -8,20 +8,20 @@
 7	price	_	Word	-	+	_	_	_	_	_	_	_	_	_
 8	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_
 9	and	_	Word	-	-	_	_	L	_	_	_	_	_	_
-10	the	_	Word	-	-	_	_	_	E	_	_	_	_	_
+10	the	_	Word	-	-	_	_	_	F	_	_	_	_	_
 11	ungenerous	_	Word	-	+	_	_	_	_	D	_	_	_	_
 12	terms	_	Word	-	+	_	_	H	_	_	_	_	_	_
 13	of	_	Word	-	-	_	_	_	_	_	R	_	_	_
-14	the	_	Word	-	-	_	_	_	_	_	E	_	_	_
+14	the	_	Word	-	-	_	_	_	_	_	F	_	_	_
 15	contract	_	Word	-	+	_	_	_	_	A	_	_	_	_
 16	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_
-17	the	_	Word	-	-	_	_	_	_	_	_	E	_	_
+17	the	_	Word	-	-	_	_	_	_	_	_	F	_	_
 18	deal	_	Word	-	+	_	_	_	_	_	_	_	A	_
 19	proved	_	Word	-	-	_	_	_	_	_	_	_	D	_
 20	lucrative	_	Word	-	+	_	_	H	_	_	_	_	_	_
 21	for	_	Word	-	-	_	_	_	_	_	_	_	_	R
 22	Warner	_	Word	-	+	_	_	_	_	_	_	_	A	_
-23	Bros	_	Word	-	-	_	_	_	_	_	_	_	_	E
+23	Bros	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal
 24	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
 25	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
 

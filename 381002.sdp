@@ -1,42 +1,35 @@
 # format = ucca
-1	The	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-2	son	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	of	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_
-4	director	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-5	Stephen	_	Word	-	+	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-6	Gyllenhaal	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
-7	and	_	Word	-	-	_	_	N	_	_	_	_	_	_	_	_	_	_	_
-8	screenwriter	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-9	Naomi	_	Word	-	+	_	_	C	_	_	_	_	_	_	_	_	_	_	_
-10	Foner	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
-11	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-12	Gyllenhaal	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-13	's	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_
-14	immediate	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-15	family	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_
-16	includes	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_
-17	his	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-18	sister	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-19	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_	_
-20	actress	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_
-21	Maggie	_	Word	-	-	_	_	_	_	_	_	_	_	E	A*	_	_	_	_
-22	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_	_
-23	who	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_	_	_
-24	is	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_	_	_
-25	married	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-26	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_
-27	actor	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-28	Peter	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_
-29	Sarsgaard	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
-30	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_
-31	Gyllenhaal	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-32	's	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_
-33	co	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-34	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U	_
-35	star	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-36	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R
-37	Jarhead	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-38	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	N
-39	Rendition	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	C
-40	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	In	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_
+2	December	_	Word	-	+	_	_	_	_	T	_	_	_	_	_	_
+3	2006	_	Word	-	-	_	C	_	_	_	_	_	_	_	_	_
+4	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_
+5	Jake	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_
+6	and	_	Word	-	-	_	_	N	_	_	_	_	_	_	_	_
+7	his	_	Word	-	-	_	_	_	A	_	_	_	_	_	_	_
+8	sister	_	Word	-	+	_	_	C	_	_	_	_	_	_	_	_
+9	escaped	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+10	a	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_
+11	fire	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_
+12	that	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_
+13	destroyed	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_
+14	Manka	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_
+15	'	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_
+16	s	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_
+17	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_
+18	a	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_
+19	famed	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_
+20	lodge	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_
+21	and	_	Word	-	-	_	_	_	_	_	_	_	_	N	_	_
+22	restaurant	_	Word	-	-	_	_	_	_	_	_	_	_	C	_	_
+23	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_
+24	Inverness	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_
+25	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_
+26	California	_	Word	-	-	_	_	_	_	_	_	_	_	_	C	_
+27	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_
+28	at	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A
+29	which	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
+30	they	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A
+31	were	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F
+32	vacationing	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_
+33	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
 

@@ -1,20 +1,39 @@
 # format = ucca
-1	Before	_	Word	-	-	_	_	L	_	_	_	_
-2	the	_	Word	-	-	_	E	_	_	_	_	_
-3	1992	_	Word	-	+	_	_	D	_	_	_	_
-4	-	_	Punctuation	-	-	_	U	_	_	_	_	_
-5	93	_	Word	-	-	_	C	_	_	_	_	_
-6	NBA	_	Word	-	-	_	_	E	_	_	_	_
-7	season	_	Word	-	+	_	_	_	_	_	_	_
-8	,	_	Punctuation	-	-	_	_	U	_	_	_	_
-9	Johnson	_	Word	-	-	_	_	_	A	_	A*	_
-10	announced	_	Word	-	+	_	_	H	_	_	_	_
-11	his	_	Word	-	-	_	_	_	_	E	_	_
-12	intention	_	Word	-	+	_	_	_	A	_	_	_
-13	to	_	Word	-	-	_	_	_	_	_	F	_
-14	stage	_	Word	-	+	_	_	_	_	E	_	_
-15	an	_	Word	-	-	_	_	_	_	_	_	E
-16	NBA	_	Word	-	-	_	_	_	_	_	_	E
-17	comeback	_	Word	-	+	_	_	_	_	_	A	_
-18	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+1	During	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_
+2	the	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_	_	_
+3	tournament	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+5	which	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_
+6	the	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_	_	_
+7	USA	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+8	won	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_
+9	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+10	Johnson	_	Word	-	-	_	_	_	_	A	_	A*	_	_	_	_	_	_	_
+11	played	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_
+12	infrequently	_	Word	-	-	_	_	_	_	D	_	_	_	_	_	_	_	_	_
+13	because	_	Word	-	+	_	L	_	_	_	_	_	_	_	_	_	_	_	_
+14	of	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_
+15	knee	_	Word	-	-	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+16	problems	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_
+17	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+18	but	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_
+19	he	_	Word	-	-	_	_	_	_	_	_	_	A	_	A*	_	A*	_	_
+20	received	_	Word	-	-	_	_	_	_	_	_	_	D	_	_	_	_	_	_
+21	standing	_	Word	-	-	_	_	_	_	_	_	_	D	_	_	_	_	_	_
+22	ovations	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_
+23	from	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_
+24	the	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_	_	_
+25	crowd	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_
+26	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+27	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_
+28	used	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_
+29	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_	_	_
+30	opportunity	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+31	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F	_	_
+32	inspire	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+33	HIV	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	A	_
+34	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U	_
+35	positive	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+36	people	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+37	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

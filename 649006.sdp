@@ -1,35 +1,35 @@
 # format = ucca
-1	Lennon	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_
-2	and	_	Word	-	-	_	N	_	_	_	_	_	_	_	_	_	_
-3	Ono	_	Word	-	-	_	C	_	_	_	_	_	_	_	_	_	_
-4	used	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
-5	their	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_
-6	honeymoon	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_
-7	as	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_
-8	what	_	Word	-	-	_	_	_	_	D	_	_	_	_	_	_	_
-9	they	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_	_
-10	termed	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_
-11	a	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_
-12	"	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_
-13	Bed	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_
-14	-	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_
-15	In	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_
-16	for	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_
-17	Peace	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_
-18	"	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_
-19	at	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_
-20	the	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_
-21	Amsterdam	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_
-22	Hilton	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_
-23	Hotel	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_
-24	;	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_
-25	the	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_
-26	March	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_
-27	1969	_	Word	-	+	_	_	_	_	_	_	_	_	_	D	_	_
-28	event	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_
-29	attracted	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_
-30	worldwide	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E
-31	media	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E
-32	ridicule	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_
-33	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
+1	Lennon	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_
+2	and	_	Word	-	-	_	N	_	_	_	_	_	_	_	_	_
+3	Ono	_	Word	-	-	_	C	_	_	_	_	_	_	_	_	_
+4	used	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+5	their	_	Word	-	-	_	_	_	A	_	_	_	_	_	_	_
+6	honeymoon	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_
+7	as	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_
+8	what	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_
+9	they	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_
+10	termed	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_
+11	a	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_
+12	"	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_
+13	Bed	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_
+14	-	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_
+15	In	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_
+16	for	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_
+17	Peace	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_
+18	"	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_
+19	at	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_
+20	the	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_
+21	Amsterdam	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_
+22	Hilton	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_
+23	Hotel	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_
+24	;	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_
+25	the	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_
+26	March	_	Word	-	+	_	_	_	_	_	_	_	_	_	T	_
+27	1969	_	Word	-	-	_	_	_	_	_	_	_	_	C	_	_
+28	event	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A
+29	attracted	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D
+30	worldwide	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A
+31	media	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A
+32	ridicule	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_
+33	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
 

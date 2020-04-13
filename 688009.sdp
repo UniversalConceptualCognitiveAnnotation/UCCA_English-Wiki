@@ -1,52 +1,52 @@
 # format = ucca
-1	His	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-2	recording	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	career	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A*	_
-4	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
-5	spanning	_	Word	-	+	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-6	fifty	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-7	years	_	Word	-	+	_	_	D	_	_	_	_	_	_	_	_	_	_	_	_	_
-8	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
-9	has	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_
-10	explored	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-11	many	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-12	of	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_
-13	the	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-14	traditions	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
-15	in	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_
-16	American	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-17	song	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-18	-	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_
-19	from	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_
-20	folk	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-21	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_
-22	blues	_	Word	-	-	_	_	_	_	_	_	_	_	C	_	_	_	_	_	_	_
-23	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_
-24	and	_	Word	-	-	_	_	_	_	_	_	_	_	N	_	_	_	_	_	_	_
-25	country	_	Word	-	-	_	_	_	_	_	_	_	_	C	_	_	_	_	_	_	_
-26	to	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_
-27	gospel	_	Word	-	+	_	_	_	_	_	_	_	_	C	_	_	_	_	_	_	_
-28	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_
-29	rock	_	Word	-	+	_	_	_	_	_	_	_	_	_	C	_	_	_	_	_	_
-30	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	N	_	_	_	_	_
-31	roll	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	C	_	_	_	_	_
-32	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_
-33	and	_	Word	-	-	_	_	_	_	_	_	_	_	N	_	_	_	_	_	_	_
-34	rockabilly	_	Word	-	+	_	_	_	_	_	_	_	_	C	_	_	_	_	_	_	_
-35	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_
-36	English	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-37	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_
-38	Scottish	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	C	_	_	_
-39	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_
-40	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	N	_	_	_
-41	Irish	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	C	_	_	_
-42	folk	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-43	music	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	C	_	_	_	_
-44	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
-45	embracing	_	Word	-	+	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_
-46	even	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_
-47	jazz	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_
-48	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	N
-49	swing	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	C
-50	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	His	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_
+2	recording	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_
+3	career	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A*	_
+4	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_
+5	spanning	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_
+6	fifty	_	Word	-	-	_	_	Q	_	_	_	_	_	_	_	_	_	_
+7	years	_	Word	-	+	_	T	_	_	_	_	_	_	_	_	_	_	_
+8	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_
+9	has	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_	_
+10	explored	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	many	_	Word	-	-	_	_	_	_	Q	_	_	_	_	_	_	_	_
+12	of	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_
+13	the	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_
+14	traditions	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_
+15	in	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_
+16	American	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_
+17	song	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_
+18	-	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_
+19	from	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_
+20	folk	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_
+21	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_
+22	blues	_	Word	-	-	_	_	_	_	_	_	C	_	_	_	_	_	_
+23	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_
+24	and	_	Word	-	-	_	_	_	_	_	_	N	_	_	_	_	_	_
+25	country	_	Word	-	-	_	_	_	_	_	_	C	_	_	_	_	_	_
+26	to	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_
+27	gospel	_	Word	-	+	_	_	_	_	_	_	C	_	_	_	_	_	_
+28	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_
+29	rock	_	Word	-	+	_	_	_	_	_	_	_	C	_	_	_	_	_
+30	and	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_	_
+31	roll	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_	_
+32	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_
+33	and	_	Word	-	-	_	_	_	_	_	_	_	N	_	_	_	_	_
+34	rockabilly	_	Word	-	-	_	_	_	_	_	_	_	C	_	_	_	_	_
+35	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_
+36	English	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_	_
+37	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_
+38	Scottish	_	Word	-	-	_	_	_	_	_	_	_	_	_	C	_	_	_
+39	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_
+40	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	N	_	_	_
+41	Irish	_	Word	-	-	_	_	_	_	_	_	_	_	_	C	_	_	_
+42	folk	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_
+43	music	_	Word	-	+	_	_	_	_	_	_	C	_	_	_	_	_	_
+44	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_
+45	embracing	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_
+46	even	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	D	_
+47	jazz	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_
+48	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	N
+49	swing	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	C
+50	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
 

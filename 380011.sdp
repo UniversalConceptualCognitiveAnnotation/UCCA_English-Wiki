@@ -1,34 +1,39 @@
 # format = ucca
-1	Gyllenhaal	_	Word	-	-	_	A	_	_	_	_	_	_	_	_
-2	narrated	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-3	the	_	Word	-	-	_	_	E	_	_	_	_	_	_	_
-4	2005	_	Word	-	-	_	_	E	_	_	_	_	_	_	_
-5	short	_	Word	-	-	_	_	E	_	_	_	_	_	_	_
-6	animated	_	Word	-	-	_	_	E	_	_	_	_	_	_	_
-7	film	_	Word	-	+	_	_	_	E	_	_	_	_	_	_
-8	The	_	Word	-	+	_	A	_	_	_	_	_	_	_	_
-9	Man	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_
-10	Who	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_
-11	Walked	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_
-12	Between	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_
-13	the	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_
-14	Towers	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_
-15	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_
-16	based	_	Word	-	+	_	_	_	E	_	_	_	_	_	_
-17	on	_	Word	-	-	_	_	_	_	_	_	R	_	_	_
-18	Mordicai	_	Word	-	+	_	_	_	_	_	_	E	_	_	_
-19	Gerstein	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_
-20	's	_	Word	-	-	_	_	_	_	_	R	_	_	_	_
-21	book	_	Word	-	+	_	_	_	_	A	_	_	_	_	_
-22	of	_	Word	-	-	_	_	_	_	_	_	_	R	_	_
-23	the	_	Word	-	-	_	_	_	_	_	_	_	E	_	_
-24	same	_	Word	-	-	_	_	_	_	_	_	_	E	_	_
-25	name	_	Word	-	+	_	_	_	_	_	_	E	_	_	_
-26	about	_	Word	-	-	_	_	_	_	_	_	_	_	_	R
-27	Philippe	_	Word	-	+	_	_	_	_	_	_	_	_	_	A
-28	Petit	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_
-29	's	_	Word	-	-	_	_	_	_	_	_	_	_	R	_
-30	famous	_	Word	-	-	_	_	_	_	_	_	_	_	_	E
-31	stunt	_	Word	-	+	_	_	_	_	_	_	E	_	_	_
-32	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+1	Gyllenhaal	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_	_
+2	starred	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	opposite	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_
+4	Meryl	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_
+5	Streep	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
+6	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+7	Alan	_	Word	-	+	_	_	C	_	_	_	_	_	_	_	_	_	_	_
+8	Arkin	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
+9	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+10	and	_	Word	-	-	_	_	N	_	_	_	_	_	_	_	_	_	_	_
+11	Reese	_	Word	-	+	_	_	C	_	_	_	_	_	_	_	_	_	_	_
+12	Witherspoon	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
+13	in	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_	_
+14	the	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_	_	_	_
+15	October	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_	_	_
+16	2007	_	Word	-	-	_	_	_	_	_	C	_	_	_	_	_	_	_	_
+17	release	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_	_	_
+18	Rendition	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_
+19	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_
+20	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_	_	_
+21	Gavin	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+22	Hood	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_
+23	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_
+24	directed	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+25	political	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+26	thriller	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_	_	_
+27	about	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_
+28	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	F	_
+29	U	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_
+30	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_	_
+31	S	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
+32	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U	_
+33	policy	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+34	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+35	extraordinary	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	D
+36	rendition	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_
+37	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

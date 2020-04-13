@@ -1,20 +1,20 @@
 # format = ucca
 1	She	_	Word	-	-	_	A	_	_	_
 2	had	_	Word	-	-	_	F	_	_	_
-3	a	_	Word	-	-	_	E	_	_	_
+3	a	_	Word	-	-	_	F	_	_	_
 4	difficult	_	Word	-	-	_	D	_	_	_
 5	relationship	_	Word	-	+	_	_	_	_	_
 6	with	_	Word	-	-	_	_	R	_	_
-7	the	_	Word	-	-	_	_	E	_	_
+7	the	_	Word	-	-	_	_	F	_	_
 8	press	_	Word	-	+	_	A	_	_	_
 9	,	_	Punctuation	-	-	_	_	U	_	_
-10	with	_	Word	-	-	_	_	_	R	_
-11	whom	_	Word	-	+	_	_	_	_	R
-12	she	_	Word	-	-	_	_	_	_	A
-13	could	_	Word	-	-	_	_	_	_	D
-14	be	_	Word	-	-	_	_	_	_	F
+10	with	_	Word	-	-	_	_	_	A	A*
+11	whom	_	Word	-	-	_	_	_	R	R*
+12	she	_	Word	-	-	_	_	_	A	A*
+13	could	_	Word	-	-	_	_	_	D	D*
+14	be	_	Word	-	-	_	_	_	F	_
 15	rude	_	Word	-	+	_	_	E	_	_
-16	and	_	Word	-	-	_	_	_	_	N
-17	provocative	_	Word	-	-	_	_	_	_	C
+16	and	_	Word	-	-	_	_	_	L	_
+17	provocative	_	Word	-	+	_	_	_	H	_
 18	.	_	Punctuation	-	-	_	_	_	_	U
 

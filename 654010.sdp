@@ -1,44 +1,44 @@
 # format = ucca
-1	As	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_
-2	his	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-3	career	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_
-4	progressed	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-5	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_
-6	he	_	Word	-	-	_	_	_	A	_	_	A*	_	_	_	_	_	_	A*
-7	played	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_
-8	a	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-9	variety	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-10	of	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_
-11	electric	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-12	guitars	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_
-13	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_
-14	predominantly	_	Word	-	-	_	_	_	_	_	_	D	_	_	_	_	_	_	_
-15	the	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-16	Rickenbacker	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-17	325	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-18	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_
-19	Epiphone	_	Word	-	+	_	_	_	_	_	_	C	_	_	_	_	_	_	_
-20	Casino	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
-21	and	_	Word	-	-	_	_	_	_	_	_	N	_	_	_	_	_	_	_
-22	Gibson	_	Word	-	+	_	_	_	_	_	_	C	_	_	_	_	_	_	_
-23	J	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-24	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_
-25	160E	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_
-26	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_
-27	and	_	Word	-	-	_	_	_	_	_	_	L	_	_	_	_	_	_	_
-28	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_
-29	from	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_
-30	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-31	start	_	Word	-	+	_	_	_	_	_	_	L	_	_	_	_	_	_	_
-32	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_
-33	his	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-34	solo	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_
-35	career	_	Word	-	+	_	_	_	_	_	_	H	_	_	_	_	_	_	_
-36	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_
-37	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-38	Gibson	_	Word	-	+	_	_	_	_	_	_	H	_	_	_	_	_	_	_
-39	Les	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
-40	Paul	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
-41	Junior	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
-42	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	As	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_
+2	his	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_
+3	career	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
+4	progressed	_	Word	-	-	_	D	_	_	_	_	_	_	_	_	_	_
+5	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_
+6	he	_	Word	-	-	_	_	A	_	_	A*	_	_	_	_	_	A*
+7	played	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_
+8	a	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_
+9	variety	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_
+10	of	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_
+11	electric	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_
+12	guitars	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_
+13	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_
+14	predominantly	_	Word	-	-	_	_	_	_	_	D	_	_	_	_	_	_
+15	the	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_
+16	Rickenbacker	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_
+17	325	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_
+18	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_
+19	Epiphone	_	Word	-	+	_	_	_	_	_	C	_	_	_	_	_	_
+20	Casino	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_
+21	and	_	Word	-	-	_	_	_	_	_	N	_	_	_	_	_	_
+22	Gibson	_	Word	-	+	_	_	_	_	_	C	_	_	_	_	_	_
+23	J	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_
+24	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_
+25	160E	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_
+26	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_
+27	and	_	Word	-	-	_	_	_	_	_	L	_	_	_	_	_	_
+28	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_
+29	from	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_
+30	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_
+31	start	_	Word	-	+	_	_	_	_	_	L	_	_	_	_	_	_
+32	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_
+33	his	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A	_
+34	solo	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D	_
+35	career	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_	_
+36	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_
+37	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E
+38	Gibson	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_	_
+39	Les	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal
+40	Paul	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal
+41	Junior	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal
+42	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
 

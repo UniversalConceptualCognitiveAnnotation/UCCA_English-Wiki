@@ -1,37 +1,37 @@
 # format = ucca
-1	In	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_
-2	1937	_	Word	-	+	_	_	D	_	_	_	_	_	_	_	_
-3	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_
-4	she	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_
-5	attempted	_	Word	-	-	_	_	D	_	_	_	_	_	_	_	_
-6	to	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_
-7	free	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
-8	herself	_	Word	-	-	_	_	D	_	_	_	_	_	_	_	_
-9	from	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_
-10	her	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_
-11	contract	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_
-12	and	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_
-13	although	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_
-14	she	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_
-15	lost	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_
-16	a	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_
-17	well	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_
-18	-	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_
-19	publicized	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_
-20	legal	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_
-21	case	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_
-22	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_
-23	it	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	_
-24	marked	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_
-25	the	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_
-26	beginning	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_
-27	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_
-28	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_
-29	most	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_
-30	successful	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_
-31	period	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_
-32	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
-33	her	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E
-34	career	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_
-35	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
+1	In	_	Word	-	-	_	R	_	_	_	_	_	_	_	_
+2	1937	_	Word	-	+	_	_	T	_	_	_	_	_	_	_
+3	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_
+4	she	_	Word	-	-	_	_	A	_	_	_	_	_	_	_
+5	attempted	_	Word	-	-	_	_	D	_	_	_	_	_	_	_
+6	to	_	Word	-	-	_	_	F	_	_	_	_	_	_	_
+7	free	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+8	herself	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_
+9	from	_	Word	-	-	_	_	_	R	_	_	_	_	_	_
+10	her	_	Word	-	-	_	_	_	E	_	_	_	_	_	_
+11	contract	_	Word	-	+	_	_	A	_	_	_	_	_	_	_
+12	and	_	Word	-	-	_	_	L	_	_	_	_	_	_	_
+13	although	_	Word	-	-	_	_	L	_	_	_	_	_	_	_
+14	she	_	Word	-	-	_	_	_	_	A	_	_	_	_	_
+15	lost	_	Word	-	+	_	_	H	_	_	_	_	_	_	_
+16	a	_	Word	-	-	_	_	_	_	_	_	F	_	_	_
+17	well	_	Word	-	-	_	_	_	_	_	D	_	_	_	_
+18	-	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_
+19	publicized	_	Word	-	+	_	_	_	_	_	_	E	_	_	_
+20	legal	_	Word	-	-	_	_	_	_	_	_	E	_	_	_
+21	case	_	Word	-	+	_	_	_	_	A	_	_	_	_	_
+22	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_
+23	it	_	Word	-	-	_	_	_	_	_	_	_	A	_	_
+24	marked	_	Word	-	+	_	_	H	_	_	_	_	_	_	_
+25	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	F
+26	beginning	_	Word	-	-	_	_	_	_	_	_	_	_	_	D
+27	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	R
+28	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	F
+29	most	_	Word	-	-	_	_	_	_	_	_	_	_	E	_
+30	successful	_	Word	-	+	_	_	_	_	_	_	_	_	_	D
+31	period	_	Word	-	-	_	_	_	_	_	_	_	_	_	D
+32	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	R
+33	her	_	Word	-	-	_	_	_	_	_	_	_	_	_	A
+34	career	_	Word	-	+	_	_	_	_	_	_	_	A	_	_
+35	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
 

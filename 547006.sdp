@@ -1,16 +1,16 @@
 # format = ucca
-1	However	_	Word	-	-	_	_	L	_	_	_
-2	,	_	Punctuation	-	-	_	_	U	_	_	_
-3	the	_	Word	-	-	_	E	_	_	_	_
-4	film	_	Word	-	+	_	_	A	_	_	_
-5	won	_	Word	-	+	_	_	_	_	_	_
-6	the	_	Word	-	-	_	_	_	_	E	_
-7	best	_	Word	-	-	_	_	_	E	_	_
-8	-	_	Punctuation	-	-	_	_	_	U	_	_
-9	picture	_	Word	-	+	_	_	_	_	E	_
-10	Academy	_	Word	-	+	_	_	A	_	_	_
-11	Award	_	Word	-	-	_	_	_	_	Terminal	_
-12	for	_	Word	-	-	_	_	_	_	_	R
-13	1964	_	Word	-	+	_	_	_	_	E	_
-14	.	_	Punctuation	-	-	_	_	_	_	_	U
+1	However	_	Word	-	-	_	_	L	_	_
+2	,	_	Punctuation	-	-	_	_	U	_	_
+3	the	_	Word	-	-	_	F	_	_	_
+4	film	_	Word	-	+	_	_	A	_	_
+5	won	_	Word	-	+	_	_	_	_	_
+6	the	_	Word	-	+	_	_	A	_	_
+7	best	_	Word	-	-	_	_	_	Terminal	_
+8	-	_	Punctuation	-	-	_	_	_	U	_
+9	picture	_	Word	-	-	_	_	_	Terminal	_
+10	Academy	_	Word	-	-	_	_	_	Terminal	_
+11	Award	_	Word	-	-	_	_	_	Terminal	_
+12	for	_	Word	-	-	_	_	_	_	R
+13	1964	_	Word	-	+	_	_	T	_	_
+14	.	_	Punctuation	-	-	_	_	_	_	U
 

@@ -4,8 +4,8 @@
 3	good	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_
 4	reviews	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_
 5	for	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_
-6	her	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_
-7	small	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_
+6	her	_	Word	-	-	_	_	_	A	_	_	_	_	_	_	_	_	_
+7	small	_	Word	-	-	_	_	_	D	_	_	_	_	_	_	_	_	_
 8	role	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_
 9	;	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_
 10	the	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_
@@ -13,7 +13,7 @@
 12	Word	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
 13	described	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_
 14	her	_	Word	-	-	_	_	_	_	_	_	A	_	_	_	_	_	_
-15	performance	_	Word	-	+	_	_	_	_	_	A	_	A*	_	_	_	_	_
+15	performance	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_
 16	as	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_
 17	"	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_
 18	arresting	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_
@@ -27,7 +27,7 @@
 26	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_
 27	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_
 28	following	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_
-29	week	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	D	_
+29	week	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	T	_
 30	's	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_
 31	show	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_
 32	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_

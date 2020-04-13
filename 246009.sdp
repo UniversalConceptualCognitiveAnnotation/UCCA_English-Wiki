@@ -1,66 +1,30 @@
 # format = ucca
-1	In	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-2	Andrew	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	Niccol	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-4	's	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-5	science	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-6	fiction	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-7	film	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-8	Gattaca	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
-9	(	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-10	1997	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-11	)	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-12	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-13	"	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-14	one	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-15	of	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-16	the	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-17	more	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-18	interesting	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-19	scripts	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-20	"	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-21	Hawke	_	Word	-	-	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-22	said	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-23	he	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-24	had	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-25	read	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-26	in	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-27	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-28	a	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-29	number	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-30	of	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-31	years	_	Word	-	+	_	_	_	_	_	_	_	D	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-32	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
-33	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
-34	Hawke	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
-35	played	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-36	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-37	role	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-38	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_
-39	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-40	man	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
-41	who	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_
-42	infiltrates	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-43	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-44	society	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
-45	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_
-46	genetically	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-47	perfect	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-48	humans	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-49	by	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_
-50	assuming	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
-51	another	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-52	man	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-53	's	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_
-54	identity	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
-55	in	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	L	_	_	_	_	_	_	_	_	_	_
-56	order	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
-57	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
-58	realize	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_
-59	his	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-60	dream	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-61	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
-62	space	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-63	travel	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
-64	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	Although	_	Word	-	-	_	L	_	_	_	_	_	_	_
+2	Gattaca	_	Word	-	-	_	A	_	_	_	_	_	_	_
+3	was	_	Word	-	-	_	F	_	_	_	_	_	_	_
+4	not	_	Word	-	-	_	D	_	_	_	_	_	_	_
+5	a	_	Word	-	-	_	F	_	_	_	_	_	_	_
+6	success	_	Word	-	+	_	_	_	_	_	_	_	_	_
+7	at	_	Word	-	-	_	_	R	_	_	_	_	_	_
+8	the	_	Word	-	-	_	_	F	_	_	_	_	_	_
+9	box	_	Word	-	+	_	A	_	_	_	_	_	_	_
+10	office	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_
+11	it	_	Word	-	-	_	_	_	_	A	_	_	_	_
+12	drew	_	Word	-	-	_	_	_	_	F	_	_	_	_
+13	generally	_	Word	-	-	_	_	_	E	_	_	_	_	_
+14	favorable	_	Word	-	+	_	_	_	_	D	_	_	_	_
+15	reviews	_	Word	-	+	_	H	_	_	_	_	_	_	_
+16	from	_	Word	-	-	_	_	_	_	_	R	_	_	_
+17	critics	_	Word	-	+	_	_	_	_	A	_	_	_	_
+18	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_
+19	and	_	Word	-	-	_	L	_	_	_	_	_	_	_
+20	Hawke	_	Word	-	+	_	_	_	_	_	_	_	A	_
+21	's	_	Word	-	-	_	_	_	_	_	_	R	_	_
+22	performance	_	Word	-	+	_	_	_	_	_	_	_	_	A
+23	was	_	Word	-	-	_	_	_	_	_	_	_	_	F
+24	critically	_	Word	-	-	_	_	_	_	_	_	_	_	A
+25	well	_	Word	-	-	_	_	_	_	_	_	_	_	D
+26	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+27	received	_	Word	-	+	_	H	_	_	_	_	_	_	_
+28	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
 

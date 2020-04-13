@@ -1,29 +1,45 @@
 # format = ucca
-1	The	_	Word	-	-	_	E	_	_	_	_	_	_	_	_
-2	following	_	Word	-	-	_	E	_	_	_	_	_	_	_	_
-3	year	_	Word	-	+	_	_	_	_	_	D	_	_	_	_
-4	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_
-5	the	_	Word	-	-	_	_	E	_	_	_	_	_	_	_
-6	newly	_	Word	-	+	_	_	_	D	_	_	_	_	_	_
-7	formed	_	Word	-	+	_	_	_	_	E	_	_	_	_	_
-8	Academy	_	Word	-	+	_	_	_	_	_	A	_	_	_	_
-9	of	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_
-10	Motion	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_
-11	Picture	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_
-12	Arts	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_
-13	and	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_
-14	Sciences	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_
-15	recognized	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-16	Warner	_	Word	-	+	_	_	_	_	_	A	_	A*	_	_
-17	Bros	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_
-18	.	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_
-19	for	_	Word	-	-	_	_	_	_	_	_	_	R	_	_
-20	"	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_
-21	revolutionizing	_	Word	-	+	_	_	_	_	_	A	_	_	_	_
-22	the	_	Word	-	-	_	_	_	_	_	_	_	_	E	_
-23	industry	_	Word	-	+	_	_	_	_	_	_	_	A	_	_
-24	with	_	Word	-	-	_	_	_	_	_	_	_	_	_	R
-25	sound	_	Word	-	+	_	_	_	_	_	_	_	A	_	_
-26	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
-27	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+1	The	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	following	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	year	_	Word	-	+	_	_	_	_	_	T	_	_	_	_	_	_	_	_	_
+4	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_
+5	the	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_
+6	newly	_	Word	-	+	_	_	_	D	_	_	_	_	_	_	_	_	_	_	_
+7	formed	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+8	Academy	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
+9	of	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
+10	Motion	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
+11	Picture	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
+12	Arts	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
+13	and	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
+14	Sciences	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
+15	recognized	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	Warner	_	Word	-	+	_	_	_	_	_	A	_	A*	_	_	_	_	_	_	_
+17	Bros	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
+18	.	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_
+19	for	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_
+20	"	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_
+21	revolutionizing	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
+22	the	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_
+23	industry	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+24	with	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
+25	sound	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+26	"	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_
+27	.	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_
+28	Despite	_	Word	-	-	_	_	_	_	_	L	_	_	_	_	_	_	_	_	_
+29	Warner	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
+30	Bros	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_
+31	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_
+32	's	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_
+33	new	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	D	_	_	_
+34	prosperity	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_
+35	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_
+36	Jack	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_
+37	kept	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_
+38	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_
+39	tight	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_
+40	rein	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_
+41	on	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+42	costs	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_
+43	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

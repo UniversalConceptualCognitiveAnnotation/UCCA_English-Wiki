@@ -1,25 +1,50 @@
 # format = ucca
-1	Films	_	Word	-	-	_	A	_	_	_	_	_
-2	featuring	_	Word	-	+	_	_	A	_	_	_	_
-3	Depp	_	Word	-	-	_	A	_	_	_	_	_
-4	have	_	Word	-	-	_	_	F	_	_	_	_
-5	grossed	_	Word	-	+	_	_	_	_	_	_	_
-6	over	_	Word	-	-	_	_	_	R	_	_	_
-7	$	_	Word	-	+	_	_	A	_	_	_	_
-8	3	_	Word	-	-	_	_	_	Terminal	_	_	_
-9	.	_	Punctuation	-	-	_	_	_	U	_	_	_
-10	1billion	_	Word	-	-	_	_	_	Terminal	_	_	_
-11	at	_	Word	-	-	_	_	_	_	_	R	_
-12	the	_	Word	-	-	_	_	_	_	_	E	_
-13	United	_	Word	-	+	_	_	_	_	_	E	_
-14	States	_	Word	-	-	_	_	_	_	Terminal	_	_
-15	box	_	Word	-	-	_	_	_	_	_	E	_
-16	office	_	Word	-	+	_	_	_	E	_	_	_
-17	and	_	Word	-	-	_	_	_	N	_	_	_
-18	over	_	Word	-	-	_	_	_	_	_	_	E
-19	$	_	Word	-	+	_	_	_	C	_	_	_
-20	7.6	_	Word	-	-	_	_	_	_	_	_	Terminal
-21	billion	_	Word	-	-	_	_	_	_	_	_	Terminal
-22	worldwide	_	Word	-	-	_	_	_	_	_	_	E
-23	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+1	He	_	Word	-	-	_	A	_	_	A*	_	_	_	_	_
+2	has	_	Word	-	-	_	F	_	_	_	_	_	_	_	_
+3	been	_	Word	-	-	_	F	_	_	_	_	_	_	_	_
+4	nominated	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+5	for	_	Word	-	-	_	_	R	_	_	_	_	_	_	_
+6	top	_	Word	-	-	_	_	E	_	_	_	_	_	_	_
+7	awards	_	Word	-	+	_	A	_	_	_	_	_	_	_	_
+8	many	_	Word	-	-	_	_	_	Q	_	_	_	_	_	_
+9	times	_	Word	-	+	_	D	_	_	_	_	_	_	_	_
+10	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
+11	winning	_	Word	-	+	_	H	_	_	_	_	_	_	_	_
+12	the	_	Word	-	-	_	_	_	_	_	F	_	_	_	_
+13	Best	_	Word	-	+	_	_	_	_	A	_	_	_	_	_
+14	Actor	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_
+15	Awards	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_
+16	from	_	Word	-	-	_	_	_	_	_	_	R	_	_	_
+17	the	_	Word	-	-	_	_	_	_	_	_	F	_	_	_
+18	Golden	_	Word	-	+	_	_	_	_	_	E	_	_	_	_
+19	Globes	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_
+20	for	_	Word	-	-	_	_	_	_	_	_	_	R	_	_
+21	Sweeney	_	Word	-	+	_	_	_	_	_	_	E	_	_	_
+22	Todd	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_
+23	:	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_
+24	The	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_
+25	Demon	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_
+26	Barber	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_
+27	of	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_
+28	Fleet	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_
+29	Street	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_
+30	and	_	Word	-	-	_	_	_	_	_	_	N	_	_	_
+31	from	_	Word	-	-	_	_	_	_	_	_	_	_	R	_
+32	the	_	Word	-	-	_	_	_	_	_	_	_	_	F	_
+33	Screen	_	Word	-	+	_	_	_	_	_	_	C	_	_	_
+34	Actors	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_
+35	Guild	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_
+36	for	_	Word	-	-	_	_	_	_	_	_	_	_	_	R
+37	Pirates	_	Word	-	+	_	_	_	_	_	_	_	_	E	_
+38	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal
+39	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal
+40	Caribbean	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal
+41	:	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+42	The	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal
+43	Curse	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal
+44	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal
+45	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal
+46	Black	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal
+47	Pearl	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal
+48	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
 

@@ -2,7 +2,7 @@
 1	He	_	Word	-	-	_	A	_	_	_	_	_	_	_	_
 2	performed	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
 3	for	_	Word	-	-	_	_	R	_	_	_	_	_	_	_
-4	the	_	Word	-	-	_	_	E	_	_	_	_	_	_	_
+4	the	_	Word	-	-	_	_	F	_	_	_	_	_	_	_
 5	largest	_	Word	-	-	_	_	E	_	_	_	_	_	_	_
 6	paying	_	Word	-	-	_	_	E	_	_	_	_	_	_	_
 7	stadium	_	Word	-	-	_	_	E	_	_	_	_	_	_	_
@@ -10,12 +10,12 @@
 9	in	_	Word	-	-	_	_	_	R	_	_	_	_	_	_
 10	history	_	Word	-	+	_	_	E	_	_	_	_	_	_	_
 11	on	_	Word	-	-	_	_	_	_	R	_	_	_	_	_
-12	21	_	Word	-	+	_	D	_	_	_	_	_	_	_	_
-13	April	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_
-14	1990	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_
+12	21	_	Word	-	+	_	T	_	_	_	_	_	_	_	_
+13	April	_	Word	-	-	_	_	_	_	C	_	_	_	_	_
+14	1990	_	Word	-	-	_	_	_	_	C	_	_	_	_	_
 15	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
 16	when	_	Word	-	-	_	L	_	_	_	_	_	_	_	_
-17	184,000	_	Word	-	-	_	_	_	_	_	E	_	_	_	_
+17	184,000	_	Word	-	-	_	_	_	_	_	Q	_	_	_	_
 18	people	_	Word	-	+	_	_	_	_	_	_	A	_	_	_
 19	attended	_	Word	-	+	_	H	_	_	_	_	_	_	_	_
 20	his	_	Word	-	-	_	_	_	_	_	_	_	A	_	_
@@ -28,6 +28,6 @@
 27	de	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal
 28	Janeiro	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal
 29	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
-30	Brazil	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal
+30	Brazil	_	Word	-	-	_	_	_	_	_	_	_	_	_	C
 31	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
 

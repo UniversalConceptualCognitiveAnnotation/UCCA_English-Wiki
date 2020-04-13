@@ -1,19 +1,19 @@
 # format = ucca
-1	Chan	_	Word	-	-	_	A	_	_	_	A*	_	_
-2	is	_	Word	-	+	_	_	_	_	_	_	_	_
-3	a	_	Word	-	-	_	_	E	_	_	_	_	_
-4	spokesperson	_	Word	-	+	_	A	_	_	_	_	_	_
-5	for	_	Word	-	-	_	_	_	R	_	_	_	_
-6	the	_	Word	-	-	_	_	_	E	_	_	_	_
-7	Government	_	Word	-	+	_	_	E	_	_	_	_	_
-8	of	_	Word	-	-	_	_	_	_	R	_	_	_
-9	Hong	_	Word	-	+	_	_	_	E	_	_	_	_
-10	Kong	_	Word	-	-	_	_	_	_	Terminal	_	_	_
-11	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_
-12	appearing	_	Word	-	+	_	H	_	_	_	_	_	_
-13	in	_	Word	-	-	_	_	_	_	_	_	_	R
-14	public	_	Word	-	-	_	_	_	_	_	_	E	_
-15	service	_	Word	-	+	_	_	_	_	_	_	_	E
-16	announcements	_	Word	-	+	_	_	_	_	_	A	_	_
-17	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+1	Chan	_	Word	-	-	_	A	_	_	A*	_	_
+2	is	_	Word	-	-	_	F	_	_	_	_	_
+3	a	_	Word	-	-	_	F	_	_	_	_	_
+4	spokesperson	_	Word	-	+	_	_	_	_	_	_	_
+5	for	_	Word	-	-	_	_	R	_	_	_	_
+6	the	_	Word	-	-	_	_	F	_	_	_	_
+7	Government	_	Word	-	+	_	A	_	_	_	_	_
+8	of	_	Word	-	-	_	_	_	R	_	_	_
+9	Hong	_	Word	-	+	_	_	E	_	_	_	_
+10	Kong	_	Word	-	-	_	_	_	Terminal	_	_	_
+11	,	_	Punctuation	-	-	_	U	_	_	_	_	_
+12	appearing	_	Word	-	+	_	H	_	_	_	_	_
+13	in	_	Word	-	-	_	_	_	_	_	_	R
+14	public	_	Word	-	-	_	_	_	_	_	E	_
+15	service	_	Word	-	+	_	_	_	_	_	_	E
+16	announcements	_	Word	-	+	_	_	_	_	A	_	_
+17	.	_	Punctuation	-	-	_	_	_	_	_	_	U
 

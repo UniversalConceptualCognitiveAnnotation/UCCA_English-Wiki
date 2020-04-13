@@ -1,68 +1,68 @@
 # format = ucca
-1	The	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-2	others	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	would	_	Word	-	-	_	_	D	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-4	centrally	_	Word	-	-	_	_	D	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-5	define	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
-6	the	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-7	evolving	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-8	sound	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-9	of	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-10	rock	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-11	and	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-12	roll	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-13	:	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-14	"	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-15	Blue	_	Word	-	+	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-16	Suede	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-17	Shoes	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-18	"	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-19	-	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_
-20	"	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
-21	an	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
-22	improvement	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-23	over	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_
-24	Perkins	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-25	'	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-26	in	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_
-27	almost	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-28	every	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-29	way	_	Word	-	+	_	_	_	_	_	D	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-30	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
-31	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
-32	according	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-33	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_
-34	critic	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-35	Robert	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
-36	Hilburn-and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
-37	three	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-38	R	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-39	&	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
-40	B	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
-41	numbers	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-42	that	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_
-43	had	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_
-44	been	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_	_	_	_	_	_
-45	part	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-46	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
-47	Presley	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-48	's	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
-49	stage	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-50	repertoire	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
-51	for	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_
-52	some	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-53	time	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_	_	_	_	_	_
-54	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_
-55	covers	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-56	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_
-57	Little	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-58	Richard	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
-59	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_
-60	Ray	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	C	_	_
-61	Charles	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_
-62	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_
-63	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	N	_	_
-64	The	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	C	_	_
-65	Drifters	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
-66	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_
+1	The	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	others	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	would	_	Word	-	-	_	_	D	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	centrally	_	Word	-	-	_	_	D	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	define	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	the	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	evolving	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	sound	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	of	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	rock	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	and	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	roll	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	:	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	"	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	Blue	_	Word	-	+	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	Suede	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	Shoes	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	"	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	-	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	"	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	an	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	improvement	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
+23	over	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	Perkins	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	'	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+26	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_
+27	almost	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
+28	every	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+29	way	_	Word	-	+	_	_	_	_	_	_	D	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+30	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+31	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+32	according	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+33	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
+34	critic	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+35	Robert	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
+36	Hilburnâand	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
+37	three	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	Q	_	_	_	_	_	_	_	_
+38	R	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
+39	&	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
+40	B	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
+41	numbers	_	Word	-	+	_	_	_	_	_	C	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+42	that	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_
+43	had	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_	_
+44	been	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_	_
+45	part	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
+46	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
+47	Presley	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
+48	's	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+49	stage	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+50	repertoire	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+51	for	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_
+52	some	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
+53	time	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	T	_	_	_	_	_	_	_
+54	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_
+55	covers	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
+56	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_
+57	Little	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+58	Richard	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
+59	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_
+60	Ray	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	C	_	_
+61	Charles	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_
+62	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_
+63	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	N	_	_
+64	The	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	C	_	_
+65	Drifters	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
+66	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_
 

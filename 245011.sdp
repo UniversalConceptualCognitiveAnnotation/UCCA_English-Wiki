@@ -1,13 +1,13 @@
 # format = ucca
-1	Nonetheless	_	Word	-	-	_	_	_	L
-2	,	_	Punctuation	-	-	_	_	_	U
-3	the	_	Word	-	-	_	E	_	_
-4	film	_	Word	-	+	_	_	_	A
-5	was	_	Word	-	-	_	_	_	D
-6	a	_	Word	-	-	_	_	_	E
-7	surprise	_	Word	-	-	_	_	_	E
-8	box	_	Word	-	-	_	_	E	_
-9	office	_	Word	-	+	_	_	_	E
-10	disappointment	_	Word	-	+	_	_	_	_
-11	.	_	Punctuation	-	-	_	_	_	U
+1	Nonetheless	_	Word	-	-	_	_	_	_	L
+2	,	_	Punctuation	-	-	_	_	_	_	U
+3	the	_	Word	-	-	_	F	_	_	_
+4	film	_	Word	-	+	_	_	_	_	A
+5	was	_	Word	-	-	_	_	_	_	F
+6	a	_	Word	-	-	_	_	F	_	_
+7	surprise	_	Word	-	+	_	_	_	_	G
+8	box	_	Word	-	-	_	_	_	E	_
+9	office	_	Word	-	+	_	_	_	_	A
+10	disappointment	_	Word	-	+	_	_	_	_	_
+11	.	_	Punctuation	-	-	_	_	_	_	U
 

@@ -1,47 +1,47 @@
 # format = ucca
-1	Presley	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_
-2	made	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	what	_	Word	-	-	_	_	D	_	_	_	_	_	_	_	_	_	_
-4	would	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_	_
-5	be	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_	_
-6	his	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_	_	_
-7	only	_	Word	-	-	_	_	D	_	_	_	_	_	_	_	_	_	_
-8	appearance	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_
-9	on	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_
-10	Nashville	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_
-11	's	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
-12	Grand	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
-13	Ole	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
-14	Opry	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
-15	on	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_
-16	October	_	Word	-	+	_	D	_	_	_	_	_	_	_	_	_	_	_
-17	2	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
-18	;	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_
-19	after	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_
-20	a	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_
-21	polite	_	Word	-	-	_	_	_	_	_	D	_	_	_	_	_	_	_
-22	audience	_	Word	-	-	_	_	_	_	_	A	_	_	_	_	_	_	_
-23	response	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_
-24	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_
-25	Opry	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_
-26	manager	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_	_
-27	Jim	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_
-28	Denny	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_
-29	told	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_
-30	Phillips	_	Word	-	-	_	_	_	_	_	_	_	_	A	_	_	_	_
-31	that	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_
-32	his	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_
-33	singer	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	A*	_
-34	was	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_	_
-35	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_
-36	not	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D	_	_
-37	bad	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_
-38	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_
-39	but	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	L	_	_
-40	did	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F	_
-41	not	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	D	_
-42	suit	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	H	_	_
-43	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E
-44	program	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_
-45	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	Presley	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_
+2	made	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_
+3	what	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_
+4	would	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_
+5	be	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_
+6	his	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_
+7	only	_	Word	-	-	_	D	_	_	_	_	_	_	_	_	_	_
+8	appearance	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
+9	on	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_
+10	Nashville	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_
+11	's	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_
+12	Grand	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_
+13	Ole	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_
+14	Opry	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_
+15	on	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_
+16	October	_	Word	-	+	_	T	_	_	_	_	_	_	_	_	_	_
+17	2	_	Word	-	-	_	_	_	C	_	_	_	_	_	_	_	_
+18	;	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_
+19	after	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_
+20	a	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_
+21	polite	_	Word	-	-	_	_	_	_	D	_	_	_	_	_	_	_
+22	audience	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_	_
+23	response	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_
+24	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_
+25	Opry	_	Word	-	-	_	_	_	_	_	A	_	_	_	_	_	_
+26	manager	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_
+27	Jim	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_
+28	Denny	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_
+29	told	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_
+30	Phillips	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	_	_
+31	that	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_
+32	his	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_
+33	singer	_	Word	-	-	_	_	_	_	_	_	_	_	A	_	A*	_
+34	was	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_
+35	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_
+36	not	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	_	_
+37	bad	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_
+38	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_
+39	but	_	Word	-	-	_	_	_	_	_	_	_	_	_	L	_	_
+40	did	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_
+41	not	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D	_
+42	suit	_	Word	-	+	_	_	_	_	_	_	_	_	_	H	_	_
+43	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E
+44	program	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_
+45	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
 

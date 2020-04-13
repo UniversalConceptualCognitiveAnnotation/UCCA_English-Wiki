@@ -5,8 +5,8 @@
 4	top	_	Word	-	+	_	_	_	_	_	_	_
 5	Thriller	_	Word	-	-	_	A	_	_	_	_	_
 6	as	_	Word	-	-	_	_	_	R	_	_	_
-7	a	_	Word	-	-	_	_	_	E	_	_	_
-8	commercial	_	Word	-	+	_	_	_	E	_	_	_
+7	a	_	Word	-	-	_	_	_	F	_	_	_
+8	commercial	_	Word	-	+	_	_	_	A	_	_	_
 9	or	_	Word	-	-	_	_	N	_	_	_	_
 10	artistic	_	Word	-	-	_	_	C	_	_	_	_
 11	triumph	_	Word	-	+	_	A	_	_	_	_	_
@@ -18,9 +18,9 @@
 17	a	_	Word	-	-	_	_	_	_	E	_	_
 18	substantial	_	Word	-	+	_	_	_	_	_	D	_
 19	success	_	Word	-	+	_	H	_	_	_	_	_
-20	in	_	Word	-	-	_	_	_	_	_	_	R
-21	its	_	Word	-	-	_	_	_	_	_	_	E
-22	own	_	Word	-	-	_	_	_	_	_	_	E
-23	right	_	Word	-	+	_	_	_	_	_	A	_
-24	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+20	in	_	Word	-	+	_	_	_	_	_	D	_
+21	its	_	Word	-	-	_	_	_	_	_	_	Terminal
+22	own	_	Word	-	-	_	_	_	_	_	_	Terminal
+23	right	_	Word	-	-	_	_	_	_	_	_	Terminal
+24	.	_	Punctuation	-	-	_	_	_	_	_	U	_
 

@@ -1,26 +1,34 @@
 # format = ucca
-1	The	_	Word	-	-	_	_	E	_	_	_
-2	accompanying	_	Word	-	-	_	E	_	_	_	_
-3	single	_	Word	-	+	_	_	E	_	_	_
-4	,	_	Punctuation	-	-	_	_	U	_	_	_
-5	"	_	Punctuation	-	-	_	_	U	_	_	_
-6	Tropic	_	Word	-	+	_	_	_	A	_	_
-7	Island	_	Word	-	-	_	_	Terminal	_	_	_
-8	Hum	_	Word	-	-	_	_	Terminal	_	_	_
-9	"	_	Punctuation	-	-	_	_	U	_	_	_
-10	/	_	Punctuation	-	-	_	_	U	_	_	_
-11	"	_	Punctuation	-	-	_	_	U	_	_	_
-12	We	_	Word	-	-	_	_	Terminal	_	_	_
-13	All	_	Word	-	-	_	_	Terminal	_	_	_
-14	Stand	_	Word	-	-	_	_	Terminal	_	_	_
-15	Together	_	Word	-	-	_	_	Terminal	_	_	_
-16	"	_	Punctuation	-	-	_	_	_	U	_	_
-17	,	_	Punctuation	-	-	_	_	_	U	_	_
-18	reached	_	Word	-	+	_	_	_	_	_	_
-19	number	_	Word	-	+	_	_	_	A	_	_
-20	21	_	Word	-	-	_	_	_	_	E	_
-21	in	_	Word	-	-	_	_	_	_	_	R
-22	the	_	Word	-	-	_	_	_	_	_	E
-23	UK	_	Word	-	+	_	_	_	A	_	_
-24	.	_	Punctuation	-	-	_	_	_	_	_	U
+1	McCartney	_	Word	-	-	_	A	A*	_	_	_	_	_	_	_	_
+2	also	_	Word	-	-	_	D	D*	_	_	_	_	_	_	_	_
+3	produced	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+4	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_
+5	hosted	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_
+6	The	_	Word	-	+	_	A	A*	_	_	_	_	_	_	_	_
+7	Real	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_
+8	Buddy	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_
+9	Holly	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_
+10	Story	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_
+11	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_
+12	a	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_
+13	1985	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_
+14	documentary	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_
+15	featuring	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_
+16	interviews	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_
+17	with	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_
+18	Keith	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_
+19	Richards	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_
+20	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_
+21	Phil	_	Word	-	+	_	_	_	_	_	_	_	C	_	_	_
+22	and	_	Word	-	-	_	_	_	_	_	_	_	_	N	_	_
+23	Don	_	Word	-	+	_	_	_	_	_	_	_	_	C	_	_
+24	Everly	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_
+25	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_
+26	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F
+27	Holly	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A
+28	family	_	Word	-	+	_	_	_	_	_	_	_	C	_	_	_
+29	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_
+30	and	_	Word	-	-	_	_	_	_	_	_	_	N	_	_	_
+31	others	_	Word	-	-	_	_	_	_	_	_	_	C	_	_	_
+32	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_
 

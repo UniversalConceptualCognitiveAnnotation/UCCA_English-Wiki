@@ -5,18 +5,18 @@
 4	in	_	Word	-	-	_	_	R	_	_	_
 5	Hartford	_	Word	-	+	_	A	_	_	_	_
 6	,	_	Punctuation	-	-	_	_	U	_	_	_
-7	Connecticut	_	Word	-	-	_	_	E	_	_	_
+7	Connecticut	_	Word	-	-	_	_	C	_	_	_
 8	,	_	Punctuation	-	-	_	U	_	_	_	_
 9	on	_	Word	-	-	_	_	_	R	_	_
-10	May	_	Word	-	+	_	D	_	_	_	_
-11	12	_	Word	-	-	_	_	_	Terminal	_	_
+10	May	_	Word	-	+	_	T	_	_	_	_
+11	12	_	Word	-	-	_	_	_	C	_	_
 12	,	_	Punctuation	-	-	_	_	_	U	_	_
-13	1907	_	Word	-	-	_	_	_	Terminal	_	_
+13	1907	_	Word	-	-	_	_	_	C	_	_
 14	,	_	Punctuation	-	-	_	U	_	_	_	_
-15	the	_	Word	-	-	_	_	_	_	_	E
-16	second	_	Word	-	-	_	_	_	_	_	E
-17	of	_	Word	-	-	_	_	_	_	R	_
-18	six	_	Word	-	+	_	_	_	_	_	E
+15	the	_	Word	-	-	_	_	_	_	E	_
+16	second	_	Word	-	+	_	_	_	_	_	D
+17	of	_	Word	-	-	_	_	_	_	_	R
+18	six	_	Word	-	-	_	_	_	_	_	Q
 19	children	_	Word	-	+	_	H	_	_	_	_
 20	.	_	Punctuation	-	-	_	_	_	_	_	U
 

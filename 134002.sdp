@@ -1,24 +1,24 @@
 # format = ucca
-1	Her	_	Word	-	-	_	A	_	_	_	_	_	_	_
+1	Her	_	Word	-	-	_	A	_	_	A*	_	_	_	A*
 2	only	_	Word	-	-	_	D	_	_	_	_	_	_	_
 3	appearance	_	Word	-	+	_	_	_	A	_	_	_	_	_
 4	in	_	Word	-	-	_	_	R	_	_	_	_	_	_
-5	1943	_	Word	-	+	_	D	_	_	_	_	_	_	_
+5	1943	_	Word	-	+	_	T	_	_	_	_	_	_	_
 6	was	_	Word	-	+	_	_	_	_	_	_	_	_	_
-7	a	_	Word	-	-	_	_	_	_	E	_	_	_	_
-8	cameo	_	Word	-	+	_	_	_	_	_	_	_	E	_
-9	in	_	Word	-	-	_	_	_	_	R	_	_	_	_
-10	the	_	Word	-	-	_	_	_	_	_	_	_	E	_
-11	morale	_	Word	-	-	_	_	_	_	_	E	_	_	_
+7	a	_	Word	-	-	_	_	_	_	F	_	_	_	_
+8	cameo	_	Word	-	+	_	_	_	A	_	_	_	_	_
+9	in	_	Word	-	-	_	_	_	_	_	_	_	R	_
+10	the	_	Word	-	-	_	_	_	_	_	_	_	F	_
+11	morale	_	Word	-	-	_	_	_	_	_	A	_	_	_
 12	-	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_
 13	building	_	Word	-	+	_	_	_	_	_	_	E	_	_
 14	wartime	_	Word	-	-	_	_	_	_	_	_	E	_	_
 15	film	_	Word	-	+	_	_	_	_	_	_	_	E	_
-16	Stage	_	Word	-	+	_	_	_	_	_	_	_	_	A
+16	Stage	_	Word	-	+	_	_	_	_	A	_	_	_	_
 17	Door	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_
 18	Canteen	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_
-19	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
-20	playing	_	Word	-	+	_	_	_	A	_	_	_	_	_
+19	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_
+20	playing	_	Word	-	+	_	_	_	_	E	_	_	_	_
 21	herself	_	Word	-	-	_	_	_	_	_	_	_	_	A
 22	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
 

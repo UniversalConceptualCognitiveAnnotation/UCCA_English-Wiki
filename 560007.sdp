@@ -1,36 +1,36 @@
 # format = ucca
-1	In	_	Word	-	-	_	R	_	_	_	_	_	_	_	_
-2	mid	_	Word	-	-	_	E	_	_	_	_	_	_	_	_
-3	-	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
-4	October	_	Word	-	+	_	_	D	_	_	_	_	_	_	_
-5	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_
-6	they	_	Word	-	-	_	_	A	_	_	_	_	_	_	_
-7	played	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-8	a	_	Word	-	-	_	_	_	E	_	_	_	_	_	_
-9	few	_	Word	-	-	_	_	_	E	_	_	_	_	_	_
-10	shows	_	Word	-	+	_	_	A	_	_	_	_	_	_	_
-11	in	_	Word	-	-	_	_	_	_	R	_	_	_	_	_
-12	support	_	Word	-	+	_	_	_	E	_	_	_	_	_	_
-13	of	_	Word	-	-	_	_	_	_	_	R	_	_	_	_
-14	Bill	_	Word	-	+	_	_	_	_	E	_	_	_	_	_
-15	Haley	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_
-16	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_
-17	whose	_	Word	-	-	_	_	_	_	_	_	_	_	F	_
-18	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_
-19	Rock	_	Word	-	+	_	_	_	_	_	_	_	_	A	_
-20	Around	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_
-21	the	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_
-22	Clock	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_
-23	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_
-24	had	_	Word	-	-	_	_	_	_	_	_	_	_	F	_
-25	been	_	Word	-	-	_	_	_	_	_	_	_	_	F	_
-26	a	_	Word	-	-	_	_	_	_	_	_	_	_	E	_
-27	number	_	Word	-	+	_	_	_	_	_	_	_	_	E	_
-28	-	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_
-29	one	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_
-30	hit	_	Word	-	+	_	_	_	_	_	E	_	_	_	_
-31	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E
-32	previous	_	Word	-	-	_	_	_	_	_	_	_	_	_	E
-33	year	_	Word	-	+	_	_	_	_	_	_	_	_	D	_
-34	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+1	In	_	Word	-	-	_	R	_	_	_	_	_	_	_
+2	mid	_	Word	-	-	_	E	_	_	_	_	_	_	_
+3	-	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_
+4	October	_	Word	-	+	_	_	T	_	_	_	_	_	_
+5	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_
+6	they	_	Word	-	-	_	_	A	_	_	_	_	_	_
+7	played	_	Word	-	-	_	_	D	_	_	_	_	_	_
+8	a	_	Word	-	-	_	_	F	_	_	_	_	_	_
+9	few	_	Word	-	-	_	_	D	_	_	_	_	_	_
+10	shows	_	Word	-	+	_	_	_	_	_	_	_	_	_
+11	in	_	Word	-	-	_	_	L	_	_	_	_	_	_
+12	support	_	Word	-	+	_	_	H	_	_	_	_	_	_
+13	of	_	Word	-	-	_	_	_	_	R	_	_	_	_
+14	Bill	_	Word	-	+	_	_	_	A	_	_	_	_	_
+15	Haley	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_
+16	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_
+17	whose	_	Word	-	-	_	_	_	_	_	_	_	R	_
+18	"	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_
+19	Rock	_	Word	-	+	_	_	_	_	_	_	_	A	_
+20	Around	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_
+21	the	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_
+22	Clock	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_
+23	"	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_
+24	had	_	Word	-	-	_	_	_	_	_	_	_	F	_
+25	been	_	Word	-	-	_	_	_	_	_	_	_	F	_
+26	a	_	Word	-	-	_	_	_	_	_	_	_	F	_
+27	number	_	Word	-	+	_	_	_	_	_	_	_	D	_
+28	-	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_
+29	one	_	Word	-	-	_	_	_	_	_	_	Q	_	_
+30	hit	_	Word	-	+	_	_	_	_	E	_	_	_	_
+31	the	_	Word	-	-	_	_	_	_	_	_	_	_	E
+32	previous	_	Word	-	-	_	_	_	_	_	_	_	_	E
+33	year	_	Word	-	+	_	_	_	_	_	_	_	T	_
+34	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
 

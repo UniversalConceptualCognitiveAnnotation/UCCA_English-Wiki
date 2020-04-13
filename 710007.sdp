@@ -1,26 +1,26 @@
 # format = ucca
-1	With	_	Word	-	-	_	R	_	_	_	_	_	_	_
-2	its	_	Word	-	-	_	A	_	_	_	_	_	_	_
-3	bitter	_	Word	-	-	_	D	_	_	_	_	_	_	_
-4	assessment	_	Word	-	+	_	_	_	_	_	_	_	_	A
-5	of	_	Word	-	-	_	_	R	_	_	_	_	_	_
-6	love	_	Word	-	+	_	A	_	_	_	_	_	_	_
-7	and	_	Word	-	-	_	N	_	_	_	_	_	_	_
-8	morbid	_	Word	-	-	_	_	_	E	_	_	_	_	_
-9	ruminations	_	Word	-	+	_	C	_	_	_	_	_	_	_
-10	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
-11	Dylan	_	Word	-	+	_	_	_	_	_	E	_	_	_
-12	's	_	Word	-	-	_	_	_	_	R	_	_	_	_
-13	first	_	Word	-	-	_	_	_	_	_	E	_	_	_
-14	collection	_	Word	-	+	_	_	_	_	_	_	_	_	A
-15	of	_	Word	-	-	_	_	_	_	_	_	R	_	_
-16	original	_	Word	-	-	_	_	_	_	_	_	E	_	_
-17	songs	_	Word	-	+	_	_	_	_	_	E	_	_	_
-18	in	_	Word	-	-	_	_	_	_	_	_	_	R	_
-19	seven	_	Word	-	-	_	_	_	_	_	_	_	E	_
-20	years	_	Word	-	+	_	_	_	_	_	E	_	_	_
-21	was	_	Word	-	-	_	_	_	_	_	_	_	_	F
-22	highly	_	Word	-	-	_	_	_	_	_	_	_	_	D
-23	acclaimed	_	Word	-	+	_	_	_	_	_	_	_	_	_
-24	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+1	One	_	Word	-	-	_	Q	_	_	_	_	_	_	_	_
+2	critic	_	Word	-	+	_	_	A	_	_	_	_	_	_	_
+3	wrote	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+4	:	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_
+5	"	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_
+6	the	_	Word	-	-	_	_	_	E	_	_	_	_	_	_
+7	songs	_	Word	-	+	_	_	_	_	_	A*	_	_	_	_
+8	themselves	_	Word	-	-	_	_	_	F	_	_	_	_	_	_
+9	are	_	Word	-	-	_	_	_	_	F	_	_	_	_	_
+10	uniformly	_	Word	-	-	_	_	_	_	D	_	_	_	_	_
+11	powerful	_	Word	-	+	_	_	A	_	_	_	_	_	_	_
+12	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_
+13	adding	_	Word	-	+	_	_	_	_	H	_	_	_	_	_
+14	up	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_
+15	to	_	Word	-	-	_	_	_	_	_	_	_	_	R	_
+16	Dylan	_	Word	-	-	_	_	_	_	_	_	A	_	_	_
+17	's	_	Word	-	+	_	_	_	_	_	_	_	_	E	_
+18	best	_	Word	-	+	_	_	_	_	_	_	_	_	E	_
+19	overall	_	Word	-	-	_	_	_	_	_	_	_	A	_	_
+20	collection	_	Word	-	+	_	_	_	_	_	A	_	_	_	_
+21	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	R
+22	years	_	Word	-	+	_	_	_	_	_	_	_	_	E	_
+23	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+24	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
 

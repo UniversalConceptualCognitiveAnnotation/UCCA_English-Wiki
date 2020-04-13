@@ -1,22 +1,22 @@
 # format = ucca
-1	The	_	Word	-	-	_	E	_	_	_	_	_
+1	The	_	Word	-	-	_	F	_	_	_	_	_
 2	son	_	Word	-	+	_	_	_	_	_	_	_
 3	of	_	Word	-	-	_	_	R	_	_	_	_
 4	director	_	Word	-	-	_	_	E	_	_	_	_
-5	Stephen	_	Word	-	+	_	E	_	_	_	_	_
+5	Stephen	_	Word	-	+	_	A	_	_	_	_	_
 6	Gyllenhaal	_	Word	-	-	_	_	Terminal	_	_	_	_
 7	and	_	Word	-	-	_	_	N	_	_	_	_
 8	screenwriter	_	Word	-	-	_	_	_	E	_	_	_
 9	Naomi	_	Word	-	+	_	_	C	_	_	_	_
 10	Foner	_	Word	-	-	_	_	_	Terminal	_	_	_
 11	,	_	Punctuation	-	-	_	U	_	_	_	_	_
-12	Gyllenhaal	_	Word	-	-	_	_	_	_	A	_	_
+12	Gyllenhaal	_	Word	-	-	_	_	_	_	A	A*	_
 13	began	_	Word	-	-	_	_	_	_	D	_	_
 14	acting	_	Word	-	+	_	H	_	_	_	_	_
-15	at	_	Word	-	-	_	_	_	_	_	_	R
-16	the	_	Word	-	-	_	_	_	_	_	E	_
-17	age	_	Word	-	+	_	_	_	_	_	_	E
-18	of	_	Word	-	-	_	_	_	_	_	R	_
-19	ten	_	Word	-	+	_	_	_	_	A	_	_
+15	at	_	Word	-	-	_	L	_	_	_	_	_
+16	the	_	Word	-	-	_	_	_	_	_	F	_
+17	age	_	Word	-	+	_	H	_	_	_	_	_
+18	of	_	Word	-	-	_	_	_	_	_	_	R
+19	ten	_	Word	-	+	_	_	_	_	_	T	_
 20	.	_	Punctuation	-	-	_	_	_	_	_	_	U
 

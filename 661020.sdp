@@ -1,53 +1,53 @@
 # format = ucca
-1	The	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-2	EP	_	Word	-	+	_	_	_	_	_	_	_	A*	_	_	_	_	A*	_	_	_
-3	proved	_	Word	-	-	_	_	D	_	_	_	_	_	_	_	_	_	_	_	_	_
-4	to	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_
-5	be	_	Word	-	-	_	_	D	_	_	_	_	_	_	_	_	_	_	_	_	_
-6	a	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
-7	success	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-8	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
-9	contrary	_	Word	-	+	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_
-10	to	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_
-11	critics	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
-12	and	_	Word	-	-	_	_	_	_	N	_	_	_	_	_	_	_	_	_	_	_
-13	speculations	_	Word	-	-	_	_	_	_	C	_	_	_	_	_	_	_	_	_	_	_
-14	that	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_
-15	Carey	_	Word	-	-	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
-16	was	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-17	just	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-18	a	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-19	studio	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-20	artist	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
-21	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
-22	and	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_
-23	was	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_
-24	given	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
-25	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-26	triple	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-27	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_
-28	Platinum	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-29	certification	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
-30	by	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
-31	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-32	Recording	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-33	Industry	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-34	Association	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
-35	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_
-36	America	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-37	(	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_
-38	RIAA	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-39	)	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
-40	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
-41	and	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_
-42	managed	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
-43	Gold	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-44	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	N	_	_
-45	Platinum	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	C	_	_
-46	certifications	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
-47	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
-48	several	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-49	European	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-50	markets	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
-51	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	The	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	EP	_	Word	-	+	_	_	_	_	_	_	_	_	_	A*	_	_	_	_	A*	_	_	_
+3	proved	_	Word	-	+	_	_	_	G	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	to	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	be	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	a	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	success	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	contrary	_	Word	-	+	_	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	to	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	critics	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	and	_	Word	-	-	_	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	speculations	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	that	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_
+15	Carey	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+16	was	_	Word	-	+	_	_	_	_	_	A	A*	_	_	_	_	_	_	_	_	_	_	_
+17	just	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+18	a	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_
+19	studio	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+20	artist	_	Word	-	-	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
+21	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	and	_	Word	-	-	_	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	was	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_
+24	given	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_
+26	triple	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Q	_	_	_	_	_	_	_
+27	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_
+28	Platinum	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
+29	certification	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
+30	by	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
+31	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_
+32	Recording	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+33	Industry	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+34	Association	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
+35	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_
+36	America	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+37	(	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_
+38	RIAA	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+39	)	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+40	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+41	and	_	Word	-	-	_	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+42	managed	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+43	Gold	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+44	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	N	_	_
+45	Platinum	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	C	_	_
+46	certifications	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
+47	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+48	several	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Q
+49	European	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+50	markets	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
+51	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

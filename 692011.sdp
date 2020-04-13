@@ -1,54 +1,54 @@
 # format = ucca
-1	A	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
-2	Hard	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	Rain	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_
-4	's	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_
-5	a	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_
-6	-	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
-7	Gonna	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_
-8	Fall	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_
-9	"	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-10	was	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_
-11	based	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-12	on	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_
-13	the	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-14	tune	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
-15	of	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_
-16	the	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-17	folk	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-18	ballad	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-19	"	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
-20	Lord	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-21	Randall	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
-22	"	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-23	.	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-24	With	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_
-25	its	_	Word	-	-	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
-26	veiled	_	Word	-	-	_	_	_	_	_	_	D	_	_	_	_	_	_	_	_
-27	references	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
-28	to	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_
-29	nuclear	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-30	apocalypse	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
-31	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_
-32	it	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
-33	gained	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	_	_	_	_	_
-34	even	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-35	more	_	Word	-	+	_	_	_	_	_	_	_	_	_	D	_	_	_	_	_
-36	resonance	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_
-37	when	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_
-38	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-39	Cuban	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-40	missile	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-41	crisis	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
-42	developed	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_
-43	only	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_
-44	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-45	few	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-46	weeks	_	Word	-	+	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_
-47	after	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
-48	Dylan	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A
-49	began	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D
-50	performing	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_
-51	it	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A
-52	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	A	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_
+2	Hard	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_
+3	Rain	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_
+4	's	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_
+5	a	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_
+6	-	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+7	Gonna	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_
+8	Fall	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_
+9	"	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+10	was	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_	_	_
+11	based	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	on	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_
+13	the	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+14	tune	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_
+15	of	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_
+16	the	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+17	folk	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+18	ballad	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_	_	_
+19	"	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_
+20	Lord	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+21	Randall	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
+22	"	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+23	.	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+24	With	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_
+25	its	_	Word	-	-	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+26	veiled	_	Word	-	-	_	_	_	_	_	_	D	_	_	_	_	_	_	_
+27	references	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_
+28	to	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_
+29	nuclear	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	_	_	_	_
+30	apocalypse	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+31	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+32	it	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+33	gained	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	_	_	_	_
+34	even	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+35	more	_	Word	-	+	_	_	_	_	_	_	_	_	_	D	_	_	_	_
+36	resonance	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_
+37	when	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_
+38	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_	_	_
+39	Cuban	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A	_	_	_
+40	missile	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A	_	_	_
+41	crisis	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_
+42	developed	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D	_	_	_
+43	only	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_
+44	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_
+45	few	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	Q	_
+46	weeks	_	Word	-	+	_	_	L	_	_	_	_	_	_	_	_	_	_	_
+47	after	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_
+48	Dylan	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	A
+49	began	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	D
+50	performing	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_
+51	it	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	A
+52	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

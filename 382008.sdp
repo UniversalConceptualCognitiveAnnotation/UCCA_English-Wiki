@@ -1,55 +1,55 @@
 # format = ucca
-1	He	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-2	was	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	also	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-4	listed	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-5	in	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_
-6	People	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-7	's	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_
-8	"	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-9	Hottest	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-10	Bachelors	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_
-11	of	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_
-12	2006	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_
-13	"	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-14	.	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-15	In	_	Word	-	+	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-16	response	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
-17	to	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
-18	mainstream	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-19	press	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-20	lists	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-21	like	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_
-22	these	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-23	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-24	thousands	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-25	of	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_
-26	gay	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-27	and	_	Word	-	-	_	_	_	_	_	_	_	_	N	_	_	_	_	_	_	_
-28	bisexual	_	Word	-	-	_	_	_	_	_	_	_	_	C	_	_	_	_	_	_	_
-29	men	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
-30	were	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_
-31	polled	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-32	for	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_
-33	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-34	2007	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-35	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	N	_	_	_	_
-36	2008	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	C	_	_	_	_
-37	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_
-38	AfterElton.com	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-39	Hot	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
-40	100	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
-41	List	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
-42	"	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-43	.	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-44	Gyllenhaal	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
-45	was	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_
-46	ranked	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-47	at	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
-48	No.1	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
-49	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
-50	both	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-51	consecutive	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-52	years	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_	_
-53	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	He	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	was	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	also	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	listed	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	in	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	People	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	's	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	"	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	Hottest	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	Bachelors	_	Word	-	+	_	_	_	A*	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	of	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	2006	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	"	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	.	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	In	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_
+16	response	_	Word	-	+	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	to	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_
+18	mainstream	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+19	press	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+20	lists	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	like	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_
+22	these	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+23	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	thousands	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Q	_	_	_	_	_	_	_
+25	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_
+26	gay	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
+27	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	N	_	_	_	_	_	_	_	_
+28	bisexual	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	C	_	_	_	_	_	_	_	_
+29	men	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
+30	were	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_
+31	polled	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+32	for	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_
+33	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_
+34	2007	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+35	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	N	_	_	_	_	_
+36	2008	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	C	_	_	_	_	_
+37	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_
+38	AfterElton.com	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+39	Hot	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
+40	100	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+41	List	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
+42	"	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+43	.	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+44	Gyllenhaal	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+45	was	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_
+46	ranked	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+47	at	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
+48	No.1	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+49	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+50	both	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Q
+51	consecutive	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+52	years	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	T	_	_
+53	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

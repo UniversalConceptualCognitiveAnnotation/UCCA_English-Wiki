@@ -14,12 +14,12 @@
 13	declined	_	Word	-	+	_	H	_	_	_	_	_	_	_
 14	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_
 15	advising	_	Word	-	+	_	H	_	_	_	_	_	_	_
-16	Lennon	_	Word	-	-	_	_	_	_	_	_	A	_	A*
+16	Lennon	_	Word	-	-	_	_	_	_	_	_	A	A*	A*
 17	to	_	Word	-	-	_	_	_	_	_	_	_	F	_
-18	go	_	Word	-	+	_	_	_	_	_	_	_	_	E
+18	go	_	Word	-	+	_	_	_	_	_	_	A	_	_
 19	back	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_
-20	to	_	Word	-	-	_	_	_	_	_	_	_	_	F
-21	making	_	Word	-	+	_	_	_	_	_	_	A	_	_
-22	records	_	Word	-	-	_	_	_	_	_	_	_	_	A
+20	to	_	Word	-	-	_	_	_	_	_	_	_	F	_
+21	making	_	Word	-	-	_	_	_	_	_	_	_	_	F
+22	records	_	Word	-	+	_	_	_	_	_	_	_	A	_
 23	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
 

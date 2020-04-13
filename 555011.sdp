@@ -1,46 +1,46 @@
 # format = ucca
-1	When	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_
-2	his	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-3	music	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-4	teacher	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_
-5	told	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-6	him	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_	_	_	_
-7	he	_	Word	-	-	_	_	_	A	_	_	_	_	_	_	_	_	_	_
-8	had	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_	_	_
-9	no	_	Word	-	-	_	_	_	D	_	_	_	_	_	_	_	_	_	_
-10	aptitude	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_
-11	for	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_
-12	singing	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_
-13	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_
-14	he	_	Word	-	-	_	_	_	_	_	A	_	_	A*	_	_	_	A*	_
-15	brought	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_
-16	in	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-17	his	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-18	guitar	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_
-19	the	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-20	next	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-21	day	_	Word	-	+	_	_	_	_	_	D	_	_	_	_	_	_	_	_
-22	and	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_
-23	sang	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_
-24	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-25	recent	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-26	hit	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-27	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_
-28	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_
-29	Keep	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_
-30	Them	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
-31	Cold	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
-32	Icy	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
-33	Fingers	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
-34	Off	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
-35	Me	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
-36	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_	_
-37	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_	_
-38	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_
-39	an	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-40	effort	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-41	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	F	_
-42	prove	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_
-43	otherwise	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_
-44	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	When	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_
+2	his	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_
+3	music	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_
+4	teacher	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_
+5	told	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	him	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_	_	_
+7	he	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_	_	_
+8	had	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_	_
+9	no	_	Word	-	-	_	_	_	_	D	_	_	_	_	_	_	_	_
+10	aptitude	_	Word	-	+	_	_	_	_	D	_	_	_	_	_	_	_	_
+11	for	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_
+12	singing	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_
+13	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_
+14	he	_	Word	-	-	_	_	_	_	_	A	_	_	A*	_	_	_	A*
+15	brought	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_
+16	in	_	Word	-	-	_	_	_	_	_	D	_	_	_	_	_	_	_
+17	his	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_
+18	guitar	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_
+19	the	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_
+20	next	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_
+21	day	_	Word	-	+	_	_	_	_	_	T	_	_	_	_	_	_	_
+22	and	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_
+23	sang	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_
+24	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_
+25	recent	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_
+26	hit	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_	_
+27	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_
+28	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_
+29	Keep	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_
+30	Them	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
+31	Cold	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
+32	Icy	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
+33	Fingers	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
+34	Off	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
+35	Me	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
+36	"	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_
+37	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_
+38	in	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_
+39	an	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_
+40	effort	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	D
+41	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	F
+42	prove	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_
+43	otherwise	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	D
+44	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
 

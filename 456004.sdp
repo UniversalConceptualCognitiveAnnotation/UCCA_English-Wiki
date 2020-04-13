@@ -1,12 +1,12 @@
 # format = ucca
-1	Jennings	_	Word	-	-	_	_	A	_	A*	_	_	_	_	_	_	_	_
+1	Jennings	_	Word	-	-	_	_	A	_	A*	_	_	_	_	_	_	A*	_
 2	was	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_	_
 3	once	_	Word	-	+	_	_	D	_	_	_	_	_	_	_	_	_	_
 4	again	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
 5	mindful	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
 6	of	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_
-7	his	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_
-8	audience	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_
+7	his	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_
+8	audience	_	Word	-	-	_	_	_	A	_	_	_	_	_	_	_	_	_
 9	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_
 10	prefacing	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_
 11	the	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_
@@ -25,7 +25,7 @@
 24	with	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_
 25	remarks	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_
 26	for	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R
-27	children	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_
+27	children	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_
 28	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
 29	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
 

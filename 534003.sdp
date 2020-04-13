@@ -1,14 +1,16 @@
 # format = ucca
-1	Garland	_	Word	-	-	_	A	_	_	_
-2	was	_	Word	-	-	_	F	_	_	_
-3	posthumously	_	Word	-	-	_	D	_	_	_
-4	awarded	_	Word	-	+	_	_	_	_	_
-5	the	_	Word	-	-	_	_	_	E	_
-6	Grammy	_	Word	-	-	_	_	_	E	_
-7	Lifetime	_	Word	-	-	_	_	E	_	_
-8	Achievement	_	Word	-	+	_	_	_	E	_
-9	Award	_	Word	-	+	_	A	_	_	_
-10	in	_	Word	-	-	_	_	_	_	R
-11	1997	_	Word	-	+	_	D	_	_	_
-12	.	_	Punctuation	-	-	_	_	_	_	U
+1	Several	_	Word	-	-	_	Q	_	_
+2	of	_	Word	-	-	_	R	_	_
+3	her	_	Word	-	-	_	E	_	_
+4	recordings	_	Word	-	+	_	_	A	_
+5	have	_	Word	-	-	_	_	F	_
+6	been	_	Word	-	-	_	_	F	_
+7	inducted	_	Word	-	+	_	_	_	_
+8	into	_	Word	-	-	_	_	_	R
+9	the	_	Word	-	-	_	_	_	F
+10	Grammy	_	Word	-	-	_	_	_	E
+11	Hall	_	Word	-	+	_	_	A	_
+12	of	_	Word	-	-	_	_	_	Terminal
+13	Fame	_	Word	-	-	_	_	_	Terminal
+14	.	_	Punctuation	-	-	_	_	_	U
 

@@ -1,56 +1,40 @@
 # format = ucca
-1	It	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-2	received	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	considerable	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-4	negative	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-5	criticism	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-6	upon	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-7	its	_	Word	-	-	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
-8	release	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-9	-	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
-10	a	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-11	release	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
-12	which	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_
-13	RCA	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
-14	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
-15	anxious	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-16	to	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_
-17	maintain	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-18	the	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-19	established	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-20	commercial	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-21	momentum	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
-22	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_
-23	did	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_
-24	not	_	Word	-	-	_	_	_	_	_	_	_	_	D	_	_	_	_	_	_	_	_
-25	welcome	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-26	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_
-27	and	_	Word	-	-	_	_	_	_	_	_	_	_	L	_	_	_	_	_	_	_	_
-28	which	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F
-29	Bowie	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-30	's	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_
-31	ex	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-32	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_
-33	manager	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-34	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_
-35	Tony	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A
-36	Defries	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_
-37	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_
-38	who	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_
-39	still	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_	_	_
-40	maintained	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_	_	_
-41	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-42	significant	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_	_	_
-43	financial	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_	_	_
-44	interest	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-45	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
-46	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-47	singer	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-48	's	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_
-49	affairs	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
-50	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
-51	tried	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D
-52	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F
-53	prevent	_	Word	-	+	_	_	_	_	_	_	_	_	H	_	_	_	_	_	_	_	_
-54	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	Despite	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_
+2	these	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_
+3	forebodings	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
+4	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_
+5	Low	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_	_
+6	yielded	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_
+7	the	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_
+8	UK	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_
+9	number	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_
+10	three	_	Word	-	-	_	_	_	Q	_	_	_	_	_	_	_	_
+11	single	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_
+12	"	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_
+13	Sound	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_
+14	and	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_
+15	Vision	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_
+16	"	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_
+17	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_
+18	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_
+19	its	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_
+20	own	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_
+21	performance	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_
+22	surpassed	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_
+23	that	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_
+24	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_
+25	Station	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_
+26	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_
+27	Station	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_
+28	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_
+29	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_
+30	UK	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_
+31	chart	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_
+32	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_
+33	where	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A
+34	it	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A
+35	reached	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	D
+36	number	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_
+37	two	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Q
+38	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
 

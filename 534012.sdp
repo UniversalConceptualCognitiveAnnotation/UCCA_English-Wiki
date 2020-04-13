@@ -1,45 +1,16 @@
 # format = ucca
-1	However	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_
-2	the	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	same	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
-4	historical	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
-5	documentary	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
-6	states	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-7	that	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_
-8	there	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_
-9	were	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
-10	several	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-11	patrons	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
-12	at	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_
-13	the	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-14	Stonewall	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-15	bar	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-16	that	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-17	night	_	Word	-	+	_	_	_	D	_	_	_	_	_	_	_	_	_	_	_
-18	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-19	Garland	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-20	fans	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A*
-21	who	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_
-22	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_
-23	according	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_
-24	to	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_
-25	bar	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-26	patron	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-27	Sylvia	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
-28	Rivera	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_
-29	had	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_
-30	come	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-31	from	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_
-32	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-33	Garland	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-34	funeral	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
-35	earlier	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
-36	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-37	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-38	day	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	D	_	_	_
-39	to	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_
-40	drink	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_
-41	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	N
-42	mourn	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	C
-43	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	The	_	Word	-	-	_	F	_	_	_
+2	two	_	Word	-	-	_	D	_	_	_
+3	events	_	Word	-	+	_	_	A	_	_
+4	are	_	Word	-	-	_	_	F	_	_
+5	deeply	_	Word	-	-	_	_	D	_	_
+6	connected	_	Word	-	+	_	_	_	A	_
+7	in	_	Word	-	-	_	_	_	R	_
+8	the	_	Word	-	-	_	_	_	F	_
+9	lore	_	Word	-	+	_	_	_	_	_
+10	of	_	Word	-	-	_	_	_	_	R
+11	the	_	Word	-	-	_	_	_	_	F
+12	gay	_	Word	-	+	_	_	_	A	_
+13	community	_	Word	-	-	_	_	_	_	C
+14	.	_	Punctuation	-	-	_	_	_	_	U
 

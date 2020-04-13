@@ -1,26 +1,26 @@
 # format = ucca
-1	Although	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_
-2	they	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_
-3	were	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_
-4	facing	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
-5	the	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_
-6	defending	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_
-7	NBA	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_
-8	champion	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_
-9	Houston	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_
-10	Rockets	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_
-11	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_
-12	the	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_
-13	Lakers	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_
-14	had	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_
-15	home	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_
-16	court	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_
-17	advantage	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_
-18	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
-19	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E
-20	five	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_
-21	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_
-22	game	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E
-23	series	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_
-24	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
+1	Although	_	Word	-	-	_	L	_	_	_	_	_	_
+2	they	_	Word	-	-	_	A	_	_	_	_	_	_
+3	were	_	Word	-	-	_	F	_	_	_	_	_	_
+4	facing	_	Word	-	+	_	_	_	_	_	_	_	_
+5	the	_	Word	-	-	_	_	F	_	_	_	_	_
+6	defending	_	Word	-	-	_	_	D	_	_	_	_	_
+7	NBA	_	Word	-	-	_	_	A	_	_	_	_	_
+8	champion	_	Word	-	+	_	_	_	E	_	_	_	_
+9	Houston	_	Word	-	+	_	A	_	_	_	_	_	_
+10	Rockets	_	Word	-	-	_	_	_	Terminal	_	_	_	_
+11	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+12	the	_	Word	-	-	_	_	_	_	F	_	_	_
+13	Lakers	_	Word	-	+	_	_	_	_	_	_	A	_
+14	had	_	Word	-	-	_	_	_	_	_	_	F	_
+15	home	_	Word	-	-	_	_	_	_	_	E	_	_
+16	court	_	Word	-	+	_	_	_	_	_	_	A	_
+17	advantage	_	Word	-	+	_	H	_	_	_	_	_	_
+18	in	_	Word	-	-	_	_	_	_	_	_	_	R
+19	the	_	Word	-	-	_	_	_	_	_	_	_	F
+20	five	_	Word	-	-	_	_	_	_	_	_	_	Q
+21	-	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+22	game	_	Word	-	+	_	_	_	_	_	_	A	_
+23	series	_	Word	-	-	_	_	_	_	_	_	_	E
+24	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
 

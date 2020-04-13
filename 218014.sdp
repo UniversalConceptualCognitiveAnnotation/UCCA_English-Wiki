@@ -1,6 +1,6 @@
 # format = ucca
 1	In	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_
-2	2008	_	Word	-	+	_	_	D	_	_	_	_	_	_	_	_
+2	2008	_	Word	-	+	_	_	T	_	_	_	_	_	_	_	_
 3	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_
 4	Dunst	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_
 5	starred	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
@@ -16,20 +16,20 @@
 15	Alienate	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_
 16	People	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_
 17	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_
-18	an	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_
-19	adaptation	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_
-20	of	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_
-21	the	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_
-22	memoir	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_
+18	an	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_
+19	adaptation	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_
+20	of	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_
+21	the	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_
+22	memoir	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_
 23	of	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_
-24	the	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_
+24	the	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_
 25	same	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_
 26	name	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_
 27	by	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
-28	former	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_
-29	Vanity	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_
+28	former	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	_
+29	Vanity	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_
 30	Fair	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_
-31	contributing	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_
+31	contributing	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	_
 32	editor	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E
 33	Toby	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_
 34	Young	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal

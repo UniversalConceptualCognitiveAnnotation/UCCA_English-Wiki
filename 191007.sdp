@@ -1,30 +1,43 @@
 # format = ucca
-1	Sorkin	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_
-2	's	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_
-3	last	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_
-4	produced	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_
-5	screenplay	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_
-6	for	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_
-7	Castle	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_
-8	Rock	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_
-9	was	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
-10	The	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_
-11	American	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_
-12	President	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_
-13	and	_	Word	-	-	_	_	_	_	L	_	_	_	_	_	_
-14	once	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_
-15	again	_	Word	-	+	_	_	_	_	_	_	_	D	_	_	_
-16	he	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	_
-17	worked	_	Word	-	+	_	_	_	_	H	_	_	_	_	_	_
-18	with	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_
-19	William	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_
-20	Goldman	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_
-21	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_
-22	who	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_
-23	served	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_
-24	as	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
-25	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E
-26	creative	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E
-27	consultant	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_
-28	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
+1	It	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_
+2	took	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_
+3	Sorkin	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_	_
+4	a	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_
+5	few	_	Word	-	-	_	Q	_	_	_	_	_	_	_	_	_	_
+6	years	_	Word	-	+	_	_	T	_	_	_	_	_	_	_	_	_
+7	to	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_
+8	write	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
+9	the	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_
+10	screenplay	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_
+11	for	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_
+12	The	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_
+13	American	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_
+14	President	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_
+15	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_
+16	which	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_
+17	started	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_
+18	off	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_
+19	as	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_
+20	a	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_
+21	massive	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_
+22	385	_	Word	-	-	_	_	_	_	_	_	Q	_	_	_	_	_
+23	-	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_
+24	page	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_
+25	screenplay	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_
+26	;	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_
+27	it	_	Word	-	-	_	_	_	_	_	_	_	_	A	_	_	_
+28	was	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_
+29	eventually	_	Word	-	-	_	_	_	_	_	_	_	_	D	_	_	_
+30	whittled	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_
+31	down	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_
+32	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_
+33	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_
+34	standard	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_
+35	shooting	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_
+36	script	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_
+37	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R
+38	around	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_
+39	120	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	Q
+40	pages	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_
+41	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
 

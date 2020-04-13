@@ -1,51 +1,51 @@
 # format = ucca
-1	He	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-2	runs	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	Magic	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-4	Johnson	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-5	Enterprises	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-6	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-7	a	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-8	company	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-9	that	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-10	has	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-11	a	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-12	net	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-13	worth	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-14	of	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_
-15	$	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-16	700	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_
-17	million	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-18	;	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-19	its	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-20	subsidiaries	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
-21	include	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-22	Magic	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-23	Johnson	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
-24	Productions	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
-25	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_
-26	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-27	promotional	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-28	company	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-29	;	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_
-30	Magic	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-31	Johnson	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
-32	Theaters	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	C	_	_	_	_	_	_	_	_
-33	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_
-34	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-35	nationwide	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-36	chain	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-37	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_
-38	movie	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-39	theaters	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-40	;	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_
-41	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	N	_	_	_	_	_	_	_	_
-42	Magic	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-43	Johnson	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
-44	Entertainment	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	C	_	_	_	_	_	_	_	_
-45	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_
-46	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-47	movie	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-48	studio	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-49	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	He	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	runs	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	Magic	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	Johnson	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	Enterprises	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	a	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_
+8	company	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	that	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_
+10	has	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_
+11	a	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_
+12	net	_	Word	-	-	_	_	_	_	D	_	_	_	_	_	_	_	_	_	_	_
+13	worth	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+14	of	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_
+15	$	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
+16	700	_	Word	-	+	_	_	_	_	_	Q	_	_	_	_	_	_	_	_	_	_
+17	million	_	Word	-	-	_	_	_	_	_	_	C	_	_	_	_	_	_	_	_	_
+18	;	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	its	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
+20	subsidiaries	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+21	include	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	Magic	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+23	Johnson	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
+24	Productions	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
+25	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_
+26	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_
+27	promotional	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+28	company	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
+29	;	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_
+30	Magic	_	Word	-	+	_	_	_	_	_	_	_	_	_	C	_	_	_	_	_	_
+31	Johnson	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_
+32	Theaters	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_
+33	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_
+34	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_
+35	nationwide	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+36	chain	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
+37	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_
+38	movie	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
+39	theaters	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+40	;	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_
+41	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	N	_	_	_	_	_	_
+42	Magic	_	Word	-	+	_	_	_	_	_	_	_	_	_	C	_	_	_	_	_	_
+43	Johnson	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_
+44	Entertainment	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_
+45	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_
+46	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F
+47	movie	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+48	studio	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+49	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

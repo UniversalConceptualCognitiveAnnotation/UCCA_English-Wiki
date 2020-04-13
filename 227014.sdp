@@ -1,29 +1,15 @@
 # format = ucca
-1	In	_	Word	-	-	_	R	_	_	_	_	_	_	_
-2	addition	_	Word	-	+	_	_	L	_	_	_	_	_	_
-3	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_
-4	he	_	Word	-	-	_	_	A	_	_	_	_	_	_
-5	has	_	Word	-	-	_	_	F	_	_	_	_	_	_
-6	assisted	_	Word	-	+	_	_	_	_	_	_	_	_	_
-7	Anthony	_	Word	-	+	_	_	A	_	_	_	_	_	_
-8	Szeto	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_
-9	in	_	Word	-	-	_	_	_	_	R	_	_	_	_
-10	an	_	Word	-	-	_	_	_	_	E	_	_	_	_
-11	advisory	_	Word	-	-	_	_	_	_	E	_	_	_	_
-12	capacity	_	Word	-	+	_	_	A	_	_	_	_	_	_
-13	for	_	Word	-	-	_	_	_	_	_	_	R	_	_
-14	the	_	Word	-	-	_	_	_	_	_	_	E	_	_
-15	writer	_	Word	-	+	_	_	_	_	_	_	E	_	_
-16	-	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_
-17	director	_	Word	-	-	_	_	_	_	_	C	_	_	_
-18	's	_	Word	-	-	_	_	_	_	_	R	_	_	_
-19	film	_	Word	-	-	_	_	_	_	_	_	E	_	_
-20	Wushu	_	Word	-	+	_	_	A	_	_	_	_	_	_
-21	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_
-22	released	_	Word	-	+	_	_	_	_	_	_	E	_	_
-23	on	_	Word	-	-	_	_	_	_	_	_	_	_	R
-24	1	_	Word	-	+	_	_	_	_	_	_	_	D	_
-25	May	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal
-26	2008	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal
-27	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+1	The	_	Word	-	-	_	F	_	_	_	_	_
+2	film	_	Word	-	+	_	_	A	_	_	_	_
+3	stars	_	Word	-	+	_	_	_	_	_	_	_
+4	Sammo	_	Word	-	+	_	_	A	_	_	_	_
+5	Hung	_	Word	-	-	_	_	_	Terminal	_	_	_
+6	and	_	Word	-	-	_	_	_	N	_	_	_
+7	Wang	_	Word	-	+	_	_	_	C	_	_	_
+8	Wenjie	_	Word	-	-	_	_	_	_	Terminal	_	_
+9	as	_	Word	-	-	_	_	_	_	_	R	_
+10	father	_	Word	-	+	_	_	A	_	_	_	_
+11	and	_	Word	-	-	_	_	_	_	_	N	_
+12	son	_	Word	-	+	_	_	_	_	_	C	_
+13	.	_	Punctuation	-	-	_	_	_	_	_	_	U
 

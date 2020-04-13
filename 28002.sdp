@@ -1,23 +1,21 @@
 # format = ucca
-1	His	_	Word	-	-	_	E	_	_	_	_	_	_
-2	television	_	Word	-	-	_	E	_	_	_	_	_	_
-3	debut	_	Word	-	+	_	_	A	_	_	_	_	_
-4	came	_	Word	-	+	_	_	_	_	_	_	_	_
-5	in	_	Word	-	-	_	_	_	R	_	_	_	_
-6	May	_	Word	-	+	_	_	D	_	_	_	_	_
-7	1987	_	Word	-	-	_	_	_	Terminal	_	_	_	_
-8	with	_	Word	-	-	_	_	_	_	_	R	_	_
-9	a	_	Word	-	-	_	_	_	_	_	E	_	_
-10	two	_	Word	-	-	_	_	_	_	E	_	_	_
-11	-	_	Punctuation	-	-	_	_	_	_	U	_	_	_
-12	episode	_	Word	-	+	_	_	_	_	_	E	_	_
-13	role	_	Word	-	+	_	_	A	_	_	_	_	_
-14	on	_	Word	-	-	_	_	_	_	_	_	_	R
-15	the	_	Word	-	-	_	_	_	_	_	_	_	E
-16	NBC	_	Word	-	-	_	_	_	_	_	_	_	E
-17	soap	_	Word	-	+	_	_	_	_	_	_	_	E
-18	opera	_	Word	-	-	_	_	_	_	_	_	Terminal	_
-19	Another	_	Word	-	+	_	_	_	_	_	E	_	_
-20	World	_	Word	-	-	_	_	_	_	_	_	_	Terminal
-21	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+1	His	_	Word	-	-	_	A	_	_	_	_
+2	television	_	Word	-	-	_	A	_	_	_	_
+3	debut	_	Word	-	+	_	_	_	_	_	_
+4	came	_	Word	-	-	_	D	_	_	_	_
+5	in	_	Word	-	-	_	_	R	_	_	_
+6	May	_	Word	-	+	_	T	_	_	_	_
+7	1987	_	Word	-	-	_	_	C	_	_	_
+8	with	_	Word	-	-	_	_	_	R	_	_
+9	a	_	Word	-	-	_	_	_	E	_	_
+10	two-episode	_	Word	-	-	_	_	_	E	_	_
+11	role	_	Word	-	+	_	A	_	_	_	_
+12	on	_	Word	-	-	_	_	_	_	_	R
+13	the	_	Word	-	-	_	_	_	_	E	_
+14	NBC	_	Word	-	-	_	_	_	_	E	_
+15	soap	_	Word	-	+	_	_	_	_	_	E
+16	opera	_	Word	-	-	_	_	_	_	Terminal	_
+17	Another	_	Word	-	+	_	_	_	E	_	_
+18	World	_	Word	-	-	_	_	_	_	_	Terminal
+19	.	_	Punctuation	-	-	_	_	_	_	_	U
 

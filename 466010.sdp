@@ -1,31 +1,31 @@
 # format = ucca
-1	His	_	Word	-	-	_	E	_	_	_	_	_	_	_
-2	friendship	_	Word	-	+	_	_	_	_	_	_	_	_	A
-3	and	_	Word	-	-	_	N	_	_	_	_	_	_	_
-4	rivalry	_	Word	-	-	_	C	_	_	_	_	_	_	_
-5	with	_	Word	-	-	_	_	_	_	R	_	_	_	_
-6	Boston	_	Word	-	+	_	_	_	E	_	_	_	_	_
-7	Celtics	_	Word	-	-	_	_	C	_	_	_	_	_	_
-8	star	_	Word	-	+	_	_	_	_	E	_	_	_	_
-9	Larry	_	Word	-	+	_	E	_	_	_	_	_	_	_
-10	Bird	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_
-11	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_
-12	whom	_	Word	-	-	_	_	_	_	_	F	_	_	_
-13	he	_	Word	-	-	_	_	_	_	_	A	_	_	_
-14	faced	_	Word	-	+	_	_	_	_	E	_	_	_	_
-15	in	_	Word	-	-	_	_	_	_	_	_	R	_	_
-16	the	_	Word	-	-	_	_	_	_	_	_	E	_	_
-17	1979	_	Word	-	-	_	_	_	_	_	_	E	_	_
-18	NCAA	_	Word	-	-	_	_	_	_	_	_	E	_	_
-19	finals	_	Word	-	+	_	_	_	_	_	A	_	_	_
-20	and	_	Word	-	-	_	_	_	_	_	_	N	_	_
-21	three	_	Word	-	-	_	_	_	_	_	_	_	E	_
-22	NBA	_	Word	-	-	_	_	_	_	_	_	_	E	_
-23	championship	_	Word	-	-	_	_	_	_	_	_	_	E	_
-24	series	_	Word	-	+	_	_	_	_	_	_	C	_	_
-25	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
-26	were	_	Word	-	-	_	_	_	_	_	_	_	_	F
-27	well	_	Word	-	-	_	_	_	_	_	_	_	_	D
-28	documented	_	Word	-	+	_	_	_	_	_	_	_	_	_
-29	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+1	His	_	Word	-	-	_	A	A*	_	_	_	_	_	_	_
+2	friendship	_	Word	-	+	_	_	_	_	_	_	_	_	_	A
+3	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_
+4	rivalry	_	Word	-	+	_	H	_	_	_	_	_	_	_	_
+5	with	_	Word	-	-	_	_	_	_	_	R	_	_	_	_
+6	Boston	_	Word	-	+	_	_	_	_	A	_	_	_	_	_
+7	Celtics	_	Word	-	-	_	_	_	C	_	_	_	_	_	_
+8	star	_	Word	-	+	_	_	_	_	_	E	_	_	_	_
+9	Larry	_	Word	-	+	_	A	A*	_	_	_	_	_	_	_
+10	Bird	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_
+11	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_
+12	whom	_	Word	-	-	_	_	_	_	_	_	R	_	_	_
+13	he	_	Word	-	-	_	_	_	_	_	_	A	_	_	_
+14	faced	_	Word	-	+	_	_	_	_	_	E	_	_	_	_
+15	in	_	Word	-	-	_	_	_	_	_	_	_	R	_	_
+16	the	_	Word	-	-	_	_	_	_	_	_	_	E	_	_
+17	1979	_	Word	-	-	_	_	_	_	_	_	_	E	_	_
+18	NCAA	_	Word	-	-	_	_	_	_	_	_	_	E	_	_
+19	finals	_	Word	-	+	_	_	_	_	_	_	A	_	_	_
+20	and	_	Word	-	-	_	_	_	_	_	_	_	N	_	_
+21	three	_	Word	-	-	_	_	_	_	_	_	_	_	Q	_
+22	NBA	_	Word	-	-	_	_	_	_	_	_	_	_	E	_
+23	championship	_	Word	-	-	_	_	_	_	_	_	_	_	E	_
+24	series	_	Word	-	+	_	_	_	_	_	_	_	C	_	_
+25	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+26	were	_	Word	-	-	_	_	_	_	_	_	_	_	_	F
+27	well	_	Word	-	-	_	_	_	_	_	_	_	_	_	D
+28	documented	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+29	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
 

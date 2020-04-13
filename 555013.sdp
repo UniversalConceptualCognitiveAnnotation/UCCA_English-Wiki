@@ -1,57 +1,57 @@
 # format = ucca
-1	He	_	Word	-	-	_	A	A*	A*	_	_	_	_	_	_	_	_	_	_	_	_
-2	was	_	Word	-	-	_	D	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	generally	_	Word	-	-	_	D	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-4	too	_	Word	-	-	_	D	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-5	shy	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-6	to	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-7	perform	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-8	openly	_	Word	-	-	_	_	D	_	_	_	_	_	_	_	_	_	_	_	_	_
-9	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-10	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-11	was	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_
-12	occasionally	_	Word	-	-	_	_	_	D	_	_	_	_	_	_	_	_	_	_	_	_
-13	bullied	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-14	by	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_
-15	classmates	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
-16	who	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_
-17	viewed	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-18	him	_	Word	-	-	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
-19	as	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-20	a	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-21	"	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_
-22	mama	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-23	's	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_
-24	boy	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
-25	"	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-26	.	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-27	In	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_
-28	1950	_	Word	-	+	_	_	_	_	_	_	_	_	_	D	_	_	_	_	_	_
-29	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_
-30	he	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
-31	began	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_
-32	practicing	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	_	_	_	_	_	_
-33	guitar	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-34	regularly	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	_	_	_	_	_	_
-35	under	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
-36	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-37	tutelage	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
-38	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_
-39	Jesse	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-40	Lee	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_
-41	Denson	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_
-42	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_
-43	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-44	neighbor	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-45	two	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-46	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_
-47	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
-48	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_
-49	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
-50	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_
-51	half	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
-52	years	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-53	his	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-54	senior	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-55	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	He	_	Word	-	-	_	A	A*	A*	_	_	_	_	_	_	_	_	_	_	_
+2	was	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	generally	_	Word	-	-	_	D	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	too	_	Word	-	-	_	D	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	shy	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	to	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	perform	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	openly	_	Word	-	-	_	_	D	_	_	_	_	_	_	_	_	_	_	_	_
+9	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	was	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_
+12	occasionally	_	Word	-	-	_	_	_	T	_	_	_	_	_	_	_	_	_	_	_
+13	bullied	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	by	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_
+15	classmates	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
+16	who	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_
+17	viewed	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+18	him	_	Word	-	-	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
+19	as	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_
+20	a	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_
+21	"	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_
+22	mama	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
+23	's	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
+24	boy	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
+25	"	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+26	.	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+27	In	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_
+28	1950	_	Word	-	+	_	_	_	_	_	_	_	_	T	_	_	_	_	_	_
+29	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_
+30	he	_	Word	-	-	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
+31	began	_	Word	-	-	_	_	_	_	_	_	_	_	D	_	_	_	_	_	_
+32	practicing	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
+33	guitar	_	Word	-	-	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
+34	regularly	_	Word	-	-	_	_	_	_	_	_	_	_	T	_	_	_	_	_	_
+35	under	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_
+36	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+37	tutelage	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
+38	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_
+39	Jesse	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
+40	Lee	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_
+41	Denson	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_
+42	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_
+43	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+44	neighbor	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A*
+45	two	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	Q	_
+46	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_
+47	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
+48	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_
+49	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
+50	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_
+51	half	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
+52	years	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	T
+53	his	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A
+54	senior	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+55	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

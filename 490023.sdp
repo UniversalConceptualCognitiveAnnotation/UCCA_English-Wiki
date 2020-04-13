@@ -2,7 +2,7 @@
 1	Bana	_	Word	-	-	_	A	_	_	_	_	_	_	_	_
 2	completed	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
 3	a	_	Word	-	-	_	_	E	_	_	_	_	_	_	_
-4	lap	_	Word	-	+	_	A	_	_	_	_	_	_	A*	_
+4	lap	_	Word	-	+	_	A	_	_	_	_	_	_	_	_
 5	of	_	Word	-	-	_	_	_	_	R	_	_	_	_	_
 6	the	_	Word	-	-	_	_	_	_	E	_	_	_	_	_
 7	Top	_	Word	-	+	_	_	_	_	E	_	_	_	_	_
@@ -10,7 +10,7 @@
 9	test	_	Word	-	-	_	_	_	_	E	_	_	_	_	_
 10	track	_	Word	-	+	_	_	E	_	_	_	_	_	_	_
 11	in	_	Word	-	-	_	_	_	_	_	R	_	_	_	_
-12	1	_	Word	-	+	_	A	_	_	_	_	_	_	_	_
+12	1	_	Word	-	+	_	T	_	_	_	_	_	_	_	_
 13	-	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_
 14	minute	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_
 15	and	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_
@@ -22,13 +22,13 @@
 21	track	_	Word	-	+	_	A	_	_	_	_	_	_	_	_
 22	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
 23	the	_	Word	-	-	_	_	_	_	_	_	_	E	_	_
-24	fastest	_	Word	-	-	_	_	_	_	_	_	_	E	_	_
-25	wet	_	Word	-	-	_	_	_	_	_	_	_	E	_	_
-26	lap	_	Word	-	+	_	_	_	_	_	_	_	_	A	_
-27	ever	_	Word	-	-	_	_	_	_	_	_	_	_	D	_
-28	recorded	_	Word	-	+	_	H	_	_	_	_	_	_	_	_
+24	fastest	_	Word	-	+	_	H	_	_	_	_	_	_	_	_
+25	wet	_	Word	-	-	_	_	_	_	_	_	_	_	E	_
+26	lap	_	Word	-	+	_	_	_	_	_	_	_	A	_	_
+27	ever	_	Word	-	-	_	_	_	_	_	_	_	T	_	_
+28	recorded	_	Word	-	-	_	_	_	_	_	_	_	D	_	_
 29	at	_	Word	-	-	_	_	_	_	_	_	_	_	_	R
 30	that	_	Word	-	-	_	_	_	_	_	_	_	_	_	E
-31	time	_	Word	-	+	_	_	_	_	_	_	_	_	D	_
+31	time	_	Word	-	+	_	_	_	_	_	_	_	T	_	_
 32	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
 

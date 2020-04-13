@@ -1,35 +1,35 @@
 # format = ucca
-1	Born	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-2	in	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_
-3	New	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-4	York	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
-5	City	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_
-6	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-7	her	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-8	mother	_	Word	-	+	_	A*	_	_	_	_	_	_	_	A*	_	_	_	_
-9	is	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_	_	_	_
-10	Jewish	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_
-11	with	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_
-12	both	_	Word	-	+	_	_	_	_	_	_	_	N	_	_	_	_	_	_
-13	Russian	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-14	and	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-15	Lithuanian	_	Word	-	-	_	_	_	_	_	_	_	C	_	_	_	_	_	_
-16	ancestry	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-17	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_
-18	is	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_	_	_
-19	divorced	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_
-20	from	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_
-21	Eric	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_
-22	Foner	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
-23	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_
-24	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-25	noted	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	D	_	_
-26	historian	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-27	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	N	_	_
-28	history	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-29	professor	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	C	_	_
-30	at	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R
-31	Columbia	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-32	University	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_
-33	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	Born	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
+2	in	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_
+3	New	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_
+4	York	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_
+5	City	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_
+6	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_
+7	her	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_
+8	mother	_	Word	-	-	_	A*	_	A	_	_	A*	A*	_	_	_	_
+9	is	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_	_
+10	Jewish	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_
+11	with	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_
+12	both	_	Word	-	-	_	_	_	_	_	Q	_	_	_	_	_	_
+13	Russian	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_
+14	and	_	Word	-	-	_	_	_	_	_	N	_	_	_	_	_	_
+15	Lithuanian	_	Word	-	-	_	_	_	_	_	C	_	_	_	_	_	_
+16	ancestry	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_
+17	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_
+18	is	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_	_
+19	divorced	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_
+20	from	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_
+21	Eric	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_
+22	Foner	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_
+23	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_
+24	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_
+25	noted	_	Word	-	-	_	_	_	_	_	_	_	_	_	G	_	_
+26	historian	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_
+27	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	N	_	_
+28	history	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A	_
+29	professor	_	Word	-	+	_	_	_	_	_	_	_	_	_	C	_	_
+30	at	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R
+31	Columbia	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E
+32	University	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_
+33	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
 

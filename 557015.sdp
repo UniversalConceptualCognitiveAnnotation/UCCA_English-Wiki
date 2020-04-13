@@ -1,42 +1,28 @@
 # format = ucca
-1	As	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_
-2	Keisker	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_
-3	reported	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
-4	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_
-5	"	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_
-6	Over	_	Word	-	+	_	_	_	_	D	_	_	_	_	_	_	_
-7	and	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_
-8	over	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_
-9	I	_	Word	-	-	_	_	_	A	_	_	_	_	_	_	_	_
-10	remember	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_
-11	Sam	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_	_
-12	saying	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_
-13	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_
-14	'	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_
-15	If	_	Word	-	-	_	_	_	_	_	L	_	_	_	_	_	_
-16	I	_	Word	-	-	_	_	_	_	_	A	_	_	_	_	_	_
-17	could	_	Word	-	-	_	_	_	_	_	D	_	_	_	_	_	_
-18	find	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_
-19	a	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_
-20	white	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_
-21	man	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_
-22	who	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_	_
-23	had	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_
-24	the	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_
-25	Negro	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_
-26	sound	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_
-27	and	_	Word	-	-	_	_	_	_	_	_	_	_	N	_	_	_
-28	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_
-29	Negro	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_
-30	feel	_	Word	-	+	_	_	_	_	_	_	_	_	C	_	_	_
-31	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_
-32	I	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A	_
-33	could	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D	_
-34	make	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_	_
-35	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E
-36	billion	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E
-37	dollars	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_
-38	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
-39	'	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
-40	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
+1	In	_	Word	-	-	_	R	_	_	_	_	_	_	_	_
+2	June	_	Word	-	+	_	_	T	_	_	_	_	_	_	_
+3	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_
+4	he	_	Word	-	-	_	_	A	_	_	_	_	_	_	_
+5	acquired	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+6	a	_	Word	-	-	_	_	_	E	_	_	_	_	_	_
+7	demo	_	Word	-	-	_	_	_	E	_	_	_	_	_	_
+8	recording	_	Word	-	+	_	_	A	_	_	_	_	_	_	_
+9	of	_	Word	-	-	_	_	_	_	_	R	_	_	_	_
+10	a	_	Word	-	-	_	_	_	_	E	_	_	_	_	_
+11	ballad	_	Word	-	+	_	_	_	_	_	E	_	_	_	_
+12	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_
+13	"	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_
+14	Without	_	Word	-	+	_	_	_	E	_	_	_	_	_	_
+15	You	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_
+16	"	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_
+17	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_
+18	that	_	Word	-	-	_	_	_	_	_	_	R	_	_	_
+19	he	_	Word	-	-	_	_	_	_	_	_	A	_	_	_
+20	thought	_	Word	-	+	_	_	_	E	_	_	_	_	_	_
+21	might	_	Word	-	-	_	_	_	_	_	_	_	D	_	_
+22	suit	_	Word	-	+	_	_	_	_	_	_	A	_	_	_
+23	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E
+24	teenaged	_	Word	-	+	_	_	_	_	_	_	_	_	_	E
+25	singer	_	Word	-	+	_	_	_	_	_	_	_	_	A*	_
+26	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_
 

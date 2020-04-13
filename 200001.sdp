@@ -1,13 +1,13 @@
 # format = ucca
 1	On	_	Word	-	-	_	R	_	_	_	_	_	_
-2	July	_	Word	-	-	_	E	_	_	_	_	_	_
-3	12	_	Word	-	-	_	E	_	_	_	_	_	_
+2	July	_	Word	-	+	_	_	T	_	_	_	_	_
+3	12	_	Word	-	-	_	C	_	_	_	_	_	_
 4	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_
-5	2007	_	Word	-	+	_	_	D	_	_	_	_	_
+5	2007	_	Word	-	-	_	C	_	_	_	_	_	_
 6	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_
 7	Variety	_	Word	-	-	_	_	A	_	_	_	_	_
 8	reported	_	Word	-	+	_	_	_	_	_	_	_	_
-9	that	_	Word	-	-	_	_	_	F	_	_	_	_
+9	that	_	Word	-	-	_	_	_	R	_	_	_	_
 10	Sorkin	_	Word	-	-	_	_	_	A	_	_	A*	_
 11	had	_	Word	-	-	_	_	_	F	_	_	_	_
 12	signed	_	Word	-	+	_	_	A	_	_	_	_	_
@@ -15,9 +15,9 @@
 14	deal	_	Word	-	+	_	_	_	A	_	_	_	_
 15	with	_	Word	-	-	_	_	_	_	_	R	_	_
 16	DreamWorks	_	Word	-	+	_	_	_	_	E	_	_	_
-17	to	_	Word	-	-	_	_	_	_	_	_	F	_
+17	to	_	Word	-	-	_	_	_	_	_	_	R	_
 18	write	_	Word	-	+	_	_	_	A	_	_	_	_
-19	three	_	Word	-	-	_	_	_	_	_	_	_	E
+19	three	_	Word	-	-	_	_	_	_	_	_	_	Q
 20	scripts	_	Word	-	+	_	_	_	_	_	_	A	_
 21	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
 

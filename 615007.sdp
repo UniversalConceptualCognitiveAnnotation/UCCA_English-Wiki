@@ -1,47 +1,20 @@
 # format = ucca
-1	McCartney	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_	_
-2	stated	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	that	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_	_	_
-4	for	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_
-5	his	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_	_	_	_
-6	bassline	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_
-7	for	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_
-8	"	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_
-9	I	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_
-10	Saw	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
-11	Her	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
-12	Standing	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
-13	There	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
-14	"	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_
-15	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_
-16	he	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_	_	_	_
-17	directly	_	Word	-	-	_	_	_	_	D	_	_	_	_	_	_	_	_	_
-18	quoted	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_
-19	Berry	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-20	's	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_
-21	"	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_
-22	I	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_
-23	'm	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_
-24	Talking	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_
-25	About	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_
-26	You	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_
-27	"	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-28	.	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-29	McCartney	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	_	_	_	_
-30	called	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_
-31	Little	_	Word	-	+	_	_	_	_	_	_	_	A	_	A*	_	_	_	_
-32	Richard	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_
-33	an	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-34	idol	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_
-35	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_
-36	whose	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-37	falsetto	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-38	vocalizations	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_
-39	inspired	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-40	McCartney	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-41	's	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_
-42	own	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-43	vocal	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-44	technique	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_
-45	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	McCartney	_	Word	-	-	_	A	_	_	_	_	_
+2	said	_	Word	-	+	_	_	_	_	_	_	_
+3	he	_	Word	-	-	_	_	A	_	_	_	_
+4	wrote	_	Word	-	+	_	A	_	_	_	_	_
+5	"	_	Punctuation	-	-	_	_	U	_	_	_	_
+6	I	_	Word	-	+	_	_	A	_	_	_	_
+7	'm	_	Word	-	-	_	_	_	Terminal	_	_	_
+8	Down	_	Word	-	-	_	_	_	Terminal	_	_	_
+9	"	_	Punctuation	-	-	_	_	U	_	_	_	_
+10	as	_	Word	-	-	_	_	_	_	R	_	_
+11	a	_	Word	-	-	_	_	_	_	F	_	_
+12	vehicle	_	Word	-	+	_	_	A	_	_	_	_
+13	for	_	Word	-	-	_	_	_	_	_	_	R
+14	his	_	Word	-	-	_	_	_	_	_	_	A
+15	Little	_	Word	-	+	_	_	_	_	_	_	A
+16	Richard	_	Word	-	-	_	_	_	_	_	Terminal	_
+17	impersonation	_	Word	-	+	_	_	_	_	E	_	_
+18	.	_	Punctuation	-	-	_	_	_	_	_	_	U
 

@@ -1,33 +1,33 @@
 # format = ucca
-1	She	_	Word	-	-	_	A	_	A*	_	_	_	_	_
-2	did	_	Word	-	-	_	F	_	_	_	_	_	_	_
-3	not	_	Word	-	-	_	D	_	_	_	_	_	_	_
-4	work	_	Word	-	+	_	_	_	_	_	_	_	_	_
-5	for	_	Word	-	-	_	_	R	_	_	_	_	_	_
-6	two	_	Word	-	-	_	_	E	_	_	_	_	_	_
-7	years	_	Word	-	+	_	D	_	_	_	_	_	_	_
-8	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_
-9	saying	_	Word	-	+	_	H	_	_	_	_	_	_	_
-10	in	_	Word	-	-	_	_	_	_	R	_	_	_	_
-11	a	_	Word	-	-	_	_	_	_	E	_	_	_	_
-12	television	_	Word	-	-	_	_	_	_	E	_	_	_	_
-13	interview	_	Word	-	+	_	_	_	A	_	_	_	_	_
-14	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_
-15	"	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_
-16	I	_	Word	-	-	_	_	_	_	_	A	_	_	_
-17	've	_	Word	-	-	_	_	_	_	_	F	_	_	_
-18	had	_	Word	-	-	_	_	_	_	_	F	_	_	_
-19	my	_	Word	-	-	_	_	_	_	_	E	_	_	_
-20	day	_	Word	-	+	_	_	_	A	_	_	_	_	_
-21	-	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_
-22	let	_	Word	-	-	_	_	_	_	_	_	_	D	_
-23	the	_	Word	-	-	_	_	_	_	_	_	E	_	_
-24	kids	_	Word	-	+	_	_	_	_	_	_	_	A	_
-25	scramble	_	Word	-	+	_	_	_	A	_	_	_	_	_
-26	and	_	Word	-	-	_	_	_	_	_	_	_	N	_
-27	sweat	_	Word	-	+	_	_	_	_	_	_	_	C	_
-28	it	_	Word	-	-	_	_	_	_	_	_	_	_	F
-29	out	_	Word	-	-	_	_	_	_	_	_	_	_	E
-30	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
-31	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+1	She	_	Word	-	-	_	A	_	A*	_	_	_	_	_	_
+2	did	_	Word	-	-	_	F	_	_	_	_	_	_	_	_
+3	not	_	Word	-	-	_	D	_	_	_	_	_	_	_	_
+4	work	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+5	for	_	Word	-	-	_	_	R	_	_	_	_	_	_	_
+6	two	_	Word	-	-	_	_	Q	_	_	_	_	_	_	_
+7	years	_	Word	-	+	_	T	_	_	_	_	_	_	_	_
+8	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
+9	saying	_	Word	-	+	_	H	_	_	_	_	_	_	_	_
+10	in	_	Word	-	-	_	_	_	_	R	_	_	_	_	_
+11	a	_	Word	-	-	_	_	_	_	E	_	_	_	_	_
+12	television	_	Word	-	-	_	_	_	_	A	_	_	_	_	_
+13	interview	_	Word	-	+	_	_	_	A	_	_	_	_	_	_
+14	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_
+15	"	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_
+16	I	_	Word	-	-	_	_	_	_	_	A	_	_	_	_
+17	've	_	Word	-	-	_	_	_	_	_	F	_	_	_	_
+18	had	_	Word	-	+	_	_	_	A	_	_	_	_	_	_
+19	my	_	Word	-	-	_	_	_	_	_	_	E	_	_	_
+20	day	_	Word	-	+	_	_	_	_	_	A	_	_	_	_
+21	â	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_
+22	let	_	Word	-	-	_	_	_	_	_	_	_	_	F	_
+23	the	_	Word	-	-	_	_	_	_	_	_	_	E	_	_
+24	kids	_	Word	-	+	_	_	_	_	_	_	_	_	A	A*
+25	scramble	_	Word	-	+	_	_	_	A	_	_	_	_	_	_
+26	and	_	Word	-	-	_	_	_	_	_	_	_	_	L	_
+27	sweat	_	Word	-	+	_	_	_	_	_	_	_	_	H	_
+28	it	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal
+29	out	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal
+30	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+31	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
 

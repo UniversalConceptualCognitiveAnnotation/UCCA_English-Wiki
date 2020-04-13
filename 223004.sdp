@@ -1,65 +1,65 @@
 # format = ucca
-1	At	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-2	the	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	age	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-4	of	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-5	seventeen	_	Word	-	+	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-6	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-7	he	_	Word	-	-	_	A*	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-8	worked	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-9	as	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-10	a	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-11	stuntman	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-12	in	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_
-13	the	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-14	Bruce	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-15	Lee	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_
-16	films	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-17	Fist	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-18	of	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_
-19	Fury	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_
-20	and	_	Word	-	-	_	_	_	_	_	_	N	_	_	_	_	_	_	_	_	_	_	_	_
-21	Enter	_	Word	-	+	_	_	_	_	_	_	C	_	_	_	_	_	_	_	_	_	_	_	_
-22	the	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
-23	Dragon	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
-24	under	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_
-25	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-26	stage	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-27	name	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-28	Chan	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-29	Yuen	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
-30	Lung	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
-31	(	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_
-32	Chinese	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-33	:	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-34	陳元龍	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-35	)	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-36	.	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-37	He	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
-38	received	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-39	his	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-40	first	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-41	starring	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-42	role	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
-43	later	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
-44	that	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-45	year	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	D	_	_	_	_	_	_	_	_
-46	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_
-47	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_
-48	Little	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
-49	Tiger	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_
-50	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_
-51	Canton	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_
-52	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_
-53	which	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_
-54	had	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-55	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-56	limited	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-57	release	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
-58	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
-59	Hong	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
-60	Kong	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_
-61	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
-62	1973	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_	_	_
-63	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	At	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	the	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	age	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	of	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	seventeen	_	Word	-	+	_	D	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	he	_	Word	-	-	_	A*	_	A	_	_	_	A*	_	_	_	_	_	_	_	_
+8	worked	_	Word	-	-	_	_	_	D	_	_	_	_	_	_	_	_	_	_	_	_
+9	as	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_
+10	a	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_
+11	stuntman	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	in	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_
+13	the	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_
+14	Bruce	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+15	Lee	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
+16	films	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+17	Fist	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
+18	of	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
+19	Fury	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
+20	and	_	Word	-	-	_	_	_	_	_	N	_	_	_	_	_	_	_	_	_	_
+21	Enter	_	Word	-	+	_	_	_	_	_	C	_	_	_	_	_	_	_	_	_	_
+22	the	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
+23	Dragon	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
+24	under	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_
+26	stage	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
+27	name	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
+28	Chan	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
+29	Yuen	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
+30	Lung	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
+31	(	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_
+32	Chinese	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
+33	:	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+34	陳元龍	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+35	)	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+36	.	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+37	He	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
+38	received	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D	_	_	_	_	_
+39	his	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_
+40	first	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D	_	_	_	_	_
+41	starring	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D	_	_	_	_	_
+42	role	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+43	later	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_
+44	that	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
+45	year	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	T	_	_	_	_	_
+46	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_
+47	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_
+48	Little	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
+49	Tiger	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
+50	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
+51	Canton	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
+52	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_
+53	which	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_
+54	had	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_
+55	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_
+56	limited	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_	_
+57	release	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+58	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
+59	Hong	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+60	Kong	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_
+61	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+62	1973	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	T	_	_
+63	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

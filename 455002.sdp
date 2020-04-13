@@ -1,39 +1,39 @@
 # format = ucca
-1	b	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_	_
-2	]	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_
-3	In	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_
-4	June	_	Word	-	+	_	_	_	_	_	_	_	D	_	_	_	_
-5	1984	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_
-6	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_
-7	Jennings	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_
-8	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_
-9	who	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_
-10	later	_	Word	-	-	_	_	_	D	_	_	_	_	_	_	_	_
-11	admitted	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_	_
-12	that	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_	_
-13	his	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_
-14	political	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_
-15	knowledge	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_
-16	was	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_	_
-17	limited	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_
-18	at	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_
-19	the	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_
-20	time	_	Word	-	+	_	_	_	_	_	D	_	_	_	_	_	_
-21	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_
-22	co	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_
-23	-	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_
-24	anchored	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
-25	ABC	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_
-26	's	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_
-27	coverage	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_
-28	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_
-29	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_
-30	Democratic	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_
-31	National	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_
-32	Convention	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_
-33	with	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R
-34	David	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_
-35	Brinkley	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal
-36	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
-37	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
+1	b	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_
+2	]	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_
+3	In	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_
+4	June	_	Word	-	+	_	_	_	_	_	_	T	_	_	_	_
+5	1984	_	Word	-	-	_	C	_	_	_	_	_	_	_	_	_
+6	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_
+7	Jennings	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_
+8	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_
+9	who	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_
+10	later	_	Word	-	-	_	_	_	T	_	_	_	_	_	_	_
+11	admitted	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_
+12	that	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_
+13	his	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_
+14	political	_	Word	-	-	_	_	_	_	D	_	_	_	_	_	_
+15	knowledge	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_
+16	was	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_
+17	limited	_	Word	-	-	_	_	_	_	D	_	_	_	_	_	_
+18	at	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_
+19	the	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_
+20	time	_	Word	-	+	_	_	_	_	T	_	_	_	_	_	_
+21	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_
+22	co	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_
+23	-	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_
+24	anchored	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+25	ABC	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_
+26	's	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_
+27	coverage	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_
+28	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_
+29	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_
+30	Democratic	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_
+31	National	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_
+32	Convention	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_
+33	with	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
+34	David	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_
+35	Brinkley	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal
+36	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
+37	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
 

@@ -1,31 +1,31 @@
 # format = ucca
-1	Shooting	_	Word	-	-	_	A	_	A*	_	_	_	_
-2	commenced	_	Word	-	+	_	_	_	_	_	_	_	_
-3	on	_	Word	-	-	_	_	R	_	_	_	_	_
-4	October	_	Word	-	+	_	D	_	_	_	_	_	_
-5	13	_	Word	-	-	_	_	Terminal	_	_	_	_	_
-6	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_
-7	1938	_	Word	-	-	_	_	Terminal	_	_	_	_	_
-8	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_
-9	and	_	Word	-	-	_	L	_	_	_	_	_	_
-10	was	_	Word	-	-	_	_	_	F	_	_	_	_
-11	completed	_	Word	-	+	_	H	_	_	_	_	_	_
-12	on	_	Word	-	-	_	_	_	_	R	_	_	_
-13	March	_	Word	-	+	_	_	_	D	_	_	_	_
-14	16	_	Word	-	-	_	_	_	_	Terminal	_	_	_
-15	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_
-16	1939	_	Word	-	-	_	_	_	_	Terminal	_	_	_
-17	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_
-18	with	_	Word	-	-	_	L	_	_	_	_	_	_
-19	a	_	Word	-	-	_	_	_	_	_	E	_	_
-20	final	_	Word	-	-	_	_	_	_	_	E	_	_
-21	cost	_	Word	-	+	_	H	_	_	_	_	_	_
-22	of	_	Word	-	-	_	_	_	_	_	_	_	R
-23	more	_	Word	-	+	_	_	_	_	_	_	_	E
-24	than	_	Word	-	-	_	_	_	_	_	_	R	_
-25	US	_	Word	-	+	_	_	_	_	_	A	_	_
-26	$	_	Word	-	-	_	_	_	_	_	_	_	Terminal
-27	2	_	Word	-	-	_	_	_	_	_	_	_	Terminal
-28	million	_	Word	-	-	_	_	_	_	_	_	_	Terminal
-29	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+1	Shooting	_	Word	-	+	_	_	_	_	_	_	_	_	_
+2	commenced	_	Word	-	-	_	D	_	_	_	_	_	_	_
+3	on	_	Word	-	-	_	_	R	_	_	_	_	_	_
+4	October	_	Word	-	+	_	T	_	_	_	_	_	_	_
+5	13	_	Word	-	-	_	_	C	_	_	_	_	_	_
+6	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_
+7	1938	_	Word	-	-	_	_	C	_	_	_	_	_	_
+8	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_
+9	and	_	Word	-	-	_	L	_	_	_	_	_	_	_
+10	was	_	Word	-	-	_	_	_	F	_	_	_	_	_
+11	completed	_	Word	-	+	_	H	_	_	_	_	_	_	_
+12	on	_	Word	-	-	_	_	_	_	R	_	_	_	_
+13	March	_	Word	-	+	_	_	_	T	_	_	_	_	_
+14	16	_	Word	-	-	_	_	_	_	C	_	_	_	_
+15	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_
+16	1939	_	Word	-	-	_	_	_	_	C	_	_	_	_
+17	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_
+18	with	_	Word	-	-	_	L	_	_	_	_	_	_	_
+19	a	_	Word	-	-	_	_	_	_	_	F	_	_	_
+20	final	_	Word	-	-	_	_	_	_	_	D	_	_	_
+21	cost	_	Word	-	+	_	H	_	_	_	_	_	_	_
+22	of	_	Word	-	-	_	_	_	_	_	_	_	_	R
+23	more	_	Word	-	+	_	_	_	_	_	_	_	_	E
+24	than	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_
+25	2	_	Word	-	+	_	_	_	_	_	_	_	_	Q
+26	million	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_
+27	US	_	Word	-	-	_	_	_	_	_	_	_	_	E
+28	$	_	Word	-	+	_	_	_	_	_	A	_	_	_
+29	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
 

@@ -1,40 +1,40 @@
 # format = ucca
-1	In	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_
-2	2005	_	Word	-	+	_	_	D	_	_	_	_	_	_	_	_	_
-3	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_
-4	he	_	Word	-	-	_	_	A	_	_	A*	_	_	_	_	_	_
-5	voiced	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
-6	a	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_
-7	horse	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_
-8	in	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_
-9	Racing	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_
-10	Stripes	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_
-11	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_
-12	and	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_
-13	appeared	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_
-14	in	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_
-15	cameo	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_
-16	roles	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_
-17	in	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_
-18	Andy	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_
-19	García	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_
-20	's	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_
-21	The	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_
-22	Lost	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_
-23	City	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_
-24	and	_	Word	-	-	_	_	_	_	_	_	_	_	N	_	_	_
-25	on	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_
-26	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_
-27	final	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_
-28	episode	_	Word	-	+	_	_	_	_	_	_	_	_	C	_	_	_
-29	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_
-30	HBO	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_
-31	sitcom	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_
-32	Curb	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_
-33	Your	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_
-34	Enthusiasm	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_
-35	's	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_
-36	fifth	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E
-37	season	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_
-38	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
+1	In	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_	_
+2	2005	_	Word	-	+	_	_	T	_	_	_	_	_	_	_	_	_	_
+3	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_
+4	he	_	Word	-	-	_	_	A	_	_	A*	_	_	_	_	_	_	_
+5	voiced	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	a	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_	_
+7	horse	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_
+8	in	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_
+9	Racing	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_
+10	Stripes	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
+11	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_
+12	and	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_
+13	appeared	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_
+14	in	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_
+15	cameo	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_
+16	roles	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_
+17	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_
+18	Andy	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_
+19	García	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_
+20	's	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_	_
+21	The	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_
+22	Lost	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
+23	City	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
+24	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	N	_	_	_
+25	on	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_
+26	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_	_
+27	final	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_
+28	episode	_	Word	-	+	_	_	_	_	_	_	_	_	_	C	_	_	_
+29	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_
+30	HBO	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_
+31	sitcom	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_
+32	Curb	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_	_
+33	Your	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_
+34	Enthusiasm	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_
+35	's	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_
+36	fifth	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Q
+37	season	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_
+38	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
 

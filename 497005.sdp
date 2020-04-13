@@ -1,45 +1,28 @@
 # format = ucca
-1	Elsewhere	_	Word	-	-	_	_	D	_	_	_	_	_	_	_	_	_
-2	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_
-3	the	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_
-4	album	_	Word	-	+	_	_	_	_	A*	_	_	_	_	_	_	_
-5	explored	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
-6	more	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_
-7	serious	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_
-8	themes	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_
-9	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_
-10	and	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_
-11	found	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_
-12	Bowie	_	Word	-	-	_	_	_	_	_	A	_	_	_	_	_	_
-13	paying	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_	_
-14	unusually	_	Word	-	-	_	_	_	_	_	D	_	_	_	_	_	_
-15	direct	_	Word	-	-	_	_	_	_	_	D	_	_	_	_	_	_
-16	homage	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_
-17	to	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_
-18	his	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_
-19	influences	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_
-20	with	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_
-21	"	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_
-22	Song	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_
-23	for	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_
-24	Bob	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_
-25	Dylan	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_
-26	"	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_
-27	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_
-28	"	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_
-29	Andy	_	Word	-	+	_	_	_	_	_	_	_	C	_	_	_	_
-30	Warhol	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_
-31	"	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_
-32	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_
-33	and	_	Word	-	-	_	_	_	_	_	_	_	N	_	_	_	_
-34	"	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_
-35	Queen	_	Word	-	+	_	_	_	_	_	_	_	C	_	_	_	_
-36	Bitch	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_
-37	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_
-38	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_
-39	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E
-40	Velvet	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E
-41	Underground	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_
-42	pastiche	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_
-43	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
+1	It	_	Word	-	-	_	_	A	_	A*	_	_	_	_
+2	was	_	Word	-	-	_	_	F	_	_	_	_	_	_
+3	not	_	Word	-	-	_	_	D	_	_	_	_	_	_
+4	a	_	Word	-	-	_	E	_	_	_	_	_	_	_
+5	significant	_	Word	-	+	_	_	D	_	_	_	_	_	_
+6	commercial	_	Word	-	-	_	_	A	_	_	_	_	_	_
+7	success	_	Word	-	+	_	_	_	_	_	_	_	_	_
+8	at	_	Word	-	-	_	_	_	R	_	_	_	_	_
+9	the	_	Word	-	-	_	_	_	E	_	_	_	_	_
+10	time	_	Word	-	+	_	_	T	_	_	_	_	_	_
+11	but	_	Word	-	-	_	_	L	_	_	_	_	_	_
+12	was	_	Word	-	-	_	_	_	_	F	_	_	_	_
+13	ranked	_	Word	-	+	_	_	H	_	_	_	_	_	_
+14	number	_	Word	-	+	_	_	_	_	A	_	_	_	_
+15	58	_	Word	-	-	_	_	_	_	_	Q	_	_	_
+16	by	_	Word	-	-	_	_	_	_	_	_	R	_	_
+17	voters	_	Word	-	+	_	_	_	_	A	_	_	_	_
+18	on	_	Word	-	-	_	_	_	_	_	_	_	_	R
+19	the	_	Word	-	-	_	_	_	_	_	_	_	_	E
+20	All	_	Word	-	+	_	_	_	_	_	_	_	_	E
+21	Time	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_
+22	Top	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_
+23	1000	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_
+24	Albums	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_
+25	list	_	Word	-	+	_	_	_	_	A	_	_	_	_
+26	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
 

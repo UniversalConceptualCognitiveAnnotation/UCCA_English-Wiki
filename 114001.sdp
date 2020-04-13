@@ -1,25 +1,25 @@
 # format = ucca
-1	Known	_	Word	-	+	_	_	_	_	_	_	_	_	_
-2	for	_	Word	-	-	_	_	R	_	_	_	_	_	_
-3	her	_	Word	-	-	_	_	E	_	_	_	_	_	_
-4	headstrong	_	Word	-	-	_	_	E	_	_	_	_	_	_
-5	independence	_	Word	-	+	_	A	_	_	_	_	_	_	_
-6	and	_	Word	-	-	_	_	N	_	_	_	_	_	_
-7	spirited	_	Word	-	-	_	_	_	E	_	_	_	_	_
-8	personality	_	Word	-	+	_	_	C	_	_	_	_	_	_
-9	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_
-10	Hepburn	_	Word	-	+	_	_	_	_	_	A	_	_	_
-11	's	_	Word	-	-	_	_	_	_	R	_	_	_	_
-12	career	_	Word	-	+	_	_	_	_	_	_	_	A	_
-13	as	_	Word	-	-	_	_	_	_	_	_	R	_	_
-14	a	_	Word	-	-	_	_	_	_	_	_	E	_	_
-15	Hollywood	_	Word	-	-	_	_	_	_	_	_	E	_	_
-16	leading	_	Word	-	-	_	_	_	_	_	_	E	_	_
-17	lady	_	Word	-	+	_	_	_	_	_	A	_	_	_
-18	spanned	_	Word	-	+	_	H	_	_	_	_	_	_	_
-19	more	_	Word	-	-	_	_	_	_	_	_	_	_	R
-20	than	_	Word	-	-	_	_	_	_	_	_	_	_	F
-21	60	_	Word	-	-	_	_	_	_	_	_	_	_	E
-22	years	_	Word	-	+	_	_	_	_	_	_	_	D	_
-23	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+1	Known	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+2	for	_	Word	-	-	_	_	R	_	_	_	_	_	_	_
+3	her	_	Word	-	-	_	_	A	A*	_	_	_	_	_	_
+4	headstrong	_	Word	-	-	_	_	D	_	_	_	_	_	_	_
+5	independence	_	Word	-	+	_	A	_	_	_	_	_	_	_	_
+6	and	_	Word	-	-	_	_	L	_	_	_	_	_	_	_
+7	spirited	_	Word	-	-	_	_	_	D	_	_	_	_	_	_
+8	personality	_	Word	-	+	_	_	H	_	_	_	_	_	_	_
+9	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
+10	Hepburn	_	Word	-	+	_	_	_	_	_	A	_	_	_	_
+11	's	_	Word	-	-	_	_	_	_	R	_	_	_	_	_
+12	career	_	Word	-	+	_	_	_	_	_	_	_	A	_	_
+13	as	_	Word	-	-	_	_	_	_	_	_	R	_	_	_
+14	a	_	Word	-	-	_	_	_	_	_	_	E	_	_	_
+15	Hollywood	_	Word	-	-	_	_	_	_	_	_	E	_	_	_
+16	leading	_	Word	-	-	_	_	_	_	_	_	E	_	_	_
+17	lady	_	Word	-	+	_	_	_	_	_	A	_	_	_	_
+18	spanned	_	Word	-	+	_	H	_	_	_	_	_	_	_	_
+19	more	_	Word	-	+	_	_	_	_	_	_	_	_	_	E
+20	than	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_
+21	60	_	Word	-	-	_	_	_	_	_	_	_	_	_	Q
+22	years	_	Word	-	+	_	_	_	_	_	_	_	T	_	_
+23	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
 

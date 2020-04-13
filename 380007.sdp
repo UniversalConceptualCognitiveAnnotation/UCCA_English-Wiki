@@ -1,18 +1,34 @@
 # format = ucca
-1	You	_	Word	-	-	_	A	_	_	_	_	_
-2	know	_	Word	-	+	_	_	_	_	_	_	_
-3	it	_	Word	-	-	_	_	F	_	_	_	_
-4	's	_	Word	-	+	_	H	_	_	_	_	_
-5	flattering	_	Word	-	-	_	_	A	_	_	_	_
-6	when	_	Word	-	-	_	L	_	_	_	_	_
-7	there	_	Word	-	-	_	_	_	F	_	_	_
-8	's	_	Word	-	+	_	H	_	_	_	_	_
-9	a	_	Word	-	-	_	_	_	_	E	_	_
-10	rumor	_	Word	-	+	_	_	_	A	_	_	_
-11	that	_	Word	-	-	_	_	_	_	_	F	_
-12	says	_	Word	-	+	_	_	_	_	E	_	_
-13	I	_	Word	-	-	_	_	_	_	_	_	A
-14	'm	_	Word	-	-	_	_	_	_	_	_	F
-15	bisexual	_	Word	-	+	_	_	_	_	_	A	_
-16	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+1	Gyllenhaal	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_
+2	narrated	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+3	the	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_
+4	2005	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_
+5	short	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_
+6	animated	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_
+7	film	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_
+8	The	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_
+9	Man	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_
+10	Who	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_
+11	Walked	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_
+12	Between	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_
+13	the	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_
+14	Towers	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_
+15	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_
+16	based	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_
+17	on	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_
+18	Mordicai	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_
+19	Gerstein	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_
+20	's	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_
+21	book	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_
+22	of	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_
+23	the	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_
+24	same	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_
+25	name	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_
+26	about	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
+27	Philippe	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A
+28	Petit	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_
+29	's	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_
+30	famous	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	H
+31	stunt	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_
+32	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
 

@@ -1,5 +1,5 @@
 # format = ucca
-1	His	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_
+1	His	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_
 2	producers	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_
 3	saw	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
 4	a	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_
@@ -7,7 +7,7 @@
 6	attractiveness	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_
 7	in	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_
 8	him	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_
-9	that	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_	_	_
+9	that	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_
 10	resembled	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_
 11	that	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_
 12	of	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_
@@ -18,7 +18,7 @@
 17	Jennings	_	Word	-	-	_	_	_	_	_	_	_	_	A	A*	_	_	_
 18	soon	_	Word	-	-	_	_	_	_	_	_	_	_	D	_	_	_	_
 19	found	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_
-20	himself	_	Word	-	-	_	_	_	_	_	_	_	_	D	_	_	_	_
+20	himself	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_	_
 21	hosting	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_
 22	Club	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_
 23	Thirteen	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_

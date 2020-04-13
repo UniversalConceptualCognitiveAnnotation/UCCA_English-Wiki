@@ -1,41 +1,41 @@
 # format = ucca
-1	In	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_
-2	his	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_
-3	review	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_
-4	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_
-5	A.O.	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_
-6	Scott	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_
-7	called	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
-8	her	_	Word	-	-	_	_	_	A	A*	_	_	_	_	_	_	_
-9	"	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_
-10	a	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_
-11	terrific	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_
-12	comic	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_
-13	actress	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_
-14	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_
-15	largely	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_
-16	because	_	Word	-	+	_	_	_	_	L	_	_	_	_	_	_	_
-17	of	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_
-18	her	_	Word	-	+	_	_	_	_	H	_	_	_	_	_	_	_
-19	great	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_
-20	expressive	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_
-21	range	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_
-22	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_
-23	and	_	Word	-	-	_	_	_	_	L	_	_	_	_	_	_	_
-24	the	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_
-25	nimbleness	_	Word	-	+	_	_	_	_	H	_	_	_	_	_	_	_
-26	with	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_
-27	which	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_
-28	she	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_	_
-29	can	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	_	_
-30	shift	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_
-31	from	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_
-32	anxiety	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_
-33	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_
-34	aggression	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	C	_
-35	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_
-36	genuine	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E
-37	hurt	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	C	_
-38	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
-39	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
+1	In	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_
+2	his	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_
+3	review	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_
+4	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_
+5	A.O.	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_
+6	Scott	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_
+7	called	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+8	her	_	Word	-	-	_	_	_	A	_	_	_	_	_	_	_
+9	"	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_
+10	a	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_
+11	terrific	_	Word	-	-	_	_	_	_	D	_	_	_	_	_	_
+12	comic	_	Word	-	-	_	_	_	_	D	_	_	_	_	_	_
+13	actress	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_
+14	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_
+15	largely	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_
+16	because	_	Word	-	+	_	_	_	_	L	_	_	_	_	_	_
+17	of	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_
+18	her	_	Word	-	-	_	_	_	_	_	_	A	_	_	_	_
+19	great	_	Word	-	-	_	_	_	_	_	_	D	_	_	_	_
+20	expressive	_	Word	-	+	_	_	_	_	H	_	_	_	_	_	_
+21	range	_	Word	-	-	_	_	_	_	_	_	A	_	_	_	_
+22	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_
+23	and	_	Word	-	-	_	_	_	_	L	_	_	_	_	_	_
+24	the	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_
+25	nimbleness	_	Word	-	+	_	_	_	_	_	_	_	_	D	_	_
+26	with	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_
+27	which	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_
+28	she	_	Word	-	-	_	_	_	_	_	_	_	_	A	_	_
+29	can	_	Word	-	-	_	_	_	_	_	_	_	_	D	_	_
+30	shift	_	Word	-	+	_	_	_	_	H	_	_	_	_	_	_
+31	from	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_
+32	anxiety	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_
+33	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_
+34	aggression	_	Word	-	-	_	_	_	_	_	_	_	_	_	C	_
+35	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_
+36	genuine	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E
+37	hurt	_	Word	-	+	_	_	_	_	_	_	_	_	_	C	_
+38	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
+39	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
 

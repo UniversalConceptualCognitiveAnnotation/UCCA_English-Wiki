@@ -2,12 +2,12 @@
 1	Pat	_	Word	-	+	_	_	A	_	_	_	_	_	_
 2	and	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_
 3	Mike	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_
-4	was	_	Word	-	+	_	_	_	_	_	_	_	_	_
-5	the	_	Word	-	-	_	_	_	F	_	_	_	_	_
-6	last	_	Word	-	-	_	_	_	E	_	_	_	_	_
+4	was	_	Word	-	-	_	_	F	_	_	_	_	_	_
+5	the	_	Word	-	-	_	_	_	E	_	_	_	_	_
+6	last	_	Word	-	+	_	_	_	_	_	_	_	_	_
 7	film	_	Word	-	+	_	_	A	_	_	_	_	_	_
 8	Hepburn	_	Word	-	-	_	_	_	_	A	_	_	_	_
-9	completed	_	Word	-	+	_	_	_	E	_	_	_	_	_
+9	completed	_	Word	-	+	_	_	A	_	_	_	_	_	_
 10	on	_	Word	-	-	_	_	_	_	_	R	_	_	_
 11	her	_	Word	-	-	_	_	_	_	_	E	_	_	_
 12	MGM	_	Word	-	-	_	_	_	_	_	E	_	_	_
@@ -18,8 +18,8 @@
 17	free	_	Word	-	+	_	_	H	_	_	_	_	_	_
 18	to	_	Word	-	-	_	_	_	_	_	_	_	F	_
 19	select	_	Word	-	+	_	_	_	_	_	_	A	_	_
-20	her	_	Word	-	-	_	_	_	_	_	_	_	_	E
-21	own	_	Word	-	-	_	_	_	_	_	_	_	_	E
-22	projects	_	Word	-	+	_	_	_	_	_	_	_	A	_
+20	her	_	Word	-	-	_	_	_	_	_	_	_	_	A
+21	own	_	Word	-	+	_	_	_	_	_	_	_	A	_
+22	projects	_	Word	-	-	_	_	_	_	_	_	_	_	A
 23	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
 

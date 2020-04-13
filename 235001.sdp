@@ -1,33 +1,33 @@
 # format = ucca
-1	He	_	Word	-	-	_	A	_	_	_	_	_	_	A*	_	_
-2	warned	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
-3	that	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_
-4	he	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_
-5	would	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_
-6	lash	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_
-7	out	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_
-8	against	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_
-9	anyone	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_
-10	planning	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_
-11	to	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_
-12	stop	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_
-13	him	_	Word	-	-	_	_	_	_	_	A	A*	_	_	_	_
-14	from	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_
-15	carrying	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_
-16	the	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_
-17	Olympic	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_
-18	Torch	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_
-19	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_
-20	saying	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_
-21	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_
-22	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_
-23	Demonstrators	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_
-24	better	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	_
-25	not	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	_
-26	get	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_
-27	anywhere	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	_
-28	near	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
-29	me	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_
-30	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
-31	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
+1	He	_	Word	-	-	_	A	_	_	_	_	_	_	A*	_	_	_
+2	warned	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
+3	that	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_
+4	he	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_	_
+5	would	_	Word	-	-	_	_	D	_	_	_	_	_	_	_	_	_
+6	lash	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_
+7	out	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_
+8	against	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_
+9	anyone	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_
+10	planning	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_
+11	to	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_	_
+12	stop	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_
+13	him	_	Word	-	-	_	_	_	_	_	A	A*	_	_	_	_	_
+14	from	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_
+15	carrying	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_
+16	the	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_	_
+17	Olympic	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_
+18	Torch	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_
+19	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_
+20	saying	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_
+21	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_
+22	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_
+23	Demonstrators	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_	_
+24	better	_	Word	-	-	_	_	_	_	_	_	_	_	_	G	_	_
+25	not	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	_	_
+26	get	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_
+27	anywhere	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_
+28	near	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	R
+29	me	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_
+30	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
+31	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
 

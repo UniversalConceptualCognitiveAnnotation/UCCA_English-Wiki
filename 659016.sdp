@@ -1,7 +1,7 @@
 # format = ucca
 1	While	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-2	requiring	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	work	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	requiring	_	Word	-	-	_	D	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	work	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 4	to	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 5	pay	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 6	for	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_
@@ -16,18 +16,18 @@
 15	still	_	Word	-	-	_	_	_	_	_	_	D	_	_	_	_	_	_	_	_	_
 16	remained	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 17	with	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_
-18	her	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-19	musical	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
+18	her	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
+19	musical	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
 20	ambitions	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
 21	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 22	as	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-23	she	_	Word	-	-	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+23	she	_	Word	-	-	_	_	_	_	_	_	_	_	A	_	_	A*	A*	_	_	_
 24	continued	_	Word	-	-	_	_	_	_	_	_	_	_	D	_	_	_	_	_	_	_
 25	working	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 26	late	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
 27	into	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_
-28	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-29	night	_	Word	-	+	_	_	_	_	_	_	_	_	D	_	_	_	_	_	_	_
+28	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_
+29	night	_	Word	-	+	_	_	_	_	_	_	_	_	T	_	_	_	_	_	_	_
 30	with	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
 31	Margulies	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
 32	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
@@ -35,15 +35,15 @@
 34	hopes	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 35	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_
 36	completing	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
-37	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
+37	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_
 38	demo	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
 39	that	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
 40	could	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_
 41	be	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_
 42	passed	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-43	on	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
+43	on	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_
 44	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
-45	record	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-46	executives	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_
+45	record	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_
+46	executives	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A
 47	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

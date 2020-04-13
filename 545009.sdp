@@ -1,52 +1,52 @@
 # format = ucca
-1	Later	_	Word	-	-	_	_	_	_	D	_	_	_	_	_	_	_	_	_	_
-2	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
-3	while	_	Word	-	-	_	_	_	_	L	_	_	_	_	_	_	_	_	_	_
-4	testifying	_	Word	-	+	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_
-5	before	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_
-6	the	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-7	House	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
-8	Un	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_
-9	-	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-10	American	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_
-11	Activities	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_
-12	Committee	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_
-13	on	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_
-14	October	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-15	27	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-16	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
-17	1947	_	Word	-	+	_	D	_	_	_	_	_	_	_	_	_	_	_	_	_
-18	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
-19	Warner	_	Word	-	-	_	A*	_	_	A	_	_	_	_	A*	_	_	_	_	_
-20	dismissed	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-21	Cold	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-22	War	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
-23	allegations	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
-24	that	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_
-25	the	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-26	film	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
-27	was	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_
-28	subversive	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-29	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
-30	arguing	_	Word	-	+	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_
-31	that	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_
-32	Mission	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_	A*
-33	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_
-34	Moscow	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_
-35	was	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_
-36	produced	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
-37	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_
-38	only	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	D	_	_
-39	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_
-40	help	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
-41	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-42	desperate	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-43	war	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-44	effort	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
-45	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	L	_	_
-46	not	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D
-47	for	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
-48	posterity	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	H	_	_
-49	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
-50	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	Later	_	Word	-	-	_	_	_	_	_	_	T	_	_	_	_	_	_	_	_	_	_
+2	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
+3	while	_	Word	-	-	_	_	_	_	_	_	L	_	_	_	_	_	_	_	_	_	_
+4	testifying	_	Word	-	+	_	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_
+5	before	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_
+6	the	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+7	House	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+8	Un	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	-	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	American	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	Activities	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+12	Committee	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	on	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_
+14	October	_	Word	-	+	_	T	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	27	_	Word	-	-	_	_	_	_	_	C	_	_	_	_	_	_	_	_	_	_	_
+16	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+17	1947	_	Word	-	-	_	_	_	_	_	C	_	_	_	_	_	_	_	_	_	_	_
+18	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	Warner	_	Word	-	-	_	A*	_	_	_	_	A	_	_	_	_	A*	_	_	_	_	_
+20	dismissed	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	Cold	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
+22	War	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
+23	allegations	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+24	that	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_
+25	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
+26	film	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
+27	was	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_
+28	subversive	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
+29	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
+30	arguing	_	Word	-	+	_	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_
+31	that	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_
+32	Mission	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	A*	A*
+33	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_
+34	Moscow	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_
+35	was	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_
+36	produced	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
+37	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_
+38	only	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
+39	to	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	L	_	_	_
+40	help	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_
+41	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_
+42	desperate	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_
+43	war	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_
+44	effort	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	H	_	_	_
+45	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	L	_	_	_
+46	not	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D
+47	for	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+48	posterity	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	H	_	_	_
+49	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+50	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

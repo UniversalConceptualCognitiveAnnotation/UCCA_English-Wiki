@@ -1,44 +1,74 @@
 # format = ucca
-1	The	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_
-2	studio	_	Word	-	+	_	_	_	_	_	_	A*	_	_	_	_	_
-3	emerged	_	Word	-	-	_	_	D	_	_	_	_	_	_	_	_	_
-4	relatively	_	Word	-	-	_	_	D	_	_	_	_	_	_	_	_	_
-5	unscathed	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
-6	from	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_
-7	the	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_
-8	Wall	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_
-9	Street	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_
-10	Crash	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_
-11	of	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_
-12	1929	_	Word	-	+	_	_	_	_	D	_	_	_	_	_	_	_
-13	and	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_
-14	produced	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_
-15	a	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_
-16	broad	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_
-17	range	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_
-18	of	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_
-19	films	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_
-20	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_
-21	including	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_
-22	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_
-23	backstage	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_
-24	musicals	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_
-25	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_
-26	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_
-27	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_
-28	crusading	_	Word	-	+	_	_	_	_	_	_	_	_	_	C	_	_
-29	biopics	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_
-30	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_
-31	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_
-32	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_
-33	swashbucklers	_	Word	-	-	_	_	_	_	_	_	_	_	_	C	_	_
-34	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_
-35	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_
-36	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	N	_	_
-37	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_
-38	women	_	Word	-	+	_	_	_	_	_	_	_	_	_	C	_	_
-39	's	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal
-40	pictures	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal
-41	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_
-42	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_
+1	As	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	Thomas	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	Schatz	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	observed	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	this	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	repertoire	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	was	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	"	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	a	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	means	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	of	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	stabilizing	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	marketing	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	and	_	Word	-	-	_	_	_	_	_	_	N	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	sales	_	Word	-	-	_	_	_	_	_	_	C	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	of	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	bringing	_	Word	-	+	_	_	_	_	_	C	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	efficiency	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	and	_	Word	-	-	_	_	_	_	_	_	_	_	N	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	economy	_	Word	-	-	_	_	_	_	_	_	_	_	C	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	into	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	production	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+26	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_
+27	some	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+28	fifty	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	Q	_	_	_	_	_	_	_	_	_	_	_
+29	feature	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+30	films	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
+31	per	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_
+32	year	_	Word	-	+	_	_	_	_	_	_	_	_	_	T	_	_	_	_	_	_	_	_	_	_	_	_	_
+33	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+34	and	_	Word	-	-	_	_	_	_	_	N	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+35	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_
+36	distinguishing	_	Word	-	+	_	_	_	_	_	C	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+37	Warners	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
+38	'	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_
+39	collective	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
+40	output	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
+41	from	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_
+42	that	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_	_
+43	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_
+44	its	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+45	competitors	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
+46	"	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+47	.	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+48	Warner	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
+49	Bros	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
+50	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_
+51	became	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_	_	_	_	_
+52	best	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_	_	_	_	_
+53	known	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+54	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+55	however	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+56	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+57	for	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_
+58	its	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+59	hard	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+60	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_
+61	hitting	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_
+62	social	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+63	dramas	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
+64	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_
+65	whose	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_
+66	production	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A
+67	Jack	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A
+68	Warner	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_
+69	tended	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D
+70	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F
+71	support	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+72	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

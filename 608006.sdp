@@ -1,12 +1,12 @@
 # format = ucca
-1	The	_	Word	-	-	_	E	_	_	_	_	_	_
-2	following	_	Word	-	-	_	R	_	_	_	_	_	_
-3	year	_	Word	-	+	_	_	D	_	_	_	_	_
+1	The	_	Word	-	-	_	F	_	_	_	_	_	_
+2	following	_	Word	-	-	_	E	_	_	_	_	_	_
+3	year	_	Word	-	+	_	_	T	_	_	_	_	_
 4	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_
 5	he	_	Word	-	-	_	_	A	_	_	_	_	_
 6	released	_	Word	-	+	_	_	_	_	_	_	_	_
-7	the	_	Word	-	-	_	_	_	_	E	_	_	_
-8	triple	_	Word	-	-	_	_	_	E	_	_	_	_
+7	the	_	Word	-	-	_	_	_	_	F	_	_	_
+8	triple	_	Word	-	-	_	_	_	Q	_	_	_	_
 9	album	_	Word	-	+	_	_	_	_	E	_	_	_
 10	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_
 11	Tripping	_	Word	-	+	_	_	A	_	_	_	_	_
@@ -14,12 +14,12 @@
 13	Live	_	Word	-	-	_	_	_	_	Terminal	_	_	_
 14	Fantastic	_	Word	-	-	_	_	_	_	Terminal	_	_	_
 15	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_
-16	which	_	Word	-	-	_	_	_	_	_	F	_	_
+16	which	_	Word	-	-	_	_	_	_	_	R	_	_
 17	contained	_	Word	-	+	_	_	_	_	E	_	_	_
 18	select	_	Word	-	-	_	_	_	_	_	_	E	_
 19	performances	_	Word	-	+	_	_	_	_	_	A	_	_
 20	from	_	Word	-	-	_	_	_	_	_	_	_	R
-21	the	_	Word	-	-	_	_	_	_	_	_	_	E
+21	the	_	Word	-	-	_	_	_	_	_	_	_	F
 22	tour	_	Word	-	+	_	_	_	_	_	_	E	_
 23	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
 

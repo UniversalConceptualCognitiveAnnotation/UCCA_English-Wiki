@@ -1,22 +1,22 @@
 # format = ucca
-1	As	_	Word	-	-	_	L	_	_	_	_	_	_
-2	part	_	Word	-	+	_	_	_	_	_	_	_	_
-3	of	_	Word	-	-	_	R	_	_	_	_	_	_
-4	ABC	_	Word	-	+	_	_	_	E	_	_	_	_
-5	's	_	Word	-	-	_	_	R	_	_	_	_	_
-6	triumvirate	_	Word	-	+	_	A	_	_	_	_	_	_
-7	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_
-8	Jennings	_	Word	-	-	_	A*	_	_	A	_	_	_
-9	continued	_	Word	-	-	_	_	_	_	D	_	_	_
-10	to	_	Word	-	-	_	_	_	_	F	_	_	_
-11	cover	_	Word	-	+	_	H	_	_	_	_	_	_
-12	major	_	Word	-	-	_	_	_	_	_	E	_	_
-13	international	_	Word	-	-	_	_	_	_	_	E	_	_
-14	news	_	Word	-	+	_	_	_	_	A	_	_	_
-15	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_
-16	especially	_	Word	-	-	_	_	_	_	_	_	_	E
-17	Middle	_	Word	-	-	_	_	_	_	_	_	E	_
-18	East	_	Word	-	+	_	_	_	_	_	_	_	E
-19	issues	_	Word	-	+	_	_	_	_	_	E	_	_
-20	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+1	As	_	Word	-	-	_	_	R	_	_	_	_
+2	part	_	Word	-	-	_	_	E	_	_	_	_
+3	of	_	Word	-	-	_	_	R	_	_	_	_
+4	ABC	_	Word	-	+	_	_	E	_	_	_	_
+5	's	_	Word	-	-	_	R	_	_	_	_	_
+6	triumvirate	_	Word	-	+	_	_	_	A	_	_	_
+7	,	_	Punctuation	-	-	_	_	_	U	_	_	_
+8	Jennings	_	Word	-	-	_	_	_	A	_	_	_
+9	continued	_	Word	-	-	_	_	_	D	_	_	_
+10	to	_	Word	-	-	_	_	_	F	_	_	_
+11	cover	_	Word	-	+	_	_	_	_	_	_	_
+12	major	_	Word	-	-	_	_	_	_	E	_	_
+13	international	_	Word	-	-	_	_	_	_	E	_	_
+14	news	_	Word	-	+	_	_	_	A	_	_	_
+15	,	_	Punctuation	-	-	_	_	_	_	U	_	_
+16	especially	_	Word	-	-	_	_	_	_	_	_	E
+17	Middle	_	Word	-	+	_	_	_	_	_	_	E
+18	East	_	Word	-	-	_	_	_	_	_	Terminal	_
+19	issues	_	Word	-	+	_	_	_	_	E	_	_
+20	.	_	Punctuation	-	-	_	_	_	_	_	_	U
 

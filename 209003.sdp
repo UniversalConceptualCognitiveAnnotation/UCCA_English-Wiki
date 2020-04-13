@@ -1,18 +1,18 @@
 # format = ucca
-1	After	_	Word	-	-	_	R	_	_	_
-2	Rain	_	Word	-	+	_	_	_	_	D
-3	Man	_	Word	-	-	_	Terminal	_	_	_
-4	,	_	Punctuation	-	-	_	_	_	_	U
-5	Hoffman	_	Word	-	-	_	_	_	_	A
-6	appeared	_	Word	-	-	_	_	_	_	D
-7	with	_	Word	-	-	_	_	R	_	_
-8	Sean	_	Word	-	+	_	_	_	_	A
-9	Connery	_	Word	-	-	_	_	Terminal	_	_
-10	and	_	Word	-	-	_	_	N	_	_
-11	Matthew	_	Word	-	+	_	_	C	_	_
-12	Broderick	_	Word	-	-	_	_	_	Terminal	_
-13	in	_	Word	-	-	_	_	_	_	R
-14	Family	_	Word	-	+	_	_	_	_	_
-15	Business	_	Word	-	-	_	_	_	_	Terminal
-16	.	_	Punctuation	-	-	_	_	_	_	U
+1	After	_	Word	-	-	_	L	_	_	_	_
+2	Rain	_	Word	-	+	_	_	_	_	_	_
+3	Man	_	Word	-	-	_	Terminal	_	_	_	_
+4	,	_	Punctuation	-	-	_	U	_	_	_	_
+5	Hoffman	_	Word	-	-	_	_	A	_	_	_
+6	appeared	_	Word	-	+	_	H	_	_	_	_
+7	with	_	Word	-	-	_	_	_	R	_	_
+8	Sean	_	Word	-	+	_	_	A	_	_	_
+9	Connery	_	Word	-	-	_	_	_	Terminal	_	_
+10	and	_	Word	-	-	_	_	_	N	_	_
+11	Matthew	_	Word	-	+	_	_	_	C	_	_
+12	Broderick	_	Word	-	-	_	_	_	_	Terminal	_
+13	in	_	Word	-	-	_	_	_	_	_	R
+14	Family	_	Word	-	+	_	_	A	_	_	_
+15	Business	_	Word	-	-	_	_	_	_	_	Terminal
+16	.	_	Punctuation	-	-	_	_	_	_	_	U
 

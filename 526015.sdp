@@ -1,47 +1,9 @@
 # format = ucca
-1	After	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_
-2	being	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_	_
-3	advised	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-4	by	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_
-5	her	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_
-6	doctor	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_
-7	that	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_	_
-8	she	_	Word	-	-	_	_	_	A	_	_	_	_	_	_	_	_	_
-9	would	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_	_
-10	only	_	Word	-	-	_	_	_	D	_	_	_	_	_	_	_	_	_
-11	be	_	Word	-	-	_	_	_	D	_	_	_	_	_	_	_	_	_
-12	able	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_
-13	to	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_	_
-14	work	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_
-15	in	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_
-16	four	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_	_
-17	-	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_
-18	to	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_	_	_
-19	-	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_
-20	five	_	Word	-	-	_	_	_	_	C	_	_	_	_	_	_	_	_
-21	-	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_
-22	day	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_	_
-23	increments	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_
-24	with	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_
-25	extended	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_
-26	rest	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_
-27	periods	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_	_
-28	between	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_
-29	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_
-30	MGM	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_
-31	executive	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_	_
-32	Arthur	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_
-33	Freed	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
-34	made	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_	_
-35	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_
-36	decision	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_
-37	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F	_
-38	suspend	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_
-39	her	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A	_
-40	on	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R
-41	July	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	D	_	_
-42	18	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
-43	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
-44	1948	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
-45	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	She	_	Word	-	-	_	A	_
+2	was	_	Word	-	-	_	F	_
+3	replaced	_	Word	-	+	_	_	_
+4	by	_	Word	-	-	_	_	R
+5	Ginger	_	Word	-	+	_	A	_
+6	Rogers	_	Word	-	-	_	_	Terminal
+7	.	_	Punctuation	-	-	_	_	U
 

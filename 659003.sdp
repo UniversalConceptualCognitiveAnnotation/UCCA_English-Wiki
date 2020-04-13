@@ -6,12 +6,12 @@
 5	she	_	Word	-	-	_	A*	A	_	_	_	_	A*	_
 6	would	_	Word	-	-	_	_	F	_	_	_	_	_	_
 7	excel	_	Word	-	+	_	H	_	_	_	_	_	_	_
-8	in	_	Word	-	-	_	_	_	_	R	_	_	_	_
-9	subjects	_	Word	-	+	_	_	_	_	A	_	_	_	_
-10	that	_	Word	-	-	_	_	_	_	F	_	_	_	_
+8	in	_	Word	-	-	_	_	_	R	_	_	_	_	_
+9	subjects	_	Word	-	+	_	_	A	_	_	_	_	_	_
+10	that	_	Word	-	-	_	_	_	_	R	_	_	_	_
 11	she	_	Word	-	-	_	_	_	_	A	_	_	_	_
-12	enjoyed	_	Word	-	+	_	_	A	_	_	_	_	_	_
-13	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_
+12	enjoyed	_	Word	-	+	_	_	_	E	_	_	_	_	_
+13	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_
 14	such	_	Word	-	+	_	_	_	_	_	_	R	_	_
 15	as	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_
 16	literature	_	Word	-	+	_	_	_	E	_	_	_	_	_
@@ -22,7 +22,7 @@
 21	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_
 22	while	_	Word	-	-	_	L	_	_	_	_	_	_	_
 23	not	_	Word	-	-	_	_	_	_	_	_	_	D	_
-24	finding	_	Word	-	-	_	_	_	_	_	_	_	D	_
+24	finding	_	Word	-	-	_	_	_	_	_	_	_	F	_
 25	interest	_	Word	-	+	_	H	_	_	_	_	_	_	_
 26	in	_	Word	-	-	_	_	_	_	_	_	_	_	R
 27	other	_	Word	-	-	_	_	_	_	_	_	_	_	E

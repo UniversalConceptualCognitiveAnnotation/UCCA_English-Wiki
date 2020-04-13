@@ -1,30 +1,83 @@
 # format = ucca
-1	Lennon	_	Word	-	-	_	A	_	_	_	A*	_	_	_	_
-2	co	_	Word	-	-	_	E	_	_	_	_	_	_	_	_
-3	-	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
-4	wrote	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-5	"	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
-6	Fame	_	Word	-	+	_	A	_	_	_	_	_	_	_	_
-7	"	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_
-8	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_
-9	David	_	Word	-	+	_	_	E	_	_	_	_	_	_	_
-10	Bowie	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_
-11	's	_	Word	-	-	_	_	_	R	_	_	_	_	_	_
-12	first	_	Word	-	-	_	_	_	D	_	_	_	_	_	_
-13	US	_	Word	-	-	_	_	_	_	E	_	_	_	_	_
-14	number	_	Word	-	+	_	_	_	A	_	_	_	_	_	_
-15	one	_	Word	-	-	_	_	_	_	E	_	_	_	_	_
-16	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
-17	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_
-18	provided	_	Word	-	+	_	H	_	_	_	_	_	_	_	_
-19	guitar	_	Word	-	+	_	_	_	_	_	A	_	_	_	_
-20	and	_	Word	-	-	_	_	_	_	_	_	N	_	_	_
-21	backing	_	Word	-	-	_	_	_	_	_	_	_	E	_	_
-22	vocals	_	Word	-	+	_	_	_	_	_	_	C	_	_	_
-23	for	_	Word	-	-	_	L	_	_	_	_	_	_	_	_
-24	the	_	Word	-	-	_	_	_	_	_	_	_	_	E	_
-25	January	_	Word	-	-	_	_	_	_	_	_	_	_	E	_
-26	1975	_	Word	-	+	_	_	_	_	_	_	_	_	_	D
-27	recording	_	Word	-	+	_	H	_	_	_	_	_	_	_	_
-28	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+1	The	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	same	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	month	_	Word	-	+	_	_	_	T	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	Elton	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	John	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	topped	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	the	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	charts	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	with	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	his	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	cover	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	of	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	"	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	Lucy	_	Word	-	+	_	_	_	_	_	_	_	A*	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	in	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	the	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	Sky	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	with	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	Diamonds	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	"	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	featuring	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	Lennon	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	on	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+26	guitar	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+27	and	_	Word	-	-	_	_	_	_	_	_	_	_	N	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+28	back	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+29	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+30	up	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_
+31	vocals	_	Word	-	+	_	_	_	_	_	_	_	_	C	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+32	(	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+33	Lennon	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
+34	is	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_
+35	credited	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+36	on	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_
+37	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+38	single	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
+39	under	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_
+40	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+41	moniker	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
+42	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_
+43	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_
+44	Dr	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
+45	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_
+46	Winston	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
+47	O	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
+48	'	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_
+49	Boogie	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
+50	"	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+51	)	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+52	.	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+53	He	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
+54	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	N	_	_	_	_	_	_	_
+55	Ono	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	C	_	_	_	_	_	_	_
+56	were	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_
+57	reunited	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+58	shortly	_	Word	-	+	_	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+59	afterwards	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_
+60	.	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+61	Lennon	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+62	released	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+63	Rock	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+64	'	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_
+65	n	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
+66	'	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_
+67	Roll	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
+68	(	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_
+69	1975	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+70	)	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_
+71	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_
+72	an	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
+73	album	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+74	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
+75	cover	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+76	songs	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
+77	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_
+78	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+79	February	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	T	_	_	_	_
+80	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+81	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

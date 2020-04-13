@@ -1,54 +1,54 @@
 # format = ucca
-1	From	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-2	September	_	Word	-	+	_	_	_	_	_	D	_	_	_	_	_	_	_	_	_	_
-3	1952	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-4	to	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-5	1957	_	Word	-	-	_	C	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-6	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
-7	after	_	Word	-	-	_	_	_	_	_	L	_	_	_	_	_	_	_	_	_	_
-8	passing	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_
-9	his	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-10	Eleven	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-11	-	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-12	Plus	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-13	exam	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
-14	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
-15	he	_	Word	-	-	_	_	A*	_	_	A	_	_	_	A*	_	_	_	_	_	_
-16	attended	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-17	Quarry	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-18	Bank	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
-19	High	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
-20	School	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
-21	in	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_
-22	Liverpool	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
-23	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
-24	and	_	Word	-	-	_	_	_	_	_	L	_	_	_	_	_	_	_	_	_	_
-25	was	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_
-26	described	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_
-27	by	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
-28	Harvey	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
-29	at	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_
-30	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-31	time	_	Word	-	+	_	_	_	_	_	_	_	_	_	D	_	_	_	_	_	_
-32	as	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
-33	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
-34	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
-35	A	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-36	happy	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-37	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_
-38	go	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
-39	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_
-40	lucky	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
-41	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_
-42	good	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-43	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_
-44	humoured	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	C	_	_	_
-45	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_
-46	easy	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	C	_	_	_
-47	going	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_
-48	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_
-49	lively	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	C	_	_	_
-50	lad	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
-51	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
-52	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	From	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	September	_	Word	-	+	_	_	_	_	_	_	T	_	_	_	_	_	_	_	_	_	_
+3	1952	_	Word	-	-	_	C	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	to	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	1957	_	Word	-	+	_	C	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
+7	after	_	Word	-	-	_	_	_	_	_	_	L	_	_	_	_	_	_	_	_	_	_
+8	passing	_	Word	-	+	_	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_
+9	his	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+10	Eleven	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+11	-	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+12	Plus	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+13	exam	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	he	_	Word	-	-	_	_	_	A*	_	_	A	_	_	_	A*	_	_	_	_	_	_
+16	attended	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	Quarry	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
+18	Bank	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
+19	High	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+20	School	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
+21	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_
+22	Liverpool	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+23	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
+24	and	_	Word	-	-	_	_	_	_	_	_	L	_	_	_	_	_	_	_	_	_	_
+25	was	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_
+26	described	_	Word	-	+	_	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_
+27	by	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
+28	Harvey	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
+29	at	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_
+30	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
+31	time	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	T	_	_	_	_	_	_
+32	as	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+33	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+34	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+35	A	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_
+36	happy	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+37	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_
+38	go	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
+39	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_
+40	lucky	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
+41	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_
+42	good	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_	_
+43	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_
+44	humoured	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	H	_	_	_
+45	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_
+46	easy	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	H	_	_	_
+47	going	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_
+48	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_
+49	lively	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	H	_	_	_
+50	lad	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
+51	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+52	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

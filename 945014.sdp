@@ -1,32 +1,32 @@
 # format = ucca
-1	Stefani	_	Word	-	-	_	A	_	_	_	_	_	_	_
-2	commented	_	Word	-	+	_	_	_	_	_	_	_	_	_
-3	that	_	Word	-	-	_	_	F	_	_	_	_	_	_
-4	it	_	Word	-	-	_	_	A	_	_	_	_	_	_
-5	differed	_	Word	-	+	_	A	_	_	_	_	_	_	_
-6	from	_	Word	-	-	_	_	R	_	_	_	_	_	_
-7	L.A.M.B.	_	Word	-	-	_	_	A	_	_	_	_	_	_
-8	because	_	Word	-	-	_	_	L	_	_	_	_	_	_
-9	"	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_
-10	I	_	Word	-	-	_	_	_	A	_	_	_	_	_
-11	just	_	Word	-	-	_	_	_	D	_	_	_	_	_
-12	was	_	Word	-	-	_	_	_	F	_	_	_	_	_
-13	n't	_	Word	-	-	_	_	_	D	_	_	_	_	_
-14	inspired	_	Word	-	-	_	_	_	D	_	_	_	_	_
-15	to	_	Word	-	-	_	_	_	F	_	_	_	_	_
-16	do	_	Word	-	+	_	_	H	_	_	_	_	_	_
-17	another	_	Word	-	-	_	_	_	_	E	_	_	_	_
-18	album	_	Word	-	+	_	_	_	A	_	_	_	_	_
-19	and	_	Word	-	-	_	_	_	L	_	_	_	_	_
-20	...	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_
-21	I	_	Word	-	-	_	_	_	_	_	_	_	A	A*
-22	was	_	Word	-	-	_	_	_	_	_	_	_	F	_
-23	a	_	Word	-	+	_	_	_	_	_	_	E	_	_
-24	lot	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_
-25	more	_	Word	-	+	_	_	_	_	_	_	_	D	_
-26	relaxed	_	Word	-	+	_	_	_	H	_	_	_	_	_
-27	making	_	Word	-	+	_	_	_	_	_	_	_	A	_
-28	it	_	Word	-	-	_	_	_	_	_	_	_	_	A
-29	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
-30	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+1	Stefani	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_
+2	commented	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+3	that	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_
+4	it	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_
+5	differed	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_
+6	from	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_
+7	L.A.M.B.	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_
+8	because	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_
+9	"	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_
+10	I	_	Word	-	-	_	_	_	_	A	A*	_	_	_	_	_
+11	just	_	Word	-	-	_	_	_	_	D	_	_	_	_	_	_
+12	was	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_
+13	n't	_	Word	-	-	_	_	_	_	D	_	_	_	_	_	_
+14	inspired	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_
+15	to	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_
+16	do	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_
+17	another	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_
+18	album	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_
+19	and	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_
+20	...	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_
+21	I	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A
+22	was	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F
+23	a	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_
+24	lot	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_
+25	more	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_
+26	relaxed	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	D
+27	making	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_
+28	it	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A
+29	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
+30	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
 

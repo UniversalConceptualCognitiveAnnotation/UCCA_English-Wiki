@@ -1,44 +1,23 @@
 # format = ucca
-1	Dylan	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
-2	commenced	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_
-3	the	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
-4	new	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
-5	millennium	_	Word	-	+	_	_	D	_	_	_	_	_	_	_	_	_	_	_	_
-6	by	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_
-7	winning	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-8	the	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-9	Polar	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-10	Music	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
-11	Prize	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
-12	in	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_
-13	May	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-14	2000	_	Word	-	+	_	_	D	_	_	_	_	_	_	_	_	_	_	_	_
-15	and	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_
-16	his	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-17	first	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-18	Oscar	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
-19	;	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-20	his	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-21	song	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
-22	"	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_
-23	Things	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-24	Have	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
-25	Changed	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
-26	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_
-27	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_
-28	penned	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
-29	for	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_
-30	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-31	film	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
-32	Wonder	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-33	Boys	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
-34	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_
-35	won	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_
-36	an	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-37	Academy	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
-38	Award	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_
-39	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
-40	March	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-41	2001	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	D	_	_
-42	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	The	_	Word	-	-	_	E	_	_	_	_	_	_	_	_
+2	Oscar	_	Word	-	+	_	_	_	_	_	_	A*	_	A*	_
+3	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
+4	by	_	Word	-	-	_	_	R	_	_	_	_	_	_	_
+5	some	_	Word	-	-	_	_	Q	_	_	_	_	_	_	_
+6	reports	_	Word	-	+	_	_	_	E	_	_	_	_	_	_
+7	a	_	Word	-	-	_	_	_	E	_	_	_	_	_	_
+8	facsimile	_	Word	-	+	_	E	_	_	_	_	_	_	_	_
+9	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_
+10	tours	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+11	with	_	Word	-	-	_	_	_	_	_	R	_	_	_	_
+12	him	_	Word	-	+	_	_	_	_	A	_	_	_	_	_
+13	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_
+14	presiding	_	Word	-	+	_	_	_	_	H	_	_	_	_	_
+15	over	_	Word	-	-	_	_	_	_	_	_	_	R	_	_
+16	shows	_	Word	-	+	_	_	_	_	_	_	A	_	_	_
+17	perched	_	Word	-	+	_	_	_	_	H	_	_	_	_	_
+18	atop	_	Word	-	-	_	_	_	_	_	_	_	_	_	R
+19	an	_	Word	-	-	_	_	_	_	_	_	_	_	_	E
+20	amplifier	_	Word	-	+	_	_	_	_	_	_	_	_	A	_
+21	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
 

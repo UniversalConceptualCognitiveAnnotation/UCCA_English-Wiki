@@ -1,12 +1,12 @@
 # format = ucca
 1	By	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_
-2	the	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_
+2	the	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_
 3	time	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_
-4	of	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_
+4	of	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_
 5	its	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_
 6	release	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
 7	in	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_
-8	October	_	Word	-	+	_	_	D	_	_	_	_	_	_	_	_
+8	October	_	Word	-	+	_	_	T	_	_	_	_	_	_	_	_
 9	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_
 10	Hepburn	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_
 11	's	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_
@@ -20,15 +20,15 @@
 19	public	_	Word	-	-	_	_	_	_	_	_	_	D	_	_	_
 20	opposition	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_
 21	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_
-22	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_
-23	growing	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_
+22	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_
+23	growing	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	_
 24	anti	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_
 25	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_
-26	communist	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_
-27	witch	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_
+26	communist	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_
+27	witch	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_
 28	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_
-29	hunt	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_
+29	hunt	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_
 30	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
-31	Hollywood	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_
+31	Hollywood	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_
 32	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
 

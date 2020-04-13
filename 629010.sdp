@@ -1,7 +1,7 @@
 # format = ucca
 1	He	_	Word	-	-	_	A	_	_	_	A*	_
 2	was	_	Word	-	-	_	F	_	_	_	_	_
-3	posthumously	_	Word	-	-	_	D	_	_	_	_	_
+3	posthumously	_	Word	-	-	_	G	_	_	_	_	_
 4	inducted	_	Word	-	+	_	_	_	_	_	_	_
 5	into	_	Word	-	-	_	_	R	_	_	_	_
 6	the	_	Word	-	-	_	_	E	_	_	_	_
@@ -10,7 +10,7 @@
 9	of	_	Word	-	-	_	_	Terminal	_	_	_	_
 10	Fame	_	Word	-	-	_	_	Terminal	_	_	_	_
 11	in	_	Word	-	-	_	_	_	R	_	_	_
-12	1987	_	Word	-	+	_	D	_	_	_	_	_
+12	1987	_	Word	-	+	_	T	_	_	_	_	_
 13	and	_	Word	-	-	_	L	_	_	_	_	_
 14	into	_	Word	-	-	_	_	_	_	_	R	_
 15	the	_	Word	-	-	_	_	_	_	_	E	_
@@ -21,6 +21,6 @@
 20	of	_	Word	-	-	_	_	_	_	_	Terminal	_
 21	Fame	_	Word	-	-	_	_	_	_	_	Terminal	_
 22	in	_	Word	-	-	_	_	_	_	_	_	R
-23	1994	_	Word	-	+	_	_	_	_	_	D	_
+23	1994	_	Word	-	+	_	_	_	_	_	T	_
 24	.	_	Punctuation	-	-	_	_	_	_	_	_	U
 

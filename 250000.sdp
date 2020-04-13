@@ -1,32 +1,32 @@
 # format = ucca
-1	In	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_
-2	a	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_
-3	television	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_
-4	adaptation	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
-5	of	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_
-6	the	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_
-7	Herman	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_
-8	Melville	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_
-9	novel	_	Word	-	-	_	_	_	A	_	_	_	_	_	_	_
-10	Moby	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_
-11	-	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_
-12	Dick	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_
-13	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_
-14	Hawke	_	Word	-	-	_	_	_	_	_	A	_	_	_	_	_
-15	played	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_
-16	the	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_
-17	role	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_
-18	of	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_
-19	Starbuck	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_
-20	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_
-21	the	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_
-22	first	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_
-23	officer	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_
-24	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
-25	William	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E
-26	Hurt	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_
-27	's	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_
-28	Captain	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_
-29	Ahab	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal
-30	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
+1	In	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_
+2	a	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_
+3	television	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_
+4	adaptation	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_
+5	of	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_
+6	the	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_
+7	Herman	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_
+8	Melville	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_
+9	novel	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_	_
+10	Moby	_	Word	-	+	_	E	_	_	_	_	_	_	_	_	_	_
+11	-	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_
+12	Dick	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_
+13	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_
+14	Hawke	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_	_
+15	played	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
+16	the	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_	_
+17	role	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_
+18	of	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_
+19	Starbuck	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_
+20	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_
+21	the	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_
+22	first	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_
+23	officer	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_
+24	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R
+25	William	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_
+26	Hurt	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_
+27	's	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E
+28	Captain	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E
+29	Ahab	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_
+30	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
 

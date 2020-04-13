@@ -1,36 +1,18 @@
 # format = ucca
-1	Recalling	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
-2	his	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_
-3	reaction	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_
-4	in	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_
-5	July	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_
-6	1962	_	Word	-	+	_	_	D	_	_	_	_	_	_	_	_
-7	on	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_
-8	learning	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_
-9	that	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_
-10	Cynthia	_	Word	-	-	_	_	_	_	_	A	_	_	_	_	_
-11	was	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_
-12	pregnant	_	Word	-	-	_	_	_	_	_	A	_	_	_	_	_
-13	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_
-14	Lennon	_	Word	-	-	_	A*	_	_	A*	_	A	_	_	_	_
-15	said	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_
-16	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_
-17	"	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_
-18	There	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_
-19	's	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_
-20	only	_	Word	-	-	_	_	_	_	_	_	_	D	_	_	_
-21	one	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_
-22	thing	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_
-23	for	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_
-24	it	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_
-25	Cyn	_	Word	-	-	_	_	_	_	_	_	_	G	_	_	_
-26	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_
-27	We	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A
-28	'll	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F
-29	have	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F
-30	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F
-31	get	_	Word	-	+	_	_	_	_	_	_	_	H	_	_	_
-32	married	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal
-33	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
-34	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
+1	The	_	Word	-	-	_	E	_	_	_	_
+2	couple	_	Word	-	+	_	_	A	_	_	_
+3	were	_	Word	-	-	_	_	F	_	_	_
+4	married	_	Word	-	+	_	_	_	_	_	_
+5	on	_	Word	-	-	_	_	_	R	_	_
+6	23	_	Word	-	+	_	_	T	_	_	_
+7	August	_	Word	-	-	_	_	_	C	_	_
+8	at	_	Word	-	-	_	_	_	_	R	_
+9	the	_	Word	-	-	_	_	_	_	E	_
+10	Mount	_	Word	-	+	_	_	A	_	_	_
+11	Pleasant	_	Word	-	-	_	_	_	_	Terminal	_
+12	Register	_	Word	-	-	_	_	_	_	Terminal	_
+13	Office	_	Word	-	-	_	_	_	_	Terminal	_
+14	in	_	Word	-	-	_	_	_	_	_	R
+15	Liverpool	_	Word	-	+	_	_	_	_	C	_
+16	.	_	Punctuation	-	-	_	_	_	_	_	U
 

@@ -1,6 +1,6 @@
 # format = ucca
-1	She	_	Word	-	-	_	A	_	A*	_	_	_	_	_	_
-2	rarely	_	Word	-	-	_	D	_	_	_	_	_	_	_	_
+1	She	_	Word	-	-	_	A	_	A*	A*	_	_	_	_	_
+2	rarely	_	Word	-	-	_	T	_	_	_	_	_	_	_	_
 3	appeared	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
 4	in	_	Word	-	-	_	_	R	_	_	_	_	_	_	_
 5	public	_	Word	-	+	_	A	_	_	_	_	_	_	_	_
@@ -22,10 +22,10 @@
 21	hand	_	Word	-	+	_	_	_	_	A	_	_	_	_	_
 22	when	_	Word	-	-	_	L	_	_	_	_	_	_	_	_
 23	he	_	Word	-	-	_	_	_	_	_	_	_	_	A	A*
-24	took	_	Word	-	+	_	H	_	_	_	_	_	_	_	_
-25	a	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_
-26	picture	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_
-27	without	_	Word	-	-	_	L	_	_	_	_	_	_	_	_
+24	took	_	Word	-	-	_	_	_	_	_	_	_	_	F	_
+25	a	_	Word	-	-	_	_	_	_	_	_	_	_	E	_
+26	picture	_	Word	-	+	_	H	_	_	_	_	_	_	_	_
+27	without	_	Word	-	-	_	L	_	_	_	_	_	_	_	D*
 28	asking	_	Word	-	+	_	H	_	_	_	_	_	_	_	_
 29	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
 

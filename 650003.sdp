@@ -1,14 +1,14 @@
 # format = ucca
 1	In	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_
-2	December	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	1971	_	Word	-	+	_	_	_	_	D	_	_	_	_	_	_	_	_	_	_
+2	December	_	Word	-	+	_	_	_	_	T	_	_	_	_	_	_	_	_	_	_
+3	1971	_	Word	-	-	_	C	_	_	_	_	_	_	_	_	_	_	_	_	_
 4	at	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_
 5	Ann	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
 6	Arbor	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_
 7	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
 8	Michigan	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
 9	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
-10	15,000	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+10	15,000	_	Word	-	-	_	_	_	Q	_	_	_	_	_	_	_	_	_	_	_
 11	people	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
 12	attended	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 13	the	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
@@ -21,11 +21,11 @@
 20	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_
 21	a	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
 22	protest	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-23	and	_	Word	-	-	_	_	_	_	_	_	N	_	_	_	_	_	_	_	_
+23	and	_	Word	-	-	_	_	_	_	_	_	L	_	_	_	_	_	_	_	_
 24	benefit	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-25	concert	_	Word	-	+	_	_	_	_	_	_	C	_	_	_	_	_	_	_	_
+25	concert	_	Word	-	+	_	_	_	_	_	_	H	_	_	_	_	_	_	_	_
 26	with	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_
-27	contributions	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
+27	contributions	_	Word	-	+	_	_	_	_	_	_	A	A*	_	_	_	_	_	_	_
 28	from	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
 29	Lennon	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
 30	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_

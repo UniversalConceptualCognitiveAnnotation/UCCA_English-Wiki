@@ -1,56 +1,29 @@
 # format = ucca
-1	A	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-2	UK	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	number	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-4	one	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-5	and	_	Word	-	-	_	N	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-6	a	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-7	US	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-8	top	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-9	five	_	Word	-	+	_	C	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-10	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-11	Ram	_	Word	-	-	_	A*	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
-12	included	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-13	the	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-14	co	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-15	-	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-16	co	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_
-17	-	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-18	written	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-19	US	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-20	number	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-21	-	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
-22	one	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-23	hit	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-24	single	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-25	"	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_
-26	Uncle	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
-27	Albert	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
-28	/	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_
-29	Admiral	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
-30	Halsey	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
-31	"	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-32	.	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-33	Later	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_
-34	that	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-35	year	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	D	_	_	_	_
-36	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_
-37	ex	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-38	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_
-39	Moody	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-40	Blues	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_
-41	guitarist	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-42	Denny	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_	A*	_	_
-43	Laine	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_
-44	joined	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-45	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-46	McCartneys	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_	A*	_	_
-47	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	N	_	_	_
-48	Seiwell	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	C	_	_	_
-49	to	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-50	form	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-51	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-52	band	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-53	Wings	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
-54	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	In	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_
+2	September	_	Word	-	+	_	_	_	_	T	_	_	_	_	_	_
+3	1971	_	Word	-	-	_	C	_	_	_	_	_	_	_	_	_
+4	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_
+5	the	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_
+6	McCartneys	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_
+7	'	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_
+8	daughter	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_
+9	Stella	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_
+10	was	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_
+11	born	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+12	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_
+13	named	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_
+14	in	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_
+15	honour	_	Word	-	+	_	_	_	_	_	_	_	R	_	_	_
+16	of	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_
+17	Linda	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_
+18	's	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_
+19	grandmothers	_	Word	-	-	_	_	_	_	_	_	_	A	C*	_	_
+20	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_
+21	both	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A
+22	of	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	R
+23	whom	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_
+24	were	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F
+25	named	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_
+26	Stella	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A
+27	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
 

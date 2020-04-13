@@ -1,38 +1,38 @@
 # format = ucca
-1	A	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
-2	few	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	days	_	Word	-	+	_	_	_	_	_	_	_	_	_	D	_	_	_	_	_
-4	later	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_
-5	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_
-6	a	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-7	flight	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
-8	taking	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-9	Presley	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
-10	and	_	Word	-	-	_	_	_	_	N	_	_	_	_	_	_	_	_	_	_
-11	his	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-12	band	_	Word	-	+	_	_	_	_	C	_	_	_	_	_	_	_	_	_	_
-13	to	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_
-14	Nashville	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
-15	for	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_
-16	a	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-17	recording	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-18	session	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
-19	left	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	_	_	_	_	_
-20	all	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-21	three	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
-22	badly	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	_	_	_	_	_
-23	shaken	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-24	when	_	Word	-	-	_	_	_	_	_	_	_	_	_	L	_	_	_	_	_
-25	an	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-26	engine	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
-27	died	_	Word	-	+	_	_	_	_	_	_	_	_	_	H	_	_	_	_	_
-28	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	L	_	_	_	_	_
-29	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-30	plane	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_
-31	almost	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_
-32	went	_	Word	-	+	_	_	_	_	_	_	_	_	_	H	_	_	_	_	_
-33	down	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
-34	over	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
-35	Arkansas	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_
-36	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	A	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_	_	_
+2	few	_	Word	-	-	_	Q	_	_	_	_	_	_	_	_	_	_	_	_
+3	days	_	Word	-	+	_	_	L	_	_	_	_	_	_	_	_	_	_	_
+4	later	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_	_	_
+5	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+6	a	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+7	flight	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	taking	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_
+9	Presley	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_
+10	and	_	Word	-	-	_	_	_	N	_	_	_	_	_	_	_	_	_	_
+11	his	_	Word	-	+	_	_	_	C	_	_	_	_	_	_	_	_	_	_
+12	band	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_	_	_	_
+13	to	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_
+14	Nashville	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_
+15	for	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_
+16	a	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_	_	_	_
+17	recording	_	Word	-	-	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+18	session	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_
+19	left	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_
+20	all	_	Word	-	-	_	_	_	_	_	_	_	Q	_	_	_	_	_	_
+21	three	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_
+22	badly	_	Word	-	-	_	_	_	_	_	_	_	_	D	_	_	_	_	_
+23	shaken	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_
+24	when	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_
+25	an	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_
+26	engine	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_
+27	died	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_
+28	and	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_
+29	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_
+30	plane	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_
+31	almost	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	D	_
+32	went	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_
+33	down	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_
+34	over	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+35	Arkansas	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_
+36	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

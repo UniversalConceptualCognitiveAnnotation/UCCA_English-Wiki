@@ -1,33 +1,33 @@
 # format = ucca
-1	Born	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
-2	and	_	Word	-	-	_	N	_	_	_	_	_	_	_	_	_
-3	raised	_	Word	-	-	_	C	_	_	_	_	_	_	_	_	_
-4	in	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_
-5	Liverpool	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_
-6	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_
-7	as	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_
-8	a	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_
-9	teenager	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_
-10	Lennon	_	Word	-	-	_	_	_	A*	A	_	_	_	_	_	_
-11	became	_	Word	-	-	_	_	_	_	D	_	_	_	_	_	_
-12	involved	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_
-13	in	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_
-14	the	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_
-15	skiffle	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_
-16	craze	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_
-17	;	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_
-18	his	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_
-19	first	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_
-20	band	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_
-21	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_
-22	the	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_
-23	Quarrymen	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_
-24	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_
-25	evolved	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_
-26	into	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_
-27	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_
-28	Beatles	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_
-29	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
-30	1960	_	Word	-	+	_	_	_	_	_	_	_	_	D	_	_
-31	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
+1	Born	_	Word	-	+	_	_	_	_	H	_	_	_	_	_	_	_
+2	and	_	Word	-	-	_	_	_	_	L	_	_	_	_	_	_	_
+3	raised	_	Word	-	+	_	_	_	_	H	_	_	_	_	_	_	_
+4	in	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_
+5	Liverpool	_	Word	-	+	_	A	A*	_	_	_	_	_	_	_	_	_
+6	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_
+7	as	_	Word	-	-	_	_	_	_	L	_	_	_	_	_	_	_
+8	a	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_
+9	teenager	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
+10	Lennon	_	Word	-	-	_	_	_	_	A*	A	_	_	_	_	_	_
+11	became	_	Word	-	-	_	_	_	_	_	D	_	_	_	_	_	_
+12	involved	_	Word	-	+	_	_	_	_	H	_	_	_	_	_	_	_
+13	in	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_
+14	the	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_	_
+15	skiffle	_	Word	-	-	_	_	_	_	_	_	A	_	_	_	_	_
+16	craze	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_
+17	;	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_
+18	his	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	_	_
+19	first	_	Word	-	-	_	_	_	_	_	_	_	Q	_	_	_	_
+20	band	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_
+21	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_
+22	the	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_
+23	Quarrymen	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_
+24	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_
+25	evolved	_	Word	-	+	_	_	_	_	H	_	_	_	_	_	_	_
+26	into	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_
+27	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_
+28	Beatles	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_
+29	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R
+30	1960	_	Word	-	+	_	_	_	_	_	_	_	_	_	T	_	_
+31	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
 

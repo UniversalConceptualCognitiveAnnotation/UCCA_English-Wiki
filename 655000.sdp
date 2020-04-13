@@ -1,7 +1,7 @@
 # format = ucca
 1	When	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 2	the	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	Beatles	_	Word	-	+	_	_	A	_	_	_	A*	_	_	_	_	_	_	_	_	_	_
+3	Beatles	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 4	recorded	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 5	"	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 6	Twist	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_
@@ -15,12 +15,12 @@
 14	during	_	Word	-	-	_	_	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_
 15	the	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
 16	mammoth	_	Word	-	-	_	_	_	_	_	_	D	_	_	_	_	_	_	_	_	_	_
-17	one	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+17	one	_	Word	-	-	_	_	_	_	_	Q	_	_	_	_	_	_	_	_	_	_	_
 18	-	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
-19	day	_	Word	-	+	_	_	_	_	_	_	D	_	_	_	_	_	_	_	_	_	_
+19	day	_	Word	-	+	_	_	_	_	_	_	T	_	_	_	_	_	_	_	_	_	_
 20	session	_	Word	-	+	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_
-21	that	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_
-22	produced	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+21	that	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_
+22	produced	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
 23	the	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
 24	band	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
 25	's	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_
@@ -42,7 +42,7 @@
 41	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
 42	cold	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
 43	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
-44	came	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+44	came	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D
 45	close	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_
 46	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F
 47	giving	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_

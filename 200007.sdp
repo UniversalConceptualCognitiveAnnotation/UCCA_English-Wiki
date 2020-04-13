@@ -1,30 +1,49 @@
 # format = ucca
-1	In	_	Word	-	-	_	R	_	_	_	_	_	_
-2	January	_	Word	-	-	_	E	_	_	_	_	_	_
-3	2012	_	Word	-	+	_	_	D	_	_	_	_	_
-4	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_
-5	it	_	Word	-	-	_	_	F	_	_	_	_	_
-6	is	_	Word	-	-	_	_	F	_	_	_	_	_
-7	reported	_	Word	-	+	_	_	_	_	_	_	_	_
-8	that	_	Word	-	-	_	_	_	_	F	_	_	_
-9	Stephen	_	Word	-	+	_	_	_	_	A	_	_	_
-10	Schwartz	_	Word	-	-	_	_	_	Terminal	_	_	_	_
-11	is	_	Word	-	-	_	_	_	_	F	_	_	_
-12	now	_	Word	-	-	_	_	_	_	D	_	_	_
-13	writing	_	Word	-	+	_	_	A	_	_	_	_	_
-14	the	_	Word	-	-	_	_	_	_	_	E	_	_
-15	music	_	Word	-	+	_	_	_	_	A	_	_	_
-16	and	_	Word	-	-	_	_	_	_	_	N	_	_
-17	lyrics	_	Word	-	-	_	_	_	_	_	C	_	_
-18	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_
-19	while	_	Word	-	-	_	_	L	_	_	_	_	_
-20	Sorkin	_	Word	-	-	_	_	_	_	_	_	A	_
-21	is	_	Word	-	-	_	_	_	_	_	_	F	_
-22	making	_	Word	-	-	_	_	_	_	_	_	F	_
-23	his	_	Word	-	-	_	_	_	_	_	_	E	_
-24	debut	_	Word	-	+	_	_	H	_	_	_	_	_
-25	as	_	Word	-	-	_	_	_	_	_	_	_	R
-26	a	_	Word	-	-	_	_	_	_	_	_	_	E
-27	librettist	_	Word	-	+	_	_	_	_	_	_	A	_
-28	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+1	The	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+2	musical	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_
+3	is	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_	_	_
+4	expected	_	Word	-	-	_	_	G	_	_	_	_	_	_	_	_	_	_	_
+5	to	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_	_	_
+6	come	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	out	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
+8	in	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_
+9	2013	_	Word	-	+	_	_	T	_	_	_	_	_	_	_	_	_	_	_
+10	-	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_
+11	14	_	Word	-	-	_	_	_	C	_	_	_	_	_	_	_	_	_	_
+12	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+13	with	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_
+14	Sorkin	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_	_	_	_
+15	saying	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_
+16	"	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_
+17	The	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_
+18	chance	_	Word	-	+	_	_	_	_	_	_	D	_	_	_	_	_	_	_
+19	to	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_	_	_	_
+20	collaborate	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_
+21	with	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_
+22	Stephen	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_
+23	Schwartz	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
+24	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_	_
+25	(	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_	_
+26	the	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+27	director	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+28	)	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_	_
+29	Jack	_	Word	-	+	_	_	_	_	_	_	_	_	C	_	_	_	_	_
+30	O	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_
+31	'	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_
+32	Brien	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_
+33	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_	_
+34	and	_	Word	-	-	_	_	_	_	_	_	_	_	N	_	_	_	_	_
+35	Hugh	_	Word	-	+	_	_	_	_	_	_	_	_	C	_	_	_	_	_
+36	Jackman	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
+37	on	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_
+38	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_
+39	new	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_
+40	Broadway	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_
+41	musical	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+42	is	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_
+43	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+44	huge	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+45	gift	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_
+46	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+47	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

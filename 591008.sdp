@@ -1,32 +1,32 @@
 # format = ucca
-1	He	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
-2	was	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	also	_	Word	-	-	_	D	_	_	_	_	_	_	_	_	_	_	_	_	_
-4	a	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-5	member	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
-6	of	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_
-7	P	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-8	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
-9	a	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-10	group	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
-11	featuring	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-12	Butthole	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-13	Surfers	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
-14	singer	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-15	Gibby	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
-16	Haynes	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
-17	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_
-18	Red	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-19	Hot	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_
-20	Chili	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_
-21	Peppers	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_
-22	bassist	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-23	Flea	_	Word	-	+	_	_	_	_	_	_	_	_	C	_	_	_	_	_	_
-24	and	_	Word	-	-	_	_	_	_	_	_	_	_	N	_	_	_	_	_	_
-25	Sex	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-26	Pistols	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
-27	guitarist	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-28	Steve	_	Word	-	+	_	_	_	_	_	_	_	_	C	_	_	_	_	_	_
-29	Jones	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
-30	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	He	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_
+2	was	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_
+3	also	_	Word	-	-	_	D	_	_	_	_	_	_	_	_	_
+4	a	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_
+5	member	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+6	of	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_
+7	P	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_
+8	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_
+9	a	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_
+10	group	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_
+11	featuring	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_
+12	Butthole	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_
+13	Surfers	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_
+14	singer	_	Word	-	-	_	_	_	_	_	A	_	_	_	_	_
+15	Gibby	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_
+16	Haynes	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_
+17	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_
+18	Red	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_
+19	Hot	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_
+20	Chili	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_
+21	Peppers	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_
+22	bassist	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	_
+23	Flea	_	Word	-	+	_	_	_	_	_	_	C	_	_	_	_
+24	and	_	Word	-	-	_	_	_	_	_	_	N	_	_	_	_
+25	Sex	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E
+26	Pistols	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_
+27	guitarist	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_
+28	Steve	_	Word	-	+	_	_	_	_	_	_	C	_	_	_	_
+29	Jones	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal
+30	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
 

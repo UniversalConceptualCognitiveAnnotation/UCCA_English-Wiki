@@ -1,34 +1,15 @@
 # format = ucca
-1	In	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_
-2	1980	_	Word	-	+	_	_	D	_	_	_	_	_	_	_	_
-3	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_
-4	McCartney	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_
-5	released	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
-6	his	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_
-7	second	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_
-8	solo	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_
-9	LP	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_
-10	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_
-11	the	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_
-12	self	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_
-13	-	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_
-14	produced	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_
-15	McCartney	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_
-16	II	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_
-17	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_
-18	which	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_
-19	peaked	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_
-20	at	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_
-21	number	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_
-22	one	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_
-23	in	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_
-24	the	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_
-25	UK	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_
-26	and	_	Word	-	-	_	_	_	_	_	_	_	N	_	_	_
-27	number	_	Word	-	+	_	_	_	_	_	_	_	C	_	_	_
-28	three	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_
-29	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
-30	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E
-31	US	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_
-32	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
+1	As	_	Word	-	+	_	_	L	_	_
+2	with	_	Word	-	-	_	Terminal	_	_	_
+3	his	_	Word	-	-	_	_	E	_	_
+4	first	_	Word	-	-	_	_	Q	_	_
+5	album	_	Word	-	+	_	_	_	_	_
+6	,	_	Punctuation	-	-	_	_	U	_	_
+7	he	_	Word	-	-	_	_	A*	A	A*
+8	composed	_	Word	-	+	_	_	P*	_	_
+9	and	_	Word	-	-	_	_	L	_	_
+10	performed	_	Word	-	+	_	_	H	_	_
+11	it	_	Word	-	-	_	_	_	A	A*
+12	alone	_	Word	-	-	_	_	D*	D	D*
+13	.	_	Punctuation	-	-	_	_	U	_	_
 

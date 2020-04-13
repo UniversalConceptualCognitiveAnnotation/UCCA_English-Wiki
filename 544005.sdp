@@ -1,54 +1,54 @@
 # format = ucca
-1	Warner	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_	_
-2	later	_	Word	-	-	_	D	_	_	_	_	_	_	_	_	_	_	_	_
-3	described	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-4	the	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-5	incident	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_
-6	in	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_
-7	the	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-8	following	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-9	terms	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_
-10	:	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_
-11	"	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_
-12	Like	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_
-13	many	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-14	an	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-15	outnumbered	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-16	Jew	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_
-17	he	_	Word	-	-	_	_	_	_	_	A	_	_	_	_	_	_	_	_
-18	was	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_	_	_	_
-19	trapped	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-20	in	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_	_
-21	an	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-22	alley	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_
-23	.	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_
-24	They	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A*	_	A*
-25	[	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_
-26	Nazi	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-27	hoodlums	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-28	]	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_
-29	hit	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_	_	_	_
-30	him	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_	_	_	_
-31	with	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_
-32	fists	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_
-33	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	N	_	_	_
-34	clubs	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	C	_	_	_
-35	and	_	Word	-	-	_	_	_	_	_	L	_	_	_	_	_	_	_	_
-36	then	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	D	_	_
-37	kicked	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_	_	_	_
-38	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
-39	life	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
-40	out	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
-41	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
-42	him	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
-43	with	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_
-44	their	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-45	boots	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_
-46	and	_	Word	-	-	_	_	_	_	_	L	_	_	_	_	_	_	_	_
-47	left	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	D
-48	him	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	A
-49	dying	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_	_	_	_
-50	there	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	A
-51	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
-52	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	Warner	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	later	_	Word	-	-	_	T	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	described	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	the	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+5	incident	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	in	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_
+7	the	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+8	following	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+9	terms	_	Word	-	+	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_
+10	:	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_
+11	"	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_
+12	Like	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_
+13	many	_	Word	-	-	_	_	_	_	Q	_	_	_	_	_	_	_	_	_	_
+14	an	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+15	outnumbered	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+16	Jew	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
+17	he	_	Word	-	-	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
+18	was	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_
+19	trapped	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	in	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_
+21	an	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
+22	alley	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
+23	.	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_
+24	They	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A*	_	A*	A*
+25	[	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_
+26	Nazi	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
+27	hoodlums	_	Word	-	-	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
+28	]	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_
+29	hit	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_
+30	him	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
+31	with	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_
+32	fists	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
+33	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	N	_	_	_	_
+34	clubs	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	C	_	_	_	_
+35	and	_	Word	-	-	_	_	_	_	_	L	_	_	_	_	_	_	_	_	_
+36	then	_	Word	-	-	_	_	_	_	_	L	_	_	_	_	_	_	_	_	_
+37	kicked	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_
+38	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
+39	life	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
+40	out	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
+41	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
+42	him	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
+43	with	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_
+44	their	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
+45	boots	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
+46	and	_	Word	-	-	_	_	_	_	_	L	_	_	_	_	_	_	_	_	_
+47	left	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_
+48	him	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_
+49	dying	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_
+50	there	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A
+51	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+52	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

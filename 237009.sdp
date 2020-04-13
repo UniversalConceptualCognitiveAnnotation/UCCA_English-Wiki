@@ -1,45 +1,45 @@
 # format = ucca
-1	On	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_	_
-2	10	_	Word	-	+	_	_	D	_	_	_	_	_	_	_	_	_	_
-3	March	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
-4	2008	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
-5	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_
-6	Chan	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_	_	_
-7	was	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-8	the	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_
-9	guest	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_
-10	of	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_
-11	honour	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_
-12	for	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_
-13	the	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_
-14	launch	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_
-15	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_
-16	by	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_
-17	Australian	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_
-18	Prime	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_
-19	Minister	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_	_
-20	Kevin	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_
-21	Rudd	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_
-22	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_
-23	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_
-24	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_
-25	Jackie	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_	_
-26	Chan	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_	_
-27	Science	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_
-28	Centre	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_
-29	at	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_
-30	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_
-31	John	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_	_
-32	Curtin	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
-33	School	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
-34	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
-35	Medical	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
-36	Research	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
-37	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_
-38	Australian	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_	_
-39	National	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_
-40	University	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_
-41	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R
-42	Canberra	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_	_
-43	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	On	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_
+2	10	_	Word	-	+	_	_	T	_	_	_	_	_	_	_	_
+3	March	_	Word	-	-	_	C	_	_	_	_	_	_	_	_	_
+4	2008	_	Word	-	-	_	C	_	_	_	_	_	_	_	_	_
+5	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_
+6	Chan	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_
+7	was	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_
+8	the	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_
+9	guest	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+10	of	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_
+11	honour	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_
+12	for	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_
+13	the	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_
+14	launch	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_
+15	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_
+16	by	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_
+17	Australian	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_
+18	Prime	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_
+19	Minister	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_
+20	Kevin	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_
+21	Rudd	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_
+22	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_
+23	of	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_
+24	the	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_
+25	Jackie	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_
+26	Chan	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_
+27	Science	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_
+28	Centre	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_
+29	at	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_
+30	the	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_
+31	John	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_
+32	Curtin	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_
+33	School	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_
+34	of	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_
+35	Medical	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_
+36	Research	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_
+37	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_
+38	Australian	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_
+39	National	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_
+40	University	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_
+41	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
+42	Canberra	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_
+43	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
 

@@ -1,39 +1,39 @@
 # format = ucca
-1	Ken	_	Word	-	+	_	_	_	_	A	_	_	_	_	_
-2	Tucker	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_
-3	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
-4	television	_	Word	-	-	_	_	E	_	_	_	_	_	_	_
-5	reviewer	_	Word	-	+	_	E	_	_	_	_	_	_	_	_
-6	for	_	Word	-	-	_	_	_	R	_	_	_	_	_	_
-7	Entertainment	_	Word	-	+	_	_	E	_	_	_	_	_	_	_
-8	Weekly	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_
-9	wrote	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-10	:	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_
-11	"	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_
-12	Pitt	_	Word	-	-	_	_	_	_	_	A	_	A*	_	_
-13	is	_	Word	-	-	_	_	_	_	_	F	_	_	_	_
-14	a	_	Word	-	-	_	_	_	_	_	E	_	_	_	_
-15	magnificent	_	Word	-	-	_	_	_	_	_	E	_	_	_	_
-16	slimeball	_	Word	-	+	_	_	_	_	A	_	_	_	_	_
-17	as	_	Word	-	-	_	_	_	_	_	_	R	_	_	_
-18	her	_	Word	-	-	_	_	_	_	_	_	E	_	_	_
-19	hoody	_	Word	-	-	_	_	_	_	_	_	E	_	_	_
-20	boyfriend	_	Word	-	+	_	_	_	_	_	A	_	_	_	_
-21	;	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_
-22	looking	_	Word	-	+	_	_	_	_	_	H	_	_	_	_
-23	and	_	Word	-	-	_	_	_	_	_	_	_	N	_	_
-24	sounding	_	Word	-	-	_	_	_	_	_	_	_	C	_	_
-25	like	_	Word	-	-	_	_	_	_	_	_	_	_	R	_
-26	a	_	Word	-	-	_	_	_	_	_	_	_	_	E	_
-27	malevolent	_	Word	-	-	_	_	_	_	_	_	_	_	E	_
-28	John	_	Word	-	+	_	_	_	_	_	_	_	A	_	_
-29	Cougar	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_
-30	Mellencamp	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_
-31	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_
-32	he	_	Word	-	-	_	_	_	_	_	_	_	_	_	A
-33	's	_	Word	-	-	_	_	_	_	_	_	_	_	_	F
-34	really	_	Word	-	-	_	_	_	_	_	_	_	_	_	D
-35	scary	_	Word	-	+	_	_	_	_	_	H	_	_	_	_
-36	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
-37	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+1	Ken	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_
+2	Tucker	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_
+3	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_
+4	television	_	Word	-	+	_	E	_	_	_	_	_	_	_	_	_	_
+5	reviewer	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_	_
+6	for	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_
+7	Entertainment	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_
+8	Weekly	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_
+9	wrote	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
+10	:	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_
+11	"	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_
+12	Pitt	_	Word	-	+	_	_	_	_	_	_	_	A*	_	A*	_	_
+13	is	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_	_
+14	a	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_
+15	magnificent	_	Word	-	-	_	_	_	_	_	_	D	_	_	_	_	_
+16	slimeball	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_
+17	as	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_
+18	her	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	_	_
+19	hoody	_	Word	-	-	_	_	_	_	_	_	_	D	_	_	_	_
+20	boyfriend	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_
+21	;	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_
+22	looking	_	Word	-	+	_	_	_	_	_	_	_	_	_	G	_	_
+23	and	_	Word	-	-	_	_	_	_	_	_	_	_	N	_	_	_
+24	sounding	_	Word	-	-	_	_	_	_	_	_	_	_	C	_	_	_
+25	like	_	Word	-	+	_	_	_	_	_	_	H	_	_	_	_	_
+26	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_
+27	malevolent	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_
+28	John	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_
+29	Cougar	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_
+30	Mellencamp	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_
+31	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_
+32	he	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A
+33	's	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F
+34	really	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	D
+35	scary	_	Word	-	+	_	_	_	_	_	_	H	_	_	_	_	_
+36	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
+37	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
 

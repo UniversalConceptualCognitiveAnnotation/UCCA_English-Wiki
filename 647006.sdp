@@ -1,28 +1,28 @@
 # format = ucca
-1	She	_	Word	-	-	_	_	A	_	_	_	_	A*	_	_
-2	went	_	Word	-	+	_	_	E	_	_	_	_	_	_	_
-3	on	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_
-4	to	_	Word	-	-	_	_	F	_	_	_	_	_	_	_
-5	suggest	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-6	that	_	Word	-	-	_	_	_	_	_	F	_	_	_	_
-7	Pang	_	Word	-	-	_	_	_	_	_	A	_	_	_	_
-8	should	_	Word	-	-	_	_	_	E	_	_	_	_	_	_
-9	begin	_	Word	-	+	_	_	_	_	_	E	_	_	_	_
-10	a	_	Word	-	-	_	_	_	_	E	_	_	_	_	_
-11	physical	_	Word	-	+	_	_	_	_	_	D	_	_	_	_
-12	relationship	_	Word	-	+	_	_	A	_	_	_	_	_	_	_
-13	with	_	Word	-	-	_	_	_	_	_	_	R	_	_	_
-14	Lennon	_	Word	-	+	_	_	_	_	_	A	_	_	_	_
-15	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_
-16	telling	_	Word	-	+	_	_	H	_	_	_	_	_	_	_
-17	her	_	Word	-	-	_	_	_	_	_	_	_	A	_	_
-18	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_
-19	"	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_
-20	He	_	Word	-	-	_	_	_	_	_	_	_	_	A	_
-21	likes	_	Word	-	+	_	_	_	_	_	_	_	A	_	_
-22	you	_	Word	-	-	_	_	_	_	_	_	_	_	A	_
-23	a	_	Word	-	+	_	_	_	_	_	_	_	_	D	_
-24	lot	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal
-25	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_
-26	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_
+1	She	_	Word	-	-	_	_	A	_	_	_	A*	_	_
+2	went	_	Word	-	+	_	_	D	_	_	_	_	_	_
+3	on	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_
+4	to	_	Word	-	-	_	_	F	_	_	_	_	_	_
+5	suggest	_	Word	-	+	_	_	_	_	_	_	_	_	_
+6	that	_	Word	-	-	_	_	_	_	R	_	_	_	_
+7	Pang	_	Word	-	-	_	_	_	_	A	_	_	_	_
+8	should	_	Word	-	-	_	_	_	_	D	_	_	_	_
+9	begin	_	Word	-	-	_	_	_	_	D	_	_	_	_
+10	a	_	Word	-	-	_	_	_	E	_	_	_	_	_
+11	physical	_	Word	-	+	_	_	_	_	D	_	_	_	_
+12	relationship	_	Word	-	+	_	_	A	_	_	_	_	_	_
+13	with	_	Word	-	-	_	_	_	_	_	R	_	_	_
+14	Lennon	_	Word	-	+	_	_	_	_	A	_	_	_	_
+15	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_
+16	telling	_	Word	-	+	_	_	H	_	_	_	_	_	_
+17	her	_	Word	-	-	_	_	_	_	_	_	A	_	_
+18	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_
+19	"	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_
+20	He	_	Word	-	-	_	_	_	_	_	_	_	A	_
+21	likes	_	Word	-	+	_	_	_	_	_	_	A	_	_
+22	you	_	Word	-	-	_	_	_	_	_	_	_	A	_
+23	a	_	Word	-	+	_	_	_	_	_	_	_	D	_
+24	lot	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal
+25	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_
+26	"	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_
 

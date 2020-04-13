@@ -1,7 +1,7 @@
 # format = ucca
 1	On	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_	_	_
-2	12	_	Word	-	+	_	_	D	_	_	_	_	_	_	_	_	_	_	_
-3	December	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_
+2	12	_	Word	-	+	_	_	T	_	_	_	_	_	_	_	_	_	_	_
+3	December	_	Word	-	-	_	C	_	_	_	_	_	_	_	_	_	_	_	_
 4	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_
 5	McCartney	_	Word	-	-	_	_	A	A*	_	_	_	_	_	_	_	_	_	_
 6	performed	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
@@ -19,7 +19,7 @@
 18	Smear	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_
 19	(	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_
 20	all	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	_	_	_	_
-21	former	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_
+21	former	_	Word	-	-	_	_	_	_	_	_	_	D	_	_	_	_	_	_
 22	members	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_	_
 23	of	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_
 24	Nirvana	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_
@@ -44,9 +44,9 @@
 43	seen	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_	_	_
 44	by	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R
 45	approximately	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-46	two	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-47	billion	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+46	two	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	Q
+47	billion	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_
 48	people	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_
-49	worldwide	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-50	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+49	worldwide	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+50	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_	_
 

@@ -1,29 +1,22 @@
 # format = ucca
-1	Hawke	_	Word	-	-	_	A	_	_	_	_	_	_
-2	regarded	_	Word	-	+	_	_	_	_	_	_	_	_
-3	Tape	_	Word	-	-	_	A	_	_	_	_	_	_
-4	as	_	Word	-	-	_	_	R	_	_	_	_	_
-5	his	_	Word	-	-	_	_	A	A*	_	_	_	_
-6	"	_	Punctuation	-	-	_	_	U	_	_	_	_	_
-7	first	_	Word	-	-	_	_	D	_	_	_	_	_
-8	adult	_	Word	-	-	_	_	E	_	_	_	_	_
-9	performance	_	Word	-	+	_	A	_	_	_	_	_	_
-10	"	_	Punctuation	-	-	_	U	_	_	_	_	_	_
-11	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_
-12	a	_	Word	-	-	_	_	_	E	_	_	_	_
-13	performance	_	Word	-	+	_	_	_	_	A	_	_	_
-14	noted	_	Word	-	+	_	H	_	_	_	_	_	_
-15	by	_	Word	-	-	_	_	_	_	_	R	_	_
-16	Roger	_	Word	-	+	_	_	_	_	A	_	_	_
-17	Ebert	_	Word	-	-	_	_	_	_	_	Terminal	_	_
-18	for	_	Word	-	-	_	_	_	_	_	_	_	R
-19	its	_	Word	-	-	_	_	_	_	_	_	_	A
-20	"	_	Punctuation	-	-	_	_	_	_	_	_	_	U
-21	physical	_	Word	-	+	_	_	_	_	_	_	_	E
-22	and	_	Word	-	-	_	_	_	_	_	_	N	_
-23	verbal	_	Word	-	-	_	_	_	_	_	_	C	_
-24	acting	_	Word	-	+	_	_	_	_	A	_	_	_
-25	mastery	_	Word	-	-	_	_	_	_	_	_	_	E
-26	"	_	Punctuation	-	-	_	_	_	_	_	_	_	U
-27	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+1	The	_	Word	-	-	_	F	_	_	_	_	_	_	_
+2	film	_	Word	-	+	_	_	_	_	A*	_	_	_	A*
+3	was	_	Word	-	-	_	_	_	F	_	_	_	_	_
+4	a	_	Word	-	-	_	_	_	F	_	_	_	_	_
+5	box	_	Word	-	+	_	_	_	A	_	_	_	_	_
+6	office	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_
+7	hit	_	Word	-	+	_	_	_	_	_	_	_	_	_
+8	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_
+9	taking	_	Word	-	+	_	_	_	H	_	_	_	_	_
+10	$	_	Word	-	+	_	_	_	_	A	_	_	_	_
+11	104	_	Word	-	+	_	_	_	_	_	Q	_	_	_
+12	million	_	Word	-	-	_	_	_	_	_	_	C	_	_
+13	worldwide	_	Word	-	-	_	_	_	_	A	_	_	_	_
+14	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_
+15	and	_	Word	-	-	_	_	_	L	_	_	_	_	_
+16	garnered	_	Word	-	-	_	_	_	_	_	_	_	_	D
+17	generally	_	Word	-	-	_	_	_	_	_	_	_	E	_
+18	favorable	_	Word	-	+	_	_	_	_	_	_	_	_	D
+19	reviews	_	Word	-	+	_	_	_	H	_	_	_	_	_
+20	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
 

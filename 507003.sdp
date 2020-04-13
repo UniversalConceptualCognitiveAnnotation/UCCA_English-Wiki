@@ -1,25 +1,25 @@
 # format = ucca
-1	Though	_	Word	-	-	_	L	_	_	_	_	_	_
-2	he	_	Word	-	-	_	A	_	_	_	_	_	_
-3	intended	_	Word	-	+	_	_	_	_	_	_	_	_
-4	Tin	_	Word	-	+	_	_	_	A	_	_	_	_
-5	Machine	_	Word	-	-	_	_	Terminal	_	_	_	_	_
-6	to	_	Word	-	-	_	_	_	F	_	_	_	_
-7	operate	_	Word	-	+	_	A	_	_	_	_	_	_
-8	as	_	Word	-	-	_	_	_	_	R	_	_	_
-9	a	_	Word	-	-	_	_	_	_	E	_	_	_
-10	democracy	_	Word	-	+	_	_	_	A	_	_	_	_
-11	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_
-12	Bowie	_	Word	-	-	_	_	_	_	_	A	_	_
-13	dominated	_	Word	-	+	_	H	_	_	_	_	_	_
-14	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_
-15	both	_	Word	-	-	_	_	_	_	_	_	N	_
-16	in	_	Word	-	-	_	_	_	_	_	_	R	_
-17	songwriting	_	Word	-	+	_	_	_	_	_	A	_	_
-18	and	_	Word	-	-	_	_	_	_	_	_	N	_
-19	in	_	Word	-	-	_	_	_	_	_	_	_	R
-20	decision	_	Word	-	-	_	_	_	_	_	_	_	E
-21	-	_	Punctuation	-	-	_	_	_	_	_	_	_	U
-22	making	_	Word	-	+	_	_	_	_	_	_	C	_
-23	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+1	Though	_	Word	-	-	_	L	_	_	_	_	_
+2	he	_	Word	-	-	_	A	_	_	_	_	_
+3	intended	_	Word	-	+	_	_	_	_	_	_	_
+4	Tin	_	Word	-	+	_	_	_	A	_	_	_
+5	Machine	_	Word	-	-	_	_	Terminal	_	_	_	_
+6	to	_	Word	-	-	_	_	_	F	_	_	_
+7	operate	_	Word	-	+	_	A	_	_	_	_	_
+8	as	_	Word	-	-	_	_	_	_	R	_	_
+9	a	_	Word	-	-	_	_	_	_	E	_	_
+10	democracy	_	Word	-	+	_	_	_	D	_	_	_
+11	,	_	Punctuation	-	-	_	U	_	_	_	_	_
+12	Bowie	_	Word	-	-	_	_	_	_	_	A	A*
+13	dominated	_	Word	-	-	_	_	_	_	_	D	D*
+14	,	_	Punctuation	-	-	_	U	_	_	_	_	_
+15	both	_	Word	-	-	_	L	_	_	_	_	_
+16	in	_	Word	-	-	_	_	_	_	_	R	_
+17	songwriting	_	Word	-	+	_	H	_	_	_	_	_
+18	and	_	Word	-	-	_	L	_	_	_	_	_
+19	in	_	Word	-	-	_	_	_	_	_	_	R
+20	decision	_	Word	-	-	_	_	_	_	_	_	E
+21	-	_	Punctuation	-	-	_	_	_	_	_	_	U
+22	making	_	Word	-	+	_	H	_	_	_	_	_
+23	.	_	Punctuation	-	-	_	_	_	_	_	_	U
 

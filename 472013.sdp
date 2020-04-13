@@ -1,17 +1,34 @@
 # format = ucca
-1	Johnson	_	Word	-	-	_	A	_	_	_	_	_
-2	later	_	Word	-	-	_	D	_	_	_	_	_
-3	accused	_	Word	-	+	_	_	_	_	_	_	_
-4	Isiah	_	Word	-	+	_	A	_	A*	_	_	_
-5	Thomas	_	Word	-	-	_	_	Terminal	_	_	_	_
-6	of	_	Word	-	-	_	_	_	R	_	_	_
-7	spreading	_	Word	-	+	_	A	_	_	_	_	_
-8	the	_	Word	-	-	_	_	_	_	E	_	_
-9	rumors	_	Word	-	+	_	_	_	A	_	_	_
-10	,	_	Punctuation	-	-	_	U	_	_	_	_	_
-11	a	_	Word	-	-	_	_	_	_	_	E	_
-12	claim	_	Word	-	+	_	_	_	_	_	_	A
-13	Thomas	_	Word	-	-	_	_	_	_	_	_	A
-14	denied	_	Word	-	+	_	H	_	_	_	_	_
-15	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+1	Johnson	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_
+2	's	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_
+3	HIV	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_	_
+4	announcement	_	Word	-	+	_	_	_	_	_	_	_	A*	_	_	_	_
+5	became	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
+6	a	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_	_
+7	major	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_
+8	news	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_
+9	story	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_
+10	in	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_
+11	the	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_	_
+12	United	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_
+13	States	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_
+14	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_
+15	and	_	Word	-	-	_	_	_	L	_	_	_	_	_	_	_	_
+16	in	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_
+17	2004	_	Word	-	+	_	_	_	_	_	_	_	T	_	_	_	_
+18	was	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_	_
+19	named	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_
+20	as	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_
+21	ESPN	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_
+22	's	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_
+23	seventh	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Q	_
+24	most	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_
+25	memorable	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_
+26	moment	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_
+27	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R
+28	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F
+29	past	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E
+30	25	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Q
+31	years	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_
+32	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
 

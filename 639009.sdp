@@ -1,27 +1,47 @@
 # format = ucca
-1	An	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_
-2	alternate	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_	_
-3	take	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_
-4	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_
-5	from	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_	_
-6	the	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_
-7	same	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_
-8	1973	_	Word	-	-	_	_	_	_	_	D	_	_	_	_	_	_
-9	Ringo	_	Word	-	-	_	_	_	_	_	A	_	_	_	_	_	_
-10	sessions	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_
-11	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_
-12	with	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_	_
-13	Lennon	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	_	_
-14	providing	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_
-15	a	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_
-16	guide	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_
-17	vocal	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_
-18	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_
-19	appears	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
-20	on	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R
-21	John	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E
-22	Lennon	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_
-23	Anthology	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_
-24	)	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
-25	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
+1	An	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	alternate	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	take	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
+4	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	from	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	the	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	same	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+8	1973	_	Word	-	-	_	_	_	_	_	T	_	_	_	_	_	_	_	_	_	_	_	_
+9	Ringo	_	Word	-	-	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
+10	sessions	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	with	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	Lennon	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+14	providing	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
+15	a	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+16	guide	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+17	vocal	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+18	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_
+19	appears	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	on	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_
+21	John	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
+22	Lennon	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_
+23	Anthology	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
+24	)	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_
+25	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_
+26	In	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
+27	early	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+28	1974	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	T	_	_	_	_
+29	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_
+30	Lennon	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+31	was	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_
+32	drinking	_	Word	-	+	_	_	_	_	_	_	_	_	_	H	_	_	_	_	_	_	_	_
+33	heavily	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_	_	_	_
+34	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	L	_	_	_	_	_	_	_	_
+35	his	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+36	alcohol	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_	_
+37	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_
+38	fuelled	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+39	antics	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A
+40	with	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
+41	Harry	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+42	Nilsson	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_
+43	made	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F
+44	headlines	_	Word	-	+	_	_	_	_	_	_	_	_	_	H	_	_	_	_	_	_	_	_
+45	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

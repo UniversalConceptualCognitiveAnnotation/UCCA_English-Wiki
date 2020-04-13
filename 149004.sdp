@@ -1,47 +1,47 @@
 # format = ucca
-1	In	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_
-2	response	_	Word	-	+	_	_	L	_	_	_	_	_	_	_	_
-3	to	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_
-4	the	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_
-5	question	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
-6	of	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_
-7	why	_	Word	-	-	_	_	_	D	_	_	_	_	_	_	_
-8	she	_	Word	-	-	_	_	_	A	_	_	_	_	_	_	_
-9	stayed	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_
-10	with	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_
-11	Tracy	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_
-12	for	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_
-13	so	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_
-14	long	_	Word	-	+	_	_	_	D	_	_	_	_	_	_	_
-15	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_
-16	despite	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_
-17	the	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_
-18	nature	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_
-19	of	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_
-20	their	_	Word	-	-	_	_	_	_	_	_	A	_	_	_	_
-21	relationship	_	Word	-	-	_	_	_	_	_	_	A	_	_	_	_
-22	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_
-23	she	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	_
-24	said	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_
-25	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_
-26	"	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_
-27	I	_	Word	-	-	_	_	_	_	_	_	_	_	A	_	_
-28	honestly	_	Word	-	-	_	_	_	_	_	_	_	_	D	_	_
-29	do	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_
-30	n't	_	Word	-	-	_	_	_	_	_	_	_	_	D	_	_
-31	know	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_
-32	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_
-33	I	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_
-34	can	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_
-35	only	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	_
-36	say	_	Word	-	+	_	_	_	_	_	_	_	_	H	_	_
-37	that	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
-38	I	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A
-39	could	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F
-40	never	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D
-41	have	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F
-42	left	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_
-43	him	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A
-44	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
-45	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
+1	In	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_	_
+2	response	_	Word	-	+	_	_	L	_	_	_	_	_	_	_	_	_	_
+3	to	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_	_
+4	the	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_
+5	question	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	of	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_
+7	why	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_
+8	she	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_	_	_
+9	stayed	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_
+10	with	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_
+11	Tracy	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_
+12	for	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_
+13	so	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_
+14	long	_	Word	-	+	_	_	_	_	T	_	_	_	_	_	_	_	_
+15	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_
+16	despite	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_
+17	the	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_
+18	nature	_	Word	-	+	_	_	_	_	_	_	_	_	D	_	_	_	_
+19	of	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_	_
+20	their	_	Word	-	-	_	_	_	_	_	_	_	_	A	_	_	_	_
+21	relationship	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_
+22	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_
+23	she	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_	_	_
+24	said	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_
+25	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_
+26	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_
+27	I	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A	_	_
+28	honestly	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D	_	_
+29	do	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_	_
+30	n't	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D	_	_
+31	know	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_
+32	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_
+33	I	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A	_
+34	can	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	D	_
+35	only	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	D	_
+36	say	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	H	_	_
+37	that	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R
+38	I	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	A
+39	could	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	D
+40	never	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	T
+41	have	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	F
+42	left	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_
+43	him	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	A
+44	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
+45	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
 

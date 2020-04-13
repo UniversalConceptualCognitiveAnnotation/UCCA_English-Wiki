@@ -1,52 +1,34 @@
 # format = ucca
-1	The	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-2	pregnancy	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	was	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_
-4	first	_	Word	-	-	_	_	D	_	_	_	_	_	_	_	_	_	_	_	_	_
-5	reported	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-6	by	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_
-7	Us	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
-8	Weekly	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_
-9	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
-10	and	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_
-11	Stefani	_	Word	-	-	_	_	_	_	A	_	A*	_	_	_	_	_	_	_	_	_
-12	confirmed	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
-13	the	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-14	pregnancy	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
-15	by	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_
-16	shouting	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
-17	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_
-18	"	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_
-19	I	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
-20	want	_	Word	-	-	_	_	_	_	_	_	_	D	_	_	_	_	_	_	_	_
-21	you	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
-22	to	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_
-23	sing	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
-24	so	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-25	loud	_	Word	-	+	_	_	_	_	_	_	_	D	_	_	_	_	_	_	_	_
-26	that	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_
-27	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-28	baby	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
-29	hears	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
-30	it	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
-31	!	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_
-32	"	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_
-33	during	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_
-34	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-35	concert	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
-36	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_
-37	Fort	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
-38	Lauderdale	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
-39	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_
-40	Florida	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-41	after	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_
-42	her	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-43	press	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-44	agent	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_
-45	stated	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
-46	that	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F
-47	it	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A
-48	was	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F
-49	untrue	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_
-50	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	The	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_
+2	pregnancy	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_
+3	was	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_
+4	first	_	Word	-	-	_	_	D	_	_	_	_	_	_	_	_	_
+5	reported	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
+6	by	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_
+7	Us	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_
+8	Weekly	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_
+9	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_
+10	and	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_
+11	Stefani	_	Word	-	-	_	_	_	_	A	_	A*	_	_	_	_	_
+12	confirmed	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_
+13	the	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_
+14	pregnancy	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_
+15	by	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_
+16	shouting	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_
+17	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_
+18	"	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_
+19	I	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	_	_
+20	want	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_
+21	you	_	Word	-	-	_	_	_	_	_	_	_	_	A	_	_	_
+22	to	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_
+23	sing	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_
+24	so	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_
+25	loud	_	Word	-	+	_	_	_	_	_	_	_	_	D	_	_	_
+26	that	_	Word	-	-	_	_	_	_	_	_	_	_	L	_	_	_
+27	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_
+28	baby	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A
+29	hears	_	Word	-	+	_	_	_	_	_	_	_	_	H	_	_	_
+30	it	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A
+31	!	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
+32	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
 

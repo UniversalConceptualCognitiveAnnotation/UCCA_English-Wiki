@@ -1,28 +1,45 @@
 # format = ucca
-1	He	_	Word	-	-	_	A	A*	_	_	_	_	_	_	_	_
-2	was	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_
-3	noted	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
-4	for	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_
-5	questioning	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_
-6	General	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_
-7	Wesley	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_
-8	Clark	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_
-9	over	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_
-10	Clark	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_
-11	's	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_
-12	silence	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_
-13	over	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_
-14	controversial	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_
-15	comments	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_
-16	made	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_
-17	by	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_
-18	filmmaker	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_
-19	Michael	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_
-20	Moore	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_
-21	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_
-22	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_
-23	supporter	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_
-24	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
-25	Clark	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_
-26	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
+1	Moore	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_	_
+2	called	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	then	_	Word	-	-	_	_	D	_	_	_	_	_	_	_	_	_	_	_
+4	-	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+5	President	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+6	George	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_
+7	W.	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
+8	Bush	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
+9	a	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+10	"	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_
+11	deserter	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_
+12	"	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+13	.	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+14	By	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_
+15	late	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_
+16	2004	_	Word	-	+	_	_	_	_	_	_	T	_	_	_	_	_	_	_
+17	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_
+18	Brokaw	_	Word	-	-	_	_	_	_	_	_	A	_	_	A*	_	_	_	_
+19	had	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_	_	_	_
+20	retired	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_
+21	from	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_
+22	his	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_
+23	anchoring	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_
+24	duties	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+25	at	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_
+26	NBC	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_	_	_
+27	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+28	ceding	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_
+29	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+30	reins	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+31	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_
+32	Brian	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+33	Williams	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
+34	;	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+35	Rather	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	A	_
+36	planned	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	D	_
+37	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	F	_
+38	step	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_
+39	down	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_
+40	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+41	March	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	T	_
+42	2005	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	C
+43	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

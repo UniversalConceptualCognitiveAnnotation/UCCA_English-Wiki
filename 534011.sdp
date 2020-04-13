@@ -1,40 +1,37 @@
 # format = ucca
-1	In	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_	_	_
-2	a	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-3	2009	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-4	interview	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_
-5	gay	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-6	historian	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-7	David	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_
-8	Carter	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
-9	stated	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-10	that	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_	_	_	_
-11	this	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-12	connection	_	Word	-	+	_	_	_	_	_	_	_	A*	_	_	_	_	_	_
-13	is	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_	_	_	_
-14	untrue	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_
-15	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_
-16	and	_	Word	-	-	_	_	_	_	L	_	_	_	_	_	_	_	_	_
-17	based	_	Word	-	+	_	_	_	_	H	_	_	_	_	_	_	_	_	_
-18	on	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_
-19	a	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-20	mocking	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-21	reference	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_
-22	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_
-23	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-24	riot	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-25	by	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_
-26	an	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-27	anti	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-28	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_
-29	gay	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-30	writer	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_
-31	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_
-32	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-33	Village	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-34	Voice	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_
-35	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-36	next	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-37	day	_	Word	-	+	_	_	_	_	_	_	_	_	D	_	_	_	_	_
-38	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	Rivera	_	Word	-	-	_	A	_	_	_	_	A*	_	_	_
+2	said	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+3	that	_	Word	-	-	_	_	R	_	_	_	_	_	_	_
+4	indeed	_	Word	-	-	_	_	G	_	_	_	_	_	_	_
+5	there	_	Word	-	-	_	_	F	_	_	_	_	_	_	_
+6	was	_	Word	-	-	_	_	F	_	_	_	_	_	_	_
+7	a	_	Word	-	-	_	_	F	_	_	_	_	_	_	_
+8	feeling	_	Word	-	+	_	A	_	_	_	_	_	_	_	_
+9	in	_	Word	-	+	_	_	D	_	_	_	_	_	_	_
+10	the	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_
+11	air	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_
+12	that	_	Word	-	-	_	_	_	_	R	_	_	_	_	_
+13	something	_	Word	-	-	_	_	_	_	A	_	_	_	_	_
+14	would	_	Word	-	-	_	_	_	_	D	_	_	_	_	_
+15	happen	_	Word	-	+	_	_	A	_	_	_	_	_	_	_
+16	that	_	Word	-	-	_	_	_	_	_	E	_	_	_	_
+17	night	_	Word	-	+	_	_	_	_	T	_	_	_	_	_
+18	:	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
+19	"	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
+20	I	_	Word	-	-	_	_	_	_	_	_	A	_	_	_
+21	guess	_	Word	-	+	_	H	_	_	_	_	_	_	_	_
+22	Judy	_	Word	-	+	_	_	_	_	_	_	_	_	A	_
+23	Garland	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_
+24	's	_	Word	-	-	_	_	_	_	_	_	_	R	_	_
+25	death	_	Word	-	+	_	_	_	_	_	_	_	_	_	A
+26	just	_	Word	-	-	_	_	_	_	_	_	_	_	_	D
+27	really	_	Word	-	-	_	_	_	_	_	_	_	_	_	D
+28	helped	_	Word	-	-	_	_	_	_	_	_	_	_	_	D
+29	us	_	Word	-	-	_	_	_	_	_	_	_	_	_	A
+30	really	_	Word	-	-	_	_	_	_	_	_	_	_	_	D
+31	hit	_	Word	-	+	_	_	_	_	_	_	A	_	_	_
+32	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal
+33	fan	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal
+34	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+35	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
 

@@ -1,54 +1,30 @@
 # format = ucca
-1	I	_	Word	-	-	_	A	_	A*	_	_	_	_	_	_	_	_	_	_	_
-2	went	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	in	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_
-4	the	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-5	front	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-6	door	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
-7	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_
-8	came	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
-9	out	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_
-10	the	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-11	front	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-12	door	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
-13	.	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
-14	They	_	Word	-	-	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
-15	were	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_
-16	regular	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-17	people	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
-18	.	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
-19	They	_	Word	-	-	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
-20	were	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_
-21	very	_	Word	-	-	_	_	_	_	_	_	D	_	_	_	_	_	_	_	_
-22	touching	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
-23	.	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
-24	And	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_
-25	I	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
-26	cried	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
-27	a	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-28	little	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-29	bit	_	Word	-	+	_	_	_	_	_	_	_	D	_	_	_	_	_	_	_
-30	-	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
-31	my	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-32	kids	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
-33	did	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_
-34	n't	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D	_	_	_	_
-35	cry	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
-36	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
-37	but	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_
-38	I	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
-39	cried	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
-40	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-41	bit	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	D	_	_	_
-42	-	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
-43	but	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_
-44	I	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A
-45	'm	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F
-46	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-47	fairly	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D
-48	emotional	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-49	character	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
-50	anyway	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F
-51	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
-52	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	As	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_
+2	he	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_
+3	did	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+4	in	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_
+5	2000	_	Word	-	+	_	T	_	_	_	_	_	_	_	_	_
+6	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_
+7	Jennings	_	Word	-	-	_	_	_	A	_	_	_	_	_	_	_
+8	moderated	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_
+9	the	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_
+10	2004	_	Word	-	-	_	_	_	_	_	T	_	_	_	_	_
+11	Democratic	_	Word	-	+	_	_	_	_	_	D	_	_	_	_	_
+12	presidential	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_
+13	primary	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_
+14	debate	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_
+15	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_
+16	which	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_
+17	was	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_
+18	held	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_
+19	that	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_
+20	year	_	Word	-	+	_	_	_	_	_	_	T	_	_	_	_
+21	at	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_
+22	Saint	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_
+23	Anselm	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_
+24	College	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_
+25	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
+26	New	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_
+27	Hampshire	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal
+28	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
 

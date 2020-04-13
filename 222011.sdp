@@ -1,46 +1,46 @@
 # format = ucca
-1	In	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_	_	_
-2	1960	_	Word	-	+	_	_	_	D	_	_	_	_	_	_	_	_	_	_
-3	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_
-4	his	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-5	father	_	Word	-	+	_	_	_	A	_	A*	_	_	_	_	_	_	_	_
-6	immigrated	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-7	to	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_
-8	Canberra	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_
-9	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_
-10	Australia	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-11	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_
-12	to	_	Word	-	-	_	_	_	L	_	_	_	_	_	_	_	_	_	_
-13	work	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_	_
-14	as	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_	_
-15	the	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-16	head	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-17	cook	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_
-18	for	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_
-19	the	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-20	American	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-21	embassy	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-22	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_
-23	and	_	Word	-	-	_	_	_	L	_	_	_	_	_	_	_	_	_	_
-24	Chan	_	Word	-	-	_	_	_	_	_	_	_	_	A	_	_	_	_	_
-25	was	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_	_	_
-26	sent	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_	_
-27	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_
-28	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-29	China	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-30	Drama	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-31	Academy	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	A*	_
-32	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_	_
-33	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-34	Peking	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-35	Opera	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-36	School	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_
-37	run	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-38	by	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R
-39	Master	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-40	Yu	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_
-41	Jim	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
-42	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
-43	yuen	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
-44	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	In	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_
+2	1960	_	Word	-	+	_	_	_	T	_	_	_	_	_	_	_	_
+3	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_
+4	his	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_	_
+5	father	_	Word	-	+	_	_	_	A	_	A*	_	_	_	_	_	_
+6	immigrated	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
+7	to	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_
+8	Canberra	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_
+9	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_
+10	Australia	_	Word	-	-	_	_	_	_	C	_	_	_	_	_	_	_
+11	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_
+12	to	_	Word	-	-	_	_	_	L	_	_	_	_	_	_	_	_
+13	work	_	Word	-	-	_	_	_	_	_	D	_	_	_	_	_	_
+14	as	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_
+15	the	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_	_
+16	head	_	Word	-	-	_	_	_	_	_	D	_	_	_	_	_	_
+17	cook	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_
+18	for	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_
+19	the	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_	_
+20	American	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_
+21	embassy	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_
+22	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_
+23	and	_	Word	-	-	_	_	_	L	_	_	_	_	_	_	_	_
+24	Chan	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	_	_
+25	was	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_	_
+26	sent	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_
+27	to	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_
+28	the	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_
+29	China	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_
+30	Drama	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_
+31	Academy	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_
+32	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_
+33	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_
+34	Peking	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_
+35	Opera	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_
+36	School	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_
+37	run	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_
+38	by	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R
+39	Master	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E
+40	Yu	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_
+41	Jim	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal
+42	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
+43	yuen	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal
+44	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
 

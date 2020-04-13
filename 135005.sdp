@@ -1,36 +1,29 @@
 # format = ucca
-1	The	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-2	1950s	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_
-3	saw	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-4	Hepburn	_	Word	-	-	_	_	_	A	_	A*	A*	_	_	_	_	_	_	_
-5	take	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_
-6	on	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
-7	a	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-8	series	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-9	of	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_
-10	professional	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-11	challenges	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_
-12	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_
-13	and	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_
-14	stretch	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_
-15	herself	_	Word	-	-	_	_	_	_	_	_	A	_	_	_	_	_	_	_
-16	further	_	Word	-	+	_	_	_	_	_	_	_	_	_	R	_	_	_	_
-17	than	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-18	at	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_
-19	any	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-20	other	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-21	point	_	Word	-	+	_	_	_	_	_	_	D	_	_	_	_	_	_	_
-22	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_
-23	her	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-24	life	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-25	at	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_
-26	an	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-27	age	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_
-28	when	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	F
-29	most	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-30	actresses	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A
-31	began	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	D
-32	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	F
-33	retreat	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-34	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	Berg	_	Word	-	-	_	A	_	_	_	_	_	_
+2	describes	_	Word	-	+	_	_	_	_	_	_	_	_
+3	the	_	Word	-	-	_	_	E	_	_	_	_	_
+4	decade	_	Word	-	+	_	T	_	_	_	_	_	_
+5	as	_	Word	-	-	_	_	_	R	_	_	_	_
+6	"	_	Punctuation	-	-	_	_	_	U	_	_	_	_
+7	the	_	Word	-	-	_	_	_	E	_	_	_	_
+8	heart	_	Word	-	+	_	A	_	_	_	_	_	_
+9	of	_	Word	-	-	_	_	_	_	R	_	_	_
+10	her	_	Word	-	-	_	_	_	_	A	_	_	_
+11	vast	_	Word	-	-	_	_	_	_	D	_	_	_
+12	legacy	_	Word	-	+	_	_	_	E	_	_	_	_
+13	"	_	Punctuation	-	-	_	_	_	U	_	_	_	_
+14	and	_	Word	-	-	_	_	_	N	_	_	_	_
+15	"	_	Punctuation	-	-	_	_	_	U	_	_	_	_
+16	the	_	Word	-	-	_	_	_	_	_	E	_	_
+17	period	_	Word	-	+	_	_	_	C	_	_	_	_
+18	in	_	Word	-	-	_	_	_	_	_	_	R	_
+19	which	_	Word	-	+	_	_	_	_	_	_	_	R
+20	she	_	Word	-	-	_	_	_	_	_	_	_	A
+21	truly	_	Word	-	-	_	_	_	_	_	_	_	D
+22	came	_	Word	-	+	_	_	_	_	_	E	_	_
+23	into	_	Word	-	-	_	_	_	_	_	_	_	Terminal
+24	her	_	Word	-	-	_	_	_	_	_	_	_	Terminal
+25	own	_	Word	-	-	_	_	_	_	_	_	_	Terminal
+26	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+27	"	_	Punctuation	-	-	_	_	_	_	_	_	_	U
 

@@ -1,49 +1,49 @@
 # format = ucca
-1	One	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-2	weekend	_	Word	-	+	_	_	D	_	_	_	_	_	_	_	_	_	_	_
-3	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_
-4	while	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_
-5	house	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-6	sitting	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
-7	at	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_
-8	a	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-9	friend	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_
-10	's	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-11	place	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_
-12	he	_	Word	-	-	_	_	_	_	_	A	_	A*	A*	_	_	_	_	_
-13	found	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_
-14	an	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-15	IBM	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-16	Selectric	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-17	typewriter	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_
-18	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_
-19	started	_	Word	-	-	_	_	_	_	_	_	_	D	_	_	_	_	_	_
-20	typing	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_
-21	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_
-22	and	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_
-23	"	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_
-24	felt	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_
-25	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-26	phenomenal	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-27	confidence	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_
-28	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	N	_	_	_	_
-29	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-30	kind	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-31	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_
-32	joy	_	Word	-	+	_	_	_	_	_	_	_	_	_	C	_	_	_	_
-33	that	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	F	_
-34	[	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U	_
-35	he	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	A	_
-36	]	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U	_
-37	had	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	F	_
-38	never	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	D	_
-39	experienced	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-40	before	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	D	_
-41	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R
-42	[	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
-43	his	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	A
-44	]	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
-45	life	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_
-46	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
-47	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	One	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	weekend	_	Word	-	+	_	_	_	_	_	T	_	_	_	_	_	_	_	_	_
+3	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_
+4	while	_	Word	-	-	_	_	_	_	_	L	_	_	_	_	_	_	_	_	_
+5	house	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
+6	sitting	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_
+7	at	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_
+8	a	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+9	friend	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+10	's	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_
+11	place	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
+12	he	_	Word	-	-	_	_	A*	_	_	A	_	A*	A*	_	_	_	_	_	_
+13	found	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	an	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
+15	IBM	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
+16	Selectric	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
+17	typewriter	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
+18	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_
+19	started	_	Word	-	-	_	_	_	_	_	_	_	D	_	_	_	_	_	_	_
+20	typing	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_
+21	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_
+22	and	_	Word	-	-	_	_	_	_	_	L	_	_	_	_	_	_	_	_	_
+23	"	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_
+24	felt	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_
+25	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+26	phenomenal	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+27	confidence	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
+28	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	N	_	_	_	_	_
+29	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
+30	kind	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+31	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_
+32	joy	_	Word	-	+	_	_	_	_	_	_	_	_	_	C	_	_	_	_	_
+33	that	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
+34	[	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_
+35	he	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_
+36	]	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_
+37	had	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_
+38	never	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	T	_
+39	experienced	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+40	before	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
+41	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+42	[	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+43	his	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A
+44	]	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+45	life	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_
+46	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+47	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

@@ -1,30 +1,30 @@
 # format = ucca
-1	In	_	Word	-	-	_	R	_	_	_	_	_	_	_
-2	an	_	Word	-	-	_	E	_	_	_	_	_	_	_
-3	interview	_	Word	-	+	_	_	A	_	_	_	_	_	_
-4	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_
-5	Carey	_	Word	-	-	_	_	A	_	_	_	_	_	_
-6	stated	_	Word	-	+	_	_	_	_	_	_	_	_	_
-7	that	_	Word	-	-	_	_	_	_	F	_	_	_	_
-8	her	_	Word	-	-	_	_	_	E	_	_	_	_	_
-9	pregnancy	_	Word	-	+	_	_	_	_	A	_	_	_	_
-10	was	_	Word	-	-	_	_	_	_	F	_	_	_	_
-11	very	_	Word	-	-	_	_	_	_	D	_	_	_	_
-12	difficult	_	Word	-	+	_	_	A	_	_	_	_	_	_
-13	;	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_
-14	she	_	Word	-	-	_	_	_	_	_	A	_	_	_
-15	suffered	_	Word	-	+	_	_	H	_	_	_	_	_	_
-16	from	_	Word	-	-	_	_	_	_	_	_	R	_	_
-17	high	_	Word	-	-	_	_	_	_	_	_	E	_	_
-18	blood	_	Word	-	-	_	_	_	_	_	_	E	_	_
-19	pressure	_	Word	-	+	_	_	_	_	_	A	_	_	_
-20	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_
-21	pre	_	Word	-	-	_	_	_	_	_	_	_	E	_
-22	-	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_
-23	eclampsia	_	Word	-	+	_	_	_	_	_	_	C	_	_
-24	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_
-25	and	_	Word	-	-	_	_	_	_	_	_	N	_	_
-26	gestational	_	Word	-	-	_	_	_	_	_	_	_	_	E
-27	diabetes	_	Word	-	+	_	_	_	_	_	_	C	_	_
-28	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+1	In	_	Word	-	-	_	L	_	_	_	_	_	_
+2	an	_	Word	-	-	_	E	_	_	_	_	_	_
+3	interview	_	Word	-	+	_	_	_	_	_	_	_	_
+4	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+5	Carey	_	Word	-	-	_	_	A	_	_	_	_	_
+6	stated	_	Word	-	+	_	H	_	_	_	_	_	_
+7	that	_	Word	-	-	_	_	_	R	_	_	_	_
+8	her	_	Word	-	-	_	_	_	A	_	_	_	_
+9	pregnancy	_	Word	-	+	_	_	A	_	_	_	_	_
+10	was	_	Word	-	-	_	_	_	F	_	_	_	_
+11	very	_	Word	-	-	_	_	_	_	E	_	_	_
+12	difficult	_	Word	-	+	_	_	_	D	_	_	_	_
+13	;	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+14	she	_	Word	-	-	_	_	_	_	_	A	A*	A*
+15	suffered	_	Word	-	-	_	_	_	_	_	D	D*	D*
+16	from	_	Word	-	-	_	_	_	_	_	R	_	_
+17	high	_	Word	-	-	_	_	_	_	_	D	_	_
+18	blood	_	Word	-	-	_	_	_	_	_	A	_	_
+19	pressure	_	Word	-	+	_	H	_	_	_	_	_	_
+20	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+21	pre	_	Word	-	-	_	_	_	_	_	_	D	_
+22	-	_	Punctuation	-	-	_	_	_	_	_	_	U	_
+23	eclampsia	_	Word	-	+	_	H	_	_	_	_	_	_
+24	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+25	and	_	Word	-	-	_	L	_	_	_	_	_	_
+26	gestational	_	Word	-	-	_	_	_	_	_	_	_	A
+27	diabetes	_	Word	-	+	_	H	_	_	_	_	_	_
+28	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
 

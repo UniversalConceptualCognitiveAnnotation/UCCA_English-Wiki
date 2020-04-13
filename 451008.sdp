@@ -1,9 +1,9 @@
 # format = ucca
 1	On	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_
-2	February	_	Word	-	+	_	_	D	_	_	_	_	_	_	_	_	_
-3	1	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_
+2	February	_	Word	-	+	_	_	T	_	_	_	_	_	_	_	_	_
+3	1	_	Word	-	-	_	C	_	_	_	_	_	_	_	_	_	_
 4	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_
-5	1965	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_
+5	1965	_	Word	-	-	_	C	_	_	_	_	_	_	_	_	_	_
 6	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_
 7	ABC	_	Word	-	-	_	_	A	_	_	_	A*	_	_	_	_	_
 8	plucked	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
@@ -29,12 +29,12 @@
 28	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_
 29	News	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_
 30	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_
-31	then	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	D
+31	then	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	T
 32	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E
-33	15	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_
+33	15	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Q	_
 34	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_
-35	minute	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E
-36	nightly	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E
+35	minute	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	T
+36	nightly	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	T
 37	newscast	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_
 38	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
 

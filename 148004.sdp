@@ -1,18 +1,18 @@
 # format = ucca
-1	Rumors	_	Word	-	-	_	A	_	_	_
+1	Rumors	_	Word	-	+	_	_	_	_	_
 2	have	_	Word	-	-	_	F	_	_	_
-3	existed	_	Word	-	+	_	_	_	_	_
+3	existed	_	Word	-	-	_	D	_	_	_
 4	since	_	Word	-	-	_	_	R	_	_
 5	the	_	Word	-	-	_	_	E	_	_
-6	1930s	_	Word	-	+	_	D	_	_	_
-7	that	_	Word	-	-	_	_	_	R	_
-8	Hepburn	_	Word	-	-	_	_	_	A	_
-9	may	_	Word	-	-	_	_	_	D	_
+6	1930s	_	Word	-	+	_	T	_	_	_
+7	that	_	Word	-	-	_	_	_	R	R*
+8	Hepburn	_	Word	-	-	_	_	_	A	A*
+9	may	_	Word	-	-	_	_	_	D	D*
 10	have	_	Word	-	-	_	_	_	F	_
-11	been	_	Word	-	+	_	A	_	_	_
-12	a	_	Word	-	-	_	_	_	_	E
-13	lesbian	_	Word	-	+	_	_	_	A	_
-14	or	_	Word	-	-	_	_	_	_	N
-15	bisexual	_	Word	-	-	_	_	_	_	C
+11	been	_	Word	-	-	_	_	_	F	_
+12	a	_	Word	-	-	_	_	_	E	_
+13	lesbian	_	Word	-	+	_	A	_	_	_
+14	or	_	Word	-	-	_	_	_	L	_
+15	bisexual	_	Word	-	+	_	_	_	H	_
 16	.	_	Punctuation	-	-	_	_	_	_	U
 

@@ -11,7 +11,7 @@
 10	his	_	Word	-	-	_	_	_	A	_	_	_	_	_	_	_
 11	referral	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_
 12	to	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_
-13	Dick	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_
+13	Dick	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_
 14	James	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_
 15	's	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_
 16	partner	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_
@@ -19,10 +19,10 @@
 18	Conn	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_
 19	led	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_
 20	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
-21	Bowie	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E
-22	's	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_
-23	first	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E
-24	personal	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_
+21	Bowie	_	Word	-	-	_	_	_	_	_	_	_	_	A	_	_
+22	's	_	Word	-	+	_	_	_	_	_	_	_	_	_	A*	E
+23	first	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Q
+24	personal	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	_
 25	management	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E
 26	contract	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_
 27	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U

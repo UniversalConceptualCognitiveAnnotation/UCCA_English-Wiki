@@ -1,43 +1,35 @@
 # format = ucca
-1	In	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_	_	_
-2	2008	_	Word	-	+	_	_	_	D	_	_	_	_	_	_	_	_	_	_
-3	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_
-4	Billboard	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-5	magazine	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_
-6	ranked	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-7	her	_	Word	-	-	_	_	_	A	_	_	_	_	_	_	_	_	_	_
-8	at	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_
-9	number	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_
-10	six	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-11	on	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_
-12	the	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-13	"	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_
-14	Billboard	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-15	Hot	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-16	100	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-17	All	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-18	-	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_
-19	Time	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-20	Top	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-21	Artists	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-22	"	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_
-23	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_
-24	making	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_	_
-25	Carey	_	Word	-	-	_	_	_	_	_	_	_	_	A	_	_	_	_	_
-26	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-27	second	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-28	most	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-29	successful	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-30	female	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-31	artist	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_
-32	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_
-33	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-34	history	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-35	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R
-36	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-37	Billboard	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-38	Hot	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-39	100	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-40	chart	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-41	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	Carey	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_
+2	and	_	Word	-	-	_	N	_	_	_	_	_	_	_	_	_
+3	actor	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_
+4	/	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_
+5	comedian	_	Word	-	-	_	_	H	_	_	_	_	_	_	_	_
+6	Nick	_	Word	-	+	_	C	_	_	_	_	_	_	_	_	_
+7	Cannon	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_
+8	met	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+9	while	_	Word	-	-	_	_	_	_	L	_	_	_	_	_	_
+10	they	_	Word	-	-	_	_	_	_	_	A	_	_	_	_	_
+11	shot	_	Word	-	+	_	_	_	_	H	_	_	_	_	_	_
+12	her	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_
+13	music	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_
+14	video	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_
+15	for	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_
+16	her	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_
+17	second	_	Word	-	-	_	_	_	_	_	_	_	Q	_	_	_
+18	single	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_
+19	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_
+20	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_
+21	Bye	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_
+22	Bye	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_
+23	"	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_
+24	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_
+25	on	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_
+26	an	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_
+27	island	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_
+28	off	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
+29	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E
+30	coast	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E
+31	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
+32	Antigua	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_
+33	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
 

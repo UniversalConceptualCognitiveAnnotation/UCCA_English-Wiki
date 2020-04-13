@@ -1,5 +1,5 @@
 # format = ucca
-1	He	_	Word	-	-	_	A	_	_	_	_	_	A*	_	A*
+1	He	_	Word	-	-	_	A	_	A*	_	_	_	A*	_	_
 2	failed	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
 3	an	_	Word	-	-	_	_	E	_	_	_	_	_	_	_
 4	annual	_	Word	-	-	_	_	E	_	_	_	_	_	_	_
@@ -11,7 +11,7 @@
 10	fellow	_	Word	-	-	_	_	_	_	E	_	_	_	_	_
 11	student	_	Word	-	+	_	_	_	_	_	_	E	_	_	_
 12	and	_	Word	-	-	_	_	_	_	N	_	_	_	_	_
-13	future	_	Word	-	-	_	_	_	_	_	E	_	_	_	_
+13	future	_	Word	-	-	_	_	_	_	_	T	_	_	_	_
 14	wife	_	Word	-	+	_	_	_	_	C	_	_	_	_	_
 15	Cynthia	_	Word	-	+	_	_	_	A	_	_	_	_	_	_
 16	Powell	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_
@@ -25,8 +25,8 @@
 24	the	_	Word	-	-	_	_	_	_	_	_	_	_	E	_
 25	college	_	Word	-	+	_	_	_	_	_	_	_	A	_	_
 26	before	_	Word	-	-	_	L	_	_	_	_	_	_	_	_
-27	his	_	Word	-	-	_	_	_	_	_	_	_	_	_	E
-28	final	_	Word	-	-	_	_	_	_	_	_	_	_	_	E
+27	his	_	Word	-	-	_	_	_	_	_	_	_	_	_	A
+28	final	_	Word	-	-	_	_	_	_	_	_	_	_	_	D
 29	year	_	Word	-	+	_	H	_	_	_	_	_	_	_	_
 30	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
 31	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U

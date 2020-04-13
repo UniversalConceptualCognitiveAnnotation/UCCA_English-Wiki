@@ -1,39 +1,39 @@
 # format = ucca
-1	After	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_
-2	a	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_
-3	series	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_	_	_
-4	of	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_	_
-5	operations	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-6	during	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_
-7	a	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_
-8	four	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_
-9	-	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_
-10	month	_	Word	-	+	_	_	_	_	D	_	_	_	_	_	_	_	_
-11	hospitalisation	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_
-12	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_
-13	his	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_
-14	doctors	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_
-15	determined	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_
-16	that	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_	_
-17	the	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_
-18	damage	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_
-19	could	_	Word	-	-	_	_	_	_	_	_	_	_	D	_	_	_	_
-20	not	_	Word	-	-	_	_	_	_	_	_	_	_	D	_	_	_	_
-21	be	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_	_
-22	fully	_	Word	-	-	_	_	_	_	_	_	_	_	D	_	_	_	_
-23	repaired	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_
-24	and	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_
-25	Bowie	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_	_	_
-26	was	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_	_
-27	left	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_
-28	with	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_
-29	faulty	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_
-30	depth	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_
-31	perception	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_
-32	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	N	_	_
-33	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E
-34	permanently	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_
-35	dilated	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	E
-36	pupil	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	C	_	_
-37	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	After	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_
+2	a	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_
+3	series	_	Word	-	+	_	_	D	_	_	_	_	_	_	_	_	_
+4	of	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_
+5	operations	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
+6	during	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_
+7	a	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_
+8	four	_	Word	-	-	_	_	_	Q	_	_	_	_	_	_	_	_
+9	-	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_
+10	month	_	Word	-	+	_	_	_	_	T	_	_	_	_	_	_	_
+11	hospitalisation	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_
+12	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_
+13	his	_	Word	-	-	_	_	_	_	_	A	_	_	_	_	_	_
+14	doctors	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_
+15	determined	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_
+16	that	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_
+17	the	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_
+18	damage	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_
+19	could	_	Word	-	-	_	_	_	_	_	_	_	_	D	_	_	_
+20	not	_	Word	-	-	_	_	_	_	_	_	_	_	D	_	_	_
+21	be	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_
+22	fully	_	Word	-	-	_	_	_	_	_	_	_	_	D	_	_	_
+23	repaired	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_
+24	and	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_
+25	Bowie	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_	A*
+26	was	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_
+27	left	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	_	S*
+28	with	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_
+29	faulty	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	_	_
+30	depth	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_	_
+31	perception	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_
+32	and	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_
+33	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E
+34	permanently	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D	_
+35	dilated	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E
+36	pupil	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_
+37	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
 

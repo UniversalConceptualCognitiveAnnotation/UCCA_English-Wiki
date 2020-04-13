@@ -1,34 +1,29 @@
 # format = ucca
-1	McCartney	_	Word	-	-	_	A	_	_	_	_	_	_	_	_
-2	also	_	Word	-	-	_	D	_	_	_	_	_	_	_	_
-3	produced	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-4	and	_	Word	-	-	_	N	_	_	_	_	_	_	_	_
-5	hosted	_	Word	-	-	_	C	_	_	_	_	_	_	_	_
-6	The	_	Word	-	+	_	A	_	_	_	_	_	_	_	_
-7	Real	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_
-8	Buddy	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_
-9	Holly	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_
-10	Story	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_
-11	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_
-12	a	_	Word	-	-	_	_	_	E	_	_	_	_	_	_
-13	1985	_	Word	-	-	_	_	_	E	_	_	_	_	_	_
-14	documentary	_	Word	-	+	_	_	E	_	_	_	_	_	_	_
-15	featuring	_	Word	-	+	_	_	E	_	_	_	_	_	_	_
-16	interviews	_	Word	-	+	_	_	_	_	A	_	_	_	_	_
-17	with	_	Word	-	-	_	_	_	_	_	_	R	_	_	_
-18	Keith	_	Word	-	+	_	_	_	_	_	A	_	_	_	_
-19	Richards	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_
-20	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_
-21	Phil	_	Word	-	+	_	_	_	_	_	_	C	_	_	_
-22	and	_	Word	-	-	_	_	_	_	_	_	_	N	_	_
-23	Don	_	Word	-	+	_	_	_	_	_	_	_	C	_	_
-24	Everly	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_
-25	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_
-26	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E
-27	Holly	_	Word	-	-	_	_	_	_	_	_	_	_	_	E
-28	family	_	Word	-	+	_	_	_	_	_	_	C	_	_	_
-29	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_
-30	and	_	Word	-	-	_	_	_	_	_	_	N	_	_	_
-31	others	_	Word	-	-	_	_	_	_	_	_	C	_	_	_
-32	.	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_
+1	In	_	Word	-	-	_	R	_	_	_	_	_	_
+2	1995	_	Word	-	+	_	_	T	_	_	_	_	_
+3	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_
+4	he	_	Word	-	-	_	_	A	_	_	A*	_	_
+5	made	_	Word	-	-	_	_	F	_	_	_	_	_
+6	a	_	Word	-	-	_	_	E	_	_	_	_	_
+7	guest	_	Word	-	-	_	_	A	_	_	_	_	_
+8	appearance	_	Word	-	+	_	_	_	_	_	_	_	_
+9	on	_	Word	-	-	_	_	_	_	R	_	_	_
+10	the	_	Word	-	-	_	_	_	_	E	_	_	_
+11	Simpsons	_	Word	-	-	_	_	_	E	_	_	_	_
+12	episode	_	Word	-	+	_	_	_	_	E	_	_	_
+13	"	_	Punctuation	-	-	_	_	_	_	U	_	_	_
+14	Lisa	_	Word	-	+	_	_	A	_	_	_	_	_
+15	the	_	Word	-	-	_	_	_	_	Terminal	_	_	_
+16	Vegetarian	_	Word	-	-	_	_	_	_	Terminal	_	_	_
+17	"	_	Punctuation	-	-	_	_	U	_	_	_	_	_
+18	and	_	Word	-	-	_	_	L	_	_	_	_	_
+19	directed	_	Word	-	+	_	_	H	_	_	_	_	_
+20	a	_	Word	-	-	_	_	_	_	_	_	E	_
+21	short	_	Word	-	-	_	_	_	_	_	_	E	_
+22	documentary	_	Word	-	+	_	_	_	_	_	A	_	_
+23	about	_	Word	-	-	_	_	_	_	_	_	_	R
+24	the	_	Word	-	-	_	_	_	_	_	_	_	E
+25	Grateful	_	Word	-	+	_	_	_	_	_	_	E	_
+26	Dead	_	Word	-	-	_	_	_	_	_	_	_	Terminal
+27	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
 

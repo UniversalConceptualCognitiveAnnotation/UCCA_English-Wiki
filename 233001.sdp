@@ -1,40 +1,40 @@
 # format = ucca
-1	He	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_
-2	has	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_
-3	been	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_
-4	the	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_
-5	inspiration	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
-6	for	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_
-7	manga	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_
-8	such	_	Word	-	+	_	_	_	_	R	_	_	_	_	_	_	_
-9	as	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_
-10	Dragon	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_	_
-11	Ball	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_
-12	(	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_
-13	including	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_
-14	a	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_
-15	character	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_
-16	with	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_
-17	the	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_
-18	alias	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_
-19	"	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_
-20	Jackie	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_
-21	Chun	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_
-22	"	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_
-23	)	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_
-24	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_
-25	the	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_
-26	character	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_
-27	Lei	_	Word	-	+	_	_	C	_	_	_	_	_	_	_	_	_
-28	Wulong	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_
-29	in	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_
-30	Tekken	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_
-31	and	_	Word	-	-	_	_	N	_	_	_	_	_	_	_	_	_
-32	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E
-33	fighting	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_
-34	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_
-35	type	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_
-36	Pokémon	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E
-37	Hitmonchan	_	Word	-	+	_	_	C	_	_	_	_	_	_	_	_	_
-38	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
+1	He	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_
+2	has	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_	_
+3	been	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_	_
+4	the	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_	_
+5	inspiration	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	for	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_
+7	manga	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_
+8	such	_	Word	-	+	_	_	_	_	R	_	_	_	_	_	_	_	_
+9	as	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_
+10	Dragon	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_	_	_
+11	Ball	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
+12	(	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_
+13	including	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_
+14	a	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_	_	_
+15	character	_	Word	-	-	_	_	_	_	_	_	A	_	_	_	_	_	_
+16	with	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_
+17	the	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_	_	_
+18	alias	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_
+19	"	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_
+20	Jackie	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_
+21	Chun	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_
+22	"	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_
+23	)	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_
+24	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_
+25	the	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_	_
+26	character	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_
+27	Lei	_	Word	-	+	_	_	C	_	_	_	_	_	_	_	_	_	_
+28	Wulong	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_	_
+29	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_
+30	Tekken	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_	_
+31	and	_	Word	-	-	_	_	N	_	_	_	_	_	_	_	_	_	_
+32	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	F
+33	fighting	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_
+34	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_
+35	type	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_
+36	Pokémon	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	E
+37	Hitmonchan	_	Word	-	+	_	_	C	_	_	_	_	_	_	_	_	_	_
+38	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
 

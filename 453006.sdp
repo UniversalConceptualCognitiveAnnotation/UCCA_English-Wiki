@@ -1,49 +1,49 @@
 # format = ucca
-1	Meanwhile	_	Word	-	-	_	_	_	_	_	D	_	_	_	_	_	_	_	_	_
-2	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_
-3	ABC	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
-4	News	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
-5	and	_	Word	-	-	_	N	_	_	_	_	_	_	_	_	_	_	_	_	_
-6	its	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-7	newly	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-8	installed	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-9	president	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-10	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
-11	Roone	_	Word	-	+	_	C	_	_	_	_	_	_	_	_	_	_	_	_	_
-12	Arledge	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
-13	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_
-14	were	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_
-15	preparing	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-16	an	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-17	overhaul	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
-18	of	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_
-19	its	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-20	nightly	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-21	news	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-22	program	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-23	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_
-24	which	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_
-25	was	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_
-26	then	_	Word	-	-	_	_	_	_	_	_	_	_	D	_	_	_	_	_	_
-27	known	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-28	as	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
-29	ABC	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-30	Evening	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-31	News	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
-32	and	_	Word	-	-	_	_	_	_	_	_	_	_	L	_	_	_	_	_	_
-33	whose	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_
-34	ratings	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
-35	had	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_
-36	languished	_	Word	-	+	_	_	_	_	_	_	_	_	H	_	_	_	_	_	_
-37	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_
-38	third	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-39	place	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
-40	behind	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
-41	CBS	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-42	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	N	_
-43	NBC	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	C	_
-44	since	_	Word	-	-	_	_	_	_	_	_	_	_	L	_	_	_	_	_	_
-45	its	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A
-46	inception	_	Word	-	+	_	_	_	_	_	_	_	_	H	_	_	_	_	_	_
-47	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	Meanwhile	_	Word	-	-	_	_	_	_	L	_	_	_	_	_	_	_	_
+2	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_
+3	ABC	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_
+4	News	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_
+5	and	_	Word	-	-	_	N	_	_	_	_	_	_	_	_	_	_	_
+6	its	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_
+7	newly	_	Word	-	-	_	_	D	_	_	_	_	_	_	_	_	_	_
+8	installed	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_
+9	president	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_	_	_
+10	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_
+11	Roone	_	Word	-	+	_	C	_	_	_	_	_	_	_	_	_	_	_
+12	Arledge	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
+13	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_
+14	were	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_	_	_
+15	preparing	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	an	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_
+17	overhaul	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_
+18	of	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_
+19	its	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_
+20	nightly	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_
+21	news	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_
+22	program	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_	_
+23	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_
+24	which	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_
+25	was	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_	_	_
+26	then	_	Word	-	-	_	_	_	_	_	_	_	T	_	_	_	_	_
+27	known	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_	_
+28	as	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_
+29	ABC	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_
+30	Evening	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_
+31	News	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_
+32	and	_	Word	-	-	_	_	_	_	_	_	_	L	_	_	_	_	_
+33	whose	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_
+34	ratings	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_	_	_
+35	had	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_	_
+36	languished	_	Word	-	+	_	_	_	_	_	_	_	H	_	_	_	_	_
+37	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_
+38	third	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Q	_	_
+39	place	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_
+40	behind	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_
+41	CBS	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_	_
+42	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	N	_
+43	NBC	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	C	_
+44	since	_	Word	-	-	_	_	_	_	_	_	_	L	_	_	_	_	_
+45	its	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	A
+46	inception	_	Word	-	+	_	_	_	_	_	_	_	H	_	_	_	_	_
+47	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
 

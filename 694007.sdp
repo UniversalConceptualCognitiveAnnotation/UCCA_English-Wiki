@@ -1,27 +1,46 @@
 # format = ucca
-1	This	_	Word	-	-	_	E	_	_	_	_
-2	political	_	Word	-	-	_	E	_	_	_	_
-3	material	_	Word	-	+	_	_	A	_	_	_
-4	was	_	Word	-	-	_	_	F	_	_	_
-5	accompanied	_	Word	-	+	_	_	_	_	_	_
-6	by	_	Word	-	-	_	_	_	R	_	_
-7	two	_	Word	-	-	_	_	_	E	_	_
-8	personal	_	Word	-	-	_	_	_	E	_	_
-9	love	_	Word	-	-	_	_	_	E	_	_
-10	songs	_	Word	-	+	_	_	A	_	_	_
-11	,	_	Punctuation	-	-	_	_	_	U	_	_
-12	"	_	Punctuation	-	-	_	_	_	U	_	_
-13	Boots	_	Word	-	+	_	_	_	E	_	_
-14	of	_	Word	-	-	_	_	_	_	Terminal	_
-15	Spanish	_	Word	-	-	_	_	_	_	Terminal	_
-16	Leather	_	Word	-	-	_	_	_	_	Terminal	_
-17	"	_	Punctuation	-	-	_	_	_	_	U	_
-18	and	_	Word	-	-	_	_	_	_	N	_
-19	"	_	Punctuation	-	-	_	_	_	_	U	_
-20	One	_	Word	-	+	_	_	_	_	C	_
-21	Too	_	Word	-	-	_	_	_	_	_	Terminal
-22	Many	_	Word	-	-	_	_	_	_	_	Terminal
-23	Mornings	_	Word	-	-	_	_	_	_	_	Terminal
-24	"	_	Punctuation	-	-	_	_	_	_	U	_
-25	.	_	Punctuation	-	-	_	_	_	_	U	_
+1	This	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_
+2	political	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_
+3	material	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_
+4	was	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_
+5	accompanied	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
+6	by	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_
+7	two	_	Word	-	-	_	_	_	Q	_	_	_	_	_	_	_	_
+8	personal	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_
+9	love	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_
+10	songs	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_
+11	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_
+12	"	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_
+13	Boots	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_
+14	of	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_
+15	Spanish	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_
+16	Leather	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_
+17	"	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_
+18	and	_	Word	-	-	_	_	_	_	N	_	_	_	_	_	_	_
+19	"	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_
+20	One	_	Word	-	+	_	_	_	_	C	_	_	_	_	_	_	_
+21	Too	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_
+22	Many	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_
+23	Mornings	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_
+24	"	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_
+25	.	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_
+26	By	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_
+27	the	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_
+28	end	_	Word	-	+	_	_	_	_	_	_	_	_	T	_	_	_
+29	of	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_
+30	1963	_	Word	-	+	_	_	_	_	_	_	C	_	_	_	_	_
+31	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_
+32	Dylan	_	Word	-	-	_	_	_	_	_	_	_	_	A	A*	_	_
+33	felt	_	Word	-	-	_	_	_	_	_	_	_	_	D	_	_	_
+34	both	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_
+35	manipulated	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_
+36	and	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_
+37	constrained	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_
+38	by	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R
+39	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F
+40	folk	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A
+41	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	N	_
+42	protest	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	C	_
+43	movements	_	Word	-	+	_	_	_	_	_	_	_	_	_	A*	_	_
+44	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_
 

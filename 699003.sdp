@@ -1,34 +1,34 @@
 # format = ucca
-1	Some	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_
-2	journalists	_	Word	-	+	_	_	_	_	_	A*	_	_	_	_	_	_
-3	questioned	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
-4	the	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_
-5	validity	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_
-6	of	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_
-7	this	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_
-8	confession	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_
-9	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_
-10	pointing	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_
-11	out	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_
-12	that	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_
-13	Dylan	_	Word	-	-	_	_	_	_	_	_	A	_	_	_	_	_
-14	had	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_	_
-15	"	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_
-16	been	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_	_
-17	telling	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_
-18	journalists	_	Word	-	-	_	_	_	_	_	_	A	_	_	_	_	_
-19	wild	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_
-20	lies	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_
-21	about	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_
-22	his	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_
-23	past	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_
-24	since	_	Word	-	-	_	_	_	_	_	_	L	_	_	_	_	_
-25	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_
-26	earliest	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_
-27	days	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	D
-28	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_
-29	his	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A
-30	career	_	Word	-	+	_	_	_	_	_	_	H	_	_	_	_	_
-31	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
-32	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
+1	Some	_	Word	-	-	_	D	_	_	_	_	_	_	_	_	_
+2	journalists	_	Word	-	+	_	_	_	_	_	A*	_	_	_	_	_
+3	questioned	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+4	the	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_
+5	validity	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_
+6	of	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_
+7	this	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_
+8	confession	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_
+9	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_
+10	pointing	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_
+11	out	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_
+12	that	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_
+13	Dylan	_	Word	-	-	_	_	_	_	_	_	A	_	_	_	_
+14	had	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_
+15	"	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_
+16	been	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_
+17	telling	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_
+18	journalists	_	Word	-	-	_	_	_	_	_	_	A	_	_	_	_
+19	wild	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_
+20	lies	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_
+21	about	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_
+22	his	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_
+23	past	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_
+24	since	_	Word	-	-	_	_	_	_	_	_	L	_	_	_	_
+25	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_
+26	earliest	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_
+27	days	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	T
+28	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
+29	his	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A
+30	career	_	Word	-	+	_	_	_	_	_	_	H	_	_	_	_
+31	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
+32	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
 

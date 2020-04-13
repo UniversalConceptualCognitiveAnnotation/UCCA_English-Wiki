@@ -1,25 +1,77 @@
 # format = ucca
-1	Another	_	Word	-	+	_	_	A	_	_	_	_	_
-2	Side	_	Word	-	-	_	Terminal	_	_	_	_	_	_
-3	of	_	Word	-	-	_	Terminal	_	_	_	_	_	_
-4	Bob	_	Word	-	-	_	Terminal	_	_	_	_	_	_
-5	Dylan	_	Word	-	-	_	Terminal	_	_	_	_	_	_
-6	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_
-7	recorded	_	Word	-	+	_	_	_	_	_	_	A	_
-8	on	_	Word	-	-	_	_	_	R	_	_	_	_
-9	a	_	Word	-	-	_	_	_	E	_	_	_	_
-10	single	_	Word	-	+	_	_	A	_	_	_	_	_
-11	June	_	Word	-	+	_	_	_	E	_	_	_	_
-12	evening	_	Word	-	-	_	_	_	_	Terminal	_	_	_
-13	in	_	Word	-	-	_	_	_	_	_	R	_	_
-14	1964	_	Word	-	+	_	_	D	_	_	_	_	_
-15	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_
-16	had	_	Word	-	+	_	_	_	_	_	_	_	_
-17	a	_	Word	-	-	_	_	_	_	_	_	Terminal	_
-18	lighter	_	Word	-	-	_	_	_	_	_	_	Terminal	_
-19	mood	_	Word	-	-	_	_	_	_	_	_	Terminal	_
-20	than	_	Word	-	-	_	_	_	_	_	_	_	R
-21	its	_	Word	-	-	_	_	_	_	_	_	_	E
-22	predecessor	_	Word	-	+	_	_	_	_	_	_	A	_
-23	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+1	The	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	surreal	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	humorous	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	Dylan	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	reemerged	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	on	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	"	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	I	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	Shall	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	Be	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	Free	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	No	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	.	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	10	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	"	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	and	_	Word	-	-	_	_	_	N	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	"	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	Motorpsycho	_	Word	-	+	_	_	_	C	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	Nightmare	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_
+21	"	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	.	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	"	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	Spanish	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
+25	Harlem	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
+26	Incident	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
+27	"	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+28	and	_	Word	-	-	_	_	_	_	_	N	_	_	_	_	_	_	_	_	_	_	_
+29	"	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+30	To	_	Word	-	+	_	_	_	_	_	C	_	_	_	_	_	_	_	_	_	_	_
+31	Ramona	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
+32	"	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_
+33	are	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+34	romantic	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
+35	and	_	Word	-	-	_	_	_	_	_	_	_	_	L	_	_	_	_	_	_	_	_
+36	passionate	_	Word	-	-	_	_	_	_	_	_	_	_	H	_	_	_	_	_	_	_	_
+37	love	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
+38	songs	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
+39	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+40	while	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+41	"	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+42	Black	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+43	Crow	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
+44	Blues	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
+45	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_
+46	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	N	_	_	_	_	_	_
+47	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_
+48	I	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	C	_	_	_	_	_	_
+49	Do	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_
+50	n't	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_
+51	Believe	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_
+52	You	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_
+53	(	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_
+54	She	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_
+55	Acts	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_
+56	Like	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_
+57	We	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_
+58	Never	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_
+59	Have	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_
+60	Met	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_
+61	)	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_
+62	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_
+63	suggest	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+64	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+65	rock	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+66	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
+67	roll	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
+68	soon	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	T	_	_
+69	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_
+70	dominate	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+71	Dylan	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_
+72	's	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+73	music	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+74	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+75	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

@@ -1,35 +1,35 @@
 # format = ucca
-1	The	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_
-2	first	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_
-3	successful	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_
-4	film	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
-5	she	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_
-6	had	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_
-7	made	_	Word	-	+	_	E	_	_	_	_	_	_	_	_	_
-8	without	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_
-9	Tracy	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_
-10	since	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_
-11	The	_	Word	-	+	_	_	D	_	_	_	_	_	_	_	_
-12	Philadelphia	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_
-13	Story	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_
-14	a	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_
-15	decade	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_
-16	earlier	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_
-17	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_
-18	it	_	Word	-	-	_	A*	_	_	_	_	A	_	_	A*	_
-19	proved	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_
-20	that	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_
-21	she	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	_
-22	could	_	Word	-	-	_	_	_	_	_	_	_	D	_	_	_
-23	be	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_
-24	a	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_
-25	hit	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_
-26	without	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_
-27	him	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_
-28	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_
-29	fully	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	_
-30	reestablished	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_
-31	her	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A
-32	popularity	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_
-33	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
+1	The	_	Word	-	-	_	E	_	_	_	_	_	_	_	_
+2	first	_	Word	-	-	_	_	D	_	_	_	_	_	_	_
+3	successful	_	Word	-	-	_	_	D	_	_	_	_	_	_	_
+4	film	_	Word	-	+	_	_	A	_	_	_	_	_	_	_
+5	she	_	Word	-	-	_	_	A	A*	_	_	_	_	_	_
+6	had	_	Word	-	-	_	_	F	_	_	_	_	_	_	_
+7	made	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+8	without	_	Word	-	-	_	_	D	_	_	_	_	_	_	_
+9	Tracy	_	Word	-	-	_	_	A	_	_	_	_	_	_	_
+10	since	_	Word	-	-	_	_	_	R	_	_	_	_	_	_
+11	The	_	Word	-	+	_	_	A	_	_	_	_	_	_	_
+12	Philadelphia	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_
+13	Story	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_
+14	a	_	Word	-	-	_	_	_	_	Q	_	_	_	_	_
+15	decade	_	Word	-	+	_	_	_	T	_	_	_	_	_	_
+16	earlier	_	Word	-	-	_	_	_	_	R	_	_	_	_	_
+17	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_
+18	it	_	Word	-	-	_	_	_	_	_	A	_	_	A*	_
+19	proved	_	Word	-	+	_	_	H	_	_	_	_	_	_	_
+20	that	_	Word	-	-	_	_	_	_	_	_	R	_	_	_
+21	she	_	Word	-	-	_	_	_	_	_	_	A	_	_	_
+22	could	_	Word	-	-	_	_	_	_	_	_	D	_	_	_
+23	be	_	Word	-	-	_	_	_	_	_	_	F	_	_	_
+24	a	_	Word	-	-	_	_	_	_	_	_	E	_	_	_
+25	hit	_	Word	-	+	_	_	_	_	_	A	_	_	_	_
+26	without	_	Word	-	-	_	_	_	_	_	_	_	R	_	_
+27	him	_	Word	-	+	_	_	_	_	_	_	A	_	_	_
+28	and	_	Word	-	-	_	_	L	_	_	_	_	_	_	_
+29	fully	_	Word	-	-	_	_	_	_	_	_	_	_	D	_
+30	reestablished	_	Word	-	+	_	_	H	_	_	_	_	_	_	_
+31	her	_	Word	-	-	_	_	_	_	_	_	_	_	_	A
+32	popularity	_	Word	-	+	_	_	_	_	_	_	_	_	A	_
+33	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
 

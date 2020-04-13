@@ -1,21 +1,21 @@
 # format = ucca
-1	Sorkin	_	Word	-	-	_	A	_	A*	_	_	_	_
-2	spent	_	Word	-	+	_	_	_	_	_	_	_	_
-3	the	_	Word	-	-	_	_	E	_	_	_	_	_
-4	early	_	Word	-	-	_	_	E	_	_	_	_	_
-5	1990s	_	Word	-	+	_	D	_	_	_	_	_	_
-6	writing	_	Word	-	+	_	A	_	_	_	_	_	_
-7	two	_	Word	-	-	_	_	_	_	E	_	_	_
-8	other	_	Word	-	-	_	_	_	_	E	_	_	_
-9	screenplays	_	Word	-	+	_	_	_	_	_	_	E	_
-10	at	_	Word	-	-	_	_	_	_	_	R	_	_
-11	Castle	_	Word	-	+	_	_	_	_	_	_	E	_
-12	Rock	_	Word	-	-	_	_	_	_	_	Terminal	_	_
-13	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_
-14	Malice	_	Word	-	+	_	_	_	A	_	_	_	_
-15	and	_	Word	-	-	_	_	_	_	_	_	N	_
-16	The	_	Word	-	+	_	_	_	_	_	_	C	_
-17	American	_	Word	-	-	_	_	_	_	_	_	_	Terminal
-18	President	_	Word	-	-	_	_	_	_	_	_	_	Terminal
-19	.	_	Punctuation	-	-	_	_	_	_	_	_	U	_
+1	Sorkin	_	Word	-	-	_	_	A	_	_	_	_
+2	spent	_	Word	-	-	_	_	F	_	_	_	_
+3	the	_	Word	-	-	_	E	_	_	_	_	_
+4	early	_	Word	-	-	_	E	_	_	_	_	_
+5	1990s	_	Word	-	+	_	_	T	_	_	_	_
+6	writing	_	Word	-	+	_	_	_	_	_	_	_
+7	two	_	Word	-	-	_	_	_	Q	_	_	_
+8	other	_	Word	-	-	_	_	_	E	_	_	_
+9	screenplays	_	Word	-	+	_	_	_	_	_	E	_
+10	at	_	Word	-	-	_	_	_	_	R	_	_
+11	Castle	_	Word	-	+	_	_	_	_	_	E	_
+12	Rock	_	Word	-	-	_	_	_	_	Terminal	_	_
+13	,	_	Punctuation	-	-	_	_	_	_	_	U	_
+14	Malice	_	Word	-	+	_	_	A	_	_	_	_
+15	and	_	Word	-	-	_	_	_	_	_	N	_
+16	The	_	Word	-	+	_	_	_	_	_	C	_
+17	American	_	Word	-	-	_	_	_	_	_	_	Terminal
+18	President	_	Word	-	-	_	_	_	_	_	_	Terminal
+19	.	_	Punctuation	-	-	_	_	_	_	_	U	_
 

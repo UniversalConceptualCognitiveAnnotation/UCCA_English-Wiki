@@ -1,7 +1,34 @@
 # format = ucca
-1	Gyllenhaal	_	Word	-	-	_	A
-2	is	_	Word	-	-	_	F
-3	politically	_	Word	-	-	_	D
-4	active	_	Word	-	+	_	_
-5	.	_	Punctuation	-	-	_	U
+1	He	_	Word	-	-	_	A	_	_	_	_	A*	_	_	A*	_	_
+2	shot	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
+3	a	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_
+4	commercial	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_
+5	for	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_
+6	Rock	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_
+7	the	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_
+8	Vote	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_
+9	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_
+10	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_
+11	along	_	Word	-	+	_	_	_	_	_	R	_	_	_	_	_	_
+12	with	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_
+13	his	_	Word	-	+	_	_	_	_	_	_	_	_	_	A*	_	_
+14	sister	_	Word	-	-	_	_	_	_	_	A	_	_	_	_	_	_
+15	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_
+16	visited	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_
+17	the	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_	_
+18	University	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_
+19	of	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_
+20	Southern	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_
+21	California	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_
+22	to	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_
+23	encourage	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_
+24	students	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	A*	_
+25	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_
+26	vote	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_
+27	during	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_
+28	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F
+29	2004	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	T
+30	U.S.	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A
+31	Election	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_
+32	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
 

@@ -1,24 +1,24 @@
 # format = ucca
-1	In	_	Word	-	-	_	R	_	_	_	_
-2	this	_	Word	-	-	_	E	_	_	_	_
-3	film	_	Word	-	+	_	_	A	_	_	_
-4	,	_	Punctuation	-	-	_	_	U	_	_	_
-5	she	_	Word	-	-	_	_	A	_	_	_
-6	sang	_	Word	-	+	_	_	_	_	_	_
-7	the	_	Word	-	-	_	_	_	E	_	_
-8	song	_	Word	-	+	_	_	A	_	_	_
-9	with	_	Word	-	-	_	_	_	_	F	_
-10	which	_	Word	-	-	_	_	_	_	F	_
-11	she	_	Word	-	-	_	_	_	_	A	_
-12	would	_	Word	-	-	_	_	_	_	F	_
-13	forever	_	Word	-	-	_	_	_	_	D	_
-14	be	_	Word	-	-	_	_	_	_	F	_
-15	identified	_	Word	-	+	_	_	_	E	_	_
-16	,	_	Punctuation	-	-	_	_	_	_	U	_
-17	"	_	Punctuation	-	-	_	_	_	_	U	_
-18	Over	_	Word	-	+	_	_	_	_	A	_
-19	the	_	Word	-	-	_	_	_	_	_	Terminal
-20	Rainbow	_	Word	-	-	_	_	_	_	_	Terminal
-21	.	_	Punctuation	-	-	_	_	_	_	U	_
-22	"	_	Punctuation	-	-	_	_	_	_	U	_
+1	In	_	Word	-	-	_	R	_	_	_	_	_
+2	this	_	Word	-	-	_	E	_	_	_	_	_
+3	film	_	Word	-	+	_	_	A	_	_	_	_
+4	,	_	Punctuation	-	-	_	_	U	_	_	_	_
+5	she	_	Word	-	-	_	_	A	_	_	_	_
+6	sang	_	Word	-	+	_	_	_	_	_	_	_
+7	the	_	Word	-	-	_	_	_	F	_	_	_
+8	song	_	Word	-	+	_	_	_	_	_	_	E
+9	with	_	Word	-	+	_	_	_	_	_	R	_
+10	which	_	Word	-	-	_	_	_	_	Terminal	_	_
+11	she	_	Word	-	-	_	_	_	_	_	A	_
+12	would	_	Word	-	-	_	_	_	_	_	D	_
+13	forever	_	Word	-	-	_	_	_	_	_	T	_
+14	be	_	Word	-	-	_	_	_	_	_	F	_
+15	identified	_	Word	-	+	_	_	_	E	_	_	_
+16	,	_	Punctuation	-	-	_	_	_	_	_	_	U
+17	"	_	Punctuation	-	-	_	_	_	_	_	_	U
+18	Over	_	Word	-	+	_	_	A	_	_	_	_
+19	the	_	Word	-	-	_	_	_	_	_	_	Terminal
+20	Rainbow	_	Word	-	-	_	_	_	_	_	_	Terminal
+21	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+22	"	_	Punctuation	-	-	_	_	_	_	_	_	U
 

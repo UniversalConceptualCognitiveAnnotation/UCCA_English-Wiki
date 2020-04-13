@@ -6,7 +6,7 @@
 5	romantic	_	Word	-	-	_	_	E	_	_	_	_	_
 6	comedy	_	Word	-	+	_	E	_	_	_	_	_	_
 7	on	_	Word	-	+	_	_	_	_	R	_	_	_
-8	which	_	Word	-	-	_	_	_	F	_	_	_	_
+8	which	_	Word	-	-	_	_	_	Terminal	_	_	_	_
 9	Bana	_	Word	-	-	_	_	_	_	A	A*	_	_
 10	worked	_	Word	-	+	_	_	E	_	_	_	_	_
 11	before	_	Word	-	-	_	_	_	_	L	_	_	_
@@ -17,6 +17,6 @@
 16	released	_	Word	-	+	_	_	_	_	_	_	_	_
 17	in	_	Word	-	-	_	_	_	_	_	_	_	R
 18	early	_	Word	-	-	_	_	_	_	_	_	_	E
-19	2007	_	Word	-	+	_	_	_	_	_	_	D	_
+19	2007	_	Word	-	+	_	_	_	_	_	_	T	_
 20	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
 

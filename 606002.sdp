@@ -1,37 +1,37 @@
 # format = ucca
-1	It	_	Word	-	-	_	A	_	_	_	A*	_	_	_	A*	_	_	_
-2	was	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	a	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_
-4	US	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_
-5	and	_	Word	-	-	_	_	N	_	_	_	_	_	_	_	_	_	_
-6	UK	_	Word	-	-	_	_	C	_	_	_	_	_	_	_	_	_	_
-7	number	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_
-8	one	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_
-9	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_
-10	the	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_
-11	band	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_
-12	's	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_
-13	first	_	Word	-	-	_	_	_	_	_	D	_	_	_	_	_	_	_
-14	to	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_	_	_
-15	top	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_
-16	the	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_
-17	charts	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_
-18	in	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_
-19	both	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_
-20	countries	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_
-21	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_
-22	the	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_
-23	first	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_
-24	ever	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	_	_	_
-25	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_	_
-26	reach	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_
-27	Billboard	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_
-28	magazine	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
-29	's	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_
-30	charts	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_
-31	on	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R
-32	three	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E
-33	separate	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E
-34	occasions	_	Word	-	+	_	_	_	_	_	_	_	_	_	D	_	_	_
-35	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	It	_	Word	-	-	_	A	_	_	_	_	A*	_	_	_	A*	_	_	_	_	_
+2	was	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	a	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_
+4	US	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	and	_	Word	-	-	_	_	N	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	UK	_	Word	-	-	_	_	C	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	number	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	one	_	Word	-	-	_	_	_	Q	_	_	_	_	_	_	_	_	_	_	_	_
+9	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	the	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_
+11	band	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+12	's	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+13	first	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	to	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_
+15	top	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+16	the	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_	_
+17	charts	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
+18	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_
+19	both	_	Word	-	-	_	_	_	_	_	_	_	_	_	Q	_	_	_	_	_	_
+20	countries	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
+21	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+23	first	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	ever	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+25	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_
+26	reach	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+27	Billboard	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+28	magazine	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+29	's	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+30	charts	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+31	on	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+32	three	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Q
+33	separate	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+34	occasions	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	D	_	_	_	_
+35	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

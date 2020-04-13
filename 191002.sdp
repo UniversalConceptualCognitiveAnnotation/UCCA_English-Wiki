@@ -1,31 +1,31 @@
 # format = ucca
-1	Sorkin	_	Word	-	-	_	A	_	A*	_	_	_	_	_	_
-2	had	_	Word	-	-	_	F	_	_	_	_	_	_	_	_
-3	to	_	Word	-	-	_	F	_	_	_	_	_	_	_	_
-4	leave	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-5	the	_	Word	-	-	_	_	E	_	_	_	_	_	_	_
-6	project	_	Word	-	+	_	A	_	_	_	_	_	_	_	_
-7	to	_	Word	-	-	_	L	_	_	_	_	_	_	_	_
-8	finish	_	Word	-	+	_	H	_	_	_	_	_	_	_	_
-9	up	_	Word	-	-	_	_	_	E	_	_	_	_	_	_
-10	the	_	Word	-	-	_	_	_	_	E	_	_	_	_	_
-11	script	_	Word	-	+	_	_	_	A	_	_	_	_	_	_
-12	for	_	Word	-	-	_	_	_	_	_	R	_	_	_	_
-13	A	_	Word	-	+	_	_	_	_	E	_	_	_	_	_
-14	Few	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_
-15	Good	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_
-16	Men	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_
-17	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
-18	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_
-19	screenwriter	_	Word	-	-	_	_	_	_	_	_	E	_	_	_
-20	Scott	_	Word	-	+	_	_	_	_	_	_	_	A	_	_
-21	Frank	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_
-22	wrote	_	Word	-	+	_	H	_	_	_	_	_	_	_	_
-23	two	_	Word	-	-	_	_	_	_	_	_	_	_	E	_
-24	drafts	_	Word	-	+	_	_	_	_	_	_	_	A	_	_
-25	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	R
-26	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E
-27	Malice	_	Word	-	-	_	_	_	_	_	_	_	_	_	E
-28	screenplay	_	Word	-	+	_	_	_	_	_	_	_	_	E	_
-29	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+1	Sorkin	_	Word	-	-	_	_	A	_	A*	_	_	_	_	_	_
+2	had	_	Word	-	+	_	_	D	_	_	_	_	_	_	_	_
+3	to	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_
+4	leave	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+5	the	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_
+6	project	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_
+7	to	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_
+8	finish	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_
+9	up	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_
+10	the	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_
+11	script	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_
+12	for	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_
+13	A	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_
+14	Few	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_
+15	Good	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_
+16	Men	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_
+17	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_
+18	and	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_
+19	screenwriter	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_
+20	Scott	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_
+21	Frank	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_
+22	wrote	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_
+23	two	_	Word	-	-	_	_	_	_	_	_	_	_	_	Q	_
+24	drafts	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_
+25	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
+26	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E
+27	Malice	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E
+28	screenplay	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_
+29	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
 

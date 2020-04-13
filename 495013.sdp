@@ -1,50 +1,50 @@
 # format = ucca
-1	Kemp	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
-2	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-3	for	_	Word	-	+	_	_	D	_	_	_	_	_	_	_	_	_	_	_	_
-4	his	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_
-5	part	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_
-6	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-7	recalled	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-8	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-9	"	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-10	I	_	Word	-	-	_	_	_	A	_	_	A*	_	_	_	_	_	_	_	_
-11	did	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_
-12	n't	_	Word	-	-	_	_	_	D	_	_	_	_	_	_	_	_	_	_	_
-13	really	_	Word	-	-	_	_	_	D	_	_	_	_	_	_	_	_	_	_	_
-14	teach	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
-15	him	_	Word	-	-	_	_	_	A	A*	_	A*	_	_	_	_	_	_	_	_
-16	to	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_
-17	be	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
-18	a	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-19	mime	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-20	artiste	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
-21	but	_	Word	-	-	_	_	_	L	_	_	_	_	_	_	_	_	_	_	_
-22	to	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_
-23	be	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_
-24	more	_	Word	-	+	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_
-25	of	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_	_	_	_	_
-26	himself	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
-27	on	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
-28	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-29	outside	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-30	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
-31	...	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
-32	I	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
-33	enabled	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_
-34	him	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A	A*	_	_	_
-35	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_
-36	free	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
-37	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-38	angel	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
-39	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	N	_	_
-40	demon	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	C	_	_
-41	that	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_
-42	he	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_
-43	is	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-44	on	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
-45	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-46	inside	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_
-47	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
-48	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	Kemp	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_	_
+2	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_
+3	for	_	Word	-	+	_	_	G	_	_	_	_	_	_	_	_	_
+4	his	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_
+5	part	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_
+6	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_
+7	recalled	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
+8	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_
+9	"	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_
+10	I	_	Word	-	-	_	_	_	A	_	A*	_	_	_	_	_	_
+11	did	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_
+12	n't	_	Word	-	-	_	_	_	D	_	_	_	_	_	_	_	_
+13	really	_	Word	-	-	_	_	_	D	_	_	_	_	_	_	_	_
+14	teach	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_
+15	him	_	Word	-	-	_	_	_	A	A*	A*	_	_	_	_	_	_
+16	to	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_	_
+17	be	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_	_
+18	a	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_
+19	mime	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_	_
+20	artiste	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_
+21	but	_	Word	-	-	_	_	_	L	_	_	_	_	_	_	_	_
+22	to	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_	_
+23	be	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_
+24	more	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_
+25	of	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_
+26	himself	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_
+27	on	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_
+28	the	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_
+29	outside	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_
+30	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_
+31	...	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_
+32	I	_	Word	-	-	_	_	_	_	_	_	_	_	A	_	_	_
+33	enabled	_	Word	-	-	_	_	_	_	_	_	_	_	D	_	_	_
+34	him	_	Word	-	-	_	_	_	_	_	_	_	_	A	_	_	_
+35	to	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_
+36	free	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_
+37	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_
+38	angel	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_
+39	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	N	_	_
+40	demon	_	Word	-	-	_	_	_	_	_	_	_	_	_	C	_	_
+41	that	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_
+42	he	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A	_
+43	is	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_
+44	on	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R
+45	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E
+46	inside	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_
+47	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
+48	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
 

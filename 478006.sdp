@@ -1,58 +1,58 @@
 # format = ucca
-1	ESPN	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
-2	's	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	SportsCentury	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
-4	ranked	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-5	Johnson	_	Word	-	-	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
-6	#	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-7	17	_	Word	-	-	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
-8	in	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_
-9	their	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-10	"	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
-11	50	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
-12	Greatest	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
-13	Athletes	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
-14	of	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
-15	the	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
-16	20th	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
-17	Century	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
-18	"	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-19	In	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_
-20	2006	_	Word	-	+	_	_	_	_	_	_	D	_	_	_	_	_	_	_	_	_
-21	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_
-22	ESPN.com	_	Word	-	-	_	_	_	_	_	_	A	_	_	A*	_	_	_	_	_	_
-23	rated	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_
-24	Johnson	_	Word	-	-	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
-25	the	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-26	greatest	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-27	point	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
-28	guard	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
-29	of	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_
-30	all	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-31	time	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-32	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-33	stating	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_
-34	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_
-35	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_
-36	It	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_
-37	could	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D	_	_	_	_	_
-38	be	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_
-39	argued	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
-40	that	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_
-41	he	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
-42	's	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
-43	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-44	one	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-45	player	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
-46	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_
-47	NBA	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-48	history	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-49	who	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_
-50	was	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_
-51	better	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-52	than	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
-53	Michael	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_
-54	Jordan	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
-55	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
-56	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	ESPN	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	's	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	SportsCentury	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	ranked	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	Johnson	_	Word	-	-	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	#	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	17	_	Word	-	-	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	in	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_
+9	their	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+10	"	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+11	50	_	Word	-	-	_	_	_	_	Q	_	_	_	_	_	_	_	_	_	_	_	_
+12	Greatest	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+13	Athletes	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	of	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_
+15	the	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+16	20th	_	Word	-	-	_	_	_	_	_	Q	_	_	_	_	_	_	_	_	_	_	_
+17	Century	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+18	"	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	In	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_
+20	2006	_	Word	-	+	_	_	_	_	_	_	_	T	_	_	_	_	_	_	_	_	_
+21	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_
+22	ESPN.com	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	A*	_	_	_	_	_	_
+23	rated	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	Johnson	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
+25	the	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_
+26	greatest	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
+27	point	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
+28	guard	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
+29	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_
+30	all	_	Word	-	-	_	_	_	_	_	_	_	_	_	Q	_	_	_	_	_	_	_
+31	time	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
+32	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+33	stating	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
+34	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_
+35	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_
+36	It	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_
+37	could	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	D	_	_	_	_	_
+38	be	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_
+39	argued	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
+40	that	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_
+41	he	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+42	's	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
+43	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_
+44	one	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+45	player	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+46	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_
+47	NBA	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
+48	history	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+49	who	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
+50	was	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_
+51	better	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+52	than	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+53	Michael	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_
+54	Jordan	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
+55	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+56	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

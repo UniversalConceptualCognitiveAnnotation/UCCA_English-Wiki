@@ -1,35 +1,35 @@
 # format = ucca
-1	Outside	_	Word	-	+	_	_	_	R	_	_	_	_	_	_	_	_
-2	of	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_
-3	the	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_
-4	New	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_
-5	York	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_
-6	stage	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_
-7	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_
-8	Hawke	_	Word	-	-	_	_	_	_	A	A*	_	_	_	_	_	_
-9	made	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_	_
-10	an	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_
-11	appearance	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
-12	in	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_
-13	a	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_
-14	1995	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_
-15	production	_	Word	-	+	_	_	_	_	_	_	_	_	A*	_	_	_
-16	of	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_
-17	Sam	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_
-18	Shepard	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_
-19	's	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_
-20	Buried	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_
-21	Child	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_
-22	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_
-23	directed	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_
-24	by	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_
-25	Gary	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_
-26	Sinise	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_
-27	at	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_
-28	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_
-29	Steppenwolf	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_
-30	Theater	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_
-31	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R
-32	Chicago	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_
-33	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
+1	Outside	_	Word	-	+	_	_	_	R	_	_	_	_	_	_	_	_	_
+2	of	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
+3	the	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_	_
+4	New	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_
+5	York	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
+6	stage	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_
+7	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_
+8	Hawke	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_	_	_
+9	made	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_	_	_
+10	an	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_	_	_
+11	appearance	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	in	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_
+13	a	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_	_	_
+14	1995	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_
+15	production	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_
+16	of	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_
+17	Sam	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_
+18	Shepard	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
+19	's	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_	_
+20	Buried	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_	_
+21	Child	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_	_
+22	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_
+23	directed	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_	_
+24	by	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_
+25	Gary	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_
+26	Sinise	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
+27	at	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_
+28	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F	_
+29	Steppenwolf	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_
+30	Theater	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_
+31	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R
+32	Chicago	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_
+33	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
 

@@ -1,37 +1,19 @@
 # format = ucca
-1	In	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_
-2	1990	_	Word	-	+	_	_	_	_	D	_	_	_	_	_	_
-3	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_
-4	when	_	Word	-	-	_	_	_	_	L	_	_	_	_	_	_
-5	asked	_	Word	-	+	_	_	_	_	H	_	_	_	_	_	_
-6	who	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_
-7	his	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_
-8	favourite	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_
-9	guitar	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_
-10	players	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_
-11	were	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_
-12	he	_	Word	-	-	_	_	A*	_	A	_	_	_	A*	_	_
-13	included	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
-14	Eddie	_	Word	-	+	_	_	_	_	A	_	_	_	_	H*	_
-15	Van	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_
-16	Halen	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_
-17	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_
-18	Eric	_	Word	-	+	_	_	_	_	_	C	_	_	_	_	_
-19	Clapton	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_
-20	and	_	Word	-	-	_	_	_	_	_	N	_	_	_	_	_
-21	David	_	Word	-	+	_	_	_	_	_	C	_	_	_	_	_
-22	Gilmour	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_
-23	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_
-24	stating	_	Word	-	+	_	_	_	_	H	_	_	_	_	_	_
-25	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_
-26	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_
-27	but	_	Word	-	-	_	_	_	_	_	_	_	_	_	L	_
-28	I	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_
-29	still	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	_
-30	like	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_
-31	Hendrix	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_
-32	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
-33	best	_	Word	-	+	_	_	_	_	_	_	_	_	_	D	_
-34	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
-35	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
+1	He	_	Word	-	-	_	A	_	_	_	_
+2	has	_	Word	-	-	_	F	_	_	_	_
+3	primarily	_	Word	-	-	_	D	_	_	_	_
+4	used	_	Word	-	+	_	_	_	_	_	_
+5	a	_	Word	-	-	_	_	F	_	_	_
+6	Gibson	_	Word	-	-	_	_	E	_	_	_
+7	Les	_	Word	-	+	_	A	_	_	_	_
+8	Paul	_	Word	-	-	_	_	Terminal	_	_	_
+9	for	_	Word	-	-	_	_	_	R	_	_
+10	electric	_	Word	-	-	_	_	_	E	_	_
+11	work	_	Word	-	+	_	A	_	_	_	_
+12	,	_	Punctuation	-	-	_	U	_	_	_	_
+13	particularly	_	Word	-	+	_	_	_	_	_	R
+14	during	_	Word	-	-	_	_	_	_	R	_
+15	live	_	Word	-	-	_	_	_	_	_	D
+16	performances	_	Word	-	+	_	A	_	_	_	_
+17	.	_	Punctuation	-	-	_	_	_	_	_	U
 

@@ -1,36 +1,25 @@
 # format = ucca
-1	She	_	Word	-	-	_	A	_	_	_	_	_	_	_	_
-2	hoped	_	Word	-	-	_	D	_	_	_	_	_	_	_	_
-3	to	_	Word	-	-	_	F	_	_	_	_	_	_	_	_
-4	prove	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-5	she	_	Word	-	-	_	_	A	_	A*	_	_	_	_	_
-6	could	_	Word	-	-	_	_	D	_	_	_	_	_	_	_
-7	play	_	Word	-	+	_	A	_	_	_	_	_	_	_	_
-8	already	_	Word	-	-	_	_	_	D	_	_	_	_	_	_
-9	established	_	Word	-	+	_	_	A	_	_	_	_	_	_	_
-10	material	_	Word	-	-	_	_	_	A	_	_	_	_	_	_
-11	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
-12	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_
-13	said	_	Word	-	+	_	H	_	_	_	_	_	_	_	_
-14	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_
-15	"	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_
-16	It	_	Word	-	+	_	_	_	_	_	_	L	_	_	_
-17	's	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_
-18	better	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_
-19	to	_	Word	-	-	_	_	_	_	_	_	F	_	_	_
-20	try	_	Word	-	+	_	_	_	_	A	_	_	_	_	_
-21	something	_	Word	-	+	_	_	_	_	_	_	A	_	_	_
-22	difficult	_	Word	-	-	_	_	_	_	_	_	_	E	_	_
-23	and	_	Word	-	-	_	_	_	_	_	_	L	_	_	_
-24	flop	_	Word	-	-	_	_	_	_	_	_	H	_	_	_
-25	than	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_
-26	to	_	Word	-	-	_	_	_	_	_	_	_	_	F	_
-27	play	_	Word	-	+	_	_	_	_	_	_	H	_	_	_
-28	it	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_
-29	safe	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_
-30	all	_	Word	-	-	_	_	_	_	_	_	_	_	_	E
-31	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E
-32	time	_	Word	-	+	_	_	_	_	_	_	_	_	D	_
-33	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
-34	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+1	It	_	Word	-	-	_	A	_	_	_	A*	_
+2	opened	_	Word	-	+	_	_	_	_	_	_	_
+3	at	_	Word	-	-	_	_	R	_	_	_	_
+4	the	_	Word	-	-	_	_	E	_	_	_	_
+5	Cort	_	Word	-	-	_	_	E	_	_	_	_
+6	Theatre	_	Word	-	+	_	A	_	_	_	_	_
+7	in	_	Word	-	-	_	_	_	R	_	_	_
+8	New	_	Word	-	+	_	_	E	_	_	_	_
+9	York	_	Word	-	-	_	_	_	Terminal	_	_	_
+10	to	_	Word	-	-	_	_	_	_	R	_	_
+11	a	_	Word	-	-	_	_	_	_	E	_	_
+12	capacity	_	Word	-	-	_	_	_	_	D	_	_
+13	audience	_	Word	-	+	_	A	_	_	_	_	_
+14	,	_	Punctuation	-	-	_	U	_	_	_	_	_
+15	and	_	Word	-	-	_	L	_	_	_	_	_
+16	was	_	Word	-	-	_	_	_	_	_	F	_
+17	virtually	_	Word	-	-	_	_	_	_	_	D	_
+18	sold	_	Word	-	+	_	H	_	_	_	_	_
+19	out	_	Word	-	-	_	_	_	_	_	Terminal	_
+20	for	_	Word	-	-	_	_	_	_	_	_	R
+21	148	_	Word	-	-	_	_	_	_	_	_	Q
+22	shows	_	Word	-	+	_	_	_	_	_	A	_
+23	.	_	Punctuation	-	-	_	_	_	_	_	_	U
 

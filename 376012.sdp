@@ -1,46 +1,34 @@
 # format = ucca
-1	On	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_
-2	his	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	13th	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
-4	birthday	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-5	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
-6	Gyllenhaal	_	Word	-	-	_	_	A	_	_	_	A*	_	_	_	_	_	_	_	_
-7	performed	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
-8	a	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-9	"	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
-10	bar	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-11	mitzvah	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
-12	-	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
-13	like	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-14	act	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
-15	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
-16	without	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_
-17	the	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-18	typical	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-19	trappings	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-20	"	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
-21	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
-22	volunteering	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
-23	at	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_
-24	a	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-25	homeless	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-26	shelter	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
-27	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
-28	because	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_
-29	his	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-30	parents	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
-31	wanted	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
-32	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_
-33	instill	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
-34	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_
-35	him	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
-36	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-37	sense	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
-38	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
-39	gratitude	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-40	for	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
-41	his	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-42	privileged	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-43	lifestyle	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-44	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	His	_	Word	-	+	_	_	A	_	_	_	_	_	_	_
+2	parents	_	Word	-	-	_	A	_	_	_	_	_	_	_	_
+3	insisted	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+4	that	_	Word	-	-	_	_	_	R	_	_	_	_	_	_
+5	he	_	Word	-	-	_	_	_	A	A*	_	_	_	_	_
+6	have	_	Word	-	-	_	_	_	F	_	_	_	_	_	_
+7	summer	_	Word	-	-	_	_	_	T	_	_	_	_	_	_
+8	jobs	_	Word	-	+	_	_	A	_	_	_	_	_	_	_
+9	to	_	Word	-	-	_	_	_	L	_	_	_	_	_	_
+10	support	_	Word	-	+	_	_	_	H	_	_	_	_	_	_
+11	himself	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_
+12	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_
+13	and	_	Word	-	-	_	_	L	_	_	_	_	_	_	_
+14	he	_	Word	-	-	_	_	_	_	_	A	A*	_	_	_
+15	thus	_	Word	-	-	_	_	L	_	_	_	_	_	_	_
+16	worked	_	Word	-	-	_	_	_	_	_	D	D*	_	_	_
+17	as	_	Word	-	-	_	_	_	_	_	R	_	_	_	_
+18	a	_	Word	-	-	_	_	_	_	_	F	_	_	_	_
+19	lifeguard	_	Word	-	+	_	_	H	_	_	_	_	_	_	_
+20	and	_	Word	-	-	_	_	L	_	_	_	_	_	_	_
+21	as	_	Word	-	-	_	_	_	_	_	_	R	_	_	_
+22	a	_	Word	-	-	_	_	_	_	_	_	F	_	_	_
+23	busboy	_	Word	-	+	_	_	H	_	_	_	_	_	_	_
+24	at	_	Word	-	-	_	_	_	_	_	_	_	R	_	_
+25	a	_	Word	-	-	_	_	_	_	_	_	_	F	_	_
+26	restaurant	_	Word	-	+	_	_	_	_	_	_	A	_	_	_
+27	operated	_	Word	-	+	_	_	_	_	_	_	_	E	_	_
+28	by	_	Word	-	-	_	_	_	_	_	_	_	_	_	R
+29	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	F
+30	family	_	Word	-	+	_	_	_	_	_	_	_	_	A	_
+31	friend	_	Word	-	-	_	_	_	_	_	_	_	_	_	A
+32	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
 

@@ -1,50 +1,50 @@
 # format = ucca
-1	In	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-2	1967	_	Word	-	+	_	_	_	D	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
-4	immediately	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-5	after	_	Word	-	+	_	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_
-6	wrapping	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-7	up	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_
-8	principal	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-9	filming	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
-10	on	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_
-11	The	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
-12	Tiger	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
-13	Makes	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
-14	Out	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
-15	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-16	Hoffman	_	Word	-	-	_	_	_	_	A*	_	A	_	_	_	_	_	_	_	_	_	_
-17	flew	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
-18	from	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_
-19	New	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-20	York	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
-21	City	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
-22	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_
-23	Fargo	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
-24	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_
-25	North	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-26	Dakota	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
-27	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_
-28	where	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_
-29	he	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
-30	directed	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-31	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-32	production	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
-33	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_
-34	William	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-35	Saroyan	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
-36	's	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_
-37	The	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
-38	Time	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
-39	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
-40	Your	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
-41	Life	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
-42	for	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
-43	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-44	Emma	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-45	Herbst	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_
-46	Community	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-47	Theatre	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
-48	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	In	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	1967	_	Word	-	+	_	_	_	_	_	_	T	_	_	_	_	_	_	_	_	_
+3	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_
+4	immediately	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	after	_	Word	-	+	_	_	_	_	_	_	L	_	_	_	_	_	_	_	_	_
+6	wrapping	_	Word	-	+	_	_	_	_	D	_	_	_	_	_	_	_	_	_	_	_
+7	up	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_
+8	principal	_	Word	-	-	_	_	_	_	D	_	_	_	_	_	_	_	_	_	_	_
+9	filming	_	Word	-	+	_	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_
+10	on	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_
+11	The	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
+12	Tiger	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
+13	Makes	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
+14	Out	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
+15	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_
+16	Hoffman	_	Word	-	-	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
+17	flew	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	from	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_
+19	New	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
+20	York	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
+21	City	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
+22	to	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_
+23	Fargo	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
+24	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_
+25	North	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
+26	Dakota	_	Word	-	+	_	_	_	_	_	_	_	_	C	_	_	_	_	_	_	_
+27	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_
+28	where	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
+29	he	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
+30	directed	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
+31	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_
+32	production	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
+33	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_
+34	William	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
+35	Saroyan	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
+36	's	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_
+37	The	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+38	Time	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
+39	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
+40	Your	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
+41	Life	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
+42	for	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+43	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F
+44	Emma	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+45	Herbst	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_
+46	Community	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+47	Theatre	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
+48	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

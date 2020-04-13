@@ -2,7 +2,7 @@
 1	It	_	Word	-	-	_	F	_	_	_	_	_	_	_	_
 2	was	_	Word	-	-	_	F	_	_	_	_	_	_	_	_
 3	reported	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-4	that	_	Word	-	-	_	_	F	_	_	_	_	_	_	_
+4	that	_	Word	-	-	_	_	R	_	_	_	_	_	_	_
 5	Jackson	_	Word	-	-	_	_	A	A*	_	_	_	_	_	_
 6	had	_	Word	-	-	_	_	F	_	_	_	_	_	_	_
 7	offered	_	Word	-	+	_	A	_	_	_	_	_	_	_	_
@@ -16,8 +16,8 @@
 15	(	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_
 16	the	_	Word	-	-	_	_	_	_	_	_	E	_	_	_
 17	"	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_
-18	elephant	_	Word	-	-	_	_	_	_	_	_	E	_	_	_
-19	man	_	Word	-	+	_	_	_	_	_	E	_	_	_	_
+18	elephant	_	Word	-	+	_	_	_	_	_	E	_	_	_	_
+19	man	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_
 20	"	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
 21	)	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
 22	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_

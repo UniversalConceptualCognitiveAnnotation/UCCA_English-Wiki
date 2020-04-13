@@ -1,40 +1,40 @@
 # format = ucca
-1	She	_	Word	-	-	_	A	_	_	_	_	_	A*	_	_	_
-2	was	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_
-3	nominated	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
-4	for	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_
-5	the	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_
-6	Academy	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_
-7	Award	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_
-8	for	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_
-9	Best	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_
-10	Actress	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_
-11	for	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_
-12	her	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_
-13	role	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_
-14	in	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_
-15	the	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_
-16	remake	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_
-17	of	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_
-18	A	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_
-19	Star	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_
-20	is	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_
-21	Born	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_
-22	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_
-23	for	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_
-24	the	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_
-25	Best	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_
-26	Supporting	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_
-27	Actress	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_
-28	for	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_
-29	her	_	Word	-	-	_	_	_	_	_	_	_	_	A	_	_
-30	performance	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_
-31	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
-32	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E
-33	1961	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_
-34	film	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E
-35	Judgment	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_
-36	at	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal
-37	Nuremberg	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal
-38	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
+1	She	_	Word	-	-	_	A	_	_	_	_	_	A*	_	_
+2	was	_	Word	-	-	_	F	_	_	_	_	_	_	_	_
+3	nominated	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+4	for	_	Word	-	-	_	_	R	_	_	_	_	_	_	_
+5	the	_	Word	-	-	_	_	F	_	_	_	_	_	_	_
+6	Academy	_	Word	-	-	_	_	E	_	_	_	_	_	_	_
+7	Award	_	Word	-	+	_	A	_	_	_	_	_	_	_	_
+8	for	_	Word	-	-	_	_	_	R	_	_	_	_	_	_
+9	Best	_	Word	-	-	_	_	_	E	_	_	_	_	_	_
+10	Actress	_	Word	-	+	_	_	E	_	_	_	_	_	_	_
+11	for	_	Word	-	-	_	L	_	_	_	_	_	_	_	_
+12	her	_	Word	-	-	_	_	_	_	A	_	_	_	_	_
+13	role	_	Word	-	+	_	H	_	_	_	_	_	_	_	_
+14	in	_	Word	-	-	_	_	_	_	_	R	_	_	_	_
+15	the	_	Word	-	-	_	_	_	_	_	F	_	_	_	_
+16	remake	_	Word	-	+	_	_	_	_	A	_	_	_	_	_
+17	of	_	Word	-	-	_	_	_	_	_	_	R	_	_	_
+18	A	_	Word	-	+	_	_	_	_	_	E	_	_	_	_
+19	Star	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_
+20	is	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_
+21	Born	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_
+22	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_
+23	for	_	Word	-	-	_	_	_	_	_	_	_	R	_	_
+24	the	_	Word	-	-	_	_	_	_	_	_	_	F	_	_
+25	Best	_	Word	-	-	_	_	_	_	_	_	_	E	_	_
+26	Supporting	_	Word	-	-	_	_	_	_	_	_	_	E	_	_
+27	Actress	_	Word	-	+	_	H	_	_	_	_	_	_	_	_
+28	for	_	Word	-	-	_	L	_	_	_	_	_	_	_	_
+29	her	_	Word	-	-	_	_	_	_	_	_	_	_	A	_
+30	performance	_	Word	-	+	_	H	_	_	_	_	_	_	_	_
+31	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	R
+32	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	F
+33	1961	_	Word	-	-	_	_	_	_	_	_	_	_	_	E
+34	film	_	Word	-	-	_	_	_	_	_	_	_	_	_	E
+35	Judgment	_	Word	-	+	_	_	_	_	_	_	_	_	A	_
+36	at	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal
+37	Nuremberg	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal
+38	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
 

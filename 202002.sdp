@@ -28,7 +28,7 @@
 27	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_
 28	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 29	make	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_
-30	design	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+30	design	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
 31	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	N	_	_	_	_	_	_
 32	casting	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	C	_	_	_	_	_	_
 33	decisions	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
@@ -39,12 +39,12 @@
 38	budget	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
 39	meetings	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
 40	;	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-41	Sorkin	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	A*
-42	tends	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+41	Sorkin	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A
+42	tends	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
 43	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_
-44	stick	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-45	strictly	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_
+44	stick	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+45	strictly	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D
 46	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F
-47	writing	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_
+47	writing	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
 48	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

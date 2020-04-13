@@ -1,35 +1,35 @@
 # format = ucca
-1	The	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_
-2	two	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_
-3	began	_	Word	-	-	_	_	D	_	_	_	_	_	_	_	_	_	_
-4	writing	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
-5	the	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_
-6	book	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_
-7	in	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_
-8	early	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_
-9	2001	_	Word	-	+	_	_	D	_	_	_	_	_	_	_	_	_	_
-10	;	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_
-11	after	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_
-12	the	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_
-13	terrorist	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_
-14	attacks	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_
-15	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_
-16	they	_	Word	-	-	_	_	_	_	_	_	A	_	_	_	_	_	_
-17	revisited	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_
-18	many	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_	_
-19	of	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_
-20	the	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_
-21	people	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_
-22	they	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_	_	_
-23	had	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_	_
-24	interviewed	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_
-25	to	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_
-26	see	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_
-27	how	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	D
-28	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_
-29	events	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A
-30	had	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	F
-31	affected	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_
-32	them	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	A
-33	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	The	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_
+2	two	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_
+3	began	_	Word	-	-	_	_	D	_	_	_	_	_	_	_	_	_
+4	writing	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
+5	the	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_
+6	book	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_
+7	in	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_
+8	early	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_
+9	2001	_	Word	-	+	_	_	T	_	_	_	_	_	_	_	_	_
+10	;	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_
+11	after	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_
+12	the	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_
+13	terrorist	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_
+14	attacks	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_
+15	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_
+16	they	_	Word	-	-	_	_	_	_	_	_	A	_	_	_	_	_
+17	revisited	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_
+18	many	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_
+19	of	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_
+20	the	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_
+21	people	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_
+22	they	_	Word	-	-	_	_	_	_	_	_	_	_	A	A*	_	_
+23	had	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_
+24	interviewed	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_
+25	to	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_
+26	see	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_
+27	how	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	D
+28	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_
+29	events	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A
+30	had	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F
+31	affected	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_
+32	them	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A
+33	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
 

@@ -1,72 +1,31 @@
 # format = ucca
-1	One	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-2	of	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	Garland	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-4	's	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-5	most	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-6	successful	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-7	films	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-8	for	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-9	MGM	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-10	was	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-11	Meet	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-12	Me	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-13	in	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-14	St	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-15	.	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-16	Louis	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-17	(	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-18	1944	_	Word	-	-	_	_	_	_	_	_	D	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-19	)	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-20	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-21	in	_	Word	-	+	_	_	_	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-22	which	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_
-23	she	_	Word	-	-	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
-24	introduced	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-25	three	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-26	standards	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-27	:	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
-28	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
-29	The	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
-30	Trolley	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
-31	Song	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
-32	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
-33	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
-34	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
-35	The	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	C	_	_	_	_	_	_	_	_	_	_
-36	Boy	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
-37	Next	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
-38	Door	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
-39	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
-40	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
-41	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	N	_	_	_	_	_	_	_	_	_	_
-42	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
-43	Have	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	C	_	_	_	_	_	_	_	_	_	_
-44	Yourself	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
-45	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
-46	Merry	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
-47	Little	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
-48	Christmas	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
-49	"	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-50	.	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-51	Vincente	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
-52	Minnelli	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_
-53	was	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_
-54	assigned	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-55	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_
-56	direct	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
-57	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-58	and	_	Word	-	-	_	_	_	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-59	he	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
-60	requested	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-61	that	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_
-62	makeup	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-63	artist	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-64	Dorothy	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_
-65	Ponedel	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
-66	be	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_
-67	assigned	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
-68	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
-69	Garland	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_
-70	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	Ponedel	_	Word	-	-	_	A	_	_	A*	A*	_	A*	_	A*	_	A*	_
+2	refined	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	her	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_	_	_
+4	appearance	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_
+5	in	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_
+6	several	_	Word	-	-	_	_	_	Q	_	_	_	_	_	_	_	_	_
+7	ways	_	Word	-	+	_	D	_	_	_	_	_	_	_	_	_	_	_
+8	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_
+9	including	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_
+10	extending	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_
+11	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_
+12	reshaping	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_
+13	her	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_
+14	eyebrows	_	Word	-	+	_	_	_	_	A	A*	_	_	_	_	_	_	_
+15	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_
+16	changing	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_
+17	her	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_
+18	hairline	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_
+19	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_
+20	modifying	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_
+21	her	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_
+22	lip	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_
+23	line	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_
+24	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_
+25	removing	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_
+26	her	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E
+27	nose	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E
+28	discs	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_
+29	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
 

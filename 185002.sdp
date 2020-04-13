@@ -1,16 +1,16 @@
 # format = ucca
 1	He	_	Word	-	-	_	A	A*	A*	_
 2	found	_	Word	-	-	_	D	_	_	_
-3	his	_	Word	-	-	_	A	_	_	_
-4	passion	_	Word	-	+	_	_	_	_	_
-5	in	_	Word	-	-	_	_	F	_	_
+3	his	_	Word	-	+	_	_	_	_	_
+4	passion	_	Word	-	-	_	Terminal	_	_	_
+5	in	_	Word	-	-	_	_	R	_	_
 6	writing	_	Word	-	+	_	A	_	_	_
 7	plays	_	Word	-	-	_	_	A	_	_
 8	,	_	Punctuation	-	-	_	U	_	_	_
 9	and	_	Word	-	-	_	L	_	_	_
 10	quickly	_	Word	-	-	_	_	_	D	_
 11	established	_	Word	-	+	_	H	_	_	_
-12	himself	_	Word	-	-	_	_	_	A	_
+12	himself	_	Word	-	-	_	_	_	Terminal	_
 13	as	_	Word	-	-	_	_	_	_	R
 14	a	_	Word	-	-	_	_	_	_	E
 15	promising	_	Word	-	-	_	_	_	_	E

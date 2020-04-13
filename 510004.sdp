@@ -1,34 +1,34 @@
 # format = ucca
-1	Reality	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_
-2	(	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_
-3	2003	_	Word	-	-	_	D	_	_	_	_	_	_	_	_	_
-4	)	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_
-5	followed	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
-6	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_
-7	and	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_
-8	its	_	Word	-	-	_	_	_	A	_	_	_	_	_	_	_
-9	accompanying	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_
-10	world	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_
-11	tour	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_
-12	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_
-13	the	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_
-14	A	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_
-15	Reality	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_
-16	Tour	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_
-17	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_
-18	with	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_
-19	an	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_
-20	estimated	_	Word	-	-	_	_	_	_	_	_	D	_	_	_	_
-21	attendance	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_
-22	of	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_
-23	722,000	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_
-24	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_
-25	grossed	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_
-26	more	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_
-27	than	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_
-28	any	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_
-29	other	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_
-30	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
-31	2004	_	Word	-	+	_	_	_	_	_	_	_	_	_	D	_
-32	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
+1	Reality	_	Word	-	+	_	_	A	_	_	_	_	_	_	_
+2	(	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
+3	2003	_	Word	-	-	_	E	_	_	_	_	_	_	_	_
+4	)	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_
+5	followed	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+6	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_
+7	and	_	Word	-	-	_	_	L	_	_	_	_	_	_	_
+8	its	_	Word	-	-	_	_	_	A	_	_	_	_	_	_
+9	accompanying	_	Word	-	-	_	_	_	D	_	_	_	_	_	_
+10	world	_	Word	-	-	_	_	_	A	_	_	_	_	_	_
+11	tour	_	Word	-	+	_	_	_	_	E	_	_	_	_	_
+12	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_
+13	the	_	Word	-	-	_	_	_	_	E	_	_	_	_	_
+14	A	_	Word	-	-	_	_	_	_	E	_	_	_	_	_
+15	Reality	_	Word	-	-	_	_	_	_	E	_	_	_	_	_
+16	Tour	_	Word	-	+	_	_	_	_	_	_	_	_	P*	_
+17	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_
+18	with	_	Word	-	-	_	_	_	_	_	R	_	_	_	_
+19	an	_	Word	-	-	_	_	_	_	_	E	_	_	_	_
+20	estimated	_	Word	-	-	_	_	_	_	_	G	_	_	_	_
+21	attendance	_	Word	-	+	_	_	_	_	_	_	_	A	_	_
+22	of	_	Word	-	-	_	_	_	_	_	_	R	_	_	_
+23	722,000	_	Word	-	+	_	_	_	_	_	A	_	_	_	_
+24	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_
+25	grossed	_	Word	-	+	_	_	H	_	_	_	_	_	_	_
+26	more	_	Word	-	-	_	_	_	_	_	_	_	D	_	_
+27	than	_	Word	-	-	_	_	L	_	_	_	_	_	_	_
+28	any	_	Word	-	+	_	_	H	_	_	_	_	_	_	_
+29	other	_	Word	-	-	_	_	_	_	_	_	_	_	D	_
+30	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	R
+31	2004	_	Word	-	+	_	_	_	_	_	_	_	_	T	_
+32	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
 

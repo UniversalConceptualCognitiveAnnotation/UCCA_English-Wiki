@@ -1,33 +1,33 @@
 # format = ucca
-1	She	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_
-2	also	_	Word	-	-	_	D	_	_	_	_	_	_	_	_	_	_
-3	has	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_
-4	helped	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
-5	with	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_
-6	breast	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_
-7	cancer	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_
-8	awareness	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_
-9	;	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_
-10	in	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_
-11	September	_	Word	-	+	_	_	_	_	_	D	_	_	_	_	_	_
-12	2008	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_
-13	she	_	Word	-	-	_	_	_	_	_	A	_	_	A*	_	_	_
-14	participated	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_
-15	in	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_
-16	the	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_
-17	Stand	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_
-18	Up	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_
-19	to	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_
-20	Cancer	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_
-21	telethon	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_
-22	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_
-23	to	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_
-24	help	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_
-25	raise	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_
-26	funds	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_	_
-27	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_
-28	accelerate	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_
-29	cancer	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E
-30	research	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_
-31	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
+1	She	_	Word	-	-	_	_	A	_	_	_	_	_
+2	also	_	Word	-	-	_	_	D	_	_	_	_	_
+3	has	_	Word	-	-	_	_	F	_	_	_	_	_
+4	helped	_	Word	-	-	_	_	D	_	_	_	_	_
+5	with	_	Word	-	-	_	_	R	_	_	_	_	_
+6	breast	_	Word	-	-	_	E	_	_	_	_	_	_
+7	cancer	_	Word	-	+	_	_	A	_	_	_	_	_
+8	awareness	_	Word	-	+	_	_	_	_	_	_	_	_
+9	;	_	Punctuation	-	-	_	_	U	_	_	_	_	_
+10	in	_	Word	-	-	_	_	_	R	_	_	_	_
+11	September	_	Word	-	+	_	_	_	_	T	_	_	_
+12	2008	_	Word	-	-	_	_	_	C	_	_	_	_
+13	she	_	Word	-	-	_	_	_	_	A	_	A*	_
+14	participated	_	Word	-	+	_	_	H	_	_	_	_	_
+15	in	_	Word	-	-	_	_	_	_	_	R	_	_
+16	the	_	Word	-	-	_	_	_	_	_	F	_	_
+17	Stand	_	Word	-	+	_	_	_	_	A	_	_	_
+18	Up	_	Word	-	-	_	_	_	_	_	Terminal	_	_
+19	to	_	Word	-	-	_	_	_	_	_	Terminal	_	_
+20	Cancer	_	Word	-	-	_	_	_	_	_	Terminal	_	_
+21	telethon	_	Word	-	-	_	_	_	_	_	E	_	_
+22	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_
+23	to	_	Word	-	-	_	_	L	_	_	_	_	_
+24	help	_	Word	-	-	_	_	_	_	_	_	D	_
+25	raise	_	Word	-	+	_	_	H	_	_	_	_	_
+26	funds	_	Word	-	-	_	_	_	_	_	_	A	_
+27	to	_	Word	-	-	_	_	L	_	_	_	_	_
+28	accelerate	_	Word	-	-	_	_	_	_	_	_	_	D
+29	cancer	_	Word	-	-	_	_	_	_	_	_	_	A
+30	research	_	Word	-	+	_	_	H	_	_	_	_	_
+31	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
 

@@ -1,36 +1,30 @@
 # format = ucca
-1	He	_	Word	-	-	_	A	_	_	_	_	_	_	_	_
-2	also	_	Word	-	-	_	D	_	_	_	_	_	_	_	_
-3	co	_	Word	-	-	_	E	_	_	_	_	_	_	_	_
-4	-	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
-5	wrote	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-6	the	_	Word	-	-	_	_	E	_	_	_	_	_	_	_
-7	charity	_	Word	-	-	_	_	E	_	_	_	_	_	_	_
-8	single	_	Word	-	+	_	_	_	E	_	_	_	_	_	_
-9	"	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_
-10	We	_	Word	-	+	_	A	_	_	_	_	_	_	_	_
-11	Are	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_
-12	the	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_
-13	World	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_
-14	"	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
-15	in	_	Word	-	-	_	_	_	_	R	_	_	_	_	_
-16	1985	_	Word	-	+	_	D	_	_	_	_	_	_	_	_
-17	with	_	Word	-	-	_	_	_	_	_	R	_	_	_	_
-18	Lionel	_	Word	-	+	_	A	_	_	_	_	_	_	_	_
-19	Richie	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_
-20	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
-21	which	_	Word	-	-	_	_	_	_	_	_	F	_	_	_
-22	was	_	Word	-	-	_	_	_	_	_	_	F	_	_	_
-23	released	_	Word	-	+	_	_	_	E	_	_	_	_	_	_
-24	worldwide	_	Word	-	-	_	_	_	_	_	_	D	_	_	_
-25	to	_	Word	-	-	_	_	_	_	_	_	L	_	_	_
-26	aid	_	Word	-	+	_	_	_	_	_	_	H	_	_	_
-27	the	_	Word	-	-	_	_	_	_	_	_	_	_	E	_
-28	poor	_	Word	-	+	_	_	_	_	_	_	_	A	_	_
-29	in	_	Word	-	-	_	_	_	_	_	_	_	_	R	_
-30	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E
-31	U.S.	_	Word	-	+	_	_	_	_	_	_	_	_	E	_
-32	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	N
-33	Africa	_	Word	-	-	_	_	_	_	_	_	_	_	_	C
-34	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+1	It	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_
+2	became	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+3	one	_	Word	-	-	_	_	_	Q	_	_	_	_	_	_	_
+4	of	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_
+5	the	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_
+6	best	_	Word	-	-	_	_	D	_	_	_	_	_	_	_	_
+7	-	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_
+8	selling	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_
+9	singles	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_
+10	of	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_
+11	all	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_
+12	time	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_
+13	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_
+14	with	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_
+15	nearly	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_
+16	30	_	Word	-	+	_	_	_	_	_	_	Q	_	_	_	_
+17	million	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_
+18	copies	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_
+19	sold	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_
+20	and	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_
+21	millions	_	Word	-	-	_	_	_	_	_	_	_	_	Q	_	_
+22	of	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_
+23	dollars	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_
+24	donated	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_
+25	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
+26	famine	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A
+27	relief	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_
+28	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
 

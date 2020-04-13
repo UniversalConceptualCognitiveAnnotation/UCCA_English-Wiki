@@ -1,32 +1,32 @@
 # format = ucca
-1	The	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_
-2	film	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_
-3	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_
-4	an	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_
-5	adaptation	_	Word	-	+	_	E	_	_	_	_	_	_	_	_	_
-6	of	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_
-7	Jack	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_
-8	London	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_
-9	's	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_
-10	novel	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_
-11	of	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_
-12	the	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_
-13	same	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_
-14	name	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_
-15	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_
-16	featured	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
-17	Hawke	_	Word	-	-	_	_	_	_	_	_	A	_	_	_	_
-18	as	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_
-19	Jack	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_
-20	Conroy	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_
-21	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_
-22	a	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_
-23	Yukon	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_
-24	gold	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_
-25	hunter	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_
-26	who	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_
-27	befriends	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_
-28	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E
-29	wolfdog	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_
-30	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
+1	The	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_
+2	film	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_
+3	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_
+4	an	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_
+5	adaptation	_	Word	-	+	_	E	_	_	_	_	_	_	_	_	_	_
+6	of	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_
+7	Jack	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_
+8	London	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_
+9	's	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_
+10	novel	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_
+11	of	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_
+12	the	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_	_
+13	same	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_
+14	name	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_
+15	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_
+16	featured	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
+17	Hawke	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	_	_
+18	as	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_
+19	Jack	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_
+20	Conroy	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_
+21	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_
+22	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_
+23	Yukon	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_	_
+24	gold	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_	_
+25	hunter	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_
+26	who	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_
+27	befriends	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_
+28	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F
+29	wolfdog	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_
+30	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
 

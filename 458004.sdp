@@ -1,5 +1,5 @@
 # format = ucca
-1	Jennings	_	Word	-	-	_	A	_	_	_	_
+1	Jennings	_	Word	-	-	_	A	A*	_	_	_
 2	was	_	Word	-	-	_	F	_	_	_	_
 3	also	_	Word	-	-	_	D	_	_	_	_
 4	credited	_	Word	-	+	_	_	_	_	_	_
@@ -16,8 +16,8 @@
 15	story	_	Word	-	+	_	_	A	_	_	_
 16	,	_	Punctuation	-	-	_	_	_	_	U	_
 17	the	_	Word	-	-	_	_	_	_	_	E
-18	1995	_	Word	-	-	_	_	_	_	_	E
-19	Quebec	_	Word	-	-	_	_	_	_	_	E
+18	1995	_	Word	-	-	_	_	_	_	_	T
+19	Quebec	_	Word	-	-	_	_	_	_	_	A
 20	referendum	_	Word	-	+	_	_	_	_	E	_
 21	.	_	Punctuation	-	-	_	_	_	_	_	U
 

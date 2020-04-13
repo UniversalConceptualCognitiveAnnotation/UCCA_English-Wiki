@@ -1,7 +1,7 @@
 # format = ucca
-1	Her	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_
+1	Her	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_
 2	father	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_	_
-3	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_
+3	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_
 4	Alfred	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_
 5	Roy	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_
 6	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_
@@ -20,13 +20,13 @@
 19	descent	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
 20	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_
 21	while	_	Word	-	-	_	_	_	_	_	_	L	_	_	_	_	_
-22	her	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_
+22	her	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	_	_
 23	mother	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_
-24	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_
-25	Patricia	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_
-26	(	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_
-27	née	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A
-28	Hickey	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_	_
+24	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_
+25	Patricia	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A
+26	(	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_
+27	née	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_
+28	Hickey	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_
 29	)	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
 30	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
 31	is	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F

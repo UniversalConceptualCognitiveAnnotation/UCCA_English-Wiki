@@ -1,6 +1,6 @@
 # format = ucca
 1	The	_	Word	-	-	_	E	_	_	_	_
-2	film	_	Word	-	+	_	_	_	A	A*	_
+2	film	_	Word	-	+	_	_	_	_	A*	_
 3	was	_	Word	-	-	_	_	_	F	_	_
 4	a	_	Word	-	-	_	_	E	_	_	_
 5	critical	_	Word	-	+	_	_	_	A	_	_
@@ -8,9 +8,9 @@
 7	and	_	Word	-	-	_	_	_	L	_	_
 8	grossed	_	Word	-	+	_	_	_	H	_	_
 9	over	_	Word	-	-	_	_	_	_	_	R
-10	US	_	Word	-	+	_	_	_	_	A	_
-11	$	_	Punctuation	-	-	_	_	_	_	_	U
-12	380million	_	Word	-	-	_	_	_	_	_	Terminal
+10	US	_	Word	-	-	_	_	_	_	_	E
+11	$	_	Word	-	+	_	_	_	_	A	_
+12	380million	_	Word	-	-	_	_	_	_	_	Q
 13	worldwide	_	Word	-	-	_	_	_	_	A	_
 14	.	_	Punctuation	-	-	_	_	_	_	U	_
 

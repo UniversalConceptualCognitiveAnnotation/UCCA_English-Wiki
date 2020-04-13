@@ -1,48 +1,22 @@
 # format = ucca
-1	In	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_
-2	July	_	Word	-	+	_	_	_	_	_	_	_	_	_	D	_	_	_	_	_
-3	2002	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_
-4	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_
-5	Jolie	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
-6	-	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-7	who	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_
-8	had	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_
-9	long	_	Word	-	-	_	_	_	D	_	_	_	_	_	_	_	_	_	_	_
-10	used	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-11	her	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-12	middle	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-13	name	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
-14	as	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_
-15	a	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-16	stage	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-17	name	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
-18	to	_	Word	-	-	_	_	_	L	_	_	_	_	_	_	_	_	_	_	_
-19	establish	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_
-20	her	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-21	own	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-22	identity	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
-23	as	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_
-24	an	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-25	actress	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
-26	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_
-27	filed	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-28	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-29	request	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
-30	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_
-31	legally	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	D	_	_	_
-32	drop	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-33	Voight	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
-34	as	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_
-35	her	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-36	surname	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
-37	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_
-38	which	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
-39	was	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_
-40	granted	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-41	on	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
-42	September	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_
-43	12	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
-44	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
-45	2002	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
-46	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	In	_	Word	-	-	_	R	_	_	_	_	_
+2	August	_	Word	-	+	_	_	_	T	_	_	_
+3	of	_	Word	-	-	_	_	R	_	_	_	_
+4	that	_	Word	-	-	_	_	E	_	_	_	_
+5	year	_	Word	-	+	_	C	_	_	_	_	_
+6	,	_	Punctuation	-	-	_	_	_	U	_	_	_
+7	Voight	_	Word	-	-	_	_	_	A	_	_	_
+8	claimed	_	Word	-	+	_	_	_	_	_	_	_
+9	his	_	Word	-	-	_	_	_	_	A	_	_
+10	daughter	_	Word	-	+	_	_	_	_	_	A	_
+11	had	_	Word	-	-	_	_	_	_	_	F	_
+12	"	_	Punctuation	-	-	_	_	_	_	_	U	_
+13	serious	_	Word	-	-	_	_	_	_	_	D	_
+14	mental	_	Word	-	-	_	_	_	_	_	A	_
+15	problems	_	Word	-	+	_	_	_	A	_	_	_
+16	"	_	Punctuation	-	-	_	_	_	U	_	_	_
+17	on	_	Word	-	-	_	_	_	_	_	_	R
+18	Access	_	Word	-	+	_	_	_	A	_	_	_
+19	Hollywood	_	Word	-	-	_	_	_	_	_	_	Terminal
+20	.	_	Punctuation	-	-	_	_	_	_	_	_	U
 

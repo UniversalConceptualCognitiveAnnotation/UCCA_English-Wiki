@@ -1,35 +1,35 @@
 # format = ucca
-1	Upon	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_
-2	Chan	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_
-3	's	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_
-4	return	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
-5	to	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_
-6	Lo	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_
-7	Wei	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_
-8	's	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_
-9	studio	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_
-10	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_
-11	Lo	_	Word	-	-	_	_	_	_	_	A	_	_	A*	_	_
-12	tried	_	Word	-	-	_	_	_	_	_	D	_	_	_	_	_
-13	to	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_
-14	replicate	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_
-15	the	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_
-16	comedic	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_
-17	approach	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_
-18	of	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_
-19	Drunken	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_
-20	Master	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_
-21	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_
-22	producing	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_
-23	Half	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_
-24	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_
-25	Loaf	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_
-26	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_
-27	Kung	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_
-28	Fu	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_
-29	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	N	_
-30	Spiritual	_	Word	-	+	_	_	_	_	_	_	_	_	_	C	_
-31	Kung	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal
-32	Fu	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal
-33	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_
+1	Upon	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_
+2	Chan	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_
+3	's	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_
+4	return	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
+5	to	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_
+6	Lo	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_
+7	Wei	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_
+8	's	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_
+9	studio	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_
+10	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_
+11	Lo	_	Word	-	-	_	_	_	_	_	_	A	_	_	A*	_	_
+12	tried	_	Word	-	-	_	_	_	_	_	_	D	_	_	_	_	_
+13	to	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_	_
+14	replicate	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_
+15	the	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_	_
+16	comedic	_	Word	-	-	_	_	_	_	_	_	_	D	_	_	_	_
+17	approach	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_
+18	of	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_
+19	Drunken	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_
+20	Master	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_
+21	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_
+22	producing	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_
+23	Half	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_
+24	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_
+25	Loaf	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_
+26	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_
+27	Kung	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_
+28	Fu	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_
+29	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	N	_
+30	Spiritual	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	C	_
+31	Kung	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal
+32	Fu	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal
+33	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_
 

@@ -1,41 +1,41 @@
 # format = ucca
-1	The	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
-2	resulting	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	documentary	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-4	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-5	Cracked	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
-6	Actor	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_
-7	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
-8	featured	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-9	a	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-10	pasty	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-11	and	_	Word	-	-	_	_	_	_	N	_	_	_	_	_	_	_	_	_	_
-12	emaciated	_	Word	-	-	_	_	_	_	C	_	_	_	_	_	_	_	_	_	_
-13	Bowie	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
-14	:	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
-15	the	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-16	tour	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
-17	coincided	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_
-18	with	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
-19	the	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-20	singer	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
-21	's	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_
-22	slide	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
-23	from	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_
-24	heavy	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D	_	_	_	_
-25	cocaine	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
-26	use	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
-27	into	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_
-28	addiction	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A*	_	_
-29	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_
-30	producing	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_
-31	severe	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-32	physical	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-33	debilitation	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
-34	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_
-35	paranoia	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	C	_
-36	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	N	_
-37	emotional	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-38	problems	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	C	_
-39	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	The	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+2	resulting	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+3	documentary	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+4	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+5	Cracked	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+6	Actor	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
+7	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_
+8	featured	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	a	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+10	pasty	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_	_	_
+11	and	_	Word	-	-	_	_	_	_	L	_	_	_	_	_	_	_	_	_
+12	emaciated	_	Word	-	-	_	_	_	_	H	_	_	_	_	_	_	_	_	_
+13	Bowie	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+14	:	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_
+15	the	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_
+16	tour	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_	_
+17	coincided	_	Word	-	+	_	_	_	L	_	_	_	_	_	_	_	_	_	_
+18	with	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_
+19	the	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+20	singer	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A*	A*	A*	A*
+21	's	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_
+22	slide	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	_	_	_	_
+23	from	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_
+24	heavy	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	_	_	_	_
+25	cocaine	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	A*	_	_	_
+26	use	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_	_
+27	into	_	Word	-	-	_	_	_	L	_	_	_	_	_	_	_	_	_	_
+28	addiction	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_	_
+29	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_
+30	producing	_	Word	-	-	_	_	_	L	_	_	_	_	_	_	_	_	_	_
+31	severe	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	D	_	_
+32	physical	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+33	debilitation	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_	_
+34	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_
+35	paranoia	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_	_
+36	and	_	Word	-	-	_	_	_	L	_	_	_	_	_	_	_	_	_	_
+37	emotional	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	A
+38	problems	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_	_
+39	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

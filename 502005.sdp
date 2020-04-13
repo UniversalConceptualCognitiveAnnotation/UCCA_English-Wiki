@@ -1,40 +1,47 @@
 # format = ucca
-1	Before	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_
-2	the	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-3	end	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-4	of	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_	_	_
-5	1976	_	Word	-	+	_	_	_	_	_	_	_	_	_	D	_	_	_	_
-6	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_
-7	Bowie	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A*	_
-8	's	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_
-9	interest	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_
-10	in	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_	_
-11	the	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-12	burgeoning	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-13	German	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-14	music	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-15	scene	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_
-16	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_
-17	as	_	Word	-	+	_	_	_	_	N	_	_	_	_	_	_	_	_	_
-18	well	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
-19	as	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
-20	his	_	Word	-	-	_	_	_	_	_	_	_	_	A	_	_	_	_	_
-21	drug	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-22	addiction	_	Word	-	+	_	_	_	_	C	_	_	_	_	_	_	_	_	_
-23	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_
-24	prompted	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-25	him	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	A*	_	_	_
-26	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_	_	_
-27	move	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_
-28	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_
-29	West	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-30	Berlin	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_
-31	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	L	_	_	_	_
-32	clean	_	Word	-	+	_	_	_	_	_	_	_	_	_	H	_	_	_	_
-33	up	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_
-34	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	N	_
-35	revitalise	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	C	_
-36	his	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	A
-37	career	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_
-38	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	Working	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	with	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	Brian	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	Eno	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	while	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	sharing	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	an	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+8	apartment	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
+9	in	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_
+10	Schöneberg	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+11	with	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_
+12	Iggy	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
+13	Pop	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
+14	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	he	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
+16	began	_	Word	-	-	_	_	_	_	_	_	_	D	_	_	_	_	_	_	_	_
+17	to	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_
+18	focus	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	on	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_
+20	minimalist	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
+21	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_
+22	ambient	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
+23	music	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
+24	for	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_
+25	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
+26	first	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	Q	_	_	_	_
+27	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
+28	three	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
+29	albums	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
+30	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_
+31	co	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	D	_	_	_
+32	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_
+33	produced	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
+34	with	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_
+35	Tony	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
+36	Visconti	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
+37	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_
+38	that	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_
+39	became	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_
+40	known	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
+41	as	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+42	his	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+43	Berlin	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_
+44	Trilogy	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
+45	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

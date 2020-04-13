@@ -6,8 +6,8 @@
 5	style	_	Word	-	-	_	C	_	_	_	_	_
 6	has	_	Word	-	-	_	_	F	_	_	_	_
 7	influenced	_	Word	-	+	_	_	_	_	_	_	_
-8	numerous	_	Word	-	-	_	_	_	_	_	_	E
-9	hip	_	Word	-	+	_	_	_	_	_	_	E
+8	numerous	_	Word	-	-	_	_	_	_	_	_	Q
+9	hip	_	Word	-	+	_	_	_	_	_	_	A
 10	hop	_	Word	-	-	_	_	_	Terminal	_	_	_
 11	,	_	Punctuation	-	-	_	_	_	U	_	_	_
 12	post	_	Word	-	-	_	_	_	_	E	_	_
@@ -16,8 +16,8 @@
 15	,	_	Punctuation	-	-	_	_	_	U	_	_	_
 16	contemporary	_	Word	-	-	_	_	_	_	_	E	_
 17	R	_	Word	-	+	_	_	_	C	_	_	_
-18	&	_	Punctuation	-	-	_	_	_	_	_	U	_
-19	B	_	Word	-	-	_	_	_	_	_	C	_
+18	&	_	Word	-	-	_	_	_	_	_	Terminal	_
+19	B	_	Word	-	-	_	_	_	_	_	Terminal	_
 20	,	_	Punctuation	-	-	_	_	_	U	_	_	_
 21	pop	_	Word	-	-	_	_	_	C	_	_	_
 22	,	_	Punctuation	-	-	_	_	_	U	_	_	_

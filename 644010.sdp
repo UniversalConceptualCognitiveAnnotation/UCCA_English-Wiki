@@ -1,30 +1,63 @@
 # format = ucca
-1	During	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_
-2	a	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_
-3	car	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_
-4	journey	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
-5	to	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_
-6	visit	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_
-7	Cynthia	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_
-8	and	_	Word	-	-	_	_	_	_	N	_	_	_	_	_	_
-9	Julian	_	Word	-	-	_	_	_	_	C	_	_	_	_	_	_
-10	during	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_
-11	Lennon	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_
-12	's	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_
-13	divorce	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_
-14	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_
-15	McCartney	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	A*
-16	composed	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_
-17	a	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_
-18	song	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_
-19	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_
-20	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_
-21	Hey	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_
-22	Jules	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_
-23	"	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_
-24	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_
-25	to	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_
-26	comfort	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_
-27	him	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A
-28	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
+1	It	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	would	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	evolve	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	into	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	The	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	Beatles	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	song	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	"	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	Hey	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	Jude	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	"	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	.	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	Lennon	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	later	_	Word	-	-	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	said	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	"	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	That	_	Word	-	-	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
+19	's	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	his	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+21	best	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+22	song	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
+23	.	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+24	It	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+25	started	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_
+26	off	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_
+27	as	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_
+28	a	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+29	song	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+30	about	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_
+31	my	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
+32	son	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
+33	Julian	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+34	...	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+35	he	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
+36	turned	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_
+37	it	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
+38	into	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
+39	'	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_
+40	Hey	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
+41	Jude	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_
+42	'	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+43	.	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+44	I	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+45	always	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	T	_	_	_	_
+46	thought	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_
+47	it	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
+48	was	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_
+49	about	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	S*
+50	me	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	A*
+51	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	N	_	_
+52	Yoko	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	C	_	_
+53	but	_	Word	-	-	_	_	_	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_
+54	he	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_
+55	said	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_
+56	it	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_
+57	wasn	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F
+58	'	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+59	t	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D
+60	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+61	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

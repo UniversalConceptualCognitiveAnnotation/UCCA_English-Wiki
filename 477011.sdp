@@ -2,8 +2,8 @@
 1	To	_	Word	-	-	_	L	_	_	_	_	_	_
 2	prevent	_	Word	-	+	_	_	_	_	_	_	_	_
 3	his	_	Word	-	-	_	_	A	_	_	_	_	_
-4	HIV	_	Word	-	-	_	_	E	_	_	_	_	_
-5	infection	_	Word	-	+	_	_	_	A*	_	_	_	_
+4	HIV	_	Word	-	-	_	_	A	_	_	_	_	_
+5	infection	_	Word	-	+	_	A	_	_	_	_	_	_
 6	from	_	Word	-	-	_	_	_	R	_	_	_	_
 7	progressing	_	Word	-	+	_	A	_	_	_	_	_	_
 8	to	_	Word	-	-	_	_	_	_	R	_	_	_
@@ -11,10 +11,10 @@
 10	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_
 11	Johnson	_	Word	-	-	_	A*	_	_	_	A	_	_
 12	takes	_	Word	-	+	_	H	_	_	_	_	_	_
-13	a	_	Word	-	-	_	_	_	_	_	_	E	_
+13	a	_	Word	-	-	_	_	_	_	_	_	_	F
 14	daily	_	Word	-	-	_	_	_	_	_	_	E	_
 15	combination	_	Word	-	+	_	_	_	_	_	_	_	E
-16	of	_	Word	-	-	_	_	_	_	_	_	R	_
+16	of	_	Word	-	-	_	_	_	_	_	_	_	R
 17	drugs	_	Word	-	+	_	_	_	_	_	A	_	_
 18	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
 

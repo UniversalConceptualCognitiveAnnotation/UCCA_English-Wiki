@@ -11,13 +11,13 @@
 10	theatrical	_	Word	-	-	_	_	_	_	E	_	_	_	_
 11	special	_	Word	-	-	_	_	_	_	E	_	_	_	_
 12	effects	_	Word	-	+	_	_	_	A	_	_	_	_	_
-13	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_
+13	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_
 14	the	_	Word	-	-	_	_	_	_	_	_	E	_	_
 15	high	_	Word	-	-	_	_	_	_	_	E	_	_	_
 16	-	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_
-17	budget	_	Word	-	+	_	_	_	_	_	_	E	_	_
-18	stage	_	Word	-	-	_	_	_	_	_	_	E	_	_
-19	production	_	Word	-	+	_	A*	_	A*	_	_	_	A	_
+17	budget	_	Word	-	+	_	_	_	_	_	_	A	_	_
+18	stage	_	Word	-	-	_	_	_	_	_	_	A	_	_
+19	production	_	Word	-	+	_	A*	_	A*	_	_	_	_	_
 20	was	_	Word	-	-	_	_	_	_	_	_	_	F	_
 21	filmed	_	Word	-	+	_	H	_	_	_	_	_	_	_
 22	by	_	Word	-	-	_	_	_	_	_	_	_	_	R

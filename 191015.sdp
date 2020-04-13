@@ -1,19 +1,36 @@
 # format = ucca
-1	Sorkin	_	Word	-	-	_	A	_	_	_	_	_
-2	collaborated	_	Word	-	+	_	_	_	_	_	_	_
-3	with	_	Word	-	-	_	_	R	_	_	_	_
-4	Warren	_	Word	-	+	_	A	_	_	_	_	_
-5	Beatty	_	Word	-	-	_	_	Terminal	_	_	_	_
-6	on	_	Word	-	-	_	_	_	_	R	_	_
-7	a	_	Word	-	-	_	_	_	E	_	_	_
-8	couple	_	Word	-	+	_	_	_	_	E	_	_
-9	of	_	Word	-	-	_	_	_	R	_	_	_
-10	scripts	_	Word	-	+	_	A	_	_	_	_	_
-11	,	_	Punctuation	-	-	_	_	_	_	U	_	_
-12	one	_	Word	-	-	_	_	_	_	_	E	_
-13	of	_	Word	-	+	_	_	_	_	_	_	A
-14	which	_	Word	-	-	_	_	_	_	_	_	F
-15	was	_	Word	-	+	_	_	_	_	E	_	_
-16	Bulworth	_	Word	-	-	_	_	_	_	_	_	A
-17	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+1	At	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_
+2	one	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_
+3	point	_	Word	-	+	_	_	L	_	_	_	_	_	_	_	_
+4	Sorkin	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_
+5	sued	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+6	Beatty	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_
+7	for	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_
+8	proper	_	Word	-	-	_	_	_	D	_	_	_	_	_	_	_
+9	compensation	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_
+10	for	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_
+11	his	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_
+12	work	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_
+13	on	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_
+14	the	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_
+15	Ocean	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_
+16	of	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_
+17	Storms	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_
+18	script	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_
+19	;	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_
+20	however	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_
+21	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_
+22	he	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	_
+23	eventually	_	Word	-	-	_	_	_	_	_	_	_	T	_	_	_
+24	continued	_	Word	-	-	_	_	_	_	_	_	_	D	_	_	_
+25	working	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_
+26	on	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_
+27	the	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_
+28	script	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_
+29	once	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_
+30	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_
+31	matter	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A
+32	was	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F
+33	settled	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_
+34	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
 

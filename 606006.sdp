@@ -1,39 +1,39 @@
 # format = ucca
-1	The	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_
-2	album	_	Word	-	+	_	_	A	_	_	_	_	A*	_	_	_	_
-3	also	_	Word	-	-	_	_	D	_	_	_	_	_	_	_	_	_
-4	included	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
-5	the	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_
-6	top	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_
-7	-	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_
-8	ten	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_
-9	hits	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_
-10	"	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_
-11	Jet	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_
-12	"	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_
-13	and	_	Word	-	-	_	_	_	_	_	N	_	_	_	_	_	_
-14	"	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_
-15	Helen	_	Word	-	+	_	_	_	_	_	C	_	_	_	_	_	_
-16	Wheels	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_
-17	"	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_
-18	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_
-19	and	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_
-20	earned	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_
-21	the	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_
-22	413th	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_
-23	spot	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_
-24	on	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_
-25	Rolling	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_
-26	Stone	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_
-27	's	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_
-28	list	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_
-29	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R
-30	the	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_
-31	500	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal
-32	Greatest	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal
-33	Albums	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal
-34	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal
-35	All	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal
-36	Time	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal
-37	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
+1	The	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_
+2	album	_	Word	-	+	_	_	_	_	_	_	_	A*	_	_	_	_	_
+3	also	_	Word	-	-	_	_	D	_	_	_	_	_	_	_	_	_	_
+4	included	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	the	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_	_	_
+6	top	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_
+7	-	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_
+8	ten	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_
+9	hits	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_	_
+10	"	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_
+11	Jet	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_
+12	"	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_
+13	and	_	Word	-	-	_	_	_	_	_	N	_	_	_	_	_	_	_
+14	"	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_
+15	Helen	_	Word	-	+	_	_	_	_	_	C	_	_	_	_	_	_	_
+16	Wheels	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
+17	"	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_
+18	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_
+19	and	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_
+20	earned	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_
+21	the	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_	_
+22	413th	_	Word	-	-	_	_	_	_	_	_	_	_	Q	_	_	_	_
+23	spot	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_
+24	on	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R
+25	Rolling	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_
+26	Stone	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
+27	's	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_
+28	list	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	E
+29	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R
+30	the	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_	_
+31	500	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
+32	Greatest	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
+33	Albums	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
+34	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
+35	All	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
+36	Time	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
+37	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
 

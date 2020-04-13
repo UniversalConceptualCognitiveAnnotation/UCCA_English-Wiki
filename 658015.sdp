@@ -1,34 +1,34 @@
 # format = ucca
-1	During	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_
-2	the	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-3	interval	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-4	of	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_
-5	years	_	Word	-	+	_	_	_	_	_	_	_	_	L	_	_	_	_	_	_
-6	in	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_
-7	between	_	Word	-	+	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_
-8	Carey	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-9	's	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_
-10	older	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-11	sister	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-12	Alison	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
-13	and	_	Word	-	-	_	_	_	_	_	_	N	_	_	_	_	_	_	_	_
-14	the	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-15	singer	_	Word	-	+	_	_	_	_	_	_	C	_	_	_	_	_	_	_	_
-16	's	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_
-17	birth	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-18	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_
-19	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-20	Carey	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-21	family	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A*
-22	experienced	_	Word	-	+	_	_	_	_	_	_	_	_	H	_	_	_	_	_	_
-23	personal	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-24	struggles	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
-25	within	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_
-26	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-27	community	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-28	due	_	Word	-	+	_	_	_	_	_	_	_	_	L	_	_	_	_	_	_
-29	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_
-30	their	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-31	ethnicity	_	Word	-	+	_	_	_	_	_	_	_	_	H	_	_	_	_	_	_
-32	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	During	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_	_
+2	the	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_	_
+3	interval	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_
+4	of	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_	_
+5	years	_	Word	-	+	_	_	_	_	_	_	_	L	_	_	_	_	_
+6	in	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_
+7	between	_	Word	-	+	_	R	_	_	_	_	_	_	_	_	_	_	_
+8	Carey	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_
+9	's	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_
+10	older	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_
+11	sister	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_	_
+12	Alison	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_
+13	and	_	Word	-	-	_	_	_	_	_	N	_	_	_	_	_	_	_
+14	the	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_	_	_
+15	singer	_	Word	-	+	_	_	_	_	_	C	_	_	_	_	_	_	_
+16	's	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_
+17	birth	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_
+19	the	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_	_
+20	Carey	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_
+21	family	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_
+22	experienced	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_	_
+23	personal	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	_	_	_
+24	struggles	_	Word	-	+	_	_	_	_	_	_	_	H	_	_	_	_	_
+25	within	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_
+26	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_	_
+27	community	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_
+28	due	_	Word	-	+	_	_	_	_	_	_	_	L	_	_	_	_	_
+29	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_
+30	their	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	A
+31	ethnicity	_	Word	-	+	_	_	_	_	_	_	_	H	_	_	_	_	_
+32	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
 

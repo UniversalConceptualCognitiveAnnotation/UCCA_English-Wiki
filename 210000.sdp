@@ -1,12 +1,12 @@
 # format = ucca
-1	Hoffman	_	Word	-	-	_	A	_	_	_	_	_	_	_	_
+1	Hoffman	_	Word	-	-	_	A	_	_	_	_	_	A*	_	_
 2	played	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
-3	theater	_	Word	-	-	_	_	E	_	_	_	_	_	_	_
+3	theater	_	Word	-	-	_	_	A	_	_	_	_	_	_	_
 4	owner	_	Word	-	+	_	_	_	E	_	_	_	_	_	_
 5	Charles	_	Word	-	+	_	A	_	_	_	_	_	_	_	_
 6	Frohman	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_
 7	in	_	Word	-	-	_	_	_	_	_	_	R	_	_	_
-8	the	_	Word	-	-	_	_	_	_	_	_	E	_	_	_
+8	the	_	Word	-	-	_	_	_	_	_	_	F	_	_	_
 9	J	_	Word	-	+	_	_	_	_	_	_	E	_	_	_
 10	.	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_
 11	M	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_
@@ -14,7 +14,7 @@
 13	Barrie	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_
 14	historical	_	Word	-	-	_	_	_	_	_	E	_	_	_	_
 15	fantasia	_	Word	-	+	_	_	_	_	_	_	E	_	_	_
-16	Finding	_	Word	-	+	_	_	_	_	_	_	_	A*	_	_
+16	Finding	_	Word	-	+	_	A	_	_	_	_	_	_	_	_
 17	Neverland	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_
 18	(	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_
 19	2004	_	Word	-	-	_	_	_	_	_	_	E	_	_	_

@@ -1,9 +1,9 @@
 # format = ucca
-1	His	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_
-2	paternal	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_
-3	grandparents	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_
-4	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_
-5	Zigman	_	Word	-	+	_	E	_	_	_	_	_	_	_	_	_
+1	His	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_
+2	paternal	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_
+3	grandparents	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_
+4	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_
+5	Zigman	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_
 6	and	_	Word	-	-	_	_	N	_	_	_	_	_	_	_	_
 7	Anna	_	Word	-	-	_	_	C	_	_	_	_	_	_	_	_
 8	Zimmerman	_	Word	-	-	_	_	C	_	_	_	_	_	_	_	_
@@ -16,7 +16,7 @@
 15	Russian	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_
 16	Empire	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_
 17	(	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_
-18	now	_	Word	-	-	_	_	_	_	_	_	D	_	_	_	_
+18	now	_	Word	-	-	_	_	_	_	_	_	T	_	_	_	_
 19	Ukraine	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_
 20	)	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_
 21	to	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_
@@ -24,12 +24,12 @@
 23	United	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_
 24	States	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_	_
 25	following	_	Word	-	-	_	_	_	L	_	_	_	_	_	_	_
-26	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_
-27	anti	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_
+26	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_
+27	anti	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_
 28	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_
-29	Semitic	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_
+29	Semitic	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_
 30	pogroms	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_
 31	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
-32	1905	_	Word	-	+	_	_	_	_	_	_	_	_	_	D	_
+32	1905	_	Word	-	+	_	_	_	_	_	_	_	_	_	T	_
 33	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
 

@@ -1,64 +1,64 @@
 # format = ucca
-1	Having	_	Word	-	-	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-2	established	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	himself	_	Word	-	-	_	D	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-4	as	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-5	a	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-6	solo	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-7	artist	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-8	with	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-9	"	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-10	Space	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-11	Oddity	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-12	"	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-13	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-14	Bowie	_	Word	-	-	_	A*	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
-15	began	_	Word	-	-	_	_	_	_	D	_	_	_	_	_	_	_	_	_	_	_	_	_
-16	to	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_
-17	sense	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-18	a	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-19	lacking	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
-20	:	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-21	"	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-22	a	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-23	full	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
-24	-	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
-25	time	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-26	band	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-27	for	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_
-28	gigs	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-29	and	_	Word	-	-	_	_	_	_	_	_	_	_	N	_	_	_	_	_	_	_	_	_
-30	recording	_	Word	-	-	_	_	_	_	_	_	_	_	C	_	_	_	_	_	_	_	_	_
-31	-	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
-32	people	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
-33	he	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
-34	could	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D	_	_	_	_	_	_	_
-35	relate	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-36	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_
-37	personally	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D	_	_	_	_	_	_	_
-38	"	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-39	.	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-40	The	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-41	shortcoming	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
-42	was	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_
-43	underlined	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-44	by	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_
-45	his	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
-46	artistic	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-47	rivalry	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
-48	with	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_
-49	Marc	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
-50	Bolan	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
-51	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_
-52	who	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_
-53	was	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_
-54	at	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_
-55	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-56	time	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D	_
-57	acting	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-58	as	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
-59	his	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-60	session	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-61	guitarist	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_
-62	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	Having	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	established	_	Word	-	+	_	_	D	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	himself	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	as	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	a	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	solo	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	artist	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	with	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_
+9	"	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+10	Space	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	Oddity	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_
+12	"	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	Bowie	_	Word	-	-	_	_	A*	_	A	_	_	_	_	_	_	_	_	_	_	_
+15	began	_	Word	-	-	_	_	_	_	D	_	_	_	_	_	_	_	_	_	_	_
+16	to	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_
+17	sense	_	Word	-	-	_	_	_	_	D	_	_	_	_	_	_	_	_	_	_	_
+18	a	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+19	lacking	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	:	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+21	"	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+22	a	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_
+23	full	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+24	-	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
+25	time	_	Word	-	+	_	_	_	_	_	_	T	_	_	_	_	_	_	_	_	_
+26	band	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
+27	for	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_
+28	gigs	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_
+29	and	_	Word	-	-	_	_	_	_	_	_	_	L	_	_	_	_	_	_	_	_
+30	recording	_	Word	-	-	_	_	_	_	_	_	_	H	_	_	_	_	_	_	_	_
+31	-	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_
+32	people	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+33	he	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
+34	could	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	_	_	_	_	_	_
+35	relate	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
+36	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
+37	personally	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	_	_	_	_	_	_
+38	"	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+39	.	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+40	The	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+41	shortcoming	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+42	was	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_
+43	underlined	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
+44	by	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_
+45	his	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
+46	artistic	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
+47	rivalry	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+48	with	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_
+49	Marc	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_
+50	Bolan	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
+51	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_
+52	who	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+53	was	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F
+54	at	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
+55	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+56	time	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	T
+57	acting	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D
+58	as	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+59	his	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A
+60	session	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A
+61	guitarist	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
+62	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 

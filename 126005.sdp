@@ -1,7 +1,7 @@
 # format = ucca
-1	RKO	_	Word	-	-	_	E	_	_	_	_	_
-2	head	_	Word	-	+	_	_	E	_	_	_	_
-3	David	_	Word	-	+	_	_	_	A	_	_	_
+1	RKO	_	Word	-	-	_	A	_	_	_	_	_
+2	head	_	Word	-	+	_	_	_	A	_	_	_
+3	David	_	Word	-	+	_	A	_	_	_	_	_
 4	O	_	Word	-	-	_	_	Terminal	_	_	_	_
 5	.	_	Punctuation	-	-	_	_	U	_	_	_	_
 6	Selznick	_	Word	-	-	_	_	Terminal	_	_	_	_
@@ -11,13 +11,13 @@
 10	took	_	Word	-	-	_	_	_	_	F	_	_
 11	a	_	Word	-	-	_	_	_	_	E	_	_
 12	"	_	Punctuation	-	-	_	_	_	_	U	_	_
-13	tremendous	_	Word	-	-	_	_	_	_	E	_	_
+13	tremendous	_	Word	-	-	_	_	_	_	D	_	_
 14	chance	_	Word	-	+	_	_	_	A	_	_	_
 15	"	_	Punctuation	-	-	_	_	_	_	U	_	_
 16	in	_	Word	-	-	_	_	_	_	_	R	_
 17	casting	_	Word	-	+	_	_	_	_	A	_	_
 18	the	_	Word	-	-	_	_	_	_	_	_	E
-19	unusual	_	Word	-	-	_	_	_	_	_	_	E
+19	unusual	_	Word	-	-	_	_	_	_	_	_	D
 20	actress	_	Word	-	+	_	_	_	_	_	A	_
 21	.	_	Punctuation	-	-	_	_	_	_	_	_	U
 

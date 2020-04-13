@@ -1,38 +1,38 @@
 # format = ucca
-1	He	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	_	_
-2	returned	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
-3	to	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_
-4	television	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_
-5	in	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_
-6	2006	_	Word	-	+	_	D	_	_	_	_	_	_	_	_	_	_
-7	with	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_
-8	the	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_
-9	dramedy	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_
-10	Studio	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_
-11	60	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_
-12	on	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_
-13	the	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_
-14	Sunset	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_
-15	Strip	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_
-16	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_
-17	about	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_
-18	the	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_
-19	backstage	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_
-20	drama	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_
-21	at	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_
-22	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_
-23	late	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_
-24	-	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_
-25	night	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_
-26	sketch	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_
-27	comedy	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_
-28	show	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_
-29	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_
-30	once	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_
-31	again	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	D
-32	for	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R
-33	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E
-34	NBC	_	Word	-	+	_	H	_	_	_	_	_	_	_	_	_	_
-35	network	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E
-36	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
+1	He	_	Word	-	-	_	A	_	_	_	_	_	_	_	_	A*
+2	returned	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+3	to	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_
+4	television	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_
+5	in	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_
+6	2006	_	Word	-	+	_	T	_	_	_	_	_	_	_	_	_
+7	with	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_
+8	the	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_
+9	dramedy	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_
+10	Studio	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_
+11	60	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_
+12	on	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_
+13	the	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_
+14	Sunset	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_
+15	Strip	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_
+16	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_
+17	about	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_
+18	the	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_
+19	backstage	_	Word	-	-	_	_	_	_	_	A	_	_	_	_	_
+20	drama	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_
+21	at	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_
+22	a	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_
+23	late	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_
+24	-	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_
+25	night	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_
+26	sketch	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_
+27	comedy	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_
+28	show	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_
+29	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_
+30	once	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_
+31	again	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	R
+32	for	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R
+33	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E
+34	NBC	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_
+35	network	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E
+36	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
 

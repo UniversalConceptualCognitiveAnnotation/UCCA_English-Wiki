@@ -1,36 +1,36 @@
 # format = ucca
-1	The	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_
-2	lead	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_
-3	role	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_
-4	in	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_
-5	a	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_
-6	production	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_
-7	of	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_
-8	The	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_	_
-9	Woman	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_
-10	in	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_
-11	the	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_
-12	Moon	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_
-13	in	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_
-14	her	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_
-15	senior	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_
-16	year	_	Word	-	+	_	D	_	_	_	_	_	_	_	_	_	_
-17	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_
-18	and	_	Word	-	-	_	N	_	_	_	_	_	_	_	_	_	_
-19	the	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_
-20	positive	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_
-21	response	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_
-22	it	_	Word	-	-	_	_	_	_	_	_	A	_	_	_	_	_
-23	received	_	Word	-	+	_	C	_	_	_	_	_	_	_	_	_	_
-24	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_
-25	cemented	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
-26	Hepburn	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_
-27	's	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_
-28	plans	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_
-29	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_
-30	pursue	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_
-31	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E
-32	theatrical	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E
-33	career	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_
-34	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
+1	The	_	Word	-	-	_	F	_	_	_	_	_	_	_	_
+2	lead	_	Word	-	-	_	D	_	_	_	_	_	_	_	_
+3	role	_	Word	-	+	_	_	_	_	_	_	A	_	_	_
+4	in	_	Word	-	-	_	_	R	_	_	_	_	_	_	_
+5	a	_	Word	-	-	_	_	F	_	_	_	_	_	_	_
+6	production	_	Word	-	+	_	A	_	_	_	_	_	_	_	_
+7	of	_	Word	-	-	_	_	_	R	_	_	_	_	_	_
+8	The	_	Word	-	+	_	_	E	_	_	_	_	_	_	_
+9	Woman	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_
+10	in	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_
+11	the	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_
+12	Moon	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_
+13	in	_	Word	-	-	_	_	_	_	R	_	_	_	_	_
+14	her	_	Word	-	-	_	_	_	_	E	_	_	_	_	_
+15	senior	_	Word	-	-	_	_	_	_	E	_	_	_	_	_
+16	year	_	Word	-	+	_	T	_	_	_	_	_	_	_	_
+17	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
+18	and	_	Word	-	-	_	N	_	_	_	_	_	_	_	_
+19	the	_	Word	-	-	_	_	_	_	_	F	_	_	_	_
+20	positive	_	Word	-	-	_	_	_	_	_	D	_	_	_	_
+21	response	_	Word	-	+	_	C	_	_	_	_	_	_	_	_
+22	it	_	Word	-	-	_	_	_	_	_	A	_	_	_	_
+23	received	_	Word	-	-	_	_	_	_	_	D	_	_	_	_
+24	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_
+25	cemented	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+26	Hepburn	_	Word	-	+	_	_	_	_	_	_	_	_	A	_
+27	's	_	Word	-	-	_	_	_	_	_	_	_	F	_	_
+28	plans	_	Word	-	+	_	_	_	_	_	_	A	_	_	_
+29	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	F
+30	pursue	_	Word	-	-	_	_	_	_	_	_	_	_	_	D
+31	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	F
+32	theatrical	_	Word	-	-	_	_	_	_	_	_	_	_	_	A
+33	career	_	Word	-	+	_	_	_	_	_	_	_	_	A	_
+34	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
 

@@ -1,71 +1,50 @@
 # format = ucca
-1	Anna	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-2	Kisselgoff	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	of	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-4	The	_	Word	-	+	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-5	New	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-6	York	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-7	Times	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-8	later	_	Word	-	-	_	_	_	D	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-9	wrote	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-10	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-11	"	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-12	The	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-13	moonwalk	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-14	that	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-15	he	_	Word	-	-	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-16	made	_	Word	-	-	_	_	_	_	_	D	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-17	famous	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-18	is	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-19	an	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
-20	apt	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
-21	metaphor	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-22	for	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_
-23	his	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-24	dance	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-25	style	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
-26	.	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-27	How	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_
-28	does	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_
-29	he	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
-30	do	_	Word	-	+	_	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-31	it	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
-32	?	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-33	As	_	Word	-	-	_	_	_	_	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-34	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-35	technician	_	Word	-	+	_	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-36	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
-37	he	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A*	A	_	_	_	_	_	_	_	_	_
-38	is	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_	_	_	_
-39	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-40	great	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-41	illusionist	_	Word	-	+	_	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-42	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_
-43	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-44	genuine	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_
-45	mime	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	C	_	_	_	_	_	_	_	_	_
-46	.	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-47	His	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-48	ability	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_
-49	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_	_	_	_	_
-50	keep	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-51	one	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-52	leg	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_
-53	straight	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
-54	as	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	L	_	_	_	_	_	_
-55	he	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
-56	glides	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	H	_	_	_	_	_	_
-57	while	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	L	_	_	_	_	_	_
-58	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-59	other	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
-60	bends	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	H	_	_	_	_	_	_
-61	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	N	_	_
-62	seems	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	G	_	_
-63	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_
-64	walk	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	C	_	_
-65	requires	_	Word	-	+	_	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-66	perfect	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E
-67	timing	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_
-68	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
-69	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	Berry	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_
+2	Gordy	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
+3	said	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	of	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_
+5	the	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_
+6	performance	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_
+7	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_
+8	"	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_
+9	from	_	Word	-	-	_	_	_	_	L	_	_	_	_	_	_	_	_
+10	the	_	Word	-	-	_	_	_	_	F	_	_	_	_	_	_	_	_
+11	first	_	Word	-	-	_	_	_	_	Q	_	_	_	_	_	_	_	_
+12	beat	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_
+13	of	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_
+14	Billie	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_
+15	Jean	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_	_
+16	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_
+17	I	_	Word	-	-	_	_	_	_	_	_	A	_	_	_	_	_	_
+18	was	_	Word	-	-	_	_	_	_	_	_	F	_	_	_	_	_	_
+19	mesmerized	_	Word	-	+	_	_	_	_	H	_	_	_	_	_	_	_	_
+20	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_
+21	and	_	Word	-	-	_	_	_	_	L	_	_	_	_	_	_	_	_
+22	when	_	Word	-	-	_	_	_	_	L	_	_	_	_	_	_	_	_
+23	he	_	Word	-	-	_	_	_	_	_	_	_	A	_	_	_	_	_
+24	did	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_	_	_
+25	his	_	Word	-	-	_	_	_	_	_	_	_	F	_	_	_	_	_
+26	iconic	_	Word	-	-	_	_	_	_	_	_	_	G	_	_	_	_	_
+27	moonwalk	_	Word	-	+	_	_	_	_	H	_	_	_	_	_	_	_	_
+28	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_
+29	I	_	Word	-	-	_	_	_	_	_	_	_	_	A	_	_	_	_
+30	was	_	Word	-	-	_	_	_	_	_	_	_	_	F	_	_	_	_
+31	shocked	_	Word	-	+	_	_	_	_	H	_	_	_	_	_	_	_	_
+32	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_
+33	it	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_	_	_
+34	was	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_	_
+35	magic	_	Word	-	+	_	_	_	_	H	_	_	_	_	_	_	_	_
+36	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_
+37	Michael	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	A*
+38	Jackson	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
+39	went	_	Word	-	+	_	_	_	_	H	_	_	_	_	_	_	_	_
+40	into	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_
+41	orbit	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_
+42	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_
+43	and	_	Word	-	-	_	_	_	_	L	_	_	_	_	_	_	_	_
+44	never	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	T
+45	came	_	Word	-	+	_	_	_	_	H	_	_	_	_	_	_	_	_
+46	down	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	D
+47	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
+48	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
 

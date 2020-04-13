@@ -1,21 +1,21 @@
 # format = ucca
-1	American	_	Word	-	-	_	E	_	_	_	_	_	_	_
-2	President	_	Word	-	+	_	_	E	_	_	_	_	_	_
-3	George	_	Word	-	+	_	_	_	_	_	A	_	_	_
-4	W.	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_
-5	Bush	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_
-6	and	_	Word	-	-	_	_	N	_	_	_	_	_	_
-7	Canadian	_	Word	-	-	_	_	_	E	_	_	_	_	_
-8	Prime	_	Word	-	+	_	_	_	_	E	_	_	_	_
-9	Minister	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_
-10	Paul	_	Word	-	+	_	_	C	_	_	_	_	_	_
-11	Martin	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_
-12	offered	_	Word	-	+	_	_	_	_	_	_	_	_	_
-13	statements	_	Word	-	+	_	_	_	_	_	A	_	_	_
-14	of	_	Word	-	-	_	_	_	_	_	_	_	R	_
-15	condolence	_	Word	-	+	_	_	_	_	_	_	E	_	_
-16	to	_	Word	-	-	_	_	_	_	_	_	_	_	R
-17	the	_	Word	-	-	_	_	_	_	_	_	_	_	E
-18	press	_	Word	-	+	_	_	_	_	_	A	_	_	_
-19	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+1	American	_	Word	-	+	_	_	E	_	_	_	_	_	_	_
+2	President	_	Word	-	-	_	A	_	_	_	_	_	_	_	_
+3	George	_	Word	-	+	_	_	_	_	_	_	A	_	_	_
+4	W.	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_
+5	Bush	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_	_
+6	and	_	Word	-	-	_	_	N	_	_	_	_	_	_	_
+7	Canadian	_	Word	-	+	_	_	_	_	_	E	_	_	_	_
+8	Prime	_	Word	-	+	_	_	_	A	_	_	_	_	_	_
+9	Minister	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_
+10	Paul	_	Word	-	+	_	_	C	_	_	_	_	_	_	_
+11	Martin	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_
+12	offered	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+13	statements	_	Word	-	+	_	_	_	_	_	_	A	_	_	_
+14	of	_	Word	-	-	_	_	_	_	_	_	_	_	R	_
+15	condolence	_	Word	-	+	_	_	_	_	_	_	_	E	_	_
+16	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	R
+17	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E
+18	press	_	Word	-	+	_	_	_	_	_	_	A	_	_	_
+19	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
 

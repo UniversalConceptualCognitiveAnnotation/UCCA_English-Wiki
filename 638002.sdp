@@ -1,48 +1,48 @@
 # format = ucca
-1	Lennon	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_
-2	's	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	explanation	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
-4	was	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-5	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-6	"	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
-7	If	_	Word	-	+	_	_	_	_	_	L	_	_	_	_	_	_	_	_	_	_
-8	you	_	Word	-	-	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
-9	can	_	Word	-	-	_	_	_	_	_	D	_	_	_	_	_	_	_	_	_	_
-10	imagine	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
-11	a	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
-12	world	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
-13	at	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_
-14	peace	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
-15	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_
-16	with	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_
-17	no	_	Word	-	-	_	_	_	_	_	_	_	_	D	_	_	_	_	_	_	_
-18	denominations	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
-19	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_
-20	religion	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-21	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_	_
-22	not	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D	_	_	_	_	_
-23	without	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-24	religion	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
-25	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_
-26	but	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	L	_	_	_	_	_
-27	without	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	H	_	_	_	_	_
-28	this	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-29	'	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_
-30	my	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
-31	God	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
-32	is	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_
-33	bigger	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
-34	than	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
-35	your	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-36	God	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
-37	'	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_
-38	thing	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
-39	-	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
-40	then	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
-41	it	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A
-42	can	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D
-43	be	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F
-44	true	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_
-45	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
-46	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	Lennon	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
+2	's	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	explanation	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	was	_	Word	-	-	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_
+5	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+6	"	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_
+7	If	_	Word	-	+	_	_	_	_	L	_	_	_	_	_	_	_	_	_	_
+8	you	_	Word	-	-	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+9	can	_	Word	-	-	_	_	_	_	D	_	_	_	_	_	_	_	_	_	_
+10	imagine	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_
+11	a	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+12	world	_	Word	-	+	_	_	_	_	_	_	_	A*	_	A*	A*	_	_	_	_
+13	at	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_
+14	peace	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+15	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_
+16	with	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_
+17	no	_	Word	-	-	_	_	_	_	_	_	_	D	_	_	_	_	_	_	_
+18	denominations	_	Word	-	+	_	_	_	_	_	_	H	_	_	_	_	_	_	_	_
+19	of	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_
+20	religion	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+21	-	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_
+22	not	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	_	_	_	_	_
+23	without	_	Word	-	+	_	_	_	_	_	_	H	_	_	_	_	_	_	_	_
+24	religion	_	Word	-	-	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_
+25	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_	_
+26	but	_	Word	-	-	_	_	_	_	_	_	L	_	_	_	_	_	_	_	_
+27	without	_	Word	-	+	_	_	_	_	_	_	H	_	_	_	_	_	_	_	_
+28	this	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
+29	'	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_
+30	my	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+31	God	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+32	is	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	F	_	_
+33	bigger	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+34	than	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
+35	your	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+36	God	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+37	'	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_
+38	thing	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_
+39	-	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_	_	_	_	_
+40	then	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
+41	it	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	A
+42	can	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	D
+43	be	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	F
+44	true	_	Word	-	+	_	_	_	_	H	_	_	_	_	_	_	_	_	_	_
+45	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+46	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 
