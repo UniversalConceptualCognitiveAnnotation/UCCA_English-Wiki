@@ -1,50 +1,55 @@
 # ::id 550015
 # ::tok In a note to author Dean Jennings , who assisted Warner on his 1964 autobiography , My First Hundred Years in Hollywood , Ann Warner wrote : " He is extremely sensitive , but there are few who know that because he covers it with a cloak . "
-# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 3-1.1.1.4.1 4-1.1.1.4.2 5-1.1.1.4.3 6-1.1.1.4.3 9-1.1.1.4.4.3 10-1.1.1.4.4.4 11-1.1.1.4.4.5.1 12-1.1.1.4.4.5.2.1 13-1.1.1.4.4.5.2.2 14-1.1.1.4.4.5.2.3 16-1.1.1.4.4.5.3 17-1.1.1.4.4.5.3 18-1.1.1.4.4.5.3 19-1.1.1.4.4.5.3 20-1.1.1.4.4.5.3 21-1.1.1.4.4.5.3 23-1.1.2 24-1.1.2 25-1.1.3 28-1.1.4.1.1 30-1.1.4.1.3 31-1.1.4.1.4 33-1.1.4.2 35-1.1.4.3.2 36-1.1.4.3.3.1 38-1.1.4.3.3.2.3 39-1.1.4.3.3.2.4 40-1.1.4.4 41-1.1.4.5.1 42-1.1.4.5.2 43-1.1.4.5.3 44-1.1.4.5.4.1 45-1.1.4.5.4.2 46-1.1.4.5.4.3
+# ::alignments 0-1.1.1.1 2-1.1.1.3 3-1.1.1.4.1 4-1.1.1.4.2.2 5-1.1.1.4.3 6-1.1.1.4.3 8-1.1.1.4.4.2 9-1.1.1.4.4.3 10-1.1.1.4.4.4 11-1.1.1.4.4.5.1 12-1.1.1.4.4.5.2.1 13-1.1.1.4.4.5.2.2.3 14-1.1.1.4.4.5.2.3 16-1.1.1.4.4.5.3 17-1.1.1.4.4.5.3 18-1.1.1.4.4.5.3 19-1.1.1.4.4.5.3 20-1.1.1.4.4.5.3 21-1.1.1.4.4.5.3 23-1.1.2 24-1.1.2 25-1.1.3 28-1.1.4.1.1 30-1.1.4.1.3 31-1.1.4.1.4 33-1.1.4.2 35-1.1.4.3.2 36-1.1.4.3.3.1 37-1.1.4.3.3.2.2 38-1.1.4.3.3.2.3 39-1.1.4.3.3.2.4 40-1.1.4.4 41-1.1.4.5.1 42-1.1.4.5.2 43-1.1.4.5.3 44-1.1.4.5.4.1 46-1.1.4.5.4.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v3 / label
                   :R (v7 / label~e.0)
-                  :E (v8 / label~e.1)
-                  :C (v9 / label~e.2)
-                  :E (v10 / label
-                          :R (v16 / label~e.3)
-                          :E (v17 / label~e.4)
-                          :C (v18 / label~e.5,6)
-                          :E (v19 / label
-                                  :A v18
-                                  :P (v29 / label~e.9)
-                                  :A (v30 / label~e.10)
-                                  :A (v31 / label
-                                          :R (v37 / label~e.11)
-                                          :E (v38 / label
-                                                  :E (v42 / label~e.12)
-                                                  :E (v43 / label~e.13)
-                                                  :C (v44 / label~e.14))
-                                          :C (v39 / label~e.16,17,18,19,20,21)))))
+                  :C (v8 / label~e.2)
+                  :E (v9 / label
+                         :R (v15 / label~e.3)
+                         :E (v16 / label
+                                 :A (v17 / label~e.5,6)
+                                 :P (v28 / label~e.4))
+                         :C v17
+                         :E (v18 / label
+                                 :A v17
+                                 :R (v29 / label~e.8)
+                                 :P (v30 / label~e.9)
+                                 :A (v31 / label~e.10)
+                                 :A (v32 / label
+                                         :R (v37 / label~e.11)
+                                         :E (v38 / label
+                                                 :E (v43 / label~e.12)
+                                                 :E (v44 / label
+                                                         :A (v45 / label~e.14)
+                                                         :P (v46 / label)
+                                                         :T (v47 / label~e.13))
+                                                 :C v45)
+                                         :C (v39 / label~e.16,17,18,19,20,21)))))
            :A (v4 / label~e.23,24)
            :P (v5 / label~e.25)
            :A (v6 / label
-                  :H (v11 / label
-                          :A (v20 / label~e.28)
-                          :D (v21 / label~e.30)
-                          :S (v22 / label~e.31))
-                  :L (v12 / label~e.33)
-                  :H (v13 / label
-                          :S (v23 / label~e.35)
-                          :A (v24 / label
-                                  :C (v32 / label~e.36)
-                                  :E (v33 / label
-                                          :A v32
-                                          :S (v40 / label~e.38)
-                                          :A (v41 / label~e.39))))
-                  :L (v14 / label~e.40)
-                  :H (v15 / label
-                          :A (v25 / label~e.41)
-                          :P (v26 / label~e.42)
-                          :A (v27 / label~e.43)
-                          :A (v28 / label
-                                  :R (v34 / label~e.44)
-                                  :E (v35 / label~e.45)
+                  :H (v10 / label
+                          :A (v19 / label~e.28)
+                          :D (v20 / label~e.30)
+                          :S (v21 / label~e.31))
+                  :L (v11 / label~e.33)
+                  :H (v12 / label
+                          :S (v22 / label~e.35)
+                          :A (v23 / label
+                                  :C (v33 / label~e.36)
+                                  :E (v34 / label
+                                          :A v33
+                                          :R (v40 / label~e.37)
+                                          :P (v41 / label~e.38)
+                                          :A (v42 / label~e.39))))
+                  :L (v13 / label~e.40)
+                  :H (v14 / label
+                          :A (v24 / label~e.41)
+                          :P (v25 / label~e.42)
+                          :A (v26 / label~e.43)
+                          :A (v27 / label
+                                  :R (v35 / label~e.44)
                                   :C (v36 / label~e.46))))))

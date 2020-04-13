@@ -1,6 +1,6 @@
 # ::id 451001
 # ::tok While reporting for CTV , he was the first Canadian journalist to arrive in Dallas after the assassination of President John F. Kennedy .
-# ::alignments 0-1.1 1-1.2.2 2-1.2.3.1 3-1.2.3.2 5-1.2.1 6-1.3.2 7-1.3.3.1 8-1.3.3.2 9-1.3.3.3 10-1.3.3.4 12-1.3.3.5.3 13-1.3.3.5.4.1 14-1.3.3.5.4.2 15-1.4 16-1.5.1.1 17-1.5.1.2 18-1.5.2.1 19-1.5.2.2 20-1.5.2.3 21-1.5.2.3 22-1.5.2.3
+# ::alignments 0-1.1 1-1.2.2 2-1.2.3.1 3-1.2.3.2 5-1.2.1 6-1.3.2 7-1.3.3.1 8-1.3.3.2 9-1.3.3.3 10-1.3.3.4 11-1.3.3.5.2 12-1.3.3.5.3 13-1.3.3.5.4.1 14-1.3.3.5.4.2 15-1.4 16-1.5.1.1 17-1.5.1.2 18-1.5.2.1 19-1.5.2.2.1 20-1.5.2.3 21-1.5.2.3 22-1.5.2.3
 # ::format ucca
 (v1 / label
     :L (v2 / label~e.0)
@@ -20,10 +20,11 @@
                    :C (v19 / label~e.10)
                    :E (v20 / label
                            :A v7
-                           :P (v26 / label~e.12)
-                           :A (v27 / label
-                                   :R (v28 / label~e.13)
-                                   :C (v29 / label~e.14)))))
+                           :R (v26 / label~e.11)
+                           :P (v27 / label~e.12)
+                           :A (v28 / label
+                                   :R (v30 / label~e.13)
+                                   :C (v31 / label~e.14)))))
     :L (v5 / label~e.15)
     :H (v6 / label
            :P (v12 / label
@@ -31,5 +32,6 @@
                    :C (v22 / label~e.17))
            :A (v13 / label
                    :R (v23 / label~e.18)
-                   :E (v24 / label~e.19)
+                   :E (v24 / label
+                           :S (v29 / label~e.19))
                    :C (v25 / label~e.20,21,22))))

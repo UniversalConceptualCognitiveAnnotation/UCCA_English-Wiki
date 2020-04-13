@@ -1,41 +1,42 @@
 # ::id 544008
 # ::tok The film project , which was recommended to Jack Warner by FBI Director J . Edgar Hoover , drew on the real - life experiences of agent Leon Turrou , who had worked as an undercover agent .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 6-1.1.1.4.4 7-1.1.1.4.5.1 8-1.1.1.4.5.2 9-1.1.1.4.5.2 10-1.1.1.4.6.1 11-1.1.1.4.6.2.1 12-1.1.1.4.6.2.2 13-1.1.1.4.6.3 15-1.1.1.4.6.3 16-1.1.1.4.6.3 18-1.1.3 19-1.1.3 20-1.1.4.2.1 21-1.1.4.2.2 23-1.1.4.2.3 24-1.1.4.3 25-1.1.4.1.1 26-1.1.4.1.2 27-1.1.4.1.3 28-1.1.4.1.3 32-1.1.4.1.4.4 33-1.1.4.1.4.5.1 34-1.1.4.1.4.5.2 35-1.1.4.1.4.5.3 36-1.1.4.1.4.5.4
+# ::alignments 1-1.1.1.2 2-1.3.3 4-1.2 6-1.3.5 7-1.3.1.1 8-1.3.1.2 9-1.3.1.2 10-1.3.2.1 11-1.3.2.2.1 12-1.3.2.2.2 13-1.3.2.3 15-1.3.2.3 16-1.3.2.3 18-1.1.2 19-1.1.2 20-1.1.3.1.1 21-1.1.3.1.2 23-1.1.3.1.2 24-1.1.3.2 25-1.1.3.3.1 26-1.1.3.3.2.1 27-1.1.3.3.3 28-1.1.3.3.3 30-1.1.3.3.4.2 32-1.1.3.3.4.4 33-1.1.3.3.4.5.1 34-1.1.3.3.4.5.2 35-1.1.3.3.4.6 36-1.1.3.3.4.5.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :A (v3 / label
-                  :E (v6 / label~e.0)
-                  :C (v7 / label~e.1)
-                  :E (v8 / label~e.2)
-                  :E (v9 / label
-                         :A v7
-                         :P (v13 / label~e.6)
-                         :A (v14 / label
-                                 :R (v23 / label~e.7)
-                                 :C (v24 / label~e.8,9))
-                         :A (v15 / label
-                                 :R (v25 / label~e.10)
-                                 :E (v26 / label
-                                         :E (v30 / label~e.11)
-                                         :C (v31 / label~e.12))
-                                 :C (v27 / label~e.13,15,16))))
-           :P (v4 / label~e.18,19)
            :A (v5 / label
-                  :A (v10 / label
-                          :R (v16 / label~e.25)
-                          :E (v17 / label~e.26)
-                          :C (v18 / label~e.27,28)
-                          :E (v19 / label
-                                  :A v18
-                                  :P (v28 / label~e.32)
-                                  :A (v29 / label
-                                          :R (v32 / label~e.33)
-                                          :E (v33 / label~e.34)
-                                          :E (v34 / label~e.35)
-                                          :C (v35 / label~e.36))))
-                  :A (v11 / label
-                          :E (v20 / label~e.20)
-                          :C (v21 / label~e.21)
-                          :E (v22 / label~e.23))
-                  :P (v12 / label~e.24))))
+                  :A (v12 / label~e.1)
+                  :P (v10 / label~e.2))
+           :P (v6 / label~e.18,19)
+           :A (v7 / label
+                  :D (v13 / label
+                          :E (v21 / label~e.20)
+                          :C (v22 / label~e.21,23))
+                  :P (v14 / label~e.24)
+                  :A (v15 / label
+                          :R (v23 / label~e.25)
+                          :E (v24 / label
+                                  :A (v29 / label~e.26))
+                          :C (v25 / label~e.27,28)
+                          :E (v26 / label
+                                  :A v25
+                                  :R (v30 / label~e.30)
+                                  :D (v31 / label~e.32)
+                                  :A (v32 / label
+                                          :R (v34 / label~e.33)
+                                          :E (v35 / label~e.34)
+                                          :C (v36 / label~e.36))
+                                  :D (v33 / label~e.35)))))
+    :L (v3 / label~e.4)
+    :H (v4 / label
+           :A (v8 / label
+                  :R (v16 / label~e.7)
+                  :C (v17 / label~e.8,9))
+           :A (v9 / label
+                  :R (v18 / label~e.10)
+                  :E (v19 / label
+                          :A (v27 / label~e.11)
+                          :A (v28 / label~e.12))
+                  :C (v20 / label~e.13,15,16))
+           :A v10
+           :P (v11 / label~e.6)))

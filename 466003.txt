@@ -1,57 +1,61 @@
 # ::id 466003
 # ::tok After protests from his fellow players , he retired again for four years , but returned in 1996 , at age 36 , to play 32 games for the Lakers before retiring for the third and final time .
-# ::alignments 0-1.1 1-1.2.1 2-1.2.2.1 3-1.2.2.2 4-1.2.2.3 5-1.2.2.4 7-1.3.1 8-1.3.2 9-1.3.3 10-1.3.4.1 11-1.3.4.2 12-1.3.4.3 14-1.4 15-1.5.1 16-1.5.2.1 17-1.5.2.2 19-1.6 20-1.7.1.1 21-1.7.1.2 23-1.8 24-1.9.1 25-1.9.2.1 26-1.9.2.2 27-1.9.3.1 28-1.9.3.2 29-1.9.3.3 30-1.10 31-1.11.1 32-1.11.2.1 33-1.11.2.2 34-1.11.2.3.1 35-1.11.2.3.2 36-1.11.2.3.3 37-1.11.2.4
+# ::alignments 0-1.1 1-1.2.1 2-1.2.2.1 3-1.2.2.2.2 4-1.2.2.2.3 5-1.2.2.2.1 7-1.3.1 8-1.3.2 9-1.3.3 10-1.3.4.1 11-1.3.4.2 12-1.3.4.3 14-1.4 15-1.5.1 16-1.5.2.1 17-1.5.2.2 19-1.6 20-1.7.1 21-1.7.2.2 23-1.8 24-1.9.1 25-1.9.2.1 26-1.9.2.2 27-1.9.3.1 28-1.9.3.2 29-1.9.3.3 30-1.10 31-1.11.1 32-1.11.2.1 33-1.11.2.2 34-1.11.2.3.1 35-1.11.2.3.2 36-1.11.2.3.3 37-1.11.2.4
 # ::format ucca
 (v1 / label
     :L (v2 / label~e.0)
     :H (v3 / label
            :P (v13 / label~e.1)
            :A (v14 / label
-                   :R (v27 / label~e.2)
-                   :E (v28 / label~e.3)
-                   :E (v29 / label~e.4)
-                   :C (v30 / label~e.5)))
+                   :R (v28 / label~e.2)
+                   :E (v29 / label
+                           :A (v47 / label~e.5)
+                           :A (v48 / label~e.3)
+                           :S (v49 / label~e.4))
+                   :C (v30 / label
+                           :P v47)))
     :H (v4 / label
            :A (v15 / label~e.7)
            :P (v16 / label~e.8)
            :D (v17 / label~e.9)
-           :D (v18 / label
+           :T (v18 / label
                    :R (v31 / label~e.10)
-                   :E (v32 / label~e.11)
+                   :Q (v32 / label~e.11)
                    :C (v33 / label~e.12)))
     :L (v5 / label~e.14)
     :H (v6 / label
            :P (v19 / label~e.15)
-           :D (v20 / label
+           :T (v20 / label
                    :R (v34 / label~e.16)
                    :C (v35 / label~e.17))
            :A v15)
     :L (v7 / label~e.19)
     :H (v8 / label
-           :S (v21 / label
-                   :C (v36 / label~e.20)
-                   :E (v37 / label~e.21))
+           :S (v21 / label~e.20)
+           :T (v22 / label
+                   :C (v36 / label)
+                   :Q (v37 / label~e.21))
            :A v15)
     :L (v9 / label~e.23)
     :H (v10 / label
-            :P (v22 / label~e.24)
-            :A (v23 / label
-                    :E (v38 / label~e.25)
-                    :C (v39 / label~e.26))
+            :P (v23 / label~e.24)
             :A (v24 / label
+                    :Q (v38 / label~e.25)
+                    :C (v39 / label~e.26))
+            :A (v25 / label
                     :R (v40 / label~e.27)
                     :E (v41 / label~e.28)
                     :C (v42 / label~e.29))
             :A v15)
     :L (v11 / label~e.30)
     :H (v12 / label
-            :P (v25 / label~e.31)
-            :A (v26 / label
+            :P (v26 / label~e.31)
+            :A (v27 / label
                     :R (v43 / label~e.32)
                     :E (v44 / label~e.33)
                     :E (v45 / label
-                            :C (v47 / label~e.34)
-                            :N (v48 / label~e.35)
-                            :C (v49 / label~e.36))
+                            :Q (v50 / label~e.34)
+                            :N (v51 / label~e.35)
+                            :C (v52 / label~e.36))
                     :C (v46 / label~e.37))
             :A v15))

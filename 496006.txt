@@ -20,8 +20,9 @@
     :H (v5 / label
            :A (v11 / label
                    :R (v19 / label~e.17)
-                   :E (v20 / label~e.18)
-                   :C (v21 / label~e.19))
+                   :A (v20 / label~e.18)
+                   :S (v21 / label~e.19)
+                   :A v8)
            :A v8
            :P (v12 / label~e.12,13)
            :A (v13 / label

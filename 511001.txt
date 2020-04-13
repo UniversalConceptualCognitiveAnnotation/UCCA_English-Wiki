@@ -4,7 +4,7 @@
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :D (v3 / label
+           :T (v3 / label
                   :R (v7 / label~e.0)
                   :C (v8 / label~e.1))
            :A (v4 / label~e.3)
@@ -13,7 +13,7 @@
                   :H (v9 / label
                          :A (v12 / label~e.7)
                          :P (v13 / label~e.9,12)
-                         :D (v14 / label
+                         :T (v14 / label
                                  :E (v20 / label~e.10)
                                  :C (v21 / label~e.11)))
                   :H (v10 / label

@@ -15,13 +15,13 @@
     :H (v4 / label
            :A (v8 / label
                   :E (v16 / label~e.13)
-                  :E (v17 / label~e.14)
+                  :Q (v17 / label~e.14)
                   :E (v18 / label~e.15,16,17)
                   :C (v19 / label~e.18)
                   :E (v20 / label
                           :R (v23 / label~e.19)
-                          :E (v24 / label~e.20)
-                          :C (v25 / label~e.21)))
+                          :D (v24 / label~e.20)
+                          :S (v25 / label~e.21)))
            :A (v9 / label
                   :A (v21 / label
                           :C (v26 / label~e.8)

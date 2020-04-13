@@ -1,6 +1,6 @@
 # ::id 458001
 # ::tok d ] Instead , Jennings devoted his energies to covering the War in Bosnia and Herzegovina , anchoring three hour - long prime time specials on the subject and one Saturday - morning special aimed at children .
-# ::alignments 2-1.2 4-1.3.1 5-1.3.2 6-1.3.3.1 7-1.3.3.2 9-1.3.4.3 10-1.3.4.4.1 11-1.3.4.4.2 12-1.3.4.4.3.1 13-1.3.4.4.3.2.1 14-1.3.4.4.3.2.2 15-1.3.4.4.3.2.3 17-1.4.1 18-1.4.2.1.1 19-1.4.2.1.2.1 21-1.4.2.1.2.2 22-1.4.2.1.3.1 23-1.4.2.1.3.2 24-1.4.2.1.4 25-1.4.2.1.5.1 26-1.4.2.1.5.2 27-1.4.2.1.5.3 28-1.4.2.2 29-1.4.2.3.1.1 30-1.4.2.3.1.2.1 32-1.4.2.3.1.2.2 33-1.4.2.3.1.3 34-1.4.2.3.2.1 35-1.4.2.3.2.2 36-1.4.2.3.3
+# ::alignments 2-1.2 4-1.3.1 5-1.3.2 6-1.3.3.1 7-1.3.3.2 8-1.3.4.2 9-1.3.4.3 10-1.3.4.4.1.1 11-1.3.4.4.1.2 12-1.3.4.4.2.1 13-1.3.4.4.2.2 14-1.3.4.4.2.3 15-1.3.4.4.2.4 17-1.4.1 18-1.4.2.1.1 19-1.4.2.1.2.1 21-1.4.2.1.2.2 22-1.4.2.1.3.1 23-1.4.2.1.3.2 24-1.4.2.1.4 25-1.4.2.1.5.1 26-1.4.2.1.5.2 27-1.4.2.1.5.3 28-1.4.2.2 29-1.4.2.3.1 30-1.4.2.3.2.1 32-1.4.2.3.2.2 33-1.4.2.3.3 34-1.4.2.3.4.1 35-1.4.2.3.4.2 36-1.4.2.3.4.3
 # ::format ucca
 (v1 / label
     :L (v2 / label~e.2)
@@ -12,41 +12,41 @@
                   :C (v12 / label~e.7))
            :A (v8 / label
                   :A v5
-                  :P (v13 / label~e.9)
-                  :A (v14 / label
-                          :E (v18 / label~e.10)
-                          :C (v19 / label~e.11)
-                          :E (v20 / label
-                                  :R (v29 / label~e.12)
-                                  :C (v30 / label
-                                          :C (v43 / label~e.13)
-                                          :N (v44 / label~e.14)
-                                          :C (v45 / label~e.15))))))
+                  :R (v13 / label~e.8)
+                  :P (v14 / label~e.9)
+                  :A (v15 / label
+                          :P (v19 / label
+                                  :E (v30 / label~e.10)
+                                  :C (v31 / label~e.11))
+                          :A (v20 / label
+                                  :R (v32 / label~e.12)
+                                  :C (v33 / label~e.13)
+                                  :N (v34 / label~e.14)
+                                  :C (v35 / label~e.15)))))
     :H (v4 / label
            :P (v9 / label~e.17)
            :A (v10 / label
-                   :C (v15 / label
-                           :E (v21 / label~e.18)
+                   :C (v16 / label
+                           :Q (v21 / label~e.18)
                            :E (v22 / label
-                                   :C (v31 / label~e.19)
-                                   :E (v32 / label~e.21))
+                                   :C (v36 / label~e.19)
+                                   :E (v37 / label~e.21))
                            :E (v23 / label
-                                   :E (v33 / label~e.22)
-                                   :C (v34 / label~e.23))
+                                   :E (v38 / label~e.22)
+                                   :C (v39 / label~e.23))
                            :C (v24 / label~e.24)
                            :E (v25 / label
-                                   :R (v35 / label~e.25)
-                                   :E (v36 / label~e.26)
-                                   :C (v37 / label~e.27)))
-                   :N (v16 / label~e.28)
-                   :C (v17 / label
-                           :A (v26 / label
-                                   :E (v38 / label~e.29)
-                                   :E (v39 / label
-                                           :E (v46 / label~e.30)
-                                           :C (v47 / label~e.32))
-                                   :C (v40 / label~e.33))
-                           :S (v27 / label
-                                   :C (v41 / label~e.34)
-                                   :R (v42 / label~e.35))
-                           :A (v28 / label~e.36)))))
+                                   :R (v40 / label~e.25)
+                                   :E (v41 / label~e.26)
+                                   :C (v42 / label~e.27)))
+                   :N (v17 / label~e.28)
+                   :C (v18 / label
+                           :Q (v26 / label~e.29)
+                           :E (v27 / label
+                                   :E (v43 / label~e.30)
+                                   :C (v44 / label~e.32))
+                           :C (v28 / label~e.33)
+                           :E (v29 / label
+                                   :E (v45 / label~e.34)
+                                   :R (v46 / label~e.35)
+                                   :C (v47 / label~e.36))))))

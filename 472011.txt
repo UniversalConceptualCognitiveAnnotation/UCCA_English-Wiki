@@ -1,77 +1,50 @@
 # ::id 472011
-# ::tok He stated that his wife Cookie and their unborn child did not have HIV , and that he would dedicate his life to " battle this deadly disease " . Johnson initially said that he did not know how he contracted the disease , but later acknowledged that it was through having multiple sexual partners during his playing career .
-# ::alignments 0-1.1.1 1-1.1.2 3-1.1.3.1.2.1.1 4-1.1.3.1.2.1.2 5-1.1.3.1.2.1.3 6-1.1.3.1.2.2 7-1.1.3.1.2.3.1 8-1.1.3.1.2.3.2 9-1.1.3.1.2.3.3 11-1.1.3.1.4 12-1.1.3.1.5 13-1.1.3.1.6 15-1.1.3.2 17-1.1.3.3.2 19-1.1.3.3.3.2 20-1.1.3.3.4.1 21-1.1.3.3.4.2 24-1.1.3.3.5.3 25-1.1.3.3.5.4.1 26-1.1.3.3.5.4.2 27-1.1.3.3.5.4.3 30-1.2.1 31-1.2.2 32-1.2.3 34-1.2.4.2 36-1.2.4.4 37-1.2.4.5 38-1.2.4.6.1 39-1.2.4.6.2 40-1.2.4.6.3 41-1.2.4.6.4.1 42-1.2.4.6.4.2 44-1.3 45-1.4.1 46-1.4.2 48-1.4.3.2 49-1.4.3.3 50-1.4.3.4.1 51-1.4.3.4.2.1.1 52-1.4.3.4.2.1.2.1 53-1.4.3.4.2.1.2.2 54-1.4.3.4.2.1.2.3 55-1.4.3.4.2.2 56-1.4.3.4.2.3.1 57-1.4.3.4.2.3.2.1 58-1.4.3.4.2.3.2.2
+# ::tok At the time , only a small percentage of HIV - positive American men had contracted it from heterosexual sex , and it was initially rumored that Johnson was gay or bisexual , although he denied both .
+# ::alignments 0-1.1.1.1 2-1.1.1.3 4-1.1.2.1.1 6-1.1.2.1.3 7-1.1.2.1.4 8-1.1.2.2 9-1.1.2.3.2 11-1.1.2.3.3 12-1.1.2.4.2 13-1.1.2.5 15-1.1.4 16-1.1.5 17-1.1.6.1 18-1.1.6.2 19-1.1.6.3 21-1.2 24-1.3.4 25-1.3.5 26-1.3.6.2.1 27-1.3.6.2.2 29-1.3.6.2.4 30-1.3.6.1 31-1.3.6.3.1 33-1.4 34-1.5.1 35-1.5.2 36-1.5.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :A (v6 / label~e.0)
-           :P (v7 / label~e.1)
+           :T (v7 / label
+                  :R (v19 / label~e.0)
+                  :C (v20 / label~e.2))
            :A (v8 / label
-                  :H (v16 / label
-                          :A (v26 / label
-                                  :C (v40 / label
-                                          :E (v53 / label~e.3)
-                                          :C (v54 / label~e.4)
-                                          :E (v55 / label~e.5))
-                                  :N (v41 / label~e.6)
-                                  :C (v42 / label
-                                          :E (v56 / label~e.7)
-                                          :E (v57 / label~e.8)
-                                          :C (v58 / label~e.9)))
-                          :D (v27 / label~e.11)
-                          :P (v28 / label~e.12)
-                          :A (v29 / label~e.13))
-                  :L (v17 / label~e.15)
-                  :H (v18 / label
-                          :A (v30 / label~e.17)
-                          :P (v31 / label
-                                  :C (v43 / label~e.19))
-                          :A (v32 / label
-                                  :E (v44 / label~e.20)
-                                  :C (v45 / label~e.21))
-                          :A (v33 / label
-                                  :A v30
-                                  :P (v46 / label~e.24)
-                                  :A (v47 / label
-                                          :E (v59 / label~e.25)
-                                          :E (v60 / label~e.26)
-                                          :C (v61 / label~e.27))))))
-    :H (v3 / label
-           :A (v9 / label~e.30)
-           :D (v10 / label~e.31)
-           :P (v11 / label~e.32)
-           :A (v12 / label
-                   :A (v19 / label~e.34)
-                   :D (v20 / label~e.36)
-                   :P (v21 / label~e.37)
-                   :A (v22 / label
-                           :D (v34 / label~e.38)
-                           :A (v35 / label~e.39)
-                           :P (v36 / label~e.40)
-                           :A (v37 / label
-                                   :E (v48 / label~e.41)
-                                   :C (v49 / label~e.42)))))
-    :L (v4 / label~e.44)
-    :H (v5 / label
-           :D (v13 / label~e.45)
-           :P (v14 / label~e.46)
+                  :Q (v21 / label
+                          :R (v32 / label~e.4)
+                          :E (v33 / label~e.6)
+                          :C (v34 / label~e.7))
+                  :R (v22 / label~e.8)
+                  :E (v23 / label
+                          :A (v25 / label~e.13)
+                          :A (v35 / label~e.9)
+                          :S (v36 / label~e.11))
+                  :E (v24 / label
+                          :A v25
+                          :S (v37 / label~e.12))
+                  :C v25)
+           :P (v9 / label~e.15)
+           :A (v10 / label~e.16)
+           :A (v11 / label
+                   :R (v26 / label~e.17)
+                   :D (v27 / label~e.18)
+                   :P (v28 / label~e.19)
+                   :A v25))
+    :L (v3 / label~e.21)
+    :H (v4 / label
+           :A (v12 / label)
+           :D (v13 / label~e.24)
+           :P (v14 / label~e.25)
            :A (v15 / label
-                   :A (v23 / label~e.48)
-                   :P (v24 / label~e.49)
-                   :A (v25 / label
-                           :R (v38 / label~e.50)
-                           :C (v39 / label
-                                   :H (v50 / label
-                                           :P (v62 / label~e.51)
-                                           :A (v63 / label
-                                                   :E (v66 / label~e.52)
-                                                   :E (v67 / label~e.53)
-                                                   :C (v68 / label~e.54))
-                                           :A v9)
-                                   :L (v51 / label~e.55)
-                                   :H (v52 / label
-                                           :A (v64 / label~e.56)
-                                           :P (v65 / label
-                                                   :E (v69 / label~e.57)
-                                                   :C (v70 / label~e.58))))))
-           :A v9))
+                   :L (v29 / label~e.30)
+                   :H (v30 / label
+                           :R (v38 / label~e.26)
+                           :A (v39 / label~e.27)
+                           :S (v40 / label~e.29))
+                   :H (v31 / label
+                           :S (v41 / label~e.31)
+                           :R v38
+                           :A v39)))
+    :L (v5 / label~e.33)
+    :H (v6 / label
+           :A (v16 / label~e.34)
+           :P (v17 / label~e.35)
+           :A (v18 / label~e.36)))

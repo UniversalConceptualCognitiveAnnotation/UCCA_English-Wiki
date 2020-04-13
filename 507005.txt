@@ -1,6 +1,6 @@
 # ::id 507005
 # ::tok EMI complained of " lyrics that preach " as well as " repetitive tunes " and " minimalist or no production " . The album nevertheless reached number three in the UK .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 4-1.1.3.2.1.1 6-1.1.3.2.1.2.2 8-1.1.3.2.2 9-1.1.3.2.2 10-1.1.3.2.2 12-1.1.3.2.3.1.1 13-1.1.3.2.3.1.2 15-1.1.3.2.3.2 17-1.1.3.2.3.3.1.1 18-1.1.3.2.3.3.1.2 19-1.1.3.2.3.3.1.3 20-1.1.3.2.3.3.2 23-1.2.3.1 24-1.2.3.2 25-1.3 26-1.2.4 27-1.2.1.1 28-1.2.1.2 29-1.2.2.1 30-1.2.2.2 31-1.2.2.3
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 4-1.1.3.2.1 6-1.1.3.2.3 8-1.1.3.3 9-1.1.3.3 10-1.1.3.3 12-1.1.3.4.1.1.2 13-1.1.3.4.1.2 15-1.1.3.4.2 17-1.1.3.4.3.1.1 18-1.1.3.4.3.1.2 19-1.1.3.4.3.1.3 20-1.1.3.4.3.2 23-1.2.3.1 24-1.2.3.2 25-1.3 26-1.2.4 27-1.2.1.1 28-1.2.1.2 29-1.2.2.1 30-1.2.2.2 31-1.2.2.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -9,32 +9,32 @@
            :A (v7 / label
                   :R (v12 / label~e.2)
                   :C (v13 / label
-                          :C (v21 / label
-                                  :A (v24 / label~e.4)
-                                  :P (v25 / label
-                                          :C (v29 / label~e.6)))
-                          :N (v22 / label~e.8,9,10)
-                          :C (v23 / label
-                                  :C (v26 / label
-                                          :E (v30 / label~e.12)
-                                          :C (v31 / label~e.13))
-                                  :N (v27 / label~e.15)
-                                  :C (v28 / label
-                                          :E (v32 / label
-                                                  :C (v34 / label~e.17)
-                                                  :N (v35 / label~e.18)
-                                                  :C (v36 / label~e.19))
-                                          :C (v33 / label~e.20))))))
+                          :A (v23 / label~e.4)
+                          :P (v24 / label~e.6))
+                  :N (v14 / label~e.8,9,10)
+                  :C (v15 / label
+                          :C (v25 / label
+                                  :E (v28 / label
+                                          :A (v29 / label~e.13)
+                                          :S (v32 / label~e.12))
+                                  :C v29)
+                          :N (v26 / label~e.15)
+                          :C (v27 / label
+                                  :D (v30 / label
+                                          :C (v33 / label~e.17)
+                                          :N (v34 / label~e.18)
+                                          :C (v35 / label~e.19))
+                                  :P (v31 / label~e.20)))))
     :H (v3 / label
-           :A (v8 / label
-                  :C (v14 / label~e.27)
-                  :E (v15 / label~e.28))
+           :S (v8 / label
+                  :C (v16 / label~e.27)
+                  :Q (v17 / label~e.28))
            :A (v9 / label
-                  :R (v16 / label~e.29)
-                  :E (v17 / label~e.30)
-                  :C (v18 / label~e.31))
+                  :R (v18 / label~e.29)
+                  :E (v19 / label~e.30)
+                  :C (v20 / label~e.31))
            :A (v10 / label
-                   :E (v19 / label~e.23)
-                   :C (v20 / label~e.24))
-           :P (v11 / label~e.26))
+                   :E (v21 / label~e.23)
+                   :C (v22 / label~e.24))
+           :D (v11 / label~e.26))
     :L (v4 / label~e.25))

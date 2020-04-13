@@ -1,56 +1,76 @@
 # ::id 468006
 # ::tok Paul Westhead decided to start Johnson at center in Game 6 ; Johnson recorded 42 points , 15 rebounds , 7 assists , and 3 steals in a 123 - 107 win , while playing guard , forward , and center at different times during the game .
-# ::alignments 0-1.1.1 1-1.1.1 2-1.1.2 4-1.1.4 5-1.1.5 6-1.1.6.1 7-1.1.6.2 8-1.1.7.1 9-1.1.7.2 10-1.1.7.3 12-1.2.1 13-1.2.2 14-1.2.3.1.1 15-1.2.3.1.2 17-1.2.3.2.1 18-1.2.3.2.2 20-1.2.3.3.1 21-1.2.3.3.2 23-1.2.3.4 24-1.2.3.5.1 25-1.2.3.5.2 26-1.2.4.1 27-1.2.4.2 28-1.2.4.3 30-1.2.4.3 31-1.2.4.4 33-1.3 34-1.4.5 35-1.4.1.1 37-1.4.1.2 39-1.4.1.3 40-1.4.1.4 41-1.4.2.1 42-1.4.2.2 43-1.4.2.3 44-1.4.3.1 45-1.4.3.2 46-1.4.3.3
+# ::alignments 0-1.1.1 1-1.1.1 2-1.1.2 4-1.1.4 5-1.1.5 6-1.1.6.1 7-1.1.6.2 8-1.1.7.1 9-1.1.7.2 10-1.1.7.3 12-1.2.1 13-1.2.2 14-1.2.3.1.1 15-1.2.3.1.2 17-1.2.3.2.1 18-1.2.3.2.2.2 20-1.2.3.3.1 21-1.2.3.3.2.2 23-1.2.3.4 24-1.2.3.5.1 25-1.2.3.5.2.2 26-1.2.4.1 27-1.2.4.2 28-1.2.4.3.2 30-1.2.4.3.3 31-1.2.4.4.1 33-1.3 34-1.5.1 35-1.5.2 37-1.6.1 39-1.4 40-1.7.1 41-1.5.3.1 42-1.5.3.2 43-1.5.3.3 44-1.5.4.1 45-1.5.4.2.1 46-1.5.4.2.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :A (v6 / label~e.0,1)
-           :D (v7 / label~e.2)
-           :P (v8 / label~e.4)
-           :A (v9 / label~e.5)
-           :A (v10 / label
-                   :E (v20 / label~e.6)
-                   :C (v21 / label~e.7))
-           :A (v11 / label
-                   :R (v22 / label~e.8)
-                   :C (v23 / label~e.9)
-                   :E (v24 / label~e.10)))
-    :H (v3 / label
-           :A (v12 / label~e.12)
-           :P (v13 / label~e.13)
+           :A (v9 / label~e.0,1)
+           :D (v10 / label~e.2)
+           :P (v11 / label~e.4)
+           :A (v12 / label~e.5)
+           :A (v13 / label
+                   :E (v25 / label~e.6)
+                   :C (v26 / label~e.7))
            :A (v14 / label
-                   :C (v25 / label
-                           :E (v44 / label~e.14)
+                   :R (v27 / label~e.8)
+                   :C (v28 / label~e.9)
+                   :Q (v29 / label~e.10)))
+    :H (v3 / label
+           :A (v15 / label~e.12)
+           :P (v16 / label~e.13)
+           :A (v17 / label
+                   :C (v30 / label
+                           :Q (v44 / label~e.14)
                            :C (v45 / label~e.15))
-                   :C (v26 / label
-                           :E (v46 / label~e.17)
-                           :C (v47 / label~e.18))
-                   :C (v27 / label
-                           :E (v48 / label~e.20)
-                           :C (v49 / label~e.21))
-                   :N (v28 / label~e.23)
-                   :C (v29 / label
-                           :E (v50 / label~e.24)
-                           :C (v51 / label~e.25)))
-           :A (v15 / label
-                   :R (v30 / label~e.26)
-                   :E (v31 / label~e.27)
-                   :E (v32 / label~e.28,30)
-                   :C (v33 / label~e.31)))
+                   :C (v31 / label
+                           :Q (v46 / label~e.17)
+                           :C (v47 / label
+                                   :A v15
+                                   :P (v58 / label~e.18)))
+                   :C (v32 / label
+                           :Q (v48 / label~e.20)
+                           :C (v49 / label
+                                   :A v15
+                                   :P (v59 / label~e.21)))
+                   :N (v33 / label~e.23)
+                   :C (v34 / label
+                           :Q (v50 / label~e.24)
+                           :C (v51 / label
+                                   :A v15
+                                   :P (v60 / label~e.25))))
+           :A (v18 / label
+                   :R (v35 / label~e.26)
+                   :E (v36 / label~e.27)
+                   :Q (v37 / label
+                           :R (v52 / label)
+                           :C (v53 / label~e.28)
+                           :C (v54 / label~e.30))
+                   :C (v38 / label
+                           :P (v55 / label~e.31))))
     :L (v4 / label~e.33)
-    :H (v5 / label
-           :A (v16 / label
-                   :C (v34 / label~e.35)
-                   :C (v35 / label~e.37)
-                   :N (v36 / label~e.39)
-                   :C (v37 / label~e.40))
-           :D (v17 / label
-                   :R (v38 / label~e.41)
-                   :E (v39 / label~e.42)
-                   :C (v40 / label~e.43))
-           :D (v18 / label
-                   :R (v41 / label~e.44)
-                   :E (v42 / label~e.45)
-                   :C (v43 / label~e.46))
-           :A v12
-           :P (v19 / label~e.34)))
+    :L (v5 / label~e.39)
+    :H (v6 / label
+           :D (v19 / label~e.34)
+           :P (v20 / label~e.35)
+           :T (v21 / label
+                   :R (v39 / label~e.41)
+                   :E (v40 / label~e.42)
+                   :C (v41 / label~e.43))
+           :A (v22 / label
+                   :R (v42 / label~e.44)
+                   :A (v43 / label
+                           :E (v56 / label~e.45)
+                           :C (v57 / label~e.46)))
+           :A v15)
+    :H (v7 / label
+           :P (v23 / label~e.37)
+           :D v19
+           :T v21
+           :A v22
+           :A v15)
+    :H (v8 / label
+           :P (v24 / label~e.40)
+           :D v19
+           :T v21
+           :A v22
+           :A v15))

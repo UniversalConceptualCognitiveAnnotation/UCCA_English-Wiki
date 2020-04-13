@@ -1,37 +1,37 @@
 # ::id 452007
 # ::tok His live reporting , which drew on the expertise he had acquired in the Middle East , provided context for Americans who were unfamiliar with the Palestinian group .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 4-1.1.1.4.1 5-1.1.1.4.2 6-1.1.1.4.2 7-1.1.1.4.3.1 8-1.1.1.4.3.2 9-1.1.1.4.3.3.1 11-1.1.1.4.3.3.3 12-1.1.1.4.3.3.4.1 13-1.1.1.4.3.3.4.2 14-1.1.1.4.3.3.4.3 15-1.1.1.4.3.3.4.4 17-1.1.3 18-1.1.4 19-1.1.5.3 20-1.1.5.1 23-1.1.5.2.4 24-1.1.5.2.5.1 25-1.1.5.2.5.2 26-1.1.5.2.5.3 27-1.1.5.2.5.4
+# ::alignments 0-1.1.2.1 1-1.1.2.2 2-1.1.2.3 4-1.1.2.4.2 5-1.1.2.4.3 6-1.1.2.4.3 8-1.1.2.4.4.1.2 9-1.1.2.4.4.2 11-1.1.2.4.4.4 12-1.1.2.4.4.5.1 13-1.1.2.4.4.5.2 14-1.1.2.4.4.5.3 15-1.1.2.4.4.5.3 17-1.1.3 18-1.1.4 19-1.1.5.3 20-1.1.5.1 21-1.1.5.2.2 23-1.1.5.2.4 24-1.1.5.2.5.1 25-1.1.5.2.5.2 26-1.1.5.2.5.3 27-1.1.5.2.5.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v3 / label
-                  :E (v7 / label~e.0)
-                  :E (v8 / label~e.1)
-                  :C (v9 / label~e.2)
-                  :E (v10 / label
+                  :A (v7 / label~e.0)
+                  :D (v8 / label~e.1)
+                  :P (v9 / label~e.2)
+                  :A (v10 / label
+                          :A v9
                           :R (v14 / label~e.4)
                           :S (v15 / label~e.5,6)
                           :A (v16 / label
-                                  :A (v19 / label~e.7)
-                                  :S (v20 / label~e.8)
-                                  :A (v21 / label
-                                          :A (v26 / label~e.9)
-                                          :P (v27 / label~e.11)
-                                          :A (v28 / label
-                                                  :R (v29 / label~e.12)
-                                                  :E (v30 / label~e.13)
-                                                  :E (v31 / label~e.14)
-                                                  :C (v32 / label~e.15))))))
+                                  :S (v20 / label
+                                          :C (v28 / label~e.8))
+                                  :A (v21 / label~e.9)
+                                  :D (v22 / label~e.11)
+                                  :A (v23 / label
+                                          :R (v29 / label~e.12)
+                                          :E (v30 / label~e.13)
+                                          :C (v31 / label~e.14,15)))))
            :D (v4 / label~e.17)
            :P (v5 / label~e.18)
            :A (v6 / label
                   :C (v11 / label~e.20)
                   :E (v12 / label
                           :A v11
-                          :S (v17 / label~e.23)
-                          :A (v18 / label
-                                  :R (v22 / label~e.24)
-                                  :E (v23 / label~e.25)
-                                  :E (v24 / label~e.26)
-                                  :C (v25 / label~e.27)))
+                          :R (v17 / label~e.21)
+                          :S (v18 / label~e.23)
+                          :A (v19 / label
+                                  :R (v24 / label~e.24)
+                                  :E (v25 / label~e.25)
+                                  :E (v26 / label~e.26)
+                                  :C (v27 / label~e.27)))
                   :R (v13 / label~e.19))))

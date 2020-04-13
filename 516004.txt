@@ -1,6 +1,6 @@
 # ::id 516004
 # ::tok Bowie was inducted into the Rock and Roll Hall of Fame in 1996 .
-# ::alignments 0-1.1.1 2-1.1.3 3-1.1.4.1 4-1.1.4.2.1 5-1.1.4.2.2 6-1.1.4.2.2 7-1.1.4.2.2 8-1.1.4.3 9-1.1.4.3 10-1.1.4.3 11-1.1.5.3 12-1.1.5.1
+# ::alignments 0-1.1.1 2-1.1.3 3-1.1.4.1 5-1.1.4.3 6-1.1.4.3 7-1.1.4.3 8-1.1.4.3 9-1.1.4.3 10-1.1.4.3 11-1.1.5.3 12-1.1.5.1
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -8,10 +8,7 @@
            :P (v4 / label~e.2)
            :A (v5 / label
                   :R (v7 / label~e.3)
-                  :E (v8 / label
-                         :E (v12 / label~e.4)
-                         :C (v13 / label~e.5,6,7))
-                  :C (v9 / label~e.8,9,10))
-           :D (v6 / label
-                  :C (v10 / label~e.12)
-                  :R (v11 / label~e.11))))
+                  :C (v8 / label~e.5,6,7,8,9,10))
+           :T (v6 / label
+                  :C (v9 / label~e.12)
+                  :R (v10 / label~e.11))))

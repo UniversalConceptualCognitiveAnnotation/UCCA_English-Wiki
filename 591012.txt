@@ -1,6 +1,6 @@
 # ::id 591012
 # ::tok also performing live with Marilyn Manson in the Revolver Golden Gods Awards 2012 , performing various songs of Marilyn Manson .
-# ::alignments 0-1.1 1-1.2.2 2-1.2.3 3-1.2.4.1 4-1.2.4.2 5-1.2.4.2 6-1.2.5.1 7-1.2.5.2 8-1.2.5.3 9-1.2.5.3 10-1.2.5.3 11-1.2.5.3 12-1.2.5.4.3 14-1.3.2 15-1.3.3.1 16-1.3.3.2 17-1.3.3.3.1 18-1.3.3.3.2 19-1.3.3.3.2
+# ::alignments 0-1.1 1-1.2.2 2-1.2.3 3-1.2.4.1 4-1.2.4.2 5-1.2.4.2 6-1.2.5.1 7-1.2.5.2 8-1.2.5.3 9-1.2.5.3 10-1.2.5.3 11-1.2.5.3 12-1.2.5.4.3 14-1.3.2 15-1.3.3.1 16-1.3.3.2 17-1.3.3.3.2 18-1.3.3.3.3 19-1.3.3.3.3
 # ::format ucca
 (v1 / label
     :L (v2 / label~e.0)
@@ -18,13 +18,14 @@
                   :E (v18 / label
                           :A v17
                           :P (v22 / label)
-                          :D (v23 / label~e.12))))
+                          :T (v23 / label~e.12))))
     :H (v4 / label
            :A (v10 / label)
            :P (v11 / label~e.14)
            :A (v12 / label
-                   :E (v19 / label~e.15)
+                   :Q (v19 / label~e.15)
                    :C (v20 / label~e.16)
                    :E (v21 / label
-                           :R (v24 / label~e.17)
-                           :C (v25 / label~e.18,19)))))
+                           :A v20
+                           :S (v24 / label~e.17)
+                           :A (v25 / label~e.18,19)))))

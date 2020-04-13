@@ -1,49 +1,42 @@
 # ::id 546014
 # ::tok The deal did not include the black - and - white Looney Tunes films , the first Merrie Melodie film , Lady , Play Your Mandolin ! , and the color cartoons released between August 1 , 1948 , and the close of 1949 .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.1.3 4-1.1.4 5-1.1.5.7.1 6-1.1.5.7.2.1 8-1.1.5.7.2.2 10-1.1.5.7.2.3 11-1.1.5.7.3 12-1.1.5.7.3 13-1.1.5.7.4 15-1.1.5.1.1.1 16-1.1.5.1.1.2 17-1.1.5.1.1.3 18-1.1.5.1.1.3 19-1.1.5.1.1.4 21-1.1.5.1.2 23-1.1.5.1.2 24-1.1.5.1.2 25-1.1.5.1.2 28-1.1.5.2 29-1.1.5.3.1 30-1.1.5.3.2 31-1.1.5.3.3 32-1.1.5.3.4.2 33-1.1.5.3.4.3.1 34-1.1.5.3.4.3.2.1.1 35-1.1.5.3.4.3.2.1.2 37-1.1.5.3.4.3.2.1.3 39-1.1.5.3.4.3.2.2 40-1.1.5.3.4.3.2.3.1.1 41-1.1.5.3.4.3.2.3.1.2 42-1.1.5.3.4.3.2.3.1.3 43-1.1.5.3.4.3.2.3.2
+# ::alignments 1-1.1.1.2 3-1.1.3 4-1.1.4 6-1.1.5.7.2.1 8-1.1.5.7.2.2 10-1.1.5.7.2.3 11-1.1.5.7.3 12-1.1.5.7.3 13-1.1.5.7.4 16-1.1.5.1.1.2 17-1.1.5.1.1.3 18-1.1.5.1.1.3 19-1.1.5.1.1.4 21-1.1.5.1.2 23-1.1.5.1.2 24-1.1.5.1.2 25-1.1.5.1.2 28-1.1.5.2 30-1.1.5.3.2 31-1.1.5.3.3 32-1.1.5.3.4.2 33-1.1.5.3.4.3.1 34-1.1.5.3.4.3.2.1 35-1.1.5.3.4.3.2.2 37-1.1.5.3.4.3.2.3 39-1.1.5.3.4.3.3 41-1.1.5.3.4.3.4.2 42-1.1.5.3.4.3.4.3 43-1.1.5.3.4.3.4.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v3 / label
-                  :E (v7 / label~e.0)
-                  :C (v8 / label~e.1))
+                  :C (v7 / label~e.1))
            :D (v4 / label~e.3)
-           :P (v5 / label~e.4)
+           :S (v5 / label~e.4)
            :A (v6 / label
-                  :C (v9 / label
-                         :E (v13 / label
-                                 :E (v23 / label~e.15)
-                                 :E (v24 / label~e.16)
-                                 :E (v25 / label~e.17,18)
-                                 :C (v26 / label~e.19))
-                         :C (v14 / label~e.21,23,24,25))
-                  :N (v10 / label~e.28)
+                  :C (v8 / label
+                         :E (v12 / label
+                                 :Q (v20 / label~e.16)
+                                 :E (v21 / label~e.17,18)
+                                 :C (v22 / label~e.19))
+                         :C (v13 / label~e.21,23,24,25))
+                  :N (v9 / label~e.28)
+                  :C (v10 / label
+                          :E (v14 / label~e.30)
+                          :C (v15 / label~e.31)
+                          :E (v16 / label
+                                  :A v15
+                                  :P (v23 / label~e.32)
+                                  :T (v24 / label
+                                          :R (v28 / label~e.33)
+                                          :C (v29 / label
+                                                  :C (v32 / label~e.34)
+                                                  :C (v33 / label~e.35)
+                                                  :C (v34 / label~e.37))
+                                          :N (v30 / label~e.39)
+                                          :C (v31 / label
+                                                  :C (v35 / label~e.41)
+                                                  :R (v36 / label~e.42)
+                                                  :C (v37 / label~e.43)))))
                   :C (v11 / label
-                          :E (v15 / label~e.29)
-                          :E (v16 / label~e.30)
-                          :C (v17 / label~e.31)
-                          :E (v18 / label
-                                  :A v17
-                                  :P (v27 / label~e.32)
-                                  :D (v28 / label
-                                          :R (v32 / label~e.33)
-                                          :C (v33 / label
-                                                  :C (v34 / label
-                                                          :E (v37 / label~e.34)
-                                                          :E (v38 / label~e.35)
-                                                          :C (v39 / label~e.37))
-                                                  :N (v35 / label~e.39)
-                                                  :C (v36 / label
-                                                          :E (v40 / label
-                                                                  :E (v42 / label~e.40)
-                                                                  :C (v43 / label~e.41)
-                                                                  :R (v44 / label~e.42))
-                                                          :C (v41 / label~e.43))))))
-                  :C (v12 / label
-                          :E (v19 / label~e.5)
-                          :E (v20 / label
-                                  :C (v29 / label~e.6)
-                                  :N (v30 / label~e.8)
-                                  :C (v31 / label~e.10))
-                          :E (v21 / label~e.11,12)
-                          :C (v22 / label~e.13)))))
+                          :E (v17 / label
+                                  :C (v25 / label~e.6)
+                                  :N (v26 / label~e.8)
+                                  :C (v27 / label~e.10))
+                          :E (v18 / label~e.11,12)
+                          :C (v19 / label~e.13)))))

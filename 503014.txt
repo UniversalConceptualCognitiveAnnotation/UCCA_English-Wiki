@@ -1,6 +1,6 @@
 # ::id 503014
 # ::tok As described by biographer Christopher Sandford , " The record dashed such high hopes with dubious choices , and production that spelt the end - for fifteen years - of Bowie 's partnership with Eno . "
-# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.4.1 3-1.1.4.2 4-1.1.4.3 5-1.1.4.3 8-1.1.5.1.1 9-1.1.5.1.2 10-1.1.5.2 11-1.1.5.3.1 12-1.1.5.3.2 13-1.1.5.3.3 14-1.1.5.4.1 15-1.1.5.4.2.1.1 16-1.1.5.4.2.1.2 18-1.1.5.4.2.2 19-1.1.5.4.2.3.1 21-1.1.5.4.2.3.2.3 22-1.1.5.4.2.3.2.4.1.1 23-1.1.5.4.2.3.2.4.1.2 25-1.1.5.4.2.3.2.4.2.1 26-1.1.5.4.2.3.2.4.2.2 27-1.1.5.4.2.3.2.4.2.3 29-1.1.5.4.2.3.2.4.3.1 30-1.1.5.4.2.3.2.4.3.2.1.1 31-1.1.5.4.2.3.2.4.3.2.1.2 32-1.1.5.4.2.3.2.4.3.2.2 33-1.1.5.4.2.3.2.4.3.2.3.1 34-1.1.5.4.2.3.2.4.3.2.3.2
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.4.1 3-1.1.4.2.1 4-1.1.4.3 5-1.1.4.3 8-1.1.5.1.1 9-1.1.5.1.2 10-1.1.5.2 11-1.1.5.3.1 12-1.1.5.3.2 13-1.1.5.4 14-1.1.5.5.1 15-1.1.5.5.2.1 16-1.1.5.5.2.2 18-1.1.5.5.3 19-1.1.5.5.4.1 20-1.1.5.5.4.2.2 22-1.1.5.5.4.2.3.2 23-1.1.5.5.4.2.3.3 25-1.1.5.5.4.2.4.1 26-1.1.5.5.4.2.4.2 27-1.1.5.5.4.2.4.3 29-1.1.5.5.4.2.5.1 30-1.1.5.5.4.2.6.1 31-1.1.5.5.4.2.6.2 32-1.1.5.5.4.2.5.2 33-1.1.5.5.4.2.7.1 34-1.1.5.5.4.2.7.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -9,44 +9,42 @@
                   :C (v7 / label~e.1))
            :A (v4 / label
                   :R (v8 / label~e.2)
-                  :C (v9 / label~e.3)
-                  :E (v10 / label~e.4,5))
+                  :E (v9 / label
+                         :P (v16 / label~e.3))
+                  :C (v10 / label~e.4,5))
            :A (v5 / label
                   :A (v11 / label
-                          :E (v15 / label~e.8)
-                          :C (v16 / label~e.9))
-                  :P (v12 / label~e.10)
-                  :A (v13 / label
-                          :R (v17 / label~e.11)
-                          :E (v18 / label~e.12)
-                          :C (v19 / label~e.13))
-                  :A (v14 / label
-                          :R (v20 / label~e.14)
-                          :C (v21 / label
-                                  :C (v22 / label
-                                          :E (v25 / label~e.15)
-                                          :C (v26 / label~e.16))
-                                  :N (v23 / label~e.18)
-                                  :C (v24 / label
-                                          :C (v27 / label~e.19)
-                                          :E (v28 / label
-                                                  :A v27
-                                                  :P (v29 / label~e.21)
-                                                  :A (v30 / label
-                                                          :P (v31 / label
-                                                                  :E (v34 / label~e.22)
-                                                                  :C (v35 / label~e.23))
-                                                          :D (v32 / label
-                                                                  :R (v36 / label~e.25)
-                                                                  :E (v37 / label~e.26)
-                                                                  :C (v38 / label~e.27))
-                                                          :A (v33 / label
-                                                                  :R (v39 / label~e.29)
-                                                                  :C (v40 / label
-                                                                          :A (v41 / label
-                                                                                  :C (v44 / label~e.30)
-                                                                                  :R (v45 / label~e.31))
-                                                                          :P (v42 / label~e.32)
-                                                                          :A (v43 / label
-                                                                                  :R (v46 / label~e.33)
-                                                                                  :C (v47 / label~e.34))))))))))))
+                          :E (v17 / label~e.8)
+                          :C (v18 / label~e.9))
+                  :D (v12 / label~e.10)
+                  :D (v13 / label
+                          :E (v19 / label~e.11)
+                          :C (v20 / label~e.12))
+                  :S (v14 / label~e.13)
+                  :A (v15 / label
+                          :R (v21 / label~e.14)
+                          :H (v22 / label
+                                  :D (v25 / label~e.15)
+                                  :P (v26 / label~e.16))
+                          :L (v23 / label~e.18)
+                          :H (v24 / label
+                                  :P (v27 / label~e.19)
+                                  :A (v28 / label
+                                          :A v27
+                                          :R (v29 / label~e.20)
+                                          :D (v30 / label
+                                                  :E (v35 / label~e.22)
+                                                  :C (v36 / label~e.23))
+                                          :T (v31 / label
+                                                  :R (v37 / label~e.25)
+                                                  :Q (v38 / label~e.26)
+                                                  :C (v39 / label~e.27))
+                                          :P (v32 / label
+                                                  :R (v40 / label~e.29)
+                                                  :C (v41 / label~e.32))
+                                          :A (v33 / label
+                                                  :C (v42 / label~e.30)
+                                                  :R (v43 / label~e.31))
+                                          :A (v34 / label
+                                                  :R (v44 / label~e.33)
+                                                  :C (v45 / label~e.34))))))))

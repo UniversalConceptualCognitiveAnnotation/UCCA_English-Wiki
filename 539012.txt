@@ -1,45 +1,42 @@
 # ::id 539012
 # ::tok That same year , the studio was less successful in its efforts to promote Open Your Eyes , a tract on the dangers of venereal disease that featured Jack Warner 's sole screen appearance .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 4-1.1.2.1 5-1.1.2.2 7-1.1.4 8-1.1.5 9-1.2 10-1.3.1 11-1.3.2 13-1.3.3.1 14-1.3.3.2.1 15-1.3.3.2.1 16-1.3.3.2.1 18-1.3.3.2.2.1 19-1.3.3.2.2.2 20-1.3.3.2.2.3.1 21-1.3.3.2.2.3.2 22-1.3.3.2.2.3.3 23-1.3.3.2.2.3.4.1 24-1.3.3.2.2.3.4.2 25-1.3.3.2.2.3.4.3 27-1.3.3.2.2.4.3 28-1.3.3.2.2.4.4.1.1 29-1.3.3.2.2.4.4.1.1 30-1.3.3.2.2.4.4.1.2 31-1.3.3.2.2.4.4.2 32-1.3.3.2.2.4.4.3 33-1.3.3.2.2.4.4.4
+# ::alignments 0-1.1.3.1 1-1.1.3.2 2-1.1.3.3 5-1.1.2.4 7-1.1.7.1 8-1.1.7.2 9-1.1.8 11-1.1.1 13-1.1.2.2 14-1.1.2.3.1 15-1.1.2.3.1 16-1.1.2.3.1 19-1.1.2.3.2.2 20-1.1.2.3.2.3.1 22-1.1.2.3.2.3.3 23-1.1.2.3.2.3.4.1 24-1.1.2.3.2.3.4.2 25-1.1.2.3.2.3.4.3 26-1.1.2.3.2.4.2 27-1.1.2.3.2.4.3 28-1.1.2.3.2.4.4.1.1 29-1.1.2.3.2.4.4.1.1 30-1.1.2.3.2.4.4.1.2 31-1.1.2.3.2.4.4.2 32-1.1.2.3.2.4.4.3 33-1.1.2.3.2.4.4.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :D (v5 / label
+           :P (v3 / label~e.11)
+           :A (v4 / label
+                  :P (v9 / label~e.13)
+                  :A (v10 / label
+                          :C (v17 / label~e.14,15,16)
+                          :E (v18 / label
+                                  :C (v19 / label~e.19)
+                                  :E (v20 / label
+                                          :R (v22 / label~e.20)
+                                          :S (v23 / label~e.22)
+                                          :A (v24 / label
+                                                  :R (v28 / label~e.23)
+                                                  :A (v29 / label~e.24)
+                                                  :S (v30 / label~e.25)))
+                                  :E (v21 / label
+                                          :A v19
+                                          :R (v25 / label~e.26)
+                                          :P (v26 / label~e.27)
+                                          :A (v27 / label
+                                                  :A (v31 / label
+                                                          :C (v35 / label~e.28,29)
+                                                          :R (v36 / label~e.30))
+                                                  :D (v32 / label~e.31)
+                                                  :A (v33 / label~e.32)
+                                                  :P (v34 / label~e.33)))))
+                  :A (v11 / label~e.5))
+           :T (v5 / label
                   :E (v12 / label~e.0)
                   :E (v13 / label~e.1)
                   :C (v14 / label~e.2))
            :A (v6 / label
-                  :E (v15 / label~e.4)
-                  :C (v16 / label~e.5))
-           :D (v7 / label~e.7)
-           :P (v8 / label~e.8))
-    :L (v3 / label~e.9)
-    :H (v4 / label
-           :A (v9 / label~e.10)
-           :P (v10 / label~e.11)
-           :A (v11 / label
-                   :P (v17 / label~e.13)
-                   :A (v18 / label
-                           :C (v19 / label~e.14,15,16)
-                           :E (v20 / label
-                                   :E (v21 / label~e.18)
-                                   :C (v22 / label~e.19)
-                                   :E (v23 / label
-                                           :R (v25 / label~e.20)
-                                           :E (v26 / label~e.21)
-                                           :C (v27 / label~e.22)
-                                           :E (v28 / label
-                                                   :R (v31 / label~e.23)
-                                                   :E (v32 / label~e.24)
-                                                   :C (v33 / label~e.25)))
-                                   :E (v24 / label
-                                           :A v22
-                                           :P (v29 / label~e.27)
-                                           :A (v30 / label
-                                                   :A (v34 / label
-                                                           :C (v38 / label~e.28,29)
-                                                           :R (v39 / label~e.30))
-                                                   :D (v35 / label~e.31)
-                                                   :A (v36 / label~e.32)
-                                                   :P (v37 / label~e.33)))))
-                   :A v16)))
+                  :C v11)
+           :D (v7 / label
+                  :E (v15 / label~e.7)
+                  :C (v16 / label~e.8))
+           :R (v8 / label~e.9)))

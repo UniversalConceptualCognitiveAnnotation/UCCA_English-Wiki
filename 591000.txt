@@ -1,34 +1,40 @@
 # ::id 591000
 # ::tok In 2004 , Depp formed his production company Infinitum Nihil to develop projects where he will serve as actor and / or producer .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.1.2 4-1.1.3 5-1.1.4.1.1 6-1.1.4.1.2 7-1.1.4.1.3 8-1.3.1 9-1.3.1 10-1.2 11-1.3.2 12-1.3.3.1 13-1.3.3.2.1 14-1.3.3.2.2 16-1.3.3.2.4 17-1.3.3.2.5.1 18-1.3.3.2.5.2.1 19-1.3.3.2.5.2.2 21-1.3.3.2.5.2.2 22-1.3.3.2.5.2.3
+# ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.1.2 4-1.1.3 5-1.1.4.1.1.2 6-1.1.4.1.2 7-1.1.4.1.3 8-1.1.4.2 9-1.1.4.2 10-1.2 11-1.3.2 12-1.3.3.1 13-1.3.3.2.1 14-1.3.3.2.2 16-1.3.3.2.4 17-1.3.3.2.5.1 18-1.3.3.2.5.2.1.1 19-1.3.3.2.5.2.2.1 21-1.3.3.2.5.2.2.2 22-1.3.3.2.5.2.3.1
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :D (v5 / label
-                  :R (v12 / label~e.0)
-                  :C (v13 / label~e.1))
+           :T (v5 / label
+                  :R (v11 / label~e.0)
+                  :C (v12 / label~e.1))
            :A (v6 / label~e.3)
            :P (v7 / label~e.4)
            :A (v8 / label
-                  :E (v14 / label
-                          :E (v17 / label~e.5)
+                  :E (v13 / label
+                          :E (v17 / label
+                                  :A (v19 / label~e.7)
+                                  :A (v24 / label~e.5))
                           :E (v18 / label~e.6)
-                          :C (v19 / label~e.7))
-                  :C (v9 / label~e.8,9)))
+                          :C v19)
+                  :C (v14 / label~e.8,9)))
     :L (v3 / label~e.10)
     :H (v4 / label
-           :A v9
-           :P (v10 / label~e.11)
-           :A (v11 / label
+           :A v6
+           :P (v9 / label~e.11)
+           :A (v10 / label
                    :C (v15 / label~e.12)
                    :E (v16 / label
                            :R (v20 / label~e.13)
                            :A (v21 / label~e.14)
                            :P (v22 / label~e.16)
                            :A (v23 / label
-                                   :R (v24 / label~e.17)
-                                   :C (v25 / label
-                                           :C (v26 / label~e.18)
-                                           :N (v27 / label~e.19,21)
-                                           :C (v28 / label~e.22)))
-                           :A v9))))
+                                   :R (v25 / label~e.17)
+                                   :C (v26 / label
+                                           :C (v27 / label
+                                                   :A (v30 / label~e.18))
+                                           :N (v28 / label
+                                                   :C (v31 / label~e.19)
+                                                   :C (v32 / label~e.21))
+                                           :C (v29 / label
+                                                   :A (v33 / label~e.22))))
+                           :A v15))))

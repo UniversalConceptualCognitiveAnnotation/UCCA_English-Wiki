@@ -1,55 +1,67 @@
 # ::id 467004
 # ::tok In his final high school season , Johnson led Lansing Everett to a 27 - 1 win - loss record while averaging 28.8 points and 16.8 rebounds per game , and took his team to an overtime victory in the state championship game .
-# ::alignments 0-1.1 1-1.2.2 2-1.2.3.1 3-1.2.3.2 4-1.2.3.2 5-1.2.3.3 7-1.3.1 8-1.3.2 9-1.3.3 10-1.3.3 11-1.3.4.1 12-1.3.4.2.1 13-1.3.4.2.2 15-1.3.4.2.2 16-1.3.4.2.2 18-1.3.4.2.2 19-1.3.4.3 20-1.4 21-1.5.1 22-1.5.2.1.1.1 23-1.5.2.1.1.2 24-1.5.2.1.2 25-1.5.2.1.3.1 26-1.5.2.1.3.2 27-1.5.2.2.1 28-1.5.2.2.2 30-1.6 32-1.7.2.1 33-1.7.2.2 35-1.7.1.2 36-1.7.1.3 37-1.7.1.4 38-1.7.4.1 39-1.7.4.2 40-1.7.4.3 41-1.7.4.4 42-1.7.4.5
+# ::alignments 0-1.1 1-1.2.1 2-1.2.2 3-1.2.3.1 4-1.2.3.1 5-1.2.3.2 7-1.3.1 8-1.3.2 9-1.3.3 10-1.3.3 11-1.3.4.1 12-1.3.4.2 13-1.3.4.3.1.2.1 15-1.3.4.3.1.2.2 16-1.3.4.3.1.3 18-1.3.4.3.2.2 19-1.3.4.4 20-1.4 21-1.5.1 22-1.5.2.1.1 23-1.5.2.1.2 24-1.5.2.2 25-1.5.2.3.1 26-1.5.2.3.2.1 27-1.5.3.1 28-1.5.3.2 30-1.6 31-1.7.1 32-1.7.2.1 33-1.7.2.2 34-1.7.3.1 35-1.7.3.2 36-1.7.4 37-1.7.3.3 38-1.7.5.1 39-1.7.5.2.1 40-1.7.5.3 41-1.7.5.4 42-1.7.5.2.2
 # ::format ucca
 (v1 / label
     :L (v2 / label~e.0)
     :H (v3 / label
-           :P (v9 / label)
-           :A (v10 / label~e.1)
+           :S (v9 / label~e.1)
+           :D (v10 / label~e.2)
            :A (v11 / label
-                   :E (v21 / label~e.2)
-                   :E (v22 / label~e.3,4)
-                   :C (v23 / label~e.5)))
+                   :E (v24 / label~e.3,4)
+                   :C (v25 / label~e.5)))
     :H (v4 / label
            :A (v12 / label~e.7)
            :P (v13 / label~e.8)
            :A (v14 / label~e.9,10)
            :A (v15 / label
-                   :R (v24 / label~e.11)
-                   :E (v25 / label
-                           :E (v39 / label~e.12)
-                           :C (v40 / label~e.13,15,16,18))
-                   :C (v26 / label~e.19)))
+                   :R (v26 / label~e.11)
+                   :E (v27 / label~e.12)
+                   :E (v28 / label
+                           :H (v44 / label
+                                   :A (v29 / label~e.19)
+                                   :D (v52 / label
+                                           :C (v56 / label~e.13)
+                                           :C (v57 / label~e.15))
+                                   :S (v53 / label~e.16))
+                           :H (v45 / label
+                                   :A v29
+                                   :S (v54 / label~e.18)
+                                   :D v52))
+                   :C v29))
     :L (v5 / label~e.20)
     :H (v6 / label
            :P (v16 / label~e.21)
            :A (v17 / label
-                   :C (v27 / label
-                           :C (v41 / label
-                                   :E (v46 / label~e.22)
-                                   :C (v47 / label~e.23))
-                           :N (v42 / label~e.24)
-                           :C (v43 / label
-                                   :E (v48 / label~e.25)
-                                   :C (v49 / label~e.26)))
-                   :E (v28 / label
-                           :R (v44 / label~e.27)
-                           :C (v45 / label~e.28)))
+                   :C (v30 / label
+                           :Q (v46 / label~e.22)
+                           :C (v47 / label~e.23))
+                   :N (v31 / label~e.24)
+                   :C (v32 / label
+                           :Q (v48 / label~e.25)
+                           :C (v49 / label
+                                   :P (v55 / label~e.26)
+                                   :A v12)))
+           :A (v18 / label
+                   :R (v33 / label~e.27)
+                   :C (v34 / label~e.28))
            :A v12)
     :L (v7 / label~e.30)
     :H (v8 / label
-           :P (v18 / label
-                   :E (v29 / label~e.35)
-                   :E (v30 / label~e.36)
-                   :C (v31 / label~e.37))
-           :A (v19 / label
-                   :E (v32 / label~e.32)
-                   :C (v33 / label~e.33))
+           :D (v19 / label~e.31)
            :A (v20 / label
-                   :R (v34 / label~e.38)
-                   :E (v35 / label~e.39)
-                   :E (v36 / label~e.40)
-                   :E (v37 / label~e.41)
-                   :C (v38 / label~e.42))
+                   :A (v35 / label~e.32)
+                   :P (v36 / label~e.33))
+           :P (v21 / label
+                   :R (v37 / label~e.34)
+                   :E (v38 / label~e.35)
+                   :C (v39 / label~e.37))
+           :D (v22 / label~e.36)
+           :A (v23 / label
+                   :R (v40 / label~e.38)
+                   :P (v41 / label
+                           :E (v50 / label~e.39)
+                           :C (v51 / label~e.42))
+                   :A (v42 / label~e.40)
+                   :D (v43 / label~e.41))
            :A v12))

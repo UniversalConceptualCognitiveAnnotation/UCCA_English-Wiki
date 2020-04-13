@@ -1,19 +1,18 @@
 # ::id 474022
 # ::tok He also missed several games due to a calf injury .
-# ::alignments 0-1.1.1 1-1.2 2-1.1.2 3-1.1.3.1 4-1.1.3.2 5-1.3 6-1.3 7-1.4.3.2 8-1.4.3.1 9-1.4.4
+# ::alignments 0-1.1.1 1-1.2 2-1.1.2 3-1.1.3.1 4-1.1.3.2 5-1.3 6-1.3 8-1.4.3.1 9-1.4.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v6 / label~e.0)
            :P (v7 / label~e.2)
            :A (v8 / label
-                  :E (v11 / label~e.3)
+                  :Q (v11 / label~e.3)
                   :C (v12 / label~e.4)))
     :L (v3 / label~e.1)
     :L (v4 / label~e.5,6)
     :H (v5 / label
            :A v6
            :A (v9 / label
-                  :C (v13 / label~e.8)
-                  :E (v14 / label~e.7))
+                  :C (v13 / label~e.8))
            :P (v10 / label~e.9)))

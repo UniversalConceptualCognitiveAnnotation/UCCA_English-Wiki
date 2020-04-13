@@ -1,6 +1,6 @@
 # ::id 546001
 # ::tok Initially , he tried to compete with the new medium , introducing gimmicks such as 3 - D films , which soon lost their appeal among moviegoers .
-# ::alignments 0-1.1.1 2-1.1.2 3-1.1.3 5-1.1.5 6-1.1.6.1 7-1.1.6.2 8-1.1.6.3 9-1.1.6.4 11-1.2.2 12-1.2.3.1 13-1.2.3.2.1 14-1.2.3.2.1 15-1.2.3.2.2.1 17-1.2.3.2.2.2 18-1.2.3.2.3 21-1.2.3.2.4.2 22-1.2.3.2.4.3 23-1.2.3.2.4.4.1 24-1.2.3.2.4.4.2 25-1.2.3.2.4.5.1 26-1.2.3.2.4.5.2
+# ::alignments 0-1.1.1 2-1.1.2 3-1.1.3 5-1.1.5 6-1.1.6.1 8-1.1.6.3 9-1.1.6.4 11-1.2.2 12-1.2.3.1 13-1.2.3.2.1 14-1.2.3.2.1 15-1.2.3.2.2.1 17-1.2.3.2.2.2 18-1.2.3.2.3 20-1.2.3.2.4.1 21-1.2.3.2.4.2 22-1.2.3.2.4.3 24-1.2.3.2.4.5 25-1.2.3.2.4.6.1 26-1.2.3.2.4.6.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -10,27 +10,25 @@
            :P (v7 / label~e.5)
            :A (v8 / label
                   :R (v11 / label~e.6)
-                  :E (v12 / label~e.7)
-                  :E (v13 / label~e.8)
-                  :C (v14 / label~e.9)))
+                  :E (v12 / label~e.8)
+                  :C (v13 / label~e.9)))
     :H (v3 / label
            :A v5
            :P (v9 / label~e.11)
            :A (v10 / label
-                   :C (v15 / label~e.12)
-                   :E (v16 / label
-                           :R (v17 / label~e.13,14)
-                           :E (v18 / label
-                                   :E (v21 / label~e.15)
-                                   :C (v22 / label~e.17))
-                           :C (v19 / label~e.18)
-                           :E (v20 / label
-                                   :D (v23 / label~e.21)
+                   :C (v14 / label~e.12)
+                   :E (v15 / label
+                           :R (v16 / label~e.13,14)
+                           :E (v17 / label
+                                   :Q (v20 / label~e.15)
+                                   :C (v21 / label~e.17))
+                           :C (v18 / label~e.18)
+                           :E (v19 / label
+                                   :R (v22 / label~e.20)
+                                   :T (v23 / label~e.21)
                                    :D (v24 / label~e.22)
-                                   :P (v25 / label
-                                           :E (v27 / label~e.23)
-                                           :C (v28 / label~e.24))
+                                   :P (v25 / label~e.24)
                                    :A (v26 / label
-                                           :R (v29 / label~e.25)
-                                           :C (v30 / label~e.26))
-                                   :A v15)))))
+                                           :R (v27 / label~e.25)
+                                           :A (v28 / label~e.26))
+                                   :A v14)))))

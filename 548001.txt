@@ -1,38 +1,42 @@
 # ::id 548001
 # ::tok Some observers believed that Ben Kalmenson , Warner Bros . 's executive vice president , persuaded Warner to sell his stock so that Kalmenson could assume leadership of the studio .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2 4-1.1.3.2.1 5-1.1.3.2.1 7-1.1.3.2.2.1.1 8-1.1.3.2.2.1.1 10-1.1.3.2.2.1.2 11-1.1.3.2.2.2 12-1.1.3.2.2.3 13-1.1.3.2.2.4 15-1.1.3.3 16-1.1.3.4 18-1.1.3.5.3 19-1.1.3.5.4.1 20-1.1.3.5.4.2 21-1.2 22-1.2 23-1.3.2 24-1.3.3 25-1.3.4 26-1.3.5 27-1.3.1.1 28-1.3.1.2 29-1.3.1.3
+# ::alignments 0-1.1.1.1 1-1.1.1.2.1 2-1.1.2 3-1.1.3.2 4-1.1.3.3.1.1 5-1.1.3.3.1.1 7-1.1.3.3.1.2.2.1 8-1.1.3.3.1.2.2.1 10-1.1.3.3.1.2.2.2 11-1.1.3.3.1.2.3 12-1.1.3.3.1.2.4 13-1.1.3.3.1.2.4 15-1.1.3.3.2 16-1.1.3.3.3 18-1.1.3.3.4.3 19-1.1.3.3.4.4.1.2 20-1.1.3.3.4.4.2 21-1.1.3.4 22-1.1.3.4 23-1.1.3.1.1 24-1.1.3.1.2 25-1.1.3.1.3 26-1.1.3.1.4 27-1.1.3.1.5.1 29-1.1.3.1.5.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label~e.0)
+                  :C (v7 / label
+                         :A (v12 / label~e.1)))
+           :P (v4 / label~e.2)
            :A (v5 / label
-                  :E (v13 / label~e.0)
-                  :C (v14 / label~e.1))
-           :P (v6 / label~e.2)
-           :A (v7 / label
-                  :A (v15 / label
-                          :C (v22 / label~e.4,5)
-                          :E (v23 / label
-                                  :E (v26 / label
-                                          :C (v32 / label~e.7,8)
-                                          :R (v33 / label~e.10))
-                                  :E (v27 / label~e.11)
-                                  :E (v28 / label~e.12)
-                                  :C (v29 / label~e.13)))
-                  :P (v16 / label~e.15)
-                  :A (v17 / label~e.16)
-                  :A (v18 / label
-                          :A v17
-                          :P (v24 / label~e.18)
-                          :A (v25 / label
-                                  :E (v30 / label~e.19)
-                                  :C (v31 / label~e.20)))))
-    :L (v3 / label~e.21,22)
-    :H (v4 / label
-           :A (v8 / label
-                  :R (v19 / label~e.27)
-                  :E (v20 / label~e.28)
-                  :C (v21 / label~e.29))
-           :A (v9 / label~e.23)
-           :D (v10 / label~e.24)
-           :D (v11 / label~e.25)
-           :P (v12 / label~e.26)))
+                  :H (v8 / label
+                         :A (v13 / label~e.23)
+                         :D (v14 / label~e.24)
+                         :D (v15 / label~e.25)
+                         :P (v16 / label~e.26)
+                         :A (v17 / label
+                                 :R (v22 / label~e.27)
+                                 :C (v23 / label~e.29)))
+                  :R (v9 / label~e.3)
+                  :H (v10 / label
+                          :A (v18 / label
+                                  :C (v24 / label~e.4,5)
+                                  :E (v25 / label
+                                          :A v24
+                                          :A (v28 / label
+                                                  :C (v33 / label~e.7,8)
+                                                  :R (v34 / label~e.10))
+                                          :D (v29 / label~e.11)
+                                          :P (v30 / label~e.12,13)))
+                          :P (v19 / label~e.15)
+                          :A (v20 / label~e.16)
+                          :A (v21 / label
+                                  :A v20
+                                  :P (v26 / label~e.18)
+                                  :A (v27 / label
+                                          :E (v31 / label
+                                                  :A (v32 / label~e.20)
+                                                  :A (v35 / label~e.19))
+                                          :C v32)))
+                  :L (v11 / label~e.21,22))))

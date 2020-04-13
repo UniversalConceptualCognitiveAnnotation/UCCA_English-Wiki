@@ -1,6 +1,6 @@
 # ::id 475010
 # ::tok Playing in front of a sold out arena , Johnson had a triple - double and played the entire game , but his all - star team lost to the Spartans by two points .
-# ::alignments 0-1.1.2 2-1.1.3.1.2 4-1.1.3.2.1 5-1.1.3.2.2 6-1.1.3.2.2 7-1.1.3.3 9-1.2.1 10-1.2.2 11-1.2.3.1 12-1.2.3.2 14-1.2.3.2 15-1.3 16-1.4.1 17-1.4.2.1 18-1.4.2.2 19-1.4.2.3 21-1.5 22-1.6.1.1 23-1.6.1.2 25-1.6.1.2 26-1.6.1.3 27-1.6.2 28-1.6.3.1 29-1.6.3.2 30-1.6.3.3 31-1.6.4.1 32-1.6.4.2 33-1.6.4.3
+# ::alignments 0-1.1.2 1-1.1.3.1.1 2-1.1.3.1.2 3-1.1.3.1.3 5-1.1.3.2.3 6-1.1.3.2.3 7-1.1.3.3 9-1.2.1 10-1.2.2 12-1.2.3.2 14-1.2.3.2 15-1.3 16-1.4.1 18-1.4.2.2 19-1.4.2.3 21-1.5 22-1.6.1.1 23-1.6.1.2 25-1.6.1.2 26-1.6.1.3 27-1.6.2 28-1.6.3.1 30-1.6.3.3 31-1.6.4.1 32-1.6.4.2 33-1.6.4.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -8,37 +8,36 @@
            :P (v9 / label~e.0)
            :A (v10 / label
                    :R (v20 / label
-                           :C (v37 / label~e.2))
+                           :R (v34 / label~e.1)
+                           :C (v35 / label~e.2)
+                           :R (v36 / label~e.3))
                    :E (v21 / label
-                           :E (v38 / label~e.4)
-                           :C (v39 / label~e.5,6))
-                   :C (v22 / label~e.7)))
+                           :A (v22 / label~e.7)
+                           :S (v37 / label~e.5,6))
+                   :C v22))
     :H (v3 / label
            :A (v11 / label~e.9)
            :P (v12 / label~e.10)
            :A (v13 / label
-                   :E (v23 / label~e.11)
-                   :C (v24 / label~e.12,14)))
+                   :C (v23 / label~e.12,14)))
     :L (v4 / label~e.15)
     :H (v5 / label
            :P (v14 / label~e.16)
            :A (v15 / label
-                   :E (v25 / label~e.17)
-                   :E (v26 / label~e.18)
-                   :C (v27 / label~e.19))
+                   :E (v24 / label~e.18)
+                   :C (v25 / label~e.19))
            :A v11)
     :L (v6 / label~e.21)
     :H (v7 / label
            :A (v16 / label
-                   :E (v28 / label~e.22)
-                   :E (v29 / label~e.23,25)
-                   :C (v30 / label~e.26))
+                   :E (v26 / label~e.22)
+                   :E (v27 / label~e.23,25)
+                   :C (v28 / label~e.26))
            :P (v17 / label~e.27)
            :A (v18 / label
-                   :R (v31 / label~e.28)
-                   :E (v32 / label~e.29)
-                   :C (v33 / label~e.30))
+                   :R (v29 / label~e.28)
+                   :C (v30 / label~e.30))
            :A (v19 / label
-                   :R (v34 / label~e.31)
-                   :E (v35 / label~e.32)
-                   :C (v36 / label~e.33))))
+                   :R (v31 / label~e.31)
+                   :Q (v32 / label~e.32)
+                   :C (v33 / label~e.33))))

@@ -1,37 +1,41 @@
 # ::id 454001
 # ::tok His nightly appearance at an anchor desk in London gave the impression that ABC News was more dedicated to foreign news than the other networks .
-# ::alignments 0-1.1.1.1.1 1-1.1.1.2 2-1.1.1.1.2 3-1.1.1.3.1 4-1.1.1.3.2 5-1.1.1.3.3 6-1.1.1.3.4 7-1.1.1.3.5.1 8-1.1.1.3.5.2 10-1.1.2.2 11-1.1.2.3 13-1.1.3.6.1 14-1.1.3.6.2 16-1.1.3.1 17-1.1.3.2 18-1.1.3.3.1 19-1.1.3.3.2 20-1.1.3.3.3 21-1.1.3.4.1 22-1.1.3.4.2 23-1.1.3.4.3 24-1.1.3.4.4
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 3-1.1.1.4.1 4-1.1.1.4.2.1 5-1.1.1.4.2.2 6-1.1.1.4.2.3 7-1.1.1.4.3 8-1.1.1.4.4 10-1.1.2.2 11-1.1.2.3 12-1.1.3.2 13-1.1.3.3.1.1 14-1.1.3.3.1.2 16-1.1.3.3.3 17-1.1.3.1.2 18-1.1.3.1.3.1 19-1.1.3.1.3.2 20-1.1.3.1.3.3 21-1.1.3.4 22-1.1.3.1.1.1 23-1.1.3.1.1.2 24-1.1.3.1.1.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v3 / label
-                  :P (v6 / label
-                         :E (v16 / label~e.0)
-                         :C (v17 / label~e.2))
-                  :D (v7 / label~e.1)
-                  :A (v8 / label
-                         :R (v18 / label~e.3)
-                         :E (v19 / label~e.4)
-                         :E (v20 / label~e.5)
-                         :C (v21 / label~e.6)
-                         :E (v22 / label
-                                 :R (v32 / label~e.7)
-                                 :C (v33 / label~e.8))))
+                  :A (v6 / label~e.0)
+                  :T (v7 / label~e.1)
+                  :P (v8 / label~e.2)
+                  :A (v9 / label
+                         :R (v16 / label~e.3)
+                         :E (v17 / label
+                                 :E (v25 / label~e.4)
+                                 :E (v26 / label~e.5)
+                                 :C (v27 / label~e.6))
+                         :R (v18 / label~e.7)
+                         :C (v19 / label~e.8)))
            :S (v4 / label
-                  :E (v9 / label~e.10)
-                  :C (v10 / label~e.11))
+                  :E (v10 / label~e.10)
+                  :C (v11 / label~e.11))
            :A (v5 / label
-                  :D (v11 / label~e.16)
-                  :S (v12 / label~e.17)
-                  :A (v13 / label
-                          :R (v23 / label~e.18)
-                          :E (v24 / label~e.19)
-                          :C (v25 / label~e.20))
-                  :A (v14 / label
-                          :R (v26 / label~e.21)
-                          :E (v27 / label~e.22)
-                          :E (v28 / label~e.23)
-                          :C (v29 / label~e.24))
-                  :A (v15 / label
-                          :E (v30 / label~e.13)
-                          :C (v31 / label~e.14)))))
+                  :H (v12 / label
+                          :A (v20 / label
+                                  :E (v28 / label~e.22)
+                                  :E (v29 / label~e.23)
+                                  :C (v30 / label~e.24))
+                          :S (v21 / label~e.17)
+                          :A (v22 / label
+                                  :R (v31 / label~e.18)
+                                  :E (v32 / label~e.19)
+                                  :C (v33 / label~e.20)))
+                  :R (v13 / label~e.12)
+                  :H (v14 / label
+                          :A (v23 / label
+                                  :E (v34 / label~e.13)
+                                  :C (v35 / label~e.14))
+                          :D (v24 / label~e.16)
+                          :S v21
+                          :A v22)
+                  :L (v15 / label~e.21))))

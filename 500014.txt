@@ -4,14 +4,14 @@
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :D (v5 / label
+           :T (v5 / label
                   :R (v12 / label~e.0)
                   :C (v13 / label~e.1))
            :A (v6 / label~e.16)
            :P (v7 / label~e.17)
            :A (v8 / label
-                  :E (v14 / label~e.18)
-                  :C (v15 / label~e.19)))
+                  :A (v14 / label~e.18)
+                  :A (v15 / label~e.19)))
     :L (v3 / label~e.3)
     :H (v4 / label
            :A (v9 / label
@@ -20,8 +20,8 @@
                           :R (v23 / label~e.9))
                   :D (v17 / label~e.10)
                   :P (v18 / label~e.11)
-                  :D (v19 / label
-                          :E (v24 / label~e.12)
+                  :T (v19 / label
+                          :Q (v24 / label~e.12)
                           :C (v25 / label~e.13)
                           :R (v26 / label~e.14)))
            :A (v10 / label

@@ -1,6 +1,6 @@
 # ::id 486000
 # ::tok Showing acting skill early in life , Bana began doing impressions of family members at the age of six or seven , first mimicking his grandfather 's walk , voice and mannerisms .
-# ::alignments 0-1.1.2 1-1.1.3.1 2-1.1.3.2 3-1.1.4.1 4-1.1.4.2 5-1.1.4.3 7-1.1.1 8-1.2.2 10-1.2.4 11-1.2.5.1 12-1.2.5.2 13-1.2.5.3 14-1.2.6.1 15-1.2.6.2.1 16-1.2.6.2.2 17-1.2.6.2.3 18-1.2.6.3.1 19-1.2.6.3.2 20-1.2.6.3.3 22-1.3 23-1.4.2 24-1.4.3.1.1 25-1.4.3.1.2 26-1.4.3.1.3 27-1.4.3.2.1 29-1.4.3.2.2 30-1.4.3.2.3 31-1.4.3.2.4
+# ::alignments 0-1.1.2 1-1.1.3.1 2-1.1.3.2 3-1.1.4.1 4-1.1.4.2 5-1.1.4.3 7-1.1.1 8-1.2.2 10-1.2.4 11-1.2.5.1 12-1.2.5.2 13-1.2.5.3 14-1.2.6.2 15-1.2.6.3.1 16-1.2.6.3.2 17-1.2.6.4.1 18-1.2.6.4.2 19-1.2.6.4.3 20-1.2.6.4.4 22-1.3 23-1.4.2 24-1.4.3.2.1.1 25-1.4.3.2.1.2 26-1.4.3.2.1.3 27-1.4.3.2.2 29-1.4.3.3.1 30-1.4.3.1 31-1.4.3.4.1
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -9,39 +9,44 @@
            :A (v8 / label
                   :E (v16 / label~e.1)
                   :C (v17 / label~e.2))
-           :D (v9 / label
-                  :R (v18 / label~e.3)
-                  :E (v19 / label~e.4)
+           :T (v9 / label
+                  :E (v18 / label~e.3)
+                  :R (v19 / label~e.4)
                   :C (v20 / label~e.5)))
     :H (v3 / label
            :A v6
            :D (v10 / label~e.8)
            :P (v11 / label~e.10)
            :A (v12 / label
-                   :E (v21 / label~e.11)
+                   :R (v21 / label~e.11)
                    :E (v22 / label~e.12)
                    :C (v23 / label~e.13))
            :A (v13 / label
+                   :A v6
                    :R (v24 / label~e.14)
-                   :E (v25 / label
-                           :E (v29 / label~e.15)
-                           :C (v30 / label~e.16)
-                           :R (v31 / label~e.17))
-                   :C (v26 / label
-                           :C (v32 / label~e.18)
-                           :N (v33 / label~e.19)
-                           :C (v34 / label~e.20))))
+                   :S (v25 / label
+                           :E (v31 / label~e.15)
+                           :C (v32 / label~e.16))
+                   :T (v26 / label
+                           :R (v33 / label~e.17)
+                           :C (v34 / label~e.18)
+                           :N (v35 / label~e.19)
+                           :C (v36 / label~e.20))))
     :L (v4 / label~e.22)
     :H (v5 / label
            :A v6
            :P (v14 / label~e.23)
            :A (v15 / label
-                   :E (v27 / label
-                           :E (v35 / label~e.24)
-                           :C (v36 / label~e.25)
-                           :R (v37 / label~e.26))
-                   :C (v28 / label
-                           :C (v38 / label~e.27)
-                           :C (v39 / label~e.29)
-                           :N (v40 / label~e.30)
-                           :C (v41 / label~e.31)))))
+                   :L (v27 / label~e.30)
+                   :H (v28 / label
+                           :A (v37 / label
+                                   :A (v41 / label~e.24)
+                                   :S (v42 / label~e.25)
+                                   :R (v43 / label~e.26))
+                           :P (v38 / label~e.27))
+                   :H (v29 / label
+                           :P (v39 / label~e.29)
+                           :A v37)
+                   :H (v30 / label
+                           :P (v40 / label~e.31)
+                           :A v37))))

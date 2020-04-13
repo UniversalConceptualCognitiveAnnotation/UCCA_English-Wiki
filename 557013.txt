@@ -1,35 +1,40 @@
 # ::id 557013
-# ::tok Bond rejected him after a tryout , advising Presley to stick to truck driving " because you 're never going to make it as a singer . "
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.2 4-1.3.1.1 5-1.3.1.2 7-1.4.1 8-1.4.2 10-1.4.3.3 12-1.4.3.5.1 13-1.4.3.5.2 15-1.5 16-1.6.1 18-1.6.3 19-1.6.4 21-1.6.6 22-1.6.6 23-1.6.7.1 24-1.6.7.2 25-1.6.7.3
+# ::tok Phillips , meanwhile , was always on the lookout for someone who could bring to a broader audience the sound of the black musicians on whom Sun focused .
+# ::alignments 0-1.1.3 2-1.2 5-1.1.5 6-1.1.1 7-1.1.1 8-1.1.1 9-1.1.2.1 10-1.1.2.2 11-1.1.2.3.2 12-1.1.2.3.3 13-1.1.2.3.4 14-1.1.2.3.5.1 16-1.1.2.3.5.3 17-1.1.2.3.5.4 18-1.1.2.3.6.1 19-1.1.2.3.6.2 20-1.1.2.3.6.3.1 21-1.1.2.3.6.3.2 22-1.1.2.3.6.3.3.2 23-1.1.2.3.6.3.4.1 24-1.1.2.3.6.3.5.1.2 25-1.1.2.3.6.3.5.2 26-1.1.2.3.6.3.5.3 27-1.1.2.3.6.3.5.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :A (v8 / label~e.0)
-           :P (v9 / label~e.1)
-           :A (v10 / label~e.2))
-    :L (v3 / label~e.3)
-    :H (v4 / label
-           :P (v11 / label
-                   :E (v20 / label~e.4)
-                   :C (v21 / label~e.5))
-           :A v10)
-    :H (v5 / label
-           :P (v12 / label~e.7)
-           :A (v13 / label~e.8)
-           :A (v14 / label
-                   :A v13
-                   :D (v22 / label~e.10)
-                   :P (v23 / label
-                           :E (v27 / label~e.12)
-                           :C (v28 / label~e.13)))
-           :A v8)
-    :L (v6 / label~e.15)
-    :H (v7 / label
-           :A (v15 / label~e.16)
-           :D (v16 / label~e.18)
-           :D (v17 / label~e.19)
-           :P (v18 / label~e.21,22)
-           :A (v19 / label
-                   :R (v24 / label~e.23)
-                   :E (v25 / label~e.24)
-                   :C (v26 / label~e.25))))
+           :S (v4 / label~e.6,7,8)
+           :A (v5 / label
+                  :R (v8 / label~e.9)
+                  :C (v9 / label~e.10)
+                  :E (v10 / label
+                          :A v9
+                          :R (v11 / label~e.11)
+                          :D (v12 / label~e.12)
+                          :P (v13 / label~e.13)
+                          :A (v14 / label
+                                  :R (v16 / label~e.14)
+                                  :D (v17 / label~e.16)
+                                  :A (v18 / label~e.17))
+                          :A (v15 / label
+                                  :E (v19 / label~e.18)
+                                  :C (v20 / label~e.19)
+                                  :E (v21 / label
+                                          :R (v22 / label~e.20)
+                                          :E (v23 / label~e.21)
+                                          :E (v24 / label
+                                                  :A (v25 / label
+                                                          :A (v28 / label~e.23))
+                                                  :S (v27 / label~e.22))
+                                          :C v25
+                                          :E (v26 / label
+                                                  :A (v29 / label
+                                                          :C v25
+                                                          :R (v33 / label~e.24))
+                                                  :R (v30 / label~e.25)
+                                                  :A (v31 / label~e.26)
+                                                  :P (v32 / label~e.27))))))
+           :A (v6 / label~e.0)
+           :T (v7 / label~e.5))
+    :L (v3 / label~e.2))

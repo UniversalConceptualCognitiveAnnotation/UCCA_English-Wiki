@@ -1,6 +1,6 @@
 # ::id 457002
 # ::tok The couple had previously split in 1987 for four months after Jennings found out that Marton was having an affair with Washington Post columnist Richard Cohen .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.1.3 4-1.1.4 5-1.1.5.1 6-1.1.5.2 7-1.1.6.1 8-1.1.6.2 9-1.1.6.3 10-1.2 11-1.3.1 12-1.3.2 13-1.3.2 15-1.3.3.1 18-1.3.3.2.2 19-1.3.3.2.3 20-1.3.3.4.1 21-1.3.3.4.2.1 22-1.3.3.4.2.1 23-1.3.3.4.2.2 24-1.3.3.4.3 25-1.3.3.4.3
+# ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.1.3 4-1.1.4 5-1.1.5.1 6-1.1.5.2 7-1.1.6.1 8-1.1.6.2 9-1.1.6.3 10-1.2 11-1.3.1 12-1.3.2 13-1.3.2 14-1.3.3.5 15-1.3.3.1 18-1.3.3.3.2 19-1.3.3.3.3 20-1.3.3.4.1 21-1.3.3.4.2.1 22-1.3.3.4.2.1 23-1.3.3.4.2.2 24-1.3.3.4.3 25-1.3.3.4.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -9,12 +9,12 @@
                   :C (v14 / label~e.1))
            :D (v6 / label~e.3)
            :P (v7 / label~e.4)
-           :D (v8 / label
+           :T (v8 / label
                   :R (v15 / label~e.5)
                   :C (v16 / label~e.6))
-           :D (v9 / label
+           :T (v9 / label
                   :R (v17 / label~e.7)
-                  :E (v18 / label~e.8)
+                  :Q (v18 / label~e.8)
                   :C (v19 / label~e.9)))
     :L (v3 / label~e.10)
     :H (v4 / label
@@ -23,11 +23,12 @@
            :A (v12 / label
                    :A (v20 / label~e.15)
                    :P (v21 / label
-                           :E (v23 / label~e.18)
-                           :C (v24 / label~e.19))
+                           :E (v24 / label~e.18)
+                           :C (v25 / label~e.19))
                    :A (v22 / label
-                           :R (v25 / label~e.20)
-                           :E (v26 / label
-                                   :E (v28 / label~e.21,22)
-                                   :C (v29 / label~e.23))
-                           :C (v27 / label~e.24,25)))))
+                           :R (v26 / label~e.20)
+                           :E (v27 / label
+                                   :A (v29 / label~e.21,22)
+                                   :P (v30 / label~e.23))
+                           :C (v28 / label~e.24,25))
+                   :R (v23 / label~e.14))))

@@ -1,36 +1,36 @@
 # ::id 449001
 # ::tok He was the sole anchor of ABC 's World News Tonight from 1983 until his death in 2005 of complications from lung cancer .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.1.3.3 5-1.1.3.4.1 6-1.1.3.4.2.1 7-1.1.3.4.2.2 8-1.1.3.4.3 9-1.1.3.4.3 10-1.1.3.4.3 11-1.1.4.1 12-1.1.4.2 13-1.2 14-1.3.1.1 15-1.3.1.2 16-1.3.2.1 17-1.3.2.2 18-1.3.3.3 19-1.3.3.1 20-1.3.3.2.1 21-1.3.3.2.2 22-1.3.3.2.3
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1.1 3-1.1.3.2 4-1.1.3.1.2 5-1.1.3.3.1 6-1.1.3.3.2.1 7-1.1.3.3.2.2 8-1.1.3.3.3 9-1.1.3.3.3 10-1.1.3.3.3 11-1.1.4.1 12-1.1.4.2 13-1.2 14-1.3.1 15-1.3.2 16-1.3.3.1 17-1.3.3.2 18-1.3.4.1 19-1.3.4.2 20-1.3.4.3.1 21-1.3.4.3.2 22-1.3.4.3.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v5 / label~e.0)
            :S (v6 / label~e.1)
            :A (v7 / label
-                  :E (v12 / label~e.2)
-                  :E (v13 / label~e.3)
-                  :C (v14 / label~e.4)
-                  :E (v15 / label
+                  :S (v13 / label
+                          :E (v23 / label~e.2)
+                          :C (v24 / label~e.4))
+                  :D (v14 / label~e.3)
+                  :A (v15 / label
                           :R (v25 / label~e.5)
                           :E (v26 / label
                                   :C (v31 / label~e.6)
                                   :R (v32 / label~e.7))
                           :C (v27 / label~e.8,9,10)))
-           :D (v8 / label
+           :T (v8 / label
                   :R (v16 / label~e.11)
                   :C (v17 / label~e.12)))
     :L (v3 / label~e.13)
     :H (v4 / label
-           :S (v9 / label
-                  :E (v18 / label~e.14)
-                  :C (v19 / label~e.15))
-           :D (v10 / label
-                   :R (v20 / label~e.16)
-                   :C (v21 / label~e.17))
-           :A (v11 / label
-                   :C (v22 / label~e.19)
-                   :E (v23 / label
+           :A (v9 / label~e.14)
+           :P (v10 / label~e.15)
+           :T (v11 / label
+                   :R (v18 / label~e.16)
+                   :C (v19 / label~e.17))
+           :A (v12 / label
+                   :R (v20 / label~e.18)
+                   :C (v21 / label~e.19)
+                   :E (v22 / label
                            :R (v28 / label~e.20)
                            :E (v29 / label~e.21)
-                           :C (v30 / label~e.22))
-                   :R (v24 / label~e.18))))
+                           :C (v30 / label~e.22)))))

@@ -1,6 +1,6 @@
 # ::id 558007
 # ::tok Listeners began phoning in , eager to find out who the singer was .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.3 5-1.2.2.1 7-1.2.2.2 8-1.2.2.2 9-1.2.4.4 10-1.2.4.1.1 11-1.2.4.1.2 12-1.2.4.2
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.3 5-1.2.2 7-1.2.4 8-1.2.4 9-1.2.5.1 10-1.2.5.2.1.1 11-1.2.5.2.1.2 12-1.2.5.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -9,12 +9,12 @@
            :P (v6 / label~e.2,3))
     :H (v3 / label
            :A v4
-           :P (v7 / label
-                  :E (v9 / label~e.5)
-                  :C (v10 / label~e.7,8))
-           :A (v8 / label
+           :D (v7 / label~e.5)
+           :P (v8 / label~e.7,8)
+           :A (v9 / label
+                  :A (v10 / label~e.9)
                   :A (v11 / label
-                          :E (v14 / label~e.10)
-                          :C (v15 / label~e.11))
-                  :S (v12 / label~e.12)
-                  :D (v13 / label~e.9))))
+                          :P (v13 / label
+                                  :E (v14 / label~e.10)
+                                  :C (v15 / label~e.11)))
+                  :S (v12 / label~e.12))))

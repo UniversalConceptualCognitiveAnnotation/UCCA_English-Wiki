@@ -1,38 +1,40 @@
 # ::id 559010
 # ::tok By August , Sun had released ten sides credited to " Elvis Presley , Scotty and Bill " ; on the latest recordings , the trio were joined by a drummer .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.1.2 5-1.1.4 6-1.1.5.1 7-1.1.5.2 8-1.1.5.3.2 9-1.1.5.3.3.1 11-1.1.5.3.3.2.1 12-1.1.5.3.3.2.1 14-1.1.5.3.3.2.2 15-1.1.5.3.3.2.3 16-1.1.5.3.3.2.4 19-1.2.4.1 20-1.2.4.2 21-1.2.4.3 22-1.2.4.4 24-1.2.5.1 25-1.2.5.2 27-1.2.1 28-1.2.2.1 29-1.2.2.2 30-1.2.2.3
+# ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.1.2 5-1.1.4 6-1.1.5.1 7-1.1.5.2 8-1.1.5.3.2 9-1.1.5.3.3.1 11-1.1.5.3.3.2.1 12-1.1.5.3.3.2.1 14-1.1.5.3.3.2.2 15-1.1.5.3.3.2.3 16-1.1.5.3.3.2.4 19-1.2.4.1 20-1.2.4.2.1 21-1.2.4.2.2 22-1.2.4.3 25-1.2.5.1.2 27-1.2.1 28-1.2.2.1 29-1.2.2.2.1 30-1.2.2.2.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :D (v4 / label
+           :T (v4 / label
                   :R (v12 / label~e.0)
                   :C (v13 / label~e.1))
            :A (v5 / label~e.3)
            :P (v6 / label~e.5)
            :A (v7 / label
-                  :E (v14 / label~e.6)
+                  :Q (v14 / label~e.6)
                   :C (v15 / label~e.7)
                   :E (v16 / label
                           :A v15
-                          :S (v26 / label~e.8)
-                          :A (v27 / label
-                                  :R (v28 / label~e.9)
-                                  :C (v29 / label
-                                          :C (v30 / label~e.11,12)
-                                          :C (v31 / label~e.14)
-                                          :N (v32 / label~e.15)
-                                          :C (v33 / label~e.16))))))
+                          :S (v23 / label~e.8)
+                          :A (v24 / label
+                                  :R (v30 / label~e.9)
+                                  :C (v31 / label
+                                          :C (v32 / label~e.11,12)
+                                          :C (v33 / label~e.14)
+                                          :N (v34 / label~e.15)
+                                          :C (v35 / label~e.16))))))
     :H (v3 / label
            :P (v8 / label~e.27)
            :A (v9 / label
                   :R (v17 / label~e.28)
-                  :E (v18 / label~e.29)
-                  :C (v19 / label~e.30))
+                  :A (v18 / label
+                          :E (v25 / label~e.29)
+                          :C (v26 / label~e.30)))
            :A (v10 / label
-                   :R (v20 / label~e.19)
-                   :E (v21 / label~e.20)
-                   :E (v22 / label~e.21)
-                   :C (v23 / label~e.22))
+                   :R (v19 / label~e.19)
+                   :Q (v20 / label
+                           :E (v27 / label~e.20)
+                           :C (v28 / label~e.21))
+                   :C (v21 / label~e.22))
            :A (v11 / label
-                   :R (v24 / label~e.24)
-                   :C (v25 / label~e.25))))
+                   :A (v22 / label
+                           :C (v29 / label~e.25)))))

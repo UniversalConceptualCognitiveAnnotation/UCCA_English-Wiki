@@ -1,30 +1,28 @@
 # ::id 548007
 # ::tok Warner 's decision to sell came at a time when he was losing the formidable power that he once took for granted .
-# ::alignments 0-1.1.1.1.1 1-1.1.1.1.2 2-1.1.1.2.1 4-1.1.1.2.2 5-1.1.2 6-1.1.3.2 7-1.1.3.3 8-1.1.3.4 10-1.1.3.1.2 12-1.1.3.1.4 13-1.1.3.1.5.1 14-1.1.3.1.5.2 15-1.1.3.1.5.3 17-1.1.3.1.5.4.3 18-1.1.3.1.5.4.4 19-1.1.3.1.5.4.5 20-1.1.3.1.5.4.5 21-1.1.3.1.5.4.5
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2 4-1.1.3.2 6-1.1.5.4 8-1.1.5.2 9-1.1.5.3.1 10-1.1.5.3.2 12-1.1.5.3.4 14-1.1.5.3.5.2 15-1.1.5.3.5.3 16-1.1.5.3.5.4.2 17-1.1.5.3.5.4.3 18-1.1.5.3.5.4.4 19-1.1.5.3.5.4.5 20-1.1.5.3.5.4.5 21-1.1.5.3.5.4.5
 # ::format ucca
 (v1 / label
     :H (v2 / label
            :A (v3 / label
-                  :A (v6 / label
-                         :C (v12 / label~e.0)
-                         :R (v13 / label~e.1))
-                  :P (v7 / label
-                         :E (v14 / label~e.2)
-                         :C (v15 / label~e.4)))
-           :P (v4 / label~e.5)
+                  :C (v7 / label~e.0)
+                  :R (v8 / label~e.1))
+           :P (v4 / label~e.2)
            :A (v5 / label
-                  :E (v8 / label
-                         :A (v16 / label~e.10)
-                         :P (v17 / label~e.12)
-                         :A (v18 / label
-                                 :E (v19 / label~e.13)
-                                 :E (v20 / label~e.14)
-                                 :C (v21 / label~e.15)
-                                 :E (v22 / label
-                                         :A v21
-                                         :A (v23 / label~e.17)
-                                         :D (v24 / label~e.18)
-                                         :P (v25 / label~e.19,20,21))))
-                  :R (v9 / label~e.6)
-                  :E (v10 / label~e.7)
-                  :C (v11 / label~e.8))))
+                  :C (v9 / label~e.4))
+           :T (v6 / label
+                  :C (v10 / label~e.8)
+                  :E (v11 / label
+                          :R (v13 / label~e.9)
+                          :A (v14 / label~e.10)
+                          :P (v15 / label~e.12)
+                          :A (v16 / label
+                                  :E (v17 / label~e.14)
+                                  :C (v18 / label~e.15)
+                                  :E (v19 / label
+                                          :A v18
+                                          :R (v20 / label~e.16)
+                                          :A (v21 / label~e.17)
+                                          :T (v22 / label~e.18)
+                                          :P (v23 / label~e.19,20,21))))
+                  :R (v12 / label~e.6))))

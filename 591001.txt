@@ -1,25 +1,23 @@
 # ::id 591001
 # ::tok Depp is the founder and CEO , while his sister , Christi Dembrowski , serves as president .
-# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2.1 4-1.1.3.2.2 5-1.1.3.2.3 7-1.2 8-1.3.2.1.1 9-1.3.2.1.2 11-1.3.2.2 12-1.3.2.2 14-1.3.3 15-1.3.4.1 16-1.3.4.2
+# ::alignments 0-1.1.1 3-1.1.4 4-1.2 5-1.3.1 7-1.4 8-1.5.4.1.1 9-1.5.4.1.2 11-1.5.4.2 12-1.5.4.2 14-1.5.1 15-1.5.2.1 16-1.5.2.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
-           :A (v5 / label~e.0)
-           :S (v6 / label~e.1)
-           :A (v7 / label
-                  :E (v11 / label~e.2)
-                  :C (v12 / label
-                          :C (v17 / label~e.3)
-                          :N (v18 / label~e.4)
-                          :C (v19 / label~e.5))))
-    :L (v3 / label~e.7)
+           :A (v7 / label~e.0)
+           :S (v8 / label~e.3))
+    :L (v3 / label~e.4)
     :H (v4 / label
-           :A (v8 / label
-                  :E (v13 / label
-                          :E (v20 / label~e.8)
-                          :C (v21 / label~e.9))
-                  :C (v14 / label~e.11,12))
-           :P (v9 / label~e.14)
-           :A (v10 / label
-                   :R (v15 / label~e.15)
-                   :C (v16 / label~e.16))))
+           :S (v9 / label~e.5)
+           :A v7)
+    :L (v5 / label~e.7)
+    :H (v6 / label
+           :D (v10 / label~e.14)
+           :P (v11 / label
+                   :R (v13 / label~e.15)
+                   :C (v14 / label~e.16))
+           :A (v12 / label
+                   :E (v15 / label
+                           :A (v17 / label~e.8)
+                           :A (v18 / label~e.9))
+                   :C (v16 / label~e.11,12))))
