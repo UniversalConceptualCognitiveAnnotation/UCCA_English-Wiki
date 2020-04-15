@@ -7,12 +7,12 @@
     :H (v3 / label
            :A (v5 / label
                   :A (v12 / label~e.1)
-                  :S (v13 / label~e.2))
+                  :A (v13 / label~e.2))
            :P (v6 / label~e.3)
            :A (v7 / label
                   :R (v14 / label~e.4)
                   :A (v15 / label~e.6)
-                  :A (v16 / label~e.7)
+                  :P (v16 / label~e.7)
                   :A (v17 / label
                           :R (v27 / label~e.8)
                           :C (v28 / label~e.9,10))))
