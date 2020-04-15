@@ -7,7 +7,7 @@ Pao	Word	--	Terminal	504
 pao	Word	--	Terminal	504
 Chinese	Word	--	Terminal	505
 :	Punctuation	--	Terminal	506
-炮炮	Punctuation	--	Terminal	507
+炮炮	Word	--	Terminal	507
 (	Punctuation	--	Terminal	508
 literally	Word	--	Terminal	509
 meaning	Word	--	Terminal	510
@@ -26,37 +26,38 @@ always	Word	--	Terminal	522
 rolling	Word	--	Terminal	523
 around	Word	--	Terminal	524
 .	Punctuation	--	Terminal	525
-#500	FN	--	A	531
-#501	FN	--	F	531
-#502	FN	--	P	531
+#500	FN	--	A	532
+#501	FN	--	F	532
+#502	FN	--	P	532
 #503	PNCT	--	U	504
-#504	FN	--	C	527	A*	526
+#504	FN	--	C	528	A*	526
 #505	FN	--	E	527
 #506	PNCT	--	U	527
-#507	PNCT	--	U	527
-#508	PNCT	--	U	527
+#507	FN	--	C	527
+#508	PNCT	--	U	528
 #509	FN	--	D	526
 #510	FN	--	S	526
 #511	PNCT	--	U	526
 #512	FN	--	A	526
-#513	PNCT	--	U	532
-#514	PNCT	--	U	532
-#515	FN	--	L	532
-#516	FN	--	F	529
-#517	FN	--	D	528
-#518	PNCT	--	U	528
-#519	FN	--	S	528
-#520	FN	--	C	529	A*	528
-#521	FN	--	F	530
-#522	FN	--	D	530
-#523	FN	--	P	530
-#524	FN	--	D	530
-#525	PNCT	--	U	530
-#526	FN	--	E	527
-#527	FN	--	A	531
-#528	FN	--	E	529
-#529	FN	--	A	530
-#530	FN	--	H	532
-#531	FN	--	H	532
-#532	FN	--	--	0
+#513	PNCT	--	U	533
+#514	PNCT	--	U	533
+#515	FN	--	L	533
+#516	FN	--	F	530
+#517	FN	--	D	529
+#518	PNCT	--	U	529
+#519	FN	--	S	529
+#520	FN	--	C	530	A*	529
+#521	FN	--	F	531
+#522	FN	--	D	531
+#523	FN	--	P	531
+#524	FN	--	D	531
+#525	PNCT	--	U	531
+#526	FN	--	E	528
+#527	FN	--	E	528
+#528	FN	--	A	532
+#529	FN	--	E	530
+#530	FN	--	A	531
+#531	FN	--	H	533
+#532	FN	--	H	533
+#533	FN	--	--	0
 #EOS 222008

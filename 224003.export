@@ -10,7 +10,7 @@ Lung	Word	--	Terminal	506
 (	Punctuation	--	Terminal	507
 Chinese	Word	--	Terminal	508
 :	Punctuation	--	Terminal	509
-成龍	Punctuation	--	Terminal	510
+成龍	Word	--	Terminal	510
 ,	Punctuation	--	Terminal	511
 also	Word	--	Terminal	512
 transcribed	Word	--	Terminal	513
@@ -44,7 +44,7 @@ lung	Word	--	Terminal	536
 (	Punctuation	--	Terminal	537
 Chinese	Word	--	Terminal	538
 :	Punctuation	--	Terminal	539
-李小龍	Punctuation	--	Terminal	540
+李小龍	Word	--	Terminal	540
 ,	Punctuation	--	Terminal	541
 meaning	Word	--	Terminal	542
 "	Punctuation	--	Terminal	543
@@ -77,9 +77,9 @@ style	Word	--	Terminal	563
 #505	FN	--	R	587
 #506	FN	--	C	587
 #507	PNCT	--	U	587
-#508	FN	--	C	584	A*	583
+#508	FN	--	E	584	A*	583
 #509	PNCT	--	U	584
-#510	PNCT	--	U	584
+#510	FN	--	C	584
 #511	PNCT	--	U	584
 #512	FN	--	D	583
 #513	FN	--	P	583
@@ -107,9 +107,9 @@ style	Word	--	Terminal	563
 #535	PNCT	--	U	536
 #536	FN	--	C	582
 #537	PNCT	--	U	582
-#538	FN	--	C	581	A*	578
+#538	FN	--	E	581	A*	578
 #539	PNCT	--	U	581
-#540	PNCT	--	U	581
+#540	FN	--	C	581
 #541	PNCT	--	U	581
 #542	FN	--	P	578
 #543	PNCT	--	U	578
