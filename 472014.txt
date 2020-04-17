@@ -1,6 +1,6 @@
 # ::id 472014
 # ::tok Many articles praised Johnson as a hero , and former U . S . President George H . W . Bush said , " For me , Magic is a hero , a hero for anyone who loves sports . "
-# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2 3-1.1.3 4-1.1.4.2 6-1.1.4.4 8-1.2 9-1.3.3.1.2 10-1.3.3.1.3 12-1.3.3.1.3 14-1.3.3.1.4 15-1.3.3.2 16-1.3.3.2 18-1.3.3.2 20-1.3.3.2 21-1.3.4 24-1.3.5.1.1.1 25-1.3.5.1.1.2 27-1.3.5.1.2 30-1.3.5.1.5 33-1.3.5.2.2 34-1.3.5.2.3.1 35-1.3.5.2.3.2 36-1.3.5.2.3.3.2 37-1.3.5.2.3.3.3 38-1.3.5.2.3.3.4
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2 3-1.1.3 4-1.1.4.2 6-1.1.4.4 8-1.2 9-1.3.4.1.2 10-1.3.4.1.3 12-1.3.4.1.3 14-1.3.4.1.4 15-1.3.4.2 16-1.3.4.2 18-1.3.4.2 20-1.3.4.2 21-1.3.5 24-1.3.1.1.1.1 25-1.3.1.1.1.2 27-1.3.1.1.2 30-1.3.1.1.5 33-1.3.1.2.2 34-1.3.1.2.3.1 35-1.3.1.2.3.2 36-1.3.1.2.3.3.2 37-1.3.1.2.3.3.3 38-1.3.1.2.3.3.4
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -16,28 +16,28 @@
     :L (v3 / label~e.8)
     :H (v4 / label
            :A (v9 / label
-                  :E (v16 / label
-                          :A (v17 / label~e.15,16,18,20)
-                          :D (v20 / label~e.9)
-                          :A (v21 / label~e.10,12)
-                          :P (v22 / label~e.14))
-                  :C v17)
-           :P (v10 / label~e.21)
-           :A (v11 / label
-                   :H (v18 / label
-                           :G (v23 / label
-                                   :R (v28 / label~e.24)
-                                   :C (v29 / label~e.25))
-                           :A (v24 / label~e.27)
-                           :S (v25 / label~e.30))
-                   :H (v19 / label
-                           :S (v26 / label~e.33)
-                           :G (v27 / label
-                                   :R (v30 / label~e.34)
-                                   :C (v31 / label~e.35)
-                                   :E (v32 / label
-                                           :A v31
-                                           :R (v33 / label~e.36)
-                                           :P (v34 / label~e.37)
-                                           :A (v35 / label~e.38)))
-                           :A v24))))
+                  :H (v16 / label
+                          :G (v20 / label
+                                  :R (v28 / label~e.24)
+                                  :C (v29 / label~e.25))
+                          :A (v21 / label~e.27)
+                          :S (v22 / label~e.30))
+                  :H (v17 / label
+                          :S (v23 / label~e.33)
+                          :G (v24 / label
+                                  :R (v30 / label~e.34)
+                                  :C (v31 / label~e.35)
+                                  :E (v32 / label
+                                          :A v31
+                                          :R (v33 / label~e.36)
+                                          :P (v34 / label~e.37)
+                                          :A (v35 / label~e.38)))
+                          :A v21))
+           :A (v10 / label
+                   :E (v18 / label
+                           :A (v19 / label~e.15,16,18,20)
+                           :D (v25 / label~e.9)
+                           :A (v26 / label~e.10,12)
+                           :P (v27 / label~e.14))
+                   :C v19)
+           :P (v11 / label~e.21)))

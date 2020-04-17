@@ -1,6 +1,6 @@
 # ::id 472011
 # ::tok At the time , only a small percentage of HIV - positive American men had contracted it from heterosexual sex , and it was initially rumored that Johnson was gay or bisexual , although he denied both .
-# ::alignments 0-1.1.1.1 2-1.1.1.3 4-1.1.2.1.1 6-1.1.2.1.3 7-1.1.2.1.4 8-1.1.2.2 9-1.1.2.3.2 11-1.1.2.3.3 12-1.1.2.4.2 13-1.1.2.5 15-1.1.4 16-1.1.5 17-1.1.6.1 18-1.1.6.2 19-1.1.6.3 21-1.2 24-1.3.4 25-1.3.5 26-1.3.6.2.1 27-1.3.6.2.2 29-1.3.6.2.4 30-1.3.6.1 31-1.3.6.3.1 33-1.4 34-1.5.1 35-1.5.2 36-1.5.3
+# ::alignments 0-1.1.1.1 2-1.1.1.3 4-1.1.2.1.1 6-1.1.2.1.3 7-1.1.2.1.4 8-1.1.2.2 9-1.1.2.3.2 11-1.1.2.3.3 12-1.1.2.4.2 13-1.1.2.5 15-1.1.4 16-1.1.5 17-1.1.6.1 18-1.1.6.2 19-1.1.6.3 21-1.2 24-1.3.4 25-1.3.5 26-1.3.6.1.1 27-1.3.6.1.2 29-1.3.6.1.4 30-1.3.6.2 31-1.3.6.3.1 33-1.4 34-1.5.1 35-1.5.2 36-1.5.3
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -34,11 +34,11 @@
            :D (v13 / label~e.24)
            :P (v14 / label~e.25)
            :A (v15 / label
-                   :L (v29 / label~e.30)
-                   :H (v30 / label
+                   :H (v29 / label
                            :R (v38 / label~e.26)
                            :A (v39 / label~e.27)
                            :S (v40 / label~e.29))
+                   :L (v30 / label~e.30)
                    :H (v31 / label
                            :S (v41 / label~e.31)
                            :R v38

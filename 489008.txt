@@ -1,6 +1,6 @@
 # ::id 489008
 # ::tok His next film was the Australian drama Romulus , My Father ( 2007 ) . The film , based on Raimond Gaita 's memoir of the same name , portrays a couple and their struggle in the face of adversity to raise their son .
-# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 3-1.1.2 4-1.1.3.1 5-1.1.3.2.1.2 6-1.1.3.2.2 7-1.1.3.3 9-1.1.3.3 10-1.1.3.3 12-1.1.3.4.3 15-1.2.2.1 16-1.2.2.2 18-1.2.2.3.2 19-1.2.2.3.3.1 20-1.2.2.3.3.2.2 21-1.2.2.3.3.2.2 22-1.2.2.3.3.2.3 23-1.2.2.3.3.3 24-1.2.2.3.3.4.1 25-1.2.2.3.3.4.2 26-1.2.2.3.3.4.3 27-1.2.2.3.3.4.4 29-1.2.3 30-1.2.4.1.1.1 31-1.2.4.1.1.2 32-1.2.4.2.1 33-1.2.4.2.2 34-1.2.4.2.3 35-1.2.4.2.4.1 36-1.2.4.2.4.1 37-1.2.4.2.4.1 38-1.2.4.2.4.1 39-1.2.4.2.4.2 41-1.2.4.2.5.2 42-1.2.4.2.5.3.1 43-1.2.4.2.5.3.2
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 3-1.1.2 4-1.1.3.1 5-1.1.3.2.1.2 6-1.1.3.2.2 7-1.1.3.3 9-1.1.3.3 10-1.1.3.3 12-1.1.3.4.3 15-1.2.3.1 16-1.2.3.2 18-1.2.3.3.2 19-1.2.3.3.3.1 20-1.2.3.3.3.2.2 21-1.2.3.3.3.2.2 22-1.2.3.3.3.2.3 23-1.2.3.3.3.3 24-1.2.3.3.3.4.1 25-1.2.3.3.3.4.2 26-1.2.3.3.3.4.3 27-1.2.3.3.3.4.4 29-1.2.4 30-1.2.1.1.1.1 31-1.2.1.1.1.2 32-1.2.1.2.1 33-1.2.1.2.2 34-1.2.1.2.3 35-1.2.1.2.4.1 36-1.2.1.2.4.1 37-1.2.1.2.4.1 38-1.2.1.2.4.1 39-1.2.1.2.4.2 41-1.2.1.2.5.2 42-1.2.1.2.5.3.1 43-1.2.1.2.5.3.2
 # ::format ucca
 (v1 / label
     :H (v2 / label
@@ -23,39 +23,39 @@
                           :T (v25 / label~e.12))))
     :H (v3 / label
            :A (v7 / label
-                  :E (v17 / label~e.15)
-                  :C (v18 / label~e.16)
-                  :E (v19 / label
-                          :A v18
-                          :S (v26 / label~e.18)
-                          :A (v27 / label
-                                  :R (v35 / label~e.19)
-                                  :E (v36 / label
-                                          :A (v37 / label~e.23)
-                                          :A (v45 / label~e.20,21)
-                                          :P (v46 / label~e.22))
-                                  :C v37
-                                  :E (v38 / label
-                                          :R (v47 / label~e.24)
-                                          :E (v48 / label~e.25)
-                                          :E (v49 / label~e.26)
-                                          :C (v50 / label~e.27)))))
-           :P (v8 / label~e.29)
-           :A (v9 / label
-                  :C (v20 / label
-                          :S (v28 / label
-                                  :E (v39 / label~e.30)
-                                  :C (v40 / label~e.31)))
+                  :C (v17 / label
+                          :S (v26 / label
+                                  :E (v35 / label~e.30)
+                                  :C (v36 / label~e.31)))
+                  :E (v18 / label
+                          :R (v27 / label~e.32)
+                          :A (v28 / label~e.33)
+                          :P (v29 / label~e.34)
+                          :A (v30 / label
+                                  :R (v37 / label~e.35,36,37,38)
+                                  :C (v38 / label~e.39))
+                          :A (v31 / label
+                                  :P (v39 / label~e.41)
+                                  :A (v40 / label
+                                          :A (v45 / label~e.42)
+                                          :S (v46 / label~e.43))
+                                  :A v36)))
+           :A (v8 / label
+                  :E (v19 / label~e.15)
+                  :C (v20 / label~e.16)
                   :E (v21 / label
-                          :R (v29 / label~e.32)
-                          :A (v30 / label~e.33)
-                          :P (v31 / label~e.34)
-                          :A (v32 / label
-                                  :R (v41 / label~e.35,36,37,38)
-                                  :C (v42 / label~e.39))
+                          :A v20
+                          :S (v32 / label~e.18)
                           :A (v33 / label
-                                  :P (v43 / label~e.41)
-                                  :A (v44 / label
-                                          :A (v51 / label~e.42)
-                                          :S (v52 / label~e.43))
-                                  :A v40)))))
+                                  :R (v41 / label~e.19)
+                                  :E (v42 / label
+                                          :A (v43 / label~e.23)
+                                          :A (v47 / label~e.20,21)
+                                          :P (v48 / label~e.22))
+                                  :C v43
+                                  :E (v44 / label
+                                          :R (v49 / label~e.24)
+                                          :E (v50 / label~e.25)
+                                          :E (v51 / label~e.26)
+                                          :C (v52 / label~e.27)))))
+           :P (v9 / label~e.29)))
