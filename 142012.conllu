@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 142012
-# text = The adventure comedy was one of the biggest failures of her career â the screenwriter James Prideaux , who worked with Hepburn , later wrote that it " died at the moment of release " and referred to it as her " lost film " . Hepburn claimed the main reason she had done the film was the opportunity to ride in a hot air balloon .
+# text = The adventure comedy was one of the biggest failures of her career - the screenwriter James Prideaux , who worked with Hepburn , later wrote that it " died at the moment of release " and referred to it as her " lost film " . Hepburn claimed the main reason she had done the film was the opportunity to ride in a hot air balloon .
 1	The	_	Word	Word	_	3	E	3:E	_
 2	adventure	_	Word	Word	_	3	E	3:E	_
 3	comedy	_	Word	Word	_	9	A	9:A	_
@@ -13,7 +13,7 @@
 10	of	_	Word	Word	_	12	R	12:R	_
 11	her	_	Word	Word	_	12	A	12:A	_
 12	career	_	Word	Word	_	9	A	9:A	_
-13	â	_	Punctuation	Punctuation	_	9	U	9:U	_
+13	-	_	Punctuation	Punctuation	_	9	U	9:U	_
 14	the	_	Word	Word	_	16	E	16:E	_
 15	screenwriter	_	Word	Word	_	16	E	16:E	_
 16	James	_	Word	Word	_	0	C	0:C|15:A|20:A|37:A	_

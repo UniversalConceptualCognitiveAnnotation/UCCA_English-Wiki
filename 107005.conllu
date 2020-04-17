@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 107005
-# text = Vanessa Vance from Reel.com noted , " Angelina Jolie gained wide recognition for her role as the titular Gia , and it 's easy to see why . Jolie is fierce in her portrayal â filling the part with nerve , charm , and desperation â and her role in this film is quite possibly the most beautiful train wreck ever filmed . "
+# text = Vanessa Vance from Reel.com noted , " Angelina Jolie gained wide recognition for her role as the titular Gia , and it 's easy to see why . Jolie is fierce in her portrayal - filling the part with nerve , charm , and desperation - and her role in this film is quite possibly the most beautiful train wreck ever filmed . "
 1	Vanessa	_	Word	Word	_	5	A	5:A	_
 2	Vance	_	Word	Word	_	1	Terminal	1:Terminal	_
 3	from	_	Word	Word	_	1	E	1:E	_
@@ -35,7 +35,7 @@
 32	in	_	Word	Word	_	34	R	34:R	_
 33	her	_	Word	Word	_	34	F	34:F	_
 34	portrayal	_	Word	Word	_	12	H	12:H	_
-35	â	_	Punctuation	Punctuation	_	12	U	12:U	_
+35	-	_	Punctuation	Punctuation	_	12	U	12:U	_
 36	filling	_	Word	Word	_	12	H	12:H	_
 37	the	_	Word	Word	_	38	E	38:E	_
 38	part	_	Word	Word	_	36	A	36:A	_
@@ -46,7 +46,7 @@
 43	,	_	Punctuation	Punctuation	_	40	U	40:U	_
 44	and	_	Word	Word	_	45	L	45:L	_
 45	desperation	_	Word	Word	_	40	H	40:H	_
-46	â	_	Punctuation	Punctuation	_	12	U	12:U	_
+46	-	_	Punctuation	Punctuation	_	12	U	12:U	_
 47	and	_	Word	Word	_	53	L	53:L	_
 48	her	_	Word	Word	_	49	A	49:A	_
 49	role	_	Word	Word	_	53	A	53:A	_

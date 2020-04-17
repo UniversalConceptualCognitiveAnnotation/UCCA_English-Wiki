@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 20002
-# text = Pitt has stated that his family 's ancestry consists of " probably ... Irish - Scots - Germans who settled in the area ... I know we have some Seminole , and some Cherokee Indian , in us " . Pitt has described Springfield as " Mark Twain country , Jesse James country " , having grown up with " a lot of hills , a lot of lakes Pitt " . Pitt attended Kickapoo High School , where he was a member of the golf , tennis , wrestling and swimming teams .
+# text = Pitt has stated that his family 's ancestry consists of " probably ... Irish - Scots - Germans who settled in the area ... I know we have some Seminole , and some Cherokee Indian , in us " . Pitt has described Springfield as " Mark Twain country , Jesse James country " , having grown up with " a lot of hills , a lot of lakes " . Pitt attended Kickapoo High School , where he was a member of the golf , tennis , wrestling and swimming teams .
 1	Pitt	_	Word	Word	_	3	A	3:A	_
 2	has	_	Word	Word	_	3	F	3:F	_
 3	stated	_	Word	Word	_	0	H	0:H	_
@@ -41,7 +41,7 @@
 38	us	_	Word	Word	_	28	A	28:A	_
 39	"	_	Punctuation	Punctuation	_	3	U	3:U	_
 40	.	_	Punctuation	Punctuation	_	3	U	3:U	_
-41	Pitt	_	Word	Word	_	43	A	43:A	_
+41	Pitt	_	Word	Word	_	43	A	43:A|57:A	_
 42	has	_	Word	Word	_	43	F	43:F	_
 43	described	_	Word	Word	_	3	H	3:H	_
 44	Springfield	_	Word	Word	_	43	A	43:A	_
@@ -70,29 +70,28 @@
 67	lot	_	Word	Word	_	66	Terminal	66:Terminal	_
 68	of	_	Word	Word	_	69	R	69:R	_
 69	lakes	_	Word	Word	_	64	C	64:C	_
-70	Pitt	_	Word	Word	_	57	A	57:A	_
-71	"	_	Punctuation	Punctuation	_	3	U	3:U	_
-72	.	_	Punctuation	Punctuation	_	3	U	3:U	_
-73	Pitt	_	Word	Word	_	74	A	74:A	_
-74	attended	_	Word	Word	_	3	H	3:H	_
-75	Kickapoo	_	Word	Word	_	74	A	74:A	_
-76	High	_	Word	Word	_	75	Terminal	75:Terminal	_
-77	School	_	Word	Word	_	75	Terminal	75:Terminal	_
-78	,	_	Punctuation	Punctuation	_	75	U	75:U	_
-79	where	_	Word	Word	_	83	R	83:R	_
-80	he	_	Word	Word	_	83	A	83:A	_
-81	was	_	Word	Word	_	83	F	83:F	_
-82	a	_	Word	Word	_	83	E	83:E	_
-83	member	_	Word	Word	_	75	E	75:E	_
-84	of	_	Word	Word	_	93	R	93:R	_
-85	the	_	Word	Word	_	93	F	93:F	_
-86	golf	_	Word	Word	_	93	A	93:A	_
-87	,	_	Punctuation	Punctuation	_	86	U	86:U	_
-88	tennis	_	Word	Word	_	86	C	86:C	_
-89	,	_	Punctuation	Punctuation	_	86	U	86:U	_
-90	wrestling	_	Word	Word	_	86	C	86:C	_
-91	and	_	Word	Word	_	86	N	86:N	_
-92	swimming	_	Word	Word	_	86	C	86:C	_
-93	teams	_	Word	Word	_	83	A	83:A	_
-94	.	_	Punctuation	Punctuation	_	93	U	93:U	_
+70	"	_	Punctuation	Punctuation	_	3	U	3:U	_
+71	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+72	Pitt	_	Word	Word	_	73	A	73:A	_
+73	attended	_	Word	Word	_	3	H	3:H	_
+74	Kickapoo	_	Word	Word	_	73	A	73:A	_
+75	High	_	Word	Word	_	74	Terminal	74:Terminal	_
+76	School	_	Word	Word	_	74	Terminal	74:Terminal	_
+77	,	_	Punctuation	Punctuation	_	74	U	74:U	_
+78	where	_	Word	Word	_	82	R	82:R	_
+79	he	_	Word	Word	_	82	A	82:A	_
+80	was	_	Word	Word	_	82	F	82:F	_
+81	a	_	Word	Word	_	82	E	82:E	_
+82	member	_	Word	Word	_	74	E	74:E	_
+83	of	_	Word	Word	_	92	R	92:R	_
+84	the	_	Word	Word	_	92	F	92:F	_
+85	golf	_	Word	Word	_	92	A	92:A	_
+86	,	_	Punctuation	Punctuation	_	85	U	85:U	_
+87	tennis	_	Word	Word	_	85	C	85:C	_
+88	,	_	Punctuation	Punctuation	_	85	U	85:U	_
+89	wrestling	_	Word	Word	_	85	C	85:C	_
+90	and	_	Word	Word	_	85	N	85:N	_
+91	swimming	_	Word	Word	_	85	C	85:C	_
+92	teams	_	Word	Word	_	82	A	82:A	_
+93	.	_	Punctuation	Punctuation	_	92	U	92:U	_
 

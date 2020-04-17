@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 561011
-# text = The others would centrally define the evolving sound of rock and roll : " Blue Suede Shoes " - " an improvement over Perkins ' in almost every way " , according to critic Robert Hilburnâand three R & B numbers that had been part of Presley 's stage repertoire for some time , covers of Little Richard , Ray Charles , and The Drifters .
+# text = The others would centrally define the evolving sound of rock and roll : " Blue Suede Shoes " - " an improvement over Perkins ' in almost every way " , according to critic Robert Hilburn and three R & B numbers that had been part of Presley 's stage repertoire for some time , covers of Little Richard , Ray Charles , and The Drifters .
 1	The	_	Word	Word	_	2	E	2:E	_
 2	others	_	Word	Word	_	5	A	5:A	_
 3	would	_	Word	Word	_	5	D	5:D	_
@@ -36,35 +36,36 @@
 33	to	_	Word	Word	_	32	Terminal	32:Terminal	_
 34	critic	_	Word	Word	_	35	E	35:E	_
 35	Robert	_	Word	Word	_	32	A	32:A	_
-36	Hilburnâand	_	Word	Word	_	35	Terminal	35:Terminal	_
-37	three	_	Word	Word	_	41	Q	41:Q	_
-38	R	_	Word	Word	_	41	E	41:E	_
-39	&	_	Word	Word	_	38	Terminal	38:Terminal	_
-40	B	_	Word	Word	_	38	Terminal	38:Terminal	_
-41	numbers	_	Word	Word	_	15	C	15:C	_
-42	that	_	Word	Word	_	45	R	45:R	_
-43	had	_	Word	Word	_	45	F	45:F	_
-44	been	_	Word	Word	_	45	F	45:F	_
-45	part	_	Word	Word	_	41	E	41:E	_
-46	of	_	Word	Word	_	50	R	50:R	_
-47	Presley	_	Word	Word	_	48	A	48:A	_
-48	's	_	Word	Word	_	50	E	50:E	_
-49	stage	_	Word	Word	_	50	E	50:E	_
-50	repertoire	_	Word	Word	_	45	A	45:A	_
-51	for	_	Word	Word	_	53	R	53:R	_
-52	some	_	Word	Word	_	53	E	53:E	_
-53	time	_	Word	Word	_	45	T	45:T	_
-54	,	_	Punctuation	Punctuation	_	41	U	41:U	_
-55	covers	_	Word	Word	_	41	E	41:E	_
-56	of	_	Word	Word	_	57	R	57:R	_
-57	Little	_	Word	Word	_	55	E	55:E	_
-58	Richard	_	Word	Word	_	57	Terminal	57:Terminal	_
-59	,	_	Punctuation	Punctuation	_	57	U	57:U	_
-60	Ray	_	Word	Word	_	57	C	57:C	_
-61	Charles	_	Word	Word	_	60	Terminal	60:Terminal	_
-62	,	_	Punctuation	Punctuation	_	57	U	57:U	_
-63	and	_	Word	Word	_	57	N	57:N	_
-64	The	_	Word	Word	_	57	C	57:C	_
-65	Drifters	_	Word	Word	_	64	Terminal	64:Terminal	_
-66	.	_	Punctuation	Punctuation	_	57	U	57:U	_
+36	Hilburn	_	Word	Word	_	35	Terminal	35:Terminal	_
+37	and	_	Word	Word	_	15	N	15:N	_
+38	three	_	Word	Word	_	42	Q	42:Q	_
+39	R	_	Word	Word	_	42	E	42:E	_
+40	&	_	Word	Word	_	39	Terminal	39:Terminal	_
+41	B	_	Word	Word	_	39	Terminal	39:Terminal	_
+42	numbers	_	Word	Word	_	15	C	15:C	_
+43	that	_	Word	Word	_	46	R	46:R	_
+44	had	_	Word	Word	_	46	F	46:F	_
+45	been	_	Word	Word	_	46	F	46:F	_
+46	part	_	Word	Word	_	42	E	42:E	_
+47	of	_	Word	Word	_	51	R	51:R	_
+48	Presley	_	Word	Word	_	49	A	49:A	_
+49	's	_	Word	Word	_	51	E	51:E	_
+50	stage	_	Word	Word	_	51	E	51:E	_
+51	repertoire	_	Word	Word	_	46	A	46:A	_
+52	for	_	Word	Word	_	54	R	54:R	_
+53	some	_	Word	Word	_	54	E	54:E	_
+54	time	_	Word	Word	_	46	T	46:T	_
+55	,	_	Punctuation	Punctuation	_	42	U	42:U	_
+56	covers	_	Word	Word	_	42	E	42:E	_
+57	of	_	Word	Word	_	58	R	58:R	_
+58	Little	_	Word	Word	_	56	E	56:E	_
+59	Richard	_	Word	Word	_	58	Terminal	58:Terminal	_
+60	,	_	Punctuation	Punctuation	_	58	U	58:U	_
+61	Ray	_	Word	Word	_	58	C	58:C	_
+62	Charles	_	Word	Word	_	61	Terminal	61:Terminal	_
+63	,	_	Punctuation	Punctuation	_	58	U	58:U	_
+64	and	_	Word	Word	_	58	N	58:N	_
+65	The	_	Word	Word	_	58	C	58:C	_
+66	Drifters	_	Word	Word	_	65	Terminal	65:Terminal	_
+67	.	_	Punctuation	Punctuation	_	58	U	58:U	_
 

@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 143001
-# text = She did not work for two years , saying in a television interview , " I 've had my day â let the kids scramble and sweat it out . "
+# text = She did not work for two years , saying in a television interview , " I 've had my day - let the kids scramble and sweat it out . "
 1	She	_	Word	Word	_	4	A	4:A|9:A	_
 2	did	_	Word	Word	_	4	F	4:F	_
 3	not	_	Word	Word	_	4	D	4:D	_
@@ -21,7 +21,7 @@
 18	had	_	Word	Word	_	9	A	9:A	_
 19	my	_	Word	Word	_	20	E	20:E	_
 20	day	_	Word	Word	_	18	A	18:A	_
-21	â	_	Punctuation	Punctuation	_	9	U	9:U	_
+21	-	_	Punctuation	Punctuation	_	9	U	9:U	_
 22	let	_	Word	Word	_	25	F	25:F	_
 23	the	_	Word	Word	_	24	E	24:E	_
 24	kids	_	Word	Word	_	25	A	25:A|27:A	_

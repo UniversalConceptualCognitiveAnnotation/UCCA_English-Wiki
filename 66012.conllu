@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 66012
-# text = She graduated from high school and returned to theater studies , though in recent times she has referred to this period with the observation , " I am still at heart \u2014 and always will be \u2014 just a punk kid with tattoos . "
+# text = She graduated from high school and returned to theater studies , though in recent times she has referred to this period with the observation , " I am still at heart - and always will be - just a punk kid with tattoos . "
 1	She	_	Word	Word	_	2	A	2:A|10:A	_
 2	graduated	_	Word	Word	_	0	H	0:H	_
 3	from	_	Word	Word	_	5	R	5:R	_
@@ -32,12 +32,12 @@
 29	still	_	Word	Word	_	28	D	28:D	_
 30	at	_	Word	Word	_	28	D	28:D	_
 31	heart	_	Word	Word	_	30	Terminal	30:Terminal	_
-32	\u2014	_	Punctuation	Punctuation	_	28	U	28:U	_
+32	-	_	Punctuation	Punctuation	_	28	U	28:U	_
 33	and	_	Word	Word	_	36	L	36:L	_
 34	always	_	Word	Word	_	36	D	36:D	_
 35	will	_	Word	Word	_	36	F	36:F	_
 36	be	_	Word	Word	_	28	H	28:H	_
-37	\u2014	_	Punctuation	Punctuation	_	28	U	28:U	_
+37	-	_	Punctuation	Punctuation	_	28	U	28:U	_
 38	just	_	Word	Word	_	28	D	28:D	_
 39	a	_	Word	Word	_	41	F	41:F	_
 40	punk	_	Word	Word	_	41	E	41:E	_

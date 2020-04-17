@@ -1,6 +1,6 @@
 # format = ucca
 # sent_id = 669008
-# text = However , while smaller productions were booked throughout the tour 's stateside leg , Carey performed at stadiums in Asia and Europe , performing for a crowd of over , 000 35 35 , in Manila , 50 , 000 in Malaysia , and to over 70 , 000 people in China .
+# text = However , while smaller productions were booked throughout the tour 's stateside leg , Carey performed at stadiums in Asia and Europe , performing for a crowd of over , 35,000 , in Manila , 50,000 in Malaysia , and to over 70,000 people in China .
 1	However	_	Word	Word	_	16	L	16:L	_
 2	,	_	Punctuation	Punctuation	_	1	U	1:U	_
 3	while	_	Word	Word	_	1	Terminal	1:Terminal	_
@@ -31,27 +31,21 @@
 28	of	_	Word	Word	_	27	R	27:R	_
 29	over	_	Word	Word	_	31	R	31:R	_
 30	,	_	Punctuation	Punctuation	_	31	U	31:U	_
-31	000	_	Word	Word	_	27	E	27:E	_
-32	35	_	Word	Word	_	31	Terminal	31:Terminal	_
-33	35	_	Word	Word	_	31	Terminal	31:Terminal	_
-34	,	_	Punctuation	Punctuation	_	31	U	31:U	_
-35	in	_	Word	Word	_	36	R	36:R	_
-36	Manila	_	Word	Word	_	31	E	31:E	_
-37	,	_	Punctuation	Punctuation	_	31	U	31:U	_
-38	50	_	Word	Word	_	31	C	31:C	_
-39	,	_	Punctuation	Punctuation	_	38	U	38:U	_
-40	000	_	Word	Word	_	38	Terminal	38:Terminal	_
-41	in	_	Word	Word	_	42	R	42:R	_
-42	Malaysia	_	Word	Word	_	38	E	38:E	_
-43	,	_	Punctuation	Punctuation	_	31	U	31:U	_
-44	and	_	Word	Word	_	31	N	31:N	_
-45	to	_	Word	Word	_	50	R	50:R	_
-46	over	_	Word	Word	_	50	E	50:E	_
-47	70	_	Word	Word	_	50	E	50:E	_
-48	,	_	Punctuation	Punctuation	_	47	U	47:U	_
-49	000	_	Word	Word	_	47	Terminal	47:Terminal	_
-50	people	_	Word	Word	_	31	C	31:C	_
-51	in	_	Word	Word	_	52	R	52:R	_
-52	China	_	Word	Word	_	50	E	50:E	_
-53	.	_	Punctuation	Punctuation	_	52	U	52:U	_
+31	35,000	_	Word	Word	_	27	E	27:E	_
+32	,	_	Punctuation	Punctuation	_	31	U	31:U	_
+33	in	_	Word	Word	_	34	R	34:R	_
+34	Manila	_	Word	Word	_	31	E	31:E	_
+35	,	_	Punctuation	Punctuation	_	31	U	31:U	_
+36	50,000	_	Word	Word	_	31	C	31:C	_
+37	in	_	Word	Word	_	38	R	38:R	_
+38	Malaysia	_	Word	Word	_	36	E	36:E	_
+39	,	_	Punctuation	Punctuation	_	31	U	31:U	_
+40	and	_	Word	Word	_	31	N	31:N	_
+41	to	_	Word	Word	_	44	R	44:R	_
+42	over	_	Word	Word	_	44	E	44:E	_
+43	70,000	_	Word	Word	_	44	E	44:E	_
+44	people	_	Word	Word	_	31	C	31:C	_
+45	in	_	Word	Word	_	46	R	46:R	_
+46	China	_	Word	Word	_	44	E	44:E	_
+47	.	_	Punctuation	Punctuation	_	46	U	46:U	_
 

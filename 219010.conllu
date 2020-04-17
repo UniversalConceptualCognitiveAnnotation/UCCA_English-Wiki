@@ -1,7 +1,7 @@
 # format = ucca
 # sent_id = 219010
-# text = Dunst is due to appear in Juan Diego Solanas ' science fiction - romance film Upside Down co - co - starring Jim Sturgess .
-1	Dunst	_	Word	Word	_	5	A	5:A|22:A	_
+# text = Dunst is due to appear in Juan Diego Solanas ' science fiction - romance film Upside Down co - starring Jim Sturgess .
+1	Dunst	_	Word	Word	_	5	A	5:A|20:A	_
 2	is	_	Word	Word	_	5	F	5:F	_
 3	due	_	Word	Word	_	5	D	5:D	_
 4	to	_	Word	Word	_	5	F	5:F	_
@@ -18,12 +18,10 @@
 15	film	_	Word	Word	_	16	E	16:E	_
 16	Upside	_	Word	Word	_	5	A	5:A	_
 17	Down	_	Word	Word	_	16	Terminal	16:Terminal	_
-18	co	_	Word	Word	_	22	F	22:F	_
-19	-	_	Punctuation	Punctuation	_	22	U	22:U	_
-20	co	_	Word	Word	_	22	D	22:D	_
-21	-	_	Punctuation	Punctuation	_	22	U	22:U	_
-22	starring	_	Word	Word	_	5	H	5:H	_
-23	Jim	_	Word	Word	_	22	A	22:A	_
-24	Sturgess	_	Word	Word	_	23	Terminal	23:Terminal	_
-25	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+18	co	_	Word	Word	_	20	D	20:D	_
+19	-	_	Punctuation	Punctuation	_	20	U	20:U	_
+20	starring	_	Word	Word	_	5	H	5:H	_
+21	Jim	_	Word	Word	_	20	A	20:A	_
+22	Sturgess	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	.	_	Punctuation	Punctuation	_	20	U	20:U	_
 
