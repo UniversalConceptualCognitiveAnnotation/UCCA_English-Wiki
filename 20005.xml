@@ -1,5 +1,5 @@
 <root annotationID="0" passageID="20005">
-  <attributes annotationID="5324" passageID="1645" remarks="20" userID="26" />
+  <attributes annotationID="9015" passageID="2639" remarks="20" userID="1" />
   <layer layerID="0">
     <attributes />
     <extra doc="[[]]" />
@@ -119,7 +119,7 @@
     </node>
     <node ID="1.4" type="FN">
       <attributes />
-      <extra remarks="?" tree_id="22" />
+      <extra tree_id="22" />
       <edge toID="1.7" type="A">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="A" />
@@ -239,7 +239,7 @@
     </node>
     <node ID="1.16" type="FN">
       <attributes />
-      <extra remarks="&quot;He&quot; shouldn't appear as a regular token but as a Remote" tree_id="21-3" />
+      <extra tree_id="21-3" />
       <edge toID="0.9" type="Terminal">
         <attributes />
         <category tag="Terminal" />
