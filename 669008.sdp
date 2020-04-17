@@ -1,55 +1,49 @@
 # format = ucca
-1	However	_	Word	-	+	_	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-2	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-3	while	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-4	smaller	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-5	productions	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-6	were	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-7	booked	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-8	throughout	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_
-9	the	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-10	tour	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-11	's	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_	_
-12	stateside	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_
-13	leg	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-14	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-15	Carey	_	Word	-	-	_	_	_	_	_	_	A	_	_	A*	_	_	_	_	_	_	_	_
-16	performed	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-17	at	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_
-18	stadiums	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_
-19	in	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_
-20	Asia	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_
-21	and	_	Word	-	-	_	_	_	_	_	_	_	_	N	_	_	_	_	_	_	_	_	_
-22	Europe	_	Word	-	-	_	_	_	_	_	_	_	_	C	_	_	_	_	_	_	_	_	_
-23	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-24	performing	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_	_
-25	for	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_
-26	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-27	crowd	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_
-28	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_
-29	over	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_
-30	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_
-31	000	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_
-32	35	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
-33	35	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
-34	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_
-35	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
-36	Manila	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
-37	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_
-38	50	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	C	_	_	_	_	_	_
-39	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_
-40	000	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_	_
-41	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_
-42	Malaysia	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_
-43	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_	_
-44	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	N	_	_	_	_	_	_
-45	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
-46	over	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-47	70	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-48	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U	_	_
-49	000	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
-50	people	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	C	_	_	_	_	_	_
-51	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
-52	China	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
-53	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+1	However	_	Word	-	+	_	_	_	L	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	while	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	smaller	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	productions	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	were	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	booked	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	throughout	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_
+9	the	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+10	tour	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+11	's	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_	_	_	_	_
+12	stateside	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_	_	_
+13	leg	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	Carey	_	Word	-	-	_	_	_	_	_	_	A	_	_	A*	_	_	_	_	_	_	_
+16	performed	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	at	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_	_
+18	stadiums	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+19	in	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_	_	_
+20	Asia	_	Word	-	+	_	_	_	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+21	and	_	Word	-	-	_	_	_	_	_	_	_	_	N	_	_	_	_	_	_	_	_
+22	Europe	_	Word	-	-	_	_	_	_	_	_	_	_	C	_	_	_	_	_	_	_	_
+23	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	performing	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	for	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_
+26	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
+27	crowd	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+28	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_	_
+29	over	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_	_
+30	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_
+31	35,000	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_	_
+32	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_
+33	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_	_	_
+34	Manila	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+35	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_
+36	50,000	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	C	_	_	_	_	_
+37	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_	_
+38	Malaysia	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+39	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U	_	_	_	_	_
+40	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	N	_	_	_	_	_
+41	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R	_
+42	over	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+43	70,000	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+44	people	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	C	_	_	_	_	_
+45	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+46	China	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+47	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	U
 
