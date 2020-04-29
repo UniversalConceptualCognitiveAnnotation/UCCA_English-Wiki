@@ -1,0 +1,41 @@
+#BOS 554010
+Gladys	Word	--	Terminal	500
+was	Word	--	Terminal	501
+regarded	Word	--	Terminal	502
+by	Word	--	Terminal	503
+relatives	Word	--	Terminal	504
+and	Word	--	Terminal	505
+friends	Word	--	Terminal	506
+as	Word	--	Terminal	507
+the	Word	--	Terminal	508
+dominant	Word	--	Terminal	509
+member	Word	--	Terminal	510
+of	Word	--	Terminal	511
+the	Word	--	Terminal	512
+small	Word	--	Terminal	513
+family	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	A	521
+#501	FN	--	F	521
+#502	FN	--	P	521
+#503	FN	--	R	516	R*	517
+#504	FN	--	A	516
+#505	FN	--	L	518
+#506	FN	--	A	517
+#507	FN	--	R	520
+#508	FN	--	F	520
+#509	FN	--	D	520
+#510	FN	--	A	520
+#511	FN	--	R	519
+#512	FN	--	F	519
+#513	FN	--	D	519
+#514	FN	--	A	519
+#515	PNCT	--	U	519
+#516	FN	--	H	518
+#517	FN	--	H	518
+#518	FN	--	A	521
+#519	FN	--	A	520
+#520	FN	--	A	521
+#521	FN	--	H	522
+#522	FN	--	--	0
+#EOS 554010

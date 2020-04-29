@@ -1,0 +1,34 @@
+#BOS 699005
+ABC	Word	--	Terminal	500
+Television	Word	--	Terminal	500
+had	Word	--	Terminal	501
+paid	Word	--	Terminal	502
+an	Word	--	Terminal	503
+advance	Word	--	Terminal	504
+for	Word	--	Terminal	505
+a	Word	--	Terminal	506
+TV	Word	--	Terminal	507
+show	Word	--	Terminal	508
+they	Word	--	Terminal	509
+could	Word	--	Terminal	510
+screen	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	A	516
+#501	FN	--	F	516
+#502	FN	--	P	516
+#503	FN	--	E	513
+#504	FN	--	C	513
+#505	FN	--	R	515
+#506	FN	--	E	515
+#507	FN	--	E	515
+#508	FN	--	C	515	A*	514
+#509	FN	--	A	514
+#510	FN	--	D	514
+#511	FN	--	P	514
+#512	PNCT	--	U	514
+#513	FN	--	A	516
+#514	FN	--	E	515
+#515	FN	--	A	516
+#516	FN	--	H	517
+#517	FN	--	--	0
+#EOS 699005

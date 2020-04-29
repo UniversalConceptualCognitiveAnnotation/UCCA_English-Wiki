@@ -1,0 +1,37 @@
+#BOS 502002
+He	Word	--	Terminal	500
+took	Word	--	Terminal	501
+up	Word	--	Terminal	501
+painting	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+and	Word	--	Terminal	504
+produced	Word	--	Terminal	505
+a	Word	--	Terminal	506
+number	Word	--	Terminal	507
+of	Word	--	Terminal	508
+post	Word	--	Terminal	509
+-	Punctuation	--	Terminal	510
+modernist	Word	--	Terminal	511
+pieces	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	A	514	A*	518
+#501	FN	--	D	514
+#502	FN	--	P	514
+#503	PNCT	--	U	519
+#504	FN	--	L	519
+#505	FN	--	P	518
+#506	FN	--	E	515
+#507	FN	--	C	515
+#508	FN	--	R	517
+#509	FN	--	E	516
+#510	PNCT	--	U	516
+#511	FN	--	C	516
+#512	FN	--	C	517
+#513	PNCT	--	U	517
+#514	FN	--	H	519
+#515	FN	--	Q	517
+#516	FN	--	E	517
+#517	FN	--	A	518
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 502002

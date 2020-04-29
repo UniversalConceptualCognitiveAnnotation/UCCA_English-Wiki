@@ -1,0 +1,67 @@
+#BOS 661006
+On	Word	--	Terminal	500
+September	Word	--	Terminal	501
+17	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+1991	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+Emotions	Word	--	Terminal	506
+was	Word	--	Terminal	507
+released	Word	--	Terminal	508
+around	Word	--	Terminal	509
+the	Word	--	Terminal	510
+world	Word	--	Terminal	511
+,	Punctuation	--	Terminal	512
+and	Word	--	Terminal	513
+was	Word	--	Terminal	514
+accepted	Word	--	Terminal	515
+by	Word	--	Terminal	516
+critics	Word	--	Terminal	517
+as	Word	--	Terminal	518
+a	Word	--	Terminal	519
+more	Word	--	Terminal	520
+mature	Word	--	Terminal	521
+album	Word	--	Terminal	522
+than	Word	--	Terminal	523
+its	Word	--	Terminal	524
+predecessor	Word	--	Terminal	525
+.	Punctuation	--	Terminal	526
+#500	FN	--	R	527
+#501	FN	--	C	527
+#502	FN	--	C	527
+#503	PNCT	--	U	527
+#504	FN	--	C	527
+#505	PNCT	--	U	532
+#506	FN	--	A	532	A*	536
+#507	FN	--	F	532
+#508	FN	--	P	532
+#509	FN	--	R	528
+#510	FN	--	F	528
+#511	FN	--	C	528
+#512	PNCT	--	U	537
+#513	FN	--	L	537
+#514	FN	--	F	536
+#515	FN	--	P	536
+#516	FN	--	R	529
+#517	FN	--	A	529
+#518	FN	--	R	535
+#519	FN	--	F	535
+#520	FN	--	D	530
+#521	FN	--	S	530	S*	533
+#522	FN	--	C	535	A*	530
+#523	FN	--	L	534
+#524	FN	--	E	531
+#525	FN	--	C	531
+#526	PNCT	--	U	531
+#527	FN	--	T	532
+#528	FN	--	A	532
+#529	FN	--	A	536
+#530	FN	--	H	534
+#531	FN	--	A	533
+#532	FN	--	H	537
+#533	FN	--	H	534
+#534	FN	--	E	535
+#535	FN	--	A	536
+#536	FN	--	H	537
+#537	FN	--	--	0
+#EOS 661006

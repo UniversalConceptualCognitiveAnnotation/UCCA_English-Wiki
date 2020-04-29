@@ -1,0 +1,44 @@
+#BOS 123004
+She	Word	--	Terminal	500
+shied	Word	--	Terminal	501
+away	Word	--	Terminal	501
+from	Word	--	Terminal	502
+other	Word	--	Terminal	503
+children	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+dropped	Word	--	Terminal	506
+out	Word	--	Terminal	506
+of	Word	--	Terminal	507
+Oxford	Word	--	Terminal	508
+School	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+and	Word	--	Terminal	511
+began	Word	--	Terminal	512
+receiving	Word	--	Terminal	513
+private	Word	--	Terminal	514
+tutoring	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	A	520	A*	521	A*	517
+#501	FN	--	P	520
+#502	FN	--	R	518
+#503	FN	--	E	518
+#504	FN	--	C	518
+#505	PNCT	--	U	522
+#506	FN	--	P	521
+#507	FN	--	R	519
+#508	FN	--	C	519
+#509	FN	--	E	519
+#510	PNCT	--	U	522
+#511	FN	--	L	522
+#512	FN	--	D	517
+#513	FN	--	D	517
+#514	FN	--	D	517
+#515	FN	--	P	517
+#516	PNCT	--	U	517
+#517	FN	--	H	522
+#518	FN	--	A	520
+#519	FN	--	A	521
+#520	FN	--	H	522
+#521	FN	--	H	522
+#522	FN	--	--	0
+#EOS 123004

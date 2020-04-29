@@ -1,0 +1,23 @@
+#BOS 652002
+Ono	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+meanwhile	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+was	Word	--	Terminal	504
+granted	Word	--	Terminal	505
+permanent	Word	--	Terminal	506
+residence	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	FN	--	A	510
+#501	PNCT	--	U	511
+#502	FN	--	L	511
+#503	PNCT	--	U	511
+#504	FN	--	F	510
+#505	FN	--	P	510
+#506	FN	--	E	509
+#507	FN	--	C	509
+#508	PNCT	--	U	509
+#509	FN	--	A	510
+#510	FN	--	H	511
+#511	FN	--	--	0
+#EOS 652002

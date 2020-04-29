@@ -1,0 +1,51 @@
+#BOS 130012
+Industry	Word	--	Terminal	500
+pundits	Word	--	Terminal	501
+blamed	Word	--	Terminal	502
+Hepburn	Word	--	Terminal	503
+for	Word	--	Terminal	504
+the	Word	--	Terminal	505
+small	Word	--	Terminal	506
+profit	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+but	Word	--	Terminal	509
+the	Word	--	Terminal	510
+studio	Word	--	Terminal	511
+continued	Word	--	Terminal	512
+its	Word	--	Terminal	513
+commitment	Word	--	Terminal	514
+to	Word	--	Terminal	515
+resurrecting	Word	--	Terminal	516
+her	Word	--	Terminal	517
+popularity	Word	--	Terminal	518
+.	Punctuation	--	Terminal	519
+#500	FN	--	A	520
+#501	FN	--	A	520
+#502	FN	--	P	525
+#503	FN	--	A	525
+#504	FN	--	R	522
+#505	FN	--	F	522
+#506	FN	--	S	521
+#507	FN	--	C	522	A*	521
+#508	PNCT	--	U	528
+#509	FN	--	L	528
+#510	FN	--	F	523
+#511	FN	--	C	523	A*	526
+#512	FN	--	D	527
+#513	FN	--	F	527
+#514	FN	--	P	527
+#515	FN	--	R	526
+#516	FN	--	P	526
+#517	FN	--	A	524
+#518	FN	--	S	524
+#519	PNCT	--	U	524
+#520	FN	--	A	525
+#521	FN	--	E	522
+#522	FN	--	A	525
+#523	FN	--	A	527
+#524	FN	--	A	526
+#525	FN	--	H	528
+#526	FN	--	A	527
+#527	FN	--	H	528
+#528	FN	--	--	0
+#EOS 130012

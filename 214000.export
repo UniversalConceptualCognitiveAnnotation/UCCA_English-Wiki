@@ -1,0 +1,51 @@
+#BOS 214000
+Until	Word	--	Terminal	500
+the	Word	--	Terminal	501
+age	Word	--	Terminal	502
+of	Word	--	Terminal	503
+eight	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+Dunst	Word	--	Terminal	506
+lived	Word	--	Terminal	507
+in	Word	--	Terminal	508
+Brick	Word	--	Terminal	509
+Township	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+New	Word	--	Terminal	511
+Jersey	Word	--	Terminal	511
+,	Punctuation	--	Terminal	512
+where	Word	--	Terminal	513
+she	Word	--	Terminal	514
+attended	Word	--	Terminal	515
+Ranney	Word	--	Terminal	516
+School	Word	--	Terminal	517
+.	Punctuation	--	Terminal	518
+#500	FN	--	L	527
+#501	FN	--	F	519
+#502	FN	--	C	519
+#503	FN	--	R	520
+#504	FN	--	C	520
+#505	PNCT	--	U	521
+#506	FN	--	A	526	A*	521
+#507	FN	--	P	526
+#508	FN	--	R	525
+#509	FN	--	C	522
+#510	PNCT	--	U	522
+#511	FN	--	C	522
+#512	PNCT	--	U	525
+#513	FN	--	R	524
+#514	FN	--	A	524
+#515	FN	--	P	524
+#516	FN	--	E	523
+#517	FN	--	C	523
+#518	PNCT	--	U	523
+#519	FN	--	S	521
+#520	FN	--	D	521
+#521	FN	--	H	527
+#522	FN	--	C	525	A*	524
+#523	FN	--	A	524
+#524	FN	--	E	525
+#525	FN	--	A	526
+#526	FN	--	H	527
+#527	FN	--	--	0
+#EOS 214000

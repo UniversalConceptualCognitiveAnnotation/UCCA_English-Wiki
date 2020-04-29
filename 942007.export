@@ -1,0 +1,37 @@
+#BOS 942007
+In	Word	--	Terminal	500
+2003	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+she	Word	--	Terminal	503
+debuted	Word	--	Terminal	504
+her	Word	--	Terminal	505
+clothing	Word	--	Terminal	506
+line	Word	--	Terminal	507
+L	Word	--	Terminal	511
+.	Punctuation	--	Terminal	508
+A	Word	--	Terminal	511
+.	Punctuation	--	Terminal	509
+M	Word	--	Terminal	511
+.	Punctuation	--	Terminal	510
+B	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	R	513
+#501	FN	--	C	513
+#502	PNCT	--	U	517
+#503	FN	--	A	517
+#504	FN	--	P	517
+#505	FN	--	S	514
+#506	FN	--	E	515
+#507	FN	--	C	515	A*	514
+#508	PNCT	--	U	511
+#509	PNCT	--	U	511
+#510	PNCT	--	U	511
+#511	FN	--	C	516
+#512	PNCT	--	U	516
+#513	FN	--	T	517
+#514	FN	--	E	515
+#515	FN	--	E	516
+#516	FN	--	A	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 942007

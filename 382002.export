@@ -1,0 +1,45 @@
+#BOS 382002
+After	Word	--	Terminal	500
+filming	Word	--	Terminal	501
+The	Word	--	Terminal	502
+Day	Word	--	Terminal	502
+After	Word	--	Terminal	502
+Tomorrow	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+he	Word	--	Terminal	504
+flew	Word	--	Terminal	505
+to	Word	--	Terminal	506
+the	Word	--	Terminal	507
+Arctic	Word	--	Terminal	508
+to	Word	--	Terminal	509
+promote	Word	--	Terminal	510
+awareness	Word	--	Terminal	511
+of	Word	--	Terminal	512
+climate	Word	--	Terminal	513
+change	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	L	523
+#501	FN	--	P	516
+#502	FN	--	A	516
+#503	PNCT	--	U	516
+#504	FN	--	A	519	A*	516	A*	522
+#505	FN	--	P	519
+#506	FN	--	R	517
+#507	FN	--	F	517
+#508	FN	--	C	517
+#509	FN	--	L	523
+#510	FN	--	P	522
+#511	FN	--	S	521
+#512	FN	--	R	518
+#513	FN	--	A	518
+#514	FN	--	P	518
+#515	PNCT	--	U	518
+#516	FN	--	H	523
+#517	FN	--	A	519
+#518	FN	--	A	521
+#519	FN	--	H	523
+#520	FN	--	A	521
+#521	FN	--	A	522
+#522	FN	--	H	523
+#523	FN	--	--	0
+#EOS 382002

@@ -1,0 +1,28 @@
+#BOS 1026019
+Responding	Word	--	Terminal	500
+to	Word	--	Terminal	501
+the	Word	--	Terminal	502
+gossip	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+Jackson	Word	--	Terminal	505
+remarked	Word	--	Terminal	506
+to	Word	--	Terminal	507
+Taraborrelli	Word	--	Terminal	508
+:	Punctuation	--	Terminal	509
+#500	FN	--	P	514
+#501	FN	--	R	512
+#502	FN	--	E	510
+#503	FN	--	C	510
+#504	PNCT	--	U	514
+#505	FN	--	A	513	A*	514
+#506	FN	--	P	513
+#507	FN	--	R	511
+#508	FN	--	C	511
+#509	PNCT	--	U	511
+#510	FN	--	P	512
+#511	FN	--	A	513
+#512	FN	--	A	514
+#513	FN	--	H	515
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 1026019

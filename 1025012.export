@@ -1,0 +1,49 @@
+#BOS 1025012
+He	Word	--	Terminal	500
+also	Word	--	Terminal	501
+agreed	Word	--	Terminal	502
+to	Word	--	Terminal	503
+visit	Word	--	Terminal	504
+Holmes	Word	--	Terminal	505
+à	Word	--	Terminal	505
+Court	Word	--	Terminal	505
+in	Word	--	Terminal	506
+Australia	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+where	Word	--	Terminal	509
+he	Word	--	Terminal	510
+would	Word	--	Terminal	511
+appear	Word	--	Terminal	512
+on	Word	--	Terminal	513
+the	Word	--	Terminal	514
+Channel	Word	--	Terminal	515
+Seven	Word	--	Terminal	515
+Perth	Word	--	Terminal	516
+Telethon	Word	--	Terminal	517
+.	Punctuation	--	Terminal	518
+#500	FN	--	A	523	A*	522
+#501	FN	--	D	523
+#502	FN	--	P	523
+#503	FN	--	F	522
+#504	FN	--	P	522
+#505	FN	--	A	522
+#506	FN	--	R	521
+#507	FN	--	C	521	A*	520
+#508	PNCT	--	U	521
+#509	FN	--	R	520
+#510	FN	--	A	520
+#511	FN	--	D	520
+#512	FN	--	P	520
+#513	FN	--	R	519
+#514	FN	--	F	519
+#515	FN	--	A	519
+#516	FN	--	A	519
+#517	FN	--	P	519
+#518	PNCT	--	U	519
+#519	FN	--	A	520
+#520	FN	--	E	521
+#521	FN	--	A	522
+#522	FN	--	A	523
+#523	FN	--	H	524
+#524	FN	--	--	0
+#EOS 1025012

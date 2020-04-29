@@ -1,0 +1,30 @@
+#BOS 146011
+She	Word	--	Terminal	500
+insisted	Word	--	Terminal	501
+that	Word	--	Terminal	502
+the	Word	--	Terminal	503
+claims	Word	--	Terminal	504
+made	Word	--	Terminal	505
+about	Word	--	Terminal	506
+her	Word	--	Terminal	507
+were	Word	--	Terminal	508
+untrue	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	FN	--	A	515
+#501	FN	--	P	515
+#502	FN	--	R	514
+#503	FN	--	F	511
+#504	FN	--	C	511
+#505	FN	--	F	513
+#506	FN	--	R	512
+#507	FN	--	C	512
+#508	FN	--	F	514
+#509	FN	--	S	514
+#510	PNCT	--	U	514
+#511	FN	--	P	513
+#512	FN	--	A	513
+#513	FN	--	A	514
+#514	FN	--	A	515
+#515	FN	--	H	516
+#516	FN	--	--	0
+#EOS 146011

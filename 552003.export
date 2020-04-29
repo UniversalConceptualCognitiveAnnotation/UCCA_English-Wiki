@@ -1,0 +1,53 @@
+#BOS 552003
+During	Word	--	Terminal	500
+the	Word	--	Terminal	501
+next	Word	--	Terminal	502
+several	Word	--	Terminal	503
+years	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+he	Word	--	Terminal	506
+gradually	Word	--	Terminal	507
+lost	Word	--	Terminal	508
+the	Word	--	Terminal	509
+ability	Word	--	Terminal	510
+to	Word	--	Terminal	511
+speak	Word	--	Terminal	512
+and	Word	--	Terminal	513
+became	Word	--	Terminal	514
+unresponsive	Word	--	Terminal	515
+to	Word	--	Terminal	516
+friends	Word	--	Terminal	517
+and	Word	--	Terminal	518
+relatives	Word	--	Terminal	519
+.	Punctuation	--	Terminal	520
+#500	FN	--	R	521
+#501	FN	--	F	521
+#502	FN	--	E	521
+#503	FN	--	Q	521
+#504	FN	--	C	521
+#505	PNCT	--	U	526
+#506	FN	--	A	526	A*	528	A*	522	A*	523	A*	524
+#507	FN	--	E	525
+#508	FN	--	C	525
+#509	FN	--	F	526
+#510	FN	--	S	526
+#511	FN	--	F	524
+#512	FN	--	P	524
+#513	FN	--	L	529
+#514	FN	--	D	528
+#515	FN	--	P	528
+#516	FN	--	R	522	R*	523
+#517	FN	--	S	522
+#518	FN	--	L	527
+#519	FN	--	S	523
+#520	PNCT	--	U	523
+#521	FN	--	T	526
+#522	FN	--	H	527
+#523	FN	--	H	527
+#524	FN	--	A	526
+#525	FN	--	D	526
+#526	FN	--	H	529
+#527	FN	--	A	528
+#528	FN	--	H	529
+#529	FN	--	--	0
+#EOS 552003

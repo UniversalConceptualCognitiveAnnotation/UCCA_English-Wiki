@@ -1,0 +1,48 @@
+#BOS 673003
+She	Word	--	Terminal	500
+later	Word	--	Terminal	501
+apologized	Word	--	Terminal	502
+on	Word	--	Terminal	503
+The	Word	--	Terminal	504
+Today	Word	--	Terminal	504
+Show	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+explaining	Word	--	Terminal	506
+how	Word	--	Terminal	507
+she	Word	--	Terminal	508
+did	Word	--	Terminal	509
+her	Word	--	Terminal	510
+best	Word	--	Terminal	511
+effort	Word	--	Terminal	512
+despite	Word	--	Terminal	513
+the	Word	--	Terminal	514
+circumstances	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	A	521	A*	525
+#501	FN	--	T	521
+#502	FN	--	P	521
+#503	FN	--	R	517
+#504	FN	--	P	517
+#505	PNCT	--	U	526
+#506	FN	--	P	525
+#507	FN	--	C	524	D*	519
+#508	FN	--	A	519
+#509	FN	--	F	518
+#510	FN	--	A	519
+#511	FN	--	D	519
+#512	FN	--	C	518
+#513	FN	--	L	523
+#514	FN	--	E	520
+#515	FN	--	C	520
+#516	PNCT	--	U	520
+#517	FN	--	A	521
+#518	FN	--	P	519
+#519	FN	--	H	523
+#520	FN	--	S	522
+#521	FN	--	H	526
+#522	FN	--	H	523
+#523	FN	--	E	524
+#524	FN	--	A	525
+#525	FN	--	H	526
+#526	FN	--	--	0
+#EOS 673003

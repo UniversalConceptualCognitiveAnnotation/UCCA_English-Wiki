@@ -1,0 +1,52 @@
+#BOS 671019
+Carey	Word	--	Terminal	500
+has	Word	--	Terminal	501
+also	Word	--	Terminal	502
+had	Word	--	Terminal	503
+notable	Word	--	Terminal	504
+success	Word	--	Terminal	505
+on	Word	--	Terminal	506
+international	Word	--	Terminal	507
+charts	Word	--	Terminal	508
+,	Punctuation	--	Terminal	509
+though	Word	--	Terminal	510
+not	Word	--	Terminal	511
+to	Word	--	Terminal	512
+the	Word	--	Terminal	513
+same	Word	--	Terminal	514
+degree	Word	--	Terminal	515
+as	Word	--	Terminal	516
+in	Word	--	Terminal	517
+the	Word	--	Terminal	518
+United	Word	--	Terminal	519
+States	Word	--	Terminal	519
+.	Punctuation	--	Terminal	520
+#500	FN	--	A	525	A*	526
+#501	FN	--	F	525
+#502	FN	--	D	525
+#503	FN	--	F	521
+#504	FN	--	D	525
+#505	FN	--	C	521	S*	526
+#506	FN	--	R	522
+#507	FN	--	E	522
+#508	FN	--	C	522
+#509	PNCT	--	U	527
+#510	FN	--	L	527
+#511	FN	--	E	523
+#512	FN	--	R	523
+#513	FN	--	E	523
+#514	FN	--	E	523
+#515	FN	--	C	523
+#516	FN	--	R	524
+#517	FN	--	R	524
+#518	FN	--	E	524
+#519	FN	--	C	524
+#520	PNCT	--	U	524
+#521	FN	--	S	525
+#522	FN	--	A	525
+#523	FN	--	D	526
+#524	FN	--	A	526
+#525	FN	--	H	527
+#526	FN	--	H	527
+#527	FN	--	--	0
+#EOS 671019

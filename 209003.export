@@ -1,0 +1,37 @@
+#BOS 209003
+After	Word	--	Terminal	500
+Rain	Word	--	Terminal	501
+Man	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+Hoffman	Word	--	Terminal	503
+appeared	Word	--	Terminal	504
+with	Word	--	Terminal	505
+Sean	Word	--	Terminal	506
+Connery	Word	--	Terminal	506
+and	Word	--	Terminal	507
+Matthew	Word	--	Terminal	508
+Broderick	Word	--	Terminal	508
+in	Word	--	Terminal	509
+Family	Word	--	Terminal	510
+Business	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	L	518
+#501	FN	--	A	515
+#502	PNCT	--	U	518
+#503	FN	--	A	517
+#504	FN	--	P	517
+#505	FN	--	R	516
+#506	FN	--	C	512
+#507	FN	--	N	512
+#508	FN	--	C	512
+#509	FN	--	R	513
+#510	FN	--	C	513
+#511	PNCT	--	U	513
+#512	FN	--	C	516
+#513	FN	--	A	517
+#514	FN	--	P	515
+#515	FN	--	H	518
+#516	FN	--	A	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 209003

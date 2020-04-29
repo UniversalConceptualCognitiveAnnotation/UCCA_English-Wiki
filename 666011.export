@@ -1,0 +1,41 @@
+#BOS 666011
+Fearing	Word	--	Terminal	500
+to	Word	--	Terminal	501
+lose	Word	--	Terminal	502
+their	Word	--	Terminal	503
+label	Word	--	Terminal	504
+'s	Word	--	Terminal	505
+highest	Word	--	Terminal	506
+seller	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+Sony	Word	--	Terminal	509
+chose	Word	--	Terminal	510
+to	Word	--	Terminal	511
+release	Word	--	Terminal	512
+the	Word	--	Terminal	513
+song	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	P	521
+#501	FN	--	F	519
+#502	FN	--	P	519
+#503	FN	--	E	517
+#504	FN	--	C	516
+#505	FN	--	R	516
+#506	FN	--	E	517
+#507	FN	--	C	517
+#508	PNCT	--	U	521
+#509	FN	--	A	520	A*	521
+#510	FN	--	D	520
+#511	FN	--	F	520
+#512	FN	--	P	520
+#513	FN	--	E	518
+#514	FN	--	C	518
+#515	PNCT	--	U	518
+#516	FN	--	E	517
+#517	FN	--	A	519
+#518	FN	--	A	520
+#519	FN	--	A	521
+#520	FN	--	H	522
+#521	FN	--	H	522
+#522	FN	--	--	0
+#EOS 666011

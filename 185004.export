@@ -1,0 +1,33 @@
+#BOS 185004
+Castle	Word	--	Terminal	500
+Rock	Word	--	Terminal	500
+Entertainment	Word	--	Terminal	500
+hired	Word	--	Terminal	501
+Sorkin	Word	--	Terminal	502
+to	Word	--	Terminal	503
+adapt	Word	--	Terminal	504
+A	Word	--	Terminal	505
+Few	Word	--	Terminal	505
+Good	Word	--	Terminal	505
+Men	Word	--	Terminal	505
+for	Word	--	Terminal	506
+the	Word	--	Terminal	507
+big	Word	--	Terminal	508
+screen	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	FN	--	A	511
+#501	FN	--	P	511
+#502	FN	--	A	511	A*	513
+#503	FN	--	L	514
+#504	FN	--	P	513
+#505	FN	--	A	513
+#506	FN	--	R	512
+#507	FN	--	E	512
+#508	FN	--	E	512
+#509	FN	--	C	512
+#510	PNCT	--	U	512
+#511	FN	--	H	514
+#512	FN	--	A	513
+#513	FN	--	H	514
+#514	FN	--	--	0
+#EOS 185004

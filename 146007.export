@@ -1,0 +1,44 @@
+#BOS 146007
+A	Word	--	Terminal	500
+small	Word	--	Terminal	501
+bust	Word	--	Terminal	502
+she	Word	--	Terminal	503
+sculpted	Word	--	Terminal	504
+of	Word	--	Terminal	505
+Spencer	Word	--	Terminal	506
+Tracy	Word	--	Terminal	506
+'s	Word	--	Terminal	507
+head	Word	--	Terminal	508
+was	Word	--	Terminal	509
+featured	Word	--	Terminal	510
+in	Word	--	Terminal	511
+Guess	Word	--	Terminal	512
+Who	Word	--	Terminal	512
+'s	Word	--	Terminal	512
+Coming	Word	--	Terminal	512
+to	Word	--	Terminal	512
+Dinner	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	E	519
+#501	FN	--	S	514
+#502	FN	--	C	519	A*	514	A*	518
+#503	FN	--	A	518
+#504	FN	--	P	518
+#505	FN	--	R	516
+#506	FN	--	C	515
+#507	FN	--	R	515
+#508	FN	--	C	516
+#509	FN	--	F	520
+#510	FN	--	P	520
+#511	FN	--	R	517
+#512	FN	--	C	517
+#513	PNCT	--	U	517
+#514	FN	--	E	519
+#515	FN	--	E	516
+#516	FN	--	A	518
+#517	FN	--	A	520
+#518	FN	--	E	519
+#519	FN	--	A	520
+#520	FN	--	H	521
+#521	FN	--	--	0
+#EOS 146007

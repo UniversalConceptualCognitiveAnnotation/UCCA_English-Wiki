@@ -1,0 +1,48 @@
+#BOS 489006
+Lucky	Word	--	Terminal	500
+You	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+a	Word	--	Terminal	502
+romantic	Word	--	Terminal	503
+comedy	Word	--	Terminal	504
+on	Word	--	Terminal	505
+which	Word	--	Terminal	505
+Bana	Word	--	Terminal	506
+worked	Word	--	Terminal	507
+before	Word	--	Terminal	508
+filming	Word	--	Terminal	509
+Munich	Word	--	Terminal	510
+,	Punctuation	--	Terminal	511
+was	Word	--	Terminal	512
+released	Word	--	Terminal	513
+in	Word	--	Terminal	514
+early	Word	--	Terminal	515
+2007	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	C	523	A*	518
+#501	PNCT	--	U	523
+#502	FN	--	E	522
+#503	FN	--	E	522
+#504	FN	--	C	522
+#505	FN	--	R	518
+#506	FN	--	A	518	A*	519
+#507	FN	--	P	518
+#508	FN	--	L	520
+#509	FN	--	P	519
+#510	FN	--	A	519
+#511	PNCT	--	U	524
+#512	FN	--	F	524
+#513	FN	--	P	524
+#514	FN	--	R	521
+#515	FN	--	E	521
+#516	FN	--	C	521
+#517	PNCT	--	U	521
+#518	FN	--	H	520
+#519	FN	--	H	520
+#520	FN	--	E	522
+#521	FN	--	T	524
+#522	FN	--	E	523
+#523	FN	--	A	524
+#524	FN	--	H	525
+#525	FN	--	--	0
+#EOS 489006

@@ -1,0 +1,40 @@
+#BOS 511016
+Directed	Word	--	Terminal	500
+by	Word	--	Terminal	501
+Floria	Word	--	Terminal	502
+Sigismondi	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+it	Word	--	Terminal	504
+stars	Word	--	Terminal	505
+Bowie	Word	--	Terminal	506
+and	Word	--	Terminal	507
+Tilda	Word	--	Terminal	508
+Swinton	Word	--	Terminal	508
+as	Word	--	Terminal	509
+a	Word	--	Terminal	510
+married	Word	--	Terminal	511
+couple	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	P	519
+#501	FN	--	R	514
+#502	FN	--	C	514
+#503	PNCT	--	U	521
+#504	FN	--	A	520
+#505	FN	--	P	520
+#506	FN	--	C	515
+#507	FN	--	N	515
+#508	FN	--	C	515
+#509	FN	--	R	517
+#510	FN	--	E	517
+#511	FN	--	S	516
+#512	FN	--	C	517	A*	516
+#513	PNCT	--	U	517
+#514	FN	--	A	519
+#515	FN	--	A	520
+#516	FN	--	E	517
+#517	FN	--	A	520
+#518	FN	--	A	519
+#519	FN	--	H	521
+#520	FN	--	H	521
+#521	FN	--	--	0
+#EOS 511016

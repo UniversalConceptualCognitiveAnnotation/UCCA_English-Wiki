@@ -1,0 +1,55 @@
+#BOS 537010
+After	Word	--	Terminal	500
+two	Word	--	Terminal	501
+arduous	Word	--	Terminal	502
+years	Word	--	Terminal	503
+in	Word	--	Terminal	504
+Canada	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+Benjamin	Word	--	Terminal	507
+and	Word	--	Terminal	508
+Pearl	Word	--	Terminal	509
+Warner	Word	--	Terminal	510
+returned	Word	--	Terminal	511
+to	Word	--	Terminal	512
+Baltimore	Word	--	Terminal	513
+,	Punctuation	--	Terminal	514
+bringing	Word	--	Terminal	515
+along	Word	--	Terminal	516
+their	Word	--	Terminal	517
+growing	Word	--	Terminal	518
+family	Word	--	Terminal	519
+.	Punctuation	--	Terminal	520
+#500	FN	--	L	531
+#501	FN	--	D	527
+#502	FN	--	D	527
+#503	FN	--	S	527
+#504	FN	--	R	521
+#505	FN	--	C	521
+#506	PNCT	--	U	531
+#507	FN	--	C	522
+#508	FN	--	N	522
+#509	FN	--	C	522
+#510	FN	--	C	523
+#511	FN	--	P	528
+#512	FN	--	R	524
+#513	FN	--	C	524
+#514	PNCT	--	U	531
+#515	FN	--	P	530
+#516	FN	--	D	530
+#517	FN	--	A	525
+#518	FN	--	P	526
+#519	FN	--	A	525	A*	526
+#520	PNCT	--	U	525
+#521	FN	--	A	527
+#522	FN	--	C	523
+#523	FN	--	A	528	A*	530
+#524	FN	--	A	528
+#525	FN	--	C	529
+#526	FN	--	E	529
+#527	FN	--	H	531
+#528	FN	--	H	531
+#529	FN	--	A	530
+#530	FN	--	H	531
+#531	FN	--	--	0
+#EOS 537010

@@ -1,0 +1,55 @@
+#BOS 519005
+After	Word	--	Terminal	500
+appearing	Word	--	Terminal	501
+in	Word	--	Terminal	502
+vaudeville	Word	--	Terminal	503
+with	Word	--	Terminal	504
+her	Word	--	Terminal	505
+two	Word	--	Terminal	506
+older	Word	--	Terminal	507
+sisters	Word	--	Terminal	508
+,	Punctuation	--	Terminal	509
+Garland	Word	--	Terminal	510
+was	Word	--	Terminal	511
+signed	Word	--	Terminal	512
+to	Word	--	Terminal	513
+Metro	Word	--	Terminal	516
+-	Punctuation	--	Terminal	514
+Goldwyn	Word	--	Terminal	516
+-	Punctuation	--	Terminal	515
+Mayer	Word	--	Terminal	516
+as	Word	--	Terminal	517
+a	Word	--	Terminal	518
+teenager	Word	--	Terminal	519
+.	Punctuation	--	Terminal	520
+#500	FN	--	L	529
+#501	FN	--	P	525
+#502	FN	--	R	521
+#503	FN	--	C	521
+#504	FN	--	R	524
+#505	FN	--	A	522	A*	523
+#506	FN	--	Q	524
+#507	FN	--	S	523
+#508	FN	--	A	522	A*	523
+#509	PNCT	--	U	525
+#510	FN	--	A	528	A*	525	A*	526
+#511	FN	--	F	528
+#512	FN	--	P	528
+#513	FN	--	R	527
+#514	PNCT	--	U	516
+#515	PNCT	--	U	516
+#516	FN	--	C	527
+#517	FN	--	L	529
+#518	FN	--	F	526
+#519	FN	--	S	526
+#520	PNCT	--	U	526
+#521	FN	--	A	525
+#522	FN	--	C	524
+#523	FN	--	E	524
+#524	FN	--	A	525
+#525	FN	--	H	529
+#526	FN	--	H	529
+#527	FN	--	A	528
+#528	FN	--	H	529
+#529	FN	--	--	0
+#EOS 519005

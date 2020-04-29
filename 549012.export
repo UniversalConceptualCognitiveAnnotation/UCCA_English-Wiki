@@ -1,0 +1,29 @@
+#BOS 549012
+Together	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+Warner	Word	--	Terminal	502
+and	Word	--	Terminal	503
+Ann	Word	--	Terminal	504
+had	Word	--	Terminal	505
+a	Word	--	Terminal	506
+daughter	Word	--	Terminal	507
+named	Word	--	Terminal	508
+Barbara	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	FN	--	D	514
+#501	PNCT	--	U	514
+#502	FN	--	C	511
+#503	FN	--	N	511
+#504	FN	--	C	511
+#505	FN	--	P	514
+#506	FN	--	F	513
+#507	FN	--	C	513	A*	512
+#508	FN	--	S	512
+#509	FN	--	A	512
+#510	PNCT	--	U	512
+#511	FN	--	A	514
+#512	FN	--	E	513
+#513	FN	--	A	514
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 549012

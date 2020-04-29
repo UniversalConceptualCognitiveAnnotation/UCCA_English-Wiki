@@ -1,0 +1,38 @@
+#BOS 130000
+Alongside	Word	--	Terminal	500
+a	Word	--	Terminal	501
+series	Word	--	Terminal	502
+of	Word	--	Terminal	503
+unpopular	Word	--	Terminal	504
+films	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+problems	Word	--	Terminal	507
+arose	Word	--	Terminal	508
+from	Word	--	Terminal	509
+Hepburn	Word	--	Terminal	510
+'s	Word	--	Terminal	511
+attitude	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	L	521
+#501	FN	--	F	515
+#502	FN	--	E	515
+#503	FN	--	R	515
+#504	FN	--	S	514
+#505	FN	--	C	515	A*	514
+#506	PNCT	--	U	521
+#507	FN	--	S	518
+#508	FN	--	D	518
+#509	FN	--	R	517
+#510	FN	--	C	516	A*	520
+#511	FN	--	R	516
+#512	FN	--	S	517
+#513	PNCT	--	U	517
+#514	FN	--	E	515
+#515	FN	--	A	520
+#516	FN	--	A	517
+#517	FN	--	A	518
+#518	FN	--	H	521
+#519	FN	--	P	520
+#520	FN	--	H	521
+#521	FN	--	--	0
+#EOS 130000

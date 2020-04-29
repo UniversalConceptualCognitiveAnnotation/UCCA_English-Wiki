@@ -1,0 +1,45 @@
+#BOS 550012
+The	Word	--	Terminal	500
+relationship	Word	--	Terminal	501
+was	Word	--	Terminal	502
+in	Word	--	Terminal	503
+its	Word	--	Terminal	504
+fourth	Word	--	Terminal	505
+year	Word	--	Terminal	506
+when	Word	--	Terminal	507
+Ann	Word	--	Terminal	508
+Warner	Word	--	Terminal	508
+pressed	Word	--	Terminal	509
+her	Word	--	Terminal	510
+husband	Word	--	Terminal	511
+to	Word	--	Terminal	512
+terminate	Word	--	Terminal	513
+the	Word	--	Terminal	514
+affair	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	F	517
+#501	FN	--	C	517
+#502	FN	--	F	521
+#503	FN	--	R	518
+#504	FN	--	E	518
+#505	FN	--	Q	518
+#506	FN	--	C	518
+#507	FN	--	L	524
+#508	FN	--	A	523
+#509	FN	--	P	523
+#510	FN	--	A	519
+#511	FN	--	S	519	A*	522
+#512	FN	--	F	522
+#513	FN	--	D	522
+#514	FN	--	F	520
+#515	FN	--	C	520
+#516	PNCT	--	U	520
+#517	FN	--	P	521
+#518	FN	--	D	521
+#519	FN	--	A	523
+#520	FN	--	P	522
+#521	FN	--	H	524
+#522	FN	--	A	523
+#523	FN	--	H	524
+#524	FN	--	--	0
+#EOS 550012

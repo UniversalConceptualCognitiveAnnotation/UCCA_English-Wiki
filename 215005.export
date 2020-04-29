@@ -1,0 +1,43 @@
+#BOS 215005
+She	Word	--	Terminal	500
+was	Word	--	Terminal	501
+part	Word	--	Terminal	502
+of	Word	--	Terminal	503
+an	Word	--	Terminal	504
+ensemble	Word	--	Terminal	505
+cast	Word	--	Terminal	506
+that	Word	--	Terminal	507
+included	Word	--	Terminal	508
+Robin	Word	--	Terminal	509
+Williams	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+Bonnie	Word	--	Terminal	511
+Hunt	Word	--	Terminal	511
+,	Punctuation	--	Terminal	512
+and	Word	--	Terminal	513
+David	Word	--	Terminal	514
+Alan	Word	--	Terminal	514
+Grier	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	A	519
+#501	FN	--	F	519
+#502	FN	--	S	519
+#503	FN	--	R	518
+#504	FN	--	F	518
+#505	FN	--	E	518
+#506	FN	--	C	518	A*	517
+#507	FN	--	R	517
+#508	FN	--	S	517
+#509	FN	--	C	516
+#510	PNCT	--	U	516
+#511	FN	--	C	516
+#512	PNCT	--	U	516
+#513	FN	--	N	516
+#514	FN	--	C	516
+#515	PNCT	--	U	516
+#516	FN	--	A	517
+#517	FN	--	E	518
+#518	FN	--	A	519
+#519	FN	--	H	520
+#520	FN	--	--	0
+#EOS 215005

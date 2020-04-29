@@ -1,0 +1,46 @@
+#BOS 672011
+For	Word	--	Terminal	500
+that	Word	--	Terminal	501
+reason	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+she	Word	--	Terminal	504
+cancelled	Word	--	Terminal	505
+the	Word	--	Terminal	506
+tour	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+and	Word	--	Terminal	509
+lost	Word	--	Terminal	510
+the	Word	--	Terminal	511
+child	Word	--	Terminal	512
+only	Word	--	Terminal	513
+two	Word	--	Terminal	514
+months	Word	--	Terminal	515
+later	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	R	518
+#501	FN	--	E	518
+#502	FN	--	C	518
+#503	PNCT	--	U	525
+#504	FN	--	A	524	A*	522
+#505	FN	--	P	524
+#506	FN	--	E	519
+#507	FN	--	C	519
+#508	PNCT	--	U	525
+#509	FN	--	L	525
+#510	FN	--	P	522
+#511	FN	--	E	520
+#512	FN	--	C	520
+#513	FN	--	E	521
+#514	FN	--	Q	521
+#515	FN	--	C	521
+#516	FN	--	R	521
+#517	PNCT	--	U	521
+#518	FN	--	L	525
+#519	FN	--	P	523
+#520	FN	--	A	522
+#521	FN	--	T	522
+#522	FN	--	H	525
+#523	FN	--	A	524
+#524	FN	--	H	525
+#525	FN	--	--	0
+#EOS 672011

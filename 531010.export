@@ -1,0 +1,42 @@
+#BOS 531010
+Garland	Word	--	Terminal	500
+sued	Word	--	Terminal	501
+Luft	Word	--	Terminal	502
+for	Word	--	Terminal	503
+divorce	Word	--	Terminal	504
+in	Word	--	Terminal	505
+1963	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+claiming	Word	--	Terminal	508
+"	Punctuation	--	Terminal	509
+cruelty	Word	--	Terminal	510
+"	Punctuation	--	Terminal	511
+as	Word	--	Terminal	512
+the	Word	--	Terminal	513
+grounds	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	A	520	A*	522	A*	516
+#501	FN	--	P	520
+#502	FN	--	A	520	A*	516
+#503	FN	--	R	516
+#504	FN	--	P	516
+#505	FN	--	R	517
+#506	FN	--	C	517
+#507	PNCT	--	U	523
+#508	FN	--	P	522
+#509	PNCT	--	U	522
+#510	FN	--	S	518
+#511	PNCT	--	U	521
+#512	FN	--	R	519
+#513	FN	--	F	519
+#514	FN	--	C	519
+#515	PNCT	--	U	519
+#516	FN	--	A	520
+#517	FN	--	T	520
+#518	FN	--	A	521
+#519	FN	--	S	521
+#520	FN	--	H	523
+#521	FN	--	A	522
+#522	FN	--	H	523
+#523	FN	--	--	0
+#EOS 531010

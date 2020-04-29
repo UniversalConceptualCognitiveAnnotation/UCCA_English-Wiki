@@ -1,0 +1,42 @@
+#BOS 563011
+Later	Word	--	Terminal	500
+that	Word	--	Terminal	501
+night	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+he	Word	--	Terminal	504
+appeared	Word	--	Terminal	505
+on	Word	--	Terminal	506
+Hy	Word	--	Terminal	507
+Gardner	Word	--	Terminal	507
+Calling	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+a	Word	--	Terminal	509
+popular	Word	--	Terminal	510
+local	Word	--	Terminal	511
+TV	Word	--	Terminal	512
+show	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	R	515
+#501	FN	--	E	515
+#502	FN	--	C	515
+#503	PNCT	--	U	521
+#504	FN	--	A	521
+#505	FN	--	P	521
+#506	FN	--	R	520
+#507	FN	--	C	520
+#508	PNCT	--	U	520
+#509	FN	--	E	519
+#510	FN	--	S	516
+#511	FN	--	A	518
+#512	FN	--	E	519
+#513	FN	--	C	519	A*	516	A*	518
+#514	PNCT	--	U	519
+#515	FN	--	T	521
+#516	FN	--	E	519
+#517	FN	--	P	518
+#518	FN	--	E	519
+#519	FN	--	E	520
+#520	FN	--	A	521
+#521	FN	--	H	522
+#522	FN	--	--	0
+#EOS 563011

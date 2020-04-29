@@ -1,0 +1,48 @@
+#BOS 123010
+She	Word	--	Terminal	500
+struggled	Word	--	Terminal	501
+with	Word	--	Terminal	502
+the	Word	--	Terminal	503
+scholastic	Word	--	Terminal	504
+demands	Word	--	Terminal	505
+of	Word	--	Terminal	506
+university	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+and	Word	--	Terminal	509
+was	Word	--	Terminal	510
+once	Word	--	Terminal	511
+suspended	Word	--	Terminal	512
+for	Word	--	Terminal	513
+smoking	Word	--	Terminal	514
+in	Word	--	Terminal	515
+her	Word	--	Terminal	516
+room	Word	--	Terminal	517
+.	Punctuation	--	Terminal	518
+#500	FN	--	A	524	A*	519	A*	525
+#501	FN	--	P	524
+#502	FN	--	R	523
+#503	FN	--	F	523
+#504	FN	--	A	523
+#505	FN	--	P	523
+#506	FN	--	R	520
+#507	FN	--	C	520
+#508	PNCT	--	U	526
+#509	FN	--	L	526
+#510	FN	--	F	519
+#511	FN	--	D	519
+#512	FN	--	P	519
+#513	FN	--	L	526
+#514	FN	--	P	525
+#515	FN	--	R	522
+#516	FN	--	A	521
+#517	FN	--	C	522	A*	521
+#518	PNCT	--	U	522
+#519	FN	--	H	526
+#520	FN	--	A	523
+#521	FN	--	E	522
+#522	FN	--	A	525
+#523	FN	--	A	524
+#524	FN	--	H	526
+#525	FN	--	H	526
+#526	FN	--	--	0
+#EOS 123010

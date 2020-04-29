@@ -1,0 +1,31 @@
+#BOS 20006
+As	Word	--	Terminal	500
+graduation	Word	--	Terminal	501
+approached	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+did	Word	--	Terminal	504
+not	Word	--	Terminal	505
+feel	Word	--	Terminal	506
+ready	Word	--	Terminal	507
+to	Word	--	Terminal	508
+settle	Word	--	Terminal	509
+down	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	FN	--	L	516
+#501	FN	--	P	511
+#502	FN	--	D	511
+#503	PNCT	--	U	516
+#504	FN	--	F	515
+#505	FN	--	D	515
+#506	FN	--	D	515
+#507	FN	--	S	515
+#508	FN	--	R	514
+#509	FN	--	P	514
+#510	PNCT	--	U	514
+#511	FN	--	H	516
+#512	FN	--	A	515
+#513	FN	--	A	514
+#514	FN	--	A	515
+#515	FN	--	H	516
+#516	FN	--	--	0
+#EOS 20006

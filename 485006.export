@@ -1,0 +1,37 @@
+#BOS 485006
+and	Word	--	Terminal	500
+Bana	Word	--	Terminal	501
+'s	Word	--	Terminal	502
+German	Word	--	Terminal	503
+-	Punctuation	--	Terminal	504
+born	Word	--	Terminal	505
+mother	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+Eleanor	Word	--	Terminal	508
+,	Punctuation	--	Terminal	509
+was	Word	--	Terminal	510
+a	Word	--	Terminal	511
+hairdresser	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	L	520
+#501	FN	--	C	514
+#502	FN	--	R	514
+#503	FN	--	A	515
+#504	PNCT	--	U	515
+#505	FN	--	P	515
+#506	FN	--	S	516	A*	515
+#507	PNCT	--	U	517
+#508	FN	--	C	517
+#509	PNCT	--	U	519
+#510	FN	--	F	519
+#511	FN	--	E	518
+#512	FN	--	C	518
+#513	PNCT	--	U	518
+#514	FN	--	A	516
+#515	FN	--	E	517
+#516	FN	--	E	517
+#517	FN	--	A	519
+#518	FN	--	P	519
+#519	FN	--	H	520
+#520	FN	--	--	0
+#EOS 485006

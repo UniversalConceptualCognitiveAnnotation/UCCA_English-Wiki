@@ -1,0 +1,27 @@
+#BOS 602000
+In	Word	--	Terminal	500
+1966	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+the	Word	--	Terminal	503
+Beatles	Word	--	Terminal	504
+released	Word	--	Terminal	505
+the	Word	--	Terminal	506
+album	Word	--	Terminal	507
+Revolver	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	FN	--	R	510
+#501	FN	--	C	510
+#502	PNCT	--	U	513
+#503	FN	--	E	511
+#504	FN	--	C	511
+#505	FN	--	P	513
+#506	FN	--	E	512
+#507	FN	--	E	512
+#508	FN	--	C	512
+#509	PNCT	--	U	512
+#510	FN	--	T	513
+#511	FN	--	A	513
+#512	FN	--	A	513
+#513	FN	--	H	514
+#514	FN	--	--	0
+#EOS 602000

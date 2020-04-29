@@ -1,0 +1,51 @@
+#BOS 219004
+The	Word	--	Terminal	500
+film	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+which	Word	--	Terminal	503
+also	Word	--	Terminal	504
+stars	Word	--	Terminal	505
+Charlotte	Word	--	Terminal	506
+Gainsbourg	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+Kiefer	Word	--	Terminal	508
+Sutherland	Word	--	Terminal	508
+and	Word	--	Terminal	509
+Charlotte	Word	--	Terminal	510
+Rampling	Word	--	Terminal	510
+premiered	Word	--	Terminal	511
+at	Word	--	Terminal	512
+the	Word	--	Terminal	513
+2011	Word	--	Terminal	514
+Cannes	Word	--	Terminal	515
+Film	Word	--	Terminal	516
+Festival	Word	--	Terminal	517
+.	Punctuation	--	Terminal	518
+#500	FN	--	F	521
+#501	FN	--	C	521	A*	520
+#502	PNCT	--	U	521
+#503	FN	--	R	520
+#504	FN	--	D	520
+#505	FN	--	P	520
+#506	FN	--	C	519
+#507	PNCT	--	U	519
+#508	FN	--	C	519
+#509	FN	--	N	519
+#510	FN	--	C	519
+#511	FN	--	P	525
+#512	FN	--	R	524
+#513	FN	--	F	524
+#514	FN	--	T	523
+#515	FN	--	E	524
+#516	FN	--	E	524
+#517	FN	--	C	524	A*	523
+#518	PNCT	--	U	524
+#519	FN	--	A	520
+#520	FN	--	E	521
+#521	FN	--	A	525
+#522	FN	--	P	523
+#523	FN	--	E	524
+#524	FN	--	A	525
+#525	FN	--	H	526
+#526	FN	--	--	0
+#EOS 219004

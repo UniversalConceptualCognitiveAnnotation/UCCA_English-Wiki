@@ -1,0 +1,29 @@
+#BOS 806002
+Soon	Word	--	Terminal	500
+after	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+the	Word	--	Terminal	503
+couple	Word	--	Terminal	504
+became	Word	--	Terminal	505
+outspoken	Word	--	Terminal	506
+animal	Word	--	Terminal	507
+rights	Word	--	Terminal	508
+activists	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	FN	--	E	511
+#501	FN	--	C	511
+#502	PNCT	--	U	515
+#503	FN	--	E	512
+#504	FN	--	C	512
+#505	FN	--	D	514
+#506	FN	--	D	514
+#507	FN	--	E	513
+#508	FN	--	C	513
+#509	FN	--	P	514
+#510	PNCT	--	U	514
+#511	FN	--	L	515
+#512	FN	--	A	514
+#513	FN	--	A	514
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 806002

@@ -1,0 +1,51 @@
+#BOS 475008
+Magic	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+at	Word	--	Terminal	502
+the	Word	--	Terminal	503
+age	Word	--	Terminal	504
+of	Word	--	Terminal	505
+42	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+played	Word	--	Terminal	508
+with	Word	--	Terminal	509
+the	Word	--	Terminal	510
+All	Word	--	Terminal	512
+-	Punctuation	--	Terminal	511
+Stars	Word	--	Terminal	512
+against	Word	--	Terminal	513
+his	Word	--	Terminal	514
+alma	Word	--	Terminal	515
+mater	Word	--	Terminal	515
+,	Punctuation	--	Terminal	516
+Michigan	Word	--	Terminal	517
+State	Word	--	Terminal	517
+.	Punctuation	--	Terminal	518
+#500	FN	--	A	522	A*	525
+#501	PNCT	--	U	526
+#502	FN	--	L	526
+#503	FN	--	F	525
+#504	FN	--	S	525
+#505	FN	--	R	524
+#506	FN	--	Q	524
+#507	PNCT	--	U	526
+#508	FN	--	P	522
+#509	FN	--	R	519
+#510	FN	--	F	519
+#511	PNCT	--	U	512
+#512	FN	--	C	519
+#513	FN	--	R	521
+#514	FN	--	A	520
+#515	FN	--	S	520
+#516	PNCT	--	U	520
+#517	FN	--	C	521	A*	520
+#518	PNCT	--	U	521
+#519	FN	--	A	522
+#520	FN	--	E	521
+#521	FN	--	A	522
+#522	FN	--	H	526
+#523	FN	--	C	524
+#524	FN	--	D	525
+#525	FN	--	H	526
+#526	FN	--	--	0
+#EOS 475008

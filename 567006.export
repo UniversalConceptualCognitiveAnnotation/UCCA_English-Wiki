@@ -1,0 +1,42 @@
+#BOS 567006
+Presley	Word	--	Terminal	500
+undertook	Word	--	Terminal	501
+three	Word	--	Terminal	502
+brief	Word	--	Terminal	503
+tours	Word	--	Terminal	504
+during	Word	--	Terminal	505
+the	Word	--	Terminal	506
+year	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+continuing	Word	--	Terminal	509
+to	Word	--	Terminal	510
+generate	Word	--	Terminal	511
+a	Word	--	Terminal	512
+crazed	Word	--	Terminal	513
+audience	Word	--	Terminal	514
+response	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	A	521	A*	520
+#501	FN	--	D	521
+#502	FN	--	D	521
+#503	FN	--	T	521
+#504	FN	--	P	521
+#505	FN	--	R	517
+#506	FN	--	E	517
+#507	FN	--	C	517
+#508	PNCT	--	U	522
+#509	FN	--	E	518
+#510	FN	--	F	518
+#511	FN	--	C	518
+#512	FN	--	F	520
+#513	FN	--	D	520
+#514	FN	--	A	519
+#515	FN	--	P	520
+#516	PNCT	--	U	520
+#517	FN	--	T	521
+#518	FN	--	D	520
+#519	FN	--	A	520
+#520	FN	--	H	522
+#521	FN	--	H	522
+#522	FN	--	--	0
+#EOS 567006

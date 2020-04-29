@@ -1,0 +1,43 @@
+#BOS 701007
+In	Word	--	Terminal	500
+general	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+Self	Word	--	Terminal	502
+Portrait	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+a	Word	--	Terminal	504
+double	Word	--	Terminal	505
+LP	Word	--	Terminal	506
+including	Word	--	Terminal	507
+few	Word	--	Terminal	508
+original	Word	--	Terminal	509
+songs	Word	--	Terminal	510
+,	Punctuation	--	Terminal	511
+was	Word	--	Terminal	512
+poorly	Word	--	Terminal	513
+received	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	D	521
+#501	PNCT	--	U	521
+#502	FN	--	C	520
+#503	PNCT	--	U	520
+#504	FN	--	E	519
+#505	FN	--	E	519
+#506	FN	--	C	519
+#507	FN	--	R	517
+#508	FN	--	Q	517
+#509	FN	--	S	516
+#510	FN	--	C	517	A*	516
+#511	PNCT	--	U	521
+#512	FN	--	F	521
+#513	FN	--	D	521
+#514	FN	--	P	521
+#515	PNCT	--	U	521
+#516	FN	--	E	517
+#517	FN	--	E	519
+#518	FN	--	A	521
+#519	FN	--	E	520
+#520	FN	--	A	521
+#521	FN	--	H	522
+#522	FN	--	--	0
+#EOS 701007

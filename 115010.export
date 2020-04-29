@@ -1,0 +1,42 @@
+#BOS 115010
+In	Word	--	Terminal	500
+1999	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+she	Word	--	Terminal	503
+was	Word	--	Terminal	504
+named	Word	--	Terminal	505
+by	Word	--	Terminal	506
+the	Word	--	Terminal	507
+American	Word	--	Terminal	508
+Film	Word	--	Terminal	508
+Institute	Word	--	Terminal	508
+as	Word	--	Terminal	509
+the	Word	--	Terminal	510
+top	Word	--	Terminal	511
+female	Word	--	Terminal	512
+Hollywood	Word	--	Terminal	513
+legend	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	R	516
+#501	FN	--	C	516
+#502	PNCT	--	U	520
+#503	FN	--	A	520	A*	519
+#504	FN	--	F	520
+#505	FN	--	P	520
+#506	FN	--	R	517
+#507	FN	--	E	517
+#508	FN	--	C	517
+#509	FN	--	R	519
+#510	FN	--	E	518
+#511	FN	--	D	519
+#512	FN	--	D	519
+#513	FN	--	A	519
+#514	FN	--	C	518
+#515	PNCT	--	U	518
+#516	FN	--	T	520
+#517	FN	--	A	520
+#518	FN	--	S	519
+#519	FN	--	A	520
+#520	FN	--	H	521
+#521	FN	--	--	0
+#EOS 115010

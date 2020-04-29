@@ -1,0 +1,40 @@
+#BOS 116003
+As	Word	--	Terminal	500
+a	Word	--	Terminal	501
+child	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+Hepburn	Word	--	Terminal	504
+joined	Word	--	Terminal	505
+her	Word	--	Terminal	506
+mother	Word	--	Terminal	507
+on	Word	--	Terminal	508
+several	Word	--	Terminal	509
+"	Punctuation	--	Terminal	510
+Votes	Word	--	Terminal	511
+For	Word	--	Terminal	511
+Women	Word	--	Terminal	511
+"	Punctuation	--	Terminal	512
+demonstrations	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	L	520
+#501	FN	--	E	515
+#502	FN	--	C	515
+#503	PNCT	--	U	516
+#504	FN	--	A	519	A*	516
+#505	FN	--	P	519
+#506	FN	--	A	517
+#507	FN	--	S	517
+#508	FN	--	R	518
+#509	FN	--	D	518
+#510	PNCT	--	U	518
+#511	FN	--	A	518
+#512	PNCT	--	U	518
+#513	FN	--	P	518
+#514	PNCT	--	U	518
+#515	FN	--	S	516
+#516	FN	--	H	520
+#517	FN	--	A	519
+#518	FN	--	A	519
+#519	FN	--	H	520
+#520	FN	--	--	0
+#EOS 116003

@@ -1,0 +1,55 @@
+#BOS 616000
+While	Word	--	Terminal	500
+at	Word	--	Terminal	501
+school	Word	--	Terminal	502
+during	Word	--	Terminal	503
+the	Word	--	Terminal	504
+1950s	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+McCartney	Word	--	Terminal	507
+thrived	Word	--	Terminal	508
+at	Word	--	Terminal	509
+art	Word	--	Terminal	510
+assignments	Word	--	Terminal	511
+,	Punctuation	--	Terminal	512
+often	Word	--	Terminal	513
+earning	Word	--	Terminal	514
+top	Word	--	Terminal	515
+accolades	Word	--	Terminal	516
+for	Word	--	Terminal	517
+his	Word	--	Terminal	518
+visual	Word	--	Terminal	519
+work	Word	--	Terminal	520
+.	Punctuation	--	Terminal	521
+#500	FN	--	L	530
+#501	FN	--	S	523
+#502	FN	--	A	523
+#503	FN	--	R	522
+#504	FN	--	F	522
+#505	FN	--	C	522
+#506	PNCT	--	U	523
+#507	FN	--	A	528	A*	523	A*	529
+#508	FN	--	P	528
+#509	FN	--	R	524
+#510	FN	--	A	524
+#511	FN	--	P	524
+#512	PNCT	--	U	530
+#513	FN	--	D	529
+#514	FN	--	P	529
+#515	FN	--	E	525
+#516	FN	--	C	525
+#517	FN	--	R	527
+#518	FN	--	S	526
+#519	FN	--	E	527
+#520	FN	--	C	527	A*	526
+#521	PNCT	--	U	527
+#522	FN	--	T	523
+#523	FN	--	H	530
+#524	FN	--	A	528
+#525	FN	--	A	529
+#526	FN	--	E	527
+#527	FN	--	A	529
+#528	FN	--	H	530
+#529	FN	--	H	530
+#530	FN	--	--	0
+#EOS 616000

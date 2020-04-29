@@ -1,0 +1,40 @@
+#BOS 663006
+Carey	Word	--	Terminal	500
+once	Word	--	Terminal	501
+again	Word	--	Terminal	502
+opted	Word	--	Terminal	503
+to	Word	--	Terminal	504
+embark	Word	--	Terminal	505
+on	Word	--	Terminal	506
+a	Word	--	Terminal	507
+short	Word	--	Terminal	508
+world	Word	--	Terminal	509
+tour	Word	--	Terminal	510
+titled	Word	--	Terminal	511
+Daydream	Word	--	Terminal	512
+World	Word	--	Terminal	513
+Tour	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	A	520
+#501	FN	--	C	516
+#502	FN	--	E	516
+#503	FN	--	D	520
+#504	FN	--	F	520
+#505	FN	--	P	520
+#506	FN	--	R	519
+#507	FN	--	E	519
+#508	FN	--	E	519
+#509	FN	--	E	519
+#510	FN	--	C	519	A*	518
+#511	FN	--	S	518
+#512	FN	--	E	517
+#513	FN	--	E	517
+#514	FN	--	C	517
+#515	PNCT	--	U	517
+#516	FN	--	D	520
+#517	FN	--	A	518
+#518	FN	--	E	519
+#519	FN	--	A	520
+#520	FN	--	H	521
+#521	FN	--	--	0
+#EOS 663006

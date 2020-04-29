@@ -1,0 +1,34 @@
+#BOS 251005
+The	Word	--	Terminal	500
+production	Word	--	Terminal	501
+starred	Word	--	Terminal	502
+Paul	Word	--	Terminal	503
+Dano	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+Peter	Word	--	Terminal	505
+Dinklage	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+Josh	Word	--	Terminal	507
+Hamilton	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+and	Word	--	Terminal	509
+Zoe	Word	--	Terminal	510
+Kazan	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	F	512
+#501	FN	--	C	512
+#502	FN	--	P	514
+#503	FN	--	C	513
+#504	PNCT	--	U	513
+#505	FN	--	C	513
+#506	PNCT	--	U	513
+#507	FN	--	C	513
+#508	PNCT	--	U	513
+#509	FN	--	N	513
+#510	FN	--	C	513
+#511	PNCT	--	U	513
+#512	FN	--	A	514
+#513	FN	--	A	514
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 251005

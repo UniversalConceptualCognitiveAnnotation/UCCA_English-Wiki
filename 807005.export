@@ -1,0 +1,37 @@
+#BOS 807005
+McCartney	Word	--	Terminal	500
+has	Word	--	Terminal	501
+publicly	Word	--	Terminal	502
+professed	Word	--	Terminal	503
+support	Word	--	Terminal	504
+for	Word	--	Terminal	505
+Everton	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+and	Word	--	Terminal	508
+also	Word	--	Terminal	509
+shown	Word	--	Terminal	510
+favour	Word	--	Terminal	511
+for	Word	--	Terminal	512
+Liverpool	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	A	517	A*	518
+#501	FN	--	F	517
+#502	FN	--	D	517
+#503	FN	--	D	517
+#504	FN	--	P	517
+#505	FN	--	R	515
+#506	FN	--	C	515
+#507	PNCT	--	U	519
+#508	FN	--	L	519
+#509	FN	--	D	518
+#510	FN	--	D	518
+#511	FN	--	P	518
+#512	FN	--	R	516
+#513	FN	--	C	516
+#514	PNCT	--	U	516
+#515	FN	--	A	517
+#516	FN	--	A	518
+#517	FN	--	H	519
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 807005

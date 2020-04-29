@@ -1,0 +1,56 @@
+#BOS 554003
+Nominated	Word	--	Terminal	500
+for	Word	--	Terminal	501
+14	Word	--	Terminal	502
+competitive	Word	--	Terminal	503
+Grammys	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+he	Word	--	Terminal	506
+won	Word	--	Terminal	507
+three	Word	--	Terminal	508
+,	Punctuation	--	Terminal	509
+and	Word	--	Terminal	510
+received	Word	--	Terminal	511
+the	Word	--	Terminal	512
+Grammy	Word	--	Terminal	513
+Lifetime	Word	--	Terminal	514
+Achievement	Word	--	Terminal	515
+Award	Word	--	Terminal	516
+at	Word	--	Terminal	517
+age	Word	--	Terminal	518
+36	Word	--	Terminal	519
+.	Punctuation	--	Terminal	520
+#500	FN	--	P	525
+#501	FN	--	R	523
+#502	FN	--	Q	523
+#503	FN	--	S	521
+#504	FN	--	C	523	C*	522	A*	521
+#505	PNCT	--	U	524
+#506	FN	--	A	524	A*	525	A*	528	A*	531
+#507	FN	--	P	524
+#508	FN	--	Q	522
+#509	PNCT	--	U	532
+#510	FN	--	L	532
+#511	FN	--	P	528
+#512	FN	--	E	527
+#513	FN	--	E	527
+#514	FN	--	T	526
+#515	FN	--	P	526
+#516	FN	--	C	527
+#517	FN	--	L	532
+#518	FN	--	S	531
+#519	FN	--	Q	530
+#520	PNCT	--	U	530
+#521	FN	--	E	523
+#522	FN	--	A	524
+#523	FN	--	A	525
+#524	FN	--	H	532
+#525	FN	--	H	532
+#526	FN	--	E	527
+#527	FN	--	A	528
+#528	FN	--	H	532
+#529	FN	--	C	530
+#530	FN	--	T	531
+#531	FN	--	H	532
+#532	FN	--	--	0
+#EOS 554003

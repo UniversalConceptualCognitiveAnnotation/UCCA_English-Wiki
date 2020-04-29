@@ -1,0 +1,41 @@
+#BOS 505010
+Bowie	Word	--	Terminal	500
+reached	Word	--	Terminal	501
+a	Word	--	Terminal	502
+new	Word	--	Terminal	503
+peak	Word	--	Terminal	504
+of	Word	--	Terminal	505
+popularity	Word	--	Terminal	506
+and	Word	--	Terminal	507
+commercial	Word	--	Terminal	508
+success	Word	--	Terminal	509
+in	Word	--	Terminal	510
+1983	Word	--	Terminal	511
+with	Word	--	Terminal	512
+Let	Word	--	Terminal	513
+'s	Word	--	Terminal	513
+Dance	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	A	519	A*	520
+#501	FN	--	D	519	D*	520
+#502	FN	--	E	515
+#503	FN	--	E	515
+#504	FN	--	C	515
+#505	FN	--	R	519	R*	520
+#506	FN	--	P	519
+#507	FN	--	L	521
+#508	FN	--	E	516
+#509	FN	--	C	516
+#510	FN	--	R	517
+#511	FN	--	C	517
+#512	FN	--	R	518
+#513	FN	--	C	518
+#514	PNCT	--	U	518
+#515	FN	--	D	519	D*	520
+#516	FN	--	P	520
+#517	FN	--	T	519	T*	520
+#518	FN	--	A	519	A*	520
+#519	FN	--	H	521
+#520	FN	--	H	521
+#521	FN	--	--	0
+#EOS 505010

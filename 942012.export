@@ -1,0 +1,47 @@
+#BOS 942012
+Stefani	Word	--	Terminal	500
+was	Word	--	Terminal	501
+born	Word	--	Terminal	502
+and	Word	--	Terminal	503
+raised	Word	--	Terminal	504
+in	Word	--	Terminal	505
+Fullerton	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+California	Word	--	Terminal	508
+,	Punctuation	--	Terminal	509
+and	Word	--	Terminal	510
+grew	Word	--	Terminal	511
+up	Word	--	Terminal	511
+in	Word	--	Terminal	512
+a	Word	--	Terminal	513
+Roman	Word	--	Terminal	514
+Catholic	Word	--	Terminal	515
+household	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	A	523	A*	522	A*	524
+#501	FN	--	F	523
+#502	FN	--	P	523
+#503	FN	--	L	525
+#504	FN	--	P	524
+#505	FN	--	R	518
+#506	FN	--	C	518
+#507	PNCT	--	U	518
+#508	FN	--	C	518
+#509	PNCT	--	U	525
+#510	FN	--	L	525
+#511	FN	--	P	522
+#512	FN	--	R	521
+#513	FN	--	E	521
+#514	FN	--	E	519
+#515	FN	--	C	519
+#516	FN	--	C	521	A*	520
+#517	PNCT	--	U	521
+#518	FN	--	A	523	A*	524
+#519	FN	--	S	520
+#520	FN	--	E	521
+#521	FN	--	A	522
+#522	FN	--	H	525
+#523	FN	--	H	525
+#524	FN	--	H	525
+#525	FN	--	--	0
+#EOS 942012

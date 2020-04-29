@@ -1,0 +1,30 @@
+#BOS 490015
+Bana	Word	--	Terminal	500
+has	Word	--	Terminal	501
+had	Word	--	Terminal	502
+this	Word	--	Terminal	503
+car	Word	--	Terminal	504
+for	Word	--	Terminal	505
+more	Word	--	Terminal	506
+than	Word	--	Terminal	506
+a	Word	--	Terminal	507
+quarter	Word	--	Terminal	508
+century	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	FN	--	A	514
+#501	FN	--	F	514
+#502	FN	--	S	514
+#503	FN	--	E	511
+#504	FN	--	C	511
+#505	FN	--	R	513
+#506	FN	--	E	513
+#507	FN	--	E	512
+#508	FN	--	C	512
+#509	FN	--	C	513
+#510	PNCT	--	U	513
+#511	FN	--	A	514
+#512	FN	--	Q	513
+#513	FN	--	T	514
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 490015

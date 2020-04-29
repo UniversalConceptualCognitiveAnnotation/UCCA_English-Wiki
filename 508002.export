@@ -1,0 +1,31 @@
+#BOS 508002
+Four	Word	--	Terminal	500
+days	Word	--	Terminal	501
+later	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+Bowie	Word	--	Terminal	504
+and	Word	--	Terminal	505
+Iman	Word	--	Terminal	506
+were	Word	--	Terminal	507
+married	Word	--	Terminal	508
+in	Word	--	Terminal	509
+Switzerland	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	Q	512
+#501	FN	--	C	512
+#502	FN	--	R	512
+#503	PNCT	--	U	515
+#504	FN	--	C	513
+#505	FN	--	N	513
+#506	FN	--	C	513
+#507	FN	--	F	515
+#508	FN	--	P	515
+#509	FN	--	R	514
+#510	FN	--	C	514
+#511	PNCT	--	U	514
+#512	FN	--	T	515
+#513	FN	--	A	515
+#514	FN	--	A	515
+#515	FN	--	H	516
+#516	FN	--	--	0
+#EOS 508002

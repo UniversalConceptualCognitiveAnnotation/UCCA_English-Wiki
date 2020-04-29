@@ -1,0 +1,27 @@
+#BOS 559006
+I	Word	--	Terminal	500
+just	Word	--	Terminal	501
+did	Word	--	Terminal	502
+n't	Word	--	Terminal	503
+know	Word	--	Terminal	504
+what	Word	--	Terminal	505
+to	Word	--	Terminal	506
+make	Word	--	Terminal	507
+of	Word	--	Terminal	507
+it	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	FN	--	A	512	A*	510
+#501	FN	--	D	512
+#502	FN	--	F	512
+#503	FN	--	D	512
+#504	FN	--	P	512
+#505	FN	--	C	511	A*	510
+#506	FN	--	F	510
+#507	FN	--	P	510
+#508	FN	--	A	510
+#509	PNCT	--	U	510
+#510	FN	--	E	511
+#511	FN	--	A	512
+#512	FN	--	H	513
+#513	FN	--	--	0
+#EOS 559006

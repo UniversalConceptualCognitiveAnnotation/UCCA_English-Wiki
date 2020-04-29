@@ -1,0 +1,34 @@
+#BOS 114009
+The	Word	--	Terminal	500
+screen	Word	--	Terminal	501
+-	Punctuation	--	Terminal	502
+partnership	Word	--	Terminal	503
+spanned	Word	--	Terminal	504
+25	Word	--	Terminal	505
+years	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+and	Word	--	Terminal	508
+produced	Word	--	Terminal	509
+nine	Word	--	Terminal	510
+movies	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	E	513
+#501	FN	--	A	516
+#502	PNCT	--	U	516
+#503	FN	--	C	513	A*	517
+#504	FN	--	R	514
+#505	FN	--	Q	514
+#506	FN	--	C	514
+#507	PNCT	--	U	518
+#508	FN	--	L	518
+#509	FN	--	P	517
+#510	FN	--	Q	515
+#511	FN	--	C	515
+#512	PNCT	--	U	515
+#513	FN	--	P	516
+#514	FN	--	T	516
+#515	FN	--	A	517
+#516	FN	--	H	518
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 114009

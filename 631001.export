@@ -1,0 +1,35 @@
+#BOS 631001
+He	Word	--	Terminal	500
+regularly	Word	--	Terminal	501
+visited	Word	--	Terminal	502
+his	Word	--	Terminal	503
+cousin	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+Stanley	Word	--	Terminal	506
+Parkes	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+who	Word	--	Terminal	508
+lived	Word	--	Terminal	509
+in	Word	--	Terminal	510
+Fleetwood	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	A	517
+#501	FN	--	T	517
+#502	FN	--	P	517
+#503	FN	--	A	513
+#504	FN	--	S	513	A*	515
+#505	PNCT	--	U	516
+#506	FN	--	C	516
+#507	PNCT	--	U	516
+#508	FN	--	R	515
+#509	FN	--	P	515
+#510	FN	--	R	514
+#511	FN	--	C	514
+#512	PNCT	--	U	514
+#513	FN	--	E	516
+#514	FN	--	A	515
+#515	FN	--	E	516
+#516	FN	--	A	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 631001

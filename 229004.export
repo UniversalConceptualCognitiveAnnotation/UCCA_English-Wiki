@@ -1,0 +1,45 @@
+#BOS 229004
+That	Word	--	Terminal	500
+same	Word	--	Terminal	501
+year	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+the	Word	--	Terminal	504
+two	Word	--	Terminal	505
+had	Word	--	Terminal	506
+a	Word	--	Terminal	507
+son	Word	--	Terminal	508
+,	Punctuation	--	Terminal	509
+singer	Word	--	Terminal	510
+and	Word	--	Terminal	511
+actor	Word	--	Terminal	512
+Jaycee	Word	--	Terminal	513
+Chan	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	E	515
+#501	FN	--	E	515
+#502	FN	--	C	515
+#503	PNCT	--	U	523
+#504	FN	--	F	519
+#505	FN	--	Q	519
+#506	FN	--	P	523
+#507	FN	--	F	520
+#508	FN	--	A	520	A*	525
+#509	PNCT	--	U	525
+#510	FN	--	P	516
+#511	FN	--	N	522
+#512	FN	--	P	517
+#513	FN	--	C	524
+#514	PNCT	--	U	524
+#515	FN	--	T	523
+#516	FN	--	C	522
+#517	FN	--	C	522
+#518	FN	--	C	519
+#519	FN	--	A	523	A*	520
+#520	FN	--	A	523
+#521	FN	--	S	525
+#522	FN	--	E	524
+#523	FN	--	H	526
+#524	FN	--	A	525
+#525	FN	--	H	526
+#526	FN	--	--	0
+#EOS 229004

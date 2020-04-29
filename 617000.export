@@ -1,0 +1,45 @@
+#BOS 617000
+When	Word	--	Terminal	500
+McCartney	Word	--	Terminal	501
+was	Word	--	Terminal	502
+a	Word	--	Terminal	503
+child	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+his	Word	--	Terminal	506
+mother	Word	--	Terminal	507
+read	Word	--	Terminal	508
+him	Word	--	Terminal	509
+poems	Word	--	Terminal	510
+and	Word	--	Terminal	511
+encouraged	Word	--	Terminal	512
+him	Word	--	Terminal	513
+to	Word	--	Terminal	514
+read	Word	--	Terminal	515
+books	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	L	524
+#501	FN	--	A	523
+#502	FN	--	F	523
+#503	FN	--	E	518
+#504	FN	--	C	518
+#505	PNCT	--	U	524
+#506	FN	--	A	519
+#507	FN	--	A	519	A*	522
+#508	FN	--	P	520
+#509	FN	--	A	520
+#510	FN	--	A	520
+#511	FN	--	L	524
+#512	FN	--	P	522
+#513	FN	--	A	522	A*	521
+#514	FN	--	F	521
+#515	FN	--	P	521
+#516	FN	--	A	521
+#517	PNCT	--	U	521
+#518	FN	--	S	523
+#519	FN	--	A	520
+#520	FN	--	H	524
+#521	FN	--	A	522
+#522	FN	--	H	524
+#523	FN	--	H	524
+#524	FN	--	--	0
+#EOS 617000

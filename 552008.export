@@ -1,0 +1,30 @@
+#BOS 552008
+Jack	Word	--	Terminal	500
+Warner	Word	--	Terminal	500
+left	Word	--	Terminal	501
+behind	Word	--	Terminal	501
+an	Word	--	Terminal	502
+estate	Word	--	Terminal	503
+estimated	Word	--	Terminal	504
+at	Word	--	Terminal	505
+$	Word	--	Terminal	506
+15	Word	--	Terminal	507
+million	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	FN	--	A	514
+#501	FN	--	P	514
+#502	FN	--	F	513
+#503	FN	--	C	513	A*	512
+#504	FN	--	S	512
+#505	FN	--	R	511
+#506	FN	--	C	511
+#507	FN	--	C	510
+#508	FN	--	C	510
+#509	PNCT	--	U	510
+#510	FN	--	Q	511
+#511	FN	--	A	512
+#512	FN	--	E	513
+#513	FN	--	A	514
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 552008

@@ -1,0 +1,29 @@
+#BOS 711000
+"	Punctuation	--	Terminal	500
+Love	Word	--	Terminal	501
+and	Word	--	Terminal	501
+Theft	Word	--	Terminal	501
+"	Punctuation	--	Terminal	502
+was	Word	--	Terminal	503
+released	Word	--	Terminal	504
+on	Word	--	Terminal	505
+September	Word	--	Terminal	506
+11	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+2001	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	PNCT	--	U	512
+#501	FN	--	A	512
+#502	PNCT	--	U	512
+#503	FN	--	F	512
+#504	FN	--	P	512
+#505	FN	--	R	511
+#506	FN	--	C	511
+#507	FN	--	C	511
+#508	PNCT	--	U	511
+#509	FN	--	C	511
+#510	PNCT	--	U	511
+#511	FN	--	T	512
+#512	FN	--	H	513
+#513	FN	--	--	0
+#EOS 711000

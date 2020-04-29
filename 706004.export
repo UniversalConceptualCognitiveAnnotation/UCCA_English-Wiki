@@ -1,0 +1,40 @@
+#BOS 706004
+The	Word	--	Terminal	500
+song	Word	--	Terminal	501
+"	Punctuation	--	Terminal	502
+Every	Word	--	Terminal	503
+Grain	Word	--	Terminal	503
+of	Word	--	Terminal	503
+Sand	Word	--	Terminal	503
+"	Punctuation	--	Terminal	504
+reminded	Word	--	Terminal	505
+some	Word	--	Terminal	506
+critics	Word	--	Terminal	507
+of	Word	--	Terminal	508
+William	Word	--	Terminal	509
+Blake	Word	--	Terminal	509
+'s	Word	--	Terminal	510
+verses	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	E	513
+#501	FN	--	C	513
+#502	PNCT	--	U	514
+#503	FN	--	C	514
+#504	PNCT	--	U	519
+#505	FN	--	P	519
+#506	FN	--	Q	518
+#507	FN	--	P	515
+#508	FN	--	R	517
+#509	FN	--	A	516
+#510	FN	--	S	516
+#511	FN	--	C	517	A*	516
+#512	PNCT	--	U	517
+#513	FN	--	E	514
+#514	FN	--	A	519
+#515	FN	--	C	518
+#516	FN	--	E	517
+#517	FN	--	A	519
+#518	FN	--	A	519
+#519	FN	--	H	520
+#520	FN	--	--	0
+#EOS 706004

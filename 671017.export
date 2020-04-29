@@ -1,0 +1,40 @@
+#BOS 671017
+Carey	Word	--	Terminal	500
+is	Word	--	Terminal	501
+second	Word	--	Terminal	502
+only	Word	--	Terminal	503
+to	Word	--	Terminal	504
+The	Word	--	Terminal	505
+Beatles	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+who	Word	--	Terminal	507
+have	Word	--	Terminal	508
+twenty	Word	--	Terminal	509
+number	Word	--	Terminal	510
+-	Punctuation	--	Terminal	511
+one	Word	--	Terminal	512
+singles	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	A	520
+#501	FN	--	F	520
+#502	FN	--	S	520
+#503	FN	--	C	515
+#504	FN	--	R	515
+#505	FN	--	C	519	A*	518
+#506	PNCT	--	U	519
+#507	FN	--	R	518
+#508	FN	--	S	518
+#509	FN	--	E	517
+#510	FN	--	C	516
+#511	PNCT	--	U	516
+#512	FN	--	E	516
+#513	FN	--	C	517
+#514	PNCT	--	U	517
+#515	FN	--	R	519
+#516	FN	--	E	517
+#517	FN	--	A	518
+#518	FN	--	E	519
+#519	FN	--	A	520
+#520	FN	--	H	521
+#521	FN	--	--	0
+#EOS 671017

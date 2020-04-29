@@ -1,0 +1,56 @@
+#BOS 636007
+Lennon	Word	--	Terminal	500
+asked	Word	--	Terminal	501
+Lord	Word	--	Terminal	502
+Beeching	Word	--	Terminal	503
+to	Word	--	Terminal	504
+take	Word	--	Terminal	505
+on	Word	--	Terminal	505
+the	Word	--	Terminal	506
+role	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+but	Word	--	Terminal	509
+he	Word	--	Terminal	510
+declined	Word	--	Terminal	511
+,	Punctuation	--	Terminal	512
+advising	Word	--	Terminal	513
+Lennon	Word	--	Terminal	514
+to	Word	--	Terminal	515
+go	Word	--	Terminal	516
+back	Word	--	Terminal	516
+to	Word	--	Terminal	517
+making	Word	--	Terminal	518
+records	Word	--	Terminal	519
+.	Punctuation	--	Terminal	520
+#500	FN	--	A	528
+#501	FN	--	P	528
+#502	FN	--	E	521
+#503	FN	--	C	521	A*	527
+#504	FN	--	F	527
+#505	FN	--	P	527
+#506	FN	--	E	522
+#507	FN	--	C	522
+#508	PNCT	--	U	530
+#509	FN	--	L	530
+#510	FN	--	A	523	A*	529
+#511	FN	--	P	523
+#512	PNCT	--	U	530
+#513	FN	--	P	529
+#514	FN	--	A	529	A*	526	A*	524
+#515	FN	--	F	525
+#516	FN	--	C	525
+#517	FN	--	F	526
+#518	FN	--	F	524
+#519	FN	--	P	524
+#520	PNCT	--	U	524
+#521	FN	--	A	528
+#522	FN	--	A	527
+#523	FN	--	H	530
+#524	FN	--	A	526
+#525	FN	--	P	526
+#526	FN	--	A	529
+#527	FN	--	A	528
+#528	FN	--	H	530
+#529	FN	--	H	530
+#530	FN	--	--	0
+#EOS 636007

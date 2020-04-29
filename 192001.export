@@ -1,0 +1,46 @@
+#BOS 192001
+He	Word	--	Terminal	500
+would	Word	--	Terminal	501
+work	Word	--	Terminal	502
+late	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+with	Word	--	Terminal	505
+the	Word	--	Terminal	506
+TV	Word	--	Terminal	507
+tuned	Word	--	Terminal	508
+into	Word	--	Terminal	509
+ESPN	Word	--	Terminal	510
+,	Punctuation	--	Terminal	511
+watching	Word	--	Terminal	512
+continuous	Word	--	Terminal	513
+replays	Word	--	Terminal	514
+of	Word	--	Terminal	515
+SportsCenter	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	A	518	A*	524
+#501	FN	--	F	518
+#502	FN	--	P	518
+#503	FN	--	T	518
+#504	PNCT	--	U	525
+#505	FN	--	L	525
+#506	FN	--	E	519
+#507	FN	--	C	519
+#508	FN	--	P	523
+#509	FN	--	R	520
+#510	FN	--	C	520
+#511	PNCT	--	U	525
+#512	FN	--	P	524
+#513	FN	--	D	522
+#514	FN	--	P	522
+#515	FN	--	R	521
+#516	FN	--	C	521
+#517	PNCT	--	U	521
+#518	FN	--	H	525
+#519	FN	--	A	523
+#520	FN	--	A	523
+#521	FN	--	A	522
+#522	FN	--	A	524
+#523	FN	--	H	525
+#524	FN	--	H	525
+#525	FN	--	--	0
+#EOS 192001

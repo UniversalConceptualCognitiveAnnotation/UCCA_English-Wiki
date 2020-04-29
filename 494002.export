@@ -1,0 +1,36 @@
+#BOS 494002
+Bowie	Word	--	Terminal	500
+studied	Word	--	Terminal	501
+art	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+music	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+and	Word	--	Terminal	506
+design	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+including	Word	--	Terminal	509
+layout	Word	--	Terminal	510
+and	Word	--	Terminal	511
+typesetting	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	A	518
+#501	FN	--	P	518
+#502	FN	--	C	517
+#503	PNCT	--	U	517
+#504	FN	--	C	517
+#505	PNCT	--	U	517
+#506	FN	--	N	517
+#507	FN	--	C	516
+#508	PNCT	--	U	516
+#509	FN	--	R	515
+#510	FN	--	C	514
+#511	FN	--	N	514
+#512	FN	--	C	514
+#513	PNCT	--	U	514
+#514	FN	--	C	515
+#515	FN	--	E	516
+#516	FN	--	C	517
+#517	FN	--	A	518
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 494002

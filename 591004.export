@@ -1,0 +1,35 @@
+#BOS 591004
+Also	Word	--	Terminal	500
+in	Word	--	Terminal	501
+2011	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+Hugo	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+directed	Word	--	Terminal	506
+by	Word	--	Terminal	507
+Martin	Word	--	Terminal	508
+Scorsese	Word	--	Terminal	508
+,	Punctuation	--	Terminal	509
+was	Word	--	Terminal	510
+released	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	D	517
+#501	FN	--	R	513
+#502	FN	--	C	513
+#503	PNCT	--	U	517
+#504	FN	--	C	516	A*	515
+#505	PNCT	--	U	516
+#506	FN	--	P	515
+#507	FN	--	R	514
+#508	FN	--	C	514
+#509	PNCT	--	U	517
+#510	FN	--	F	517
+#511	FN	--	P	517
+#512	PNCT	--	U	517
+#513	FN	--	T	517
+#514	FN	--	A	515
+#515	FN	--	E	516
+#516	FN	--	A	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 591004

@@ -1,0 +1,37 @@
+#BOS 954014
+Her	Word	--	Terminal	500
+next	Word	--	Terminal	501
+role	Word	--	Terminal	502
+was	Word	--	Terminal	503
+in	Word	--	Terminal	504
+St.	Word	--	Terminal	505
+Martin	Word	--	Terminal	505
+'s	Word	--	Terminal	505
+Lane	Word	--	Terminal	505
+(	Punctuation	--	Terminal	506
+1938	Word	--	Terminal	507
+)	Punctuation	--	Terminal	508
+with	Word	--	Terminal	509
+Charles	Word	--	Terminal	510
+Laughton	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	E	512
+#501	FN	--	E	512
+#502	FN	--	C	512
+#503	FN	--	S	517
+#504	FN	--	R	516
+#505	FN	--	C	516	A*	515
+#506	PNCT	--	U	516
+#507	FN	--	T	515
+#508	PNCT	--	U	517
+#509	FN	--	R	513
+#510	FN	--	C	513
+#511	PNCT	--	U	513
+#512	FN	--	A	517
+#513	FN	--	A	517
+#514	FN	--	P	515
+#515	FN	--	E	516
+#516	FN	--	A	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 954014

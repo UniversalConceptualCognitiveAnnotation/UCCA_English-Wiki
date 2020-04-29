@@ -1,0 +1,42 @@
+#BOS 460001
+Like	Word	--	Terminal	500
+other	Word	--	Terminal	501
+network	Word	--	Terminal	502
+news	Word	--	Terminal	503
+anchors	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+he	Word	--	Terminal	506
+was	Word	--	Terminal	507
+widely	Word	--	Terminal	508
+praised	Word	--	Terminal	509
+for	Word	--	Terminal	510
+guiding	Word	--	Terminal	511
+Americans	Word	--	Terminal	512
+through	Word	--	Terminal	513
+the	Word	--	Terminal	514
+tragedy	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	L	522
+#501	FN	--	E	517
+#502	FN	--	E	517
+#503	FN	--	E	517
+#504	FN	--	C	517
+#505	PNCT	--	U	522
+#506	FN	--	A	521	A*	520
+#507	FN	--	F	521
+#508	FN	--	D	521
+#509	FN	--	S	521	S*	518
+#510	FN	--	R	520
+#511	FN	--	P	520
+#512	FN	--	A	520
+#513	FN	--	R	519
+#514	FN	--	E	519
+#515	FN	--	C	519
+#516	PNCT	--	U	519
+#517	FN	--	A	518
+#518	FN	--	H	522
+#519	FN	--	A	520
+#520	FN	--	A	521
+#521	FN	--	H	522
+#522	FN	--	--	0
+#EOS 460001

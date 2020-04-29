@@ -1,0 +1,39 @@
+#BOS 485000
+Eric	Word	--	Terminal	500
+Bana	Word	--	Terminal	500
+(	Punctuation	--	Terminal	501
+born	Word	--	Terminal	502
+9	Word	--	Terminal	503
+August	Word	--	Terminal	504
+1968	Word	--	Terminal	505
+)	Punctuation	--	Terminal	506
+is	Word	--	Terminal	507
+an	Word	--	Terminal	508
+Australian	Word	--	Terminal	509
+film	Word	--	Terminal	510
+and	Word	--	Terminal	511
+television	Word	--	Terminal	512
+actor	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	A	519	A*	518
+#501	PNCT	--	U	519
+#502	FN	--	P	518
+#503	FN	--	C	515
+#504	FN	--	C	515
+#505	FN	--	C	515
+#506	PNCT	--	U	519
+#507	FN	--	F	519
+#508	FN	--	E	516
+#509	FN	--	A	519
+#510	FN	--	C	517
+#511	FN	--	N	517
+#512	FN	--	C	517
+#513	FN	--	C	516
+#514	PNCT	--	U	516
+#515	FN	--	T	518
+#516	FN	--	S	519
+#517	FN	--	A	519
+#518	FN	--	A	519
+#519	FN	--	H	520
+#520	FN	--	--	0
+#EOS 485000

@@ -1,0 +1,40 @@
+#BOS 645015
+When	Word	--	Terminal	500
+asked	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+Lennon	Word	--	Terminal	503
+gave	Word	--	Terminal	504
+Ono	Word	--	Terminal	505
+the	Word	--	Terminal	506
+original	Word	--	Terminal	507
+handwritten	Word	--	Terminal	508
+lyrics	Word	--	Terminal	509
+to	Word	--	Terminal	510
+"	Punctuation	--	Terminal	511
+The	Word	--	Terminal	512
+Word	Word	--	Terminal	512
+"	Punctuation	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	L	521
+#501	FN	--	P	518
+#502	PNCT	--	U	521
+#503	FN	--	A	520
+#504	FN	--	P	520
+#505	FN	--	A	520	A*	518
+#506	FN	--	E	519
+#507	FN	--	E	519
+#508	FN	--	P	515
+#509	FN	--	C	519	A*	515
+#510	FN	--	R	516
+#511	PNCT	--	U	516
+#512	FN	--	C	516
+#513	PNCT	--	U	516
+#514	PNCT	--	U	516
+#515	FN	--	E	519
+#516	FN	--	E	519
+#517	FN	--	A	518
+#518	FN	--	H	521
+#519	FN	--	A	520
+#520	FN	--	H	521
+#521	FN	--	--	0
+#EOS 645015

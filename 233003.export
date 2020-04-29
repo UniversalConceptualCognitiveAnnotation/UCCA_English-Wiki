@@ -1,0 +1,41 @@
+#BOS 233003
+As	Word	--	Terminal	500
+a	Word	--	Terminal	501
+result	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+Mitsubishi	Word	--	Terminal	504
+cars	Word	--	Terminal	505
+can	Word	--	Terminal	506
+be	Word	--	Terminal	507
+found	Word	--	Terminal	508
+in	Word	--	Terminal	509
+a	Word	--	Terminal	510
+number	Word	--	Terminal	511
+of	Word	--	Terminal	512
+Jackie	Word	--	Terminal	513
+Chan	Word	--	Terminal	513
+films	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	R	516
+#501	FN	--	F	516
+#502	FN	--	C	516
+#503	PNCT	--	U	521
+#504	FN	--	E	517
+#505	FN	--	C	517
+#506	FN	--	D	520
+#507	FN	--	F	520
+#508	FN	--	S	520
+#509	FN	--	R	519
+#510	FN	--	F	519
+#511	FN	--	Q	519
+#512	FN	--	R	519
+#513	FN	--	A	518
+#514	FN	--	C	519	A*	518
+#515	PNCT	--	U	519
+#516	FN	--	L	521
+#517	FN	--	A	520
+#518	FN	--	E	519
+#519	FN	--	A	520
+#520	FN	--	H	521
+#521	FN	--	--	0
+#EOS 233003

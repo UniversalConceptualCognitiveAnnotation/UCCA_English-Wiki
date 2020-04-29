@@ -1,0 +1,35 @@
+#BOS 248000
+Hawke	Word	--	Terminal	500
+pursued	Word	--	Terminal	501
+a	Word	--	Terminal	502
+number	Word	--	Terminal	503
+of	Word	--	Terminal	504
+projects	Word	--	Terminal	505
+away	Word	--	Terminal	506
+from	Word	--	Terminal	506
+acting	Word	--	Terminal	507
+throughout	Word	--	Terminal	508
+the	Word	--	Terminal	509
+early	Word	--	Terminal	510
+2000s	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	A	517	A*	513
+#501	FN	--	P	517
+#502	FN	--	F	514
+#503	FN	--	C	514
+#504	FN	--	R	515
+#505	FN	--	C	515
+#506	FN	--	L	518
+#507	FN	--	P	513
+#508	FN	--	R	516
+#509	FN	--	F	516
+#510	FN	--	E	516
+#511	FN	--	C	516	T*	513
+#512	PNCT	--	U	513
+#513	FN	--	H	518
+#514	FN	--	Q	515
+#515	FN	--	A	517
+#516	FN	--	T	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 248000

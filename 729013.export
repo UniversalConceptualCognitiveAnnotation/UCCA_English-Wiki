@@ -1,0 +1,55 @@
+#BOS 729013
+Peter	Word	--	Terminal	500
+Travers	Word	--	Terminal	500
+wrote	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+"	Punctuation	--	Terminal	503
+Depp	Word	--	Terminal	504
+and	Word	--	Terminal	505
+Jolie	Word	--	Terminal	506
+hit	Word	--	Terminal	507
+career	Word	--	Terminal	508
+lows	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+producing	Word	--	Terminal	511
+the	Word	--	Terminal	512
+chemistry	Word	--	Terminal	513
+of	Word	--	Terminal	514
+high	Word	--	Terminal	515
+-	Punctuation	--	Terminal	516
+fashion	Word	--	Terminal	517
+zombies	Word	--	Terminal	518
+.	Punctuation	--	Terminal	519
+"	Punctuation	--	Terminal	520
+#500	FN	--	A	529
+#501	FN	--	P	529
+#502	PNCT	--	U	529
+#503	PNCT	--	U	529
+#504	FN	--	C	521
+#505	FN	--	N	521
+#506	FN	--	C	521
+#507	FN	--	D	522
+#508	FN	--	A	522
+#509	FN	--	S	522
+#510	PNCT	--	U	528
+#511	FN	--	P	527
+#512	FN	--	E	523
+#513	FN	--	C	523
+#514	FN	--	R	525
+#515	FN	--	D	524
+#516	PNCT	--	U	524
+#517	FN	--	S	524
+#518	FN	--	C	525	A*	524
+#519	PNCT	--	U	525
+#520	PNCT	--	U	525
+#521	FN	--	A	522	A*	527
+#522	FN	--	H	528
+#523	FN	--	S	526
+#524	FN	--	E	525
+#525	FN	--	A	526
+#526	FN	--	A	527
+#527	FN	--	H	528
+#528	FN	--	A	529
+#529	FN	--	H	530
+#530	FN	--	--	0
+#EOS 729013

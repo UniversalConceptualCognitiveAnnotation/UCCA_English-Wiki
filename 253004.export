@@ -1,0 +1,48 @@
+#BOS 253004
+They	Word	--	Terminal	500
+have	Word	--	Terminal	501
+two	Word	--	Terminal	502
+daughters	Word	--	Terminal	503
+:	Punctuation	--	Terminal	504
+Clementine	Word	--	Terminal	505
+Jane	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+born	Word	--	Terminal	507
+in	Word	--	Terminal	508
+2008	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+and	Word	--	Terminal	511
+Indiana	Word	--	Terminal	512
+,	Punctuation	--	Terminal	513
+born	Word	--	Terminal	514
+in	Word	--	Terminal	515
+2011	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	A	525
+#501	FN	--	F	525
+#502	FN	--	D	525
+#503	FN	--	S	525
+#504	PNCT	--	U	525
+#505	FN	--	C	521	A*	520
+#506	PNCT	--	U	521
+#507	FN	--	P	520
+#508	FN	--	R	518
+#509	FN	--	C	518
+#510	PNCT	--	U	524
+#511	FN	--	N	524
+#512	FN	--	C	523	A*	522
+#513	PNCT	--	U	523
+#514	FN	--	P	522
+#515	FN	--	R	519
+#516	FN	--	C	519
+#517	PNCT	--	U	519
+#518	FN	--	T	520
+#519	FN	--	T	522
+#520	FN	--	E	521
+#521	FN	--	C	524
+#522	FN	--	E	523
+#523	FN	--	C	524
+#524	FN	--	A	525
+#525	FN	--	H	526
+#526	FN	--	--	0
+#EOS 253004

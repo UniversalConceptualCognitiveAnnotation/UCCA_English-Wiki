@@ -1,0 +1,44 @@
+#BOS 591001
+Depp	Word	--	Terminal	500
+is	Word	--	Terminal	501
+the	Word	--	Terminal	502
+founder	Word	--	Terminal	503
+and	Word	--	Terminal	504
+CEO	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+while	Word	--	Terminal	507
+his	Word	--	Terminal	508
+sister	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+Christi	Word	--	Terminal	511
+Dembrowski	Word	--	Terminal	511
+,	Punctuation	--	Terminal	512
+serves	Word	--	Terminal	513
+as	Word	--	Terminal	514
+president	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	A	517	A*	518
+#501	FN	--	F	517
+#502	FN	--	F	517
+#503	FN	--	S	517
+#504	FN	--	L	523
+#505	FN	--	S	518
+#506	PNCT	--	U	523
+#507	FN	--	L	523
+#508	FN	--	A	519
+#509	FN	--	A	519
+#510	PNCT	--	U	520
+#511	FN	--	C	520
+#512	PNCT	--	U	522
+#513	FN	--	D	522
+#514	FN	--	R	521
+#515	FN	--	C	521
+#516	PNCT	--	U	521
+#517	FN	--	H	523
+#518	FN	--	H	523
+#519	FN	--	E	520
+#520	FN	--	A	522
+#521	FN	--	P	522
+#522	FN	--	H	523
+#523	FN	--	--	0
+#EOS 591001

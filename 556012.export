@@ -1,0 +1,78 @@
+#BOS 556012
+Like	Word	--	Terminal	500
+some	Word	--	Terminal	501
+of	Word	--	Terminal	502
+his	Word	--	Terminal	503
+peers	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+he	Word	--	Terminal	506
+may	Word	--	Terminal	507
+have	Word	--	Terminal	508
+attended	Word	--	Terminal	509
+blues	Word	--	Terminal	510
+venues	Word	--	Terminal	511
+—	Punctuation	--	Terminal	512
+of	Word	--	Terminal	513
+necessity	Word	--	Terminal	514
+,	Punctuation	--	Terminal	515
+in	Word	--	Terminal	516
+the	Word	--	Terminal	517
+segregated	Word	--	Terminal	518
+South	Word	--	Terminal	519
+,	Punctuation	--	Terminal	520
+only	Word	--	Terminal	521
+on	Word	--	Terminal	522
+nights	Word	--	Terminal	523
+designated	Word	--	Terminal	524
+for	Word	--	Terminal	525
+exclusively	Word	--	Terminal	526
+white	Word	--	Terminal	527
+audiences	Word	--	Terminal	528
+.	Punctuation	--	Terminal	529
+#500	FN	--	L	545
+#501	FN	--	Q	536
+#502	FN	--	R	530
+#503	FN	--	A	530
+#504	FN	--	A	530
+#505	PNCT	--	U	545
+#506	FN	--	A	544
+#507	FN	--	D	544
+#508	FN	--	F	544
+#509	FN	--	P	544	P*	543
+#510	FN	--	E	531
+#511	FN	--	C	531	A*	543
+#512	PNCT	--	U	545
+#513	FN	--	L	545
+#514	FN	--	S	538
+#515	PNCT	--	U	538
+#516	FN	--	R	533
+#517	FN	--	E	533
+#518	FN	--	S	532
+#519	FN	--	C	533	A*	532
+#520	PNCT	--	U	545
+#521	FN	--	E	534
+#522	FN	--	C	534
+#523	FN	--	C	542	A*	541
+#524	FN	--	P	541
+#525	FN	--	R	540
+#526	FN	--	D	539
+#527	FN	--	S	539
+#528	FN	--	A	535
+#529	PNCT	--	U	535
+#530	FN	--	C	536
+#531	FN	--	A	544
+#532	FN	--	E	533
+#533	FN	--	A	538
+#534	FN	--	R	542
+#535	FN	--	C	540	A*	539
+#536	FN	--	A	543
+#537	FN	--	A	538
+#538	FN	--	H	545
+#539	FN	--	E	540
+#540	FN	--	A	541
+#541	FN	--	E	542
+#542	FN	--	T	544	T*	543
+#543	FN	--	H	545
+#544	FN	--	H	545
+#545	FN	--	--	0
+#EOS 556012

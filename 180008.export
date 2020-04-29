@@ -1,0 +1,35 @@
+#BOS 180008
+The	Word	--	Terminal	500
+second	Word	--	Terminal	501
+daughter	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+Gloria	Word	--	Terminal	504
+Ray	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+was	Word	--	Terminal	506
+born	Word	--	Terminal	507
+April	Word	--	Terminal	508
+19	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+2012	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	F	515
+#501	FN	--	D	515
+#502	FN	--	S	515
+#503	PNCT	--	U	515
+#504	FN	--	C	516	A*	515
+#505	PNCT	--	U	517
+#506	FN	--	F	517
+#507	FN	--	P	517
+#508	FN	--	C	513
+#509	FN	--	C	513
+#510	PNCT	--	U	513
+#511	FN	--	C	513
+#512	PNCT	--	U	513
+#513	FN	--	T	517
+#514	FN	--	A	515
+#515	FN	--	E	516
+#516	FN	--	A	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 180008

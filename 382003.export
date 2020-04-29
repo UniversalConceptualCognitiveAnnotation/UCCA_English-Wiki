@@ -1,0 +1,30 @@
+#BOS 382003
+In	Word	--	Terminal	500
+his	Word	--	Terminal	501
+spare	Word	--	Terminal	502
+time	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+Gyllenhaal	Word	--	Terminal	505
+enjoys	Word	--	Terminal	506
+woodworking	Word	--	Terminal	507
+and	Word	--	Terminal	508
+cooking	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	FN	--	R	511
+#501	FN	--	E	511
+#502	FN	--	E	511
+#503	FN	--	C	511
+#504	PNCT	--	U	515
+#505	FN	--	A	515	A*	512	A*	513
+#506	FN	--	P	515
+#507	FN	--	P	512
+#508	FN	--	L	514
+#509	FN	--	P	513
+#510	PNCT	--	U	513
+#511	FN	--	T	515
+#512	FN	--	H	514
+#513	FN	--	H	514
+#514	FN	--	A	515
+#515	FN	--	H	516
+#516	FN	--	--	0
+#EOS 382003

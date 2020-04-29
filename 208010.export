@@ -1,0 +1,33 @@
+#BOS 208010
+Tootsie	Word	--	Terminal	500
+earned	Word	--	Terminal	501
+ten	Word	--	Terminal	502
+Academy	Word	--	Terminal	503
+Award	Word	--	Terminal	504
+nominations	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+including	Word	--	Terminal	507
+Hoffman	Word	--	Terminal	508
+'s	Word	--	Terminal	509
+fifth	Word	--	Terminal	510
+nomination	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	A	514	A*	516
+#501	FN	--	D	514	D*	516
+#502	FN	--	D	514
+#503	FN	--	E	513
+#504	FN	--	C	513
+#505	FN	--	P	514
+#506	PNCT	--	U	517
+#507	FN	--	L	517
+#508	FN	--	C	515
+#509	FN	--	R	515
+#510	FN	--	D	516
+#511	FN	--	P	516
+#512	PNCT	--	U	516
+#513	FN	--	A	514
+#514	FN	--	H	517
+#515	FN	--	A	516
+#516	FN	--	H	517
+#517	FN	--	--	0
+#EOS 208010

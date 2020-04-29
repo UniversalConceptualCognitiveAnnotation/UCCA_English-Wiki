@@ -1,0 +1,46 @@
+#BOS 138009
+The	Word	--	Terminal	500
+movie	Word	--	Terminal	501
+was	Word	--	Terminal	502
+shot	Word	--	Terminal	503
+in	Word	--	Terminal	504
+London	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+and	Word	--	Terminal	507
+was	Word	--	Terminal	508
+"	Punctuation	--	Terminal	509
+a	Word	--	Terminal	510
+completely	Word	--	Terminal	511
+miserable	Word	--	Terminal	512
+experience	Word	--	Terminal	513
+"	Punctuation	--	Terminal	514
+for	Word	--	Terminal	515
+Hepburn	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	E	518
+#501	FN	--	C	518	A*	524
+#502	FN	--	F	523
+#503	FN	--	P	523
+#504	FN	--	R	519
+#505	FN	--	C	519
+#506	PNCT	--	U	525
+#507	FN	--	L	525
+#508	FN	--	F	524
+#509	PNCT	--	U	524
+#510	FN	--	E	520
+#511	FN	--	E	521
+#512	FN	--	C	521
+#513	FN	--	C	520
+#514	PNCT	--	U	524
+#515	FN	--	R	522
+#516	FN	--	C	522
+#517	PNCT	--	U	522
+#518	FN	--	A	523
+#519	FN	--	A	523
+#520	FN	--	P	524
+#521	FN	--	D	524
+#522	FN	--	A	524
+#523	FN	--	H	525
+#524	FN	--	H	525
+#525	FN	--	--	0
+#EOS 138009

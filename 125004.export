@@ -1,0 +1,41 @@
+#BOS 125004
+She	Word	--	Terminal	500
+left	Word	--	Terminal	501
+halfway	Word	--	Terminal	502
+through	Word	--	Terminal	503
+the	Word	--	Terminal	504
+summer	Word	--	Terminal	505
+season	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+and	Word	--	Terminal	508
+continued	Word	--	Terminal	509
+studying	Word	--	Terminal	510
+with	Word	--	Terminal	511
+a	Word	--	Terminal	512
+drama	Word	--	Terminal	513
+tutor	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	A	520	A*	521
+#501	FN	--	P	520
+#502	FN	--	C	516
+#503	FN	--	R	516
+#504	FN	--	E	517
+#505	FN	--	E	517
+#506	FN	--	C	517
+#507	PNCT	--	U	522
+#508	FN	--	L	522
+#509	FN	--	D	521
+#510	FN	--	P	521
+#511	FN	--	R	519
+#512	FN	--	E	518
+#513	FN	--	A	519
+#514	FN	--	C	518
+#515	PNCT	--	U	518
+#516	FN	--	E	517
+#517	FN	--	T	520
+#518	FN	--	A	519
+#519	FN	--	A	521
+#520	FN	--	H	522
+#521	FN	--	H	522
+#522	FN	--	--	0
+#EOS 125004

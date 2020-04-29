@@ -1,0 +1,56 @@
+#BOS 599005
+Wings	Word	--	Terminal	500
+'	Punctuation	--	Terminal	501
+1977	Word	--	Terminal	502
+release	Word	--	Terminal	503
+"	Punctuation	--	Terminal	504
+Mull	Word	--	Terminal	505
+of	Word	--	Terminal	505
+Kintyre	Word	--	Terminal	505
+"	Punctuation	--	Terminal	506
+is	Word	--	Terminal	507
+one	Word	--	Terminal	508
+of	Word	--	Terminal	509
+the	Word	--	Terminal	510
+all	Word	--	Terminal	511
+-	Punctuation	--	Terminal	512
+time	Word	--	Terminal	513
+best	Word	--	Terminal	514
+-	Punctuation	--	Terminal	515
+selling	Word	--	Terminal	516
+singles	Word	--	Terminal	517
+in	Word	--	Terminal	518
+the	Word	--	Terminal	519
+UK	Word	--	Terminal	520
+.	Punctuation	--	Terminal	521
+#500	FN	--	A	522
+#501	PNCT	--	U	522
+#502	FN	--	T	522
+#503	FN	--	P	522
+#504	PNCT	--	U	522
+#505	FN	--	C	523	A*	522
+#506	PNCT	--	U	528
+#507	FN	--	S	528
+#508	FN	--	E	527
+#509	FN	--	F	527
+#510	FN	--	E	527
+#511	FN	--	E	524
+#512	PNCT	--	U	524
+#513	FN	--	C	524
+#514	FN	--	D	526
+#515	PNCT	--	U	526
+#516	FN	--	P	526
+#517	FN	--	C	527	A*	526
+#518	FN	--	R	525
+#519	FN	--	E	525
+#520	FN	--	C	525
+#521	PNCT	--	U	525
+#522	FN	--	E	523
+#523	FN	--	A	528
+#524	FN	--	T	526
+#525	FN	--	A	526
+#526	FN	--	E	527
+#527	FN	--	A	528
+#528	FN	--	H	529
+#529	FN	--	--	0
+#EOS 599005

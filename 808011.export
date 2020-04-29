@@ -1,0 +1,45 @@
+#BOS 808011
+At	Word	--	Terminal	500
+times	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+she	Word	--	Terminal	503
+skipped	Word	--	Terminal	504
+school	Word	--	Terminal	505
+to	Word	--	Terminal	506
+see	Word	--	Terminal	507
+artists	Word	--	Terminal	508
+such	Word	--	Terminal	509
+as	Word	--	Terminal	509
+Fabian	Word	--	Terminal	510
+,	Punctuation	--	Terminal	511
+Bobby	Word	--	Terminal	512
+Darin	Word	--	Terminal	512
+and	Word	--	Terminal	513
+Chuck	Word	--	Terminal	514
+Berry	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	R	516
+#501	FN	--	C	516
+#502	PNCT	--	U	517
+#503	FN	--	A	517	A*	522
+#504	FN	--	P	517
+#505	FN	--	A	517
+#506	FN	--	L	523
+#507	FN	--	P	522
+#508	FN	--	P	518
+#509	FN	--	R	520
+#510	FN	--	C	519
+#511	PNCT	--	U	519
+#512	FN	--	C	519
+#513	FN	--	N	519
+#514	FN	--	C	519
+#515	PNCT	--	U	519
+#516	FN	--	T	517
+#517	FN	--	H	523
+#518	FN	--	C	521
+#519	FN	--	C	520
+#520	FN	--	E	521
+#521	FN	--	A	522
+#522	FN	--	H	523
+#523	FN	--	--	0
+#EOS 808011

@@ -1,0 +1,53 @@
+#BOS 502001
+In	Word	--	Terminal	500
+the	Word	--	Terminal	501
+new	Word	--	Terminal	502
+environment	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+his	Word	--	Terminal	505
+cocaine	Word	--	Terminal	506
+use	Word	--	Terminal	507
+increased	Word	--	Terminal	508
+;	Punctuation	--	Terminal	509
+so	Word	--	Terminal	510
+too	Word	--	Terminal	511
+did	Word	--	Terminal	512
+his	Word	--	Terminal	513
+interest	Word	--	Terminal	514
+in	Word	--	Terminal	515
+pursuits	Word	--	Terminal	516
+outside	Word	--	Terminal	517
+his	Word	--	Terminal	518
+musical	Word	--	Terminal	519
+career	Word	--	Terminal	520
+.	Punctuation	--	Terminal	521
+#500	FN	--	R	523
+#501	FN	--	E	523
+#502	FN	--	S	522
+#503	FN	--	C	523	A*	522
+#504	PNCT	--	U	524
+#505	FN	--	A	524
+#506	FN	--	A	524
+#507	FN	--	P	524
+#508	FN	--	D	524	D*	527
+#509	PNCT	--	U	528
+#510	FN	--	L	528
+#511	FN	--	D	527
+#512	FN	--	F	527
+#513	FN	--	A	527
+#514	FN	--	S	527
+#515	FN	--	R	526
+#516	FN	--	P	526
+#517	FN	--	R	525
+#518	FN	--	A	525
+#519	FN	--	A	525
+#520	FN	--	P	525
+#521	PNCT	--	U	525
+#522	FN	--	E	523
+#523	FN	--	A	524
+#524	FN	--	H	528
+#525	FN	--	A	526
+#526	FN	--	A	527
+#527	FN	--	H	528
+#528	FN	--	--	0
+#EOS 502001

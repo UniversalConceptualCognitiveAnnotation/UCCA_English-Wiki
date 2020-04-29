@@ -1,0 +1,29 @@
+#BOS 245011
+Nonetheless	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+the	Word	--	Terminal	502
+film	Word	--	Terminal	503
+was	Word	--	Terminal	504
+a	Word	--	Terminal	505
+surprise	Word	--	Terminal	506
+box	Word	--	Terminal	507
+office	Word	--	Terminal	508
+disappointment	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	FN	--	L	515
+#501	PNCT	--	U	515
+#502	FN	--	F	511
+#503	FN	--	C	511
+#504	FN	--	F	514
+#505	FN	--	F	512
+#506	FN	--	C	512
+#507	FN	--	E	513
+#508	FN	--	C	513
+#509	FN	--	S	514
+#510	PNCT	--	U	514
+#511	FN	--	A	514
+#512	FN	--	G	514
+#513	FN	--	A	514
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 245011

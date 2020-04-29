@@ -1,0 +1,25 @@
+#BOS 477004
+In	Word	--	Terminal	500
+2012	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+Johnson	Word	--	Terminal	503
+endorsed	Word	--	Terminal	504
+Barack	Word	--	Terminal	505
+Obama	Word	--	Terminal	505
+for	Word	--	Terminal	506
+President	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	FN	--	R	509
+#501	FN	--	C	509
+#502	PNCT	--	U	511
+#503	FN	--	A	511
+#504	FN	--	P	511
+#505	FN	--	A	511	A*	510
+#506	FN	--	R	510
+#507	FN	--	P	510
+#508	PNCT	--	U	510
+#509	FN	--	T	511
+#510	FN	--	A	511
+#511	FN	--	H	512
+#512	FN	--	--	0
+#EOS 477004

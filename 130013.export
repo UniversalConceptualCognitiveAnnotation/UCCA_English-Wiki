@@ -1,0 +1,45 @@
+#BOS 130013
+She	Word	--	Terminal	500
+was	Word	--	Terminal	501
+cast	Word	--	Terminal	502
+in	Word	--	Terminal	503
+Howard	Word	--	Terminal	504
+Hawks	Word	--	Terminal	504
+'	Punctuation	--	Terminal	505
+screwball	Word	--	Terminal	506
+comedy	Word	--	Terminal	507
+Bringing	Word	--	Terminal	508
+Up	Word	--	Terminal	508
+Baby	Word	--	Terminal	508
+(	Punctuation	--	Terminal	509
+1938	Word	--	Terminal	510
+)	Punctuation	--	Terminal	511
+alongside	Word	--	Terminal	512
+Cary	Word	--	Terminal	513
+Grant	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	A	522
+#501	FN	--	F	522
+#502	FN	--	P	522
+#503	FN	--	R	521
+#504	FN	--	A	518
+#505	PNCT	--	U	521
+#506	FN	--	E	521
+#507	FN	--	E	521
+#508	FN	--	C	521	A*	518	A*	520
+#509	PNCT	--	U	521
+#510	FN	--	T	520
+#511	PNCT	--	U	522
+#512	FN	--	R	515
+#513	FN	--	C	515
+#514	PNCT	--	U	515
+#515	FN	--	A	522
+#516	FN	--	A	522
+#517	FN	--	S	518
+#518	FN	--	E	521
+#519	FN	--	P	520
+#520	FN	--	E	521
+#521	FN	--	A	522
+#522	FN	--	H	523
+#523	FN	--	--	0
+#EOS 130013

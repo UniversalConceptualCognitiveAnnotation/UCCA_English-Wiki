@@ -1,0 +1,42 @@
+#BOS 564009
+Actor	Word	--	Terminal	500
+Charles	Word	--	Terminal	501
+Laughton	Word	--	Terminal	501
+hosted	Word	--	Terminal	502
+the	Word	--	Terminal	503
+show	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+filling	Word	--	Terminal	506
+in	Word	--	Terminal	506
+while	Word	--	Terminal	507
+Sullivan	Word	--	Terminal	508
+recuperated	Word	--	Terminal	509
+from	Word	--	Terminal	510
+a	Word	--	Terminal	511
+car	Word	--	Terminal	512
+accident	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	A	515
+#501	FN	--	C	516	A*	517
+#502	FN	--	P	520
+#503	FN	--	E	518
+#504	FN	--	C	518
+#505	PNCT	--	U	522
+#506	FN	--	P	517
+#507	FN	--	L	522
+#508	FN	--	A	521
+#509	FN	--	P	521
+#510	FN	--	R	519
+#511	FN	--	F	519
+#512	FN	--	A	519
+#513	FN	--	P	519
+#514	PNCT	--	U	519
+#515	FN	--	E	516
+#516	FN	--	A	520
+#517	FN	--	H	522
+#518	FN	--	A	520
+#519	FN	--	A	521
+#520	FN	--	H	522
+#521	FN	--	H	522
+#522	FN	--	--	0
+#EOS 564009

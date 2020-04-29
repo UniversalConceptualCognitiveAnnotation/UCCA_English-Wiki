@@ -1,0 +1,45 @@
+#BOS 560000
+Presley	Word	--	Terminal	500
+renewed	Word	--	Terminal	501
+Neal	Word	--	Terminal	502
+'s	Word	--	Terminal	503
+management	Word	--	Terminal	504
+contract	Word	--	Terminal	505
+in	Word	--	Terminal	506
+August	Word	--	Terminal	507
+1955	Word	--	Terminal	508
+,	Punctuation	--	Terminal	509
+simultaneously	Word	--	Terminal	510
+appointing	Word	--	Terminal	511
+Parker	Word	--	Terminal	512
+as	Word	--	Terminal	513
+his	Word	--	Terminal	514
+special	Word	--	Terminal	515
+adviser	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	A	522	A*	523
+#501	FN	--	P	522
+#502	FN	--	A	518
+#503	FN	--	S	518
+#504	FN	--	E	519
+#505	FN	--	C	519	A*	518
+#506	FN	--	R	520
+#507	FN	--	C	520
+#508	FN	--	C	520
+#509	PNCT	--	U	524
+#510	FN	--	L	524
+#511	FN	--	P	523
+#512	FN	--	A	523	A*	521
+#513	FN	--	R	521
+#514	FN	--	A	521
+#515	FN	--	D	521
+#516	FN	--	P	521
+#517	PNCT	--	U	521
+#518	FN	--	E	519
+#519	FN	--	A	522
+#520	FN	--	T	522
+#521	FN	--	A	523
+#522	FN	--	H	524
+#523	FN	--	H	524
+#524	FN	--	--	0
+#EOS 560000

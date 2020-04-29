@@ -1,0 +1,54 @@
+#BOS 145006
+Despite	Word	--	Terminal	500
+this	Word	--	Terminal	501
+she	Word	--	Terminal	502
+enjoyed	Word	--	Terminal	503
+the	Word	--	Terminal	504
+fame	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+and	Word	--	Terminal	507
+confessed	Word	--	Terminal	508
+that	Word	--	Terminal	509
+she	Word	--	Terminal	510
+would	Word	--	Terminal	511
+not	Word	--	Terminal	512
+have	Word	--	Terminal	513
+liked	Word	--	Terminal	514
+the	Word	--	Terminal	515
+press	Word	--	Terminal	516
+to	Word	--	Terminal	517
+ignore	Word	--	Terminal	518
+her	Word	--	Terminal	519
+completely	Word	--	Terminal	520
+.	Punctuation	--	Terminal	521
+#500	FN	--	C	522
+#501	FN	--	F	522
+#502	FN	--	A	527	A*	528
+#503	FN	--	P	527
+#504	FN	--	E	523
+#505	FN	--	C	523
+#506	PNCT	--	U	529
+#507	FN	--	L	529
+#508	FN	--	P	528
+#509	FN	--	R	526
+#510	FN	--	A	526
+#511	FN	--	D	526
+#512	FN	--	D	526
+#513	FN	--	F	526
+#514	FN	--	P	526
+#515	FN	--	E	524
+#516	FN	--	C	524
+#517	FN	--	F	525
+#518	FN	--	P	525
+#519	FN	--	A	525
+#520	FN	--	D	525
+#521	PNCT	--	U	525
+#522	FN	--	L	529
+#523	FN	--	A	527
+#524	FN	--	A	526	A*	525
+#525	FN	--	A	526
+#526	FN	--	A	528
+#527	FN	--	H	529
+#528	FN	--	H	529
+#529	FN	--	--	0
+#EOS 145006

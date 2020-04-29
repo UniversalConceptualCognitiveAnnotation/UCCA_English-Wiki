@@ -1,0 +1,35 @@
+#BOS 115007
+She	Word	--	Terminal	500
+married	Word	--	Terminal	501
+once	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+as	Word	--	Terminal	504
+a	Word	--	Terminal	505
+young	Word	--	Terminal	506
+woman	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+but	Word	--	Terminal	509
+thereafter	Word	--	Terminal	510
+lived	Word	--	Terminal	511
+independently	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	A	517	A*	514
+#501	FN	--	P	517
+#502	FN	--	D	517
+#503	PNCT	--	U	517
+#504	FN	--	R	516
+#505	FN	--	E	515
+#506	FN	--	S	516
+#507	FN	--	C	515
+#508	PNCT	--	U	518
+#509	FN	--	L	518
+#510	FN	--	L	518
+#511	FN	--	P	514
+#512	FN	--	D	514
+#513	PNCT	--	U	514
+#514	FN	--	H	518
+#515	FN	--	A	516
+#516	FN	--	A	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 115007

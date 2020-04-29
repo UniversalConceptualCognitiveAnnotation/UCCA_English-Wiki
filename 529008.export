@@ -1,0 +1,34 @@
+#BOS 529008
+Garland	Word	--	Terminal	500
+engaged	Word	--	Terminal	501
+Sid	Word	--	Terminal	502
+Luft	Word	--	Terminal	502
+as	Word	--	Terminal	503
+her	Word	--	Terminal	504
+manager	Word	--	Terminal	505
+the	Word	--	Terminal	506
+same	Word	--	Terminal	507
+year	Word	--	Terminal	508
+she	Word	--	Terminal	509
+divorced	Word	--	Terminal	510
+Minnelli	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	A	514
+#501	FN	--	P	514
+#502	FN	--	A	514	A*	513
+#503	FN	--	R	513
+#504	FN	--	A	513
+#505	FN	--	S	513
+#506	FN	--	E	515
+#507	FN	--	E	515
+#508	FN	--	C	515
+#509	FN	--	A	516
+#510	FN	--	P	516
+#511	FN	--	A	516
+#512	PNCT	--	U	516
+#513	FN	--	A	514
+#514	FN	--	H	517
+#515	FN	--	L	517
+#516	FN	--	H	517
+#517	FN	--	--	0
+#EOS 529008

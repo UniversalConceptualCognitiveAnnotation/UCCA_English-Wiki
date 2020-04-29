@@ -1,0 +1,73 @@
+#BOS 245005
+The	Word	--	Terminal	500
+film	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+an	Word	--	Terminal	503
+adaptation	Word	--	Terminal	504
+of	Word	--	Terminal	505
+Jack	Word	--	Terminal	506
+London	Word	--	Terminal	506
+'s	Word	--	Terminal	507
+novel	Word	--	Terminal	508
+of	Word	--	Terminal	509
+the	Word	--	Terminal	510
+same	Word	--	Terminal	511
+name	Word	--	Terminal	512
+,	Punctuation	--	Terminal	513
+featured	Word	--	Terminal	514
+Hawke	Word	--	Terminal	515
+as	Word	--	Terminal	516
+Jack	Word	--	Terminal	517
+Conroy	Word	--	Terminal	517
+,	Punctuation	--	Terminal	518
+a	Word	--	Terminal	519
+Yukon	Word	--	Terminal	520
+gold	Word	--	Terminal	521
+hunter	Word	--	Terminal	522
+who	Word	--	Terminal	523
+befriends	Word	--	Terminal	524
+a	Word	--	Terminal	525
+wolfdog	Word	--	Terminal	526
+.	Punctuation	--	Terminal	527
+#500	FN	--	F	535
+#501	FN	--	C	535	A*	534
+#502	PNCT	--	U	535
+#503	FN	--	F	528
+#504	FN	--	C	528
+#505	FN	--	R	533
+#506	FN	--	A	529
+#507	FN	--	S	529
+#508	FN	--	C	533	A*	529
+#509	FN	--	R	530
+#510	FN	--	F	530
+#511	FN	--	E	530
+#512	FN	--	C	530
+#513	PNCT	--	U	539
+#514	FN	--	P	539
+#515	FN	--	A	539
+#516	FN	--	R	538
+#517	FN	--	C	538	A*	531
+#518	PNCT	--	U	538
+#519	FN	--	F	537
+#520	FN	--	A	531
+#521	FN	--	A	531
+#522	FN	--	P	531	A*	536
+#523	FN	--	R	536
+#524	FN	--	P	536
+#525	FN	--	F	532
+#526	FN	--	C	532
+#527	PNCT	--	U	532
+#528	FN	--	P	534
+#529	FN	--	E	533
+#530	FN	--	E	533
+#531	FN	--	C	537
+#532	FN	--	A	536
+#533	FN	--	A	534
+#534	FN	--	E	535
+#535	FN	--	A	539
+#536	FN	--	E	537
+#537	FN	--	E	538
+#538	FN	--	A	539
+#539	FN	--	H	540
+#540	FN	--	--	0
+#EOS 245005

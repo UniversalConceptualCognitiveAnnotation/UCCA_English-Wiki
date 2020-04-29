@@ -1,0 +1,27 @@
+#BOS 133006
+Released	Word	--	Terminal	500
+in	Word	--	Terminal	501
+1942	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+Woman	Word	--	Terminal	504
+of	Word	--	Terminal	504
+the	Word	--	Terminal	504
+Year	Word	--	Terminal	504
+was	Word	--	Terminal	505
+another	Word	--	Terminal	506
+success	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	FN	--	P	510
+#501	FN	--	R	509
+#502	FN	--	C	509
+#503	PNCT	--	U	510
+#504	FN	--	A	511	A*	510
+#505	FN	--	F	511
+#506	FN	--	D	511
+#507	FN	--	S	511
+#508	PNCT	--	U	511
+#509	FN	--	T	510
+#510	FN	--	H	512
+#511	FN	--	H	512
+#512	FN	--	--	0
+#EOS 133006

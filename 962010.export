@@ -1,0 +1,41 @@
+#BOS 962010
+Merivale	Word	--	Terminal	500
+contacted	Word	--	Terminal	501
+Olivier	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+who	Word	--	Terminal	504
+was	Word	--	Terminal	505
+receiving	Word	--	Terminal	506
+treatment	Word	--	Terminal	507
+for	Word	--	Terminal	508
+prostate	Word	--	Terminal	509
+cancer	Word	--	Terminal	510
+in	Word	--	Terminal	511
+a	Word	--	Terminal	512
+nearby	Word	--	Terminal	513
+hospital	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	A	521
+#501	FN	--	P	521
+#502	FN	--	C	520	A*	519
+#503	PNCT	--	U	520
+#504	FN	--	R	519
+#505	FN	--	F	519
+#506	FN	--	D	519
+#507	FN	--	P	519
+#508	FN	--	R	516
+#509	FN	--	A	516
+#510	FN	--	P	516
+#511	FN	--	R	518
+#512	FN	--	E	518
+#513	FN	--	S	517
+#514	FN	--	C	518	A*	517
+#515	PNCT	--	U	518
+#516	FN	--	A	519
+#517	FN	--	E	518
+#518	FN	--	A	519
+#519	FN	--	E	520
+#520	FN	--	A	521
+#521	FN	--	H	522
+#522	FN	--	--	0
+#EOS 962010

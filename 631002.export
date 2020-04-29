@@ -1,0 +1,43 @@
+#BOS 631002
+Seven	Word	--	Terminal	500
+years	Word	--	Terminal	501
+Lennon	Word	--	Terminal	502
+'s	Word	--	Terminal	503
+senior	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+Parkes	Word	--	Terminal	506
+took	Word	--	Terminal	507
+him	Word	--	Terminal	508
+on	Word	--	Terminal	509
+trips	Word	--	Terminal	510
+and	Word	--	Terminal	511
+to	Word	--	Terminal	512
+local	Word	--	Terminal	513
+cinemas	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	Q	516
+#501	FN	--	C	516
+#502	FN	--	C	517
+#503	FN	--	R	517
+#504	FN	--	S	521
+#505	PNCT	--	U	524
+#506	FN	--	A	522	A*	523
+#507	FN	--	D	522	P*	523
+#508	FN	--	A	522	A*	523
+#509	FN	--	R	518
+#510	FN	--	C	518
+#511	FN	--	L	524
+#512	FN	--	R	519
+#513	FN	--	E	519
+#514	FN	--	C	519
+#515	PNCT	--	U	519
+#516	FN	--	T	521
+#517	FN	--	A	521
+#518	FN	--	P	522
+#519	FN	--	A	523
+#520	FN	--	A	521
+#521	FN	--	H	524
+#522	FN	--	H	524
+#523	FN	--	H	524
+#524	FN	--	--	0
+#EOS 631002

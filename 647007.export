@@ -1,0 +1,47 @@
+#BOS 647007
+Pang	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+22	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+astounded	Word	--	Terminal	504
+by	Word	--	Terminal	505
+Ono	Word	--	Terminal	506
+'s	Word	--	Terminal	507
+proposition	Word	--	Terminal	508
+,	Punctuation	--	Terminal	509
+eventually	Word	--	Terminal	510
+agreed	Word	--	Terminal	511
+to	Word	--	Terminal	512
+become	Word	--	Terminal	513
+Lennon	Word	--	Terminal	514
+'s	Word	--	Terminal	515
+companion	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	C	519	A*	525	A*	523	A*	518
+#501	PNCT	--	U	519
+#502	FN	--	S	518
+#503	PNCT	--	U	524
+#504	FN	--	P	524
+#505	FN	--	R	521
+#506	FN	--	C	520
+#507	FN	--	R	520
+#508	FN	--	P	521
+#509	PNCT	--	U	526
+#510	FN	--	D	525
+#511	FN	--	P	525
+#512	FN	--	R	523
+#513	FN	--	D	523
+#514	FN	--	C	522
+#515	FN	--	R	522
+#516	FN	--	S	523
+#517	PNCT	--	U	523
+#518	FN	--	E	519
+#519	FN	--	A	524
+#520	FN	--	A	521
+#521	FN	--	A	524
+#522	FN	--	A	523
+#523	FN	--	A	525
+#524	FN	--	H	526
+#525	FN	--	H	526
+#526	FN	--	--	0
+#EOS 647007

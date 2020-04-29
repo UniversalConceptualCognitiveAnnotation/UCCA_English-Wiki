@@ -1,0 +1,45 @@
+#BOS 249001
+Hawke	Word	--	Terminal	500
+played	Word	--	Terminal	501
+Sergeant	Word	--	Terminal	502
+Jake	Word	--	Terminal	503
+Roenick	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+a	Word	--	Terminal	505
+Detroit	Word	--	Terminal	506
+policeman	Word	--	Terminal	507
+working	Word	--	Terminal	508
+desk	Word	--	Terminal	509
+duty	Word	--	Terminal	510
+in	Word	--	Terminal	511
+a	Word	--	Terminal	512
+rundown	Word	--	Terminal	513
+police	Word	--	Terminal	514
+station	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	A	523
+#501	FN	--	P	523
+#502	FN	--	E	522
+#503	FN	--	C	522
+#504	PNCT	--	U	522
+#505	FN	--	F	521
+#506	FN	--	E	521
+#507	FN	--	A	517
+#508	FN	--	P	520
+#509	FN	--	E	518
+#510	FN	--	C	518
+#511	FN	--	R	519
+#512	FN	--	F	519
+#513	FN	--	E	519
+#514	FN	--	E	519
+#515	FN	--	C	519
+#516	PNCT	--	U	519
+#517	FN	--	C	521	A*	520
+#518	FN	--	A	520
+#519	FN	--	A	520
+#520	FN	--	E	521
+#521	FN	--	E	522
+#522	FN	--	A	523
+#523	FN	--	H	524
+#524	FN	--	--	0
+#EOS 249001

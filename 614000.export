@@ -1,0 +1,23 @@
+#BOS 614000
+McCartney	Word	--	Terminal	500
+'s	Word	--	Terminal	501
+vocals	Word	--	Terminal	502
+cross	Word	--	Terminal	503
+several	Word	--	Terminal	504
+musical	Word	--	Terminal	505
+genres	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+#500	FN	--	C	508
+#501	FN	--	R	508
+#502	FN	--	C	509
+#503	FN	--	P	511
+#504	FN	--	Q	510
+#505	FN	--	E	510
+#506	FN	--	C	510
+#507	PNCT	--	U	510
+#508	FN	--	E	509
+#509	FN	--	A	511
+#510	FN	--	A	511
+#511	FN	--	H	512
+#512	FN	--	--	0
+#EOS 614000

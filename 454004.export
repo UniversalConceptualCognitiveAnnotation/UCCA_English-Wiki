@@ -1,0 +1,36 @@
+#BOS 454004
+Jennings	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+too	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+was	Word	--	Terminal	504
+not	Word	--	Terminal	505
+completely	Word	--	Terminal	506
+satisfied	Word	--	Terminal	507
+with	Word	--	Terminal	508
+his	Word	--	Terminal	509
+job	Word	--	Terminal	510
+in	Word	--	Terminal	511
+London	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	C	514
+#501	PNCT	--	U	514
+#502	FN	--	E	514
+#503	PNCT	--	U	518
+#504	FN	--	F	518
+#505	FN	--	E	515
+#506	FN	--	C	515
+#507	FN	--	S	518
+#508	FN	--	R	517
+#509	FN	--	A	517
+#510	FN	--	P	517
+#511	FN	--	R	516
+#512	FN	--	C	516
+#513	PNCT	--	U	516
+#514	FN	--	A	518
+#515	FN	--	D	518
+#516	FN	--	A	517
+#517	FN	--	A	518
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 454004

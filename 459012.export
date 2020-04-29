@@ -1,0 +1,47 @@
+#BOS 459012
+On	Word	--	Terminal	500
+January	Word	--	Terminal	501
+5	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+Jennings	Word	--	Terminal	504
+moderated	Word	--	Terminal	505
+the	Word	--	Terminal	506
+Democratic	Word	--	Terminal	507
+primary	Word	--	Terminal	508
+debate	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+held	Word	--	Terminal	511
+at	Word	--	Terminal	512
+the	Word	--	Terminal	513
+University	Word	--	Terminal	514
+of	Word	--	Terminal	515
+New	Word	--	Terminal	516
+Hampshire	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	R	518
+#501	FN	--	C	518
+#502	FN	--	C	518
+#503	PNCT	--	U	524
+#504	FN	--	A	524
+#505	FN	--	P	524
+#506	FN	--	E	519
+#507	FN	--	C	519
+#508	FN	--	D	523
+#509	FN	--	P	523	A*	522
+#510	PNCT	--	U	523
+#511	FN	--	S	522
+#512	FN	--	R	521
+#513	FN	--	E	521
+#514	FN	--	C	521
+#515	FN	--	R	520
+#516	FN	--	C	520
+#517	PNCT	--	U	520
+#518	FN	--	T	524
+#519	FN	--	A	523
+#520	FN	--	E	521
+#521	FN	--	A	522
+#522	FN	--	A	523
+#523	FN	--	A	524
+#524	FN	--	H	525
+#525	FN	--	--	0
+#EOS 459012

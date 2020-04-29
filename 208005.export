@@ -1,0 +1,41 @@
+#BOS 208005
+His	Word	--	Terminal	500
+next	Word	--	Terminal	501
+film	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+Michael	Word	--	Terminal	504
+Apted	Word	--	Terminal	504
+'s	Word	--	Terminal	505
+Agatha	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+was	Word	--	Terminal	508
+with	Word	--	Terminal	509
+Vanessa	Word	--	Terminal	510
+Redgrave	Word	--	Terminal	510
+as	Word	--	Terminal	511
+Agatha	Word	--	Terminal	512
+Christie	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	A	514
+#501	FN	--	E	515
+#502	FN	--	C	515	A*	514
+#503	PNCT	--	U	517
+#504	FN	--	A	516
+#505	FN	--	S	516
+#506	FN	--	C	517	A*	516
+#507	PNCT	--	U	520
+#508	FN	--	S	520
+#509	FN	--	R	518
+#510	FN	--	C	518
+#511	FN	--	R	519
+#512	FN	--	C	519
+#513	PNCT	--	U	519
+#514	FN	--	E	515
+#515	FN	--	E	517
+#516	FN	--	E	517
+#517	FN	--	A	520
+#518	FN	--	A	520
+#519	FN	--	A	520
+#520	FN	--	H	521
+#521	FN	--	--	0
+#EOS 208005

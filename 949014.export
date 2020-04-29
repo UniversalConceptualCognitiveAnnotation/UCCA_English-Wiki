@@ -1,0 +1,29 @@
+#BOS 949014
+Since	Word	--	Terminal	500
+late	Word	--	Terminal	501
+1994	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+she	Word	--	Terminal	504
+has	Word	--	Terminal	505
+had	Word	--	Terminal	506
+platinum	Word	--	Terminal	507
+blond	Word	--	Terminal	508
+hair	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	FN	--	R	511
+#501	FN	--	E	511
+#502	FN	--	C	511
+#503	PNCT	--	U	514
+#504	FN	--	A	514
+#505	FN	--	F	514
+#506	FN	--	P	514
+#507	FN	--	A	512
+#508	FN	--	S	512
+#509	FN	--	C	513	A*	512
+#510	PNCT	--	U	513
+#511	FN	--	T	514
+#512	FN	--	E	513
+#513	FN	--	A	514
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 949014

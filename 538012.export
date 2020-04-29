@@ -1,0 +1,46 @@
+#BOS 538012
+This	Word	--	Terminal	500
+makeshift	Word	--	Terminal	501
+theatre	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+called	Word	--	Terminal	504
+the	Word	--	Terminal	505
+Bijou	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+was	Word	--	Terminal	508
+furnished	Word	--	Terminal	509
+with	Word	--	Terminal	510
+chairs	Word	--	Terminal	511
+borrowed	Word	--	Terminal	512
+from	Word	--	Terminal	513
+a	Word	--	Terminal	514
+local	Word	--	Terminal	515
+undertaker	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	E	521
+#501	FN	--	E	521
+#502	FN	--	C	521	A*	520
+#503	PNCT	--	U	521
+#504	FN	--	S	520
+#505	FN	--	F	518
+#506	FN	--	C	518
+#507	PNCT	--	U	524
+#508	FN	--	F	524
+#509	FN	--	P	524
+#510	FN	--	R	523
+#511	FN	--	C	523	A*	522
+#512	FN	--	P	522
+#513	FN	--	R	519
+#514	FN	--	F	519
+#515	FN	--	A	519
+#516	FN	--	A	519
+#517	PNCT	--	U	519
+#518	FN	--	A	520
+#519	FN	--	A	522
+#520	FN	--	E	521
+#521	FN	--	A	524
+#522	FN	--	E	523
+#523	FN	--	A	524
+#524	FN	--	H	525
+#525	FN	--	--	0
+#EOS 538012

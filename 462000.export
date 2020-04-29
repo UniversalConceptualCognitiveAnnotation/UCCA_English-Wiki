@@ -1,0 +1,52 @@
+#BOS 462000
+In	Word	--	Terminal	500
+late	Word	--	Terminal	501
+March	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+viewers	Word	--	Terminal	504
+started	Word	--	Terminal	505
+noticing	Word	--	Terminal	506
+that	Word	--	Terminal	507
+Jennings	Word	--	Terminal	508
+'	Punctuation	--	Terminal	509
+voice	Word	--	Terminal	510
+sounded	Word	--	Terminal	511
+uncharacteristically	Word	--	Terminal	512
+gravelly	Word	--	Terminal	513
+and	Word	--	Terminal	514
+unhealthy	Word	--	Terminal	515
+during	Word	--	Terminal	516
+evening	Word	--	Terminal	517
+newscasts	Word	--	Terminal	518
+.	Punctuation	--	Terminal	519
+#500	FN	--	R	520
+#501	FN	--	E	520
+#502	FN	--	C	520
+#503	PNCT	--	U	526
+#504	FN	--	A	526
+#505	FN	--	D	526
+#506	FN	--	P	526
+#507	FN	--	R	522	R*	523
+#508	FN	--	E	521
+#509	PNCT	--	U	521
+#510	FN	--	C	521
+#511	FN	--	G	522	G*	523
+#512	FN	--	D	522	D*	523
+#513	FN	--	S	522
+#514	FN	--	L	524
+#515	FN	--	S	523
+#516	FN	--	L	529
+#517	FN	--	E	525
+#518	FN	--	C	525
+#519	PNCT	--	U	525
+#520	FN	--	T	526
+#521	FN	--	A	522	A*	523
+#522	FN	--	H	524
+#523	FN	--	H	524
+#524	FN	--	A	526
+#525	FN	--	A	528
+#526	FN	--	H	529
+#527	FN	--	P	528
+#528	FN	--	H	529
+#529	FN	--	--	0
+#EOS 462000

@@ -1,0 +1,38 @@
+#BOS 586013
+Depp	Word	--	Terminal	500
+accepted	Word	--	Terminal	501
+this	Word	--	Terminal	502
+role	Word	--	Terminal	503
+to	Word	--	Terminal	504
+work	Word	--	Terminal	505
+with	Word	--	Terminal	506
+actor	Word	--	Terminal	507
+Frederic	Word	--	Terminal	508
+Forrest	Word	--	Terminal	508
+,	Punctuation	--	Terminal	509
+who	Word	--	Terminal	510
+inspired	Word	--	Terminal	511
+him	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	A	518	A*	519
+#501	FN	--	P	518
+#502	FN	--	E	514
+#503	FN	--	C	514
+#504	FN	--	L	520
+#505	FN	--	P	519
+#506	FN	--	R	517
+#507	FN	--	A	515
+#508	FN	--	C	517	A*	516
+#509	PNCT	--	U	517
+#510	FN	--	R	516
+#511	FN	--	P	516
+#512	FN	--	A	516
+#513	PNCT	--	U	516
+#514	FN	--	A	518
+#515	FN	--	E	517
+#516	FN	--	E	517
+#517	FN	--	A	519
+#518	FN	--	H	520
+#519	FN	--	H	520
+#520	FN	--	--	0
+#EOS 586013

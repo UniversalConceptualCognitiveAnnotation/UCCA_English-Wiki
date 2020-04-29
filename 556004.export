@@ -1,0 +1,53 @@
+#BOS 556004
+Singing	Word	--	Terminal	500
+and	Word	--	Terminal	501
+playing	Word	--	Terminal	502
+guitar	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+he	Word	--	Terminal	505
+opened	Word	--	Terminal	506
+with	Word	--	Terminal	507
+"	Punctuation	--	Terminal	508
+Till	Word	--	Terminal	509
+I	Word	--	Terminal	509
+Waltz	Word	--	Terminal	509
+Again	Word	--	Terminal	509
+with	Word	--	Terminal	509
+You	Word	--	Terminal	509
+"	Punctuation	--	Terminal	510
+,	Punctuation	--	Terminal	511
+a	Word	--	Terminal	512
+recent	Word	--	Terminal	513
+hit	Word	--	Terminal	514
+for	Word	--	Terminal	515
+Teresa	Word	--	Terminal	516
+Brewer	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	P	518
+#501	FN	--	L	526
+#502	FN	--	P	519
+#503	FN	--	A	519
+#504	PNCT	--	U	519
+#505	FN	--	A	525	A*	518	A*	519
+#506	FN	--	P	525
+#507	FN	--	R	524
+#508	PNCT	--	U	524
+#509	FN	--	C	524
+#510	PNCT	--	U	524
+#511	PNCT	--	U	524
+#512	FN	--	E	523
+#513	FN	--	T	522
+#514	FN	--	C	523	A*	522	A*	520
+#515	FN	--	S	520
+#516	FN	--	A	520
+#517	PNCT	--	U	520
+#518	FN	--	H	526
+#519	FN	--	H	526
+#520	FN	--	E	523
+#521	FN	--	P	522
+#522	FN	--	E	523
+#523	FN	--	E	524
+#524	FN	--	A	525
+#525	FN	--	H	526
+#526	FN	--	--	0
+#EOS 556004

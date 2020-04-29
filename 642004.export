@@ -1,0 +1,40 @@
+#BOS 642004
+As	Word	--	Terminal	500
+of	Word	--	Terminal	500
+2013	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+he	Word	--	Terminal	503
+remains	Word	--	Terminal	504
+in	Word	--	Terminal	505
+prison	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+having	Word	--	Terminal	508
+been	Word	--	Terminal	509
+denied	Word	--	Terminal	510
+parole	Word	--	Terminal	511
+seven	Word	--	Terminal	512
+times	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	R	515
+#501	FN	--	C	515
+#502	PNCT	--	U	519
+#503	FN	--	A	519	A*	520
+#504	FN	--	P	519
+#505	FN	--	R	516
+#506	FN	--	C	516
+#507	PNCT	--	U	521
+#508	FN	--	F	520
+#509	FN	--	F	520
+#510	FN	--	P	520
+#511	FN	--	P	517
+#512	FN	--	Q	518
+#513	FN	--	C	518
+#514	PNCT	--	U	518
+#515	FN	--	T	519
+#516	FN	--	A	519
+#517	FN	--	A	520
+#518	FN	--	D	520
+#519	FN	--	H	521
+#520	FN	--	H	521
+#521	FN	--	--	0
+#EOS 642004

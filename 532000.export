@@ -1,0 +1,37 @@
+#BOS 532000
+With	Word	--	Terminal	500
+the	Word	--	Terminal	501
+demise	Word	--	Terminal	502
+of	Word	--	Terminal	503
+her	Word	--	Terminal	504
+television	Word	--	Terminal	505
+series	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+Garland	Word	--	Terminal	508
+returned	Word	--	Terminal	509
+to	Word	--	Terminal	510
+the	Word	--	Terminal	511
+stage	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	L	520
+#501	FN	--	F	514
+#502	FN	--	C	514
+#503	FN	--	R	516
+#504	FN	--	A	515
+#505	FN	--	E	516
+#506	FN	--	C	516	A*	515
+#507	PNCT	--	U	520
+#508	FN	--	A	519
+#509	FN	--	P	519
+#510	FN	--	R	517
+#511	FN	--	F	517
+#512	FN	--	C	517
+#513	PNCT	--	U	517
+#514	FN	--	P	518
+#515	FN	--	E	516
+#516	FN	--	A	518
+#517	FN	--	A	519
+#518	FN	--	H	520
+#519	FN	--	H	520
+#520	FN	--	--	0
+#EOS 532000

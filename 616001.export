@@ -1,0 +1,53 @@
+#BOS 616001
+However	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+his	Word	--	Terminal	502
+lack	Word	--	Terminal	503
+of	Word	--	Terminal	504
+discipline	Word	--	Terminal	505
+negatively	Word	--	Terminal	506
+affected	Word	--	Terminal	507
+his	Word	--	Terminal	508
+academic	Word	--	Terminal	509
+grades	Word	--	Terminal	510
+,	Punctuation	--	Terminal	511
+preventing	Word	--	Terminal	512
+him	Word	--	Terminal	513
+from	Word	--	Terminal	514
+earning	Word	--	Terminal	515
+admission	Word	--	Terminal	516
+to	Word	--	Terminal	517
+art	Word	--	Terminal	518
+college	Word	--	Terminal	519
+.	Punctuation	--	Terminal	520
+#500	FN	--	L	529
+#501	PNCT	--	U	529
+#502	FN	--	A	525
+#503	FN	--	D	525
+#504	FN	--	R	521
+#505	FN	--	C	521
+#506	FN	--	D	526
+#507	FN	--	P	526
+#508	FN	--	S	522
+#509	FN	--	E	523
+#510	FN	--	C	523	A*	522
+#511	PNCT	--	U	529
+#512	FN	--	P	528
+#513	FN	--	A	528	A*	527
+#514	FN	--	R	527
+#515	FN	--	D	527
+#516	FN	--	P	527
+#517	FN	--	R	524
+#518	FN	--	E	524
+#519	FN	--	C	524
+#520	PNCT	--	U	524
+#521	FN	--	P	525
+#522	FN	--	E	523
+#523	FN	--	A	526
+#524	FN	--	A	527
+#525	FN	--	A	526	A*	528
+#526	FN	--	H	529
+#527	FN	--	A	528
+#528	FN	--	H	529
+#529	FN	--	--	0
+#EOS 616001

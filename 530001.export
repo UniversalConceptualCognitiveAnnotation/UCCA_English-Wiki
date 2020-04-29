@@ -1,0 +1,36 @@
+#BOS 530001
+She	Word	--	Terminal	500
+signed	Word	--	Terminal	501
+a	Word	--	Terminal	502
+three	Word	--	Terminal	503
+-	Punctuation	--	Terminal	504
+year	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+$	Word	--	Terminal	507
+300,000	Word	--	Terminal	508
+contract	Word	--	Terminal	509
+with	Word	--	Terminal	510
+the	Word	--	Terminal	511
+network	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	A	518
+#501	FN	--	P	518
+#502	FN	--	F	516
+#503	FN	--	Q	514
+#504	PNCT	--	U	514
+#505	FN	--	C	514
+#506	PNCT	--	U	516
+#507	FN	--	C	515
+#508	FN	--	Q	515
+#509	FN	--	C	516
+#510	FN	--	R	517
+#511	FN	--	F	517
+#512	FN	--	C	517
+#513	PNCT	--	U	517
+#514	FN	--	E	516
+#515	FN	--	E	516
+#516	FN	--	A	518
+#517	FN	--	A	518
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 530001

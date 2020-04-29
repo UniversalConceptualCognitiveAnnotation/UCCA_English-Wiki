@@ -1,0 +1,36 @@
+#BOS 806000
+Paul	Word	--	Terminal	500
+and	Word	--	Terminal	501
+Linda	Word	--	Terminal	502
+were	Word	--	Terminal	503
+vegetarians	Word	--	Terminal	504
+for	Word	--	Terminal	505
+most	Word	--	Terminal	506
+of	Word	--	Terminal	507
+their	Word	--	Terminal	508
+30	Word	--	Terminal	509
+-	Punctuation	--	Terminal	510
+year	Word	--	Terminal	511
+marriage	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	C	514
+#501	FN	--	N	514
+#502	FN	--	C	514
+#503	FN	--	F	515
+#504	FN	--	P	515
+#505	FN	--	R	516
+#506	FN	--	C	516
+#507	FN	--	R	516
+#508	FN	--	A	518
+#509	FN	--	Q	517
+#510	PNCT	--	U	517
+#511	FN	--	C	517
+#512	FN	--	S	518
+#513	PNCT	--	U	518
+#514	FN	--	A	515
+#515	FN	--	H	519
+#516	FN	--	L	519
+#517	FN	--	T	518
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 806000

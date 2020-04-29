@@ -1,0 +1,50 @@
+#BOS 380010
+He	Word	--	Terminal	500
+played	Word	--	Terminal	501
+Robert	Word	--	Terminal	502
+Graysmith	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+a	Word	--	Terminal	504
+San	Word	--	Terminal	505
+Francisco	Word	--	Terminal	505
+Chronicle	Word	--	Terminal	505
+cartoonist	Word	--	Terminal	506
+and	Word	--	Terminal	507
+author	Word	--	Terminal	508
+of	Word	--	Terminal	509
+two	Word	--	Terminal	510
+books	Word	--	Terminal	511
+about	Word	--	Terminal	512
+the	Word	--	Terminal	513
+Zodiac	Word	--	Terminal	514
+serial	Word	--	Terminal	515
+killer	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	A	525
+#501	FN	--	P	525
+#502	FN	--	C	524	A*	518	A*	522
+#503	PNCT	--	U	524
+#504	FN	--	F	518
+#505	FN	--	A	518
+#506	FN	--	P	518
+#507	FN	--	N	523
+#508	FN	--	S	522
+#509	FN	--	R	521
+#510	FN	--	Q	521
+#511	FN	--	C	521
+#512	FN	--	R	520
+#513	FN	--	F	520
+#514	FN	--	C	520	A*	519
+#515	FN	--	A	519
+#516	FN	--	P	519
+#517	PNCT	--	U	519
+#518	FN	--	C	523
+#519	FN	--	E	520
+#520	FN	--	E	521
+#521	FN	--	A	522
+#522	FN	--	C	523
+#523	FN	--	E	524
+#524	FN	--	A	525
+#525	FN	--	H	526
+#526	FN	--	--	0
+#EOS 380010

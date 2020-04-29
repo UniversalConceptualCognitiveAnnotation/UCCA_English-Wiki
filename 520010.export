@@ -1,0 +1,45 @@
+#BOS 520010
+Garland	Word	--	Terminal	500
+attended	Word	--	Terminal	501
+Hollywood	Word	--	Terminal	502
+High	Word	--	Terminal	503
+School	Word	--	Terminal	504
+and	Word	--	Terminal	505
+later	Word	--	Terminal	506
+graduated	Word	--	Terminal	507
+from	Word	--	Terminal	508
+University	Word	--	Terminal	509
+High	Word	--	Terminal	510
+School	Word	--	Terminal	511
+(	Punctuation	--	Terminal	512
+Los	Word	--	Terminal	513
+Angeles	Word	--	Terminal	513
+,	Punctuation	--	Terminal	514
+California	Word	--	Terminal	515
+)	Punctuation	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	A	521	A*	522
+#501	FN	--	P	521
+#502	FN	--	E	518
+#503	FN	--	E	518
+#504	FN	--	C	518
+#505	FN	--	L	523
+#506	FN	--	D	522
+#507	FN	--	P	522
+#508	FN	--	R	520
+#509	FN	--	E	520
+#510	FN	--	E	520
+#511	FN	--	C	520
+#512	PNCT	--	U	520
+#513	FN	--	C	519
+#514	PNCT	--	U	519
+#515	FN	--	C	519
+#516	PNCT	--	U	519
+#517	PNCT	--	U	519
+#518	FN	--	A	521
+#519	FN	--	E	520
+#520	FN	--	A	522
+#521	FN	--	H	523
+#522	FN	--	H	523
+#523	FN	--	--	0
+#EOS 520010

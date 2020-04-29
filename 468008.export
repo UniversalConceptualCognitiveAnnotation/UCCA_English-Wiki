@@ -1,0 +1,46 @@
+#BOS 468008
+He	Word	--	Terminal	500
+also	Word	--	Terminal	501
+became	Word	--	Terminal	502
+one	Word	--	Terminal	503
+of	Word	--	Terminal	504
+four	Word	--	Terminal	505
+players	Word	--	Terminal	506
+to	Word	--	Terminal	507
+win	Word	--	Terminal	508
+NCAA	Word	--	Terminal	509
+and	Word	--	Terminal	510
+NBA	Word	--	Terminal	511
+championships	Word	--	Terminal	512
+in	Word	--	Terminal	513
+consecutive	Word	--	Terminal	514
+years	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	A	525
+#501	FN	--	L	526
+#502	FN	--	P	525
+#503	FN	--	C	522
+#504	FN	--	R	517
+#505	FN	--	Q	517
+#506	FN	--	P	518	A*	523	C*	517
+#507	FN	--	F	523
+#508	FN	--	P	523
+#509	FN	--	C	519
+#510	FN	--	N	519
+#511	FN	--	C	519
+#512	FN	--	P	520
+#513	FN	--	R	521
+#514	FN	--	E	521
+#515	FN	--	C	521
+#516	PNCT	--	U	521
+#517	FN	--	E	522
+#518	FN	--	C	524
+#519	FN	--	A	520
+#520	FN	--	A	523
+#521	FN	--	T	523
+#522	FN	--	Q	524
+#523	FN	--	E	524
+#524	FN	--	A	525
+#525	FN	--	H	526
+#526	FN	--	--	0
+#EOS 468008

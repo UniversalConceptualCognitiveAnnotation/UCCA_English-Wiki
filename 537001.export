@@ -1,0 +1,35 @@
+#BOS 537001
+His	Word	--	Terminal	500
+parents	Word	--	Terminal	501
+were	Word	--	Terminal	502
+Jewish	Word	--	Terminal	503
+immigrants	Word	--	Terminal	504
+from	Word	--	Terminal	505
+Poland	Word	--	Terminal	506
+who	Word	--	Terminal	507
+spoke	Word	--	Terminal	508
+mainly	Word	--	Terminal	509
+Yiddish	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	A	512
+#501	FN	--	A	512
+#502	FN	--	S	519
+#503	FN	--	S	513
+#504	FN	--	A	516	A*	513	A*	517
+#505	FN	--	R	514
+#506	FN	--	C	514
+#507	FN	--	R	517
+#508	FN	--	P	517
+#509	FN	--	E	515
+#510	FN	--	C	515
+#511	PNCT	--	U	515
+#512	FN	--	A	519
+#513	FN	--	E	518
+#514	FN	--	A	516
+#515	FN	--	A	517
+#516	FN	--	C	518
+#517	FN	--	E	518
+#518	FN	--	A	519
+#519	FN	--	H	520
+#520	FN	--	--	0
+#EOS 537001

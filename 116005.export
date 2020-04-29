@@ -1,0 +1,54 @@
+#BOS 116005
+Her	Word	--	Terminal	500
+parents	Word	--	Terminal	501
+were	Word	--	Terminal	502
+criticized	Word	--	Terminal	503
+by	Word	--	Terminal	504
+the	Word	--	Terminal	505
+community	Word	--	Terminal	506
+for	Word	--	Terminal	507
+their	Word	--	Terminal	508
+progressive	Word	--	Terminal	509
+views	Word	--	Terminal	510
+,	Punctuation	--	Terminal	511
+which	Word	--	Terminal	512
+stimulated	Word	--	Terminal	513
+Hepburn	Word	--	Terminal	514
+to	Word	--	Terminal	515
+fight	Word	--	Terminal	516
+against	Word	--	Terminal	517
+barriers	Word	--	Terminal	518
+she	Word	--	Terminal	519
+encountered	Word	--	Terminal	520
+.	Punctuation	--	Terminal	521
+#500	FN	--	A	522
+#501	FN	--	S	522
+#502	FN	--	F	526
+#503	FN	--	P	526
+#504	FN	--	R	523
+#505	FN	--	E	523
+#506	FN	--	C	523
+#507	FN	--	R	524
+#508	FN	--	A	524
+#509	FN	--	D	524
+#510	FN	--	S	524
+#511	PNCT	--	U	529
+#512	FN	--	L	529
+#513	FN	--	D	528
+#514	FN	--	A	528
+#515	FN	--	F	528
+#516	FN	--	P	528
+#517	FN	--	R	527
+#518	FN	--	C	527	A*	525
+#519	FN	--	A	525
+#520	FN	--	P	525
+#521	PNCT	--	U	525
+#522	FN	--	A	526
+#523	FN	--	A	526
+#524	FN	--	A	526
+#525	FN	--	E	527
+#526	FN	--	H	529	A*	528
+#527	FN	--	A	528
+#528	FN	--	H	529
+#529	FN	--	--	0
+#EOS 116005

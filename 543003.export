@@ -1,0 +1,41 @@
+#BOS 543003
+Film	Word	--	Terminal	500
+director	Word	--	Terminal	501
+Gottfried	Word	--	Terminal	502
+Reinhardt	Word	--	Terminal	502
+claimed	Word	--	Terminal	503
+that	Word	--	Terminal	504
+Warner	Word	--	Terminal	505
+"	Punctuation	--	Terminal	506
+derived	Word	--	Terminal	507
+pleasure	Word	--	Terminal	508
+"	Punctuation	--	Terminal	509
+from	Word	--	Terminal	510
+humiliating	Word	--	Terminal	511
+subordinates	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+"	Punctuation	--	Terminal	514
+#500	FN	--	A	515
+#501	FN	--	P	515
+#502	FN	--	C	516	A*	515
+#503	FN	--	P	521
+#504	FN	--	R	520
+#505	FN	--	A	520	A*	517
+#506	PNCT	--	U	520
+#507	FN	--	F	518
+#508	FN	--	C	518
+#509	PNCT	--	U	520
+#510	FN	--	R	519
+#511	FN	--	P	517
+#512	FN	--	A	517
+#513	PNCT	--	U	517
+#514	PNCT	--	U	517
+#515	FN	--	E	516
+#516	FN	--	A	521
+#517	FN	--	C	519
+#518	FN	--	P	520
+#519	FN	--	A	520
+#520	FN	--	A	521
+#521	FN	--	H	522
+#522	FN	--	--	0
+#EOS 543003

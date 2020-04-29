@@ -1,0 +1,42 @@
+#BOS 186005
+Sorkin	Word	--	Terminal	500
+was	Word	--	Terminal	501
+born	Word	--	Terminal	502
+in	Word	--	Terminal	503
+Manhattan	Word	--	Terminal	504
+and	Word	--	Terminal	505
+raised	Word	--	Terminal	506
+in	Word	--	Terminal	507
+the	Word	--	Terminal	508
+wealthy	Word	--	Terminal	509
+suburb	Word	--	Terminal	510
+of	Word	--	Terminal	511
+Scarsdale	Word	--	Terminal	512
+,	Punctuation	--	Terminal	513
+New	Word	--	Terminal	514
+York	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	A	520	A*	521
+#501	FN	--	F	520
+#502	FN	--	P	520
+#503	FN	--	R	516
+#504	FN	--	C	516
+#505	FN	--	L	522
+#506	FN	--	P	521
+#507	FN	--	R	519
+#508	FN	--	E	517
+#509	FN	--	E	517
+#510	FN	--	C	517
+#511	FN	--	R	518
+#512	FN	--	C	518
+#513	PNCT	--	U	519
+#514	FN	--	C	519
+#515	PNCT	--	U	519
+#516	FN	--	A	520
+#517	FN	--	E	518
+#518	FN	--	C	519
+#519	FN	--	A	521
+#520	FN	--	H	522
+#521	FN	--	H	522
+#522	FN	--	--	0
+#EOS 186005

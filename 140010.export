@@ -1,0 +1,46 @@
+#BOS 140010
+She	Word	--	Terminal	500
+was	Word	--	Terminal	501
+nervous	Word	--	Terminal	502
+about	Word	--	Terminal	503
+every	Word	--	Terminal	504
+performance	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+and	Word	--	Terminal	507
+recalled	Word	--	Terminal	508
+"	Punctuation	--	Terminal	509
+wondering	Word	--	Terminal	510
+what	Word	--	Terminal	511
+the	Word	--	Terminal	511
+hell	Word	--	Terminal	511
+I	Word	--	Terminal	512
+was	Word	--	Terminal	513
+doing	Word	--	Terminal	514
+there	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+"	Punctuation	--	Terminal	517
+#500	FN	--	A	521	A*	522
+#501	FN	--	F	521
+#502	FN	--	S	521
+#503	FN	--	R	518
+#504	FN	--	D	518
+#505	FN	--	P	518
+#506	PNCT	--	U	523
+#507	FN	--	L	523
+#508	FN	--	P	522
+#509	PNCT	--	U	522
+#510	FN	--	P	520
+#511	FN	--	G	519
+#512	FN	--	A	519
+#513	FN	--	F	519
+#514	FN	--	P	519
+#515	FN	--	A	519
+#516	PNCT	--	U	519
+#517	PNCT	--	U	519
+#518	FN	--	A	521
+#519	FN	--	A	520
+#520	FN	--	A	522
+#521	FN	--	H	523
+#522	FN	--	H	523
+#523	FN	--	--	0
+#EOS 140010

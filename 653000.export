@@ -1,0 +1,60 @@
+#BOS 653000
+Beatles	Word	--	Terminal	500
+'	Punctuation	--	Terminal	501
+biographer	Word	--	Terminal	502
+Bill	Word	--	Terminal	503
+Harry	Word	--	Terminal	503
+writes	Word	--	Terminal	504
+that	Word	--	Terminal	505
+Lennon	Word	--	Terminal	506
+began	Word	--	Terminal	507
+drawing	Word	--	Terminal	508
+and	Word	--	Terminal	509
+writing	Word	--	Terminal	510
+creatively	Word	--	Terminal	511
+at	Word	--	Terminal	512
+an	Word	--	Terminal	513
+early	Word	--	Terminal	514
+age	Word	--	Terminal	515
+with	Word	--	Terminal	516
+the	Word	--	Terminal	517
+encouragement	Word	--	Terminal	518
+of	Word	--	Terminal	519
+his	Word	--	Terminal	520
+uncle	Word	--	Terminal	521
+.	Punctuation	--	Terminal	522
+#500	FN	--	A	523
+#501	PNCT	--	U	523
+#502	FN	--	P	523
+#503	FN	--	A	523
+#504	FN	--	P	532
+#505	FN	--	R	529	R*	530
+#506	FN	--	A	529	A*	530	A*	525
+#507	FN	--	D	529	D*	530
+#508	FN	--	P	529
+#509	FN	--	L	531
+#510	FN	--	P	530
+#511	FN	--	D	529	D*	530
+#512	FN	--	R	525
+#513	FN	--	E	524
+#514	FN	--	D	525
+#515	FN	--	C	524
+#516	FN	--	R	528
+#517	FN	--	E	526
+#518	FN	--	C	526
+#519	FN	--	R	527
+#520	FN	--	A	527
+#521	FN	--	S	527
+#522	PNCT	--	U	527
+#523	FN	--	A	532
+#524	FN	--	S	525
+#525	FN	--	A	529	A*	530
+#526	FN	--	P	528
+#527	FN	--	A	528
+#528	FN	--	A	529	A*	530
+#529	FN	--	H	531
+#530	FN	--	H	531
+#531	FN	--	A	532
+#532	FN	--	H	533
+#533	FN	--	--	0
+#EOS 653000

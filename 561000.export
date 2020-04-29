@@ -1,0 +1,41 @@
+#BOS 561000
+On	Word	--	Terminal	500
+January	Word	--	Terminal	501
+10	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+1956	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+Presley	Word	--	Terminal	506
+made	Word	--	Terminal	507
+his	Word	--	Terminal	508
+first	Word	--	Terminal	509
+recordings	Word	--	Terminal	510
+for	Word	--	Terminal	511
+RCA	Word	--	Terminal	512
+in	Word	--	Terminal	513
+Nashville	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	R	516
+#501	FN	--	C	516
+#502	FN	--	C	516
+#503	PNCT	--	U	516
+#504	FN	--	C	516
+#505	PNCT	--	U	521
+#506	FN	--	A	521
+#507	FN	--	P	521
+#508	FN	--	A	517
+#509	FN	--	Q	519
+#510	FN	--	C	519	A*	517	A*	518
+#511	FN	--	S	518
+#512	FN	--	A	518
+#513	FN	--	R	520
+#514	FN	--	C	520
+#515	PNCT	--	U	520
+#516	FN	--	T	521
+#517	FN	--	E	519
+#518	FN	--	E	519
+#519	FN	--	A	521
+#520	FN	--	A	521
+#521	FN	--	H	522
+#522	FN	--	--	0
+#EOS 561000

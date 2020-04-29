@@ -1,0 +1,44 @@
+#BOS 526003
+The	Word	--	Terminal	500
+Clock	Word	--	Terminal	500
+(	Punctuation	--	Terminal	501
+1945	Word	--	Terminal	502
+)	Punctuation	--	Terminal	503
+was	Word	--	Terminal	504
+her	Word	--	Terminal	505
+first	Word	--	Terminal	506
+straight	Word	--	Terminal	507
+dramatic	Word	--	Terminal	508
+film	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+opposite	Word	--	Terminal	511
+Robert	Word	--	Terminal	512
+Walker	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	C	519	A*	518
+#501	PNCT	--	U	519
+#502	FN	--	T	518
+#503	PNCT	--	U	524
+#504	FN	--	S	524
+#505	FN	--	A	514
+#506	FN	--	Q	523
+#507	FN	--	E	515
+#508	FN	--	C	515
+#509	FN	--	C	523	A*	514	A*	522
+#510	PNCT	--	U	523
+#511	FN	--	R	516
+#512	FN	--	C	516
+#513	PNCT	--	U	516
+#514	FN	--	E	523
+#515	FN	--	E	523
+#516	FN	--	A	522
+#517	FN	--	P	518
+#518	FN	--	E	519
+#519	FN	--	A	524
+#520	FN	--	A	522
+#521	FN	--	P	522
+#522	FN	--	E	523
+#523	FN	--	A	524
+#524	FN	--	H	525
+#525	FN	--	--	0
+#EOS 526003

@@ -1,0 +1,37 @@
+#BOS 1022007
+He	Word	--	Terminal	500
+was	Word	--	Terminal	501
+also	Word	--	Terminal	502
+making	Word	--	Terminal	503
+record	Word	--	Terminal	504
+-	Punctuation	--	Terminal	505
+breaking	Word	--	Terminal	506
+profits	Word	--	Terminal	507
+from	Word	--	Terminal	508
+sales	Word	--	Terminal	509
+of	Word	--	Terminal	510
+his	Word	--	Terminal	511
+recordings	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	A	519
+#501	FN	--	F	519
+#502	FN	--	D	519
+#503	FN	--	F	514
+#504	FN	--	A	515
+#505	PNCT	--	U	515
+#506	FN	--	P	515
+#507	FN	--	C	514	A*	515
+#508	FN	--	R	518
+#509	FN	--	P	518
+#510	FN	--	R	517
+#511	FN	--	S	516
+#512	FN	--	C	517	A*	516
+#513	PNCT	--	U	517
+#514	FN	--	P	519
+#515	FN	--	H	520
+#516	FN	--	E	517
+#517	FN	--	A	518
+#518	FN	--	A	519
+#519	FN	--	H	520
+#520	FN	--	--	0
+#EOS 1022007

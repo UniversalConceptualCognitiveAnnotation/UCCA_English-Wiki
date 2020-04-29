@@ -1,0 +1,41 @@
+#BOS 709007
+Despite	Word	--	Terminal	500
+the	Word	--	Terminal	501
+stellar	Word	--	Terminal	502
+line	Word	--	Terminal	504
+-	Punctuation	--	Terminal	503
+up	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+the	Word	--	Terminal	506
+record	Word	--	Terminal	507
+received	Word	--	Terminal	508
+bad	Word	--	Terminal	509
+reviews	Word	--	Terminal	510
+and	Word	--	Terminal	511
+sold	Word	--	Terminal	512
+poorly	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	L	522
+#501	FN	--	E	515
+#502	FN	--	C	515
+#503	PNCT	--	U	504
+#504	FN	--	A	516
+#505	PNCT	--	U	522
+#506	FN	--	E	517
+#507	FN	--	C	517	A*	518
+#508	FN	--	P	521
+#509	FN	--	S	519
+#510	FN	--	C	520	A*	519
+#511	FN	--	L	522
+#512	FN	--	P	518
+#513	FN	--	D	518
+#514	PNCT	--	U	518
+#515	FN	--	S	516
+#516	FN	--	H	522
+#517	FN	--	A	521
+#518	FN	--	H	522
+#519	FN	--	E	520
+#520	FN	--	A	521
+#521	FN	--	H	522
+#522	FN	--	--	0
+#EOS 709007

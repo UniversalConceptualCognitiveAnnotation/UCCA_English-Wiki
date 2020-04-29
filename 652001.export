@@ -1,0 +1,40 @@
+#BOS 652001
+On	Word	--	Terminal	500
+23	Word	--	Terminal	501
+March	Word	--	Terminal	502
+1973	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+Lennon	Word	--	Terminal	505
+was	Word	--	Terminal	506
+ordered	Word	--	Terminal	507
+to	Word	--	Terminal	508
+leave	Word	--	Terminal	509
+the	Word	--	Terminal	510
+US	Word	--	Terminal	511
+within	Word	--	Terminal	512
+60	Word	--	Terminal	513
+days	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	R	516
+#501	FN	--	C	516
+#502	FN	--	C	516
+#503	FN	--	C	516
+#504	PNCT	--	U	520
+#505	FN	--	A	520	A*	519
+#506	FN	--	F	520
+#507	FN	--	P	520
+#508	FN	--	F	519
+#509	FN	--	P	519
+#510	FN	--	E	517
+#511	FN	--	C	517
+#512	FN	--	R	518
+#513	FN	--	Q	518
+#514	FN	--	C	518
+#515	PNCT	--	U	518
+#516	FN	--	T	520
+#517	FN	--	A	519
+#518	FN	--	T	519
+#519	FN	--	A	520
+#520	FN	--	H	521
+#521	FN	--	--	0
+#EOS 652001

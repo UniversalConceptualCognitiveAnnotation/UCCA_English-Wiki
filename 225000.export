@@ -1,0 +1,50 @@
+#BOS 225000
+Willie	Word	--	Terminal	500
+Chan	Word	--	Terminal	500
+had	Word	--	Terminal	501
+become	Word	--	Terminal	502
+Jackie	Word	--	Terminal	503
+'s	Word	--	Terminal	504
+personal	Word	--	Terminal	505
+manager	Word	--	Terminal	506
+and	Word	--	Terminal	507
+firm	Word	--	Terminal	508
+friend	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+and	Word	--	Terminal	511
+has	Word	--	Terminal	512
+remained	Word	--	Terminal	513
+so	Word	--	Terminal	514
+for	Word	--	Terminal	515
+over	Word	--	Terminal	516
+30	Word	--	Terminal	517
+years	Word	--	Terminal	518
+.	Punctuation	--	Terminal	519
+#500	FN	--	A	521	A*	522	A*	525
+#501	FN	--	F	521
+#502	FN	--	D	521	D*	522
+#503	FN	--	C	520
+#504	FN	--	R	520
+#505	FN	--	D	521
+#506	FN	--	P	521
+#507	FN	--	L	526
+#508	FN	--	D	522
+#509	FN	--	S	522
+#510	PNCT	--	U	526
+#511	FN	--	L	526
+#512	FN	--	F	525
+#513	FN	--	D	525
+#514	FN	--	P	525
+#515	FN	--	R	524
+#516	FN	--	R	523
+#517	FN	--	C	523
+#518	FN	--	C	524
+#519	PNCT	--	U	524
+#520	FN	--	A	521	A*	522
+#521	FN	--	H	526
+#522	FN	--	H	526
+#523	FN	--	Q	524
+#524	FN	--	T	525
+#525	FN	--	H	526
+#526	FN	--	--	0
+#EOS 225000

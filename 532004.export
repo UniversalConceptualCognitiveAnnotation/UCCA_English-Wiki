@@ -1,0 +1,32 @@
+#BOS 532004
+Garland	Word	--	Terminal	500
+guest	Word	--	Terminal	501
+-	Punctuation	--	Terminal	502
+hosted	Word	--	Terminal	503
+an	Word	--	Terminal	504
+episode	Word	--	Terminal	505
+of	Word	--	Terminal	506
+The	Word	--	Terminal	507
+Hollywood	Word	--	Terminal	507
+Palace	Word	--	Terminal	507
+with	Word	--	Terminal	508
+Vic	Word	--	Terminal	509
+Damone	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	FN	--	A	514
+#501	FN	--	D	514
+#502	PNCT	--	U	514
+#503	FN	--	P	514
+#504	FN	--	F	513
+#505	FN	--	C	513
+#506	FN	--	R	512
+#507	FN	--	C	512	A*	511
+#508	FN	--	S	511
+#509	FN	--	A	511
+#510	PNCT	--	U	511
+#511	FN	--	E	512
+#512	FN	--	E	513
+#513	FN	--	A	514
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 532004

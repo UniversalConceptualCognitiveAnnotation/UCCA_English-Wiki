@@ -1,0 +1,24 @@
+#BOS 590005
+Depp	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+however	Word	--	Terminal	502
+agrees	Word	--	Terminal	503
+with	Word	--	Terminal	504
+Rudin	Word	--	Terminal	505
+'s	Word	--	Terminal	506
+statement	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	FN	--	A	511
+#501	PNCT	--	U	512
+#502	FN	--	L	512
+#503	FN	--	P	511
+#504	FN	--	R	510
+#505	FN	--	C	509
+#506	FN	--	R	509
+#507	FN	--	P	510
+#508	PNCT	--	U	510
+#509	FN	--	A	510
+#510	FN	--	A	511
+#511	FN	--	H	512
+#512	FN	--	--	0
+#EOS 590005

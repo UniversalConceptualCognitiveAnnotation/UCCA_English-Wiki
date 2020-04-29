@@ -1,0 +1,65 @@
+#BOS 957001
+He	Word	--	Terminal	500
+refused	Word	--	Terminal	501
+to	Word	--	Terminal	502
+allow	Word	--	Terminal	503
+her	Word	--	Terminal	504
+to	Word	--	Terminal	505
+join	Word	--	Terminal	506
+Olivier	Word	--	Terminal	507
+in	Word	--	Terminal	508
+Pride	Word	--	Terminal	509
+and	Word	--	Terminal	509
+Prejudice	Word	--	Terminal	509
+(	Punctuation	--	Terminal	510
+1940	Word	--	Terminal	511
+)	Punctuation	--	Terminal	512
+,	Punctuation	--	Terminal	513
+and	Word	--	Terminal	514
+Greer	Word	--	Terminal	515
+Garson	Word	--	Terminal	515
+played	Word	--	Terminal	516
+the	Word	--	Terminal	517
+role	Word	--	Terminal	518
+Leigh	Word	--	Terminal	519
+had	Word	--	Terminal	520
+wanted	Word	--	Terminal	521
+for	Word	--	Terminal	522
+herself	Word	--	Terminal	523
+.	Punctuation	--	Terminal	524
+#500	FN	--	A	532
+#501	FN	--	D	532
+#502	FN	--	F	532
+#503	FN	--	P	532
+#504	FN	--	A	532	A*	530
+#505	FN	--	F	530
+#506	FN	--	P	530
+#507	FN	--	A	530
+#508	FN	--	R	529
+#509	FN	--	C	529	A*	527
+#510	PNCT	--	U	529
+#511	FN	--	T	527
+#512	PNCT	--	U	534
+#513	PNCT	--	U	534
+#514	FN	--	L	534
+#515	FN	--	A	533
+#516	FN	--	P	533
+#517	FN	--	E	531
+#518	FN	--	C	531	A*	528
+#519	FN	--	A	528
+#520	FN	--	F	528
+#521	FN	--	P	528
+#522	FN	--	R	525
+#523	FN	--	C	525
+#524	PNCT	--	U	525
+#525	FN	--	A	528
+#526	FN	--	P	527
+#527	FN	--	E	529
+#528	FN	--	E	531
+#529	FN	--	A	530
+#530	FN	--	A	532
+#531	FN	--	A	533
+#532	FN	--	H	534
+#533	FN	--	H	534
+#534	FN	--	--	0
+#EOS 957001

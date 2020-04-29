@@ -1,0 +1,63 @@
+#BOS 706003
+Shot	Word	--	Terminal	500
+of	Word	--	Terminal	500
+Love	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+recorded	Word	--	Terminal	502
+the	Word	--	Terminal	503
+next	Word	--	Terminal	504
+spring	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+featured	Word	--	Terminal	507
+Dylan	Word	--	Terminal	508
+'s	Word	--	Terminal	509
+first	Word	--	Terminal	510
+secular	Word	--	Terminal	511
+compositions	Word	--	Terminal	512
+in	Word	--	Terminal	513
+more	Word	--	Terminal	514
+than	Word	--	Terminal	514
+two	Word	--	Terminal	515
+years	Word	--	Terminal	516
+,	Punctuation	--	Terminal	517
+mixed	Word	--	Terminal	518
+with	Word	--	Terminal	519
+Christian	Word	--	Terminal	520
+songs	Word	--	Terminal	521
+.	Punctuation	--	Terminal	522
+#500	FN	--	C	530	A*	529
+#501	PNCT	--	U	530
+#502	FN	--	P	529
+#503	FN	--	E	523
+#504	FN	--	E	523
+#505	FN	--	C	523
+#506	PNCT	--	U	533
+#507	FN	--	S	533
+#508	FN	--	A	524
+#509	FN	--	S	524
+#510	FN	--	Q	532
+#511	FN	--	S	525
+#512	FN	--	C	532	A*	524	A*	525	A*	531
+#513	FN	--	R	526
+#514	FN	--	E	526
+#515	FN	--	Q	526
+#516	FN	--	C	526
+#517	PNCT	--	U	532
+#518	FN	--	S	531
+#519	FN	--	R	528
+#520	FN	--	S	527
+#521	FN	--	C	528	A*	527
+#522	PNCT	--	U	528
+#523	FN	--	T	529
+#524	FN	--	E	532
+#525	FN	--	E	532
+#526	FN	--	E	532
+#527	FN	--	E	528
+#528	FN	--	A	531
+#529	FN	--	E	530
+#530	FN	--	A	533
+#531	FN	--	E	532
+#532	FN	--	A	533
+#533	FN	--	H	534
+#534	FN	--	--	0
+#EOS 706003

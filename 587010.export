@@ -1,0 +1,51 @@
+#BOS 587010
+He	Word	--	Terminal	500
+returned	Word	--	Terminal	501
+to	Word	--	Terminal	502
+Thompson	Word	--	Terminal	503
+'s	Word	--	Terminal	504
+work	Word	--	Terminal	505
+with	Word	--	Terminal	506
+a	Word	--	Terminal	507
+film	Word	--	Terminal	508
+adaptation	Word	--	Terminal	509
+of	Word	--	Terminal	510
+the	Word	--	Terminal	511
+novel	Word	--	Terminal	512
+The	Word	--	Terminal	513
+Rum	Word	--	Terminal	513
+Diary	Word	--	Terminal	513
+,	Punctuation	--	Terminal	514
+released	Word	--	Terminal	515
+in	Word	--	Terminal	516
+2011	Word	--	Terminal	517
+.	Punctuation	--	Terminal	518
+#500	FN	--	A	526
+#501	FN	--	P	526
+#502	FN	--	R	520
+#503	FN	--	A	519
+#504	FN	--	S	519
+#505	FN	--	C	520	A*	519
+#506	FN	--	R	525
+#507	FN	--	E	525
+#508	FN	--	E	525
+#509	FN	--	C	525	A*	524
+#510	FN	--	R	522
+#511	FN	--	E	521
+#512	FN	--	C	521
+#513	FN	--	C	522
+#514	PNCT	--	U	525
+#515	FN	--	P	524
+#516	FN	--	R	523
+#517	FN	--	C	523
+#518	PNCT	--	U	523
+#519	FN	--	E	520
+#520	FN	--	A	526
+#521	FN	--	E	522
+#522	FN	--	E	525
+#523	FN	--	T	524
+#524	FN	--	E	525
+#525	FN	--	A	526
+#526	FN	--	H	527
+#527	FN	--	--	0
+#EOS 587010

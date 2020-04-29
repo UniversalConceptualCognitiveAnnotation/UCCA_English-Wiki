@@ -1,0 +1,49 @@
+#BOS 148017
+Reports	Word	--	Terminal	500
+from	Word	--	Terminal	501
+people	Word	--	Terminal	502
+who	Word	--	Terminal	503
+saw	Word	--	Terminal	504
+them	Word	--	Terminal	505
+together	Word	--	Terminal	506
+describe	Word	--	Terminal	507
+how	Word	--	Terminal	508
+Hepburn	Word	--	Terminal	509
+'s	Word	--	Terminal	510
+entire	Word	--	Terminal	511
+demeanor	Word	--	Terminal	512
+changed	Word	--	Terminal	513
+when	Word	--	Terminal	514
+around	Word	--	Terminal	515
+Tracy	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	C	526
+#501	FN	--	R	525
+#502	FN	--	C	525	A*	524
+#503	FN	--	R	524
+#504	FN	--	P	524
+#505	FN	--	C	518
+#506	FN	--	E	518
+#507	FN	--	P	527
+#508	FN	--	D	522
+#509	FN	--	C	519	A*	520
+#510	FN	--	R	519
+#511	FN	--	D	521
+#512	FN	--	P	521
+#513	FN	--	P	522
+#514	FN	--	L	523
+#515	FN	--	S	520
+#516	FN	--	A	520
+#517	PNCT	--	U	520
+#518	FN	--	A	524
+#519	FN	--	A	521
+#520	FN	--	H	523
+#521	FN	--	A	522
+#522	FN	--	H	523
+#523	FN	--	A	527
+#524	FN	--	E	525
+#525	FN	--	E	526
+#526	FN	--	A	527
+#527	FN	--	H	528
+#528	FN	--	--	0
+#EOS 148017

@@ -1,0 +1,57 @@
+#BOS 124004
+She	Word	--	Terminal	500
+was	Word	--	Terminal	501
+criticized	Word	--	Terminal	502
+for	Word	--	Terminal	503
+her	Word	--	Terminal	504
+shrill	Word	--	Terminal	505
+voice	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+and	Word	--	Terminal	508
+so	Word	--	Terminal	508
+left	Word	--	Terminal	509
+Baltimore	Word	--	Terminal	510
+to	Word	--	Terminal	511
+study	Word	--	Terminal	512
+with	Word	--	Terminal	513
+an	Word	--	Terminal	514
+acclaimed	Word	--	Terminal	515
+voice	Word	--	Terminal	516
+tutor	Word	--	Terminal	517
+in	Word	--	Terminal	518
+New	Word	--	Terminal	519
+York	Word	--	Terminal	519
+City	Word	--	Terminal	519
+.	Punctuation	--	Terminal	520
+#500	FN	--	A	528	A*	521	A*	529
+#501	FN	--	F	528
+#502	FN	--	P	528
+#503	FN	--	R	523
+#504	FN	--	E	523
+#505	FN	--	S	522
+#506	FN	--	C	523	A*	522
+#507	PNCT	--	U	530
+#508	FN	--	L	530
+#509	FN	--	P	521
+#510	FN	--	A	521
+#511	FN	--	L	530
+#512	FN	--	P	529
+#513	FN	--	R	527
+#514	FN	--	E	524
+#515	FN	--	S	525
+#516	FN	--	A	524
+#517	FN	--	P	524	A*	525
+#518	FN	--	R	526
+#519	FN	--	C	526
+#520	PNCT	--	U	526
+#521	FN	--	H	530
+#522	FN	--	E	523
+#523	FN	--	A	528
+#524	FN	--	C	527
+#525	FN	--	E	527
+#526	FN	--	A	529
+#527	FN	--	A	529
+#528	FN	--	H	530
+#529	FN	--	H	530
+#530	FN	--	--	0
+#EOS 124004

@@ -1,0 +1,41 @@
+#BOS 148004
+Rumors	Word	--	Terminal	500
+have	Word	--	Terminal	501
+existed	Word	--	Terminal	502
+since	Word	--	Terminal	503
+the	Word	--	Terminal	504
+1930s	Word	--	Terminal	505
+that	Word	--	Terminal	506
+Hepburn	Word	--	Terminal	507
+may	Word	--	Terminal	508
+have	Word	--	Terminal	509
+been	Word	--	Terminal	510
+a	Word	--	Terminal	511
+lesbian	Word	--	Terminal	512
+or	Word	--	Terminal	513
+bisexual	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	P	521
+#501	FN	--	F	521
+#502	FN	--	D	521
+#503	FN	--	R	516
+#504	FN	--	E	516
+#505	FN	--	C	516
+#506	FN	--	R	519	R*	517
+#507	FN	--	A	519	A*	517
+#508	FN	--	D	519	D*	517
+#509	FN	--	F	519
+#510	FN	--	F	519
+#511	FN	--	E	518
+#512	FN	--	C	518
+#513	FN	--	L	520
+#514	FN	--	S	517
+#515	PNCT	--	U	517
+#516	FN	--	T	521
+#517	FN	--	H	520
+#518	FN	--	S	519
+#519	FN	--	H	520
+#520	FN	--	A	521
+#521	FN	--	H	522
+#522	FN	--	--	0
+#EOS 148004

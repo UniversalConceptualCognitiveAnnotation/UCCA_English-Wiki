@@ -1,0 +1,68 @@
+#BOS 663003
+Daydream	Word	--	Terminal	500
+became	Word	--	Terminal	501
+her	Word	--	Terminal	502
+biggest	Word	--	Terminal	503
+-	Punctuation	--	Terminal	504
+selling	Word	--	Terminal	505
+album	Word	--	Terminal	506
+in	Word	--	Terminal	507
+the	Word	--	Terminal	508
+United	Word	--	Terminal	509
+States	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+and	Word	--	Terminal	511
+became	Word	--	Terminal	512
+her	Word	--	Terminal	513
+second	Word	--	Terminal	514
+album	Word	--	Terminal	515
+to	Word	--	Terminal	516
+be	Word	--	Terminal	517
+certified	Word	--	Terminal	518
+Diamond	Word	--	Terminal	519
+by	Word	--	Terminal	520
+the	Word	--	Terminal	521
+RIAA	Word	--	Terminal	522
+,	Punctuation	--	Terminal	523
+following	Word	--	Terminal	524
+Music	Word	--	Terminal	525
+Box	Word	--	Terminal	525
+.	Punctuation	--	Terminal	526
+#500	FN	--	A	534	A*	535
+#501	FN	--	S	534
+#502	FN	--	E	532
+#503	FN	--	D	530
+#504	PNCT	--	U	530
+#505	FN	--	P	530
+#506	FN	--	C	532	A*	530
+#507	FN	--	R	527
+#508	FN	--	F	527
+#509	FN	--	C	527
+#510	PNCT	--	U	536
+#511	FN	--	L	536
+#512	FN	--	S	535
+#513	FN	--	E	533
+#514	FN	--	Q	533
+#515	FN	--	C	533	A*	531
+#516	FN	--	F	531
+#517	FN	--	F	531
+#518	FN	--	P	531	P*	528
+#519	FN	--	A	531	A*	528
+#520	FN	--	R	529
+#521	FN	--	F	529
+#522	FN	--	C	529	A*	528
+#523	PNCT	--	U	536
+#524	FN	--	L	536
+#525	FN	--	A	528
+#526	PNCT	--	U	528
+#527	FN	--	A	530
+#528	FN	--	H	536
+#529	FN	--	A	531
+#530	FN	--	E	532
+#531	FN	--	E	533
+#532	FN	--	A	534
+#533	FN	--	A	535
+#534	FN	--	H	536
+#535	FN	--	H	536
+#536	FN	--	--	0
+#EOS 663003

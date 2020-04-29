@@ -1,0 +1,41 @@
+#BOS 587011
+Critics	Word	--	Terminal	500
+have	Word	--	Terminal	501
+described	Word	--	Terminal	502
+Depp	Word	--	Terminal	503
+'s	Word	--	Terminal	504
+roles	Word	--	Terminal	505
+as	Word	--	Terminal	506
+characters	Word	--	Terminal	507
+who	Word	--	Terminal	508
+are	Word	--	Terminal	509
+"	Punctuation	--	Terminal	510
+iconic	Word	--	Terminal	511
+loners	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+"	Punctuation	--	Terminal	514
+#500	FN	--	A	515
+#501	FN	--	F	522
+#502	FN	--	P	522
+#503	FN	--	A	516
+#504	FN	--	S	516
+#505	FN	--	C	517	A*	521	A*	516
+#506	FN	--	R	521
+#507	FN	--	C	520	A*	518
+#508	FN	--	R	518
+#509	FN	--	F	518
+#510	PNCT	--	U	518
+#511	FN	--	D	518
+#512	FN	--	S	518
+#513	PNCT	--	U	518
+#514	PNCT	--	U	518
+#515	FN	--	A	522
+#516	FN	--	E	517
+#517	FN	--	A	522
+#518	FN	--	E	520
+#519	FN	--	S	521
+#520	FN	--	A	521
+#521	FN	--	A	522
+#522	FN	--	H	523
+#523	FN	--	--	0
+#EOS 587011

@@ -1,0 +1,45 @@
+#BOS 589002
+Depp	Word	--	Terminal	500
+thanked	Word	--	Terminal	501
+the	Word	--	Terminal	502
+Hollywood	Word	--	Terminal	503
+Foreign	Word	--	Terminal	503
+Press	Word	--	Terminal	503
+Association	Word	--	Terminal	503
+and	Word	--	Terminal	504
+praised	Word	--	Terminal	505
+Tim	Word	--	Terminal	506
+Burton	Word	--	Terminal	506
+for	Word	--	Terminal	507
+his	Word	--	Terminal	508
+"	Punctuation	--	Terminal	509
+unwavering	Word	--	Terminal	510
+trust	Word	--	Terminal	511
+and	Word	--	Terminal	512
+support	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+"	Punctuation	--	Terminal	515
+#500	FN	--	A	520	A*	521
+#501	FN	--	P	520
+#502	FN	--	E	516
+#503	FN	--	C	516
+#504	FN	--	L	522
+#505	FN	--	P	521
+#506	FN	--	A	521
+#507	FN	--	R	517	R*	518
+#508	FN	--	A	517	A*	518
+#509	PNCT	--	U	517
+#510	FN	--	D	517	D*	518
+#511	FN	--	P	517
+#512	FN	--	L	519
+#513	FN	--	P	518
+#514	PNCT	--	U	518
+#515	PNCT	--	U	518
+#516	FN	--	A	520
+#517	FN	--	H	519
+#518	FN	--	H	519
+#519	FN	--	A	521
+#520	FN	--	H	522
+#521	FN	--	H	522
+#522	FN	--	--	0
+#EOS 589002

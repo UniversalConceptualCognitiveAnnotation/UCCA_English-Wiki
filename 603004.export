@@ -1,0 +1,32 @@
+#BOS 603004
+McCartney	Word	--	Terminal	500
+'s	Word	--	Terminal	501
+"	Punctuation	--	Terminal	502
+She	Word	--	Terminal	503
+'s	Word	--	Terminal	503
+Leaving	Word	--	Terminal	503
+Home	Word	--	Terminal	503
+"	Punctuation	--	Terminal	504
+was	Word	--	Terminal	505
+an	Word	--	Terminal	506
+orchestral	Word	--	Terminal	507
+pop	Word	--	Terminal	508
+song	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	FN	--	C	511
+#501	FN	--	R	511
+#502	PNCT	--	U	512
+#503	FN	--	C	512
+#504	PNCT	--	U	514
+#505	FN	--	S	514
+#506	FN	--	F	513
+#507	FN	--	E	513
+#508	FN	--	E	513
+#509	FN	--	C	513
+#510	PNCT	--	U	513
+#511	FN	--	E	512
+#512	FN	--	A	514
+#513	FN	--	A	514
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 603004

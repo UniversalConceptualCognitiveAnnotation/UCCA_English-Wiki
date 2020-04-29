@@ -1,0 +1,44 @@
+#BOS 496001
+He	Word	--	Terminal	500
+featured	Word	--	Terminal	501
+in	Word	--	Terminal	502
+a	Word	--	Terminal	503
+Lyons	Word	--	Terminal	504
+Maid	Word	--	Terminal	504
+ice	Word	--	Terminal	505
+cream	Word	--	Terminal	505
+commercial	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+but	Word	--	Terminal	508
+was	Word	--	Terminal	509
+rejected	Word	--	Terminal	510
+for	Word	--	Terminal	511
+another	Word	--	Terminal	512
+by	Word	--	Terminal	513
+Kit	Word	--	Terminal	514
+Kat	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	A	520	A*	521
+#501	FN	--	P	520
+#502	FN	--	R	517
+#503	FN	--	E	517
+#504	FN	--	E	516
+#505	FN	--	C	516
+#506	FN	--	C	517	C*	518
+#507	PNCT	--	U	522
+#508	FN	--	L	522
+#509	FN	--	F	521
+#510	FN	--	P	521
+#511	FN	--	R	518
+#512	FN	--	E	518
+#513	FN	--	R	519
+#514	FN	--	C	519
+#515	PNCT	--	U	519
+#516	FN	--	E	517
+#517	FN	--	A	520
+#518	FN	--	A	521
+#519	FN	--	A	521
+#520	FN	--	H	522
+#521	FN	--	H	522
+#522	FN	--	--	0
+#EOS 496001

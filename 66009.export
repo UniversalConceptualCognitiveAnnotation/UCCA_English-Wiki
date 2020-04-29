@@ -1,0 +1,47 @@
+#BOS 66009
+She	Word	--	Terminal	500
+began	Word	--	Terminal	501
+working	Word	--	Terminal	502
+as	Word	--	Terminal	503
+a	Word	--	Terminal	504
+fashion	Word	--	Terminal	505
+model	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+modeling	Word	--	Terminal	508
+mainly	Word	--	Terminal	509
+in	Word	--	Terminal	510
+Los	Word	--	Terminal	511
+Angeles	Word	--	Terminal	511
+,	Punctuation	--	Terminal	512
+New	Word	--	Terminal	513
+York	Word	--	Terminal	513
+,	Punctuation	--	Terminal	514
+and	Word	--	Terminal	515
+London	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	A	519	A*	523
+#501	FN	--	D	519
+#502	FN	--	D	519
+#503	FN	--	R	518
+#504	FN	--	F	518
+#505	FN	--	A	519
+#506	FN	--	C	518
+#507	PNCT	--	U	524
+#508	FN	--	P	523
+#509	FN	--	E	520
+#510	FN	--	C	520
+#511	FN	--	C	521
+#512	PNCT	--	U	521
+#513	FN	--	C	521
+#514	PNCT	--	U	521
+#515	FN	--	N	521
+#516	FN	--	C	521
+#517	PNCT	--	U	521
+#518	FN	--	P	519
+#519	FN	--	H	524
+#520	FN	--	R	522
+#521	FN	--	C	522
+#522	FN	--	A	523
+#523	FN	--	H	524
+#524	FN	--	--	0
+#EOS 66009

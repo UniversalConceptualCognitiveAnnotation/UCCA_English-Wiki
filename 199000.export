@@ -1,0 +1,29 @@
+#BOS 199000
+Sorkin	Word	--	Terminal	500
+returned	Word	--	Terminal	501
+to	Word	--	Terminal	502
+television	Word	--	Terminal	503
+in	Word	--	Terminal	504
+2011	Word	--	Terminal	505
+with	Word	--	Terminal	506
+two	Word	--	Terminal	507
+HBO	Word	--	Terminal	508
+projects	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	FN	--	A	514
+#501	FN	--	P	514
+#502	FN	--	R	511
+#503	FN	--	C	511
+#504	FN	--	R	512
+#505	FN	--	C	512
+#506	FN	--	R	513
+#507	FN	--	Q	513
+#508	FN	--	E	513
+#509	FN	--	C	513
+#510	PNCT	--	U	513
+#511	FN	--	A	514
+#512	FN	--	T	514
+#513	FN	--	A	514
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 199000

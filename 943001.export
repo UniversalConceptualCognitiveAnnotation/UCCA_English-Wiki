@@ -1,0 +1,24 @@
+#BOS 943001
+In	Word	--	Terminal	500
+school	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+she	Word	--	Terminal	503
+was	Word	--	Terminal	504
+diagnosed	Word	--	Terminal	505
+with	Word	--	Terminal	506
+dyslexia	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	FN	--	R	509
+#501	FN	--	C	509
+#502	PNCT	--	U	511
+#503	FN	--	A	511
+#504	FN	--	F	511
+#505	FN	--	P	511
+#506	FN	--	R	510
+#507	FN	--	C	510
+#508	PNCT	--	U	510
+#509	FN	--	A	511
+#510	FN	--	A	511
+#511	FN	--	H	512
+#512	FN	--	--	0
+#EOS 943001

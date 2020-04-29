@@ -1,0 +1,39 @@
+#BOS 560003
+So	Word	--	Terminal	500
+many	Word	--	Terminal	501
+of	Word	--	Terminal	502
+them	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+through	Word	--	Terminal	505
+some	Word	--	Terminal	506
+sort	Word	--	Terminal	506
+of	Word	--	Terminal	507
+jealousy	Word	--	Terminal	508
+,	Punctuation	--	Terminal	509
+would	Word	--	Terminal	510
+practically	Word	--	Terminal	511
+hate	Word	--	Terminal	512
+him	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	E	515
+#501	FN	--	C	515
+#502	FN	--	R	516
+#503	FN	--	C	516	A*	519
+#504	PNCT	--	U	520
+#505	FN	--	L	520
+#506	FN	--	D	519
+#507	FN	--	R	517
+#508	FN	--	C	517
+#509	PNCT	--	U	520
+#510	FN	--	D	518
+#511	FN	--	D	518
+#512	FN	--	P	518
+#513	FN	--	A	518
+#514	PNCT	--	U	518
+#515	FN	--	Q	516
+#516	FN	--	A	518
+#517	FN	--	P	519
+#518	FN	--	H	520
+#519	FN	--	H	520
+#520	FN	--	--	0
+#EOS 560003

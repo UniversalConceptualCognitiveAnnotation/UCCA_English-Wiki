@@ -1,0 +1,41 @@
+#BOS 673005
+The	Word	--	Terminal	500
+film	Word	--	Terminal	501
+garnered	Word	--	Terminal	502
+mostly	Word	--	Terminal	503
+positive	Word	--	Terminal	504
+reviews	Word	--	Terminal	505
+from	Word	--	Terminal	506
+critics	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+as	Word	--	Terminal	509
+had	Word	--	Terminal	510
+Carey	Word	--	Terminal	511
+'s	Word	--	Terminal	512
+performance	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	E	515
+#501	FN	--	C	515
+#502	FN	--	P	521	P*	522
+#503	FN	--	Q	517
+#504	FN	--	S	516
+#505	FN	--	C	517	A*	522	A*	516
+#506	FN	--	R	518
+#507	FN	--	P	518
+#508	PNCT	--	U	523
+#509	FN	--	L	523
+#510	FN	--	F	522
+#511	FN	--	C	519
+#512	FN	--	R	519
+#513	FN	--	P	520
+#514	PNCT	--	U	520
+#515	FN	--	A	521
+#516	FN	--	E	517
+#517	FN	--	A	521
+#518	FN	--	A	521
+#519	FN	--	A	520
+#520	FN	--	A	522
+#521	FN	--	H	523
+#522	FN	--	H	523
+#523	FN	--	--	0
+#EOS 673005

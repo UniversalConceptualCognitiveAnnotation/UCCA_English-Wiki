@@ -1,0 +1,42 @@
+#BOS 1026009
+Rowe	Word	--	Terminal	500
+eventually	Word	--	Terminal	501
+became	Word	--	Terminal	502
+Jackson	Word	--	Terminal	503
+'s	Word	--	Terminal	504
+second	Word	--	Terminal	505
+wife	Word	--	Terminal	506
+and	Word	--	Terminal	507
+the	Word	--	Terminal	508
+mother	Word	--	Terminal	509
+of	Word	--	Terminal	510
+his	Word	--	Terminal	511
+two	Word	--	Terminal	512
+eldest	Word	--	Terminal	513
+children	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	A	517	A*	522
+#501	FN	--	D	517
+#502	FN	--	D	517	D*	522
+#503	FN	--	C	516
+#504	FN	--	R	516
+#505	FN	--	D	517
+#506	FN	--	S	517
+#507	FN	--	L	523
+#508	FN	--	E	518
+#509	FN	--	C	518
+#510	FN	--	R	521
+#511	FN	--	A	519
+#512	FN	--	Q	521
+#513	FN	--	S	520
+#514	FN	--	S	519	A*	520
+#515	PNCT	--	U	519
+#516	FN	--	A	517
+#517	FN	--	H	523
+#518	FN	--	S	522
+#519	FN	--	C	521
+#520	FN	--	E	521
+#521	FN	--	A	522
+#522	FN	--	H	523
+#523	FN	--	--	0
+#EOS 1026009

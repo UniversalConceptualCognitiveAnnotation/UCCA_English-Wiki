@@ -1,0 +1,50 @@
+#BOS 230003
+He	Word	--	Terminal	500
+came	Word	--	Terminal	501
+closest	Word	--	Terminal	502
+to	Word	--	Terminal	503
+death	Word	--	Terminal	504
+filming	Word	--	Terminal	505
+Armour	Word	--	Terminal	506
+of	Word	--	Terminal	506
+God	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+when	Word	--	Terminal	508
+he	Word	--	Terminal	509
+fell	Word	--	Terminal	510
+from	Word	--	Terminal	511
+a	Word	--	Terminal	512
+tree	Word	--	Terminal	513
+and	Word	--	Terminal	514
+fractured	Word	--	Terminal	515
+his	Word	--	Terminal	516
+skull	Word	--	Terminal	517
+.	Punctuation	--	Terminal	518
+#500	FN	--	A	521	A*	519
+#501	FN	--	F	520
+#502	FN	--	D	521
+#503	FN	--	F	521
+#504	FN	--	C	520
+#505	FN	--	P	519
+#506	FN	--	A	519
+#507	PNCT	--	U	526
+#508	FN	--	L	526
+#509	FN	--	A	524	A*	525
+#510	FN	--	P	524
+#511	FN	--	R	522
+#512	FN	--	F	522
+#513	FN	--	C	522
+#514	FN	--	L	526
+#515	FN	--	P	525
+#516	FN	--	E	523
+#517	FN	--	C	523
+#518	PNCT	--	U	523
+#519	FN	--	H	526
+#520	FN	--	P	521
+#521	FN	--	H	526
+#522	FN	--	A	524
+#523	FN	--	A	525
+#524	FN	--	H	526
+#525	FN	--	H	526
+#526	FN	--	--	0
+#EOS 230003

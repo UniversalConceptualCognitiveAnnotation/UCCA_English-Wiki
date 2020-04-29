@@ -1,0 +1,55 @@
+#BOS 531012
+She	Word	--	Terminal	500
+had	Word	--	Terminal	501
+filed	Word	--	Terminal	502
+for	Word	--	Terminal	503
+divorce	Word	--	Terminal	504
+from	Word	--	Terminal	505
+Luft	Word	--	Terminal	506
+more	Word	--	Terminal	507
+than	Word	--	Terminal	507
+once	Word	--	Terminal	508
+previously	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+including	Word	--	Terminal	511
+as	Word	--	Terminal	512
+early	Word	--	Terminal	513
+as	Word	--	Terminal	514
+1956	Word	--	Terminal	515
+,	Punctuation	--	Terminal	516
+but	Word	--	Terminal	517
+had	Word	--	Terminal	518
+reconciled	Word	--	Terminal	519
+.	Punctuation	--	Terminal	520
+#500	FN	--	A	528	A*	529	A*	521	A*	526
+#501	FN	--	F	528
+#502	FN	--	P	528	P*	529
+#503	FN	--	R	526
+#504	FN	--	P	526	A*	529
+#505	FN	--	R	522
+#506	FN	--	C	522
+#507	FN	--	E	523
+#508	FN	--	C	523
+#509	FN	--	T	528
+#510	PNCT	--	U	530
+#511	FN	--	L	530
+#512	FN	--	R	524
+#513	FN	--	C	524
+#514	FN	--	R	525
+#515	FN	--	C	525
+#516	PNCT	--	U	530
+#517	FN	--	L	530
+#518	FN	--	F	521
+#519	FN	--	P	521
+#520	PNCT	--	U	521
+#521	FN	--	H	530
+#522	FN	--	A	526
+#523	FN	--	D	528
+#524	FN	--	C	527
+#525	FN	--	C	527
+#526	FN	--	A	528
+#527	FN	--	T	529
+#528	FN	--	H	530
+#529	FN	--	H	530
+#530	FN	--	--	0
+#EOS 531012

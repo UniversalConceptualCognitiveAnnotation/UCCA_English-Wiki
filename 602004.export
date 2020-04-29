@@ -1,0 +1,39 @@
+#BOS 602004
+Revolver	Word	--	Terminal	500
+also	Word	--	Terminal	501
+included	Word	--	Terminal	502
+McCartney	Word	--	Terminal	503
+'s	Word	--	Terminal	504
+"	Punctuation	--	Terminal	505
+Eleanor	Word	--	Terminal	506
+Rigby	Word	--	Terminal	506
+"	Punctuation	--	Terminal	507
+,	Punctuation	--	Terminal	508
+which	Word	--	Terminal	509
+featured	Word	--	Terminal	510
+a	Word	--	Terminal	511
+string	Word	--	Terminal	512
+octet	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	A	519
+#501	FN	--	D	519
+#502	FN	--	P	519
+#503	FN	--	C	515
+#504	FN	--	R	515
+#505	PNCT	--	U	518
+#506	FN	--	C	518	A*	517
+#507	PNCT	--	U	518
+#508	PNCT	--	U	518
+#509	FN	--	R	517
+#510	FN	--	P	517
+#511	FN	--	E	516
+#512	FN	--	E	516
+#513	FN	--	C	516
+#514	PNCT	--	U	516
+#515	FN	--	E	518
+#516	FN	--	A	517
+#517	FN	--	E	518
+#518	FN	--	A	519
+#519	FN	--	H	520
+#520	FN	--	--	0
+#EOS 602004

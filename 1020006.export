@@ -1,0 +1,77 @@
+#BOS 1020006
+In	Word	--	Terminal	500
+1966	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+they	Word	--	Terminal	503
+won	Word	--	Terminal	504
+a	Word	--	Terminal	505
+major	Word	--	Terminal	506
+local	Word	--	Terminal	507
+talent	Word	--	Terminal	508
+show	Word	--	Terminal	509
+with	Word	--	Terminal	510
+renditions	Word	--	Terminal	511
+of	Word	--	Terminal	512
+Motown	Word	--	Terminal	513
+hits	Word	--	Terminal	514
+and	Word	--	Terminal	515
+James	Word	--	Terminal	516
+Brown	Word	--	Terminal	516
+'s	Word	--	Terminal	517
+"	Punctuation	--	Terminal	518
+I	Word	--	Terminal	520
+Got	Word	--	Terminal	520
+You	Word	--	Terminal	520
+(	Punctuation	--	Terminal	519
+I	Word	--	Terminal	520
+Feel	Word	--	Terminal	520
+Good	Word	--	Terminal	520
+)	Punctuation	--	Terminal	521
+"	Punctuation	--	Terminal	522
+,	Punctuation	--	Terminal	523
+led	Word	--	Terminal	524
+by	Word	--	Terminal	525
+Michael	Word	--	Terminal	526
+.	Punctuation	--	Terminal	527
+#500	FN	--	R	528
+#501	FN	--	C	528
+#502	PNCT	--	U	533
+#503	FN	--	A	533	A*	539
+#504	FN	--	P	533
+#505	FN	--	F	529
+#506	FN	--	D	529
+#507	FN	--	A	529
+#508	FN	--	A	529
+#509	FN	--	P	529
+#510	FN	--	L	540
+#511	FN	--	P	539	A*	534
+#512	FN	--	R	538
+#513	FN	--	A	536
+#514	FN	--	C	537	A*	536
+#515	FN	--	N	538
+#516	FN	--	A	530
+#517	FN	--	S	530
+#518	PNCT	--	U	530
+#519	PNCT	--	U	520
+#520	FN	--	C	531	A*	530
+#521	PNCT	--	U	540
+#522	PNCT	--	U	540
+#523	PNCT	--	U	540
+#524	FN	--	P	534
+#525	FN	--	R	532
+#526	FN	--	C	532
+#527	PNCT	--	U	532
+#528	FN	--	T	533
+#529	FN	--	A	533
+#530	FN	--	E	531
+#531	FN	--	C	538
+#532	FN	--	A	534
+#533	FN	--	H	540
+#534	FN	--	H	540
+#535	FN	--	S	536
+#536	FN	--	E	537
+#537	FN	--	C	538
+#538	FN	--	A	539
+#539	FN	--	H	540
+#540	FN	--	--	0
+#EOS 1020006

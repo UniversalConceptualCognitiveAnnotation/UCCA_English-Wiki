@@ -1,0 +1,42 @@
+#BOS 554006
+Jesse	Word	--	Terminal	500
+Garon	Word	--	Terminal	500
+Presley	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+his	Word	--	Terminal	502
+identical	Word	--	Terminal	503
+twin	Word	--	Terminal	504
+brother	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+was	Word	--	Terminal	507
+delivered	Word	--	Terminal	508
+stillborn	Word	--	Terminal	509
+35	Word	--	Terminal	510
+minutes	Word	--	Terminal	511
+before	Word	--	Terminal	512
+him	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	C	520	A*	515
+#501	PNCT	--	U	520
+#502	FN	--	A	517
+#503	FN	--	E	516
+#504	FN	--	C	516
+#505	FN	--	A	517
+#506	PNCT	--	U	521
+#507	FN	--	F	521
+#508	FN	--	P	521	P*	518
+#509	FN	--	S	515
+#510	FN	--	Q	519
+#511	FN	--	C	519
+#512	FN	--	R	519
+#513	FN	--	A	518
+#514	PNCT	--	U	518
+#515	FN	--	H	522
+#516	FN	--	A	517
+#517	FN	--	E	520
+#518	FN	--	H	522
+#519	FN	--	L	522
+#520	FN	--	A	521
+#521	FN	--	H	522
+#522	FN	--	--	0
+#EOS 554006

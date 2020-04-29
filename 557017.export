@@ -1,0 +1,38 @@
+#BOS 557017
+Despite	Word	--	Terminal	500
+this	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+Phillips	Word	--	Terminal	503
+asked	Word	--	Terminal	504
+Presley	Word	--	Terminal	505
+to	Word	--	Terminal	506
+sing	Word	--	Terminal	507
+as	Word	--	Terminal	508
+many	Word	--	Terminal	509
+numbers	Word	--	Terminal	510
+as	Word	--	Terminal	511
+he	Word	--	Terminal	512
+knew	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	L	520
+#501	FN	--	H	520
+#502	PNCT	--	U	520
+#503	FN	--	A	519
+#504	FN	--	P	519
+#505	FN	--	A	519	A*	518
+#506	FN	--	F	518
+#507	FN	--	P	518
+#508	FN	--	R	515
+#509	FN	--	C	515
+#510	FN	--	C	517	A*	516
+#511	FN	--	R	516
+#512	FN	--	A	516
+#513	FN	--	P	516
+#514	PNCT	--	U	516
+#515	FN	--	Q	517
+#516	FN	--	E	517
+#517	FN	--	A	518
+#518	FN	--	A	519
+#519	FN	--	H	520
+#520	FN	--	--	0
+#EOS 557017

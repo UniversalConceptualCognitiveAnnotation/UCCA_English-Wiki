@@ -1,0 +1,44 @@
+#BOS 606005
+In	Word	--	Terminal	500
+1974	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+Wings	Word	--	Terminal	503
+achieved	Word	--	Terminal	504
+a	Word	--	Terminal	505
+second	Word	--	Terminal	506
+US	Word	--	Terminal	507
+number	Word	--	Terminal	508
+-	Punctuation	--	Terminal	509
+one	Word	--	Terminal	510
+single	Word	--	Terminal	511
+with	Word	--	Terminal	512
+the	Word	--	Terminal	513
+title	Word	--	Terminal	514
+track	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	R	517
+#501	FN	--	C	517
+#502	PNCT	--	U	523
+#503	FN	--	A	523
+#504	FN	--	P	523
+#505	FN	--	F	522
+#506	FN	--	Q	522
+#507	FN	--	E	522
+#508	FN	--	C	518
+#509	PNCT	--	U	518
+#510	FN	--	Q	518
+#511	FN	--	C	522	A*	521
+#512	FN	--	R	519
+#513	FN	--	F	519
+#514	FN	--	E	519
+#515	FN	--	C	519
+#516	PNCT	--	U	519
+#517	FN	--	T	523
+#518	FN	--	A	521
+#519	FN	--	A	523
+#520	FN	--	S	521
+#521	FN	--	E	522
+#522	FN	--	A	523
+#523	FN	--	H	524
+#524	FN	--	--	0
+#EOS 606005

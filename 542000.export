@@ -1,0 +1,32 @@
+#BOS 542000
+During	Word	--	Terminal	500
+this	Word	--	Terminal	501
+period	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+Warner	Word	--	Terminal	504
+took	Word	--	Terminal	505
+an	Word	--	Terminal	506
+active	Word	--	Terminal	507
+role	Word	--	Terminal	508
+in	Word	--	Terminal	509
+recruiting	Word	--	Terminal	510
+talent	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	R	513
+#501	FN	--	E	513
+#502	FN	--	C	513
+#503	PNCT	--	U	515
+#504	FN	--	A	515
+#505	FN	--	F	514
+#506	FN	--	F	514
+#507	FN	--	E	514
+#508	FN	--	C	514
+#509	FN	--	R	515
+#510	FN	--	P	515
+#511	FN	--	A	515
+#512	PNCT	--	U	515
+#513	FN	--	T	515
+#514	FN	--	D	515
+#515	FN	--	H	516
+#516	FN	--	--	0
+#EOS 542000

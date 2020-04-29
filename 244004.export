@@ -1,0 +1,46 @@
+#BOS 244004
+In	Word	--	Terminal	500
+high	Word	--	Terminal	501
+school	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+Hawke	Word	--	Terminal	503
+aspired	Word	--	Terminal	504
+to	Word	--	Terminal	505
+be	Word	--	Terminal	506
+a	Word	--	Terminal	507
+writer	Word	--	Terminal	508
+,	Punctuation	--	Terminal	509
+but	Word	--	Terminal	510
+developed	Word	--	Terminal	511
+an	Word	--	Terminal	512
+interest	Word	--	Terminal	513
+in	Word	--	Terminal	514
+acting	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	R	517
+#501	FN	--	C	517
+#502	PNCT	--	U	524
+#503	FN	--	A	519	A*	524	A*	523	A*	520	A*	518
+#504	FN	--	P	519
+#505	FN	--	F	518
+#506	FN	--	F	518
+#507	FN	--	F	518
+#508	FN	--	P	518
+#509	PNCT	--	U	525
+#510	FN	--	L	525
+#511	FN	--	F	521
+#512	FN	--	F	521
+#513	FN	--	C	521
+#514	FN	--	R	520
+#515	FN	--	P	520
+#516	PNCT	--	U	520
+#517	FN	--	A	524
+#518	FN	--	A	519
+#519	FN	--	H	525
+#520	FN	--	A	523
+#521	FN	--	P	523
+#522	FN	--	P	524
+#523	FN	--	H	525
+#524	FN	--	H	525
+#525	FN	--	--	0
+#EOS 244004

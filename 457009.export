@@ -1,0 +1,47 @@
+#BOS 457009
+Some	Word	--	Terminal	500
+viewers	Word	--	Terminal	501
+of	Word	--	Terminal	502
+the	Word	--	Terminal	503
+documentary	Word	--	Terminal	504
+mailed	Word	--	Terminal	505
+bus	Word	--	Terminal	506
+fares	Word	--	Terminal	507
+to	Word	--	Terminal	508
+Jennings	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+telling	Word	--	Terminal	511
+him	Word	--	Terminal	512
+to	Word	--	Terminal	513
+return	Word	--	Terminal	514
+to	Word	--	Terminal	515
+Canada	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	E	523
+#501	FN	--	C	523	A*	525
+#502	FN	--	R	518
+#503	FN	--	E	518
+#504	FN	--	C	518
+#505	FN	--	P	524
+#506	FN	--	E	519
+#507	FN	--	C	519
+#508	FN	--	R	520
+#509	FN	--	C	520
+#510	PNCT	--	U	526
+#511	FN	--	P	525
+#512	FN	--	A	525	A*	522
+#513	FN	--	F	522
+#514	FN	--	P	522
+#515	FN	--	R	521
+#516	FN	--	C	521
+#517	PNCT	--	U	521
+#518	FN	--	E	523
+#519	FN	--	A	524
+#520	FN	--	A	524
+#521	FN	--	A	522
+#522	FN	--	A	525
+#523	FN	--	A	524
+#524	FN	--	H	526
+#525	FN	--	H	526
+#526	FN	--	--	0
+#EOS 457009

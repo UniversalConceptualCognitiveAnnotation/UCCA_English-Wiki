@@ -1,0 +1,41 @@
+#BOS 730007
+It	Word	--	Terminal	500
+also	Word	--	Terminal	501
+received	Word	--	Terminal	502
+a	Word	--	Terminal	503
+nomination	Word	--	Terminal	504
+for	Word	--	Terminal	505
+a	Word	--	Terminal	506
+Golden	Word	--	Terminal	507
+Globe	Word	--	Terminal	508
+Award	Word	--	Terminal	509
+for	Word	--	Terminal	510
+Best	Word	--	Terminal	511
+Foreign	Word	--	Terminal	512
+Language	Word	--	Terminal	513
+Film	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	A	521
+#501	FN	--	D	521
+#502	FN	--	D	521
+#503	FN	--	E	516
+#504	FN	--	C	516
+#505	FN	--	R	520
+#506	FN	--	E	520
+#507	FN	--	E	520
+#508	FN	--	C	520
+#509	FN	--	E	520
+#510	FN	--	R	519
+#511	FN	--	S	517
+#512	FN	--	E	518
+#513	FN	--	C	518
+#514	FN	--	C	519	A*	517
+#515	PNCT	--	U	519
+#516	FN	--	S	521
+#517	FN	--	E	519
+#518	FN	--	E	519
+#519	FN	--	E	520
+#520	FN	--	A	521
+#521	FN	--	H	522
+#522	FN	--	--	0
+#EOS 730007

@@ -1,0 +1,48 @@
+#BOS 616005
+McCartney	Word	--	Terminal	500
+later	Word	--	Terminal	501
+purchased	Word	--	Terminal	502
+works	Word	--	Terminal	503
+by	Word	--	Terminal	504
+Magritte	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+using	Word	--	Terminal	507
+his	Word	--	Terminal	508
+painting	Word	--	Terminal	509
+of	Word	--	Terminal	510
+an	Word	--	Terminal	511
+apple	Word	--	Terminal	512
+for	Word	--	Terminal	513
+the	Word	--	Terminal	514
+Apple	Word	--	Terminal	515
+Records	Word	--	Terminal	515
+logo	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	A	524	A*	525
+#501	FN	--	T	524
+#502	FN	--	P	524
+#503	FN	--	C	522	A*	518
+#504	FN	--	S	518
+#505	FN	--	A	518
+#506	PNCT	--	U	526
+#507	FN	--	P	525
+#508	FN	--	S	519
+#509	FN	--	C	523	A*	519
+#510	FN	--	R	520
+#511	FN	--	F	520
+#512	FN	--	C	520
+#513	FN	--	R	521
+#514	FN	--	F	521
+#515	FN	--	E	521
+#516	FN	--	C	521
+#517	PNCT	--	U	521
+#518	FN	--	E	522
+#519	FN	--	E	523
+#520	FN	--	E	523
+#521	FN	--	A	525
+#522	FN	--	A	524
+#523	FN	--	A	525
+#524	FN	--	H	526
+#525	FN	--	H	526
+#526	FN	--	--	0
+#EOS 616005

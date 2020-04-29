@@ -1,0 +1,43 @@
+#BOS 618011
+In	Word	--	Terminal	500
+2007	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+McCartney	Word	--	Terminal	503
+signed	Word	--	Terminal	504
+with	Word	--	Terminal	505
+Hear	Word	--	Terminal	506
+Music	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+becoming	Word	--	Terminal	509
+the	Word	--	Terminal	510
+label	Word	--	Terminal	511
+'s	Word	--	Terminal	512
+first	Word	--	Terminal	513
+artist	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	R	516
+#501	FN	--	C	516
+#502	PNCT	--	U	521
+#503	FN	--	A	521	A*	523
+#504	FN	--	P	521
+#505	FN	--	R	517
+#506	FN	--	E	517
+#507	FN	--	C	517
+#508	PNCT	--	U	524
+#509	FN	--	P	523
+#510	FN	--	E	518
+#511	FN	--	C	518
+#512	FN	--	S	519
+#513	FN	--	Q	522
+#514	FN	--	P	520	A*	519
+#515	PNCT	--	U	519
+#516	FN	--	T	521
+#517	FN	--	A	521
+#518	FN	--	A	519
+#519	FN	--	E	522
+#520	FN	--	C	522
+#521	FN	--	H	524
+#522	FN	--	A	523
+#523	FN	--	H	524
+#524	FN	--	--	0
+#EOS 618011

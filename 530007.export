@@ -1,0 +1,34 @@
+#BOS 530007
+In	Word	--	Terminal	500
+November	Word	--	Terminal	501
+1959	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+Garland	Word	--	Terminal	504
+was	Word	--	Terminal	505
+hospitalized	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+diagnosed	Word	--	Terminal	508
+with	Word	--	Terminal	509
+acute	Word	--	Terminal	510
+hepatitis	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	R	513
+#501	FN	--	C	513
+#502	FN	--	C	513
+#503	PNCT	--	U	514
+#504	FN	--	A	514	A*	517
+#505	FN	--	F	514
+#506	FN	--	P	514
+#507	PNCT	--	U	518
+#508	FN	--	P	517
+#509	FN	--	R	516
+#510	FN	--	S	515
+#511	FN	--	C	516	A*	515
+#512	PNCT	--	U	516
+#513	FN	--	T	514
+#514	FN	--	H	518
+#515	FN	--	E	516
+#516	FN	--	A	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 530007

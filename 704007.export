@@ -1,0 +1,53 @@
+#BOS 704007
+In	Word	--	Terminal	500
+1976	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+Dylan	Word	--	Terminal	503
+also	Word	--	Terminal	504
+wrote	Word	--	Terminal	505
+and	Word	--	Terminal	506
+duetted	Word	--	Terminal	507
+on	Word	--	Terminal	508
+the	Word	--	Terminal	509
+song	Word	--	Terminal	510
+"	Punctuation	--	Terminal	511
+Sign	Word	--	Terminal	512
+Language	Word	--	Terminal	512
+"	Punctuation	--	Terminal	513
+for	Word	--	Terminal	514
+Eric	Word	--	Terminal	515
+Clapton	Word	--	Terminal	515
+'s	Word	--	Terminal	516
+No	Word	--	Terminal	517
+Reason	Word	--	Terminal	517
+To	Word	--	Terminal	517
+Cry	Word	--	Terminal	517
+.	Punctuation	--	Terminal	518
+#500	FN	--	R	519
+#501	FN	--	C	519
+#502	PNCT	--	U	524
+#503	FN	--	A	524	A*	525
+#504	FN	--	D	524	D*	525
+#505	FN	--	P	524
+#506	FN	--	L	526
+#507	FN	--	P	525
+#508	FN	--	R	521
+#509	FN	--	E	520
+#510	FN	--	C	520
+#511	PNCT	--	U	521
+#512	FN	--	C	521
+#513	PNCT	--	U	524
+#514	FN	--	R	523
+#515	FN	--	A	522
+#516	FN	--	S	522
+#517	FN	--	C	523	A*	522
+#518	PNCT	--	U	523
+#519	FN	--	T	524	T*	525
+#520	FN	--	E	521
+#521	FN	--	A	524	A*	525
+#522	FN	--	E	523
+#523	FN	--	A	524	A*	525
+#524	FN	--	H	526
+#525	FN	--	H	526
+#526	FN	--	--	0
+#EOS 704007

@@ -1,0 +1,57 @@
+#BOS 523011
+For	Word	--	Terminal	500
+Garland	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+this	Word	--	Terminal	503
+regular	Word	--	Terminal	504
+dose	Word	--	Terminal	505
+of	Word	--	Terminal	506
+drugs	Word	--	Terminal	507
+led	Word	--	Terminal	508
+to	Word	--	Terminal	509
+addiction	Word	--	Terminal	510
+and	Word	--	Terminal	511
+a	Word	--	Terminal	512
+lifelong	Word	--	Terminal	513
+struggle	Word	--	Terminal	514
+and	Word	--	Terminal	515
+contributed	Word	--	Terminal	516
+to	Word	--	Terminal	517
+her	Word	--	Terminal	518
+eventual	Word	--	Terminal	519
+demise	Word	--	Terminal	520
+.	Punctuation	--	Terminal	521
+#500	FN	--	R	522
+#501	FN	--	C	522	A*	526	A*	528
+#502	PNCT	--	U	532
+#503	FN	--	E	529
+#504	FN	--	T	528
+#505	FN	--	C	529	A*	528
+#506	FN	--	R	530
+#507	FN	--	C	530	A*	526	A*	523
+#508	FN	--	D	531	D*	526
+#509	FN	--	R	524
+#510	FN	--	C	524
+#511	FN	--	L	532
+#512	FN	--	E	525
+#513	FN	--	C	525
+#514	FN	--	P	526
+#515	FN	--	L	532
+#516	FN	--	D	523
+#517	FN	--	F	523
+#518	FN	--	A	523
+#519	FN	--	T	523
+#520	FN	--	P	523
+#521	PNCT	--	U	523
+#522	FN	--	A	531
+#523	FN	--	H	532
+#524	FN	--	S	531
+#525	FN	--	T	526
+#526	FN	--	H	532
+#527	FN	--	P	528
+#528	FN	--	E	529
+#529	FN	--	Q	530
+#530	FN	--	A	531
+#531	FN	--	H	532
+#532	FN	--	--	0
+#EOS 523011

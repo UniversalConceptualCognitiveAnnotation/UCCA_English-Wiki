@@ -1,0 +1,44 @@
+#BOS 473005
+Before	Word	--	Terminal	500
+the	Word	--	Terminal	501
+1992	Word	--	Terminal	502
+-	Punctuation	--	Terminal	503
+93	Word	--	Terminal	504
+NBA	Word	--	Terminal	505
+season	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+Johnson	Word	--	Terminal	508
+announced	Word	--	Terminal	509
+his	Word	--	Terminal	510
+intention	Word	--	Terminal	511
+to	Word	--	Terminal	512
+stage	Word	--	Terminal	513
+an	Word	--	Terminal	514
+NBA	Word	--	Terminal	515
+comeback	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	L	523
+#501	FN	--	F	519
+#502	FN	--	C	518
+#503	PNCT	--	U	518
+#504	FN	--	C	518
+#505	FN	--	A	519
+#506	FN	--	P	519
+#507	PNCT	--	U	523
+#508	FN	--	A	522
+#509	FN	--	P	522
+#510	FN	--	A	521	A*	520
+#511	FN	--	D	521
+#512	FN	--	F	521
+#513	FN	--	P	521
+#514	FN	--	F	520
+#515	FN	--	A	520
+#516	FN	--	P	520
+#517	PNCT	--	U	520
+#518	FN	--	T	519
+#519	FN	--	H	523
+#520	FN	--	A	521
+#521	FN	--	A	522
+#522	FN	--	H	523
+#523	FN	--	--	0
+#EOS 473005

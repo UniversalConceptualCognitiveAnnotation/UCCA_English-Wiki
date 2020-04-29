@@ -1,0 +1,28 @@
+#BOS 607003
+Though	Word	--	Terminal	500
+certified	Word	--	Terminal	501
+platinum	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+critics	Word	--	Terminal	504
+panned	Word	--	Terminal	505
+Back	Word	--	Terminal	506
+to	Word	--	Terminal	506
+the	Word	--	Terminal	506
+Egg	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+#500	FN	--	L	514
+#501	FN	--	S	508
+#502	FN	--	C	509	A*	508
+#503	PNCT	--	U	514
+#504	FN	--	A	510
+#505	FN	--	P	511
+#506	FN	--	A	511	A*	513
+#507	PNCT	--	U	513
+#508	FN	--	E	509
+#509	FN	--	A	513
+#510	FN	--	A	511
+#511	FN	--	H	514
+#512	FN	--	S	513
+#513	FN	--	H	514
+#514	FN	--	--	0
+#EOS 607003

@@ -1,0 +1,57 @@
+#BOS 129002
+The	Word	--	Terminal	500
+romantic	Word	--	Terminal	501
+drama	Word	--	Terminal	502
+Break	Word	--	Terminal	503
+of	Word	--	Terminal	503
+Hearts	Word	--	Terminal	503
+(	Punctuation	--	Terminal	504
+1935	Word	--	Terminal	505
+)	Punctuation	--	Terminal	506
+with	Word	--	Terminal	507
+Charles	Word	--	Terminal	508
+Boyer	Word	--	Terminal	508
+was	Word	--	Terminal	509
+poorly	Word	--	Terminal	510
+reviewed	Word	--	Terminal	511
+and	Word	--	Terminal	512
+also	Word	--	Terminal	513
+lost	Word	--	Terminal	514
+money	Word	--	Terminal	515
+at	Word	--	Terminal	516
+the	Word	--	Terminal	517
+box	Word	--	Terminal	518
+office	Word	--	Terminal	519
+.	Punctuation	--	Terminal	520
+#500	FN	--	E	527
+#501	FN	--	E	521
+#502	FN	--	C	521
+#503	FN	--	C	527	A*	526
+#504	PNCT	--	U	527
+#505	FN	--	T	526
+#506	PNCT	--	U	527
+#507	FN	--	R	522
+#508	FN	--	C	522
+#509	FN	--	F	529
+#510	FN	--	D	529
+#511	FN	--	P	529
+#512	FN	--	E	523
+#513	FN	--	C	523
+#514	FN	--	P	528
+#515	FN	--	A	528
+#516	FN	--	R	524
+#517	FN	--	E	524
+#518	FN	--	E	524
+#519	FN	--	C	524
+#520	PNCT	--	U	524
+#521	FN	--	E	527
+#522	FN	--	E	527
+#523	FN	--	L	530
+#524	FN	--	A	528
+#525	FN	--	P	526
+#526	FN	--	E	527
+#527	FN	--	A	529	A*	528
+#528	FN	--	H	530
+#529	FN	--	H	530
+#530	FN	--	--	0
+#EOS 129002

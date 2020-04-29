@@ -1,0 +1,48 @@
+#BOS 521015
+Frances	Word	--	Terminal	500
+changed	Word	--	Terminal	501
+her	Word	--	Terminal	502
+name	Word	--	Terminal	503
+to	Word	--	Terminal	504
+"	Punctuation	--	Terminal	505
+Judy	Word	--	Terminal	506
+"	Punctuation	--	Terminal	507
+soon	Word	--	Terminal	508
+after	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+inspired	Word	--	Terminal	511
+by	Word	--	Terminal	512
+a	Word	--	Terminal	513
+popular	Word	--	Terminal	514
+Hoagy	Word	--	Terminal	515
+Carmichael	Word	--	Terminal	515
+song	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	A	524	A*	525
+#501	FN	--	P	524
+#502	FN	--	E	518
+#503	FN	--	C	518
+#504	FN	--	R	519
+#505	PNCT	--	U	519
+#506	FN	--	C	519
+#507	PNCT	--	U	524
+#508	FN	--	E	520
+#509	FN	--	C	520
+#510	PNCT	--	U	526
+#511	FN	--	P	525
+#512	FN	--	R	523
+#513	FN	--	F	523
+#514	FN	--	S	521
+#515	FN	--	A	522
+#516	FN	--	C	523	A*	521	A*	522
+#517	PNCT	--	U	523
+#518	FN	--	A	524
+#519	FN	--	A	524
+#520	FN	--	T	524
+#521	FN	--	E	523
+#522	FN	--	E	523
+#523	FN	--	A	525
+#524	FN	--	H	526
+#525	FN	--	H	526
+#526	FN	--	--	0
+#EOS 521015

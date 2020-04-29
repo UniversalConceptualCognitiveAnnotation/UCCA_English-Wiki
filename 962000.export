@@ -1,0 +1,36 @@
+#BOS 962000
+In	Word	--	Terminal	500
+1960	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+she	Word	--	Terminal	503
+and	Word	--	Terminal	504
+Olivier	Word	--	Terminal	505
+divorced	Word	--	Terminal	506
+and	Word	--	Terminal	507
+Olivier	Word	--	Terminal	508
+married	Word	--	Terminal	509
+actress	Word	--	Terminal	510
+Joan	Word	--	Terminal	511
+Plowright	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	R	513
+#501	FN	--	C	513
+#502	PNCT	--	U	515
+#503	FN	--	C	514
+#504	FN	--	N	514
+#505	FN	--	C	514
+#506	FN	--	P	515
+#507	FN	--	L	519
+#508	FN	--	A	518
+#509	FN	--	P	518
+#510	FN	--	A	516
+#511	FN	--	C	517
+#512	PNCT	--	U	517
+#513	FN	--	T	515
+#514	FN	--	A	515
+#515	FN	--	H	519
+#516	FN	--	E	517
+#517	FN	--	A	518
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 962000

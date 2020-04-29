@@ -1,0 +1,43 @@
+#BOS 458002
+ABC	Word	--	Terminal	500
+dedicated	Word	--	Terminal	501
+more	Word	--	Terminal	502
+time	Word	--	Terminal	503
+to	Word	--	Terminal	504
+covering	Word	--	Terminal	505
+the	Word	--	Terminal	506
+conflict	Word	--	Terminal	507
+than	Word	--	Terminal	508
+any	Word	--	Terminal	509
+other	Word	--	Terminal	510
+network	Word	--	Terminal	511
+from	Word	--	Terminal	512
+1992	Word	--	Terminal	513
+to	Word	--	Terminal	514
+1996	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	A	521
+#501	FN	--	E	517
+#502	FN	--	E	517
+#503	FN	--	C	517
+#504	FN	--	F	521
+#505	FN	--	P	521	P*	522
+#506	FN	--	E	518
+#507	FN	--	C	518
+#508	FN	--	L	523
+#509	FN	--	E	519
+#510	FN	--	E	519
+#511	FN	--	C	519
+#512	FN	--	R	520
+#513	FN	--	C	520
+#514	FN	--	N	520
+#515	FN	--	C	520
+#516	PNCT	--	U	520
+#517	FN	--	D	521
+#518	FN	--	A	521	A*	522
+#519	FN	--	A	522
+#520	FN	--	T	521
+#521	FN	--	H	523
+#522	FN	--	H	523
+#523	FN	--	--	0
+#EOS 458002

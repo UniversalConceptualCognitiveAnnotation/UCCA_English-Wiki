@@ -1,0 +1,37 @@
+#BOS 651008
+While	Word	--	Terminal	500
+the	Word	--	Terminal	501
+legal	Word	--	Terminal	502
+battle	Word	--	Terminal	503
+continued	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+Lennon	Word	--	Terminal	506
+attended	Word	--	Terminal	507
+rallies	Word	--	Terminal	508
+and	Word	--	Terminal	509
+made	Word	--	Terminal	510
+television	Word	--	Terminal	511
+appearances	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	L	520
+#501	FN	--	E	514
+#502	FN	--	D	515
+#503	FN	--	C	514
+#504	FN	--	D	515
+#505	PNCT	--	U	520
+#506	FN	--	A	519	A*	518
+#507	FN	--	P	519
+#508	FN	--	P	516
+#509	FN	--	L	520
+#510	FN	--	F	517
+#511	FN	--	A	518
+#512	FN	--	C	517
+#513	PNCT	--	U	517
+#514	FN	--	P	515
+#515	FN	--	H	520
+#516	FN	--	A	519
+#517	FN	--	P	518
+#518	FN	--	H	520
+#519	FN	--	H	520
+#520	FN	--	--	0
+#EOS 651008

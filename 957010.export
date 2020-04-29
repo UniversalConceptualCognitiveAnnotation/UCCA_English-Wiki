@@ -1,0 +1,47 @@
+#BOS 957010
+They	Word	--	Terminal	500
+filmed	Word	--	Terminal	501
+That	Word	--	Terminal	502
+Hamilton	Word	--	Terminal	502
+Woman	Word	--	Terminal	502
+(	Punctuation	--	Terminal	503
+1941	Word	--	Terminal	504
+)	Punctuation	--	Terminal	505
+with	Word	--	Terminal	506
+Olivier	Word	--	Terminal	507
+as	Word	--	Terminal	508
+Horatio	Word	--	Terminal	509
+Nelson	Word	--	Terminal	509
+and	Word	--	Terminal	510
+Leigh	Word	--	Terminal	511
+as	Word	--	Terminal	512
+Emma	Word	--	Terminal	513
+Hamilton	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	A	524
+#501	FN	--	P	524
+#502	FN	--	C	519	A*	518
+#503	PNCT	--	U	519
+#504	FN	--	T	518
+#505	PNCT	--	U	524
+#506	FN	--	R	523
+#507	FN	--	C	520	A*	515
+#508	FN	--	S	515
+#509	FN	--	A	515
+#510	FN	--	N	522
+#511	FN	--	C	521	A*	516
+#512	FN	--	S	516
+#513	FN	--	A	516
+#514	PNCT	--	U	516
+#515	FN	--	E	520
+#516	FN	--	E	521
+#517	FN	--	P	518
+#518	FN	--	E	519
+#519	FN	--	A	524
+#520	FN	--	C	522
+#521	FN	--	C	522
+#522	FN	--	C	523
+#523	FN	--	A	524
+#524	FN	--	H	525
+#525	FN	--	--	0
+#EOS 957010

@@ -1,0 +1,54 @@
+#BOS 137006
+Pat	Word	--	Terminal	500
+and	Word	--	Terminal	500
+Mike	Word	--	Terminal	500
+was	Word	--	Terminal	501
+the	Word	--	Terminal	502
+last	Word	--	Terminal	503
+film	Word	--	Terminal	504
+Hepburn	Word	--	Terminal	505
+completed	Word	--	Terminal	506
+on	Word	--	Terminal	507
+her	Word	--	Terminal	508
+MGM	Word	--	Terminal	509
+contract	Word	--	Terminal	510
+,	Punctuation	--	Terminal	511
+making	Word	--	Terminal	512
+her	Word	--	Terminal	513
+free	Word	--	Terminal	514
+to	Word	--	Terminal	515
+select	Word	--	Terminal	516
+her	Word	--	Terminal	517
+own	Word	--	Terminal	518
+projects	Word	--	Terminal	519
+.	Punctuation	--	Terminal	520
+#500	FN	--	A	525
+#501	FN	--	F	525
+#502	FN	--	E	521
+#503	FN	--	S	525
+#504	FN	--	C	521	A*	524
+#505	FN	--	A	524
+#506	FN	--	P	524
+#507	FN	--	R	522
+#508	FN	--	E	522
+#509	FN	--	E	522
+#510	FN	--	C	522
+#511	PNCT	--	U	528
+#512	FN	--	D	527
+#513	FN	--	A	527	A*	526
+#514	FN	--	S	527
+#515	FN	--	F	526
+#516	FN	--	P	526
+#517	FN	--	A	523
+#518	FN	--	S	523
+#519	FN	--	A	523
+#520	PNCT	--	U	523
+#521	FN	--	A	525
+#522	FN	--	A	524
+#523	FN	--	A	526
+#524	FN	--	A	525
+#525	FN	--	H	528
+#526	FN	--	A	527
+#527	FN	--	H	528
+#528	FN	--	--	0
+#EOS 137006

@@ -1,0 +1,67 @@
+#BOS 66003
+Like	Word	--	Terminal	500
+her	Word	--	Terminal	501
+mother	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+Jolie	Word	--	Terminal	504
+has	Word	--	Terminal	505
+stated	Word	--	Terminal	506
+that	Word	--	Terminal	507
+she	Word	--	Terminal	508
+is	Word	--	Terminal	509
+part	Word	--	Terminal	510
+Iroquois	Word	--	Terminal	511
+;	Punctuation	--	Terminal	512
+her	Word	--	Terminal	513
+only	Word	--	Terminal	514
+known	Word	--	Terminal	515
+Native	Word	--	Terminal	516
+ancestor	Word	--	Terminal	517
+was	Word	--	Terminal	518
+a	Word	--	Terminal	519
+Huron	Word	--	Terminal	520
+woman	Word	--	Terminal	521
+born	Word	--	Terminal	522
+in	Word	--	Terminal	523
+1649	Word	--	Terminal	524
+.	Punctuation	--	Terminal	525
+#500	FN	--	L	538
+#501	FN	--	A	526
+#502	FN	--	A	526
+#503	PNCT	--	U	538
+#504	FN	--	A	534
+#505	FN	--	F	534
+#506	FN	--	P	534
+#507	FN	--	R	527
+#508	FN	--	A	527
+#509	FN	--	F	527
+#510	FN	--	D	527	D*	528
+#511	FN	--	S	527	S*	528
+#512	PNCT	--	U	538
+#513	FN	--	E	531
+#514	FN	--	Q	531
+#515	FN	--	P	529
+#516	FN	--	S	530
+#517	FN	--	C	531	A*	529	A*	530
+#518	FN	--	S	537
+#519	FN	--	F	536
+#520	FN	--	S	532
+#521	FN	--	C	536	A*	532	A*	535
+#522	FN	--	P	535
+#523	FN	--	R	533
+#524	FN	--	C	533
+#525	PNCT	--	U	533
+#526	FN	--	A	528
+#527	FN	--	A	534
+#528	FN	--	H	538
+#529	FN	--	E	531
+#530	FN	--	E	531
+#531	FN	--	A	537
+#532	FN	--	E	536
+#533	FN	--	T	535
+#534	FN	--	H	538
+#535	FN	--	E	536
+#536	FN	--	A	537
+#537	FN	--	H	538
+#538	FN	--	--	0
+#EOS 66003

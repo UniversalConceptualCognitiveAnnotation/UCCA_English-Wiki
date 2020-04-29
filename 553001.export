@@ -1,0 +1,35 @@
+#BOS 553001
+A	Word	--	Terminal	500
+cultural	Word	--	Terminal	501
+icon	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+he	Word	--	Terminal	504
+is	Word	--	Terminal	505
+commonly	Word	--	Terminal	506
+known	Word	--	Terminal	507
+by	Word	--	Terminal	508
+the	Word	--	Terminal	509
+single	Word	--	Terminal	510
+name	Word	--	Terminal	511
+Elvis	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	F	514
+#501	FN	--	A	514
+#502	FN	--	S	514
+#503	PNCT	--	U	514
+#504	FN	--	A	517	A*	514
+#505	FN	--	F	517
+#506	FN	--	D	517
+#507	FN	--	P	517
+#508	FN	--	R	515
+#509	FN	--	E	515
+#510	FN	--	Q	515
+#511	FN	--	C	515
+#512	FN	--	E	515
+#513	PNCT	--	U	515
+#514	FN	--	H	518
+#515	FN	--	A	517
+#516	FN	--	A	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 553001

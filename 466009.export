@@ -1,0 +1,41 @@
+#BOS 466009
+He	Word	--	Terminal	500
+was	Word	--	Terminal	501
+rated	Word	--	Terminal	502
+the	Word	--	Terminal	503
+greatest	Word	--	Terminal	504
+NBA	Word	--	Terminal	505
+point	Word	--	Terminal	506
+guard	Word	--	Terminal	506
+of	Word	--	Terminal	507
+all	Word	--	Terminal	508
+time	Word	--	Terminal	509
+by	Word	--	Terminal	510
+ESPN	Word	--	Terminal	511
+in	Word	--	Terminal	512
+2007	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	A	521
+#501	FN	--	F	521
+#502	FN	--	P	521
+#503	FN	--	E	520
+#504	FN	--	S	515	S*	519
+#505	FN	--	A	515
+#506	FN	--	C	520	A*	515	A*	519
+#507	FN	--	R	516
+#508	FN	--	Q	516
+#509	FN	--	C	516
+#510	FN	--	R	517
+#511	FN	--	C	517
+#512	FN	--	R	518
+#513	FN	--	C	518
+#514	PNCT	--	U	518
+#515	FN	--	E	520
+#516	FN	--	T	519
+#517	FN	--	A	521
+#518	FN	--	T	521
+#519	FN	--	E	520
+#520	FN	--	A	521
+#521	FN	--	H	522
+#522	FN	--	--	0
+#EOS 466009

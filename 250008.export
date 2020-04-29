@@ -1,0 +1,62 @@
+#BOS 250008
+The	Word	--	Terminal	500
+following	Word	--	Terminal	501
+year	Word	--	Terminal	502
+Hawke	Word	--	Terminal	503
+was	Word	--	Terminal	504
+a	Word	--	Terminal	505
+co	Word	--	Terminal	506
+-	Punctuation	--	Terminal	507
+founder	Word	--	Terminal	508
+and	Word	--	Terminal	509
+the	Word	--	Terminal	510
+artistic	Word	--	Terminal	511
+director	Word	--	Terminal	512
+of	Word	--	Terminal	513
+Malaparte	Word	--	Terminal	514
+,	Punctuation	--	Terminal	515
+a	Word	--	Terminal	516
+Manhattan	Word	--	Terminal	517
+theater	Word	--	Terminal	518
+company	Word	--	Terminal	519
+,	Punctuation	--	Terminal	520
+which	Word	--	Terminal	521
+survived	Word	--	Terminal	522
+until	Word	--	Terminal	523
+2000	Word	--	Terminal	524
+.	Punctuation	--	Terminal	525
+#500	FN	--	F	526
+#501	FN	--	E	526
+#502	FN	--	C	526
+#503	FN	--	A	532	A*	527
+#504	FN	--	F	532
+#505	FN	--	F	532
+#506	FN	--	D	532
+#507	PNCT	--	U	532
+#508	FN	--	P	532
+#509	FN	--	L	533
+#510	FN	--	F	527
+#511	FN	--	D	527
+#512	FN	--	P	527
+#513	FN	--	R	531
+#514	FN	--	C	531	A*	527	A*	529
+#515	PNCT	--	U	531
+#516	FN	--	F	530
+#517	FN	--	E	530
+#518	FN	--	E	530
+#519	FN	--	C	530
+#520	PNCT	--	U	530
+#521	FN	--	R	529
+#522	FN	--	S	529
+#523	FN	--	R	528
+#524	FN	--	C	528
+#525	PNCT	--	U	528
+#526	FN	--	T	532	T*	527
+#527	FN	--	H	533
+#528	FN	--	T	529
+#529	FN	--	E	530
+#530	FN	--	E	531
+#531	FN	--	A	532
+#532	FN	--	H	533
+#533	FN	--	--	0
+#EOS 250008

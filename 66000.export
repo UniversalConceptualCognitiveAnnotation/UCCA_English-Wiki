@@ -1,0 +1,44 @@
+#BOS 66000
+Born	Word	--	Terminal	500
+in	Word	--	Terminal	501
+Los	Word	--	Terminal	502
+Angeles	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+California	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+Jolie	Word	--	Terminal	506
+is	Word	--	Terminal	507
+the	Word	--	Terminal	508
+daughter	Word	--	Terminal	509
+of	Word	--	Terminal	510
+actors	Word	--	Terminal	511
+Jon	Word	--	Terminal	512
+Voight	Word	--	Terminal	512
+and	Word	--	Terminal	513
+Marcheline	Word	--	Terminal	514
+Bertrand	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	P	517
+#501	FN	--	R	516
+#502	FN	--	C	516
+#503	PNCT	--	U	516
+#504	FN	--	C	516
+#505	PNCT	--	U	517
+#506	FN	--	A	521	A*	517
+#507	FN	--	F	521
+#508	FN	--	F	521
+#509	FN	--	S	521
+#510	FN	--	R	520
+#511	FN	--	P	519
+#512	FN	--	C	518
+#513	FN	--	N	518
+#514	FN	--	C	518
+#515	PNCT	--	U	518
+#516	FN	--	A	517
+#517	FN	--	H	522
+#518	FN	--	C	520	A*	519
+#519	FN	--	E	520
+#520	FN	--	A	521
+#521	FN	--	H	522
+#522	FN	--	--	0
+#EOS 66000

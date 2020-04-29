@@ -1,0 +1,38 @@
+#BOS 476016
+In	Word	--	Terminal	500
+2006	Word	--	Terminal	501
+Johnson	Word	--	Terminal	502
+created	Word	--	Terminal	503
+a	Word	--	Terminal	504
+contract	Word	--	Terminal	505
+food	Word	--	Terminal	506
+service	Word	--	Terminal	507
+with	Word	--	Terminal	508
+Sodexo	Word	--	Terminal	509
+USA	Word	--	Terminal	509
+called	Word	--	Terminal	510
+Sodexo	Word	--	Terminal	512
+-	Punctuation	--	Terminal	511
+Magic	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	R	514
+#501	FN	--	C	514
+#502	FN	--	A	518
+#503	FN	--	P	518
+#504	FN	--	F	516
+#505	FN	--	E	516
+#506	FN	--	E	516
+#507	FN	--	C	516	A*	515
+#508	FN	--	R	517
+#509	FN	--	C	517
+#510	FN	--	S	515
+#511	PNCT	--	U	512
+#512	FN	--	A	515
+#513	PNCT	--	U	515
+#514	FN	--	T	518
+#515	FN	--	E	516
+#516	FN	--	A	518
+#517	FN	--	A	518
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 476016

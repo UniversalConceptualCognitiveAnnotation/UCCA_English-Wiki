@@ -1,0 +1,49 @@
+#BOS 730005
+Sarajevo	Word	--	Terminal	500
+'s	Word	--	Terminal	501
+regional	Word	--	Terminal	502
+government	Word	--	Terminal	503
+named	Word	--	Terminal	504
+Jolie	Word	--	Terminal	505
+an	Word	--	Terminal	506
+honorary	Word	--	Terminal	507
+citizen	Word	--	Terminal	508
+of	Word	--	Terminal	509
+the	Word	--	Terminal	510
+capital	Word	--	Terminal	511
+for	Word	--	Terminal	512
+raising	Word	--	Terminal	513
+awareness	Word	--	Terminal	514
+of	Word	--	Terminal	515
+the	Word	--	Terminal	516
+war	Word	--	Terminal	517
+.	Punctuation	--	Terminal	518
+#500	FN	--	A	519
+#501	FN	--	S	519
+#502	FN	--	E	520
+#503	FN	--	C	520	A*	519
+#504	FN	--	P	525
+#505	FN	--	A	525	A*	526
+#506	FN	--	F	523
+#507	FN	--	D	523
+#508	FN	--	A	523
+#509	FN	--	R	521
+#510	FN	--	E	521
+#511	FN	--	C	521
+#512	FN	--	L	527
+#513	FN	--	D	526
+#514	FN	--	S	526
+#515	FN	--	R	524
+#516	FN	--	E	522
+#517	FN	--	C	522
+#518	PNCT	--	U	522
+#519	FN	--	E	520
+#520	FN	--	A	525
+#521	FN	--	A	523
+#522	FN	--	P	524
+#523	FN	--	A	525
+#524	FN	--	A	526
+#525	FN	--	H	527
+#526	FN	--	H	527
+#527	FN	--	--	0
+#EOS 730005

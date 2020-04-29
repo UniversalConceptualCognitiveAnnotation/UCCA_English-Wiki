@@ -1,0 +1,39 @@
+#BOS 536008
+Throughout	Word	--	Terminal	500
+his	Word	--	Terminal	501
+career	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+he	Word	--	Terminal	504
+was	Word	--	Terminal	505
+viewed	Word	--	Terminal	506
+as	Word	--	Terminal	507
+a	Word	--	Terminal	508
+contradictory	Word	--	Terminal	509
+and	Word	--	Terminal	510
+enigmatic	Word	--	Terminal	511
+figure	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	L	522
+#501	FN	--	A	514
+#502	FN	--	P	514
+#503	PNCT	--	U	522
+#504	FN	--	A	521	A*	520
+#505	FN	--	F	521
+#506	FN	--	P	521
+#507	FN	--	S	520
+#508	FN	--	F	518
+#509	FN	--	S	515
+#510	FN	--	L	518
+#511	FN	--	S	516
+#512	FN	--	C	519	A*	515	A*	516
+#513	PNCT	--	U	519
+#514	FN	--	H	522
+#515	FN	--	H	518
+#516	FN	--	H	518
+#517	FN	--	A	521
+#518	FN	--	E	519
+#519	FN	--	A	520
+#520	FN	--	A	521
+#521	FN	--	H	522
+#522	FN	--	--	0
+#EOS 536008

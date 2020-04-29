@@ -1,0 +1,65 @@
+#BOS 599000
+Sir	Word	--	Terminal	500
+James	Word	--	Terminal	501
+Paul	Word	--	Terminal	501
+McCartney	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+MBE	Word	--	Terminal	503
+(	Punctuation	--	Terminal	504
+born	Word	--	Terminal	505
+18	Word	--	Terminal	506
+June	Word	--	Terminal	507
+1942	Word	--	Terminal	508
+)	Punctuation	--	Terminal	509
+is	Word	--	Terminal	510
+an	Word	--	Terminal	511
+English	Word	--	Terminal	512
+musician	Word	--	Terminal	513
+,	Punctuation	--	Terminal	514
+singer	Word	--	Terminal	515
+,	Punctuation	--	Terminal	516
+songwriter	Word	--	Terminal	517
+,	Punctuation	--	Terminal	518
+multi	Word	--	Terminal	519
+-	Punctuation	--	Terminal	520
+instrumentalist	Word	--	Terminal	521
+and	Word	--	Terminal	522
+composer	Word	--	Terminal	523
+.	Punctuation	--	Terminal	524
+#500	FN	--	E	529
+#501	FN	--	C	529	A*	528
+#502	PNCT	--	U	529
+#503	FN	--	E	529
+#504	PNCT	--	U	529
+#505	FN	--	S	528
+#506	FN	--	C	525
+#507	FN	--	C	525
+#508	FN	--	C	525
+#509	PNCT	--	U	532
+#510	FN	--	F	532
+#511	FN	--	E	526
+#512	FN	--	C	526
+#513	FN	--	P	532
+#514	PNCT	--	U	535
+#515	FN	--	P	533
+#516	PNCT	--	U	535
+#517	FN	--	P	534
+#518	PNCT	--	U	535
+#519	FN	--	E	527
+#520	PNCT	--	U	527
+#521	FN	--	C	527
+#522	FN	--	L	535
+#523	FN	--	P	531
+#524	PNCT	--	U	531
+#525	FN	--	T	528
+#526	FN	--	A	532	A*	533	A*	534	A*	530	A*	531
+#527	FN	--	P	530
+#528	FN	--	E	529
+#529	FN	--	A	532	A*	533	A*	534	A*	530	A*	531
+#530	FN	--	H	535
+#531	FN	--	H	535
+#532	FN	--	H	535
+#533	FN	--	H	535
+#534	FN	--	H	535
+#535	FN	--	--	0
+#EOS 599000

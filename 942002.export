@@ -1,0 +1,43 @@
+#BOS 942002
+Stefani	Word	--	Terminal	500
+recorded	Word	--	Terminal	501
+Love	Word	--	Terminal	505
+.	Punctuation	--	Terminal	502
+Angel	Word	--	Terminal	505
+.	Punctuation	--	Terminal	503
+Music	Word	--	Terminal	505
+.	Punctuation	--	Terminal	504
+Baby	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+,	Punctuation	--	Terminal	507
+her	Word	--	Terminal	508
+first	Word	--	Terminal	509
+solo	Word	--	Terminal	510
+album	Word	--	Terminal	511
+,	Punctuation	--	Terminal	512
+in	Word	--	Terminal	513
+2004	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	A	520
+#501	FN	--	P	520
+#502	PNCT	--	U	505
+#503	PNCT	--	U	505
+#504	PNCT	--	U	505
+#505	FN	--	C	519
+#506	PNCT	--	U	519
+#507	PNCT	--	U	519
+#508	FN	--	S	516
+#509	FN	--	Q	517
+#510	FN	--	E	517
+#511	FN	--	C	517	A*	516
+#512	PNCT	--	U	520
+#513	FN	--	R	518
+#514	FN	--	C	518
+#515	PNCT	--	U	518
+#516	FN	--	E	517
+#517	FN	--	E	519
+#518	FN	--	T	520
+#519	FN	--	A	520
+#520	FN	--	H	521
+#521	FN	--	--	0
+#EOS 942002

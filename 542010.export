@@ -1,0 +1,46 @@
+#BOS 542010
+Longtime	Word	--	Terminal	500
+producer	Word	--	Terminal	501
+for	Word	--	Terminal	502
+the	Word	--	Terminal	503
+studio	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+Hal	Word	--	Terminal	507
+B	Word	--	Terminal	507
+.	Punctuation	--	Terminal	506
+Wallis	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+took	Word	--	Terminal	509
+over	Word	--	Terminal	509
+as	Word	--	Terminal	510
+the	Word	--	Terminal	511
+studio	Word	--	Terminal	512
+'s	Word	--	Terminal	513
+executive	Word	--	Terminal	514
+producer	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	T	518
+#501	FN	--	P	518
+#502	FN	--	R	517
+#503	FN	--	F	517
+#504	FN	--	C	517
+#505	PNCT	--	U	518
+#506	PNCT	--	U	507
+#507	FN	--	C	519	A*	518
+#508	PNCT	--	U	522
+#509	FN	--	P	522
+#510	FN	--	R	521
+#511	FN	--	F	521
+#512	FN	--	C	520
+#513	FN	--	R	520
+#514	FN	--	D	521
+#515	FN	--	P	521
+#516	PNCT	--	U	521
+#517	FN	--	A	518
+#518	FN	--	E	519
+#519	FN	--	A	522
+#520	FN	--	A	521
+#521	FN	--	A	522
+#522	FN	--	H	523
+#523	FN	--	--	0
+#EOS 542010

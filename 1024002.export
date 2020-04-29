@@ -1,0 +1,28 @@
+#BOS 1024002
+He	Word	--	Terminal	500
+suffered	Word	--	Terminal	501
+second	Word	--	Terminal	502
+-	Punctuation	--	Terminal	503
+degree	Word	--	Terminal	504
+burns	Word	--	Terminal	505
+to	Word	--	Terminal	506
+his	Word	--	Terminal	507
+scalp	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	FN	--	A	514
+#501	FN	--	P	514
+#502	FN	--	Q	510
+#503	PNCT	--	U	510
+#504	FN	--	C	510
+#505	FN	--	C	513	A*	511
+#506	FN	--	R	512
+#507	FN	--	E	512
+#508	FN	--	C	512
+#509	PNCT	--	U	512
+#510	FN	--	S	511
+#511	FN	--	E	513
+#512	FN	--	E	513
+#513	FN	--	A	514
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 1024002

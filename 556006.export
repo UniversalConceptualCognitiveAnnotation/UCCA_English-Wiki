@@ -1,0 +1,49 @@
+#BOS 556006
+Presley	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+who	Word	--	Terminal	502
+never	Word	--	Terminal	503
+received	Word	--	Terminal	504
+formal	Word	--	Terminal	505
+music	Word	--	Terminal	506
+training	Word	--	Terminal	507
+or	Word	--	Terminal	508
+learned	Word	--	Terminal	509
+to	Word	--	Terminal	510
+read	Word	--	Terminal	511
+music	Word	--	Terminal	512
+,	Punctuation	--	Terminal	513
+studied	Word	--	Terminal	514
+and	Word	--	Terminal	515
+played	Word	--	Terminal	516
+by	Word	--	Terminal	517
+ear	Word	--	Terminal	517
+.	Punctuation	--	Terminal	518
+#500	FN	--	C	523	A*	519	A*	521	A*	520
+#501	PNCT	--	U	523
+#502	FN	--	R	522
+#503	FN	--	D	519	D*	521
+#504	FN	--	D	519
+#505	FN	--	D	519
+#506	FN	--	A	519
+#507	FN	--	P	519
+#508	FN	--	L	522
+#509	FN	--	P	521
+#510	FN	--	F	520
+#511	FN	--	P	520
+#512	FN	--	A	520
+#513	PNCT	--	U	524
+#514	FN	--	P	524
+#515	FN	--	L	526
+#516	FN	--	P	525
+#517	FN	--	D	524	D*	525
+#518	PNCT	--	U	524
+#519	FN	--	H	522
+#520	FN	--	A	521
+#521	FN	--	H	522
+#522	FN	--	E	523
+#523	FN	--	A	524	A*	525
+#524	FN	--	H	526
+#525	FN	--	H	526
+#526	FN	--	--	0
+#EOS 556006

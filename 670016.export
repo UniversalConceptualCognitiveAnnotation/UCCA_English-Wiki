@@ -1,0 +1,34 @@
+#BOS 670016
+To	Word	--	Terminal	500
+date	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+The	Word	--	Terminal	503
+Emancipation	Word	--	Terminal	503
+of	Word	--	Terminal	503
+Mimi	Word	--	Terminal	503
+has	Word	--	Terminal	504
+sold	Word	--	Terminal	505
+over	Word	--	Terminal	506
+12	Word	--	Terminal	507
+million	Word	--	Terminal	508
+copies	Word	--	Terminal	509
+worldwide	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	R	512
+#501	FN	--	C	512
+#502	PNCT	--	U	515
+#503	FN	--	A	515
+#504	FN	--	F	515
+#505	FN	--	P	515
+#506	FN	--	E	514
+#507	FN	--	E	513
+#508	FN	--	C	513
+#509	FN	--	C	514
+#510	FN	--	D	515
+#511	PNCT	--	U	515
+#512	FN	--	D	515
+#513	FN	--	E	514
+#514	FN	--	A	515
+#515	FN	--	H	516
+#516	FN	--	--	0
+#EOS 670016

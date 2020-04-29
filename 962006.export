@@ -1,0 +1,29 @@
+#BOS 962006
+Following	Word	--	Terminal	500
+several	Word	--	Terminal	501
+weeks	Word	--	Terminal	502
+of	Word	--	Terminal	503
+rest	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+she	Word	--	Terminal	506
+seemed	Word	--	Terminal	507
+to	Word	--	Terminal	508
+recover	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	FN	--	L	515
+#501	FN	--	Q	511
+#502	FN	--	C	511
+#503	FN	--	R	512
+#504	FN	--	C	512
+#505	PNCT	--	U	513
+#506	FN	--	A	514	A*	513
+#507	FN	--	G	514
+#508	FN	--	F	514
+#509	FN	--	S	514
+#510	PNCT	--	U	514
+#511	FN	--	T	513
+#512	FN	--	P	513
+#513	FN	--	H	515
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 962006

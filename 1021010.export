@@ -1,0 +1,45 @@
+#BOS 1021010
+He	Word	--	Terminal	500
+was	Word	--	Terminal	501
+referred	Word	--	Terminal	502
+to	Word	--	Terminal	503
+Dr.	Word	--	Terminal	504
+Steven	Word	--	Terminal	505
+Hoefflin	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+who	Word	--	Terminal	507
+performed	Word	--	Terminal	508
+Jackson	Word	--	Terminal	509
+'s	Word	--	Terminal	510
+second	Word	--	Terminal	511
+rhinoplasty	Word	--	Terminal	512
+and	Word	--	Terminal	513
+subsequent	Word	--	Terminal	514
+operations	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	A	523
+#501	FN	--	F	523
+#502	FN	--	P	523
+#503	FN	--	R	522
+#504	FN	--	E	522
+#505	FN	--	C	522	A*	521
+#506	PNCT	--	U	522
+#507	FN	--	R	521
+#508	FN	--	P	521
+#509	FN	--	C	518	A*	517
+#510	FN	--	R	518
+#511	FN	--	D	519
+#512	FN	--	P	519
+#513	FN	--	L	520
+#514	FN	--	G	517
+#515	FN	--	P	517
+#516	PNCT	--	U	517
+#517	FN	--	H	520
+#518	FN	--	A	519
+#519	FN	--	H	520
+#520	FN	--	A	521
+#521	FN	--	E	522
+#522	FN	--	A	523
+#523	FN	--	H	524
+#524	FN	--	--	0
+#EOS 1021010

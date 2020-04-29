@@ -1,0 +1,51 @@
+#BOS 114004
+Raised	Word	--	Terminal	500
+in	Word	--	Terminal	501
+Connecticut	Word	--	Terminal	502
+by	Word	--	Terminal	503
+wealthy	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+progressive	Word	--	Terminal	506
+parents	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+Hepburn	Word	--	Terminal	509
+began	Word	--	Terminal	510
+to	Word	--	Terminal	511
+act	Word	--	Terminal	512
+while	Word	--	Terminal	513
+studying	Word	--	Terminal	514
+at	Word	--	Terminal	515
+Bryn	Word	--	Terminal	516
+Mawr	Word	--	Terminal	516
+College	Word	--	Terminal	517
+.	Punctuation	--	Terminal	518
+#500	FN	--	P	526
+#501	FN	--	R	519
+#502	FN	--	C	519
+#503	FN	--	R	525
+#504	FN	--	S	523
+#505	PNCT	--	U	525
+#506	FN	--	S	524
+#507	FN	--	A	520
+#508	PNCT	--	U	526
+#509	FN	--	A	521	A*	526	A*	527
+#510	FN	--	D	521
+#511	FN	--	F	521
+#512	FN	--	P	521
+#513	FN	--	L	528
+#514	FN	--	P	527
+#515	FN	--	R	522
+#516	FN	--	E	522
+#517	FN	--	C	522
+#518	PNCT	--	U	522
+#519	FN	--	A	526
+#520	FN	--	C	525	A*	523	A*	524
+#521	FN	--	H	528
+#522	FN	--	A	527
+#523	FN	--	E	525
+#524	FN	--	E	525
+#525	FN	--	A	526
+#526	FN	--	H	528
+#527	FN	--	H	528
+#528	FN	--	--	0
+#EOS 114004

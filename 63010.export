@@ -1,0 +1,40 @@
+#BOS 63010
+Pitt	Word	--	Terminal	500
+believed	Word	--	Terminal	501
+that	Word	--	Terminal	502
+he	Word	--	Terminal	503
+benefited	Word	--	Terminal	504
+from	Word	--	Terminal	505
+working	Word	--	Terminal	506
+with	Word	--	Terminal	507
+such	Word	--	Terminal	508
+a	Word	--	Terminal	509
+talented	Word	--	Terminal	510
+cast	Word	--	Terminal	511
+and	Word	--	Terminal	512
+crew	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	A	521
+#501	FN	--	P	521
+#502	FN	--	R	520
+#503	FN	--	A	520	A*	519
+#504	FN	--	P	520
+#505	FN	--	R	519
+#506	FN	--	P	519
+#507	FN	--	R	516	R*	517
+#508	FN	--	E	515
+#509	FN	--	E	515
+#510	FN	--	C	515
+#511	FN	--	A	516
+#512	FN	--	L	518
+#513	FN	--	A	517
+#514	PNCT	--	U	517
+#515	FN	--	D	516	D*	517
+#516	FN	--	H	518
+#517	FN	--	H	518
+#518	FN	--	A	519
+#519	FN	--	A	520
+#520	FN	--	A	521
+#521	FN	--	H	522
+#522	FN	--	--	0
+#EOS 63010

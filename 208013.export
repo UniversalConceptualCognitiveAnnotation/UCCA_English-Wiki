@@ -1,0 +1,36 @@
+#BOS 208013
+Hoffman	Word	--	Terminal	500
+'s	Word	--	Terminal	501
+largest	Word	--	Terminal	502
+film	Word	--	Terminal	503
+failure	Word	--	Terminal	504
+was	Word	--	Terminal	505
+Elaine	Word	--	Terminal	506
+May	Word	--	Terminal	506
+'s	Word	--	Terminal	507
+Ishtar	Word	--	Terminal	508
+,	Punctuation	--	Terminal	509
+with	Word	--	Terminal	510
+Warren	Word	--	Terminal	511
+Beatty	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	C	513
+#501	FN	--	R	513
+#502	FN	--	D	517
+#503	FN	--	A	517
+#504	FN	--	S	517
+#505	FN	--	F	517
+#506	FN	--	A	514
+#507	FN	--	S	514
+#508	FN	--	C	516	A*	514
+#509	PNCT	--	U	516
+#510	FN	--	R	515
+#511	FN	--	C	515
+#512	PNCT	--	U	515
+#513	FN	--	A	517
+#514	FN	--	E	516
+#515	FN	--	E	516
+#516	FN	--	A	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 208013

@@ -1,0 +1,36 @@
+#BOS 189012
+Rob	Word	--	Terminal	500
+Reiner	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+a	Word	--	Terminal	502
+producing	Word	--	Terminal	503
+partner	Word	--	Terminal	504
+at	Word	--	Terminal	505
+Castle	Word	--	Terminal	506
+Rock	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+opted	Word	--	Terminal	508
+to	Word	--	Terminal	509
+direct	Word	--	Terminal	510
+it	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	C	516	A*	513
+#501	PNCT	--	U	516
+#502	FN	--	F	515
+#503	FN	--	A	515
+#504	FN	--	S	515
+#505	FN	--	R	514
+#506	FN	--	C	514
+#507	PNCT	--	U	517
+#508	FN	--	P	517
+#509	FN	--	R	513
+#510	FN	--	P	513
+#511	FN	--	A	513
+#512	PNCT	--	U	513
+#513	FN	--	A	517
+#514	FN	--	A	515
+#515	FN	--	E	516
+#516	FN	--	A	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 189012

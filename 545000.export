@@ -1,0 +1,65 @@
+#BOS 545000
+Initially	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+the	Word	--	Terminal	502
+studio	Word	--	Terminal	503
+bowed	Word	--	Terminal	504
+to	Word	--	Terminal	505
+pressure	Word	--	Terminal	506
+from	Word	--	Terminal	507
+the	Word	--	Terminal	508
+Roosevelt	Word	--	Terminal	509
+Administration	Word	--	Terminal	510
+,	Punctuation	--	Terminal	511
+the	Word	--	Terminal	512
+Hays	Word	--	Terminal	513
+Office	Word	--	Terminal	514
+,	Punctuation	--	Terminal	515
+and	Word	--	Terminal	516
+isolationist	Word	--	Terminal	517
+lawmakers	Word	--	Terminal	518
+to	Word	--	Terminal	519
+desist	Word	--	Terminal	520
+from	Word	--	Terminal	521
+similar	Word	--	Terminal	522
+projects	Word	--	Terminal	523
+.	Punctuation	--	Terminal	524
+#500	FN	--	D	536
+#501	PNCT	--	U	536
+#502	FN	--	E	525
+#503	FN	--	C	525	A*	531
+#504	FN	--	P	536
+#505	FN	--	F	535
+#506	FN	--	P	535
+#507	FN	--	R	534
+#508	FN	--	E	526
+#509	FN	--	E	526
+#510	FN	--	C	526
+#511	PNCT	--	U	534
+#512	FN	--	E	527
+#513	FN	--	E	527
+#514	FN	--	C	527
+#515	PNCT	--	U	534
+#516	FN	--	N	534
+#517	FN	--	S	532
+#518	FN	--	A	528
+#519	FN	--	F	531
+#520	FN	--	P	531
+#521	FN	--	R	530
+#522	FN	--	S	529
+#523	FN	--	C	530	A*	529
+#524	PNCT	--	U	530
+#525	FN	--	A	536
+#526	FN	--	C	534
+#527	FN	--	C	534
+#528	FN	--	C	533	A*	532
+#529	FN	--	E	530
+#530	FN	--	A	531
+#531	FN	--	A	535
+#532	FN	--	E	533
+#533	FN	--	C	534
+#534	FN	--	A	535
+#535	FN	--	A	536
+#536	FN	--	H	537
+#537	FN	--	--	0
+#EOS 545000

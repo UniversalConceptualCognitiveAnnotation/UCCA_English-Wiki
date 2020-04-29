@@ -1,0 +1,27 @@
+#BOS 558003
+And	Word	--	Terminal	500
+we	Word	--	Terminal	501
+said	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+'	Punctuation	--	Terminal	504
+We	Word	--	Terminal	505
+do	Word	--	Terminal	506
+n't	Word	--	Terminal	507
+know	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+''	Punctuation	--	Terminal	510
+#500	FN	--	L	513
+#501	FN	--	A	512
+#502	FN	--	P	512
+#503	PNCT	--	U	512
+#504	PNCT	--	U	512
+#505	FN	--	A	511
+#506	FN	--	F	511
+#507	FN	--	D	511
+#508	FN	--	P	511
+#509	PNCT	--	U	511
+#510	PNCT	--	U	511
+#511	FN	--	A	512
+#512	FN	--	H	513
+#513	FN	--	--	0
+#EOS 558003

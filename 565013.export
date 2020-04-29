@@ -1,0 +1,31 @@
+#BOS 565013
+Presley	Word	--	Terminal	500
+would	Word	--	Terminal	501
+receive	Word	--	Terminal	502
+top	Word	--	Terminal	503
+billing	Word	--	Terminal	504
+on	Word	--	Terminal	505
+every	Word	--	Terminal	506
+subsequent	Word	--	Terminal	507
+film	Word	--	Terminal	508
+he	Word	--	Terminal	509
+made	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	A	515
+#501	FN	--	D	515
+#502	FN	--	P	515
+#503	FN	--	E	512
+#504	FN	--	C	512
+#505	FN	--	R	514
+#506	FN	--	Q	514
+#507	FN	--	E	514
+#508	FN	--	C	514	A*	513
+#509	FN	--	A	513
+#510	FN	--	P	513
+#511	PNCT	--	U	513
+#512	FN	--	A	515
+#513	FN	--	E	514
+#514	FN	--	A	515
+#515	FN	--	H	516
+#516	FN	--	--	0
+#EOS 565013

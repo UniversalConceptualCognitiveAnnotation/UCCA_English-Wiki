@@ -1,0 +1,30 @@
+#BOS 675003
+However	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+a	Word	--	Terminal	502
+late	Word	--	Terminal	503
+2011	Word	--	Terminal	504
+release	Word	--	Terminal	505
+for	Word	--	Terminal	506
+a	Word	--	Terminal	507
+single	Word	--	Terminal	508
+never	Word	--	Terminal	509
+materialized	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	L	515
+#501	PNCT	--	U	515
+#502	FN	--	F	514
+#503	FN	--	E	512
+#504	FN	--	C	512
+#505	FN	--	P	514
+#506	FN	--	R	513
+#507	FN	--	E	513
+#508	FN	--	C	513
+#509	FN	--	D	514
+#510	FN	--	D	514
+#511	PNCT	--	U	514
+#512	FN	--	T	514
+#513	FN	--	A	514
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 675003

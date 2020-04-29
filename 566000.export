@@ -1,0 +1,52 @@
+#BOS 566000
+On	Word	--	Terminal	500
+December	Word	--	Terminal	501
+4	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+Presley	Word	--	Terminal	504
+dropped	Word	--	Terminal	505
+into	Word	--	Terminal	506
+Sun	Word	--	Terminal	507
+Records	Word	--	Terminal	507
+where	Word	--	Terminal	508
+Carl	Word	--	Terminal	509
+Perkins	Word	--	Terminal	509
+and	Word	--	Terminal	510
+Jerry	Word	--	Terminal	511
+Lee	Word	--	Terminal	511
+Lewis	Word	--	Terminal	511
+were	Word	--	Terminal	512
+recording	Word	--	Terminal	513
+and	Word	--	Terminal	514
+jammed	Word	--	Terminal	515
+with	Word	--	Terminal	516
+them	Word	--	Terminal	517
+.	Punctuation	--	Terminal	518
+#500	FN	--	R	519
+#501	FN	--	C	519
+#502	FN	--	C	519
+#503	PNCT	--	U	524
+#504	FN	--	A	524	A*	525
+#505	FN	--	P	524
+#506	FN	--	R	523
+#507	FN	--	C	523	A*	521
+#508	FN	--	R	521
+#509	FN	--	C	520
+#510	FN	--	N	520
+#511	FN	--	C	520
+#512	FN	--	F	521
+#513	FN	--	P	521
+#514	FN	--	L	526
+#515	FN	--	P	525
+#516	FN	--	R	522
+#517	FN	--	C	522
+#518	PNCT	--	U	522
+#519	FN	--	T	524
+#520	FN	--	A	521
+#521	FN	--	E	523
+#522	FN	--	A	525
+#523	FN	--	A	524
+#524	FN	--	H	526
+#525	FN	--	H	526
+#526	FN	--	--	0
+#EOS 566000

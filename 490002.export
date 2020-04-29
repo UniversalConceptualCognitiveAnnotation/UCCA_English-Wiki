@@ -1,0 +1,49 @@
+#BOS 490002
+In	Word	--	Terminal	500
+2009	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+Bana	Word	--	Terminal	503
+released	Word	--	Terminal	504
+a	Word	--	Terminal	505
+self	Word	--	Terminal	506
+-	Punctuation	--	Terminal	507
+produced	Word	--	Terminal	508
+and	Word	--	Terminal	509
+directed	Word	--	Terminal	510
+documentary	Word	--	Terminal	511
+-	Punctuation	--	Terminal	512
+style	Word	--	Terminal	513
+film	Word	--	Terminal	514
+called	Word	--	Terminal	515
+Love	Word	--	Terminal	516
+the	Word	--	Terminal	516
+Beast	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	R	518
+#501	FN	--	C	518
+#502	PNCT	--	U	525
+#503	FN	--	A	525	A*	519	A*	520
+#504	FN	--	P	525
+#505	FN	--	E	524
+#506	FN	--	D	519	D*	520
+#507	PNCT	--	U	519
+#508	FN	--	P	519
+#509	FN	--	L	521
+#510	FN	--	P	520
+#511	FN	--	E	522
+#512	PNCT	--	U	522
+#513	FN	--	C	522
+#514	FN	--	C	524	A*	523	A*	519	A*	520
+#515	FN	--	S	523
+#516	FN	--	A	523
+#517	PNCT	--	U	523
+#518	FN	--	T	525
+#519	FN	--	H	521
+#520	FN	--	H	521
+#521	FN	--	E	524
+#522	FN	--	E	524
+#523	FN	--	E	524
+#524	FN	--	A	525
+#525	FN	--	H	526
+#526	FN	--	--	0
+#EOS 490002

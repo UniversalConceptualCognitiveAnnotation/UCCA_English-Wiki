@@ -1,0 +1,36 @@
+#BOS 946008
+To	Word	--	Terminal	500
+promote	Word	--	Terminal	501
+the	Word	--	Terminal	502
+album	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+Stefani	Word	--	Terminal	505
+embarked	Word	--	Terminal	506
+a	Word	--	Terminal	507
+worldwide	Word	--	Terminal	508
+tour	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+The	Word	--	Terminal	511
+Sweet	Word	--	Terminal	511
+Escape	Word	--	Terminal	511
+Tour	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	L	517
+#501	FN	--	P	514
+#502	FN	--	E	513
+#503	FN	--	C	513
+#504	PNCT	--	U	514
+#505	FN	--	A	516	A*	514
+#506	FN	--	D	516
+#507	FN	--	E	515
+#508	FN	--	A	516
+#509	FN	--	C	515
+#510	PNCT	--	U	516
+#511	FN	--	A	516
+#512	PNCT	--	U	516
+#513	FN	--	A	514
+#514	FN	--	H	517
+#515	FN	--	P	516
+#516	FN	--	H	517
+#517	FN	--	--	0
+#EOS 946008

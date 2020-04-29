@@ -1,0 +1,65 @@
+#BOS 66001
+She	Word	--	Terminal	500
+is	Word	--	Terminal	501
+the	Word	--	Terminal	502
+sister	Word	--	Terminal	503
+of	Word	--	Terminal	504
+actor	Word	--	Terminal	505
+James	Word	--	Terminal	506
+Haven	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+niece	Word	--	Terminal	508
+of	Word	--	Terminal	509
+singer	Word	--	Terminal	510
+-	Punctuation	--	Terminal	511
+songwriter	Word	--	Terminal	512
+Chip	Word	--	Terminal	513
+Taylor	Word	--	Terminal	513
+,	Punctuation	--	Terminal	514
+and	Word	--	Terminal	515
+goddaughter	Word	--	Terminal	516
+of	Word	--	Terminal	517
+actors	Word	--	Terminal	518
+Jacqueline	Word	--	Terminal	519
+Bisset	Word	--	Terminal	519
+and	Word	--	Terminal	520
+Maximilian	Word	--	Terminal	521
+Schell	Word	--	Terminal	521
+.	Punctuation	--	Terminal	522
+#500	FN	--	A	528	A*	534	A*	533
+#501	FN	--	F	528
+#502	FN	--	F	528
+#503	FN	--	S	528
+#504	FN	--	R	524
+#505	FN	--	P	523
+#506	FN	--	C	524	A*	523
+#507	PNCT	--	U	535
+#508	FN	--	S	534
+#509	FN	--	R	532
+#510	FN	--	P	525
+#511	PNCT	--	U	529
+#512	FN	--	P	526
+#513	FN	--	C	532	A*	525	A*	526
+#514	PNCT	--	U	535
+#515	FN	--	L	535
+#516	FN	--	S	533
+#517	FN	--	R	531
+#518	FN	--	P	530
+#519	FN	--	C	527
+#520	FN	--	N	527
+#521	FN	--	C	527
+#522	PNCT	--	U	527
+#523	FN	--	E	524
+#524	FN	--	A	528
+#525	FN	--	H	529
+#526	FN	--	H	529
+#527	FN	--	C	531	A*	530
+#528	FN	--	H	535
+#529	FN	--	E	532
+#530	FN	--	E	531
+#531	FN	--	A	533
+#532	FN	--	A	534
+#533	FN	--	H	535
+#534	FN	--	H	535
+#535	FN	--	--	0
+#EOS 66001

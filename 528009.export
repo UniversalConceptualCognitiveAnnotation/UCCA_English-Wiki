@@ -1,0 +1,37 @@
+#BOS 528009
+Production	Word	--	Terminal	500
+delays	Word	--	Terminal	501
+led	Word	--	Terminal	502
+to	Word	--	Terminal	502
+cost	Word	--	Terminal	503
+overruns	Word	--	Terminal	504
+and	Word	--	Terminal	505
+angry	Word	--	Terminal	506
+confrontations	Word	--	Terminal	507
+with	Word	--	Terminal	508
+Warner	Word	--	Terminal	509
+Bros.	Word	--	Terminal	509
+head	Word	--	Terminal	510
+Jack	Word	--	Terminal	511
+Warner	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	P	513
+#501	FN	--	D	513
+#502	FN	--	L	518
+#503	FN	--	A	514
+#504	FN	--	S	514
+#505	FN	--	L	518
+#506	FN	--	D	517
+#507	FN	--	P	517
+#508	FN	--	R	516
+#509	FN	--	A	515
+#510	FN	--	A	515
+#511	FN	--	C	516
+#512	PNCT	--	U	516
+#513	FN	--	H	518
+#514	FN	--	H	518
+#515	FN	--	E	516
+#516	FN	--	A	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 528009

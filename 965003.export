@@ -1,0 +1,61 @@
+#BOS 965003
+Known	Word	--	Terminal	500
+as	Word	--	Terminal	501
+The	Word	--	Terminal	502
+Laurence	Word	--	Terminal	502
+Olivier	Word	--	Terminal	502
+Archive	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+the	Word	--	Terminal	504
+collection	Word	--	Terminal	505
+includes	Word	--	Terminal	506
+many	Word	--	Terminal	507
+of	Word	--	Terminal	508
+Vivien	Word	--	Terminal	509
+Leigh	Word	--	Terminal	509
+'s	Word	--	Terminal	510
+personal	Word	--	Terminal	511
+papers	Word	--	Terminal	512
+,	Punctuation	--	Terminal	513
+including	Word	--	Terminal	514
+numerous	Word	--	Terminal	515
+letters	Word	--	Terminal	516
+she	Word	--	Terminal	517
+wrote	Word	--	Terminal	518
+to	Word	--	Terminal	519
+Olivier	Word	--	Terminal	520
+.	Punctuation	--	Terminal	521
+#500	FN	--	S	524
+#501	FN	--	R	522
+#502	FN	--	C	522
+#503	PNCT	--	U	532
+#504	FN	--	E	523
+#505	FN	--	C	523	A*	524
+#506	FN	--	S	531
+#507	FN	--	Q	530
+#508	FN	--	R	530
+#509	FN	--	A	525
+#510	FN	--	S	525
+#511	FN	--	S	526
+#512	FN	--	C	530	A*	525	A*	526
+#513	PNCT	--	U	530
+#514	FN	--	R	529
+#515	FN	--	Q	529
+#516	FN	--	C	529	A*	528
+#517	FN	--	A	528
+#518	FN	--	P	528
+#519	FN	--	R	527
+#520	FN	--	C	527
+#521	PNCT	--	U	527
+#522	FN	--	A	524
+#523	FN	--	A	531
+#524	FN	--	H	532
+#525	FN	--	E	530
+#526	FN	--	E	530
+#527	FN	--	A	528
+#528	FN	--	E	529
+#529	FN	--	E	530
+#530	FN	--	A	531
+#531	FN	--	H	532
+#532	FN	--	--	0
+#EOS 965003

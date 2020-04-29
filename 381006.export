@@ -1,0 +1,36 @@
+#BOS 381006
+Gyllenhaal	Word	--	Terminal	500
+dated	Word	--	Terminal	501
+actress	Word	--	Terminal	502
+Kirsten	Word	--	Terminal	503
+Dunst	Word	--	Terminal	503
+for	Word	--	Terminal	504
+nearly	Word	--	Terminal	505
+two	Word	--	Terminal	506
+years	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+starting	Word	--	Terminal	509
+in	Word	--	Terminal	510
+2002	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	A	518
+#501	FN	--	P	518
+#502	FN	--	P	513
+#503	FN	--	C	514	A*	513
+#504	FN	--	R	516
+#505	FN	--	E	515
+#506	FN	--	C	515
+#507	FN	--	C	516
+#508	PNCT	--	U	518
+#509	FN	--	D	518
+#510	FN	--	R	517
+#511	FN	--	C	517
+#512	PNCT	--	U	517
+#513	FN	--	E	514
+#514	FN	--	A	518
+#515	FN	--	Q	516
+#516	FN	--	T	518
+#517	FN	--	T	518
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 381006

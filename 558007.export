@@ -1,0 +1,34 @@
+#BOS 558007
+Listeners	Word	--	Terminal	500
+began	Word	--	Terminal	501
+phoning	Word	--	Terminal	502
+in	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+eager	Word	--	Terminal	504
+to	Word	--	Terminal	505
+find	Word	--	Terminal	506
+out	Word	--	Terminal	506
+who	Word	--	Terminal	507
+the	Word	--	Terminal	508
+singer	Word	--	Terminal	509
+was	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	A	512	A*	516
+#501	FN	--	D	512
+#502	FN	--	P	512
+#503	PNCT	--	U	517
+#504	FN	--	D	516
+#505	FN	--	F	516
+#506	FN	--	P	516
+#507	FN	--	A	515
+#508	FN	--	E	513
+#509	FN	--	C	513
+#510	FN	--	S	515
+#511	PNCT	--	U	515
+#512	FN	--	H	517
+#513	FN	--	P	514
+#514	FN	--	A	515
+#515	FN	--	A	516
+#516	FN	--	H	517
+#517	FN	--	--	0
+#EOS 558007

@@ -1,0 +1,43 @@
+#BOS 207001
+The	Word	--	Terminal	500
+film	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+mostly	Word	--	Terminal	503
+due	Word	--	Terminal	504
+to	Word	--	Terminal	505
+Hoffman	Word	--	Terminal	506
+'s	Word	--	Terminal	507
+acting	Word	--	Terminal	508
+,	Punctuation	--	Terminal	509
+received	Word	--	Terminal	510
+near	Word	--	Terminal	511
+unanimously	Word	--	Terminal	512
+good	Word	--	Terminal	513
+reviews	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	F	516
+#501	FN	--	C	516
+#502	PNCT	--	U	524
+#503	FN	--	E	517
+#504	FN	--	C	517
+#505	FN	--	R	517
+#506	FN	--	C	518
+#507	FN	--	R	518
+#508	FN	--	P	519
+#509	PNCT	--	U	524
+#510	FN	--	P	523
+#511	FN	--	E	520
+#512	FN	--	C	520
+#513	FN	--	S	521
+#514	FN	--	C	522	A*	521
+#515	PNCT	--	U	522
+#516	FN	--	A	523
+#517	FN	--	L	524
+#518	FN	--	A	519
+#519	FN	--	H	524
+#520	FN	--	D	521
+#521	FN	--	E	522
+#522	FN	--	A	523
+#523	FN	--	H	524
+#524	FN	--	--	0
+#EOS 207001

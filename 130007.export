@@ -1,0 +1,47 @@
+#BOS 130007
+Producer	Word	--	Terminal	500
+David	Word	--	Terminal	501
+O.	Word	--	Terminal	501
+Selznick	Word	--	Terminal	501
+refused	Word	--	Terminal	502
+to	Word	--	Terminal	503
+offer	Word	--	Terminal	504
+her	Word	--	Terminal	505
+the	Word	--	Terminal	506
+part	Word	--	Terminal	507
+because	Word	--	Terminal	508
+he	Word	--	Terminal	509
+felt	Word	--	Terminal	510
+she	Word	--	Terminal	511
+had	Word	--	Terminal	512
+no	Word	--	Terminal	513
+sex	Word	--	Terminal	514
+appeal	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	P	517
+#501	FN	--	C	518	A*	522	A*	517
+#502	FN	--	P	523
+#503	FN	--	R	522
+#504	FN	--	P	522
+#505	FN	--	A	522
+#506	FN	--	F	519
+#507	FN	--	C	519
+#508	FN	--	L	525
+#509	FN	--	A	524
+#510	FN	--	P	524
+#511	FN	--	A	521
+#512	FN	--	F	520
+#513	FN	--	D	521
+#514	FN	--	A	521
+#515	FN	--	C	520
+#516	PNCT	--	U	520
+#517	FN	--	E	518
+#518	FN	--	A	523
+#519	FN	--	A	522
+#520	FN	--	S	521
+#521	FN	--	A	524
+#522	FN	--	A	523
+#523	FN	--	H	525
+#524	FN	--	H	525
+#525	FN	--	--	0
+#EOS 130007

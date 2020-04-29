@@ -1,0 +1,39 @@
+#BOS 449005
+In	Word	--	Terminal	500
+1965	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+ABC	Word	--	Terminal	503
+News	Word	--	Terminal	504
+tapped	Word	--	Terminal	505
+him	Word	--	Terminal	506
+to	Word	--	Terminal	507
+anchor	Word	--	Terminal	508
+its	Word	--	Terminal	509
+flagship	Word	--	Terminal	510
+evening	Word	--	Terminal	511
+news	Word	--	Terminal	512
+program	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	R	515
+#501	FN	--	C	515
+#502	PNCT	--	U	520
+#503	FN	--	E	516
+#504	FN	--	C	516
+#505	FN	--	P	520
+#506	FN	--	A	520	A*	519
+#507	FN	--	R	519
+#508	FN	--	P	519
+#509	FN	--	E	518
+#510	FN	--	E	518
+#511	FN	--	E	517
+#512	FN	--	C	517
+#513	FN	--	C	518
+#514	PNCT	--	U	518
+#515	FN	--	T	520
+#516	FN	--	A	520
+#517	FN	--	E	518
+#518	FN	--	A	519
+#519	FN	--	A	520
+#520	FN	--	H	521
+#521	FN	--	--	0
+#EOS 449005

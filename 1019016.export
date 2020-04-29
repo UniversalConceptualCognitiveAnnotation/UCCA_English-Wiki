@@ -1,0 +1,57 @@
+#BOS 1019016
+Jackson	Word	--	Terminal	500
+'s	Word	--	Terminal	501
+father	Word	--	Terminal	502
+was	Word	--	Terminal	503
+also	Word	--	Terminal	504
+said	Word	--	Terminal	505
+to	Word	--	Terminal	506
+have	Word	--	Terminal	507
+verbally	Word	--	Terminal	508
+abused	Word	--	Terminal	509
+Jackson	Word	--	Terminal	510
+,	Punctuation	--	Terminal	511
+saying	Word	--	Terminal	512
+that	Word	--	Terminal	513
+he	Word	--	Terminal	514
+had	Word	--	Terminal	515
+a	Word	--	Terminal	516
+fat	Word	--	Terminal	517
+nose	Word	--	Terminal	518
+on	Word	--	Terminal	519
+numerous	Word	--	Terminal	520
+occasions	Word	--	Terminal	521
+.	Punctuation	--	Terminal	522
+#500	FN	--	C	523
+#501	FN	--	R	523
+#502	FN	--	S	524	A*	530
+#503	FN	--	F	525
+#504	FN	--	D	525
+#505	FN	--	G	525
+#506	FN	--	F	525
+#507	FN	--	F	525
+#508	FN	--	A	525
+#509	FN	--	P	525
+#510	FN	--	A	525
+#511	PNCT	--	U	531
+#512	FN	--	P	530
+#513	FN	--	R	529
+#514	FN	--	A	529
+#515	FN	--	S	529
+#516	FN	--	E	527
+#517	FN	--	S	526
+#518	FN	--	C	527	A*	526
+#519	FN	--	R	528
+#520	FN	--	Q	528
+#521	FN	--	C	528
+#522	PNCT	--	U	528
+#523	FN	--	A	524
+#524	FN	--	A	525
+#525	FN	--	H	531
+#526	FN	--	E	527
+#527	FN	--	A	529
+#528	FN	--	D	530
+#529	FN	--	A	530
+#530	FN	--	H	531
+#531	FN	--	--	0
+#EOS 1019016

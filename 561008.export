@@ -1,0 +1,35 @@
+#BOS 561008
+RCA	Word	--	Terminal	500
+Victor	Word	--	Terminal	500
+released	Word	--	Terminal	501
+Presley	Word	--	Terminal	502
+'s	Word	--	Terminal	503
+self	Word	--	Terminal	504
+-	Punctuation	--	Terminal	505
+titled	Word	--	Terminal	506
+debut	Word	--	Terminal	507
+album	Word	--	Terminal	508
+on	Word	--	Terminal	509
+March	Word	--	Terminal	510
+23	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	A	517
+#501	FN	--	P	517
+#502	FN	--	A	513
+#503	FN	--	S	513
+#504	FN	--	A	514
+#505	PNCT	--	U	514
+#506	FN	--	P	514
+#507	FN	--	E	515
+#508	FN	--	C	515	A*	513	A*	514
+#509	FN	--	R	516
+#510	FN	--	C	516
+#511	FN	--	C	516
+#512	PNCT	--	U	516
+#513	FN	--	E	515
+#514	FN	--	E	515
+#515	FN	--	A	517
+#516	FN	--	T	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 561008

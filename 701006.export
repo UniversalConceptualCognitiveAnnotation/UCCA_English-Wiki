@@ -1,0 +1,31 @@
+#BOS 701006
+on	Word	--	Terminal	500
+first	Word	--	Terminal	501
+listening	Word	--	Terminal	502
+to	Word	--	Terminal	503
+Self	Word	--	Terminal	504
+Portrait	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+released	Word	--	Terminal	506
+in	Word	--	Terminal	507
+June	Word	--	Terminal	508
+1970	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	FN	--	L	516
+#501	FN	--	D	515
+#502	FN	--	P	515
+#503	FN	--	R	514
+#504	FN	--	C	514	A*	513
+#505	PNCT	--	U	514
+#506	FN	--	P	513
+#507	FN	--	R	511
+#508	FN	--	C	511
+#509	FN	--	C	511
+#510	PNCT	--	U	511
+#511	FN	--	T	513
+#512	FN	--	A	515
+#513	FN	--	E	514
+#514	FN	--	A	515
+#515	FN	--	H	516
+#516	FN	--	--	0
+#EOS 701006

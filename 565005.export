@@ -1,0 +1,46 @@
+#BOS 565005
+Elvis	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+Presley	Word	--	Terminal	502
+'s	Word	--	Terminal	503
+second	Word	--	Terminal	504
+album	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+was	Word	--	Terminal	507
+released	Word	--	Terminal	508
+in	Word	--	Terminal	509
+October	Word	--	Terminal	510
+and	Word	--	Terminal	511
+quickly	Word	--	Terminal	512
+rose	Word	--	Terminal	513
+to	Word	--	Terminal	514
+number	Word	--	Terminal	515
+one	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	C	522	A*	524
+#501	PNCT	--	U	522
+#502	FN	--	A	518
+#503	FN	--	S	518
+#504	FN	--	Q	519
+#505	FN	--	C	519	A*	518
+#506	PNCT	--	U	523
+#507	FN	--	F	523
+#508	FN	--	P	523
+#509	FN	--	R	520
+#510	FN	--	C	520
+#511	FN	--	L	525
+#512	FN	--	T	524
+#513	FN	--	P	524
+#514	FN	--	R	521
+#515	FN	--	C	521
+#516	FN	--	Q	521
+#517	PNCT	--	U	521
+#518	FN	--	E	519
+#519	FN	--	E	522
+#520	FN	--	T	523
+#521	FN	--	A	524
+#522	FN	--	A	523
+#523	FN	--	H	525
+#524	FN	--	H	525
+#525	FN	--	--	0
+#EOS 565005

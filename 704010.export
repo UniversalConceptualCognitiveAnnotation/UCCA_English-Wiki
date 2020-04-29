@@ -1,0 +1,53 @@
+#BOS 704010
+Concerts	Word	--	Terminal	500
+in	Word	--	Terminal	501
+Tokyo	Word	--	Terminal	502
+in	Word	--	Terminal	503
+February	Word	--	Terminal	504
+and	Word	--	Terminal	505
+March	Word	--	Terminal	506
+were	Word	--	Terminal	507
+recorded	Word	--	Terminal	508
+and	Word	--	Terminal	509
+released	Word	--	Terminal	510
+as	Word	--	Terminal	511
+the	Word	--	Terminal	512
+live	Word	--	Terminal	513
+double	Word	--	Terminal	514
+album	Word	--	Terminal	515
+,	Punctuation	--	Terminal	516
+Bob	Word	--	Terminal	517
+Dylan	Word	--	Terminal	517
+At	Word	--	Terminal	517
+Budokan	Word	--	Terminal	517
+.	Punctuation	--	Terminal	518
+#500	FN	--	P	525
+#501	FN	--	R	519
+#502	FN	--	C	519
+#503	FN	--	R	524
+#504	FN	--	C	520
+#505	FN	--	N	520
+#506	FN	--	C	520
+#507	FN	--	F	526
+#508	FN	--	P	526
+#509	FN	--	L	528
+#510	FN	--	P	527
+#511	FN	--	R	523
+#512	FN	--	E	522
+#513	FN	--	S	521
+#514	FN	--	E	522
+#515	FN	--	C	522	A*	521
+#516	PNCT	--	U	523
+#517	FN	--	C	523
+#518	PNCT	--	U	523
+#519	FN	--	A	525
+#520	FN	--	C	524
+#521	FN	--	E	522
+#522	FN	--	E	523
+#523	FN	--	A	526	A*	527
+#524	FN	--	T	525
+#525	FN	--	A	526	A*	527
+#526	FN	--	H	528
+#527	FN	--	H	528
+#528	FN	--	--	0
+#EOS 704010

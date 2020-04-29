@@ -1,0 +1,40 @@
+#BOS 611000
+McCartney	Word	--	Terminal	500
+'s	Word	--	Terminal	501
+enduring	Word	--	Terminal	502
+fame	Word	--	Terminal	503
+has	Word	--	Terminal	504
+made	Word	--	Terminal	505
+him	Word	--	Terminal	506
+a	Word	--	Terminal	507
+popular	Word	--	Terminal	508
+choice	Word	--	Terminal	509
+to	Word	--	Terminal	510
+open	Word	--	Terminal	511
+new	Word	--	Terminal	512
+venues	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	C	515
+#501	FN	--	R	515
+#502	FN	--	D	516
+#503	FN	--	S	516
+#504	FN	--	F	521
+#505	FN	--	P	521
+#506	FN	--	A	520	A*	519
+#507	FN	--	F	520
+#508	FN	--	D	520
+#509	FN	--	P	520
+#510	FN	--	F	519
+#511	FN	--	P	519
+#512	FN	--	S	517
+#513	FN	--	C	518	A*	517
+#514	PNCT	--	U	518
+#515	FN	--	A	516
+#516	FN	--	A	521
+#517	FN	--	E	518
+#518	FN	--	A	519
+#519	FN	--	A	520
+#520	FN	--	A	521
+#521	FN	--	H	522
+#522	FN	--	--	0
+#EOS 611000

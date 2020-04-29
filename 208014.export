@@ -1,0 +1,56 @@
+#BOS 208014
+The	Word	--	Terminal	500
+film	Word	--	Terminal	501
+faced	Word	--	Terminal	502
+severe	Word	--	Terminal	503
+production	Word	--	Terminal	504
+problems	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+received	Word	--	Terminal	507
+almost	Word	--	Terminal	508
+completely	Word	--	Terminal	509
+negative	Word	--	Terminal	510
+reviews	Word	--	Terminal	511
+from	Word	--	Terminal	512
+critics	Word	--	Terminal	513
+and	Word	--	Terminal	514
+was	Word	--	Terminal	515
+nominated	Word	--	Terminal	516
+for	Word	--	Terminal	517
+three	Word	--	Terminal	518
+Razzie	Word	--	Terminal	519
+awards	Word	--	Terminal	520
+.	Punctuation	--	Terminal	521
+#500	FN	--	F	522
+#501	FN	--	C	522	A*	529	A*	530
+#502	FN	--	D	523
+#503	FN	--	D	523
+#504	FN	--	A	523
+#505	FN	--	P	523
+#506	PNCT	--	U	531
+#507	FN	--	P	529
+#508	FN	--	E	524
+#509	FN	--	C	524
+#510	FN	--	S	525
+#511	FN	--	C	526	A*	525
+#512	FN	--	R	527
+#513	FN	--	A	527
+#514	FN	--	L	531
+#515	FN	--	F	530
+#516	FN	--	P	530
+#517	FN	--	R	528
+#518	FN	--	Q	528
+#519	FN	--	E	528
+#520	FN	--	C	528
+#521	PNCT	--	U	528
+#522	FN	--	A	523
+#523	FN	--	H	531
+#524	FN	--	D	525
+#525	FN	--	E	526
+#526	FN	--	A	529
+#527	FN	--	A	529
+#528	FN	--	A	530
+#529	FN	--	H	531
+#530	FN	--	H	531
+#531	FN	--	--	0
+#EOS 208014

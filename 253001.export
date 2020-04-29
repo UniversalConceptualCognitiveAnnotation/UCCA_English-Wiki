@@ -1,0 +1,58 @@
+#BOS 253001
+Their	Word	--	Terminal	500
+relationship	Word	--	Terminal	501
+bore	Word	--	Terminal	502
+two	Word	--	Terminal	503
+offspring	Word	--	Terminal	504
+:	Punctuation	--	Terminal	505
+daughter	Word	--	Terminal	506
+Maya	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+born	Word	--	Terminal	509
+in	Word	--	Terminal	510
+1998	Word	--	Terminal	511
+,	Punctuation	--	Terminal	512
+and	Word	--	Terminal	513
+son	Word	--	Terminal	514
+Levon	Word	--	Terminal	515
+,	Punctuation	--	Terminal	516
+born	Word	--	Terminal	517
+in	Word	--	Terminal	518
+2002	Word	--	Terminal	519
+.	Punctuation	--	Terminal	520
+#500	FN	--	A	523	A*	521	A*	522
+#501	FN	--	P	523
+#502	FN	--	P	533
+#503	FN	--	Q	524
+#504	FN	--	C	524
+#505	PNCT	--	U	532
+#506	FN	--	S	522
+#507	FN	--	C	528	A*	522	A*	527
+#508	PNCT	--	U	528
+#509	FN	--	P	527
+#510	FN	--	R	525
+#511	FN	--	C	525
+#512	PNCT	--	U	531
+#513	FN	--	N	531
+#514	FN	--	S	521
+#515	FN	--	C	530	A*	521	A*	529
+#516	PNCT	--	U	530
+#517	FN	--	P	529
+#518	FN	--	R	526
+#519	FN	--	C	526
+#520	PNCT	--	U	526
+#521	FN	--	E	530
+#522	FN	--	E	528
+#523	FN	--	A	533
+#524	FN	--	E	532
+#525	FN	--	T	527
+#526	FN	--	T	529
+#527	FN	--	E	528
+#528	FN	--	C	531
+#529	FN	--	E	530
+#530	FN	--	C	531
+#531	FN	--	C	532
+#532	FN	--	A	533
+#533	FN	--	H	534
+#534	FN	--	--	0
+#EOS 253001

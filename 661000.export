@@ -1,0 +1,37 @@
+#BOS 661000
+Carey	Word	--	Terminal	500
+began	Word	--	Terminal	501
+recording	Word	--	Terminal	502
+her	Word	--	Terminal	503
+second	Word	--	Terminal	504
+studio	Word	--	Terminal	505
+album	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+eventually	Word	--	Terminal	508
+titled	Word	--	Terminal	509
+Emotions	Word	--	Terminal	510
+,	Punctuation	--	Terminal	511
+in	Word	--	Terminal	512
+1991	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	A	518
+#501	FN	--	D	518
+#502	FN	--	P	518
+#503	FN	--	E	516
+#504	FN	--	Q	516
+#505	FN	--	E	516
+#506	FN	--	C	516	A*	515
+#507	PNCT	--	U	516
+#508	FN	--	D	515
+#509	FN	--	P	515
+#510	FN	--	A	515
+#511	PNCT	--	U	518
+#512	FN	--	R	517
+#513	FN	--	C	517
+#514	PNCT	--	U	517
+#515	FN	--	E	516
+#516	FN	--	A	518
+#517	FN	--	T	518
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 661000

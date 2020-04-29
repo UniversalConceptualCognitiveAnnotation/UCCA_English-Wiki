@@ -1,0 +1,36 @@
+#BOS 250005
+The	Word	--	Terminal	500
+film	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+entitled	Word	--	Terminal	503
+Before	Word	--	Terminal	504
+Midnight	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+is	Word	--	Terminal	506
+expected	Word	--	Terminal	507
+to	Word	--	Terminal	508
+be	Word	--	Terminal	509
+released	Word	--	Terminal	510
+in	Word	--	Terminal	511
+2013	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	F	514
+#501	FN	--	C	514
+#502	PNCT	--	U	515
+#503	FN	--	R	515
+#504	FN	--	C	515
+#505	PNCT	--	U	517
+#506	FN	--	F	517
+#507	FN	--	D	517
+#508	FN	--	F	517
+#509	FN	--	F	517
+#510	FN	--	P	517
+#511	FN	--	R	516
+#512	FN	--	C	516
+#513	PNCT	--	U	516
+#514	FN	--	E	515
+#515	FN	--	A	517
+#516	FN	--	T	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 250005

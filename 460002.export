@@ -1,0 +1,43 @@
+#BOS 460002
+At	Word	--	Terminal	500
+one	Word	--	Terminal	501
+point	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+Jennings	Word	--	Terminal	504
+broke	Word	--	Terminal	505
+his	Word	--	Terminal	506
+composure	Word	--	Terminal	507
+after	Word	--	Terminal	508
+receiving	Word	--	Terminal	509
+phone	Word	--	Terminal	510
+calls	Word	--	Terminal	511
+from	Word	--	Terminal	512
+his	Word	--	Terminal	513
+children	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+"	Punctuation	--	Terminal	516
+#500	FN	--	R	517
+#501	FN	--	E	517
+#502	FN	--	C	517
+#503	PNCT	--	U	521
+#504	FN	--	A	521	A*	522
+#505	FN	--	D	521
+#506	FN	--	E	518
+#507	FN	--	C	518
+#508	FN	--	L	523
+#509	FN	--	P	522
+#510	FN	--	E	519
+#511	FN	--	C	519
+#512	FN	--	R	520
+#513	FN	--	E	520
+#514	FN	--	C	520
+#515	PNCT	--	U	520
+#516	PNCT	--	U	520
+#517	FN	--	D	521
+#518	FN	--	P	521
+#519	FN	--	A	522
+#520	FN	--	A	522
+#521	FN	--	H	523
+#522	FN	--	H	523
+#523	FN	--	--	0
+#EOS 460002

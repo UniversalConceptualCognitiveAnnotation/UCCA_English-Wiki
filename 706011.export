@@ -1,0 +1,56 @@
+#BOS 706011
+Baker	Word	--	Terminal	500
+has	Word	--	Terminal	501
+said	Word	--	Terminal	502
+he	Word	--	Terminal	503
+felt	Word	--	Terminal	504
+he	Word	--	Terminal	505
+was	Word	--	Terminal	506
+hired	Word	--	Terminal	507
+to	Word	--	Terminal	508
+make	Word	--	Terminal	509
+Dylan	Word	--	Terminal	510
+'s	Word	--	Terminal	511
+album	Word	--	Terminal	512
+sound	Word	--	Terminal	513
+"	Punctuation	--	Terminal	514
+a	Word	--	Terminal	515
+little	Word	--	Terminal	516
+bit	Word	--	Terminal	517
+more	Word	--	Terminal	518
+contemporary	Word	--	Terminal	519
+"	Punctuation	--	Terminal	520
+.	Punctuation	--	Terminal	521
+#500	FN	--	A	530
+#501	FN	--	F	530
+#502	FN	--	P	530
+#503	FN	--	A	529
+#504	FN	--	P	529
+#505	FN	--	A	522	A*	527
+#506	FN	--	F	522
+#507	FN	--	P	522
+#508	FN	--	L	528
+#509	FN	--	D	527
+#510	FN	--	A	523
+#511	FN	--	S	523
+#512	FN	--	C	524	A*	523
+#513	FN	--	G	527
+#514	PNCT	--	U	527
+#515	FN	--	E	525
+#516	FN	--	E	525
+#517	FN	--	C	525
+#518	FN	--	C	526
+#519	FN	--	S	527
+#520	PNCT	--	U	527
+#521	PNCT	--	U	527
+#522	FN	--	H	528
+#523	FN	--	E	524
+#524	FN	--	A	527
+#525	FN	--	E	526
+#526	FN	--	D	527
+#527	FN	--	H	528
+#528	FN	--	A	529
+#529	FN	--	A	530
+#530	FN	--	H	531
+#531	FN	--	--	0
+#EOS 706011

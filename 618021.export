@@ -1,0 +1,39 @@
+#BOS 618021
+McCartney	Word	--	Terminal	500
+has	Word	--	Terminal	501
+criticised	Word	--	Terminal	502
+Jackson	Word	--	Terminal	503
+'s	Word	--	Terminal	504
+purchase	Word	--	Terminal	505
+and	Word	--	Terminal	506
+handling	Word	--	Terminal	507
+of	Word	--	Terminal	508
+Northern	Word	--	Terminal	509
+Songs	Word	--	Terminal	509
+over	Word	--	Terminal	510
+the	Word	--	Terminal	511
+years	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	A	520
+#501	FN	--	F	520
+#502	FN	--	P	520
+#503	FN	--	C	514
+#504	FN	--	R	514
+#505	FN	--	P	518
+#506	FN	--	L	519
+#507	FN	--	P	517
+#508	FN	--	R	515
+#509	FN	--	C	515
+#510	FN	--	R	516
+#511	FN	--	E	516
+#512	FN	--	C	516
+#513	PNCT	--	U	516
+#514	FN	--	A	518	A*	517
+#515	FN	--	A	518	A*	517
+#516	FN	--	T	518	T*	517
+#517	FN	--	H	519
+#518	FN	--	H	519
+#519	FN	--	A	520
+#520	FN	--	H	521
+#521	FN	--	--	0
+#EOS 618021

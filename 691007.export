@@ -1,0 +1,52 @@
+#BOS 691007
+Within	Word	--	Terminal	500
+Columbia	Word	--	Terminal	501
+Records	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+some	Word	--	Terminal	503
+referred	Word	--	Terminal	504
+to	Word	--	Terminal	505
+the	Word	--	Terminal	506
+singer	Word	--	Terminal	507
+as	Word	--	Terminal	508
+"	Punctuation	--	Terminal	509
+Hammond	Word	--	Terminal	510
+'s	Word	--	Terminal	510
+Folly	Word	--	Terminal	510
+"	Punctuation	--	Terminal	511
+and	Word	--	Terminal	512
+suggested	Word	--	Terminal	513
+dropping	Word	--	Terminal	514
+his	Word	--	Terminal	515
+contract	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	R	518
+#501	FN	--	C	518
+#502	PNCT	--	U	524
+#503	FN	--	A	524	A*	527
+#504	FN	--	P	524
+#505	FN	--	R	523
+#506	FN	--	E	519
+#507	FN	--	C	519
+#508	FN	--	R	520
+#509	PNCT	--	U	520
+#510	FN	--	C	520
+#511	PNCT	--	U	528
+#512	FN	--	L	528
+#513	FN	--	P	527
+#514	FN	--	P	526
+#515	FN	--	A	521
+#516	FN	--	C	522	A*	521
+#517	PNCT	--	U	522
+#518	FN	--	A	524
+#519	FN	--	P	523
+#520	FN	--	A	524
+#521	FN	--	E	522
+#522	FN	--	A	526
+#523	FN	--	A	524
+#524	FN	--	H	528
+#525	FN	--	A	526
+#526	FN	--	A	527
+#527	FN	--	H	528
+#528	FN	--	--	0
+#EOS 691007

@@ -1,0 +1,52 @@
+#BOS 587013
+Depp	Word	--	Terminal	500
+has	Word	--	Terminal	501
+chosen	Word	--	Terminal	502
+roles	Word	--	Terminal	503
+which	Word	--	Terminal	504
+he	Word	--	Terminal	505
+found	Word	--	Terminal	506
+interesting	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+rather	Word	--	Terminal	509
+than	Word	--	Terminal	509
+those	Word	--	Terminal	510
+he	Word	--	Terminal	511
+thought	Word	--	Terminal	512
+would	Word	--	Terminal	513
+succeed	Word	--	Terminal	514
+at	Word	--	Terminal	515
+the	Word	--	Terminal	516
+box	Word	--	Terminal	517
+office	Word	--	Terminal	517
+.	Punctuation	--	Terminal	518
+#500	FN	--	A	527
+#501	FN	--	F	527
+#502	FN	--	P	527
+#503	FN	--	C	522	A*	519
+#504	FN	--	R	520
+#505	FN	--	A	520
+#506	FN	--	P	520
+#507	FN	--	S	519
+#508	PNCT	--	U	526
+#509	FN	--	N	526	D*	525
+#510	FN	--	C	525	A*	523
+#511	FN	--	A	524
+#512	FN	--	P	524
+#513	FN	--	D	523
+#514	FN	--	P	523
+#515	FN	--	R	521
+#516	FN	--	E	521
+#517	FN	--	C	521
+#518	PNCT	--	U	521
+#519	FN	--	A	520
+#520	FN	--	E	522
+#521	FN	--	A	523
+#522	FN	--	C	526
+#523	FN	--	A	524
+#524	FN	--	E	525
+#525	FN	--	C	526
+#526	FN	--	A	527
+#527	FN	--	H	528
+#528	FN	--	--	0
+#EOS 587013

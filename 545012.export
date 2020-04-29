@@ -1,0 +1,39 @@
+#BOS 545012
+In	Word	--	Terminal	500
+addition	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+the	Word	--	Terminal	511
+studio	Word	--	Terminal	502
+produced	Word	--	Terminal	503
+patriotic	Word	--	Terminal	504
+musicals	Word	--	Terminal	505
+such	Word	--	Terminal	506
+as	Word	--	Terminal	506
+This	Word	--	Terminal	507
+is	Word	--	Terminal	507
+the	Word	--	Terminal	507
+Army	Word	--	Terminal	507
+and	Word	--	Terminal	508
+Yankee	Word	--	Terminal	509
+Doodle	Word	--	Terminal	509
+Dandy	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	FN	--	L	517
+#501	PNCT	--	U	517
+#502	FN	--	C	511
+#503	FN	--	P	516
+#504	FN	--	S	512
+#505	FN	--	C	515	A*	512
+#506	FN	--	R	514
+#507	FN	--	C	513
+#508	FN	--	N	513
+#509	FN	--	C	513
+#510	PNCT	--	U	513
+#511	FN	--	A	516
+#512	FN	--	E	515
+#513	FN	--	C	514
+#514	FN	--	E	515
+#515	FN	--	A	516
+#516	FN	--	H	517
+#517	FN	--	--	0
+#EOS 545012

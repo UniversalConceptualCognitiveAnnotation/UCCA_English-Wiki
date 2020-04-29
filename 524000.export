@@ -1,0 +1,77 @@
+#BOS 524000
+In	Word	--	Terminal	500
+1938	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+aged	Word	--	Terminal	503
+16	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+she	Word	--	Terminal	506
+was	Word	--	Terminal	507
+cast	Word	--	Terminal	508
+as	Word	--	Terminal	509
+Dorothy	Word	--	Terminal	510
+Gale	Word	--	Terminal	510
+in	Word	--	Terminal	511
+The	Word	--	Terminal	512
+Wizard	Word	--	Terminal	512
+of	Word	--	Terminal	512
+Oz	Word	--	Terminal	512
+(	Punctuation	--	Terminal	513
+1939	Word	--	Terminal	514
+)	Punctuation	--	Terminal	515
+,	Punctuation	--	Terminal	516
+a	Word	--	Terminal	517
+film	Word	--	Terminal	518
+based	Word	--	Terminal	519
+on	Word	--	Terminal	520
+the	Word	--	Terminal	521
+children	Word	--	Terminal	522
+'s	Word	--	Terminal	523
+book	Word	--	Terminal	524
+by	Word	--	Terminal	525
+L.	Word	--	Terminal	526
+Frank	Word	--	Terminal	526
+Baum	Word	--	Terminal	526
+.	Punctuation	--	Terminal	527
+#500	FN	--	R	528
+#501	FN	--	C	528
+#502	PNCT	--	U	540
+#503	FN	--	S	529
+#504	FN	--	T	529
+#505	PNCT	--	U	529
+#506	FN	--	A	539	A*	529
+#507	FN	--	F	539
+#508	FN	--	P	539
+#509	FN	--	R	530
+#510	FN	--	C	530
+#511	FN	--	R	538
+#512	FN	--	C	538	A*	534
+#513	PNCT	--	U	538
+#514	FN	--	T	534
+#515	PNCT	--	U	538
+#516	PNCT	--	U	538
+#517	FN	--	F	537
+#518	FN	--	C	537	A*	536
+#519	FN	--	S	536
+#520	FN	--	R	535
+#521	FN	--	F	535
+#522	FN	--	A	531
+#523	FN	--	S	531
+#524	FN	--	C	535	A*	531	A*	532
+#525	FN	--	S	532
+#526	FN	--	A	532
+#527	PNCT	--	U	532
+#528	FN	--	T	539
+#529	FN	--	H	540
+#530	FN	--	A	539
+#531	FN	--	E	535
+#532	FN	--	E	535
+#533	FN	--	P	534
+#534	FN	--	E	538
+#535	FN	--	A	536
+#536	FN	--	E	537
+#537	FN	--	E	538
+#538	FN	--	A	539
+#539	FN	--	H	540
+#540	FN	--	--	0
+#EOS 524000

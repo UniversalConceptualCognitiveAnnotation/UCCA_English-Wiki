@@ -1,0 +1,52 @@
+#BOS 672009
+Additionally	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+Carey	Word	--	Terminal	502
+'s	Word	--	Terminal	503
+newly	Word	--	Terminal	504
+slimmed	Word	--	Terminal	505
+figure	Word	--	Terminal	506
+began	Word	--	Terminal	507
+to	Word	--	Terminal	508
+change	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+as	Word	--	Terminal	511
+she	Word	--	Terminal	512
+stopped	Word	--	Terminal	513
+her	Word	--	Terminal	514
+exercise	Word	--	Terminal	515
+routines	Word	--	Terminal	516
+and	Word	--	Terminal	517
+gained	Word	--	Terminal	518
+weight	Word	--	Terminal	519
+.	Punctuation	--	Terminal	520
+#500	FN	--	L	528
+#501	PNCT	--	U	528
+#502	FN	--	C	521
+#503	FN	--	R	521
+#504	FN	--	D	522
+#505	FN	--	S	522
+#506	FN	--	C	523	A*	522
+#507	FN	--	D	524
+#508	FN	--	F	524
+#509	FN	--	P	524
+#510	PNCT	--	U	528
+#511	FN	--	L	528
+#512	FN	--	A	527	A*	525
+#513	FN	--	D	527
+#514	FN	--	F	526
+#515	FN	--	C	526
+#516	FN	--	D	527
+#517	FN	--	L	528
+#518	FN	--	P	525
+#519	FN	--	A	525
+#520	PNCT	--	U	525
+#521	FN	--	E	523
+#522	FN	--	E	523
+#523	FN	--	A	524
+#524	FN	--	H	528
+#525	FN	--	H	528
+#526	FN	--	P	527
+#527	FN	--	H	528
+#528	FN	--	--	0
+#EOS 672009

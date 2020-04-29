@@ -1,0 +1,55 @@
+#BOS 555002
+He	Word	--	Terminal	500
+played	Word	--	Terminal	501
+and	Word	--	Terminal	502
+sang	Word	--	Terminal	503
+during	Word	--	Terminal	504
+lunchtime	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+and	Word	--	Terminal	507
+was	Word	--	Terminal	508
+often	Word	--	Terminal	509
+teased	Word	--	Terminal	510
+as	Word	--	Terminal	511
+a	Word	--	Terminal	512
+"	Punctuation	--	Terminal	513
+trashy	Word	--	Terminal	514
+"	Punctuation	--	Terminal	515
+kid	Word	--	Terminal	516
+who	Word	--	Terminal	517
+played	Word	--	Terminal	518
+hillbilly	Word	--	Terminal	519
+music	Word	--	Terminal	520
+.	Punctuation	--	Terminal	521
+#500	FN	--	A	525	A*	529	A*	526
+#501	FN	--	P	525
+#502	FN	--	L	530
+#503	FN	--	P	526
+#504	FN	--	R	522
+#505	FN	--	C	522
+#506	PNCT	--	U	530
+#507	FN	--	L	530
+#508	FN	--	F	529
+#509	FN	--	D	529
+#510	FN	--	P	529
+#511	FN	--	R	528
+#512	FN	--	E	528
+#513	PNCT	--	U	528
+#514	FN	--	S	523
+#515	PNCT	--	U	523
+#516	FN	--	C	528	A*	523	A*	527
+#517	FN	--	R	527
+#518	FN	--	P	527
+#519	FN	--	E	524
+#520	FN	--	C	524
+#521	PNCT	--	U	524
+#522	FN	--	T	525	T*	526
+#523	FN	--	E	528
+#524	FN	--	A	527
+#525	FN	--	H	530
+#526	FN	--	H	530
+#527	FN	--	E	528
+#528	FN	--	A	529
+#529	FN	--	H	530
+#530	FN	--	--	0
+#EOS 555002

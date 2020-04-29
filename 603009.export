@@ -1,0 +1,64 @@
+#BOS 603009
+McCartney	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+stepping	Word	--	Terminal	502
+in	Word	--	Terminal	503
+to	Word	--	Terminal	504
+fill	Word	--	Terminal	505
+that	Word	--	Terminal	506
+void	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+gradually	Word	--	Terminal	509
+became	Word	--	Terminal	510
+the	Word	--	Terminal	511
+de	Word	--	Terminal	512
+facto	Word	--	Terminal	512
+leader	Word	--	Terminal	513
+and	Word	--	Terminal	514
+business	Word	--	Terminal	515
+manager	Word	--	Terminal	516
+of	Word	--	Terminal	517
+the	Word	--	Terminal	518
+group	Word	--	Terminal	519
+Lennon	Word	--	Terminal	520
+had	Word	--	Terminal	521
+once	Word	--	Terminal	522
+led	Word	--	Terminal	523
+.	Punctuation	--	Terminal	524
+#500	FN	--	A	532	A*	533	A*	534
+#501	PNCT	--	U	532
+#502	FN	--	C	525
+#503	FN	--	E	525
+#504	FN	--	F	532
+#505	FN	--	P	532
+#506	FN	--	E	526
+#507	FN	--	C	526
+#508	PNCT	--	U	535
+#509	FN	--	E	527
+#510	FN	--	C	527
+#511	FN	--	E	528
+#512	FN	--	C	528
+#513	FN	--	S	533
+#514	FN	--	L	535
+#515	FN	--	E	529
+#516	FN	--	C	529
+#517	FN	--	R	531
+#518	FN	--	F	531
+#519	FN	--	C	531	A*	530
+#520	FN	--	A	530
+#521	FN	--	F	530
+#522	FN	--	D	530
+#523	FN	--	P	530
+#524	PNCT	--	U	530
+#525	FN	--	D	532
+#526	FN	--	A	532
+#527	FN	--	D	533	D*	534
+#528	FN	--	D	533	D*	534
+#529	FN	--	S	534
+#530	FN	--	E	531
+#531	FN	--	A	533	A*	534
+#532	FN	--	H	535
+#533	FN	--	H	535
+#534	FN	--	H	535
+#535	FN	--	--	0
+#EOS 603009

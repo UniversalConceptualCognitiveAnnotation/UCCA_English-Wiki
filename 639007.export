@@ -1,0 +1,47 @@
+#BOS 639007
+Mind	Word	--	Terminal	500
+Games	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+credited	Word	--	Terminal	502
+to	Word	--	Terminal	503
+the	Word	--	Terminal	504
+"	Punctuation	--	Terminal	505
+Plastic	Word	--	Terminal	508
+U	Word	--	Terminal	508
+.	Punctuation	--	Terminal	506
+F	Word	--	Terminal	508
+.	Punctuation	--	Terminal	507
+Ono	Word	--	Terminal	508
+Band	Word	--	Terminal	508
+"	Punctuation	--	Terminal	509
+,	Punctuation	--	Terminal	510
+was	Word	--	Terminal	511
+released	Word	--	Terminal	512
+in	Word	--	Terminal	513
+November	Word	--	Terminal	514
+1973	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	C	520	A*	519
+#501	PNCT	--	U	520
+#502	FN	--	P	519
+#503	FN	--	R	517
+#504	FN	--	E	517
+#505	PNCT	--	U	517
+#506	PNCT	--	U	508
+#507	PNCT	--	U	508
+#508	FN	--	C	517
+#509	PNCT	--	U	521
+#510	PNCT	--	U	521
+#511	FN	--	F	521
+#512	FN	--	P	521
+#513	FN	--	R	518
+#514	FN	--	C	518
+#515	FN	--	C	518
+#516	PNCT	--	U	518
+#517	FN	--	A	519
+#518	FN	--	T	521
+#519	FN	--	E	520
+#520	FN	--	A	521
+#521	FN	--	H	522
+#522	FN	--	--	0
+#EOS 639007

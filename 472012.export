@@ -1,0 +1,37 @@
+#BOS 472012
+Johnson	Word	--	Terminal	500
+later	Word	--	Terminal	501
+accused	Word	--	Terminal	502
+Isiah	Word	--	Terminal	503
+Thomas	Word	--	Terminal	503
+of	Word	--	Terminal	504
+spreading	Word	--	Terminal	505
+the	Word	--	Terminal	506
+rumors	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+a	Word	--	Terminal	509
+claim	Word	--	Terminal	510
+Thomas	Word	--	Terminal	511
+denied	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	A	518
+#501	FN	--	T	518
+#502	FN	--	P	518
+#503	FN	--	A	518	A*	517
+#504	FN	--	R	517
+#505	FN	--	P	517
+#506	FN	--	F	514
+#507	FN	--	C	514
+#508	PNCT	--	U	519
+#509	FN	--	F	515
+#510	FN	--	C	515
+#511	FN	--	A	516
+#512	FN	--	P	516
+#513	PNCT	--	U	516
+#514	FN	--	A	517
+#515	FN	--	A	516
+#516	FN	--	H	519
+#517	FN	--	A	518
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 472012

@@ -1,0 +1,35 @@
+#BOS 129001
+There	Word	--	Terminal	500
+was	Word	--	Terminal	501
+no	Word	--	Terminal	502
+such	Word	--	Terminal	503
+recurrence	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+and	Word	--	Terminal	506
+the	Word	--	Terminal	507
+picture	Word	--	Terminal	508
+was	Word	--	Terminal	509
+a	Word	--	Terminal	510
+commercial	Word	--	Terminal	511
+failure	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	F	514
+#501	FN	--	F	514
+#502	FN	--	D	514
+#503	FN	--	D	514
+#504	FN	--	P	514
+#505	PNCT	--	U	518
+#506	FN	--	L	518
+#507	FN	--	E	515
+#508	FN	--	C	515
+#509	FN	--	F	517
+#510	FN	--	E	516
+#511	FN	--	C	516
+#512	FN	--	S	517
+#513	PNCT	--	U	517
+#514	FN	--	H	518
+#515	FN	--	A	517
+#516	FN	--	D	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 129001

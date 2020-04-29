@@ -1,0 +1,56 @@
+#BOS 807000
+In	Word	--	Terminal	500
+2009	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+McCartney	Word	--	Terminal	503
+wrote	Word	--	Terminal	504
+to	Word	--	Terminal	505
+Tenzin	Word	--	Terminal	506
+Gyatso	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+the	Word	--	Terminal	508
+14th	Word	--	Terminal	509
+Dalai	Word	--	Terminal	510
+Lama	Word	--	Terminal	510
+,	Punctuation	--	Terminal	511
+asking	Word	--	Terminal	512
+him	Word	--	Terminal	513
+why	Word	--	Terminal	514
+he	Word	--	Terminal	515
+was	Word	--	Terminal	516
+not	Word	--	Terminal	517
+a	Word	--	Terminal	518
+vegetarian	Word	--	Terminal	519
+.	Punctuation	--	Terminal	520
+#500	FN	--	R	521
+#501	FN	--	C	521
+#502	PNCT	--	U	525
+#503	FN	--	A	525	A*	529
+#504	FN	--	P	525
+#505	FN	--	R	524
+#506	FN	--	C	524
+#507	PNCT	--	U	524
+#508	FN	--	E	522
+#509	FN	--	Q	522
+#510	FN	--	C	522
+#511	PNCT	--	U	530
+#512	FN	--	P	529
+#513	FN	--	A	529
+#514	FN	--	C	528	H*	527
+#515	FN	--	A	526
+#516	FN	--	F	526
+#517	FN	--	D	526
+#518	FN	--	E	523
+#519	FN	--	C	523
+#520	PNCT	--	U	523
+#521	FN	--	T	525
+#522	FN	--	E	524
+#523	FN	--	S	526
+#524	FN	--	A	525
+#525	FN	--	H	530
+#526	FN	--	H	527
+#527	FN	--	E	528
+#528	FN	--	A	529
+#529	FN	--	H	530
+#530	FN	--	--	0
+#EOS 807000

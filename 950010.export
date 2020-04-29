@@ -1,0 +1,35 @@
+#BOS 950010
+with	Word	--	Terminal	500
+a	Word	--	Terminal	501
+song	Word	--	Terminal	502
+named	Word	--	Terminal	503
+for	Word	--	Terminal	504
+and	Word	--	Terminal	505
+dedicated	Word	--	Terminal	506
+to	Word	--	Terminal	507
+them	Word	--	Terminal	508
+on	Word	--	Terminal	509
+the	Word	--	Terminal	510
+album	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	L	519
+#501	FN	--	E	513
+#502	FN	--	C	513	A*	517
+#503	FN	--	S	518
+#504	FN	--	R	514
+#505	FN	--	L	519
+#506	FN	--	S	517
+#507	FN	--	R	515
+#508	FN	--	C	514	C*	515
+#509	FN	--	R	516
+#510	FN	--	E	516
+#511	FN	--	C	516	A*	517
+#512	PNCT	--	U	517
+#513	FN	--	A	518
+#514	FN	--	A	518
+#515	FN	--	A	517
+#516	FN	--	A	518
+#517	FN	--	H	519
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 950010

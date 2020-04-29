@@ -1,0 +1,41 @@
+#BOS 180000
+Margaret	Word	--	Terminal	500
+Ruth	Word	--	Terminal	500
+"	Punctuation	--	Terminal	501
+Maggie	Word	--	Terminal	502
+"	Punctuation	--	Terminal	503
+Gyllenhaal	Word	--	Terminal	500
+(	Punctuation	--	Terminal	504
+born	Word	--	Terminal	505
+November	Word	--	Terminal	506
+16	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+1977	Word	--	Terminal	509
+)	Punctuation	--	Terminal	510
+is	Word	--	Terminal	511
+an	Word	--	Terminal	512
+American	Word	--	Terminal	513
+actress	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	C	518	A*	517
+#501	PNCT	--	U	518
+#502	FN	--	E	518
+#503	PNCT	--	U	518
+#504	PNCT	--	U	518
+#505	FN	--	P	517
+#506	FN	--	C	516
+#507	FN	--	C	516
+#508	PNCT	--	U	516
+#509	FN	--	C	516
+#510	PNCT	--	U	519
+#511	FN	--	F	519
+#512	FN	--	F	519
+#513	FN	--	D	519
+#514	FN	--	P	519
+#515	PNCT	--	U	519
+#516	FN	--	T	517
+#517	FN	--	E	518
+#518	FN	--	A	519
+#519	FN	--	H	520
+#520	FN	--	--	0
+#EOS 180000

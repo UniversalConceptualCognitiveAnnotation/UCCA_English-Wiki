@@ -1,0 +1,35 @@
+#BOS 146012
+For	Word	--	Terminal	500
+decades	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+Hepburn	Word	--	Terminal	503
+openly	Word	--	Terminal	504
+promoted	Word	--	Terminal	505
+birth	Word	--	Terminal	506
+control	Word	--	Terminal	507
+and	Word	--	Terminal	508
+supported	Word	--	Terminal	509
+abortion	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	R	512
+#501	FN	--	C	512
+#502	PNCT	--	U	518
+#503	FN	--	A	518	A*	519
+#504	FN	--	D	518
+#505	FN	--	P	518
+#506	FN	--	P	514
+#507	FN	--	P	516
+#508	FN	--	L	520
+#509	FN	--	P	519
+#510	FN	--	P	517
+#511	PNCT	--	U	517
+#512	FN	--	T	518
+#513	FN	--	A	514
+#514	FN	--	A	516
+#515	FN	--	A	517
+#516	FN	--	A	518
+#517	FN	--	A	519
+#518	FN	--	H	520
+#519	FN	--	H	520
+#520	FN	--	--	0
+#EOS 146012

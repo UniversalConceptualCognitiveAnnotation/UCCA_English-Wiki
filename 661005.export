@@ -1,0 +1,40 @@
+#BOS 661005
+Subsequently	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+Margulies	Word	--	Terminal	502
+filed	Word	--	Terminal	503
+a	Word	--	Terminal	504
+lawsuit	Word	--	Terminal	505
+against	Word	--	Terminal	506
+Sony	Word	--	Terminal	507
+which	Word	--	Terminal	508
+ultimately	Word	--	Terminal	509
+led	Word	--	Terminal	510
+to	Word	--	Terminal	511
+their	Word	--	Terminal	512
+parting	Word	--	Terminal	513
+of	Word	--	Terminal	513
+ways	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	L	520
+#501	PNCT	--	U	520
+#502	FN	--	A	519
+#503	FN	--	D	519
+#504	FN	--	F	515
+#505	FN	--	C	515	A*	518
+#506	FN	--	R	516
+#507	FN	--	C	516
+#508	FN	--	L	520
+#509	FN	--	D	518
+#510	FN	--	D	518
+#511	FN	--	R	517
+#512	FN	--	A	518
+#513	FN	--	C	517
+#514	PNCT	--	U	517
+#515	FN	--	P	519
+#516	FN	--	A	519
+#517	FN	--	P	518
+#518	FN	--	H	520
+#519	FN	--	H	520
+#520	FN	--	--	0
+#EOS 661005

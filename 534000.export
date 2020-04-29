@@ -1,0 +1,44 @@
+#BOS 534000
+Garland	Word	--	Terminal	500
+'s	Word	--	Terminal	501
+legacy	Word	--	Terminal	502
+as	Word	--	Terminal	503
+a	Word	--	Terminal	504
+performer	Word	--	Terminal	505
+and	Word	--	Terminal	506
+a	Word	--	Terminal	507
+personality	Word	--	Terminal	508
+has	Word	--	Terminal	509
+endured	Word	--	Terminal	510
+long	Word	--	Terminal	511
+after	Word	--	Terminal	512
+her	Word	--	Terminal	513
+death	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	C	516	A*	521	A*	522
+#501	FN	--	R	516
+#502	FN	--	S	524
+#503	FN	--	R	523
+#504	FN	--	E	517
+#505	FN	--	C	517
+#506	FN	--	L	523
+#507	FN	--	F	518
+#508	FN	--	C	518
+#509	FN	--	F	524
+#510	FN	--	D	524
+#511	FN	--	E	519
+#512	FN	--	C	519
+#513	FN	--	A	520
+#514	FN	--	S	520
+#515	PNCT	--	U	520
+#516	FN	--	A	524
+#517	FN	--	P	521
+#518	FN	--	S	522
+#519	FN	--	L	525
+#520	FN	--	H	525
+#521	FN	--	H	523
+#522	FN	--	H	523
+#523	FN	--	A	524
+#524	FN	--	H	525
+#525	FN	--	--	0
+#EOS 534000

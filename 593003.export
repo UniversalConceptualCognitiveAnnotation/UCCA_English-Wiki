@@ -1,0 +1,51 @@
+#BOS 593003
+Depp	Word	--	Terminal	500
+has	Word	--	Terminal	501
+around	Word	--	Terminal	502
+13	Word	--	Terminal	503
+tattoos	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+many	Word	--	Terminal	506
+of	Word	--	Terminal	507
+them	Word	--	Terminal	508
+signifying	Word	--	Terminal	509
+important	Word	--	Terminal	510
+persons	Word	--	Terminal	511
+or	Word	--	Terminal	512
+events	Word	--	Terminal	513
+in	Word	--	Terminal	514
+his	Word	--	Terminal	515
+life	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	A	529
+#501	FN	--	S	529
+#502	FN	--	E	518
+#503	FN	--	C	518
+#504	FN	--	C	528
+#505	PNCT	--	U	528
+#506	FN	--	Q	519
+#507	FN	--	R	519
+#508	FN	--	C	519	A*	524
+#509	FN	--	S	526	S*	524
+#510	FN	--	S	520
+#511	FN	--	C	525	A*	520	A*	523
+#512	FN	--	L	527
+#513	FN	--	P	522
+#514	FN	--	S	523
+#515	FN	--	E	521
+#516	FN	--	C	521
+#517	PNCT	--	U	521
+#518	FN	--	Q	528
+#519	FN	--	A	526
+#520	FN	--	E	525
+#521	FN	--	A	523	A*	522
+#522	FN	--	A	524
+#523	FN	--	E	525
+#524	FN	--	H	527
+#525	FN	--	A	526
+#526	FN	--	H	527
+#527	FN	--	E	528
+#528	FN	--	A	529
+#529	FN	--	H	530
+#530	FN	--	--	0
+#EOS 593003

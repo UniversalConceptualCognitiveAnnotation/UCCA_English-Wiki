@@ -1,0 +1,47 @@
+#BOS 509005
+Bowie	Word	--	Terminal	500
+reunited	Word	--	Terminal	501
+with	Word	--	Terminal	502
+Visconti	Word	--	Terminal	503
+in	Word	--	Terminal	504
+1998	Word	--	Terminal	505
+to	Word	--	Terminal	506
+record	Word	--	Terminal	507
+"	Punctuation	--	Terminal	508
+(	Punctuation	--	Terminal	509
+Safe	Word	--	Terminal	511
+in	Word	--	Terminal	511
+This	Word	--	Terminal	511
+)	Punctuation	--	Terminal	510
+Sky	Word	--	Terminal	511
+Life	Word	--	Terminal	511
+"	Punctuation	--	Terminal	512
+for	Word	--	Terminal	513
+The	Word	--	Terminal	514
+Rugrats	Word	--	Terminal	514
+Movie	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	A	520	A*	521
+#501	FN	--	P	520
+#502	FN	--	R	517
+#503	FN	--	C	517
+#504	FN	--	R	518
+#505	FN	--	C	518
+#506	FN	--	L	522
+#507	FN	--	P	521
+#508	PNCT	--	U	521
+#509	PNCT	--	U	521
+#510	PNCT	--	U	511
+#511	FN	--	A	521
+#512	PNCT	--	U	521
+#513	FN	--	R	519
+#514	FN	--	C	519
+#515	FN	--	E	519
+#516	PNCT	--	U	519
+#517	FN	--	A	520
+#518	FN	--	T	520
+#519	FN	--	A	521
+#520	FN	--	H	522
+#521	FN	--	H	522
+#522	FN	--	--	0
+#EOS 509005

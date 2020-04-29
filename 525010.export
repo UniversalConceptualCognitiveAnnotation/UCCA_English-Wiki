@@ -1,0 +1,95 @@
+#BOS 525010
+However	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+no	Word	--	Terminal	502
+matter	Word	--	Terminal	503
+how	Word	--	Terminal	504
+glamorous	Word	--	Terminal	505
+or	Word	--	Terminal	506
+beautiful	Word	--	Terminal	507
+she	Word	--	Terminal	508
+appeared	Word	--	Terminal	509
+on	Word	--	Terminal	510
+screen	Word	--	Terminal	511
+or	Word	--	Terminal	512
+in	Word	--	Terminal	513
+photographs	Word	--	Terminal	514
+,	Punctuation	--	Terminal	515
+she	Word	--	Terminal	516
+was	Word	--	Terminal	517
+never	Word	--	Terminal	518
+confident	Word	--	Terminal	519
+in	Word	--	Terminal	520
+her	Word	--	Terminal	521
+appearance	Word	--	Terminal	522
+and	Word	--	Terminal	523
+never	Word	--	Terminal	524
+escaped	Word	--	Terminal	525
+the	Word	--	Terminal	526
+"	Punctuation	--	Terminal	527
+girl	Word	--	Terminal	528
+next	Word	--	Terminal	528
+door	Word	--	Terminal	528
+"	Punctuation	--	Terminal	529
+image	Word	--	Terminal	530
+that	Word	--	Terminal	531
+had	Word	--	Terminal	532
+been	Word	--	Terminal	533
+created	Word	--	Terminal	534
+for	Word	--	Terminal	535
+her	Word	--	Terminal	536
+.	Punctuation	--	Terminal	537
+#500	FN	--	L	552
+#501	PNCT	--	U	552
+#502	FN	--	D	550
+#503	FN	--	S	550
+#504	FN	--	C	549	D*	544	D*	545
+#505	FN	--	S	544
+#506	FN	--	L	548
+#507	FN	--	S	545
+#508	FN	--	A	544	A*	545
+#509	FN	--	G	544	G*	545
+#510	FN	--	R	538
+#511	FN	--	C	538
+#512	FN	--	N	543
+#513	FN	--	R	539
+#514	FN	--	C	539
+#515	PNCT	--	U	552
+#516	FN	--	A	542	A*	551
+#517	FN	--	F	542
+#518	FN	--	T	542
+#519	FN	--	S	542
+#520	FN	--	R	540
+#521	FN	--	A	540
+#522	FN	--	S	540
+#523	FN	--	L	552
+#524	FN	--	T	551
+#525	FN	--	P	551
+#526	FN	--	F	547
+#527	PNCT	--	U	547
+#528	FN	--	E	547
+#529	PNCT	--	U	547
+#530	FN	--	C	547	A*	546
+#531	FN	--	R	546
+#532	FN	--	F	546
+#533	FN	--	F	546
+#534	FN	--	P	546
+#535	FN	--	R	541
+#536	FN	--	C	541
+#537	PNCT	--	U	541
+#538	FN	--	C	543
+#539	FN	--	C	543
+#540	FN	--	A	542
+#541	FN	--	A	546
+#542	FN	--	H	552
+#543	FN	--	A	544	A*	545
+#544	FN	--	H	548
+#545	FN	--	H	548
+#546	FN	--	E	547
+#547	FN	--	A	551
+#548	FN	--	E	549
+#549	FN	--	A	550
+#550	FN	--	H	552
+#551	FN	--	H	552
+#552	FN	--	--	0
+#EOS 525010

@@ -1,0 +1,37 @@
+#BOS 604003
+The	Word	--	Terminal	500
+tension	Word	--	Terminal	501
+grew	Word	--	Terminal	502
+while	Word	--	Terminal	503
+recording	Word	--	Terminal	504
+The	Word	--	Terminal	505
+Beatles	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+commonly	Word	--	Terminal	507
+known	Word	--	Terminal	508
+as	Word	--	Terminal	509
+the	Word	--	Terminal	510
+White	Word	--	Terminal	510
+Album	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	F	512
+#501	FN	--	C	512
+#502	FN	--	D	513
+#503	FN	--	L	519
+#504	FN	--	P	518
+#505	FN	--	C	517	A*	515	A*	514
+#506	PNCT	--	U	517
+#507	FN	--	D	515
+#508	FN	--	S	515
+#509	FN	--	S	514
+#510	FN	--	A	514
+#511	PNCT	--	U	514
+#512	FN	--	P	513
+#513	FN	--	H	519
+#514	FN	--	A	515
+#515	FN	--	E	517
+#516	FN	--	A	518
+#517	FN	--	A	518
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 604003

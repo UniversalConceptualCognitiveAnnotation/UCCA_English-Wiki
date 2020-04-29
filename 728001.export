@@ -1,0 +1,48 @@
+#BOS 728001
+The	Word	--	Terminal	500
+film	Word	--	Terminal	501
+received	Word	--	Terminal	502
+mixed	Word	--	Terminal	503
+reviews	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+but	Word	--	Terminal	506
+was	Word	--	Terminal	507
+generally	Word	--	Terminal	508
+lauded	Word	--	Terminal	509
+for	Word	--	Terminal	510
+the	Word	--	Terminal	511
+chemistry	Word	--	Terminal	512
+between	Word	--	Terminal	513
+the	Word	--	Terminal	514
+two	Word	--	Terminal	515
+leads	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	E	518
+#501	FN	--	C	518	A*	526
+#502	FN	--	P	523
+#503	FN	--	S	519
+#504	FN	--	C	520	A*	519
+#505	PNCT	--	U	527
+#506	FN	--	L	527
+#507	FN	--	F	526
+#508	FN	--	D	526
+#509	FN	--	P	526
+#510	FN	--	R	525
+#511	FN	--	E	521
+#512	FN	--	C	521
+#513	FN	--	R	524
+#514	FN	--	E	524
+#515	FN	--	Q	524
+#516	FN	--	S	522
+#517	PNCT	--	U	522
+#518	FN	--	A	523
+#519	FN	--	E	520
+#520	FN	--	A	523
+#521	FN	--	S	525
+#522	FN	--	C	524
+#523	FN	--	H	527
+#524	FN	--	A	525
+#525	FN	--	A	526
+#526	FN	--	H	527
+#527	FN	--	--	0
+#EOS 728001

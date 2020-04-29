@@ -1,0 +1,33 @@
+#BOS 607005
+As	Word	--	Terminal	500
+with	Word	--	Terminal	500
+his	Word	--	Terminal	501
+first	Word	--	Terminal	502
+album	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+he	Word	--	Terminal	505
+composed	Word	--	Terminal	506
+and	Word	--	Terminal	507
+performed	Word	--	Terminal	508
+it	Word	--	Terminal	509
+alone	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	L	517
+#501	FN	--	A	512
+#502	FN	--	Q	513
+#503	FN	--	C	513	A*	512
+#504	PNCT	--	U	514
+#505	FN	--	A	515	A*	514	A*	516
+#506	FN	--	P	515	P*	514
+#507	FN	--	L	517
+#508	FN	--	P	516
+#509	FN	--	A	515	A*	516
+#510	FN	--	D	515	D*	514	D*	516
+#511	PNCT	--	U	514
+#512	FN	--	E	513
+#513	FN	--	A	514
+#514	FN	--	H	517
+#515	FN	--	H	517
+#516	FN	--	H	517
+#517	FN	--	--	0
+#EOS 607005

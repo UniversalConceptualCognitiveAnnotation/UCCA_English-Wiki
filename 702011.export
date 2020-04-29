@@ -1,0 +1,44 @@
+#BOS 702011
+Dylan	Word	--	Terminal	500
+returned	Word	--	Terminal	501
+to	Word	--	Terminal	502
+Columbia	Word	--	Terminal	503
+Records	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+which	Word	--	Terminal	505
+subsequently	Word	--	Terminal	506
+reissued	Word	--	Terminal	507
+his	Word	--	Terminal	508
+two	Word	--	Terminal	509
+Asylum	Word	--	Terminal	510
+albums	Word	--	Terminal	511
+on	Word	--	Terminal	512
+their	Word	--	Terminal	513
+imprint	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	A	523
+#501	FN	--	P	523
+#502	FN	--	R	522
+#503	FN	--	C	522	A*	521
+#504	PNCT	--	U	522
+#505	FN	--	R	521
+#506	FN	--	D	521
+#507	FN	--	P	521
+#508	FN	--	S	516
+#509	FN	--	Q	520
+#510	FN	--	A	519
+#511	FN	--	C	520	A*	516	A*	519
+#512	FN	--	R	517
+#513	FN	--	E	517
+#514	FN	--	C	517
+#515	PNCT	--	U	517
+#516	FN	--	E	520
+#517	FN	--	A	521
+#518	FN	--	P	519
+#519	FN	--	E	520
+#520	FN	--	A	521
+#521	FN	--	E	522
+#522	FN	--	A	523
+#523	FN	--	H	524
+#524	FN	--	--	0
+#EOS 702011

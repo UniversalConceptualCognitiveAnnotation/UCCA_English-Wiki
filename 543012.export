@@ -1,0 +1,27 @@
+#BOS 543012
+Warner	Word	--	Terminal	500
+also	Word	--	Terminal	501
+earned	Word	--	Terminal	502
+the	Word	--	Terminal	503
+gratitude	Word	--	Terminal	504
+and	Word	--	Terminal	505
+affection	Word	--	Terminal	506
+of	Word	--	Terminal	507
+Errol	Word	--	Terminal	508
+Flynn	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	FN	--	A	511	A*	512
+#501	FN	--	D	511	D*	512
+#502	FN	--	D	511	D*	512
+#503	FN	--	F	513
+#504	FN	--	P	511
+#505	FN	--	L	513
+#506	FN	--	P	512
+#507	FN	--	R	510
+#508	FN	--	C	510
+#509	PNCT	--	U	510
+#510	FN	--	A	511	A*	512
+#511	FN	--	H	513
+#512	FN	--	H	513
+#513	FN	--	--	0
+#EOS 543012

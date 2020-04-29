@@ -1,0 +1,26 @@
+#BOS 248009
+Upon	Word	--	Terminal	500
+release	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+Taking	Word	--	Terminal	503
+Lives	Word	--	Terminal	503
+received	Word	--	Terminal	504
+broadly	Word	--	Terminal	505
+negative	Word	--	Terminal	506
+reviews	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	FN	--	L	513
+#501	FN	--	P	509
+#502	PNCT	--	U	509
+#503	FN	--	A	512	A*	509
+#504	FN	--	P	512
+#505	FN	--	E	510
+#506	FN	--	C	510
+#507	FN	--	C	511
+#508	PNCT	--	U	511
+#509	FN	--	H	513
+#510	FN	--	E	511
+#511	FN	--	A	512
+#512	FN	--	H	513
+#513	FN	--	--	0
+#EOS 248009

@@ -1,0 +1,58 @@
+#BOS 252009
+The	Word	--	Terminal	500
+play	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+inspired	Word	--	Terminal	503
+by	Word	--	Terminal	504
+Bertolt	Word	--	Terminal	505
+Brecht	Word	--	Terminal	505
+'s	Word	--	Terminal	506
+Baal	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+centers	Word	--	Terminal	509
+on	Word	--	Terminal	510
+the	Word	--	Terminal	511
+life	Word	--	Terminal	512
+of	Word	--	Terminal	513
+a	Word	--	Terminal	514
+dissolute	Word	--	Terminal	515
+songwriter	Word	--	Terminal	516
+in	Word	--	Terminal	517
+1990s	Word	--	Terminal	518
+New	Word	--	Terminal	519
+York	Word	--	Terminal	519
+.	Punctuation	--	Terminal	520
+#500	FN	--	F	528
+#501	FN	--	C	528	A*	527
+#502	PNCT	--	U	528
+#503	FN	--	S	527
+#504	FN	--	R	522
+#505	FN	--	A	521
+#506	FN	--	S	521
+#507	FN	--	C	522	A*	521
+#508	PNCT	--	U	531
+#509	FN	--	P	531
+#510	FN	--	R	530
+#511	FN	--	F	523
+#512	FN	--	C	523
+#513	FN	--	R	529
+#514	FN	--	F	529
+#515	FN	--	P	524
+#516	FN	--	A	525	A*	524
+#517	FN	--	R	526
+#518	FN	--	E	526
+#519	FN	--	C	526
+#520	PNCT	--	U	526
+#521	FN	--	E	522
+#522	FN	--	A	527
+#523	FN	--	P	530
+#524	FN	--	E	529
+#525	FN	--	C	529
+#526	FN	--	A	530
+#527	FN	--	E	528
+#528	FN	--	A	531
+#529	FN	--	A	530
+#530	FN	--	A	531
+#531	FN	--	H	532
+#532	FN	--	--	0
+#EOS 252009

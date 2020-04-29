@@ -1,0 +1,47 @@
+#BOS 590002
+Depp	Word	--	Terminal	500
+later	Word	--	Terminal	501
+said	Word	--	Terminal	502
+that	Word	--	Terminal	503
+"	Punctuation	--	Terminal	504
+within	Word	--	Terminal	505
+10	Word	--	Terminal	506
+minutes	Word	--	Terminal	507
+of	Word	--	Terminal	508
+hearing	Word	--	Terminal	509
+about	Word	--	Terminal	510
+the	Word	--	Terminal	511
+project	Word	--	Terminal	512
+,	Punctuation	--	Terminal	513
+I	Word	--	Terminal	514
+was	Word	--	Terminal	515
+committed	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+"	Punctuation	--	Terminal	518
+#500	FN	--	A	524
+#501	FN	--	T	524
+#502	FN	--	P	524
+#503	FN	--	R	523
+#504	PNCT	--	U	523
+#505	FN	--	R	519
+#506	FN	--	Q	519
+#507	FN	--	C	519
+#508	FN	--	R	521
+#509	FN	--	P	521
+#510	FN	--	R	520
+#511	FN	--	F	520
+#512	FN	--	C	520
+#513	PNCT	--	U	521
+#514	FN	--	A	522	A*	521
+#515	FN	--	F	522
+#516	FN	--	S	522
+#517	PNCT	--	U	522
+#518	PNCT	--	U	522
+#519	FN	--	T	521
+#520	FN	--	A	521
+#521	FN	--	H	523
+#522	FN	--	H	523
+#523	FN	--	A	524
+#524	FN	--	H	525
+#525	FN	--	--	0
+#EOS 590002

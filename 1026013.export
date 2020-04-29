@@ -1,0 +1,57 @@
+#BOS 1026013
+Although	Word	--	Terminal	500
+the	Word	--	Terminal	501
+claim	Word	--	Terminal	502
+was	Word	--	Terminal	503
+untrue	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+according	Word	--	Terminal	506
+to	Word	--	Terminal	506
+tabloid	Word	--	Terminal	507
+reports	Word	--	Terminal	508
+that	Word	--	Terminal	509
+are	Word	--	Terminal	510
+widely	Word	--	Terminal	511
+cited	Word	--	Terminal	512
+,	Punctuation	--	Terminal	513
+Jackson	Word	--	Terminal	514
+had	Word	--	Terminal	515
+disseminated	Word	--	Terminal	516
+the	Word	--	Terminal	517
+fabricated	Word	--	Terminal	518
+story	Word	--	Terminal	519
+himself	Word	--	Terminal	520
+.	Punctuation	--	Terminal	521
+#500	FN	--	L	531
+#501	FN	--	E	522
+#502	FN	--	C	522
+#503	FN	--	F	530
+#504	FN	--	S	530
+#505	PNCT	--	U	531
+#506	FN	--	P	528
+#507	FN	--	E	524
+#508	FN	--	C	524	A*	523
+#509	FN	--	R	523
+#510	FN	--	F	523
+#511	FN	--	D	523
+#512	FN	--	P	523
+#513	PNCT	--	U	528
+#514	FN	--	A	527
+#515	FN	--	F	527
+#516	FN	--	P	527
+#517	FN	--	E	526
+#518	FN	--	P	525
+#519	FN	--	C	526	A*	525
+#520	FN	--	D	527
+#521	PNCT	--	U	527
+#522	FN	--	P	529
+#523	FN	--	E	524
+#524	FN	--	A	528
+#525	FN	--	E	526
+#526	FN	--	A	527
+#527	FN	--	A	528
+#528	FN	--	H	531
+#529	FN	--	A	530
+#530	FN	--	H	531
+#531	FN	--	--	0
+#EOS 1026013

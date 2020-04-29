@@ -1,0 +1,77 @@
+#BOS 136010
+Pat	Word	--	Terminal	500
+and	Word	--	Terminal	500
+Mike	Word	--	Terminal	500
+was	Word	--	Terminal	501
+one	Word	--	Terminal	502
+of	Word	--	Terminal	503
+the	Word	--	Terminal	504
+team	Word	--	Terminal	505
+'s	Word	--	Terminal	506
+most	Word	--	Terminal	507
+popular	Word	--	Terminal	508
+and	Word	--	Terminal	509
+critically	Word	--	Terminal	510
+acclaimed	Word	--	Terminal	511
+films	Word	--	Terminal	512
+,	Punctuation	--	Terminal	513
+and	Word	--	Terminal	514
+it	Word	--	Terminal	515
+was	Word	--	Terminal	516
+also	Word	--	Terminal	517
+Hepburn	Word	--	Terminal	518
+'s	Word	--	Terminal	519
+personal	Word	--	Terminal	520
+favorite	Word	--	Terminal	521
+of	Word	--	Terminal	522
+the	Word	--	Terminal	523
+nine	Word	--	Terminal	524
+films	Word	--	Terminal	525
+she	Word	--	Terminal	526
+made	Word	--	Terminal	527
+with	Word	--	Terminal	528
+Tracy	Word	--	Terminal	529
+.	Punctuation	--	Terminal	530
+#500	FN	--	A	534	A*	535
+#501	FN	--	F	534
+#502	FN	--	D	534	D*	535
+#503	FN	--	F	534
+#504	FN	--	E	531
+#505	FN	--	C	531
+#506	FN	--	R	531
+#507	FN	--	E	532
+#508	FN	--	C	532
+#509	FN	--	L	541
+#510	FN	--	E	533
+#511	FN	--	C	533
+#512	FN	--	A	534	A*	535
+#513	PNCT	--	U	541
+#514	FN	--	L	541
+#515	FN	--	A	540
+#516	FN	--	F	540
+#517	FN	--	D	540
+#518	FN	--	C	536
+#519	FN	--	R	536
+#520	FN	--	D	540
+#521	FN	--	S	540
+#522	FN	--	R	539
+#523	FN	--	E	537
+#524	FN	--	Q	537
+#525	FN	--	C	537
+#526	FN	--	A	539
+#527	FN	--	P	539
+#528	FN	--	R	538
+#529	FN	--	C	538
+#530	PNCT	--	U	538
+#531	FN	--	A	534	A*	535
+#532	FN	--	S	534
+#533	FN	--	S	535
+#534	FN	--	H	541
+#535	FN	--	H	541
+#536	FN	--	A	540
+#537	FN	--	A	539
+#538	FN	--	A	539
+#539	FN	--	A	540
+#540	FN	--	H	541
+#541	FN	--	--	0
+#EOS 136010

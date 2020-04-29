@@ -1,0 +1,51 @@
+#BOS 185013
+He	Word	--	Terminal	500
+also	Word	--	Terminal	501
+wrote	Word	--	Terminal	502
+the	Word	--	Terminal	503
+feature	Word	--	Terminal	504
+film	Word	--	Terminal	505
+screenplay	Word	--	Terminal	506
+for	Word	--	Terminal	507
+The	Word	--	Terminal	508
+Social	Word	--	Terminal	508
+Network	Word	--	Terminal	508
+,	Punctuation	--	Terminal	509
+winning	Word	--	Terminal	510
+the	Word	--	Terminal	511
+Academy	Word	--	Terminal	512
+Award	Word	--	Terminal	513
+for	Word	--	Terminal	514
+Best	Word	--	Terminal	515
+Adapted	Word	--	Terminal	516
+Screenplay	Word	--	Terminal	517
+.	Punctuation	--	Terminal	518
+#500	FN	--	A	525	A*	526
+#501	FN	--	D	525
+#502	FN	--	P	525
+#503	FN	--	E	523
+#504	FN	--	E	519
+#505	FN	--	C	519
+#506	FN	--	C	523
+#507	FN	--	R	520
+#508	FN	--	C	520
+#509	PNCT	--	U	527
+#510	FN	--	P	526
+#511	FN	--	E	524
+#512	FN	--	E	524
+#513	FN	--	C	524
+#514	FN	--	R	522
+#515	FN	--	D	521
+#516	FN	--	P	521
+#517	FN	--	C	522	A*	521
+#518	PNCT	--	U	522
+#519	FN	--	E	523
+#520	FN	--	E	523
+#521	FN	--	E	522
+#522	FN	--	E	524
+#523	FN	--	A	525
+#524	FN	--	A	526
+#525	FN	--	H	527
+#526	FN	--	H	527
+#527	FN	--	--	0
+#EOS 185013

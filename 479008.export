@@ -1,0 +1,44 @@
+#BOS 479008
+Sports	Word	--	Terminal	500
+journalist	Word	--	Terminal	501
+Larry	Word	--	Terminal	502
+Schwartz	Word	--	Terminal	502
+of	Word	--	Terminal	503
+ESPN	Word	--	Terminal	504
+asserted	Word	--	Terminal	505
+that	Word	--	Terminal	506
+Johnson	Word	--	Terminal	507
+and	Word	--	Terminal	508
+Bird	Word	--	Terminal	509
+saved	Word	--	Terminal	510
+the	Word	--	Terminal	511
+NBA	Word	--	Terminal	512
+from	Word	--	Terminal	513
+bankruptcy	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	A	516
+#501	FN	--	P	516
+#502	FN	--	C	521	A*	516
+#503	FN	--	R	517
+#504	FN	--	C	517
+#505	FN	--	P	523
+#506	FN	--	R	522
+#507	FN	--	C	518
+#508	FN	--	N	518
+#509	FN	--	C	518
+#510	FN	--	P	522
+#511	FN	--	F	519
+#512	FN	--	C	519	A*	520
+#513	FN	--	R	520
+#514	FN	--	P	520
+#515	PNCT	--	U	520
+#516	FN	--	E	521
+#517	FN	--	E	521
+#518	FN	--	A	522
+#519	FN	--	A	522
+#520	FN	--	A	522
+#521	FN	--	A	523
+#522	FN	--	A	523
+#523	FN	--	H	524
+#524	FN	--	--	0
+#EOS 479008

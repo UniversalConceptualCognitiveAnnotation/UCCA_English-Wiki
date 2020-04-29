@@ -1,0 +1,57 @@
+#BOS 553006
+Presley	Word	--	Terminal	500
+'s	Word	--	Terminal	501
+first	Word	--	Terminal	502
+RCA	Word	--	Terminal	503
+single	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+"	Punctuation	--	Terminal	506
+Heartbreak	Word	--	Terminal	507
+Hotel	Word	--	Terminal	507
+"	Punctuation	--	Terminal	508
+,	Punctuation	--	Terminal	509
+released	Word	--	Terminal	510
+in	Word	--	Terminal	511
+January	Word	--	Terminal	512
+1956	Word	--	Terminal	513
+,	Punctuation	--	Terminal	514
+was	Word	--	Terminal	515
+a	Word	--	Terminal	516
+number	Word	--	Terminal	517
+-	Punctuation	--	Terminal	518
+one	Word	--	Terminal	519
+hit	Word	--	Terminal	520
+.	Punctuation	--	Terminal	521
+#500	FN	--	A	522
+#501	FN	--	S	522
+#502	FN	--	Q	527
+#503	FN	--	A	526
+#504	FN	--	C	527	A*	522	A*	526
+#505	PNCT	--	U	529
+#506	PNCT	--	U	529
+#507	FN	--	C	529	A*	528
+#508	PNCT	--	U	529
+#509	PNCT	--	U	529
+#510	FN	--	P	528
+#511	FN	--	R	523
+#512	FN	--	C	523
+#513	FN	--	C	523
+#514	PNCT	--	U	530
+#515	FN	--	F	530
+#516	FN	--	F	530
+#517	FN	--	C	524
+#518	PNCT	--	U	524
+#519	FN	--	Q	524
+#520	FN	--	S	530
+#521	PNCT	--	U	530
+#522	FN	--	E	527
+#523	FN	--	T	528
+#524	FN	--	D	530
+#525	FN	--	S	526
+#526	FN	--	E	527
+#527	FN	--	E	529
+#528	FN	--	E	529
+#529	FN	--	A	530
+#530	FN	--	H	531
+#531	FN	--	--	0
+#EOS 553006

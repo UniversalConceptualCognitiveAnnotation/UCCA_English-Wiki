@@ -1,0 +1,33 @@
+#BOS 125001
+She	Word	--	Terminal	500
+felt	Word	--	Terminal	501
+the	Word	--	Terminal	502
+role	Word	--	Terminal	503
+was	Word	--	Terminal	504
+perfect	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+but	Word	--	Terminal	507
+again	Word	--	Terminal	508
+she	Word	--	Terminal	509
+was	Word	--	Terminal	510
+fired	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	A	516
+#501	FN	--	P	516
+#502	FN	--	E	513
+#503	FN	--	C	513
+#504	FN	--	F	514
+#505	FN	--	S	514
+#506	PNCT	--	U	517
+#507	FN	--	L	517
+#508	FN	--	D	515
+#509	FN	--	A	515
+#510	FN	--	F	515
+#511	FN	--	P	515
+#512	PNCT	--	U	515
+#513	FN	--	A	514
+#514	FN	--	A	516
+#515	FN	--	H	517
+#516	FN	--	H	517
+#517	FN	--	--	0
+#EOS 125001

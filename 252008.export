@@ -1,0 +1,49 @@
+#BOS 252008
+Subsequently	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+he	Word	--	Terminal	502
+is	Word	--	Terminal	503
+set	Word	--	Terminal	504
+to	Word	--	Terminal	505
+star	Word	--	Terminal	506
+in	Word	--	Terminal	507
+and	Word	--	Terminal	508
+direct	Word	--	Terminal	509
+a	Word	--	Terminal	510
+new	Word	--	Terminal	511
+play	Word	--	Terminal	512
+,	Punctuation	--	Terminal	513
+Clive	Word	--	Terminal	514
+by	Word	--	Terminal	515
+Jonathan	Word	--	Terminal	516
+Marc	Word	--	Terminal	516
+Sherman	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	L	526
+#501	PNCT	--	U	526
+#502	FN	--	A	524	A*	525
+#503	FN	--	F	524
+#504	FN	--	D	524	D*	525
+#505	FN	--	F	526
+#506	FN	--	C	518
+#507	FN	--	R	518
+#508	FN	--	L	526
+#509	FN	--	P	525
+#510	FN	--	F	519
+#511	FN	--	E	519
+#512	FN	--	C	519
+#513	PNCT	--	U	523
+#514	FN	--	C	523	A*	522
+#515	FN	--	R	520
+#516	FN	--	C	520
+#517	PNCT	--	U	520
+#518	FN	--	P	524
+#519	FN	--	E	523
+#520	FN	--	A	522
+#521	FN	--	P	522
+#522	FN	--	E	523
+#523	FN	--	A	524	A*	525
+#524	FN	--	H	526
+#525	FN	--	H	526
+#526	FN	--	--	0
+#EOS 252008

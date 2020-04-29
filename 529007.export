@@ -1,0 +1,39 @@
+#BOS 529007
+Her	Word	--	Terminal	500
+final	Word	--	Terminal	501
+film	Word	--	Terminal	502
+was	Word	--	Terminal	503
+I	Word	--	Terminal	504
+Could	Word	--	Terminal	504
+Go	Word	--	Terminal	504
+On	Word	--	Terminal	504
+Singing	Word	--	Terminal	504
+(	Punctuation	--	Terminal	505
+1963	Word	--	Terminal	506
+)	Punctuation	--	Terminal	507
+,	Punctuation	--	Terminal	508
+costarring	Word	--	Terminal	509
+Dirk	Word	--	Terminal	510
+Bogarde	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	A	512
+#501	FN	--	E	513
+#502	FN	--	C	513	A*	512
+#503	FN	--	S	518
+#504	FN	--	C	517	A*	516	A*	514
+#505	PNCT	--	U	517
+#506	FN	--	T	516
+#507	PNCT	--	U	517
+#508	PNCT	--	U	517
+#509	FN	--	P	514
+#510	FN	--	A	514
+#511	PNCT	--	U	514
+#512	FN	--	E	513
+#513	FN	--	A	518
+#514	FN	--	E	517
+#515	FN	--	P	516
+#516	FN	--	E	517
+#517	FN	--	A	518
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 529007

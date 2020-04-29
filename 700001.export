@@ -1,0 +1,45 @@
+#BOS 700001
+A	Word	--	Terminal	500
+rough	Word	--	Terminal	501
+cut	Word	--	Terminal	501
+was	Word	--	Terminal	502
+shown	Word	--	Terminal	503
+to	Word	--	Terminal	504
+ABC	Word	--	Terminal	505
+Television	Word	--	Terminal	505
+and	Word	--	Terminal	506
+was	Word	--	Terminal	507
+promptly	Word	--	Terminal	508
+rejected	Word	--	Terminal	509
+as	Word	--	Terminal	510
+incomprehensible	Word	--	Terminal	511
+to	Word	--	Terminal	512
+a	Word	--	Terminal	513
+mainstream	Word	--	Terminal	514
+audience	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	E	517
+#501	FN	--	C	517	A*	522	A*	521
+#502	FN	--	F	520
+#503	FN	--	P	520
+#504	FN	--	R	518
+#505	FN	--	C	518
+#506	FN	--	L	523
+#507	FN	--	F	522
+#508	FN	--	D	522
+#509	FN	--	P	522
+#510	FN	--	R	521
+#511	FN	--	P	521
+#512	FN	--	R	519
+#513	FN	--	F	519
+#514	FN	--	D	519
+#515	FN	--	S	519
+#516	PNCT	--	U	519
+#517	FN	--	A	520
+#518	FN	--	A	520
+#519	FN	--	A	521
+#520	FN	--	H	523
+#521	FN	--	A	522
+#522	FN	--	H	523
+#523	FN	--	--	0
+#EOS 700001

@@ -1,0 +1,34 @@
+#BOS 213005
+She	Word	--	Terminal	500
+has	Word	--	Terminal	501
+one	Word	--	Terminal	502
+younger	Word	--	Terminal	503
+brother	Word	--	Terminal	504
+named	Word	--	Terminal	505
+Christian	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+born	Word	--	Terminal	508
+in	Word	--	Terminal	509
+1986	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	A	518	A*	512
+#501	FN	--	S	518
+#502	FN	--	Q	517
+#503	FN	--	S	513
+#504	FN	--	A	512	A*	516
+#505	FN	--	S	514
+#506	FN	--	A	514
+#507	PNCT	--	U	517
+#508	FN	--	S	516
+#509	FN	--	R	515
+#510	FN	--	C	515
+#511	PNCT	--	U	515
+#512	FN	--	C	517	A*	513	A*	514
+#513	FN	--	E	517
+#514	FN	--	E	517
+#515	FN	--	T	516
+#516	FN	--	E	517
+#517	FN	--	A	518
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 213005

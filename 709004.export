@@ -1,0 +1,53 @@
+#BOS 709004
+Dylan	Word	--	Terminal	500
+'s	Word	--	Terminal	501
+1990s	Word	--	Terminal	502
+began	Word	--	Terminal	503
+with	Word	--	Terminal	504
+Under	Word	--	Terminal	505
+the	Word	--	Terminal	505
+Red	Word	--	Terminal	505
+Sky	Word	--	Terminal	505
+(	Punctuation	--	Terminal	506
+1990	Word	--	Terminal	507
+)	Punctuation	--	Terminal	508
+,	Punctuation	--	Terminal	509
+an	Word	--	Terminal	510
+about	Word	--	Terminal	512
+-	Punctuation	--	Terminal	511
+face	Word	--	Terminal	512
+from	Word	--	Terminal	513
+the	Word	--	Terminal	514
+serious	Word	--	Terminal	515
+Oh	Word	--	Terminal	516
+Mercy	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	C	518
+#501	FN	--	R	518
+#502	FN	--	T	526
+#503	FN	--	F	526
+#504	FN	--	R	525
+#505	FN	--	C	525	A*	524	A*	522
+#506	PNCT	--	U	525
+#507	FN	--	T	524
+#508	PNCT	--	U	525
+#509	PNCT	--	U	525
+#510	FN	--	F	522
+#511	PNCT	--	U	512
+#512	FN	--	S	522
+#513	FN	--	R	520
+#514	FN	--	E	520
+#515	FN	--	S	519
+#516	FN	--	C	520	A*	519
+#517	PNCT	--	U	520
+#518	FN	--	A	526
+#519	FN	--	E	520
+#520	FN	--	A	522
+#521	FN	--	P	526
+#522	FN	--	E	525
+#523	FN	--	P	524
+#524	FN	--	E	525
+#525	FN	--	A	526
+#526	FN	--	H	527
+#527	FN	--	--	0
+#EOS 709004

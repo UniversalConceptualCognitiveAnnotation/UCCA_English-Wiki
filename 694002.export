@@ -1,0 +1,37 @@
+#BOS 694002
+Rather	Word	--	Terminal	500
+than	Word	--	Terminal	500
+comply	Word	--	Terminal	501
+with	Word	--	Terminal	502
+the	Word	--	Terminal	503
+censorship	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+Dylan	Word	--	Terminal	506
+refused	Word	--	Terminal	507
+to	Word	--	Terminal	508
+appear	Word	--	Terminal	509
+on	Word	--	Terminal	510
+the	Word	--	Terminal	511
+program	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	L	519
+#501	FN	--	P	518
+#502	FN	--	R	517
+#503	FN	--	E	514
+#504	FN	--	C	514
+#505	PNCT	--	U	518
+#506	FN	--	A	516	A*	518
+#507	FN	--	D	516
+#508	FN	--	F	516
+#509	FN	--	P	516
+#510	FN	--	R	515
+#511	FN	--	E	515
+#512	FN	--	C	515
+#513	PNCT	--	U	515
+#514	FN	--	P	517
+#515	FN	--	A	516
+#516	FN	--	H	519
+#517	FN	--	A	518
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 694002

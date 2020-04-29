@@ -1,0 +1,42 @@
+#BOS 245004
+Hawke	Word	--	Terminal	500
+'s	Word	--	Terminal	501
+next	Word	--	Terminal	502
+film	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+1991	Word	--	Terminal	505
+'s	Word	--	Terminal	506
+White	Word	--	Terminal	507
+Fang	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+brought	Word	--	Terminal	509
+his	Word	--	Terminal	510
+first	Word	--	Terminal	511
+leading	Word	--	Terminal	512
+role	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	A	515
+#501	FN	--	S	515
+#502	FN	--	E	516
+#503	FN	--	C	516	A*	515
+#504	PNCT	--	U	521
+#505	FN	--	C	517
+#506	FN	--	R	517
+#507	FN	--	C	521	A*	520
+#508	PNCT	--	U	522
+#509	FN	--	P	522
+#510	FN	--	A	518
+#511	FN	--	D	518
+#512	FN	--	D	518
+#513	FN	--	P	518
+#514	PNCT	--	U	518
+#515	FN	--	E	516
+#516	FN	--	E	521
+#517	FN	--	T	520
+#518	FN	--	A	522
+#519	FN	--	P	520
+#520	FN	--	E	521
+#521	FN	--	A	522
+#522	FN	--	H	523
+#523	FN	--	--	0
+#EOS 245004

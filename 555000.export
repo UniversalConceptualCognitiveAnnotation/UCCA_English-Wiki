@@ -1,0 +1,54 @@
+#BOS 555000
+Entering	Word	--	Terminal	500
+a	Word	--	Terminal	501
+new	Word	--	Terminal	502
+school	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+Milam	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+for	Word	--	Terminal	507
+sixth	Word	--	Terminal	508
+grade	Word	--	Terminal	509
+in	Word	--	Terminal	510
+September	Word	--	Terminal	511
+1946	Word	--	Terminal	512
+,	Punctuation	--	Terminal	513
+Presley	Word	--	Terminal	514
+was	Word	--	Terminal	515
+regarded	Word	--	Terminal	516
+as	Word	--	Terminal	517
+a	Word	--	Terminal	518
+loner	Word	--	Terminal	519
+.	Punctuation	--	Terminal	520
+#500	FN	--	P	526
+#501	FN	--	E	522
+#502	FN	--	S	521
+#503	FN	--	C	522	A*	521
+#504	PNCT	--	U	523
+#505	FN	--	C	523
+#506	PNCT	--	U	526
+#507	FN	--	R	524
+#508	FN	--	Q	524
+#509	FN	--	C	524
+#510	FN	--	R	525
+#511	FN	--	C	525
+#512	FN	--	C	525
+#513	PNCT	--	U	526
+#514	FN	--	A	529	A*	526	A*	521
+#515	FN	--	F	529
+#516	FN	--	P	529
+#517	FN	--	R	528
+#518	FN	--	E	527
+#519	FN	--	C	527
+#520	PNCT	--	U	527
+#521	FN	--	E	522
+#522	FN	--	E	523
+#523	FN	--	A	526
+#524	FN	--	A	526
+#525	FN	--	T	526
+#526	FN	--	H	530
+#527	FN	--	A	528
+#528	FN	--	A	529
+#529	FN	--	H	530
+#530	FN	--	--	0
+#EOS 555000

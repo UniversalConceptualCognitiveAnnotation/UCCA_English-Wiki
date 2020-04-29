@@ -1,0 +1,31 @@
+#BOS 703003
+Released	Word	--	Terminal	500
+in	Word	--	Terminal	501
+early	Word	--	Terminal	502
+1975	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+Blood	Word	--	Terminal	505
+on	Word	--	Terminal	505
+the	Word	--	Terminal	505
+Tracks	Word	--	Terminal	505
+received	Word	--	Terminal	506
+mixed	Word	--	Terminal	507
+reviews	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	FN	--	P	511
+#501	FN	--	R	510
+#502	FN	--	E	510
+#503	FN	--	C	510
+#504	PNCT	--	U	511
+#505	FN	--	A	514	A*	511
+#506	FN	--	P	514
+#507	FN	--	S	512
+#508	FN	--	C	513	A*	512
+#509	PNCT	--	U	513
+#510	FN	--	T	511
+#511	FN	--	H	515
+#512	FN	--	E	513
+#513	FN	--	A	514
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 703003

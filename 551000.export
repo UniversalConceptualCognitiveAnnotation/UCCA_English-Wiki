@@ -1,0 +1,38 @@
+#BOS 551000
+An	Word	--	Terminal	500
+ardent	Word	--	Terminal	501
+Republican	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+Jack	Word	--	Terminal	504
+Warner	Word	--	Terminal	504
+nevertheless	Word	--	Terminal	505
+supported	Word	--	Terminal	506
+Franklin	Word	--	Terminal	508
+D	Word	--	Terminal	508
+.	Punctuation	--	Terminal	507
+Roosevelt	Word	--	Terminal	508
+in	Word	--	Terminal	509
+the	Word	--	Terminal	510
+early	Word	--	Terminal	511
+1930s	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	F	514
+#501	FN	--	E	514
+#502	FN	--	C	514
+#503	PNCT	--	U	515
+#504	FN	--	A	515	A*	517
+#505	FN	--	L	518
+#506	FN	--	P	517
+#507	PNCT	--	U	508
+#508	FN	--	A	517
+#509	FN	--	R	516
+#510	FN	--	F	516
+#511	FN	--	E	516
+#512	FN	--	C	516
+#513	PNCT	--	U	516
+#514	FN	--	S	515
+#515	FN	--	H	518
+#516	FN	--	T	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 551000

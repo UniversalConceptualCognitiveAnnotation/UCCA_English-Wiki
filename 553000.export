@@ -1,0 +1,46 @@
+#BOS 553000
+Elvis	Word	--	Terminal	500
+Aaron	Word	--	Terminal	500
+Presleya	Word	--	Terminal	500
+(	Punctuation	--	Terminal	501
+January	Word	--	Terminal	503
+8	Word	--	Terminal	503
+,	Punctuation	--	Terminal	502
+1935	Word	--	Terminal	503
+–	Punctuation	--	Terminal	504
+August	Word	--	Terminal	506
+16	Word	--	Terminal	506
+,	Punctuation	--	Terminal	505
+1977	Word	--	Terminal	506
+)	Punctuation	--	Terminal	507
+was	Word	--	Terminal	508
+an	Word	--	Terminal	509
+American	Word	--	Terminal	510
+singer	Word	--	Terminal	511
+and	Word	--	Terminal	512
+actor	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	C	519	A*	518
+#501	PNCT	--	U	519
+#502	PNCT	--	U	503
+#503	FN	--	C	515
+#504	PNCT	--	U	515
+#505	PNCT	--	U	506
+#506	FN	--	C	515
+#507	PNCT	--	U	520
+#508	FN	--	F	520
+#509	FN	--	F	520
+#510	FN	--	S	516
+#511	FN	--	P	520
+#512	FN	--	L	522
+#513	FN	--	P	521
+#514	PNCT	--	U	521
+#515	FN	--	T	518
+#516	FN	--	A	520	A*	521
+#517	FN	--	P	518
+#518	FN	--	E	519
+#519	FN	--	A	520	A*	521
+#520	FN	--	H	522
+#521	FN	--	H	522
+#522	FN	--	--	0
+#EOS 553000

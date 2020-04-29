@@ -1,0 +1,51 @@
+#BOS 1019015
+He	Word	--	Terminal	500
+admitted	Word	--	Terminal	501
+that	Word	--	Terminal	502
+he	Word	--	Terminal	503
+had	Word	--	Terminal	504
+often	Word	--	Terminal	505
+cried	Word	--	Terminal	506
+from	Word	--	Terminal	507
+loneliness	Word	--	Terminal	508
+and	Word	--	Terminal	509
+he	Word	--	Terminal	510
+would	Word	--	Terminal	511
+vomit	Word	--	Terminal	512
+on	Word	--	Terminal	513
+the	Word	--	Terminal	514
+sight	Word	--	Terminal	515
+of	Word	--	Terminal	516
+his	Word	--	Terminal	517
+father	Word	--	Terminal	518
+.	Punctuation	--	Terminal	519
+#500	FN	--	A	526
+#501	FN	--	P	526
+#502	FN	--	R	522
+#503	FN	--	A	520	A*	521
+#504	FN	--	F	520
+#505	FN	--	T	520
+#506	FN	--	P	520
+#507	FN	--	L	522
+#508	FN	--	S	521
+#509	FN	--	L	528
+#510	FN	--	A	523	A*	527
+#511	FN	--	D	523
+#512	FN	--	P	523
+#513	FN	--	L	528
+#514	FN	--	E	524
+#515	FN	--	C	524
+#516	FN	--	R	525
+#517	FN	--	A	525
+#518	FN	--	S	525
+#519	PNCT	--	U	525
+#520	FN	--	H	522
+#521	FN	--	H	522
+#522	FN	--	A	526
+#523	FN	--	H	528
+#524	FN	--	P	527
+#525	FN	--	A	527
+#526	FN	--	H	528
+#527	FN	--	H	528
+#528	FN	--	--	0
+#EOS 1019015

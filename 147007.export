@@ -1,0 +1,40 @@
+#BOS 147007
+Soon	Word	--	Terminal	500
+after	Word	--	Terminal	501
+moving	Word	--	Terminal	502
+to	Word	--	Terminal	503
+California	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+Hepburn	Word	--	Terminal	506
+began	Word	--	Terminal	507
+a	Word	--	Terminal	508
+relationship	Word	--	Terminal	509
+with	Word	--	Terminal	510
+her	Word	--	Terminal	511
+agent	Word	--	Terminal	512
+Leland	Word	--	Terminal	513
+Hayward	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	E	515
+#501	FN	--	C	515
+#502	FN	--	P	517
+#503	FN	--	R	516
+#504	FN	--	C	516
+#505	PNCT	--	U	517
+#506	FN	--	A	520	A*	517
+#507	FN	--	D	520
+#508	FN	--	E	518
+#509	FN	--	C	518
+#510	FN	--	R	519
+#511	FN	--	A	519
+#512	FN	--	P	519
+#513	FN	--	A	519
+#514	PNCT	--	U	519
+#515	FN	--	L	521
+#516	FN	--	A	517
+#517	FN	--	H	521
+#518	FN	--	P	520
+#519	FN	--	A	520
+#520	FN	--	H	521
+#521	FN	--	--	0
+#EOS 147007

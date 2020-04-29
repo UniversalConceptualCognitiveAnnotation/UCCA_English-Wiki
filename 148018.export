@@ -1,0 +1,35 @@
+#BOS 148018
+She	Word	--	Terminal	500
+mothered	Word	--	Terminal	501
+and	Word	--	Terminal	502
+obeyed	Word	--	Terminal	503
+him	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+and	Word	--	Terminal	506
+Tracy	Word	--	Terminal	507
+became	Word	--	Terminal	508
+heavily	Word	--	Terminal	509
+dependent	Word	--	Terminal	510
+on	Word	--	Terminal	511
+her	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	A	514	A*	515
+#501	FN	--	P	514
+#502	FN	--	L	518
+#503	FN	--	P	515
+#504	FN	--	A	514	A*	515
+#505	PNCT	--	U	518
+#506	FN	--	L	518
+#507	FN	--	A	517
+#508	FN	--	D	517
+#509	FN	--	D	517
+#510	FN	--	P	517
+#511	FN	--	R	516
+#512	FN	--	C	516
+#513	PNCT	--	U	516
+#514	FN	--	H	518
+#515	FN	--	H	518
+#516	FN	--	A	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 148018

@@ -1,0 +1,60 @@
+#BOS 710006
+With	Word	--	Terminal	500
+its	Word	--	Terminal	501
+bitter	Word	--	Terminal	502
+assessment	Word	--	Terminal	503
+of	Word	--	Terminal	504
+love	Word	--	Terminal	505
+and	Word	--	Terminal	506
+morbid	Word	--	Terminal	507
+ruminations	Word	--	Terminal	508
+,	Punctuation	--	Terminal	509
+Dylan	Word	--	Terminal	510
+'s	Word	--	Terminal	511
+first	Word	--	Terminal	512
+collection	Word	--	Terminal	513
+of	Word	--	Terminal	514
+original	Word	--	Terminal	515
+songs	Word	--	Terminal	516
+in	Word	--	Terminal	517
+seven	Word	--	Terminal	518
+years	Word	--	Terminal	519
+was	Word	--	Terminal	520
+highly	Word	--	Terminal	521
+acclaimed	Word	--	Terminal	522
+.	Punctuation	--	Terminal	523
+#500	FN	--	L	533
+#501	FN	--	A	530	A*	524
+#502	FN	--	D	530
+#503	FN	--	P	530
+#504	FN	--	R	525
+#505	FN	--	S	525
+#506	FN	--	L	533
+#507	FN	--	A	524
+#508	FN	--	S	524
+#509	PNCT	--	U	533
+#510	FN	--	A	526
+#511	FN	--	S	526
+#512	FN	--	Q	531
+#513	FN	--	C	531	A*	526
+#514	FN	--	R	528
+#515	FN	--	S	527
+#516	FN	--	C	528	A*	527
+#517	FN	--	R	529
+#518	FN	--	Q	529
+#519	FN	--	C	529
+#520	FN	--	F	532
+#521	FN	--	D	532
+#522	FN	--	P	532
+#523	PNCT	--	U	532
+#524	FN	--	H	533
+#525	FN	--	A	530
+#526	FN	--	E	531
+#527	FN	--	E	528
+#528	FN	--	E	531
+#529	FN	--	E	531
+#530	FN	--	H	533
+#531	FN	--	A	532
+#532	FN	--	H	533
+#533	FN	--	--	0
+#EOS 710006

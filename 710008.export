@@ -1,0 +1,44 @@
+#BOS 710008
+This	Word	--	Terminal	500
+collection	Word	--	Terminal	501
+of	Word	--	Terminal	502
+complex	Word	--	Terminal	503
+songs	Word	--	Terminal	504
+won	Word	--	Terminal	505
+him	Word	--	Terminal	506
+his	Word	--	Terminal	507
+first	Word	--	Terminal	508
+solo	Word	--	Terminal	509
+"	Punctuation	--	Terminal	510
+Album	Word	--	Terminal	511
+of	Word	--	Terminal	511
+the	Word	--	Terminal	511
+Year	Word	--	Terminal	511
+"	Punctuation	--	Terminal	512
+Grammy	Word	--	Terminal	513
+Award	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	E	516
+#501	FN	--	C	516
+#502	FN	--	R	518
+#503	FN	--	S	517
+#504	FN	--	C	518	A*	517
+#505	FN	--	P	521
+#506	FN	--	A	521
+#507	FN	--	S	519
+#508	FN	--	Q	520
+#509	FN	--	E	520
+#510	PNCT	--	U	520
+#511	FN	--	E	520
+#512	PNCT	--	U	520
+#513	FN	--	C	520	A*	519
+#514	FN	--	E	520
+#515	PNCT	--	U	520
+#516	FN	--	Q	518
+#517	FN	--	E	518
+#518	FN	--	A	521
+#519	FN	--	E	520
+#520	FN	--	A	521
+#521	FN	--	H	522
+#522	FN	--	--	0
+#EOS 710008

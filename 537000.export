@@ -1,0 +1,31 @@
+#BOS 537000
+Jack	Word	--	Terminal	500
+Warner	Word	--	Terminal	500
+was	Word	--	Terminal	501
+born	Word	--	Terminal	502
+in	Word	--	Terminal	503
+London	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+Ontario	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+Canada	Word	--	Terminal	508
+in	Word	--	Terminal	509
+1892	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	A	514
+#501	FN	--	F	514
+#502	FN	--	P	514
+#503	FN	--	R	512
+#504	FN	--	C	512
+#505	PNCT	--	U	512
+#506	FN	--	C	512
+#507	PNCT	--	U	512
+#508	FN	--	C	512
+#509	FN	--	R	513
+#510	FN	--	C	513
+#511	PNCT	--	U	513
+#512	FN	--	A	514
+#513	FN	--	T	514
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 537000

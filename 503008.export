@@ -1,0 +1,42 @@
+#BOS 503008
+Recordings	Word	--	Terminal	500
+from	Word	--	Terminal	501
+the	Word	--	Terminal	502
+tour	Word	--	Terminal	503
+made	Word	--	Terminal	504
+up	Word	--	Terminal	504
+the	Word	--	Terminal	505
+live	Word	--	Terminal	506
+album	Word	--	Terminal	507
+Stage	Word	--	Terminal	508
+,	Punctuation	--	Terminal	509
+released	Word	--	Terminal	510
+the	Word	--	Terminal	511
+same	Word	--	Terminal	512
+year	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	P	519
+#501	FN	--	R	518
+#502	FN	--	E	515
+#503	FN	--	C	515
+#504	FN	--	P	522
+#505	FN	--	E	516
+#506	FN	--	E	516
+#507	FN	--	C	516
+#508	FN	--	C	521	A*	520
+#509	PNCT	--	U	521
+#510	FN	--	P	520
+#511	FN	--	E	517
+#512	FN	--	E	517
+#513	FN	--	C	517
+#514	PNCT	--	U	517
+#515	FN	--	P	518
+#516	FN	--	E	521
+#517	FN	--	T	520
+#518	FN	--	A	519
+#519	FN	--	A	522
+#520	FN	--	E	521
+#521	FN	--	A	522
+#522	FN	--	H	523
+#523	FN	--	--	0
+#EOS 503008

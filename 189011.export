@@ -1,0 +1,47 @@
+#BOS 189011
+Brown	Word	--	Terminal	500
+later	Word	--	Terminal	501
+got	Word	--	Terminal	502
+a	Word	--	Terminal	503
+call	Word	--	Terminal	504
+from	Word	--	Terminal	505
+Alan	Word	--	Terminal	506
+Horn	Word	--	Terminal	506
+at	Word	--	Terminal	507
+Castle	Word	--	Terminal	508
+Rock	Word	--	Terminal	508
+Entertainment	Word	--	Terminal	508
+who	Word	--	Terminal	509
+was	Word	--	Terminal	510
+anxious	Word	--	Terminal	511
+to	Word	--	Terminal	512
+make	Word	--	Terminal	513
+the	Word	--	Terminal	514
+film	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	A	523
+#501	FN	--	L	524
+#502	FN	--	D	523
+#503	FN	--	E	517
+#504	FN	--	C	517
+#505	FN	--	R	522
+#506	FN	--	C	522	A*	521	A*	520
+#507	FN	--	R	518
+#508	FN	--	C	518
+#509	FN	--	R	521
+#510	FN	--	F	521
+#511	FN	--	P	521
+#512	FN	--	R	520
+#513	FN	--	P	520
+#514	FN	--	E	519
+#515	FN	--	C	519
+#516	PNCT	--	U	519
+#517	FN	--	P	523
+#518	FN	--	E	522
+#519	FN	--	A	520
+#520	FN	--	A	521
+#521	FN	--	E	522
+#522	FN	--	A	523
+#523	FN	--	H	524
+#524	FN	--	--	0
+#EOS 189011

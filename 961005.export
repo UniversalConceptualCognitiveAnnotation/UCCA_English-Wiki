@@ -1,0 +1,45 @@
+#BOS 961005
+Several	Word	--	Terminal	500
+weeks	Word	--	Terminal	501
+later	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+she	Word	--	Terminal	504
+miscarried	Word	--	Terminal	505
+and	Word	--	Terminal	506
+entered	Word	--	Terminal	507
+a	Word	--	Terminal	508
+period	Word	--	Terminal	509
+of	Word	--	Terminal	510
+depression	Word	--	Terminal	511
+that	Word	--	Terminal	512
+lasted	Word	--	Terminal	513
+for	Word	--	Terminal	514
+months	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	Q	517
+#501	FN	--	C	517
+#502	FN	--	R	517
+#503	PNCT	--	U	518
+#504	FN	--	A	518
+#505	FN	--	P	518
+#506	FN	--	L	525
+#507	FN	--	D	524
+#508	FN	--	E	519
+#509	FN	--	C	519
+#510	FN	--	R	520
+#511	FN	--	C	520	P*	522
+#512	FN	--	L	525
+#513	FN	--	D	522
+#514	FN	--	R	521
+#515	FN	--	C	521
+#516	PNCT	--	U	521
+#517	FN	--	T	518
+#518	FN	--	H	525
+#519	FN	--	T	524
+#520	FN	--	P	524
+#521	FN	--	T	522
+#522	FN	--	H	525
+#523	FN	--	A	524
+#524	FN	--	H	525
+#525	FN	--	--	0
+#EOS 961005

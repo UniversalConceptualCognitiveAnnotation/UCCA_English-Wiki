@@ -1,0 +1,29 @@
+#BOS 522006
+She	Word	--	Terminal	500
+was	Word	--	Terminal	501
+self	Word	--	Terminal	503
+-	Punctuation	--	Terminal	502
+conscious	Word	--	Terminal	503
+and	Word	--	Terminal	504
+anxious	Word	--	Terminal	505
+about	Word	--	Terminal	506
+her	Word	--	Terminal	507
+appearance	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+"	Punctuation	--	Terminal	510
+#500	FN	--	A	512	A*	513
+#501	FN	--	F	512
+#502	PNCT	--	U	503
+#503	FN	--	S	512
+#504	FN	--	L	514
+#505	FN	--	S	513
+#506	FN	--	R	511
+#507	FN	--	A	511
+#508	FN	--	S	511
+#509	PNCT	--	U	511
+#510	PNCT	--	U	511
+#511	FN	--	A	512	A*	513
+#512	FN	--	H	514
+#513	FN	--	H	514
+#514	FN	--	--	0
+#EOS 522006

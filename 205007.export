@@ -1,0 +1,41 @@
+#BOS 205007
+Hoffman	Word	--	Terminal	500
+received	Word	--	Terminal	501
+the	Word	--	Terminal	502
+AFI	Word	--	Terminal	503
+Life	Word	--	Terminal	503
+Achievement	Word	--	Terminal	503
+Award	Word	--	Terminal	504
+in	Word	--	Terminal	505
+1999	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+and	Word	--	Terminal	508
+the	Word	--	Terminal	509
+Kennedy	Word	--	Terminal	510
+Center	Word	--	Terminal	510
+Honors	Word	--	Terminal	510
+in	Word	--	Terminal	511
+2012	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	A	518	A*	519
+#501	FN	--	P	518	P*	519
+#502	FN	--	F	514
+#503	FN	--	C	514
+#504	FN	--	E	514
+#505	FN	--	R	515
+#506	FN	--	C	515
+#507	PNCT	--	U	520
+#508	FN	--	L	520
+#509	FN	--	F	516
+#510	FN	--	C	516
+#511	FN	--	R	517
+#512	FN	--	C	517
+#513	PNCT	--	U	517
+#514	FN	--	A	518
+#515	FN	--	T	518
+#516	FN	--	A	519
+#517	FN	--	T	519
+#518	FN	--	H	520
+#519	FN	--	H	520
+#520	FN	--	--	0
+#EOS 205007

@@ -1,0 +1,44 @@
+#BOS 191000
+Goldman	Word	--	Terminal	500
+also	Word	--	Terminal	501
+approached	Word	--	Terminal	502
+Sorkin	Word	--	Terminal	503
+with	Word	--	Terminal	504
+a	Word	--	Terminal	505
+story	Word	--	Terminal	506
+premise	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+which	Word	--	Terminal	509
+Sorkin	Word	--	Terminal	510
+developed	Word	--	Terminal	511
+into	Word	--	Terminal	512
+the	Word	--	Terminal	513
+script	Word	--	Terminal	514
+for	Word	--	Terminal	515
+Malice	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	A	522
+#501	FN	--	D	522
+#502	FN	--	P	522
+#503	FN	--	A	522
+#504	FN	--	R	521
+#505	FN	--	E	521
+#506	FN	--	E	521
+#507	FN	--	C	521	A*	520
+#508	PNCT	--	U	521
+#509	FN	--	R	520
+#510	FN	--	A	520
+#511	FN	--	P	520
+#512	FN	--	R	519
+#513	FN	--	E	519
+#514	FN	--	C	519
+#515	FN	--	R	518
+#516	FN	--	C	518
+#517	PNCT	--	U	518
+#518	FN	--	E	519
+#519	FN	--	A	520
+#520	FN	--	E	521
+#521	FN	--	A	522
+#522	FN	--	H	523
+#523	FN	--	--	0
+#EOS 191000

@@ -1,0 +1,45 @@
+#BOS 142013
+The	Word	--	Terminal	500
+television	Word	--	Terminal	501
+movie	Word	--	Terminal	502
+The	Word	--	Terminal	503
+Corn	Word	--	Terminal	503
+Is	Word	--	Terminal	503
+Green	Word	--	Terminal	503
+(	Punctuation	--	Terminal	504
+1979	Word	--	Terminal	505
+)	Punctuation	--	Terminal	506
+,	Punctuation	--	Terminal	507
+which	Word	--	Terminal	508
+was	Word	--	Terminal	509
+filmed	Word	--	Terminal	510
+in	Word	--	Terminal	511
+Wales	Word	--	Terminal	512
+,	Punctuation	--	Terminal	513
+followed	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	E	521
+#501	FN	--	E	516
+#502	FN	--	C	516
+#503	FN	--	C	521	A*	520	A*	518
+#504	PNCT	--	U	521
+#505	FN	--	T	520
+#506	PNCT	--	U	521
+#507	PNCT	--	U	521
+#508	FN	--	R	518
+#509	FN	--	F	518
+#510	FN	--	P	518
+#511	FN	--	R	517
+#512	FN	--	C	517
+#513	PNCT	--	U	522
+#514	FN	--	P	522
+#515	PNCT	--	U	522
+#516	FN	--	E	521
+#517	FN	--	A	518
+#518	FN	--	E	521
+#519	FN	--	P	520
+#520	FN	--	E	521
+#521	FN	--	A	522
+#522	FN	--	H	523
+#523	FN	--	--	0
+#EOS 142013

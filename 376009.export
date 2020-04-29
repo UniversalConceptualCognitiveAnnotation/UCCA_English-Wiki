@@ -1,0 +1,45 @@
+#BOS 376009
+Jake	Word	--	Terminal	500
+'s	Word	--	Terminal	501
+last	Word	--	Terminal	502
+native	Word	--	Terminal	503
+Swedish	Word	--	Terminal	504
+ancestor	Word	--	Terminal	505
+was	Word	--	Terminal	506
+his	Word	--	Terminal	507
+great	Word	--	Terminal	508
+-	Punctuation	--	Terminal	509
+great	Word	--	Terminal	510
+-	Punctuation	--	Terminal	511
+grandfather	Word	--	Terminal	512
+,	Punctuation	--	Terminal	513
+Anders	Word	--	Terminal	514
+Leonard	Word	--	Terminal	514
+Gyllenhaal	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	C	516
+#501	FN	--	R	516
+#502	FN	--	E	522
+#503	FN	--	E	522
+#504	FN	--	S	517
+#505	FN	--	A	518	A*	517
+#506	FN	--	S	523
+#507	FN	--	A	520
+#508	FN	--	C	519
+#509	PNCT	--	U	519
+#510	FN	--	C	519
+#511	PNCT	--	U	520
+#512	FN	--	S	520
+#513	PNCT	--	U	520
+#514	FN	--	C	521	A*	520
+#515	PNCT	--	U	521
+#516	FN	--	A	518
+#517	FN	--	E	522
+#518	FN	--	C	522
+#519	FN	--	D	520
+#520	FN	--	E	521
+#521	FN	--	A	523
+#522	FN	--	A	523
+#523	FN	--	H	524
+#524	FN	--	--	0
+#EOS 376009

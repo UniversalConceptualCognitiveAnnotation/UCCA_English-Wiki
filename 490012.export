@@ -1,0 +1,44 @@
+#BOS 490012
+Bana	Word	--	Terminal	500
+is	Word	--	Terminal	501
+a	Word	--	Terminal	502
+motor	Word	--	Terminal	503
+racing	Word	--	Terminal	504
+enthusiast	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+and	Word	--	Terminal	507
+participates	Word	--	Terminal	508
+in	Word	--	Terminal	509
+various	Word	--	Terminal	510
+motor	Word	--	Terminal	511
+racing	Word	--	Terminal	512
+competitions	Word	--	Terminal	513
+in	Word	--	Terminal	514
+Australia	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	A	522	A*	523
+#501	FN	--	F	522
+#502	FN	--	E	517
+#503	FN	--	A	518
+#504	FN	--	P	518
+#505	FN	--	C	517
+#506	PNCT	--	U	524
+#507	FN	--	L	524
+#508	FN	--	P	523
+#509	FN	--	R	521
+#510	FN	--	D	521
+#511	FN	--	A	519
+#512	FN	--	P	519
+#513	FN	--	P	521
+#514	FN	--	R	520
+#515	FN	--	C	520
+#516	PNCT	--	U	520
+#517	FN	--	P	522
+#518	FN	--	A	522
+#519	FN	--	A	521
+#520	FN	--	A	521
+#521	FN	--	A	523
+#522	FN	--	H	524
+#523	FN	--	H	524
+#524	FN	--	--	0
+#EOS 490012

@@ -1,0 +1,56 @@
+#BOS 706010
+Arthur	Word	--	Terminal	500
+Baker	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+who	Word	--	Terminal	502
+had	Word	--	Terminal	503
+remixed	Word	--	Terminal	504
+hits	Word	--	Terminal	505
+for	Word	--	Terminal	506
+Bruce	Word	--	Terminal	507
+Springsteen	Word	--	Terminal	507
+and	Word	--	Terminal	508
+Cyndi	Word	--	Terminal	509
+Lauper	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+was	Word	--	Terminal	511
+asked	Word	--	Terminal	512
+to	Word	--	Terminal	513
+engineer	Word	--	Terminal	514
+and	Word	--	Terminal	515
+mix	Word	--	Terminal	516
+the	Word	--	Terminal	517
+album	Word	--	Terminal	518
+.	Punctuation	--	Terminal	519
+#500	FN	--	C	525	A*	526	A*	527	A*	523
+#501	PNCT	--	U	525
+#502	FN	--	R	523
+#503	FN	--	F	523
+#504	FN	--	P	523
+#505	FN	--	A	523
+#506	FN	--	R	522
+#507	FN	--	C	520
+#508	FN	--	N	520
+#509	FN	--	C	520
+#510	PNCT	--	U	529
+#511	FN	--	F	529
+#512	FN	--	P	529
+#513	FN	--	F	526
+#514	FN	--	P	526
+#515	FN	--	L	528
+#516	FN	--	P	527
+#517	FN	--	E	521
+#518	FN	--	C	521
+#519	PNCT	--	U	521
+#520	FN	--	C	522
+#521	FN	--	A	526	A*	527
+#522	FN	--	A	523
+#523	FN	--	E	525
+#524	FN	--	A	529
+#525	FN	--	A	529
+#526	FN	--	H	528
+#527	FN	--	H	528
+#528	FN	--	A	529
+#529	FN	--	H	530
+#530	FN	--	--	0
+#EOS 706010

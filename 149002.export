@@ -1,0 +1,39 @@
+#BOS 149002
+Out	Word	--	Terminal	500
+of	Word	--	Terminal	501
+consideration	Word	--	Terminal	502
+for	Word	--	Terminal	503
+Tracy	Word	--	Terminal	504
+'s	Word	--	Terminal	505
+family	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+she	Word	--	Terminal	508
+did	Word	--	Terminal	509
+not	Word	--	Terminal	510
+attend	Word	--	Terminal	511
+his	Word	--	Terminal	512
+funeral	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	C	515
+#501	FN	--	R	515
+#502	FN	--	P	518
+#503	FN	--	R	517
+#504	FN	--	C	516
+#505	FN	--	R	516
+#506	FN	--	S	517
+#507	PNCT	--	U	518
+#508	FN	--	A	520	A*	518
+#509	FN	--	F	520
+#510	FN	--	D	520
+#511	FN	--	P	520
+#512	FN	--	A	519
+#513	FN	--	P	519
+#514	PNCT	--	U	519
+#515	FN	--	R	518
+#516	FN	--	A	517
+#517	FN	--	A	518
+#518	FN	--	A	520
+#519	FN	--	A	520
+#520	FN	--	H	521
+#521	FN	--	--	0
+#EOS 149002

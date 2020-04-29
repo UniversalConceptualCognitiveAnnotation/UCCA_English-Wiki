@@ -1,0 +1,46 @@
+#BOS 130001
+She	Word	--	Terminal	500
+had	Word	--	Terminal	501
+a	Word	--	Terminal	502
+difficult	Word	--	Terminal	503
+relationship	Word	--	Terminal	504
+with	Word	--	Terminal	505
+the	Word	--	Terminal	506
+press	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+with	Word	--	Terminal	509
+whom	Word	--	Terminal	510
+she	Word	--	Terminal	511
+could	Word	--	Terminal	512
+be	Word	--	Terminal	513
+rude	Word	--	Terminal	514
+and	Word	--	Terminal	515
+provocative	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	A	524
+#501	FN	--	F	518
+#502	FN	--	F	518
+#503	FN	--	D	524
+#504	FN	--	C	518
+#505	FN	--	R	523
+#506	FN	--	F	523
+#507	FN	--	C	523	C*	519
+#508	PNCT	--	U	523
+#509	FN	--	R	519
+#510	FN	--	R	520	R*	521
+#511	FN	--	A	520	A*	521
+#512	FN	--	D	520	D*	521
+#513	FN	--	F	520
+#514	FN	--	P	520
+#515	FN	--	L	522
+#516	FN	--	P	521
+#517	PNCT	--	U	521
+#518	FN	--	P	524
+#519	FN	--	A	520	A*	521
+#520	FN	--	H	522
+#521	FN	--	H	522
+#522	FN	--	E	523
+#523	FN	--	A	524
+#524	FN	--	H	525
+#525	FN	--	--	0
+#EOS 130001

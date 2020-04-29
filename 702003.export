@@ -1,0 +1,54 @@
+#BOS 702003
+On	Word	--	Terminal	500
+his	Word	--	Terminal	501
+next	Word	--	Terminal	502
+album	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+Planet	Word	--	Terminal	505
+Waves	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+he	Word	--	Terminal	507
+used	Word	--	Terminal	508
+The	Word	--	Terminal	509
+Band	Word	--	Terminal	509
+as	Word	--	Terminal	510
+backing	Word	--	Terminal	511
+group	Word	--	Terminal	512
+,	Punctuation	--	Terminal	513
+while	Word	--	Terminal	514
+rehearsing	Word	--	Terminal	515
+for	Word	--	Terminal	516
+a	Word	--	Terminal	517
+major	Word	--	Terminal	518
+tour	Word	--	Terminal	519
+.	Punctuation	--	Terminal	520
+#500	FN	--	R	523
+#501	FN	--	S	521
+#502	FN	--	E	522
+#503	FN	--	C	522
+#504	PNCT	--	U	522
+#505	FN	--	C	523	A*	521
+#506	PNCT	--	U	527
+#507	FN	--	A	527	A*	524
+#508	FN	--	P	527
+#509	FN	--	A	527
+#510	FN	--	R	525
+#511	FN	--	A	525
+#512	FN	--	S	525
+#513	PNCT	--	U	528
+#514	FN	--	L	528
+#515	FN	--	P	524
+#516	FN	--	L	528
+#517	FN	--	F	526
+#518	FN	--	D	526
+#519	FN	--	P	526
+#520	PNCT	--	U	526
+#521	FN	--	E	522
+#522	FN	--	E	523
+#523	FN	--	A	527
+#524	FN	--	H	528
+#525	FN	--	A	527
+#526	FN	--	H	528
+#527	FN	--	H	528
+#528	FN	--	--	0
+#EOS 702003

@@ -1,0 +1,39 @@
+#BOS 237011
+Chan	Word	--	Terminal	500
+has	Word	--	Terminal	501
+many	Word	--	Terminal	502
+historic	Word	--	Terminal	503
+artefacts	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+such	Word	--	Terminal	506
+as	Word	--	Terminal	506
+old	Word	--	Terminal	507
+door	Word	--	Terminal	508
+frames	Word	--	Terminal	509
+from	Word	--	Terminal	510
+2000	Word	--	Terminal	511
+years	Word	--	Terminal	512
+ago	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	A	519
+#501	FN	--	S	519
+#502	FN	--	Q	518
+#503	FN	--	E	518
+#504	FN	--	C	518
+#505	PNCT	--	U	518
+#506	FN	--	R	517
+#507	FN	--	S	515
+#508	FN	--	E	517
+#509	FN	--	C	517	A*	515
+#510	FN	--	R	516
+#511	FN	--	Q	516
+#512	FN	--	C	516
+#513	FN	--	R	516
+#514	PNCT	--	U	516
+#515	FN	--	E	517
+#516	FN	--	E	517
+#517	FN	--	E	518
+#518	FN	--	A	519
+#519	FN	--	H	520
+#520	FN	--	--	0
+#EOS 237011

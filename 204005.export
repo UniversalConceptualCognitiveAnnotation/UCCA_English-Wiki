@@ -1,0 +1,24 @@
+#BOS 204005
+He	Word	--	Terminal	500
+was	Word	--	Terminal	501
+ordered	Word	--	Terminal	502
+to	Word	--	Terminal	503
+a	Word	--	Terminal	504
+drug	Word	--	Terminal	505
+diversion	Word	--	Terminal	506
+program	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	FN	--	A	511
+#501	FN	--	F	511
+#502	FN	--	P	511
+#503	FN	--	R	510
+#504	FN	--	E	510
+#505	FN	--	A	509
+#506	FN	--	P	509
+#507	FN	--	C	510
+#508	PNCT	--	U	510
+#509	FN	--	E	510
+#510	FN	--	A	511
+#511	FN	--	H	512
+#512	FN	--	--	0
+#EOS 204005

@@ -1,0 +1,30 @@
+#BOS 123001
+He	Word	--	Terminal	500
+had	Word	--	Terminal	501
+tied	Word	--	Terminal	502
+a	Word	--	Terminal	503
+sheet	Word	--	Terminal	504
+around	Word	--	Terminal	505
+a	Word	--	Terminal	506
+beam	Word	--	Terminal	507
+and	Word	--	Terminal	508
+hanged	Word	--	Terminal	509
+himself	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	FN	--	A	514	A*	511
+#501	FN	--	F	514
+#502	FN	--	P	514
+#503	FN	--	F	512
+#504	FN	--	C	512
+#505	FN	--	R	513
+#506	FN	--	F	513
+#507	FN	--	C	513
+#508	FN	--	L	515
+#509	FN	--	P	511
+#510	PNCT	--	U	511
+#511	FN	--	H	515
+#512	FN	--	A	514
+#513	FN	--	A	514
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 123001

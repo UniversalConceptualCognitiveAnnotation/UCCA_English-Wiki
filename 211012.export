@@ -1,0 +1,37 @@
+#BOS 211012
+A	Word	--	Terminal	500
+political	Word	--	Terminal	501
+liberal	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+Hoffman	Word	--	Terminal	504
+has	Word	--	Terminal	505
+long	Word	--	Terminal	506
+supported	Word	--	Terminal	507
+the	Word	--	Terminal	508
+Democratic	Word	--	Terminal	509
+Party	Word	--	Terminal	510
+and	Word	--	Terminal	511
+Ralph	Word	--	Terminal	512
+Nader	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	F	514
+#501	FN	--	A	514
+#502	FN	--	S	514
+#503	PNCT	--	U	514
+#504	FN	--	C	515	A*	514
+#505	FN	--	F	518
+#506	FN	--	D	518
+#507	FN	--	P	518
+#508	FN	--	F	516
+#509	FN	--	E	516
+#510	FN	--	C	516
+#511	FN	--	N	517
+#512	FN	--	C	517
+#513	PNCT	--	U	517
+#514	FN	--	E	515
+#515	FN	--	A	518
+#516	FN	--	C	517
+#517	FN	--	A	518
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 211012

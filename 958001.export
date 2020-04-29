@@ -1,0 +1,36 @@
+#BOS 958001
+Leigh	Word	--	Terminal	500
+performed	Word	--	Terminal	501
+for	Word	--	Terminal	502
+troops	Word	--	Terminal	503
+before	Word	--	Terminal	504
+falling	Word	--	Terminal	505
+ill	Word	--	Terminal	505
+with	Word	--	Terminal	506
+a	Word	--	Terminal	507
+persistent	Word	--	Terminal	508
+cough	Word	--	Terminal	509
+and	Word	--	Terminal	510
+fevers	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	A	516	A*	515
+#501	FN	--	P	516
+#502	FN	--	R	513
+#503	FN	--	P	513
+#504	FN	--	L	519
+#505	FN	--	D	515	D*	518
+#506	FN	--	R	514
+#507	FN	--	E	514
+#508	FN	--	D	515
+#509	FN	--	C	514
+#510	FN	--	L	519
+#511	FN	--	P	518
+#512	PNCT	--	U	518
+#513	FN	--	A	516
+#514	FN	--	P	515
+#515	FN	--	H	519
+#516	FN	--	H	519
+#517	FN	--	A	518
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 958001

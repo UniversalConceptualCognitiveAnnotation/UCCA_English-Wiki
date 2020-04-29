@@ -1,0 +1,38 @@
+#BOS 146004
+She	Word	--	Terminal	500
+led	Word	--	Terminal	501
+an	Word	--	Terminal	502
+active	Word	--	Terminal	503
+private	Word	--	Terminal	504
+life	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+reportedly	Word	--	Terminal	507
+swimming	Word	--	Terminal	508
+every	Word	--	Terminal	509
+morning	Word	--	Terminal	510
+and	Word	--	Terminal	511
+playing	Word	--	Terminal	512
+tennis	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	A	517	A*	519	A*	515
+#501	FN	--	D	517
+#502	FN	--	F	516
+#503	FN	--	D	517
+#504	FN	--	A	517
+#505	FN	--	C	516
+#506	PNCT	--	U	520
+#507	FN	--	G	519
+#508	FN	--	P	519
+#509	FN	--	E	518
+#510	FN	--	C	518
+#511	FN	--	L	520
+#512	FN	--	P	515
+#513	FN	--	A	515
+#514	PNCT	--	U	515
+#515	FN	--	H	520
+#516	FN	--	P	517
+#517	FN	--	H	520
+#518	FN	--	T	519
+#519	FN	--	H	520
+#520	FN	--	--	0
+#EOS 146004

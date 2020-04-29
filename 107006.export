@@ -1,0 +1,47 @@
+#BOS 107006
+For	Word	--	Terminal	500
+the	Word	--	Terminal	501
+second	Word	--	Terminal	502
+consecutive	Word	--	Terminal	503
+year	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+Jolie	Word	--	Terminal	506
+won	Word	--	Terminal	507
+a	Word	--	Terminal	508
+Golden	Word	--	Terminal	509
+Globe	Word	--	Terminal	509
+Award	Word	--	Terminal	510
+and	Word	--	Terminal	511
+was	Word	--	Terminal	512
+nominated	Word	--	Terminal	513
+for	Word	--	Terminal	514
+an	Word	--	Terminal	515
+Emmy	Word	--	Terminal	516
+Award	Word	--	Terminal	517
+.	Punctuation	--	Terminal	518
+#500	FN	--	R	519
+#501	FN	--	E	519
+#502	FN	--	Q	519
+#503	FN	--	C	519
+#504	FN	--	E	519
+#505	PNCT	--	U	522
+#506	FN	--	A	522	A*	523
+#507	FN	--	P	522
+#508	FN	--	E	520
+#509	FN	--	E	520
+#510	FN	--	C	520
+#511	FN	--	L	524
+#512	FN	--	F	523
+#513	FN	--	P	523
+#514	FN	--	R	521
+#515	FN	--	E	521
+#516	FN	--	E	521
+#517	FN	--	C	521
+#518	PNCT	--	U	521
+#519	FN	--	D	522
+#520	FN	--	A	522
+#521	FN	--	A	523
+#522	FN	--	H	524
+#523	FN	--	H	524
+#524	FN	--	--	0
+#EOS 107006

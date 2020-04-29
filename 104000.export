@@ -1,0 +1,36 @@
+#BOS 104000
+Jolie	Word	--	Terminal	500
+suffered	Word	--	Terminal	501
+episodes	Word	--	Terminal	502
+of	Word	--	Terminal	503
+suicidal	Word	--	Terminal	504
+depression	Word	--	Terminal	505
+throughout	Word	--	Terminal	506
+her	Word	--	Terminal	507
+teens	Word	--	Terminal	508
+and	Word	--	Terminal	509
+early	Word	--	Terminal	510
+twenties	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	A	514
+#501	FN	--	D	514
+#502	FN	--	T	514
+#503	FN	--	R	513
+#504	FN	--	A	514
+#505	FN	--	C	513
+#506	FN	--	L	520
+#507	FN	--	A	518	A*	519
+#508	FN	--	T	518
+#509	FN	--	L	520
+#510	FN	--	E	515
+#511	FN	--	C	515
+#512	PNCT	--	U	515
+#513	FN	--	P	514
+#514	FN	--	H	520
+#515	FN	--	T	519
+#516	FN	--	S	518
+#517	FN	--	S	519
+#518	FN	--	H	520
+#519	FN	--	H	520
+#520	FN	--	--	0
+#EOS 104000

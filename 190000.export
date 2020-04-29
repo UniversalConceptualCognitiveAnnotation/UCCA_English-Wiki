@@ -1,0 +1,36 @@
+#BOS 190000
+In	Word	--	Terminal	500
+the	Word	--	Terminal	501
+early	Word	--	Terminal	502
+1990s	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+Sorkin	Word	--	Terminal	505
+worked	Word	--	Terminal	506
+under	Word	--	Terminal	507
+contract	Word	--	Terminal	508
+for	Word	--	Terminal	509
+Castle	Word	--	Terminal	511
+Rock	Word	--	Terminal	511
+Entertainment	Word	--	Terminal	511
+,	Punctuation	--	Terminal	510
+Inc	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	R	513
+#501	FN	--	E	513
+#502	FN	--	E	513
+#503	FN	--	C	513
+#504	PNCT	--	U	516
+#505	FN	--	A	516
+#506	FN	--	P	516
+#507	FN	--	R	514
+#508	FN	--	C	514
+#509	FN	--	R	515
+#510	PNCT	--	U	511
+#511	FN	--	C	515
+#512	PNCT	--	U	515
+#513	FN	--	T	516
+#514	FN	--	D	516
+#515	FN	--	A	516
+#516	FN	--	H	517
+#517	FN	--	--	0
+#EOS 190000

@@ -1,0 +1,44 @@
+#BOS 28006
+Later	Word	--	Terminal	500
+in	Word	--	Terminal	501
+1988	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+Pitt	Word	--	Terminal	504
+made	Word	--	Terminal	505
+a	Word	--	Terminal	506
+guest	Word	--	Terminal	507
+appearance	Word	--	Terminal	508
+on	Word	--	Terminal	509
+the	Word	--	Terminal	510
+Fox	Word	--	Terminal	511
+police	Word	--	Terminal	512
+drama	Word	--	Terminal	513
+21	Word	--	Terminal	514
+Jump	Word	--	Terminal	514
+Street	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	R	516
+#501	FN	--	F	516
+#502	FN	--	C	516
+#503	PNCT	--	U	522
+#504	FN	--	A	522
+#505	FN	--	F	517
+#506	FN	--	E	517
+#507	FN	--	A	522
+#508	FN	--	C	517
+#509	FN	--	R	521
+#510	FN	--	E	520
+#511	FN	--	A	519
+#512	FN	--	E	520
+#513	FN	--	C	520	A*	519
+#514	FN	--	C	521
+#515	PNCT	--	U	521
+#516	FN	--	T	522
+#517	FN	--	P	522
+#518	FN	--	S	519
+#519	FN	--	E	520
+#520	FN	--	E	521
+#521	FN	--	A	522
+#522	FN	--	H	523
+#523	FN	--	--	0
+#EOS 28006

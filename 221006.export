@@ -1,0 +1,37 @@
+#BOS 221006
+Dunst	Word	--	Terminal	500
+supported	Word	--	Terminal	501
+Democratic	Word	--	Terminal	502
+candidate	Word	--	Terminal	503
+John	Word	--	Terminal	504
+Kerry	Word	--	Terminal	504
+in	Word	--	Terminal	505
+the	Word	--	Terminal	506
+2004	Word	--	Terminal	507
+U	Word	--	Terminal	509
+.	Punctuation	--	Terminal	508
+S	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+presidential	Word	--	Terminal	511
+election	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	A	517
+#501	FN	--	P	517
+#502	FN	--	E	514
+#503	FN	--	C	514
+#504	FN	--	C	515
+#505	FN	--	R	516
+#506	FN	--	F	516
+#507	FN	--	T	516
+#508	PNCT	--	U	509
+#509	FN	--	A	516
+#510	PNCT	--	U	516
+#511	FN	--	A	516
+#512	FN	--	P	516
+#513	PNCT	--	U	516
+#514	FN	--	E	515
+#515	FN	--	A	517
+#516	FN	--	A	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 221006

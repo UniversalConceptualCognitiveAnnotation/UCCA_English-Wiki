@@ -1,0 +1,39 @@
+#BOS 545005
+In	Word	--	Terminal	500
+1941	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+Warner	Word	--	Terminal	503
+also	Word	--	Terminal	504
+produced	Word	--	Terminal	505
+the	Word	--	Terminal	506
+influential	Word	--	Terminal	507
+pro	Word	--	Terminal	508
+-	Punctuation	--	Terminal	509
+war	Word	--	Terminal	510
+film	Word	--	Terminal	511
+Sergeant	Word	--	Terminal	512
+York	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	R	514
+#501	FN	--	C	514
+#502	PNCT	--	U	520
+#503	FN	--	A	520
+#504	FN	--	D	520
+#505	FN	--	P	520
+#506	FN	--	E	518
+#507	FN	--	S	515
+#508	FN	--	S	517
+#509	PNCT	--	U	517
+#510	FN	--	P	516
+#511	FN	--	C	518	A*	515	A*	517
+#512	FN	--	C	519
+#513	PNCT	--	U	519
+#514	FN	--	T	520
+#515	FN	--	E	518
+#516	FN	--	A	517
+#517	FN	--	E	518
+#518	FN	--	E	519
+#519	FN	--	A	520
+#520	FN	--	H	521
+#521	FN	--	--	0
+#EOS 545005

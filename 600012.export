@@ -1,0 +1,45 @@
+#BOS 600012
+Against	Word	--	Terminal	500
+his	Word	--	Terminal	501
+father	Word	--	Terminal	502
+'s	Word	--	Terminal	503
+advice	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+he	Word	--	Terminal	506
+took	Word	--	Terminal	507
+few	Word	--	Terminal	508
+piano	Word	--	Terminal	509
+lessons	Word	--	Terminal	510
+,	Punctuation	--	Terminal	511
+preferring	Word	--	Terminal	512
+to	Word	--	Terminal	513
+learn	Word	--	Terminal	514
+by	Word	--	Terminal	515
+ear	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	D	519
+#501	FN	--	A	518
+#502	FN	--	S	518
+#503	FN	--	R	518
+#504	FN	--	P	519
+#505	PNCT	--	U	520
+#506	FN	--	A	520	A*	523	A*	522
+#507	FN	--	D	520
+#508	FN	--	D	520
+#509	FN	--	A	520
+#510	FN	--	P	520
+#511	PNCT	--	U	524
+#512	FN	--	P	523
+#513	FN	--	F	522
+#514	FN	--	P	522
+#515	FN	--	R	521
+#516	FN	--	C	521
+#517	PNCT	--	U	521
+#518	FN	--	A	519
+#519	FN	--	A	520
+#520	FN	--	H	524
+#521	FN	--	D	522
+#522	FN	--	A	523
+#523	FN	--	H	524
+#524	FN	--	--	0
+#EOS 600012

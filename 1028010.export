@@ -1,0 +1,62 @@
+#BOS 1028010
+The	Word	--	Terminal	500
+musician	Word	--	Terminal	501
+then	Word	--	Terminal	502
+released	Word	--	Terminal	503
+a	Word	--	Terminal	504
+film	Word	--	Terminal	505
+called	Word	--	Terminal	506
+Moonwalker	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+which	Word	--	Terminal	509
+featured	Word	--	Terminal	510
+live	Word	--	Terminal	511
+footage	Word	--	Terminal	512
+and	Word	--	Terminal	513
+short	Word	--	Terminal	514
+films	Word	--	Terminal	515
+that	Word	--	Terminal	516
+starred	Word	--	Terminal	517
+Jackson	Word	--	Terminal	518
+and	Word	--	Terminal	519
+Joe	Word	--	Terminal	520
+Pesci	Word	--	Terminal	520
+.	Punctuation	--	Terminal	521
+#500	FN	--	E	522
+#501	FN	--	C	522
+#502	FN	--	L	536
+#503	FN	--	P	535
+#504	FN	--	E	534
+#505	FN	--	C	534	A*	523
+#506	FN	--	S	523
+#507	FN	--	A	523	A*	533
+#508	PNCT	--	U	533
+#509	FN	--	R	533
+#510	FN	--	S	533
+#511	FN	--	S	524
+#512	FN	--	C	525	A*	524
+#513	FN	--	N	530
+#514	FN	--	S	526
+#515	FN	--	C	527	A*	526
+#516	FN	--	R	531
+#517	FN	--	P	531
+#518	FN	--	C	528
+#519	FN	--	N	528
+#520	FN	--	C	528
+#521	PNCT	--	U	528
+#522	FN	--	P	529
+#523	FN	--	E	534
+#524	FN	--	E	525
+#525	FN	--	C	530
+#526	FN	--	E	527
+#527	FN	--	C	530
+#528	FN	--	A	531
+#529	FN	--	A	535
+#530	FN	--	C	532	A*	531
+#531	FN	--	E	532
+#532	FN	--	A	533
+#533	FN	--	E	534
+#534	FN	--	A	535
+#535	FN	--	H	536
+#536	FN	--	--	0
+#EOS 1028010

@@ -1,0 +1,37 @@
+#BOS 222012
+Chan	Word	--	Terminal	500
+trained	Word	--	Terminal	501
+rigorously	Word	--	Terminal	502
+for	Word	--	Terminal	503
+the	Word	--	Terminal	504
+next	Word	--	Terminal	505
+decade	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+excelling	Word	--	Terminal	508
+in	Word	--	Terminal	509
+martial	Word	--	Terminal	510
+arts	Word	--	Terminal	511
+and	Word	--	Terminal	512
+acrobatics	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	A	518	A*	515	A*	516
+#501	FN	--	P	518
+#502	FN	--	D	518
+#503	FN	--	R	517
+#504	FN	--	F	517
+#505	FN	--	E	517
+#506	FN	--	C	517
+#507	PNCT	--	U	519
+#508	FN	--	D	515	D*	516
+#509	FN	--	R	515
+#510	FN	--	A	515
+#511	FN	--	P	515
+#512	FN	--	L	519
+#513	FN	--	P	516
+#514	PNCT	--	U	516
+#515	FN	--	H	519
+#516	FN	--	H	519
+#517	FN	--	T	518
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 222012

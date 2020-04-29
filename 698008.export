@@ -1,0 +1,22 @@
+#BOS 698008
+Each	Word	--	Terminal	500
+show	Word	--	Terminal	501
+was	Word	--	Terminal	502
+split	Word	--	Terminal	503
+into	Word	--	Terminal	504
+two	Word	--	Terminal	505
+parts	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+#500	FN	--	D	508
+#501	FN	--	P	508
+#502	FN	--	F	510
+#503	FN	--	P	510
+#504	FN	--	R	509
+#505	FN	--	Q	509
+#506	FN	--	C	509
+#507	PNCT	--	U	509
+#508	FN	--	A	510
+#509	FN	--	A	510
+#510	FN	--	H	511
+#511	FN	--	--	0
+#EOS 698008

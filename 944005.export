@@ -1,0 +1,75 @@
+#BOS 944005
+A	Word	--	Terminal	500
+greatest	Word	--	Terminal	501
+hits	Word	--	Terminal	502
+collection	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+The	Word	--	Terminal	506
+Singles	Word	--	Terminal	506
+1992	Word	--	Terminal	506
+-	Punctuation	--	Terminal	505
+2003	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+which	Word	--	Terminal	508
+includes	Word	--	Terminal	509
+a	Word	--	Terminal	510
+cover	Word	--	Terminal	511
+of	Word	--	Terminal	512
+Talk	Word	--	Terminal	513
+Talk	Word	--	Terminal	513
+'s	Word	--	Terminal	514
+"	Punctuation	--	Terminal	515
+It	Word	--	Terminal	516
+'s	Word	--	Terminal	516
+My	Word	--	Terminal	516
+Life	Word	--	Terminal	516
+"	Punctuation	--	Terminal	517
+,	Punctuation	--	Terminal	518
+was	Word	--	Terminal	519
+released	Word	--	Terminal	520
+in	Word	--	Terminal	521
+2003	Word	--	Terminal	522
+to	Word	--	Terminal	523
+moderate	Word	--	Terminal	524
+sales	Word	--	Terminal	525
+.	Punctuation	--	Terminal	526
+#500	FN	--	E	529
+#501	FN	--	S	527
+#502	FN	--	C	528	A*	527
+#503	FN	--	C	529	A*	530
+#504	PNCT	--	U	538
+#505	PNCT	--	U	506
+#506	FN	--	C	536	A*	535
+#507	PNCT	--	U	536
+#508	FN	--	R	535
+#509	FN	--	S	535
+#510	FN	--	E	534
+#511	FN	--	C	534
+#512	FN	--	R	532
+#513	FN	--	A	531
+#514	FN	--	S	531
+#515	PNCT	--	U	531
+#516	FN	--	C	532	A*	531
+#517	PNCT	--	U	537
+#518	PNCT	--	U	537
+#519	FN	--	F	537
+#520	FN	--	P	537
+#521	FN	--	R	533
+#522	FN	--	C	533
+#523	FN	--	L	538
+#524	FN	--	D	530
+#525	FN	--	P	530
+#526	PNCT	--	U	530
+#527	FN	--	E	528
+#528	FN	--	E	529
+#529	FN	--	E	536
+#530	FN	--	H	538
+#531	FN	--	E	532
+#532	FN	--	E	534
+#533	FN	--	T	537
+#534	FN	--	A	535
+#535	FN	--	E	536
+#536	FN	--	A	537
+#537	FN	--	H	538
+#538	FN	--	--	0
+#EOS 944005

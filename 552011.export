@@ -1,0 +1,34 @@
+#BOS 552011
+perhaps	Word	--	Terminal	500
+in	Word	--	Terminal	501
+an	Word	--	Terminal	502
+effort	Word	--	Terminal	503
+to	Word	--	Terminal	504
+discourage	Word	--	Terminal	505
+him	Word	--	Terminal	506
+from	Word	--	Terminal	507
+contesting	Word	--	Terminal	508
+the	Word	--	Terminal	509
+will	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	G	518
+#501	FN	--	R	512
+#502	FN	--	F	512
+#503	FN	--	C	512
+#504	FN	--	F	517
+#505	FN	--	P	517
+#506	FN	--	A	517	A*	515
+#507	FN	--	R	515
+#508	FN	--	P	515
+#509	FN	--	F	513
+#510	FN	--	C	513
+#511	PNCT	--	U	513
+#512	FN	--	P	518
+#513	FN	--	A	515
+#514	FN	--	A	518
+#515	FN	--	A	517
+#516	FN	--	A	517
+#517	FN	--	A	518
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 552011

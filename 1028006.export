@@ -1,0 +1,41 @@
+#BOS 1028006
+Jackson	Word	--	Terminal	500
+wrote	Word	--	Terminal	501
+about	Word	--	Terminal	502
+his	Word	--	Terminal	503
+childhood	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+The	Word	--	Terminal	506
+Jackson	Word	--	Terminal	506
+5	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+and	Word	--	Terminal	508
+the	Word	--	Terminal	509
+abuse	Word	--	Terminal	510
+he	Word	--	Terminal	511
+had	Word	--	Terminal	512
+suffered	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	A	520	A*	515
+#501	FN	--	P	520	P*	515
+#502	FN	--	R	519
+#503	FN	--	A	516
+#504	FN	--	S	516
+#505	PNCT	--	U	521
+#506	FN	--	A	515
+#507	PNCT	--	U	521
+#508	FN	--	L	519
+#509	FN	--	E	517
+#510	FN	--	C	517
+#511	FN	--	A	518
+#512	FN	--	F	518
+#513	FN	--	D	518
+#514	PNCT	--	U	518
+#515	FN	--	H	521
+#516	FN	--	H	519
+#517	FN	--	P	518
+#518	FN	--	H	519
+#519	FN	--	A	520
+#520	FN	--	H	521
+#521	FN	--	--	0
+#EOS 1028006

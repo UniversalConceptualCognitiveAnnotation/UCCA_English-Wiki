@@ -1,0 +1,24 @@
+#BOS 129006
+Berman	Word	--	Terminal	500
+allowed	Word	--	Terminal	501
+Hepburn	Word	--	Terminal	502
+to	Word	--	Terminal	503
+select	Word	--	Terminal	504
+her	Word	--	Terminal	505
+next	Word	--	Terminal	506
+feature	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	FN	--	A	511
+#501	FN	--	P	511
+#502	FN	--	A	511	A*	510
+#503	FN	--	F	510
+#504	FN	--	P	510
+#505	FN	--	E	509
+#506	FN	--	E	509
+#507	FN	--	C	509
+#508	PNCT	--	U	509
+#509	FN	--	A	510
+#510	FN	--	A	511
+#511	FN	--	H	512
+#512	FN	--	--	0
+#EOS 129006

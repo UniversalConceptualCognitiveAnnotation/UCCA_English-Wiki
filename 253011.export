@@ -1,0 +1,52 @@
+#BOS 253011
+Hawke	Word	--	Terminal	500
+lives	Word	--	Terminal	501
+in	Word	--	Terminal	502
+Chelsea	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+a	Word	--	Terminal	505
+Manhattan	Word	--	Terminal	506
+neighborhood	Word	--	Terminal	507
+in	Word	--	Terminal	508
+New	Word	--	Terminal	509
+York	Word	--	Terminal	509
+City	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+and	Word	--	Terminal	511
+owns	Word	--	Terminal	512
+a	Word	--	Terminal	513
+small	Word	--	Terminal	514
+island	Word	--	Terminal	515
+in	Word	--	Terminal	516
+Nova	Word	--	Terminal	517
+Scotia	Word	--	Terminal	517
+.	Punctuation	--	Terminal	518
+#500	FN	--	A	526	A*	524
+#501	FN	--	P	526
+#502	FN	--	R	525
+#503	FN	--	C	525
+#504	PNCT	--	U	525
+#505	FN	--	F	523
+#506	FN	--	E	523
+#507	FN	--	C	523
+#508	FN	--	R	519
+#509	FN	--	C	519
+#510	PNCT	--	U	527
+#511	FN	--	L	527
+#512	FN	--	P	524
+#513	FN	--	F	522
+#514	FN	--	S	520
+#515	FN	--	C	522	A*	520
+#516	FN	--	R	521
+#517	FN	--	C	521
+#518	PNCT	--	U	521
+#519	FN	--	E	523
+#520	FN	--	E	522
+#521	FN	--	E	522
+#522	FN	--	A	524
+#523	FN	--	E	525
+#524	FN	--	H	527
+#525	FN	--	A	526
+#526	FN	--	H	527
+#527	FN	--	--	0
+#EOS 253011

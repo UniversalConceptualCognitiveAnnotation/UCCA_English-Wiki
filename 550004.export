@@ -1,0 +1,40 @@
+#BOS 550004
+In	Word	--	Terminal	500
+an	Word	--	Terminal	501
+interview	Word	--	Terminal	502
+with	Word	--	Terminal	503
+reporters	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+Jack	Word	--	Terminal	506
+Jr	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+suggested	Word	--	Terminal	508
+that	Word	--	Terminal	509
+his	Word	--	Terminal	510
+father	Word	--	Terminal	511
+was	Word	--	Terminal	512
+dying	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	L	521
+#501	FN	--	F	515
+#502	FN	--	C	515
+#503	FN	--	R	516
+#504	FN	--	A	516
+#505	PNCT	--	U	517
+#506	FN	--	A	520	A*	517
+#507	PNCT	--	U	520
+#508	FN	--	P	520
+#509	FN	--	R	519
+#510	FN	--	A	518
+#511	FN	--	S	518
+#512	FN	--	F	519
+#513	FN	--	P	519
+#514	PNCT	--	U	519
+#515	FN	--	P	517
+#516	FN	--	A	517
+#517	FN	--	H	521
+#518	FN	--	A	519
+#519	FN	--	A	520
+#520	FN	--	H	521
+#521	FN	--	--	0
+#EOS 550004

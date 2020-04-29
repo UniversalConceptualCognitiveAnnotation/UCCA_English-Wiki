@@ -1,0 +1,46 @@
+#BOS 1024009
+He	Word	--	Terminal	500
+donated	Word	--	Terminal	501
+all	Word	--	Terminal	502
+the	Word	--	Terminal	503
+funds	Word	--	Terminal	504
+(	Punctuation	--	Terminal	505
+around	Word	--	Terminal	506
+$	Word	--	Terminal	507
+8	Word	--	Terminal	508
+million	Word	--	Terminal	508
+)	Punctuation	--	Terminal	509
+raised	Word	--	Terminal	510
+from	Word	--	Terminal	511
+the	Word	--	Terminal	512
+Victory	Word	--	Terminal	513
+Tour	Word	--	Terminal	513
+to	Word	--	Terminal	514
+charity	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	A	523
+#501	FN	--	P	523
+#502	FN	--	Q	522
+#503	FN	--	E	522
+#504	FN	--	C	522	A*	521
+#505	PNCT	--	U	522
+#506	FN	--	E	517
+#507	FN	--	C	517
+#508	FN	--	Q	517
+#509	PNCT	--	U	522
+#510	FN	--	P	521
+#511	FN	--	R	520
+#512	FN	--	E	518
+#513	FN	--	C	518
+#514	FN	--	R	519
+#515	FN	--	C	519
+#516	PNCT	--	U	519
+#517	FN	--	E	522
+#518	FN	--	P	520
+#519	FN	--	A	523
+#520	FN	--	A	521
+#521	FN	--	E	522
+#522	FN	--	A	523
+#523	FN	--	H	524
+#524	FN	--	--	0
+#EOS 1024009

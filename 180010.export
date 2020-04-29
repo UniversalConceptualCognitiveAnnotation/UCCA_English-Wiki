@@ -1,0 +1,44 @@
+#BOS 180010
+Prior	Word	--	Terminal	500
+to	Word	--	Terminal	501
+the	Word	--	Terminal	502
+US	Word	--	Terminal	503
+-	Punctuation	--	Terminal	504
+led	Word	--	Terminal	505
+invasion	Word	--	Terminal	506
+of	Word	--	Terminal	507
+Iraq	Word	--	Terminal	508
+she	Word	--	Terminal	509
+participated	Word	--	Terminal	510
+in	Word	--	Terminal	511
+anti	Word	--	Terminal	512
+-	Punctuation	--	Terminal	513
+war	Word	--	Terminal	514
+demonstrations	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	C	517
+#501	FN	--	R	517
+#502	FN	--	F	522
+#503	FN	--	A	518
+#504	PNCT	--	U	518
+#505	FN	--	P	518
+#506	FN	--	P	522	A*	518
+#507	FN	--	R	519
+#508	FN	--	C	519
+#509	FN	--	A	523
+#510	FN	--	F	520
+#511	FN	--	R	520
+#512	FN	--	R	521
+#513	PNCT	--	U	521
+#514	FN	--	C	521
+#515	FN	--	C	520
+#516	PNCT	--	U	520
+#517	FN	--	L	524
+#518	FN	--	H	524
+#519	FN	--	A	522
+#520	FN	--	P	523
+#521	FN	--	A	523
+#522	FN	--	H	524
+#523	FN	--	H	524
+#524	FN	--	--	0
+#EOS 180010

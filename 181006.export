@@ -1,0 +1,42 @@
+#BOS 181006
+Gyllenhaal	Word	--	Terminal	500
+grew	Word	--	Terminal	501
+up	Word	--	Terminal	501
+in	Word	--	Terminal	502
+Los	Word	--	Terminal	503
+Angeles	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+California	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+and	Word	--	Terminal	507
+studied	Word	--	Terminal	508
+at	Word	--	Terminal	509
+the	Word	--	Terminal	510
+Harvard	Word	--	Terminal	512
+-	Punctuation	--	Terminal	511
+Westlake	Word	--	Terminal	512
+prep	Word	--	Terminal	513
+school	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	A	518	A*	519
+#501	FN	--	P	518
+#502	FN	--	R	516
+#503	FN	--	C	516
+#504	PNCT	--	U	516
+#505	FN	--	C	516
+#506	PNCT	--	U	520
+#507	FN	--	L	520
+#508	FN	--	P	519
+#509	FN	--	R	517
+#510	FN	--	F	517
+#511	PNCT	--	U	512
+#512	FN	--	E	517
+#513	FN	--	E	517
+#514	FN	--	C	517
+#515	PNCT	--	U	517
+#516	FN	--	A	518
+#517	FN	--	A	519
+#518	FN	--	H	520
+#519	FN	--	H	520
+#520	FN	--	--	0
+#EOS 181006

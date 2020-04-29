@@ -1,0 +1,59 @@
+#BOS 601003
+Harrison	Word	--	Terminal	500
+joined	Word	--	Terminal	501
+in	Word	--	Terminal	502
+1958	Word	--	Terminal	503
+as	Word	--	Terminal	504
+lead	Word	--	Terminal	505
+guitarist	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+followed	Word	--	Terminal	508
+by	Word	--	Terminal	509
+Lennon	Word	--	Terminal	510
+'s	Word	--	Terminal	511
+art	Word	--	Terminal	512
+school	Word	--	Terminal	513
+friend	Word	--	Terminal	514
+Stuart	Word	--	Terminal	515
+Sutcliffe	Word	--	Terminal	515
+on	Word	--	Terminal	516
+bass	Word	--	Terminal	517
+,	Punctuation	--	Terminal	518
+in	Word	--	Terminal	519
+1960	Word	--	Terminal	520
+.	Punctuation	--	Terminal	521
+#500	FN	--	A	529	A*	522
+#501	FN	--	P	529	P*	532
+#502	FN	--	R	523
+#503	FN	--	C	523
+#504	FN	--	R	522
+#505	FN	--	D	522
+#506	FN	--	P	522
+#507	PNCT	--	U	533
+#508	FN	--	L	533
+#509	FN	--	R	532
+#510	FN	--	C	524
+#511	FN	--	R	524
+#512	FN	--	E	525
+#513	FN	--	C	525
+#514	FN	--	S	526
+#515	FN	--	C	531	A*	526	A*	530
+#516	FN	--	R	527
+#517	FN	--	C	527
+#518	PNCT	--	U	532
+#519	FN	--	R	528
+#520	FN	--	C	528
+#521	PNCT	--	U	528
+#522	FN	--	A	529
+#523	FN	--	T	529
+#524	FN	--	A	526
+#525	FN	--	A	526
+#526	FN	--	E	531
+#527	FN	--	P	530
+#528	FN	--	T	532
+#529	FN	--	H	533
+#530	FN	--	E	531
+#531	FN	--	A	532
+#532	FN	--	H	533
+#533	FN	--	--	0
+#EOS 601003

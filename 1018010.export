@@ -1,0 +1,42 @@
+#BOS 1018010
+Jackson	Word	--	Terminal	500
+'s	Word	--	Terminal	501
+1982	Word	--	Terminal	502
+album	Word	--	Terminal	503
+Thriller	Word	--	Terminal	504
+is	Word	--	Terminal	505
+the	Word	--	Terminal	506
+best	Word	--	Terminal	507
+-	Punctuation	--	Terminal	508
+selling	Word	--	Terminal	509
+album	Word	--	Terminal	510
+of	Word	--	Terminal	511
+all	Word	--	Terminal	512
+time	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	A	515
+#501	FN	--	S	515
+#502	FN	--	T	519
+#503	FN	--	C	520	A*	515	A*	519
+#504	FN	--	C	521
+#505	FN	--	S	523
+#506	FN	--	E	522
+#507	FN	--	D	516
+#508	PNCT	--	U	516
+#509	FN	--	P	516
+#510	FN	--	C	522	A*	516
+#511	FN	--	R	517
+#512	FN	--	E	517
+#513	FN	--	C	517
+#514	PNCT	--	U	517
+#515	FN	--	E	520
+#516	FN	--	E	522
+#517	FN	--	E	522
+#518	FN	--	P	519
+#519	FN	--	E	520
+#520	FN	--	E	521
+#521	FN	--	A	523
+#522	FN	--	A	523
+#523	FN	--	H	524
+#524	FN	--	--	0
+#EOS 1018010

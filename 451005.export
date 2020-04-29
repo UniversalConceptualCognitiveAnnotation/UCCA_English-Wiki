@@ -1,0 +1,39 @@
+#BOS 451005
+Three	Word	--	Terminal	500
+months	Word	--	Terminal	501
+later	Word	--	Terminal	502
+though	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+he	Word	--	Terminal	505
+changed	Word	--	Terminal	506
+his	Word	--	Terminal	506
+mind	Word	--	Terminal	506
+and	Word	--	Terminal	507
+packed	Word	--	Terminal	508
+his	Word	--	Terminal	509
+bags	Word	--	Terminal	510
+for	Word	--	Terminal	511
+America	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	Q	514
+#501	FN	--	C	514
+#502	FN	--	R	514
+#503	FN	--	L	520
+#504	PNCT	--	U	520
+#505	FN	--	A	515	A*	519
+#506	FN	--	P	515
+#507	FN	--	L	520
+#508	FN	--	P	519
+#509	FN	--	S	516
+#510	FN	--	C	517	A*	516
+#511	FN	--	R	518
+#512	FN	--	C	518
+#513	PNCT	--	U	518
+#514	FN	--	T	515
+#515	FN	--	H	520
+#516	FN	--	E	517
+#517	FN	--	A	519
+#518	FN	--	A	519
+#519	FN	--	H	520
+#520	FN	--	--	0
+#EOS 451005

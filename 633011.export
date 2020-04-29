@@ -1,0 +1,53 @@
+#BOS 633011
+After	Word	--	Terminal	500
+the	Word	--	Terminal	501
+first	Word	--	Terminal	502
+Hamburg	Word	--	Terminal	503
+residency	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+the	Word	--	Terminal	506
+band	Word	--	Terminal	507
+accepted	Word	--	Terminal	508
+another	Word	--	Terminal	509
+in	Word	--	Terminal	510
+April	Word	--	Terminal	511
+1961	Word	--	Terminal	512
+,	Punctuation	--	Terminal	513
+and	Word	--	Terminal	514
+a	Word	--	Terminal	515
+third	Word	--	Terminal	516
+in	Word	--	Terminal	517
+April	Word	--	Terminal	518
+1962	Word	--	Terminal	519
+.	Punctuation	--	Terminal	520
+#500	FN	--	L	529
+#501	FN	--	E	521
+#502	FN	--	D	526
+#503	FN	--	E	521
+#504	FN	--	C	521
+#505	PNCT	--	U	526
+#506	FN	--	E	522
+#507	FN	--	C	522	A*	528
+#508	FN	--	P	527	P*	528
+#509	FN	--	A	527
+#510	FN	--	R	523
+#511	FN	--	C	523
+#512	FN	--	C	523
+#513	PNCT	--	U	529
+#514	FN	--	L	529
+#515	FN	--	E	524
+#516	FN	--	C	524
+#517	FN	--	R	525
+#518	FN	--	C	525
+#519	FN	--	C	525
+#520	PNCT	--	U	525
+#521	FN	--	S	526
+#522	FN	--	A	527	A*	526
+#523	FN	--	T	527
+#524	FN	--	A	528
+#525	FN	--	T	528
+#526	FN	--	H	529
+#527	FN	--	H	529
+#528	FN	--	H	529
+#529	FN	--	--	0
+#EOS 633011

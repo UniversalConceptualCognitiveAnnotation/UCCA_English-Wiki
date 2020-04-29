@@ -1,0 +1,46 @@
+#BOS 806009
+He	Word	--	Terminal	500
+wore	Word	--	Terminal	501
+an	Word	--	Terminal	502
+anti	Word	--	Terminal	503
+-	Punctuation	--	Terminal	504
+landmines	Word	--	Terminal	505
+T	Word	--	Terminal	507
+-	Punctuation	--	Terminal	506
+shirt	Word	--	Terminal	507
+during	Word	--	Terminal	508
+some	Word	--	Terminal	509
+of	Word	--	Terminal	510
+the	Word	--	Terminal	511
+Back	Word	--	Terminal	512
+in	Word	--	Terminal	512
+the	Word	--	Terminal	512
+World	Word	--	Terminal	512
+tour	Word	--	Terminal	513
+shows	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	A	521
+#501	FN	--	P	521
+#502	FN	--	E	518
+#503	FN	--	S	516
+#504	PNCT	--	U	516
+#505	FN	--	C	517	A*	516
+#506	PNCT	--	U	507
+#507	FN	--	C	518
+#508	FN	--	L	523
+#509	FN	--	D	522
+#510	FN	--	R	519
+#511	FN	--	F	522
+#512	FN	--	A	520
+#513	FN	--	P	520
+#514	FN	--	C	519
+#515	PNCT	--	U	519
+#516	FN	--	E	517
+#517	FN	--	E	518
+#518	FN	--	A	521
+#519	FN	--	P	522
+#520	FN	--	A	522
+#521	FN	--	H	523
+#522	FN	--	H	523
+#523	FN	--	--	0
+#EOS 806009
