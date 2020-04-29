@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 1022005
+# text = The album won also another Grammy for Best Engineered Recording - Non Classical in 1984 , awarding Bruce Swedien for his work .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	album	_	Word	Word	_	3	A	3:A	_
+3	won	_	Word	Word	_	0	H	0:H	_
+4	also	_	Word	Word	_	3	D	3:D	_
+5	another	_	Word	Word	_	6	E	6:E	_
+6	Grammy	_	Word	Word	_	0	C	0:C|17:A	_
+7	for	_	Word	Word	_	10	R	10:R	_
+8	Best	_	Word	Word	_	9	D	9:D	_
+9	Engineered	_	Word	Word	_	10	E	10:E	_
+10	Recording	_	Word	Word	_	6	E	6:E	_
+11	-	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	Non	_	Word	Word	_	13	E	13:E	_
+13	Classical	_	Word	Word	_	10	E	10:E	_
+14	in	_	Word	Word	_	15	R	15:R	_
+15	1984	_	Word	Word	_	3	T	3:T	_
+16	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+17	awarding	_	Word	Word	_	3	H	3:H	_
+18	Bruce	_	Word	Word	_	17	A	17:A	_
+19	Swedien	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	for	_	Word	Word	_	22	R	22:R	_
+21	his	_	Word	Word	_	22	A	22:A	_
+22	work	_	Word	Word	_	17	A	17:A	_
+23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+

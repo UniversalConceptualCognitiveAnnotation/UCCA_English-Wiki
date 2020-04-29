@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 545002
+# text = In time , however , Warner Bros . produced more films with anti - Nazi messages , including Underground and All Through the Night .
+1	In	_	Word	Word	_	9	T	9:T	_
+2	time	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+4	however	_	Word	Word	_	9	L	9:L	_
+5	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+6	Warner	_	Word	Word	_	9	A	9:A	_
+7	Bros	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+9	produced	_	Word	Word	_	0	H	0:H	_
+10	more	_	Word	Word	_	11	Q	11:Q	_
+11	films	_	Word	Word	_	9	A	9:A	_
+12	with	_	Word	Word	_	16	R	16:R	_
+13	anti	_	Word	Word	_	15	R	15:R	_
+14	-	_	Punctuation	Punctuation	_	15	U	15:U	_
+15	Nazi	_	Word	Word	_	16	A	16:A	_
+16	messages	_	Word	Word	_	11	E	11:E	_
+17	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+18	including	_	Word	Word	_	19	R	19:R	_
+19	Underground	_	Word	Word	_	11	E	11:E	_
+20	and	_	Word	Word	_	19	N	19:N	_
+21	All	_	Word	Word	_	19	C	19:C	_
+22	Through	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	the	_	Word	Word	_	21	Terminal	21:Terminal	_
+24	Night	_	Word	Word	_	21	Terminal	21:Terminal	_
+25	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

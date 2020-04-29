@@ -1,0 +1,51 @@
+# format = ucca
+# sent_id = 944010
+# text = Stefani created the album to modernize the music to which she listened when in high school , and L . A . M . B . takes influence from a variety of music styles of the 1980s and early 1990s such as New Wave and electro .
+1	Stefani	_	Word	Word	_	2	A	2:A|6:A	_
+2	created	_	Word	Word	_	0	H	0:H	_
+3	the	_	Word	Word	_	4	E	4:E	_
+4	album	_	Word	Word	_	2	A	2:A	_
+5	to	_	Word	Word	_	6	L	6:L	_
+6	modernize	_	Word	Word	_	2	H	2:H	_
+7	the	_	Word	Word	_	8	E	8:E	_
+8	music	_	Word	Word	_	6	A	6:A	_
+9	to	_	Word	Word	_	12	R	12:R	_
+10	which	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	she	_	Word	Word	_	12	A	12:A|14:A	_
+12	listened	_	Word	Word	_	8	E	8:E	_
+13	when	_	Word	Word	_	14	L	14:L	_
+14	in	_	Word	Word	_	12	H	12:H	_
+15	high	_	Word	Word	_	14	A	14:A	_
+16	school	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+18	and	_	Word	Word	_	28	L	28:L	_
+19	L	_	Word	Word	_	28	A	28:A	_
+20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+21	A	_	Word	Word	_	19	Terminal	19:Terminal	_
+22	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+23	M	_	Word	Word	_	19	Terminal	19:Terminal	_
+24	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+25	B	_	Word	Word	_	19	Terminal	19:Terminal	_
+26	.	_	Punctuation	Punctuation	_	28	U	28:U	_
+27	takes	_	Word	Word	_	28	D	28:D	_
+28	influence	_	Word	Word	_	2	H	2:H	_
+29	from	_	Word	Word	_	34	R	34:R	_
+30	a	_	Word	Word	_	31	E	31:E	_
+31	variety	_	Word	Word	_	34	Q	34:Q	_
+32	of	_	Word	Word	_	34	R	34:R	_
+33	music	_	Word	Word	_	34	E	34:E	_
+34	styles	_	Word	Word	_	28	A	28:A	_
+35	of	_	Word	Word	_	37	R	37:R	_
+36	the	_	Word	Word	_	37	E	37:E	_
+37	1980s	_	Word	Word	_	34	E	34:E	_
+38	and	_	Word	Word	_	37	N	37:N	_
+39	early	_	Word	Word	_	40	E	40:E	_
+40	1990s	_	Word	Word	_	37	C	37:C	_
+41	such	_	Word	Word	_	43	R	43:R	_
+42	as	_	Word	Word	_	41	Terminal	41:Terminal	_
+43	New	_	Word	Word	_	34	E	34:E	_
+44	Wave	_	Word	Word	_	43	Terminal	43:Terminal	_
+45	and	_	Word	Word	_	43	N	43:N	_
+46	electro	_	Word	Word	_	43	C	43:C	_
+47	.	_	Punctuation	Punctuation	_	43	U	43:U	_
+

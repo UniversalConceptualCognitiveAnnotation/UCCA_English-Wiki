@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 585004
+# text = Films featuring Depp have grossed over $ 3 . 1billion at the United States box office and over $ 7.6 billion worldwide .
+1	Films	_	Word	Word	_	5	A	5:A	_
+2	featuring	_	Word	Word	_	1	E	1:E	_
+3	Depp	_	Word	Word	_	2	A	2:A	_
+4	have	_	Word	Word	_	5	F	5:F	_
+5	grossed	_	Word	Word	_	0	H	0:H	_
+6	over	_	Word	Word	_	7	R	7:R	_
+7	$	_	Word	Word	_	5	A	5:A	_
+8	3	_	Word	Word	_	7	Q	7:Q	_
+9	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+10	1billion	_	Word	Word	_	8	Terminal	8:Terminal	_
+11	at	_	Word	Word	_	16	R	16:R	_
+12	the	_	Word	Word	_	16	F	16:F	_
+13	United	_	Word	Word	_	16	E	16:E	_
+14	States	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	box	_	Word	Word	_	16	E	16:E	_
+16	office	_	Word	Word	_	7	E	7:E	_
+17	and	_	Word	Word	_	7	N	7:N	_
+18	over	_	Word	Word	_	19	R	19:R	_
+19	$	_	Word	Word	_	7	C	7:C	_
+20	7.6	_	Word	Word	_	19	Q	19:Q	_
+21	billion	_	Word	Word	_	20	C	20:C	_
+22	worldwide	_	Word	Word	_	19	E	19:E	_
+23	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

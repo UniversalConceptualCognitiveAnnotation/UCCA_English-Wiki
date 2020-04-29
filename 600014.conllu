@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 600014
+# text = Long Tall Sally " was the first song McCartney performed in public , at a Butlins holiday camp talent competition .
+1	Long	_	Word	Word	_	5	A	5:A	_
+2	Tall	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	Sally	_	Word	Word	_	1	Terminal	1:Terminal	_
+4	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+5	was	_	Word	Word	_	0	H	0:H	_
+6	the	_	Word	Word	_	8	E	8:E	_
+7	first	_	Word	Word	_	8	Q	8:Q	_
+8	song	_	Word	Word	_	5	A	5:A	_
+9	McCartney	_	Word	Word	_	10	A	10:A	_
+10	performed	_	Word	Word	_	8	E	8:E	_
+11	in	_	Word	Word	_	12	R	12:R	_
+12	public	_	Word	Word	_	10	A	10:A	_
+13	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+14	at	_	Word	Word	_	20	R	20:R	_
+15	a	_	Word	Word	_	20	E	20:E	_
+16	Butlins	_	Word	Word	_	18	E	18:E	_
+17	holiday	_	Word	Word	_	18	E	18:E	_
+18	camp	_	Word	Word	_	20	A	20:A	_
+19	talent	_	Word	Word	_	20	A	20:A	_
+20	competition	_	Word	Word	_	10	A	10:A	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+

@@ -1,0 +1,40 @@
+# format = ucca
+# sent_id = 636004
+# text = While the film itself proved to be their first critical flop , its soundtrack release , featuring Lennon 's acclaimed , Lewis Carroll - inspired " I Am the Walrus " , was a success .
+1	While	_	Word	Word	_	35	L	35:L	_
+2	the	_	Word	Word	_	3	E	3:E	_
+3	film	_	Word	Word	_	7	A	7:A	_
+4	itself	_	Word	Word	_	7	D	7:D	_
+5	proved	_	Word	Word	_	7	D	7:D	_
+6	to	_	Word	Word	_	7	F	7:F	_
+7	be	_	Word	Word	_	0	H	0:H	_
+8	their	_	Word	Word	_	11	A	11:A	_
+9	first	_	Word	Word	_	11	D	11:D	_
+10	critical	_	Word	Word	_	11	A	11:A	_
+11	flop	_	Word	Word	_	7	A	7:A	_
+12	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+13	its	_	Word	Word	_	14	E	14:E	_
+14	soundtrack	_	Word	Word	_	0	C	0:C|17:A	_
+15	release	_	Word	Word	_	35	A	35:A	_
+16	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+17	featuring	_	Word	Word	_	15	E	15:E	_
+18	Lennon	_	Word	Word	_	27	E	27:E	_
+19	's	_	Word	Word	_	18	R	18:R	_
+20	acclaimed	_	Word	Word	_	27	E	27:E	_
+21	,	_	Punctuation	Punctuation	_	27	U	27:U	_
+22	Lewis	_	Word	Word	_	25	A	25:A	_
+23	Carroll	_	Word	Word	_	22	Terminal	22:Terminal	_
+24	-	_	Punctuation	Punctuation	_	25	U	25:U	_
+25	inspired	_	Word	Word	_	27	E	27:E	_
+26	"	_	Punctuation	Punctuation	_	25	U	25:U	_
+27	I	_	Word	Word	_	17	A	17:A	_
+28	Am	_	Word	Word	_	27	Terminal	27:Terminal	_
+29	the	_	Word	Word	_	27	Terminal	27:Terminal	_
+30	Walrus	_	Word	Word	_	27	Terminal	27:Terminal	_
+31	"	_	Punctuation	Punctuation	_	35	U	35:U	_
+32	,	_	Punctuation	Punctuation	_	35	U	35:U	_
+33	was	_	Word	Word	_	35	F	35:F	_
+34	a	_	Word	Word	_	35	E	35:E	_
+35	success	_	Word	Word	_	7	H	7:H	_
+36	.	_	Punctuation	Punctuation	_	35	U	35:U	_
+

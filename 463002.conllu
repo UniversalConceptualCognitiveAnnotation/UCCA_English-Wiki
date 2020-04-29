@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 463002
+# text = The special drew over 9 million viewers , and was the most watched television program of the night .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	special	_	Word	Word	_	0	C	0:C|10:A	_
+3	drew	_	Word	Word	_	0	H	0:H	_
+4	over	_	Word	Word	_	7	R	7:R	_
+5	9	_	Word	Word	_	7	Q	7:Q	_
+6	million	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	viewers	_	Word	Word	_	3	A	3:A	_
+8	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+9	and	_	Word	Word	_	10	L	10:L	_
+10	was	_	Word	Word	_	3	H	3:H	_
+11	the	_	Word	Word	_	15	F	15:F	_
+12	most	_	Word	Word	_	13	D	13:D	_
+13	watched	_	Word	Word	_	15	E	15:E	_
+14	television	_	Word	Word	_	15	E	15:E	_
+15	program	_	Word	Word	_	10	A	10:A	_
+16	of	_	Word	Word	_	18	R	18:R	_
+17	the	_	Word	Word	_	18	E	18:E	_
+18	night	_	Word	Word	_	15	E	15:E	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

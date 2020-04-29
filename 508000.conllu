@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 508000
+# text = In April 1992 Bowie appeared at the Freddie Mercury Tribute Concert , following the Queen frontman 's death the previous year .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	April	_	Word	Word	_	5	T	5:T	_
+3	1992	_	Word	Word	_	2	C	2:C	_
+4	Bowie	_	Word	Word	_	5	A	5:A	_
+5	appeared	_	Word	Word	_	0	H	0:H	_
+6	at	_	Word	Word	_	11	R	11:R	_
+7	the	_	Word	Word	_	11	E	11:E	_
+8	Freddie	_	Word	Word	_	11	E	11:E	_
+9	Mercury	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	Tribute	_	Word	Word	_	11	E	11:E	_
+11	Concert	_	Word	Word	_	5	A	5:A	_
+12	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+13	following	_	Word	Word	_	18	L	18:L	_
+14	the	_	Word	Word	_	16	E	16:E	_
+15	Queen	_	Word	Word	_	16	A	16:A	_
+16	frontman	_	Word	Word	_	18	A	18:A	_
+17	's	_	Word	Word	_	16	R	16:R	_
+18	death	_	Word	Word	_	5	H	5:H	_
+19	the	_	Word	Word	_	21	E	21:E	_
+20	previous	_	Word	Word	_	21	E	21:E	_
+21	year	_	Word	Word	_	18	T	18:T	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

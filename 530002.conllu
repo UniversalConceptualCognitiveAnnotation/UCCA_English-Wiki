@@ -1,0 +1,43 @@
+# format = ucca
+# sent_id = 530002
+# text = Only one additional special , a live concert edition of General Electric Theater , was broadcast in 1956 before the relationship between the Lufts and CBS broke down in a dispute over the planned format of upcoming specials .
+1	Only	_	Word	Word	_	2	E	2:E	_
+2	one	_	Word	Word	_	4	Q	4:Q	_
+3	additional	_	Word	Word	_	4	E	4:E	_
+4	special	_	Word	Word	_	16	A	16:A	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	a	_	Word	Word	_	9	F	9:F	_
+7	live	_	Word	Word	_	8	D	8:D	_
+8	concert	_	Word	Word	_	9	E	9:E	_
+9	edition	_	Word	Word	_	4	C	4:C	_
+10	of	_	Word	Word	_	11	R	11:R	_
+11	General	_	Word	Word	_	9	E	9:E	_
+12	Electric	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	Theater	_	Word	Word	_	11	Terminal	11:Terminal	_
+14	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+15	was	_	Word	Word	_	16	F	16:F	_
+16	broadcast	_	Word	Word	_	0	H	0:H	_
+17	in	_	Word	Word	_	18	R	18:R	_
+18	1956	_	Word	Word	_	16	T	16:T	_
+19	before	_	Word	Word	_	21	L	21:L	_
+20	the	_	Word	Word	_	21	F	21:F	_
+21	relationship	_	Word	Word	_	16	H	16:H	_
+22	between	_	Word	Word	_	24	R	24:R	_
+23	the	_	Word	Word	_	24	F	24:F	_
+24	Lufts	_	Word	Word	_	21	A	21:A	_
+25	and	_	Word	Word	_	24	N	24:N	_
+26	CBS	_	Word	Word	_	24	C	24:C	_
+27	broke	_	Word	Word	_	21	D	21:D	_
+28	down	_	Word	Word	_	27	Terminal	27:Terminal	_
+29	in	_	Word	Word	_	31	L	31:L	_
+30	a	_	Word	Word	_	31	F	31:F	_
+31	dispute	_	Word	Word	_	16	H	16:H	_
+32	over	_	Word	Word	_	35	R	35:R	_
+33	the	_	Word	Word	_	35	F	35:F	_
+34	planned	_	Word	Word	_	35	E	35:E	_
+35	format	_	Word	Word	_	31	A	31:A	_
+36	of	_	Word	Word	_	38	R	38:R	_
+37	upcoming	_	Word	Word	_	38	E	38:E	_
+38	specials	_	Word	Word	_	35	E	35:E	_
+39	.	_	Punctuation	Punctuation	_	38	U	38:U	_
+

@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 130007
+# text = Producer David O. Selznick refused to offer her the part because he felt she had no sex appeal .
+1	Producer	_	Word	Word	_	2	E	2:E	_
+2	David	_	Word	Word	_	5	A	5:A	_
+3	O.	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	Selznick	_	Word	Word	_	2	Terminal	2:Terminal	_
+5	refused	_	Word	Word	_	0	H	0:H	_
+6	to	_	Word	Word	_	7	R	7:R	_
+7	offer	_	Word	Word	_	5	A	5:A	_
+8	her	_	Word	Word	_	7	A	7:A	_
+9	the	_	Word	Word	_	10	F	10:F	_
+10	part	_	Word	Word	_	7	A	7:A	_
+11	because	_	Word	Word	_	13	L	13:L	_
+12	he	_	Word	Word	_	13	A	13:A	_
+13	felt	_	Word	Word	_	5	H	5:H	_
+14	she	_	Word	Word	_	18	A	18:A	_
+15	had	_	Word	Word	_	18	F	18:F	_
+16	no	_	Word	Word	_	18	D	18:D	_
+17	sex	_	Word	Word	_	18	A	18:A	_
+18	appeal	_	Word	Word	_	13	A	13:A	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

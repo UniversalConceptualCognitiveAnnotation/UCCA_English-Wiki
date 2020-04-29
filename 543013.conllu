@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 543013
+# text = In 1935 , the studio head personally selected Flynn for the title role of Captain Blood , even though Flynn was an unknown actor at the time .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1935	_	Word	Word	_	8	T	8:T	_
+3	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+4	the	_	Word	Word	_	5	F	5:F	_
+5	studio	_	Word	Word	_	8	A	8:A	_
+6	head	_	Word	Word	_	5	A	5:A	_
+7	personally	_	Word	Word	_	8	D	8:D	_
+8	selected	_	Word	Word	_	0	H	0:H	_
+9	Flynn	_	Word	Word	_	8	A	8:A	_
+10	for	_	Word	Word	_	13	R	13:R	_
+11	the	_	Word	Word	_	13	F	13:F	_
+12	title	_	Word	Word	_	13	E	13:E	_
+13	role	_	Word	Word	_	8	A	8:A	_
+14	of	_	Word	Word	_	15	R	15:R	_
+15	Captain	_	Word	Word	_	13	E	13:E	_
+16	Blood	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+18	even	_	Word	Word	_	23	L	23:L	_
+19	though	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	Flynn	_	Word	Word	_	24	A	24:A	_
+21	was	_	Word	Word	_	24	F	24:F	_
+22	an	_	Word	Word	_	24	F	24:F	_
+23	unknown	_	Word	Word	_	8	H	8:H	_
+24	actor	_	Word	Word	_	8	H	8:H	_
+25	at	_	Word	Word	_	27	R	27:R	_
+26	the	_	Word	Word	_	27	F	27:F	_
+27	time	_	Word	Word	_	24	T	24:T|23:T	_
+28	.	_	Punctuation	Punctuation	_	27	U	27:U	_
+

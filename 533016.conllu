@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 533016
+# text = She was interred in a crypt in the community mausoleum at Ferncliff Cemetery , in Hartsdale , New York .
+1	She	_	Word	Word	_	3	A	3:A	_
+2	was	_	Word	Word	_	3	F	3:F	_
+3	interred	_	Word	Word	_	0	H	0:H	_
+4	in	_	Word	Word	_	6	R	6:R	_
+5	a	_	Word	Word	_	6	F	6:F	_
+6	crypt	_	Word	Word	_	3	A	3:A	_
+7	in	_	Word	Word	_	10	R	10:R	_
+8	the	_	Word	Word	_	10	F	10:F	_
+9	community	_	Word	Word	_	10	E	10:E	_
+10	mausoleum	_	Word	Word	_	6	C	6:C	_
+11	at	_	Word	Word	_	13	R	13:R	_
+12	Ferncliff	_	Word	Word	_	13	E	13:E	_
+13	Cemetery	_	Word	Word	_	6	C	6:C	_
+14	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+15	in	_	Word	Word	_	16	R	16:R	_
+16	Hartsdale	_	Word	Word	_	6	C	6:C	_
+17	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+18	New	_	Word	Word	_	6	C	6:C	_
+19	York	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+

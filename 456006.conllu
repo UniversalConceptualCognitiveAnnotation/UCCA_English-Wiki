@@ -1,0 +1,49 @@
+# format = ucca
+# sent_id = 456006
+# text = He noted that Thomas and his accuser , Anita Hill , " have a very painful disagreement about some things the woman says the man did to her when they were working together ... You can ask your parents to tell you more . "
+1	He	_	Word	Word	_	2	A	2:A|37:A	_
+2	noted	_	Word	Word	_	0	H	0:H	_
+3	that	_	Word	Word	_	17	R	17:R	_
+4	Thomas	_	Word	Word	_	17	A	17:A	_
+5	and	_	Word	Word	_	4	N	4:N	_
+6	his	_	Word	Word	_	7	A	7:A	_
+7	accuser	_	Word	Word	_	9	E	9:E	_
+8	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+9	Anita	_	Word	Word	_	4	C	4:C	_
+10	Hill	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	,	_	Punctuation	Punctuation	_	17	U	17:U	_
+12	"	_	Punctuation	Punctuation	_	17	U	17:U	_
+13	have	_	Word	Word	_	17	F	17:F	_
+14	a	_	Word	Word	_	16	E	16:E	_
+15	very	_	Word	Word	_	16	E	16:E	_
+16	painful	_	Word	Word	_	17	D	17:D	_
+17	disagreement	_	Word	Word	_	2	A	2:A	_
+18	about	_	Word	Word	_	23	R	23:R	_
+19	some	_	Word	Word	_	20	E	20:E	_
+20	things	_	Word	Word	_	23	A	23:A	_
+21	the	_	Word	Word	_	22	E	22:E	_
+22	woman	_	Word	Word	_	23	A	23:A	_
+23	says	_	Word	Word	_	17	A	17:A	_
+24	the	_	Word	Word	_	25	E	25:E	_
+25	man	_	Word	Word	_	26	A	26:A	_
+26	did	_	Word	Word	_	23	A	23:A	_
+27	to	_	Word	Word	_	28	R	28:R	_
+28	her	_	Word	Word	_	26	A	26:A	_
+29	when	_	Word	Word	_	32	L	32:L	_
+30	they	_	Word	Word	_	32	A	32:A	_
+31	were	_	Word	Word	_	32	F	32:F	_
+32	working	_	Word	Word	_	26	H	26:H	_
+33	together	_	Word	Word	_	32	D	32:D	_
+34	...	_	Punctuation	Punctuation	_	2	U	2:U	_
+35	You	_	Word	Word	_	37	A	37:A	_
+36	can	_	Word	Word	_	37	D	37:D	_
+37	ask	_	Word	Word	_	2	H	2:H	_
+38	your	_	Word	Word	_	37	A	37:A	_
+39	parents	_	Word	Word	_	38	A	38:A|41:A	_
+40	to	_	Word	Word	_	41	R	41:R	_
+41	tell	_	Word	Word	_	37	A	37:A	_
+42	you	_	Word	Word	_	41	A	41:A	_
+43	more	_	Word	Word	_	41	A	41:A	_
+44	.	_	Punctuation	Punctuation	_	41	U	41:U	_
+45	"	_	Punctuation	Punctuation	_	41	U	41:U	_
+

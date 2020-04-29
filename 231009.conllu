@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 231009
+# text = Guest judges include Stanley Tong , Sammo Hung and Yuen Biao .
+1	Guest	_	Word	Word	_	2	D	2:D	_
+2	judges	_	Word	Word	_	0	H	0:H	_
+3	include	_	Word	Word	_	4	R	4:R	_
+4	Stanley	_	Word	Word	_	2	A	2:A	_
+5	Tong	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+7	Sammo	_	Word	Word	_	4	C	4:C	_
+8	Hung	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	and	_	Word	Word	_	4	N	4:N	_
+10	Yuen	_	Word	Word	_	4	C	4:C	_
+11	Biao	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+

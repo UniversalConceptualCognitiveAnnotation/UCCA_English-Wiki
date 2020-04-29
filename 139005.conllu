@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 139005
+# text = Long Day 's Journey Into Night earned Hepburn an Oscar nomination and the Best Actress Award at the Cannes Film Festival .
+1	Long	_	Word	Word	_	7	A	7:A	_
+2	Day	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	's	_	Word	Word	_	1	Terminal	1:Terminal	_
+4	Journey	_	Word	Word	_	1	Terminal	1:Terminal	_
+5	Into	_	Word	Word	_	1	Terminal	1:Terminal	_
+6	Night	_	Word	Word	_	1	Terminal	1:Terminal	_
+7	earned	_	Word	Word	_	0	H	0:H	_
+8	Hepburn	_	Word	Word	_	7	A	7:A	_
+9	an	_	Word	Word	_	11	E	11:E	_
+10	Oscar	_	Word	Word	_	11	E	11:E	_
+11	nomination	_	Word	Word	_	7	A	7:A	_
+12	and	_	Word	Word	_	11	N	11:N	_
+13	the	_	Word	Word	_	16	E	16:E	_
+14	Best	_	Word	Word	_	15	D	15:D	_
+15	Actress	_	Word	Word	_	16	E	16:E	_
+16	Award	_	Word	Word	_	11	C	11:C	_
+17	at	_	Word	Word	_	21	R	21:R	_
+18	the	_	Word	Word	_	21	E	21:E	_
+19	Cannes	_	Word	Word	_	21	E	21:E	_
+20	Film	_	Word	Word	_	21	E	21:E	_
+21	Festival	_	Word	Word	_	16	E	16:E	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

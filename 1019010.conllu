@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 1019010
+# text = A sixth brother , Brandon , who was a twin of older brother Marlon , died shortly after birth .
+1	A	_	Word	Word	_	3	E	3:E	_
+2	sixth	_	Word	Word	_	3	Q	3:Q	_
+3	brother	_	Word	Word	_	5	E	5:E	_
+4	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+5	Brandon	_	Word	Word	_	0	C	0:C|10:A|19:A	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	who	_	Word	Word	_	10	R	10:R	_
+8	was	_	Word	Word	_	10	F	10:F	_
+9	a	_	Word	Word	_	10	E	10:E	_
+10	twin	_	Word	Word	_	5	E	5:E	_
+11	of	_	Word	Word	_	14	R	14:R	_
+12	older	_	Word	Word	_	13	D	13:D	_
+13	brother	_	Word	Word	_	14	E	14:E	_
+14	Marlon	_	Word	Word	_	10	A	10:A	_
+15	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+16	died	_	Word	Word	_	0	H	0:H	_
+17	shortly	_	Word	Word	_	18	E	18:E	_
+18	after	_	Word	Word	_	19	L	19:L	_
+19	birth	_	Word	Word	_	16	H	16:H	_
+20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

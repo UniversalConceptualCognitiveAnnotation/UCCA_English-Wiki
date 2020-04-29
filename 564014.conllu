@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 564014
+# text = In fact , Presley was shown head - to - toe in the first and second shows .
+1	In	_	Word	Word	_	6	G	6:G	_
+2	fact	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+4	Presley	_	Word	Word	_	6	A	6:A	_
+5	was	_	Word	Word	_	6	F	6:F	_
+6	shown	_	Word	Word	_	0	H	0:H	_
+7	head	_	Word	Word	_	6	D	6:D	_
+8	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	to	_	Word	Word	_	7	Terminal	7:Terminal	_
+10	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+11	toe	_	Word	Word	_	7	Terminal	7:Terminal	_
+12	in	_	Word	Word	_	17	R	17:R	_
+13	the	_	Word	Word	_	17	E	17:E	_
+14	first	_	Word	Word	_	17	Q	17:Q	_
+15	and	_	Word	Word	_	14	N	14:N	_
+16	second	_	Word	Word	_	14	C	14:C	_
+17	shows	_	Word	Word	_	6	A	6:A	_
+18	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+

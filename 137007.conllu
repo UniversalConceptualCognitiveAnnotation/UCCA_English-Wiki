@@ -1,0 +1,45 @@
+# format = ucca
+# sent_id = 137007
+# text = She spent two years resting and traveling , before committing to David Lean 's romantic drama Summertime ( 1955 ) . The movie was filmed in Venice , with Hepburn playing a lonely spinster who has a passionate love affair .
+1	She	_	Word	Word	_	5	A	5:A|7:A|10:A	_
+2	spent	_	Word	Word	_	5	D	5:D	_
+3	two	_	Word	Word	_	4	Q	4:Q	_
+4	years	_	Word	Word	_	5	T	5:T|7:T	_
+5	resting	_	Word	Word	_	0	H	0:H	_
+6	and	_	Word	Word	_	7	L	7:L	_
+7	traveling	_	Word	Word	_	5	H	5:H	_
+8	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+9	before	_	Word	Word	_	10	L	10:L	_
+10	committing	_	Word	Word	_	5	H	5:H	_
+11	to	_	Word	Word	_	14	R	14:R	_
+12	David	_	Word	Word	_	14	A	14:A	_
+13	Lean	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	's	_	Word	Word	_	10	A	10:A	_
+15	romantic	_	Word	Word	_	16	D	16:D	_
+16	drama	_	Word	Word	_	14	A	14:A	_
+17	Summertime	_	Word	Word	_	16	A	16:A	_
+18	(	_	Punctuation	Punctuation	_	17	U	17:U	_
+19	1955	_	Word	Word	_	17	E	17:E	_
+20	)	_	Punctuation	Punctuation	_	5	U	5:U	_
+21	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+22	The	_	Word	Word	_	23	E	23:E	_
+23	movie	_	Word	Word	_	25	A	25:A	_
+24	was	_	Word	Word	_	25	F	25:F	_
+25	filmed	_	Word	Word	_	5	H	5:H	_
+26	in	_	Word	Word	_	27	R	27:R	_
+27	Venice	_	Word	Word	_	25	A	25:A	_
+28	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+29	with	_	Word	Word	_	31	L	31:L	_
+30	Hepburn	_	Word	Word	_	31	A	31:A	_
+31	playing	_	Word	Word	_	5	H	5:H	_
+32	a	_	Word	Word	_	34	E	34:E	_
+33	lonely	_	Word	Word	_	31	A	31:A	_
+34	spinster	_	Word	Word	_	33	A	33:A	_
+35	who	_	Word	Word	_	40	R	40:R	_
+36	has	_	Word	Word	_	40	F	40:F	_
+37	a	_	Word	Word	_	38	E	38:E	_
+38	passionate	_	Word	Word	_	40	D	40:D	_
+39	love	_	Word	Word	_	40	D	40:D	_
+40	affair	_	Word	Word	_	34	E	34:E	_
+41	.	_	Punctuation	Punctuation	_	40	U	40:U	_
+

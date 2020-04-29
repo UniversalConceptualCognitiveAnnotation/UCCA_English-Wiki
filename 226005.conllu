@@ -1,0 +1,35 @@
+# format = ucca
+# sent_id = 226005
+# text = Another sequel , Police Story 4 : First Strike , brought more awards and domestic box office success for Chan , but did not fare as well in foreign markets .
+1	Another	_	Word	Word	_	2	R	2:R	_
+2	sequel	_	Word	Word	_	4	E	4:E	_
+3	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+4	Police	_	Word	Word	_	0	C	0:C|18:A|25:A	_
+5	Story	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	4	_	Word	Word	_	4	Terminal	4:Terminal	_
+7	:	_	Punctuation	Punctuation	_	4	U	4:U	_
+8	First	_	Word	Word	_	4	Terminal	4:Terminal	_
+9	Strike	_	Word	Word	_	4	Terminal	4:Terminal	_
+10	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+11	brought	_	Word	Word	_	13	D	13:D|18:D	_
+12	more	_	Word	Word	_	13	D	13:D	_
+13	awards	_	Word	Word	_	0	H	0:H	_
+14	and	_	Word	Word	_	18	L	18:L	_
+15	domestic	_	Word	Word	_	17	E	17:E	_
+16	box	_	Word	Word	_	17	E	17:E	_
+17	office	_	Word	Word	_	18	D	18:D	_
+18	success	_	Word	Word	_	13	H	13:H	_
+19	for	_	Word	Word	_	20	R	20:R	_
+20	Chan	_	Word	Word	_	0	C	0:C|18:A	_
+21	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+22	but	_	Word	Word	_	25	L	25:L	_
+23	did	_	Word	Word	_	25	F	25:F	_
+24	not	_	Word	Word	_	25	D	25:D	_
+25	fare	_	Word	Word	_	13	H	13:H	_
+26	as	_	Word	Word	_	27	R	27:R	_
+27	well	_	Word	Word	_	25	D	25:D	_
+28	in	_	Word	Word	_	30	R	30:R	_
+29	foreign	_	Word	Word	_	30	E	30:E	_
+30	markets	_	Word	Word	_	25	A	25:A	_
+31	.	_	Punctuation	Punctuation	_	30	U	30:U	_
+

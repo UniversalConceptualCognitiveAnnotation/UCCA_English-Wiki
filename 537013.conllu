@@ -1,0 +1,35 @@
+# format = ucca
+# sent_id = 537013
+# text = Benjamin worked with his son Harry in the shoe repair shop until he secured a loan to open a meat counter and grocery store in the city 's downtown area .
+1	Benjamin	_	Word	Word	_	2	A	2:A	_
+2	worked	_	Word	Word	_	0	H	0:H	_
+3	with	_	Word	Word	_	6	R	6:R	_
+4	his	_	Word	Word	_	6	E	6:E	_
+5	son	_	Word	Word	_	4	A	4:A	_
+6	Harry	_	Word	Word	_	2	A	2:A	_
+7	in	_	Word	Word	_	11	R	11:R	_
+8	the	_	Word	Word	_	11	F	11:F	_
+9	shoe	_	Word	Word	_	10	A	10:A	_
+10	repair	_	Word	Word	_	11	E	11:E	_
+11	shop	_	Word	Word	_	2	A	2:A	_
+12	until	_	Word	Word	_	14	L	14:L	_
+13	he	_	Word	Word	_	14	A	14:A|18:A	_
+14	secured	_	Word	Word	_	2	H	2:H	_
+15	a	_	Word	Word	_	16	F	16:F	_
+16	loan	_	Word	Word	_	14	A	14:A	_
+17	to	_	Word	Word	_	18	L	18:L	_
+18	open	_	Word	Word	_	2	H	2:H	_
+19	a	_	Word	Word	_	21	F	21:F	_
+20	meat	_	Word	Word	_	21	E	21:E	_
+21	counter	_	Word	Word	_	18	A	18:A	_
+22	and	_	Word	Word	_	21	N	21:N	_
+23	grocery	_	Word	Word	_	24	E	24:E	_
+24	store	_	Word	Word	_	21	C	21:C	_
+25	in	_	Word	Word	_	29	R	29:R	_
+26	the	_	Word	Word	_	27	F	27:F	_
+27	city	_	Word	Word	_	29	E	29:E	_
+28	's	_	Word	Word	_	27	R	27:R	_
+29	downtown	_	Word	Word	_	18	A	18:A	_
+30	area	_	Word	Word	_	29	E	29:E	_
+31	.	_	Punctuation	Punctuation	_	29	U	29:U	_
+

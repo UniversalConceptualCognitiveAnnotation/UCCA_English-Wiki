@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 561008
+# text = RCA Victor released Presley 's self - titled debut album on March 23 .
+1	RCA	_	Word	Word	_	3	A	3:A	_
+2	Victor	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	released	_	Word	Word	_	0	H	0:H	_
+4	Presley	_	Word	Word	_	5	A	5:A	_
+5	's	_	Word	Word	_	10	E	10:E	_
+6	self	_	Word	Word	_	8	A	8:A	_
+7	-	_	Punctuation	Punctuation	_	8	U	8:U	_
+8	titled	_	Word	Word	_	10	E	10:E	_
+9	debut	_	Word	Word	_	10	E	10:E	_
+10	album	_	Word	Word	_	3	A	3:A	_
+11	on	_	Word	Word	_	12	R	12:R	_
+12	March	_	Word	Word	_	3	T	3:T	_
+13	23	_	Word	Word	_	12	C	12:C	_
+14	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+

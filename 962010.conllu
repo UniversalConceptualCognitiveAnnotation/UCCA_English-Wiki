@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 962010
+# text = Merivale contacted Olivier , who was receiving treatment for prostate cancer in a nearby hospital .
+1	Merivale	_	Word	Word	_	2	A	2:A	_
+2	contacted	_	Word	Word	_	0	H	0:H	_
+3	Olivier	_	Word	Word	_	2	A	2:A	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	who	_	Word	Word	_	8	R	8:R	_
+6	was	_	Word	Word	_	8	F	8:F	_
+7	receiving	_	Word	Word	_	8	D	8:D	_
+8	treatment	_	Word	Word	_	3	E	3:E	_
+9	for	_	Word	Word	_	11	R	11:R	_
+10	prostate	_	Word	Word	_	11	A	11:A	_
+11	cancer	_	Word	Word	_	8	A	8:A	_
+12	in	_	Word	Word	_	15	R	15:R	_
+13	a	_	Word	Word	_	15	E	15:E	_
+14	nearby	_	Word	Word	_	15	E	15:E	_
+15	hospital	_	Word	Word	_	8	A	8:A	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

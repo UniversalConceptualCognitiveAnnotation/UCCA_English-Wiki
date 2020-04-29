@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 585013
+# text = In 1978 , Depp 's parents divorced .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1978	_	Word	Word	_	7	T	7:T	_
+3	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+4	Depp	_	Word	Word	_	6	A	6:A	_
+5	's	_	Word	Word	_	4	R	4:R	_
+6	parents	_	Word	Word	_	7	A	7:A	_
+7	divorced	_	Word	Word	_	0	H	0:H	_
+8	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

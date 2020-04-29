@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 248008
+# text = Director D . J . Caruso 's decision to cast Hawke was based on the " vulnerability " he displayed in Training Day and believed he could do the same with his character .
+1	Director	_	Word	Word	_	8	A	8:A	_
+2	D	_	Word	Word	_	1	E	1:E|10:A|25:A	_
+3	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	J	_	Word	Word	_	2	Terminal	2:Terminal	_
+5	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+6	Caruso	_	Word	Word	_	2	Terminal	2:Terminal	_
+7	's	_	Word	Word	_	1	R	1:R	_
+8	decision	_	Word	Word	_	13	A	13:A	_
+9	to	_	Word	Word	_	10	F	10:F	_
+10	cast	_	Word	Word	_	8	A	8:A	_
+11	Hawke	_	Word	Word	_	10	A	10:A	_
+12	was	_	Word	Word	_	13	F	13:F	_
+13	based	_	Word	Word	_	0	H	0:H	_
+14	on	_	Word	Word	_	17	R	17:R	_
+15	the	_	Word	Word	_	17	F	17:F	_
+16	"	_	Punctuation	Punctuation	_	17	U	17:U	_
+17	vulnerability	_	Word	Word	_	13	A	13:A	_
+18	"	_	Punctuation	Punctuation	_	17	U	17:U	_
+19	he	_	Word	Word	_	20	A	20:A	_
+20	displayed	_	Word	Word	_	17	E	17:E	_
+21	in	_	Word	Word	_	22	R	22:R	_
+22	Training	_	Word	Word	_	20	A	20:A	_
+23	Day	_	Word	Word	_	22	Terminal	22:Terminal	_
+24	and	_	Word	Word	_	25	L	25:L	_
+25	believed	_	Word	Word	_	13	H	13:H	_
+26	he	_	Word	Word	_	28	A	28:A	_
+27	could	_	Word	Word	_	28	D	28:D	_
+28	do	_	Word	Word	_	25	A	25:A	_
+29	the	_	Word	Word	_	30	F	30:F	_
+30	same	_	Word	Word	_	28	D	28:D	_
+31	with	_	Word	Word	_	33	R	33:R	_
+32	his	_	Word	Word	_	33	E	33:E	_
+33	character	_	Word	Word	_	28	A	28:A	_
+34	.	_	Punctuation	Punctuation	_	33	U	33:U	_
+

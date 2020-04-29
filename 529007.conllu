@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 529007
+# text = Her final film was I Could Go On Singing ( 1963 ) , costarring Dirk Bogarde .
+1	Her	_	Word	Word	_	3	E	3:E	_
+2	final	_	Word	Word	_	3	E	3:E	_
+3	film	_	Word	Word	_	4	A	4:A	_
+4	was	_	Word	Word	_	0	H	0:H	_
+5	I	_	Word	Word	_	4	A	4:A	_
+6	Could	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	Go	_	Word	Word	_	5	Terminal	5:Terminal	_
+8	On	_	Word	Word	_	5	Terminal	5:Terminal	_
+9	Singing	_	Word	Word	_	5	Terminal	5:Terminal	_
+10	(	_	Punctuation	Punctuation	_	5	U	5:U	_
+11	1963	_	Word	Word	_	5	E	5:E	_
+12	)	_	Punctuation	Punctuation	_	5	U	5:U	_
+13	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+14	costarring	_	Word	Word	_	5	E	5:E	_
+15	Dirk	_	Word	Word	_	14	A	14:A	_
+16	Bogarde	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

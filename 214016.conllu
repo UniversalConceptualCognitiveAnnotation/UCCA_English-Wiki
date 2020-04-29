@@ -1,0 +1,52 @@
+# format = ucca
+# sent_id = 214016
+# text = In an interview with Interview magazine , she revealed , while questioned about her kissing scene with Pitt , that kissing him had made her feel uncomfortable : " I thought it was gross , that Brad had cooties . I mean , I was 10 . "
+1	In	_	Word	Word	_	9	L	9:L	_
+2	an	_	Word	Word	_	3	F	3:F	_
+3	interview	_	Word	Word	_	0	H	0:H	_
+4	with	_	Word	Word	_	5	R	5:R	_
+5	Interview	_	Word	Word	_	3	A	3:A	_
+6	magazine	_	Word	Word	_	5	E	5:E	_
+7	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+8	she	_	Word	Word	_	9	A	9:A|3:A|21:A|31:A	_
+9	revealed	_	Word	Word	_	3	H	3:H	_
+10	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+11	while	_	Word	Word	_	12	L	12:L	_
+12	questioned	_	Word	Word	_	3	H	3:H	_
+13	about	_	Word	Word	_	16	R	16:R	_
+14	her	_	Word	Word	_	16	E	16:E	_
+15	kissing	_	Word	Word	_	16	E	16:E	_
+16	scene	_	Word	Word	_	12	A	12:A	_
+17	with	_	Word	Word	_	18	R	18:R	_
+18	Pitt	_	Word	Word	_	16	E	16:E	_
+19	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+20	that	_	Word	Word	_	24	R	24:R	_
+21	kissing	_	Word	Word	_	24	A	24:A	_
+22	him	_	Word	Word	_	21	A	21:A	_
+23	had	_	Word	Word	_	24	F	24:F	_
+24	made	_	Word	Word	_	9	A	9:A	_
+25	her	_	Word	Word	_	26	A	26:A	_
+26	feel	_	Word	Word	_	24	A	24:A	_
+27	uncomfortable	_	Word	Word	_	26	D	26:D	_
+28	:	_	Punctuation	Punctuation	_	3	U	3:U	_
+29	"	_	Punctuation	Punctuation	_	3	U	3:U	_
+30	I	_	Word	Word	_	31	A	31:A|38:A	_
+31	thought	_	Word	Word	_	3	H	3:H	_
+32	it	_	Word	Word	_	34	A	34:A	_
+33	was	_	Word	Word	_	34	F	34:F	_
+34	gross	_	Word	Word	_	31	A	31:A	_
+35	,	_	Punctuation	Punctuation	_	31	U	31:U	_
+36	that	_	Word	Word	_	38	R	38:R	_
+37	Brad	_	Word	Word	_	38	A	38:A	_
+38	had	_	Word	Word	_	31	H	31:H	_
+39	cooties	_	Word	Word	_	38	A	38:A	_
+40	.	_	Punctuation	Punctuation	_	31	U	31:U	_
+41	I	_	Word	Word	_	42	A	42:A	_
+42	mean	_	Word	Word	_	46	G	46:G	_
+43	,	_	Punctuation	Punctuation	_	46	U	46:U	_
+44	I	_	Word	Word	_	46	A	46:A	_
+45	was	_	Word	Word	_	46	F	46:F	_
+46	10	_	Word	Word	_	31	H	31:H	_
+47	.	_	Punctuation	Punctuation	_	46	U	46:U	_
+48	"	_	Punctuation	Punctuation	_	46	U	46:U	_
+

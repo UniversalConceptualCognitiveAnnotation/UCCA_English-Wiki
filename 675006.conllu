@@ -1,0 +1,48 @@
+# format = ucca
+# sent_id = 675006
+# text = On October 21 , 2011 , a pre - taped interview with Barbara Walters aired on ABC 's 20 / 20 , during the interview Carey and Cannon allowed the cameras to photograph / film twins Moroccan and Monroe for the first time .
+1	On	_	Word	Word	_	2	R	2:R	_
+2	October	_	Word	Word	_	15	T	15:T	_
+3	21	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	2011	_	Word	Word	_	2	C	2:C	_
+6	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+7	a	_	Word	Word	_	11	E	11:E	_
+8	pre	_	Word	Word	_	10	D	10:D	_
+9	-	_	Punctuation	Punctuation	_	10	U	10:U	_
+10	taped	_	Word	Word	_	15	H	15:H	_
+11	interview	_	Word	Word	_	0	C	0:C|10:A	_
+12	with	_	Word	Word	_	13	R	13:R	_
+13	Barbara	_	Word	Word	_	11	A	11:A	_
+14	Walters	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	aired	_	Word	Word	_	0	H	0:H	_
+16	on	_	Word	Word	_	19	R	19:R	_
+17	ABC	_	Word	Word	_	18	A	18:A	_
+18	's	_	Word	Word	_	19	E	19:E	_
+19	20	_	Word	Word	_	15	A	15:A	_
+20	/	_	Punctuation	Punctuation	_	19	U	19:U	_
+21	20	_	Word	Word	_	19	Terminal	19:Terminal	_
+22	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+23	during	_	Word	Word	_	25	L	25:L	_
+24	the	_	Word	Word	_	25	E	25:E	_
+25	interview	_	Word	Word	_	15	H	15:H	_
+26	Carey	_	Word	Word	_	33	A	33:A|35:A	_
+27	and	_	Word	Word	_	26	N	26:N	_
+28	Cannon	_	Word	Word	_	26	C	26:C	_
+29	allowed	_	Word	Word	_	33	D	33:D|35:D	_
+30	the	_	Word	Word	_	31	E	31:E	_
+31	cameras	_	Word	Word	_	33	A	33:A|35:A	_
+32	to	_	Word	Word	_	33	F	33:F	_
+33	photograph	_	Word	Word	_	15	H	15:H	_
+34	/	_	Punctuation	Punctuation	_	15	U	15:U	_
+35	film	_	Word	Word	_	15	H	15:H	_
+36	twins	_	Word	Word	_	37	E	37:E	_
+37	Moroccan	_	Word	Word	_	33	A	33:A|35:A	_
+38	and	_	Word	Word	_	37	N	37:N	_
+39	Monroe	_	Word	Word	_	37	C	37:C	_
+40	for	_	Word	Word	_	43	R	43:R	_
+41	the	_	Word	Word	_	43	E	43:E	_
+42	first	_	Word	Word	_	43	Q	43:Q	_
+43	time	_	Word	Word	_	33	D	33:D|35:D	_
+44	.	_	Punctuation	Punctuation	_	43	U	43:U	_
+

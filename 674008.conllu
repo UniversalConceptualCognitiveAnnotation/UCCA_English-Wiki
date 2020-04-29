@@ -1,0 +1,43 @@
+# format = ucca
+# sent_id = 674008
+# text = In May 2010 , Carey dropped out of her planned appearance in For Colored Girls , the film adaptation of the play For Colored Girls Who Have Considered Suicide When the Rainbow Is Enuf , citing medical reasons .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	May	_	Word	Word	_	6	T	6:T	_
+3	2010	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	Carey	_	Word	Word	_	6	A	6:A|36:A	_
+6	dropped	_	Word	Word	_	0	H	0:H	_
+7	out	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	of	_	Word	Word	_	11	R	11:R	_
+9	her	_	Word	Word	_	11	A	11:A	_
+10	planned	_	Word	Word	_	11	D	11:D	_
+11	appearance	_	Word	Word	_	6	A	6:A	_
+12	in	_	Word	Word	_	13	R	13:R	_
+13	For	_	Word	Word	_	11	A	11:A	_
+14	Colored	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	Girls	_	Word	Word	_	13	Terminal	13:Terminal	_
+16	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+17	the	_	Word	Word	_	19	E	19:E	_
+18	film	_	Word	Word	_	19	E	19:E	_
+19	adaptation	_	Word	Word	_	13	E	13:E	_
+20	of	_	Word	Word	_	23	R	23:R	_
+21	the	_	Word	Word	_	22	E	22:E	_
+22	play	_	Word	Word	_	23	E	23:E	_
+23	For	_	Word	Word	_	19	E	19:E	_
+24	Colored	_	Word	Word	_	23	Terminal	23:Terminal	_
+25	Girls	_	Word	Word	_	23	Terminal	23:Terminal	_
+26	Who	_	Word	Word	_	23	Terminal	23:Terminal	_
+27	Have	_	Word	Word	_	23	Terminal	23:Terminal	_
+28	Considered	_	Word	Word	_	23	Terminal	23:Terminal	_
+29	Suicide	_	Word	Word	_	23	Terminal	23:Terminal	_
+30	When	_	Word	Word	_	23	Terminal	23:Terminal	_
+31	the	_	Word	Word	_	23	Terminal	23:Terminal	_
+32	Rainbow	_	Word	Word	_	23	Terminal	23:Terminal	_
+33	Is	_	Word	Word	_	23	Terminal	23:Terminal	_
+34	Enuf	_	Word	Word	_	23	Terminal	23:Terminal	_
+35	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+36	citing	_	Word	Word	_	6	H	6:H	_
+37	medical	_	Word	Word	_	38	A	38:A	_
+38	reasons	_	Word	Word	_	36	A	36:A	_
+39	.	_	Punctuation	Punctuation	_	38	U	38:U	_
+

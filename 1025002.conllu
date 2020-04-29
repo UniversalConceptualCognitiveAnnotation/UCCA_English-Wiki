@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 1025002
+# text = Jackson had learned McCartney made approximately $ 40 million a year from other people 's songs .
+1	Jackson	_	Word	Word	_	3	A	3:A	_
+2	had	_	Word	Word	_	3	F	3:F	_
+3	learned	_	Word	Word	_	0	H	0:H	_
+4	McCartney	_	Word	Word	_	5	A	5:A	_
+5	made	_	Word	Word	_	3	A	3:A	_
+6	approximately	_	Word	Word	_	7	E	7:E	_
+7	$	_	Word	Word	_	5	A	5:A	_
+8	40	_	Word	Word	_	7	Q	7:Q	_
+9	million	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	a	_	Word	Word	_	11	R	11:R	_
+11	year	_	Word	Word	_	5	T	5:T	_
+12	from	_	Word	Word	_	16	R	16:R	_
+13	other	_	Word	Word	_	14	E	14:E	_
+14	people	_	Word	Word	_	15	A	15:A	_
+15	's	_	Word	Word	_	16	E	16:E	_
+16	songs	_	Word	Word	_	5	A	5:A	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 185005
+# text = The film , directed by Rob Reiner , became a box office success .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	film	_	Word	Word	_	13	A	13:A	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	directed	_	Word	Word	_	2	E	2:E	_
+5	by	_	Word	Word	_	6	R	6:R	_
+6	Rob	_	Word	Word	_	4	A	4:A	_
+7	Reiner	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+9	became	_	Word	Word	_	13	D	13:D	_
+10	a	_	Word	Word	_	13	E	13:E	_
+11	box	_	Word	Word	_	12	E	12:E	_
+12	office	_	Word	Word	_	13	A	13:A	_
+13	success	_	Word	Word	_	0	H	0:H	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

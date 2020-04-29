@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 730000
+# text = In 2011 , Jolie reprised her voice role as Master Tigress in the animated DreamWorks sequel Kung Fu Panda 2 .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	2011	_	Word	Word	_	5	T	5:T	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	Jolie	_	Word	Word	_	5	A	5:A	_
+5	reprised	_	Word	Word	_	0	H	0:H	_
+6	her	_	Word	Word	_	8	E	8:E	_
+7	voice	_	Word	Word	_	8	E	8:E	_
+8	role	_	Word	Word	_	5	A	5:A	_
+9	as	_	Word	Word	_	10	R	10:R	_
+10	Master	_	Word	Word	_	8	E	8:E	_
+11	Tigress	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	in	_	Word	Word	_	17	R	17:R	_
+13	the	_	Word	Word	_	16	E	16:E	_
+14	animated	_	Word	Word	_	16	E	16:E	_
+15	DreamWorks	_	Word	Word	_	16	E	16:E	_
+16	sequel	_	Word	Word	_	17	E	17:E	_
+17	Kung	_	Word	Word	_	10	E	10:E	_
+18	Fu	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	Panda	_	Word	Word	_	17	Terminal	17:Terminal	_
+20	2	_	Word	Word	_	17	Terminal	17:Terminal	_
+21	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+

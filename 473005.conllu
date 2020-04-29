@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 473005
+# text = Before the 1992 - 93 NBA season , Johnson announced his intention to stage an NBA comeback .
+1	Before	_	Word	Word	_	10	L	10:L	_
+2	the	_	Word	Word	_	7	F	7:F	_
+3	1992	_	Word	Word	_	7	T	7:T	_
+4	-	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	93	_	Word	Word	_	3	C	3:C	_
+6	NBA	_	Word	Word	_	7	A	7:A	_
+7	season	_	Word	Word	_	0	H	0:H	_
+8	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	Johnson	_	Word	Word	_	10	A	10:A	_
+10	announced	_	Word	Word	_	7	H	7:H	_
+11	his	_	Word	Word	_	14	A	14:A|17:A	_
+12	intention	_	Word	Word	_	14	D	14:D	_
+13	to	_	Word	Word	_	14	F	14:F	_
+14	stage	_	Word	Word	_	10	A	10:A	_
+15	an	_	Word	Word	_	17	F	17:F	_
+16	NBA	_	Word	Word	_	17	A	17:A	_
+17	comeback	_	Word	Word	_	14	A	14:A	_
+18	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+

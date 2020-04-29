@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 521000
+# text = In 1928 , The Gumm Sisters enrolled in a dance school run by Ethel Meglin , proprietress of the Meglin Kiddies dance troupe .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1928	_	Word	Word	_	7	T	7:T	_
+3	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+4	The	_	Word	Word	_	5	F	5:F	_
+5	Gumm	_	Word	Word	_	7	A	7:A	_
+6	Sisters	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	enrolled	_	Word	Word	_	0	H	0:H	_
+8	in	_	Word	Word	_	11	R	11:R	_
+9	a	_	Word	Word	_	11	F	11:F	_
+10	dance	_	Word	Word	_	11	E	11:E	_
+11	school	_	Word	Word	_	7	A	7:A	_
+12	run	_	Word	Word	_	11	E	11:E	_
+13	by	_	Word	Word	_	14	R	14:R	_
+14	Ethel	_	Word	Word	_	12	A	12:A	_
+15	Meglin	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+17	proprietress	_	Word	Word	_	14	E	14:E	_
+18	of	_	Word	Word	_	21	R	21:R	_
+19	the	_	Word	Word	_	21	F	21:F	_
+20	Meglin	_	Word	Word	_	21	E	21:E	_
+21	Kiddies	_	Word	Word	_	17	A	17:A	_
+22	dance	_	Word	Word	_	23	E	23:E	_
+23	troupe	_	Word	Word	_	21	E	21:E	_
+24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

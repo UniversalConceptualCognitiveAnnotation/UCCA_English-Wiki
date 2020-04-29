@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 587013
+# text = Depp has chosen roles which he found interesting , rather than those he thought would succeed at the box office .
+1	Depp	_	Word	Word	_	3	A	3:A	_
+2	has	_	Word	Word	_	3	F	3:F	_
+3	chosen	_	Word	Word	_	0	H	0:H	_
+4	roles	_	Word	Word	_	3	A	3:A	_
+5	which	_	Word	Word	_	7	R	7:R	_
+6	he	_	Word	Word	_	7	A	7:A	_
+7	found	_	Word	Word	_	4	E	4:E	_
+8	interesting	_	Word	Word	_	7	A	7:A	_
+9	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+10	rather	_	Word	Word	_	4	N	4:N|12:D	_
+11	than	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	those	_	Word	Word	_	4	C	4:C	_
+13	he	_	Word	Word	_	14	A	14:A	_
+14	thought	_	Word	Word	_	12	E	12:E	_
+15	would	_	Word	Word	_	16	D	16:D	_
+16	succeed	_	Word	Word	_	14	A	14:A	_
+17	at	_	Word	Word	_	19	R	19:R	_
+18	the	_	Word	Word	_	19	E	19:E	_
+19	box	_	Word	Word	_	16	A	16:A	_
+20	office	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

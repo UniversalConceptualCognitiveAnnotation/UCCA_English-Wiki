@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 709007
+# text = Despite the stellar line - up , the record received bad reviews and sold poorly .
+1	Despite	_	Word	Word	_	10	L	10:L	_
+2	the	_	Word	Word	_	3	E	3:E	_
+3	stellar	_	Word	Word	_	0	H	0:H	_
+4	line	_	Word	Word	_	3	A	3:A	_
+5	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	up	_	Word	Word	_	4	Terminal	4:Terminal	_
+7	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+8	the	_	Word	Word	_	9	E	9:E	_
+9	record	_	Word	Word	_	0	C	0:C|14:A	_
+10	received	_	Word	Word	_	3	H	3:H	_
+11	bad	_	Word	Word	_	12	E	12:E	_
+12	reviews	_	Word	Word	_	10	A	10:A	_
+13	and	_	Word	Word	_	14	L	14:L	_
+14	sold	_	Word	Word	_	3	H	3:H	_
+15	poorly	_	Word	Word	_	14	D	14:D	_
+16	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

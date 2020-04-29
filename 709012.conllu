@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 709012
+# text = In November 1994 Dylan recorded two live shows for MTV Unplugged .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	November	_	Word	Word	_	5	T	5:T	_
+3	1994	_	Word	Word	_	2	C	2:C	_
+4	Dylan	_	Word	Word	_	5	A	5:A	_
+5	recorded	_	Word	Word	_	0	H	0:H	_
+6	two	_	Word	Word	_	8	D	8:D	_
+7	live	_	Word	Word	_	8	D	8:D	_
+8	shows	_	Word	Word	_	5	A	5:A	_
+9	for	_	Word	Word	_	10	R	10:R	_
+10	MTV	_	Word	Word	_	5	A	5:A	_
+11	Unplugged	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+

@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 519009
+# text = Her self - image was strongly influenced by film executives , who said she was unattractive and constantly manipulated her onscreen physical appearance .
+1	Her	_	Word	Word	_	4	E	4:E	_
+2	self	_	Word	Word	_	4	E	4:E	_
+3	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+4	image	_	Word	Word	_	7	A	7:A	_
+5	was	_	Word	Word	_	7	F	7:F	_
+6	strongly	_	Word	Word	_	7	D	7:D	_
+7	influenced	_	Word	Word	_	0	H	0:H	_
+8	by	_	Word	Word	_	10	R	10:R	_
+9	film	_	Word	Word	_	10	E	10:E	_
+10	executives	_	Word	Word	_	0	A	0:A|9:P	_
+11	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	who	_	Word	Word	_	13	R	13:R	_
+13	said	_	Word	Word	_	10	E	10:E	_
+14	she	_	Word	Word	_	16	A	16:A	_
+15	was	_	Word	Word	_	16	F	16:F	_
+16	unattractive	_	Word	Word	_	13	A	13:A	_
+17	and	_	Word	Word	_	19	L	19:L	_
+18	constantly	_	Word	Word	_	19	D	19:D	_
+19	manipulated	_	Word	Word	_	13	H	13:H	_
+20	her	_	Word	Word	_	23	A	23:A	_
+21	onscreen	_	Word	Word	_	23	A	23:A	_
+22	physical	_	Word	Word	_	23	D	23:D	_
+23	appearance	_	Word	Word	_	19	A	19:A	_
+24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

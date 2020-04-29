@@ -1,0 +1,42 @@
+# format = ucca
+# sent_id = 497001
+# text = To promote it in the United States , Mercury Records financed a coast - to - coast publicity tour in which Bowie , between January and February 1971 , was interviewed by radio stations and the media .
+1	To	_	Word	Word	_	11	L	11:L	_
+2	promote	_	Word	Word	_	0	H	0:H	_
+3	it	_	Word	Word	_	2	A	2:A	_
+4	in	_	Word	Word	_	6	R	6:R	_
+5	the	_	Word	Word	_	6	E	6:E	_
+6	United	_	Word	Word	_	2	A	2:A	_
+7	States	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+9	Mercury	_	Word	Word	_	11	A	11:A|2:A	_
+10	Records	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	financed	_	Word	Word	_	2	H	2:H	_
+12	a	_	Word	Word	_	19	E	19:E	_
+13	coast	_	Word	Word	_	19	A	19:A	_
+14	-	_	Punctuation	Punctuation	_	13	U	13:U	_
+15	to	_	Word	Word	_	17	R	17:R	_
+16	-	_	Punctuation	Punctuation	_	17	U	17:U	_
+17	coast	_	Word	Word	_	13	C	13:C	_
+18	publicity	_	Word	Word	_	19	A	19:A	_
+19	tour	_	Word	Word	_	11	A	11:A	_
+20	in	_	Word	Word	_	31	R	31:R	_
+21	which	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	Bowie	_	Word	Word	_	31	A	31:A	_
+23	,	_	Punctuation	Punctuation	_	31	U	31:U	_
+24	between	_	Word	Word	_	25	R	25:R	_
+25	January	_	Word	Word	_	31	T	31:T	_
+26	and	_	Word	Word	_	25	N	25:N	_
+27	February	_	Word	Word	_	25	C	25:C	_
+28	1971	_	Word	Word	_	25	C	25:C	_
+29	,	_	Punctuation	Punctuation	_	31	U	31:U	_
+30	was	_	Word	Word	_	31	F	31:F	_
+31	interviewed	_	Word	Word	_	19	A	19:A	_
+32	by	_	Word	Word	_	34	R	34:R	_
+33	radio	_	Word	Word	_	34	E	34:E	_
+34	stations	_	Word	Word	_	31	A	31:A	_
+35	and	_	Word	Word	_	34	N	34:N	_
+36	the	_	Word	Word	_	37	E	37:E	_
+37	media	_	Word	Word	_	34	C	34:C	_
+38	.	_	Punctuation	Punctuation	_	37	U	37:U	_
+

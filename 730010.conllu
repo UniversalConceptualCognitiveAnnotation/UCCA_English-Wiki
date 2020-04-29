@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 730010
+# text = The brothers are set to rewrite Unbroken , the adaptation of the 2010 book by Laura Hillenbrand .
+1	The	_	Word	Word	_	2	F	2:F	_
+2	brothers	_	Word	Word	_	6	A	6:A	_
+3	are	_	Word	Word	_	6	F	6:F	_
+4	set	_	Word	Word	_	6	D	6:D	_
+5	to	_	Word	Word	_	6	F	6:F	_
+6	rewrite	_	Word	Word	_	0	H	0:H	_
+7	Unbroken	_	Word	Word	_	6	A	6:A	_
+8	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	the	_	Word	Word	_	10	E	10:E	_
+10	adaptation	_	Word	Word	_	7	E	7:E	_
+11	of	_	Word	Word	_	14	R	14:R	_
+12	the	_	Word	Word	_	14	E	14:E	_
+13	2010	_	Word	Word	_	14	E	14:E	_
+14	book	_	Word	Word	_	10	E	10:E	_
+15	by	_	Word	Word	_	14	E	14:E	_
+16	Laura	_	Word	Word	_	15	A	15:A	_
+17	Hillenbrand	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

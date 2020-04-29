@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 197011
+# text = In 2005 , Sorkin revised his play A Few Good Men for a revival at the London West End theatre , the Haymarket .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	2005	_	Word	Word	_	5	T	5:T	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	Sorkin	_	Word	Word	_	5	A	5:A	_
+5	revised	_	Word	Word	_	0	H	0:H	_
+6	his	_	Word	Word	_	7	E	7:E	_
+7	play	_	Word	Word	_	8	E	8:E	_
+8	A	_	Word	Word	_	5	A	5:A	_
+9	Few	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	Good	_	Word	Word	_	8	Terminal	8:Terminal	_
+11	Men	_	Word	Word	_	8	Terminal	8:Terminal	_
+12	for	_	Word	Word	_	14	R	14:R	_
+13	a	_	Word	Word	_	14	E	14:E	_
+14	revival	_	Word	Word	_	5	A	5:A	_
+15	at	_	Word	Word	_	20	R	20:R	_
+16	the	_	Word	Word	_	20	E	20:E	_
+17	London	_	Word	Word	_	20	E	20:E	_
+18	West	_	Word	Word	_	17	E	17:E	_
+19	End	_	Word	Word	_	17	E	17:E	_
+20	theatre	_	Word	Word	_	14	A	14:A	_
+21	,	_	Punctuation	Punctuation	_	20	U	20:U	_
+22	the	_	Word	Word	_	23	E	23:E	_
+23	Haymarket	_	Word	Word	_	20	E	20:E	_
+24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

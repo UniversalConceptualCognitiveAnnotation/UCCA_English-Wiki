@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 585000
+# text = John Christopher " Johnny " Depp II ( born June 9 , 1963 ) is an American actor , film producer , and musician .
+1	John	_	Word	Word	_	0	C	0:C|9:A|21:A|24:A	_
+2	Christopher	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	"	_	Punctuation	Punctuation	_	1	U	1:U	_
+4	Johnny	_	Word	Word	_	1	Terminal	1:Terminal	_
+5	"	_	Punctuation	Punctuation	_	1	U	1:U	_
+6	Depp	_	Word	Word	_	1	Terminal	1:Terminal	_
+7	II	_	Word	Word	_	1	Terminal	1:Terminal	_
+8	(	_	Punctuation	Punctuation	_	1	U	1:U	_
+9	born	_	Word	Word	_	1	E	1:E	_
+10	June	_	Word	Word	_	9	T	9:T	_
+11	9	_	Word	Word	_	10	C	10:C	_
+12	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+13	1963	_	Word	Word	_	10	C	10:C	_
+14	)	_	Punctuation	Punctuation	_	18	U	18:U	_
+15	is	_	Word	Word	_	18	F	18:F	_
+16	an	_	Word	Word	_	18	F	18:F	_
+17	American	_	Word	Word	_	18	H	18:H	_
+18	actor	_	Word	Word	_	0	H	0:H	_
+19	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+20	film	_	Word	Word	_	21	A	21:A	_
+21	producer	_	Word	Word	_	18	H	18:H	_
+22	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+23	and	_	Word	Word	_	24	L	24:L	_
+24	musician	_	Word	Word	_	18	H	18:H	_
+25	.	_	Punctuation	Punctuation	_	24	U	24:U	_
+

@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 727012
+# text = In 2004 , Jolie starred alongside Ethan Hawke in the thriller Taking Lives .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	2004	_	Word	Word	_	5	T	5:T	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	Jolie	_	Word	Word	_	5	A	5:A	_
+5	starred	_	Word	Word	_	0	H	0:H	_
+6	alongside	_	Word	Word	_	7	R	7:R	_
+7	Ethan	_	Word	Word	_	5	A	5:A	_
+8	Hawke	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	in	_	Word	Word	_	12	R	12:R	_
+10	the	_	Word	Word	_	11	E	11:E	_
+11	thriller	_	Word	Word	_	12	E	12:E	_
+12	Taking	_	Word	Word	_	5	A	5:A	_
+13	Lives	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+

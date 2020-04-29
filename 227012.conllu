@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 227012
+# text = Chan voiced Master Monkey in Kung Fu Panda ( released in June 2008 ) , appearing with Jack Black , Dustin Hoffman , and Angelina Jolie .
+1	Chan	_	Word	Word	_	2	A	2:A|16:A	_
+2	voiced	_	Word	Word	_	0	H	0:H	_
+3	Master	_	Word	Word	_	2	A	2:A	_
+4	Monkey	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	in	_	Word	Word	_	6	R	6:R	_
+6	Kung	_	Word	Word	_	2	A	2:A	_
+7	Fu	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	Panda	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	(	_	Punctuation	Punctuation	_	6	U	6:U	_
+10	released	_	Word	Word	_	6	E	6:E	_
+11	in	_	Word	Word	_	12	R	12:R	_
+12	June	_	Word	Word	_	10	T	10:T	_
+13	2008	_	Word	Word	_	12	C	12:C	_
+14	)	_	Punctuation	Punctuation	_	2	U	2:U	_
+15	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+16	appearing	_	Word	Word	_	2	H	2:H	_
+17	with	_	Word	Word	_	18	R	18:R	_
+18	Jack	_	Word	Word	_	16	A	16:A	_
+19	Black	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+21	Dustin	_	Word	Word	_	18	C	18:C	_
+22	Hoffman	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+24	and	_	Word	Word	_	18	N	18:N	_
+25	Angelina	_	Word	Word	_	18	C	18:C	_
+26	Jolie	_	Word	Word	_	25	Terminal	25:Terminal	_
+27	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

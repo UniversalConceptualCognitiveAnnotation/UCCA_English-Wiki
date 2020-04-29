@@ -1,0 +1,35 @@
+# format = ucca
+# sent_id = 956012
+# text = On 31 August 1940 , Olivier and Leigh were married in Santa Barbara , California , in a ceremony attended only by their witnesses , Katharine Hepburn and Garson Kanin .
+1	On	_	Word	Word	_	2	R	2:R	_
+2	31	_	Word	Word	_	10	T	10:T	_
+3	August	_	Word	Word	_	2	C	2:C	_
+4	1940	_	Word	Word	_	2	C	2:C	_
+5	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+6	Olivier	_	Word	Word	_	10	A	10:A	_
+7	and	_	Word	Word	_	6	N	6:N	_
+8	Leigh	_	Word	Word	_	6	C	6:C	_
+9	were	_	Word	Word	_	10	F	10:F	_
+10	married	_	Word	Word	_	0	H	0:H	_
+11	in	_	Word	Word	_	12	R	12:R	_
+12	Santa	_	Word	Word	_	10	A	10:A	_
+13	Barbara	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+15	California	_	Word	Word	_	12	C	12:C	_
+16	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+17	in	_	Word	Word	_	19	R	19:R	_
+18	a	_	Word	Word	_	19	E	19:E	_
+19	ceremony	_	Word	Word	_	0	C	0:C|20:A	_
+20	attended	_	Word	Word	_	19	E	19:E	_
+21	only	_	Word	Word	_	20	D	20:D	_
+22	by	_	Word	Word	_	26	R	26:R	_
+23	their	_	Word	Word	_	26	E	26:E	_
+24	witnesses	_	Word	Word	_	23	A	23:A	_
+25	,	_	Punctuation	Punctuation	_	26	U	26:U	_
+26	Katharine	_	Word	Word	_	20	A	20:A	_
+27	Hepburn	_	Word	Word	_	26	Terminal	26:Terminal	_
+28	and	_	Word	Word	_	26	N	26:N	_
+29	Garson	_	Word	Word	_	26	C	26:C	_
+30	Kanin	_	Word	Word	_	29	Terminal	29:Terminal	_
+31	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+

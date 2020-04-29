@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 949016
+# text = Stefani also dyed her hair blue in 1998 and pink in 2000 , appearing on the cover of Return of Saturn with pink hair .
+1	Stefani	_	Word	Word	_	3	A	3:A|12:A|14:A	_
+2	also	_	Word	Word	_	3	D	3:D	_
+3	dyed	_	Word	Word	_	0	H	0:H	_
+4	her	_	Word	Word	_	5	E	5:E	_
+5	hair	_	Word	Word	_	0	C	0:C|6:A|10:A|12:A	_
+6	blue	_	Word	Word	_	3	H	3:H	_
+7	in	_	Word	Word	_	8	R	8:R	_
+8	1998	_	Word	Word	_	3	T	3:T	_
+9	and	_	Word	Word	_	10	L	10:L	_
+10	pink	_	Word	Word	_	3	H	3:H	_
+11	in	_	Word	Word	_	12	R	12:R	_
+12	2000	_	Word	Word	_	3	H	3:H	_
+13	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+14	appearing	_	Word	Word	_	3	H	3:H	_
+15	on	_	Word	Word	_	17	R	17:R	_
+16	the	_	Word	Word	_	17	E	17:E	_
+17	cover	_	Word	Word	_	14	A	14:A	_
+18	of	_	Word	Word	_	19	R	19:R	_
+19	Return	_	Word	Word	_	17	E	17:E	_
+20	of	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	Saturn	_	Word	Word	_	19	Terminal	19:Terminal	_
+22	with	_	Word	Word	_	24	R	24:R	_
+23	pink	_	Word	Word	_	24	E	24:E	_
+24	hair	_	Word	Word	_	14	A	14:A	_
+25	.	_	Punctuation	Punctuation	_	24	U	24:U	_
+

@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 704007
+# text = In 1976 , Dylan also wrote and duetted on the song " Sign Language " for Eric Clapton 's No Reason To Cry .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1976	_	Word	Word	_	6	T	6:T|8:T	_
+3	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+4	Dylan	_	Word	Word	_	6	A	6:A|8:A	_
+5	also	_	Word	Word	_	6	D	6:D|8:D	_
+6	wrote	_	Word	Word	_	0	H	0:H	_
+7	and	_	Word	Word	_	8	L	8:L	_
+8	duetted	_	Word	Word	_	6	H	6:H	_
+9	on	_	Word	Word	_	13	R	13:R	_
+10	the	_	Word	Word	_	11	E	11:E	_
+11	song	_	Word	Word	_	13	E	13:E	_
+12	"	_	Punctuation	Punctuation	_	13	U	13:U	_
+13	Sign	_	Word	Word	_	6	A	6:A|8:A	_
+14	Language	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	"	_	Punctuation	Punctuation	_	6	U	6:U	_
+16	for	_	Word	Word	_	20	R	20:R	_
+17	Eric	_	Word	Word	_	19	A	19:A	_
+18	Clapton	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	's	_	Word	Word	_	20	E	20:E	_
+20	No	_	Word	Word	_	6	A	6:A|8:A	_
+21	Reason	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	To	_	Word	Word	_	20	Terminal	20:Terminal	_
+23	Cry	_	Word	Word	_	20	Terminal	20:Terminal	_
+24	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+

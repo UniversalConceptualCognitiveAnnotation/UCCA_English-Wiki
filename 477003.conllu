@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 477003
+# text = In 2010 Johnson endorsed Barbara Boxer in her race for re - election .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	2010	_	Word	Word	_	4	T	4:T	_
+3	Johnson	_	Word	Word	_	4	A	4:A	_
+4	endorsed	_	Word	Word	_	0	H	0:H	_
+5	Barbara	_	Word	Word	_	4	A	4:A	_
+6	Boxer	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	in	_	Word	Word	_	13	R	13:R	_
+8	her	_	Word	Word	_	13	A	13:A	_
+9	race	_	Word	Word	_	13	D	13:D	_
+10	for	_	Word	Word	_	13	R	13:R	_
+11	re	_	Word	Word	_	13	D	13:D	_
+12	-	_	Punctuation	Punctuation	_	13	U	13:U	_
+13	election	_	Word	Word	_	4	A	4:A	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

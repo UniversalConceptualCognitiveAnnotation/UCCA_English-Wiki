@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 66002
+# text = On her father 's side , Jolie is of German and Slovak descent , and on her mother 's side , she is of primarily French Canadian , Dutch , and German ancestry .
+1	On	_	Word	Word	_	5	R	5:R	_
+2	her	_	Word	Word	_	3	A	3:A	_
+3	father	_	Word	Word	_	5	E	5:E	_
+4	's	_	Word	Word	_	3	R	3:R	_
+5	side	_	Word	Word	_	13	A	13:A	_
+6	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+7	Jolie	_	Word	Word	_	13	A	13:A	_
+8	is	_	Word	Word	_	13	F	13:F	_
+9	of	_	Word	Word	_	13	R	13:R	_
+10	German	_	Word	Word	_	13	A	13:A	_
+11	and	_	Word	Word	_	10	N	10:N	_
+12	Slovak	_	Word	Word	_	10	C	10:C	_
+13	descent	_	Word	Word	_	0	H	0:H	_
+14	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+15	and	_	Word	Word	_	33	L	33:L	_
+16	on	_	Word	Word	_	20	R	20:R	_
+17	her	_	Word	Word	_	20	E	20:E	_
+18	mother	_	Word	Word	_	17	A	17:A	_
+19	's	_	Word	Word	_	18	R	18:R	_
+20	side	_	Word	Word	_	33	A	33:A	_
+21	,	_	Punctuation	Punctuation	_	33	U	33:U	_
+22	she	_	Word	Word	_	33	A	33:A	_
+23	is	_	Word	Word	_	33	F	33:F	_
+24	of	_	Word	Word	_	33	R	33:R	_
+25	primarily	_	Word	Word	_	33	D	33:D	_
+26	French	_	Word	Word	_	33	A	33:A	_
+27	Canadian	_	Word	Word	_	26	C	26:C	_
+28	,	_	Punctuation	Punctuation	_	26	U	26:U	_
+29	Dutch	_	Word	Word	_	26	C	26:C	_
+30	,	_	Punctuation	Punctuation	_	26	U	26:U	_
+31	and	_	Word	Word	_	26	N	26:N	_
+32	German	_	Word	Word	_	26	C	26:C	_
+33	ancestry	_	Word	Word	_	13	H	13:H	_
+34	.	_	Punctuation	Punctuation	_	33	U	33:U	_
+

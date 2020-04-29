@@ -1,0 +1,41 @@
+# format = ucca
+# sent_id = 636002
+# text = The anti - war , black comedy How I Won the War , featuring Lennon 's only appearance in a non - Beatles ' full - length film , was shown in cinemas in October 1967 .
+1	The	_	Word	Word	_	7	E	7:E	_
+2	anti	_	Word	Word	_	4	E	4:E	_
+3	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+4	war	_	Word	Word	_	7	E	7:E	_
+5	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+6	black	_	Word	Word	_	7	E	7:E	_
+7	comedy	_	Word	Word	_	8	E	8:E	_
+8	How	_	Word	Word	_	31	A	31:A	_
+9	I	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	Won	_	Word	Word	_	8	Terminal	8:Terminal	_
+11	the	_	Word	Word	_	8	Terminal	8:Terminal	_
+12	War	_	Word	Word	_	8	Terminal	8:Terminal	_
+13	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+14	featuring	_	Word	Word	_	8	E	8:E	_
+15	Lennon	_	Word	Word	_	18	A	18:A	_
+16	's	_	Word	Word	_	15	R	15:R	_
+17	only	_	Word	Word	_	18	D	18:D	_
+18	appearance	_	Word	Word	_	14	A	14:A	_
+19	in	_	Word	Word	_	28	R	28:R	_
+20	a	_	Word	Word	_	28	E	28:E	_
+21	non	_	Word	Word	_	23	E	23:E	_
+22	-	_	Punctuation	Punctuation	_	23	U	23:U	_
+23	Beatles	_	Word	Word	_	28	E	28:E	_
+24	'	_	Punctuation	Punctuation	_	28	U	28:U	_
+25	full	_	Word	Word	_	27	E	27:E	_
+26	-	_	Punctuation	Punctuation	_	27	U	27:U	_
+27	length	_	Word	Word	_	28	E	28:E	_
+28	film	_	Word	Word	_	18	A	18:A	_
+29	,	_	Punctuation	Punctuation	_	31	U	31:U	_
+30	was	_	Word	Word	_	31	F	31:F	_
+31	shown	_	Word	Word	_	0	H	0:H	_
+32	in	_	Word	Word	_	33	R	33:R	_
+33	cinemas	_	Word	Word	_	31	A	31:A	_
+34	in	_	Word	Word	_	36	R	36:R	_
+35	October	_	Word	Word	_	36	E	36:E	_
+36	1967	_	Word	Word	_	31	T	31:T	_
+37	.	_	Punctuation	Punctuation	_	36	U	36:U	_
+

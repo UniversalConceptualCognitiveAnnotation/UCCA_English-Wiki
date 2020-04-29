@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 540001
+# text = The canine made his debut in Where the North Begins , a film about an abandoned pup who is raised by wolves and befriends a fur trapper .
+1	The	_	Word	Word	_	2	F	2:F	_
+2	canine	_	Word	Word	_	5	A	5:A	_
+3	made	_	Word	Word	_	5	F	5:F	_
+4	his	_	Word	Word	_	5	F	5:F	_
+5	debut	_	Word	Word	_	0	H	0:H	_
+6	in	_	Word	Word	_	7	R	7:R	_
+7	Where	_	Word	Word	_	5	A	5:A	_
+8	the	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	North	_	Word	Word	_	7	Terminal	7:Terminal	_
+10	Begins	_	Word	Word	_	7	Terminal	7:Terminal	_
+11	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+12	a	_	Word	Word	_	13	F	13:F	_
+13	film	_	Word	Word	_	7	E	7:E	_
+14	about	_	Word	Word	_	17	R	17:R	_
+15	an	_	Word	Word	_	17	F	17:F	_
+16	abandoned	_	Word	Word	_	17	E	17:E	_
+17	pup	_	Word	Word	_	13	E	13:E	_
+18	who	_	Word	Word	_	20	R	20:R	_
+19	is	_	Word	Word	_	20	F	20:F	_
+20	raised	_	Word	Word	_	17	E	17:E	_
+21	by	_	Word	Word	_	22	R	22:R	_
+22	wolves	_	Word	Word	_	20	A	20:A	_
+23	and	_	Word	Word	_	24	L	24:L	_
+24	befriends	_	Word	Word	_	20	H	20:H	_
+25	a	_	Word	Word	_	27	F	27:F	_
+26	fur	_	Word	Word	_	27	A	27:A	_
+27	trapper	_	Word	Word	_	24	A	24:A	_
+28	.	_	Punctuation	Punctuation	_	27	U	27:U	_
+

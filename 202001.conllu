@@ -1,0 +1,47 @@
+# format = ucca
+# sent_id = 202001
+# text = Their successful partnership in television is one in which Sorkin focuses on writing the scripts while Schlamme executive produces and occasionally directs ; they have worked together on Sports Night , The West Wing , and Studio 60 on the Sunset Strip .
+1	Their	_	Word	Word	_	3	A	3:A	_
+2	successful	_	Word	Word	_	3	D	3:D	_
+3	partnership	_	Word	Word	_	6	A	6:A	_
+4	in	_	Word	Word	_	5	R	5:R	_
+5	television	_	Word	Word	_	3	A	3:A	_
+6	is	_	Word	Word	_	0	H	0:H	_
+7	one	_	Word	Word	_	13	F	13:F	_
+8	in	_	Word	Word	_	13	R	13:R	_
+9	which	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	Sorkin	_	Word	Word	_	13	A	13:A	_
+11	focuses	_	Word	Word	_	13	D	13:D	_
+12	on	_	Word	Word	_	13	F	13:F	_
+13	writing	_	Word	Word	_	6	A	6:A	_
+14	the	_	Word	Word	_	15	E	15:E	_
+15	scripts	_	Word	Word	_	13	A	13:A	_
+16	while	_	Word	Word	_	19	L	19:L	_
+17	Schlamme	_	Word	Word	_	19	A	19:A|22:A	_
+18	executive	_	Word	Word	_	19	E	19:E	_
+19	produces	_	Word	Word	_	13	H	13:H	_
+20	and	_	Word	Word	_	22	L	22:L	_
+21	occasionally	_	Word	Word	_	22	T	22:T	_
+22	directs	_	Word	Word	_	13	H	13:H	_
+23	;	_	Punctuation	Punctuation	_	6	U	6:U	_
+24	they	_	Word	Word	_	26	A	26:A	_
+25	have	_	Word	Word	_	26	F	26:F	_
+26	worked	_	Word	Word	_	6	H	6:H	_
+27	together	_	Word	Word	_	26	D	26:D	_
+28	on	_	Word	Word	_	29	R	29:R	_
+29	Sports	_	Word	Word	_	26	A	26:A	_
+30	Night	_	Word	Word	_	29	Terminal	29:Terminal	_
+31	,	_	Punctuation	Punctuation	_	29	U	29:U	_
+32	The	_	Word	Word	_	29	C	29:C	_
+33	West	_	Word	Word	_	32	Terminal	32:Terminal	_
+34	Wing	_	Word	Word	_	32	Terminal	32:Terminal	_
+35	,	_	Punctuation	Punctuation	_	29	U	29:U	_
+36	and	_	Word	Word	_	29	N	29:N	_
+37	Studio	_	Word	Word	_	29	C	29:C	_
+38	60	_	Word	Word	_	37	Terminal	37:Terminal	_
+39	on	_	Word	Word	_	37	Terminal	37:Terminal	_
+40	the	_	Word	Word	_	37	Terminal	37:Terminal	_
+41	Sunset	_	Word	Word	_	37	Terminal	37:Terminal	_
+42	Strip	_	Word	Word	_	37	Terminal	37:Terminal	_
+43	.	_	Punctuation	Punctuation	_	29	U	29:U	_
+

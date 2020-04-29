@@ -1,0 +1,36 @@
+# format = ucca
+# sent_id = 589006
+# text = In 2007 , Depp accepted Warner Bros. ' proposal to make a film of the gothic soap opera Dark Shadows , a series that aired on ABC from 1966 to 1971 .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	2007	_	Word	Word	_	5	T	5:T	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	Depp	_	Word	Word	_	5	A	5:A|11:A	_
+5	accepted	_	Word	Word	_	0	H	0:H	_
+6	Warner	_	Word	Word	_	9	A	9:A	_
+7	Bros.	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	'	_	Punctuation	Punctuation	_	9	U	9:U	_
+9	proposal	_	Word	Word	_	5	A	5:A	_
+10	to	_	Word	Word	_	11	F	11:F	_
+11	make	_	Word	Word	_	9	A	9:A	_
+12	a	_	Word	Word	_	13	E	13:E	_
+13	film	_	Word	Word	_	11	A	11:A	_
+14	of	_	Word	Word	_	13	E	13:E	_
+15	the	_	Word	Word	_	17	E	17:E	_
+16	gothic	_	Word	Word	_	17	E	17:E	_
+17	soap	_	Word	Word	_	19	E	19:E	_
+18	opera	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	Dark	_	Word	Word	_	14	A	14:A	_
+20	Shadows	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	,	_	Punctuation	Punctuation	_	19	U	19:U	_
+22	a	_	Word	Word	_	23	E	23:E	_
+23	series	_	Word	Word	_	19	E	19:E	_
+24	that	_	Word	Word	_	25	R	25:R	_
+25	aired	_	Word	Word	_	23	E	23:E	_
+26	on	_	Word	Word	_	27	R	27:R	_
+27	ABC	_	Word	Word	_	25	A	25:A	_
+28	from	_	Word	Word	_	29	R	29:R	_
+29	1966	_	Word	Word	_	25	T	25:T	_
+30	to	_	Word	Word	_	31	R	31:R	_
+31	1971	_	Word	Word	_	29	C	29:C	_
+32	.	_	Punctuation	Punctuation	_	31	U	31:U	_
+

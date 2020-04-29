@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 673014
+# text = According to MTV , Carey alludes to drug problems in " Obsessed " , which Eminem opened up about on his sixth studio album , Relapse .
+1	According	_	Word	Word	_	0	H	0:H	_
+2	to	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	MTV	_	Word	Word	_	1	A	1:A	_
+4	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+5	Carey	_	Word	Word	_	6	A	6:A	_
+6	alludes	_	Word	Word	_	1	A	1:A	_
+7	to	_	Word	Word	_	9	R	9:R	_
+8	drug	_	Word	Word	_	9	A	9:A	_
+9	problems	_	Word	Word	_	0	P	0:P|19:P	_
+10	in	_	Word	Word	_	12	R	12:R	_
+11	"	_	Punctuation	Punctuation	_	12	U	12:U	_
+12	Obsessed	_	Word	Word	_	6	A	6:A	_
+13	"	_	Punctuation	Punctuation	_	6	U	6:U	_
+14	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+15	which	_	Word	Word	_	17	L	17:L	_
+16	Eminem	_	Word	Word	_	17	A	17:A	_
+17	opened	_	Word	Word	_	6	H	6:H	_
+18	up	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	about	_	Word	Word	_	17	A	17:A	_
+20	on	_	Word	Word	_	26	R	26:R	_
+21	his	_	Word	Word	_	24	E	24:E	_
+22	sixth	_	Word	Word	_	24	Q	24:Q	_
+23	studio	_	Word	Word	_	24	E	24:E	_
+24	album	_	Word	Word	_	26	E	26:E	_
+25	,	_	Punctuation	Punctuation	_	26	U	26:U	_
+26	Relapse	_	Word	Word	_	17	A	17:A	_
+27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+

@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 953000
+# text = In 1917 , Ernest Hartley was transferred to Bangalore , while Gertrude and Vivian stayed in Ootacamund .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1917	_	Word	Word	_	7	T	7:T	_
+3	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+4	Ernest	_	Word	Word	_	7	A	7:A	_
+5	Hartley	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	was	_	Word	Word	_	7	F	7:F	_
+7	transferred	_	Word	Word	_	0	H	0:H	_
+8	to	_	Word	Word	_	9	R	9:R	_
+9	Bangalore	_	Word	Word	_	7	A	7:A	_
+10	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+11	while	_	Word	Word	_	15	L	15:L	_
+12	Gertrude	_	Word	Word	_	15	A	15:A	_
+13	and	_	Word	Word	_	12	N	12:N	_
+14	Vivian	_	Word	Word	_	12	C	12:C	_
+15	stayed	_	Word	Word	_	7	H	7:H	_
+16	in	_	Word	Word	_	17	R	17:R	_
+17	Ootacamund	_	Word	Word	_	15	A	15:A	_
+18	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+

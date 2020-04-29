@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 942011
+# text = Billboard magazine ranked Stefani the fifty - fourth most successful artist and thirty - seventh most successful Hot 100 artist of the 2000 - 09 decade .
+1	Billboard	_	Word	Word	_	3	A	3:A	_
+2	magazine	_	Word	Word	_	1	E	1:E	_
+3	ranked	_	Word	Word	_	0	H	0:H	_
+4	Stefani	_	Word	Word	_	3	A	3:A	_
+5	the	_	Word	Word	_	11	F	11:F	_
+6	fifty	_	Word	Word	_	9	Q	9:Q	_
+7	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	fourth	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	most	_	Word	Word	_	10	E	10:E	_
+10	successful	_	Word	Word	_	11	D	11:D	_
+11	artist	_	Word	Word	_	3	A	3:A	_
+12	and	_	Word	Word	_	11	N	11:N	_
+13	thirty	_	Word	Word	_	16	Q	16:Q	_
+14	-	_	Punctuation	Punctuation	_	13	U	13:U	_
+15	seventh	_	Word	Word	_	13	Terminal	13:Terminal	_
+16	most	_	Word	Word	_	17	E	17:E	_
+17	successful	_	Word	Word	_	20	D	20:D	_
+18	Hot	_	Word	Word	_	20	A	20:A	_
+19	100	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	artist	_	Word	Word	_	11	C	11:C	_
+21	of	_	Word	Word	_	26	R	26:R	_
+22	the	_	Word	Word	_	26	E	26:E	_
+23	2000	_	Word	Word	_	26	E	26:E|11:T	_
+24	-	_	Punctuation	Punctuation	_	23	U	23:U	_
+25	09	_	Word	Word	_	23	C	23:C	_
+26	decade	_	Word	Word	_	20	T	20:T	_
+27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+

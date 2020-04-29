@@ -1,0 +1,43 @@
+# format = ucca
+# sent_id = 106002
+# text = That same year , Jolie also portrayed Margret " Legs " Sadovsky , one of five teenage girls who form an unlikely bond in the film Foxfire after they beat up a teacher who has sexually harassed them .
+1	That	_	Word	Word	_	3	F	3:F	_
+2	same	_	Word	Word	_	3	E	3:E	_
+3	year	_	Word	Word	_	7	T	7:T	_
+4	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+5	Jolie	_	Word	Word	_	7	A	7:A	_
+6	also	_	Word	Word	_	7	D	7:D	_
+7	portrayed	_	Word	Word	_	0	H	0:H	_
+8	Margret	_	Word	Word	_	7	A	7:A	_
+9	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+10	Legs	_	Word	Word	_	8	Terminal	8:Terminal	_
+11	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+12	Sadovsky	_	Word	Word	_	8	Terminal	8:Terminal	_
+13	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+14	one	_	Word	Word	_	8	E	8:E	_
+15	of	_	Word	Word	_	18	R	18:R	_
+16	five	_	Word	Word	_	18	Q	18:Q	_
+17	teenage	_	Word	Word	_	18	E	18:E	_
+18	girls	_	Word	Word	_	0	C	0:C|14:C|17:A|23:A	_
+19	who	_	Word	Word	_	23	R	23:R	_
+20	form	_	Word	Word	_	23	D	23:D	_
+21	an	_	Word	Word	_	23	E	23:E	_
+22	unlikely	_	Word	Word	_	23	G	23:G	_
+23	bond	_	Word	Word	_	18	E	18:E	_
+24	in	_	Word	Word	_	27	R	27:R	_
+25	the	_	Word	Word	_	27	F	27:F	_
+26	film	_	Word	Word	_	27	E	27:E	_
+27	Foxfire	_	Word	Word	_	23	A	23:A	_
+28	after	_	Word	Word	_	30	L	30:L	_
+29	they	_	Word	Word	_	30	A	30:A	_
+30	beat	_	Word	Word	_	23	H	23:H	_
+31	up	_	Word	Word	_	30	Terminal	30:Terminal	_
+32	a	_	Word	Word	_	33	E	33:E	_
+33	teacher	_	Word	Word	_	30	A	30:A	_
+34	who	_	Word	Word	_	37	R	37:R	_
+35	has	_	Word	Word	_	37	F	37:F	_
+36	sexually	_	Word	Word	_	37	D	37:D	_
+37	harassed	_	Word	Word	_	33	E	33:E	_
+38	them	_	Word	Word	_	37	A	37:A	_
+39	.	_	Punctuation	Punctuation	_	37	U	37:U	_
+

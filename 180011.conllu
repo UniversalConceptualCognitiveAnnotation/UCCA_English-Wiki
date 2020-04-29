@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 180011
+# text = Gyllenhaal drew criticism in 2005 for her opinion that America was " responsible in some way " for the September 11 attacks .
+1	Gyllenhaal	_	Word	Word	_	3	A	3:A	_
+2	drew	_	Word	Word	_	3	D	3:D	_
+3	criticism	_	Word	Word	_	0	H	0:H	_
+4	in	_	Word	Word	_	5	R	5:R	_
+5	2005	_	Word	Word	_	3	T	3:T	_
+6	for	_	Word	Word	_	8	R	8:R	_
+7	her	_	Word	Word	_	8	A	8:A	_
+8	opinion	_	Word	Word	_	3	A	3:A	_
+9	that	_	Word	Word	_	13	R	13:R	_
+10	America	_	Word	Word	_	13	A	13:A	_
+11	was	_	Word	Word	_	13	F	13:F	_
+12	"	_	Punctuation	Punctuation	_	13	U	13:U	_
+13	responsible	_	Word	Word	_	8	A	8:A	_
+14	in	_	Word	Word	_	16	R	16:R	_
+15	some	_	Word	Word	_	16	E	16:E	_
+16	way	_	Word	Word	_	13	D	13:D	_
+17	"	_	Punctuation	Punctuation	_	13	U	13:U	_
+18	for	_	Word	Word	_	22	R	22:R	_
+19	the	_	Word	Word	_	22	F	22:F	_
+20	September	_	Word	Word	_	22	T	22:T	_
+21	11	_	Word	Word	_	20	C	20:C	_
+22	attacks	_	Word	Word	_	13	A	13:A	_
+23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+

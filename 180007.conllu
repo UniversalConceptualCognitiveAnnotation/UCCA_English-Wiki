@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 180007
+# text = On May 2 , 2009 , she married Sarsgaard in Italy .
+1	On	_	Word	Word	_	2	R	2:R	_
+2	May	_	Word	Word	_	8	T	8:T	_
+3	2	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	2009	_	Word	Word	_	2	C	2:C	_
+6	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	she	_	Word	Word	_	8	A	8:A	_
+8	married	_	Word	Word	_	0	H	0:H	_
+9	Sarsgaard	_	Word	Word	_	8	A	8:A	_
+10	in	_	Word	Word	_	11	R	11:R	_
+11	Italy	_	Word	Word	_	8	A	8:A	_
+12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+

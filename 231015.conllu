@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 231015
+# text = Production on the first film is due to begin in September 2008 .
+1	Production	_	Word	Word	_	0	H	0:H	_
+2	on	_	Word	Word	_	5	R	5:R	_
+3	the	_	Word	Word	_	5	F	5:F	_
+4	first	_	Word	Word	_	5	E	5:E	_
+5	film	_	Word	Word	_	1	A	1:A	_
+6	is	_	Word	Word	_	1	F	1:F	_
+7	due	_	Word	Word	_	9	E	9:E	_
+8	to	_	Word	Word	_	9	F	9:F	_
+9	begin	_	Word	Word	_	1	D	1:D	_
+10	in	_	Word	Word	_	11	R	11:R	_
+11	September	_	Word	Word	_	1	T	1:T	_
+12	2008	_	Word	Word	_	11	C	11:C	_
+13	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+

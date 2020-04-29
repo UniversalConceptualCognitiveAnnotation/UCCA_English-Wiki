@@ -1,0 +1,45 @@
+# format = ucca
+# sent_id = 531004
+# text = She was several hundred thousand dollars in debt to the Internal Revenue Service , having failed to pay taxes in 1951 and 1952 , and the failure of A Star is Born meant that she received nothing from that investment .
+1	She	_	Word	Word	_	8	A	8:A|18:A	_
+2	was	_	Word	Word	_	8	F	8:F	_
+3	several	_	Word	Word	_	4	Q	4:Q	_
+4	hundred	_	Word	Word	_	5	Q	5:Q	_
+5	thousand	_	Word	Word	_	6	Q	6:Q	_
+6	dollars	_	Word	Word	_	8	A	8:A	_
+7	in	_	Word	Word	_	8	R	8:R	_
+8	debt	_	Word	Word	_	0	H	0:H	_
+9	to	_	Word	Word	_	13	R	13:R	_
+10	the	_	Word	Word	_	13	F	13:F	_
+11	Internal	_	Word	Word	_	13	E	13:E	_
+12	Revenue	_	Word	Word	_	13	E	13:E	_
+13	Service	_	Word	Word	_	8	A	8:A	_
+14	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+15	having	_	Word	Word	_	18	F	18:F	_
+16	failed	_	Word	Word	_	18	D	18:D	_
+17	to	_	Word	Word	_	18	F	18:F	_
+18	pay	_	Word	Word	_	8	H	8:H	_
+19	taxes	_	Word	Word	_	18	A	18:A	_
+20	in	_	Word	Word	_	21	R	21:R	_
+21	1951	_	Word	Word	_	18	T	18:T	_
+22	and	_	Word	Word	_	21	N	21:N	_
+23	1952	_	Word	Word	_	21	C	21:C	_
+24	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+25	and	_	Word	Word	_	33	L	33:L	_
+26	the	_	Word	Word	_	27	F	27:F	_
+27	failure	_	Word	Word	_	33	A	33:A	_
+28	of	_	Word	Word	_	29	R	29:R	_
+29	A	_	Word	Word	_	27	A	27:A	_
+30	Star	_	Word	Word	_	29	Terminal	29:Terminal	_
+31	is	_	Word	Word	_	29	Terminal	29:Terminal	_
+32	Born	_	Word	Word	_	29	Terminal	29:Terminal	_
+33	meant	_	Word	Word	_	8	H	8:H	_
+34	that	_	Word	Word	_	36	R	36:R	_
+35	she	_	Word	Word	_	36	A	36:A	_
+36	received	_	Word	Word	_	33	A	33:A	_
+37	nothing	_	Word	Word	_	36	A	36:A	_
+38	from	_	Word	Word	_	40	R	40:R	_
+39	that	_	Word	Word	_	40	A	40:A	_
+40	investment	_	Word	Word	_	36	A	36:A	_
+41	.	_	Punctuation	Punctuation	_	40	U	40:U	_
+

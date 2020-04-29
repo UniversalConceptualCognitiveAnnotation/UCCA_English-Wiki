@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 636011
+# text = The supergroup , composed of Lennon , Eric Clapton , Keith Richards and Mitch Mitchell , also backed a vocal performance by Ono in the film .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	supergroup	_	Word	Word	_	18	A	18:A	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	composed	_	Word	Word	_	2	E	2:E	_
+5	of	_	Word	Word	_	6	R	6:R	_
+6	Lennon	_	Word	Word	_	4	A	4:A	_
+7	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	Eric	_	Word	Word	_	6	C	6:C	_
+9	Clapton	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+11	Keith	_	Word	Word	_	6	C	6:C	_
+12	Richards	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	and	_	Word	Word	_	6	N	6:N	_
+14	Mitch	_	Word	Word	_	6	C	6:C	_
+15	Mitchell	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+17	also	_	Word	Word	_	18	D	18:D	_
+18	backed	_	Word	Word	_	0	H	0:H	_
+19	a	_	Word	Word	_	21	E	21:E	_
+20	vocal	_	Word	Word	_	21	E	21:E	_
+21	performance	_	Word	Word	_	18	A	18:A	_
+22	by	_	Word	Word	_	23	R	23:R	_
+23	Ono	_	Word	Word	_	21	A	21:A	_
+24	in	_	Word	Word	_	26	R	26:R	_
+25	the	_	Word	Word	_	26	E	26:E	_
+26	film	_	Word	Word	_	18	A	18:A	_
+27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+

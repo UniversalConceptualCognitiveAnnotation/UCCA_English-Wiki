@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 1028011
+# text = The film was originally intended to be released to theaters , but due to financial issues , the film was released direct - to - video .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	film	_	Word	Word	_	8	A	8:A	_
+3	was	_	Word	Word	_	8	F	8:F	_
+4	originally	_	Word	Word	_	5	E	5:E	_
+5	intended	_	Word	Word	_	8	D	8:D	_
+6	to	_	Word	Word	_	8	F	8:F	_
+7	be	_	Word	Word	_	8	F	8:F	_
+8	released	_	Word	Word	_	0	H	0:H	_
+9	to	_	Word	Word	_	10	R	10:R	_
+10	theaters	_	Word	Word	_	8	A	8:A	_
+11	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+12	but	_	Word	Word	_	16	L	16:L	_
+13	due	_	Word	Word	_	16	L	16:L	_
+14	to	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	financial	_	Word	Word	_	16	A	16:A	_
+16	issues	_	Word	Word	_	8	H	8:H	_
+17	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+18	the	_	Word	Word	_	19	E	19:E	_
+19	film	_	Word	Word	_	21	A	21:A	_
+20	was	_	Word	Word	_	21	F	21:F	_
+21	released	_	Word	Word	_	8	H	8:H	_
+22	direct	_	Word	Word	_	21	D	21:D	_
+23	-	_	Punctuation	Punctuation	_	21	U	21:U	_
+24	to	_	Word	Word	_	26	R	26:R	_
+25	-	_	Punctuation	Punctuation	_	26	U	26:U	_
+26	video	_	Word	Word	_	21	A	21:A	_
+27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+

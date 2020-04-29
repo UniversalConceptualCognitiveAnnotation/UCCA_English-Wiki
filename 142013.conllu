@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 142013
+# text = The television movie The Corn Is Green ( 1979 ) , which was filmed in Wales , followed .
+1	The	_	Word	Word	_	4	E	4:E	_
+2	television	_	Word	Word	_	3	E	3:E	_
+3	movie	_	Word	Word	_	4	E	4:E	_
+4	The	_	Word	Word	_	18	A	18:A	_
+5	Corn	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	Is	_	Word	Word	_	4	Terminal	4:Terminal	_
+7	Green	_	Word	Word	_	4	Terminal	4:Terminal	_
+8	(	_	Punctuation	Punctuation	_	4	U	4:U	_
+9	1979	_	Word	Word	_	4	E	4:E	_
+10	)	_	Punctuation	Punctuation	_	4	U	4:U	_
+11	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+12	which	_	Word	Word	_	14	R	14:R	_
+13	was	_	Word	Word	_	14	F	14:F	_
+14	filmed	_	Word	Word	_	4	E	4:E	_
+15	in	_	Word	Word	_	16	R	16:R	_
+16	Wales	_	Word	Word	_	14	A	14:A	_
+17	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+18	followed	_	Word	Word	_	0	H	0:H	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 592013
+# text = Depp also acquired a vineyard estate in the Plan - de - la - Tour area in 2007 .
+1	Depp	_	Word	Word	_	3	A	3:A	_
+2	also	_	Word	Word	_	3	D	3:D	_
+3	acquired	_	Word	Word	_	0	H	0:H	_
+4	a	_	Word	Word	_	6	E	6:E	_
+5	vineyard	_	Word	Word	_	6	E	6:E	_
+6	estate	_	Word	Word	_	3	A	3:A	_
+7	in	_	Word	Word	_	9	R	9:R	_
+8	the	_	Word	Word	_	9	F	9:F	_
+9	Plan	_	Word	Word	_	6	E	6:E	_
+10	-	_	Punctuation	Punctuation	_	9	U	9:U	_
+11	de	_	Word	Word	_	9	Terminal	9:Terminal	_
+12	-	_	Punctuation	Punctuation	_	9	U	9:U	_
+13	la	_	Word	Word	_	9	Terminal	9:Terminal	_
+14	-	_	Punctuation	Punctuation	_	9	U	9:U	_
+15	Tour	_	Word	Word	_	9	Terminal	9:Terminal	_
+16	area	_	Word	Word	_	9	E	9:E	_
+17	in	_	Word	Word	_	18	R	18:R	_
+18	2007	_	Word	Word	_	3	T	3:T	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

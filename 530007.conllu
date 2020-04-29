@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 530007
+# text = In November 1959 , Garland was hospitalized , diagnosed with acute hepatitis .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	November	_	Word	Word	_	7	T	7:T	_
+3	1959	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+5	Garland	_	Word	Word	_	7	A	7:A|9:A	_
+6	was	_	Word	Word	_	7	F	7:F	_
+7	hospitalized	_	Word	Word	_	0	H	0:H	_
+8	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	diagnosed	_	Word	Word	_	7	H	7:H	_
+10	with	_	Word	Word	_	12	R	12:R	_
+11	acute	_	Word	Word	_	12	E	12:E	_
+12	hepatitis	_	Word	Word	_	9	A	9:A	_
+13	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+

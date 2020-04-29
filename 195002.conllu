@@ -1,0 +1,40 @@
+# format = ucca
+# sent_id = 195002
+# text = He admits that this approach can have its drawbacks , saying " Out of 88 [ West Wing ] episodes that I did we were on time and on budget never , not once . "
+1	He	_	Word	Word	_	2	A	2:A|11:A	_
+2	admits	_	Word	Word	_	0	H	0:H	_
+3	that	_	Word	Word	_	9	R	9:R	_
+4	this	_	Word	Word	_	5	E	5:E	_
+5	approach	_	Word	Word	_	9	A	9:A	_
+6	can	_	Word	Word	_	9	D	9:D	_
+7	have	_	Word	Word	_	9	F	9:F	_
+8	its	_	Word	Word	_	9	E	9:E	_
+9	drawbacks	_	Word	Word	_	2	A	2:A	_
+10	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+11	saying	_	Word	Word	_	2	H	2:H	_
+12	"	_	Punctuation	Punctuation	_	11	U	11:U	_
+13	Out	_	Word	Word	_	14	E	14:E	_
+14	of	_	Word	Word	_	20	R	20:R	_
+15	88	_	Word	Word	_	20	E	20:E	_
+16	[	_	Punctuation	Punctuation	_	20	U	20:U	_
+17	West	_	Word	Word	_	20	E	20:E	_
+18	Wing	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	]	_	Punctuation	Punctuation	_	20	U	20:U	_
+20	episodes	_	Word	Word	_	27	A	27:A|30:A	_
+21	that	_	Word	Word	_	23	R	23:R	_
+22	I	_	Word	Word	_	23	A	23:A	_
+23	did	_	Word	Word	_	20	E	20:E	_
+24	we	_	Word	Word	_	27	A	27:A|30:A	_
+25	were	_	Word	Word	_	27	F	27:F	_
+26	on	_	Word	Word	_	27	R	27:R	_
+27	time	_	Word	Word	_	11	A	11:A	_
+28	and	_	Word	Word	_	30	L	30:L	_
+29	on	_	Word	Word	_	30	R	30:R	_
+30	budget	_	Word	Word	_	27	H	27:H	_
+31	never	_	Word	Word	_	27	D	27:D|30:D	_
+32	,	_	Punctuation	Punctuation	_	27	U	27:U	_
+33	not	_	Word	Word	_	34	E	34:E	_
+34	once	_	Word	Word	_	27	D	27:D|30:D	_
+35	.	_	Punctuation	Punctuation	_	34	U	34:U	_
+36	"	_	Punctuation	Punctuation	_	34	U	34:U	_
+

@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 725005
+# text = Jolie returned to film in the 1998 gangster movie Hell 's Kitchen .
+1	Jolie	_	Word	Word	_	4	A	4:A	_
+2	returned	_	Word	Word	_	4	D	4:D	_
+3	to	_	Word	Word	_	4	R	4:R	_
+4	film	_	Word	Word	_	0	H	0:H	_
+5	in	_	Word	Word	_	10	R	10:R	_
+6	the	_	Word	Word	_	9	F	9:F	_
+7	1998	_	Word	Word	_	9	E	9:E	_
+8	gangster	_	Word	Word	_	9	E	9:E	_
+9	movie	_	Word	Word	_	10	E	10:E	_
+10	Hell	_	Word	Word	_	4	A	4:A	_
+11	's	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	Kitchen	_	Word	Word	_	10	Terminal	10:Terminal	_
+13	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+

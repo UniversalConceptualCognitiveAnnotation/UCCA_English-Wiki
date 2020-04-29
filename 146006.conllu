@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 146006
+# text = She also enjoyed painting , which became a passion later in life .
+1	She	_	Word	Word	_	4	A	4:A	_
+2	also	_	Word	Word	_	4	D	4:D	_
+3	enjoyed	_	Word	Word	_	4	D	4:D	_
+4	painting	_	Word	Word	_	0	H	0:H	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	which	_	Word	Word	_	9	L	9:L	_
+7	became	_	Word	Word	_	9	D	9:D	_
+8	a	_	Word	Word	_	9	F	9:F	_
+9	passion	_	Word	Word	_	4	H	4:H	_
+10	later	_	Word	Word	_	12	R	12:R	_
+11	in	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	life	_	Word	Word	_	9	T	9:T	_
+13	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+

@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 616010
+# text = The 70 - painting show featured portraits of Lennon , Andy Warhol and David Bowie .
+1	The	_	Word	Word	_	5	F	5:F	_
+2	70	_	Word	Word	_	4	Q	4:Q	_
+3	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+4	painting	_	Word	Word	_	5	A	5:A	_
+5	show	_	Word	Word	_	6	A	6:A	_
+6	featured	_	Word	Word	_	0	H	0:H	_
+7	portraits	_	Word	Word	_	6	A	6:A	_
+8	of	_	Word	Word	_	9	R	9:R	_
+9	Lennon	_	Word	Word	_	7	E	7:E	_
+10	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+11	Andy	_	Word	Word	_	9	C	9:C	_
+12	Warhol	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	and	_	Word	Word	_	9	N	9:N	_
+14	David	_	Word	Word	_	9	C	9:C	_
+15	Bowie	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

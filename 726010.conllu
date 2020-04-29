@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 726010
+# text = She was generally praised for her physical performance , but the movie generated mostly negative reviews .
+1	She	_	Word	Word	_	4	A	4:A	_
+2	was	_	Word	Word	_	4	F	4:F	_
+3	generally	_	Word	Word	_	4	D	4:D	_
+4	praised	_	Word	Word	_	0	H	0:H	_
+5	for	_	Word	Word	_	8	R	8:R	_
+6	her	_	Word	Word	_	8	A	8:A	_
+7	physical	_	Word	Word	_	8	A	8:A	_
+8	performance	_	Word	Word	_	4	A	4:A	_
+9	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+10	but	_	Word	Word	_	13	L	13:L	_
+11	the	_	Word	Word	_	12	E	12:E	_
+12	movie	_	Word	Word	_	13	A	13:A	_
+13	generated	_	Word	Word	_	4	H	4:H	_
+14	mostly	_	Word	Word	_	15	D	15:D	_
+15	negative	_	Word	Word	_	16	E	16:E	_
+16	reviews	_	Word	Word	_	13	A	13:A	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

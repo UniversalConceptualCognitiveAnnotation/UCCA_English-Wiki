@@ -1,0 +1,43 @@
+# format = ucca
+# sent_id = 560012
+# text = Parker arranged with the owners of Hill and Range Publishing , Jean and Julian Aberbach , to create two entities , Elvis Presley Music and Gladys Music , to handle all of the new material recorded by Presley .
+1	Parker	_	Word	Word	_	2	A	2:A|18:A	_
+2	arranged	_	Word	Word	_	0	H	0:H	_
+3	with	_	Word	Word	_	12	R	12:R	_
+4	the	_	Word	Word	_	5	E	5:E	_
+5	owners	_	Word	Word	_	12	E	12:E	_
+6	of	_	Word	Word	_	7	R	7:R	_
+7	Hill	_	Word	Word	_	5	A	5:A	_
+8	and	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	Range	_	Word	Word	_	7	Terminal	7:Terminal	_
+10	Publishing	_	Word	Word	_	7	E	7:E	_
+11	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+12	Jean	_	Word	Word	_	2	A	2:A	_
+13	and	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	Julian	_	Word	Word	_	12	Terminal	12:Terminal	_
+15	Aberbach	_	Word	Word	_	12	Terminal	12:Terminal	_
+16	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+17	to	_	Word	Word	_	18	F	18:F	_
+18	create	_	Word	Word	_	2	A	2:A	_
+19	two	_	Word	Word	_	20	Q	20:Q	_
+20	entities	_	Word	Word	_	22	E	22:E	_
+21	,	_	Punctuation	Punctuation	_	22	U	22:U	_
+22	Elvis	_	Word	Word	_	0	C	0:C|30:A	_
+23	Presley	_	Word	Word	_	22	Terminal	22:Terminal	_
+24	Music	_	Word	Word	_	22	Terminal	22:Terminal	_
+25	and	_	Word	Word	_	22	N	22:N	_
+26	Gladys	_	Word	Word	_	22	C	22:C	_
+27	Music	_	Word	Word	_	26	Terminal	26:Terminal	_
+28	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+29	to	_	Word	Word	_	30	L	30:L	_
+30	handle	_	Word	Word	_	2	H	2:H	_
+31	all	_	Word	Word	_	35	Q	35:Q	_
+32	of	_	Word	Word	_	35	R	35:R	_
+33	the	_	Word	Word	_	35	E	35:E	_
+34	new	_	Word	Word	_	35	E	35:E	_
+35	material	_	Word	Word	_	30	A	30:A	_
+36	recorded	_	Word	Word	_	35	E	35:E	_
+37	by	_	Word	Word	_	38	R	38:R	_
+38	Presley	_	Word	Word	_	36	A	36:A	_
+39	.	_	Punctuation	Punctuation	_	38	U	38:U	_
+

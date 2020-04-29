@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 141004
+# text = The studio disliked her changes , so Hepburn abandoned the project and was replaced with Maggie Smith .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	studio	_	Word	Word	_	3	A	3:A	_
+3	disliked	_	Word	Word	_	0	H	0:H	_
+4	her	_	Word	Word	_	5	A	5:A	_
+5	changes	_	Word	Word	_	3	A	3:A	_
+6	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+7	so	_	Word	Word	_	9	L	9:L	_
+8	Hepburn	_	Word	Word	_	9	A	9:A|14:A	_
+9	abandoned	_	Word	Word	_	3	H	3:H	_
+10	the	_	Word	Word	_	11	E	11:E	_
+11	project	_	Word	Word	_	9	A	9:A	_
+12	and	_	Word	Word	_	14	L	14:L	_
+13	was	_	Word	Word	_	14	F	14:F	_
+14	replaced	_	Word	Word	_	3	H	3:H	_
+15	with	_	Word	Word	_	16	R	16:R	_
+16	Maggie	_	Word	Word	_	14	A	14:A	_
+17	Smith	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

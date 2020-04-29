@@ -1,0 +1,51 @@
+# format = ucca
+# sent_id = 588007
+# text = Depp reprised the role of Jack Sparrow in the Pirates of the Caribbean sequels Dead Man 's Chest ( 2006 ) , At World 's End ( 2007 ) , and On Stranger Tides ( 2011 ) , which were each also major box office successes .
+1	Depp	_	Word	Word	_	2	A	2:A	_
+2	reprised	_	Word	Word	_	0	H	0:H	_
+3	the	_	Word	Word	_	4	E	4:E	_
+4	role	_	Word	Word	_	2	A	2:A	_
+5	of	_	Word	Word	_	6	R	6:R	_
+6	Jack	_	Word	Word	_	4	E	4:E	_
+7	Sparrow	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	in	_	Word	Word	_	15	R	15:R	_
+9	the	_	Word	Word	_	14	E	14:E	_
+10	Pirates	_	Word	Word	_	14	E	14:E	_
+11	of	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	the	_	Word	Word	_	10	Terminal	10:Terminal	_
+13	Caribbean	_	Word	Word	_	10	Terminal	10:Terminal	_
+14	sequels	_	Word	Word	_	15	E	15:E	_
+15	Dead	_	Word	Word	_	2	A	2:A	_
+16	Man	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	's	_	Word	Word	_	15	Terminal	15:Terminal	_
+18	Chest	_	Word	Word	_	15	Terminal	15:Terminal	_
+19	(	_	Punctuation	Punctuation	_	15	U	15:U	_
+20	2006	_	Word	Word	_	15	E	15:E	_
+21	)	_	Punctuation	Punctuation	_	15	U	15:U	_
+22	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+23	At	_	Word	Word	_	15	C	15:C	_
+24	World	_	Word	Word	_	23	Terminal	23:Terminal	_
+25	's	_	Word	Word	_	23	Terminal	23:Terminal	_
+26	End	_	Word	Word	_	23	Terminal	23:Terminal	_
+27	(	_	Punctuation	Punctuation	_	23	U	23:U	_
+28	2007	_	Word	Word	_	23	E	23:E	_
+29	)	_	Punctuation	Punctuation	_	15	U	15:U	_
+30	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+31	and	_	Word	Word	_	15	N	15:N	_
+32	On	_	Word	Word	_	15	C	15:C	_
+33	Stranger	_	Word	Word	_	32	Terminal	32:Terminal	_
+34	Tides	_	Word	Word	_	32	Terminal	32:Terminal	_
+35	(	_	Punctuation	Punctuation	_	32	U	32:U	_
+36	2011	_	Word	Word	_	32	E	32:E	_
+37	)	_	Punctuation	Punctuation	_	15	U	15:U	_
+38	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+39	which	_	Word	Word	_	46	R	46:R	_
+40	were	_	Word	Word	_	46	F	46:F	_
+41	each	_	Word	Word	_	46	D	46:D	_
+42	also	_	Word	Word	_	46	D	46:D	_
+43	major	_	Word	Word	_	46	D	46:D	_
+44	box	_	Word	Word	_	46	A	46:A	_
+45	office	_	Word	Word	_	44	Terminal	44:Terminal	_
+46	successes	_	Word	Word	_	15	E	15:E	_
+47	.	_	Punctuation	Punctuation	_	46	U	46:U	_
+

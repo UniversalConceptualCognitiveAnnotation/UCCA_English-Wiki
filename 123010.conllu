@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 123010
+# text = She struggled with the scholastic demands of university , and was once suspended for smoking in her room .
+1	She	_	Word	Word	_	2	A	2:A|13:A|15:A	_
+2	struggled	_	Word	Word	_	0	H	0:H	_
+3	with	_	Word	Word	_	6	R	6:R	_
+4	the	_	Word	Word	_	6	F	6:F	_
+5	scholastic	_	Word	Word	_	6	A	6:A	_
+6	demands	_	Word	Word	_	2	A	2:A	_
+7	of	_	Word	Word	_	8	R	8:R	_
+8	university	_	Word	Word	_	6	A	6:A	_
+9	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+10	and	_	Word	Word	_	13	L	13:L	_
+11	was	_	Word	Word	_	13	F	13:F	_
+12	once	_	Word	Word	_	13	D	13:D	_
+13	suspended	_	Word	Word	_	2	H	2:H	_
+14	for	_	Word	Word	_	15	L	15:L	_
+15	smoking	_	Word	Word	_	2	H	2:H	_
+16	in	_	Word	Word	_	18	R	18:R	_
+17	her	_	Word	Word	_	18	E	18:E	_
+18	room	_	Word	Word	_	15	A	15:A	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

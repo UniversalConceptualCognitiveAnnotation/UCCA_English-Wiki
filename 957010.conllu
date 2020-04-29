@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 957010
+# text = They filmed That Hamilton Woman ( 1941 ) with Olivier as Horatio Nelson and Leigh as Emma Hamilton .
+1	They	_	Word	Word	_	2	A	2:A	_
+2	filmed	_	Word	Word	_	0	H	0:H	_
+3	That	_	Word	Word	_	2	A	2:A	_
+4	Hamilton	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	Woman	_	Word	Word	_	3	Terminal	3:Terminal	_
+6	(	_	Punctuation	Punctuation	_	3	U	3:U	_
+7	1941	_	Word	Word	_	3	E	3:E	_
+8	)	_	Punctuation	Punctuation	_	2	U	2:U	_
+9	with	_	Word	Word	_	10	R	10:R	_
+10	Olivier	_	Word	Word	_	2	A	2:A	_
+11	as	_	Word	Word	_	10	E	10:E	_
+12	Horatio	_	Word	Word	_	11	A	11:A	_
+13	Nelson	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	and	_	Word	Word	_	10	N	10:N	_
+15	Leigh	_	Word	Word	_	10	C	10:C	_
+16	as	_	Word	Word	_	15	E	15:E	_
+17	Emma	_	Word	Word	_	16	A	16:A	_
+18	Hamilton	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

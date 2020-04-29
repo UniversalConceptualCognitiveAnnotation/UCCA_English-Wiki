@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 125003
+# text = In the spring of 1930 , Hepburn joined a stock company in Stockbridge , Massachusetts .
+1	In	_	Word	Word	_	3	R	3:R	_
+2	the	_	Word	Word	_	3	E	3:E	_
+3	spring	_	Word	Word	_	8	T	8:T	_
+4	of	_	Word	Word	_	5	R	5:R	_
+5	1930	_	Word	Word	_	3	C	3:C	_
+6	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	Hepburn	_	Word	Word	_	8	A	8:A	_
+8	joined	_	Word	Word	_	0	H	0:H	_
+9	a	_	Word	Word	_	11	E	11:E	_
+10	stock	_	Word	Word	_	11	E	11:E	_
+11	company	_	Word	Word	_	8	A	8:A	_
+12	in	_	Word	Word	_	13	R	13:R	_
+13	Stockbridge	_	Word	Word	_	11	E	11:E	_
+14	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+15	Massachusetts	_	Word	Word	_	13	C	13:C	_
+16	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 463000
+# text = American President George W. Bush and Canadian Prime Minister Paul Martin offered statements of condolence to the press .
+1	American	_	Word	Word	_	3	E	3:E	_
+2	President	_	Word	Word	_	1	A	1:A	_
+3	George	_	Word	Word	_	12	A	12:A	_
+4	W.	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	Bush	_	Word	Word	_	3	Terminal	3:Terminal	_
+6	and	_	Word	Word	_	3	N	3:N	_
+7	Canadian	_	Word	Word	_	10	E	10:E	_
+8	Prime	_	Word	Word	_	7	A	7:A	_
+9	Minister	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	Paul	_	Word	Word	_	3	C	3:C	_
+11	Martin	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	offered	_	Word	Word	_	0	H	0:H	_
+13	statements	_	Word	Word	_	12	A	12:A	_
+14	of	_	Word	Word	_	15	R	15:R	_
+15	condolence	_	Word	Word	_	13	E	13:E	_
+16	to	_	Word	Word	_	18	R	18:R	_
+17	the	_	Word	Word	_	18	E	18:E	_
+18	press	_	Word	Word	_	12	A	12:A	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

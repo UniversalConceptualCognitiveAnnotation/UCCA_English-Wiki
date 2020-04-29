@@ -1,0 +1,34 @@
+# format = ucca
+# sent_id = 675012
+# text = On June 14 , 2012 , Carey performed a three song set at a special fundraiser for United States President Barack Obama held in New York 's Plaza Hotel .
+1	On	_	Word	Word	_	2	R	2:R	_
+2	June	_	Word	Word	_	8	T	8:T	_
+3	14	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	2012	_	Word	Word	_	2	C	2:C	_
+6	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	Carey	_	Word	Word	_	8	A	8:A	_
+8	performed	_	Word	Word	_	0	H	0:H	_
+9	a	_	Word	Word	_	11	E	11:E	_
+10	three	_	Word	Word	_	11	Q	11:Q	_
+11	song	_	Word	Word	_	8	A	8:A	_
+12	set	_	Word	Word	_	11	Q	11:Q	_
+13	at	_	Word	Word	_	16	R	16:R	_
+14	a	_	Word	Word	_	16	F	16:F	_
+15	special	_	Word	Word	_	16	D	16:D	_
+16	fundraiser	_	Word	Word	_	8	A	8:A	_
+17	for	_	Word	Word	_	21	R	21:R	_
+18	United	_	Word	Word	_	20	A	20:A	_
+19	States	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	President	_	Word	Word	_	21	E	21:E	_
+21	Barack	_	Word	Word	_	16	A	16:A	_
+22	Obama	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	held	_	Word	Word	_	16	F	16:F	_
+24	in	_	Word	Word	_	25	R	25:R	_
+25	New	_	Word	Word	_	16	A	16:A	_
+26	York	_	Word	Word	_	25	Terminal	25:Terminal	_
+27	's	_	Word	Word	_	25	R	25:R	_
+28	Plaza	_	Word	Word	_	25	C	25:C	_
+29	Hotel	_	Word	Word	_	28	E	28:E	_
+30	.	_	Punctuation	Punctuation	_	28	U	28:U	_
+

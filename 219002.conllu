@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 219002
+# text = The feature received reasonable reviews , and earned $ 640 thousand worldwide .
+1	The	_	Word	Word	_	2	F	2:F	_
+2	feature	_	Word	Word	_	0	C	0:C|8:A	_
+3	received	_	Word	Word	_	5	D	5:D	_
+4	reasonable	_	Word	Word	_	5	D	5:D	_
+5	reviews	_	Word	Word	_	0	H	0:H	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	and	_	Word	Word	_	8	L	8:L	_
+8	earned	_	Word	Word	_	5	H	5:H	_
+9	$	_	Word	Word	_	8	A	8:A	_
+10	640	_	Word	Word	_	9	Q	9:Q	_
+11	thousand	_	Word	Word	_	10	C	10:C	_
+12	worldwide	_	Word	Word	_	8	A	8:A	_
+13	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+

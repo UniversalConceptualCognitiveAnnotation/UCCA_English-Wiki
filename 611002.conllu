@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 611002
+# text = These performances yielded the double live album Good Evening New York City later that year .
+1	These	_	Word	Word	_	2	E	2:E	_
+2	performances	_	Word	Word	_	3	A	3:A	_
+3	yielded	_	Word	Word	_	0	H	0:H	_
+4	the	_	Word	Word	_	7	F	7:F	_
+5	double	_	Word	Word	_	7	E	7:E	_
+6	live	_	Word	Word	_	7	E	7:E	_
+7	album	_	Word	Word	_	8	E	8:E	_
+8	Good	_	Word	Word	_	3	A	3:A	_
+9	Evening	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	New	_	Word	Word	_	8	Terminal	8:Terminal	_
+11	York	_	Word	Word	_	8	Terminal	8:Terminal	_
+12	City	_	Word	Word	_	8	Terminal	8:Terminal	_
+13	later	_	Word	Word	_	3	T	3:T	_
+14	that	_	Word	Word	_	15	E	15:E	_
+15	year	_	Word	Word	_	13	C	13:C	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

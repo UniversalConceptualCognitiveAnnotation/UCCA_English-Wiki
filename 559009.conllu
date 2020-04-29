@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 559009
+# text = Soon after , he failed an audition for Arthur Godfrey 's Talent Scouts on the CBS television network .
+1	Soon	_	Word	Word	_	2	E	2:E	_
+2	after	_	Word	Word	_	5	L	5:L	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	he	_	Word	Word	_	5	A	5:A	_
+5	failed	_	Word	Word	_	0	H	0:H	_
+6	an	_	Word	Word	_	7	E	7:E	_
+7	audition	_	Word	Word	_	5	A	5:A	_
+8	for	_	Word	Word	_	9	R	9:R	_
+9	Arthur	_	Word	Word	_	7	A	7:A	_
+10	Godfrey	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	's	_	Word	Word	_	9	Terminal	9:Terminal	_
+12	Talent	_	Word	Word	_	9	Terminal	9:Terminal	_
+13	Scouts	_	Word	Word	_	9	Terminal	9:Terminal	_
+14	on	_	Word	Word	_	16	R	16:R	_
+15	the	_	Word	Word	_	16	F	16:F	_
+16	CBS	_	Word	Word	_	7	A	7:A	_
+17	television	_	Word	Word	_	18	E	18:E	_
+18	network	_	Word	Word	_	16	E	16:E	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

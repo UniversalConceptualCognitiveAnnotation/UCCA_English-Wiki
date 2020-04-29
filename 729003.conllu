@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 729003
+# text = That same year , Jolie took on the lead role in Clint Eastwood 's drama Changeling .
+1	That	_	Word	Word	_	3	E	3:E	_
+2	same	_	Word	Word	_	3	E	3:E	_
+3	year	_	Word	Word	_	6	T	6:T	_
+4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	Jolie	_	Word	Word	_	6	A	6:A	_
+6	took	_	Word	Word	_	0	H	0:H	_
+7	on	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	the	_	Word	Word	_	10	E	10:E	_
+9	lead	_	Word	Word	_	10	E	10:E	_
+10	role	_	Word	Word	_	6	A	6:A	_
+11	in	_	Word	Word	_	16	R	16:R	_
+12	Clint	_	Word	Word	_	14	A	14:A	_
+13	Eastwood	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	's	_	Word	Word	_	15	E	15:E	_
+15	drama	_	Word	Word	_	16	E	16:E	_
+16	Changeling	_	Word	Word	_	10	E	10:E	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

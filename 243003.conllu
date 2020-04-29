@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 243003
+# text = In 1995 , he starred in the romantic drama Before Sunrise , and later in the 2004 sequel Before Sunset .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1995	_	Word	Word	_	5	T	5:T	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	he	_	Word	Word	_	5	A	5:A	_
+5	starred	_	Word	Word	_	0	H	0:H	_
+6	in	_	Word	Word	_	10	R	10:R	_
+7	the	_	Word	Word	_	10	F	10:F	_
+8	romantic	_	Word	Word	_	9	E	9:E	_
+9	drama	_	Word	Word	_	10	E	10:E	_
+10	Before	_	Word	Word	_	5	A	5:A	_
+11	Sunrise	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+13	and	_	Word	Word	_	19	L	19:L	_
+14	later	_	Word	Word	_	19	D	19:D	_
+15	in	_	Word	Word	_	19	R	19:R	_
+16	the	_	Word	Word	_	19	F	19:F	_
+17	2004	_	Word	Word	_	19	E	19:E	_
+18	sequel	_	Word	Word	_	19	E	19:E	_
+19	Before	_	Word	Word	_	5	H	5:H	_
+20	Sunset	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

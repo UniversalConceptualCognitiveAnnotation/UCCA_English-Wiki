@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 669006
+# text = Lasting over eight months , the Charmbracelet World Tour : An Intimate Evening with Mariah Carey , became her most extensive tour to date , spanning sixty - nine shows around the world .
+1	Lasting	_	Word	Word	_	0	H	0:H	_
+2	over	_	Word	Word	_	4	R	4:R	_
+3	eight	_	Word	Word	_	4	E	4:E	_
+4	months	_	Word	Word	_	1	D	1:D	_
+5	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+6	the	_	Word	Word	_	9	E	9:E	_
+7	Charmbracelet	_	Word	Word	_	9	E	9:E	_
+8	World	_	Word	Word	_	9	E	9:E	_
+9	Tour	_	Word	Word	_	0	C	0:C|1:A	_
+10	:	_	Punctuation	Punctuation	_	9	U	9:U	_
+11	An	_	Word	Word	_	13	E	13:E	_
+12	Intimate	_	Word	Word	_	13	E	13:E	_
+13	Evening	_	Word	Word	_	9	E	9:E	_
+14	with	_	Word	Word	_	15	R	15:R	_
+15	Mariah	_	Word	Word	_	13	E	13:E	_
+16	Carey	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+18	became	_	Word	Word	_	1	H	1:H	_
+19	her	_	Word	Word	_	22	E	22:E	_
+20	most	_	Word	Word	_	22	E	22:E	_
+21	extensive	_	Word	Word	_	22	E	22:E	_
+22	tour	_	Word	Word	_	0	C	0:C|26:A	_
+23	to	_	Word	Word	_	24	R	24:R	_
+24	date	_	Word	Word	_	22	E	22:E	_
+25	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+26	spanning	_	Word	Word	_	1	H	1:H	_
+27	sixty	_	Word	Word	_	30	E	30:E	_
+28	-	_	Punctuation	Punctuation	_	27	U	27:U	_
+29	nine	_	Word	Word	_	27	Terminal	27:Terminal	_
+30	shows	_	Word	Word	_	26	A	26:A	_
+31	around	_	Word	Word	_	33	R	33:R	_
+32	the	_	Word	Word	_	33	E	33:E	_
+33	world	_	Word	Word	_	30	E	30:E	_
+34	.	_	Punctuation	Punctuation	_	33	U	33:U	_
+

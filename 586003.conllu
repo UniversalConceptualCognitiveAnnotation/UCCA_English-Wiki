@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 586003
+# text = He played with The Kids , a band that enjoyed modest local success .
+1	He	_	Word	Word	_	2	A	2:A	_
+2	played	_	Word	Word	_	0	H	0:H	_
+3	with	_	Word	Word	_	4	R	4:R	_
+4	The	_	Word	Word	_	2	A	2:A	_
+5	Kids	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+7	a	_	Word	Word	_	8	E	8:E	_
+8	band	_	Word	Word	_	0	C	0:C|13:A	_
+9	that	_	Word	Word	_	13	R	13:R	_
+10	enjoyed	_	Word	Word	_	13	D	13:D	_
+11	modest	_	Word	Word	_	13	D	13:D	_
+12	local	_	Word	Word	_	13	A	13:A	_
+13	success	_	Word	Word	_	8	E	8:E	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

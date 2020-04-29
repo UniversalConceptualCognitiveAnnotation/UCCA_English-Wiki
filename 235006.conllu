@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 235006
+# text = Chan went on to say , " If you 're too free , you 're like the way Hong Kong is now . It 's very chaotic . Taiwan is also chaotic . "
+1	Chan	_	Word	Word	_	2	A	2:A	_
+2	went	_	Word	Word	_	0	H	0:H	_
+3	on	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	to	_	Word	Word	_	2	Terminal	2:Terminal	_
+5	say	_	Word	Word	_	2	Terminal	2:Terminal	_
+6	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+7	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+8	If	_	Word	Word	_	16	L	16:L	_
+9	you	_	Word	Word	_	12	A	12:A	_
+10	're	_	Word	Word	_	12	F	12:F	_
+11	too	_	Word	Word	_	12	D	12:D	_
+12	free	_	Word	Word	_	2	A	2:A	_
+13	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+14	you	_	Word	Word	_	16	A	16:A	_
+15	're	_	Word	Word	_	16	F	16:F	_
+16	like	_	Word	Word	_	12	H	12:H	_
+17	the	_	Word	Word	_	18	F	18:F	_
+18	way	_	Word	Word	_	16	A	16:A	_
+19	Hong	_	Word	Word	_	18	E	18:E	_
+20	Kong	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	is	_	Word	Word	_	19	F	19:F	_
+22	now	_	Word	Word	_	19	D	19:D	_
+23	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+24	It	_	Word	Word	_	27	A	27:A	_
+25	's	_	Word	Word	_	27	F	27:F	_
+26	very	_	Word	Word	_	27	D	27:D	_
+27	chaotic	_	Word	Word	_	12	H	12:H	_
+28	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+29	Taiwan	_	Word	Word	_	32	A	32:A	_
+30	is	_	Word	Word	_	32	F	32:F	_
+31	also	_	Word	Word	_	32	D	32:D	_
+32	chaotic	_	Word	Word	_	12	H	12:H	_
+33	.	_	Punctuation	Punctuation	_	32	U	32:U	_
+34	"	_	Punctuation	Punctuation	_	32	U	32:U	_
+

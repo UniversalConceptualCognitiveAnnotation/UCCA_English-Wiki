@@ -1,0 +1,49 @@
+# format = ucca
+# sent_id = 140001
+# text = She received numerous scripts and chose to play Eleanor of Aquitaine in The Lion In Winter ( 1968 ) , a part she called " fascinating " . She read extensively in preparation for the role , in which she starred opposite Peter O'Toole .
+1	She	_	Word	Word	_	2	A	2:A|6:A|8:A	_
+2	received	_	Word	Word	_	0	H	0:H	_
+3	numerous	_	Word	Word	_	4	Q	4:Q	_
+4	scripts	_	Word	Word	_	2	A	2:A	_
+5	and	_	Word	Word	_	6	L	6:L	_
+6	chose	_	Word	Word	_	2	H	2:H	_
+7	to	_	Word	Word	_	8	F	8:F	_
+8	play	_	Word	Word	_	6	A	6:A	_
+9	Eleanor	_	Word	Word	_	8	A	8:A	_
+10	of	_	Word	Word	_	11	R	11:R	_
+11	Aquitaine	_	Word	Word	_	9	E	9:E	_
+12	in	_	Word	Word	_	13	R	13:R	_
+13	The	_	Word	Word	_	8	A	8:A	_
+14	Lion	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	In	_	Word	Word	_	13	Terminal	13:Terminal	_
+16	Winter	_	Word	Word	_	13	Terminal	13:Terminal	_
+17	(	_	Punctuation	Punctuation	_	13	U	13:U	_
+18	1968	_	Word	Word	_	13	E	13:E	_
+19	)	_	Punctuation	Punctuation	_	2	U	2:U	_
+20	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+21	a	_	Word	Word	_	22	E	22:E	_
+22	part	_	Word	Word	_	24	A	24:A	_
+23	she	_	Word	Word	_	24	A	24:A	_
+24	called	_	Word	Word	_	2	H	2:H	_
+25	"	_	Punctuation	Punctuation	_	24	U	24:U	_
+26	fascinating	_	Word	Word	_	24	A	24:A	_
+27	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+28	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+29	She	_	Word	Word	_	30	A	30:A	_
+30	read	_	Word	Word	_	2	H	2:H	_
+31	extensively	_	Word	Word	_	30	D	30:D	_
+32	in	_	Word	Word	_	33	R	33:R	_
+33	preparation	_	Word	Word	_	30	D	30:D	_
+34	for	_	Word	Word	_	36	R	36:R	_
+35	the	_	Word	Word	_	36	E	36:E	_
+36	role	_	Word	Word	_	30	A	30:A	_
+37	,	_	Punctuation	Punctuation	_	36	U	36:U	_
+38	in	_	Word	Word	_	41	R	41:R	_
+39	which	_	Word	Word	_	41	F	41:F	_
+40	she	_	Word	Word	_	41	A	41:A	_
+41	starred	_	Word	Word	_	36	E	36:E	_
+42	opposite	_	Word	Word	_	43	R	43:R	_
+43	Peter	_	Word	Word	_	41	A	41:A	_
+44	O'Toole	_	Word	Word	_	43	Terminal	43:Terminal	_
+45	.	_	Punctuation	Punctuation	_	43	U	43:U	_
+

@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 668010
+# text = Later that year , she signed a contract with Island Records , valued at more than $ 24 million , and launched the record label MonarC .
+1	Later	_	Word	Word	_	3	R	3:R	_
+2	that	_	Word	Word	_	3	E	3:E	_
+3	year	_	Word	Word	_	6	D	6:D	_
+4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	she	_	Word	Word	_	6	A	6:A|22:A	_
+6	signed	_	Word	Word	_	0	H	0:H	_
+7	a	_	Word	Word	_	8	E	8:E	_
+8	contract	_	Word	Word	_	6	A	6:A	_
+9	with	_	Word	Word	_	10	R	10:R	_
+10	Island	_	Word	Word	_	8	E	8:E	_
+11	Records	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+13	valued	_	Word	Word	_	8	E	8:E	_
+14	at	_	Word	Word	_	17	R	17:R	_
+15	more	_	Word	Word	_	17	E	17:E	_
+16	than	_	Word	Word	_	15	R	15:R	_
+17	$	_	Word	Word	_	13	A	13:A	_
+18	24	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	million	_	Word	Word	_	17	Terminal	17:Terminal	_
+20	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+21	and	_	Word	Word	_	22	L	22:L	_
+22	launched	_	Word	Word	_	6	H	6:H	_
+23	the	_	Word	Word	_	26	E	26:E	_
+24	record	_	Word	Word	_	25	E	25:E	_
+25	label	_	Word	Word	_	26	E	26:E	_
+26	MonarC	_	Word	Word	_	22	A	22:A	_
+27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+

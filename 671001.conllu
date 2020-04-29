@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 671001
+# text = The tour spanned forty stops , with thirty - two in the United States and Canada , two in Africa , and six in Japan .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	tour	_	Word	Word	_	3	A	3:A	_
+3	spanned	_	Word	Word	_	0	H	0:H	_
+4	forty	_	Word	Word	_	5	E	5:E	_
+5	stops	_	Word	Word	_	3	A	3:A	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	with	_	Word	Word	_	8	R	8:R	_
+8	thirty	_	Word	Word	_	5	E	5:E	_
+9	-	_	Punctuation	Punctuation	_	8	U	8:U	_
+10	two	_	Word	Word	_	8	Terminal	8:Terminal	_
+11	in	_	Word	Word	_	13	R	13:R	_
+12	the	_	Word	Word	_	13	E	13:E	_
+13	United	_	Word	Word	_	8	E	8:E	_
+14	States	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	and	_	Word	Word	_	13	N	13:N	_
+16	Canada	_	Word	Word	_	13	C	13:C	_
+17	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+18	two	_	Word	Word	_	8	C	8:C	_
+19	in	_	Word	Word	_	20	R	20:R	_
+20	Africa	_	Word	Word	_	18	E	18:E	_
+21	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+22	and	_	Word	Word	_	8	N	8:N	_
+23	six	_	Word	Word	_	8	C	8:C	_
+24	in	_	Word	Word	_	25	R	25:R	_
+25	Japan	_	Word	Word	_	23	E	23:E	_
+26	.	_	Punctuation	Punctuation	_	25	U	25:U	_
+

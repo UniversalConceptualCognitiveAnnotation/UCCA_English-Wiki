@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 529005
+# text = Garland won the Golden Globe Award for Best Actress in a Musical for the role .
+1	Garland	_	Word	Word	_	2	A	2:A	_
+2	won	_	Word	Word	_	0	H	0:H	_
+3	the	_	Word	Word	_	4	F	4:F	_
+4	Golden	_	Word	Word	_	2	A	2:A	_
+5	Globe	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	Award	_	Word	Word	_	4	E	4:E	_
+7	for	_	Word	Word	_	9	R	9:R	_
+8	Best	_	Word	Word	_	9	D	9:D	_
+9	Actress	_	Word	Word	_	4	E	4:E	_
+10	in	_	Word	Word	_	12	R	12:R	_
+11	a	_	Word	Word	_	12	F	12:F	_
+12	Musical	_	Word	Word	_	9	A	9:A	_
+13	for	_	Word	Word	_	15	R	15:R	_
+14	the	_	Word	Word	_	15	F	15:F	_
+15	role	_	Word	Word	_	2	A	2:A	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

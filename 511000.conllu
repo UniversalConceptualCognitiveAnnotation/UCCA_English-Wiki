@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 511000
+# text = Bowie was awarded the Grammy Lifetime Achievement Award on 8 February 2006 .
+1	Bowie	_	Word	Word	_	3	A	3:A	_
+2	was	_	Word	Word	_	3	F	3:F	_
+3	awarded	_	Word	Word	_	0	H	0:H	_
+4	the	_	Word	Word	_	8	E	8:E	_
+5	Grammy	_	Word	Word	_	8	E	8:E	_
+6	Lifetime	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	Achievement	_	Word	Word	_	5	Terminal	5:Terminal	_
+8	Award	_	Word	Word	_	3	A	3:A	_
+9	on	_	Word	Word	_	10	R	10:R	_
+10	8	_	Word	Word	_	3	T	3:T	_
+11	February	_	Word	Word	_	10	C	10:C	_
+12	2006	_	Word	Word	_	10	C	10:C	_
+13	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+

@@ -1,0 +1,37 @@
+# format = ucca
+# sent_id = 547011
+# text = Meanwhile , Lehman and the film 's director , Mike Nichols , battled with studio executives and exhibitors who insisted that the film be shot in color rather than black and white .
+1	Meanwhile	_	Word	Word	_	13	L	13:L	_
+2	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+3	Lehman	_	Word	Word	_	13	A	13:A	_
+4	and	_	Word	Word	_	3	N	3:N	_
+5	the	_	Word	Word	_	8	F	8:F	_
+6	film	_	Word	Word	_	8	A	8:A	_
+7	's	_	Word	Word	_	6	R	6:R	_
+8	director	_	Word	Word	_	10	E	10:E	_
+9	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+10	Mike	_	Word	Word	_	3	C	3:C	_
+11	Nichols	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+13	battled	_	Word	Word	_	0	H	0:H	_
+14	with	_	Word	Word	_	16	R	16:R	_
+15	studio	_	Word	Word	_	16	A	16:A|18:A	_
+16	executives	_	Word	Word	_	13	A	13:A	_
+17	and	_	Word	Word	_	18	L	18:L	_
+18	exhibitors	_	Word	Word	_	16	H	16:H	_
+19	who	_	Word	Word	_	20	R	20:R	_
+20	insisted	_	Word	Word	_	16	E	16:E	_
+21	that	_	Word	Word	_	25	R	25:R	_
+22	the	_	Word	Word	_	23	F	23:F	_
+23	film	_	Word	Word	_	0	C	0:C|30:A	_
+24	be	_	Word	Word	_	25	F	25:F	_
+25	shot	_	Word	Word	_	20	A	20:A	_
+26	in	_	Word	Word	_	27	R	27:R	_
+27	color	_	Word	Word	_	25	A	25:A	_
+28	rather	_	Word	Word	_	30	L	30:L	_
+29	than	_	Word	Word	_	28	Terminal	28:Terminal	_
+30	black	_	Word	Word	_	25	H	25:H	_
+31	and	_	Word	Word	_	30	Terminal	30:Terminal	_
+32	white	_	Word	Word	_	30	Terminal	30:Terminal	_
+33	.	_	Punctuation	Punctuation	_	30	U	30:U	_
+

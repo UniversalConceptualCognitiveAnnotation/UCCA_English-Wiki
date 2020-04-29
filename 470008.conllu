@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 470008
+# text = During the Finals , Johnson averaged 18.0 points on .560 shooting , 13.6 assists , and 7.7 rebounds per game .
+1	During	_	Word	Word	_	6	L	6:L	_
+2	the	_	Word	Word	_	3	E	3:E	_
+3	Finals	_	Word	Word	_	0	H	0:H	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	Johnson	_	Word	Word	_	6	A	6:A|11:A|14:A|18:A	_
+6	averaged	_	Word	Word	_	3	H	3:H	_
+7	18.0	_	Word	Word	_	8	Q	8:Q	_
+8	points	_	Word	Word	_	6	A	6:A	_
+9	on	_	Word	Word	_	11	R	11:R	_
+10	.560	_	Word	Word	_	11	Q	11:Q	_
+11	shooting	_	Word	Word	_	8	E	8:E	_
+12	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+13	13.6	_	Word	Word	_	14	Q	14:Q	_
+14	assists	_	Word	Word	_	8	C	8:C	_
+15	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+16	and	_	Word	Word	_	8	N	8:N	_
+17	7.7	_	Word	Word	_	18	Q	18:Q	_
+18	rebounds	_	Word	Word	_	8	C	8:C	_
+19	per	_	Word	Word	_	20	R	20:R	_
+20	game	_	Word	Word	_	8	E	8:E	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+

@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 616006
+# text = McCartney became involved in the renovation and publicising of the Indica Gallery in Mason 's Yard , London , which Barry Miles had co - founded and where Lennon first met Yoko Ono .
+1	McCartney	_	Word	Word	_	6	A	6:A	_
+2	became	_	Word	Word	_	3	E	3:E	_
+3	involved	_	Word	Word	_	6	D	6:D	_
+4	in	_	Word	Word	_	6	R	6:R	_
+5	the	_	Word	Word	_	6	F	6:F	_
+6	renovation	_	Word	Word	_	0	H	0:H	_
+7	and	_	Word	Word	_	6	N	6:N	_
+8	publicising	_	Word	Word	_	6	C	6:C	_
+9	of	_	Word	Word	_	11	R	11:R	_
+10	the	_	Word	Word	_	11	F	11:F	_
+11	Indica	_	Word	Word	_	6	A	6:A	_
+12	Gallery	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	in	_	Word	Word	_	16	R	16:R	_
+14	Mason	_	Word	Word	_	16	E	16:E	_
+15	's	_	Word	Word	_	14	R	14:R	_
+16	Yard	_	Word	Word	_	11	E	11:E	_
+17	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+18	London	_	Word	Word	_	16	C	16:C	_
+19	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+20	which	_	Word	Word	_	26	R	26:R	_
+21	Barry	_	Word	Word	_	26	A	26:A	_
+22	Miles	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	had	_	Word	Word	_	26	F	26:F	_
+24	co	_	Word	Word	_	26	D	26:D	_
+25	-	_	Punctuation	Punctuation	_	26	U	26:U	_
+26	founded	_	Word	Word	_	11	E	11:E	_
+27	and	_	Word	Word	_	31	L	31:L	_
+28	where	_	Word	Word	_	31	R	31:R	_
+29	Lennon	_	Word	Word	_	31	A	31:A	_
+30	first	_	Word	Word	_	31	D	31:D	_
+31	met	_	Word	Word	_	26	H	26:H	_
+32	Yoko	_	Word	Word	_	31	A	31:A	_
+33	Ono	_	Word	Word	_	32	Terminal	32:Terminal	_
+34	.	_	Punctuation	Punctuation	_	31	U	31:U	_
+

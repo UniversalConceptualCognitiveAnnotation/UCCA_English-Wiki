@@ -1,0 +1,49 @@
+# format = ucca
+# sent_id = 520005
+# text = Her father was descended from the Marable family of Virginia ; her maternal grandfather from the Milnes of Aberdeen , Scotland ; and her maternal grandmother from Patrick Fitzpatrick , who emigrated to America in the 1770s from Smithstown , County Meath , Ireland .
+1	Her	_	Word	Word	_	2	A	2:A	_
+2	father	_	Word	Word	_	4	A	4:A	_
+3	was	_	Word	Word	_	4	F	4:F	_
+4	descended	_	Word	Word	_	0	H	0:H	_
+5	from	_	Word	Word	_	7	R	7:R	_
+6	the	_	Word	Word	_	7	F	7:F	_
+7	Marable	_	Word	Word	_	4	A	4:A	_
+8	family	_	Word	Word	_	7	E	7:E	_
+9	of	_	Word	Word	_	10	R	10:R	_
+10	Virginia	_	Word	Word	_	7	E	7:E	_
+11	;	_	Punctuation	Punctuation	_	4	U	4:U	_
+12	her	_	Word	Word	_	4	H	4:H	_
+13	maternal	_	Word	Word	_	12	D	12:D	_
+14	grandfather	_	Word	Word	_	12	A	12:A	_
+15	from	_	Word	Word	_	17	R	17:R	_
+16	the	_	Word	Word	_	17	F	17:F	_
+17	Milnes	_	Word	Word	_	12	A	12:A	_
+18	of	_	Word	Word	_	19	R	19:R	_
+19	Aberdeen	_	Word	Word	_	17	E	17:E	_
+20	,	_	Punctuation	Punctuation	_	19	U	19:U	_
+21	Scotland	_	Word	Word	_	19	C	19:C	_
+22	;	_	Punctuation	Punctuation	_	4	U	4:U	_
+23	and	_	Word	Word	_	26	L	26:L	_
+24	her	_	Word	Word	_	26	A	26:A	_
+25	maternal	_	Word	Word	_	26	D	26:D	_
+26	grandmother	_	Word	Word	_	4	H	4:H	_
+27	from	_	Word	Word	_	28	R	28:R	_
+28	Patrick	_	Word	Word	_	26	A	26:A	_
+29	Fitzpatrick	_	Word	Word	_	28	Terminal	28:Terminal	_
+30	,	_	Punctuation	Punctuation	_	28	U	28:U	_
+31	who	_	Word	Word	_	32	R	32:R	_
+32	emigrated	_	Word	Word	_	28	E	28:E	_
+33	to	_	Word	Word	_	34	R	34:R	_
+34	America	_	Word	Word	_	32	A	32:A	_
+35	in	_	Word	Word	_	37	R	37:R	_
+36	the	_	Word	Word	_	37	F	37:F	_
+37	1770s	_	Word	Word	_	32	T	32:T	_
+38	from	_	Word	Word	_	39	R	39:R	_
+39	Smithstown	_	Word	Word	_	32	A	32:A	_
+40	,	_	Punctuation	Punctuation	_	39	U	39:U	_
+41	County	_	Word	Word	_	39	C	39:C	_
+42	Meath	_	Word	Word	_	41	Terminal	41:Terminal	_
+43	,	_	Punctuation	Punctuation	_	39	U	39:U	_
+44	Ireland	_	Word	Word	_	39	C	39:C	_
+45	.	_	Punctuation	Punctuation	_	39	U	39:U	_
+

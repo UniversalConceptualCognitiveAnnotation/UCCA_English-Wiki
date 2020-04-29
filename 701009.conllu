@@ -1,0 +1,54 @@
+# format = ucca
+# sent_id = 701009
+# text = In November 1968 , Dylan had co - written " I 'd Have You Anytime " with George Harrison ; Harrison recorded both " I 'd Have You Anytime " and Dylan 's " If Not for You " for his 1970 solo triple album All Things Must Pass .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	November	_	Word	Word	_	9	T	9:T	_
+3	1968	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+5	Dylan	_	Word	Word	_	9	A	9:A	_
+6	had	_	Word	Word	_	9	F	9:F	_
+7	co	_	Word	Word	_	9	D	9:D	_
+8	-	_	Punctuation	Punctuation	_	9	U	9:U	_
+9	written	_	Word	Word	_	0	H	0:H	_
+10	"	_	Punctuation	Punctuation	_	9	U	9:U	_
+11	I	_	Word	Word	_	9	A	9:A	_
+12	'd	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	Have	_	Word	Word	_	11	Terminal	11:Terminal	_
+14	You	_	Word	Word	_	11	Terminal	11:Terminal	_
+15	Anytime	_	Word	Word	_	11	Terminal	11:Terminal	_
+16	"	_	Punctuation	Punctuation	_	9	U	9:U	_
+17	with	_	Word	Word	_	18	R	18:R	_
+18	George	_	Word	Word	_	9	A	9:A	_
+19	Harrison	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	;	_	Punctuation	Punctuation	_	9	U	9:U	_
+21	Harrison	_	Word	Word	_	22	A	22:A	_
+22	recorded	_	Word	Word	_	9	H	9:H	_
+23	both	_	Word	Word	_	25	Q	25:Q	_
+24	"	_	Punctuation	Punctuation	_	25	U	25:U	_
+25	I	_	Word	Word	_	22	A	22:A	_
+26	'd	_	Word	Word	_	25	Terminal	25:Terminal	_
+27	Have	_	Word	Word	_	25	Terminal	25:Terminal	_
+28	You	_	Word	Word	_	25	Terminal	25:Terminal	_
+29	Anytime	_	Word	Word	_	25	Terminal	25:Terminal	_
+30	"	_	Punctuation	Punctuation	_	25	U	25:U	_
+31	and	_	Word	Word	_	25	N	25:N	_
+32	Dylan	_	Word	Word	_	33	A	33:A	_
+33	's	_	Word	Word	_	35	E	35:E	_
+34	"	_	Punctuation	Punctuation	_	33	U	33:U	_
+35	If	_	Word	Word	_	25	C	25:C	_
+36	Not	_	Word	Word	_	35	Terminal	35:Terminal	_
+37	for	_	Word	Word	_	35	Terminal	35:Terminal	_
+38	You	_	Word	Word	_	35	Terminal	35:Terminal	_
+39	"	_	Punctuation	Punctuation	_	22	U	22:U	_
+40	for	_	Word	Word	_	46	R	46:R	_
+41	his	_	Word	Word	_	45	E	45:E	_
+42	1970	_	Word	Word	_	45	E	45:E	_
+43	solo	_	Word	Word	_	45	E	45:E	_
+44	triple	_	Word	Word	_	45	E	45:E	_
+45	album	_	Word	Word	_	46	E	46:E	_
+46	All	_	Word	Word	_	22	A	22:A	_
+47	Things	_	Word	Word	_	46	Terminal	46:Terminal	_
+48	Must	_	Word	Word	_	46	Terminal	46:Terminal	_
+49	Pass	_	Word	Word	_	46	Terminal	46:Terminal	_
+50	.	_	Punctuation	Punctuation	_	46	U	46:U	_
+

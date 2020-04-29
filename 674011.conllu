@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 674011
+# text = On April 30 , 2011 , the couple 's third wedding anniversary , Carey gave birth to fraternal twins via C - section .
+1	On	_	Word	Word	_	2	R	2:R	_
+2	April	_	Word	Word	_	16	T	16:T	_
+3	30	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	2011	_	Word	Word	_	2	C	2:C	_
+6	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+7	the	_	Word	Word	_	12	E	12:E	_
+8	couple	_	Word	Word	_	9	A	9:A	_
+9	's	_	Word	Word	_	12	E	12:E	_
+10	third	_	Word	Word	_	12	Q	12:Q	_
+11	wedding	_	Word	Word	_	12	E	12:E	_
+12	anniversary	_	Word	Word	_	2	E	2:E	_
+13	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+14	Carey	_	Word	Word	_	16	A	16:A	_
+15	gave	_	Word	Word	_	16	F	16:F	_
+16	birth	_	Word	Word	_	0	H	0:H	_
+17	to	_	Word	Word	_	19	R	19:R	_
+18	fraternal	_	Word	Word	_	19	A	19:A	_
+19	twins	_	Word	Word	_	16	A	16:A	_
+20	via	_	Word	Word	_	21	L	21:L	_
+21	C	_	Word	Word	_	16	H	16:H	_
+22	-	_	Punctuation	Punctuation	_	21	U	21:U	_
+23	section	_	Word	Word	_	21	Terminal	21:Terminal	_
+24	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

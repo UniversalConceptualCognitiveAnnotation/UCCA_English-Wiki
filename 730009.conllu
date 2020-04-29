@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 730009
+# text = In February 2013 , it was announced that Jolie will be teaming up with the Coen brothers to tell the story of World War II hero Louis Zamperini .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	February	_	Word	Word	_	7	T	7:T	_
+3	2013	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+5	it	_	Word	Word	_	7	F	7:F	_
+6	was	_	Word	Word	_	7	F	7:F	_
+7	announced	_	Word	Word	_	0	H	0:H	_
+8	that	_	Word	Word	_	12	R	12:R	_
+9	Jolie	_	Word	Word	_	12	A	12:A|19:A	_
+10	will	_	Word	Word	_	12	F	12:F	_
+11	be	_	Word	Word	_	12	F	12:F	_
+12	teaming	_	Word	Word	_	7	A	7:A	_
+13	up	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	with	_	Word	Word	_	16	R	16:R	_
+15	the	_	Word	Word	_	16	E	16:E	_
+16	Coen	_	Word	Word	_	0	C	0:C|19:A	_
+17	brothers	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	to	_	Word	Word	_	19	L	19:L	_
+19	tell	_	Word	Word	_	7	H	7:H	_
+20	the	_	Word	Word	_	21	E	21:E	_
+21	story	_	Word	Word	_	19	A	19:A	_
+22	of	_	Word	Word	_	27	R	27:R	_
+23	World	_	Word	Word	_	26	A	26:A	_
+24	War	_	Word	Word	_	23	Terminal	23:Terminal	_
+25	II	_	Word	Word	_	23	Terminal	23:Terminal	_
+26	hero	_	Word	Word	_	27	E	27:E	_
+27	Louis	_	Word	Word	_	21	A	21:A	_
+28	Zamperini	_	Word	Word	_	27	Terminal	27:Terminal	_
+29	.	_	Punctuation	Punctuation	_	27	U	27:U	_
+

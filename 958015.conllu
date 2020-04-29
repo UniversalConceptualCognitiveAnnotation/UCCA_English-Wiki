@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 958015
+# text = Olivier slapped her face , and Leigh slapped him in return and swore at him before she made her way to the stage .
+1	Olivier	_	Word	Word	_	2	A	2:A	_
+2	slapped	_	Word	Word	_	0	H	0:H	_
+3	her	_	Word	Word	_	4	E	4:E	_
+4	face	_	Word	Word	_	2	A	2:A	_
+5	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+6	and	_	Word	Word	_	8	L	8:L	_
+7	Leigh	_	Word	Word	_	8	A	8:A|13:A	_
+8	slapped	_	Word	Word	_	2	H	2:H	_
+9	him	_	Word	Word	_	8	A	8:A	_
+10	in	_	Word	Word	_	11	R	11:R	_
+11	return	_	Word	Word	_	8	D	8:D	_
+12	and	_	Word	Word	_	13	L	13:L	_
+13	swore	_	Word	Word	_	2	H	2:H	_
+14	at	_	Word	Word	_	15	R	15:R	_
+15	him	_	Word	Word	_	13	A	13:A	_
+16	before	_	Word	Word	_	18	L	18:L	_
+17	she	_	Word	Word	_	18	A	18:A	_
+18	made	_	Word	Word	_	2	H	2:H	_
+19	her	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	way	_	Word	Word	_	18	Terminal	18:Terminal	_
+21	to	_	Word	Word	_	23	R	23:R	_
+22	the	_	Word	Word	_	23	E	23:E	_
+23	stage	_	Word	Word	_	18	A	18:A	_
+24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

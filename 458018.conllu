@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 458018
+# text = Several Democratic candidates denied interviews to support the union .
+1	Several	_	Word	Word	_	3	Q	3:Q	_
+2	Democratic	_	Word	Word	_	3	E	3:E	_
+3	candidates	_	Word	Word	_	0	C	0:C|7:A	_
+4	denied	_	Word	Word	_	0	H	0:H	_
+5	interviews	_	Word	Word	_	4	A	4:A	_
+6	to	_	Word	Word	_	7	L	7:L	_
+7	support	_	Word	Word	_	4	H	4:H	_
+8	the	_	Word	Word	_	9	E	9:E	_
+9	union	_	Word	Word	_	7	A	7:A	_
+10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

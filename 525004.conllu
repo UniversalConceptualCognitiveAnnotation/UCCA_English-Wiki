@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 525004
+# text = They agreed to wait a year to allow for his divorce to become final and were wed on July 27 , 1941 .
+1	They	_	Word	Word	_	2	A	2:A|4:A|11:A|17:A	_
+2	agreed	_	Word	Word	_	0	H	0:H	_
+3	to	_	Word	Word	_	4	F	4:F	_
+4	wait	_	Word	Word	_	2	A	2:A	_
+5	a	_	Word	Word	_	6	F	6:F	_
+6	year	_	Word	Word	_	4	T	4:T	_
+7	to	_	Word	Word	_	11	L	11:L	_
+8	allow	_	Word	Word	_	11	D	11:D	_
+9	for	_	Word	Word	_	11	R	11:R	_
+10	his	_	Word	Word	_	11	A	11:A	_
+11	divorce	_	Word	Word	_	2	H	2:H	_
+12	to	_	Word	Word	_	14	F	14:F	_
+13	become	_	Word	Word	_	14	E	14:E	_
+14	final	_	Word	Word	_	11	D	11:D	_
+15	and	_	Word	Word	_	17	L	17:L	_
+16	were	_	Word	Word	_	17	F	17:F	_
+17	wed	_	Word	Word	_	2	H	2:H	_
+18	on	_	Word	Word	_	19	R	19:R	_
+19	July	_	Word	Word	_	17	T	17:T	_
+20	27	_	Word	Word	_	19	C	19:C	_
+21	,	_	Punctuation	Punctuation	_	19	U	19:U	_
+22	1941	_	Word	Word	_	19	C	19:C	_
+23	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

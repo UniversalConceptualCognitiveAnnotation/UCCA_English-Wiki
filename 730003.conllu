@@ -1,0 +1,44 @@
+# format = ucca
+# sent_id = 730003
+# text = Jolie , who had twice visited Bosnia - Herzegovina in her capacity as a UNHCR Goodwill Ambassador , explained that she made the film to rekindle attention for the survivors of a war that took place in recent history .
+1	Jolie	_	Word	Word	_	19	A	19:A	_
+2	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+3	who	_	Word	Word	_	6	R	6:R	_
+4	had	_	Word	Word	_	6	F	6:F	_
+5	twice	_	Word	Word	_	6	D	6:D	_
+6	visited	_	Word	Word	_	1	E	1:E	_
+7	Bosnia	_	Word	Word	_	6	A	6:A	_
+8	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	Herzegovina	_	Word	Word	_	7	Terminal	7:Terminal	_
+10	in	_	Word	Word	_	16	L	16:L	_
+11	her	_	Word	Word	_	16	A	16:A	_
+12	capacity	_	Word	Word	_	16	D	16:D	_
+13	as	_	Word	Word	_	16	R	16:R	_
+14	a	_	Word	Word	_	16	F	16:F	_
+15	UNHCR	_	Word	Word	_	16	A	16:A	_
+16	Goodwill	_	Word	Word	_	6	H	6:H	_
+17	Ambassador	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	,	_	Punctuation	Punctuation	_	19	U	19:U	_
+19	explained	_	Word	Word	_	0	H	0:H	_
+20	that	_	Word	Word	_	22	R	22:R	_
+21	she	_	Word	Word	_	22	A	22:A|27:A	_
+22	made	_	Word	Word	_	19	A	19:A	_
+23	the	_	Word	Word	_	24	E	24:E	_
+24	film	_	Word	Word	_	22	A	22:A	_
+25	to	_	Word	Word	_	27	L	27:L	_
+26	rekindle	_	Word	Word	_	27	D	27:D	_
+27	attention	_	Word	Word	_	22	H	22:H	_
+28	for	_	Word	Word	_	30	R	30:R	_
+29	the	_	Word	Word	_	30	E	30:E	_
+30	survivors	_	Word	Word	_	27	A	27:A	_
+31	of	_	Word	Word	_	33	R	33:R	_
+32	a	_	Word	Word	_	33	E	33:E	_
+33	war	_	Word	Word	_	30	A	30:A	_
+34	that	_	Word	Word	_	33	F	33:F	_
+35	took	_	Word	Word	_	33	F	33:F	_
+36	place	_	Word	Word	_	35	Terminal	35:Terminal	_
+37	in	_	Word	Word	_	39	R	39:R	_
+38	recent	_	Word	Word	_	39	E	39:E	_
+39	history	_	Word	Word	_	33	T	33:T	_
+40	.	_	Punctuation	Punctuation	_	39	U	39:U	_
+

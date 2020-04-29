@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 711000
+# text = " Love and Theft " was released on September 11 , 2001 .
+1	"	_	Punctuation	Punctuation	_	7	U	7:U	_
+2	Love	_	Word	Word	_	7	A	7:A	_
+3	and	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	Theft	_	Word	Word	_	2	Terminal	2:Terminal	_
+5	"	_	Punctuation	Punctuation	_	7	U	7:U	_
+6	was	_	Word	Word	_	7	F	7:F	_
+7	released	_	Word	Word	_	0	H	0:H	_
+8	on	_	Word	Word	_	9	R	9:R	_
+9	September	_	Word	Word	_	7	T	7:T	_
+10	11	_	Word	Word	_	9	C	9:C	_
+11	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+12	2001	_	Word	Word	_	9	C	9:C	_
+13	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

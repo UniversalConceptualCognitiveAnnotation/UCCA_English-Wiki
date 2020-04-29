@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 500003
+# text = To promote it , Bowie launched the Diamond Dogs Tour , visiting cities in North America between June and December 1974 .
+1	To	_	Word	Word	_	10	L	10:L	_
+2	promote	_	Word	Word	_	0	H	0:H	_
+3	it	_	Word	Word	_	2	A	2:A	_
+4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	Bowie	_	Word	Word	_	10	A	10:A|2:A|12:A	_
+6	launched	_	Word	Word	_	10	D	10:D	_
+7	the	_	Word	Word	_	8	E	8:E	_
+8	Diamond	_	Word	Word	_	10	A	10:A	_
+9	Dogs	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	Tour	_	Word	Word	_	2	H	2:H	_
+11	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+12	visiting	_	Word	Word	_	2	H	2:H	_
+13	cities	_	Word	Word	_	12	A	12:A	_
+14	in	_	Word	Word	_	16	R	16:R	_
+15	North	_	Word	Word	_	16	E	16:E	_
+16	America	_	Word	Word	_	13	E	13:E	_
+17	between	_	Word	Word	_	18	R	18:R	_
+18	June	_	Word	Word	_	12	T	12:T	_
+19	and	_	Word	Word	_	18	N	18:N	_
+20	December	_	Word	Word	_	18	C	18:C	_
+21	1974	_	Word	Word	_	18	C	18:C	_
+22	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

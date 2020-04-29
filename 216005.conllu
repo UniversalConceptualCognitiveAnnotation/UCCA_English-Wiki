@@ -1,0 +1,43 @@
+# format = ucca
+# sent_id = 216005
+# text = In his review , A.O. Scott called her " a terrific comic actress , largely because of her great expressive range , and the nimbleness with which she can shift from anxiety to aggression to genuine hurt . "
+1	In	_	Word	Word	_	3	R	3:R	_
+2	his	_	Word	Word	_	3	A	3:A	_
+3	review	_	Word	Word	_	7	A	7:A	_
+4	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+5	A.O.	_	Word	Word	_	7	A	7:A	_
+6	Scott	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	called	_	Word	Word	_	0	H	0:H	_
+8	her	_	Word	Word	_	7	A	7:A	_
+9	"	_	Punctuation	Punctuation	_	7	U	7:U	_
+10	a	_	Word	Word	_	13	F	13:F	_
+11	terrific	_	Word	Word	_	13	D	13:D	_
+12	comic	_	Word	Word	_	13	D	13:D	_
+13	actress	_	Word	Word	_	7	A	7:A	_
+14	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+15	largely	_	Word	Word	_	16	E	16:E	_
+16	because	_	Word	Word	_	20	L	20:L	_
+17	of	_	Word	Word	_	16	R	16:R	_
+18	her	_	Word	Word	_	20	A	20:A	_
+19	great	_	Word	Word	_	20	D	20:D	_
+20	expressive	_	Word	Word	_	13	H	13:H	_
+21	range	_	Word	Word	_	20	A	20:A	_
+22	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+23	and	_	Word	Word	_	30	L	30:L	_
+24	the	_	Word	Word	_	25	F	25:F	_
+25	nimbleness	_	Word	Word	_	30	D	30:D	_
+26	with	_	Word	Word	_	25	R	25:R	_
+27	which	_	Word	Word	_	25	R	25:R	_
+28	she	_	Word	Word	_	30	A	30:A	_
+29	can	_	Word	Word	_	30	D	30:D	_
+30	shift	_	Word	Word	_	13	H	13:H	_
+31	from	_	Word	Word	_	32	R	32:R	_
+32	anxiety	_	Word	Word	_	30	A	30:A	_
+33	to	_	Word	Word	_	32	R	32:R	_
+34	aggression	_	Word	Word	_	32	C	32:C	_
+35	to	_	Word	Word	_	32	R	32:R	_
+36	genuine	_	Word	Word	_	37	E	37:E	_
+37	hurt	_	Word	Word	_	32	C	32:C	_
+38	.	_	Punctuation	Punctuation	_	37	U	37:U	_
+39	"	_	Punctuation	Punctuation	_	37	U	37:U	_
+

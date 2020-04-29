@@ -1,0 +1,37 @@
+# format = ucca
+# sent_id = 511012
+# text = Producer Tony Visconti said 29 tracks were recorded for the album , some of which could appear on Bowie 's next record , which he might start work on later in 2013 .
+1	Producer	_	Word	Word	_	2	E	2:E	_
+2	Tony	_	Word	Word	_	4	A	4:A	_
+3	Visconti	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	said	_	Word	Word	_	0	H	0:H	_
+5	29	_	Word	Word	_	6	Q	6:Q	_
+6	tracks	_	Word	Word	_	0	C	0:C|13:C	_
+7	were	_	Word	Word	_	8	F	8:F	_
+8	recorded	_	Word	Word	_	4	A	4:A	_
+9	for	_	Word	Word	_	11	R	11:R	_
+10	the	_	Word	Word	_	11	E	11:E	_
+11	album	_	Word	Word	_	8	A	8:A	_
+12	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+13	some	_	Word	Word	_	17	A	17:A	_
+14	of	_	Word	Word	_	17	R	17:R	_
+15	which	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	could	_	Word	Word	_	17	D	17:D	_
+17	appear	_	Word	Word	_	8	H	8:H	_
+18	on	_	Word	Word	_	22	R	22:R	_
+19	Bowie	_	Word	Word	_	20	A	20:A	_
+20	's	_	Word	Word	_	22	E	22:E	_
+21	next	_	Word	Word	_	22	E	22:E	_
+22	record	_	Word	Word	_	17	A	17:A	_
+23	,	_	Punctuation	Punctuation	_	22	U	22:U	_
+24	which	_	Word	Word	_	28	R	28:R	_
+25	he	_	Word	Word	_	28	A	28:A	_
+26	might	_	Word	Word	_	28	D	28:D	_
+27	start	_	Word	Word	_	28	D	28:D	_
+28	work	_	Word	Word	_	22	E	22:E	_
+29	on	_	Word	Word	_	28	A	28:A	_
+30	later	_	Word	Word	_	32	R	32:R	_
+31	in	_	Word	Word	_	30	Terminal	30:Terminal	_
+32	2013	_	Word	Word	_	28	T	28:T	_
+33	.	_	Punctuation	Punctuation	_	32	U	32:U	_
+

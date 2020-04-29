@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 104008
+# text = In August of that year , Voight claimed his daughter had " serious mental problems " on Access Hollywood .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	August	_	Word	Word	_	8	T	8:T	_
+3	of	_	Word	Word	_	5	R	5:R	_
+4	that	_	Word	Word	_	5	E	5:E	_
+5	year	_	Word	Word	_	2	C	2:C	_
+6	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	Voight	_	Word	Word	_	8	A	8:A	_
+8	claimed	_	Word	Word	_	0	H	0:H	_
+9	his	_	Word	Word	_	10	A	10:A	_
+10	daughter	_	Word	Word	_	15	A	15:A	_
+11	had	_	Word	Word	_	15	F	15:F	_
+12	"	_	Punctuation	Punctuation	_	15	U	15:U	_
+13	serious	_	Word	Word	_	15	D	15:D	_
+14	mental	_	Word	Word	_	15	A	15:A	_
+15	problems	_	Word	Word	_	8	A	8:A	_
+16	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+17	on	_	Word	Word	_	18	R	18:R	_
+18	Access	_	Word	Word	_	8	A	8:A	_
+19	Hollywood	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

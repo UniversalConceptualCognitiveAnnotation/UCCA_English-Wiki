@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 534001
+# text = The American Film Institute named her eighth among the Greatest Female Stars of All Time .
+1	The	_	Word	Word	_	4	F	4:F	_
+2	American	_	Word	Word	_	4	E	4:E	_
+3	Film	_	Word	Word	_	4	E	4:E	_
+4	Institute	_	Word	Word	_	5	A	5:A	_
+5	named	_	Word	Word	_	0	H	0:H	_
+6	her	_	Word	Word	_	5	A	5:A|12:A	_
+7	eighth	_	Word	Word	_	12	D	12:D	_
+8	among	_	Word	Word	_	12	R	12:R	_
+9	the	_	Word	Word	_	12	F	12:F	_
+10	Greatest	_	Word	Word	_	12	D	12:D	_
+11	Female	_	Word	Word	_	12	A	12:A	_
+12	Stars	_	Word	Word	_	5	A	5:A	_
+13	of	_	Word	Word	_	15	R	15:R	_
+14	All	_	Word	Word	_	15	E	15:E	_
+15	Time	_	Word	Word	_	12	T	12:T	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

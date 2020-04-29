@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 958010
+# text = After their divorce , according to the style granted to the divorced wife of a knight , she became known socially as Vivien , Lady Olivier . )
+1	After	_	Word	Word	_	9	L	9:L	_
+2	their	_	Word	Word	_	3	A	3:A	_
+3	divorce	_	Word	Word	_	0	H	0:H	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	according	_	Word	Word	_	9	L	9:L	_
+6	to	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	the	_	Word	Word	_	8	E	8:E	_
+8	style	_	Word	Word	_	9	A	9:A	_
+9	granted	_	Word	Word	_	3	H	3:H	_
+10	to	_	Word	Word	_	13	R	13:R	_
+11	the	_	Word	Word	_	13	E	13:E	_
+12	divorced	_	Word	Word	_	13	E	13:E	_
+13	wife	_	Word	Word	_	0	A	0:A|12:A	_
+14	of	_	Word	Word	_	16	R	16:R	_
+15	a	_	Word	Word	_	16	E	16:E	_
+16	knight	_	Word	Word	_	13	A	13:A	_
+17	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+18	she	_	Word	Word	_	20	A	20:A	_
+19	became	_	Word	Word	_	20	D	20:D	_
+20	known	_	Word	Word	_	3	H	3:H	_
+21	socially	_	Word	Word	_	20	A	20:A	_
+22	as	_	Word	Word	_	23	R	23:R	_
+23	Vivien	_	Word	Word	_	20	A	20:A	_
+24	,	_	Punctuation	Punctuation	_	23	U	23:U	_
+25	Lady	_	Word	Word	_	23	E	23:E	_
+26	Olivier	_	Word	Word	_	25	Terminal	25:Terminal	_
+27	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+28	)	_	Punctuation	Punctuation	_	23	U	23:U	_
+

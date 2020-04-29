@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 218013
+# text = In January 2010 it was announced that the Spider - Man franchise would be restarted , therefore dropping Dunst , Maguire , and Raimi from the film series .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	January	_	Word	Word	_	6	T	6:T	_
+3	2010	_	Word	Word	_	2	C	2:C	_
+4	it	_	Word	Word	_	6	A	6:A	_
+5	was	_	Word	Word	_	6	F	6:F	_
+6	announced	_	Word	Word	_	0	H	0:H	_
+7	that	_	Word	Word	_	15	R	15:R	_
+8	the	_	Word	Word	_	12	F	12:F	_
+9	Spider	_	Word	Word	_	12	E	12:E	_
+10	-	_	Punctuation	Punctuation	_	9	U	9:U	_
+11	Man	_	Word	Word	_	9	Terminal	9:Terminal	_
+12	franchise	_	Word	Word	_	15	A	15:A	_
+13	would	_	Word	Word	_	15	D	15:D	_
+14	be	_	Word	Word	_	15	F	15:F	_
+15	restarted	_	Word	Word	_	6	A	6:A	_
+16	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+17	therefore	_	Word	Word	_	18	L	18:L	_
+18	dropping	_	Word	Word	_	6	H	6:H	_
+19	Dunst	_	Word	Word	_	18	A	18:A	_
+20	,	_	Punctuation	Punctuation	_	19	U	19:U	_
+21	Maguire	_	Word	Word	_	19	C	19:C	_
+22	,	_	Punctuation	Punctuation	_	19	U	19:U	_
+23	and	_	Word	Word	_	19	N	19:N	_
+24	Raimi	_	Word	Word	_	19	C	19:C	_
+25	from	_	Word	Word	_	28	R	28:R	_
+26	the	_	Word	Word	_	28	F	28:F	_
+27	film	_	Word	Word	_	28	E	28:E	_
+28	series	_	Word	Word	_	18	A	18:A	_
+29	.	_	Punctuation	Punctuation	_	28	U	28:U	_
+

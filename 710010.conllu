@@ -1,0 +1,46 @@
+# format = ucca
+# sent_id = 710010
+# text = Dylan commenced the new millennium by winning the Polar Music Prize in May 2000 and his first Oscar ; his song " Things Have Changed " , penned for the film Wonder Boys , won an Academy Award in March 2001 .
+1	Dylan	_	Word	Word	_	7	A	7:A|18:A	_
+2	commenced	_	Word	Word	_	5	E	5:E	_
+3	the	_	Word	Word	_	5	E	5:E	_
+4	new	_	Word	Word	_	5	E	5:E	_
+5	millennium	_	Word	Word	_	0	C	0:C|18:T	_
+6	by	_	Word	Word	_	7	R	7:R	_
+7	winning	_	Word	Word	_	0	C	0:C|18:P	_
+8	the	_	Word	Word	_	9	E	9:E	_
+9	Polar	_	Word	Word	_	7	A	7:A	_
+10	Music	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	Prize	_	Word	Word	_	9	Terminal	9:Terminal	_
+12	in	_	Word	Word	_	13	R	13:R	_
+13	May	_	Word	Word	_	7	T	7:T	_
+14	2000	_	Word	Word	_	13	C	13:C	_
+15	and	_	Word	Word	_	18	L	18:L	_
+16	his	_	Word	Word	_	18	E	18:E	_
+17	first	_	Word	Word	_	18	Q	18:Q	_
+18	Oscar	_	Word	Word	_	7	H	7:H	_
+19	;	_	Punctuation	Punctuation	_	7	U	7:U	_
+20	his	_	Word	Word	_	21	E	21:E	_
+21	song	_	Word	Word	_	23	E	23:E	_
+22	"	_	Punctuation	Punctuation	_	23	U	23:U	_
+23	Things	_	Word	Word	_	35	A	35:A	_
+24	Have	_	Word	Word	_	23	Terminal	23:Terminal	_
+25	Changed	_	Word	Word	_	23	Terminal	23:Terminal	_
+26	"	_	Punctuation	Punctuation	_	23	U	23:U	_
+27	,	_	Punctuation	Punctuation	_	23	U	23:U	_
+28	penned	_	Word	Word	_	23	E	23:E	_
+29	for	_	Word	Word	_	32	R	32:R	_
+30	the	_	Word	Word	_	31	E	31:E	_
+31	film	_	Word	Word	_	32	E	32:E	_
+32	Wonder	_	Word	Word	_	28	A	28:A	_
+33	Boys	_	Word	Word	_	32	Terminal	32:Terminal	_
+34	,	_	Punctuation	Punctuation	_	35	U	35:U	_
+35	won	_	Word	Word	_	7	H	7:H	_
+36	an	_	Word	Word	_	37	E	37:E	_
+37	Academy	_	Word	Word	_	35	A	35:A	_
+38	Award	_	Word	Word	_	37	Terminal	37:Terminal	_
+39	in	_	Word	Word	_	40	R	40:R	_
+40	March	_	Word	Word	_	35	T	35:T	_
+41	2001	_	Word	Word	_	40	C	40:C	_
+42	.	_	Punctuation	Punctuation	_	40	U	40:U	_
+

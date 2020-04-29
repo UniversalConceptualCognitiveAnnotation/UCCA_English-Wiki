@@ -1,0 +1,52 @@
+# format = ucca
+# sent_id = 511009
+# text = On 8 January 2013 ( his 66th birthday ) , his website announced a new album , to be titled The Next Day and scheduled for release 8 March for Australia , 12 March for the United States and 11 March for the rest of the world .
+1	On	_	Word	Word	_	2	R	2:R	_
+2	8	_	Word	Word	_	13	T	13:T	_
+3	January	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	2013	_	Word	Word	_	2	Terminal	2:Terminal	_
+5	(	_	Punctuation	Punctuation	_	2	U	2:U	_
+6	his	_	Word	Word	_	2	E	2:E	_
+7	66th	_	Word	Word	_	6	D	6:D	_
+8	birthday	_	Word	Word	_	6	T	6:T	_
+9	)	_	Punctuation	Punctuation	_	13	U	13:U	_
+10	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+11	his	_	Word	Word	_	12	E	12:E	_
+12	website	_	Word	Word	_	13	A	13:A	_
+13	announced	_	Word	Word	_	0	H	0:H	_
+14	a	_	Word	Word	_	16	E	16:E	_
+15	new	_	Word	Word	_	16	E	16:E	_
+16	album	_	Word	Word	_	13	A	13:A	_
+17	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+18	to	_	Word	Word	_	20	F	20:F	_
+19	be	_	Word	Word	_	20	F	20:F	_
+20	titled	_	Word	Word	_	16	E	16:E	_
+21	The	_	Word	Word	_	20	A	20:A	_
+22	Next	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	Day	_	Word	Word	_	21	Terminal	21:Terminal	_
+24	and	_	Word	Word	_	27	L	27:L	_
+25	scheduled	_	Word	Word	_	27	D	27:D	_
+26	for	_	Word	Word	_	27	R	27:R	_
+27	release	_	Word	Word	_	20	H	20:H	_
+28	8	_	Word	Word	_	27	T	27:T	_
+29	March	_	Word	Word	_	28	C	28:C	_
+30	for	_	Word	Word	_	31	R	31:R	_
+31	Australia	_	Word	Word	_	27	A	27:A	_
+32	,	_	Punctuation	Punctuation	_	27	U	27:U	_
+33	12	_	Word	Word	_	28	C	28:C	_
+34	March	_	Word	Word	_	33	C	33:C	_
+35	for	_	Word	Word	_	37	R	37:R	_
+36	the	_	Word	Word	_	37	E	37:E	_
+37	United	_	Word	Word	_	31	C	31:C	_
+38	States	_	Word	Word	_	37	Terminal	37:Terminal	_
+39	and	_	Word	Word	_	28	N	28:N	_
+40	11	_	Word	Word	_	28	C	28:C	_
+41	March	_	Word	Word	_	40	C	40:C	_
+42	for	_	Word	Word	_	47	R	47:R	_
+43	the	_	Word	Word	_	47	E	47:E	_
+44	rest	_	Word	Word	_	47	E	47:E	_
+45	of	_	Word	Word	_	47	R	47:R	_
+46	the	_	Word	Word	_	47	E	47:E	_
+47	world	_	Word	Word	_	31	C	31:C	_
+48	.	_	Punctuation	Punctuation	_	47	U	47:U	_
+

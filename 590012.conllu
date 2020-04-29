@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 590012
+# text = Depp modeled the character 's hair on Anna Wintour .
+1	Depp	_	Word	Word	_	2	A	2:A	_
+2	modeled	_	Word	Word	_	0	H	0:H	_
+3	the	_	Word	Word	_	6	F	6:F	_
+4	character	_	Word	Word	_	6	E	6:E	_
+5	's	_	Word	Word	_	4	R	4:R	_
+6	hair	_	Word	Word	_	2	A	2:A	_
+7	on	_	Word	Word	_	8	R	8:R	_
+8	Anna	_	Word	Word	_	2	A	2:A	_
+9	Wintour	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+

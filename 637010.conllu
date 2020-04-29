@@ -1,0 +1,51 @@
+# format = ucca
+# sent_id = 637010
+# text = The same year , Tariq Ali 's revolutionary political views , expressed when he interviewed Lennon , inspired the singer to write " Power to the People " . Lennon also became involved with Ali during a protest against Oz magazine 's prosecution for alleged obscenity .
+1	The	_	Word	Word	_	3	E	3:E	_
+2	same	_	Word	Word	_	3	E	3:E	_
+3	year	_	Word	Word	_	18	T	18:T	_
+4	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+5	Tariq	_	Word	Word	_	10	E	10:E	_
+6	Ali	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	's	_	Word	Word	_	5	R	5:R	_
+8	revolutionary	_	Word	Word	_	10	E	10:E	_
+9	political	_	Word	Word	_	10	E	10:E	_
+10	views	_	Word	Word	_	12	A	12:A	_
+11	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+12	expressed	_	Word	Word	_	18	A	18:A	_
+13	when	_	Word	Word	_	15	L	15:L	_
+14	he	_	Word	Word	_	15	A	15:A	_
+15	interviewed	_	Word	Word	_	12	H	12:H	_
+16	Lennon	_	Word	Word	_	15	A	15:A	_
+17	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+18	inspired	_	Word	Word	_	0	H	0:H	_
+19	the	_	Word	Word	_	20	E	20:E	_
+20	singer	_	Word	Word	_	18	A	18:A	_
+21	to	_	Word	Word	_	22	F	22:F	_
+22	write	_	Word	Word	_	18	A	18:A	_
+23	"	_	Punctuation	Punctuation	_	22	U	22:U	_
+24	Power	_	Word	Word	_	22	A	22:A	_
+25	to	_	Word	Word	_	24	Terminal	24:Terminal	_
+26	the	_	Word	Word	_	24	Terminal	24:Terminal	_
+27	People	_	Word	Word	_	24	Terminal	24:Terminal	_
+28	"	_	Punctuation	Punctuation	_	18	U	18:U	_
+29	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+30	Lennon	_	Word	Word	_	33	A	33:A|38:A	_
+31	also	_	Word	Word	_	33	D	33:D	_
+32	became	_	Word	Word	_	33	D	33:D	_
+33	involved	_	Word	Word	_	18	H	18:H	_
+34	with	_	Word	Word	_	35	R	35:R	_
+35	Ali	_	Word	Word	_	33	A	33:A	_
+36	during	_	Word	Word	_	38	L	38:L	_
+37	a	_	Word	Word	_	38	E	38:E	_
+38	protest	_	Word	Word	_	18	H	18:H	_
+39	against	_	Word	Word	_	43	R	43:R	_
+40	Oz	_	Word	Word	_	41	E	41:E	_
+41	magazine	_	Word	Word	_	43	A	43:A	_
+42	's	_	Word	Word	_	41	R	41:R	_
+43	prosecution	_	Word	Word	_	38	A	38:A	_
+44	for	_	Word	Word	_	46	R	46:R	_
+45	alleged	_	Word	Word	_	46	E	46:E	_
+46	obscenity	_	Word	Word	_	43	A	43:A	_
+47	.	_	Punctuation	Punctuation	_	46	U	46:U	_
+

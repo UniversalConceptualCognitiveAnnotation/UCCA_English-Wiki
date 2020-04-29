@@ -1,0 +1,39 @@
+# format = ucca
+# sent_id = 960008
+# text = Olivier returned her to their home in Britain , where , between periods of incoherence , Leigh told him that she was in love with Finch and had been having an affair with him .
+1	Olivier	_	Word	Word	_	2	A	2:A	_
+2	returned	_	Word	Word	_	0	H	0:H	_
+3	her	_	Word	Word	_	2	A	2:A	_
+4	to	_	Word	Word	_	6	R	6:R	_
+5	their	_	Word	Word	_	6	E	6:E	_
+6	home	_	Word	Word	_	2	A	2:A	_
+7	in	_	Word	Word	_	8	R	8:R	_
+8	Britain	_	Word	Word	_	6	E	6:E	_
+9	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+10	where	_	Word	Word	_	15	R	15:R	_
+11	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+12	between	_	Word	Word	_	18	L	18:L	_
+13	periods	_	Word	Word	_	15	T	15:T	_
+14	of	_	Word	Word	_	15	R	15:R	_
+15	incoherence	_	Word	Word	_	6	E	6:E	_
+16	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+17	Leigh	_	Word	Word	_	18	A	18:A|15:A	_
+18	told	_	Word	Word	_	15	H	15:H	_
+19	him	_	Word	Word	_	18	A	18:A	_
+20	that	_	Word	Word	_	24	R	24:R	_
+21	she	_	Word	Word	_	24	A	24:A|32:A	_
+22	was	_	Word	Word	_	24	F	24:F	_
+23	in	_	Word	Word	_	24	R	24:R	_
+24	love	_	Word	Word	_	18	A	18:A	_
+25	with	_	Word	Word	_	26	R	26:R	_
+26	Finch	_	Word	Word	_	24	A	24:A	_
+27	and	_	Word	Word	_	32	L	32:L	_
+28	had	_	Word	Word	_	32	F	32:F	_
+29	been	_	Word	Word	_	32	F	32:F	_
+30	having	_	Word	Word	_	32	F	32:F	_
+31	an	_	Word	Word	_	32	E	32:E	_
+32	affair	_	Word	Word	_	24	H	24:H	_
+33	with	_	Word	Word	_	34	R	34:R	_
+34	him	_	Word	Word	_	32	A	32:A	_
+35	.	_	Punctuation	Punctuation	_	34	U	34:U	_
+

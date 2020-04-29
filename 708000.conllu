@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 708000
+# text = In 1986 and 1987 , Dylan toured extensively with Tom Petty and the Heartbreakers , sharing vocals with Petty on several songs each night .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1986	_	Word	Word	_	7	T	7:T	_
+3	and	_	Word	Word	_	2	N	2:N	_
+4	1987	_	Word	Word	_	2	C	2:C	_
+5	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+6	Dylan	_	Word	Word	_	7	A	7:A|17:A	_
+7	toured	_	Word	Word	_	0	H	0:H	_
+8	extensively	_	Word	Word	_	7	D	7:D	_
+9	with	_	Word	Word	_	10	R	10:R	_
+10	Tom	_	Word	Word	_	7	A	7:A	_
+11	Petty	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	and	_	Word	Word	_	10	Terminal	10:Terminal	_
+13	the	_	Word	Word	_	10	Terminal	10:Terminal	_
+14	Heartbreakers	_	Word	Word	_	10	Terminal	10:Terminal	_
+15	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+16	sharing	_	Word	Word	_	17	D	17:D	_
+17	vocals	_	Word	Word	_	7	H	7:H	_
+18	with	_	Word	Word	_	19	R	19:R	_
+19	Petty	_	Word	Word	_	17	A	17:A	_
+20	on	_	Word	Word	_	22	R	22:R	_
+21	several	_	Word	Word	_	22	Q	22:Q	_
+22	songs	_	Word	Word	_	17	A	17:A	_
+23	each	_	Word	Word	_	24	Q	24:Q	_
+24	night	_	Word	Word	_	17	T	17:T	_
+25	.	_	Punctuation	Punctuation	_	24	U	24:U	_
+

@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 691002
+# text = In September , Dylan gained some public recognition when Robert Shelton wrote a positive review in The New York Times of a show at Gerde 's Folk City .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	September	_	Word	Word	_	8	T	8:T	_
+3	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+4	Dylan	_	Word	Word	_	8	A	8:A	_
+5	gained	_	Word	Word	_	8	D	8:D	_
+6	some	_	Word	Word	_	7	E	7:E	_
+7	public	_	Word	Word	_	8	A	8:A	_
+8	recognition	_	Word	Word	_	0	H	0:H	_
+9	when	_	Word	Word	_	12	L	12:L	_
+10	Robert	_	Word	Word	_	12	A	12:A	_
+11	Shelton	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	wrote	_	Word	Word	_	8	H	8:H	_
+13	a	_	Word	Word	_	15	E	15:E	_
+14	positive	_	Word	Word	_	15	E	15:E	_
+15	review	_	Word	Word	_	12	A	12:A	_
+16	in	_	Word	Word	_	18	R	18:R	_
+17	The	_	Word	Word	_	18	E	18:E	_
+18	New	_	Word	Word	_	12	A	12:A	_
+19	York	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	Times	_	Word	Word	_	18	Terminal	18:Terminal	_
+21	of	_	Word	Word	_	23	R	23:R	_
+22	a	_	Word	Word	_	23	E	23:E	_
+23	show	_	Word	Word	_	12	A	12:A	_
+24	at	_	Word	Word	_	25	R	25:R	_
+25	Gerde	_	Word	Word	_	23	A	23:A	_
+26	's	_	Word	Word	_	25	Terminal	25:Terminal	_
+27	Folk	_	Word	Word	_	25	Terminal	25:Terminal	_
+28	City	_	Word	Word	_	25	Terminal	25:Terminal	_
+29	.	_	Punctuation	Punctuation	_	25	U	25:U	_
+

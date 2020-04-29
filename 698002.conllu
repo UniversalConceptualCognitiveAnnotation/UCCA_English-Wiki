@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 698002
+# text = At Dylan 's insistence , Robertson and Kooper came down from New York City to play on the sessions .
+1	At	_	Word	Word	_	9	L	9:L	_
+2	Dylan	_	Word	Word	_	4	A	4:A	_
+3	's	_	Word	Word	_	2	R	2:R	_
+4	insistence	_	Word	Word	_	0	H	0:H	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	Robertson	_	Word	Word	_	9	A	9:A|16:A	_
+7	and	_	Word	Word	_	6	N	6:N	_
+8	Kooper	_	Word	Word	_	6	C	6:C	_
+9	came	_	Word	Word	_	4	H	4:H	_
+10	down	_	Word	Word	_	9	D	9:D	_
+11	from	_	Word	Word	_	12	R	12:R	_
+12	New	_	Word	Word	_	9	A	9:A	_
+13	York	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	City	_	Word	Word	_	12	Terminal	12:Terminal	_
+15	to	_	Word	Word	_	16	L	16:L	_
+16	play	_	Word	Word	_	4	H	4:H	_
+17	on	_	Word	Word	_	19	R	19:R	_
+18	the	_	Word	Word	_	19	E	19:E	_
+19	sessions	_	Word	Word	_	16	A	16:A	_
+20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 144006
+# text = In 1991 she released her autobiography , Me : Stories of my Life .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1991	_	Word	Word	_	4	T	4:T	_
+3	she	_	Word	Word	_	4	A	4:A	_
+4	released	_	Word	Word	_	0	H	0:H	_
+5	her	_	Word	Word	_	8	E	8:E	_
+6	autobiography	_	Word	Word	_	5	A	5:A	_
+7	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+8	Me	_	Word	Word	_	4	A	4:A	_
+9	:	_	Punctuation	Punctuation	_	8	U	8:U	_
+10	Stories	_	Word	Word	_	8	Terminal	8:Terminal	_
+11	of	_	Word	Word	_	8	Terminal	8:Terminal	_
+12	my	_	Word	Word	_	8	Terminal	8:Terminal	_
+13	Life	_	Word	Word	_	8	Terminal	8:Terminal	_
+14	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+

@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 604002
+# text = By late 1968 , relations within the band were deteriorating .
+1	By	_	Word	Word	_	3	R	3:R	_
+2	late	_	Word	Word	_	3	E	3:E	_
+3	1968	_	Word	Word	_	5	T	5:T	_
+4	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+5	relations	_	Word	Word	_	0	H	0:H	_
+6	within	_	Word	Word	_	8	R	8:R	_
+7	the	_	Word	Word	_	8	F	8:F	_
+8	band	_	Word	Word	_	5	A	5:A	_
+9	were	_	Word	Word	_	5	F	5:F	_
+10	deteriorating	_	Word	Word	_	5	D	5:D	_
+11	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+

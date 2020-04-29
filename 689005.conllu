@@ -1,0 +1,42 @@
+# format = ucca
+# sent_id = 689005
+# text = Robert Zimmerman lived in Duluth until age six , when his father was stricken with polio and the family returned to his mother 's home town , Hibbing , where Zimmerman spent the rest of his childhood .
+1	Robert	_	Word	Word	_	3	A	3:A|7:A	_
+2	Zimmerman	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	lived	_	Word	Word	_	0	H	0:H	_
+4	in	_	Word	Word	_	5	R	5:R	_
+5	Duluth	_	Word	Word	_	3	A	3:A	_
+6	until	_	Word	Word	_	7	L	7:L	_
+7	age	_	Word	Word	_	3	H	3:H	_
+8	six	_	Word	Word	_	7	T	7:T	_
+9	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+10	when	_	Word	Word	_	16	L	16:L	_
+11	his	_	Word	Word	_	12	A	12:A	_
+12	father	_	Word	Word	_	16	A	16:A	_
+13	was	_	Word	Word	_	16	F	16:F	_
+14	stricken	_	Word	Word	_	16	D	16:D	_
+15	with	_	Word	Word	_	16	R	16:R	_
+16	polio	_	Word	Word	_	3	H	3:H	_
+17	and	_	Word	Word	_	20	L	20:L	_
+18	the	_	Word	Word	_	19	E	19:E	_
+19	family	_	Word	Word	_	20	A	20:A	_
+20	returned	_	Word	Word	_	3	H	3:H	_
+21	to	_	Word	Word	_	28	R	28:R	_
+22	his	_	Word	Word	_	23	A	23:A	_
+23	mother	_	Word	Word	_	26	E	26:E	_
+24	's	_	Word	Word	_	23	R	23:R	_
+25	home	_	Word	Word	_	26	E	26:E	_
+26	town	_	Word	Word	_	28	E	28:E	_
+27	,	_	Punctuation	Punctuation	_	28	U	28:U	_
+28	Hibbing	_	Word	Word	_	20	A	20:A	_
+29	,	_	Punctuation	Punctuation	_	28	U	28:U	_
+30	where	_	Word	Word	_	37	R	37:R	_
+31	Zimmerman	_	Word	Word	_	37	A	37:A	_
+32	spent	_	Word	Word	_	37	D	37:D	_
+33	the	_	Word	Word	_	34	E	34:E	_
+34	rest	_	Word	Word	_	37	D	37:D	_
+35	of	_	Word	Word	_	37	R	37:R	_
+36	his	_	Word	Word	_	37	A	37:A	_
+37	childhood	_	Word	Word	_	28	E	28:E	_
+38	.	_	Punctuation	Punctuation	_	37	U	37:U	_
+

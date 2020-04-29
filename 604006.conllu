@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 604006
+# text = McCartney agreed , but Lennon did not .
+1	McCartney	_	Word	Word	_	2	A	2:A	_
+2	agreed	_	Word	Word	_	0	H	0:H	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	but	_	Word	Word	_	5	L	5:L	_
+5	Lennon	_	Word	Word	_	2	H	2:H	_
+6	did	_	Word	Word	_	5	F	5:F	_
+7	not	_	Word	Word	_	5	D	5:D	_
+8	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+

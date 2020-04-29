@@ -1,0 +1,36 @@
+# format = ucca
+# sent_id = 617007
+# text = McCartney also produced and hosted The Real Buddy Holly Story , a 1985 documentary featuring interviews with Keith Richards , Phil and Don Everly , the Holly family , and others .
+1	McCartney	_	Word	Word	_	3	A	3:A|5:A	_
+2	also	_	Word	Word	_	3	D	3:D|5:D	_
+3	produced	_	Word	Word	_	0	H	0:H	_
+4	and	_	Word	Word	_	5	L	5:L	_
+5	hosted	_	Word	Word	_	3	H	3:H	_
+6	The	_	Word	Word	_	3	A	3:A|5:A	_
+7	Real	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	Buddy	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	Holly	_	Word	Word	_	6	Terminal	6:Terminal	_
+10	Story	_	Word	Word	_	6	Terminal	6:Terminal	_
+11	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+12	a	_	Word	Word	_	14	E	14:E	_
+13	1985	_	Word	Word	_	14	E	14:E	_
+14	documentary	_	Word	Word	_	6	E	6:E	_
+15	featuring	_	Word	Word	_	6	E	6:E	_
+16	interviews	_	Word	Word	_	15	A	15:A	_
+17	with	_	Word	Word	_	18	R	18:R	_
+18	Keith	_	Word	Word	_	16	A	16:A	_
+19	Richards	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+21	Phil	_	Word	Word	_	18	C	18:C	_
+22	and	_	Word	Word	_	21	N	21:N	_
+23	Don	_	Word	Word	_	21	C	21:C	_
+24	Everly	_	Word	Word	_	23	Terminal	23:Terminal	_
+25	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+26	the	_	Word	Word	_	28	F	28:F	_
+27	Holly	_	Word	Word	_	28	A	28:A	_
+28	family	_	Word	Word	_	18	C	18:C	_
+29	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+30	and	_	Word	Word	_	18	N	18:N	_
+31	others	_	Word	Word	_	18	C	18:C	_
+32	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 216010
+# text = Also in 2001 , she depicted the late American actress Marion Davies in The Cat 's Meow , directed by Peter Bogdanovich .
+1	Also	_	Word	Word	_	6	L	6:L	_
+2	in	_	Word	Word	_	3	R	3:R	_
+3	2001	_	Word	Word	_	6	T	6:T	_
+4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	she	_	Word	Word	_	6	A	6:A	_
+6	depicted	_	Word	Word	_	0	H	0:H	_
+7	the	_	Word	Word	_	11	F	11:F	_
+8	late	_	Word	Word	_	11	E	11:E	_
+9	American	_	Word	Word	_	10	E	10:E	_
+10	actress	_	Word	Word	_	11	E	11:E	_
+11	Marion	_	Word	Word	_	6	A	6:A	_
+12	Davies	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	in	_	Word	Word	_	14	R	14:R	_
+14	The	_	Word	Word	_	6	A	6:A	_
+15	Cat	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	's	_	Word	Word	_	14	Terminal	14:Terminal	_
+17	Meow	_	Word	Word	_	14	Terminal	14:Terminal	_
+18	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+19	directed	_	Word	Word	_	14	E	14:E	_
+20	by	_	Word	Word	_	21	R	21:R	_
+21	Peter	_	Word	Word	_	19	A	19:A	_
+22	Bogdanovich	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

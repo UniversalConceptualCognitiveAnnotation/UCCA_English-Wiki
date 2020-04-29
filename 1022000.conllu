@@ -1,0 +1,42 @@
+# format = ucca
+# sent_id = 1022000
+# text = In 1982 , Jackson contributed the song " Someone In the Dark " to the storybook for the film E.T. the Extra - Terrestrial ; the record won a Grammy for Best Recording for Children in 1984 .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1982	_	Word	Word	_	5	T	5:T	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	Jackson	_	Word	Word	_	5	A	5:A	_
+5	contributed	_	Word	Word	_	0	H	0:H	_
+6	the	_	Word	Word	_	7	E	7:E	_
+7	song	_	Word	Word	_	9	E	9:E	_
+8	"	_	Punctuation	Punctuation	_	9	U	9:U	_
+9	Someone	_	Word	Word	_	5	A	5:A	_
+10	In	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	the	_	Word	Word	_	9	Terminal	9:Terminal	_
+12	Dark	_	Word	Word	_	9	Terminal	9:Terminal	_
+13	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+14	to	_	Word	Word	_	16	R	16:R	_
+15	the	_	Word	Word	_	16	E	16:E	_
+16	storybook	_	Word	Word	_	5	A	5:A	_
+17	for	_	Word	Word	_	20	R	20:R	_
+18	the	_	Word	Word	_	19	E	19:E	_
+19	film	_	Word	Word	_	20	E	20:E	_
+20	E.T.	_	Word	Word	_	16	E	16:E	_
+21	the	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	Extra	_	Word	Word	_	20	Terminal	20:Terminal	_
+23	-	_	Punctuation	Punctuation	_	20	U	20:U	_
+24	Terrestrial	_	Word	Word	_	20	Terminal	20:Terminal	_
+25	;	_	Punctuation	Punctuation	_	5	U	5:U	_
+26	the	_	Word	Word	_	27	E	27:E	_
+27	record	_	Word	Word	_	28	A	28:A	_
+28	won	_	Word	Word	_	5	H	5:H	_
+29	a	_	Word	Word	_	30	E	30:E	_
+30	Grammy	_	Word	Word	_	28	A	28:A	_
+31	for	_	Word	Word	_	33	R	33:R	_
+32	Best	_	Word	Word	_	33	E	33:E	_
+33	Recording	_	Word	Word	_	30	E	30:E	_
+34	for	_	Word	Word	_	33	E	33:E	_
+35	Children	_	Word	Word	_	34	A	34:A	_
+36	in	_	Word	Word	_	37	R	37:R	_
+37	1984	_	Word	Word	_	28	T	28:T	_
+38	.	_	Punctuation	Punctuation	_	37	U	37:U	_
+

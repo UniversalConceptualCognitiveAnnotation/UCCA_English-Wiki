@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 675016
+# text = The song was co - written and co - produced by Carey , Jermaine Dupri , and Bryan - Michael Cox .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	song	_	Word	Word	_	0	C	0:C|10:A	_
+3	was	_	Word	Word	_	6	F	6:F	_
+4	co	_	Word	Word	_	6	D	6:D	_
+5	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+6	written	_	Word	Word	_	0	H	0:H	_
+7	and	_	Word	Word	_	10	L	10:L	_
+8	co	_	Word	Word	_	10	D	10:D	_
+9	-	_	Punctuation	Punctuation	_	10	U	10:U	_
+10	produced	_	Word	Word	_	6	H	6:H	_
+11	by	_	Word	Word	_	12	R	12:R	_
+12	Carey	_	Word	Word	_	0	C	0:C|10:A	_
+13	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+14	Jermaine	_	Word	Word	_	12	C	12:C	_
+15	Dupri	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+17	and	_	Word	Word	_	12	N	12:N	_
+18	Bryan	_	Word	Word	_	12	C	12:C	_
+19	-	_	Punctuation	Punctuation	_	18	U	18:U	_
+20	Michael	_	Word	Word	_	18	Terminal	18:Terminal	_
+21	Cox	_	Word	Word	_	18	Terminal	18:Terminal	_
+22	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+

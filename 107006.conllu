@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 107006
+# text = For the second consecutive year , Jolie won a Golden Globe Award and was nominated for an Emmy Award .
+1	For	_	Word	Word	_	4	R	4:R	_
+2	the	_	Word	Word	_	4	E	4:E	_
+3	second	_	Word	Word	_	4	Q	4:Q	_
+4	consecutive	_	Word	Word	_	8	D	8:D	_
+5	year	_	Word	Word	_	4	E	4:E	_
+6	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	Jolie	_	Word	Word	_	8	A	8:A|15:A	_
+8	won	_	Word	Word	_	0	H	0:H	_
+9	a	_	Word	Word	_	12	E	12:E	_
+10	Golden	_	Word	Word	_	12	E	12:E	_
+11	Globe	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	Award	_	Word	Word	_	8	A	8:A	_
+13	and	_	Word	Word	_	15	L	15:L	_
+14	was	_	Word	Word	_	15	F	15:F	_
+15	nominated	_	Word	Word	_	8	H	8:H	_
+16	for	_	Word	Word	_	19	R	19:R	_
+17	an	_	Word	Word	_	19	E	19:E	_
+18	Emmy	_	Word	Word	_	19	E	19:E	_
+19	Award	_	Word	Word	_	15	A	15:A	_
+20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 222001
+# text = In his movies , he is known for his acrobatic fighting style , comic timing , use of improvised weapons , and innovative stunts .
+1	In	_	Word	Word	_	3	R	3:R	_
+2	his	_	Word	Word	_	3	E	3:E	_
+3	movies	_	Word	Word	_	7	A	7:A	_
+4	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+5	he	_	Word	Word	_	7	A	7:A	_
+6	is	_	Word	Word	_	7	F	7:F	_
+7	known	_	Word	Word	_	0	H	0:H	_
+8	for	_	Word	Word	_	11	R	11:R	_
+9	his	_	Word	Word	_	11	A	11:A|15:A|17:A|24:A	_
+10	acrobatic	_	Word	Word	_	11	D	11:D	_
+11	fighting	_	Word	Word	_	7	A	7:A	_
+12	style	_	Word	Word	_	11	D	11:D	_
+13	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+14	comic	_	Word	Word	_	15	D	15:D	_
+15	timing	_	Word	Word	_	11	H	11:H	_
+16	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+17	use	_	Word	Word	_	11	H	11:H	_
+18	of	_	Word	Word	_	20	R	20:R	_
+19	improvised	_	Word	Word	_	20	E	20:E	_
+20	weapons	_	Word	Word	_	17	A	17:A	_
+21	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+22	and	_	Word	Word	_	24	L	24:L	_
+23	innovative	_	Word	Word	_	24	D	24:D	_
+24	stunts	_	Word	Word	_	11	H	11:H	_
+25	.	_	Punctuation	Punctuation	_	24	U	24:U	_
+

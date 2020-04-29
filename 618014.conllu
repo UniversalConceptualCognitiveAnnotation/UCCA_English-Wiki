@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 618014
+# text = McCartney initially owned 20 % of Northern Songs , which became 15 % after a public stock offering in 1965 .
+1	McCartney	_	Word	Word	_	3	A	3:A	_
+2	initially	_	Word	Word	_	3	D	3:D	_
+3	owned	_	Word	Word	_	0	H	0:H	_
+4	20	_	Word	Word	_	5	Q	5:Q	_
+5	%	_	Word	Word	_	7	Q	7:Q	_
+6	of	_	Word	Word	_	7	R	7:R	_
+7	Northern	_	Word	Word	_	3	A	3:A	_
+8	Songs	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+10	which	_	Word	Word	_	11	R	11:R	_
+11	became	_	Word	Word	_	5	E	5:E	_
+12	15	_	Word	Word	_	13	Q	13:Q	_
+13	%	_	Word	Word	_	11	A	11:A	_
+14	after	_	Word	Word	_	18	L	18:L	_
+15	a	_	Word	Word	_	18	F	18:F	_
+16	public	_	Word	Word	_	18	A	18:A	_
+17	stock	_	Word	Word	_	18	A	18:A	_
+18	offering	_	Word	Word	_	11	H	11:H	_
+19	in	_	Word	Word	_	20	R	20:R	_
+20	1965	_	Word	Word	_	18	T	18:T	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+

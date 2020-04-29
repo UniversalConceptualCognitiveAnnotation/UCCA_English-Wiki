@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 133005
+# text = Her terms accepted , Hepburn was also given the director and co-star of her choice , George Stevens and Spencer Tracy .
+1	Her	_	Word	Word	_	3	A	3:A	_
+2	terms	_	Word	Word	_	3	A	3:A	_
+3	accepted	_	Word	Word	_	0	H	0:H	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	Hepburn	_	Word	Word	_	8	A	8:A	_
+6	was	_	Word	Word	_	8	F	8:F	_
+7	also	_	Word	Word	_	8	D	8:D	_
+8	given	_	Word	Word	_	3	H	3:H	_
+9	the	_	Word	Word	_	10	F	10:F	_
+10	director	_	Word	Word	_	17	E	17:E	_
+11	and	_	Word	Word	_	10	N	10:N	_
+12	co-star	_	Word	Word	_	10	C	10:C	_
+13	of	_	Word	Word	_	15	R	15:R	_
+14	her	_	Word	Word	_	15	A	15:A	_
+15	choice	_	Word	Word	_	10	E	10:E	_
+16	,	_	Punctuation	Punctuation	_	17	U	17:U	_
+17	George	_	Word	Word	_	8	A	8:A	_
+18	Stevens	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	and	_	Word	Word	_	17	N	17:N	_
+20	Spencer	_	Word	Word	_	17	C	17:C	_
+21	Tracy	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+

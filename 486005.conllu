@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 486005
+# text = In 1993 , Bana made his television debut on Steve Vizard 's late night talk show , Tonight Live .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1993	_	Word	Word	_	8	T	8:T	_
+3	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+4	Bana	_	Word	Word	_	8	A	8:A	_
+5	made	_	Word	Word	_	8	F	8:F	_
+6	his	_	Word	Word	_	8	E	8:E	_
+7	television	_	Word	Word	_	8	A	8:A	_
+8	debut	_	Word	Word	_	0	H	0:H	_
+9	on	_	Word	Word	_	18	R	18:R	_
+10	Steve	_	Word	Word	_	16	A	16:A	_
+11	Vizard	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	's	_	Word	Word	_	10	R	10:R	_
+13	late	_	Word	Word	_	14	E	14:E	_
+14	night	_	Word	Word	_	16	T	16:T	_
+15	talk	_	Word	Word	_	16	E	16:E	_
+16	show	_	Word	Word	_	18	E	18:E	_
+17	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+18	Tonight	_	Word	Word	_	8	A	8:A	_
+19	Live	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

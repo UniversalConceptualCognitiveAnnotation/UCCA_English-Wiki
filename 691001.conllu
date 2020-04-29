@@ -1,0 +1,45 @@
+# format = ucca
+# sent_id = 691001
+# text = He befriended and picked up material from many folk singers in the Village scene , including Dave Van Ronk , Fred Neil , Odetta , the New Lost City Ramblers , and Irish musicians Tommy Makem and the Clancy Brothers .
+1	He	_	Word	Word	_	2	A	2:A|4:A	_
+2	befriended	_	Word	Word	_	0	H	0:H	_
+3	and	_	Word	Word	_	4	L	4:L	_
+4	picked	_	Word	Word	_	2	H	2:H	_
+5	up	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	material	_	Word	Word	_	4	A	4:A	_
+7	from	_	Word	Word	_	10	R	10:R	_
+8	many	_	Word	Word	_	10	D	10:D	_
+9	folk	_	Word	Word	_	10	A	10:A	_
+10	singers	_	Word	Word	_	0	P	0:P|2:A	_
+11	in	_	Word	Word	_	14	R	14:R	_
+12	the	_	Word	Word	_	13	F	13:F	_
+13	Village	_	Word	Word	_	14	A	14:A	_
+14	scene	_	Word	Word	_	10	A	10:A	_
+15	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+16	including	_	Word	Word	_	17	R	17:R	_
+17	Dave	_	Word	Word	_	10	E	10:E	_
+18	Van	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	Ronk	_	Word	Word	_	17	Terminal	17:Terminal	_
+20	,	_	Punctuation	Punctuation	_	17	U	17:U	_
+21	Fred	_	Word	Word	_	17	C	17:C	_
+22	Neil	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	,	_	Punctuation	Punctuation	_	17	U	17:U	_
+24	Odetta	_	Word	Word	_	17	C	17:C	_
+25	,	_	Punctuation	Punctuation	_	17	U	17:U	_
+26	the	_	Word	Word	_	17	C	17:C	_
+27	New	_	Word	Word	_	26	Terminal	26:Terminal	_
+28	Lost	_	Word	Word	_	26	Terminal	26:Terminal	_
+29	City	_	Word	Word	_	26	Terminal	26:Terminal	_
+30	Ramblers	_	Word	Word	_	26	Terminal	26:Terminal	_
+31	,	_	Punctuation	Punctuation	_	17	U	17:U	_
+32	and	_	Word	Word	_	17	N	17:N	_
+33	Irish	_	Word	Word	_	34	E	34:E	_
+34	musicians	_	Word	Word	_	0	P	0:P|33:A	_
+35	Tommy	_	Word	Word	_	17	C	17:C	_
+36	Makem	_	Word	Word	_	35	Terminal	35:Terminal	_
+37	and	_	Word	Word	_	35	N	35:N	_
+38	the	_	Word	Word	_	39	E	39:E	_
+39	Clancy	_	Word	Word	_	35	C	35:C	_
+40	Brothers	_	Word	Word	_	39	Terminal	39:Terminal	_
+41	.	_	Punctuation	Punctuation	_	39	U	39:U	_
+

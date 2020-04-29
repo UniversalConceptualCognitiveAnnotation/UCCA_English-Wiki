@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 228008
+# text = He is the lone survivor of his army and must bring a captured enemy soldier Leehom Wang to the capital of his province .
+1	He	_	Word	Word	_	5	A	5:A|11:A	_
+2	is	_	Word	Word	_	5	F	5:F	_
+3	the	_	Word	Word	_	4	F	4:F	_
+4	lone	_	Word	Word	_	5	D	5:D	_
+5	survivor	_	Word	Word	_	0	H	0:H	_
+6	of	_	Word	Word	_	8	R	8:R	_
+7	his	_	Word	Word	_	8	E	8:E	_
+8	army	_	Word	Word	_	5	A	5:A	_
+9	and	_	Word	Word	_	11	L	11:L	_
+10	must	_	Word	Word	_	11	D	11:D	_
+11	bring	_	Word	Word	_	5	H	5:H	_
+12	a	_	Word	Word	_	16	F	16:F	_
+13	captured	_	Word	Word	_	16	E	16:E	_
+14	enemy	_	Word	Word	_	15	E	15:E	_
+15	soldier	_	Word	Word	_	16	E	16:E	_
+16	Leehom	_	Word	Word	_	11	A	11:A	_
+17	Wang	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	to	_	Word	Word	_	20	R	20:R	_
+19	the	_	Word	Word	_	20	F	20:F	_
+20	capital	_	Word	Word	_	11	A	11:A	_
+21	of	_	Word	Word	_	23	R	23:R	_
+22	his	_	Word	Word	_	23	E	23:E	_
+23	province	_	Word	Word	_	20	E	20:E	_
+24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

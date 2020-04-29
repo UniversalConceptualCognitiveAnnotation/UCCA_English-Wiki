@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 538012
+# text = This makeshift theatre , called the Bijou , was furnished with chairs borrowed from a local undertaker .
+1	This	_	Word	Word	_	3	E	3:E	_
+2	makeshift	_	Word	Word	_	3	E	3:E	_
+3	theatre	_	Word	Word	_	10	A	10:A	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	called	_	Word	Word	_	3	E	3:E	_
+6	the	_	Word	Word	_	7	F	7:F	_
+7	Bijou	_	Word	Word	_	5	A	5:A	_
+8	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+9	was	_	Word	Word	_	10	F	10:F	_
+10	furnished	_	Word	Word	_	0	H	0:H	_
+11	with	_	Word	Word	_	12	R	12:R	_
+12	chairs	_	Word	Word	_	10	A	10:A	_
+13	borrowed	_	Word	Word	_	12	E	12:E	_
+14	from	_	Word	Word	_	16	R	16:R	_
+15	a	_	Word	Word	_	16	F	16:F	_
+16	local	_	Word	Word	_	13	A	13:A	_
+17	undertaker	_	Word	Word	_	16	A	16:A	_
+18	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

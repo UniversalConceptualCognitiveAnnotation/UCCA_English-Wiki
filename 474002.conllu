@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 474002
+# text = He insisted that his health was not an issue , while downplaying questions about returning as a player , saying , " I 'm retired . Let 's leave it at that . "
+1	He	_	Word	Word	_	2	A	2:A|12:A|18:A|20:A	_
+2	insisted	_	Word	Word	_	0	H	0:H	_
+3	that	_	Word	Word	_	6	R	6:R	_
+4	his	_	Word	Word	_	5	A	5:A	_
+5	health	_	Word	Word	_	6	A	6:A	_
+6	was	_	Word	Word	_	2	A	2:A	_
+7	not	_	Word	Word	_	6	D	6:D	_
+8	an	_	Word	Word	_	9	F	9:F	_
+9	issue	_	Word	Word	_	6	A	6:A	_
+10	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+11	while	_	Word	Word	_	12	L	12:L	_
+12	downplaying	_	Word	Word	_	2	H	2:H	_
+13	questions	_	Word	Word	_	12	A	12:A	_
+14	about	_	Word	Word	_	18	R	18:R	_
+15	returning	_	Word	Word	_	18	D	18:D	_
+16	as	_	Word	Word	_	18	R	18:R	_
+17	a	_	Word	Word	_	18	F	18:F	_
+18	player	_	Word	Word	_	13	E	13:E	_
+19	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+20	saying	_	Word	Word	_	2	H	2:H	_
+21	,	_	Punctuation	Punctuation	_	20	U	20:U	_
+22	"	_	Punctuation	Punctuation	_	20	U	20:U	_
+23	I	_	Word	Word	_	25	A	25:A	_
+24	'm	_	Word	Word	_	25	F	25:F	_
+25	retired	_	Word	Word	_	20	A	20:A	_
+26	.	_	Punctuation	Punctuation	_	25	U	25:U	_
+27	Let	_	Word	Word	_	29	F	29:F	_
+28	's	_	Word	Word	_	27	Terminal	27:Terminal	_
+29	leave	_	Word	Word	_	25	H	25:H	_
+30	it	_	Word	Word	_	29	Terminal	29:Terminal	_
+31	at	_	Word	Word	_	29	Terminal	29:Terminal	_
+32	that	_	Word	Word	_	29	Terminal	29:Terminal	_
+33	.	_	Punctuation	Punctuation	_	29	U	29:U	_
+34	"	_	Punctuation	Punctuation	_	29	U	29:U	_
+

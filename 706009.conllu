@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 706009
+# text = Between July 1984 and March 1985 , Dylan recorded Empire Burlesque .
+1	Between	_	Word	Word	_	2	R	2:R	_
+2	July	_	Word	Word	_	9	T	9:T	_
+3	1984	_	Word	Word	_	2	C	2:C	_
+4	and	_	Word	Word	_	2	N	2:N	_
+5	March	_	Word	Word	_	2	C	2:C	_
+6	1985	_	Word	Word	_	5	C	5:C	_
+7	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+8	Dylan	_	Word	Word	_	9	A	9:A	_
+9	recorded	_	Word	Word	_	0	H	0:H	_
+10	Empire	_	Word	Word	_	9	A	9:A	_
+11	Burlesque	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

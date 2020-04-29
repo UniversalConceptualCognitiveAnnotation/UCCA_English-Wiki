@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 645015
+# text = When asked , Lennon gave Ono the original handwritten lyrics to " The Word " .
+1	When	_	Word	Word	_	5	L	5:L	_
+2	asked	_	Word	Word	_	0	H	0:H	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	Lennon	_	Word	Word	_	5	A	5:A	_
+5	gave	_	Word	Word	_	2	H	2:H	_
+6	Ono	_	Word	Word	_	5	A	5:A|2:A	_
+7	the	_	Word	Word	_	10	E	10:E	_
+8	original	_	Word	Word	_	10	E	10:E	_
+9	handwritten	_	Word	Word	_	10	E	10:E	_
+10	lyrics	_	Word	Word	_	5	A	5:A	_
+11	to	_	Word	Word	_	13	R	13:R	_
+12	"	_	Punctuation	Punctuation	_	13	U	13:U	_
+13	The	_	Word	Word	_	10	E	10:E	_
+14	Word	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	"	_	Punctuation	Punctuation	_	13	U	13:U	_
+16	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

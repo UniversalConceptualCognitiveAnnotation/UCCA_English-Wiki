@@ -1,0 +1,34 @@
+# format = ucca
+# sent_id = 476001
+# text = Although Andre was raised by his mother , he visited Johnson each summer , and as of October 2005 was working for Magic Johnson Enterprises as a marketing director .
+1	Although	_	Word	Word	_	10	L	10:L	_
+2	Andre	_	Word	Word	_	4	A	4:A|29:A	_
+3	was	_	Word	Word	_	4	F	4:F	_
+4	raised	_	Word	Word	_	0	H	0:H	_
+5	by	_	Word	Word	_	7	R	7:R	_
+6	his	_	Word	Word	_	7	A	7:A	_
+7	mother	_	Word	Word	_	4	A	4:A	_
+8	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+9	he	_	Word	Word	_	10	A	10:A	_
+10	visited	_	Word	Word	_	4	H	4:H	_
+11	Johnson	_	Word	Word	_	10	A	10:A	_
+12	each	_	Word	Word	_	13	E	13:E	_
+13	summer	_	Word	Word	_	10	T	10:T	_
+14	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+15	and	_	Word	Word	_	29	L	29:L	_
+16	as	_	Word	Word	_	18	R	18:R	_
+17	of	_	Word	Word	_	18	R	18:R	_
+18	October	_	Word	Word	_	29	T	29:T	_
+19	2005	_	Word	Word	_	18	C	18:C	_
+20	was	_	Word	Word	_	29	F	29:F	_
+21	working	_	Word	Word	_	29	D	29:D	_
+22	for	_	Word	Word	_	25	R	25:R	_
+23	Magic	_	Word	Word	_	25	E	25:E	_
+24	Johnson	_	Word	Word	_	23	Terminal	23:Terminal	_
+25	Enterprises	_	Word	Word	_	29	A	29:A	_
+26	as	_	Word	Word	_	29	R	29:R	_
+27	a	_	Word	Word	_	29	F	29:F	_
+28	marketing	_	Word	Word	_	29	A	29:A	_
+29	director	_	Word	Word	_	4	H	4:H	_
+30	.	_	Punctuation	Punctuation	_	29	U	29:U	_
+

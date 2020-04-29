@@ -1,0 +1,45 @@
+# format = ucca
+# sent_id = 469000
+# text = In 1981 , after the 1980 - 81 season , Johnson signed a 25 - year , $ 25 - million contract with the Lakers , which was the highest - paying contract in sports history up to that point .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1981	_	Word	Word	_	12	T	12:T	_
+3	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+4	after	_	Word	Word	_	9	L	9:L	_
+5	the	_	Word	Word	_	6	E	6:E	_
+6	1980	_	Word	Word	_	9	T	9:T	_
+7	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	81	_	Word	Word	_	6	C	6:C	_
+9	season	_	Word	Word	_	12	H	12:H	_
+10	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+11	Johnson	_	Word	Word	_	12	A	12:A	_
+12	signed	_	Word	Word	_	0	H	0:H	_
+13	a	_	Word	Word	_	22	E	22:E	_
+14	25	_	Word	Word	_	16	Q	16:Q	_
+15	-	_	Punctuation	Punctuation	_	16	U	16:U	_
+16	year	_	Word	Word	_	22	E	22:E	_
+17	,	_	Punctuation	Punctuation	_	22	U	22:U	_
+18	$	_	Word	Word	_	22	E	22:E	_
+19	25	_	Word	Word	_	18	Q	18:Q	_
+20	-	_	Punctuation	Punctuation	_	19	U	19:U	_
+21	million	_	Word	Word	_	19	Terminal	19:Terminal	_
+22	contract	_	Word	Word	_	12	A	12:A	_
+23	with	_	Word	Word	_	25	R	25:R	_
+24	the	_	Word	Word	_	25	E	25:E	_
+25	Lakers	_	Word	Word	_	12	A	12:A	_
+26	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+27	which	_	Word	Word	_	33	R	33:R	_
+28	was	_	Word	Word	_	33	F	33:F	_
+29	the	_	Word	Word	_	33	E	33:E	_
+30	highest	_	Word	Word	_	32	E	32:E	_
+31	-	_	Punctuation	Punctuation	_	32	U	32:U	_
+32	paying	_	Word	Word	_	33	D	33:D	_
+33	contract	_	Word	Word	_	22	E	22:E	_
+34	in	_	Word	Word	_	36	R	36:R	_
+35	sports	_	Word	Word	_	36	A	36:A	_
+36	history	_	Word	Word	_	33	A	33:A	_
+37	up	_	Word	Word	_	40	R	40:R	_
+38	to	_	Word	Word	_	37	Terminal	37:Terminal	_
+39	that	_	Word	Word	_	40	E	40:E	_
+40	point	_	Word	Word	_	33	T	33:T	_
+41	.	_	Punctuation	Punctuation	_	40	U	40:U	_
+

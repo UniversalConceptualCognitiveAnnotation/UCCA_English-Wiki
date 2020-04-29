@@ -1,0 +1,39 @@
+# format = ucca
+# sent_id = 379004
+# text = In Brokeback Mountain , Gyllenhaal and Heath Ledger play young men who meet as sheep herders and embark upon a sexual relationship that begins in the summer of 1963 and lasts for 20 years .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	Brokeback	_	Word	Word	_	9	A	9:A	_
+3	Mountain	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+5	Gyllenhaal	_	Word	Word	_	9	A	9:A	_
+6	and	_	Word	Word	_	5	N	5:N	_
+7	Heath	_	Word	Word	_	5	C	5:C	_
+8	Ledger	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	play	_	Word	Word	_	0	H	0:H	_
+10	young	_	Word	Word	_	11	E	11:E	_
+11	men	_	Word	Word	_	9	A	9:A	_
+12	who	_	Word	Word	_	13	R	13:R	_
+13	meet	_	Word	Word	_	11	E	11:E	_
+14	as	_	Word	Word	_	16	L	16:L	_
+15	sheep	_	Word	Word	_	16	A	16:A	_
+16	herders	_	Word	Word	_	13	H	13:H	_
+17	and	_	Word	Word	_	24	L	24:L	_
+18	embark	_	Word	Word	_	22	D	22:D	_
+19	upon	_	Word	Word	_	22	R	22:R	_
+20	a	_	Word	Word	_	22	F	22:F	_
+21	sexual	_	Word	Word	_	22	D	22:D	_
+22	relationship	_	Word	Word	_	0	C	0:C|24:P|31:P	_
+23	that	_	Word	Word	_	24	L	24:L	_
+24	begins	_	Word	Word	_	13	H	13:H	_
+25	in	_	Word	Word	_	27	R	27:R	_
+26	the	_	Word	Word	_	27	F	27:F	_
+27	summer	_	Word	Word	_	24	T	24:T	_
+28	of	_	Word	Word	_	27	R	27:R	_
+29	1963	_	Word	Word	_	27	C	27:C	_
+30	and	_	Word	Word	_	31	L	31:L	_
+31	lasts	_	Word	Word	_	13	H	13:H	_
+32	for	_	Word	Word	_	34	R	34:R	_
+33	20	_	Word	Word	_	34	Q	34:Q	_
+34	years	_	Word	Word	_	31	T	31:T	_
+35	.	_	Punctuation	Punctuation	_	34	U	34:U	_
+

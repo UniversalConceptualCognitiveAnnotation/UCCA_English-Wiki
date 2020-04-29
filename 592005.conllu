@@ -1,0 +1,41 @@
+# format = ucca
+# sent_id = 592005
+# text = In 1998 , following a four - year relationship with British supermodel Kate Moss , Depp began a relationship with Vanessa Paradis , a French actress and singer whom he met while filming The Ninth Gate .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1998	_	Word	Word	_	19	T	19:T	_
+3	,	_	Punctuation	Punctuation	_	19	U	19:U	_
+4	following	_	Word	Word	_	9	L	9:L	_
+5	a	_	Word	Word	_	9	F	9:F	_
+6	four	_	Word	Word	_	8	Q	8:Q	_
+7	-	_	Punctuation	Punctuation	_	8	U	8:U	_
+8	year	_	Word	Word	_	9	T	9:T	_
+9	relationship	_	Word	Word	_	19	H	19:H	_
+10	with	_	Word	Word	_	13	R	13:R	_
+11	British	_	Word	Word	_	12	E	12:E	_
+12	supermodel	_	Word	Word	_	0	A	0:A|11:A	_
+13	Kate	_	Word	Word	_	9	A	9:A	_
+14	Moss	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+16	Depp	_	Word	Word	_	19	A	19:A|9:A	_
+17	began	_	Word	Word	_	19	D	19:D	_
+18	a	_	Word	Word	_	19	E	19:E	_
+19	relationship	_	Word	Word	_	0	H	0:H	_
+20	with	_	Word	Word	_	21	R	21:R	_
+21	Vanessa	_	Word	Word	_	19	A	19:A	_
+22	Paradis	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	,	_	Punctuation	Punctuation	_	21	U	21:U	_
+24	a	_	Word	Word	_	26	E	26:E	_
+25	French	_	Word	Word	_	26	E	26:E	_
+26	actress	_	Word	Word	_	21	E	21:E	_
+27	and	_	Word	Word	_	26	N	26:N	_
+28	singer	_	Word	Word	_	26	C	26:C	_
+29	whom	_	Word	Word	_	31	R	31:R	_
+30	he	_	Word	Word	_	31	A	31:A|33:A	_
+31	met	_	Word	Word	_	21	E	21:E	_
+32	while	_	Word	Word	_	33	L	33:L	_
+33	filming	_	Word	Word	_	31	H	31:H	_
+34	The	_	Word	Word	_	33	A	33:A	_
+35	Ninth	_	Word	Word	_	34	Terminal	34:Terminal	_
+36	Gate	_	Word	Word	_	34	Terminal	34:Terminal	_
+37	.	_	Punctuation	Punctuation	_	33	U	33:U	_
+

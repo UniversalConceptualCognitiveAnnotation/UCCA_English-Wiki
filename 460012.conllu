@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 460012
+# text = Despite the success of the TV series and heavy promotion by the book 's publisher , In Search of America failed to generate much interest or sales .
+1	Despite	_	Word	Word	_	10	L	10:L	_
+2	the	_	Word	Word	_	3	E	3:E	_
+3	success	_	Word	Word	_	0	H	0:H	_
+4	of	_	Word	Word	_	7	R	7:R	_
+5	the	_	Word	Word	_	7	E	7:E	_
+6	TV	_	Word	Word	_	7	E	7:E	_
+7	series	_	Word	Word	_	3	A	3:A	_
+8	and	_	Word	Word	_	10	L	10:L	_
+9	heavy	_	Word	Word	_	10	D	10:D	_
+10	promotion	_	Word	Word	_	3	H	3:H	_
+11	by	_	Word	Word	_	15	R	15:R	_
+12	the	_	Word	Word	_	15	E	15:E	_
+13	book	_	Word	Word	_	15	E	15:E	_
+14	's	_	Word	Word	_	13	R	13:R	_
+15	publisher	_	Word	Word	_	10	A	10:A	_
+16	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+17	In	_	Word	Word	_	23	A	23:A	_
+18	Search	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	of	_	Word	Word	_	17	Terminal	17:Terminal	_
+20	America	_	Word	Word	_	17	Terminal	17:Terminal	_
+21	failed	_	Word	Word	_	23	D	23:D	_
+22	to	_	Word	Word	_	23	F	23:F	_
+23	generate	_	Word	Word	_	3	H	3:H	_
+24	much	_	Word	Word	_	25	E	25:E	_
+25	interest	_	Word	Word	_	23	A	23:A	_
+26	or	_	Word	Word	_	25	N	25:N	_
+27	sales	_	Word	Word	_	25	C	25:C	_
+28	.	_	Punctuation	Punctuation	_	25	U	25:U	_
+

@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 1020006
+# text = In 1966 , they won a major local talent show with renditions of Motown hits and James Brown 's " I Got You ( I Feel Good ) " , led by Michael .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1966	_	Word	Word	_	5	T	5:T	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	they	_	Word	Word	_	5	A	5:A|12:A	_
+5	won	_	Word	Word	_	0	H	0:H	_
+6	a	_	Word	Word	_	10	F	10:F	_
+7	major	_	Word	Word	_	10	D	10:D	_
+8	local	_	Word	Word	_	10	A	10:A	_
+9	talent	_	Word	Word	_	10	A	10:A	_
+10	show	_	Word	Word	_	5	A	5:A	_
+11	with	_	Word	Word	_	12	L	12:L	_
+12	renditions	_	Word	Word	_	5	H	5:H	_
+13	of	_	Word	Word	_	15	R	15:R	_
+14	Motown	_	Word	Word	_	15	E	15:E	_
+15	hits	_	Word	Word	_	12	A	12:A	_
+16	and	_	Word	Word	_	15	N	15:N	_
+17	James	_	Word	Word	_	19	A	19:A	_
+18	Brown	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	's	_	Word	Word	_	21	E	21:E	_
+20	"	_	Punctuation	Punctuation	_	19	U	19:U	_
+21	I	_	Word	Word	_	15	C	15:C	_
+22	Got	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	You	_	Word	Word	_	21	Terminal	21:Terminal	_
+24	(	_	Punctuation	Punctuation	_	21	U	21:U	_
+25	I	_	Word	Word	_	21	Terminal	21:Terminal	_
+26	Feel	_	Word	Word	_	21	Terminal	21:Terminal	_
+27	Good	_	Word	Word	_	21	Terminal	21:Terminal	_
+28	)	_	Punctuation	Punctuation	_	5	U	5:U	_
+29	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+30	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+31	led	_	Word	Word	_	5	H	5:H	_
+32	by	_	Word	Word	_	33	R	33:R	_
+33	Michael	_	Word	Word	_	31	A	31:A	_
+34	.	_	Punctuation	Punctuation	_	33	U	33:U	_
+

@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 494004
+# text = Bowie received a serious injury at school in 1962 when his friend George Underwood punched him in the left eye during a fight over a girl .
+1	Bowie	_	Word	Word	_	5	A	5:A|23:A	_
+2	received	_	Word	Word	_	5	D	5:D	_
+3	a	_	Word	Word	_	5	E	5:E	_
+4	serious	_	Word	Word	_	5	D	5:D	_
+5	injury	_	Word	Word	_	0	H	0:H	_
+6	at	_	Word	Word	_	7	R	7:R	_
+7	school	_	Word	Word	_	5	A	5:A	_
+8	in	_	Word	Word	_	9	R	9:R	_
+9	1962	_	Word	Word	_	5	T	5:T	_
+10	when	_	Word	Word	_	15	L	15:L	_
+11	his	_	Word	Word	_	12	A	12:A	_
+12	friend	_	Word	Word	_	13	E	13:E	_
+13	George	_	Word	Word	_	0	C	0:C|23:A	_
+14	Underwood	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	punched	_	Word	Word	_	5	H	5:H	_
+16	him	_	Word	Word	_	15	A	15:A	_
+17	in	_	Word	Word	_	20	R	20:R	_
+18	the	_	Word	Word	_	20	E	20:E	_
+19	left	_	Word	Word	_	20	E	20:E	_
+20	eye	_	Word	Word	_	15	A	15:A	_
+21	during	_	Word	Word	_	23	L	23:L	_
+22	a	_	Word	Word	_	23	E	23:E	_
+23	fight	_	Word	Word	_	5	H	5:H	_
+24	over	_	Word	Word	_	26	R	26:R	_
+25	a	_	Word	Word	_	26	E	26:E	_
+26	girl	_	Word	Word	_	23	A	23:A	_
+27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+

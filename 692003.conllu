@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 692003
+# text = The film recording of The Madhouse on Castle Street was destroyed by the BBC in 1968 .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	film	_	Word	Word	_	3	A	3:A	_
+3	recording	_	Word	Word	_	11	A	11:A	_
+4	of	_	Word	Word	_	6	R	6:R	_
+5	The	_	Word	Word	_	6	E	6:E	_
+6	Madhouse	_	Word	Word	_	3	A	3:A	_
+7	on	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	Castle	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	Street	_	Word	Word	_	6	Terminal	6:Terminal	_
+10	was	_	Word	Word	_	11	F	11:F	_
+11	destroyed	_	Word	Word	_	0	H	0:H	_
+12	by	_	Word	Word	_	14	R	14:R	_
+13	the	_	Word	Word	_	14	E	14:E	_
+14	BBC	_	Word	Word	_	11	A	11:A	_
+15	in	_	Word	Word	_	16	R	16:R	_
+16	1968	_	Word	Word	_	11	T	11:T	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

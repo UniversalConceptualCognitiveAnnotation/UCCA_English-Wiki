@@ -1,0 +1,49 @@
+# format = ucca
+# sent_id = 184001
+# text = Davis later recalled that it inspired her full commitment to her chosen career , and said , " Before that performance I wanted to be an actress . When it ended , I had to be an actress ... exactly like Peg Entwistle . "
+1	Davis	_	Word	Word	_	3	A	3:A|16:A	_
+2	later	_	Word	Word	_	3	T	3:T	_
+3	recalled	_	Word	Word	_	0	H	0:H	_
+4	that	_	Word	Word	_	6	R	6:R	_
+5	it	_	Word	Word	_	6	A	6:A	_
+6	inspired	_	Word	Word	_	3	A	3:A	_
+7	her	_	Word	Word	_	9	A	9:A	_
+8	full	_	Word	Word	_	9	D	9:D	_
+9	commitment	_	Word	Word	_	6	A	6:A	_
+10	to	_	Word	Word	_	13	R	13:R	_
+11	her	_	Word	Word	_	13	A	13:A	_
+12	chosen	_	Word	Word	_	13	D	13:D	_
+13	career	_	Word	Word	_	9	A	9:A	_
+14	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+15	and	_	Word	Word	_	16	L	16:L	_
+16	said	_	Word	Word	_	3	H	3:H	_
+17	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+18	"	_	Punctuation	Punctuation	_	16	U	16:U	_
+19	Before	_	Word	Word	_	23	L	23:L	_
+20	that	_	Word	Word	_	21	E	21:E	_
+21	performance	_	Word	Word	_	0	P	0:P|30:P	_
+22	I	_	Word	Word	_	23	A	23:A|27:A	_
+23	wanted	_	Word	Word	_	21	H	21:H	_
+24	to	_	Word	Word	_	27	F	27:F	_
+25	be	_	Word	Word	_	27	F	27:F	_
+26	an	_	Word	Word	_	27	F	27:F	_
+27	actress	_	Word	Word	_	23	A	23:A	_
+28	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+29	When	_	Word	Word	_	30	L	30:L	_
+30	it	_	Word	Word	_	21	H	21:H	_
+31	ended	_	Word	Word	_	30	D	30:D	_
+32	,	_	Punctuation	Punctuation	_	21	U	21:U	_
+33	I	_	Word	Word	_	38	A	38:A	_
+34	had	_	Word	Word	_	38	D	38:D	_
+35	to	_	Word	Word	_	38	F	38:F	_
+36	be	_	Word	Word	_	38	F	38:F	_
+37	an	_	Word	Word	_	38	F	38:F	_
+38	actress	_	Word	Word	_	21	H	21:H	_
+39	...	_	Punctuation	Punctuation	_	21	U	21:U	_
+40	exactly	_	Word	Word	_	41	E	41:E	_
+41	like	_	Word	Word	_	42	L	42:L	_
+42	Peg	_	Word	Word	_	21	H	21:H	_
+43	Entwistle	_	Word	Word	_	42	Terminal	42:Terminal	_
+44	.	_	Punctuation	Punctuation	_	42	U	42:U	_
+45	"	_	Punctuation	Punctuation	_	42	U	42:U	_
+

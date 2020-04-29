@@ -1,0 +1,49 @@
+# format = ucca
+# sent_id = 125006
+# text = She was released from the role after the playwright took a dislike to her , saying " She looks a fright , her manner is objectionable , and she has no talent " , but then rehired when no other actress could be found .
+1	She	_	Word	Word	_	3	A	3:A	_
+2	was	_	Word	Word	_	3	F	3:F	_
+3	released	_	Word	Word	_	0	H	0:H	_
+4	from	_	Word	Word	_	6	R	6:R	_
+5	the	_	Word	Word	_	6	E	6:E	_
+6	role	_	Word	Word	_	3	A	3:A	_
+7	after	_	Word	Word	_	12	L	12:L	_
+8	the	_	Word	Word	_	9	E	9:E	_
+9	playwright	_	Word	Word	_	0	C	0:C|16:A	_
+10	took	_	Word	Word	_	12	F	12:F	_
+11	a	_	Word	Word	_	12	F	12:F	_
+12	dislike	_	Word	Word	_	3	H	3:H	_
+13	to	_	Word	Word	_	14	R	14:R	_
+14	her	_	Word	Word	_	12	A	12:A	_
+15	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+16	saying	_	Word	Word	_	3	H	3:H	_
+17	"	_	Punctuation	Punctuation	_	16	U	16:U	_
+18	She	_	Word	Word	_	19	A	19:A	_
+19	looks	_	Word	Word	_	16	A	16:A	_
+20	a	_	Word	Word	_	21	F	21:F	_
+21	fright	_	Word	Word	_	19	A	19:A	_
+22	,	_	Punctuation	Punctuation	_	19	U	19:U	_
+23	her	_	Word	Word	_	24	A	24:A	_
+24	manner	_	Word	Word	_	19	H	19:H	_
+25	is	_	Word	Word	_	24	F	24:F	_
+26	objectionable	_	Word	Word	_	24	D	24:D	_
+27	,	_	Punctuation	Punctuation	_	19	U	19:U	_
+28	and	_	Word	Word	_	32	L	32:L	_
+29	she	_	Word	Word	_	32	A	32:A|37:A	_
+30	has	_	Word	Word	_	32	F	32:F	_
+31	no	_	Word	Word	_	32	D	32:D	_
+32	talent	_	Word	Word	_	19	H	19:H	_
+33	"	_	Punctuation	Punctuation	_	3	U	3:U	_
+34	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+35	but	_	Word	Word	_	37	L	37:L	_
+36	then	_	Word	Word	_	37	L	37:L	_
+37	rehired	_	Word	Word	_	3	H	3:H	_
+38	when	_	Word	Word	_	44	L	44:L	_
+39	no	_	Word	Word	_	44	D	44:D	_
+40	other	_	Word	Word	_	41	E	41:E	_
+41	actress	_	Word	Word	_	44	A	44:A	_
+42	could	_	Word	Word	_	44	D	44:D	_
+43	be	_	Word	Word	_	44	F	44:F	_
+44	found	_	Word	Word	_	3	H	3:H	_
+45	.	_	Punctuation	Punctuation	_	44	U	44:U	_
+

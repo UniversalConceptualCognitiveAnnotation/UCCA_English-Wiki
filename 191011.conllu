@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 191011
+# text = He wrote some quips for Sean Connery and Nicolas Cage in The Rock .
+1	He	_	Word	Word	_	2	A	2:A	_
+2	wrote	_	Word	Word	_	0	H	0:H	_
+3	some	_	Word	Word	_	4	Q	4:Q	_
+4	quips	_	Word	Word	_	2	A	2:A	_
+5	for	_	Word	Word	_	6	R	6:R	_
+6	Sean	_	Word	Word	_	2	A	2:A	_
+7	Connery	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	and	_	Word	Word	_	6	N	6:N	_
+9	Nicolas	_	Word	Word	_	6	C	6:C	_
+10	Cage	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	in	_	Word	Word	_	12	R	12:R	_
+12	The	_	Word	Word	_	6	E	6:E	_
+13	Rock	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+

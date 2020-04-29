@@ -1,0 +1,42 @@
+# format = ucca
+# sent_id = 468003
+# text = Johnson averaged 18.0 points , 7.7 rebounds , and 7.3 assists per game for the season , was selected to the NBA All - Rookie Team , and was named an NBA All - Star Game starter .
+1	Johnson	_	Word	Word	_	2	A	2:A|7:A|11:A|19:A|30:A	_
+2	averaged	_	Word	Word	_	0	H	0:H	_
+3	18.0	_	Word	Word	_	4	Q	4:Q	_
+4	points	_	Word	Word	_	2	A	2:A	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	7.7	_	Word	Word	_	7	Q	7:Q	_
+7	rebounds	_	Word	Word	_	4	C	4:C	_
+8	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+9	and	_	Word	Word	_	4	N	4:N	_
+10	7.3	_	Word	Word	_	11	Q	11:Q	_
+11	assists	_	Word	Word	_	4	C	4:C	_
+12	per	_	Word	Word	_	13	R	13:R	_
+13	game	_	Word	Word	_	4	E	4:E	_
+14	for	_	Word	Word	_	16	R	16:R	_
+15	the	_	Word	Word	_	16	E	16:E	_
+16	season	_	Word	Word	_	2	T	2:T	_
+17	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+18	was	_	Word	Word	_	19	F	19:F	_
+19	selected	_	Word	Word	_	2	H	2:H	_
+20	to	_	Word	Word	_	22	R	22:R	_
+21	the	_	Word	Word	_	22	E	22:E	_
+22	NBA	_	Word	Word	_	19	A	19:A	_
+23	All	_	Word	Word	_	25	E	25:E	_
+24	-	_	Punctuation	Punctuation	_	25	U	25:U	_
+25	Rookie	_	Word	Word	_	26	E	26:E	_
+26	Team	_	Word	Word	_	22	E	22:E	_
+27	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+28	and	_	Word	Word	_	30	L	30:L	_
+29	was	_	Word	Word	_	30	F	30:F	_
+30	named	_	Word	Word	_	2	H	2:H	_
+31	an	_	Word	Word	_	37	E	37:E	_
+32	NBA	_	Word	Word	_	37	E	37:E	_
+33	All	_	Word	Word	_	37	E	37:E	_
+34	-	_	Punctuation	Punctuation	_	33	U	33:U	_
+35	Star	_	Word	Word	_	33	Terminal	33:Terminal	_
+36	Game	_	Word	Word	_	37	E	37:E	_
+37	starter	_	Word	Word	_	30	A	30:A	_
+38	.	_	Punctuation	Punctuation	_	37	U	37:U	_
+

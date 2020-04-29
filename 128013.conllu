@@ -1,0 +1,54 @@
+# format = ucca
+# sent_id = 128013
+# text = Hepburn refused , and paid Harris $ 14,000 to close the production instead . She later referred to Harris as " hands - down the most diabolical person I have ever met " , and claimed this experience was important in teaching her to take responsibility for her career .
+1	Hepburn	_	Word	Word	_	2	A	2:A|5:A	_
+2	refused	_	Word	Word	_	0	H	0:H	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	and	_	Word	Word	_	5	L	5:L	_
+5	paid	_	Word	Word	_	2	H	2:H	_
+6	Harris	_	Word	Word	_	5	A	5:A|10:A	_
+7	$	_	Word	Word	_	5	Terminal	5:Terminal	_
+8	14,000	_	Word	Word	_	5	A	5:A	_
+9	to	_	Word	Word	_	10	R	10:R	_
+10	close	_	Word	Word	_	5	A	5:A	_
+11	the	_	Word	Word	_	12	E	12:E	_
+12	production	_	Word	Word	_	10	A	10:A	_
+13	instead	_	Word	Word	_	4	Terminal	4:Terminal	_
+14	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+15	She	_	Word	Word	_	17	A	17:A|36:A	_
+16	later	_	Word	Word	_	17	T	17:T	_
+17	referred	_	Word	Word	_	2	H	2:H	_
+18	to	_	Word	Word	_	19	R	19:R	_
+19	Harris	_	Word	Word	_	17	A	17:A	_
+20	as	_	Word	Word	_	27	R	27:R	_
+21	"	_	Punctuation	Punctuation	_	27	U	27:U	_
+22	hands	_	Word	Word	_	27	G	27:G	_
+23	-	_	Punctuation	Punctuation	_	22	U	22:U	_
+24	down	_	Word	Word	_	22	Terminal	22:Terminal	_
+25	the	_	Word	Word	_	28	E	28:E	_
+26	most	_	Word	Word	_	27	D	27:D	_
+27	diabolical	_	Word	Word	_	17	A	17:A	_
+28	person	_	Word	Word	_	27	A	27:A	_
+29	I	_	Word	Word	_	32	A	32:A	_
+30	have	_	Word	Word	_	32	F	32:F	_
+31	ever	_	Word	Word	_	32	T	32:T	_
+32	met	_	Word	Word	_	27	A	27:A	_
+33	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+34	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+35	and	_	Word	Word	_	36	L	36:L	_
+36	claimed	_	Word	Word	_	2	H	2:H	_
+37	this	_	Word	Word	_	38	E	38:E	_
+38	experience	_	Word	Word	_	42	A	42:A	_
+39	was	_	Word	Word	_	42	F	42:F	_
+40	important	_	Word	Word	_	42	D	42:D	_
+41	in	_	Word	Word	_	42	F	42:F	_
+42	teaching	_	Word	Word	_	36	A	36:A	_
+43	her	_	Word	Word	_	42	A	42:A|46:A	_
+44	to	_	Word	Word	_	46	R	46:R	_
+45	take	_	Word	Word	_	46	F	46:F	_
+46	responsibility	_	Word	Word	_	42	A	42:A	_
+47	for	_	Word	Word	_	49	R	49:R	_
+48	her	_	Word	Word	_	49	E	49:E	_
+49	career	_	Word	Word	_	46	A	46:A	_
+50	.	_	Punctuation	Punctuation	_	49	U	49:U	_
+

@@ -1,0 +1,35 @@
+# format = ucca
+# sent_id = 1026000
+# text = Jackson 's skin had been a medium - brown color for the entire duration of his youth , but starting in the mid - 1980s , it gradually grew paler .
+1	Jackson	_	Word	Word	_	3	E	3:E	_
+2	's	_	Word	Word	_	1	R	1:R	_
+3	skin	_	Word	Word	_	10	A	10:A	_
+4	had	_	Word	Word	_	10	F	10:F	_
+5	been	_	Word	Word	_	10	F	10:F	_
+6	a	_	Word	Word	_	10	F	10:F	_
+7	medium	_	Word	Word	_	10	D	10:D	_
+8	-	_	Punctuation	Punctuation	_	10	U	10:U	_
+9	brown	_	Word	Word	_	10	E	10:E	_
+10	color	_	Word	Word	_	0	H	0:H	_
+11	for	_	Word	Word	_	14	R	14:R	_
+12	the	_	Word	Word	_	14	E	14:E	_
+13	entire	_	Word	Word	_	14	E	14:E	_
+14	duration	_	Word	Word	_	10	T	10:T	_
+15	of	_	Word	Word	_	17	R	17:R	_
+16	his	_	Word	Word	_	17	A	17:A	_
+17	youth	_	Word	Word	_	14	E	14:E	_
+18	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+19	but	_	Word	Word	_	30	L	30:L	_
+20	starting	_	Word	Word	_	25	R	25:R	_
+21	in	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	the	_	Word	Word	_	25	E	25:E	_
+23	mid	_	Word	Word	_	25	E	25:E	_
+24	-	_	Punctuation	Punctuation	_	25	U	25:U	_
+25	1980s	_	Word	Word	_	30	T	30:T	_
+26	,	_	Punctuation	Punctuation	_	30	U	30:U	_
+27	it	_	Word	Word	_	30	A	30:A	_
+28	gradually	_	Word	Word	_	30	D	30:D	_
+29	grew	_	Word	Word	_	30	D	30:D	_
+30	paler	_	Word	Word	_	10	H	10:H	_
+31	.	_	Punctuation	Punctuation	_	30	U	30:U	_
+

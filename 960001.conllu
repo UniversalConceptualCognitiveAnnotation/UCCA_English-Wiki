@@ -1,0 +1,48 @@
+# format = ucca
+# sent_id = 960001
+# text = Tennessee Williams commented that Leigh brought to the role " everything that I intended , and much that I had never dreamed of " but , in later years , Leigh would say playing Blanche DuBois " tipped me over into madness . "
+1	Tennessee	_	Word	Word	_	3	A	3:A	_
+2	Williams	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	commented	_	Word	Word	_	0	H	0:H	_
+4	that	_	Word	Word	_	6	R	6:R	_
+5	Leigh	_	Word	Word	_	6	A	6:A	_
+6	brought	_	Word	Word	_	3	A	3:A	_
+7	to	_	Word	Word	_	9	R	9:R	_
+8	the	_	Word	Word	_	9	E	9:E	_
+9	role	_	Word	Word	_	6	A	6:A	_
+10	"	_	Punctuation	Punctuation	_	6	U	6:U	_
+11	everything	_	Word	Word	_	6	A	6:A	_
+12	that	_	Word	Word	_	14	R	14:R	_
+13	I	_	Word	Word	_	14	A	14:A	_
+14	intended	_	Word	Word	_	11	E	11:E	_
+15	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+16	and	_	Word	Word	_	11	N	11:N	_
+17	much	_	Word	Word	_	11	C	11:C	_
+18	that	_	Word	Word	_	22	R	22:R	_
+19	I	_	Word	Word	_	22	A	22:A	_
+20	had	_	Word	Word	_	22	F	22:F	_
+21	never	_	Word	Word	_	22	D	22:D	_
+22	dreamed	_	Word	Word	_	17	E	17:E	_
+23	of	_	Word	Word	_	22	A	22:A	_
+24	"	_	Punctuation	Punctuation	_	3	U	3:U	_
+25	but	_	Word	Word	_	33	L	33:L	_
+26	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+27	in	_	Word	Word	_	29	R	29:R	_
+28	later	_	Word	Word	_	29	E	29:E	_
+29	years	_	Word	Word	_	33	T	33:T	_
+30	,	_	Punctuation	Punctuation	_	33	U	33:U	_
+31	Leigh	_	Word	Word	_	33	A	33:A	_
+32	would	_	Word	Word	_	33	D	33:D	_
+33	say	_	Word	Word	_	3	H	3:H	_
+34	playing	_	Word	Word	_	42	A	42:A	_
+35	Blanche	_	Word	Word	_	34	A	34:A	_
+36	DuBois	_	Word	Word	_	35	Terminal	35:Terminal	_
+37	"	_	Punctuation	Punctuation	_	42	U	42:U	_
+38	tipped	_	Word	Word	_	42	D	42:D	_
+39	me	_	Word	Word	_	42	A	42:A|34:A	_
+40	over	_	Word	Word	_	38	Terminal	38:Terminal	_
+41	into	_	Word	Word	_	42	R	42:R	_
+42	madness	_	Word	Word	_	33	A	33:A	_
+43	.	_	Punctuation	Punctuation	_	42	U	42:U	_
+44	"	_	Punctuation	Punctuation	_	42	U	42:U	_
+

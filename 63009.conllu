@@ -1,0 +1,45 @@
+# format = ucca
+# sent_id = 63009
+# text = He has admitted to feeling under pressure when making the film and thought it one of his " weakest performances ... It 's so weird that it ended up being the one that I got the most attention for . "
+1	He	_	Word	Word	_	3	A	3:A|7:A|9:A|13:A	_
+2	has	_	Word	Word	_	3	F	3:F	_
+3	admitted	_	Word	Word	_	0	H	0:H	_
+4	to	_	Word	Word	_	7	R	7:R	_
+5	feeling	_	Word	Word	_	7	D	7:D	_
+6	under	_	Word	Word	_	7	R	7:R	_
+7	pressure	_	Word	Word	_	3	A	3:A	_
+8	when	_	Word	Word	_	9	L	9:L	_
+9	making	_	Word	Word	_	7	H	7:H	_
+10	the	_	Word	Word	_	11	E	11:E	_
+11	film	_	Word	Word	_	0	C	0:C|39:C	_
+12	and	_	Word	Word	_	13	L	13:L	_
+13	thought	_	Word	Word	_	3	H	3:H	_
+14	it	_	Word	Word	_	13	A	13:A	_
+15	one	_	Word	Word	_	20	D	20:D	_
+16	of	_	Word	Word	_	20	R	20:R	_
+17	his	_	Word	Word	_	20	A	20:A	_
+18	"	_	Punctuation	Punctuation	_	20	U	20:U	_
+19	weakest	_	Word	Word	_	20	D	20:D	_
+20	performances	_	Word	Word	_	13	A	13:A	_
+21	...	_	Punctuation	Punctuation	_	3	U	3:U	_
+22	It	_	Word	Word	_	25	F	25:F	_
+23	's	_	Word	Word	_	25	F	25:F	_
+24	so	_	Word	Word	_	25	D	25:D	_
+25	weird	_	Word	Word	_	3	H	3:H	_
+26	that	_	Word	Word	_	30	R	30:R	_
+27	it	_	Word	Word	_	30	A	30:A	_
+28	ended	_	Word	Word	_	30	D	30:D	_
+29	up	_	Word	Word	_	28	Terminal	28:Terminal	_
+30	being	_	Word	Word	_	25	A	25:A	_
+31	the	_	Word	Word	_	32	E	32:E	_
+32	one	_	Word	Word	_	30	A	30:A	_
+33	that	_	Word	Word	_	38	R	38:R	_
+34	I	_	Word	Word	_	38	A	38:A	_
+35	got	_	Word	Word	_	38	D	38:D	_
+36	the	_	Word	Word	_	37	E	37:E	_
+37	most	_	Word	Word	_	38	D	38:D	_
+38	attention	_	Word	Word	_	32	E	32:E	_
+39	for	_	Word	Word	_	38	A	38:A	_
+40	.	_	Punctuation	Punctuation	_	39	U	39:U	_
+41	"	_	Punctuation	Punctuation	_	39	U	39:U	_
+

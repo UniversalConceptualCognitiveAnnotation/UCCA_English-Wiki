@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 1028005
+# text = In 1988 , Jackson released his only autobiography , Moonwalk , which took four years to complete and sold 200 , 000 copies .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1988	_	Word	Word	_	5	T	5:T	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	Jackson	_	Word	Word	_	5	A	5:A	_
+5	released	_	Word	Word	_	0	H	0:H	_
+6	his	_	Word	Word	_	8	E	8:E	_
+7	only	_	Word	Word	_	8	E	8:E	_
+8	autobiography	_	Word	Word	_	10	E	10:E	_
+9	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+10	Moonwalk	_	Word	Word	_	5	A	5:A	_
+11	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	which	_	Word	Word	_	17	R	17:R	_
+13	took	_	Word	Word	_	15	F	15:F	_
+14	four	_	Word	Word	_	15	Q	15:Q	_
+15	years	_	Word	Word	_	17	D	17:D	_
+16	to	_	Word	Word	_	17	F	17:F	_
+17	complete	_	Word	Word	_	10	E	10:E	_
+18	and	_	Word	Word	_	19	L	19:L	_
+19	sold	_	Word	Word	_	17	H	17:H	_
+20	200	_	Word	Word	_	23	Q	23:Q	_
+21	,	_	Punctuation	Punctuation	_	20	U	20:U	_
+22	000	_	Word	Word	_	20	Terminal	20:Terminal	_
+23	copies	_	Word	Word	_	19	A	19:A	_
+24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

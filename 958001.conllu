@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 958001
+# text = Leigh performed for troops before falling ill with a persistent cough and fevers .
+1	Leigh	_	Word	Word	_	2	A	2:A|11:A	_
+2	performed	_	Word	Word	_	0	H	0:H	_
+3	for	_	Word	Word	_	4	R	4:R	_
+4	troops	_	Word	Word	_	2	A	2:A	_
+5	before	_	Word	Word	_	11	L	11:L	_
+6	falling	_	Word	Word	_	11	D	11:D|13:D	_
+7	ill	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	with	_	Word	Word	_	11	R	11:R	_
+9	a	_	Word	Word	_	11	E	11:E	_
+10	persistent	_	Word	Word	_	11	D	11:D	_
+11	cough	_	Word	Word	_	2	H	2:H	_
+12	and	_	Word	Word	_	13	L	13:L	_
+13	fevers	_	Word	Word	_	2	H	2:H	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

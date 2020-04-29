@@ -1,0 +1,49 @@
+# format = ucca
+# sent_id = 607009
+# text = In 1982 McCartney collaborated with Stevie Wonder on the Martin - produced number - one hit " Ebony and Ivory " , included on McCartney 's Tug of War LP , and with Michael Jackson on " The Girl Is Mine " from Thriller .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1982	_	Word	Word	_	4	T	4:T	_
+3	McCartney	_	Word	Word	_	4	A	4:A|34:A	_
+4	collaborated	_	Word	Word	_	0	H	0:H	_
+5	with	_	Word	Word	_	6	R	6:R	_
+6	Stevie	_	Word	Word	_	4	A	4:A	_
+7	Wonder	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	on	_	Word	Word	_	18	R	18:R	_
+9	the	_	Word	Word	_	16	F	16:F	_
+10	Martin	_	Word	Word	_	12	A	12:A	_
+11	-	_	Punctuation	Punctuation	_	12	U	12:U	_
+12	produced	_	Word	Word	_	16	E	16:E	_
+13	number	_	Word	Word	_	16	E	16:E	_
+14	-	_	Punctuation	Punctuation	_	13	U	13:U	_
+15	one	_	Word	Word	_	13	Q	13:Q	_
+16	hit	_	Word	Word	_	18	E	18:E	_
+17	"	_	Punctuation	Punctuation	_	18	U	18:U	_
+18	Ebony	_	Word	Word	_	4	A	4:A	_
+19	and	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	Ivory	_	Word	Word	_	18	Terminal	18:Terminal	_
+21	"	_	Punctuation	Punctuation	_	18	U	18:U	_
+22	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+23	included	_	Word	Word	_	18	E	18:E	_
+24	on	_	Word	Word	_	27	R	27:R	_
+25	McCartney	_	Word	Word	_	26	A	26:A	_
+26	's	_	Word	Word	_	27	E	27:E	_
+27	Tug	_	Word	Word	_	23	A	23:A	_
+28	of	_	Word	Word	_	27	Terminal	27:Terminal	_
+29	War	_	Word	Word	_	27	Terminal	27:Terminal	_
+30	LP	_	Word	Word	_	27	E	27:E	_
+31	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+32	and	_	Word	Word	_	34	L	34:L	_
+33	with	_	Word	Word	_	34	R	34:R	_
+34	Michael	_	Word	Word	_	4	H	4:H	_
+35	Jackson	_	Word	Word	_	34	Terminal	34:Terminal	_
+36	on	_	Word	Word	_	38	R	38:R	_
+37	"	_	Punctuation	Punctuation	_	38	U	38:U	_
+38	The	_	Word	Word	_	34	A	34:A	_
+39	Girl	_	Word	Word	_	38	Terminal	38:Terminal	_
+40	Is	_	Word	Word	_	38	Terminal	38:Terminal	_
+41	Mine	_	Word	Word	_	38	Terminal	38:Terminal	_
+42	"	_	Punctuation	Punctuation	_	38	U	38:U	_
+43	from	_	Word	Word	_	38	E	38:E	_
+44	Thriller	_	Word	Word	_	43	A	43:A	_
+45	.	_	Punctuation	Punctuation	_	43	U	43:U	_
+

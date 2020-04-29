@@ -1,0 +1,39 @@
+# format = ucca
+# sent_id = 134006
+# text = Without Love received poor reviews , but a new Tracy - Hepburn picture was a big event and it was popular on release , selling a record number of tickets over Easter weekend 1945 .
+1	Without	_	Word	Word	_	5	A	5:A	_
+2	Love	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	received	_	Word	Word	_	5	D	5:D	_
+4	poor	_	Word	Word	_	5	D	5:D	_
+5	reviews	_	Word	Word	_	0	H	0:H	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	but	_	Word	Word	_	17	L	17:L	_
+8	a	_	Word	Word	_	13	F	13:F	_
+9	new	_	Word	Word	_	13	E	13:E	_
+10	Tracy	_	Word	Word	_	13	E	13:E	_
+11	-	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	Hepburn	_	Word	Word	_	10	C	10:C	_
+13	picture	_	Word	Word	_	17	A	17:A	_
+14	was	_	Word	Word	_	17	F	17:F	_
+15	a	_	Word	Word	_	17	F	17:F	_
+16	big	_	Word	Word	_	17	D	17:D	_
+17	event	_	Word	Word	_	5	H	5:H	_
+18	and	_	Word	Word	_	21	L	21:L	_
+19	it	_	Word	Word	_	21	A	21:A|23:A|25:A	_
+20	was	_	Word	Word	_	21	F	21:F	_
+21	popular	_	Word	Word	_	5	H	5:H	_
+22	on	_	Word	Word	_	23	L	23:L	_
+23	release	_	Word	Word	_	5	H	5:H	_
+24	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+25	selling	_	Word	Word	_	5	H	5:H	_
+26	a	_	Word	Word	_	28	F	28:F	_
+27	record	_	Word	Word	_	28	E	28:E	_
+28	number	_	Word	Word	_	30	Q	30:Q	_
+29	of	_	Word	Word	_	30	R	30:R	_
+30	tickets	_	Word	Word	_	25	A	25:A	_
+31	over	_	Word	Word	_	32	R	32:R	_
+32	Easter	_	Word	Word	_	25	T	25:T	_
+33	weekend	_	Word	Word	_	32	C	32:C	_
+34	1945	_	Word	Word	_	32	C	32:C	_
+35	.	_	Punctuation	Punctuation	_	32	U	32:U	_
+

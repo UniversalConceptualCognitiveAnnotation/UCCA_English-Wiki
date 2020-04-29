@@ -1,0 +1,42 @@
+# format = ucca
+# sent_id = 674005
+# text = Merry Christmas II You debuted at number four on the Billboard 200 with sales of 56 , 000 copies , surpassing the opening week sales of Carey 's previous holiday album of 45,000 copies 16 years prior .
+1	Merry	_	Word	Word	_	5	A	5:A|21:A	_
+2	Christmas	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	II	_	Word	Word	_	1	Terminal	1:Terminal	_
+4	You	_	Word	Word	_	1	Terminal	1:Terminal	_
+5	debuted	_	Word	Word	_	0	H	0:H	_
+6	at	_	Word	Word	_	7	R	7:R	_
+7	number	_	Word	Word	_	5	A	5:A	_
+8	four	_	Word	Word	_	7	Q	7:Q	_
+9	on	_	Word	Word	_	11	R	11:R	_
+10	the	_	Word	Word	_	11	E	11:E	_
+11	Billboard	_	Word	Word	_	7	E	7:E	_
+12	200	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	with	_	Word	Word	_	14	L	14:L	_
+14	sales	_	Word	Word	_	5	H	5:H	_
+15	of	_	Word	Word	_	19	R	19:R	_
+16	56	_	Word	Word	_	19	Q	19:Q	_
+17	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+18	000	_	Word	Word	_	16	Terminal	16:Terminal	_
+19	copies	_	Word	Word	_	14	A	14:A	_
+20	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+21	surpassing	_	Word	Word	_	5	H	5:H	_
+22	the	_	Word	Word	_	25	F	25:F	_
+23	opening	_	Word	Word	_	24	E	24:E	_
+24	week	_	Word	Word	_	25	T	25:T	_
+25	sales	_	Word	Word	_	21	A	21:A	_
+26	of	_	Word	Word	_	31	R	31:R	_
+27	Carey	_	Word	Word	_	28	A	28:A	_
+28	's	_	Word	Word	_	31	E	31:E	_
+29	previous	_	Word	Word	_	31	E	31:E	_
+30	holiday	_	Word	Word	_	31	E	31:E	_
+31	album	_	Word	Word	_	25	A	25:A	_
+32	of	_	Word	Word	_	34	R	34:R	_
+33	45,000	_	Word	Word	_	34	Q	34:Q	_
+34	copies	_	Word	Word	_	25	A	25:A	_
+35	16	_	Word	Word	_	36	Q	36:Q	_
+36	years	_	Word	Word	_	25	T	25:T	_
+37	prior	_	Word	Word	_	36	R	36:R	_
+38	.	_	Punctuation	Punctuation	_	36	U	36:U	_
+

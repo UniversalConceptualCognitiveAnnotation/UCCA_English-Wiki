@@ -1,0 +1,41 @@
+# format = ucca
+# sent_id = 942010
+# text = She married British musician Gavin Rossdale in 2002 and they have two sons : Kingston James McGregor Rossdale , born May 26 , 2006 , and Zuma Nesta Rock Rossdale , born August 21 , 2008 .
+1	She	_	Word	Word	_	2	A	2:A	_
+2	married	_	Word	Word	_	0	H	0:H	_
+3	British	_	Word	Word	_	4	E	4:E	_
+4	musician	_	Word	Word	_	5	E	5:E	_
+5	Gavin	_	Word	Word	_	2	A	2:A	_
+6	Rossdale	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	in	_	Word	Word	_	8	R	8:R	_
+8	2002	_	Word	Word	_	2	T	2:T	_
+9	and	_	Word	Word	_	11	L	11:L	_
+10	they	_	Word	Word	_	11	A	11:A	_
+11	have	_	Word	Word	_	2	H	2:H	_
+12	two	_	Word	Word	_	13	Q	13:Q	_
+13	sons	_	Word	Word	_	11	A	11:A	_
+14	:	_	Punctuation	Punctuation	_	13	U	13:U	_
+15	Kingston	_	Word	Word	_	13	E	13:E	_
+16	James	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	McGregor	_	Word	Word	_	15	Terminal	15:Terminal	_
+18	Rossdale	_	Word	Word	_	15	Terminal	15:Terminal	_
+19	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+20	born	_	Word	Word	_	15	E	15:E	_
+21	May	_	Word	Word	_	20	T	20:T	_
+22	26	_	Word	Word	_	21	C	21:C	_
+23	,	_	Punctuation	Punctuation	_	21	U	21:U	_
+24	2006	_	Word	Word	_	21	C	21:C	_
+25	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+26	and	_	Word	Word	_	15	N	15:N	_
+27	Zuma	_	Word	Word	_	15	C	15:C	_
+28	Nesta	_	Word	Word	_	27	Terminal	27:Terminal	_
+29	Rock	_	Word	Word	_	27	Terminal	27:Terminal	_
+30	Rossdale	_	Word	Word	_	27	Terminal	27:Terminal	_
+31	,	_	Punctuation	Punctuation	_	27	U	27:U	_
+32	born	_	Word	Word	_	27	E	27:E	_
+33	August	_	Word	Word	_	32	T	32:T	_
+34	21	_	Word	Word	_	33	C	33:C	_
+35	,	_	Punctuation	Punctuation	_	33	U	33:U	_
+36	2008	_	Word	Word	_	33	C	33:C	_
+37	.	_	Punctuation	Punctuation	_	33	U	33:U	_
+

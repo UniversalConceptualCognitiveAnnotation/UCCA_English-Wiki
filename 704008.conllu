@@ -1,0 +1,41 @@
+# format = ucca
+# sent_id = 704008
+# text = In 1978 , Dylan embarked on a year - long world tour , performing 114 shows in Japan , the Far East , Europe and the US , to a total audience of two million people .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1978	_	Word	Word	_	5	T	5:T	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	Dylan	_	Word	Word	_	5	A	5:A|14:A	_
+5	embarked	_	Word	Word	_	0	H	0:H	_
+6	on	_	Word	Word	_	12	R	12:R	_
+7	a	_	Word	Word	_	8	E	8:E	_
+8	year	_	Word	Word	_	12	T	12:T	_
+9	-	_	Punctuation	Punctuation	_	8	U	8:U	_
+10	long	_	Word	Word	_	8	R	8:R	_
+11	world	_	Word	Word	_	12	A	12:A	_
+12	tour	_	Word	Word	_	5	A	5:A	_
+13	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+14	performing	_	Word	Word	_	5	H	5:H	_
+15	114	_	Word	Word	_	16	Q	16:Q	_
+16	shows	_	Word	Word	_	14	A	14:A	_
+17	in	_	Word	Word	_	18	R	18:R	_
+18	Japan	_	Word	Word	_	14	A	14:A	_
+19	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+20	the	_	Word	Word	_	18	C	18:C	_
+21	Far	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	East	_	Word	Word	_	20	Terminal	20:Terminal	_
+23	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+24	Europe	_	Word	Word	_	18	C	18:C	_
+25	and	_	Word	Word	_	18	N	18:N	_
+26	the	_	Word	Word	_	27	E	27:E	_
+27	US	_	Word	Word	_	18	C	18:C	_
+28	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+29	to	_	Word	Word	_	32	R	32:R	_
+30	a	_	Word	Word	_	32	E	32:E	_
+31	total	_	Word	Word	_	32	F	32:F	_
+32	audience	_	Word	Word	_	14	A	14:A	_
+33	of	_	Word	Word	_	36	R	36:R	_
+34	two	_	Word	Word	_	36	Q	36:Q	_
+35	million	_	Word	Word	_	34	Terminal	34:Terminal	_
+36	people	_	Word	Word	_	32	E	32:E	_
+37	.	_	Punctuation	Punctuation	_	36	U	36:U	_
+

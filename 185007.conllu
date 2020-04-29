@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 185007
+# text = In the mid - 1990s he worked as a script doctor on films such as Bulworth .
+1	In	_	Word	Word	_	5	R	5:R	_
+2	the	_	Word	Word	_	5	E	5:E	_
+3	mid	_	Word	Word	_	5	E	5:E	_
+4	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+5	1990s	_	Word	Word	_	7	T	7:T	_
+6	he	_	Word	Word	_	7	A	7:A	_
+7	worked	_	Word	Word	_	0	H	0:H	_
+8	as	_	Word	Word	_	10	R	10:R	_
+9	a	_	Word	Word	_	10	E	10:E	_
+10	script	_	Word	Word	_	7	A	7:A	_
+11	doctor	_	Word	Word	_	10	E	10:E	_
+12	on	_	Word	Word	_	13	R	13:R	_
+13	films	_	Word	Word	_	7	A	7:A	_
+14	such	_	Word	Word	_	16	R	16:R	_
+15	as	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	Bulworth	_	Word	Word	_	13	E	13:E	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

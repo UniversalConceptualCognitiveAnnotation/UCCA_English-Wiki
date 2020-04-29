@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 710002
+# text = Late that spring , before the album 's release , Dylan was hospitalized with a life - threatening heart infection , pericarditis , brought on by histoplasmosis .
+1	Late	_	Word	Word	_	3	E	3:E	_
+2	that	_	Word	Word	_	3	E	3:E	_
+3	spring	_	Word	Word	_	13	T	13:T	_
+4	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+5	before	_	Word	Word	_	9	L	9:L	_
+6	the	_	Word	Word	_	7	E	7:E	_
+7	album	_	Word	Word	_	9	A	9:A	_
+8	's	_	Word	Word	_	7	R	7:R	_
+9	release	_	Word	Word	_	13	H	13:H	_
+10	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+11	Dylan	_	Word	Word	_	13	A	13:A|18:A	_
+12	was	_	Word	Word	_	13	F	13:F	_
+13	hospitalized	_	Word	Word	_	0	H	0:H	_
+14	with	_	Word	Word	_	18	L	18:L	_
+15	a	_	Word	Word	_	18	F	18:F	_
+16	life	_	Word	Word	_	18	A	18:A	_
+17	-	_	Punctuation	Punctuation	_	18	U	18:U	_
+18	threatening	_	Word	Word	_	13	H	13:H	_
+19	heart	_	Word	Word	_	20	E	20:E	_
+20	infection	_	Word	Word	_	22	E	22:E	_
+21	,	_	Punctuation	Punctuation	_	22	U	22:U	_
+22	pericarditis	_	Word	Word	_	18	A	18:A	_
+23	,	_	Punctuation	Punctuation	_	22	U	22:U	_
+24	brought	_	Word	Word	_	22	E	22:E	_
+25	on	_	Word	Word	_	24	Terminal	24:Terminal	_
+26	by	_	Word	Word	_	27	R	27:R	_
+27	histoplasmosis	_	Word	Word	_	24	A	24:A	_
+28	.	_	Punctuation	Punctuation	_	27	U	27:U	_
+

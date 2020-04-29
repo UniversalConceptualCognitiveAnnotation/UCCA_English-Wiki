@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 221011
+# text = She felt it important to " influence people in a positive way " to vote on November 4 .
+1	She	_	Word	Word	_	2	A	2:A	_
+2	felt	_	Word	Word	_	0	H	0:H	_
+3	it	_	Word	Word	_	4	F	4:F	_
+4	important	_	Word	Word	_	2	A	2:A	_
+5	to	_	Word	Word	_	7	F	7:F	_
+6	"	_	Punctuation	Punctuation	_	7	U	7:U	_
+7	influence	_	Word	Word	_	4	A	4:A	_
+8	people	_	Word	Word	_	7	A	7:A|15:A	_
+9	in	_	Word	Word	_	12	R	12:R	_
+10	a	_	Word	Word	_	12	F	12:F	_
+11	positive	_	Word	Word	_	12	E	12:E	_
+12	way	_	Word	Word	_	7	D	7:D	_
+13	"	_	Punctuation	Punctuation	_	7	U	7:U	_
+14	to	_	Word	Word	_	15	F	15:F	_
+15	vote	_	Word	Word	_	7	A	7:A	_
+16	on	_	Word	Word	_	17	R	17:R	_
+17	November	_	Word	Word	_	15	T	15:T	_
+18	4	_	Word	Word	_	17	C	17:C	_
+19	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+

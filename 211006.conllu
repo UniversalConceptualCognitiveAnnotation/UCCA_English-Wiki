@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 211006
+# text = Hoffman married Anne Byrne in May 1969 .
+1	Hoffman	_	Word	Word	_	2	A	2:A	_
+2	married	_	Word	Word	_	0	H	0:H	_
+3	Anne	_	Word	Word	_	2	A	2:A	_
+4	Byrne	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	in	_	Word	Word	_	6	R	6:R	_
+6	May	_	Word	Word	_	2	T	2:T	_
+7	1969	_	Word	Word	_	6	C	6:C	_
+8	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+

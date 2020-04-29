@@ -1,0 +1,43 @@
+# format = ucca
+# sent_id = 953002
+# text = Gertrude tried to instill in her daughter an appreciation of literature and introduced her to the works of Hans Christian Andersen , Lewis Carroll and Rudyard Kipling , as well as stories of Greek mythology and Indian folklore .
+1	Gertrude	_	Word	Word	_	4	A	4:A|13:A	_
+2	tried	_	Word	Word	_	4	D	4:D	_
+3	to	_	Word	Word	_	4	F	4:F	_
+4	instill	_	Word	Word	_	0	H	0:H	_
+5	in	_	Word	Word	_	6	R	6:R	_
+6	her	_	Word	Word	_	4	A	4:A	_
+7	daughter	_	Word	Word	_	6	A	6:A|9:A	_
+8	an	_	Word	Word	_	9	E	9:E	_
+9	appreciation	_	Word	Word	_	4	A	4:A	_
+10	of	_	Word	Word	_	11	R	11:R	_
+11	literature	_	Word	Word	_	9	A	9:A	_
+12	and	_	Word	Word	_	13	L	13:L	_
+13	introduced	_	Word	Word	_	4	H	4:H	_
+14	her	_	Word	Word	_	13	A	13:A	_
+15	to	_	Word	Word	_	17	R	17:R	_
+16	the	_	Word	Word	_	17	E	17:E	_
+17	works	_	Word	Word	_	13	A	13:A	_
+18	of	_	Word	Word	_	19	R	19:R	_
+19	Hans	_	Word	Word	_	17	E	17:E	_
+20	Christian	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	Andersen	_	Word	Word	_	19	Terminal	19:Terminal	_
+22	,	_	Punctuation	Punctuation	_	19	U	19:U	_
+23	Lewis	_	Word	Word	_	19	C	19:C	_
+24	Carroll	_	Word	Word	_	23	Terminal	23:Terminal	_
+25	and	_	Word	Word	_	19	N	19:N	_
+26	Rudyard	_	Word	Word	_	19	C	19:C	_
+27	Kipling	_	Word	Word	_	26	Terminal	26:Terminal	_
+28	,	_	Punctuation	Punctuation	_	17	U	17:U	_
+29	as	_	Word	Word	_	17	N	17:N	_
+30	well	_	Word	Word	_	29	Terminal	29:Terminal	_
+31	as	_	Word	Word	_	29	Terminal	29:Terminal	_
+32	stories	_	Word	Word	_	17	C	17:C	_
+33	of	_	Word	Word	_	35	R	35:R	_
+34	Greek	_	Word	Word	_	35	E	35:E	_
+35	mythology	_	Word	Word	_	32	E	32:E	_
+36	and	_	Word	Word	_	35	N	35:N	_
+37	Indian	_	Word	Word	_	38	E	38:E	_
+38	folklore	_	Word	Word	_	35	C	35:C	_
+39	.	_	Punctuation	Punctuation	_	38	U	38:U	_
+

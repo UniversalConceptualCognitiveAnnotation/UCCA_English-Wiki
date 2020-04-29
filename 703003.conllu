@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 703003
+# text = Released in early 1975 , Blood on the Tracks received mixed reviews .
+1	Released	_	Word	Word	_	0	H	0:H	_
+2	in	_	Word	Word	_	4	R	4:R	_
+3	early	_	Word	Word	_	4	E	4:E	_
+4	1975	_	Word	Word	_	1	T	1:T	_
+5	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+6	Blood	_	Word	Word	_	10	A	10:A|1:A	_
+7	on	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	the	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	Tracks	_	Word	Word	_	6	Terminal	6:Terminal	_
+10	received	_	Word	Word	_	1	H	1:H	_
+11	mixed	_	Word	Word	_	12	E	12:E	_
+12	reviews	_	Word	Word	_	10	A	10:A	_
+13	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+

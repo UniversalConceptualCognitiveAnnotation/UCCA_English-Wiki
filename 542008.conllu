@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 542008
+# text = The studio 's executive producer , Darryl F . Zanuck , resigned during a contract dispute with Harry Warner in 1933 .
+1	The	_	Word	Word	_	5	F	5:F	_
+2	studio	_	Word	Word	_	5	A	5:A	_
+3	's	_	Word	Word	_	2	R	2:R	_
+4	executive	_	Word	Word	_	5	D	5:D	_
+5	producer	_	Word	Word	_	7	E	7:E	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	Darryl	_	Word	Word	_	0	C	0:C|5:A|16:A	_
+8	F	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+10	Zanuck	_	Word	Word	_	7	Terminal	7:Terminal	_
+11	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+12	resigned	_	Word	Word	_	0	H	0:H	_
+13	during	_	Word	Word	_	16	L	16:L	_
+14	a	_	Word	Word	_	16	F	16:F	_
+15	contract	_	Word	Word	_	16	A	16:A	_
+16	dispute	_	Word	Word	_	12	H	12:H	_
+17	with	_	Word	Word	_	18	R	18:R	_
+18	Harry	_	Word	Word	_	16	A	16:A	_
+19	Warner	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	in	_	Word	Word	_	21	R	21:R	_
+21	1933	_	Word	Word	_	16	T	16:T	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

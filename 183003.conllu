@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 183003
+# text = Married four times , she was once widowed and thrice divorced , and raised her children as a single parent .
+1	Married	_	Word	Word	_	0	H	0:H	_
+2	four	_	Word	Word	_	3	Q	3:Q	_
+3	times	_	Word	Word	_	1	D	1:D	_
+4	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+5	she	_	Word	Word	_	8	A	8:A|11:A|14:A	_
+6	was	_	Word	Word	_	8	F	8:F	_
+7	once	_	Word	Word	_	8	D	8:D	_
+8	widowed	_	Word	Word	_	1	H	1:H	_
+9	and	_	Word	Word	_	11	L	11:L	_
+10	thrice	_	Word	Word	_	11	D	11:D	_
+11	divorced	_	Word	Word	_	1	H	1:H	_
+12	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+13	and	_	Word	Word	_	14	L	14:L	_
+14	raised	_	Word	Word	_	1	H	1:H	_
+15	her	_	Word	Word	_	14	A	14:A	_
+16	children	_	Word	Word	_	15	A	15:A	_
+17	as	_	Word	Word	_	20	R	20:R	_
+18	a	_	Word	Word	_	20	F	20:F	_
+19	single	_	Word	Word	_	20	E	20:E	_
+20	parent	_	Word	Word	_	14	A	14:A	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+

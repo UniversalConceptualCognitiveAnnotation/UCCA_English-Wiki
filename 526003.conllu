@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 526003
+# text = The Clock ( 1945 ) was her first straight dramatic film , opposite Robert Walker .
+1	The	_	Word	Word	_	6	A	6:A	_
+2	Clock	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	(	_	Punctuation	Punctuation	_	1	U	1:U	_
+4	1945	_	Word	Word	_	1	E	1:E	_
+5	)	_	Punctuation	Punctuation	_	6	U	6:U	_
+6	was	_	Word	Word	_	0	H	0:H	_
+7	her	_	Word	Word	_	11	E	11:E	_
+8	first	_	Word	Word	_	11	Q	11:Q	_
+9	straight	_	Word	Word	_	10	E	10:E	_
+10	dramatic	_	Word	Word	_	11	E	11:E	_
+11	film	_	Word	Word	_	6	A	6:A	_
+12	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+13	opposite	_	Word	Word	_	14	R	14:R	_
+14	Robert	_	Word	Word	_	11	E	11:E	_
+15	Walker	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

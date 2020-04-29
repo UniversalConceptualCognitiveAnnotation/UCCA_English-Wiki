@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 566000
+# text = On December 4 , Presley dropped into Sun Records where Carl Perkins and Jerry Lee Lewis were recording and jammed with them .
+1	On	_	Word	Word	_	2	R	2:R	_
+2	December	_	Word	Word	_	6	T	6:T	_
+3	4	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	Presley	_	Word	Word	_	6	A	6:A|20:A	_
+6	dropped	_	Word	Word	_	0	H	0:H	_
+7	into	_	Word	Word	_	8	R	8:R	_
+8	Sun	_	Word	Word	_	6	A	6:A	_
+9	Records	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	where	_	Word	Word	_	18	R	18:R	_
+11	Carl	_	Word	Word	_	18	A	18:A	_
+12	Perkins	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	and	_	Word	Word	_	11	N	11:N	_
+14	Jerry	_	Word	Word	_	11	C	11:C	_
+15	Lee	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	Lewis	_	Word	Word	_	14	Terminal	14:Terminal	_
+17	were	_	Word	Word	_	18	F	18:F	_
+18	recording	_	Word	Word	_	8	E	8:E	_
+19	and	_	Word	Word	_	20	L	20:L	_
+20	jammed	_	Word	Word	_	6	H	6:H	_
+21	with	_	Word	Word	_	22	R	22:R	_
+22	them	_	Word	Word	_	20	A	20:A	_
+23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+

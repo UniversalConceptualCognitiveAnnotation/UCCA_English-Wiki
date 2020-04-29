@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 726002
+# text = She won her third Golden Globe Award , her second Screen Actors Guild Award , and an Academy Award for Best Supporting Actress .
+1	She	_	Word	Word	_	2	A	2:A	_
+2	won	_	Word	Word	_	0	H	0:H	_
+3	her	_	Word	Word	_	5	E	5:E	_
+4	third	_	Word	Word	_	5	Q	5:Q	_
+5	Golden	_	Word	Word	_	2	A	2:A	_
+6	Globe	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	Award	_	Word	Word	_	5	E	5:E	_
+8	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+9	her	_	Word	Word	_	11	E	11:E	_
+10	second	_	Word	Word	_	11	Q	11:Q	_
+11	Screen	_	Word	Word	_	5	C	5:C	_
+12	Actors	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	Guild	_	Word	Word	_	11	Terminal	11:Terminal	_
+14	Award	_	Word	Word	_	11	Terminal	11:Terminal	_
+15	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+16	and	_	Word	Word	_	5	N	5:N	_
+17	an	_	Word	Word	_	18	E	18:E	_
+18	Academy	_	Word	Word	_	5	C	5:C	_
+19	Award	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	for	_	Word	Word	_	23	R	23:R	_
+21	Best	_	Word	Word	_	23	D	23:D	_
+22	Supporting	_	Word	Word	_	23	A	23:A	_
+23	Actress	_	Word	Word	_	18	E	18:E	_
+24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

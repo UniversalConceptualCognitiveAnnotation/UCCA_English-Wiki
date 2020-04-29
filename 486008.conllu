@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 486008
+# text = His impressions of Columbo , Arnold Schwarzenegger , Sylvester Stallone , and Tom Cruise made Bana popular with the show 's audience .
+1	His	_	Word	Word	_	2	A	2:A	_
+2	impressions	_	Word	Word	_	17	A	17:A	_
+3	of	_	Word	Word	_	4	R	4:R	_
+4	Columbo	_	Word	Word	_	2	A	2:A	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	Arnold	_	Word	Word	_	4	C	4:C	_
+7	Schwarzenegger	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+9	Sylvester	_	Word	Word	_	4	C	4:C	_
+10	Stallone	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+12	and	_	Word	Word	_	4	N	4:N	_
+13	Tom	_	Word	Word	_	4	C	4:C	_
+14	Cruise	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	made	_	Word	Word	_	17	D	17:D	_
+16	Bana	_	Word	Word	_	17	A	17:A	_
+17	popular	_	Word	Word	_	0	H	0:H	_
+18	with	_	Word	Word	_	22	R	22:R	_
+19	the	_	Word	Word	_	22	E	22:E	_
+20	show	_	Word	Word	_	22	E	22:E	_
+21	's	_	Word	Word	_	20	R	20:R	_
+22	audience	_	Word	Word	_	17	A	17:A	_
+23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+

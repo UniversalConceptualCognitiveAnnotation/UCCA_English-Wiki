@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 458015
+# text = On May 29 , 1998 , David Westin succeeded Roone Arledge as president of ABC News .
+1	On	_	Word	Word	_	2	R	2:R	_
+2	May	_	Word	Word	_	9	T	9:T	_
+3	29	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	1998	_	Word	Word	_	2	C	2:C	_
+6	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+7	David	_	Word	Word	_	9	A	9:A	_
+8	Westin	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	succeeded	_	Word	Word	_	0	H	0:H	_
+10	Roone	_	Word	Word	_	9	A	9:A	_
+11	Arledge	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	as	_	Word	Word	_	13	R	13:R	_
+13	president	_	Word	Word	_	9	A	9:A	_
+14	of	_	Word	Word	_	16	R	16:R	_
+15	ABC	_	Word	Word	_	16	E	16:E	_
+16	News	_	Word	Word	_	13	A	13:A	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

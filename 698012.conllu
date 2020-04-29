@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 698012
+# text = The tour culminated in a famously raucous confrontation between Dylan and his audience at the Manchester Free Trade Hall in England on May 17 , 1966 .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	tour	_	Word	Word	_	3	A	3:A	_
+3	culminated	_	Word	Word	_	0	H	0:H	_
+4	in	_	Word	Word	_	8	R	8:R	_
+5	a	_	Word	Word	_	7	E	7:E	_
+6	famously	_	Word	Word	_	7	E	7:E	_
+7	raucous	_	Word	Word	_	8	D	8:D	_
+8	confrontation	_	Word	Word	_	3	A	3:A	_
+9	between	_	Word	Word	_	10	R	10:R	_
+10	Dylan	_	Word	Word	_	8	A	8:A	_
+11	and	_	Word	Word	_	10	N	10:N	_
+12	his	_	Word	Word	_	13	A	13:A	_
+13	audience	_	Word	Word	_	10	C	10:C	_
+14	at	_	Word	Word	_	17	R	17:R	_
+15	the	_	Word	Word	_	17	E	17:E	_
+16	Manchester	_	Word	Word	_	17	E	17:E	_
+17	Free	_	Word	Word	_	8	A	8:A	_
+18	Trade	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	Hall	_	Word	Word	_	17	Terminal	17:Terminal	_
+20	in	_	Word	Word	_	21	R	21:R	_
+21	England	_	Word	Word	_	17	E	17:E	_
+22	on	_	Word	Word	_	23	R	23:R	_
+23	May	_	Word	Word	_	8	T	8:T	_
+24	17	_	Word	Word	_	23	C	23:C	_
+25	,	_	Punctuation	Punctuation	_	23	U	23:U	_
+26	1966	_	Word	Word	_	23	C	23:C	_
+27	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

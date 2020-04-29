@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 701013
+# text = For many , the single was a surprising return to protest material , mourning the killing of Black Panther George Jackson in San Quentin Prison earlier that year .
+1	For	_	Word	Word	_	2	R	2:R	_
+2	many	_	Word	Word	_	9	A	9:A	_
+3	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+4	the	_	Word	Word	_	5	E	5:E	_
+5	single	_	Word	Word	_	0	C	0:C|14:A	_
+6	was	_	Word	Word	_	9	F	9:F	_
+7	a	_	Word	Word	_	9	F	9:F	_
+8	surprising	_	Word	Word	_	9	D	9:D	_
+9	return	_	Word	Word	_	0	H	0:H	_
+10	to	_	Word	Word	_	12	R	12:R	_
+11	protest	_	Word	Word	_	12	E	12:E	_
+12	material	_	Word	Word	_	9	A	9:A	_
+13	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+14	mourning	_	Word	Word	_	9	H	9:H	_
+15	the	_	Word	Word	_	16	E	16:E	_
+16	killing	_	Word	Word	_	14	A	14:A	_
+17	of	_	Word	Word	_	20	R	20:R	_
+18	Black	_	Word	Word	_	20	E	20:E	_
+19	Panther	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	George	_	Word	Word	_	16	A	16:A	_
+21	Jackson	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	in	_	Word	Word	_	23	R	23:R	_
+23	San	_	Word	Word	_	16	A	16:A	_
+24	Quentin	_	Word	Word	_	23	Terminal	23:Terminal	_
+25	Prison	_	Word	Word	_	23	E	23:E	_
+26	earlier	_	Word	Word	_	28	R	28:R	_
+27	that	_	Word	Word	_	28	E	28:E	_
+28	year	_	Word	Word	_	16	T	16:T	_
+29	.	_	Punctuation	Punctuation	_	28	U	28:U	_
+

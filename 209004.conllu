@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 209004
+# text = The film did relatively poorly with the critics and at the box office .
+1	The	_	Word	Word	_	2	F	2:F	_
+2	film	_	Word	Word	_	5	A	5:A	_
+3	did	_	Word	Word	_	5	F	5:F	_
+4	relatively	_	Word	Word	_	5	D	5:D	_
+5	poorly	_	Word	Word	_	0	H	0:H	_
+6	with	_	Word	Word	_	8	R	8:R	_
+7	the	_	Word	Word	_	8	F	8:F	_
+8	critics	_	Word	Word	_	5	A	5:A	_
+9	and	_	Word	Word	_	8	N	8:N	_
+10	at	_	Word	Word	_	12	R	12:R	_
+11	the	_	Word	Word	_	12	F	12:F	_
+12	box	_	Word	Word	_	8	C	8:C	_
+13	office	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+

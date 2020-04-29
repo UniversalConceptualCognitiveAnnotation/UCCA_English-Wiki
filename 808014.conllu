@@ -1,0 +1,35 @@
+# format = ucca
+# sent_id = 808014
+# text = The pair first properly met in 1967 at a Georgie Fame concert at The Bag O ' Nails club , during her UK assignment to photograph rock musicians in London .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	pair	_	Word	Word	_	5	A	5:A	_
+3	first	_	Word	Word	_	5	D	5:D	_
+4	properly	_	Word	Word	_	5	D	5:D	_
+5	met	_	Word	Word	_	0	H	0:H	_
+6	in	_	Word	Word	_	7	R	7:R	_
+7	1967	_	Word	Word	_	5	T	5:T	_
+8	at	_	Word	Word	_	12	R	12:R	_
+9	a	_	Word	Word	_	12	F	12:F	_
+10	Georgie	_	Word	Word	_	12	A	12:A	_
+11	Fame	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	concert	_	Word	Word	_	5	A	5:A	_
+13	at	_	Word	Word	_	14	R	14:R	_
+14	The	_	Word	Word	_	5	A	5:A	_
+15	Bag	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	O	_	Word	Word	_	14	Terminal	14:Terminal	_
+17	'	_	Punctuation	Punctuation	_	14	U	14:U	_
+18	Nails	_	Word	Word	_	14	Terminal	14:Terminal	_
+19	club	_	Word	Word	_	14	E	14:E	_
+20	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+21	during	_	Word	Word	_	24	L	24:L	_
+22	her	_	Word	Word	_	24	A	24:A|26:A	_
+23	UK	_	Word	Word	_	24	A	24:A	_
+24	assignment	_	Word	Word	_	5	H	5:H	_
+25	to	_	Word	Word	_	26	F	26:F	_
+26	photograph	_	Word	Word	_	24	A	24:A	_
+27	rock	_	Word	Word	_	28	A	28:A	_
+28	musicians	_	Word	Word	_	26	A	26:A	_
+29	in	_	Word	Word	_	30	R	30:R	_
+30	London	_	Word	Word	_	26	A	26:A	_
+31	.	_	Punctuation	Punctuation	_	30	U	30:U	_
+

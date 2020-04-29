@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 730006
+# text = In the Land of Blood and Honey won the Stanley Kramer Award from the Producers Guild of America , which honors films that highlight provocative social issues .
+1	In	_	Word	Word	_	8	A	8:A	_
+2	the	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	Land	_	Word	Word	_	1	Terminal	1:Terminal	_
+4	of	_	Word	Word	_	1	Terminal	1:Terminal	_
+5	Blood	_	Word	Word	_	1	Terminal	1:Terminal	_
+6	and	_	Word	Word	_	1	Terminal	1:Terminal	_
+7	Honey	_	Word	Word	_	1	Terminal	1:Terminal	_
+8	won	_	Word	Word	_	0	H	0:H	_
+9	the	_	Word	Word	_	10	E	10:E	_
+10	Stanley	_	Word	Word	_	8	A	8:A	_
+11	Kramer	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	Award	_	Word	Word	_	10	Terminal	10:Terminal	_
+13	from	_	Word	Word	_	15	R	15:R	_
+14	the	_	Word	Word	_	15	F	15:F	_
+15	Producers	_	Word	Word	_	8	A	8:A	_
+16	Guild	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	of	_	Word	Word	_	15	Terminal	15:Terminal	_
+18	America	_	Word	Word	_	15	Terminal	15:Terminal	_
+19	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+20	which	_	Word	Word	_	21	R	21:R	_
+21	honors	_	Word	Word	_	15	E	15:E	_
+22	films	_	Word	Word	_	21	A	21:A|24:A	_
+23	that	_	Word	Word	_	24	R	24:R	_
+24	highlight	_	Word	Word	_	21	A	21:A	_
+25	provocative	_	Word	Word	_	27	D	27:D	_
+26	social	_	Word	Word	_	27	A	27:A	_
+27	issues	_	Word	Word	_	24	A	24:A	_
+28	.	_	Punctuation	Punctuation	_	27	U	27:U	_
+

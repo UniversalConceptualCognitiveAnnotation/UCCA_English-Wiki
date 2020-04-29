@@ -1,0 +1,40 @@
+# format = ucca
+# sent_id = 668001
+# text = Following the heavy media coverage surrounding Carey 's publicized breakdown and hospitalization , Virgin Records and 20th Century Fox delayed the release of both Glitter , as well as its soundtrack of the same name .
+1	Following	_	Word	Word	_	20	L	20:L	_
+2	the	_	Word	Word	_	5	E	5:E	_
+3	heavy	_	Word	Word	_	5	E	5:E	_
+4	media	_	Word	Word	_	5	E	5:E	_
+5	coverage	_	Word	Word	_	0	H	0:H	_
+6	surrounding	_	Word	Word	_	10	R	10:R	_
+7	Carey	_	Word	Word	_	10	A	10:A	_
+8	's	_	Word	Word	_	7	R	7:R	_
+9	publicized	_	Word	Word	_	10	D	10:D	_
+10	breakdown	_	Word	Word	_	5	A	5:A	_
+11	and	_	Word	Word	_	10	N	10:N	_
+12	hospitalization	_	Word	Word	_	10	C	10:C	_
+13	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+14	Virgin	_	Word	Word	_	20	A	20:A	_
+15	Records	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	and	_	Word	Word	_	14	N	14:N	_
+17	20th	_	Word	Word	_	14	C	14:C	_
+18	Century	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	Fox	_	Word	Word	_	17	Terminal	17:Terminal	_
+20	delayed	_	Word	Word	_	5	H	5:H	_
+21	the	_	Word	Word	_	22	E	22:E	_
+22	release	_	Word	Word	_	20	A	20:A	_
+23	of	_	Word	Word	_	22	R	22:R	_
+24	both	_	Word	Word	_	25	N	25:N	_
+25	Glitter	_	Word	Word	_	22	A	22:A	_
+26	,	_	Punctuation	Punctuation	_	25	U	25:U	_
+27	as	_	Word	Word	_	25	N	25:N	_
+28	well	_	Word	Word	_	27	Terminal	27:Terminal	_
+29	as	_	Word	Word	_	27	Terminal	27:Terminal	_
+30	its	_	Word	Word	_	31	E	31:E	_
+31	soundtrack	_	Word	Word	_	25	C	25:C	_
+32	of	_	Word	Word	_	35	R	35:R	_
+33	the	_	Word	Word	_	35	E	35:E	_
+34	same	_	Word	Word	_	35	E	35:E	_
+35	name	_	Word	Word	_	31	E	31:E	_
+36	.	_	Punctuation	Punctuation	_	35	U	35:U	_
+

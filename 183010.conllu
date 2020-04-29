@@ -1,0 +1,56 @@
+# format = ucca
+# sent_id = 183010
+# text = Betty was inspired to become an actress after seeing Rudolph Valentino in The Four Horsemen of the Apocalypse ( 1921 ) and Mary Pickford in Little Lord Fauntleroy ( 1921 ) , and changed the spelling of her name to " Bette " after Honoré de Balzac 's La Cousine Bette .
+1	Betty	_	Word	Word	_	3	A	3:A|7:A|9:A|34:A	_
+2	was	_	Word	Word	_	3	F	3:F	_
+3	inspired	_	Word	Word	_	0	H	0:H	_
+4	to	_	Word	Word	_	7	F	7:F	_
+5	become	_	Word	Word	_	7	D	7:D	_
+6	an	_	Word	Word	_	7	F	7:F	_
+7	actress	_	Word	Word	_	3	A	3:A	_
+8	after	_	Word	Word	_	9	L	9:L	_
+9	seeing	_	Word	Word	_	3	H	3:H	_
+10	Rudolph	_	Word	Word	_	9	A	9:A	_
+11	Valentino	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	in	_	Word	Word	_	13	R	13:R	_
+13	The	_	Word	Word	_	10	E	10:E	_
+14	Four	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	Horsemen	_	Word	Word	_	13	Terminal	13:Terminal	_
+16	of	_	Word	Word	_	13	Terminal	13:Terminal	_
+17	the	_	Word	Word	_	13	Terminal	13:Terminal	_
+18	Apocalypse	_	Word	Word	_	13	Terminal	13:Terminal	_
+19	(	_	Punctuation	Punctuation	_	13	U	13:U	_
+20	1921	_	Word	Word	_	13	E	13:E	_
+21	)	_	Punctuation	Punctuation	_	10	U	10:U	_
+22	and	_	Word	Word	_	10	N	10:N	_
+23	Mary	_	Word	Word	_	10	C	10:C	_
+24	Pickford	_	Word	Word	_	23	Terminal	23:Terminal	_
+25	in	_	Word	Word	_	26	R	26:R	_
+26	Little	_	Word	Word	_	23	E	23:E	_
+27	Lord	_	Word	Word	_	26	Terminal	26:Terminal	_
+28	Fauntleroy	_	Word	Word	_	26	Terminal	26:Terminal	_
+29	(	_	Punctuation	Punctuation	_	26	U	26:U	_
+30	1921	_	Word	Word	_	26	E	26:E	_
+31	)	_	Punctuation	Punctuation	_	3	U	3:U	_
+32	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+33	and	_	Word	Word	_	34	L	34:L	_
+34	changed	_	Word	Word	_	3	H	3:H	_
+35	the	_	Word	Word	_	36	F	36:F	_
+36	spelling	_	Word	Word	_	34	A	34:A	_
+37	of	_	Word	Word	_	39	R	39:R	_
+38	her	_	Word	Word	_	39	E	39:E	_
+39	name	_	Word	Word	_	36	E	36:E	_
+40	to	_	Word	Word	_	42	R	42:R	_
+41	"	_	Punctuation	Punctuation	_	42	U	42:U	_
+42	Bette	_	Word	Word	_	34	A	34:A	_
+43	"	_	Punctuation	Punctuation	_	42	U	42:U	_
+44	after	_	Word	Word	_	49	R	49:R	_
+45	Honoré	_	Word	Word	_	48	A	48:A	_
+46	de	_	Word	Word	_	45	Terminal	45:Terminal	_
+47	Balzac	_	Word	Word	_	45	Terminal	45:Terminal	_
+48	's	_	Word	Word	_	49	E	49:E	_
+49	La	_	Word	Word	_	42	E	42:E	_
+50	Cousine	_	Word	Word	_	49	Terminal	49:Terminal	_
+51	Bette	_	Word	Word	_	49	Terminal	49:Terminal	_
+52	.	_	Punctuation	Punctuation	_	49	U	49:U	_
+

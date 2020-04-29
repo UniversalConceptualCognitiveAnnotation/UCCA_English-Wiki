@@ -1,0 +1,49 @@
+# format = ucca
+# sent_id = 633004
+# text = According to Paul 's brother Mike , McCartney 's father was also disapproving , declaring Lennon would get his son " into trouble " ; although he later allowed the fledgling band to rehearse in the McCartneys ' front room at 20 Forthlin Road .
+1	According	_	Word	Word	_	0	H	0:H	_
+2	to	_	Word	Word	_	5	R	5:R	_
+3	Paul	_	Word	Word	_	5	A	5:A	_
+4	's	_	Word	Word	_	5	R	5:R	_
+5	brother	_	Word	Word	_	1	A	1:A	_
+6	Mike	_	Word	Word	_	5	A	5:A	_
+7	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+8	McCartney	_	Word	Word	_	13	A	13:A|15:A	_
+9	's	_	Word	Word	_	8	R	8:R	_
+10	father	_	Word	Word	_	8	A	8:A	_
+11	was	_	Word	Word	_	13	F	13:F	_
+12	also	_	Word	Word	_	13	D	13:D	_
+13	disapproving	_	Word	Word	_	1	A	1:A	_
+14	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+15	declaring	_	Word	Word	_	1	H	1:H	_
+16	Lennon	_	Word	Word	_	18	A	18:A	_
+17	would	_	Word	Word	_	18	D	18:D	_
+18	get	_	Word	Word	_	15	A	15:A	_
+19	his	_	Word	Word	_	20	A	20:A	_
+20	son	_	Word	Word	_	18	A	18:A	_
+21	"	_	Punctuation	Punctuation	_	18	U	18:U	_
+22	into	_	Word	Word	_	18	Terminal	18:Terminal	_
+23	trouble	_	Word	Word	_	18	Terminal	18:Terminal	_
+24	"	_	Punctuation	Punctuation	_	1	U	1:U	_
+25	;	_	Punctuation	Punctuation	_	1	U	1:U	_
+26	although	_	Word	Word	_	29	L	29:L	_
+27	he	_	Word	Word	_	29	A	29:A	_
+28	later	_	Word	Word	_	29	D	29:D	_
+29	allowed	_	Word	Word	_	1	H	1:H	_
+30	the	_	Word	Word	_	32	E	32:E	_
+31	fledgling	_	Word	Word	_	32	E	32:E	_
+32	band	_	Word	Word	_	34	A	34:A	_
+33	to	_	Word	Word	_	34	F	34:F	_
+34	rehearse	_	Word	Word	_	29	A	29:A	_
+35	in	_	Word	Word	_	40	R	40:R	_
+36	the	_	Word	Word	_	40	E	40:E	_
+37	McCartneys	_	Word	Word	_	40	E	40:E	_
+38	'	_	Punctuation	Punctuation	_	40	U	40:U	_
+39	front	_	Word	Word	_	40	E	40:E	_
+40	room	_	Word	Word	_	34	A	34:A	_
+41	at	_	Word	Word	_	43	R	43:R	_
+42	20	_	Word	Word	_	43	E	43:E	_
+43	Forthlin	_	Word	Word	_	40	E	40:E	_
+44	Road	_	Word	Word	_	43	Terminal	43:Terminal	_
+45	.	_	Punctuation	Punctuation	_	43	U	43:U	_
+

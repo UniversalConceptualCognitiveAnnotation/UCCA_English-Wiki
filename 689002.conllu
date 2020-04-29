@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 689002
+# text = His maternal grandparents , Benjamin and Lybba Edelstein , were Lithuanian Jews who arrived in the United States in 1902 .
+1	His	_	Word	Word	_	3	A	3:A	_
+2	maternal	_	Word	Word	_	3	A	3:A	_
+3	grandparents	_	Word	Word	_	5	E	5:E	_
+4	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+5	Benjamin	_	Word	Word	_	12	A	12:A	_
+6	and	_	Word	Word	_	5	N	5:N	_
+7	Lybba	_	Word	Word	_	5	C	5:C	_
+8	Edelstein	_	Word	Word	_	5	C	5:C	_
+9	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+10	were	_	Word	Word	_	12	F	12:F	_
+11	Lithuanian	_	Word	Word	_	12	A	12:A	_
+12	Jews	_	Word	Word	_	0	H	0:H	_
+13	who	_	Word	Word	_	14	L	14:L	_
+14	arrived	_	Word	Word	_	12	H	12:H	_
+15	in	_	Word	Word	_	17	R	17:R	_
+16	the	_	Word	Word	_	17	E	17:E	_
+17	United	_	Word	Word	_	14	A	14:A	_
+18	States	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	in	_	Word	Word	_	20	R	20:R	_
+20	1902	_	Word	Word	_	14	T	14:T	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+

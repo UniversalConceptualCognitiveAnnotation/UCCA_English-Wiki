@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 228002
+# text = According to his blog , Chan discussed his wishes to direct a film after completing Shinjuku Incident , something he has not done for a number of years .
+1	According	_	Word	Word	_	0	H	0:H	_
+2	to	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	his	_	Word	Word	_	4	E	4:E	_
+4	blog	_	Word	Word	_	1	A	1:A	_
+5	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+6	Chan	_	Word	Word	_	7	A	7:A|15:A	_
+7	discussed	_	Word	Word	_	1	A	1:A	_
+8	his	_	Word	Word	_	11	A	11:A	_
+9	wishes	_	Word	Word	_	11	D	11:D	_
+10	to	_	Word	Word	_	11	F	11:F	_
+11	direct	_	Word	Word	_	7	A	7:A	_
+12	a	_	Word	Word	_	13	F	13:F	_
+13	film	_	Word	Word	_	11	A	11:A	_
+14	after	_	Word	Word	_	15	L	15:L	_
+15	completing	_	Word	Word	_	7	H	7:H	_
+16	Shinjuku	_	Word	Word	_	15	A	15:A	_
+17	Incident	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+19	something	_	Word	Word	_	7	H	7:H	_
+20	he	_	Word	Word	_	23	A	23:A	_
+21	has	_	Word	Word	_	23	F	23:F	_
+22	not	_	Word	Word	_	23	D	23:D	_
+23	done	_	Word	Word	_	19	E	19:E	_
+24	for	_	Word	Word	_	28	R	28:R	_
+25	a	_	Word	Word	_	28	F	28:F	_
+26	number	_	Word	Word	_	28	Q	28:Q	_
+27	of	_	Word	Word	_	26	R	26:R	_
+28	years	_	Word	Word	_	23	T	23:T	_
+29	.	_	Punctuation	Punctuation	_	28	U	28:U	_
+

@@ -1,0 +1,36 @@
+# format = ucca
+# sent_id = 613003
+# text = He employed a similar technique for " Jenny Wren " . He played an Epiphone Texan on many of his acoustic recordings , but also used a Martin D - 28 .
+1	He	_	Word	Word	_	2	A	2:A	_
+2	employed	_	Word	Word	_	0	H	0:H	_
+3	a	_	Word	Word	_	5	F	5:F	_
+4	similar	_	Word	Word	_	5	E	5:E	_
+5	technique	_	Word	Word	_	2	A	2:A	_
+6	for	_	Word	Word	_	8	R	8:R	_
+7	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+8	Jenny	_	Word	Word	_	2	A	2:A	_
+9	Wren	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+11	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+12	He	_	Word	Word	_	13	A	13:A|26:A	_
+13	played	_	Word	Word	_	2	H	2:H	_
+14	an	_	Word	Word	_	15	F	15:F	_
+15	Epiphone	_	Word	Word	_	13	A	13:A	_
+16	Texan	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	on	_	Word	Word	_	22	R	22:R	_
+18	many	_	Word	Word	_	22	Q	22:Q	_
+19	of	_	Word	Word	_	22	R	22:R	_
+20	his	_	Word	Word	_	22	E	22:E	_
+21	acoustic	_	Word	Word	_	22	E	22:E	_
+22	recordings	_	Word	Word	_	13	A	13:A	_
+23	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+24	but	_	Word	Word	_	25	E	25:E	_
+25	also	_	Word	Word	_	26	L	26:L	_
+26	used	_	Word	Word	_	2	H	2:H	_
+27	a	_	Word	Word	_	28	F	28:F	_
+28	Martin	_	Word	Word	_	26	A	26:A	_
+29	D	_	Word	Word	_	28	Terminal	28:Terminal	_
+30	-	_	Punctuation	Punctuation	_	28	U	28:U	_
+31	28	_	Word	Word	_	28	Terminal	28:Terminal	_
+32	.	_	Punctuation	Punctuation	_	28	U	28:U	_
+

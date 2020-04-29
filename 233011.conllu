@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 233011
+# text = He funded the construction of the Jackie Chan Science Centre at the Australian National University and the establishment of schools in poor regions of China .
+1	He	_	Word	Word	_	2	A	2:A	_
+2	funded	_	Word	Word	_	0	H	0:H	_
+3	the	_	Word	Word	_	4	F	4:F	_
+4	construction	_	Word	Word	_	2	A	2:A	_
+5	of	_	Word	Word	_	7	R	7:R	_
+6	the	_	Word	Word	_	7	F	7:F	_
+7	Jackie	_	Word	Word	_	4	A	4:A	_
+8	Chan	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	Science	_	Word	Word	_	7	Terminal	7:Terminal	_
+10	Centre	_	Word	Word	_	7	Terminal	7:Terminal	_
+11	at	_	Word	Word	_	13	R	13:R	_
+12	the	_	Word	Word	_	13	F	13:F	_
+13	Australian	_	Word	Word	_	4	A	4:A	_
+14	National	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	University	_	Word	Word	_	13	Terminal	13:Terminal	_
+16	and	_	Word	Word	_	4	N	4:N	_
+17	the	_	Word	Word	_	18	F	18:F	_
+18	establishment	_	Word	Word	_	4	C	4:C	_
+19	of	_	Word	Word	_	20	R	20:R	_
+20	schools	_	Word	Word	_	18	A	18:A	_
+21	in	_	Word	Word	_	25	R	25:R	_
+22	poor	_	Word	Word	_	23	E	23:E	_
+23	regions	_	Word	Word	_	25	E	25:E	_
+24	of	_	Word	Word	_	25	R	25:R	_
+25	China	_	Word	Word	_	18	A	18:A	_
+26	.	_	Punctuation	Punctuation	_	25	U	25:U	_
+

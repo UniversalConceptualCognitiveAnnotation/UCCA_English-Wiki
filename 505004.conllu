@@ -1,0 +1,34 @@
+# format = ucca
+# sent_id = 505004
+# text = The same year , he made a cameo appearance in the German film Christiane F . , a real - life story of teenage drug addiction in 1970s Berlin .
+1	The	_	Word	Word	_	3	E	3:E	_
+2	same	_	Word	Word	_	3	E	3:E	_
+3	year	_	Word	Word	_	9	T	9:T	_
+4	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+5	he	_	Word	Word	_	9	A	9:A	_
+6	made	_	Word	Word	_	9	F	9:F	_
+7	a	_	Word	Word	_	9	E	9:E	_
+8	cameo	_	Word	Word	_	9	D	9:D	_
+9	appearance	_	Word	Word	_	0	H	0:H	_
+10	in	_	Word	Word	_	14	R	14:R	_
+11	the	_	Word	Word	_	13	E	13:E	_
+12	German	_	Word	Word	_	13	E	13:E	_
+13	film	_	Word	Word	_	14	E	14:E	_
+14	Christiane	_	Word	Word	_	9	A	9:A	_
+15	F	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+17	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+18	a	_	Word	Word	_	22	E	22:E	_
+19	real	_	Word	Word	_	22	D	22:D	_
+20	-	_	Punctuation	Punctuation	_	19	U	19:U	_
+21	life	_	Word	Word	_	19	C	19:C	_
+22	story	_	Word	Word	_	14	E	14:E	_
+23	of	_	Word	Word	_	26	R	26:R	_
+24	teenage	_	Word	Word	_	26	A	26:A	_
+25	drug	_	Word	Word	_	26	A	26:A	_
+26	addiction	_	Word	Word	_	22	A	22:A	_
+27	in	_	Word	Word	_	28	R	28:R	_
+28	1970s	_	Word	Word	_	26	T	26:T	_
+29	Berlin	_	Word	Word	_	26	A	26:A	_
+30	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+

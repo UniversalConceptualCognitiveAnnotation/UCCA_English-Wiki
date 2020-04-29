@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 208015
+# text = However , Hoffman and Beatty liked the film 's final cut and tried to defend it .
+1	However	_	Word	Word	_	15	L	15:L	_
+2	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+3	Hoffman	_	Word	Word	_	6	A	6:A|15:A	_
+4	and	_	Word	Word	_	3	N	3:N	_
+5	Beatty	_	Word	Word	_	3	C	3:C	_
+6	liked	_	Word	Word	_	0	H	0:H	_
+7	the	_	Word	Word	_	11	F	11:F	_
+8	film	_	Word	Word	_	11	E	11:E	_
+9	's	_	Word	Word	_	8	R	8:R	_
+10	final	_	Word	Word	_	11	E	11:E	_
+11	cut	_	Word	Word	_	6	A	6:A	_
+12	and	_	Word	Word	_	15	L	15:L	_
+13	tried	_	Word	Word	_	15	D	15:D	_
+14	to	_	Word	Word	_	15	F	15:F	_
+15	defend	_	Word	Word	_	6	H	6:H	_
+16	it	_	Word	Word	_	15	A	15:A	_
+17	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

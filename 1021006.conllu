@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 1021006
+# text = It was here that he teamed up with Quincy Jones , who was arranging the film 's musical score .
+1	It	_	Word	Word	_	6	F	6:F	_
+2	was	_	Word	Word	_	6	F	6:F	_
+3	here	_	Word	Word	_	6	A	6:A	_
+4	that	_	Word	Word	_	6	F	6:F	_
+5	he	_	Word	Word	_	6	A	6:A	_
+6	teamed	_	Word	Word	_	0	H	0:H	_
+7	up	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	with	_	Word	Word	_	9	R	9:R	_
+9	Quincy	_	Word	Word	_	6	A	6:A	_
+10	Jones	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+12	who	_	Word	Word	_	14	R	14:R	_
+13	was	_	Word	Word	_	14	F	14:F	_
+14	arranging	_	Word	Word	_	9	E	9:E	_
+15	the	_	Word	Word	_	19	E	19:E	_
+16	film	_	Word	Word	_	19	E	19:E	_
+17	's	_	Word	Word	_	16	R	16:R	_
+18	musical	_	Word	Word	_	19	E	19:E	_
+19	score	_	Word	Word	_	14	A	14:A	_
+20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

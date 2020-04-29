@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 727013
+# text = She portrayed an FBI profiler summoned to help Montreal law enforcement hunt down a serial killer .
+1	She	_	Word	Word	_	2	A	2:A	_
+2	portrayed	_	Word	Word	_	0	H	0:H	_
+3	an	_	Word	Word	_	5	F	5:F	_
+4	FBI	_	Word	Word	_	5	A	5:A	_
+5	profiler	_	Word	Word	_	2	A	2:A	_
+6	summoned	_	Word	Word	_	8	D	8:D	_
+7	to	_	Word	Word	_	8	F	8:F	_
+8	help	_	Word	Word	_	5	E	5:E	_
+9	Montreal	_	Word	Word	_	11	E	11:E	_
+10	law	_	Word	Word	_	11	E	11:E	_
+11	enforcement	_	Word	Word	_	8	A	8:A	_
+12	hunt	_	Word	Word	_	8	A	8:A	_
+13	down	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	a	_	Word	Word	_	16	F	16:F	_
+15	serial	_	Word	Word	_	16	D	16:D	_
+16	killer	_	Word	Word	_	12	A	12:A	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

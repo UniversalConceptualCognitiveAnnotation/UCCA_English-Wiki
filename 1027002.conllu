@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 1027002
+# text = The $ 30 million movie was a popular attraction at all three parks .
+1	The	_	Word	Word	_	5	E	5:E	_
+2	$	_	Word	Word	_	5	E	5:E	_
+3	30	_	Word	Word	_	2	Q	2:Q	_
+4	million	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	movie	_	Word	Word	_	9	A	9:A	_
+6	was	_	Word	Word	_	9	F	9:F	_
+7	a	_	Word	Word	_	9	E	9:E	_
+8	popular	_	Word	Word	_	9	D	9:D	_
+9	attraction	_	Word	Word	_	0	H	0:H	_
+10	at	_	Word	Word	_	13	R	13:R	_
+11	all	_	Word	Word	_	12	E	12:E	_
+12	three	_	Word	Word	_	13	Q	13:Q	_
+13	parks	_	Word	Word	_	9	A	9:A	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

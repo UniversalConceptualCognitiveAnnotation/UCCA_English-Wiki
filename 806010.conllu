@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 806010
+# text = In 2006 , the McCartneys travelled to Prince Edward Island to raise international awareness of seal hunting .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	2006	_	Word	Word	_	6	T	6:T	_
+3	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+4	the	_	Word	Word	_	5	E	5:E	_
+5	McCartneys	_	Word	Word	_	0	C	0:C|14:A	_
+6	travelled	_	Word	Word	_	0	H	0:H	_
+7	to	_	Word	Word	_	8	R	8:R	_
+8	Prince	_	Word	Word	_	6	A	6:A	_
+9	Edward	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	Island	_	Word	Word	_	8	Terminal	8:Terminal	_
+11	to	_	Word	Word	_	14	L	14:L	_
+12	raise	_	Word	Word	_	14	D	14:D	_
+13	international	_	Word	Word	_	14	A	14:A	_
+14	awareness	_	Word	Word	_	6	H	6:H	_
+15	of	_	Word	Word	_	17	R	17:R	_
+16	seal	_	Word	Word	_	17	A	17:A	_
+17	hunting	_	Word	Word	_	14	A	14:A	_
+18	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+

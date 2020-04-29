@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 697005
+# text = In support of the record , Dylan was booked for two U . S . concerts and set about assembling a band .
+1	In	_	Word	Word	_	9	L	9:L	_
+2	support	_	Word	Word	_	0	H	0:H	_
+3	of	_	Word	Word	_	5	R	5:R	_
+4	the	_	Word	Word	_	5	E	5:E	_
+5	record	_	Word	Word	_	2	A	2:A	_
+6	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+7	Dylan	_	Word	Word	_	9	A	9:A|2:A|20:A	_
+8	was	_	Word	Word	_	9	F	9:F	_
+9	booked	_	Word	Word	_	2	H	2:H	_
+10	for	_	Word	Word	_	16	R	16:R	_
+11	two	_	Word	Word	_	16	D	16:D	_
+12	U	_	Word	Word	_	16	A	16:A	_
+13	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+14	S	_	Word	Word	_	12	Terminal	12:Terminal	_
+15	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+16	concerts	_	Word	Word	_	9	A	9:A	_
+17	and	_	Word	Word	_	20	L	20:L	_
+18	set	_	Word	Word	_	20	D	20:D	_
+19	about	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	assembling	_	Word	Word	_	2	H	2:H	_
+21	a	_	Word	Word	_	22	E	22:E	_
+22	band	_	Word	Word	_	20	A	20:A	_
+23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+

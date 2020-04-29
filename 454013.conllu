@@ -1,0 +1,45 @@
+# format = ucca
+# sent_id = 454013
+# text = The announcement signaled a generational shift in the evening news broadcasts , and the beginning of what the media would deem the " Big Three " era of Jennings , Dan Rather of CBS , and Tom Brokaw of NBC .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	announcement	_	Word	Word	_	3	A	3:A	_
+3	signaled	_	Word	Word	_	0	H	0:H	_
+4	a	_	Word	Word	_	5	E	5:E	_
+5	generational	_	Word	Word	_	6	A	6:A	_
+6	shift	_	Word	Word	_	3	A	3:A	_
+7	in	_	Word	Word	_	11	R	11:R	_
+8	the	_	Word	Word	_	11	E	11:E	_
+9	evening	_	Word	Word	_	11	E	11:E	_
+10	news	_	Word	Word	_	11	E	11:E	_
+11	broadcasts	_	Word	Word	_	6	A	6:A	_
+12	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+13	and	_	Word	Word	_	21	L	21:L	_
+14	the	_	Word	Word	_	15	E	15:E	_
+15	beginning	_	Word	Word	_	27	E	27:E	_
+16	of	_	Word	Word	_	27	R	27:R	_
+17	what	_	Word	Word	_	21	F	21:F	_
+18	the	_	Word	Word	_	19	E	19:E	_
+19	media	_	Word	Word	_	21	A	21:A	_
+20	would	_	Word	Word	_	21	F	21:F	_
+21	deem	_	Word	Word	_	6	H	6:H	_
+22	the	_	Word	Word	_	27	E	27:E	_
+23	"	_	Punctuation	Punctuation	_	27	U	27:U	_
+24	Big	_	Word	Word	_	25	E	25:E	_
+25	Three	_	Word	Word	_	27	E	27:E	_
+26	"	_	Punctuation	Punctuation	_	27	U	27:U	_
+27	era	_	Word	Word	_	21	A	21:A	_
+28	of	_	Word	Word	_	29	R	29:R	_
+29	Jennings	_	Word	Word	_	27	E	27:E	_
+30	,	_	Punctuation	Punctuation	_	29	U	29:U	_
+31	Dan	_	Word	Word	_	29	C	29:C	_
+32	Rather	_	Word	Word	_	31	Terminal	31:Terminal	_
+33	of	_	Word	Word	_	34	R	34:R	_
+34	CBS	_	Word	Word	_	31	E	31:E	_
+35	,	_	Punctuation	Punctuation	_	29	U	29:U	_
+36	and	_	Word	Word	_	29	N	29:N	_
+37	Tom	_	Word	Word	_	29	C	29:C	_
+38	Brokaw	_	Word	Word	_	37	Terminal	37:Terminal	_
+39	of	_	Word	Word	_	40	R	40:R	_
+40	NBC	_	Word	Word	_	37	E	37:E	_
+41	.	_	Punctuation	Punctuation	_	40	U	40:U	_
+

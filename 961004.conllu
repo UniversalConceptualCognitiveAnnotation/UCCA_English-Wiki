@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 961004
+# text = In 1956 , Leigh took the lead role in the Noël Coward play South Sea Bubble , but she became pregnant and withdrew from the production .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1956	_	Word	Word	_	5	T	5:T	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	Leigh	_	Word	Word	_	5	A	5:A	_
+5	took	_	Word	Word	_	0	H	0:H	_
+6	the	_	Word	Word	_	8	E	8:E	_
+7	lead	_	Word	Word	_	8	E	8:E	_
+8	role	_	Word	Word	_	5	A	5:A	_
+9	in	_	Word	Word	_	14	R	14:R	_
+10	the	_	Word	Word	_	13	E	13:E	_
+11	Noël	_	Word	Word	_	13	E	13:E	_
+12	Coward	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	play	_	Word	Word	_	14	E	14:E	_
+14	South	_	Word	Word	_	8	E	8:E	_
+15	Sea	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	Bubble	_	Word	Word	_	14	Terminal	14:Terminal	_
+17	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+18	but	_	Word	Word	_	21	L	21:L	_
+19	she	_	Word	Word	_	21	A	21:A|23:A	_
+20	became	_	Word	Word	_	21	D	21:D	_
+21	pregnant	_	Word	Word	_	5	H	5:H	_
+22	and	_	Word	Word	_	23	L	23:L	_
+23	withdrew	_	Word	Word	_	5	H	5:H	_
+24	from	_	Word	Word	_	26	R	26:R	_
+25	the	_	Word	Word	_	26	E	26:E	_
+26	production	_	Word	Word	_	23	A	23:A	_
+27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+

@@ -1,0 +1,34 @@
+# format = ucca
+# sent_id = 460006
+# text = On September 13 , Jennings received more criticism from conservatives - this time for hosting a forum for Middle East experts that included his former girlfriend , Hanan Ashrawi .
+1	On	_	Word	Word	_	2	R	2:R	_
+2	September	_	Word	Word	_	6	T	6:T	_
+3	13	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	Jennings	_	Word	Word	_	6	A	6:A|15:A	_
+6	received	_	Word	Word	_	0	H	0:H	_
+7	more	_	Word	Word	_	8	E	8:E	_
+8	criticism	_	Word	Word	_	6	A	6:A	_
+9	from	_	Word	Word	_	10	R	10:R	_
+10	conservatives	_	Word	Word	_	6	A	6:A	_
+11	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+12	this	_	Word	Word	_	13	E	13:E	_
+13	time	_	Word	Word	_	15	L	15:L	_
+14	for	_	Word	Word	_	13	R	13:R	_
+15	hosting	_	Word	Word	_	6	H	6:H	_
+16	a	_	Word	Word	_	17	E	17:E	_
+17	forum	_	Word	Word	_	15	A	15:A	_
+18	for	_	Word	Word	_	21	R	21:R	_
+19	Middle	_	Word	Word	_	21	E	21:E	_
+20	East	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	experts	_	Word	Word	_	17	E	17:E	_
+22	that	_	Word	Word	_	23	R	23:R	_
+23	included	_	Word	Word	_	17	E	17:E	_
+24	his	_	Word	Word	_	28	E	28:E	_
+25	former	_	Word	Word	_	24	D	24:D	_
+26	girlfriend	_	Word	Word	_	24	A	24:A	_
+27	,	_	Punctuation	Punctuation	_	28	U	28:U	_
+28	Hanan	_	Word	Word	_	23	A	23:A	_
+29	Ashrawi	_	Word	Word	_	28	Terminal	28:Terminal	_
+30	.	_	Punctuation	Punctuation	_	28	U	28:U	_
+

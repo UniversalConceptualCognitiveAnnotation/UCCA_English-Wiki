@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 150005
+# text = The event garnered $ 5.8 million , which Hepburn willed to her family .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	event	_	Word	Word	_	3	A	3:A	_
+3	garnered	_	Word	Word	_	0	H	0:H	_
+4	$	_	Word	Word	_	3	A	3:A	_
+5	5.8	_	Word	Word	_	4	Q	4:Q	_
+6	million	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+8	which	_	Word	Word	_	10	R	10:R	_
+9	Hepburn	_	Word	Word	_	10	A	10:A	_
+10	willed	_	Word	Word	_	4	E	4:E	_
+11	to	_	Word	Word	_	13	R	13:R	_
+12	her	_	Word	Word	_	13	A	13:A	_
+13	family	_	Word	Word	_	10	A	10:A	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

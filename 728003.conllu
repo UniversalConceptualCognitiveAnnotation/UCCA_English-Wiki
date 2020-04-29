@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 728003
+# text = The movie earned $ 478 million worldwide , making it the seventh - highest grossing film of 2005 .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	movie	_	Word	Word	_	3	A	3:A	_
+3	earned	_	Word	Word	_	0	H	0:H	_
+4	$	_	Word	Word	_	3	A	3:A	_
+5	478	_	Word	Word	_	4	Q	4:Q	_
+6	million	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	worldwide	_	Word	Word	_	3	A	3:A	_
+8	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+9	making	_	Word	Word	_	10	L	10:L	_
+10	it	_	Word	Word	_	3	H	3:H	_
+11	the	_	Word	Word	_	16	E	16:E	_
+12	seventh	_	Word	Word	_	14	Q	14:Q	_
+13	-	_	Punctuation	Punctuation	_	14	U	14:U	_
+14	highest	_	Word	Word	_	16	Q	16:Q	_
+15	grossing	_	Word	Word	_	16	E	16:E	_
+16	film	_	Word	Word	_	10	A	10:A	_
+17	of	_	Word	Word	_	18	R	18:R	_
+18	2005	_	Word	Word	_	16	E	16:E	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

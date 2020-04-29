@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 700005
+# text = In October and November 1967 , Dylan returned to Nashville .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	October	_	Word	Word	_	8	T	8:T	_
+3	and	_	Word	Word	_	2	N	2:N	_
+4	November	_	Word	Word	_	2	C	2:C	_
+5	1967	_	Word	Word	_	2	C	2:C	_
+6	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	Dylan	_	Word	Word	_	8	A	8:A	_
+8	returned	_	Word	Word	_	0	H	0:H	_
+9	to	_	Word	Word	_	10	R	10:R	_
+10	Nashville	_	Word	Word	_	8	A	8:A	_
+11	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+

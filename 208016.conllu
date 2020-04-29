@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 208016
+# text = Hoffman and Beatty were unaffected by the flop , and Ishtar became a cult film .
+1	Hoffman	_	Word	Word	_	5	A	5:A	_
+2	and	_	Word	Word	_	1	N	1:N	_
+3	Beatty	_	Word	Word	_	1	C	1:C	_
+4	were	_	Word	Word	_	5	F	5:F	_
+5	unaffected	_	Word	Word	_	0	H	0:H	_
+6	by	_	Word	Word	_	8	R	8:R	_
+7	the	_	Word	Word	_	8	F	8:F	_
+8	flop	_	Word	Word	_	5	A	5:A	_
+9	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+10	and	_	Word	Word	_	12	L	12:L	_
+11	Ishtar	_	Word	Word	_	12	A	12:A	_
+12	became	_	Word	Word	_	5	H	5:H	_
+13	a	_	Word	Word	_	15	F	15:F	_
+14	cult	_	Word	Word	_	15	E	15:E	_
+15	film	_	Word	Word	_	12	A	12:A	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

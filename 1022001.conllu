@@ -1,0 +1,47 @@
+# format = ucca
+# sent_id = 1022001
+# text = In the same year he won another seven Grammys and eight American Music Awards ( including the Award of Merit , the youngest artist to win it ) , making him the most awarded artist in one night for both award shows .
+1	In	_	Word	Word	_	4	R	4:R	_
+2	the	_	Word	Word	_	4	E	4:E	_
+3	same	_	Word	Word	_	4	E	4:E	_
+4	year	_	Word	Word	_	6	T	6:T	_
+5	he	_	Word	Word	_	6	A	6:A|24:A	_
+6	won	_	Word	Word	_	0	H	0:H	_
+7	another	_	Word	Word	_	9	E	9:E	_
+8	seven	_	Word	Word	_	9	Q	9:Q	_
+9	Grammys	_	Word	Word	_	6	A	6:A	_
+10	and	_	Word	Word	_	9	N	9:N	_
+11	eight	_	Word	Word	_	12	Q	12:Q	_
+12	American	_	Word	Word	_	9	C	9:C	_
+13	Music	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	Awards	_	Word	Word	_	12	Terminal	12:Terminal	_
+15	(	_	Punctuation	Punctuation	_	12	U	12:U	_
+16	including	_	Word	Word	_	18	R	18:R	_
+17	the	_	Word	Word	_	18	E	18:E	_
+18	Award	_	Word	Word	_	12	E	12:E	_
+19	of	_	Word	Word	_	20	R	20:R	_
+20	Merit	_	Word	Word	_	18	E	18:E	_
+21	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+22	the	_	Word	Word	_	24	E	24:E	_
+23	youngest	_	Word	Word	_	24	E	24:E	_
+24	artist	_	Word	Word	_	18	E	18:E	_
+25	to	_	Word	Word	_	26	F	26:F	_
+26	win	_	Word	Word	_	24	E	24:E	_
+27	it	_	Word	Word	_	26	A	26:A	_
+28	)	_	Punctuation	Punctuation	_	6	U	6:U	_
+29	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+30	making	_	Word	Word	_	31	L	31:L	_
+31	him	_	Word	Word	_	6	H	6:H	_
+32	the	_	Word	Word	_	33	E	33:E	_
+33	most	_	Word	Word	_	34	D	34:D	_
+34	awarded	_	Word	Word	_	35	E	35:E	_
+35	artist	_	Word	Word	_	0	P	0:P|34:A	_
+36	in	_	Word	Word	_	38	R	38:R	_
+37	one	_	Word	Word	_	38	Q	38:Q	_
+38	night	_	Word	Word	_	34	T	34:T	_
+39	for	_	Word	Word	_	42	R	42:R	_
+40	both	_	Word	Word	_	42	D	42:D	_
+41	award	_	Word	Word	_	42	A	42:A	_
+42	shows	_	Word	Word	_	34	A	34:A	_
+43	.	_	Punctuation	Punctuation	_	42	U	42:U	_
+

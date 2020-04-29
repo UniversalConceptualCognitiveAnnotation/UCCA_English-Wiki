@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 600001
+# text = In 1953 , he passed the 11 - plus exam , with only three others out of ninety examinees , gaining admission to the Liverpool Institute .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1953	_	Word	Word	_	5	T	5:T	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	he	_	Word	Word	_	5	A	5:A|22:A	_
+5	passed	_	Word	Word	_	0	H	0:H	_
+6	the	_	Word	Word	_	10	E	10:E	_
+7	11	_	Word	Word	_	10	E	10:E	_
+8	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	plus	_	Word	Word	_	7	Terminal	7:Terminal	_
+10	exam	_	Word	Word	_	5	A	5:A	_
+11	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+12	with	_	Word	Word	_	15	R	15:R	_
+13	only	_	Word	Word	_	15	E	15:E	_
+14	three	_	Word	Word	_	15	Q	15:Q	_
+15	others	_	Word	Word	_	5	A	5:A	_
+16	out	_	Word	Word	_	19	R	19:R	_
+17	of	_	Word	Word	_	19	F	19:F	_
+18	ninety	_	Word	Word	_	19	Q	19:Q	_
+19	examinees	_	Word	Word	_	15	E	15:E	_
+20	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+21	gaining	_	Word	Word	_	22	D	22:D	_
+22	admission	_	Word	Word	_	5	H	5:H	_
+23	to	_	Word	Word	_	26	R	26:R	_
+24	the	_	Word	Word	_	26	E	26:E	_
+25	Liverpool	_	Word	Word	_	26	E	26:E	_
+26	Institute	_	Word	Word	_	22	A	22:A	_
+27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+

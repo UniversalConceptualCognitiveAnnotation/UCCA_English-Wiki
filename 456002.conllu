@@ -1,0 +1,56 @@
+# format = ucca
+# sent_id = 456002
+# text = Out of that concern , Jennings hosted a 90 - minute special , War in the Gulf : Answering Children 's Questions the next Saturday morning ; the program featured Jennings , ABC correspondents , and American military personnel answering phoned - in questions and explaining the war to young viewers .
+1	Out	_	Word	Word	_	7	L	7:L	_
+2	of	_	Word	Word	_	1	R	1:R	_
+3	that	_	Word	Word	_	4	E	4:E	_
+4	concern	_	Word	Word	_	0	H	0:H	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	Jennings	_	Word	Word	_	7	A	7:A|4:A	_
+7	hosted	_	Word	Word	_	4	H	4:H	_
+8	a	_	Word	Word	_	14	E	14:E	_
+9	90	_	Word	Word	_	11	Q	11:Q	_
+10	-	_	Punctuation	Punctuation	_	11	U	11:U	_
+11	minute	_	Word	Word	_	12	E	12:E	_
+12	special	_	Word	Word	_	14	E	14:E	_
+13	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+14	War	_	Word	Word	_	7	A	7:A	_
+15	in	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	the	_	Word	Word	_	14	Terminal	14:Terminal	_
+17	Gulf	_	Word	Word	_	14	Terminal	14:Terminal	_
+18	:	_	Punctuation	Punctuation	_	14	U	14:U	_
+19	Answering	_	Word	Word	_	14	Terminal	14:Terminal	_
+20	Children	_	Word	Word	_	14	Terminal	14:Terminal	_
+21	's	_	Word	Word	_	14	Terminal	14:Terminal	_
+22	Questions	_	Word	Word	_	14	Terminal	14:Terminal	_
+23	the	_	Word	Word	_	25	E	25:E	_
+24	next	_	Word	Word	_	25	E	25:E	_
+25	Saturday	_	Word	Word	_	7	T	7:T	_
+26	morning	_	Word	Word	_	25	C	25:C	_
+27	;	_	Punctuation	Punctuation	_	4	U	4:U	_
+28	the	_	Word	Word	_	29	E	29:E	_
+29	program	_	Word	Word	_	30	A	30:A	_
+30	featured	_	Word	Word	_	4	H	4:H	_
+31	Jennings	_	Word	Word	_	40	A	40:A|46:A	_
+32	,	_	Punctuation	Punctuation	_	31	U	31:U	_
+33	ABC	_	Word	Word	_	34	E	34:E	_
+34	correspondents	_	Word	Word	_	31	C	31:C	_
+35	,	_	Punctuation	Punctuation	_	31	U	31:U	_
+36	and	_	Word	Word	_	31	N	31:N	_
+37	American	_	Word	Word	_	39	E	39:E	_
+38	military	_	Word	Word	_	39	E	39:E	_
+39	personnel	_	Word	Word	_	31	C	31:C	_
+40	answering	_	Word	Word	_	30	A	30:A	_
+41	phoned	_	Word	Word	_	44	A	44:A	_
+42	-	_	Punctuation	Punctuation	_	41	U	41:U	_
+43	in	_	Word	Word	_	41	D	41:D	_
+44	questions	_	Word	Word	_	40	A	40:A	_
+45	and	_	Word	Word	_	46	L	46:L	_
+46	explaining	_	Word	Word	_	40	H	40:H	_
+47	the	_	Word	Word	_	48	E	48:E	_
+48	war	_	Word	Word	_	46	A	46:A	_
+49	to	_	Word	Word	_	51	R	51:R	_
+50	young	_	Word	Word	_	51	E	51:E	_
+51	viewers	_	Word	Word	_	46	A	46:A	_
+52	.	_	Punctuation	Punctuation	_	51	U	51:U	_
+

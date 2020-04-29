@@ -1,0 +1,40 @@
+# format = ucca
+# sent_id = 486003
+# text = However , he did not seriously consider a career in the performing arts until 1991 when he was persuaded to try stand - up comedy while working as a barman at Melbourne 's Castle Hotel .
+1	However	_	Word	Word	_	19	L	19:L	_
+2	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+3	he	_	Word	Word	_	7	A	7:A	_
+4	did	_	Word	Word	_	7	F	7:F	_
+5	not	_	Word	Word	_	7	D	7:D	_
+6	seriously	_	Word	Word	_	7	D	7:D	_
+7	consider	_	Word	Word	_	0	H	0:H	_
+8	a	_	Word	Word	_	9	E	9:E	_
+9	career	_	Word	Word	_	7	A	7:A	_
+10	in	_	Word	Word	_	13	R	13:R	_
+11	the	_	Word	Word	_	13	E	13:E	_
+12	performing	_	Word	Word	_	13	E	13:E	_
+13	arts	_	Word	Word	_	9	A	9:A	_
+14	until	_	Word	Word	_	15	R	15:R	_
+15	1991	_	Word	Word	_	7	T	7:T	_
+16	when	_	Word	Word	_	19	L	19:L	_
+17	he	_	Word	Word	_	19	A	19:A|21:A|30:A	_
+18	was	_	Word	Word	_	19	F	19:F	_
+19	persuaded	_	Word	Word	_	7	H	7:H	_
+20	to	_	Word	Word	_	21	F	21:F	_
+21	try	_	Word	Word	_	19	A	19:A	_
+22	stand	_	Word	Word	_	25	E	25:E	_
+23	-	_	Punctuation	Punctuation	_	22	U	22:U	_
+24	up	_	Word	Word	_	22	Terminal	22:Terminal	_
+25	comedy	_	Word	Word	_	21	A	21:A	_
+26	while	_	Word	Word	_	30	L	30:L	_
+27	working	_	Word	Word	_	30	D	30:D	_
+28	as	_	Word	Word	_	30	R	30:R	_
+29	a	_	Word	Word	_	30	E	30:E	_
+30	barman	_	Word	Word	_	7	H	7:H	_
+31	at	_	Word	Word	_	34	R	34:R	_
+32	Melbourne	_	Word	Word	_	34	E	34:E	_
+33	's	_	Word	Word	_	32	R	32:R	_
+34	Castle	_	Word	Word	_	30	A	30:A	_
+35	Hotel	_	Word	Word	_	34	Terminal	34:Terminal	_
+36	.	_	Punctuation	Punctuation	_	34	U	34:U	_
+

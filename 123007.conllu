@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 123007
+# text = In 1924 , Hepburn gained a place at Bryn Mawr College .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1924	_	Word	Word	_	7	T	7:T	_
+3	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+4	Hepburn	_	Word	Word	_	7	A	7:A	_
+5	gained	_	Word	Word	_	7	D	7:D	_
+6	a	_	Word	Word	_	7	F	7:F	_
+7	place	_	Word	Word	_	0	H	0:H	_
+8	at	_	Word	Word	_	9	R	9:R	_
+9	Bryn	_	Word	Word	_	7	A	7:A	_
+10	Mawr	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	College	_	Word	Word	_	9	E	9:E	_
+12	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

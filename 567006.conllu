@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 567006
+# text = Presley undertook three brief tours during the year , continuing to generate a crazed audience response .
+1	Presley	_	Word	Word	_	5	A	5:A|16:A	_
+2	undertook	_	Word	Word	_	5	D	5:D	_
+3	three	_	Word	Word	_	5	D	5:D	_
+4	brief	_	Word	Word	_	5	T	5:T	_
+5	tours	_	Word	Word	_	0	H	0:H	_
+6	during	_	Word	Word	_	8	R	8:R	_
+7	the	_	Word	Word	_	8	E	8:E	_
+8	year	_	Word	Word	_	5	T	5:T	_
+9	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+10	continuing	_	Word	Word	_	12	E	12:E	_
+11	to	_	Word	Word	_	12	F	12:F	_
+12	generate	_	Word	Word	_	16	D	16:D	_
+13	a	_	Word	Word	_	16	F	16:F	_
+14	crazed	_	Word	Word	_	16	D	16:D	_
+15	audience	_	Word	Word	_	16	A	16:A	_
+16	response	_	Word	Word	_	5	H	5:H	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

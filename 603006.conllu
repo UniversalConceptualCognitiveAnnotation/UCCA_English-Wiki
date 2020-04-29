@@ -1,0 +1,52 @@
+# format = ucca
+# sent_id = 603006
+# text = Based on an ink drawing by McCartney cover , the LP 's included a collage designed by pop artists Peter Blake and Jann Haworth , featuring the Beatles in costume as the Sgt . Pepper 's Lonely Hearts Club Band , standing with a host of celebrities .
+1	Based	_	Word	Word	_	0	H	0:H	_
+2	on	_	Word	Word	_	8	R	8:R	_
+3	an	_	Word	Word	_	8	F	8:F	_
+4	ink	_	Word	Word	_	5	E	5:E	_
+5	drawing	_	Word	Word	_	8	E	8:E	_
+6	by	_	Word	Word	_	7	R	7:R	_
+7	McCartney	_	Word	Word	_	1	A	1:A	_
+8	cover	_	Word	Word	_	0	C	0:C|1:A	_
+9	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+10	the	_	Word	Word	_	11	F	11:F	_
+11	LP	_	Word	Word	_	13	A	13:A|1:A	_
+12	's	_	Word	Word	_	11	R	11:R	_
+13	included	_	Word	Word	_	1	H	1:H	_
+14	a	_	Word	Word	_	15	F	15:F	_
+15	collage	_	Word	Word	_	13	A	13:A	_
+16	designed	_	Word	Word	_	15	E	15:E	_
+17	by	_	Word	Word	_	20	R	20:R	_
+18	pop	_	Word	Word	_	19	E	19:E	_
+19	artists	_	Word	Word	_	20	E	20:E	_
+20	Peter	_	Word	Word	_	16	A	16:A	_
+21	Blake	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	and	_	Word	Word	_	20	N	20:N	_
+23	Jann	_	Word	Word	_	20	C	20:C	_
+24	Haworth	_	Word	Word	_	23	Terminal	23:Terminal	_
+25	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+26	featuring	_	Word	Word	_	15	E	15:E	_
+27	the	_	Word	Word	_	26	A	26:A	_
+28	Beatles	_	Word	Word	_	27	Terminal	27:Terminal	_
+29	in	_	Word	Word	_	30	R	30:R	_
+30	costume	_	Word	Word	_	27	E	27:E	_
+31	as	_	Word	Word	_	33	R	33:R	_
+32	the	_	Word	Word	_	33	F	33:F	_
+33	Sgt	_	Word	Word	_	27	E	27:E	_
+34	.	_	Punctuation	Punctuation	_	33	U	33:U	_
+35	Pepper	_	Word	Word	_	33	Terminal	33:Terminal	_
+36	's	_	Word	Word	_	33	Terminal	33:Terminal	_
+37	Lonely	_	Word	Word	_	33	Terminal	33:Terminal	_
+38	Hearts	_	Word	Word	_	33	Terminal	33:Terminal	_
+39	Club	_	Word	Word	_	33	Terminal	33:Terminal	_
+40	Band	_	Word	Word	_	33	Terminal	33:Terminal	_
+41	,	_	Punctuation	Punctuation	_	27	U	27:U	_
+42	standing	_	Word	Word	_	27	E	27:E	_
+43	with	_	Word	Word	_	47	R	47:R	_
+44	a	_	Word	Word	_	45	F	45:F	_
+45	host	_	Word	Word	_	47	Q	47:Q	_
+46	of	_	Word	Word	_	47	R	47:R	_
+47	celebrities	_	Word	Word	_	42	A	42:A	_
+48	.	_	Punctuation	Punctuation	_	47	U	47:U	_
+

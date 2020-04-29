@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 606005
+# text = In 1974 , Wings achieved a second US number - one single with the title track .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1974	_	Word	Word	_	5	T	5:T	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	Wings	_	Word	Word	_	5	A	5:A	_
+5	achieved	_	Word	Word	_	0	H	0:H	_
+6	a	_	Word	Word	_	12	F	12:F	_
+7	second	_	Word	Word	_	12	Q	12:Q	_
+8	US	_	Word	Word	_	12	E	12:E	_
+9	number	_	Word	Word	_	12	E	12:E	_
+10	-	_	Punctuation	Punctuation	_	9	U	9:U	_
+11	one	_	Word	Word	_	9	Q	9:Q	_
+12	single	_	Word	Word	_	5	A	5:A	_
+13	with	_	Word	Word	_	16	R	16:R	_
+14	the	_	Word	Word	_	16	F	16:F	_
+15	title	_	Word	Word	_	16	E	16:E	_
+16	track	_	Word	Word	_	5	A	5:A	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

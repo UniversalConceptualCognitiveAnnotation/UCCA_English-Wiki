@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 528003
+# text = On January 5 , 1953 , Ethel Gumm was found dead in the Douglas Aircraft parking lot .
+1	On	_	Word	Word	_	2	R	2:R	_
+2	January	_	Word	Word	_	11	T	11:T	_
+3	5	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	1953	_	Word	Word	_	2	C	2:C	_
+6	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+7	Ethel	_	Word	Word	_	11	A	11:A	_
+8	Gumm	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	was	_	Word	Word	_	11	F	11:F	_
+10	found	_	Word	Word	_	11	G	11:G	_
+11	dead	_	Word	Word	_	0	H	0:H	_
+12	in	_	Word	Word	_	17	R	17:R	_
+13	the	_	Word	Word	_	17	F	17:F	_
+14	Douglas	_	Word	Word	_	17	E	17:E	_
+15	Aircraft	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	parking	_	Word	Word	_	17	E	17:E	_
+17	lot	_	Word	Word	_	11	A	11:A	_
+18	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+

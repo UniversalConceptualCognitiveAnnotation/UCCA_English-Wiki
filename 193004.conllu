@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 193004
+# text = The pilot debuted in the fall of 1999 and was produced by Warner Bros . TV .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	pilot	_	Word	Word	_	0	C	0:C|11:A	_
+3	debuted	_	Word	Word	_	0	H	0:H	_
+4	in	_	Word	Word	_	6	R	6:R	_
+5	the	_	Word	Word	_	6	E	6:E	_
+6	fall	_	Word	Word	_	3	T	3:T	_
+7	of	_	Word	Word	_	8	R	8:R	_
+8	1999	_	Word	Word	_	6	C	6:C	_
+9	and	_	Word	Word	_	11	L	11:L	_
+10	was	_	Word	Word	_	11	F	11:F	_
+11	produced	_	Word	Word	_	3	H	3:H	_
+12	by	_	Word	Word	_	16	R	16:R	_
+13	Warner	_	Word	Word	_	16	E	16:E	_
+14	Bros	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+16	TV	_	Word	Word	_	11	A	11:A	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

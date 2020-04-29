@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 545001
+# text = Jack Warner announced that the studio would release no more " propaganda pictures " and promptly ordered the shelving of several projects with an anti - Nazi theme .
+1	Jack	_	Word	Word	_	3	A	3:A|17:A	_
+2	Warner	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	announced	_	Word	Word	_	0	H	0:H	_
+4	that	_	Word	Word	_	8	R	8:R	_
+5	the	_	Word	Word	_	6	E	6:E	_
+6	studio	_	Word	Word	_	8	A	8:A	_
+7	would	_	Word	Word	_	8	D	8:D	_
+8	release	_	Word	Word	_	3	A	3:A	_
+9	no	_	Word	Word	_	8	D	8:D	_
+10	more	_	Word	Word	_	9	E	9:E	_
+11	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+12	propaganda	_	Word	Word	_	13	E	13:E	_
+13	pictures	_	Word	Word	_	8	A	8:A	_
+14	"	_	Punctuation	Punctuation	_	3	U	3:U	_
+15	and	_	Word	Word	_	17	L	17:L	_
+16	promptly	_	Word	Word	_	17	D	17:D	_
+17	ordered	_	Word	Word	_	3	H	3:H	_
+18	the	_	Word	Word	_	19	E	19:E	_
+19	shelving	_	Word	Word	_	17	A	17:A	_
+20	of	_	Word	Word	_	22	R	22:R	_
+21	several	_	Word	Word	_	22	Q	22:Q	_
+22	projects	_	Word	Word	_	19	A	19:A	_
+23	with	_	Word	Word	_	28	R	28:R	_
+24	an	_	Word	Word	_	28	E	28:E	_
+25	anti	_	Word	Word	_	28	E	28:E	_
+26	-	_	Punctuation	Punctuation	_	25	U	25:U	_
+27	Nazi	_	Word	Word	_	25	A	25:A	_
+28	theme	_	Word	Word	_	22	E	22:E	_
+29	.	_	Punctuation	Punctuation	_	28	U	28:U	_
+

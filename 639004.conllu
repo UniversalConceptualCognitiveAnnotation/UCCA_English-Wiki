@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 639004
+# text = Staged at Madison Square Garden on 30 August 1972 , they were his last full - length concert appearances .
+1	Staged	_	Word	Word	_	0	H	0:H	_
+2	at	_	Word	Word	_	3	R	3:R	_
+3	Madison	_	Word	Word	_	1	A	1:A	_
+4	Square	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	Garden	_	Word	Word	_	3	Terminal	3:Terminal	_
+6	on	_	Word	Word	_	7	R	7:R	_
+7	30	_	Word	Word	_	1	T	1:T	_
+8	August	_	Word	Word	_	7	C	7:C	_
+9	1972	_	Word	Word	_	7	C	7:C	_
+10	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+11	they	_	Word	Word	_	12	A	12:A	_
+12	were	_	Word	Word	_	1	H	1:H	_
+13	his	_	Word	Word	_	19	A	19:A	_
+14	last	_	Word	Word	_	19	D	19:D	_
+15	full	_	Word	Word	_	17	E	17:E	_
+16	-	_	Punctuation	Punctuation	_	17	U	17:U	_
+17	length	_	Word	Word	_	19	D	19:D	_
+18	concert	_	Word	Word	_	19	A	19:A	_
+19	appearances	_	Word	Word	_	12	A	12:A	_
+20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

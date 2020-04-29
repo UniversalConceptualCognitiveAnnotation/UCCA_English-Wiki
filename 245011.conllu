@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 245011
+# text = Nonetheless , the film was a surprise box office disappointment .
+1	Nonetheless	_	Word	Word	_	10	L	10:L	_
+2	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+3	the	_	Word	Word	_	4	F	4:F	_
+4	film	_	Word	Word	_	10	A	10:A	_
+5	was	_	Word	Word	_	10	F	10:F	_
+6	a	_	Word	Word	_	7	F	7:F	_
+7	surprise	_	Word	Word	_	10	G	10:G	_
+8	box	_	Word	Word	_	9	E	9:E	_
+9	office	_	Word	Word	_	10	A	10:A	_
+10	disappointment	_	Word	Word	_	0	H	0:H	_
+11	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+

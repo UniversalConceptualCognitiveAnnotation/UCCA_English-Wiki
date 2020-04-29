@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 473002
+# text = The game ended after he made a last - minute three - pointer , and players from both teams ran onto the court to congratulate Johnson .
+1	The	_	Word	Word	_	2	F	2:F	_
+2	game	_	Word	Word	_	0	H	0:H	_
+3	ended	_	Word	Word	_	2	D	2:D	_
+4	after	_	Word	Word	_	11	L	11:L	_
+5	he	_	Word	Word	_	11	A	11:A	_
+6	made	_	Word	Word	_	11	F	11:F	_
+7	a	_	Word	Word	_	10	F	10:F	_
+8	last	_	Word	Word	_	10	E	10:E	_
+9	-	_	Punctuation	Punctuation	_	10	U	10:U	_
+10	minute	_	Word	Word	_	11	T	11:T	_
+11	three	_	Word	Word	_	2	H	2:H	_
+12	-	_	Punctuation	Punctuation	_	11	U	11:U	_
+13	pointer	_	Word	Word	_	11	Terminal	11:Terminal	_
+14	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+15	and	_	Word	Word	_	20	L	20:L	_
+16	players	_	Word	Word	_	0	A	0:A|25:A	_
+17	from	_	Word	Word	_	19	R	19:R	_
+18	both	_	Word	Word	_	19	Q	19:Q	_
+19	teams	_	Word	Word	_	16	E	16:E	_
+20	ran	_	Word	Word	_	2	H	2:H	_
+21	onto	_	Word	Word	_	23	R	23:R	_
+22	the	_	Word	Word	_	23	F	23:F	_
+23	court	_	Word	Word	_	20	A	20:A	_
+24	to	_	Word	Word	_	25	L	25:L	_
+25	congratulate	_	Word	Word	_	2	H	2:H	_
+26	Johnson	_	Word	Word	_	25	A	25:A	_
+27	.	_	Punctuation	Punctuation	_	25	U	25:U	_
+

@@ -1,0 +1,36 @@
+# format = ucca
+# sent_id = 1028004
+# text = The Bad Tour turned out to be the last of Jackson 's concert tours to include shows in the continental United States , although later tours did make it to Hawaii .
+1	The	_	Word	Word	_	3	F	3:F	_
+2	Bad	_	Word	Word	_	3	A	3:A	_
+3	Tour	_	Word	Word	_	7	A	7:A	_
+4	turned	_	Word	Word	_	7	D	7:D	_
+5	out	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	to	_	Word	Word	_	7	F	7:F	_
+7	be	_	Word	Word	_	0	H	0:H	_
+8	the	_	Word	Word	_	9	E	9:E	_
+9	last	_	Word	Word	_	14	Q	14:Q	_
+10	of	_	Word	Word	_	14	R	14:R	_
+11	Jackson	_	Word	Word	_	14	A	14:A	_
+12	's	_	Word	Word	_	11	R	11:R	_
+13	concert	_	Word	Word	_	14	A	14:A	_
+14	tours	_	Word	Word	_	7	A	7:A	_
+15	to	_	Word	Word	_	16	F	16:F	_
+16	include	_	Word	Word	_	14	E	14:E	_
+17	shows	_	Word	Word	_	16	A	16:A	_
+18	in	_	Word	Word	_	21	R	21:R	_
+19	the	_	Word	Word	_	21	E	21:E	_
+20	continental	_	Word	Word	_	21	E	21:E	_
+21	United	_	Word	Word	_	16	A	16:A	_
+22	States	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+24	although	_	Word	Word	_	28	L	28:L	_
+25	later	_	Word	Word	_	26	T	26:T	_
+26	tours	_	Word	Word	_	28	A	28:A	_
+27	did	_	Word	Word	_	28	F	28:F	_
+28	make	_	Word	Word	_	7	H	7:H	_
+29	it	_	Word	Word	_	28	Terminal	28:Terminal	_
+30	to	_	Word	Word	_	31	R	31:R	_
+31	Hawaii	_	Word	Word	_	28	A	28:A	_
+32	.	_	Punctuation	Punctuation	_	31	U	31:U	_
+

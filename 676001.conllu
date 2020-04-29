@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 676001
+# text = Her salary is reported to be $ 18 million .
+1	Her	_	Word	Word	_	2	E	2:E	_
+2	salary	_	Word	Word	_	4	A	4:A	_
+3	is	_	Word	Word	_	4	F	4:F	_
+4	reported	_	Word	Word	_	0	H	0:H	_
+5	to	_	Word	Word	_	6	F	6:F	_
+6	be	_	Word	Word	_	4	A	4:A	_
+7	$	_	Word	Word	_	6	A	6:A	_
+8	18	_	Word	Word	_	7	Q	7:Q	_
+9	million	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

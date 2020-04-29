@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 558006
+# text = Three days later , popular Memphis DJ Dewey Phillips played " That 's All Right " on his Red , Hot , and Blue show .
+1	Three	_	Word	Word	_	2	Q	2:Q	_
+2	days	_	Word	Word	_	10	T	10:T	_
+3	later	_	Word	Word	_	2	R	2:R	_
+4	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+5	popular	_	Word	Word	_	7	D	7:D	_
+6	Memphis	_	Word	Word	_	7	A	7:A	_
+7	DJ	_	Word	Word	_	8	E	8:E	_
+8	Dewey	_	Word	Word	_	10	A	10:A	_
+9	Phillips	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	played	_	Word	Word	_	0	H	0:H	_
+11	"	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	That	_	Word	Word	_	10	A	10:A	_
+13	's	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	All	_	Word	Word	_	12	Terminal	12:Terminal	_
+15	Right	_	Word	Word	_	12	Terminal	12:Terminal	_
+16	"	_	Punctuation	Punctuation	_	10	U	10:U	_
+17	on	_	Word	Word	_	25	R	25:R	_
+18	his	_	Word	Word	_	25	A	25:A	_
+19	Red	_	Word	Word	_	25	A	25:A	_
+20	,	_	Punctuation	Punctuation	_	19	U	19:U	_
+21	Hot	_	Word	Word	_	19	Terminal	19:Terminal	_
+22	,	_	Punctuation	Punctuation	_	19	U	19:U	_
+23	and	_	Word	Word	_	19	Terminal	19:Terminal	_
+24	Blue	_	Word	Word	_	19	Terminal	19:Terminal	_
+25	show	_	Word	Word	_	10	A	10:A	_
+26	.	_	Punctuation	Punctuation	_	25	U	25:U	_
+

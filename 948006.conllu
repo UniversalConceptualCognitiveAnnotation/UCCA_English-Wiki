@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 948006
+# text = Stefani met Bush guitarist and lead singer Gavin Rossdale .
+1	Stefani	_	Word	Word	_	2	A	2:A	_
+2	met	_	Word	Word	_	0	H	0:H	_
+3	Bush	_	Word	Word	_	4	A	4:A|7:A	_
+4	guitarist	_	Word	Word	_	8	E	8:E	_
+5	and	_	Word	Word	_	4	N	4:N	_
+6	lead	_	Word	Word	_	7	D	7:D	_
+7	singer	_	Word	Word	_	4	C	4:C	_
+8	Gavin	_	Word	Word	_	2	A	2:A	_
+9	Rossdale	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+

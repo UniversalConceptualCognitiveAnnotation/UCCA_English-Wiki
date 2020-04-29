@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 943003
+# text = After making a demo tape for her father , she was encouraged to take music lessons to train her " loopy , unpredictable " voice .
+1	After	_	Word	Word	_	12	L	12:L	_
+2	making	_	Word	Word	_	0	H	0:H	_
+3	a	_	Word	Word	_	5	E	5:E	_
+4	demo	_	Word	Word	_	5	E	5:E	_
+5	tape	_	Word	Word	_	2	A	2:A	_
+6	for	_	Word	Word	_	7	R	7:R	_
+7	her	_	Word	Word	_	2	A	2:A	_
+8	father	_	Word	Word	_	7	A	7:A	_
+9	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+10	she	_	Word	Word	_	12	A	12:A|2:A|16:A|18:A	_
+11	was	_	Word	Word	_	12	F	12:F	_
+12	encouraged	_	Word	Word	_	2	H	2:H	_
+13	to	_	Word	Word	_	16	R	16:R	_
+14	take	_	Word	Word	_	16	F	16:F	_
+15	music	_	Word	Word	_	16	A	16:A	_
+16	lessons	_	Word	Word	_	12	A	12:A	_
+17	to	_	Word	Word	_	18	L	18:L	_
+18	train	_	Word	Word	_	2	H	2:H	_
+19	her	_	Word	Word	_	25	E	25:E	_
+20	"	_	Punctuation	Punctuation	_	25	U	25:U	_
+21	loopy	_	Word	Word	_	25	E	25:E	_
+22	,	_	Punctuation	Punctuation	_	25	U	25:U	_
+23	unpredictable	_	Word	Word	_	25	E	25:E	_
+24	"	_	Punctuation	Punctuation	_	23	U	23:U	_
+25	voice	_	Word	Word	_	18	A	18:A	_
+26	.	_	Punctuation	Punctuation	_	25	U	25:U	_
+

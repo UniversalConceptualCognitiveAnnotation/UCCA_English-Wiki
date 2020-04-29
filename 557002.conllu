@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 557002
+# text = Biographer Peter Guralnick argues that he chose Sun in the hope of being discovered .
+1	Biographer	_	Word	Word	_	2	E	2:E	_
+2	Peter	_	Word	Word	_	4	A	4:A	_
+3	Guralnick	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	argues	_	Word	Word	_	0	H	0:H	_
+5	that	_	Word	Word	_	7	R	7:R	_
+6	he	_	Word	Word	_	7	A	7:A|11:A|14:A	_
+7	chose	_	Word	Word	_	4	A	4:A	_
+8	Sun	_	Word	Word	_	7	A	7:A	_
+9	in	_	Word	Word	_	11	L	11:L	_
+10	the	_	Word	Word	_	11	E	11:E	_
+11	hope	_	Word	Word	_	7	H	7:H	_
+12	of	_	Word	Word	_	14	R	14:R	_
+13	being	_	Word	Word	_	14	F	14:F	_
+14	discovered	_	Word	Word	_	11	A	11:A	_
+15	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

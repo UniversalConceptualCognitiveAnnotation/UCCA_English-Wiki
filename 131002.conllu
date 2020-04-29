@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 131002
+# text = Hepburn turned it down , and instead opted to buy herself out of her contract for $ 75,000 .
+1	Hepburn	_	Word	Word	_	2	A	2:A|8:A|10:A	_
+2	turned	_	Word	Word	_	0	H	0:H	_
+3	it	_	Word	Word	_	2	A	2:A	_
+4	down	_	Word	Word	_	2	Terminal	2:Terminal	_
+5	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+6	and	_	Word	Word	_	8	L	8:L	_
+7	instead	_	Word	Word	_	8	D	8:D	_
+8	opted	_	Word	Word	_	2	H	2:H	_
+9	to	_	Word	Word	_	10	F	10:F	_
+10	buy	_	Word	Word	_	8	A	8:A	_
+11	herself	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	out	_	Word	Word	_	10	Terminal	10:Terminal	_
+13	of	_	Word	Word	_	15	R	15:R	_
+14	her	_	Word	Word	_	15	E	15:E	_
+15	contract	_	Word	Word	_	10	A	10:A	_
+16	for	_	Word	Word	_	17	R	17:R	_
+17	$	_	Word	Word	_	10	A	10:A	_
+18	75,000	_	Word	Word	_	17	Q	17:Q	_
+19	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+

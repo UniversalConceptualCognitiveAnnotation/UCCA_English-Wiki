@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 529000
+# text = Garland was nominated for the Academy Award for Best Actress and in the run - up to the 27th Academy Awards , was generally expected to win .
+1	Garland	_	Word	Word	_	3	A	3:A|25:A|27:A	_
+2	was	_	Word	Word	_	3	F	3:F	_
+3	nominated	_	Word	Word	_	0	H	0:H	_
+4	for	_	Word	Word	_	6	R	6:R	_
+5	the	_	Word	Word	_	6	F	6:F	_
+6	Academy	_	Word	Word	_	3	A	3:A	_
+7	Award	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	for	_	Word	Word	_	10	R	10:R	_
+9	Best	_	Word	Word	_	10	D	10:D	_
+10	Actress	_	Word	Word	_	6	E	6:E	_
+11	and	_	Word	Word	_	25	L	25:L	_
+12	in	_	Word	Word	_	14	R	14:R	_
+13	the	_	Word	Word	_	14	F	14:F	_
+14	run	_	Word	Word	_	25	T	25:T	_
+15	-	_	Punctuation	Punctuation	_	14	U	14:U	_
+16	up	_	Word	Word	_	14	Terminal	14:Terminal	_
+17	to	_	Word	Word	_	20	R	20:R	_
+18	the	_	Word	Word	_	20	F	20:F	_
+19	27th	_	Word	Word	_	20	D	20:D	_
+20	Academy	_	Word	Word	_	14	E	14:E	_
+21	Awards	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	,	_	Punctuation	Punctuation	_	25	U	25:U	_
+23	was	_	Word	Word	_	25	F	25:F	_
+24	generally	_	Word	Word	_	25	D	25:D	_
+25	expected	_	Word	Word	_	3	H	3:H	_
+26	to	_	Word	Word	_	27	F	27:F	_
+27	win	_	Word	Word	_	25	A	25:A	_
+28	.	_	Punctuation	Punctuation	_	27	U	27:U	_
+

@@ -1,0 +1,35 @@
+# format = ucca
+# sent_id = 675007
+# text = In November 2011 , Carey was included in the remix to the mixtape single " Warning " by Uncle Murda ; the remix also features 50 Cent and Young Jeezy .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	November	_	Word	Word	_	7	T	7:T	_
+3	2011	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+5	Carey	_	Word	Word	_	7	A	7:A	_
+6	was	_	Word	Word	_	7	F	7:F	_
+7	included	_	Word	Word	_	0	H	0:H	_
+8	in	_	Word	Word	_	10	R	10:R	_
+9	the	_	Word	Word	_	10	E	10:E	_
+10	remix	_	Word	Word	_	7	A	7:A	_
+11	to	_	Word	Word	_	16	R	16:R	_
+12	the	_	Word	Word	_	14	E	14:E	_
+13	mixtape	_	Word	Word	_	14	E	14:E	_
+14	single	_	Word	Word	_	16	E	16:E	_
+15	"	_	Punctuation	Punctuation	_	16	U	16:U	_
+16	Warning	_	Word	Word	_	10	E	10:E	_
+17	"	_	Punctuation	Punctuation	_	16	U	16:U	_
+18	by	_	Word	Word	_	16	E	16:E	_
+19	Uncle	_	Word	Word	_	18	A	18:A	_
+20	Murda	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	;	_	Punctuation	Punctuation	_	7	U	7:U	_
+22	the	_	Word	Word	_	23	E	23:E	_
+23	remix	_	Word	Word	_	25	A	25:A	_
+24	also	_	Word	Word	_	25	D	25:D	_
+25	features	_	Word	Word	_	7	H	7:H	_
+26	50	_	Word	Word	_	25	A	25:A	_
+27	Cent	_	Word	Word	_	26	Terminal	26:Terminal	_
+28	and	_	Word	Word	_	26	N	26:N	_
+29	Young	_	Word	Word	_	26	C	26:C	_
+30	Jeezy	_	Word	Word	_	29	Terminal	29:Terminal	_
+31	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+

@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 593000
+# text = In 1994 , Depp was arrested and questioned by police for allegedly causing serious damage to a New York City hotel suite .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1994	_	Word	Word	_	6	T	6:T|8:T	_
+3	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+4	Depp	_	Word	Word	_	6	A	6:A|8:A|13:A	_
+5	was	_	Word	Word	_	6	F	6:F	_
+6	arrested	_	Word	Word	_	0	H	0:H	_
+7	and	_	Word	Word	_	8	L	8:L	_
+8	questioned	_	Word	Word	_	6	H	6:H	_
+9	by	_	Word	Word	_	10	R	10:R	_
+10	police	_	Word	Word	_	6	A	6:A|8:A	_
+11	for	_	Word	Word	_	13	R	13:R	_
+12	allegedly	_	Word	Word	_	13	D	13:D	_
+13	causing	_	Word	Word	_	6	A	6:A|8:A	_
+14	serious	_	Word	Word	_	15	E	15:E	_
+15	damage	_	Word	Word	_	13	A	13:A	_
+16	to	_	Word	Word	_	22	R	22:R	_
+17	a	_	Word	Word	_	22	E	22:E	_
+18	New	_	Word	Word	_	22	E	22:E	_
+19	York	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	City	_	Word	Word	_	18	Terminal	18:Terminal	_
+21	hotel	_	Word	Word	_	22	E	22:E	_
+22	suite	_	Word	Word	_	13	A	13:A	_
+23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+

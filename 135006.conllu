@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 135006
+# text = In January 1950 , Hepburn made her first venture into Shakespeare , playing Rosalind in As You Like It .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	January	_	Word	Word	_	9	T	9:T	_
+3	1950	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+5	Hepburn	_	Word	Word	_	9	A	9:A|13:A	_
+6	made	_	Word	Word	_	9	D	9:D	_
+7	her	_	Word	Word	_	9	F	9:F	_
+8	first	_	Word	Word	_	9	D	9:D	_
+9	venture	_	Word	Word	_	0	H	0:H	_
+10	into	_	Word	Word	_	11	R	11:R	_
+11	Shakespeare	_	Word	Word	_	9	A	9:A	_
+12	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+13	playing	_	Word	Word	_	9	H	9:H	_
+14	Rosalind	_	Word	Word	_	13	A	13:A	_
+15	in	_	Word	Word	_	16	R	16:R	_
+16	As	_	Word	Word	_	13	A	13:A	_
+17	You	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	Like	_	Word	Word	_	16	Terminal	16:Terminal	_
+19	It	_	Word	Word	_	16	Terminal	16:Terminal	_
+20	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 485003
+# text = Eric Bana was born Eric Banadinović in Melbourne , Victoria , the younger of two children ; he has a brother , Anthony .
+1	Eric	_	Word	Word	_	4	A	4:A|13:A	_
+2	Bana	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	was	_	Word	Word	_	4	F	4:F	_
+4	born	_	Word	Word	_	0	H	0:H	_
+5	Eric	_	Word	Word	_	4	A	4:A	_
+6	Banadinović	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	in	_	Word	Word	_	8	R	8:R	_
+8	Melbourne	_	Word	Word	_	4	A	4:A	_
+9	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+10	Victoria	_	Word	Word	_	8	C	8:C	_
+11	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+12	the	_	Word	Word	_	13	E	13:E	_
+13	younger	_	Word	Word	_	4	H	4:H	_
+14	of	_	Word	Word	_	16	R	16:R	_
+15	two	_	Word	Word	_	16	Q	16:Q	_
+16	children	_	Word	Word	_	13	E	13:E	_
+17	;	_	Punctuation	Punctuation	_	4	U	4:U	_
+18	he	_	Word	Word	_	21	A	21:A	_
+19	has	_	Word	Word	_	21	F	21:F	_
+20	a	_	Word	Word	_	21	E	21:E	_
+21	brother	_	Word	Word	_	4	H	4:H	_
+22	,	_	Punctuation	Punctuation	_	21	U	21:U	_
+23	Anthony	_	Word	Word	_	21	A	21:A	_
+24	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

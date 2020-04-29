@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 130004
+# text = Hepburn sensed that she needed to leave Hollywood , so returned east to star in a theatrical adaptation of Jane Eyre .
+1	Hepburn	_	Word	Word	_	2	A	2:A|11:A|14:A	_
+2	sensed	_	Word	Word	_	0	H	0:H	_
+3	that	_	Word	Word	_	7	R	7:R	_
+4	she	_	Word	Word	_	7	A	7:A	_
+5	needed	_	Word	Word	_	7	D	7:D	_
+6	to	_	Word	Word	_	7	F	7:F	_
+7	leave	_	Word	Word	_	2	A	2:A	_
+8	Hollywood	_	Word	Word	_	7	A	7:A	_
+9	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+10	so	_	Word	Word	_	11	L	11:L	_
+11	returned	_	Word	Word	_	2	H	2:H	_
+12	east	_	Word	Word	_	11	A	11:A	_
+13	to	_	Word	Word	_	14	L	14:L	_
+14	star	_	Word	Word	_	2	H	2:H	_
+15	in	_	Word	Word	_	18	R	18:R	_
+16	a	_	Word	Word	_	18	F	18:F	_
+17	theatrical	_	Word	Word	_	18	E	18:E	_
+18	adaptation	_	Word	Word	_	14	A	14:A	_
+19	of	_	Word	Word	_	20	R	20:R	_
+20	Jane	_	Word	Word	_	18	E	18:E	_
+21	Eyre	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+

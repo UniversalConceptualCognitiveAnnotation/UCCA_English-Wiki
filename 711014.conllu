@@ -1,0 +1,51 @@
+# format = ucca
+# sent_id = 711014
+# text = The documentary focuses on the period from Dylan 's arrival in New York in 1961 to his motorcycle crash in 1966 , featuring interviews with Suze Rotolo , Liam Clancy , Joan Baez , Allen Ginsberg , Pete Seeger , Mavis Staples , and Dylan himself .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	documentary	_	Word	Word	_	0	C	0:C|23:A	_
+3	focuses	_	Word	Word	_	0	H	0:H	_
+4	on	_	Word	Word	_	6	R	6:R	_
+5	the	_	Word	Word	_	6	E	6:E	_
+6	period	_	Word	Word	_	3	A	3:A	_
+7	from	_	Word	Word	_	19	L	19:L	_
+8	Dylan	_	Word	Word	_	10	A	10:A	_
+9	's	_	Word	Word	_	8	R	8:R	_
+10	arrival	_	Word	Word	_	6	E	6:E	_
+11	in	_	Word	Word	_	12	R	12:R	_
+12	New	_	Word	Word	_	10	A	10:A	_
+13	York	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	in	_	Word	Word	_	15	R	15:R	_
+15	1961	_	Word	Word	_	10	T	10:T	_
+16	to	_	Word	Word	_	19	L	19:L	_
+17	his	_	Word	Word	_	19	A	19:A	_
+18	motorcycle	_	Word	Word	_	19	A	19:A	_
+19	crash	_	Word	Word	_	10	H	10:H	_
+20	in	_	Word	Word	_	21	R	21:R	_
+21	1966	_	Word	Word	_	19	T	19:T	_
+22	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+23	featuring	_	Word	Word	_	3	H	3:H	_
+24	interviews	_	Word	Word	_	23	A	23:A	_
+25	with	_	Word	Word	_	26	R	26:R	_
+26	Suze	_	Word	Word	_	24	A	24:A	_
+27	Rotolo	_	Word	Word	_	26	Terminal	26:Terminal	_
+28	,	_	Punctuation	Punctuation	_	26	U	26:U	_
+29	Liam	_	Word	Word	_	26	C	26:C	_
+30	Clancy	_	Word	Word	_	29	Terminal	29:Terminal	_
+31	,	_	Punctuation	Punctuation	_	26	U	26:U	_
+32	Joan	_	Word	Word	_	26	C	26:C	_
+33	Baez	_	Word	Word	_	32	Terminal	32:Terminal	_
+34	,	_	Punctuation	Punctuation	_	26	U	26:U	_
+35	Allen	_	Word	Word	_	26	C	26:C	_
+36	Ginsberg	_	Word	Word	_	35	Terminal	35:Terminal	_
+37	,	_	Punctuation	Punctuation	_	26	U	26:U	_
+38	Pete	_	Word	Word	_	26	C	26:C	_
+39	Seeger	_	Word	Word	_	38	Terminal	38:Terminal	_
+40	,	_	Punctuation	Punctuation	_	26	U	26:U	_
+41	Mavis	_	Word	Word	_	26	C	26:C	_
+42	Staples	_	Word	Word	_	41	Terminal	41:Terminal	_
+43	,	_	Punctuation	Punctuation	_	26	U	26:U	_
+44	and	_	Word	Word	_	26	N	26:N	_
+45	Dylan	_	Word	Word	_	26	C	26:C	_
+46	himself	_	Word	Word	_	45	F	45:F	_
+47	.	_	Punctuation	Punctuation	_	45	U	45:U	_
+

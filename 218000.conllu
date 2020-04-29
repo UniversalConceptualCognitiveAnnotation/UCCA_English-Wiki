@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 218000
+# text = In 2005 , she appeared as flight attendant Claire Colburn alongside Orlando Bloom , in Elizabethtown , a movie written and directed by Cameron Crowe .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	2005	_	Word	Word	_	5	T	5:T	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	she	_	Word	Word	_	5	A	5:A	_
+5	appeared	_	Word	Word	_	0	H	0:H	_
+6	as	_	Word	Word	_	9	R	9:R	_
+7	flight	_	Word	Word	_	8	E	8:E	_
+8	attendant	_	Word	Word	_	9	E	9:E	_
+9	Claire	_	Word	Word	_	5	A	5:A	_
+10	Colburn	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	alongside	_	Word	Word	_	12	R	12:R	_
+12	Orlando	_	Word	Word	_	5	A	5:A	_
+13	Bloom	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+15	in	_	Word	Word	_	16	R	16:R	_
+16	Elizabethtown	_	Word	Word	_	5	A	5:A	_
+17	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+18	a	_	Word	Word	_	19	F	19:F	_
+19	movie	_	Word	Word	_	16	E	16:E	_
+20	written	_	Word	Word	_	19	E	19:E	_
+21	and	_	Word	Word	_	20	N	20:N	_
+22	directed	_	Word	Word	_	20	C	20:C	_
+23	by	_	Word	Word	_	24	R	24:R	_
+24	Cameron	_	Word	Word	_	20	A	20:A	_
+25	Crowe	_	Word	Word	_	24	Terminal	24:Terminal	_
+26	.	_	Punctuation	Punctuation	_	24	U	24:U	_
+

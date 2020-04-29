@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 943007
+# text = After graduating from high school in 1987 , she began attending Fullerton College before transferring to California State University , Fullerton .
+1	After	_	Word	Word	_	11	L	11:L	_
+2	graduating	_	Word	Word	_	0	H	0:H	_
+3	from	_	Word	Word	_	5	R	5:R	_
+4	high	_	Word	Word	_	5	E	5:E	_
+5	school	_	Word	Word	_	2	A	2:A	_
+6	in	_	Word	Word	_	7	R	7:R	_
+7	1987	_	Word	Word	_	2	T	2:T	_
+8	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+9	she	_	Word	Word	_	11	A	11:A|2:A|15:A	_
+10	began	_	Word	Word	_	11	D	11:D	_
+11	attending	_	Word	Word	_	2	H	2:H	_
+12	Fullerton	_	Word	Word	_	13	E	13:E	_
+13	College	_	Word	Word	_	11	A	11:A	_
+14	before	_	Word	Word	_	15	L	15:L	_
+15	transferring	_	Word	Word	_	2	H	2:H	_
+16	to	_	Word	Word	_	19	R	19:R	_
+17	California	_	Word	Word	_	19	E	19:E	_
+18	State	_	Word	Word	_	19	E	19:E	_
+19	University	_	Word	Word	_	15	A	15:A	_
+20	,	_	Punctuation	Punctuation	_	19	U	19:U	_
+21	Fullerton	_	Word	Word	_	19	C	19:C	_
+22	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

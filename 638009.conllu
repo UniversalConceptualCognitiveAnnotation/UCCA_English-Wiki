@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 638009
+# text = Her song " Death of Samantha " was inspired by the incident .
+1	Her	_	Word	Word	_	2	E	2:E	_
+2	song	_	Word	Word	_	4	E	4:E	_
+3	"	_	Punctuation	Punctuation	_	4	U	4:U	_
+4	Death	_	Word	Word	_	9	A	9:A	_
+5	of	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	Samantha	_	Word	Word	_	4	Terminal	4:Terminal	_
+7	"	_	Punctuation	Punctuation	_	9	U	9:U	_
+8	was	_	Word	Word	_	9	F	9:F	_
+9	inspired	_	Word	Word	_	0	H	0:H	_
+10	by	_	Word	Word	_	12	R	12:R	_
+11	the	_	Word	Word	_	12	E	12:E	_
+12	incident	_	Word	Word	_	9	A	9:A	_
+13	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+

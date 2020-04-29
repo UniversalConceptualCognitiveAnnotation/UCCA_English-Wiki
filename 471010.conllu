@@ -1,0 +1,49 @@
+# format = ucca
+# sent_id = 471010
+# text = After the teams split the first six games , Lakers forward and Finals MVP James Worthy had his first career triple - double of 36 points , 16 rebounds , and 10 assists , and led his team to a 108 - 105 win .
+1	After	_	Word	Word	_	17	L	17:L	_
+2	the	_	Word	Word	_	3	F	3:F	_
+3	teams	_	Word	Word	_	4	A	4:A	_
+4	split	_	Word	Word	_	0	H	0:H	_
+5	the	_	Word	Word	_	8	F	8:F	_
+6	first	_	Word	Word	_	8	Q	8:Q	_
+7	six	_	Word	Word	_	8	Q	8:Q	_
+8	games	_	Word	Word	_	4	A	4:A	_
+9	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+10	Lakers	_	Word	Word	_	14	E	14:E	_
+11	forward	_	Word	Word	_	14	E	14:E	_
+12	and	_	Word	Word	_	11	N	11:N	_
+13	Finals	_	Word	Word	_	11	C	11:C	_
+14	MVP	_	Word	Word	_	15	E	15:E	_
+15	James	_	Word	Word	_	0	C	0:C|36:A	_
+16	Worthy	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	had	_	Word	Word	_	4	H	4:H	_
+18	his	_	Word	Word	_	21	E	21:E	_
+19	first	_	Word	Word	_	21	Q	21:Q	_
+20	career	_	Word	Word	_	21	E	21:E	_
+21	triple	_	Word	Word	_	17	A	17:A	_
+22	-	_	Punctuation	Punctuation	_	21	U	21:U	_
+23	double	_	Word	Word	_	21	Terminal	21:Terminal	_
+24	of	_	Word	Word	_	26	R	26:R	_
+25	36	_	Word	Word	_	26	Q	26:Q	_
+26	points	_	Word	Word	_	21	E	21:E	_
+27	,	_	Punctuation	Punctuation	_	26	U	26:U	_
+28	16	_	Word	Word	_	29	Q	29:Q	_
+29	rebounds	_	Word	Word	_	26	C	26:C	_
+30	,	_	Punctuation	Punctuation	_	26	U	26:U	_
+31	and	_	Word	Word	_	26	N	26:N	_
+32	10	_	Word	Word	_	33	Q	33:Q	_
+33	assists	_	Word	Word	_	26	C	26:C	_
+34	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+35	and	_	Word	Word	_	36	L	36:L	_
+36	led	_	Word	Word	_	4	H	4:H	_
+37	his	_	Word	Word	_	38	E	38:E	_
+38	team	_	Word	Word	_	36	A	36:A	_
+39	to	_	Word	Word	_	44	R	44:R	_
+40	a	_	Word	Word	_	44	F	44:F	_
+41	108	_	Word	Word	_	44	E	44:E	_
+42	-	_	Punctuation	Punctuation	_	41	U	41:U	_
+43	105	_	Word	Word	_	41	C	41:C	_
+44	win	_	Word	Word	_	36	A	36:A	_
+45	.	_	Punctuation	Punctuation	_	44	U	44:U	_
+

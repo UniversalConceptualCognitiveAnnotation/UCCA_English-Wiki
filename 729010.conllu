@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 729010
+# text = The film was an international success with revenues of $ 294 million .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	film	_	Word	Word	_	6	A	6:A	_
+3	was	_	Word	Word	_	6	F	6:F	_
+4	an	_	Word	Word	_	5	E	5:E	_
+5	international	_	Word	Word	_	6	A	6:A	_
+6	success	_	Word	Word	_	0	H	0:H	_
+7	with	_	Word	Word	_	8	L	8:L	_
+8	revenues	_	Word	Word	_	6	H	6:H	_
+9	of	_	Word	Word	_	10	R	10:R	_
+10	$	_	Word	Word	_	8	A	8:A	_
+11	294	_	Word	Word	_	10	Q	10:Q	_
+12	million	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+

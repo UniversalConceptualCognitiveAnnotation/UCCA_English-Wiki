@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 126006
+# text = Hepburn arrived in California in July 1932 , at 25 years old .
+1	Hepburn	_	Word	Word	_	2	A	2:A|12:A	_
+2	arrived	_	Word	Word	_	0	H	0:H	_
+3	in	_	Word	Word	_	4	R	4:R	_
+4	California	_	Word	Word	_	2	A	2:A	_
+5	in	_	Word	Word	_	6	R	6:R	_
+6	July	_	Word	Word	_	2	T	2:T	_
+7	1932	_	Word	Word	_	6	C	6:C	_
+8	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+9	at	_	Word	Word	_	12	R	12:R	_
+10	25	_	Word	Word	_	11	Q	11:Q	_
+11	years	_	Word	Word	_	12	T	12:T	_
+12	old	_	Word	Word	_	2	A	2:A	_
+13	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+

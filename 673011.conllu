@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 673011
+# text = The album 's lead single , " Obsessed " , became her 40th entry on the Billboard Hot 100 and her highest debut on the chart since " My All " in 1998 .
+1	The	_	Word	Word	_	5	E	5:E	_
+2	album	_	Word	Word	_	5	E	5:E	_
+3	's	_	Word	Word	_	2	R	2:R	_
+4	lead	_	Word	Word	_	5	E	5:E	_
+5	single	_	Word	Word	_	8	E	8:E	_
+6	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+8	Obsessed	_	Word	Word	_	11	A	11:A	_
+9	"	_	Punctuation	Punctuation	_	11	U	11:U	_
+10	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+11	became	_	Word	Word	_	0	H	0:H	_
+12	her	_	Word	Word	_	14	E	14:E	_
+13	40th	_	Word	Word	_	14	Q	14:Q	_
+14	entry	_	Word	Word	_	11	A	11:A	_
+15	on	_	Word	Word	_	18	R	18:R	_
+16	the	_	Word	Word	_	18	E	18:E	_
+17	Billboard	_	Word	Word	_	18	E	18:E	_
+18	Hot	_	Word	Word	_	14	E	14:E	_
+19	100	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	and	_	Word	Word	_	14	N	14:N	_
+21	her	_	Word	Word	_	23	E	23:E	_
+22	highest	_	Word	Word	_	23	E	23:E	_
+23	debut	_	Word	Word	_	14	C	14:C	_
+24	on	_	Word	Word	_	26	R	26:R	_
+25	the	_	Word	Word	_	26	E	26:E	_
+26	chart	_	Word	Word	_	23	E	23:E	_
+27	since	_	Word	Word	_	29	L	29:L	_
+28	"	_	Punctuation	Punctuation	_	11	U	11:U	_
+29	My	_	Word	Word	_	11	H	11:H	_
+30	All	_	Word	Word	_	29	Terminal	29:Terminal	_
+31	"	_	Punctuation	Punctuation	_	29	U	29:U	_
+32	in	_	Word	Word	_	33	R	33:R	_
+33	1998	_	Word	Word	_	29	T	29:T	_
+34	.	_	Punctuation	Punctuation	_	33	U	33:U	_
+

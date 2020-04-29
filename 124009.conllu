@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 124009
+# text = Undeterred , Hepburn joined forces with producer Arthur Hopkins , and accepted the role of a schoolgirl in These Days .
+1	Undeterred	_	Word	Word	_	0	H	0:H	_
+2	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+3	Hepburn	_	Word	Word	_	4	A	4:A|1:A|12:A	_
+4	joined	_	Word	Word	_	1	H	1:H	_
+5	forces	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	with	_	Word	Word	_	7	R	7:R	_
+7	producer	_	Word	Word	_	4	A	4:A	_
+8	Arthur	_	Word	Word	_	7	A	7:A	_
+9	Hopkins	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+11	and	_	Word	Word	_	12	L	12:L	_
+12	accepted	_	Word	Word	_	1	H	1:H	_
+13	the	_	Word	Word	_	14	E	14:E	_
+14	role	_	Word	Word	_	12	A	12:A	_
+15	of	_	Word	Word	_	17	R	17:R	_
+16	a	_	Word	Word	_	17	E	17:E	_
+17	schoolgirl	_	Word	Word	_	14	A	14:A	_
+18	in	_	Word	Word	_	19	R	19:R	_
+19	These	_	Word	Word	_	12	A	12:A	_
+20	Days	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

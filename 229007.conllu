@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 229007
+# text = He speaks Cantonese , Mandarin , American Sign Language , and English , and also speaks some German , Korean , Japanese , Spanish , and Thai .
+1	He	_	Word	Word	_	2	A	2:A|16:A	_
+2	speaks	_	Word	Word	_	0	H	0:H	_
+3	Cantonese	_	Word	Word	_	2	A	2:A	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	Mandarin	_	Word	Word	_	3	C	3:C	_
+6	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+7	American	_	Word	Word	_	9	E	9:E	_
+8	Sign	_	Word	Word	_	9	E	9:E	_
+9	Language	_	Word	Word	_	3	C	3:C	_
+10	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+11	and	_	Word	Word	_	3	N	3:N	_
+12	English	_	Word	Word	_	3	C	3:C	_
+13	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+14	and	_	Word	Word	_	16	L	16:L	_
+15	also	_	Word	Word	_	16	D	16:D	_
+16	speaks	_	Word	Word	_	2	H	2:H	_
+17	some	_	Word	Word	_	18	Q	18:Q	_
+18	German	_	Word	Word	_	16	A	16:A	_
+19	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+20	Korean	_	Word	Word	_	18	C	18:C	_
+21	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+22	Japanese	_	Word	Word	_	18	C	18:C	_
+23	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+24	Spanish	_	Word	Word	_	18	C	18:C	_
+25	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+26	and	_	Word	Word	_	18	N	18:N	_
+27	Thai	_	Word	Word	_	18	C	18:C	_
+28	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

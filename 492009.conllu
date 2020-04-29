@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 492009
+# text = This so - called " Berlin Trilogy " albums all reached the UK top five and received lasting critical praise .
+1	This	_	Word	Word	_	6	E	6:E	_
+2	so	_	Word	Word	_	4	D	4:D	_
+3	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+4	called	_	Word	Word	_	6	E	6:E	_
+5	"	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	Berlin	_	Word	Word	_	0	C	0:C|4:A|20:A	_
+7	Trilogy	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	"	_	Punctuation	Punctuation	_	6	U	6:U	_
+9	albums	_	Word	Word	_	6	E	6:E	_
+10	all	_	Word	Word	_	6	Q	6:Q	_
+11	reached	_	Word	Word	_	0	H	0:H	_
+12	the	_	Word	Word	_	14	E	14:E	_
+13	UK	_	Word	Word	_	14	E	14:E	_
+14	top	_	Word	Word	_	11	A	11:A	_
+15	five	_	Word	Word	_	14	Q	14:Q	_
+16	and	_	Word	Word	_	20	L	20:L	_
+17	received	_	Word	Word	_	20	D	20:D	_
+18	lasting	_	Word	Word	_	20	D	20:D	_
+19	critical	_	Word	Word	_	20	A	20:A	_
+20	praise	_	Word	Word	_	11	H	11:H	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+

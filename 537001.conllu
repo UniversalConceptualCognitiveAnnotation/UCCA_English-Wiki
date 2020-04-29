@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 537001
+# text = His parents were Jewish immigrants from Poland who spoke mainly Yiddish .
+1	His	_	Word	Word	_	3	A	3:A	_
+2	parents	_	Word	Word	_	1	A	1:A	_
+3	were	_	Word	Word	_	0	H	0:H	_
+4	Jewish	_	Word	Word	_	5	E	5:E	_
+5	immigrants	_	Word	Word	_	0	A	0:A|4:A|9:A	_
+6	from	_	Word	Word	_	7	R	7:R	_
+7	Poland	_	Word	Word	_	5	A	5:A	_
+8	who	_	Word	Word	_	9	R	9:R	_
+9	spoke	_	Word	Word	_	5	E	5:E	_
+10	mainly	_	Word	Word	_	11	E	11:E	_
+11	Yiddish	_	Word	Word	_	9	A	9:A	_
+12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+

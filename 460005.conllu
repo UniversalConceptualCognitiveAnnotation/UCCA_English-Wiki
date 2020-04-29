@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 460005
+# text = Jennings , however , never made the remarks , and Limbaugh later apologized and made a retraction .
+1	Jennings	_	Word	Word	_	6	A	6:A	_
+2	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+3	however	_	Word	Word	_	13	L	13:L	_
+4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	never	_	Word	Word	_	6	D	6:D	_
+6	made	_	Word	Word	_	0	H	0:H	_
+7	the	_	Word	Word	_	8	E	8:E	_
+8	remarks	_	Word	Word	_	6	A	6:A	_
+9	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+10	and	_	Word	Word	_	13	L	13:L	_
+11	Limbaugh	_	Word	Word	_	13	A	13:A|17:A	_
+12	later	_	Word	Word	_	13	T	13:T	_
+13	apologized	_	Word	Word	_	6	H	6:H	_
+14	and	_	Word	Word	_	17	L	17:L	_
+15	made	_	Word	Word	_	17	F	17:F	_
+16	a	_	Word	Word	_	17	E	17:E	_
+17	retraction	_	Word	Word	_	6	H	6:H	_
+18	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+

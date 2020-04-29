@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 960003
+# text = They took the productions to New York , where they performed a season at the Ziegfeld Theatre into 1952 .
+1	They	_	Word	Word	_	2	A	2:A	_
+2	took	_	Word	Word	_	0	H	0:H	_
+3	the	_	Word	Word	_	4	E	4:E	_
+4	productions	_	Word	Word	_	2	A	2:A	_
+5	to	_	Word	Word	_	6	R	6:R	_
+6	New	_	Word	Word	_	2	A	2:A	_
+7	York	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+9	where	_	Word	Word	_	11	R	11:R	_
+10	they	_	Word	Word	_	11	A	11:A	_
+11	performed	_	Word	Word	_	6	E	6:E	_
+12	a	_	Word	Word	_	13	E	13:E	_
+13	season	_	Word	Word	_	11	T	11:T	_
+14	at	_	Word	Word	_	17	R	17:R	_
+15	the	_	Word	Word	_	17	E	17:E	_
+16	Ziegfeld	_	Word	Word	_	17	E	17:E	_
+17	Theatre	_	Word	Word	_	11	A	11:A	_
+18	into	_	Word	Word	_	19	R	19:R	_
+19	1952	_	Word	Word	_	11	T	11:T	_
+20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

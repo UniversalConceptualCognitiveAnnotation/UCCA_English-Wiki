@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 958002
+# text = In 1944 , she was diagnosed as having tuberculosis in her left lung and spent several weeks in hospital before appearing to have recovered .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1944	_	Word	Word	_	6	T	6:T	_
+3	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+4	she	_	Word	Word	_	6	A	6:A|9:A|18:A|24:A	_
+5	was	_	Word	Word	_	6	F	6:F	_
+6	diagnosed	_	Word	Word	_	0	H	0:H	_
+7	as	_	Word	Word	_	9	R	9:R	_
+8	having	_	Word	Word	_	9	F	9:F	_
+9	tuberculosis	_	Word	Word	_	6	A	6:A	_
+10	in	_	Word	Word	_	13	R	13:R	_
+11	her	_	Word	Word	_	13	E	13:E	_
+12	left	_	Word	Word	_	13	E	13:E	_
+13	lung	_	Word	Word	_	9	A	9:A	_
+14	and	_	Word	Word	_	18	L	18:L	_
+15	spent	_	Word	Word	_	17	E	17:E	_
+16	several	_	Word	Word	_	17	Q	17:Q	_
+17	weeks	_	Word	Word	_	18	D	18:D	_
+18	in	_	Word	Word	_	6	H	6:H	_
+19	hospital	_	Word	Word	_	18	A	18:A	_
+20	before	_	Word	Word	_	24	L	24:L	_
+21	appearing	_	Word	Word	_	24	G	24:G	_
+22	to	_	Word	Word	_	24	F	24:F	_
+23	have	_	Word	Word	_	24	F	24:F	_
+24	recovered	_	Word	Word	_	6	H	6:H	_
+25	.	_	Punctuation	Punctuation	_	24	U	24:U	_
+

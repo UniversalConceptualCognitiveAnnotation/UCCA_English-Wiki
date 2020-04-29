@@ -1,0 +1,40 @@
+# format = ucca
+# sent_id = 453011
+# text = By the summer of 1979 , the innovative broadcast , which featured some of the same glitzy presentation as Arledge 's previous television coup , Wide World of Sports , had climbed in the ratings .
+1	By	_	Word	Word	_	3	R	3:R	_
+2	the	_	Word	Word	_	3	E	3:E	_
+3	summer	_	Word	Word	_	32	T	32:T	_
+4	of	_	Word	Word	_	5	R	5:R	_
+5	1979	_	Word	Word	_	3	C	3:C	_
+6	,	_	Punctuation	Punctuation	_	32	U	32:U	_
+7	the	_	Word	Word	_	9	E	9:E	_
+8	innovative	_	Word	Word	_	9	E	9:E	_
+9	broadcast	_	Word	Word	_	32	A	32:A	_
+10	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+11	which	_	Word	Word	_	12	R	12:R	_
+12	featured	_	Word	Word	_	9	E	9:E	_
+13	some	_	Word	Word	_	18	E	18:E	_
+14	of	_	Word	Word	_	18	R	18:R	_
+15	the	_	Word	Word	_	18	E	18:E	_
+16	same	_	Word	Word	_	18	E	18:E	_
+17	glitzy	_	Word	Word	_	18	E	18:E	_
+18	presentation	_	Word	Word	_	12	A	12:A	_
+19	as	_	Word	Word	_	26	R	26:R	_
+20	Arledge	_	Word	Word	_	26	E	26:E	_
+21	's	_	Word	Word	_	20	R	20:R	_
+22	previous	_	Word	Word	_	26	E	26:E	_
+23	television	_	Word	Word	_	24	E	24:E	_
+24	coup	_	Word	Word	_	26	E	26:E	_
+25	,	_	Punctuation	Punctuation	_	26	U	26:U	_
+26	Wide	_	Word	Word	_	18	E	18:E	_
+27	World	_	Word	Word	_	26	Terminal	26:Terminal	_
+28	of	_	Word	Word	_	26	Terminal	26:Terminal	_
+29	Sports	_	Word	Word	_	26	Terminal	26:Terminal	_
+30	,	_	Punctuation	Punctuation	_	32	U	32:U	_
+31	had	_	Word	Word	_	32	F	32:F	_
+32	climbed	_	Word	Word	_	0	H	0:H	_
+33	in	_	Word	Word	_	35	R	35:R	_
+34	the	_	Word	Word	_	35	E	35:E	_
+35	ratings	_	Word	Word	_	32	A	32:A	_
+36	.	_	Punctuation	Punctuation	_	35	U	35:U	_
+

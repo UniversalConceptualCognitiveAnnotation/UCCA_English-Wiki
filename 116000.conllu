@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 116000
+# text = Hepburn was born in Hartford , Connecticut , on May 12 , 1907 , the second of six children .
+1	Hepburn	_	Word	Word	_	3	A	3:A|19:A	_
+2	was	_	Word	Word	_	3	F	3:F	_
+3	born	_	Word	Word	_	0	H	0:H	_
+4	in	_	Word	Word	_	5	R	5:R	_
+5	Hartford	_	Word	Word	_	3	A	3:A	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	Connecticut	_	Word	Word	_	5	C	5:C	_
+8	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+9	on	_	Word	Word	_	10	R	10:R	_
+10	May	_	Word	Word	_	3	T	3:T	_
+11	12	_	Word	Word	_	10	C	10:C	_
+12	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+13	1907	_	Word	Word	_	10	C	10:C	_
+14	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+15	the	_	Word	Word	_	16	E	16:E	_
+16	second	_	Word	Word	_	19	D	19:D	_
+17	of	_	Word	Word	_	19	R	19:R	_
+18	six	_	Word	Word	_	19	Q	19:Q	_
+19	children	_	Word	Word	_	3	H	3:H	_
+20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

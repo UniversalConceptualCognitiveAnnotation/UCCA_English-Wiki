@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 1028017
+# text = In 2003 , it was valued at approximately $ 100 million .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	2003	_	Word	Word	_	6	T	6:T	_
+3	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+4	it	_	Word	Word	_	6	A	6:A	_
+5	was	_	Word	Word	_	6	F	6:F	_
+6	valued	_	Word	Word	_	0	H	0:H	_
+7	at	_	Word	Word	_	9	R	9:R	_
+8	approximately	_	Word	Word	_	9	E	9:E	_
+9	$	_	Word	Word	_	6	A	6:A	_
+10	100	_	Word	Word	_	9	Q	9:Q	_
+11	million	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

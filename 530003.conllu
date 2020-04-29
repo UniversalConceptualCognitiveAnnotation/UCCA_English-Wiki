@@ -1,0 +1,43 @@
+# format = ucca
+# sent_id = 530003
+# text = In 1956 , Garland performed four weeks at the New Frontier Hotel on the Las Vegas Strip for a salary of $ 55,000 per week , making her the highest - paid entertainer to work in Las Vegas .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1956	_	Word	Word	_	5	T	5:T	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	Garland	_	Word	Word	_	5	A	5:A	_
+5	performed	_	Word	Word	_	0	H	0:H	_
+6	four	_	Word	Word	_	7	Q	7:Q	_
+7	weeks	_	Word	Word	_	5	T	5:T	_
+8	at	_	Word	Word	_	10	R	10:R	_
+9	the	_	Word	Word	_	10	F	10:F	_
+10	New	_	Word	Word	_	5	A	5:A	_
+11	Frontier	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	Hotel	_	Word	Word	_	10	Terminal	10:Terminal	_
+13	on	_	Word	Word	_	17	R	17:R	_
+14	the	_	Word	Word	_	17	F	17:F	_
+15	Las	_	Word	Word	_	17	E	17:E	_
+16	Vegas	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	Strip	_	Word	Word	_	10	E	10:E	_
+18	for	_	Word	Word	_	20	R	20:R	_
+19	a	_	Word	Word	_	20	F	20:F	_
+20	salary	_	Word	Word	_	5	A	5:A	_
+21	of	_	Word	Word	_	22	R	22:R	_
+22	$	_	Word	Word	_	20	E	20:E	_
+23	55,000	_	Word	Word	_	22	Q	22:Q	_
+24	per	_	Word	Word	_	25	R	25:R	_
+25	week	_	Word	Word	_	22	E	22:E	_
+26	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+27	making	_	Word	Word	_	28	L	28:L	_
+28	her	_	Word	Word	_	5	H	5:H	_
+29	the	_	Word	Word	_	32	F	32:F	_
+30	highest	_	Word	Word	_	32	D	32:D	_
+31	-	_	Punctuation	Punctuation	_	32	U	32:U	_
+32	paid	_	Word	Word	_	33	E	33:E	_
+33	entertainer	_	Word	Word	_	28	A	28:A	_
+34	to	_	Word	Word	_	35	F	35:F	_
+35	work	_	Word	Word	_	33	E	33:E	_
+36	in	_	Word	Word	_	37	R	37:R	_
+37	Las	_	Word	Word	_	35	A	35:A	_
+38	Vegas	_	Word	Word	_	37	Terminal	37:Terminal	_
+39	.	_	Punctuation	Punctuation	_	37	U	37:U	_
+

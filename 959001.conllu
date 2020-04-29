@@ -1,0 +1,55 @@
+# format = ucca
+# sent_id = 959001
+# text = Leigh next sought the role of Blanche DuBois in the West End stage production of Tennessee Williams 's A Streetcar Named Desire and was cast after Williams and the play 's producer Irene Mayer Selznick saw her in The School for Scandal and Antigone ; Olivier was contracted to direct .
+1	Leigh	_	Word	Word	_	3	A	3:A|25:A	_
+2	next	_	Word	Word	_	3	D	3:D	_
+3	sought	_	Word	Word	_	0	H	0:H	_
+4	the	_	Word	Word	_	5	E	5:E	_
+5	role	_	Word	Word	_	3	A	3:A	_
+6	of	_	Word	Word	_	7	R	7:R	_
+7	Blanche	_	Word	Word	_	5	E	5:E	_
+8	DuBois	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	in	_	Word	Word	_	14	R	14:R	_
+10	the	_	Word	Word	_	14	E	14:E	_
+11	West	_	Word	Word	_	14	E	14:E	_
+12	End	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	stage	_	Word	Word	_	14	E	14:E	_
+14	production	_	Word	Word	_	7	E	7:E	_
+15	of	_	Word	Word	_	19	R	19:R	_
+16	Tennessee	_	Word	Word	_	18	A	18:A	_
+17	Williams	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	's	_	Word	Word	_	19	E	19:E	_
+19	A	_	Word	Word	_	14	E	14:E	_
+20	Streetcar	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	Named	_	Word	Word	_	19	Terminal	19:Terminal	_
+22	Desire	_	Word	Word	_	19	Terminal	19:Terminal	_
+23	and	_	Word	Word	_	25	L	25:L	_
+24	was	_	Word	Word	_	25	F	25:F	_
+25	cast	_	Word	Word	_	3	H	3:H	_
+26	after	_	Word	Word	_	36	L	36:L	_
+27	Williams	_	Word	Word	_	36	A	36:A	_
+28	and	_	Word	Word	_	27	N	27:N	_
+29	the	_	Word	Word	_	30	E	30:E	_
+30	play	_	Word	Word	_	33	E	33:E	_
+31	's	_	Word	Word	_	30	R	30:R	_
+32	producer	_	Word	Word	_	30	A	30:A	_
+33	Irene	_	Word	Word	_	27	C	27:C	_
+34	Mayer	_	Word	Word	_	33	Terminal	33:Terminal	_
+35	Selznick	_	Word	Word	_	33	Terminal	33:Terminal	_
+36	saw	_	Word	Word	_	3	H	3:H	_
+37	her	_	Word	Word	_	36	A	36:A	_
+38	in	_	Word	Word	_	39	R	39:R	_
+39	The	_	Word	Word	_	36	A	36:A	_
+40	School	_	Word	Word	_	39	Terminal	39:Terminal	_
+41	for	_	Word	Word	_	39	Terminal	39:Terminal	_
+42	Scandal	_	Word	Word	_	39	Terminal	39:Terminal	_
+43	and	_	Word	Word	_	39	N	39:N	_
+44	Antigone	_	Word	Word	_	39	C	39:C	_
+45	;	_	Punctuation	Punctuation	_	3	U	3:U	_
+46	Olivier	_	Word	Word	_	48	A	48:A|50:A	_
+47	was	_	Word	Word	_	48	F	48:F	_
+48	contracted	_	Word	Word	_	3	H	3:H	_
+49	to	_	Word	Word	_	50	F	50:F	_
+50	direct	_	Word	Word	_	48	A	48:A	_
+51	.	_	Punctuation	Punctuation	_	50	U	50:U	_
+

@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 676011
+# text = She is also set to perform on Good Morning America 's Summer Concert Series on May 24 , 2013 .
+1	She	_	Word	Word	_	6	A	6:A	_
+2	is	_	Word	Word	_	6	F	6:F	_
+3	also	_	Word	Word	_	6	D	6:D	_
+4	set	_	Word	Word	_	6	D	6:D	_
+5	to	_	Word	Word	_	6	F	6:F	_
+6	perform	_	Word	Word	_	0	H	0:H	_
+7	on	_	Word	Word	_	14	R	14:R	_
+8	Good	_	Word	Word	_	11	A	11:A	_
+9	Morning	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	America	_	Word	Word	_	8	Terminal	8:Terminal	_
+11	's	_	Word	Word	_	14	E	14:E	_
+12	Summer	_	Word	Word	_	14	E	14:E	_
+13	Concert	_	Word	Word	_	14	E	14:E	_
+14	Series	_	Word	Word	_	6	A	6:A	_
+15	on	_	Word	Word	_	16	R	16:R	_
+16	May	_	Word	Word	_	6	T	6:T	_
+17	24	_	Word	Word	_	16	C	16:C	_
+18	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+19	2013	_	Word	Word	_	16	C	16:C	_
+20	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

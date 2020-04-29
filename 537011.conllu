@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 537011
+# text = Two more children , Sadie and Milton , were added to the household there .
+1	Two	_	Word	Word	_	3	Q	3:Q	_
+2	more	_	Word	Word	_	3	E	3:E	_
+3	children	_	Word	Word	_	5	E	5:E	_
+4	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+5	Sadie	_	Word	Word	_	10	A	10:A	_
+6	and	_	Word	Word	_	5	N	5:N	_
+7	Milton	_	Word	Word	_	5	C	5:C	_
+8	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+9	were	_	Word	Word	_	10	F	10:F	_
+10	added	_	Word	Word	_	0	H	0:H	_
+11	to	_	Word	Word	_	13	R	13:R	_
+12	the	_	Word	Word	_	13	F	13:F	_
+13	household	_	Word	Word	_	10	A	10:A	_
+14	there	_	Word	Word	_	10	A	10:A	_
+15	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+

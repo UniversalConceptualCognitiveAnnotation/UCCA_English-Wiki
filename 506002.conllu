@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 506002
+# text = During the event , the video for a fundraising single was premièred , Bowie 's duet with Mick Jagger . " Dancing in the Street " quickly went to number one on release .
+1	During	_	Word	Word	_	12	L	12:L	_
+2	the	_	Word	Word	_	3	E	3:E	_
+3	event	_	Word	Word	_	0	H	0:H	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	the	_	Word	Word	_	6	E	6:E	_
+6	video	_	Word	Word	_	12	A	12:A	_
+7	for	_	Word	Word	_	10	R	10:R	_
+8	a	_	Word	Word	_	10	E	10:E	_
+9	fundraising	_	Word	Word	_	10	E	10:E	_
+10	single	_	Word	Word	_	6	E	6:E	_
+11	was	_	Word	Word	_	12	F	12:F	_
+12	premièred	_	Word	Word	_	3	H	3:H	_
+13	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+14	Bowie	_	Word	Word	_	16	A	16:A	_
+15	's	_	Word	Word	_	14	R	14:R	_
+16	duet	_	Word	Word	_	22	E	22:E	_
+17	with	_	Word	Word	_	18	R	18:R	_
+18	Mick	_	Word	Word	_	16	A	16:A	_
+19	Jagger	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+21	"	_	Punctuation	Punctuation	_	22	U	22:U	_
+22	Dancing	_	Word	Word	_	0	C	0:C|33:A	_
+23	in	_	Word	Word	_	22	Terminal	22:Terminal	_
+24	the	_	Word	Word	_	22	Terminal	22:Terminal	_
+25	Street	_	Word	Word	_	22	Terminal	22:Terminal	_
+26	"	_	Punctuation	Punctuation	_	3	U	3:U	_
+27	quickly	_	Word	Word	_	30	D	30:D	_
+28	went	_	Word	Word	_	30	F	30:F	_
+29	to	_	Word	Word	_	30	R	30:R	_
+30	number	_	Word	Word	_	3	H	3:H	_
+31	one	_	Word	Word	_	30	Q	30:Q	_
+32	on	_	Word	Word	_	33	L	33:L	_
+33	release	_	Word	Word	_	3	H	3:H	_
+34	.	_	Punctuation	Punctuation	_	33	U	33:U	_
+

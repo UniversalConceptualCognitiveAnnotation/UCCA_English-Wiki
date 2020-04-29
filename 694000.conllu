@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 694000
+# text = In May 1963 , Dylan 's political profile was raised when he walked out of The Ed Sullivan Show .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	May	_	Word	Word	_	10	T	10:T	_
+3	1963	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+5	Dylan	_	Word	Word	_	8	E	8:E	_
+6	's	_	Word	Word	_	5	R	5:R	_
+7	political	_	Word	Word	_	8	E	8:E	_
+8	profile	_	Word	Word	_	10	A	10:A	_
+9	was	_	Word	Word	_	10	F	10:F	_
+10	raised	_	Word	Word	_	0	H	0:H	_
+11	when	_	Word	Word	_	13	L	13:L	_
+12	he	_	Word	Word	_	13	A	13:A	_
+13	walked	_	Word	Word	_	10	H	10:H	_
+14	out	_	Word	Word	_	13	D	13:D	_
+15	of	_	Word	Word	_	16	R	16:R	_
+16	The	_	Word	Word	_	13	A	13:A	_
+17	Ed	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	Sullivan	_	Word	Word	_	16	Terminal	16:Terminal	_
+19	Show	_	Word	Word	_	16	Terminal	16:Terminal	_
+20	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

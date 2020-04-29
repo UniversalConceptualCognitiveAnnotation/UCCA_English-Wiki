@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 238006
+# text = Chan also holds guest lectures at the Shanghai Institute of Visual Art of Fudan University , Shanghai .
+1	Chan	_	Word	Word	_	5	A	5:A	_
+2	also	_	Word	Word	_	5	D	5:D	_
+3	holds	_	Word	Word	_	5	F	5:F	_
+4	guest	_	Word	Word	_	5	D	5:D	_
+5	lectures	_	Word	Word	_	0	H	0:H	_
+6	at	_	Word	Word	_	8	R	8:R	_
+7	the	_	Word	Word	_	8	F	8:F	_
+8	Shanghai	_	Word	Word	_	5	A	5:A	_
+9	Institute	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	of	_	Word	Word	_	8	Terminal	8:Terminal	_
+11	Visual	_	Word	Word	_	8	Terminal	8:Terminal	_
+12	Art	_	Word	Word	_	8	Terminal	8:Terminal	_
+13	of	_	Word	Word	_	15	R	15:R	_
+14	Fudan	_	Word	Word	_	15	E	15:E	_
+15	University	_	Word	Word	_	8	E	8:E	_
+16	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+17	Shanghai	_	Word	Word	_	15	E	15:E	_
+18	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

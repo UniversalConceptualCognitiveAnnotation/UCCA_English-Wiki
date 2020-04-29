@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 651008
+# text = While the legal battle continued , Lennon attended rallies and made television appearances .
+1	While	_	Word	Word	_	8	L	8:L	_
+2	the	_	Word	Word	_	4	E	4:E	_
+3	legal	_	Word	Word	_	4	D	4:D	_
+4	battle	_	Word	Word	_	0	H	0:H	_
+5	continued	_	Word	Word	_	4	D	4:D	_
+6	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+7	Lennon	_	Word	Word	_	8	A	8:A|13:A	_
+8	attended	_	Word	Word	_	4	H	4:H	_
+9	rallies	_	Word	Word	_	8	A	8:A	_
+10	and	_	Word	Word	_	13	L	13:L	_
+11	made	_	Word	Word	_	13	F	13:F	_
+12	television	_	Word	Word	_	13	A	13:A	_
+13	appearances	_	Word	Word	_	4	H	4:H	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 459012
+# text = On January 5 , Jennings moderated the Democratic primary debate , held at the University of New Hampshire .
+1	On	_	Word	Word	_	2	R	2:R	_
+2	January	_	Word	Word	_	6	T	6:T	_
+3	5	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	Jennings	_	Word	Word	_	6	A	6:A	_
+6	moderated	_	Word	Word	_	0	H	0:H	_
+7	the	_	Word	Word	_	8	E	8:E	_
+8	Democratic	_	Word	Word	_	10	A	10:A	_
+9	primary	_	Word	Word	_	10	D	10:D	_
+10	debate	_	Word	Word	_	6	A	6:A	_
+11	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	held	_	Word	Word	_	10	A	10:A	_
+13	at	_	Word	Word	_	15	R	15:R	_
+14	the	_	Word	Word	_	15	E	15:E	_
+15	University	_	Word	Word	_	12	A	12:A	_
+16	of	_	Word	Word	_	17	R	17:R	_
+17	New	_	Word	Word	_	15	E	15:E	_
+18	Hampshire	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+

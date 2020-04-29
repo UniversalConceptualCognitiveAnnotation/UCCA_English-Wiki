@@ -1,0 +1,39 @@
+# format = ucca
+# sent_id = 534011
+# text = Rivera said that indeed there was a feeling in the air that something would happen that night : " I guess Judy Garland 's death just really helped us really hit the fan . "
+1	Rivera	_	Word	Word	_	2	A	2:A|21:A	_
+2	said	_	Word	Word	_	0	H	0:H	_
+3	that	_	Word	Word	_	8	R	8:R	_
+4	indeed	_	Word	Word	_	8	G	8:G	_
+5	there	_	Word	Word	_	8	F	8:F	_
+6	was	_	Word	Word	_	8	F	8:F	_
+7	a	_	Word	Word	_	8	F	8:F	_
+8	feeling	_	Word	Word	_	2	A	2:A	_
+9	in	_	Word	Word	_	8	D	8:D	_
+10	the	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	air	_	Word	Word	_	9	Terminal	9:Terminal	_
+12	that	_	Word	Word	_	15	R	15:R	_
+13	something	_	Word	Word	_	15	A	15:A	_
+14	would	_	Word	Word	_	15	D	15:D	_
+15	happen	_	Word	Word	_	8	A	8:A	_
+16	that	_	Word	Word	_	17	E	17:E	_
+17	night	_	Word	Word	_	15	T	15:T	_
+18	:	_	Punctuation	Punctuation	_	2	U	2:U	_
+19	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+20	I	_	Word	Word	_	21	A	21:A	_
+21	guess	_	Word	Word	_	2	H	2:H	_
+22	Judy	_	Word	Word	_	25	A	25:A	_
+23	Garland	_	Word	Word	_	22	Terminal	22:Terminal	_
+24	's	_	Word	Word	_	22	R	22:R	_
+25	death	_	Word	Word	_	31	A	31:A	_
+26	just	_	Word	Word	_	31	D	31:D	_
+27	really	_	Word	Word	_	31	D	31:D	_
+28	helped	_	Word	Word	_	31	D	31:D	_
+29	us	_	Word	Word	_	31	A	31:A	_
+30	really	_	Word	Word	_	31	D	31:D	_
+31	hit	_	Word	Word	_	21	A	21:A	_
+32	the	_	Word	Word	_	31	Terminal	31:Terminal	_
+33	fan	_	Word	Word	_	31	Terminal	31:Terminal	_
+34	.	_	Punctuation	Punctuation	_	31	U	31:U	_
+35	"	_	Punctuation	Punctuation	_	31	U	31:U	_
+

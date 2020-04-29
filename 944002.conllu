@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 944002
+# text = Most of the lyrical content focuses on Stefani 's often rocky relationship with then - Bush frontman Gavin Rossdale and her overall insecurities , including indecision on settling down and having a child .
+1	Most	_	Word	Word	_	5	Q	5:Q	_
+2	of	_	Word	Word	_	5	R	5:R	_
+3	the	_	Word	Word	_	5	E	5:E	_
+4	lyrical	_	Word	Word	_	5	E	5:E	_
+5	content	_	Word	Word	_	6	A	6:A	_
+6	focuses	_	Word	Word	_	0	H	0:H	_
+7	on	_	Word	Word	_	12	R	12:R	_
+8	Stefani	_	Word	Word	_	12	A	12:A	_
+9	's	_	Word	Word	_	8	R	8:R	_
+10	often	_	Word	Word	_	11	E	11:E	_
+11	rocky	_	Word	Word	_	12	D	12:D	_
+12	relationship	_	Word	Word	_	6	A	6:A	_
+13	with	_	Word	Word	_	18	R	18:R	_
+14	then	_	Word	Word	_	16	T	16:T	_
+15	-	_	Punctuation	Punctuation	_	16	U	16:U	_
+16	Bush	_	Word	Word	_	18	E	18:E	_
+17	frontman	_	Word	Word	_	16	A	16:A	_
+18	Gavin	_	Word	Word	_	12	A	12:A	_
+19	Rossdale	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	and	_	Word	Word	_	23	L	23:L	_
+21	her	_	Word	Word	_	23	A	23:A|26:A|28:A|31:A	_
+22	overall	_	Word	Word	_	23	D	23:D	_
+23	insecurities	_	Word	Word	_	12	H	12:H	_
+24	,	_	Punctuation	Punctuation	_	23	U	23:U	_
+25	including	_	Word	Word	_	26	R	26:R	_
+26	indecision	_	Word	Word	_	23	A	23:A	_
+27	on	_	Word	Word	_	28	R	28:R	_
+28	settling	_	Word	Word	_	26	A	26:A	_
+29	down	_	Word	Word	_	28	Terminal	28:Terminal	_
+30	and	_	Word	Word	_	31	L	31:L	_
+31	having	_	Word	Word	_	28	H	28:H	_
+32	a	_	Word	Word	_	33	E	33:E	_
+33	child	_	Word	Word	_	31	A	31:A	_
+34	.	_	Punctuation	Punctuation	_	33	U	33:U	_
+

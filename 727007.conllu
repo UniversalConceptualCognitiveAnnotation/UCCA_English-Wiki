@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 727007
+# text = She appeared in the music video for Korn 's " Did My Time " , which was used to promote the film .
+1	She	_	Word	Word	_	2	A	2:A	_
+2	appeared	_	Word	Word	_	0	H	0:H	_
+3	in	_	Word	Word	_	6	R	6:R	_
+4	the	_	Word	Word	_	6	E	6:E	_
+5	music	_	Word	Word	_	6	E	6:E	_
+6	video	_	Word	Word	_	2	A	2:A	_
+7	for	_	Word	Word	_	11	R	11:R	_
+8	Korn	_	Word	Word	_	9	A	9:A	_
+9	's	_	Word	Word	_	11	E	11:E	_
+10	"	_	Punctuation	Punctuation	_	9	U	9:U	_
+11	Did	_	Word	Word	_	6	E	6:E	_
+12	My	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	Time	_	Word	Word	_	11	Terminal	11:Terminal	_
+14	"	_	Punctuation	Punctuation	_	11	U	11:U	_
+15	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+16	which	_	Word	Word	_	20	R	20:R	_
+17	was	_	Word	Word	_	20	F	20:F	_
+18	used	_	Word	Word	_	20	D	20:D	_
+19	to	_	Word	Word	_	20	F	20:F	_
+20	promote	_	Word	Word	_	11	E	11:E	_
+21	the	_	Word	Word	_	22	E	22:E	_
+22	film	_	Word	Word	_	20	A	20:A	_
+23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+

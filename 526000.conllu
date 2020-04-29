@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 526000
+# text = During the filming of Meet Me in St. Louis , after some initial conflict between them , Garland and Minnelli entered a relationship .
+1	During	_	Word	Word	_	14	L	14:L	_
+2	the	_	Word	Word	_	3	F	3:F	_
+3	filming	_	Word	Word	_	0	H	0:H	_
+4	of	_	Word	Word	_	5	R	5:R	_
+5	Meet	_	Word	Word	_	3	A	3:A	_
+6	Me	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	in	_	Word	Word	_	5	Terminal	5:Terminal	_
+8	St.	_	Word	Word	_	5	Terminal	5:Terminal	_
+9	Louis	_	Word	Word	_	5	Terminal	5:Terminal	_
+10	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+11	after	_	Word	Word	_	14	L	14:L	_
+12	some	_	Word	Word	_	14	D	14:D	_
+13	initial	_	Word	Word	_	14	D	14:D	_
+14	conflict	_	Word	Word	_	3	H	3:H	_
+15	between	_	Word	Word	_	16	R	16:R	_
+16	them	_	Word	Word	_	14	A	14:A	_
+17	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+18	Garland	_	Word	Word	_	23	A	23:A	_
+19	and	_	Word	Word	_	18	N	18:N	_
+20	Minnelli	_	Word	Word	_	18	C	18:C	_
+21	entered	_	Word	Word	_	23	D	23:D	_
+22	a	_	Word	Word	_	23	F	23:F	_
+23	relationship	_	Word	Word	_	3	H	3:H	_
+24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

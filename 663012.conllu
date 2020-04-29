@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 663012
+# text = In 1995 , due to Daydream 's enormous Japanese sales , Billboard declared Carey the " Overseas Artist of the Year " in Japan .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1995	_	Word	Word	_	13	D	13:D	_
+3	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+4	due	_	Word	Word	_	10	L	10:L	_
+5	to	_	Word	Word	_	4	E	4:E	_
+6	Daydream	_	Word	Word	_	10	A	10:A	_
+7	's	_	Word	Word	_	6	R	6:R	_
+8	enormous	_	Word	Word	_	10	D	10:D	_
+9	Japanese	_	Word	Word	_	10	A	10:A	_
+10	sales	_	Word	Word	_	13	H	13:H	_
+11	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+12	Billboard	_	Word	Word	_	13	A	13:A	_
+13	declared	_	Word	Word	_	0	H	0:H	_
+14	Carey	_	Word	Word	_	13	A	13:A|18:A	_
+15	the	_	Word	Word	_	18	E	18:E	_
+16	"	_	Punctuation	Punctuation	_	18	U	18:U	_
+17	Overseas	_	Word	Word	_	18	E	18:E	_
+18	Artist	_	Word	Word	_	13	A	13:A	_
+19	of	_	Word	Word	_	21	R	21:R	_
+20	the	_	Word	Word	_	21	E	21:E	_
+21	Year	_	Word	Word	_	18	E	18:E	_
+22	"	_	Punctuation	Punctuation	_	18	U	18:U	_
+23	in	_	Word	Word	_	24	R	24:R	_
+24	Japan	_	Word	Word	_	18	E	18:E	_
+25	.	_	Punctuation	Punctuation	_	24	U	24:U	_
+

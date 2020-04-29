@@ -1,0 +1,46 @@
+# format = ucca
+# sent_id = 654010
+# text = As his career progressed , he played a variety of electric guitars , predominantly the Rickenbacker 325 , Epiphone Casino and Gibson J - 160E , and , from the start of his solo career , the Gibson Les Paul Junior .
+1	As	_	Word	Word	_	7	L	7:L	_
+2	his	_	Word	Word	_	3	A	3:A	_
+3	career	_	Word	Word	_	0	H	0:H	_
+4	progressed	_	Word	Word	_	3	D	3:D	_
+5	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+6	he	_	Word	Word	_	7	A	7:A|16:A|38:A	_
+7	played	_	Word	Word	_	3	H	3:H	_
+8	a	_	Word	Word	_	9	E	9:E	_
+9	variety	_	Word	Word	_	12	E	12:E	_
+10	of	_	Word	Word	_	12	R	12:R	_
+11	electric	_	Word	Word	_	12	E	12:E	_
+12	guitars	_	Word	Word	_	7	A	7:A	_
+13	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+14	predominantly	_	Word	Word	_	16	D	16:D	_
+15	the	_	Word	Word	_	16	E	16:E	_
+16	Rickenbacker	_	Word	Word	_	12	E	12:E	_
+17	325	_	Word	Word	_	16	E	16:E	_
+18	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+19	Epiphone	_	Word	Word	_	16	C	16:C	_
+20	Casino	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	and	_	Word	Word	_	16	N	16:N	_
+22	Gibson	_	Word	Word	_	16	C	16:C	_
+23	J	_	Word	Word	_	22	E	22:E	_
+24	-	_	Punctuation	Punctuation	_	23	U	23:U	_
+25	160E	_	Word	Word	_	23	Terminal	23:Terminal	_
+26	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+27	and	_	Word	Word	_	35	L	35:L	_
+28	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+29	from	_	Word	Word	_	31	R	31:R	_
+30	the	_	Word	Word	_	31	E	31:E	_
+31	start	_	Word	Word	_	35	L	35:L	_
+32	of	_	Word	Word	_	31	R	31:R	_
+33	his	_	Word	Word	_	35	A	35:A	_
+34	solo	_	Word	Word	_	35	D	35:D	_
+35	career	_	Word	Word	_	16	H	16:H	_
+36	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+37	the	_	Word	Word	_	38	E	38:E	_
+38	Gibson	_	Word	Word	_	16	H	16:H	_
+39	Les	_	Word	Word	_	38	Terminal	38:Terminal	_
+40	Paul	_	Word	Word	_	38	Terminal	38:Terminal	_
+41	Junior	_	Word	Word	_	38	Terminal	38:Terminal	_
+42	.	_	Punctuation	Punctuation	_	38	U	38:U	_
+

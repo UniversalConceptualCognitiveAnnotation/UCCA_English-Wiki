@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 564011
+# text = According to Elvis legend , Presley was shot only from the waist up .
+1	According	_	Word	Word	_	0	H	0:H	_
+2	to	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	Elvis	_	Word	Word	_	4	E	4:E	_
+4	legend	_	Word	Word	_	1	A	1:A	_
+5	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+6	Presley	_	Word	Word	_	8	A	8:A	_
+7	was	_	Word	Word	_	8	F	8:F	_
+8	shot	_	Word	Word	_	1	A	1:A	_
+9	only	_	Word	Word	_	8	D	8:D	_
+10	from	_	Word	Word	_	12	R	12:R	_
+11	the	_	Word	Word	_	12	E	12:E	_
+12	waist	_	Word	Word	_	8	A	8:A	_
+13	up	_	Word	Word	_	12	R	12:R	_
+14	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+

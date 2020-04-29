@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 561002
+# text = The session produced the moody , unusual " Heartbreak Hotel " , released as a single on January 27 .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	session	_	Word	Word	_	3	A	3:A	_
+3	produced	_	Word	Word	_	0	H	0:H	_
+4	the	_	Word	Word	_	9	E	9:E	_
+5	moody	_	Word	Word	_	9	E	9:E	_
+6	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+7	unusual	_	Word	Word	_	9	E	9:E	_
+8	"	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	Heartbreak	_	Word	Word	_	3	A	3:A	_
+10	Hotel	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	"	_	Punctuation	Punctuation	_	9	U	9:U	_
+12	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+13	released	_	Word	Word	_	9	E	9:E	_
+14	as	_	Word	Word	_	16	R	16:R	_
+15	a	_	Word	Word	_	16	E	16:E	_
+16	single	_	Word	Word	_	13	A	13:A	_
+17	on	_	Word	Word	_	18	R	18:R	_
+18	January	_	Word	Word	_	13	T	13:T	_
+19	27	_	Word	Word	_	18	C	18:C	_
+20	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

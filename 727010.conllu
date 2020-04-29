@@ -1,0 +1,42 @@
+# format = ucca
+# sent_id = 727010
+# text = The Los Angeles Times wrote , " Jolie , as she did in her Oscar - winning role in Girl , Interrupted , can bring electricity and believability to roles that have a reality she can understand .
+1	The	_	Word	Word	_	5	A	5:A	_
+2	Los	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	Angeles	_	Word	Word	_	1	Terminal	1:Terminal	_
+4	Times	_	Word	Word	_	1	Terminal	1:Terminal	_
+5	wrote	_	Word	Word	_	0	H	0:H	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+8	Jolie	_	Word	Word	_	26	A	26:A|28:A	_
+9	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+10	as	_	Word	Word	_	26	L	26:L	_
+11	she	_	Word	Word	_	12	A	12:A	_
+12	did	_	Word	Word	_	5	A	5:A	_
+13	in	_	Word	Word	_	18	R	18:R	_
+14	her	_	Word	Word	_	18	A	18:A	_
+15	Oscar	_	Word	Word	_	17	A	17:A	_
+16	-	_	Punctuation	Punctuation	_	17	U	17:U	_
+17	winning	_	Word	Word	_	18	E	18:E	_
+18	role	_	Word	Word	_	12	A	12:A	_
+19	in	_	Word	Word	_	20	R	20:R	_
+20	Girl	_	Word	Word	_	18	A	18:A	_
+21	,	_	Punctuation	Punctuation	_	20	U	20:U	_
+22	Interrupted	_	Word	Word	_	20	Terminal	20:Terminal	_
+23	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+24	can	_	Word	Word	_	26	D	26:D|28:D	_
+25	bring	_	Word	Word	_	26	D	26:D|28:D	_
+26	electricity	_	Word	Word	_	12	H	12:H	_
+27	and	_	Word	Word	_	28	L	28:L	_
+28	believability	_	Word	Word	_	12	H	12:H	_
+29	to	_	Word	Word	_	30	R	30:R	_
+30	roles	_	Word	Word	_	26	A	26:A|28:A	_
+31	that	_	Word	Word	_	32	R	32:R	_
+32	have	_	Word	Word	_	30	E	30:E	_
+33	a	_	Word	Word	_	34	E	34:E	_
+34	reality	_	Word	Word	_	32	A	32:A	_
+35	she	_	Word	Word	_	37	A	37:A	_
+36	can	_	Word	Word	_	37	D	37:D	_
+37	understand	_	Word	Word	_	34	E	34:E	_
+38	.	_	Punctuation	Punctuation	_	37	U	37:U	_
+

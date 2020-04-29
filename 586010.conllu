@@ -1,0 +1,50 @@
+# format = ucca
+# sent_id = 586010
+# text = Both Depp and his subsequent fiancé Sherilyn Fenn auditioned for the 1986 film Thrashin ' and they were both cast , with Depp being chosen by the film 's director to star as the lead , which would have been Depp 's second major role .
+1	Both	_	Word	Word	_	2	Q	2:Q	_
+2	Depp	_	Word	Word	_	9	A	9:A	_
+3	and	_	Word	Word	_	2	N	2:N	_
+4	his	_	Word	Word	_	7	E	7:E	_
+5	subsequent	_	Word	Word	_	4	D	4:D	_
+6	fiancé	_	Word	Word	_	4	A	4:A	_
+7	Sherilyn	_	Word	Word	_	2	C	2:C	_
+8	Fenn	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	auditioned	_	Word	Word	_	0	H	0:H	_
+10	for	_	Word	Word	_	14	R	14:R	_
+11	the	_	Word	Word	_	13	E	13:E	_
+12	1986	_	Word	Word	_	13	E	13:E	_
+13	film	_	Word	Word	_	14	E	14:E	_
+14	Thrashin	_	Word	Word	_	9	A	9:A	_
+15	'	_	Punctuation	Punctuation	_	9	U	9:U	_
+16	and	_	Word	Word	_	20	L	20:L	_
+17	they	_	Word	Word	_	20	A	20:A	_
+18	were	_	Word	Word	_	20	F	20:F	_
+19	both	_	Word	Word	_	17	Q	17:Q	_
+20	cast	_	Word	Word	_	9	H	9:H	_
+21	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+22	with	_	Word	Word	_	25	L	25:L	_
+23	Depp	_	Word	Word	_	25	A	25:A|32:A	_
+24	being	_	Word	Word	_	25	F	25:F	_
+25	chosen	_	Word	Word	_	9	H	9:H	_
+26	by	_	Word	Word	_	28	R	28:R	_
+27	the	_	Word	Word	_	28	F	28:F	_
+28	film	_	Word	Word	_	25	A	25:A	_
+29	's	_	Word	Word	_	28	R	28:R	_
+30	director	_	Word	Word	_	28	A	28:A	_
+31	to	_	Word	Word	_	32	F	32:F	_
+32	star	_	Word	Word	_	25	A	25:A	_
+33	as	_	Word	Word	_	35	R	35:R	_
+34	the	_	Word	Word	_	35	E	35:E	_
+35	lead	_	Word	Word	_	32	A	32:A	_
+36	,	_	Punctuation	Punctuation	_	35	U	35:U	_
+37	which	_	Word	Word	_	40	R	40:R	_
+38	would	_	Word	Word	_	40	D	40:D	_
+39	have	_	Word	Word	_	40	F	40:F	_
+40	been	_	Word	Word	_	35	E	35:E	_
+41	Depp	_	Word	Word	_	42	A	42:A	_
+42	's	_	Word	Word	_	45	E	45:E	_
+43	second	_	Word	Word	_	45	Q	45:Q	_
+44	major	_	Word	Word	_	45	E	45:E	_
+45	role	_	Word	Word	_	40	A	40:A	_
+46	.	_	Punctuation	Punctuation	_	45	U	45:U	_
+

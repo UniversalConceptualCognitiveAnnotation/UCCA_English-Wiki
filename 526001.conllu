@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 526001
+# text = They were married June 15 , 1945 , and on March 12 , 1946 , daughter Liza was born .
+1	They	_	Word	Word	_	3	A	3:A	_
+2	were	_	Word	Word	_	3	F	3:F	_
+3	married	_	Word	Word	_	0	H	0:H	_
+4	June	_	Word	Word	_	3	T	3:T	_
+5	15	_	Word	Word	_	4	C	4:C	_
+6	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+7	1945	_	Word	Word	_	4	C	4:C	_
+8	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+9	and	_	Word	Word	_	19	L	19:L	_
+10	on	_	Word	Word	_	11	R	11:R	_
+11	March	_	Word	Word	_	19	T	19:T	_
+12	12	_	Word	Word	_	11	C	11:C	_
+13	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+14	1946	_	Word	Word	_	11	C	11:C	_
+15	,	_	Punctuation	Punctuation	_	19	U	19:U	_
+16	daughter	_	Word	Word	_	17	E	17:E	_
+17	Liza	_	Word	Word	_	19	A	19:A	_
+18	was	_	Word	Word	_	19	F	19:F	_
+19	born	_	Word	Word	_	3	H	3:H	_
+20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

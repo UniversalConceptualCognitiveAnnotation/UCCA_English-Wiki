@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 688016
+# text = In May 2000 , Dylan was awarded the Polar Music Prize .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	May	_	Word	Word	_	7	T	7:T	_
+3	2000	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+5	Dylan	_	Word	Word	_	7	A	7:A	_
+6	was	_	Word	Word	_	7	F	7:F	_
+7	awarded	_	Word	Word	_	0	H	0:H	_
+8	the	_	Word	Word	_	11	E	11:E	_
+9	Polar	_	Word	Word	_	11	E	11:E	_
+10	Music	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	Prize	_	Word	Word	_	7	A	7:A	_
+12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+

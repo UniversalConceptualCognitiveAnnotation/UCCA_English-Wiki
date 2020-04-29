@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 589008
+# text = Depp and Graham King produced the movie with David Kennedy , who ran Dan Curtis Productions inc . until Curtis died in 2006 .
+1	Depp	_	Word	Word	_	5	A	5:A	_
+2	and	_	Word	Word	_	1	N	1:N	_
+3	Graham	_	Word	Word	_	1	C	1:C	_
+4	King	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	produced	_	Word	Word	_	0	H	0:H	_
+6	the	_	Word	Word	_	7	E	7:E	_
+7	movie	_	Word	Word	_	5	A	5:A	_
+8	with	_	Word	Word	_	9	R	9:R	_
+9	David	_	Word	Word	_	7	E	7:E	_
+10	Kennedy	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+12	who	_	Word	Word	_	13	R	13:R	_
+13	ran	_	Word	Word	_	9	E	9:E	_
+14	Dan	_	Word	Word	_	13	A	13:A	_
+15	Curtis	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	Productions	_	Word	Word	_	14	Terminal	14:Terminal	_
+17	inc	_	Word	Word	_	14	Terminal	14:Terminal	_
+18	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+19	until	_	Word	Word	_	21	L	21:L	_
+20	Curtis	_	Word	Word	_	21	A	21:A	_
+21	died	_	Word	Word	_	13	H	13:H	_
+22	in	_	Word	Word	_	23	R	23:R	_
+23	2006	_	Word	Word	_	21	T	21:T	_
+24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

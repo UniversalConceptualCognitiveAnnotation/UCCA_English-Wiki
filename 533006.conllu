@@ -1,0 +1,46 @@
+# format = ucca
+# sent_id = 533006
+# text = At the subsequent inquest , coroner Gavin Thursdon stated that the cause of death was " an incautious self - overdose " of barbiturates ; her blood contained the equivalent of ten 1.5 - grain ( 97 mg ) Seconal capsules .
+1	At	_	Word	Word	_	9	L	9:L	_
+2	the	_	Word	Word	_	4	F	4:F	_
+3	subsequent	_	Word	Word	_	4	D	4:D	_
+4	inquest	_	Word	Word	_	0	H	0:H	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	coroner	_	Word	Word	_	7	E	7:E	_
+7	Gavin	_	Word	Word	_	9	A	9:A	_
+8	Thursdon	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	stated	_	Word	Word	_	4	H	4:H	_
+10	that	_	Word	Word	_	12	R	12:R	_
+11	the	_	Word	Word	_	12	F	12:F	_
+12	cause	_	Word	Word	_	9	A	9:A	_
+13	of	_	Word	Word	_	14	R	14:R	_
+14	death	_	Word	Word	_	12	A	12:A	_
+15	was	_	Word	Word	_	12	F	12:F	_
+16	"	_	Punctuation	Punctuation	_	12	U	12:U	_
+17	an	_	Word	Word	_	18	F	18:F	_
+18	incautious	_	Word	Word	_	19	D	19:D	_
+19	self	_	Word	Word	_	12	A	12:A	_
+20	-	_	Punctuation	Punctuation	_	19	U	19:U	_
+21	overdose	_	Word	Word	_	19	Terminal	19:Terminal	_
+22	"	_	Punctuation	Punctuation	_	19	U	19:U	_
+23	of	_	Word	Word	_	24	R	24:R	_
+24	barbiturates	_	Word	Word	_	19	A	19:A	_
+25	;	_	Punctuation	Punctuation	_	4	U	4:U	_
+26	her	_	Word	Word	_	27	E	27:E	_
+27	blood	_	Word	Word	_	28	A	28:A	_
+28	contained	_	Word	Word	_	4	H	4:H	_
+29	the	_	Word	Word	_	30	F	30:F	_
+30	equivalent	_	Word	Word	_	28	A	28:A	_
+31	of	_	Word	Word	_	40	R	40:R	_
+32	ten	_	Word	Word	_	40	Q	40:Q	_
+33	1.5	_	Word	Word	_	35	Q	35:Q	_
+34	-	_	Punctuation	Punctuation	_	35	U	35:U	_
+35	grain	_	Word	Word	_	40	E	40:E	_
+36	(	_	Punctuation	Punctuation	_	35	U	35:U	_
+37	97	_	Word	Word	_	38	Q	38:Q	_
+38	mg	_	Word	Word	_	35	E	35:E	_
+39	)	_	Punctuation	Punctuation	_	40	U	40:U	_
+40	Seconal	_	Word	Word	_	30	E	30:E	_
+41	capsules	_	Word	Word	_	40	C	40:C|35:A	_
+42	.	_	Punctuation	Punctuation	_	35	U	35:U	_
+

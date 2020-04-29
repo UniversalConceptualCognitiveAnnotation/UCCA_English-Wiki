@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 515007
+# text = A pioneer of glam rock , Bowie , according to music historians Schinder and Schwartz , has joint responsibility with Marc Bolan for creating the genre .
+1	A	_	Word	Word	_	2	E	2:E	_
+2	pioneer	_	Word	Word	_	0	H	0:H	_
+3	of	_	Word	Word	_	5	R	5:R	_
+4	glam	_	Word	Word	_	5	E	5:E	_
+5	rock	_	Word	Word	_	2	A	2:A	_
+6	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+7	Bowie	_	Word	Word	_	24	A	24:A|2:A	_
+8	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+9	according	_	Word	Word	_	2	H	2:H	_
+10	to	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	music	_	Word	Word	_	13	E	13:E	_
+12	historians	_	Word	Word	_	11	A	11:A	_
+13	Schinder	_	Word	Word	_	9	A	9:A	_
+14	and	_	Word	Word	_	13	N	13:N	_
+15	Schwartz	_	Word	Word	_	13	C	13:C	_
+16	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+17	has	_	Word	Word	_	24	F	24:F	_
+18	joint	_	Word	Word	_	19	E	19:E	_
+19	responsibility	_	Word	Word	_	24	D	24:D	_
+20	with	_	Word	Word	_	21	R	21:R	_
+21	Marc	_	Word	Word	_	24	A	24:A	_
+22	Bolan	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	for	_	Word	Word	_	24	R	24:R	_
+24	creating	_	Word	Word	_	9	A	9:A	_
+25	the	_	Word	Word	_	26	E	26:E	_
+26	genre	_	Word	Word	_	24	A	24:A	_
+27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+

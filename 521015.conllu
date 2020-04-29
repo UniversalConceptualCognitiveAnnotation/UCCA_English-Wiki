@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 521015
+# text = Frances changed her name to " Judy " soon after , inspired by a popular Hoagy Carmichael song .
+1	Frances	_	Word	Word	_	2	A	2:A|12:A	_
+2	changed	_	Word	Word	_	0	H	0:H	_
+3	her	_	Word	Word	_	4	E	4:E	_
+4	name	_	Word	Word	_	2	A	2:A	_
+5	to	_	Word	Word	_	7	R	7:R	_
+6	"	_	Punctuation	Punctuation	_	7	U	7:U	_
+7	Judy	_	Word	Word	_	2	A	2:A	_
+8	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+9	soon	_	Word	Word	_	10	E	10:E	_
+10	after	_	Word	Word	_	2	T	2:T	_
+11	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+12	inspired	_	Word	Word	_	2	H	2:H	_
+13	by	_	Word	Word	_	18	R	18:R	_
+14	a	_	Word	Word	_	18	F	18:F	_
+15	popular	_	Word	Word	_	18	E	18:E	_
+16	Hoagy	_	Word	Word	_	18	E	18:E	_
+17	Carmichael	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	song	_	Word	Word	_	12	A	12:A	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

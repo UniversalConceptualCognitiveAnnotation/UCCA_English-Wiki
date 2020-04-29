@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 942002
+# text = Stefani recorded Love . Angel . Music . Baby . , her first solo album , in 2004 .
+1	Stefani	_	Word	Word	_	2	A	2:A	_
+2	recorded	_	Word	Word	_	0	H	0:H	_
+3	Love	_	Word	Word	_	2	A	2:A	_
+4	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	Angel	_	Word	Word	_	3	Terminal	3:Terminal	_
+6	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+7	Music	_	Word	Word	_	3	Terminal	3:Terminal	_
+8	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+9	Baby	_	Word	Word	_	3	Terminal	3:Terminal	_
+10	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+11	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+12	her	_	Word	Word	_	15	E	15:E	_
+13	first	_	Word	Word	_	15	Q	15:Q	_
+14	solo	_	Word	Word	_	15	E	15:E	_
+15	album	_	Word	Word	_	3	E	3:E	_
+16	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+17	in	_	Word	Word	_	18	R	18:R	_
+18	2004	_	Word	Word	_	2	T	2:T	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

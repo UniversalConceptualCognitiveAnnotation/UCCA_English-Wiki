@@ -1,0 +1,52 @@
+# format = ucca
+# sent_id = 459004
+# text = On March 29 , 1999 , Jennings anchored the first installment of ABC 's 12 - hour miniseries , The Century ; production on the monumental project started in 1990 , and by the time it aired , it had cost the network $ 25 million . [
+1	On	_	Word	Word	_	2	R	2:R	_
+2	March	_	Word	Word	_	8	T	8:T	_
+3	29	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	1999	_	Word	Word	_	2	C	2:C	_
+6	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	Jennings	_	Word	Word	_	8	A	8:A	_
+8	anchored	_	Word	Word	_	0	H	0:H	_
+9	the	_	Word	Word	_	11	E	11:E	_
+10	first	_	Word	Word	_	11	E	11:E	_
+11	installment	_	Word	Word	_	20	E	20:E	_
+12	of	_	Word	Word	_	18	R	18:R	_
+13	ABC	_	Word	Word	_	18	E	18:E	_
+14	's	_	Word	Word	_	13	R	13:R	_
+15	12	_	Word	Word	_	17	Q	17:Q	_
+16	-	_	Punctuation	Punctuation	_	17	U	17:U	_
+17	hour	_	Word	Word	_	18	E	18:E	_
+18	miniseries	_	Word	Word	_	11	E	11:E	_
+19	,	_	Punctuation	Punctuation	_	20	U	20:U	_
+20	The	_	Word	Word	_	8	A	8:A	_
+21	Century	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	;	_	Punctuation	Punctuation	_	8	U	8:U	_
+23	production	_	Word	Word	_	8	H	8:H	_
+24	on	_	Word	Word	_	27	R	27:R	_
+25	the	_	Word	Word	_	27	E	27:E	_
+26	monumental	_	Word	Word	_	27	E	27:E	_
+27	project	_	Word	Word	_	23	A	23:A	_
+28	started	_	Word	Word	_	23	D	23:D	_
+29	in	_	Word	Word	_	30	R	30:R	_
+30	1990	_	Word	Word	_	23	T	23:T	_
+31	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+32	and	_	Word	Word	_	37	L	37:L	_
+33	by	_	Word	Word	_	35	R	35:R	_
+34	the	_	Word	Word	_	35	E	35:E	_
+35	time	_	Word	Word	_	37	L	37:L	_
+36	it	_	Word	Word	_	37	A	37:A	_
+37	aired	_	Word	Word	_	8	H	8:H	_
+38	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+39	it	_	Word	Word	_	41	A	41:A	_
+40	had	_	Word	Word	_	41	F	41:F	_
+41	cost	_	Word	Word	_	8	H	8:H	_
+42	the	_	Word	Word	_	43	E	43:E	_
+43	network	_	Word	Word	_	41	A	41:A	_
+44	$	_	Word	Word	_	41	A	41:A	_
+45	25	_	Word	Word	_	44	Q	44:Q	_
+46	million	_	Word	Word	_	45	Terminal	45:Terminal	_
+47	.	_	Punctuation	Punctuation	_	44	U	44:U	_
+48	[	_	Punctuation	Punctuation	_	44	U	44:U	_
+

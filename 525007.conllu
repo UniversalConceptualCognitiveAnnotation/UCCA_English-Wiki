@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 525007
+# text = She was top billed over the credits for the first time and effectively made the transition from teenage star to adult actress .
+1	She	_	Word	Word	_	4	A	4:A|16:A	_
+2	was	_	Word	Word	_	4	F	4:F	_
+3	top	_	Word	Word	_	4	A	4:A	_
+4	billed	_	Word	Word	_	0	H	0:H	_
+5	over	_	Word	Word	_	7	R	7:R	_
+6	the	_	Word	Word	_	7	F	7:F	_
+7	credits	_	Word	Word	_	4	A	4:A	_
+8	for	_	Word	Word	_	11	R	11:R	_
+9	the	_	Word	Word	_	11	F	11:F	_
+10	first	_	Word	Word	_	11	Q	11:Q	_
+11	time	_	Word	Word	_	4	D	4:D	_
+12	and	_	Word	Word	_	16	L	16:L	_
+13	effectively	_	Word	Word	_	16	D	16:D	_
+14	made	_	Word	Word	_	16	F	16:F	_
+15	the	_	Word	Word	_	16	F	16:F	_
+16	transition	_	Word	Word	_	4	H	4:H	_
+17	from	_	Word	Word	_	19	R	19:R	_
+18	teenage	_	Word	Word	_	19	E	19:E	_
+19	star	_	Word	Word	_	0	A	0:A|18:A	_
+20	to	_	Word	Word	_	22	R	22:R	_
+21	adult	_	Word	Word	_	22	E	22:E	_
+22	actress	_	Word	Word	_	19	C	19:C	_
+23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+

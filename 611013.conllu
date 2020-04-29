@@ -1,0 +1,54 @@
+# format = ucca
+# sent_id = 611013
+# text = On 12 December , McCartney performed , supported by Krist Novoselic , Dave Grohl , and Pat Smear ( all former members of Nirvana ) , the closing act of 12 - 12 - 12 : The Concert for Sandy Relief , seen by approximately two billion people worldwide .
+1	On	_	Word	Word	_	2	R	2:R	_
+2	12	_	Word	Word	_	6	T	6:T	_
+3	December	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	McCartney	_	Word	Word	_	6	A	6:A|8:A	_
+6	performed	_	Word	Word	_	0	H	0:H	_
+7	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	supported	_	Word	Word	_	6	H	6:H	_
+9	by	_	Word	Word	_	10	R	10:R	_
+10	Krist	_	Word	Word	_	8	A	8:A	_
+11	Novoselic	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+13	Dave	_	Word	Word	_	10	C	10:C	_
+14	Grohl	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+16	and	_	Word	Word	_	10	N	10:N	_
+17	Pat	_	Word	Word	_	10	C	10:C	_
+18	Smear	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	(	_	Punctuation	Punctuation	_	10	U	10:U	_
+20	all	_	Word	Word	_	22	A	22:A	_
+21	former	_	Word	Word	_	22	D	22:D	_
+22	members	_	Word	Word	_	10	E	10:E	_
+23	of	_	Word	Word	_	24	R	24:R	_
+24	Nirvana	_	Word	Word	_	22	A	22:A	_
+25	)	_	Punctuation	Punctuation	_	6	U	6:U	_
+26	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+27	the	_	Word	Word	_	29	E	29:E	_
+28	closing	_	Word	Word	_	29	E	29:E	_
+29	act	_	Word	Word	_	6	A	6:A	_
+30	of	_	Word	Word	_	31	R	31:R	_
+31	12	_	Word	Word	_	29	E	29:E	_
+32	-	_	Punctuation	Punctuation	_	31	U	31:U	_
+33	12	_	Word	Word	_	31	Terminal	31:Terminal	_
+34	-	_	Punctuation	Punctuation	_	31	U	31:U	_
+35	12	_	Word	Word	_	31	Terminal	31:Terminal	_
+36	:	_	Punctuation	Punctuation	_	31	U	31:U	_
+37	The	_	Word	Word	_	31	Terminal	31:Terminal	_
+38	Concert	_	Word	Word	_	31	Terminal	31:Terminal	_
+39	for	_	Word	Word	_	31	Terminal	31:Terminal	_
+40	Sandy	_	Word	Word	_	31	Terminal	31:Terminal	_
+41	Relief	_	Word	Word	_	31	Terminal	31:Terminal	_
+42	,	_	Punctuation	Punctuation	_	29	U	29:U	_
+43	seen	_	Word	Word	_	29	E	29:E	_
+44	by	_	Word	Word	_	48	R	48:R	_
+45	approximately	_	Word	Word	_	46	E	46:E	_
+46	two	_	Word	Word	_	48	Q	48:Q	_
+47	billion	_	Word	Word	_	46	Terminal	46:Terminal	_
+48	people	_	Word	Word	_	43	A	43:A	_
+49	worldwide	_	Word	Word	_	43	A	43:A	_
+50	.	_	Punctuation	Punctuation	_	43	U	43:U	_
+

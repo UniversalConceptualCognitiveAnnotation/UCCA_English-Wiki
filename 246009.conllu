@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 246009
+# text = Although Gattaca was not a success at the box office it drew generally favorable reviews from critics , and Hawke 's performance was critically well - received .
+1	Although	_	Word	Word	_	15	L	15:L	_
+2	Gattaca	_	Word	Word	_	6	A	6:A	_
+3	was	_	Word	Word	_	6	F	6:F	_
+4	not	_	Word	Word	_	6	D	6:D	_
+5	a	_	Word	Word	_	6	F	6:F	_
+6	success	_	Word	Word	_	0	H	0:H	_
+7	at	_	Word	Word	_	9	R	9:R	_
+8	the	_	Word	Word	_	9	F	9:F	_
+9	box	_	Word	Word	_	6	A	6:A	_
+10	office	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	it	_	Word	Word	_	15	A	15:A	_
+12	drew	_	Word	Word	_	15	F	15:F	_
+13	generally	_	Word	Word	_	14	E	14:E	_
+14	favorable	_	Word	Word	_	15	D	15:D	_
+15	reviews	_	Word	Word	_	6	H	6:H	_
+16	from	_	Word	Word	_	17	R	17:R	_
+17	critics	_	Word	Word	_	15	A	15:A	_
+18	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+19	and	_	Word	Word	_	27	L	27:L	_
+20	Hawke	_	Word	Word	_	22	A	22:A	_
+21	's	_	Word	Word	_	20	R	20:R	_
+22	performance	_	Word	Word	_	27	A	27:A	_
+23	was	_	Word	Word	_	27	F	27:F	_
+24	critically	_	Word	Word	_	27	A	27:A	_
+25	well	_	Word	Word	_	27	D	27:D	_
+26	-	_	Punctuation	Punctuation	_	27	U	27:U	_
+27	received	_	Word	Word	_	6	H	6:H	_
+28	.	_	Punctuation	Punctuation	_	27	U	27:U	_
+

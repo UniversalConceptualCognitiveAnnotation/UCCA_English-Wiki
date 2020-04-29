@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 633010
+# text = Lennon was now 19 , and his aunt , horrified when he told her about the trip , pleaded with him to continue his art studies instead .
+1	Lennon	_	Word	Word	_	0	H	0:H	_
+2	was	_	Word	Word	_	1	F	1:F	_
+3	now	_	Word	Word	_	1	D	1:D	_
+4	19	_	Word	Word	_	1	T	1:T	_
+5	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+6	and	_	Word	Word	_	10	L	10:L	_
+7	his	_	Word	Word	_	8	E	8:E	_
+8	aunt	_	Word	Word	_	0	C	0:C|10:A	_
+9	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+10	horrified	_	Word	Word	_	1	H	1:H	_
+11	when	_	Word	Word	_	13	L	13:L	_
+12	he	_	Word	Word	_	13	A	13:A	_
+13	told	_	Word	Word	_	1	H	1:H	_
+14	her	_	Word	Word	_	13	A	13:A	_
+15	about	_	Word	Word	_	17	R	17:R	_
+16	the	_	Word	Word	_	17	E	17:E	_
+17	trip	_	Word	Word	_	13	A	13:A	_
+18	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+19	pleaded	_	Word	Word	_	1	H	1:H	_
+20	with	_	Word	Word	_	21	R	21:R	_
+21	him	_	Word	Word	_	19	A	19:A	_
+22	to	_	Word	Word	_	23	F	23:F	_
+23	continue	_	Word	Word	_	19	A	19:A	_
+24	his	_	Word	Word	_	26	E	26:E	_
+25	art	_	Word	Word	_	26	E	26:E	_
+26	studies	_	Word	Word	_	23	A	23:A	_
+27	instead	_	Word	Word	_	23	D	23:D	_
+28	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

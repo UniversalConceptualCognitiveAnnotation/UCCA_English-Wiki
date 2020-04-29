@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 525002
+# text = Garland began a relationship with musician David Rose , and on her 18th birthday he gave her an engagement ring .
+1	Garland	_	Word	Word	_	4	A	4:A	_
+2	began	_	Word	Word	_	4	D	4:D	_
+3	a	_	Word	Word	_	4	E	4:E	_
+4	relationship	_	Word	Word	_	0	H	0:H	_
+5	with	_	Word	Word	_	7	R	7:R	_
+6	musician	_	Word	Word	_	7	E	7:E	_
+7	David	_	Word	Word	_	4	A	4:A	_
+8	Rose	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+10	and	_	Word	Word	_	14	L	14:L	_
+11	on	_	Word	Word	_	14	L	14:L	_
+12	her	_	Word	Word	_	14	A	14:A	_
+13	18th	_	Word	Word	_	14	T	14:T	_
+14	birthday	_	Word	Word	_	4	H	4:H	_
+15	he	_	Word	Word	_	16	A	16:A	_
+16	gave	_	Word	Word	_	4	H	4:H	_
+17	her	_	Word	Word	_	16	A	16:A	_
+18	an	_	Word	Word	_	20	F	20:F	_
+19	engagement	_	Word	Word	_	20	E	20:E	_
+20	ring	_	Word	Word	_	16	A	16:A	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+

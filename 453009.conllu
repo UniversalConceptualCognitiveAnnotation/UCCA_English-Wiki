@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 453009
+# text = On July 10 , 1978 , World News Tonight debuted with Frank Reynolds in Washington , Max Robinson in Chicago , and Jennings in London .
+1	On	_	Word	Word	_	2	R	2:R	_
+2	July	_	Word	Word	_	10	T	10:T	_
+3	10	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	1978	_	Word	Word	_	2	C	2:C	_
+6	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+7	World	_	Word	Word	_	10	A	10:A	_
+8	News	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	Tonight	_	Word	Word	_	7	Terminal	7:Terminal	_
+10	debuted	_	Word	Word	_	0	H	0:H	_
+11	with	_	Word	Word	_	12	R	12:R	_
+12	Frank	_	Word	Word	_	10	A	10:A	_
+13	Reynolds	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	in	_	Word	Word	_	15	R	15:R	_
+15	Washington	_	Word	Word	_	12	E	12:E	_
+16	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+17	Max	_	Word	Word	_	12	C	12:C	_
+18	Robinson	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	in	_	Word	Word	_	20	R	20:R	_
+20	Chicago	_	Word	Word	_	17	E	17:E	_
+21	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+22	and	_	Word	Word	_	12	N	12:N	_
+23	Jennings	_	Word	Word	_	12	C	12:C	_
+24	in	_	Word	Word	_	25	R	25:R	_
+25	London	_	Word	Word	_	23	E	23:E	_
+26	.	_	Punctuation	Punctuation	_	25	U	25:U	_
+

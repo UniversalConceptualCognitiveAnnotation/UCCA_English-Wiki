@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 705008
+# text = I said , " No it 's not me . "
+1	I	_	Word	Word	_	2	A	2:A	_
+2	said	_	Word	Word	_	0	H	0:H	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	No	_	Word	Word	_	2	A	2:A	_
+6	it	_	Word	Word	_	7	A	7:A	_
+7	's	_	Word	Word	_	5	H	5:H	_
+8	not	_	Word	Word	_	7	D	7:D	_
+9	me	_	Word	Word	_	7	A	7:A	_
+10	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+11	"	_	Punctuation	Punctuation	_	7	U	7:U	_
+

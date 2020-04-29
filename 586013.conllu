@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 586013
+# text = Depp accepted this role to work with actor Frederic Forrest , who inspired him .
+1	Depp	_	Word	Word	_	2	A	2:A|6:A	_
+2	accepted	_	Word	Word	_	0	H	0:H	_
+3	this	_	Word	Word	_	4	E	4:E	_
+4	role	_	Word	Word	_	2	A	2:A	_
+5	to	_	Word	Word	_	6	L	6:L	_
+6	work	_	Word	Word	_	2	H	2:H	_
+7	with	_	Word	Word	_	9	R	9:R	_
+8	actor	_	Word	Word	_	9	E	9:E	_
+9	Frederic	_	Word	Word	_	6	A	6:A	_
+10	Forrest	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+12	who	_	Word	Word	_	13	R	13:R	_
+13	inspired	_	Word	Word	_	9	E	9:E	_
+14	him	_	Word	Word	_	13	A	13:A	_
+15	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

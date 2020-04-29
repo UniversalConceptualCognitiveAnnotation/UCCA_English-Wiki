@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 588002
+# text = According to a survey taken by Fandango , Depp was a major draw for audiences .
+1	According	_	Word	Word	_	0	H	0:H	_
+2	to	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	a	_	Word	Word	_	4	E	4:E	_
+4	survey	_	Word	Word	_	1	A	1:A	_
+5	taken	_	Word	Word	_	4	E	4:E	_
+6	by	_	Word	Word	_	7	R	7:R	_
+7	Fandango	_	Word	Word	_	5	A	5:A	_
+8	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+9	Depp	_	Word	Word	_	13	A	13:A	_
+10	was	_	Word	Word	_	13	F	13:F	_
+11	a	_	Word	Word	_	13	F	13:F	_
+12	major	_	Word	Word	_	13	D	13:D	_
+13	draw	_	Word	Word	_	1	A	1:A	_
+14	for	_	Word	Word	_	15	R	15:R	_
+15	audiences	_	Word	Word	_	13	A	13:A	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

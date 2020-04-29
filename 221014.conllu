@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 221014
+# text = On December 5 , 2009 , she participated in the Teletón in Mexico , to help raise funds to treat cancer and children rehabilitation .
+1	On	_	Word	Word	_	2	R	2:R	_
+2	December	_	Word	Word	_	8	T	8:T	_
+3	5	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	2009	_	Word	Word	_	2	C	2:C	_
+6	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	she	_	Word	Word	_	8	A	8:A|17:A	_
+8	participated	_	Word	Word	_	0	H	0:H	_
+9	in	_	Word	Word	_	11	R	11:R	_
+10	the	_	Word	Word	_	11	F	11:F	_
+11	Teletón	_	Word	Word	_	8	A	8:A	_
+12	in	_	Word	Word	_	13	R	13:R	_
+13	Mexico	_	Word	Word	_	11	E	11:E	_
+14	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+15	to	_	Word	Word	_	17	L	17:L	_
+16	help	_	Word	Word	_	17	D	17:D	_
+17	raise	_	Word	Word	_	8	H	8:H	_
+18	funds	_	Word	Word	_	17	A	17:A	_
+19	to	_	Word	Word	_	20	L	20:L	_
+20	treat	_	Word	Word	_	8	H	8:H	_
+21	cancer	_	Word	Word	_	20	A	20:A	_
+22	and	_	Word	Word	_	24	L	24:L	_
+23	children	_	Word	Word	_	24	A	24:A	_
+24	rehabilitation	_	Word	Word	_	8	H	8:H	_
+25	.	_	Punctuation	Punctuation	_	24	U	24:U	_
+

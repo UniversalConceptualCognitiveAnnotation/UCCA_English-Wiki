@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 470000
+# text = In Johnson 's fifth season , he averaged a double - double of 17.6 points and 13.1 assists , as well as 7.3 rebounds per game .
+1	In	_	Word	Word	_	8	L	8:L	_
+2	Johnson	_	Word	Word	_	0	H	0:H	_
+3	's	_	Word	Word	_	2	R	2:R	_
+4	fifth	_	Word	Word	_	5	Q	5:Q	_
+5	season	_	Word	Word	_	2	A	2:A	_
+6	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+7	he	_	Word	Word	_	8	A	8:A|18:A|24:A	_
+8	averaged	_	Word	Word	_	2	H	2:H	_
+9	a	_	Word	Word	_	10	E	10:E	_
+10	double	_	Word	Word	_	8	A	8:A	_
+11	-	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	double	_	Word	Word	_	10	Terminal	10:Terminal	_
+13	of	_	Word	Word	_	15	R	15:R	_
+14	17.6	_	Word	Word	_	15	Q	15:Q	_
+15	points	_	Word	Word	_	10	E	10:E	_
+16	and	_	Word	Word	_	15	N	15:N	_
+17	13.1	_	Word	Word	_	18	Q	18:Q	_
+18	assists	_	Word	Word	_	15	C	15:C	_
+19	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+20	as	_	Word	Word	_	10	N	10:N	_
+21	well	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	as	_	Word	Word	_	20	Terminal	20:Terminal	_
+23	7.3	_	Word	Word	_	24	Q	24:Q	_
+24	rebounds	_	Word	Word	_	10	C	10:C	_
+25	per	_	Word	Word	_	26	R	26:R	_
+26	game	_	Word	Word	_	10	E	10:E	_
+27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+

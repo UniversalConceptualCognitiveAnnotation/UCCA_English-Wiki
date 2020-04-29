@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 943006
+# text = She first worked at a Dairy Queen and later manned the MAC makeup counter of a department store .
+1	She	_	Word	Word	_	3	A	3:A|10:A	_
+2	first	_	Word	Word	_	3	D	3:D	_
+3	worked	_	Word	Word	_	0	H	0:H	_
+4	at	_	Word	Word	_	6	R	6:R	_
+5	a	_	Word	Word	_	6	E	6:E	_
+6	Dairy	_	Word	Word	_	3	A	3:A	_
+7	Queen	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	and	_	Word	Word	_	10	L	10:L	_
+9	later	_	Word	Word	_	10	T	10:T	_
+10	manned	_	Word	Word	_	3	H	3:H	_
+11	the	_	Word	Word	_	14	E	14:E	_
+12	MAC	_	Word	Word	_	14	E	14:E	_
+13	makeup	_	Word	Word	_	14	E	14:E	_
+14	counter	_	Word	Word	_	10	A	10:A	_
+15	of	_	Word	Word	_	18	R	18:R	_
+16	a	_	Word	Word	_	18	E	18:E	_
+17	department	_	Word	Word	_	18	E	18:E	_
+18	store	_	Word	Word	_	14	E	14:E	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

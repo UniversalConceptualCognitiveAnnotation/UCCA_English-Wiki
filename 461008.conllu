@@ -1,0 +1,47 @@
+# format = ucca
+# sent_id = 461008
+# text = Moore called then - President George W. Bush a " deserter " . By late 2004 , Brokaw had retired from his anchoring duties at NBC , ceding the reins to Brian Williams ; Rather planned to step down in March 2005 .
+1	Moore	_	Word	Word	_	2	A	2:A	_
+2	called	_	Word	Word	_	0	H	0:H	_
+3	then	_	Word	Word	_	5	D	5:D	_
+4	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+5	President	_	Word	Word	_	6	E	6:E	_
+6	George	_	Word	Word	_	2	A	2:A	_
+7	W.	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	Bush	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	a	_	Word	Word	_	11	E	11:E	_
+10	"	_	Punctuation	Punctuation	_	11	U	11:U	_
+11	deserter	_	Word	Word	_	2	A	2:A	_
+12	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+13	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+14	By	_	Word	Word	_	16	R	16:R	_
+15	late	_	Word	Word	_	16	E	16:E	_
+16	2004	_	Word	Word	_	20	T	20:T	_
+17	,	_	Punctuation	Punctuation	_	20	U	20:U	_
+18	Brokaw	_	Word	Word	_	20	A	20:A|28:A	_
+19	had	_	Word	Word	_	20	F	20:F	_
+20	retired	_	Word	Word	_	2	H	2:H	_
+21	from	_	Word	Word	_	24	R	24:R	_
+22	his	_	Word	Word	_	24	E	24:E	_
+23	anchoring	_	Word	Word	_	24	E	24:E	_
+24	duties	_	Word	Word	_	20	A	20:A	_
+25	at	_	Word	Word	_	26	R	26:R	_
+26	NBC	_	Word	Word	_	24	E	24:E	_
+27	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+28	ceding	_	Word	Word	_	2	H	2:H	_
+29	the	_	Word	Word	_	30	E	30:E	_
+30	reins	_	Word	Word	_	28	A	28:A	_
+31	to	_	Word	Word	_	32	R	32:R	_
+32	Brian	_	Word	Word	_	28	A	28:A	_
+33	Williams	_	Word	Word	_	32	Terminal	32:Terminal	_
+34	;	_	Punctuation	Punctuation	_	2	U	2:U	_
+35	Rather	_	Word	Word	_	38	A	38:A	_
+36	planned	_	Word	Word	_	38	D	38:D	_
+37	to	_	Word	Word	_	38	F	38:F	_
+38	step	_	Word	Word	_	2	H	2:H	_
+39	down	_	Word	Word	_	38	Terminal	38:Terminal	_
+40	in	_	Word	Word	_	41	R	41:R	_
+41	March	_	Word	Word	_	38	T	38:T	_
+42	2005	_	Word	Word	_	41	C	41:C	_
+43	.	_	Punctuation	Punctuation	_	41	U	41:U	_
+

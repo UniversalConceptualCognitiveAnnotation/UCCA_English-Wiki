@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 712008
+# text = The New York Times published an article exploring similarities between some of Dylan 's lyrics in Modern Times and the work of the Civil War poet Henry Timrod .
+1	The	_	Word	Word	_	5	A	5:A	_
+2	New	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	York	_	Word	Word	_	1	Terminal	1:Terminal	_
+4	Times	_	Word	Word	_	1	Terminal	1:Terminal	_
+5	published	_	Word	Word	_	0	H	0:H	_
+6	an	_	Word	Word	_	7	E	7:E	_
+7	article	_	Word	Word	_	5	A	5:A	_
+8	exploring	_	Word	Word	_	7	E	7:E	_
+9	similarities	_	Word	Word	_	8	A	8:A	_
+10	between	_	Word	Word	_	15	R	15:R	_
+11	some	_	Word	Word	_	15	Q	15:Q	_
+12	of	_	Word	Word	_	15	R	15:R	_
+13	Dylan	_	Word	Word	_	14	A	14:A	_
+14	's	_	Word	Word	_	15	E	15:E	_
+15	lyrics	_	Word	Word	_	9	E	9:E	_
+16	in	_	Word	Word	_	17	R	17:R	_
+17	Modern	_	Word	Word	_	15	E	15:E	_
+18	Times	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	and	_	Word	Word	_	15	N	15:N	_
+20	the	_	Word	Word	_	21	E	21:E	_
+21	work	_	Word	Word	_	15	C	15:C	_
+22	of	_	Word	Word	_	27	R	27:R	_
+23	the	_	Word	Word	_	26	F	26:F	_
+24	Civil	_	Word	Word	_	25	E	25:E	_
+25	War	_	Word	Word	_	26	A	26:A	_
+26	poet	_	Word	Word	_	27	E	27:E	_
+27	Henry	_	Word	Word	_	21	E	21:E	_
+28	Timrod	_	Word	Word	_	27	Terminal	27:Terminal	_
+29	.	_	Punctuation	Punctuation	_	27	U	27:U	_
+

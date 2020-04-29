@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 652015
+# text = The Justice Department appealed the decision to the Supreme Court in April 1992 , but the court declined to review the case .
+1	The	_	Word	Word	_	3	E	3:E	_
+2	Justice	_	Word	Word	_	3	E	3:E	_
+3	Department	_	Word	Word	_	4	A	4:A	_
+4	appealed	_	Word	Word	_	0	H	0:H	_
+5	the	_	Word	Word	_	6	E	6:E	_
+6	decision	_	Word	Word	_	4	A	4:A	_
+7	to	_	Word	Word	_	10	R	10:R	_
+8	the	_	Word	Word	_	10	E	10:E	_
+9	Supreme	_	Word	Word	_	10	E	10:E	_
+10	Court	_	Word	Word	_	4	A	4:A	_
+11	in	_	Word	Word	_	12	R	12:R	_
+12	April	_	Word	Word	_	4	T	4:T	_
+13	1992	_	Word	Word	_	12	C	12:C	_
+14	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+15	but	_	Word	Word	_	20	L	20:L	_
+16	the	_	Word	Word	_	17	E	17:E	_
+17	court	_	Word	Word	_	20	A	20:A	_
+18	declined	_	Word	Word	_	20	D	20:D	_
+19	to	_	Word	Word	_	20	F	20:F	_
+20	review	_	Word	Word	_	4	H	4:H	_
+21	the	_	Word	Word	_	22	E	22:E	_
+22	case	_	Word	Word	_	20	A	20:A	_
+23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+

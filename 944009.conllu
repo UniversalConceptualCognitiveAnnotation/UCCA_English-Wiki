@@ -1,0 +1,37 @@
+# format = ucca
+# sent_id = 944009
+# text = The album features a large number of collaborations with producers and other artists , including Tony Kanal , Linda Perry , André 3000 , Nellee Hooper , The Neptunes and New Order .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	album	_	Word	Word	_	3	A	3:A	_
+3	features	_	Word	Word	_	0	H	0:H	_
+4	a	_	Word	Word	_	6	E	6:E	_
+5	large	_	Word	Word	_	6	E	6:E	_
+6	number	_	Word	Word	_	8	D	8:D	_
+7	of	_	Word	Word	_	8	R	8:R	_
+8	collaborations	_	Word	Word	_	3	A	3:A	_
+9	with	_	Word	Word	_	10	R	10:R	_
+10	producers	_	Word	Word	_	8	A	8:A	_
+11	and	_	Word	Word	_	10	N	10:N	_
+12	other	_	Word	Word	_	13	D	13:D	_
+13	artists	_	Word	Word	_	10	C	10:C	_
+14	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+15	including	_	Word	Word	_	16	R	16:R	_
+16	Tony	_	Word	Word	_	10	E	10:E	_
+17	Kanal	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+19	Linda	_	Word	Word	_	16	C	16:C	_
+20	Perry	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+22	André	_	Word	Word	_	16	C	16:C	_
+23	3000	_	Word	Word	_	22	Terminal	22:Terminal	_
+24	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+25	Nellee	_	Word	Word	_	16	C	16:C	_
+26	Hooper	_	Word	Word	_	25	Terminal	25:Terminal	_
+27	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+28	The	_	Word	Word	_	16	C	16:C	_
+29	Neptunes	_	Word	Word	_	28	Terminal	28:Terminal	_
+30	and	_	Word	Word	_	16	N	16:N	_
+31	New	_	Word	Word	_	16	C	16:C	_
+32	Order	_	Word	Word	_	31	Terminal	31:Terminal	_
+33	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

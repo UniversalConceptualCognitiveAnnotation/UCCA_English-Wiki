@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 1022009
+# text = The era saw the arrival of novelties like dolls modeled after Michael Jackson , which appeared in stores in May 1984 at a price of $ 12 .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	era	_	Word	Word	_	5	T	5:T	_
+3	saw	_	Word	Word	_	5	F	5:F	_
+4	the	_	Word	Word	_	5	E	5:E	_
+5	arrival	_	Word	Word	_	0	H	0:H	_
+6	of	_	Word	Word	_	7	R	7:R	_
+7	novelties	_	Word	Word	_	5	A	5:A	_
+8	like	_	Word	Word	_	9	R	9:R	_
+9	dolls	_	Word	Word	_	7	E	7:E	_
+10	modeled	_	Word	Word	_	9	E	9:E	_
+11	after	_	Word	Word	_	12	R	12:R	_
+12	Michael	_	Word	Word	_	10	A	10:A	_
+13	Jackson	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+15	which	_	Word	Word	_	16	R	16:R	_
+16	appeared	_	Word	Word	_	9	E	9:E	_
+17	in	_	Word	Word	_	18	R	18:R	_
+18	stores	_	Word	Word	_	16	A	16:A	_
+19	in	_	Word	Word	_	20	R	20:R	_
+20	May	_	Word	Word	_	16	T	16:T	_
+21	1984	_	Word	Word	_	20	C	20:C	_
+22	at	_	Word	Word	_	24	R	24:R	_
+23	a	_	Word	Word	_	24	E	24:E	_
+24	price	_	Word	Word	_	16	A	16:A	_
+25	of	_	Word	Word	_	26	R	26:R	_
+26	$	_	Word	Word	_	24	E	24:E	_
+27	12	_	Word	Word	_	26	Q	26:Q	_
+28	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+

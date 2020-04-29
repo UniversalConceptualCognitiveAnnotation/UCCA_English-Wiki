@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 556016
+# text = By the time he graduated from high school in June 1953 , Presley had already singled out music as his future .
+1	By	_	Word	Word	_	3	R	3:R	_
+2	the	_	Word	Word	_	3	F	3:F	_
+3	time	_	Word	Word	_	16	L	16:L	_
+4	he	_	Word	Word	_	5	A	5:A	_
+5	graduated	_	Word	Word	_	0	H	0:H	_
+6	from	_	Word	Word	_	7	R	7:R	_
+7	high	_	Word	Word	_	5	A	5:A	_
+8	school	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	in	_	Word	Word	_	10	R	10:R	_
+10	June	_	Word	Word	_	5	T	5:T	_
+11	1953	_	Word	Word	_	10	C	10:C	_
+12	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+13	Presley	_	Word	Word	_	16	A	16:A	_
+14	had	_	Word	Word	_	16	F	16:F	_
+15	already	_	Word	Word	_	16	D	16:D	_
+16	singled	_	Word	Word	_	5	H	5:H	_
+17	out	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	music	_	Word	Word	_	16	A	16:A	_
+19	as	_	Word	Word	_	21	R	21:R	_
+20	his	_	Word	Word	_	21	A	21:A	_
+21	future	_	Word	Word	_	16	A	16:A	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

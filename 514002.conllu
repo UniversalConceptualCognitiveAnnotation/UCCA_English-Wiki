@@ -1,0 +1,45 @@
+# format = ucca
+# sent_id = 514002
+# text = In the 2008 film August , directed by Austin Chick , he played a supporting role as Ogilvie , alongside Josh Hartnett and Rip Torn , with whom he had worked in 1976 for The Man Who Fell to Earth .
+1	In	_	Word	Word	_	5	R	5:R	_
+2	the	_	Word	Word	_	4	E	4:E	_
+3	2008	_	Word	Word	_	4	E	4:E	_
+4	film	_	Word	Word	_	5	E	5:E	_
+5	August	_	Word	Word	_	13	A	13:A	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	directed	_	Word	Word	_	5	E	5:E	_
+8	by	_	Word	Word	_	9	R	9:R	_
+9	Austin	_	Word	Word	_	7	A	7:A	_
+10	Chick	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+12	he	_	Word	Word	_	13	A	13:A	_
+13	played	_	Word	Word	_	0	H	0:H	_
+14	a	_	Word	Word	_	16	E	16:E	_
+15	supporting	_	Word	Word	_	16	E	16:E	_
+16	role	_	Word	Word	_	13	A	13:A	_
+17	as	_	Word	Word	_	18	R	18:R	_
+18	Ogilvie	_	Word	Word	_	16	E	16:E	_
+19	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+20	alongside	_	Word	Word	_	21	R	21:R	_
+21	Josh	_	Word	Word	_	13	A	13:A	_
+22	Hartnett	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	and	_	Word	Word	_	21	N	21:N	_
+24	Rip	_	Word	Word	_	21	C	21:C	_
+25	Torn	_	Word	Word	_	24	Terminal	24:Terminal	_
+26	,	_	Punctuation	Punctuation	_	21	U	21:U	_
+27	with	_	Word	Word	_	31	R	31:R	_
+28	whom	_	Word	Word	_	27	Terminal	27:Terminal	_
+29	he	_	Word	Word	_	31	A	31:A	_
+30	had	_	Word	Word	_	31	F	31:F	_
+31	worked	_	Word	Word	_	21	E	21:E	_
+32	in	_	Word	Word	_	33	R	33:R	_
+33	1976	_	Word	Word	_	31	T	31:T	_
+34	for	_	Word	Word	_	35	R	35:R	_
+35	The	_	Word	Word	_	31	A	31:A	_
+36	Man	_	Word	Word	_	35	Terminal	35:Terminal	_
+37	Who	_	Word	Word	_	35	Terminal	35:Terminal	_
+38	Fell	_	Word	Word	_	35	Terminal	35:Terminal	_
+39	to	_	Word	Word	_	35	Terminal	35:Terminal	_
+40	Earth	_	Word	Word	_	35	Terminal	35:Terminal	_
+41	.	_	Punctuation	Punctuation	_	35	U	35:U	_
+

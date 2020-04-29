@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 197007
+# text = Despite the setback , La Jolla Playhouse pushed on , with Steven Spielberg lending his talents as producer .
+1	Despite	_	Word	Word	_	8	L	8:L	_
+2	the	_	Word	Word	_	3	E	3:E	_
+3	setback	_	Word	Word	_	0	H	0:H	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	La	_	Word	Word	_	8	A	8:A	_
+6	Jolla	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	Playhouse	_	Word	Word	_	5	Terminal	5:Terminal	_
+8	pushed	_	Word	Word	_	3	H	3:H	_
+9	on	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+11	with	_	Word	Word	_	14	L	14:L	_
+12	Steven	_	Word	Word	_	14	A	14:A	_
+13	Spielberg	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	lending	_	Word	Word	_	3	H	3:H	_
+15	his	_	Word	Word	_	16	E	16:E	_
+16	talents	_	Word	Word	_	14	A	14:A	_
+17	as	_	Word	Word	_	18	R	18:R	_
+18	producer	_	Word	Word	_	14	A	14:A	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

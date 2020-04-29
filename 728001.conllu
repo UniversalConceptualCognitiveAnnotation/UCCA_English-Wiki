@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 728001
+# text = The film received mixed reviews , but was generally lauded for the chemistry between the two leads .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	film	_	Word	Word	_	0	C	0:C|10:A	_
+3	received	_	Word	Word	_	0	H	0:H	_
+4	mixed	_	Word	Word	_	5	E	5:E	_
+5	reviews	_	Word	Word	_	3	A	3:A	_
+6	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+7	but	_	Word	Word	_	10	L	10:L	_
+8	was	_	Word	Word	_	10	F	10:F	_
+9	generally	_	Word	Word	_	10	D	10:D	_
+10	lauded	_	Word	Word	_	3	H	3:H	_
+11	for	_	Word	Word	_	13	R	13:R	_
+12	the	_	Word	Word	_	13	E	13:E	_
+13	chemistry	_	Word	Word	_	10	A	10:A	_
+14	between	_	Word	Word	_	17	R	17:R	_
+15	the	_	Word	Word	_	17	E	17:E	_
+16	two	_	Word	Word	_	17	Q	17:Q	_
+17	leads	_	Word	Word	_	13	A	13:A	_
+18	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+

@@ -1,0 +1,37 @@
+# format = ucca
+# sent_id = 537002
+# text = Jack was the fifth surviving son of Benjamin Warner a cobbler from Krasnosielc , Poland ( then located in the Russian Empire ) and his wife , the former Pearl Leah Eichelbaum .
+1	Jack	_	Word	Word	_	2	A	2:A	_
+2	was	_	Word	Word	_	0	H	0:H	_
+3	the	_	Word	Word	_	6	F	6:F	_
+4	fifth	_	Word	Word	_	6	Q	6:Q	_
+5	surviving	_	Word	Word	_	6	E	6:E	_
+6	son	_	Word	Word	_	0	A	0:A|5:A	_
+7	of	_	Word	Word	_	8	R	8:R	_
+8	Benjamin	_	Word	Word	_	6	A	6:A	_
+9	Warner	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	a	_	Word	Word	_	11	F	11:F	_
+11	cobbler	_	Word	Word	_	8	E	8:E	_
+12	from	_	Word	Word	_	8	E	8:E	_
+13	Krasnosielc	_	Word	Word	_	12	A	12:A	_
+14	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+15	Poland	_	Word	Word	_	13	C	13:C	_
+16	(	_	Punctuation	Punctuation	_	13	U	13:U	_
+17	then	_	Word	Word	_	18	T	18:T	_
+18	located	_	Word	Word	_	13	E	13:E	_
+19	in	_	Word	Word	_	22	R	22:R	_
+20	the	_	Word	Word	_	22	F	22:F	_
+21	Russian	_	Word	Word	_	22	E	22:E	_
+22	Empire	_	Word	Word	_	18	A	18:A	_
+23	)	_	Punctuation	Punctuation	_	8	U	8:U	_
+24	and	_	Word	Word	_	8	N	8:N	_
+25	his	_	Word	Word	_	8	C	8:C	_
+26	wife	_	Word	Word	_	25	A	25:A	_
+27	,	_	Punctuation	Punctuation	_	25	U	25:U	_
+28	the	_	Word	Word	_	30	F	30:F	_
+29	former	_	Word	Word	_	30	E	30:E	_
+30	Pearl	_	Word	Word	_	25	A	25:A	_
+31	Leah	_	Word	Word	_	30	Terminal	30:Terminal	_
+32	Eichelbaum	_	Word	Word	_	30	Terminal	30:Terminal	_
+33	.	_	Punctuation	Punctuation	_	30	U	30:U	_
+

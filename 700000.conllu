@@ -1,0 +1,39 @@
+# format = ucca
+# sent_id = 700000
+# text = Once Dylan was well enough to resume creative work , he began editing film footage of his 1966 tour for Eat the Document , a rarely exhibited follow - up to Dont Look Back .
+1	Once	_	Word	Word	_	9	L	9:L	_
+2	Dylan	_	Word	Word	_	4	A	4:A|9:A	_
+3	was	_	Word	Word	_	4	F	4:F	_
+4	well	_	Word	Word	_	0	H	0:H	_
+5	enough	_	Word	Word	_	4	D	4:D	_
+6	to	_	Word	Word	_	9	L	9:L	_
+7	resume	_	Word	Word	_	9	D	9:D	_
+8	creative	_	Word	Word	_	9	A	9:A	_
+9	work	_	Word	Word	_	4	H	4:H	_
+10	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+11	he	_	Word	Word	_	13	A	13:A	_
+12	began	_	Word	Word	_	13	D	13:D	_
+13	editing	_	Word	Word	_	4	H	4:H	_
+14	film	_	Word	Word	_	15	E	15:E	_
+15	footage	_	Word	Word	_	13	A	13:A	_
+16	of	_	Word	Word	_	19	R	19:R	_
+17	his	_	Word	Word	_	19	A	19:A	_
+18	1966	_	Word	Word	_	19	T	19:T	_
+19	tour	_	Word	Word	_	15	E	15:E	_
+20	for	_	Word	Word	_	21	R	21:R	_
+21	Eat	_	Word	Word	_	13	A	13:A	_
+22	the	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	Document	_	Word	Word	_	21	Terminal	21:Terminal	_
+24	,	_	Punctuation	Punctuation	_	21	U	21:U	_
+25	a	_	Word	Word	_	27	F	27:F	_
+26	rarely	_	Word	Word	_	27	T	27:T	_
+27	exhibited	_	Word	Word	_	28	E	28:E	_
+28	follow	_	Word	Word	_	21	E	21:E	_
+29	-	_	Punctuation	Punctuation	_	28	U	28:U	_
+30	up	_	Word	Word	_	28	Terminal	28:Terminal	_
+31	to	_	Word	Word	_	32	R	32:R	_
+32	Dont	_	Word	Word	_	28	E	28:E	_
+33	Look	_	Word	Word	_	32	Terminal	32:Terminal	_
+34	Back	_	Word	Word	_	32	Terminal	32:Terminal	_
+35	.	_	Punctuation	Punctuation	_	32	U	32:U	_
+

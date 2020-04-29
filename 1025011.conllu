@@ -1,0 +1,34 @@
+# format = ucca
+# sent_id = 1025011
+# text = Jackson raised his bid to $ 47.5 million and it was accepted because he could close the deal more quickly , having already completed due diligence of ATV Music .
+1	Jackson	_	Word	Word	_	4	A	4:A	_
+2	raised	_	Word	Word	_	4	D	4:D	_
+3	his	_	Word	Word	_	4	F	4:F	_
+4	bid	_	Word	Word	_	0	H	0:H	_
+5	to	_	Word	Word	_	6	R	6:R	_
+6	$	_	Word	Word	_	4	A	4:A	_
+7	47.5	_	Word	Word	_	6	Q	6:Q	_
+8	million	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	and	_	Word	Word	_	12	L	12:L	_
+10	it	_	Word	Word	_	12	A	12:A	_
+11	was	_	Word	Word	_	12	F	12:F	_
+12	accepted	_	Word	Word	_	4	H	4:H	_
+13	because	_	Word	Word	_	16	L	16:L	_
+14	he	_	Word	Word	_	16	A	16:A|25:A	_
+15	could	_	Word	Word	_	16	D	16:D	_
+16	close	_	Word	Word	_	4	H	4:H	_
+17	the	_	Word	Word	_	18	E	18:E	_
+18	deal	_	Word	Word	_	16	A	16:A	_
+19	more	_	Word	Word	_	20	E	20:E	_
+20	quickly	_	Word	Word	_	16	T	16:T	_
+21	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+22	having	_	Word	Word	_	25	F	25:F	_
+23	already	_	Word	Word	_	24	E	24:E	_
+24	completed	_	Word	Word	_	25	D	25:D	_
+25	due	_	Word	Word	_	4	H	4:H	_
+26	diligence	_	Word	Word	_	25	Terminal	25:Terminal	_
+27	of	_	Word	Word	_	28	R	28:R	_
+28	ATV	_	Word	Word	_	25	A	25:A	_
+29	Music	_	Word	Word	_	28	Terminal	28:Terminal	_
+30	.	_	Punctuation	Punctuation	_	28	U	28:U	_
+

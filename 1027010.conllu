@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 1027010
+# text = This was a record for most number one Hot 100 singles from any one album , including Thriller .
+1	This	_	Word	Word	_	4	A	4:A	_
+2	was	_	Word	Word	_	4	F	4:F	_
+3	a	_	Word	Word	_	4	E	4:E	_
+4	record	_	Word	Word	_	0	H	0:H	_
+5	for	_	Word	Word	_	11	R	11:R	_
+6	most	_	Word	Word	_	11	E	11:E	_
+7	number	_	Word	Word	_	11	E	11:E	_
+8	one	_	Word	Word	_	7	Q	7:Q	_
+9	Hot	_	Word	Word	_	7	A	7:A	_
+10	100	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	singles	_	Word	Word	_	4	A	4:A	_
+12	from	_	Word	Word	_	15	R	15:R	_
+13	any	_	Word	Word	_	15	Q	15:Q	_
+14	one	_	Word	Word	_	15	E	15:E	_
+15	album	_	Word	Word	_	11	E	11:E	_
+16	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+17	including	_	Word	Word	_	18	R	18:R	_
+18	Thriller	_	Word	Word	_	15	E	15:E	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

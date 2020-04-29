@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 223010
+# text = In addition , in the late 90s , Chan changed his Chinese name to Fong Si - lung , since his father 's original surname was Fong .
+1	In	_	Word	Word	_	26	L	26:L	_
+2	addition	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+4	in	_	Word	Word	_	7	R	7:R	_
+5	the	_	Word	Word	_	7	F	7:F	_
+6	late	_	Word	Word	_	7	E	7:E	_
+7	90s	_	Word	Word	_	10	T	10:T	_
+8	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+9	Chan	_	Word	Word	_	10	A	10:A	_
+10	changed	_	Word	Word	_	0	H	0:H	_
+11	his	_	Word	Word	_	13	F	13:F	_
+12	Chinese	_	Word	Word	_	13	E	13:E	_
+13	name	_	Word	Word	_	10	A	10:A	_
+14	to	_	Word	Word	_	15	R	15:R	_
+15	Fong	_	Word	Word	_	10	A	10:A	_
+16	Si	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	-	_	Punctuation	Punctuation	_	15	U	15:U	_
+18	lung	_	Word	Word	_	15	Terminal	15:Terminal	_
+19	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+20	since	_	Word	Word	_	26	L	26:L	_
+21	his	_	Word	Word	_	25	E	25:E	_
+22	father	_	Word	Word	_	21	A	21:A	_
+23	's	_	Word	Word	_	21	R	21:R	_
+24	original	_	Word	Word	_	25	E	25:E	_
+25	surname	_	Word	Word	_	26	A	26:A	_
+26	was	_	Word	Word	_	10	H	10:H	_
+27	Fong	_	Word	Word	_	26	A	26:A	_
+28	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+

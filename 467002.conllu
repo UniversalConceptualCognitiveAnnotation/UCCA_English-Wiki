@@ -1,0 +1,44 @@
+# format = ucca
+# sent_id = 467002
+# text = Johnson was first dubbed " Magic " as a 15 - year - old sophomore playing for Lansing 's Everett High School , when he recorded a triple - double of 36 points , 18 rebounds and 16 assists .
+1	Johnson	_	Word	Word	_	4	A	4:A	_
+2	was	_	Word	Word	_	4	F	4:F	_
+3	first	_	Word	Word	_	4	D	4:D	_
+4	dubbed	_	Word	Word	_	0	H	0:H	_
+5	"	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	Magic	_	Word	Word	_	4	A	4:A	_
+7	"	_	Punctuation	Punctuation	_	4	U	4:U	_
+8	as	_	Word	Word	_	16	L	16:L	_
+9	a	_	Word	Word	_	15	E	15:E	_
+10	15	_	Word	Word	_	12	Q	12:Q	_
+11	-	_	Punctuation	Punctuation	_	12	U	12:U	_
+12	year	_	Word	Word	_	14	T	14:T	_
+13	-	_	Punctuation	Punctuation	_	14	U	14:U	_
+14	old	_	Word	Word	_	15	E	15:E	_
+15	sophomore	_	Word	Word	_	16	A	16:A	_
+16	playing	_	Word	Word	_	4	H	4:H	_
+17	for	_	Word	Word	_	21	R	21:R	_
+18	Lansing	_	Word	Word	_	21	E	21:E	_
+19	's	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	Everett	_	Word	Word	_	18	Terminal	18:Terminal	_
+21	High	_	Word	Word	_	16	A	16:A	_
+22	School	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+24	when	_	Word	Word	_	26	L	26:L	_
+25	he	_	Word	Word	_	26	A	26:A|36:A|39:A	_
+26	recorded	_	Word	Word	_	4	H	4:H	_
+27	a	_	Word	Word	_	33	E	33:E	_
+28	triple	_	Word	Word	_	33	Q	33:Q	_
+29	-	_	Punctuation	Punctuation	_	28	U	28:U	_
+30	double	_	Word	Word	_	28	Terminal	28:Terminal	_
+31	of	_	Word	Word	_	33	R	33:R	_
+32	36	_	Word	Word	_	33	Q	33:Q	_
+33	points	_	Word	Word	_	26	A	26:A	_
+34	,	_	Punctuation	Punctuation	_	33	U	33:U	_
+35	18	_	Word	Word	_	36	Q	36:Q	_
+36	rebounds	_	Word	Word	_	33	C	33:C	_
+37	and	_	Word	Word	_	33	N	33:N	_
+38	16	_	Word	Word	_	39	Q	39:Q	_
+39	assists	_	Word	Word	_	33	C	33:C	_
+40	.	_	Punctuation	Punctuation	_	39	U	39:U	_
+

@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 654008
+# text = His mother taught him how to play the banjo , later buying him an acoustic guitar .
+1	His	_	Word	Word	_	2	A	2:A	_
+2	mother	_	Word	Word	_	3	A	3:A|12:A	_
+3	taught	_	Word	Word	_	0	H	0:H	_
+4	him	_	Word	Word	_	3	A	3:A|7:A	_
+5	how	_	Word	Word	_	7	D	7:D	_
+6	to	_	Word	Word	_	7	F	7:F	_
+7	play	_	Word	Word	_	3	A	3:A	_
+8	the	_	Word	Word	_	9	E	9:E	_
+9	banjo	_	Word	Word	_	7	A	7:A	_
+10	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+11	later	_	Word	Word	_	12	L	12:L	_
+12	buying	_	Word	Word	_	3	H	3:H	_
+13	him	_	Word	Word	_	12	A	12:A	_
+14	an	_	Word	Word	_	16	E	16:E	_
+15	acoustic	_	Word	Word	_	16	E	16:E	_
+16	guitar	_	Word	Word	_	12	A	12:A	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

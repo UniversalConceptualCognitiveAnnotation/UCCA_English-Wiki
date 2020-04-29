@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 138010
+# text = She clashed with director Joseph L . Mankiewicz during filming , which culminated with her spitting at him in disgust .
+1	She	_	Word	Word	_	2	A	2:A	_
+2	clashed	_	Word	Word	_	0	H	0:H	_
+3	with	_	Word	Word	_	5	R	5:R	_
+4	director	_	Word	Word	_	5	E	5:E	_
+5	Joseph	_	Word	Word	_	2	A	2:A	_
+6	L	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+8	Mankiewicz	_	Word	Word	_	5	Terminal	5:Terminal	_
+9	during	_	Word	Word	_	10	L	10:L	_
+10	filming	_	Word	Word	_	2	H	2:H	_
+11	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+12	which	_	Word	Word	_	13	R	13:R	_
+13	culminated	_	Word	Word	_	16	L	16:L	_
+14	with	_	Word	Word	_	16	R	16:R	_
+15	her	_	Word	Word	_	16	A	16:A	_
+16	spitting	_	Word	Word	_	2	H	2:H	_
+17	at	_	Word	Word	_	18	R	18:R	_
+18	him	_	Word	Word	_	16	A	16:A	_
+19	in	_	Word	Word	_	20	R	20:R	_
+20	disgust	_	Word	Word	_	16	D	16:D	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+

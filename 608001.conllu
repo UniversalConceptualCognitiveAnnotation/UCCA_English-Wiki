@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 608001
+# text = In 1988 , McCartney released Снова в СССР , released only in the Soviet Union , which contained eighteen covers ; recorded over the course of two days .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1988	_	Word	Word	_	5	T	5:T	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	McCartney	_	Word	Word	_	5	A	5:A	_
+5	released	_	Word	Word	_	0	H	0:H	_
+6	Снова	_	Word	Word	_	5	A	5:A	_
+7	в	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	СССР	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+10	released	_	Word	Word	_	6	E	6:E	_
+11	only	_	Word	Word	_	10	D	10:D	_
+12	in	_	Word	Word	_	14	R	14:R	_
+13	the	_	Word	Word	_	14	E	14:E	_
+14	Soviet	_	Word	Word	_	10	A	10:A	_
+15	Union	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+17	which	_	Word	Word	_	18	R	18:R	_
+18	contained	_	Word	Word	_	6	E	6:E	_
+19	eighteen	_	Word	Word	_	20	Q	20:Q	_
+20	covers	_	Word	Word	_	18	A	18:A	_
+21	;	_	Punctuation	Punctuation	_	6	U	6:U	_
+22	recorded	_	Word	Word	_	6	E	6:E	_
+23	over	_	Word	Word	_	25	R	25:R	_
+24	the	_	Word	Word	_	25	F	25:F	_
+25	course	_	Word	Word	_	28	R	28:R	_
+26	of	_	Word	Word	_	25	R	25:R	_
+27	two	_	Word	Word	_	28	Q	28:Q	_
+28	days	_	Word	Word	_	22	T	22:T	_
+29	.	_	Punctuation	Punctuation	_	28	U	28:U	_
+

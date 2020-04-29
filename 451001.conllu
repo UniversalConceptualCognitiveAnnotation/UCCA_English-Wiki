@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 451001
+# text = While reporting for CTV , he was the first Canadian journalist to arrive in Dallas after the assassination of President John F. Kennedy .
+1	While	_	Word	Word	_	7	L	7:L	_
+2	reporting	_	Word	Word	_	0	H	0:H	_
+3	for	_	Word	Word	_	4	R	4:R	_
+4	CTV	_	Word	Word	_	2	A	2:A	_
+5	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+6	he	_	Word	Word	_	7	A	7:A|2:A|13:A	_
+7	was	_	Word	Word	_	2	H	2:H	_
+8	the	_	Word	Word	_	11	E	11:E	_
+9	first	_	Word	Word	_	11	E	11:E	_
+10	Canadian	_	Word	Word	_	11	E	11:E	_
+11	journalist	_	Word	Word	_	7	A	7:A	_
+12	to	_	Word	Word	_	13	R	13:R	_
+13	arrive	_	Word	Word	_	11	E	11:E	_
+14	in	_	Word	Word	_	15	R	15:R	_
+15	Dallas	_	Word	Word	_	13	A	13:A	_
+16	after	_	Word	Word	_	18	L	18:L	_
+17	the	_	Word	Word	_	18	E	18:E	_
+18	assassination	_	Word	Word	_	2	H	2:H	_
+19	of	_	Word	Word	_	21	R	21:R	_
+20	President	_	Word	Word	_	21	E	21:E	_
+21	John	_	Word	Word	_	18	A	18:A	_
+22	F.	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	Kennedy	_	Word	Word	_	21	Terminal	21:Terminal	_
+24	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

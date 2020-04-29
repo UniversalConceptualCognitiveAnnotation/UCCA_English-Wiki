@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 565009
+# text = His first motion picture , Love Me Tender , was released on November 21 .
+1	His	_	Word	Word	_	3	E	3:E	_
+2	first	_	Word	Word	_	3	Q	3:Q	_
+3	motion	_	Word	Word	_	6	E	6:E	_
+4	picture	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+6	Love	_	Word	Word	_	11	A	11:A	_
+7	Me	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	Tender	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+10	was	_	Word	Word	_	11	F	11:F	_
+11	released	_	Word	Word	_	0	H	0:H	_
+12	on	_	Word	Word	_	13	R	13:R	_
+13	November	_	Word	Word	_	11	T	11:T	_
+14	21	_	Word	Word	_	13	C	13:C	_
+15	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

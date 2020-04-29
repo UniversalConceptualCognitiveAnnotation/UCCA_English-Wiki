@@ -1,0 +1,46 @@
+# format = ucca
+# sent_id = 728000
+# text = Jolie then starred opposite Brad Pitt in the 2005 action - comedy Mr. & Mrs. Smith , which tells the story of a bored married couple , John and Jane Smith , who find out that they are both secret assassins .
+1	Jolie	_	Word	Word	_	3	A	3:A	_
+2	then	_	Word	Word	_	3	L	3:L	_
+3	starred	_	Word	Word	_	0	H	0:H	_
+4	opposite	_	Word	Word	_	5	R	5:R	_
+5	Brad	_	Word	Word	_	3	A	3:A	_
+6	Pitt	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	in	_	Word	Word	_	13	R	13:R	_
+8	the	_	Word	Word	_	13	E	13:E	_
+9	2005	_	Word	Word	_	13	E	13:E	_
+10	action	_	Word	Word	_	13	E	13:E	_
+11	-	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	comedy	_	Word	Word	_	10	C	10:C	_
+13	Mr.	_	Word	Word	_	3	A	3:A	_
+14	&	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	Mrs.	_	Word	Word	_	13	Terminal	13:Terminal	_
+16	Smith	_	Word	Word	_	13	Terminal	13:Terminal	_
+17	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+18	which	_	Word	Word	_	19	R	19:R	_
+19	tells	_	Word	Word	_	13	E	13:E	_
+20	the	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	story	_	Word	Word	_	19	Terminal	19:Terminal	_
+22	of	_	Word	Word	_	28	R	28:R	_
+23	a	_	Word	Word	_	26	E	26:E	_
+24	bored	_	Word	Word	_	26	E	26:E	_
+25	married	_	Word	Word	_	26	E	26:E	_
+26	couple	_	Word	Word	_	0	S	0:S|24:A	_
+27	,	_	Punctuation	Punctuation	_	28	U	28:U	_
+28	John	_	Word	Word	_	19	A	19:A	_
+29	and	_	Word	Word	_	28	N	28:N	_
+30	Jane	_	Word	Word	_	28	C	28:C	_
+31	Smith	_	Word	Word	_	28	C	28:C	_
+32	,	_	Punctuation	Punctuation	_	28	U	28:U	_
+33	who	_	Word	Word	_	34	R	34:R	_
+34	find	_	Word	Word	_	28	E	28:E	_
+35	out	_	Word	Word	_	34	Terminal	34:Terminal	_
+36	that	_	Word	Word	_	41	R	41:R	_
+37	they	_	Word	Word	_	41	A	41:A	_
+38	are	_	Word	Word	_	41	F	41:F	_
+39	both	_	Word	Word	_	37	Q	37:Q	_
+40	secret	_	Word	Word	_	41	D	41:D	_
+41	assassins	_	Word	Word	_	34	A	34:A	_
+42	.	_	Punctuation	Punctuation	_	41	U	41:U	_
+

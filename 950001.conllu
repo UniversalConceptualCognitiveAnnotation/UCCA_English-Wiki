@@ -1,0 +1,48 @@
+# format = ucca
+# sent_id = 950001
+# text = The reinvented image included a symbol consisting of two back - to - back G ' s , which appears on a diamond - encrusted key she wears on a necklace and which became a motif in the promotion of The Sweet Escape .
+1	The	_	Word	Word	_	3	E	3:E	_
+2	reinvented	_	Word	Word	_	3	E	3:E	_
+3	image	_	Word	Word	_	4	A	4:A	_
+4	included	_	Word	Word	_	0	H	0:H	_
+5	a	_	Word	Word	_	6	E	6:E	_
+6	symbol	_	Word	Word	_	4	A	4:A	_
+7	consisting	_	Word	Word	_	6	E	6:E	_
+8	of	_	Word	Word	_	15	R	15:R	_
+9	two	_	Word	Word	_	15	Q	15:Q	_
+10	back	_	Word	Word	_	15	E	15:E	_
+11	-	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	to	_	Word	Word	_	10	Terminal	10:Terminal	_
+13	-	_	Punctuation	Punctuation	_	10	U	10:U	_
+14	back	_	Word	Word	_	10	Terminal	10:Terminal	_
+15	G	_	Word	Word	_	7	A	7:A	_
+16	'	_	Punctuation	Punctuation	_	15	U	15:U	_
+17	s	_	Word	Word	_	15	Terminal	15:Terminal	_
+18	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+19	which	_	Word	Word	_	20	R	20:R	_
+20	appears	_	Word	Word	_	6	E	6:E	_
+21	on	_	Word	Word	_	26	R	26:R	_
+22	a	_	Word	Word	_	26	E	26:E	_
+23	diamond	_	Word	Word	_	25	A	25:A	_
+24	-	_	Punctuation	Punctuation	_	25	U	25:U	_
+25	encrusted	_	Word	Word	_	26	E	26:E	_
+26	key	_	Word	Word	_	20	A	20:A	_
+27	she	_	Word	Word	_	28	A	28:A	_
+28	wears	_	Word	Word	_	26	E	26:E	_
+29	on	_	Word	Word	_	31	R	31:R	_
+30	a	_	Word	Word	_	31	E	31:E	_
+31	necklace	_	Word	Word	_	28	A	28:A	_
+32	and	_	Word	Word	_	36	L	36:L	_
+33	which	_	Word	Word	_	36	R	36:R	_
+34	became	_	Word	Word	_	36	D	36:D	_
+35	a	_	Word	Word	_	36	E	36:E	_
+36	motif	_	Word	Word	_	20	H	20:H	_
+37	in	_	Word	Word	_	39	L	39:L	_
+38	the	_	Word	Word	_	39	E	39:E	_
+39	promotion	_	Word	Word	_	20	H	20:H	_
+40	of	_	Word	Word	_	41	R	41:R	_
+41	The	_	Word	Word	_	39	A	39:A	_
+42	Sweet	_	Word	Word	_	41	Terminal	41:Terminal	_
+43	Escape	_	Word	Word	_	41	Terminal	41:Terminal	_
+44	.	_	Punctuation	Punctuation	_	41	U	41:U	_
+

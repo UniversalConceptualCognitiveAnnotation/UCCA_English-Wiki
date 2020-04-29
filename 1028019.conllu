@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 1028019
+# text = Shortly afterwards , he became the first Westerner to appear in a television ad in the Soviet Union .
+1	Shortly	_	Word	Word	_	2	E	2:E	_
+2	afterwards	_	Word	Word	_	5	L	5:L	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	he	_	Word	Word	_	5	A	5:A	_
+5	became	_	Word	Word	_	0	H	0:H	_
+6	the	_	Word	Word	_	8	E	8:E	_
+7	first	_	Word	Word	_	8	Q	8:Q	_
+8	Westerner	_	Word	Word	_	5	A	5:A	_
+9	to	_	Word	Word	_	10	R	10:R	_
+10	appear	_	Word	Word	_	8	E	8:E	_
+11	in	_	Word	Word	_	14	R	14:R	_
+12	a	_	Word	Word	_	14	E	14:E	_
+13	television	_	Word	Word	_	14	E	14:E	_
+14	ad	_	Word	Word	_	10	A	10:A	_
+15	in	_	Word	Word	_	17	R	17:R	_
+16	the	_	Word	Word	_	17	E	17:E	_
+17	Soviet	_	Word	Word	_	10	A	10:A	_
+18	Union	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+

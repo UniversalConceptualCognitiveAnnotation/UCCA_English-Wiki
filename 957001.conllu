@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 957001
+# text = He refused to allow her to join Olivier in Pride and Prejudice ( 1940 ) , and Greer Garson played the role Leigh had wanted for herself .
+1	He	_	Word	Word	_	4	A	4:A	_
+2	refused	_	Word	Word	_	4	D	4:D	_
+3	to	_	Word	Word	_	4	F	4:F	_
+4	allow	_	Word	Word	_	0	H	0:H	_
+5	her	_	Word	Word	_	4	A	4:A|7:A	_
+6	to	_	Word	Word	_	7	F	7:F	_
+7	join	_	Word	Word	_	4	A	4:A	_
+8	Olivier	_	Word	Word	_	7	A	7:A	_
+9	in	_	Word	Word	_	10	R	10:R	_
+10	Pride	_	Word	Word	_	7	A	7:A	_
+11	and	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	Prejudice	_	Word	Word	_	10	Terminal	10:Terminal	_
+13	(	_	Punctuation	Punctuation	_	10	U	10:U	_
+14	1940	_	Word	Word	_	10	E	10:E	_
+15	)	_	Punctuation	Punctuation	_	4	U	4:U	_
+16	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+17	and	_	Word	Word	_	20	L	20:L	_
+18	Greer	_	Word	Word	_	20	A	20:A	_
+19	Garson	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	played	_	Word	Word	_	4	H	4:H	_
+21	the	_	Word	Word	_	22	E	22:E	_
+22	role	_	Word	Word	_	20	A	20:A	_
+23	Leigh	_	Word	Word	_	25	A	25:A	_
+24	had	_	Word	Word	_	25	F	25:F	_
+25	wanted	_	Word	Word	_	22	E	22:E	_
+26	for	_	Word	Word	_	27	R	27:R	_
+27	herself	_	Word	Word	_	25	A	25:A	_
+28	.	_	Punctuation	Punctuation	_	27	U	27:U	_
+

@@ -1,0 +1,35 @@
+# format = ucca
+# sent_id = 455015
+# text = The program alleged that the federal government was covertly supporting the Khmer Rouge 's return to power in the Asian nation , a charge that the Bush administration initially denied .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	program	_	Word	Word	_	3	A	3:A	_
+3	alleged	_	Word	Word	_	0	H	0:H	_
+4	that	_	Word	Word	_	10	R	10:R	_
+5	the	_	Word	Word	_	7	E	7:E	_
+6	federal	_	Word	Word	_	7	E	7:E	_
+7	government	_	Word	Word	_	10	A	10:A	_
+8	was	_	Word	Word	_	10	F	10:F	_
+9	covertly	_	Word	Word	_	10	D	10:D	_
+10	supporting	_	Word	Word	_	3	A	3:A	_
+11	the	_	Word	Word	_	12	E	12:E	_
+12	Khmer	_	Word	Word	_	17	A	17:A	_
+13	Rouge	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	's	_	Word	Word	_	12	R	12:R	_
+15	return	_	Word	Word	_	17	E	17:E	_
+16	to	_	Word	Word	_	17	F	17:F	_
+17	power	_	Word	Word	_	10	A	10:A	_
+18	in	_	Word	Word	_	21	R	21:R	_
+19	the	_	Word	Word	_	21	E	21:E	_
+20	Asian	_	Word	Word	_	21	E	21:E	_
+21	nation	_	Word	Word	_	17	A	17:A	_
+22	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+23	a	_	Word	Word	_	24	E	24:E	_
+24	charge	_	Word	Word	_	30	A	30:A	_
+25	that	_	Word	Word	_	30	F	30:F	_
+26	the	_	Word	Word	_	28	E	28:E	_
+27	Bush	_	Word	Word	_	28	E	28:E	_
+28	administration	_	Word	Word	_	30	A	30:A	_
+29	initially	_	Word	Word	_	30	D	30:D	_
+30	denied	_	Word	Word	_	3	H	3:H	_
+31	.	_	Punctuation	Punctuation	_	30	U	30:U	_
+

@@ -1,0 +1,49 @@
+# format = ucca
+# sent_id = 537005
+# text = The Warner surname was perhaps originally " Wonsal " or " Wonskolaser " Upon arriving in New York City , Benjamin introduced himself as " Benjamin Warner " , and the surname " Warner " remained with him for the rest of his life .
+1	The	_	Word	Word	_	2	F	2:F	_
+2	Warner	_	Word	Word	_	4	A	4:A	_
+3	surname	_	Word	Word	_	2	E	2:E	_
+4	was	_	Word	Word	_	0	H	0:H	_
+5	perhaps	_	Word	Word	_	4	G	4:G	_
+6	originally	_	Word	Word	_	4	D	4:D	_
+7	"	_	Punctuation	Punctuation	_	4	U	4:U	_
+8	Wonsal	_	Word	Word	_	4	A	4:A	_
+9	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+10	or	_	Word	Word	_	8	N	8:N	_
+11	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+12	Wonskolaser	_	Word	Word	_	8	C	8:C	_
+13	"	_	Punctuation	Punctuation	_	4	U	4:U	_
+14	Upon	_	Word	Word	_	15	L	15:L	_
+15	arriving	_	Word	Word	_	4	H	4:H	_
+16	in	_	Word	Word	_	17	R	17:R	_
+17	New	_	Word	Word	_	15	A	15:A	_
+18	York	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	City	_	Word	Word	_	17	Terminal	17:Terminal	_
+20	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+21	Benjamin	_	Word	Word	_	22	A	22:A|15:A|24:A	_
+22	introduced	_	Word	Word	_	4	H	4:H	_
+23	himself	_	Word	Word	_	22	D	22:D	_
+24	as	_	Word	Word	_	22	A	22:A	_
+25	"	_	Punctuation	Punctuation	_	24	U	24:U	_
+26	Benjamin	_	Word	Word	_	24	A	24:A	_
+27	Warner	_	Word	Word	_	26	Terminal	26:Terminal	_
+28	"	_	Punctuation	Punctuation	_	4	U	4:U	_
+29	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+30	and	_	Word	Word	_	36	L	36:L	_
+31	the	_	Word	Word	_	32	F	32:F	_
+32	surname	_	Word	Word	_	34	E	34:E	_
+33	"	_	Punctuation	Punctuation	_	34	U	34:U	_
+34	Warner	_	Word	Word	_	36	A	36:A	_
+35	"	_	Punctuation	Punctuation	_	36	U	36:U	_
+36	remained	_	Word	Word	_	4	H	4:H	_
+37	with	_	Word	Word	_	38	R	38:R	_
+38	him	_	Word	Word	_	36	A	36:A	_
+39	for	_	Word	Word	_	44	R	44:R	_
+40	the	_	Word	Word	_	41	F	41:F	_
+41	rest	_	Word	Word	_	44	Q	44:Q	_
+42	of	_	Word	Word	_	44	R	44:R	_
+43	his	_	Word	Word	_	44	E	44:E	_
+44	life	_	Word	Word	_	36	T	36:T	_
+45	.	_	Punctuation	Punctuation	_	44	U	44:U	_
+

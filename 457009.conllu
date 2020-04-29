@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 457009
+# text = Some viewers of the documentary mailed bus fares to Jennings , telling him to return to Canada .
+1	Some	_	Word	Word	_	2	E	2:E	_
+2	viewers	_	Word	Word	_	0	C	0:C|12:A	_
+3	of	_	Word	Word	_	5	R	5:R	_
+4	the	_	Word	Word	_	5	E	5:E	_
+5	documentary	_	Word	Word	_	2	E	2:E	_
+6	mailed	_	Word	Word	_	0	H	0:H	_
+7	bus	_	Word	Word	_	8	E	8:E	_
+8	fares	_	Word	Word	_	6	A	6:A	_
+9	to	_	Word	Word	_	10	R	10:R	_
+10	Jennings	_	Word	Word	_	6	A	6:A	_
+11	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+12	telling	_	Word	Word	_	6	H	6:H	_
+13	him	_	Word	Word	_	12	A	12:A|15:A	_
+14	to	_	Word	Word	_	15	F	15:F	_
+15	return	_	Word	Word	_	12	A	12:A	_
+16	to	_	Word	Word	_	17	R	17:R	_
+17	Canada	_	Word	Word	_	15	A	15:A	_
+18	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+

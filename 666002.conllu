@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 666002
+# text = She felt Mottola was trying to separate her from Afanasieff , in hopes of keeping their relationship permanently strained .
+1	She	_	Word	Word	_	2	A	2:A	_
+2	felt	_	Word	Word	_	0	H	0:H	_
+3	Mottola	_	Word	Word	_	7	A	7:A|13:A	_
+4	was	_	Word	Word	_	7	F	7:F	_
+5	trying	_	Word	Word	_	7	D	7:D	_
+6	to	_	Word	Word	_	7	F	7:F	_
+7	separate	_	Word	Word	_	2	A	2:A	_
+8	her	_	Word	Word	_	7	A	7:A	_
+9	from	_	Word	Word	_	10	R	10:R	_
+10	Afanasieff	_	Word	Word	_	7	A	7:A	_
+11	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+12	in	_	Word	Word	_	13	R	13:R	_
+13	hopes	_	Word	Word	_	2	H	2:H	_
+14	of	_	Word	Word	_	19	R	19:R	_
+15	keeping	_	Word	Word	_	19	D	19:D	_
+16	their	_	Word	Word	_	17	E	17:E	_
+17	relationship	_	Word	Word	_	19	A	19:A	_
+18	permanently	_	Word	Word	_	19	D	19:D	_
+19	strained	_	Word	Word	_	13	A	13:A	_
+20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

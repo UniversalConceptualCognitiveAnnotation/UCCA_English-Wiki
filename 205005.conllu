@@ -1,0 +1,48 @@
+# format = ucca
+# sent_id = 205005
+# text = His most notable films include Midnight Cowboy , Little Big Man , Straw Dogs , Papillon , Lenny , Marathon Man , All the President 's Men , Kramer vs . Kramer , Tootsie , Rain Man , Hook and Wag the Dog .
+1	His	_	Word	Word	_	4	A	4:A	_
+2	most	_	Word	Word	_	3	E	3:E	_
+3	notable	_	Word	Word	_	4	E	4:E	_
+4	films	_	Word	Word	_	5	A	5:A	_
+5	include	_	Word	Word	_	0	H	0:H	_
+6	Midnight	_	Word	Word	_	5	A	5:A	_
+7	Cowboy	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+9	Little	_	Word	Word	_	6	C	6:C	_
+10	Big	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	Man	_	Word	Word	_	9	Terminal	9:Terminal	_
+12	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+13	Straw	_	Word	Word	_	6	C	6:C	_
+14	Dogs	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+16	Papillon	_	Word	Word	_	6	C	6:C	_
+17	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+18	Lenny	_	Word	Word	_	6	C	6:C	_
+19	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+20	Marathon	_	Word	Word	_	6	C	6:C	_
+21	Man	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+23	All	_	Word	Word	_	6	C	6:C	_
+24	the	_	Word	Word	_	23	Terminal	23:Terminal	_
+25	President	_	Word	Word	_	23	Terminal	23:Terminal	_
+26	's	_	Word	Word	_	23	Terminal	23:Terminal	_
+27	Men	_	Word	Word	_	23	Terminal	23:Terminal	_
+28	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+29	Kramer	_	Word	Word	_	6	C	6:C	_
+30	vs	_	Word	Word	_	29	Terminal	29:Terminal	_
+31	.	_	Punctuation	Punctuation	_	29	U	29:U	_
+32	Kramer	_	Word	Word	_	29	Terminal	29:Terminal	_
+33	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+34	Tootsie	_	Word	Word	_	6	C	6:C	_
+35	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+36	Rain	_	Word	Word	_	6	C	6:C	_
+37	Man	_	Word	Word	_	36	Terminal	36:Terminal	_
+38	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+39	Hook	_	Word	Word	_	6	C	6:C	_
+40	and	_	Word	Word	_	6	N	6:N	_
+41	Wag	_	Word	Word	_	6	C	6:C	_
+42	the	_	Word	Word	_	41	Terminal	41:Terminal	_
+43	Dog	_	Word	Word	_	41	Terminal	41:Terminal	_
+44	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+

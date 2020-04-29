@@ -1,0 +1,42 @@
+# format = ucca
+# sent_id = 600011
+# text = McCartney wrote his first song , " I Lost My Little Girl " , on the Zenith , and composed another early tune that would become " When I 'm Sixty - Four " on the piano .
+1	McCartney	_	Word	Word	_	2	A	2:A|20:A	_
+2	wrote	_	Word	Word	_	0	H	0:H	_
+3	his	_	Word	Word	_	4	A	4:A	_
+4	first	_	Word	Word	_	5	E	5:E	_
+5	song	_	Word	Word	_	8	E	8:E	_
+6	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+8	I	_	Word	Word	_	2	A	2:A	_
+9	Lost	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	My	_	Word	Word	_	8	Terminal	8:Terminal	_
+11	Little	_	Word	Word	_	8	Terminal	8:Terminal	_
+12	Girl	_	Word	Word	_	8	Terminal	8:Terminal	_
+13	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+14	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+15	on	_	Word	Word	_	17	R	17:R	_
+16	the	_	Word	Word	_	17	E	17:E	_
+17	Zenith	_	Word	Word	_	2	A	2:A	_
+18	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+19	and	_	Word	Word	_	20	L	20:L	_
+20	composed	_	Word	Word	_	2	H	2:H	_
+21	another	_	Word	Word	_	23	E	23:E	_
+22	early	_	Word	Word	_	23	E	23:E	_
+23	tune	_	Word	Word	_	20	A	20:A	_
+24	that	_	Word	Word	_	26	R	26:R	_
+25	would	_	Word	Word	_	26	D	26:D	_
+26	become	_	Word	Word	_	23	E	23:E	_
+27	"	_	Punctuation	Punctuation	_	26	U	26:U	_
+28	When	_	Word	Word	_	26	A	26:A	_
+29	I	_	Word	Word	_	28	Terminal	28:Terminal	_
+30	'm	_	Word	Word	_	28	Terminal	28:Terminal	_
+31	Sixty	_	Word	Word	_	28	Terminal	28:Terminal	_
+32	-	_	Punctuation	Punctuation	_	28	U	28:U	_
+33	Four	_	Word	Word	_	28	Terminal	28:Terminal	_
+34	"	_	Punctuation	Punctuation	_	20	U	20:U	_
+35	on	_	Word	Word	_	37	R	37:R	_
+36	the	_	Word	Word	_	37	E	37:E	_
+37	piano	_	Word	Word	_	20	A	20:A	_
+38	.	_	Punctuation	Punctuation	_	37	U	37:U	_
+

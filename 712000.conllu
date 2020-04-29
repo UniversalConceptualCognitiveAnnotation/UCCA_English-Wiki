@@ -1,0 +1,49 @@
+# format = ucca
+# sent_id = 712000
+# text = Dylan earned yet another distinction in a 2007 study of US legal opinions and briefs that found his lyrics were quoted by judges and lawyers more than those of any other songwriter , 186 times versus 74 by The Beatles , who were second .
+1	Dylan	_	Word	Word	_	5	A	5:A	_
+2	earned	_	Word	Word	_	5	D	5:D	_
+3	yet	_	Word	Word	_	4	E	4:E	_
+4	another	_	Word	Word	_	5	D	5:D	_
+5	distinction	_	Word	Word	_	0	H	0:H	_
+6	in	_	Word	Word	_	9	R	9:R	_
+7	a	_	Word	Word	_	9	E	9:E	_
+8	2007	_	Word	Word	_	9	E	9:E	_
+9	study	_	Word	Word	_	5	A	5:A	_
+10	of	_	Word	Word	_	13	R	13:R	_
+11	US	_	Word	Word	_	13	E	13:E	_
+12	legal	_	Word	Word	_	13	E	13:E	_
+13	opinions	_	Word	Word	_	9	E	9:E	_
+14	and	_	Word	Word	_	13	N	13:N	_
+15	briefs	_	Word	Word	_	13	C	13:C	_
+16	that	_	Word	Word	_	17	R	17:R	_
+17	found	_	Word	Word	_	9	E	9:E	_
+18	his	_	Word	Word	_	19	E	19:E	_
+19	lyrics	_	Word	Word	_	0	C	0:C|18:A|38:A	_
+20	were	_	Word	Word	_	21	F	21:F	_
+21	quoted	_	Word	Word	_	17	A	17:A	_
+22	by	_	Word	Word	_	23	R	23:R|25:R	_
+23	judges	_	Word	Word	_	21	A	21:A	_
+24	and	_	Word	Word	_	25	L	25:L	_
+25	lawyers	_	Word	Word	_	23	H	23:H	_
+26	more	_	Word	Word	_	28	L	28:L	_
+27	than	_	Word	Word	_	26	Terminal	26:Terminal	_
+28	those	_	Word	Word	_	21	H	21:H	_
+29	of	_	Word	Word	_	32	R	32:R	_
+30	any	_	Word	Word	_	32	Q	32:Q	_
+31	other	_	Word	Word	_	32	D	32:D	_
+32	songwriter	_	Word	Word	_	28	E	28:E	_
+33	,	_	Punctuation	Punctuation	_	21	U	21:U	_
+34	186	_	Word	Word	_	35	Q	35:Q	_
+35	times	_	Word	Word	_	0	C	0:C|37:C	_
+36	versus	_	Word	Word	_	38	L	38:L	_
+37	74	_	Word	Word	_	38	D	38:D	_
+38	by	_	Word	Word	_	21	H	21:H	_
+39	The	_	Word	Word	_	38	A	38:A	_
+40	Beatles	_	Word	Word	_	39	Terminal	39:Terminal	_
+41	,	_	Punctuation	Punctuation	_	39	U	39:U	_
+42	who	_	Word	Word	_	44	R	44:R	_
+43	were	_	Word	Word	_	44	F	44:F	_
+44	second	_	Word	Word	_	39	E	39:E	_
+45	.	_	Punctuation	Punctuation	_	44	U	44:U	_
+

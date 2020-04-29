@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 524014
+# text = Little Nellie Kelly was purchased from George M. Cohan as a vehicle for her to display both her audience appeal and her physical appearance .
+1	Little	_	Word	Word	_	5	A	5:A	_
+2	Nellie	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	Kelly	_	Word	Word	_	1	Terminal	1:Terminal	_
+4	was	_	Word	Word	_	5	F	5:F	_
+5	purchased	_	Word	Word	_	0	H	0:H	_
+6	from	_	Word	Word	_	7	R	7:R	_
+7	George	_	Word	Word	_	5	A	5:A	_
+8	M.	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	Cohan	_	Word	Word	_	7	Terminal	7:Terminal	_
+10	as	_	Word	Word	_	12	R	12:R	_
+11	a	_	Word	Word	_	12	F	12:F	_
+12	vehicle	_	Word	Word	_	5	A	5:A	_
+13	for	_	Word	Word	_	16	R	16:R	_
+14	her	_	Word	Word	_	16	A	16:A	_
+15	to	_	Word	Word	_	16	F	16:F	_
+16	display	_	Word	Word	_	12	E	12:E	_
+17	both	_	Word	Word	_	24	L	24:L	_
+18	her	_	Word	Word	_	20	A	20:A	_
+19	audience	_	Word	Word	_	20	A	20:A	_
+20	appeal	_	Word	Word	_	16	A	16:A	_
+21	and	_	Word	Word	_	24	L	24:L	_
+22	her	_	Word	Word	_	24	A	24:A	_
+23	physical	_	Word	Word	_	24	A	24:A	_
+24	appearance	_	Word	Word	_	20	H	20:H	_
+25	.	_	Punctuation	Punctuation	_	24	U	24:U	_
+

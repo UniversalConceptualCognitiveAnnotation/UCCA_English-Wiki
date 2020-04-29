@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 698004
+# text = On November 22 , 1965 , Dylan secretly married 25 - year - old former model Sara Lownds .
+1	On	_	Word	Word	_	2	R	2:R	_
+2	November	_	Word	Word	_	9	T	9:T	_
+3	22	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	1965	_	Word	Word	_	2	C	2:C	_
+6	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+7	Dylan	_	Word	Word	_	9	A	9:A	_
+8	secretly	_	Word	Word	_	9	D	9:D	_
+9	married	_	Word	Word	_	0	H	0:H	_
+10	25	_	Word	Word	_	12	Q	12:Q	_
+11	-	_	Punctuation	Punctuation	_	12	U	12:U	_
+12	year	_	Word	Word	_	14	T	14:T	_
+13	-	_	Punctuation	Punctuation	_	14	U	14:U	_
+14	old	_	Word	Word	_	17	E	17:E	_
+15	former	_	Word	Word	_	16	D	16:D	_
+16	model	_	Word	Word	_	17	E	17:E	_
+17	Sara	_	Word	Word	_	9	A	9:A	_
+18	Lownds	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+

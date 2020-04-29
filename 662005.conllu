@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 662005
+# text = On August 31 , Music Box was released around the world , debuting at number - one on the Billboard 200 .
+1	On	_	Word	Word	_	2	R	2:R	_
+2	August	_	Word	Word	_	8	T	8:T	_
+3	31	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+5	Music	_	Word	Word	_	8	A	8:A|13:A	_
+6	Box	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	was	_	Word	Word	_	8	F	8:F	_
+8	released	_	Word	Word	_	0	H	0:H	_
+9	around	_	Word	Word	_	11	R	11:R	_
+10	the	_	Word	Word	_	11	F	11:F	_
+11	world	_	Word	Word	_	8	A	8:A	_
+12	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+13	debuting	_	Word	Word	_	8	H	8:H	_
+14	at	_	Word	Word	_	17	R	17:R	_
+15	number	_	Word	Word	_	17	E	17:E	_
+16	-	_	Punctuation	Punctuation	_	17	U	17:U	_
+17	one	_	Word	Word	_	13	A	13:A	_
+18	on	_	Word	Word	_	21	R	21:R	_
+19	the	_	Word	Word	_	21	F	21:F	_
+20	Billboard	_	Word	Word	_	21	E	21:E	_
+21	200	_	Word	Word	_	13	A	13:A	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

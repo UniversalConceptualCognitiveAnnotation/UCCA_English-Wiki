@@ -1,0 +1,55 @@
+# format = ucca
+# sent_id = 106005
+# text = The movie was not well received by critics ; Roger Ebert noted that " Angelina Jolie [ ... ] finds a certain warmth in a kind of role that is usually hard and aggressive ; she seems too nice to be Blossom 's girlfriend , and maybe she is . "
+1	The	_	Word	Word	_	2	E	2:E	_
+2	movie	_	Word	Word	_	6	A	6:A	_
+3	was	_	Word	Word	_	6	F	6:F	_
+4	not	_	Word	Word	_	6	D	6:D	_
+5	well	_	Word	Word	_	6	D	6:D	_
+6	received	_	Word	Word	_	0	H	0:H	_
+7	by	_	Word	Word	_	8	R	8:R	_
+8	critics	_	Word	Word	_	6	A	6:A	_
+9	;	_	Punctuation	Punctuation	_	6	U	6:U	_
+10	Roger	_	Word	Word	_	12	A	12:A	_
+11	Ebert	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	noted	_	Word	Word	_	6	H	6:H	_
+13	that	_	Word	Word	_	20	R	20:R	_
+14	"	_	Punctuation	Punctuation	_	20	U	20:U	_
+15	Angelina	_	Word	Word	_	20	A	20:A	_
+16	Jolie	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	[	_	Punctuation	Punctuation	_	20	U	20:U	_
+18	...	_	Punctuation	Punctuation	_	20	U	20:U	_
+19	]	_	Punctuation	Punctuation	_	20	U	20:U	_
+20	finds	_	Word	Word	_	12	A	12:A	_
+21	a	_	Word	Word	_	23	E	23:E	_
+22	certain	_	Word	Word	_	23	E	23:E	_
+23	warmth	_	Word	Word	_	20	A	20:A	_
+24	in	_	Word	Word	_	28	R	28:R	_
+25	a	_	Word	Word	_	28	E	28:E	_
+26	kind	_	Word	Word	_	28	E	28:E	_
+27	of	_	Word	Word	_	28	R	28:R	_
+28	role	_	Word	Word	_	20	A	20:A	_
+29	that	_	Word	Word	_	32	R	32:R|34:R	_
+30	is	_	Word	Word	_	32	F	32:F	_
+31	usually	_	Word	Word	_	32	D	32:D|34:D	_
+32	hard	_	Word	Word	_	28	E	28:E	_
+33	and	_	Word	Word	_	34	L	34:L	_
+34	aggressive	_	Word	Word	_	32	H	32:H	_
+35	;	_	Punctuation	Punctuation	_	20	U	20:U	_
+36	she	_	Word	Word	_	39	A	39:A|44:A	_
+37	seems	_	Word	Word	_	39	G	39:G	_
+38	too	_	Word	Word	_	39	D	39:D|48:D	_
+39	nice	_	Word	Word	_	20	H	20:H	_
+40	to	_	Word	Word	_	44	L	44:L	_
+41	be	_	Word	Word	_	44	F	44:F	_
+42	Blossom	_	Word	Word	_	44	A	44:A	_
+43	's	_	Word	Word	_	42	R	42:R	_
+44	girlfriend	_	Word	Word	_	20	H	20:H	_
+45	,	_	Punctuation	Punctuation	_	20	U	20:U	_
+46	and	_	Word	Word	_	48	L	48:L	_
+47	maybe	_	Word	Word	_	48	D	48:D	_
+48	she	_	Word	Word	_	20	H	20:H	_
+49	is	_	Word	Word	_	48	F	48:F	_
+50	.	_	Punctuation	Punctuation	_	48	U	48:U	_
+51	"	_	Punctuation	Punctuation	_	48	U	48:U	_
+

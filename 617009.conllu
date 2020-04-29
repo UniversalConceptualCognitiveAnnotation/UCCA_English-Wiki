@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 617009
+# text = McCartney is one of the UK 's wealthiest people , with an estimated fortune of £ 475 million in 2010 .
+1	McCartney	_	Word	Word	_	2	A	2:A|11:A	_
+2	is	_	Word	Word	_	0	H	0:H	_
+3	one	_	Word	Word	_	9	Q	9:Q	_
+4	of	_	Word	Word	_	9	R	9:R	_
+5	the	_	Word	Word	_	6	E	6:E	_
+6	UK	_	Word	Word	_	9	E	9:E	_
+7	's	_	Word	Word	_	6	R	6:R	_
+8	wealthiest	_	Word	Word	_	9	E	9:E	_
+9	people	_	Word	Word	_	2	A	2:A	_
+10	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+11	with	_	Word	Word	_	2	H	2:H	_
+12	an	_	Word	Word	_	14	E	14:E	_
+13	estimated	_	Word	Word	_	14	E	14:E	_
+14	fortune	_	Word	Word	_	11	A	11:A	_
+15	of	_	Word	Word	_	16	R	16:R	_
+16	£	_	Word	Word	_	14	E	14:E	_
+17	475	_	Word	Word	_	16	Q	16:Q	_
+18	million	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	in	_	Word	Word	_	20	R	20:R	_
+20	2010	_	Word	Word	_	11	T	11:T	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+

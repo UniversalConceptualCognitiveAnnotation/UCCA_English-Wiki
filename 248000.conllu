@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 248000
+# text = Hawke pursued a number of projects away from acting throughout the early 2000s .
+1	Hawke	_	Word	Word	_	2	A	2:A|9:A	_
+2	pursued	_	Word	Word	_	0	H	0:H	_
+3	a	_	Word	Word	_	4	F	4:F	_
+4	number	_	Word	Word	_	6	Q	6:Q	_
+5	of	_	Word	Word	_	6	R	6:R	_
+6	projects	_	Word	Word	_	2	A	2:A	_
+7	away	_	Word	Word	_	9	L	9:L	_
+8	from	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	acting	_	Word	Word	_	2	H	2:H	_
+10	throughout	_	Word	Word	_	13	R	13:R	_
+11	the	_	Word	Word	_	13	F	13:F	_
+12	early	_	Word	Word	_	13	E	13:E	_
+13	2000s	_	Word	Word	_	0	C	0:C|9:T	_
+14	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

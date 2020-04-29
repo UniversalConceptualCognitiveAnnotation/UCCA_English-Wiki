@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 655004
+# text = Martin obliged , often using double - tracking and other techniques .
+1	Martin	_	Word	Word	_	2	A	2:A|5:A	_
+2	obliged	_	Word	Word	_	0	H	0:H	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	often	_	Word	Word	_	5	T	5:T	_
+5	using	_	Word	Word	_	2	H	2:H	_
+6	double	_	Word	Word	_	8	E	8:E	_
+7	-	_	Punctuation	Punctuation	_	8	U	8:U	_
+8	tracking	_	Word	Word	_	5	A	5:A	_
+9	and	_	Word	Word	_	8	N	8:N	_
+10	other	_	Word	Word	_	11	E	11:E	_
+11	techniques	_	Word	Word	_	8	C	8:C	_
+12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+

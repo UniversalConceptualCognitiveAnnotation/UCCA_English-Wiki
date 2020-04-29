@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 204007
+# text = Sorkin continued working on The West Wing amidst his drug abuse .
+1	Sorkin	_	Word	Word	_	3	A	3:A	_
+2	continued	_	Word	Word	_	3	D	3:D	_
+3	working	_	Word	Word	_	0	H	0:H	_
+4	on	_	Word	Word	_	5	R	5:R	_
+5	The	_	Word	Word	_	3	A	3:A	_
+6	West	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	Wing	_	Word	Word	_	5	Terminal	5:Terminal	_
+8	amidst	_	Word	Word	_	11	L	11:L	_
+9	his	_	Word	Word	_	11	A	11:A	_
+10	drug	_	Word	Word	_	11	A	11:A	_
+11	abuse	_	Word	Word	_	3	H	3:H	_
+12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+

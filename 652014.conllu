@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 652014
+# text = The ACLU , representing Wiener , won a favourable decision in their suit against the FBI in the Ninth Circuit in 1991 .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	ACLU	_	Word	Word	_	7	A	7:A	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	representing	_	Word	Word	_	2	E	2:E	_
+5	Wiener	_	Word	Word	_	4	A	4:A	_
+6	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+7	won	_	Word	Word	_	0	H	0:H	_
+8	a	_	Word	Word	_	10	E	10:E	_
+9	favourable	_	Word	Word	_	10	E	10:E	_
+10	decision	_	Word	Word	_	7	A	7:A	_
+11	in	_	Word	Word	_	13	R	13:R	_
+12	their	_	Word	Word	_	13	A	13:A	_
+13	suit	_	Word	Word	_	7	A	7:A	_
+14	against	_	Word	Word	_	16	R	16:R	_
+15	the	_	Word	Word	_	16	E	16:E	_
+16	FBI	_	Word	Word	_	13	A	13:A	_
+17	in	_	Word	Word	_	19	R	19:R	_
+18	the	_	Word	Word	_	19	E	19:E	_
+19	Ninth	_	Word	Word	_	7	A	7:A	_
+20	Circuit	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	in	_	Word	Word	_	22	R	22:R	_
+22	1991	_	Word	Word	_	7	T	7:T	_
+23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+

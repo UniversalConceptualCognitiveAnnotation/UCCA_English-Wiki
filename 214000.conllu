@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 214000
+# text = Until the age of eight , Dunst lived in Brick Township , New Jersey , where she attended Ranney School .
+1	Until	_	Word	Word	_	8	L	8:L	_
+2	the	_	Word	Word	_	3	F	3:F	_
+3	age	_	Word	Word	_	0	H	0:H	_
+4	of	_	Word	Word	_	5	R	5:R	_
+5	eight	_	Word	Word	_	3	D	3:D	_
+6	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+7	Dunst	_	Word	Word	_	8	A	8:A|3:A	_
+8	lived	_	Word	Word	_	3	H	3:H	_
+9	in	_	Word	Word	_	10	R	10:R	_
+10	Brick	_	Word	Word	_	8	A	8:A	_
+11	Township	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+13	New	_	Word	Word	_	10	C	10:C	_
+14	Jersey	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+16	where	_	Word	Word	_	18	R	18:R	_
+17	she	_	Word	Word	_	18	A	18:A	_
+18	attended	_	Word	Word	_	10	E	10:E	_
+19	Ranney	_	Word	Word	_	20	E	20:E	_
+20	School	_	Word	Word	_	18	A	18:A	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+

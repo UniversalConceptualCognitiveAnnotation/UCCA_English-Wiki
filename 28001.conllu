@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 28001
+# text = Pitt 's onscreen career began in 1987 , with uncredited parts in the films No Way Out , No Man 's Land and Less Than Zero .
+1	Pitt	_	Word	Word	_	4	A	4:A	_
+2	's	_	Word	Word	_	1	R	1:R	_
+3	onscreen	_	Word	Word	_	4	A	4:A	_
+4	career	_	Word	Word	_	0	H	0:H	_
+5	began	_	Word	Word	_	4	D	4:D	_
+6	in	_	Word	Word	_	7	R	7:R	_
+7	1987	_	Word	Word	_	4	T	4:T	_
+8	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+9	with	_	Word	Word	_	11	R	11:R	_
+10	uncredited	_	Word	Word	_	11	E	11:E	_
+11	parts	_	Word	Word	_	4	A	4:A	_
+12	in	_	Word	Word	_	15	R	15:R	_
+13	the	_	Word	Word	_	14	E	14:E	_
+14	films	_	Word	Word	_	15	E	15:E	_
+15	No	_	Word	Word	_	11	E	11:E	_
+16	Way	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	Out	_	Word	Word	_	15	Terminal	15:Terminal	_
+18	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+19	No	_	Word	Word	_	15	C	15:C	_
+20	Man	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	's	_	Word	Word	_	19	Terminal	19:Terminal	_
+22	Land	_	Word	Word	_	19	Terminal	19:Terminal	_
+23	and	_	Word	Word	_	15	N	15:N	_
+24	Less	_	Word	Word	_	15	C	15:C	_
+25	Than	_	Word	Word	_	24	Terminal	24:Terminal	_
+26	Zero	_	Word	Word	_	24	Terminal	24:Terminal	_
+27	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

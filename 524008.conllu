@@ -1,0 +1,47 @@
+# format = ucca
+# sent_id = 524008
+# text = She and Rooney were sent on a cross - country promotional tour culminating in the August 17 New York City premiere at the Capitol Theater , which included a five - show - a - day appearance schedule for the two stars .
+1	She	_	Word	Word	_	5	A	5:A	_
+2	and	_	Word	Word	_	1	N	1:N	_
+3	Rooney	_	Word	Word	_	1	C	1:C	_
+4	were	_	Word	Word	_	5	F	5:F	_
+5	sent	_	Word	Word	_	0	H	0:H	_
+6	on	_	Word	Word	_	12	R	12:R	_
+7	a	_	Word	Word	_	10	E	10:E	_
+8	cross	_	Word	Word	_	10	E	10:E	_
+9	-	_	Punctuation	Punctuation	_	10	U	10:U	_
+10	country	_	Word	Word	_	12	A	12:A	_
+11	promotional	_	Word	Word	_	12	A	12:A	_
+12	tour	_	Word	Word	_	5	A	5:A	_
+13	culminating	_	Word	Word	_	12	H	12:H	_
+14	in	_	Word	Word	_	21	R	21:R	_
+15	the	_	Word	Word	_	16	F	16:F	_
+16	August	_	Word	Word	_	21	T	21:T	_
+17	17	_	Word	Word	_	16	C	16:C	_
+18	New	_	Word	Word	_	21	A	21:A	_
+19	York	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	City	_	Word	Word	_	18	Terminal	18:Terminal	_
+21	premiere	_	Word	Word	_	0	P	0:P|28:A	_
+22	at	_	Word	Word	_	24	R	24:R	_
+23	the	_	Word	Word	_	24	F	24:F	_
+24	Capitol	_	Word	Word	_	21	A	21:A	_
+25	Theater	_	Word	Word	_	24	Terminal	24:Terminal	_
+26	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+27	which	_	Word	Word	_	28	L	28:L	_
+28	included	_	Word	Word	_	12	H	12:H	_
+29	a	_	Word	Word	_	32	F	32:F	_
+30	five	_	Word	Word	_	32	D	32:D	_
+31	-	_	Punctuation	Punctuation	_	32	U	32:U	_
+32	show	_	Word	Word	_	38	E	38:E	_
+33	-	_	Punctuation	Punctuation	_	32	U	32:U	_
+34	a	_	Word	Word	_	36	R	36:R	_
+35	-	_	Punctuation	Punctuation	_	36	U	36:U	_
+36	day	_	Word	Word	_	32	T	32:T	_
+37	appearance	_	Word	Word	_	38	E	38:E	_
+38	schedule	_	Word	Word	_	28	A	28:A	_
+39	for	_	Word	Word	_	42	R	42:R	_
+40	the	_	Word	Word	_	42	F	42:F	_
+41	two	_	Word	Word	_	42	Q	42:Q	_
+42	stars	_	Word	Word	_	38	E	38:E	_
+43	.	_	Punctuation	Punctuation	_	42	U	42:U	_
+

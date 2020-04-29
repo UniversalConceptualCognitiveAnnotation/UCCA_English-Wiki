@@ -1,0 +1,36 @@
+# format = ucca
+# sent_id = 960005
+# text = Tynan 's diatribe almost precipitated another collapse ; Leigh , terrified of failure and intent on achieving greatness , dwelt on his comments while ignoring the positive reviews of other critics .
+1	Tynan	_	Word	Word	_	3	A	3:A	_
+2	's	_	Word	Word	_	1	R	1:R	_
+3	diatribe	_	Word	Word	_	5	A	5:A	_
+4	almost	_	Word	Word	_	5	D	5:D	_
+5	precipitated	_	Word	Word	_	0	H	0:H	_
+6	another	_	Word	Word	_	7	D	7:D	_
+7	collapse	_	Word	Word	_	5	A	5:A	_
+8	;	_	Punctuation	Punctuation	_	5	U	5:U	_
+9	Leigh	_	Word	Word	_	0	C	0:C|11:A|13:A|18:A|25:A	_
+10	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+11	terrified	_	Word	Word	_	9	E	9:E	_
+12	of	_	Word	Word	_	13	R	13:R	_
+13	failure	_	Word	Word	_	11	A	11:A	_
+14	and	_	Word	Word	_	18	L	18:L	_
+15	intent	_	Word	Word	_	18	D	18:D	_
+16	on	_	Word	Word	_	18	R	18:R	_
+17	achieving	_	Word	Word	_	18	D	18:D	_
+18	greatness	_	Word	Word	_	11	H	11:H	_
+19	,	_	Punctuation	Punctuation	_	20	U	20:U	_
+20	dwelt	_	Word	Word	_	5	H	5:H	_
+21	on	_	Word	Word	_	23	R	23:R	_
+22	his	_	Word	Word	_	23	A	23:A	_
+23	comments	_	Word	Word	_	20	A	20:A	_
+24	while	_	Word	Word	_	25	L	25:L	_
+25	ignoring	_	Word	Word	_	5	H	5:H	_
+26	the	_	Word	Word	_	28	E	28:E	_
+27	positive	_	Word	Word	_	28	E	28:E	_
+28	reviews	_	Word	Word	_	25	A	25:A	_
+29	of	_	Word	Word	_	31	R	31:R	_
+30	other	_	Word	Word	_	31	D	31:D	_
+31	critics	_	Word	Word	_	28	E	28:E	_
+32	.	_	Punctuation	Punctuation	_	31	U	31:U	_
+

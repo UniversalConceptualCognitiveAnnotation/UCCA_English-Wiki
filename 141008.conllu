@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 141008
+# text = Hepburn received an Emmy Award nomination for playing wistful Southern mother Amanda Wingfield , which opened her mind to future work on the small screen .
+1	Hepburn	_	Word	Word	_	6	A	6:A|8:A	_
+2	received	_	Word	Word	_	6	D	6:D	_
+3	an	_	Word	Word	_	5	E	5:E	_
+4	Emmy	_	Word	Word	_	5	E	5:E	_
+5	Award	_	Word	Word	_	6	A	6:A	_
+6	nomination	_	Word	Word	_	0	H	0:H	_
+7	for	_	Word	Word	_	8	R	8:R	_
+8	playing	_	Word	Word	_	6	A	6:A|16:A	_
+9	wistful	_	Word	Word	_	11	E	11:E	_
+10	Southern	_	Word	Word	_	11	E	11:E	_
+11	mother	_	Word	Word	_	12	E	12:E	_
+12	Amanda	_	Word	Word	_	8	A	8:A	_
+13	Wingfield	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+15	which	_	Word	Word	_	16	L	16:L	_
+16	opened	_	Word	Word	_	6	H	6:H	_
+17	her	_	Word	Word	_	18	E	18:E|21:A	_
+18	mind	_	Word	Word	_	16	A	16:A	_
+19	to	_	Word	Word	_	21	R	21:R	_
+20	future	_	Word	Word	_	21	T	21:T	_
+21	work	_	Word	Word	_	16	A	16:A	_
+22	on	_	Word	Word	_	25	R	25:R	_
+23	the	_	Word	Word	_	25	E	25:E	_
+24	small	_	Word	Word	_	25	E	25:E	_
+25	screen	_	Word	Word	_	21	A	21:A	_
+26	.	_	Punctuation	Punctuation	_	25	U	25:U	_
+

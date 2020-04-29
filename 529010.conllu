@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 529010
+# text = It included her first appearances at the renowned London Palladium , for a four - week stand in April .
+1	It	_	Word	Word	_	2	A	2:A	_
+2	included	_	Word	Word	_	0	H	0:H	_
+3	her	_	Word	Word	_	5	A	5:A	_
+4	first	_	Word	Word	_	5	D	5:D	_
+5	appearances	_	Word	Word	_	2	A	2:A	_
+6	at	_	Word	Word	_	9	R	9:R	_
+7	the	_	Word	Word	_	9	F	9:F	_
+8	renowned	_	Word	Word	_	9	E	9:E	_
+9	London	_	Word	Word	_	5	A	5:A	_
+10	Palladium	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+12	for	_	Word	Word	_	17	L	17:L	_
+13	a	_	Word	Word	_	17	F	17:F	_
+14	four	_	Word	Word	_	16	Q	16:Q	_
+15	-	_	Punctuation	Punctuation	_	16	U	16:U	_
+16	week	_	Word	Word	_	17	T	17:T	_
+17	stand	_	Word	Word	_	2	H	2:H	_
+18	in	_	Word	Word	_	19	R	19:R	_
+19	April	_	Word	Word	_	17	T	17:T	_
+20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 474019
+# text = Nick Van Exel received a seven game suspension for bumping referee Ron Garretson during a game on April 9 .
+1	Nick	_	Word	Word	_	8	A	8:A|10:A	_
+2	Van	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	Exel	_	Word	Word	_	1	Terminal	1:Terminal	_
+4	received	_	Word	Word	_	8	F	8:F	_
+5	a	_	Word	Word	_	8	F	8:F	_
+6	seven	_	Word	Word	_	7	Q	7:Q	_
+7	game	_	Word	Word	_	8	A	8:A	_
+8	suspension	_	Word	Word	_	0	H	0:H	_
+9	for	_	Word	Word	_	10	L	10:L	_
+10	bumping	_	Word	Word	_	8	H	8:H	_
+11	referee	_	Word	Word	_	12	E	12:E	_
+12	Ron	_	Word	Word	_	10	A	10:A	_
+13	Garretson	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	during	_	Word	Word	_	16	R	16:R	_
+15	a	_	Word	Word	_	16	F	16:F	_
+16	game	_	Word	Word	_	10	A	10:A	_
+17	on	_	Word	Word	_	18	R	18:R	_
+18	April	_	Word	Word	_	10	T	10:T	_
+19	9	_	Word	Word	_	18	C	18:C	_
+20	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

@@ -1,0 +1,36 @@
+# format = ucca
+# sent_id = 629009
+# text = In 2002 , a BBC poll on the 100 Greatest Britons voted him eighth , and in 2008 , Rolling Stone ranked him the fifth - greatest singer of all time .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	2002	_	Word	Word	_	12	T	12:T	_
+3	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+4	a	_	Word	Word	_	5	E	5:E	_
+5	BBC	_	Word	Word	_	6	A	6:A	_
+6	poll	_	Word	Word	_	12	A	12:A	_
+7	on	_	Word	Word	_	9	R	9:R	_
+8	the	_	Word	Word	_	9	E	9:E	_
+9	100	_	Word	Word	_	6	A	6:A	_
+10	Greatest	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	Britons	_	Word	Word	_	9	Terminal	9:Terminal	_
+12	voted	_	Word	Word	_	0	H	0:H	_
+13	him	_	Word	Word	_	12	A	12:A	_
+14	eighth	_	Word	Word	_	12	A	12:A	_
+15	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+16	and	_	Word	Word	_	22	L	22:L	_
+17	in	_	Word	Word	_	18	R	18:R	_
+18	2008	_	Word	Word	_	22	T	22:T	_
+19	,	_	Punctuation	Punctuation	_	22	U	22:U	_
+20	Rolling	_	Word	Word	_	22	A	22:A	_
+21	Stone	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	ranked	_	Word	Word	_	12	H	12:H	_
+23	him	_	Word	Word	_	22	A	22:A	_
+24	the	_	Word	Word	_	28	F	28:F	_
+25	fifth	_	Word	Word	_	27	Q	27:Q	_
+26	-	_	Punctuation	Punctuation	_	27	U	27:U	_
+27	greatest	_	Word	Word	_	28	D	28:D	_
+28	singer	_	Word	Word	_	22	A	22:A	_
+29	of	_	Word	Word	_	31	R	31:R	_
+30	all	_	Word	Word	_	31	E	31:E	_
+31	time	_	Word	Word	_	28	T	28:T	_
+32	.	_	Punctuation	Punctuation	_	31	U	31:U	_
+

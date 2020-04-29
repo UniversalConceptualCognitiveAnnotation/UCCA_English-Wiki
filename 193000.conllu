@@ -1,0 +1,56 @@
+# format = ucca
+# sent_id = 193000
+# text = Sorkin conceived the political TV drama The West Wing in 1997 when he went unprepared to a lunch with producer John Wells and in a panic pitched to Wells a show centered on the senior staff of the White House , using leftover ideas from his script for The American President .
+1	Sorkin	_	Word	Word	_	2	A	2:A	_
+2	conceived	_	Word	Word	_	0	H	0:H	_
+3	the	_	Word	Word	_	6	E	6:E	_
+4	political	_	Word	Word	_	6	E	6:E	_
+5	TV	_	Word	Word	_	6	E	6:E	_
+6	drama	_	Word	Word	_	7	E	7:E	_
+7	The	_	Word	Word	_	2	A	2:A	_
+8	West	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	Wing	_	Word	Word	_	7	Terminal	7:Terminal	_
+10	in	_	Word	Word	_	11	R	11:R	_
+11	1997	_	Word	Word	_	2	T	2:T	_
+12	when	_	Word	Word	_	14	L	14:L	_
+13	he	_	Word	Word	_	14	A	14:A|15:A|26:A|27:A|42:A	_
+14	went	_	Word	Word	_	2	H	2:H	_
+15	unprepared	_	Word	Word	_	2	H	2:H	_
+16	to	_	Word	Word	_	18	R	18:R	_
+17	a	_	Word	Word	_	18	E	18:E	_
+18	lunch	_	Word	Word	_	14	A	14:A	_
+19	with	_	Word	Word	_	21	R	21:R	_
+20	producer	_	Word	Word	_	21	E	21:E	_
+21	John	_	Word	Word	_	18	A	18:A	_
+22	Wells	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	and	_	Word	Word	_	26	L	26:L	_
+24	in	_	Word	Word	_	26	R	26:R	_
+25	a	_	Word	Word	_	26	E	26:E	_
+26	panic	_	Word	Word	_	2	H	2:H	_
+27	pitched	_	Word	Word	_	2	H	2:H	_
+28	to	_	Word	Word	_	29	R	29:R	_
+29	Wells	_	Word	Word	_	27	A	27:A	_
+30	a	_	Word	Word	_	31	E	31:E	_
+31	show	_	Word	Word	_	27	A	27:A	_
+32	centered	_	Word	Word	_	31	E	31:E	_
+33	on	_	Word	Word	_	36	R	36:R	_
+34	the	_	Word	Word	_	36	F	36:F	_
+35	senior	_	Word	Word	_	36	D	36:D	_
+36	staff	_	Word	Word	_	32	A	32:A	_
+37	of	_	Word	Word	_	39	R	39:R	_
+38	the	_	Word	Word	_	39	E	39:E	_
+39	White	_	Word	Word	_	36	A	36:A	_
+40	House	_	Word	Word	_	39	Terminal	39:Terminal	_
+41	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+42	using	_	Word	Word	_	2	H	2:H	_
+43	leftover	_	Word	Word	_	44	E	44:E	_
+44	ideas	_	Word	Word	_	42	A	42:A	_
+45	from	_	Word	Word	_	47	R	47:R	_
+46	his	_	Word	Word	_	47	E	47:E	_
+47	script	_	Word	Word	_	44	E	44:E	_
+48	for	_	Word	Word	_	49	R	49:R	_
+49	The	_	Word	Word	_	47	E	47:E	_
+50	American	_	Word	Word	_	49	Terminal	49:Terminal	_
+51	President	_	Word	Word	_	49	Terminal	49:Terminal	_
+52	.	_	Punctuation	Punctuation	_	49	U	49:U	_
+

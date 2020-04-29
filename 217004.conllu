@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 217004
+# text = Spider - Man was a commercial and critical success .
+1	Spider	_	Word	Word	_	9	A	9:A	_
+2	-	_	Punctuation	Punctuation	_	1	U	1:U	_
+3	Man	_	Word	Word	_	1	Terminal	1:Terminal	_
+4	was	_	Word	Word	_	9	F	9:F	_
+5	a	_	Word	Word	_	6	F	6:F	_
+6	commercial	_	Word	Word	_	9	D	9:D	_
+7	and	_	Word	Word	_	6	N	6:N	_
+8	critical	_	Word	Word	_	6	C	6:C	_
+9	success	_	Word	Word	_	0	H	0:H	_
+10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 524012
+# text = In 1940 , she starred in three films : Andy Hardy Meets Debutante , Strike Up the Band , and Little Nellie Kelly .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1940	_	Word	Word	_	5	T	5:T	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	she	_	Word	Word	_	5	A	5:A	_
+5	starred	_	Word	Word	_	0	H	0:H	_
+6	in	_	Word	Word	_	10	R	10:R	_
+7	three	_	Word	Word	_	8	Q	8:Q	_
+8	films	_	Word	Word	_	10	E	10:E	_
+9	:	_	Punctuation	Punctuation	_	10	U	10:U	_
+10	Andy	_	Word	Word	_	5	A	5:A	_
+11	Hardy	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	Meets	_	Word	Word	_	10	Terminal	10:Terminal	_
+13	Debutante	_	Word	Word	_	10	Terminal	10:Terminal	_
+14	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+15	Strike	_	Word	Word	_	10	C	10:C	_
+16	Up	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	the	_	Word	Word	_	15	Terminal	15:Terminal	_
+18	Band	_	Word	Word	_	15	Terminal	15:Terminal	_
+19	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+20	and	_	Word	Word	_	10	N	10:N	_
+21	Little	_	Word	Word	_	10	C	10:C	_
+22	Nellie	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	Kelly	_	Word	Word	_	21	Terminal	21:Terminal	_
+24	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+

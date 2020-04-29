@@ -1,0 +1,39 @@
+# format = ucca
+# sent_id = 132002
+# text = As part of the deal she also received the director of her choice , George Cukor , but the co - stars she wanted , Clark Gable and Spencer Tracy , were both unavailable .
+1	As	_	Word	Word	_	2	R	2:R	_
+2	part	_	Word	Word	_	8	L	8:L	_
+3	of	_	Word	Word	_	2	R	2:R	_
+4	the	_	Word	Word	_	5	E	5:E	_
+5	deal	_	Word	Word	_	0	H	0:H	_
+6	she	_	Word	Word	_	8	A	8:A	_
+7	also	_	Word	Word	_	8	D	8:D	_
+8	received	_	Word	Word	_	5	H	5:H	_
+9	the	_	Word	Word	_	10	E	10:E	_
+10	director	_	Word	Word	_	0	C	0:C|13:A	_
+11	of	_	Word	Word	_	13	R	13:R	_
+12	her	_	Word	Word	_	13	A	13:A	_
+13	choice	_	Word	Word	_	10	E	10:E	_
+14	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+15	George	_	Word	Word	_	8	A	8:A	_
+16	Cukor	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+18	but	_	Word	Word	_	34	L	34:L	_
+19	the	_	Word	Word	_	22	E	22:E	_
+20	co	_	Word	Word	_	22	E	22:E	_
+21	-	_	Punctuation	Punctuation	_	22	U	22:U	_
+22	stars	_	Word	Word	_	24	A	24:A	_
+23	she	_	Word	Word	_	24	A	24:A	_
+24	wanted	_	Word	Word	_	26	E	26:E	_
+25	,	_	Punctuation	Punctuation	_	24	U	24:U	_
+26	Clark	_	Word	Word	_	34	A	34:A	_
+27	Gable	_	Word	Word	_	26	Terminal	26:Terminal	_
+28	and	_	Word	Word	_	26	N	26:N	_
+29	Spencer	_	Word	Word	_	26	C	26:C	_
+30	Tracy	_	Word	Word	_	29	Terminal	29:Terminal	_
+31	,	_	Punctuation	Punctuation	_	34	U	34:U	_
+32	were	_	Word	Word	_	34	F	34:F	_
+33	both	_	Word	Word	_	26	Q	26:Q	_
+34	unavailable	_	Word	Word	_	5	H	5:H	_
+35	.	_	Punctuation	Punctuation	_	34	U	34:U	_
+

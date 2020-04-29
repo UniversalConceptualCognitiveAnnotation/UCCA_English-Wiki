@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 468002
+# text = Despite Abdul - Jabbar 's dominance , he had failed to win a championship with the Lakers , and Johnson was expected to help them achieve that goal .
+1	Despite	_	Word	Word	_	12	L	12:L	_
+2	Abdul	_	Word	Word	_	6	A	6:A	_
+3	-	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	Jabbar	_	Word	Word	_	2	Terminal	2:Terminal	_
+5	's	_	Word	Word	_	2	R	2:R	_
+6	dominance	_	Word	Word	_	0	H	0:H	_
+7	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	he	_	Word	Word	_	12	A	12:A	_
+9	had	_	Word	Word	_	12	F	12:F	_
+10	failed	_	Word	Word	_	12	D	12:D	_
+11	to	_	Word	Word	_	12	F	12:F	_
+12	win	_	Word	Word	_	6	H	6:H	_
+13	a	_	Word	Word	_	14	E	14:E	_
+14	championship	_	Word	Word	_	12	A	12:A	_
+15	with	_	Word	Word	_	17	R	17:R	_
+16	the	_	Word	Word	_	17	E	17:E	_
+17	Lakers	_	Word	Word	_	12	A	12:A	_
+18	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+19	and	_	Word	Word	_	22	L	22:L	_
+20	Johnson	_	Word	Word	_	22	A	22:A|24:A	_
+21	was	_	Word	Word	_	22	F	22:F	_
+22	expected	_	Word	Word	_	6	H	6:H	_
+23	to	_	Word	Word	_	24	F	24:F	_
+24	help	_	Word	Word	_	22	A	22:A	_
+25	them	_	Word	Word	_	24	A	24:A|26:A	_
+26	achieve	_	Word	Word	_	24	A	24:A	_
+27	that	_	Word	Word	_	28	E	28:E	_
+28	goal	_	Word	Word	_	26	A	26:A	_
+29	.	_	Punctuation	Punctuation	_	28	U	28:U	_
+

@@ -1,0 +1,42 @@
+# format = ucca
+# sent_id = 475006
+# text = By the time he returned to the Lakers in 1996 , the Magic Johnson All - Stars had amassed a record of 55 - 0 , and Johnson was earning as much as $ 365,000 per game .
+1	By	_	Word	Word	_	3	R	3:R	_
+2	the	_	Word	Word	_	3	F	3:F	_
+3	time	_	Word	Word	_	21	L	21:L	_
+4	he	_	Word	Word	_	5	A	5:A	_
+5	returned	_	Word	Word	_	0	H	0:H	_
+6	to	_	Word	Word	_	8	R	8:R	_
+7	the	_	Word	Word	_	8	F	8:F	_
+8	Lakers	_	Word	Word	_	5	A	5:A	_
+9	in	_	Word	Word	_	10	R	10:R	_
+10	1996	_	Word	Word	_	5	T	5:T	_
+11	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+12	the	_	Word	Word	_	15	F	15:F	_
+13	Magic	_	Word	Word	_	15	E	15:E	_
+14	Johnson	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	All	_	Word	Word	_	21	A	21:A	_
+16	-	_	Punctuation	Punctuation	_	15	U	15:U	_
+17	Stars	_	Word	Word	_	15	Terminal	15:Terminal	_
+18	had	_	Word	Word	_	21	F	21:F	_
+19	amassed	_	Word	Word	_	21	D	21:D	_
+20	a	_	Word	Word	_	21	F	21:F	_
+21	record	_	Word	Word	_	5	H	5:H	_
+22	of	_	Word	Word	_	23	R	23:R	_
+23	55	_	Word	Word	_	21	A	21:A	_
+24	-	_	Punctuation	Punctuation	_	23	U	23:U	_
+25	0	_	Word	Word	_	23	C	23:C	_
+26	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+27	and	_	Word	Word	_	30	L	30:L	_
+28	Johnson	_	Word	Word	_	30	A	30:A	_
+29	was	_	Word	Word	_	30	F	30:F	_
+30	earning	_	Word	Word	_	5	H	5:H	_
+31	as	_	Word	Word	_	34	R	34:R	_
+32	much	_	Word	Word	_	31	Terminal	31:Terminal	_
+33	as	_	Word	Word	_	31	Terminal	31:Terminal	_
+34	$	_	Word	Word	_	30	A	30:A	_
+35	365,000	_	Word	Word	_	34	Q	34:Q	_
+36	per	_	Word	Word	_	37	R	37:R	_
+37	game	_	Word	Word	_	30	A	30:A	_
+38	.	_	Punctuation	Punctuation	_	37	U	37:U	_
+

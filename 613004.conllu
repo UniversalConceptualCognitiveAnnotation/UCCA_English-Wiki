@@ -1,0 +1,42 @@
+# format = ucca
+# sent_id = 613004
+# text = McCartney played lead electric guitar on several Beatles recordings , including what MacDonald described as a " fiercely angular slide guitar solo " on " Drive My Car " , which McCartney played on an Epiphone Casino .
+1	McCartney	_	Word	Word	_	2	A	2:A|12:A	_
+2	played	_	Word	Word	_	0	H	0:H	_
+3	lead	_	Word	Word	_	5	E	5:E	_
+4	electric	_	Word	Word	_	5	E	5:E	_
+5	guitar	_	Word	Word	_	2	A	2:A	_
+6	on	_	Word	Word	_	9	R	9:R	_
+7	several	_	Word	Word	_	9	Q	9:Q	_
+8	Beatles	_	Word	Word	_	9	E	9:E	_
+9	recordings	_	Word	Word	_	2	A	2:A	_
+10	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+11	including	_	Word	Word	_	12	L	12:L	_
+12	what	_	Word	Word	_	2	H	2:H	_
+13	MacDonald	_	Word	Word	_	14	A	14:A	_
+14	described	_	Word	Word	_	12	E	12:E	_
+15	as	_	Word	Word	_	22	R	22:R	_
+16	a	_	Word	Word	_	22	F	22:F	_
+17	"	_	Punctuation	Punctuation	_	22	U	22:U	_
+18	fiercely	_	Word	Word	_	19	E	19:E	_
+19	angular	_	Word	Word	_	22	D	22:D	_
+20	slide	_	Word	Word	_	21	E	21:E	_
+21	guitar	_	Word	Word	_	22	A	22:A	_
+22	solo	_	Word	Word	_	0	P	0:P|33:A	_
+23	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+24	on	_	Word	Word	_	26	R	26:R	_
+25	"	_	Punctuation	Punctuation	_	26	U	26:U	_
+26	Drive	_	Word	Word	_	12	A	12:A	_
+27	My	_	Word	Word	_	26	Terminal	26:Terminal	_
+28	Car	_	Word	Word	_	26	Terminal	26:Terminal	_
+29	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+30	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+31	which	_	Word	Word	_	33	L	33:L	_
+32	McCartney	_	Word	Word	_	33	A	33:A	_
+33	played	_	Word	Word	_	2	H	2:H	_
+34	on	_	Word	Word	_	36	R	36:R	_
+35	an	_	Word	Word	_	36	F	36:F	_
+36	Epiphone	_	Word	Word	_	33	A	33:A	_
+37	Casino	_	Word	Word	_	36	Terminal	36:Terminal	_
+38	.	_	Punctuation	Punctuation	_	36	U	36:U	_
+

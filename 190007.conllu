@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 190007
+# text = A Few Good Men was released in 1992 and was a box office success .
+1	A	_	Word	Word	_	6	A	6:A|14:A	_
+2	Few	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	Good	_	Word	Word	_	1	Terminal	1:Terminal	_
+4	Men	_	Word	Word	_	1	Terminal	1:Terminal	_
+5	was	_	Word	Word	_	6	F	6:F	_
+6	released	_	Word	Word	_	0	H	0:H	_
+7	in	_	Word	Word	_	8	R	8:R	_
+8	1992	_	Word	Word	_	6	T	6:T	_
+9	and	_	Word	Word	_	14	L	14:L	_
+10	was	_	Word	Word	_	14	F	14:F	_
+11	a	_	Word	Word	_	14	E	14:E	_
+12	box	_	Word	Word	_	13	E	13:E	_
+13	office	_	Word	Word	_	14	A	14:A	_
+14	success	_	Word	Word	_	6	H	6:H	_
+15	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

@@ -1,0 +1,37 @@
+# format = ucca
+# sent_id = 135001
+# text = Like Woman of the Year , it was a " battle of the sexes " comedy , and was written specifically for the duo by their friends Garson Kanin and Ruth Gordon .
+1	Like	_	Word	Word	_	20	L	20:L	_
+2	Woman	_	Word	Word	_	0	H	0:H	_
+3	of	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	the	_	Word	Word	_	2	Terminal	2:Terminal	_
+5	Year	_	Word	Word	_	2	Terminal	2:Terminal	_
+6	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+7	it	_	Word	Word	_	16	A	16:A|20:A	_
+8	was	_	Word	Word	_	16	F	16:F	_
+9	a	_	Word	Word	_	16	E	16:E	_
+10	"	_	Punctuation	Punctuation	_	16	U	16:U	_
+11	battle	_	Word	Word	_	16	A	16:A	_
+12	of	_	Word	Word	_	14	R	14:R	_
+13	the	_	Word	Word	_	14	E	14:E	_
+14	sexes	_	Word	Word	_	11	A	11:A	_
+15	"	_	Punctuation	Punctuation	_	16	U	16:U	_
+16	comedy	_	Word	Word	_	0	C	0:C|2:S	_
+17	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+18	and	_	Word	Word	_	20	L	20:L	_
+19	was	_	Word	Word	_	20	F	20:F	_
+20	written	_	Word	Word	_	2	H	2:H	_
+21	specifically	_	Word	Word	_	20	D	20:D	_
+22	for	_	Word	Word	_	24	R	24:R	_
+23	the	_	Word	Word	_	24	E	24:E	_
+24	duo	_	Word	Word	_	20	A	20:A	_
+25	by	_	Word	Word	_	28	R	28:R	_
+26	their	_	Word	Word	_	28	E	28:E	_
+27	friends	_	Word	Word	_	26	A	26:A	_
+28	Garson	_	Word	Word	_	20	A	20:A	_
+29	Kanin	_	Word	Word	_	28	Terminal	28:Terminal	_
+30	and	_	Word	Word	_	28	N	28:N	_
+31	Ruth	_	Word	Word	_	28	C	28:C	_
+32	Gordon	_	Word	Word	_	31	Terminal	31:Terminal	_
+33	.	_	Punctuation	Punctuation	_	28	U	28:U	_
+

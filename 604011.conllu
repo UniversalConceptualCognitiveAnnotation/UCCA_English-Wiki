@@ -1,0 +1,34 @@
+# format = ucca
+# sent_id = 604011
+# text = An English court legally dissolved the Beatles on 9 January 1975 , though sporadic lawsuits against their record company EMI , Klein , and each other persisted until 1989 .
+1	An	_	Word	Word	_	3	F	3:F	_
+2	English	_	Word	Word	_	3	E	3:E	_
+3	court	_	Word	Word	_	5	A	5:A	_
+4	legally	_	Word	Word	_	5	D	5:D	_
+5	dissolved	_	Word	Word	_	0	H	0:H	_
+6	the	_	Word	Word	_	5	A	5:A	_
+7	Beatles	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	on	_	Word	Word	_	9	R	9:R	_
+9	9	_	Word	Word	_	5	T	5:T	_
+10	January	_	Word	Word	_	9	C	9:C	_
+11	1975	_	Word	Word	_	9	C	9:C	_
+12	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+13	though	_	Word	Word	_	27	L	27:L	_
+14	sporadic	_	Word	Word	_	15	D	15:D	_
+15	lawsuits	_	Word	Word	_	27	A	27:A	_
+16	against	_	Word	Word	_	20	R	20:R	_
+17	their	_	Word	Word	_	19	E	19:E	_
+18	record	_	Word	Word	_	19	E	19:E	_
+19	company	_	Word	Word	_	20	E	20:E	_
+20	EMI	_	Word	Word	_	15	A	15:A	_
+21	,	_	Punctuation	Punctuation	_	20	U	20:U	_
+22	Klein	_	Word	Word	_	20	C	20:C	_
+23	,	_	Punctuation	Punctuation	_	20	U	20:U	_
+24	and	_	Word	Word	_	20	N	20:N	_
+25	each	_	Word	Word	_	20	C	20:C	_
+26	other	_	Word	Word	_	25	Terminal	25:Terminal	_
+27	persisted	_	Word	Word	_	5	H	5:H	_
+28	until	_	Word	Word	_	29	R	29:R	_
+29	1989	_	Word	Word	_	27	T	27:T	_
+30	.	_	Punctuation	Punctuation	_	29	U	29:U	_
+

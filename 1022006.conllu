@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 1022006
+# text = Jackson 's attorney John Branca noted that Jackson had the highest royalty rate in the music industry at that point : approximately $ 2 for every album sold .
+1	Jackson	_	Word	Word	_	4	E	4:E	_
+2	's	_	Word	Word	_	1	R	1:R	_
+3	attorney	_	Word	Word	_	1	A	1:A	_
+4	John	_	Word	Word	_	6	A	6:A	_
+5	Branca	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	noted	_	Word	Word	_	0	H	0:H	_
+7	that	_	Word	Word	_	9	R	9:R	_
+8	Jackson	_	Word	Word	_	9	A	9:A	_
+9	had	_	Word	Word	_	6	A	6:A	_
+10	the	_	Word	Word	_	11	E	11:E	_
+11	highest	_	Word	Word	_	13	E	13:E	_
+12	royalty	_	Word	Word	_	13	E	13:E	_
+13	rate	_	Word	Word	_	9	A	9:A	_
+14	in	_	Word	Word	_	17	R	17:R	_
+15	the	_	Word	Word	_	17	E	17:E	_
+16	music	_	Word	Word	_	17	E	17:E	_
+17	industry	_	Word	Word	_	13	E	13:E	_
+18	at	_	Word	Word	_	20	R	20:R	_
+19	that	_	Word	Word	_	20	E	20:E	_
+20	point	_	Word	Word	_	13	E	13:E	_
+21	:	_	Punctuation	Punctuation	_	13	U	13:U	_
+22	approximately	_	Word	Word	_	23	E	23:E	_
+23	$	_	Word	Word	_	13	E	13:E	_
+24	2	_	Word	Word	_	23	Q	23:Q	_
+25	for	_	Word	Word	_	28	R	28:R	_
+26	every	_	Word	Word	_	27	Q	27:Q	_
+27	album	_	Word	Word	_	28	A	28:A	_
+28	sold	_	Word	Word	_	23	E	23:E	_
+29	.	_	Punctuation	Punctuation	_	28	U	28:U	_
+

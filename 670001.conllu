@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 670001
+# text = The album debuted atop the charts in several countries , and was warmly accepted by critics .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	album	_	Word	Word	_	0	C	0:C|14:A	_
+3	debuted	_	Word	Word	_	0	H	0:H	_
+4	atop	_	Word	Word	_	6	R	6:R	_
+5	the	_	Word	Word	_	6	E	6:E	_
+6	charts	_	Word	Word	_	3	A	3:A	_
+7	in	_	Word	Word	_	9	R	9:R	_
+8	several	_	Word	Word	_	9	E	9:E	_
+9	countries	_	Word	Word	_	3	A	3:A	_
+10	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+11	and	_	Word	Word	_	14	L	14:L	_
+12	was	_	Word	Word	_	14	F	14:F	_
+13	warmly	_	Word	Word	_	14	D	14:D	_
+14	accepted	_	Word	Word	_	3	H	3:H	_
+15	by	_	Word	Word	_	16	R	16:R	_
+16	critics	_	Word	Word	_	14	A	14:A	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

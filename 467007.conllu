@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 467007
+# text = He ultimately decided to attend Michigan State when its coach Jud Heathcote told him he could play the point guard position .
+1	He	_	Word	Word	_	3	A	3:A|5:A	_
+2	ultimately	_	Word	Word	_	3	D	3:D	_
+3	decided	_	Word	Word	_	0	H	0:H	_
+4	to	_	Word	Word	_	5	F	5:F	_
+5	attend	_	Word	Word	_	3	A	3:A	_
+6	Michigan	_	Word	Word	_	5	A	5:A	_
+7	State	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	when	_	Word	Word	_	13	L	13:L	_
+9	its	_	Word	Word	_	10	A	10:A	_
+10	coach	_	Word	Word	_	11	E	11:E	_
+11	Jud	_	Word	Word	_	13	A	13:A	_
+12	Heathcote	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	told	_	Word	Word	_	3	H	3:H	_
+14	him	_	Word	Word	_	13	A	13:A	_
+15	he	_	Word	Word	_	17	A	17:A	_
+16	could	_	Word	Word	_	17	D	17:D	_
+17	play	_	Word	Word	_	13	A	13:A	_
+18	the	_	Word	Word	_	21	E	21:E	_
+19	point	_	Word	Word	_	20	E	20:E	_
+20	guard	_	Word	Word	_	21	E	21:E	_
+21	position	_	Word	Word	_	17	A	17:A	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

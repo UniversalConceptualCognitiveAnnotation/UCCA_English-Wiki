@@ -1,0 +1,37 @@
+# format = ucca
+# sent_id = 146008
+# text = When questioned about politics , Hepburn told an interviewer , " I always just say be on the affirmative and liberal side . Do n't be a ' no ' person . "
+1	When	_	Word	Word	_	7	L	7:L	_
+2	questioned	_	Word	Word	_	0	H	0:H	_
+3	about	_	Word	Word	_	4	R	4:R	_
+4	politics	_	Word	Word	_	2	A	2:A	_
+5	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+6	Hepburn	_	Word	Word	_	7	A	7:A|2:A	_
+7	told	_	Word	Word	_	2	H	2:H	_
+8	an	_	Word	Word	_	9	E	9:E	_
+9	interviewer	_	Word	Word	_	7	A	7:A	_
+10	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+11	"	_	Punctuation	Punctuation	_	7	U	7:U	_
+12	I	_	Word	Word	_	15	A	15:A	_
+13	always	_	Word	Word	_	15	T	15:T	_
+14	just	_	Word	Word	_	15	D	15:D	_
+15	say	_	Word	Word	_	7	A	7:A	_
+16	be	_	Word	Word	_	22	F	22:F	_
+17	on	_	Word	Word	_	22	R	22:R	_
+18	the	_	Word	Word	_	22	F	22:F	_
+19	affirmative	_	Word	Word	_	22	A	22:A	_
+20	and	_	Word	Word	_	19	N	19:N	_
+21	liberal	_	Word	Word	_	19	C	19:C	_
+22	side	_	Word	Word	_	15	A	15:A	_
+23	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+24	Do	_	Word	Word	_	26	F	26:F	_
+25	n't	_	Word	Word	_	26	D	26:D	_
+26	be	_	Word	Word	_	15	H	15:H	_
+27	a	_	Word	Word	_	31	F	31:F	_
+28	'	_	Punctuation	Punctuation	_	31	U	31:U	_
+29	no	_	Word	Word	_	31	E	31:E	_
+30	'	_	Punctuation	Punctuation	_	29	U	29:U	_
+31	person	_	Word	Word	_	26	A	26:A	_
+32	.	_	Punctuation	Punctuation	_	31	U	31:U	_
+33	"	_	Punctuation	Punctuation	_	31	U	31:U	_
+

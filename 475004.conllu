@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 475004
+# text = They also toured the United States , playing five games against teams from the CBA .
+1	They	_	Word	Word	_	3	A	3:A|8:A	_
+2	also	_	Word	Word	_	3	D	3:D	_
+3	toured	_	Word	Word	_	0	H	0:H	_
+4	the	_	Word	Word	_	5	F	5:F	_
+5	United	_	Word	Word	_	3	A	3:A	_
+6	States	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+8	playing	_	Word	Word	_	3	H	3:H	_
+9	five	_	Word	Word	_	10	Q	10:Q	_
+10	games	_	Word	Word	_	8	A	8:A	_
+11	against	_	Word	Word	_	12	R	12:R	_
+12	teams	_	Word	Word	_	8	A	8:A	_
+13	from	_	Word	Word	_	15	R	15:R	_
+14	the	_	Word	Word	_	15	F	15:F	_
+15	CBA	_	Word	Word	_	12	E	12:E	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

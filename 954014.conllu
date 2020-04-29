@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 954014
+# text = Her next role was in St. Martin 's Lane ( 1938 ) with Charles Laughton .
+1	Her	_	Word	Word	_	3	E	3:E	_
+2	next	_	Word	Word	_	3	E	3:E	_
+3	role	_	Word	Word	_	4	A	4:A	_
+4	was	_	Word	Word	_	0	H	0:H	_
+5	in	_	Word	Word	_	6	R	6:R	_
+6	St.	_	Word	Word	_	4	A	4:A	_
+7	Martin	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	's	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	Lane	_	Word	Word	_	6	Terminal	6:Terminal	_
+10	(	_	Punctuation	Punctuation	_	6	U	6:U	_
+11	1938	_	Word	Word	_	6	E	6:E	_
+12	)	_	Punctuation	Punctuation	_	4	U	4:U	_
+13	with	_	Word	Word	_	14	R	14:R	_
+14	Charles	_	Word	Word	_	4	A	4:A	_
+15	Laughton	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

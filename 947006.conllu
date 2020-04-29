@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 947006
+# text = Scorsese , whose daughter was a No Doubt fan , showed reciprocal interest in casting Stefani after seeing her picture from a Marilyn Monroe - inspired photo shoot for Teen Vogue in 2003 .
+1	Scorsese	_	Word	Word	_	0	C	0:C|4:A|15:A|18:A	_
+2	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+3	whose	_	Word	Word	_	9	R	9:R	_
+4	daughter	_	Word	Word	_	9	A	9:A	_
+5	was	_	Word	Word	_	9	F	9:F	_
+6	a	_	Word	Word	_	9	E	9:E	_
+7	No	_	Word	Word	_	9	A	9:A	_
+8	Doubt	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	fan	_	Word	Word	_	1	E	1:E	_
+10	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+11	showed	_	Word	Word	_	13	D	13:D	_
+12	reciprocal	_	Word	Word	_	13	D	13:D	_
+13	interest	_	Word	Word	_	0	H	0:H	_
+14	in	_	Word	Word	_	15	R	15:R	_
+15	casting	_	Word	Word	_	13	A	13:A	_
+16	Stefani	_	Word	Word	_	15	A	15:A	_
+17	after	_	Word	Word	_	18	L	18:L	_
+18	seeing	_	Word	Word	_	13	H	13:H	_
+19	her	_	Word	Word	_	20	E	20:E	_
+20	picture	_	Word	Word	_	18	A	18:A	_
+21	from	_	Word	Word	_	28	R	28:R	_
+22	a	_	Word	Word	_	28	E	28:E	_
+23	Marilyn	_	Word	Word	_	26	A	26:A	_
+24	Monroe	_	Word	Word	_	23	Terminal	23:Terminal	_
+25	-	_	Punctuation	Punctuation	_	26	U	26:U	_
+26	inspired	_	Word	Word	_	28	E	28:E	_
+27	photo	_	Word	Word	_	28	E	28:E	_
+28	shoot	_	Word	Word	_	20	E	20:E	_
+29	for	_	Word	Word	_	30	R	30:R	_
+30	Teen	_	Word	Word	_	28	E	28:E	_
+31	Vogue	_	Word	Word	_	30	Terminal	30:Terminal	_
+32	in	_	Word	Word	_	33	R	33:R	_
+33	2003	_	Word	Word	_	18	T	18:T	_
+34	.	_	Punctuation	Punctuation	_	33	U	33:U	_
+

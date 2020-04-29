@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 495014
+# text = Studying the dramatic arts under Kemp , from avant - garde theatre and mime to commedia dell ' arte , Bowie became immersed in the creation of personae to present to the world .
+1	Studying	_	Word	Word	_	0	H	0:H	_
+2	the	_	Word	Word	_	4	E	4:E	_
+3	dramatic	_	Word	Word	_	4	E	4:E	_
+4	arts	_	Word	Word	_	1	A	1:A	_
+5	under	_	Word	Word	_	6	R	6:R	_
+6	Kemp	_	Word	Word	_	1	A	1:A	_
+7	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+8	from	_	Word	Word	_	12	R	12:R	_
+9	avant	_	Word	Word	_	12	E	12:E	_
+10	-	_	Punctuation	Punctuation	_	9	U	9:U	_
+11	garde	_	Word	Word	_	9	Terminal	9:Terminal	_
+12	theatre	_	Word	Word	_	4	E	4:E	_
+13	and	_	Word	Word	_	12	N	12:N	_
+14	mime	_	Word	Word	_	12	C	12:C	_
+15	to	_	Word	Word	_	16	R	16:R	_
+16	commedia	_	Word	Word	_	12	C	12:C	_
+17	dell	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	'	_	Punctuation	Punctuation	_	16	U	16:U	_
+19	arte	_	Word	Word	_	16	Terminal	16:Terminal	_
+20	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+21	Bowie	_	Word	Word	_	26	A	26:A|1:A|30:A	_
+22	became	_	Word	Word	_	23	E	23:E	_
+23	immersed	_	Word	Word	_	26	D	26:D	_
+24	in	_	Word	Word	_	26	R	26:R	_
+25	the	_	Word	Word	_	26	E	26:E	_
+26	creation	_	Word	Word	_	1	H	1:H	_
+27	of	_	Word	Word	_	28	R	28:R	_
+28	personae	_	Word	Word	_	0	C	0:C|30:A	_
+29	to	_	Word	Word	_	30	L	30:L	_
+30	present	_	Word	Word	_	1	H	1:H	_
+31	to	_	Word	Word	_	33	R	33:R	_
+32	the	_	Word	Word	_	33	E	33:E	_
+33	world	_	Word	Word	_	30	A	30:A	_
+34	.	_	Punctuation	Punctuation	_	33	U	33:U	_
+

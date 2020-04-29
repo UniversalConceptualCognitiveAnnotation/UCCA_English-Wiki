@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 538007
+# text = In Youngstown , the Warner brothers took their first tentative steps into the entertainment industry .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	Youngstown	_	Word	Word	_	7	A	7:A	_
+3	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+4	the	_	Word	Word	_	5	F	5:F	_
+5	Warner	_	Word	Word	_	7	A	7:A	_
+6	brothers	_	Word	Word	_	5	E	5:E	_
+7	took	_	Word	Word	_	0	H	0:H	_
+8	their	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	first	_	Word	Word	_	7	D	7:D	_
+10	tentative	_	Word	Word	_	7	D	7:D	_
+11	steps	_	Word	Word	_	7	Terminal	7:Terminal	_
+12	into	_	Word	Word	_	15	R	15:R	_
+13	the	_	Word	Word	_	15	F	15:F	_
+14	entertainment	_	Word	Word	_	15	E	15:E	_
+15	industry	_	Word	Word	_	7	A	7:A	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

@@ -1,0 +1,36 @@
+# format = ucca
+# sent_id = 461000
+# text = Jennings ' work on In Search of America and the September 11 attacks contributed to his decision in 2003 to become a dual citizen of Canada and the United States . "
+1	Jennings	_	Word	Word	_	3	A	3:A|24:A	_
+2	'	_	Punctuation	Punctuation	_	3	U	3:U	_
+3	work	_	Word	Word	_	17	A	17:A	_
+4	on	_	Word	Word	_	5	R	5:R	_
+5	In	_	Word	Word	_	3	A	3:A	_
+6	Search	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	of	_	Word	Word	_	5	Terminal	5:Terminal	_
+8	America	_	Word	Word	_	5	Terminal	5:Terminal	_
+9	and	_	Word	Word	_	5	N	5:N	_
+10	the	_	Word	Word	_	13	E	13:E	_
+11	September	_	Word	Word	_	13	E	13:E	_
+12	11	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	attacks	_	Word	Word	_	5	C	5:C	_
+14	contributed	_	Word	Word	_	17	D	17:D	_
+15	to	_	Word	Word	_	17	F	17:F	_
+16	his	_	Word	Word	_	17	A	17:A	_
+17	decision	_	Word	Word	_	0	H	0:H	_
+18	in	_	Word	Word	_	19	R	19:R	_
+19	2003	_	Word	Word	_	17	T	17:T	_
+20	to	_	Word	Word	_	24	R	24:R	_
+21	become	_	Word	Word	_	24	D	24:D	_
+22	a	_	Word	Word	_	24	E	24:E	_
+23	dual	_	Word	Word	_	24	D	24:D	_
+24	citizen	_	Word	Word	_	17	A	17:A	_
+25	of	_	Word	Word	_	26	R	26:R	_
+26	Canada	_	Word	Word	_	24	A	24:A	_
+27	and	_	Word	Word	_	26	N	26:N	_
+28	the	_	Word	Word	_	29	E	29:E	_
+29	United	_	Word	Word	_	26	C	26:C	_
+30	States	_	Word	Word	_	29	Terminal	29:Terminal	_
+31	.	_	Punctuation	Punctuation	_	29	U	29:U	_
+32	"	_	Punctuation	Punctuation	_	29	U	29:U	_
+

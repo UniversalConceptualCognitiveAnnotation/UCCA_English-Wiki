@@ -1,0 +1,36 @@
+# format = ucca
+# sent_id = 224005
+# text = Chan 's first major breakthrough was the 1978 film Snake in the Eagle 's Shadow , shot while he was loaned to Seasonal Film Corporation under a two - picture deal .
+1	Chan	_	Word	Word	_	5	A	5:A	_
+2	's	_	Word	Word	_	1	R	1:R	_
+3	first	_	Word	Word	_	5	D	5:D	_
+4	major	_	Word	Word	_	5	D	5:D	_
+5	breakthrough	_	Word	Word	_	6	A	6:A	_
+6	was	_	Word	Word	_	0	H	0:H	_
+7	the	_	Word	Word	_	10	F	10:F	_
+8	1978	_	Word	Word	_	10	E	10:E	_
+9	film	_	Word	Word	_	10	E	10:E	_
+10	Snake	_	Word	Word	_	6	A	6:A	_
+11	in	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	the	_	Word	Word	_	10	Terminal	10:Terminal	_
+13	Eagle	_	Word	Word	_	10	Terminal	10:Terminal	_
+14	's	_	Word	Word	_	10	Terminal	10:Terminal	_
+15	Shadow	_	Word	Word	_	10	Terminal	10:Terminal	_
+16	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+17	shot	_	Word	Word	_	10	E	10:E	_
+18	while	_	Word	Word	_	21	L	21:L	_
+19	he	_	Word	Word	_	21	A	21:A	_
+20	was	_	Word	Word	_	21	F	21:F	_
+21	loaned	_	Word	Word	_	17	H	17:H	_
+22	to	_	Word	Word	_	23	R	23:R	_
+23	Seasonal	_	Word	Word	_	21	A	21:A	_
+24	Film	_	Word	Word	_	23	Terminal	23:Terminal	_
+25	Corporation	_	Word	Word	_	23	Terminal	23:Terminal	_
+26	under	_	Word	Word	_	31	R	31:R	_
+27	a	_	Word	Word	_	31	F	31:F	_
+28	two	_	Word	Word	_	30	Q	30:Q	_
+29	-	_	Punctuation	Punctuation	_	30	U	30:U	_
+30	picture	_	Word	Word	_	31	E	31:E	_
+31	deal	_	Word	Word	_	21	A	21:A	_
+32	.	_	Punctuation	Punctuation	_	31	U	31:U	_
+

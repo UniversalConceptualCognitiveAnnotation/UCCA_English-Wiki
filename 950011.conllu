@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 950011
+# text = They were also featured in , and the namesake for , Stefani 's Harajuku Lovers Tour 2005 .
+1	They	_	Word	Word	_	4	A	4:A|9:A	_
+2	were	_	Word	Word	_	4	F	4:F	_
+3	also	_	Word	Word	_	4	D	4:D	_
+4	featured	_	Word	Word	_	0	H	0:H	_
+5	in	_	Word	Word	_	16	R	16:R	_
+6	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+7	and	_	Word	Word	_	9	L	9:L	_
+8	the	_	Word	Word	_	9	E	9:E	_
+9	namesake	_	Word	Word	_	4	H	4:H	_
+10	for	_	Word	Word	_	9	A	9:A	_
+11	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+12	Stefani	_	Word	Word	_	16	A	16:A	_
+13	's	_	Word	Word	_	12	R	12:R	_
+14	Harajuku	_	Word	Word	_	16	A	16:A	_
+15	Lovers	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	Tour	_	Word	Word	_	0	P	0:P|10:P	_
+17	2005	_	Word	Word	_	16	T	16:T	_
+18	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 128010
+# text = Dorothy Parker quipped , " Katharine Hepburn runs the gamut of emotions from A to B . "
+1	Dorothy	_	Word	Word	_	3	A	3:A	_
+2	Parker	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	quipped	_	Word	Word	_	0	H	0:H	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	"	_	Punctuation	Punctuation	_	3	U	3:U	_
+6	Katharine	_	Word	Word	_	8	A	8:A	_
+7	Hepburn	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	runs	_	Word	Word	_	3	A	3:A	_
+9	the	_	Word	Word	_	10	E	10:E	_
+10	gamut	_	Word	Word	_	12	Q	12:Q	_
+11	of	_	Word	Word	_	12	R	12:R	_
+12	emotions	_	Word	Word	_	8	A	8:A	_
+13	from	_	Word	Word	_	14	R	14:R	_
+14	A	_	Word	Word	_	8	A	8:A	_
+15	to	_	Word	Word	_	14	N	14:N	_
+16	B	_	Word	Word	_	14	C	14:C	_
+17	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+18	"	_	Punctuation	Punctuation	_	14	U	14:U	_
+

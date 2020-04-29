@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 703005
+# text = In Rolling Stone , reviewer Jon Landau wrote that " the record has been made with typical shoddiness . "
+1	In	_	Word	Word	_	2	R	2:R	_
+2	Rolling	_	Word	Word	_	8	A	8:A	_
+3	Stone	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+5	reviewer	_	Word	Word	_	6	E	6:E	_
+6	Jon	_	Word	Word	_	8	A	8:A	_
+7	Landau	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	wrote	_	Word	Word	_	0	H	0:H	_
+9	that	_	Word	Word	_	15	R	15:R	_
+10	"	_	Punctuation	Punctuation	_	15	U	15:U	_
+11	the	_	Word	Word	_	12	E	12:E	_
+12	record	_	Word	Word	_	15	A	15:A	_
+13	has	_	Word	Word	_	15	F	15:F	_
+14	been	_	Word	Word	_	15	F	15:F	_
+15	made	_	Word	Word	_	8	A	8:A	_
+16	with	_	Word	Word	_	18	R	18:R	_
+17	typical	_	Word	Word	_	18	E	18:E	_
+18	shoddiness	_	Word	Word	_	15	D	15:D	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+20	"	_	Punctuation	Punctuation	_	18	U	18:U	_
+

@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 228010
+# text = The film was released in America on 11 June 2010 and sees Chan 's first dramatic American film .
+1	The	_	Word	Word	_	2	F	2:F	_
+2	film	_	Word	Word	_	4	A	4:A|12:A	_
+3	was	_	Word	Word	_	4	F	4:F	_
+4	released	_	Word	Word	_	0	H	0:H	_
+5	in	_	Word	Word	_	6	R	6:R	_
+6	America	_	Word	Word	_	4	A	4:A	_
+7	on	_	Word	Word	_	8	R	8:R	_
+8	11	_	Word	Word	_	4	T	4:T	_
+9	June	_	Word	Word	_	8	C	8:C	_
+10	2010	_	Word	Word	_	8	C	8:C	_
+11	and	_	Word	Word	_	12	L	12:L	_
+12	sees	_	Word	Word	_	4	H	4:H	_
+13	Chan	_	Word	Word	_	14	A	14:A	_
+14	's	_	Word	Word	_	18	E	18:E	_
+15	first	_	Word	Word	_	18	Q	18:Q	_
+16	dramatic	_	Word	Word	_	18	E	18:E	_
+17	American	_	Word	Word	_	18	E	18:E	_
+18	film	_	Word	Word	_	12	A	12:A	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

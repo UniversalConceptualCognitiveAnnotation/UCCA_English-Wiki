@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 618022
+# text = Now formally dissolved , in 1995 it became absorbed in the Sony / ATV catalogue .
+1	Now	_	Word	Word	_	3	T	3:T	_
+2	formally	_	Word	Word	_	3	D	3:D	_
+3	dissolved	_	Word	Word	_	0	H	0:H	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	in	_	Word	Word	_	6	R	6:R	_
+6	1995	_	Word	Word	_	9	T	9:T	_
+7	it	_	Word	Word	_	9	A	9:A|3:A	_
+8	became	_	Word	Word	_	9	D	9:D	_
+9	absorbed	_	Word	Word	_	3	H	3:H	_
+10	in	_	Word	Word	_	15	R	15:R	_
+11	the	_	Word	Word	_	15	E	15:E	_
+12	Sony	_	Word	Word	_	15	E	15:E	_
+13	/	_	Punctuation	Punctuation	_	12	U	12:U	_
+14	ATV	_	Word	Word	_	12	Terminal	12:Terminal	_
+15	catalogue	_	Word	Word	_	9	A	9:A	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

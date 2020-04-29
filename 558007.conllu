@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 558007
+# text = Listeners began phoning in , eager to find out who the singer was .
+1	Listeners	_	Word	Word	_	3	A	3:A|8:A	_
+2	began	_	Word	Word	_	3	D	3:D	_
+3	phoning	_	Word	Word	_	0	H	0:H	_
+4	in	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+6	eager	_	Word	Word	_	8	D	8:D	_
+7	to	_	Word	Word	_	8	F	8:F	_
+8	find	_	Word	Word	_	3	H	3:H	_
+9	out	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	who	_	Word	Word	_	13	A	13:A	_
+11	the	_	Word	Word	_	12	E	12:E	_
+12	singer	_	Word	Word	_	13	A	13:A	_
+13	was	_	Word	Word	_	8	A	8:A	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

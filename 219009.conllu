@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 219009
+# text = She has expressed interest in playing the role of Blondie frontwoman Debbie Harry in Michel Gondry 's upcoming biographical film about the band .
+1	She	_	Word	Word	_	4	A	4:A|6:A	_
+2	has	_	Word	Word	_	4	F	4:F	_
+3	expressed	_	Word	Word	_	4	D	4:D	_
+4	interest	_	Word	Word	_	0	H	0:H	_
+5	in	_	Word	Word	_	6	R	6:R	_
+6	playing	_	Word	Word	_	4	A	4:A	_
+7	the	_	Word	Word	_	8	F	8:F	_
+8	role	_	Word	Word	_	6	A	6:A	_
+9	of	_	Word	Word	_	12	R	12:R	_
+10	Blondie	_	Word	Word	_	11	E	11:E	_
+11	frontwoman	_	Word	Word	_	12	E	12:E	_
+12	Debbie	_	Word	Word	_	8	E	8:E	_
+13	Harry	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	in	_	Word	Word	_	20	R	20:R	_
+15	Michel	_	Word	Word	_	17	A	17:A	_
+16	Gondry	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	's	_	Word	Word	_	20	E	20:E	_
+18	upcoming	_	Word	Word	_	20	E	20:E	_
+19	biographical	_	Word	Word	_	20	E	20:E	_
+20	film	_	Word	Word	_	6	A	6:A	_
+21	about	_	Word	Word	_	23	R	23:R	_
+22	the	_	Word	Word	_	23	F	23:F	_
+23	band	_	Word	Word	_	20	E	20:E	_
+24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

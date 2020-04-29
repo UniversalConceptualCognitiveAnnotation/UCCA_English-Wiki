@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 557016
+# text = Presley came by the studio , but was unable to do it justice .
+1	Presley	_	Word	Word	_	2	A	2:A|11:A	_
+2	came	_	Word	Word	_	0	H	0:H	_
+3	by	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	the	_	Word	Word	_	5	E	5:E	_
+5	studio	_	Word	Word	_	2	A	2:A	_
+6	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+7	but	_	Word	Word	_	11	L	11:L	_
+8	was	_	Word	Word	_	11	F	11:F	_
+9	unable	_	Word	Word	_	11	D	11:D	_
+10	to	_	Word	Word	_	11	F	11:F	_
+11	do	_	Word	Word	_	2	H	2:H	_
+12	it	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	justice	_	Word	Word	_	11	Terminal	11:Terminal	_
+14	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+

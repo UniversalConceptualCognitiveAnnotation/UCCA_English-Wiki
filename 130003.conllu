@@ -1,0 +1,47 @@
+# format = ucca
+# sent_id = 130003
+# text = She would not give interviews and denied requests for autographs , which earned her the nickname " Katharine of Arrogance " . The public were also baffled by her boyish behavior and fashion choices , and she became a largely unpopular figure .
+1	She	_	Word	Word	_	5	A	5:A|7:A	_
+2	would	_	Word	Word	_	5	F	5:F	_
+3	not	_	Word	Word	_	5	D	5:D	_
+4	give	_	Word	Word	_	5	F	5:F	_
+5	interviews	_	Word	Word	_	0	H	0:H	_
+6	and	_	Word	Word	_	7	L	7:L	_
+7	denied	_	Word	Word	_	5	H	5:H	_
+8	requests	_	Word	Word	_	7	A	7:A	_
+9	for	_	Word	Word	_	10	R	10:R	_
+10	autographs	_	Word	Word	_	8	A	8:A	_
+11	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+12	which	_	Word	Word	_	13	L	13:L	_
+13	earned	_	Word	Word	_	5	H	5:H	_
+14	her	_	Word	Word	_	13	A	13:A	_
+15	the	_	Word	Word	_	16	F	16:F	_
+16	nickname	_	Word	Word	_	18	E	18:E	_
+17	"	_	Punctuation	Punctuation	_	18	U	18:U	_
+18	Katharine	_	Word	Word	_	13	A	13:A	_
+19	of	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	Arrogance	_	Word	Word	_	18	Terminal	18:Terminal	_
+21	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+22	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+23	The	_	Word	Word	_	24	F	24:F	_
+24	public	_	Word	Word	_	27	A	27:A	_
+25	were	_	Word	Word	_	27	F	27:F	_
+26	also	_	Word	Word	_	27	D	27:D	_
+27	baffled	_	Word	Word	_	5	H	5:H	_
+28	by	_	Word	Word	_	31	R	31:R	_
+29	her	_	Word	Word	_	31	A	31:A|34:A	_
+30	boyish	_	Word	Word	_	31	A	31:A	_
+31	behavior	_	Word	Word	_	27	A	27:A	_
+32	and	_	Word	Word	_	34	L	34:L	_
+33	fashion	_	Word	Word	_	34	A	34:A	_
+34	choices	_	Word	Word	_	31	H	31:H	_
+35	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+36	and	_	Word	Word	_	38	L	38:L	_
+37	she	_	Word	Word	_	38	A	38:A	_
+38	became	_	Word	Word	_	5	H	5:H	_
+39	a	_	Word	Word	_	42	F	42:F	_
+40	largely	_	Word	Word	_	41	D	41:D	_
+41	unpopular	_	Word	Word	_	42	E	42:E	_
+42	figure	_	Word	Word	_	38	A	38:A	_
+43	.	_	Punctuation	Punctuation	_	42	U	42:U	_
+

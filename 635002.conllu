@@ -1,0 +1,39 @@
+# format = ucca
+# sent_id = 635002
+# text = The following January he was unknowingly introduced to LSD when a dentist , hosting a dinner party attended by Lennon , Harrison and their wives , spiked the guests ' coffee with the drug .
+1	The	_	Word	Word	_	3	E	3:E	_
+2	following	_	Word	Word	_	3	E	3:E	_
+3	January	_	Word	Word	_	7	T	7:T	_
+4	he	_	Word	Word	_	7	A	7:A	_
+5	was	_	Word	Word	_	7	F	7:F	_
+6	unknowingly	_	Word	Word	_	7	D	7:D	_
+7	introduced	_	Word	Word	_	0	H	0:H	_
+8	to	_	Word	Word	_	9	R	9:R	_
+9	LSD	_	Word	Word	_	7	A	7:A	_
+10	when	_	Word	Word	_	14	L	14:L	_
+11	a	_	Word	Word	_	12	E	12:E	_
+12	dentist	_	Word	Word	_	0	C	0:C|14:A	_
+13	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+14	hosting	_	Word	Word	_	7	H	7:H	_
+15	a	_	Word	Word	_	17	E	17:E	_
+16	dinner	_	Word	Word	_	17	E	17:E	_
+17	party	_	Word	Word	_	14	A	14:A	_
+18	attended	_	Word	Word	_	17	E	17:E	_
+19	by	_	Word	Word	_	20	R	20:R	_
+20	Lennon	_	Word	Word	_	18	A	18:A	_
+21	,	_	Punctuation	Punctuation	_	20	U	20:U	_
+22	Harrison	_	Word	Word	_	20	C	20:C	_
+23	and	_	Word	Word	_	20	N	20:N	_
+24	their	_	Word	Word	_	25	A	25:A	_
+25	wives	_	Word	Word	_	20	C	20:C	_
+26	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+27	spiked	_	Word	Word	_	7	H	7:H	_
+28	the	_	Word	Word	_	31	E	31:E	_
+29	guests	_	Word	Word	_	31	E	31:E	_
+30	'	_	Punctuation	Punctuation	_	31	U	31:U	_
+31	coffee	_	Word	Word	_	27	A	27:A	_
+32	with	_	Word	Word	_	34	R	34:R	_
+33	the	_	Word	Word	_	34	E	34:E	_
+34	drug	_	Word	Word	_	27	A	27:A	_
+35	.	_	Punctuation	Punctuation	_	34	U	34:U	_
+

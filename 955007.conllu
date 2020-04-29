@@ -1,0 +1,47 @@
+# format = ucca
+# sent_id = 955007
+# text = According to legend , Myron Selznick took Leigh and Olivier to the set where the burning of the Atlanta Depot scene was being filmed and introduced Leigh , telling his brother , " Hey , genius , meet your Scarlett O'Hara . "
+1	According	_	Word	Word	_	0	H	0:H	_
+2	to	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	legend	_	Word	Word	_	1	A	1:A	_
+4	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+5	Myron	_	Word	Word	_	7	A	7:A|26:A|29:A	_
+6	Selznick	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	took	_	Word	Word	_	1	A	1:A	_
+8	Leigh	_	Word	Word	_	7	A	7:A	_
+9	and	_	Word	Word	_	8	N	8:N	_
+10	Olivier	_	Word	Word	_	8	C	8:C	_
+11	to	_	Word	Word	_	13	R	13:R	_
+12	the	_	Word	Word	_	13	E	13:E	_
+13	set	_	Word	Word	_	7	A	7:A	_
+14	where	_	Word	Word	_	24	R	24:R	_
+15	the	_	Word	Word	_	16	E	16:E	_
+16	burning	_	Word	Word	_	21	A	21:A	_
+17	of	_	Word	Word	_	20	R	20:R	_
+18	the	_	Word	Word	_	20	E	20:E	_
+19	Atlanta	_	Word	Word	_	20	E	20:E	_
+20	Depot	_	Word	Word	_	16	A	16:A	_
+21	scene	_	Word	Word	_	24	A	24:A	_
+22	was	_	Word	Word	_	24	F	24:F	_
+23	being	_	Word	Word	_	24	F	24:F	_
+24	filmed	_	Word	Word	_	13	E	13:E	_
+25	and	_	Word	Word	_	26	L	26:L	_
+26	introduced	_	Word	Word	_	1	H	1:H	_
+27	Leigh	_	Word	Word	_	26	A	26:A	_
+28	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+29	telling	_	Word	Word	_	1	H	1:H	_
+30	his	_	Word	Word	_	29	A	29:A	_
+31	brother	_	Word	Word	_	30	A	30:A	_
+32	,	_	Punctuation	Punctuation	_	29	U	29:U	_
+33	"	_	Punctuation	Punctuation	_	29	U	29:U	_
+34	Hey	_	Word	Word	_	36	F	36:F	_
+35	,	_	Punctuation	Punctuation	_	36	U	36:U	_
+36	genius	_	Word	Word	_	38	G	38:G	_
+37	,	_	Punctuation	Punctuation	_	38	U	38:U	_
+38	meet	_	Word	Word	_	29	A	29:A	_
+39	your	_	Word	Word	_	40	E	40:E	_
+40	Scarlett	_	Word	Word	_	38	A	38:A	_
+41	O'Hara	_	Word	Word	_	40	Terminal	40:Terminal	_
+42	.	_	Punctuation	Punctuation	_	40	U	40:U	_
+43	"	_	Punctuation	Punctuation	_	40	U	40:U	_
+

@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 961005
+# text = Several weeks later , she miscarried and entered a period of depression that lasted for months .
+1	Several	_	Word	Word	_	2	Q	2:Q	_
+2	weeks	_	Word	Word	_	6	T	6:T	_
+3	later	_	Word	Word	_	2	R	2:R	_
+4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	she	_	Word	Word	_	6	A	6:A	_
+6	miscarried	_	Word	Word	_	0	H	0:H	_
+7	and	_	Word	Word	_	14	L	14:L	_
+8	entered	_	Word	Word	_	12	D	12:D	_
+9	a	_	Word	Word	_	10	E	10:E	_
+10	period	_	Word	Word	_	12	T	12:T	_
+11	of	_	Word	Word	_	12	R	12:R	_
+12	depression	_	Word	Word	_	0	C	0:C|14:P	_
+13	that	_	Word	Word	_	14	L	14:L	_
+14	lasted	_	Word	Word	_	6	H	6:H	_
+15	for	_	Word	Word	_	16	R	16:R	_
+16	months	_	Word	Word	_	14	T	14:T	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

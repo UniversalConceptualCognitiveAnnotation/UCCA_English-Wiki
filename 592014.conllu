@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 592014
+# text = Several reports indicated Depp bought Burnham Westgate Hall in Norfolk , England , a 13 - bedroom Georgian country house , in June 2011 .
+1	Several	_	Word	Word	_	2	Q	2:Q	_
+2	reports	_	Word	Word	_	3	A	3:A	_
+3	indicated	_	Word	Word	_	0	H	0:H	_
+4	Depp	_	Word	Word	_	5	A	5:A	_
+5	bought	_	Word	Word	_	3	A	3:A	_
+6	Burnham	_	Word	Word	_	5	A	5:A	_
+7	Westgate	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	Hall	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	in	_	Word	Word	_	10	R	10:R	_
+10	Norfolk	_	Word	Word	_	6	E	6:E	_
+11	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	England	_	Word	Word	_	10	C	10:C	_
+13	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+14	a	_	Word	Word	_	20	E	20:E	_
+15	13	_	Word	Word	_	17	Q	17:Q	_
+16	-	_	Punctuation	Punctuation	_	17	U	17:U	_
+17	bedroom	_	Word	Word	_	20	E	20:E	_
+18	Georgian	_	Word	Word	_	20	E	20:E	_
+19	country	_	Word	Word	_	20	E	20:E	_
+20	house	_	Word	Word	_	6	E	6:E	_
+21	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+22	in	_	Word	Word	_	23	R	23:R	_
+23	June	_	Word	Word	_	5	T	5:T	_
+24	2011	_	Word	Word	_	23	C	23:C	_
+25	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

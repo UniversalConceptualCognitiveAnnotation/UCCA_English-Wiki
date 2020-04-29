@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 1027003
+# text = A Captain EO attraction was later featured at Euro Disneyland after that park opened in 1992 .
+1	A	_	Word	Word	_	4	E	4:E	_
+2	Captain	_	Word	Word	_	4	E	4:E	_
+3	EO	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	attraction	_	Word	Word	_	7	A	7:A	_
+5	was	_	Word	Word	_	7	F	7:F	_
+6	later	_	Word	Word	_	7	T	7:T	_
+7	featured	_	Word	Word	_	0	H	0:H	_
+8	at	_	Word	Word	_	10	R	10:R	_
+9	Euro	_	Word	Word	_	10	E	10:E	_
+10	Disneyland	_	Word	Word	_	7	A	7:A	_
+11	after	_	Word	Word	_	14	L	14:L	_
+12	that	_	Word	Word	_	13	E	13:E	_
+13	park	_	Word	Word	_	14	A	14:A	_
+14	opened	_	Word	Word	_	7	H	7:H	_
+15	in	_	Word	Word	_	16	R	16:R	_
+16	1992	_	Word	Word	_	14	T	14:T	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

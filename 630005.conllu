@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 630005
+# text = In July 1946 Lennon 's father visited Smith and took his son to Blackpool , secretly intending to emigrate to New Zealand with him .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	July	_	Word	Word	_	7	T	7:T	_
+3	1946	_	Word	Word	_	2	C	2:C	_
+4	Lennon	_	Word	Word	_	6	A	6:A	_
+5	's	_	Word	Word	_	4	R	4:R	_
+6	father	_	Word	Word	_	0	S	0:S|10:A|19:A	_
+7	visited	_	Word	Word	_	0	H	0:H	_
+8	Smith	_	Word	Word	_	7	A	7:A	_
+9	and	_	Word	Word	_	10	L	10:L	_
+10	took	_	Word	Word	_	7	H	7:H	_
+11	his	_	Word	Word	_	10	A	10:A	_
+12	son	_	Word	Word	_	11	A	11:A	_
+13	to	_	Word	Word	_	14	R	14:R	_
+14	Blackpool	_	Word	Word	_	10	A	10:A	_
+15	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+16	secretly	_	Word	Word	_	19	G	19:G	_
+17	intending	_	Word	Word	_	19	D	19:D	_
+18	to	_	Word	Word	_	19	F	19:F	_
+19	emigrate	_	Word	Word	_	7	H	7:H	_
+20	to	_	Word	Word	_	21	R	21:R	_
+21	New	_	Word	Word	_	19	A	19:A	_
+22	Zealand	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	with	_	Word	Word	_	24	R	24:R	_
+24	him	_	Word	Word	_	19	A	19:A	_
+25	.	_	Punctuation	Punctuation	_	24	U	24:U	_
+

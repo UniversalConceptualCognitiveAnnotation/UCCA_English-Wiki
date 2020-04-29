@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 1026008
+# text = During the course of his treatment , Jackson made two close friends : his dermatologist , Dr. Arnold Klein , and Klein 's nurse Debbie Rowe .
+1	During	_	Word	Word	_	12	L	12:L	_
+2	the	_	Word	Word	_	3	E	3:E	_
+3	course	_	Word	Word	_	6	T	6:T	_
+4	of	_	Word	Word	_	6	R	6:R	_
+5	his	_	Word	Word	_	6	A	6:A	_
+6	treatment	_	Word	Word	_	0	H	0:H	_
+7	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	Jackson	_	Word	Word	_	12	A	12:A	_
+9	made	_	Word	Word	_	12	D	12:D	_
+10	two	_	Word	Word	_	12	D	12:D	_
+11	close	_	Word	Word	_	12	D	12:D	_
+12	friends	_	Word	Word	_	6	H	6:H	_
+13	:	_	Punctuation	Punctuation	_	12	U	12:U	_
+14	his	_	Word	Word	_	15	A	15:A	_
+15	dermatologist	_	Word	Word	_	18	E	18:E	_
+16	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+17	Dr.	_	Word	Word	_	18	E	18:E	_
+18	Arnold	_	Word	Word	_	12	A	12:A	_
+19	Klein	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+21	and	_	Word	Word	_	18	N	18:N	_
+22	Klein	_	Word	Word	_	24	A	24:A	_
+23	's	_	Word	Word	_	22	R	22:R	_
+24	nurse	_	Word	Word	_	25	E	25:E	_
+25	Debbie	_	Word	Word	_	18	C	18:C	_
+26	Rowe	_	Word	Word	_	25	Terminal	25:Terminal	_
+27	.	_	Punctuation	Punctuation	_	25	U	25:U	_
+

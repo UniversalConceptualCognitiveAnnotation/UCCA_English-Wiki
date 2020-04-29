@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 599004
+# text = More than 2,200 artists have covered his Beatles song " Yesterday " , more than any other song in history .
+1	More	_	Word	Word	_	4	E	4:E	_
+2	than	_	Word	Word	_	1	R	1:R	_
+3	2,200	_	Word	Word	_	4	Q	4:Q	_
+4	artists	_	Word	Word	_	0	C	0:C|18:A	_
+5	have	_	Word	Word	_	6	F	6:F	_
+6	covered	_	Word	Word	_	0	H	0:H	_
+7	his	_	Word	Word	_	9	E	9:E	_
+8	Beatles	_	Word	Word	_	9	E	9:E	_
+9	song	_	Word	Word	_	11	E	11:E	_
+10	"	_	Punctuation	Punctuation	_	11	U	11:U	_
+11	Yesterday	_	Word	Word	_	6	A	6:A	_
+12	"	_	Punctuation	Punctuation	_	6	U	6:U	_
+13	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+14	more	_	Word	Word	_	18	L	18:L	_
+15	than	_	Word	Word	_	14	R	14:R	_
+16	any	_	Word	Word	_	17	E	17:E	_
+17	other	_	Word	Word	_	18	E	18:E	_
+18	song	_	Word	Word	_	6	H	6:H	_
+19	in	_	Word	Word	_	20	R	20:R	_
+20	history	_	Word	Word	_	18	T	18:T	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+

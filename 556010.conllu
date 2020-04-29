@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 556010
+# text = He was a regular audience member at the monthly All - Night Singings downtown , where many of the white gospel groups that performed reflected the influence of African - American spiritual music .
+1	He	_	Word	Word	_	0	H	0:H	_
+2	was	_	Word	Word	_	1	F	1:F	_
+3	a	_	Word	Word	_	1	F	1:F	_
+4	regular	_	Word	Word	_	1	T	1:T	_
+5	audience	_	Word	Word	_	6	E	6:E	_
+6	member	_	Word	Word	_	1	A	1:A	_
+7	at	_	Word	Word	_	13	R	13:R	_
+8	the	_	Word	Word	_	13	F	13:F	_
+9	monthly	_	Word	Word	_	13	T	13:T	_
+10	All	_	Word	Word	_	12	Q	12:Q	_
+11	-	_	Punctuation	Punctuation	_	12	U	12:U	_
+12	Night	_	Word	Word	_	13	T	13:T	_
+13	Singings	_	Word	Word	_	1	A	1:A	_
+14	downtown	_	Word	Word	_	13	A	13:A	_
+15	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+16	where	_	Word	Word	_	27	L	27:L	_
+17	many	_	Word	Word	_	20	Q	20:Q	_
+18	of	_	Word	Word	_	20	R	20:R	_
+19	the	_	Word	Word	_	20	F	20:F	_
+20	white	_	Word	Word	_	27	A	27:A	_
+21	gospel	_	Word	Word	_	20	A	20:A	_
+22	groups	_	Word	Word	_	20	A	20:A|24:A	_
+23	that	_	Word	Word	_	24	R	24:R	_
+24	performed	_	Word	Word	_	20	E	20:E	_
+25	reflected	_	Word	Word	_	27	D	27:D	_
+26	the	_	Word	Word	_	27	E	27:E	_
+27	influence	_	Word	Word	_	1	H	1:H	_
+28	of	_	Word	Word	_	33	R	33:R	_
+29	African	_	Word	Word	_	31	E	31:E	_
+30	-	_	Punctuation	Punctuation	_	31	U	31:U	_
+31	American	_	Word	Word	_	33	E	33:E	_
+32	spiritual	_	Word	Word	_	33	E	33:E	_
+33	music	_	Word	Word	_	27	A	27:A	_
+34	.	_	Punctuation	Punctuation	_	33	U	33:U	_
+

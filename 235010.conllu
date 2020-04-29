@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 235010
+# text = Chan 's comments prompted an angry response from some legislators and other prominent figures in Taiwan and Hong Kong .
+1	Chan	_	Word	Word	_	3	A	3:A	_
+2	's	_	Word	Word	_	1	R	1:R	_
+3	comments	_	Word	Word	_	7	A	7:A	_
+4	prompted	_	Word	Word	_	7	D	7:D	_
+5	an	_	Word	Word	_	7	F	7:F	_
+6	angry	_	Word	Word	_	7	D	7:D	_
+7	response	_	Word	Word	_	0	H	0:H	_
+8	from	_	Word	Word	_	10	R	10:R	_
+9	some	_	Word	Word	_	10	Q	10:Q	_
+10	legislators	_	Word	Word	_	7	A	7:A	_
+11	and	_	Word	Word	_	10	N	10:N	_
+12	other	_	Word	Word	_	14	E	14:E	_
+13	prominent	_	Word	Word	_	14	E	14:E	_
+14	figures	_	Word	Word	_	10	C	10:C	_
+15	in	_	Word	Word	_	16	R	16:R	_
+16	Taiwan	_	Word	Word	_	14	E	14:E	_
+17	and	_	Word	Word	_	16	N	16:N	_
+18	Hong	_	Word	Word	_	16	C	16:C	_
+19	Kong	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

@@ -1,0 +1,40 @@
+# format = ucca
+# sent_id = 589001
+# text = Depp played the title role of Sweeney Todd in Tim Burton 's film adaptation of the musical , for which he won a Golden Globe Award for Best Actor – Motion Picture Musical or Comedy .
+1	Depp	_	Word	Word	_	2	A	2:A	_
+2	played	_	Word	Word	_	0	H	0:H	_
+3	the	_	Word	Word	_	5	E	5:E	_
+4	title	_	Word	Word	_	5	E	5:E	_
+5	role	_	Word	Word	_	2	A	2:A	_
+6	of	_	Word	Word	_	7	R	7:R	_
+7	Sweeney	_	Word	Word	_	5	E	5:E	_
+8	Todd	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	in	_	Word	Word	_	14	R	14:R	_
+10	Tim	_	Word	Word	_	12	A	12:A	_
+11	Burton	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	's	_	Word	Word	_	14	E	14:E	_
+13	film	_	Word	Word	_	14	E	14:E	_
+14	adaptation	_	Word	Word	_	2	A	2:A	_
+15	of	_	Word	Word	_	17	R	17:R	_
+16	the	_	Word	Word	_	17	E	17:E	_
+17	musical	_	Word	Word	_	14	E	14:E	_
+18	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+19	for	_	Word	Word	_	22	R	22:R	_
+20	which	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	he	_	Word	Word	_	22	A	22:A	_
+22	won	_	Word	Word	_	5	E	5:E	_
+23	a	_	Word	Word	_	24	E	24:E	_
+24	Golden	_	Word	Word	_	22	A	22:A	_
+25	Globe	_	Word	Word	_	24	Terminal	24:Terminal	_
+26	Award	_	Word	Word	_	24	Terminal	24:Terminal	_
+27	for	_	Word	Word	_	28	R	28:R	_
+28	Best	_	Word	Word	_	24	E	24:E	_
+29	Actor	_	Word	Word	_	28	Terminal	28:Terminal	_
+30	–	_	Punctuation	Punctuation	_	28	U	28:U	_
+31	Motion	_	Word	Word	_	32	E	32:E	_
+32	Picture	_	Word	Word	_	33	E	33:E	_
+33	Musical	_	Word	Word	_	28	E	28:E	_
+34	or	_	Word	Word	_	33	N	33:N	_
+35	Comedy	_	Word	Word	_	33	C	33:C	_
+36	.	_	Punctuation	Punctuation	_	33	U	33:U	_
+

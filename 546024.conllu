@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 546024
+# text = Asked to respond to his brother 's death , Jack said , " I did n't give a shit about Harry . "
+1	Asked	_	Word	Word	_	0	H	0:H	_
+2	to	_	Word	Word	_	3	F	3:F	_
+3	respond	_	Word	Word	_	1	A	1:A	_
+4	to	_	Word	Word	_	8	R	8:R	_
+5	his	_	Word	Word	_	6	A	6:A	_
+6	brother	_	Word	Word	_	8	A	8:A	_
+7	's	_	Word	Word	_	6	R	6:R	_
+8	death	_	Word	Word	_	3	A	3:A	_
+9	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+10	Jack	_	Word	Word	_	11	A	11:A|1:A	_
+11	said	_	Word	Word	_	1	H	1:H	_
+12	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+13	"	_	Punctuation	Punctuation	_	11	U	11:U	_
+14	I	_	Word	Word	_	17	A	17:A	_
+15	did	_	Word	Word	_	17	F	17:F	_
+16	n't	_	Word	Word	_	17	D	17:D	_
+17	give	_	Word	Word	_	11	A	11:A	_
+18	a	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	shit	_	Word	Word	_	17	Terminal	17:Terminal	_
+20	about	_	Word	Word	_	21	R	21:R	_
+21	Harry	_	Word	Word	_	17	A	17:A	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+23	"	_	Punctuation	Punctuation	_	21	U	21:U	_
+

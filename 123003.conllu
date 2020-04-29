@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 123003
+# text = The incident made the teenage Hepburn nervous , moody , and suspicious of people .
+1	The	_	Word	Word	_	2	F	2:F	_
+2	incident	_	Word	Word	_	0	P	0:P|12:A	_
+3	made	_	Word	Word	_	7	D	7:D|9:D|12:D	_
+4	the	_	Word	Word	_	6	F	6:F	_
+5	teenage	_	Word	Word	_	6	E	6:E	_
+6	Hepburn	_	Word	Word	_	0	C	0:C|5:A|12:A	_
+7	nervous	_	Word	Word	_	12	H	12:H	_
+8	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+9	moody	_	Word	Word	_	12	H	12:H	_
+10	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+11	and	_	Word	Word	_	12	L	12:L	_
+12	suspicious	_	Word	Word	_	0	H	0:H	_
+13	of	_	Word	Word	_	14	R	14:R	_
+14	people	_	Word	Word	_	12	A	12:A	_
+15	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

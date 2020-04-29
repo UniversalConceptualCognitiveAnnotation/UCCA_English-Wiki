@@ -1,0 +1,52 @@
+# format = ucca
+# sent_id = 652016
+# text = In 1997 , respecting President Bill Clinton 's newly instigated rule that documents should be withheld only if releasing them would involve " foreseeable harm " , the Justice Department settled most of the outstanding issues outside court by releasing all but 10 of the contested documents .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1997	_	Word	Word	_	31	T	31:T	_
+3	,	_	Punctuation	Punctuation	_	31	U	31:U	_
+4	respecting	_	Word	Word	_	30	E	30:E	_
+5	President	_	Word	Word	_	6	E	6:E	_
+6	Bill	_	Word	Word	_	11	E	11:E	_
+7	Clinton	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	's	_	Word	Word	_	6	R	6:R	_
+9	newly	_	Word	Word	_	10	D	10:D	_
+10	instigated	_	Word	Word	_	11	E	11:E	_
+11	rule	_	Word	Word	_	4	A	4:A	_
+12	that	_	Word	Word	_	16	F	16:F	_
+13	documents	_	Word	Word	_	16	A	16:A	_
+14	should	_	Word	Word	_	16	D	16:D	_
+15	be	_	Word	Word	_	16	F	16:F	_
+16	withheld	_	Word	Word	_	11	E	11:E	_
+17	only	_	Word	Word	_	18	E	18:E	_
+18	if	_	Word	Word	_	22	L	22:L	_
+19	releasing	_	Word	Word	_	22	A	22:A	_
+20	them	_	Word	Word	_	19	A	19:A	_
+21	would	_	Word	Word	_	22	D	22:D	_
+22	involve	_	Word	Word	_	16	H	16:H	_
+23	"	_	Punctuation	Punctuation	_	22	U	22:U	_
+24	foreseeable	_	Word	Word	_	25	E	25:E	_
+25	harm	_	Word	Word	_	22	A	22:A	_
+26	"	_	Punctuation	Punctuation	_	30	U	30:U	_
+27	,	_	Punctuation	Punctuation	_	30	U	30:U	_
+28	the	_	Word	Word	_	30	E	30:E	_
+29	Justice	_	Word	Word	_	30	E	30:E	_
+30	Department	_	Word	Word	_	31	A	31:A	_
+31	settled	_	Word	Word	_	0	H	0:H	_
+32	most	_	Word	Word	_	36	Q	36:Q	_
+33	of	_	Word	Word	_	36	R	36:R	_
+34	the	_	Word	Word	_	36	E	36:E	_
+35	outstanding	_	Word	Word	_	36	E	36:E	_
+36	issues	_	Word	Word	_	31	A	31:A	_
+37	outside	_	Word	Word	_	38	R	38:R	_
+38	court	_	Word	Word	_	31	A	31:A	_
+39	by	_	Word	Word	_	40	R	40:R	_
+40	releasing	_	Word	Word	_	31	A	31:A	_
+41	all	_	Word	Word	_	47	Q	47:Q	_
+42	but	_	Word	Word	_	43	R	43:R	_
+43	10	_	Word	Word	_	41	E	41:E	_
+44	of	_	Word	Word	_	47	R	47:R	_
+45	the	_	Word	Word	_	47	E	47:E	_
+46	contested	_	Word	Word	_	47	E	47:E	_
+47	documents	_	Word	Word	_	40	A	40:A	_
+48	.	_	Punctuation	Punctuation	_	47	U	47:U	_
+

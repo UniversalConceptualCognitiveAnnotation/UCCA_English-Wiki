@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 953007
+# text = Her father enrolled her at the Royal Academy of Dramatic Art ( RADA ) in London .
+1	Her	_	Word	Word	_	3	A	3:A	_
+2	father	_	Word	Word	_	1	A	1:A	_
+3	enrolled	_	Word	Word	_	0	H	0:H	_
+4	her	_	Word	Word	_	3	A	3:A	_
+5	at	_	Word	Word	_	8	R	8:R	_
+6	the	_	Word	Word	_	8	E	8:E	_
+7	Royal	_	Word	Word	_	8	E	8:E	_
+8	Academy	_	Word	Word	_	3	A	3:A	_
+9	of	_	Word	Word	_	11	R	11:R	_
+10	Dramatic	_	Word	Word	_	11	E	11:E	_
+11	Art	_	Word	Word	_	8	E	8:E	_
+12	(	_	Punctuation	Punctuation	_	8	U	8:U	_
+13	RADA	_	Word	Word	_	8	E	8:E	_
+14	)	_	Punctuation	Punctuation	_	8	U	8:U	_
+15	in	_	Word	Word	_	16	R	16:R	_
+16	London	_	Word	Word	_	8	E	8:E	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

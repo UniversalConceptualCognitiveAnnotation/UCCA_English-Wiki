@@ -1,0 +1,51 @@
+# format = ucca
+# sent_id = 607000
+# text = London Town ( 1978 ) spawned a US number - one single ( " With a Little Luck " ) , and was Wings ' best - selling LP since Band on the Run , making the top five in both the US and the UK .
+1	London	_	Word	Word	_	0	C	0:C|4:A|23:A|36:A	_
+2	Town	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	(	_	Punctuation	Punctuation	_	1	U	1:U	_
+4	1978	_	Word	Word	_	1	E	1:E	_
+5	)	_	Punctuation	Punctuation	_	6	U	6:U	_
+6	spawned	_	Word	Word	_	0	H	0:H	_
+7	a	_	Word	Word	_	12	F	12:F	_
+8	US	_	Word	Word	_	12	E	12:E	_
+9	number	_	Word	Word	_	8	A	8:A	_
+10	-	_	Punctuation	Punctuation	_	9	U	9:U	_
+11	one	_	Word	Word	_	9	Q	9:Q	_
+12	single	_	Word	Word	_	15	E	15:E	_
+13	(	_	Punctuation	Punctuation	_	15	U	15:U	_
+14	"	_	Punctuation	Punctuation	_	15	U	15:U	_
+15	With	_	Word	Word	_	6	A	6:A	_
+16	a	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	Little	_	Word	Word	_	15	Terminal	15:Terminal	_
+18	Luck	_	Word	Word	_	15	Terminal	15:Terminal	_
+19	"	_	Punctuation	Punctuation	_	6	U	6:U	_
+20	)	_	Punctuation	Punctuation	_	6	U	6:U	_
+21	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+22	and	_	Word	Word	_	23	L	23:L	_
+23	was	_	Word	Word	_	6	H	6:H	_
+24	Wings	_	Word	Word	_	29	E	29:E	_
+25	'	_	Punctuation	Punctuation	_	29	U	29:U	_
+26	best	_	Word	Word	_	28	D	28:D	_
+27	-	_	Punctuation	Punctuation	_	28	U	28:U	_
+28	selling	_	Word	Word	_	29	E	29:E	_
+29	LP	_	Word	Word	_	23	A	23:A|31:A	_
+30	since	_	Word	Word	_	31	L	31:L	_
+31	Band	_	Word	Word	_	6	H	6:H	_
+32	on	_	Word	Word	_	31	Terminal	31:Terminal	_
+33	the	_	Word	Word	_	31	Terminal	31:Terminal	_
+34	Run	_	Word	Word	_	31	Terminal	31:Terminal	_
+35	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+36	making	_	Word	Word	_	6	H	6:H	_
+37	the	_	Word	Word	_	39	F	39:F	_
+38	top	_	Word	Word	_	39	E	39:E	_
+39	five	_	Word	Word	_	36	A	36:A	_
+40	in	_	Word	Word	_	43	R	43:R	_
+41	both	_	Word	Word	_	43	Q	43:Q	_
+42	the	_	Word	Word	_	43	F	43:F	_
+43	US	_	Word	Word	_	36	A	36:A	_
+44	and	_	Word	Word	_	43	N	43:N	_
+45	the	_	Word	Word	_	46	F	46:F	_
+46	UK	_	Word	Word	_	43	C	43:C	_
+47	.	_	Punctuation	Punctuation	_	46	U	46:U	_
+

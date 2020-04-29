@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 702001
+# text = Despite the film 's failure at the box office , the song " Knockin ' on Heaven 's Door " has proven its durability as one of Dylan 's most extensively covered songs .
+1	Despite	_	Word	Word	_	24	L	24:L	_
+2	the	_	Word	Word	_	3	E	3:E	_
+3	film	_	Word	Word	_	5	A	5:A	_
+4	's	_	Word	Word	_	3	R	3:R	_
+5	failure	_	Word	Word	_	0	H	0:H	_
+6	at	_	Word	Word	_	8	R	8:R	_
+7	the	_	Word	Word	_	8	E	8:E	_
+8	box	_	Word	Word	_	5	A	5:A	_
+9	office	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+11	the	_	Word	Word	_	12	E	12:E	_
+12	song	_	Word	Word	_	14	E	14:E	_
+13	"	_	Punctuation	Punctuation	_	14	U	14:U	_
+14	Knockin	_	Word	Word	_	24	A	24:A	_
+15	'	_	Punctuation	Punctuation	_	14	U	14:U	_
+16	on	_	Word	Word	_	14	Terminal	14:Terminal	_
+17	Heaven	_	Word	Word	_	14	Terminal	14:Terminal	_
+18	's	_	Word	Word	_	14	Terminal	14:Terminal	_
+19	Door	_	Word	Word	_	14	Terminal	14:Terminal	_
+20	"	_	Punctuation	Punctuation	_	24	U	24:U	_
+21	has	_	Word	Word	_	24	F	24:F	_
+22	proven	_	Word	Word	_	24	D	24:D	_
+23	its	_	Word	Word	_	24	E	24:E	_
+24	durability	_	Word	Word	_	5	H	5:H	_
+25	as	_	Word	Word	_	33	R	33:R	_
+26	one	_	Word	Word	_	33	Q	33:Q	_
+27	of	_	Word	Word	_	33	R	33:R	_
+28	Dylan	_	Word	Word	_	29	A	29:A	_
+29	's	_	Word	Word	_	33	E	33:E	_
+30	most	_	Word	Word	_	31	E	31:E	_
+31	extensively	_	Word	Word	_	32	D	32:D	_
+32	covered	_	Word	Word	_	33	E	33:E	_
+33	songs	_	Word	Word	_	24	A	24:A	_
+34	.	_	Punctuation	Punctuation	_	33	U	33:U	_
+

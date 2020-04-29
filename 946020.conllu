@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 946020
+# text = The leading single " Settle Down " was released in July .
+1	The	_	Word	Word	_	3	E	3:E	_
+2	leading	_	Word	Word	_	3	E	3:E	_
+3	single	_	Word	Word	_	5	E	5:E	_
+4	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+5	Settle	_	Word	Word	_	9	A	9:A	_
+6	Down	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	"	_	Punctuation	Punctuation	_	9	U	9:U	_
+8	was	_	Word	Word	_	9	F	9:F	_
+9	released	_	Word	Word	_	0	H	0:H	_
+10	in	_	Word	Word	_	11	R	11:R	_
+11	July	_	Word	Word	_	9	T	9:T	_
+12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+

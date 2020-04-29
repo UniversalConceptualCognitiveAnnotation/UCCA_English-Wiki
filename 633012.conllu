@@ -1,0 +1,40 @@
+# format = ucca
+# sent_id = 633012
+# text = Like the other band members , Lennon was introduced to Preludin while in Hamburg , and regularly took the drug , as well as amphetamines , as a stimulant during their long , overnight performances .
+1	Like	_	Word	Word	_	5	R	5:R	_
+2	the	_	Word	Word	_	3	E	3:E	_
+3	other	_	Word	Word	_	5	Q	5:Q	_
+4	band	_	Word	Word	_	5	E	5:E	_
+5	members	_	Word	Word	_	9	A	9:A	_
+6	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+7	Lennon	_	Word	Word	_	9	A	9:A|14:A|18:A	_
+8	was	_	Word	Word	_	9	F	9:F	_
+9	introduced	_	Word	Word	_	0	H	0:H	_
+10	to	_	Word	Word	_	11	R	11:R	_
+11	Preludin	_	Word	Word	_	9	A	9:A	_
+12	while	_	Word	Word	_	14	L	14:L	_
+13	in	_	Word	Word	_	14	R	14:R	_
+14	Hamburg	_	Word	Word	_	9	H	9:H	_
+15	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+16	and	_	Word	Word	_	18	L	18:L	_
+17	regularly	_	Word	Word	_	18	D	18:D	_
+18	took	_	Word	Word	_	9	H	9:H	_
+19	the	_	Word	Word	_	20	E	20:E	_
+20	drug	_	Word	Word	_	18	A	18:A	_
+21	,	_	Punctuation	Punctuation	_	20	U	20:U	_
+22	as	_	Word	Word	_	20	N	20:N	_
+23	well	_	Word	Word	_	22	Terminal	22:Terminal	_
+24	as	_	Word	Word	_	22	Terminal	22:Terminal	_
+25	amphetamines	_	Word	Word	_	20	C	20:C	_
+26	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+27	as	_	Word	Word	_	29	R	29:R	_
+28	a	_	Word	Word	_	29	E	29:E	_
+29	stimulant	_	Word	Word	_	18	A	18:A	_
+30	during	_	Word	Word	_	35	L	35:L	_
+31	their	_	Word	Word	_	35	A	35:A	_
+32	long	_	Word	Word	_	35	D	35:D	_
+33	,	_	Punctuation	Punctuation	_	35	U	35:U	_
+34	overnight	_	Word	Word	_	35	D	35:D	_
+35	performances	_	Word	Word	_	9	H	9:H	_
+36	.	_	Punctuation	Punctuation	_	35	U	35:U	_
+

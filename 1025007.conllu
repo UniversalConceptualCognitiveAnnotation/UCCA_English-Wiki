@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 1025007
+# text = Jackson 's agents thought they had a deal several times , but encountered new bidders or new areas of debate .
+1	Jackson	_	Word	Word	_	4	A	4:A	_
+2	's	_	Word	Word	_	1	R	1:R	_
+3	agents	_	Word	Word	_	1	A	1:A|13:A	_
+4	thought	_	Word	Word	_	0	H	0:H	_
+5	they	_	Word	Word	_	8	A	8:A	_
+6	had	_	Word	Word	_	8	F	8:F	_
+7	a	_	Word	Word	_	8	E	8:E	_
+8	deal	_	Word	Word	_	4	A	4:A	_
+9	several	_	Word	Word	_	10	Q	10:Q	_
+10	times	_	Word	Word	_	4	D	4:D	_
+11	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+12	but	_	Word	Word	_	13	L	13:L	_
+13	encountered	_	Word	Word	_	4	H	4:H	_
+14	new	_	Word	Word	_	15	D	15:D	_
+15	bidders	_	Word	Word	_	13	A	13:A	_
+16	or	_	Word	Word	_	15	N	15:N	_
+17	new	_	Word	Word	_	18	E	18:E	_
+18	areas	_	Word	Word	_	20	D	20:D	_
+19	of	_	Word	Word	_	20	R	20:R	_
+20	debate	_	Word	Word	_	15	C	15:C	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+

@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 135000
+# text = Tracy and Hepburn appeared on screen together for a third consecutive year in the 1949 film Adam 's Rib .
+1	Tracy	_	Word	Word	_	4	A	4:A	_
+2	and	_	Word	Word	_	1	N	1:N	_
+3	Hepburn	_	Word	Word	_	1	C	1:C	_
+4	appeared	_	Word	Word	_	0	H	0:H	_
+5	on	_	Word	Word	_	6	R	6:R	_
+6	screen	_	Word	Word	_	4	A	4:A	_
+7	together	_	Word	Word	_	4	D	4:D	_
+8	for	_	Word	Word	_	12	R	12:R	_
+9	a	_	Word	Word	_	12	E	12:E	_
+10	third	_	Word	Word	_	12	Q	12:Q	_
+11	consecutive	_	Word	Word	_	12	E	12:E	_
+12	year	_	Word	Word	_	4	A	4:A	_
+13	in	_	Word	Word	_	17	R	17:R	_
+14	the	_	Word	Word	_	16	E	16:E	_
+15	1949	_	Word	Word	_	16	E	16:E	_
+16	film	_	Word	Word	_	17	E	17:E	_
+17	Adam	_	Word	Word	_	4	A	4:A	_
+18	's	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	Rib	_	Word	Word	_	17	Terminal	17:Terminal	_
+20	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+

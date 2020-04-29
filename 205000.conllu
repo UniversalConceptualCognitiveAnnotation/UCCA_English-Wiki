@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 205000
+# text = Dustin Lee Hoffman ( born August 8 , 1937 ) is an American actor with a career in film , television , and theatre since 1960 .
+1	Dustin	_	Word	Word	_	0	C	0:C|5:A|17:A	_
+2	Lee	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	Hoffman	_	Word	Word	_	1	Terminal	1:Terminal	_
+4	(	_	Punctuation	Punctuation	_	1	U	1:U	_
+5	born	_	Word	Word	_	1	E	1:E	_
+6	August	_	Word	Word	_	5	T	5:T	_
+7	8	_	Word	Word	_	6	C	6:C	_
+8	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+9	1937	_	Word	Word	_	6	C	6:C	_
+10	)	_	Punctuation	Punctuation	_	14	U	14:U	_
+11	is	_	Word	Word	_	14	F	14:F	_
+12	an	_	Word	Word	_	14	F	14:F	_
+13	American	_	Word	Word	_	14	A	14:A	_
+14	actor	_	Word	Word	_	0	H	0:H	_
+15	with	_	Word	Word	_	17	L	17:L	_
+16	a	_	Word	Word	_	17	F	17:F	_
+17	career	_	Word	Word	_	14	H	14:H	_
+18	in	_	Word	Word	_	19	R	19:R	_
+19	film	_	Word	Word	_	17	A	17:A	_
+20	,	_	Punctuation	Punctuation	_	19	U	19:U	_
+21	television	_	Word	Word	_	19	C	19:C	_
+22	,	_	Punctuation	Punctuation	_	19	U	19:U	_
+23	and	_	Word	Word	_	19	N	19:N	_
+24	theatre	_	Word	Word	_	19	C	19:C	_
+25	since	_	Word	Word	_	26	R	26:R	_
+26	1960	_	Word	Word	_	17	T	17:T	_
+27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+

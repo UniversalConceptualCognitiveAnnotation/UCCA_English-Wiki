@@ -1,0 +1,56 @@
+# format = ucca
+# sent_id = 957013
+# text = Winston Churchill arranged a screening for a party that included Franklin D. Roosevelt and , on its conclusion , addressed the group , saying , " Gentlemen , I thought this film would interest you , showing great events similar to those in which you have just been taking part . "
+1	Winston	_	Word	Word	_	3	A	3:A|20:A|24:A	_
+2	Churchill	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	arranged	_	Word	Word	_	0	H	0:H	_
+4	a	_	Word	Word	_	5	E	5:E	_
+5	screening	_	Word	Word	_	3	A	3:A	_
+6	for	_	Word	Word	_	10	L	10:L	_
+7	a	_	Word	Word	_	8	E	8:E	_
+8	party	_	Word	Word	_	0	C	0:C|10:A	_
+9	that	_	Word	Word	_	10	L	10:L	_
+10	included	_	Word	Word	_	5	H	5:H	_
+11	Franklin	_	Word	Word	_	10	A	10:A	_
+12	D.	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	Roosevelt	_	Word	Word	_	11	Terminal	11:Terminal	_
+14	and	_	Word	Word	_	18	L	18:L	_
+15	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+16	on	_	Word	Word	_	18	L	18:L	_
+17	its	_	Word	Word	_	18	A	18:A	_
+18	conclusion	_	Word	Word	_	3	H	3:H	_
+19	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+20	addressed	_	Word	Word	_	3	H	3:H	_
+21	the	_	Word	Word	_	22	E	22:E	_
+22	group	_	Word	Word	_	20	A	20:A	_
+23	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+24	saying	_	Word	Word	_	3	H	3:H	_
+25	,	_	Punctuation	Punctuation	_	24	U	24:U	_
+26	"	_	Punctuation	Punctuation	_	24	U	24:U	_
+27	Gentlemen	_	Word	Word	_	30	G	30:G	_
+28	,	_	Punctuation	Punctuation	_	30	U	30:U	_
+29	I	_	Word	Word	_	30	A	30:A	_
+30	thought	_	Word	Word	_	24	A	24:A	_
+31	this	_	Word	Word	_	32	E	32:E	_
+32	film	_	Word	Word	_	0	C	0:C|37:A	_
+33	would	_	Word	Word	_	34	D	34:D	_
+34	interest	_	Word	Word	_	30	A	30:A	_
+35	you	_	Word	Word	_	34	A	34:A	_
+36	,	_	Punctuation	Punctuation	_	30	U	30:U	_
+37	showing	_	Word	Word	_	30	H	30:H	_
+38	great	_	Word	Word	_	39	D	39:D	_
+39	events	_	Word	Word	_	37	A	37:A	_
+40	similar	_	Word	Word	_	39	E	39:E	_
+41	to	_	Word	Word	_	42	R	42:R	_
+42	those	_	Word	Word	_	40	A	40:A	_
+43	in	_	Word	Word	_	50	R	50:R	_
+44	which	_	Word	Word	_	43	Terminal	43:Terminal	_
+45	you	_	Word	Word	_	50	A	50:A	_
+46	have	_	Word	Word	_	50	F	50:F	_
+47	just	_	Word	Word	_	50	T	50:T	_
+48	been	_	Word	Word	_	50	F	50:F	_
+49	taking	_	Word	Word	_	50	F	50:F	_
+50	part	_	Word	Word	_	42	E	42:E	_
+51	.	_	Punctuation	Punctuation	_	50	U	50:U	_
+52	"	_	Punctuation	Punctuation	_	50	U	50:U	_
+

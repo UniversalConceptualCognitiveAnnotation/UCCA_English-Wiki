@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 601005
+# text = They adopted the name the Beatles in August 1960 and recruited drummer Pete Best shortly before a five - engagement residency in Hamburg .
+1	They	_	Word	Word	_	2	A	2:A|11:A|20:A|21:A	_
+2	adopted	_	Word	Word	_	0	H	0:H	_
+3	the	_	Word	Word	_	4	E	4:E	_
+4	name	_	Word	Word	_	5	E	5:E	_
+5	the	_	Word	Word	_	2	A	2:A	_
+6	Beatles	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	in	_	Word	Word	_	8	R	8:R	_
+8	August	_	Word	Word	_	2	T	2:T	_
+9	1960	_	Word	Word	_	8	C	8:C	_
+10	and	_	Word	Word	_	11	L	11:L	_
+11	recruited	_	Word	Word	_	2	H	2:H	_
+12	drummer	_	Word	Word	_	11	A	11:A	_
+13	Pete	_	Word	Word	_	12	A	12:A	_
+14	Best	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	shortly	_	Word	Word	_	16	E	16:E	_
+16	before	_	Word	Word	_	21	L	21:L	_
+17	a	_	Word	Word	_	21	E	21:E	_
+18	five	_	Word	Word	_	20	D	20:D	_
+19	-	_	Punctuation	Punctuation	_	20	U	20:U	_
+20	engagement	_	Word	Word	_	21	A	21:A	_
+21	residency	_	Word	Word	_	2	H	2:H	_
+22	in	_	Word	Word	_	23	R	23:R	_
+23	Hamburg	_	Word	Word	_	21	A	21:A	_
+24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

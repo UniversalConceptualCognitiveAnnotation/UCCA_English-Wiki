@@ -1,0 +1,39 @@
+# format = ucca
+# sent_id = 692006
+# text = By the time Dylan 's second album , The Freewheelin ' Bob Dylan , was released in May 1963 , he had begun to make his name as both a singer and a songwriter .
+1	By	_	Word	Word	_	3	R	3:R	_
+2	the	_	Word	Word	_	3	E	3:E	_
+3	time	_	Word	Word	_	25	L	25:L	_
+4	Dylan	_	Word	Word	_	5	A	5:A	_
+5	's	_	Word	Word	_	7	E	7:E	_
+6	second	_	Word	Word	_	7	Q	7:Q	_
+7	album	_	Word	Word	_	9	E	9:E	_
+8	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+9	The	_	Word	Word	_	16	A	16:A	_
+10	Freewheelin	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	'	_	Punctuation	Punctuation	_	9	U	9:U	_
+12	Bob	_	Word	Word	_	9	Terminal	9:Terminal	_
+13	Dylan	_	Word	Word	_	9	Terminal	9:Terminal	_
+14	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+15	was	_	Word	Word	_	16	F	16:F	_
+16	released	_	Word	Word	_	0	H	0:H	_
+17	in	_	Word	Word	_	18	R	18:R	_
+18	May	_	Word	Word	_	16	T	16:T	_
+19	1963	_	Word	Word	_	18	C	18:C	_
+20	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+21	he	_	Word	Word	_	25	A	25:A	_
+22	had	_	Word	Word	_	25	F	25:F	_
+23	begun	_	Word	Word	_	25	D	25:D	_
+24	to	_	Word	Word	_	25	F	25:F	_
+25	make	_	Word	Word	_	16	H	16:H	_
+26	his	_	Word	Word	_	25	Terminal	25:Terminal	_
+27	name	_	Word	Word	_	25	Terminal	25:Terminal	_
+28	as	_	Word	Word	_	31	R	31:R	_
+29	both	_	Word	Word	_	34	L	34:L	_
+30	a	_	Word	Word	_	31	E	31:E	_
+31	singer	_	Word	Word	_	25	A	25:A	_
+32	and	_	Word	Word	_	34	L	34:L	_
+33	a	_	Word	Word	_	34	E	34:E	_
+34	songwriter	_	Word	Word	_	31	H	31:H	_
+35	.	_	Punctuation	Punctuation	_	34	U	34:U	_
+

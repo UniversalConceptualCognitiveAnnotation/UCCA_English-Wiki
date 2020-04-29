@@ -1,0 +1,44 @@
+# format = ucca
+# sent_id = 633000
+# text = The Beatles evolved from Lennon 's first band , the Quarrymen . Named after Quarry Bank High School , the group was established by him in September 1956 when he was 15 , and began as a skiffle group .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	Beatles	_	Word	Word	_	3	A	3:A	_
+3	evolved	_	Word	Word	_	0	H	0:H	_
+4	from	_	Word	Word	_	11	R	11:R	_
+5	Lennon	_	Word	Word	_	8	E	8:E	_
+6	's	_	Word	Word	_	5	R	5:R	_
+7	first	_	Word	Word	_	8	E	8:E	_
+8	band	_	Word	Word	_	11	E	11:E	_
+9	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+10	the	_	Word	Word	_	11	E	11:E	_
+11	Quarrymen	_	Word	Word	_	0	C	0:C|13:A	_
+12	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+13	Named	_	Word	Word	_	3	H	3:H	_
+14	after	_	Word	Word	_	17	R	17:R	_
+15	Quarry	_	Word	Word	_	17	E	17:E	_
+16	Bank	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	High	_	Word	Word	_	13	A	13:A	_
+18	School	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+20	the	_	Word	Word	_	21	E	21:E	_
+21	group	_	Word	Word	_	0	C	0:C|35:A	_
+22	was	_	Word	Word	_	23	F	23:F	_
+23	established	_	Word	Word	_	3	H	3:H	_
+24	by	_	Word	Word	_	25	R	25:R	_
+25	him	_	Word	Word	_	23	A	23:A	_
+26	in	_	Word	Word	_	27	R	27:R	_
+27	September	_	Word	Word	_	23	T	23:T	_
+28	1956	_	Word	Word	_	27	C	27:C	_
+29	when	_	Word	Word	_	30	L	30:L	_
+30	he	_	Word	Word	_	3	H	3:H	_
+31	was	_	Word	Word	_	30	F	30:F	_
+32	15	_	Word	Word	_	30	T	30:T	_
+33	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+34	and	_	Word	Word	_	35	L	35:L	_
+35	began	_	Word	Word	_	3	H	3:H	_
+36	as	_	Word	Word	_	39	R	39:R	_
+37	a	_	Word	Word	_	39	E	39:E	_
+38	skiffle	_	Word	Word	_	39	E	39:E	_
+39	group	_	Word	Word	_	35	A	35:A	_
+40	.	_	Punctuation	Punctuation	_	39	U	39:U	_
+

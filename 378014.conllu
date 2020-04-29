@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 378014
+# text = The play , which had been a critical sensation on Broadway , ran for eight weeks in London 's West End .
+1	The	_	Word	Word	_	2	F	2:F	_
+2	play	_	Word	Word	_	13	A	13:A	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	which	_	Word	Word	_	9	R	9:R	_
+5	had	_	Word	Word	_	9	F	9:F	_
+6	been	_	Word	Word	_	9	F	9:F	_
+7	a	_	Word	Word	_	9	F	9:F	_
+8	critical	_	Word	Word	_	9	A	9:A	_
+9	sensation	_	Word	Word	_	2	E	2:E	_
+10	on	_	Word	Word	_	11	R	11:R	_
+11	Broadway	_	Word	Word	_	9	A	9:A	_
+12	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+13	ran	_	Word	Word	_	0	H	0:H	_
+14	for	_	Word	Word	_	16	R	16:R	_
+15	eight	_	Word	Word	_	16	Q	16:Q	_
+16	weeks	_	Word	Word	_	13	T	13:T	_
+17	in	_	Word	Word	_	20	R	20:R	_
+18	London	_	Word	Word	_	20	E	20:E	_
+19	's	_	Word	Word	_	18	R	18:R	_
+20	West	_	Word	Word	_	13	A	13:A	_
+21	End	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+

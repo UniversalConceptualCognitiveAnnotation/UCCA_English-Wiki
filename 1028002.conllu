@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 1028002
+# text = Jackson broke a Guinness World Record when 504 , 000 people attended seven sold - out shows at Wembley Stadium .
+1	Jackson	_	Word	Word	_	2	A	2:A	_
+2	broke	_	Word	Word	_	0	H	0:H	_
+3	a	_	Word	Word	_	6	E	6:E	_
+4	Guinness	_	Word	Word	_	6	E	6:E	_
+5	World	_	Word	Word	_	6	E	6:E	_
+6	Record	_	Word	Word	_	2	A	2:A	_
+7	when	_	Word	Word	_	12	L	12:L	_
+8	504	_	Word	Word	_	11	Q	11:Q	_
+9	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+10	000	_	Word	Word	_	8	Terminal	8:Terminal	_
+11	people	_	Word	Word	_	12	A	12:A	_
+12	attended	_	Word	Word	_	2	H	2:H	_
+13	seven	_	Word	Word	_	17	D	17:D	_
+14	sold	_	Word	Word	_	17	E	17:E	_
+15	-	_	Punctuation	Punctuation	_	14	U	14:U	_
+16	out	_	Word	Word	_	14	Terminal	14:Terminal	_
+17	shows	_	Word	Word	_	12	A	12:A	_
+18	at	_	Word	Word	_	20	R	20:R	_
+19	Wembley	_	Word	Word	_	20	E	20:E	_
+20	Stadium	_	Word	Word	_	17	A	17:A	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+

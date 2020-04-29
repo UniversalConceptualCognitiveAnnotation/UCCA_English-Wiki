@@ -1,0 +1,40 @@
+# format = ucca
+# sent_id = 521006
+# text = In 1934 , the trio , who by then had been touring the vaudeville circuit as " The Gumm Sisters " for many years , performed in Chicago at the Oriental Theater with George Jessel .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1934	_	Word	Word	_	26	T	26:T	_
+3	,	_	Punctuation	Punctuation	_	26	U	26:U	_
+4	the	_	Word	Word	_	5	F	5:F	_
+5	trio	_	Word	Word	_	26	A	26:A	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	who	_	Word	Word	_	12	R	12:R	_
+8	by	_	Word	Word	_	9	R	9:R	_
+9	then	_	Word	Word	_	12	T	12:T	_
+10	had	_	Word	Word	_	12	F	12:F	_
+11	been	_	Word	Word	_	12	F	12:F	_
+12	touring	_	Word	Word	_	5	E	5:E	_
+13	the	_	Word	Word	_	15	F	15:F	_
+14	vaudeville	_	Word	Word	_	15	E	15:E	_
+15	circuit	_	Word	Word	_	12	A	12:A	_
+16	as	_	Word	Word	_	19	R	19:R	_
+17	"	_	Punctuation	Punctuation	_	19	U	19:U	_
+18	The	_	Word	Word	_	19	F	19:F	_
+19	Gumm	_	Word	Word	_	12	A	12:A	_
+20	Sisters	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	"	_	Punctuation	Punctuation	_	12	U	12:U	_
+22	for	_	Word	Word	_	24	R	24:R	_
+23	many	_	Word	Word	_	24	Q	24:Q	_
+24	years	_	Word	Word	_	12	T	12:T	_
+25	,	_	Punctuation	Punctuation	_	26	U	26:U	_
+26	performed	_	Word	Word	_	0	H	0:H	_
+27	in	_	Word	Word	_	28	R	28:R	_
+28	Chicago	_	Word	Word	_	26	A	26:A	_
+29	at	_	Word	Word	_	32	R	32:R	_
+30	the	_	Word	Word	_	32	F	32:F	_
+31	Oriental	_	Word	Word	_	32	E	32:E	_
+32	Theater	_	Word	Word	_	26	A	26:A	_
+33	with	_	Word	Word	_	34	R	34:R	_
+34	George	_	Word	Word	_	26	A	26:A	_
+35	Jessel	_	Word	Word	_	34	Terminal	34:Terminal	_
+36	.	_	Punctuation	Punctuation	_	34	U	34:U	_
+

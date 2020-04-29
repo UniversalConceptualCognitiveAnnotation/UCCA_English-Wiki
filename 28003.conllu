@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 28003
+# text = In November of the same year Pitt had a guest appearance on the ABC sitcom Growing Pains .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	November	_	Word	Word	_	11	T	11:T	_
+3	of	_	Word	Word	_	6	R	6:R	_
+4	the	_	Word	Word	_	6	E	6:E	_
+5	same	_	Word	Word	_	6	E	6:E	_
+6	year	_	Word	Word	_	2	C	2:C	_
+7	Pitt	_	Word	Word	_	11	A	11:A	_
+8	had	_	Word	Word	_	11	F	11:F	_
+9	a	_	Word	Word	_	11	E	11:E	_
+10	guest	_	Word	Word	_	11	A	11:A	_
+11	appearance	_	Word	Word	_	0	H	0:H	_
+12	on	_	Word	Word	_	16	R	16:R	_
+13	the	_	Word	Word	_	15	E	15:E	_
+14	ABC	_	Word	Word	_	15	E	15:E	_
+15	sitcom	_	Word	Word	_	16	E	16:E	_
+16	Growing	_	Word	Word	_	11	A	11:A	_
+17	Pains	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

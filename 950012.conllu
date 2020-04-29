@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 950012
+# text = Following the 2011 Tōhoku earthquake and tsunami , Stefani donated $ 1 million to Save the Children 's Japan Earthquake - Tsunami Children in Emergency Fund .
+1	Following	_	Word	Word	_	5	L	5:L	_
+2	the	_	Word	Word	_	5	F	5:F	_
+3	2011	_	Word	Word	_	5	T	5:T|7:T	_
+4	Tōhoku	_	Word	Word	_	5	A	5:A|7:A	_
+5	earthquake	_	Word	Word	_	10	H	10:H	_
+6	and	_	Word	Word	_	7	L	7:L	_
+7	tsunami	_	Word	Word	_	10	H	10:H	_
+8	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+9	Stefani	_	Word	Word	_	10	A	10:A	_
+10	donated	_	Word	Word	_	0	H	0:H	_
+11	$	_	Word	Word	_	10	A	10:A	_
+12	1	_	Word	Word	_	11	Q	11:Q	_
+13	million	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	to	_	Word	Word	_	26	R	26:R	_
+15	Save	_	Word	Word	_	26	E	26:E	_
+16	the	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	Children	_	Word	Word	_	15	Terminal	15:Terminal	_
+18	's	_	Word	Word	_	15	R	15:R	_
+19	Japan	_	Word	Word	_	26	E	26:E	_
+20	Earthquake	_	Word	Word	_	26	E	26:E	_
+21	-	_	Punctuation	Punctuation	_	20	U	20:U	_
+22	Tsunami	_	Word	Word	_	20	C	20:C	_
+23	Children	_	Word	Word	_	26	E	26:E	_
+24	in	_	Word	Word	_	25	R	25:R	_
+25	Emergency	_	Word	Word	_	23	E	23:E	_
+26	Fund	_	Word	Word	_	10	A	10:A	_
+27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+

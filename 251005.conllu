@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 251005
+# text = The production starred Paul Dano , Peter Dinklage , Josh Hamilton , and Zoe Kazan .
+1	The	_	Word	Word	_	2	F	2:F	_
+2	production	_	Word	Word	_	3	A	3:A	_
+3	starred	_	Word	Word	_	0	H	0:H	_
+4	Paul	_	Word	Word	_	3	A	3:A	_
+5	Dano	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+7	Peter	_	Word	Word	_	4	C	4:C	_
+8	Dinklage	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+10	Josh	_	Word	Word	_	4	C	4:C	_
+11	Hamilton	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+13	and	_	Word	Word	_	4	N	4:N	_
+14	Zoe	_	Word	Word	_	4	C	4:C	_
+15	Kazan	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+

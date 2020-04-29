@@ -1,0 +1,47 @@
+# format = ucca
+# sent_id = 636000
+# text = In August , after having been introduced to the Maharishi Mahesh Yogi , the group attended a weekend of personal instruction at his Transcendental Meditation seminar in Bangor , Wales , and were informed of Epstein 's death during the seminar . "
+1	In	_	Word	Word	_	2	R	2:R	_
+2	August	_	Word	Word	_	16	T	16:T	_
+3	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+4	after	_	Word	Word	_	7	L	7:L	_
+5	having	_	Word	Word	_	7	F	7:F	_
+6	been	_	Word	Word	_	7	F	7:F	_
+7	introduced	_	Word	Word	_	16	H	16:H	_
+8	to	_	Word	Word	_	10	R	10:R	_
+9	the	_	Word	Word	_	10	E	10:E	_
+10	Maharishi	_	Word	Word	_	7	A	7:A	_
+11	Mahesh	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	Yogi	_	Word	Word	_	10	Terminal	10:Terminal	_
+13	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+14	the	_	Word	Word	_	15	E	15:E	_
+15	group	_	Word	Word	_	0	C	0:C|7:A|34:A	_
+16	attended	_	Word	Word	_	0	H	0:H	_
+17	a	_	Word	Word	_	18	E	18:E	_
+18	weekend	_	Word	Word	_	21	T	21:T	_
+19	of	_	Word	Word	_	18	R	18:R	_
+20	personal	_	Word	Word	_	21	E	21:E	_
+21	instruction	_	Word	Word	_	16	A	16:A	_
+22	at	_	Word	Word	_	26	R	26:R	_
+23	his	_	Word	Word	_	26	E	26:E	_
+24	Transcendental	_	Word	Word	_	26	E	26:E	_
+25	Meditation	_	Word	Word	_	24	Terminal	24:Terminal	_
+26	seminar	_	Word	Word	_	21	A	21:A	_
+27	in	_	Word	Word	_	28	R	28:R	_
+28	Bangor	_	Word	Word	_	21	A	21:A	_
+29	,	_	Punctuation	Punctuation	_	28	U	28:U	_
+30	Wales	_	Word	Word	_	28	E	28:E	_
+31	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+32	and	_	Word	Word	_	34	L	34:L	_
+33	were	_	Word	Word	_	34	F	34:F	_
+34	informed	_	Word	Word	_	16	H	16:H	_
+35	of	_	Word	Word	_	38	R	38:R	_
+36	Epstein	_	Word	Word	_	38	A	38:A	_
+37	's	_	Word	Word	_	36	R	36:R	_
+38	death	_	Word	Word	_	34	A	34:A	_
+39	during	_	Word	Word	_	41	L	41:L	_
+40	the	_	Word	Word	_	41	E	41:E	_
+41	seminar	_	Word	Word	_	16	H	16:H	_
+42	.	_	Punctuation	Punctuation	_	41	U	41:U	_
+43	"	_	Punctuation	Punctuation	_	41	U	41:U	_
+

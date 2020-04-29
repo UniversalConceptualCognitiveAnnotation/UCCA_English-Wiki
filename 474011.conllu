@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 474011
+# text = He officially returned to the team on January 29 , 1996 , and played his first game the following day against the Golden State Warriors .
+1	He	_	Word	Word	_	3	A	3:A|14:A	_
+2	officially	_	Word	Word	_	3	D	3:D	_
+3	returned	_	Word	Word	_	0	H	0:H	_
+4	to	_	Word	Word	_	6	R	6:R	_
+5	the	_	Word	Word	_	6	F	6:F	_
+6	team	_	Word	Word	_	3	A	3:A	_
+7	on	_	Word	Word	_	8	R	8:R	_
+8	January	_	Word	Word	_	3	T	3:T	_
+9	29	_	Word	Word	_	8	C	8:C	_
+10	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+11	1996	_	Word	Word	_	8	C	8:C	_
+12	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+13	and	_	Word	Word	_	14	L	14:L	_
+14	played	_	Word	Word	_	3	H	3:H	_
+15	his	_	Word	Word	_	17	E	17:E	_
+16	first	_	Word	Word	_	17	Q	17:Q	_
+17	game	_	Word	Word	_	14	A	14:A	_
+18	the	_	Word	Word	_	20	F	20:F	_
+19	following	_	Word	Word	_	20	E	20:E	_
+20	day	_	Word	Word	_	14	T	14:T	_
+21	against	_	Word	Word	_	23	R	23:R	_
+22	the	_	Word	Word	_	23	F	23:F	_
+23	Golden	_	Word	Word	_	14	A	14:A	_
+24	State	_	Word	Word	_	23	Terminal	23:Terminal	_
+25	Warriors	_	Word	Word	_	23	Terminal	23:Terminal	_
+26	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

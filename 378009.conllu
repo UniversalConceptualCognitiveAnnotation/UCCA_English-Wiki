@@ -1,0 +1,35 @@
+# format = ucca
+# sent_id = 378009
+# text = Gyllenhaal was almost cast as Spider - Man for Spider - Man 2 due to director Sam Raimi 's concerns about original Spider - Man star Tobey Maguire 's health .
+1	Gyllenhaal	_	Word	Word	_	4	A	4:A	_
+2	was	_	Word	Word	_	4	F	4:F	_
+3	almost	_	Word	Word	_	4	D	4:D	_
+4	cast	_	Word	Word	_	0	H	0:H	_
+5	as	_	Word	Word	_	6	R	6:R	_
+6	Spider	_	Word	Word	_	4	A	4:A	_
+7	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	Man	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	for	_	Word	Word	_	10	R	10:R	_
+10	Spider	_	Word	Word	_	4	A	4:A	_
+11	-	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	Man	_	Word	Word	_	10	Terminal	10:Terminal	_
+13	2	_	Word	Word	_	10	Terminal	10:Terminal	_
+14	due	_	Word	Word	_	20	L	20:L	_
+15	to	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	director	_	Word	Word	_	17	E	17:E	_
+17	Sam	_	Word	Word	_	20	A	20:A	_
+18	Raimi	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	's	_	Word	Word	_	17	R	17:R	_
+20	concerns	_	Word	Word	_	4	H	4:H	_
+21	about	_	Word	Word	_	30	R	30:R	_
+22	original	_	Word	Word	_	26	D	26:D	_
+23	Spider	_	Word	Word	_	26	A	26:A	_
+24	-	_	Punctuation	Punctuation	_	23	U	23:U	_
+25	Man	_	Word	Word	_	23	Terminal	23:Terminal	_
+26	star	_	Word	Word	_	27	E	27:E	_
+27	Tobey	_	Word	Word	_	30	A	30:A	_
+28	Maguire	_	Word	Word	_	27	Terminal	27:Terminal	_
+29	's	_	Word	Word	_	27	R	27:R	_
+30	health	_	Word	Word	_	20	A	20:A	_
+31	.	_	Punctuation	Punctuation	_	30	U	30:U	_
+

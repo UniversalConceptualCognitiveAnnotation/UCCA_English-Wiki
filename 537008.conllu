@@ -1,0 +1,40 @@
+# format = ucca
+# sent_id = 537008
+# text = Benjamin Warner 's decision to move to Canada in the early 1890s was inspired by a friend 's advice that he could make an excellent living bartering tin wares with trappers in exchange for furs .
+1	Benjamin	_	Word	Word	_	4	A	4:A	_
+2	Warner	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	's	_	Word	Word	_	1	R	1:R	_
+4	decision	_	Word	Word	_	14	A	14:A	_
+5	to	_	Word	Word	_	6	F	6:F	_
+6	move	_	Word	Word	_	4	A	4:A	_
+7	to	_	Word	Word	_	8	R	8:R	_
+8	Canada	_	Word	Word	_	6	A	6:A	_
+9	in	_	Word	Word	_	12	R	12:R	_
+10	the	_	Word	Word	_	12	F	12:F	_
+11	early	_	Word	Word	_	12	E	12:E	_
+12	1890s	_	Word	Word	_	6	T	6:T	_
+13	was	_	Word	Word	_	14	F	14:F	_
+14	inspired	_	Word	Word	_	0	H	0:H	_
+15	by	_	Word	Word	_	19	R	19:R	_
+16	a	_	Word	Word	_	17	F	17:F	_
+17	friend	_	Word	Word	_	19	A	19:A	_
+18	's	_	Word	Word	_	17	R	17:R	_
+19	advice	_	Word	Word	_	14	A	14:A	_
+20	that	_	Word	Word	_	23	R	23:R	_
+21	he	_	Word	Word	_	23	A	23:A|27:A	_
+22	could	_	Word	Word	_	23	D	23:D	_
+23	make	_	Word	Word	_	19	A	19:A	_
+24	an	_	Word	Word	_	23	Terminal	23:Terminal	_
+25	excellent	_	Word	Word	_	23	D	23:D	_
+26	living	_	Word	Word	_	23	Terminal	23:Terminal	_
+27	bartering	_	Word	Word	_	23	A	23:A	_
+28	tin	_	Word	Word	_	29	E	29:E	_
+29	wares	_	Word	Word	_	27	A	27:A	_
+30	with	_	Word	Word	_	31	R	31:R	_
+31	trappers	_	Word	Word	_	27	A	27:A	_
+32	in	_	Word	Word	_	33	R	33:R	_
+33	exchange	_	Word	Word	_	35	R	35:R	_
+34	for	_	Word	Word	_	33	R	33:R	_
+35	furs	_	Word	Word	_	27	A	27:A	_
+36	.	_	Punctuation	Punctuation	_	35	U	35:U	_
+

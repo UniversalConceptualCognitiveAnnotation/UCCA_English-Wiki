@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 592006
+# text = After months of media speculation , Depp and Paradis announced their separation in June 2012 .
+1	After	_	Word	Word	_	10	L	10:L	_
+2	months	_	Word	Word	_	5	T	5:T	_
+3	of	_	Word	Word	_	5	R	5:R	_
+4	media	_	Word	Word	_	5	A	5:A	_
+5	speculation	_	Word	Word	_	0	H	0:H	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	Depp	_	Word	Word	_	10	A	10:A	_
+8	and	_	Word	Word	_	7	N	7:N	_
+9	Paradis	_	Word	Word	_	7	C	7:C	_
+10	announced	_	Word	Word	_	5	H	5:H	_
+11	their	_	Word	Word	_	12	A	12:A	_
+12	separation	_	Word	Word	_	10	A	10:A	_
+13	in	_	Word	Word	_	14	R	14:R	_
+14	June	_	Word	Word	_	10	T	10:T	_
+15	2012	_	Word	Word	_	14	C	14:C	_
+16	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

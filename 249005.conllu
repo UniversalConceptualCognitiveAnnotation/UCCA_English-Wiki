@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 249005
+# text = The same year Hawke directed his second feature , The Hottest State , based on his eponymous 1996 novel .
+1	The	_	Word	Word	_	3	F	3:F	_
+2	same	_	Word	Word	_	3	E	3:E	_
+3	year	_	Word	Word	_	5	T	5:T	_
+4	Hawke	_	Word	Word	_	5	A	5:A	_
+5	directed	_	Word	Word	_	0	H	0:H	_
+6	his	_	Word	Word	_	8	E	8:E	_
+7	second	_	Word	Word	_	8	Q	8:Q	_
+8	feature	_	Word	Word	_	10	E	10:E	_
+9	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+10	The	_	Word	Word	_	5	A	5:A	_
+11	Hottest	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	State	_	Word	Word	_	10	Terminal	10:Terminal	_
+13	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+14	based	_	Word	Word	_	10	E	10:E	_
+15	on	_	Word	Word	_	19	R	19:R	_
+16	his	_	Word	Word	_	19	E	19:E	_
+17	eponymous	_	Word	Word	_	19	E	19:E	_
+18	1996	_	Word	Word	_	19	E	19:E	_
+19	novel	_	Word	Word	_	14	A	14:A	_
+20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

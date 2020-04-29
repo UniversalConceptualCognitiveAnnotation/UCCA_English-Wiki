@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 462012
+# text = The anchor 's ABC colleagues , including Barbara Walters , Diane Sawyer , and Ted Koppel . shared their thoughts on Jennings 's death .
+1	The	_	Word	Word	_	5	E	5:E	_
+2	anchor	_	Word	Word	_	5	E	5:E	_
+3	's	_	Word	Word	_	2	R	2:R	_
+4	ABC	_	Word	Word	_	5	E	5:E	_
+5	colleagues	_	Word	Word	_	18	A	18:A	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	including	_	Word	Word	_	8	R	8:R	_
+8	Barbara	_	Word	Word	_	5	E	5:E	_
+9	Walters	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+11	Diane	_	Word	Word	_	8	C	8:C	_
+12	Sawyer	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+14	and	_	Word	Word	_	8	N	8:N	_
+15	Ted	_	Word	Word	_	8	C	8:C	_
+16	Koppel	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+18	shared	_	Word	Word	_	0	H	0:H	_
+19	their	_	Word	Word	_	20	E	20:E	_
+20	thoughts	_	Word	Word	_	18	A	18:A	_
+21	on	_	Word	Word	_	24	R	24:R	_
+22	Jennings	_	Word	Word	_	24	A	24:A	_
+23	's	_	Word	Word	_	22	R	22:R	_
+24	death	_	Word	Word	_	20	E	20:E	_
+25	.	_	Punctuation	Punctuation	_	24	U	24:U	_
+

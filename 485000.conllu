@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 485000
+# text = Eric Bana ( born 9 August 1968 ) is an Australian film and television actor .
+1	Eric	_	Word	Word	_	15	A	15:A|4:A	_
+2	Bana	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	(	_	Punctuation	Punctuation	_	15	U	15:U	_
+4	born	_	Word	Word	_	15	A	15:A	_
+5	9	_	Word	Word	_	4	T	4:T	_
+6	August	_	Word	Word	_	5	C	5:C	_
+7	1968	_	Word	Word	_	5	C	5:C	_
+8	)	_	Punctuation	Punctuation	_	15	U	15:U	_
+9	is	_	Word	Word	_	15	F	15:F	_
+10	an	_	Word	Word	_	15	E	15:E	_
+11	Australian	_	Word	Word	_	15	A	15:A	_
+12	film	_	Word	Word	_	15	A	15:A	_
+13	and	_	Word	Word	_	12	N	12:N	_
+14	television	_	Word	Word	_	12	C	12:C	_
+15	actor	_	Word	Word	_	0	H	0:H	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

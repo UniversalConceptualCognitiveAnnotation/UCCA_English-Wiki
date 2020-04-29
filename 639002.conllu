@@ -1,0 +1,37 @@
+# format = ucca
+# sent_id = 639002
+# text = Woman Is the Nigger of the World " , released as a US single from the album the same year , was televised on 11 May , on The Dick Cavett Show .
+1	Woman	_	Word	Word	_	10	A	10:A|23:A	_
+2	Is	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	the	_	Word	Word	_	1	Terminal	1:Terminal	_
+4	Nigger	_	Word	Word	_	1	Terminal	1:Terminal	_
+5	of	_	Word	Word	_	1	Terminal	1:Terminal	_
+6	the	_	Word	Word	_	1	Terminal	1:Terminal	_
+7	World	_	Word	Word	_	1	Terminal	1:Terminal	_
+8	"	_	Punctuation	Punctuation	_	10	U	10:U	_
+9	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+10	released	_	Word	Word	_	0	H	0:H	_
+11	as	_	Word	Word	_	14	R	14:R	_
+12	a	_	Word	Word	_	14	E	14:E	_
+13	US	_	Word	Word	_	14	E	14:E	_
+14	single	_	Word	Word	_	10	A	10:A	_
+15	from	_	Word	Word	_	17	R	17:R	_
+16	the	_	Word	Word	_	17	E	17:E	_
+17	album	_	Word	Word	_	14	E	14:E	_
+18	the	_	Word	Word	_	20	E	20:E	_
+19	same	_	Word	Word	_	20	E	20:E	_
+20	year	_	Word	Word	_	10	T	10:T	_
+21	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+22	was	_	Word	Word	_	23	F	23:F	_
+23	televised	_	Word	Word	_	10	H	10:H	_
+24	on	_	Word	Word	_	25	R	25:R	_
+25	11	_	Word	Word	_	23	T	23:T	_
+26	May	_	Word	Word	_	25	C	25:C	_
+27	,	_	Punctuation	Punctuation	_	23	U	23:U	_
+28	on	_	Word	Word	_	29	R	29:R	_
+29	The	_	Word	Word	_	23	A	23:A	_
+30	Dick	_	Word	Word	_	29	Terminal	29:Terminal	_
+31	Cavett	_	Word	Word	_	29	Terminal	29:Terminal	_
+32	Show	_	Word	Word	_	29	Terminal	29:Terminal	_
+33	.	_	Punctuation	Punctuation	_	29	U	29:U	_
+

@@ -1,0 +1,47 @@
+# format = ucca
+# sent_id = 654000
+# text = In combination with A Spaniard in the Works ( 1965 ) , In His Own Write formed the basis of the stage play The John Lennon Play : In His Own Write , co - adapted by Victor Spinetti and Adrienne Kennedy .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	combination	_	Word	Word	_	4	R	4:R	_
+3	with	_	Word	Word	_	2	E	2:E	_
+4	A	_	Word	Word	_	17	A	17:A	_
+5	Spaniard	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	in	_	Word	Word	_	4	Terminal	4:Terminal	_
+7	the	_	Word	Word	_	4	Terminal	4:Terminal	_
+8	Works	_	Word	Word	_	4	Terminal	4:Terminal	_
+9	(	_	Punctuation	Punctuation	_	4	U	4:U	_
+10	1965	_	Word	Word	_	4	E	4:E	_
+11	)	_	Punctuation	Punctuation	_	17	U	17:U	_
+12	,	_	Punctuation	Punctuation	_	17	U	17:U	_
+13	In	_	Word	Word	_	17	A	17:A	_
+14	His	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	Own	_	Word	Word	_	13	Terminal	13:Terminal	_
+16	Write	_	Word	Word	_	13	Terminal	13:Terminal	_
+17	formed	_	Word	Word	_	0	H	0:H	_
+18	the	_	Word	Word	_	19	E	19:E	_
+19	basis	_	Word	Word	_	17	A	17:A	_
+20	of	_	Word	Word	_	24	R	24:R	_
+21	the	_	Word	Word	_	23	E	23:E	_
+22	stage	_	Word	Word	_	23	E	23:E	_
+23	play	_	Word	Word	_	24	E	24:E	_
+24	The	_	Word	Word	_	19	E	19:E	_
+25	John	_	Word	Word	_	24	Terminal	24:Terminal	_
+26	Lennon	_	Word	Word	_	24	Terminal	24:Terminal	_
+27	Play	_	Word	Word	_	24	Terminal	24:Terminal	_
+28	:	_	Punctuation	Punctuation	_	24	U	24:U	_
+29	In	_	Word	Word	_	24	Terminal	24:Terminal	_
+30	His	_	Word	Word	_	24	Terminal	24:Terminal	_
+31	Own	_	Word	Word	_	24	Terminal	24:Terminal	_
+32	Write	_	Word	Word	_	24	Terminal	24:Terminal	_
+33	,	_	Punctuation	Punctuation	_	24	U	24:U	_
+34	co	_	Word	Word	_	36	E	36:E	_
+35	-	_	Punctuation	Punctuation	_	36	U	36:U	_
+36	adapted	_	Word	Word	_	24	E	24:E	_
+37	by	_	Word	Word	_	38	R	38:R	_
+38	Victor	_	Word	Word	_	36	A	36:A	_
+39	Spinetti	_	Word	Word	_	38	Terminal	38:Terminal	_
+40	and	_	Word	Word	_	38	N	38:N	_
+41	Adrienne	_	Word	Word	_	38	C	38:C	_
+42	Kennedy	_	Word	Word	_	41	Terminal	41:Terminal	_
+43	.	_	Punctuation	Punctuation	_	38	U	38:U	_
+

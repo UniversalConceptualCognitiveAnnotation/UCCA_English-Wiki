@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 702009
+# text = A live double album of the tour , Before the Flood , was released on Asylum Records .
+1	A	_	Word	Word	_	4	E	4:E	_
+2	live	_	Word	Word	_	4	E	4:E	_
+3	double	_	Word	Word	_	4	E	4:E	_
+4	album	_	Word	Word	_	9	E	9:E	_
+5	of	_	Word	Word	_	7	R	7:R	_
+6	the	_	Word	Word	_	7	E	7:E	_
+7	tour	_	Word	Word	_	4	E	4:E	_
+8	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+9	Before	_	Word	Word	_	14	A	14:A	_
+10	the	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	Flood	_	Word	Word	_	9	Terminal	9:Terminal	_
+12	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+13	was	_	Word	Word	_	14	F	14:F	_
+14	released	_	Word	Word	_	0	H	0:H	_
+15	on	_	Word	Word	_	16	R	16:R	_
+16	Asylum	_	Word	Word	_	14	A	14:A	_
+17	Records	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

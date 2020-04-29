@@ -1,0 +1,52 @@
+# format = ucca
+# sent_id = 587005
+# text = Depp , a fan and long - time friend of writer Hunter S . Thompson , played a version of Thompson ( named Raoul Duke ) in 1998 's Fear and Loathing in Las Vegas , based on the writer 's pseudobiographical novel of the same name .
+1	Depp	_	Word	Word	_	17	A	17:A	_
+2	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+3	a	_	Word	Word	_	4	F	4:F	_
+4	fan	_	Word	Word	_	1	E	1:E	_
+5	and	_	Word	Word	_	4	N	4:N	_
+6	long	_	Word	Word	_	8	E	8:E	_
+7	-	_	Punctuation	Punctuation	_	8	U	8:U	_
+8	time	_	Word	Word	_	9	T	9:T	_
+9	friend	_	Word	Word	_	4	C	4:C	_
+10	of	_	Word	Word	_	12	R	12:R	_
+11	writer	_	Word	Word	_	12	E	12:E	_
+12	Hunter	_	Word	Word	_	0	C	0:C|4:A	_
+13	S	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+15	Thompson	_	Word	Word	_	12	Terminal	12:Terminal	_
+16	,	_	Punctuation	Punctuation	_	17	U	17:U	_
+17	played	_	Word	Word	_	0	H	0:H	_
+18	a	_	Word	Word	_	19	E	19:E	_
+19	version	_	Word	Word	_	17	A	17:A	_
+20	of	_	Word	Word	_	21	R	21:R	_
+21	Thompson	_	Word	Word	_	19	E	19:E	_
+22	(	_	Punctuation	Punctuation	_	19	U	19:U	_
+23	named	_	Word	Word	_	19	E	19:E	_
+24	Raoul	_	Word	Word	_	23	A	23:A	_
+25	Duke	_	Word	Word	_	24	Terminal	24:Terminal	_
+26	)	_	Punctuation	Punctuation	_	17	U	17:U	_
+27	in	_	Word	Word	_	30	R	30:R	_
+28	1998	_	Word	Word	_	29	T	29:T	_
+29	's	_	Word	Word	_	30	E	30:E	_
+30	Fear	_	Word	Word	_	17	A	17:A	_
+31	and	_	Word	Word	_	30	Terminal	30:Terminal	_
+32	Loathing	_	Word	Word	_	30	Terminal	30:Terminal	_
+33	in	_	Word	Word	_	30	Terminal	30:Terminal	_
+34	Las	_	Word	Word	_	30	Terminal	30:Terminal	_
+35	Vegas	_	Word	Word	_	30	Terminal	30:Terminal	_
+36	,	_	Punctuation	Punctuation	_	30	U	30:U	_
+37	based	_	Word	Word	_	30	E	30:E	_
+38	on	_	Word	Word	_	43	R	43:R	_
+39	the	_	Word	Word	_	40	E	40:E	_
+40	writer	_	Word	Word	_	41	A	41:A	_
+41	's	_	Word	Word	_	43	E	43:E	_
+42	pseudobiographical	_	Word	Word	_	43	E	43:E	_
+43	novel	_	Word	Word	_	37	A	37:A	_
+44	of	_	Word	Word	_	47	R	47:R	_
+45	the	_	Word	Word	_	47	E	47:E	_
+46	same	_	Word	Word	_	47	E	47:E	_
+47	name	_	Word	Word	_	43	E	43:E	_
+48	.	_	Punctuation	Punctuation	_	47	U	47:U	_
+

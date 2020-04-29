@@ -1,0 +1,37 @@
+# format = ucca
+# sent_id = 244009
+# text = The film received favorable reviews but made poor box office revenues , a failure which Hawke has admitted caused him to quit acting for a brief period after the film 's release .
+1	The	_	Word	Word	_	2	F	2:F	_
+2	film	_	Word	Word	_	0	C	0:C|11:A	_
+3	received	_	Word	Word	_	0	H	0:H	_
+4	favorable	_	Word	Word	_	5	E	5:E	_
+5	reviews	_	Word	Word	_	3	A	3:A	_
+6	but	_	Word	Word	_	11	L	11:L	_
+7	made	_	Word	Word	_	11	F	11:F	_
+8	poor	_	Word	Word	_	11	D	11:D	_
+9	box	_	Word	Word	_	11	A	11:A	_
+10	office	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	revenues	_	Word	Word	_	3	H	3:H	_
+12	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+13	a	_	Word	Word	_	14	F	14:F	_
+14	failure	_	Word	Word	_	3	H	3:H	_
+15	which	_	Word	Word	_	18	R	18:R	_
+16	Hawke	_	Word	Word	_	18	A	18:A	_
+17	has	_	Word	Word	_	18	F	18:F	_
+18	admitted	_	Word	Word	_	14	E	14:E	_
+19	caused	_	Word	Word	_	23	D	23:D	_
+20	him	_	Word	Word	_	23	A	23:A	_
+21	to	_	Word	Word	_	23	F	23:F	_
+22	quit	_	Word	Word	_	23	D	23:D	_
+23	acting	_	Word	Word	_	18	A	18:A	_
+24	for	_	Word	Word	_	27	R	27:R	_
+25	a	_	Word	Word	_	27	F	27:F	_
+26	brief	_	Word	Word	_	27	E	27:E	_
+27	period	_	Word	Word	_	23	T	23:T	_
+28	after	_	Word	Word	_	32	L	32:L	_
+29	the	_	Word	Word	_	30	F	30:F	_
+30	film	_	Word	Word	_	32	A	32:A	_
+31	's	_	Word	Word	_	30	R	30:R	_
+32	release	_	Word	Word	_	23	H	23:H	_
+33	.	_	Punctuation	Punctuation	_	32	U	32:U	_
+

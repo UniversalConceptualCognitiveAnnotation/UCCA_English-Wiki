@@ -1,0 +1,50 @@
+# format = ucca
+# sent_id = 558024
+# text = Trading in his old guitar for $ 8 he ( and seeing it promptly dispatched to the garbage ) , purchased a Martin instrument for $ 175 , and his trio began playing in new locales including Houston , Texas , and Texarkana , Arkansas .
+1	Trading	_	Word	Word	_	0	H	0:H	_
+2	in	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	his	_	Word	Word	_	5	E	5:E	_
+4	old	_	Word	Word	_	5	E	5:E	_
+5	guitar	_	Word	Word	_	1	A	1:A	_
+6	for	_	Word	Word	_	7	R	7:R	_
+7	$	_	Word	Word	_	1	A	1:A	_
+8	8	_	Word	Word	_	7	Q	7:Q	_
+9	he	_	Word	Word	_	21	A	21:A|1:A|12:A	_
+10	(	_	Punctuation	Punctuation	_	1	U	1:U	_
+11	and	_	Word	Word	_	12	L	12:L	_
+12	seeing	_	Word	Word	_	1	H	1:H	_
+13	it	_	Word	Word	_	15	A	15:A	_
+14	promptly	_	Word	Word	_	15	T	15:T	_
+15	dispatched	_	Word	Word	_	12	A	12:A	_
+16	to	_	Word	Word	_	18	R	18:R	_
+17	the	_	Word	Word	_	18	E	18:E	_
+18	garbage	_	Word	Word	_	15	A	15:A	_
+19	)	_	Punctuation	Punctuation	_	1	U	1:U	_
+20	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+21	purchased	_	Word	Word	_	1	H	1:H	_
+22	a	_	Word	Word	_	24	E	24:E	_
+23	Martin	_	Word	Word	_	24	E	24:E	_
+24	instrument	_	Word	Word	_	21	A	21:A	_
+25	for	_	Word	Word	_	26	R	26:R	_
+26	$	_	Word	Word	_	21	A	21:A	_
+27	175	_	Word	Word	_	26	Q	26:Q	_
+28	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+29	and	_	Word	Word	_	33	L	33:L	_
+30	his	_	Word	Word	_	31	E	31:E	_
+31	trio	_	Word	Word	_	33	A	33:A	_
+32	began	_	Word	Word	_	33	D	33:D	_
+33	playing	_	Word	Word	_	1	H	1:H	_
+34	in	_	Word	Word	_	36	R	36:R	_
+35	new	_	Word	Word	_	36	E	36:E	_
+36	locales	_	Word	Word	_	33	A	33:A	_
+37	including	_	Word	Word	_	38	R	38:R	_
+38	Houston	_	Word	Word	_	36	E	36:E	_
+39	,	_	Punctuation	Punctuation	_	38	U	38:U	_
+40	Texas	_	Word	Word	_	38	C	38:C	_
+41	,	_	Punctuation	Punctuation	_	38	U	38:U	_
+42	and	_	Word	Word	_	38	N	38:N	_
+43	Texarkana	_	Word	Word	_	38	C	38:C	_
+44	,	_	Punctuation	Punctuation	_	43	U	43:U	_
+45	Arkansas	_	Word	Word	_	43	Terminal	43:Terminal	_
+46	.	_	Punctuation	Punctuation	_	38	U	38:U	_
+

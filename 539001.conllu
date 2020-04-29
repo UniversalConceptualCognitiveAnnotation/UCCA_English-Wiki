@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 539001
+# text = Then , in 1912 , they lent their support to filmmaker Carl Laemmle 's Independent Motion Picture Company , which challenged the monopolistic control of the Edison Trust .
+1	Then	_	Word	Word	_	9	T	9:T	_
+2	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+3	in	_	Word	Word	_	4	R	4:R	_
+4	1912	_	Word	Word	_	9	T	9:T	_
+5	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+6	they	_	Word	Word	_	9	A	9:A	_
+7	lent	_	Word	Word	_	9	F	9:F	_
+8	their	_	Word	Word	_	9	F	9:F	_
+9	support	_	Word	Word	_	0	H	0:H	_
+10	to	_	Word	Word	_	16	R	16:R	_
+11	filmmaker	_	Word	Word	_	12	E	12:E	_
+12	Carl	_	Word	Word	_	14	A	14:A	_
+13	Laemmle	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	's	_	Word	Word	_	16	E	16:E	_
+15	Independent	_	Word	Word	_	18	E	18:E	_
+16	Motion	_	Word	Word	_	9	A	9:A	_
+17	Picture	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	Company	_	Word	Word	_	16	E	16:E	_
+19	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+20	which	_	Word	Word	_	21	R	21:R	_
+21	challenged	_	Word	Word	_	16	E	16:E	_
+22	the	_	Word	Word	_	24	F	24:F	_
+23	monopolistic	_	Word	Word	_	24	D	24:D	_
+24	control	_	Word	Word	_	21	A	21:A	_
+25	of	_	Word	Word	_	27	R	27:R	_
+26	the	_	Word	Word	_	27	F	27:F	_
+27	Edison	_	Word	Word	_	24	A	24:A	_
+28	Trust	_	Word	Word	_	27	Terminal	27:Terminal	_
+29	.	_	Punctuation	Punctuation	_	27	U	27:U	_
+

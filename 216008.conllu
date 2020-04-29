@@ -1,0 +1,44 @@
+# format = ucca
+# sent_id = 216008
+# text = Peter Stack of the San Francisco Chronicle , despite giving the film an unfavorable review , commended Dunst for her willingness " to be as silly and cloyingly agreeable as it takes to get through a slapdash film . "
+1	Peter	_	Word	Word	_	0	C	0:C|17:A	_
+2	Stack	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	of	_	Word	Word	_	7	R	7:R	_
+4	the	_	Word	Word	_	7	F	7:F	_
+5	San	_	Word	Word	_	7	E	7:E	_
+6	Francisco	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	Chronicle	_	Word	Word	_	1	E	1:E	_
+8	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+9	despite	_	Word	Word	_	17	L	17:L	_
+10	giving	_	Word	Word	_	15	F	15:F	_
+11	the	_	Word	Word	_	12	F	12:F	_
+12	film	_	Word	Word	_	15	A	15:A	_
+13	an	_	Word	Word	_	15	F	15:F	_
+14	unfavorable	_	Word	Word	_	15	D	15:D	_
+15	review	_	Word	Word	_	0	H	0:H	_
+16	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+17	commended	_	Word	Word	_	15	H	15:H	_
+18	Dunst	_	Word	Word	_	17	A	17:A|34:A	_
+19	for	_	Word	Word	_	21	R	21:R	_
+20	her	_	Word	Word	_	21	A	21:A|26:A	_
+21	willingness	_	Word	Word	_	17	A	17:A	_
+22	"	_	Punctuation	Punctuation	_	21	U	21:U	_
+23	to	_	Word	Word	_	26	F	26:F	_
+24	be	_	Word	Word	_	26	F	26:F	_
+25	as	_	Word	Word	_	26	R	26:R	_
+26	silly	_	Word	Word	_	21	A	21:A	_
+27	and	_	Word	Word	_	26	N	26:N	_
+28	cloyingly	_	Word	Word	_	29	E	29:E	_
+29	agreeable	_	Word	Word	_	26	C	26:C	_
+30	as	_	Word	Word	_	26	D	26:D	_
+31	it	_	Word	Word	_	30	Terminal	30:Terminal	_
+32	takes	_	Word	Word	_	30	Terminal	30:Terminal	_
+33	to	_	Word	Word	_	34	L	34:L	_
+34	get	_	Word	Word	_	21	H	21:H	_
+35	through	_	Word	Word	_	34	Terminal	34:Terminal	_
+36	a	_	Word	Word	_	38	F	38:F	_
+37	slapdash	_	Word	Word	_	38	E	38:E	_
+38	film	_	Word	Word	_	34	A	34:A	_
+39	.	_	Punctuation	Punctuation	_	38	U	38:U	_
+40	"	_	Punctuation	Punctuation	_	38	U	38:U	_
+

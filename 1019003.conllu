@@ -1,0 +1,36 @@
+# format = ucca
+# sent_id = 1019003
+# text = While preparing for his comeback concert series titled This Is It , Jackson died of acute propofol and benzodiazepine intoxication on June 25 , 2009 , after suffering from cardiac arrest .
+1	While	_	Word	Word	_	14	L	14:L	_
+2	preparing	_	Word	Word	_	0	H	0:H	_
+3	for	_	Word	Word	_	6	R	6:R	_
+4	his	_	Word	Word	_	6	A	6:A	_
+5	comeback	_	Word	Word	_	6	D	6:D	_
+6	concert	_	Word	Word	_	2	A	2:A	_
+7	series	_	Word	Word	_	6	D	6:D|8:A	_
+8	titled	_	Word	Word	_	6	A	6:A	_
+9	This	_	Word	Word	_	8	A	8:A	_
+10	Is	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	It	_	Word	Word	_	9	Terminal	9:Terminal	_
+12	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+13	Jackson	_	Word	Word	_	14	A	14:A|2:A|31:A	_
+14	died	_	Word	Word	_	2	H	2:H	_
+15	of	_	Word	Word	_	20	R	20:R	_
+16	acute	_	Word	Word	_	20	D	20:D	_
+17	propofol	_	Word	Word	_	20	A	20:A	_
+18	and	_	Word	Word	_	17	N	17:N	_
+19	benzodiazepine	_	Word	Word	_	17	C	17:C	_
+20	intoxication	_	Word	Word	_	14	A	14:A	_
+21	on	_	Word	Word	_	22	R	22:R	_
+22	June	_	Word	Word	_	14	T	14:T	_
+23	25	_	Word	Word	_	22	C	22:C	_
+24	,	_	Punctuation	Punctuation	_	22	U	22:U	_
+25	2009	_	Word	Word	_	22	C	22:C	_
+26	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+27	after	_	Word	Word	_	31	L	31:L	_
+28	suffering	_	Word	Word	_	31	D	31:D	_
+29	from	_	Word	Word	_	31	R	31:R	_
+30	cardiac	_	Word	Word	_	31	E	31:E	_
+31	arrest	_	Word	Word	_	2	H	2:H	_
+32	.	_	Punctuation	Punctuation	_	31	U	31:U	_
+

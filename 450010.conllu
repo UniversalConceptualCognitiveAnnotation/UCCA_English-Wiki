@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 450010
+# text = During this time , he explored acting by appearing in several amateur musical productions with the Orpheus Musical Theatre Society , including Damn Yankees and South Pacific .
+1	During	_	Word	Word	_	3	R	3:R	_
+2	this	_	Word	Word	_	3	E	3:E	_
+3	time	_	Word	Word	_	7	T	7:T	_
+4	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+5	he	_	Word	Word	_	7	A	7:A|9:A	_
+6	explored	_	Word	Word	_	7	D	7:D	_
+7	acting	_	Word	Word	_	0	H	0:H	_
+8	by	_	Word	Word	_	9	R	9:R	_
+9	appearing	_	Word	Word	_	7	A	7:A	_
+10	in	_	Word	Word	_	14	R	14:R	_
+11	several	_	Word	Word	_	14	Q	14:Q	_
+12	amateur	_	Word	Word	_	14	E	14:E	_
+13	musical	_	Word	Word	_	14	E	14:E	_
+14	productions	_	Word	Word	_	9	A	9:A	_
+15	with	_	Word	Word	_	20	R	20:R	_
+16	the	_	Word	Word	_	20	E	20:E	_
+17	Orpheus	_	Word	Word	_	20	E	20:E	_
+18	Musical	_	Word	Word	_	19	E	19:E	_
+19	Theatre	_	Word	Word	_	20	E	20:E	_
+20	Society	_	Word	Word	_	9	A	9:A	_
+21	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+22	including	_	Word	Word	_	23	R	23:R	_
+23	Damn	_	Word	Word	_	14	E	14:E	_
+24	Yankees	_	Word	Word	_	23	Terminal	23:Terminal	_
+25	and	_	Word	Word	_	23	N	23:N	_
+26	South	_	Word	Word	_	23	C	23:C	_
+27	Pacific	_	Word	Word	_	26	Terminal	26:Terminal	_
+28	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

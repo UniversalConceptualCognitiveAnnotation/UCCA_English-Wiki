@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 944004
+# text = The album generated career - highest singles chart positions in the United States , and " Hey Baby " and " Underneath It All " received Grammy Awards .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	album	_	Word	Word	_	3	A	3:A	_
+3	generated	_	Word	Word	_	0	H	0:H	_
+4	career	_	Word	Word	_	6	A	6:A	_
+5	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+6	highest	_	Word	Word	_	9	E	9:E	_
+7	singles	_	Word	Word	_	9	E	9:E	_
+8	chart	_	Word	Word	_	9	E	9:E	_
+9	positions	_	Word	Word	_	3	A	3:A	_
+10	in	_	Word	Word	_	12	R	12:R	_
+11	the	_	Word	Word	_	12	E	12:E	_
+12	United	_	Word	Word	_	9	E	9:E	_
+13	States	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+15	and	_	Word	Word	_	26	L	26:L	_
+16	"	_	Punctuation	Punctuation	_	3	U	3:U	_
+17	Hey	_	Word	Word	_	26	A	26:A	_
+18	Baby	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	"	_	Punctuation	Punctuation	_	17	U	17:U	_
+20	and	_	Word	Word	_	17	N	17:N	_
+21	"	_	Punctuation	Punctuation	_	17	U	17:U	_
+22	Underneath	_	Word	Word	_	17	C	17:C	_
+23	It	_	Word	Word	_	22	Terminal	22:Terminal	_
+24	All	_	Word	Word	_	22	Terminal	22:Terminal	_
+25	"	_	Punctuation	Punctuation	_	26	U	26:U	_
+26	received	_	Word	Word	_	3	H	3:H	_
+27	Grammy	_	Word	Word	_	26	A	26:A	_
+28	Awards	_	Word	Word	_	27	E	27:E	_
+29	.	_	Punctuation	Punctuation	_	27	U	27:U	_
+

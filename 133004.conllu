@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 133004
+# text = Hepburn presented the finished product to MGM and demanded $ 250,000 - half for her , half for the authors , Michael Kanin and Ring Lardner , Jr .
+1	Hepburn	_	Word	Word	_	2	A	2:A|9:A	_
+2	presented	_	Word	Word	_	0	H	0:H	_
+3	the	_	Word	Word	_	5	E	5:E	_
+4	finished	_	Word	Word	_	5	E	5:E	_
+5	product	_	Word	Word	_	2	A	2:A	_
+6	to	_	Word	Word	_	7	R	7:R	_
+7	MGM	_	Word	Word	_	2	A	2:A	_
+8	and	_	Word	Word	_	9	L	9:L	_
+9	demanded	_	Word	Word	_	2	H	2:H	_
+10	$	_	Word	Word	_	9	A	9:A	_
+11	250,000	_	Word	Word	_	10	Q	10:Q	_
+12	-	_	Punctuation	Punctuation	_	10	U	10:U	_
+13	half	_	Word	Word	_	14	A	14:A	_
+14	for	_	Word	Word	_	10	E	10:E	_
+15	her	_	Word	Word	_	14	A	14:A	_
+16	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+17	half	_	Word	Word	_	18	A	18:A	_
+18	for	_	Word	Word	_	14	C	14:C	_
+19	the	_	Word	Word	_	20	E	20:E	_
+20	authors	_	Word	Word	_	18	A	18:A	_
+21	,	_	Punctuation	Punctuation	_	20	U	20:U	_
+22	Michael	_	Word	Word	_	20	A	20:A	_
+23	Kanin	_	Word	Word	_	22	Terminal	22:Terminal	_
+24	and	_	Word	Word	_	22	N	22:N	_
+25	Ring	_	Word	Word	_	22	C	22:C	_
+26	Lardner	_	Word	Word	_	25	Terminal	25:Terminal	_
+27	,	_	Punctuation	Punctuation	_	25	U	25:U	_
+28	Jr	_	Word	Word	_	25	Terminal	25:Terminal	_
+29	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+

@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 527003
+# text = Judy complained to Louis B. Mayer , trying to have Berkeley fired from the feature .
+1	Judy	_	Word	Word	_	2	A	2:A|12:A	_
+2	complained	_	Word	Word	_	0	H	0:H	_
+3	to	_	Word	Word	_	4	R	4:R	_
+4	Louis	_	Word	Word	_	2	A	2:A	_
+5	B.	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	Mayer	_	Word	Word	_	4	Terminal	4:Terminal	_
+7	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+8	trying	_	Word	Word	_	12	D	12:D	_
+9	to	_	Word	Word	_	12	F	12:F	_
+10	have	_	Word	Word	_	12	D	12:D	_
+11	Berkeley	_	Word	Word	_	12	A	12:A	_
+12	fired	_	Word	Word	_	2	H	2:H	_
+13	from	_	Word	Word	_	15	R	15:R	_
+14	the	_	Word	Word	_	15	F	15:F	_
+15	feature	_	Word	Word	_	12	A	12:A	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

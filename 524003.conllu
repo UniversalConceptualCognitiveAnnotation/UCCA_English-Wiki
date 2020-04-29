@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 524003
+# text = Deanna Durbin was then asked but was unavailable , resulting in Garland being cast .
+1	Deanna	_	Word	Word	_	5	A	5:A|8:A	_
+2	Durbin	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	was	_	Word	Word	_	5	F	5:F	_
+4	then	_	Word	Word	_	8	L	8:L	_
+5	asked	_	Word	Word	_	0	H	0:H	_
+6	but	_	Word	Word	_	8	L	8:L	_
+7	was	_	Word	Word	_	8	F	8:F	_
+8	unavailable	_	Word	Word	_	5	H	5:H	_
+9	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+10	resulting	_	Word	Word	_	14	L	14:L	_
+11	in	_	Word	Word	_	10	R	10:R	_
+12	Garland	_	Word	Word	_	14	A	14:A	_
+13	being	_	Word	Word	_	14	F	14:F	_
+14	cast	_	Word	Word	_	5	H	5:H	_
+15	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

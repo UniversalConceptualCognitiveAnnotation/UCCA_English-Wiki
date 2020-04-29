@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 556004
+# text = Singing and playing guitar , he opened with " Till I Waltz Again with You " , a recent hit for Teresa Brewer .
+1	Singing	_	Word	Word	_	0	H	0:H	_
+2	and	_	Word	Word	_	3	L	3:L	_
+3	playing	_	Word	Word	_	1	H	1:H	_
+4	guitar	_	Word	Word	_	3	A	3:A	_
+5	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+6	he	_	Word	Word	_	7	A	7:A|1:A|3:A	_
+7	opened	_	Word	Word	_	1	H	1:H	_
+8	with	_	Word	Word	_	10	R	10:R	_
+9	"	_	Punctuation	Punctuation	_	10	U	10:U	_
+10	Till	_	Word	Word	_	7	A	7:A	_
+11	I	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	Waltz	_	Word	Word	_	10	Terminal	10:Terminal	_
+13	Again	_	Word	Word	_	10	Terminal	10:Terminal	_
+14	with	_	Word	Word	_	10	Terminal	10:Terminal	_
+15	You	_	Word	Word	_	10	Terminal	10:Terminal	_
+16	"	_	Punctuation	Punctuation	_	10	U	10:U	_
+17	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+18	a	_	Word	Word	_	20	E	20:E	_
+19	recent	_	Word	Word	_	20	E	20:E	_
+20	hit	_	Word	Word	_	10	E	10:E	_
+21	for	_	Word	Word	_	20	E	20:E	_
+22	Teresa	_	Word	Word	_	21	A	21:A	_
+23	Brewer	_	Word	Word	_	22	Terminal	22:Terminal	_
+24	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

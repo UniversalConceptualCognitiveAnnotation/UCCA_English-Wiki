@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 126012
+# text = George Cukor became a lifetime friend and colleague-e and Hepburn made ten films together .
+1	George	_	Word	Word	_	6	A	6:A|8:A|11:A	_
+2	Cukor	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	became	_	Word	Word	_	6	D	6:D|8:D	_
+4	a	_	Word	Word	_	6	F	6:F	_
+5	lifetime	_	Word	Word	_	6	T	6:T|8:T	_
+6	friend	_	Word	Word	_	0	H	0:H	_
+7	and	_	Word	Word	_	8	L	8:L	_
+8	colleague-e	_	Word	Word	_	6	H	6:H	_
+9	and	_	Word	Word	_	11	L	11:L	_
+10	Hepburn	_	Word	Word	_	11	A	11:A	_
+11	made	_	Word	Word	_	6	H	6:H	_
+12	ten	_	Word	Word	_	13	Q	13:Q	_
+13	films	_	Word	Word	_	11	A	11:A	_
+14	together	_	Word	Word	_	11	D	11:D	_
+15	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+

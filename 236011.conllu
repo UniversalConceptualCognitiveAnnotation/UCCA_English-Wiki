@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 236011
+# text = The first - Jackie Chan - Yaolai International Cinema - opened in February 2010 , and is claimed to be the largest cinema complex in China , with 17 screens and 3,500 seats .
+1	The	_	Word	Word	_	9	F	9:F	_
+2	first	_	Word	Word	_	9	Q	9:Q	_
+3	-	_	Punctuation	Punctuation	_	9	U	9:U	_
+4	Jackie	_	Word	Word	_	9	E	9:E	_
+5	Chan	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+7	Yaolai	_	Word	Word	_	4	C	4:C	_
+8	International	_	Word	Word	_	9	E	9:E	_
+9	Cinema	_	Word	Word	_	0	C	0:C|18:A|20:A|28:A	_
+10	-	_	Punctuation	Punctuation	_	11	U	11:U	_
+11	opened	_	Word	Word	_	0	H	0:H	_
+12	in	_	Word	Word	_	13	R	13:R	_
+13	February	_	Word	Word	_	11	T	11:T	_
+14	2010	_	Word	Word	_	13	C	13:C	_
+15	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+16	and	_	Word	Word	_	18	L	18:L	_
+17	is	_	Word	Word	_	18	F	18:F	_
+18	claimed	_	Word	Word	_	11	H	11:H	_
+19	to	_	Word	Word	_	20	F	20:F	_
+20	be	_	Word	Word	_	18	A	18:A	_
+21	the	_	Word	Word	_	24	F	24:F	_
+22	largest	_	Word	Word	_	24	E	24:E	_
+23	cinema	_	Word	Word	_	24	E	24:E	_
+24	complex	_	Word	Word	_	20	A	20:A	_
+25	in	_	Word	Word	_	26	R	26:R	_
+26	China	_	Word	Word	_	24	E	24:E	_
+27	,	_	Punctuation	Punctuation	_	20	U	20:U	_
+28	with	_	Word	Word	_	20	H	20:H	_
+29	17	_	Word	Word	_	30	Q	30:Q	_
+30	screens	_	Word	Word	_	28	A	28:A	_
+31	and	_	Word	Word	_	30	N	30:N	_
+32	3,500	_	Word	Word	_	33	Q	33:Q	_
+33	seats	_	Word	Word	_	30	C	30:C	_
+34	.	_	Punctuation	Punctuation	_	33	U	33:U	_
+

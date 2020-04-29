@@ -1,0 +1,44 @@
+# format = ucca
+# sent_id = 377008
+# text = Gyllenhaal graduated from the Harvard - Westlake School in Los Angeles in 1998 , then attended Columbia University , where his sister was a senior and from which his mother had graduated , to study Eastern religions and philosophy .
+1	Gyllenhaal	_	Word	Word	_	2	A	2:A|16:A|35:A	_
+2	graduated	_	Word	Word	_	0	H	0:H	_
+3	from	_	Word	Word	_	8	R	8:R	_
+4	the	_	Word	Word	_	8	F	8:F	_
+5	Harvard	_	Word	Word	_	8	E	8:E	_
+6	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	Westlake	_	Word	Word	_	5	Terminal	5:Terminal	_
+8	School	_	Word	Word	_	2	A	2:A	_
+9	in	_	Word	Word	_	10	R	10:R	_
+10	Los	_	Word	Word	_	8	E	8:E	_
+11	Angeles	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	in	_	Word	Word	_	13	R	13:R	_
+13	1998	_	Word	Word	_	2	T	2:T	_
+14	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+15	then	_	Word	Word	_	16	L	16:L	_
+16	attended	_	Word	Word	_	2	H	2:H	_
+17	Columbia	_	Word	Word	_	18	E	18:E	_
+18	University	_	Word	Word	_	16	A	16:A	_
+19	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+20	where	_	Word	Word	_	25	R	25:R	_
+21	his	_	Word	Word	_	25	A	25:A	_
+22	sister	_	Word	Word	_	21	A	21:A	_
+23	was	_	Word	Word	_	25	F	25:F	_
+24	a	_	Word	Word	_	25	F	25:F	_
+25	senior	_	Word	Word	_	18	E	18:E	_
+26	and	_	Word	Word	_	32	L	32:L	_
+27	from	_	Word	Word	_	32	A	32:A	_
+28	which	_	Word	Word	_	32	R	32:R	_
+29	his	_	Word	Word	_	32	A	32:A	_
+30	mother	_	Word	Word	_	29	A	29:A	_
+31	had	_	Word	Word	_	32	F	32:F	_
+32	graduated	_	Word	Word	_	25	H	25:H	_
+33	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+34	to	_	Word	Word	_	35	L	35:L	_
+35	study	_	Word	Word	_	2	H	2:H	_
+36	Eastern	_	Word	Word	_	37	E	37:E	_
+37	religions	_	Word	Word	_	35	A	35:A	_
+38	and	_	Word	Word	_	37	N	37:N	_
+39	philosophy	_	Word	Word	_	37	C	37:C	_
+40	.	_	Punctuation	Punctuation	_	37	U	37:U	_
+

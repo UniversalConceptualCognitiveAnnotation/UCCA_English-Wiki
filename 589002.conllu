@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 589002
+# text = Depp thanked the Hollywood Foreign Press Association and praised Tim Burton for his " unwavering trust and support . "
+1	Depp	_	Word	Word	_	2	A	2:A|9:A	_
+2	thanked	_	Word	Word	_	0	H	0:H	_
+3	the	_	Word	Word	_	4	E	4:E	_
+4	Hollywood	_	Word	Word	_	2	A	2:A	_
+5	Foreign	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	Press	_	Word	Word	_	4	Terminal	4:Terminal	_
+7	Association	_	Word	Word	_	4	Terminal	4:Terminal	_
+8	and	_	Word	Word	_	9	L	9:L	_
+9	praised	_	Word	Word	_	2	H	2:H	_
+10	Tim	_	Word	Word	_	9	A	9:A	_
+11	Burton	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	for	_	Word	Word	_	16	R	16:R|18:R	_
+13	his	_	Word	Word	_	16	A	16:A|18:A	_
+14	"	_	Punctuation	Punctuation	_	16	U	16:U	_
+15	unwavering	_	Word	Word	_	16	D	16:D|18:D	_
+16	trust	_	Word	Word	_	9	A	9:A	_
+17	and	_	Word	Word	_	18	L	18:L	_
+18	support	_	Word	Word	_	16	H	16:H	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+20	"	_	Punctuation	Punctuation	_	18	U	18:U	_
+

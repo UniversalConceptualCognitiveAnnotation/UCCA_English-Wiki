@@ -1,0 +1,35 @@
+# format = ucca
+# sent_id = 700007
+# text = The result was John Wesley Harding , a quiet , contemplative record of shorter songs , set in a landscape that drew on both the American West and the Bible .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	result	_	Word	Word	_	0	H	0:H	_
+3	was	_	Word	Word	_	2	F	2:F	_
+4	John	_	Word	Word	_	2	A	2:A	_
+5	Wesley	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	Harding	_	Word	Word	_	4	Terminal	4:Terminal	_
+7	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+8	a	_	Word	Word	_	12	E	12:E	_
+9	quiet	_	Word	Word	_	12	E	12:E	_
+10	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+11	contemplative	_	Word	Word	_	9	H	9:H	_
+12	record	_	Word	Word	_	4	E	4:E	_
+13	of	_	Word	Word	_	15	R	15:R	_
+14	shorter	_	Word	Word	_	15	E	15:E	_
+15	songs	_	Word	Word	_	12	E	12:E	_
+16	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+17	set	_	Word	Word	_	12	E	12:E	_
+18	in	_	Word	Word	_	20	R	20:R	_
+19	a	_	Word	Word	_	20	E	20:E	_
+20	landscape	_	Word	Word	_	17	A	17:A	_
+21	that	_	Word	Word	_	22	R	22:R	_
+22	drew	_	Word	Word	_	20	E	20:E	_
+23	on	_	Word	Word	_	22	Terminal	22:Terminal	_
+24	both	_	Word	Word	_	26	Q	26:Q	_
+25	the	_	Word	Word	_	26	E	26:E	_
+26	American	_	Word	Word	_	22	A	22:A	_
+27	West	_	Word	Word	_	26	C	26:C	_
+28	and	_	Word	Word	_	26	N	26:N	_
+29	the	_	Word	Word	_	30	E	30:E	_
+30	Bible	_	Word	Word	_	26	C	26:C	_
+31	.	_	Punctuation	Punctuation	_	30	U	30:U	_
+

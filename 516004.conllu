@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 516004
+# text = Bowie was inducted into the Rock and Roll Hall of Fame in 1996 .
+1	Bowie	_	Word	Word	_	3	A	3:A	_
+2	was	_	Word	Word	_	3	F	3:F	_
+3	inducted	_	Word	Word	_	0	H	0:H	_
+4	into	_	Word	Word	_	6	R	6:R	_
+5	the	_	Word	Word	_	6	F	6:F	_
+6	Rock	_	Word	Word	_	3	A	3:A	_
+7	and	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	Roll	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	Hall	_	Word	Word	_	6	Terminal	6:Terminal	_
+10	of	_	Word	Word	_	6	Terminal	6:Terminal	_
+11	Fame	_	Word	Word	_	6	Terminal	6:Terminal	_
+12	in	_	Word	Word	_	13	R	13:R	_
+13	1996	_	Word	Word	_	3	T	3:T	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

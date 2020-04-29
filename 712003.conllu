@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 712003
+# text = Dylan played classic and obscure records from the 1930s to the present day , including contemporary artists as diverse as Blur , Prince , L . L . Cool J and The Streets .
+1	Dylan	_	Word	Word	_	2	A	2:A	_
+2	played	_	Word	Word	_	0	H	0:H	_
+3	classic	_	Word	Word	_	6	E	6:E	_
+4	and	_	Word	Word	_	5	L	5:L	_
+5	obscure	_	Word	Word	_	3	H	3:H	_
+6	records	_	Word	Word	_	2	A	2:A	_
+7	from	_	Word	Word	_	9	R	9:R	_
+8	the	_	Word	Word	_	9	E	9:E	_
+9	1930s	_	Word	Word	_	6	E	6:E	_
+10	to	_	Word	Word	_	13	R	13:R	_
+11	the	_	Word	Word	_	13	E	13:E	_
+12	present	_	Word	Word	_	13	E	13:E	_
+13	day	_	Word	Word	_	9	C	9:C	_
+14	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+15	including	_	Word	Word	_	17	R	17:R	_
+16	contemporary	_	Word	Word	_	17	A	17:A	_
+17	artists	_	Word	Word	_	6	E	6:E	_
+18	as	_	Word	Word	_	19	D	19:D	_
+19	diverse	_	Word	Word	_	17	E	17:E	_
+20	as	_	Word	Word	_	21	R	21:R	_
+21	Blur	_	Word	Word	_	19	A	19:A	_
+22	,	_	Punctuation	Punctuation	_	21	U	21:U	_
+23	Prince	_	Word	Word	_	21	C	21:C	_
+24	,	_	Punctuation	Punctuation	_	21	U	21:U	_
+25	L	_	Word	Word	_	21	C	21:C	_
+26	.	_	Punctuation	Punctuation	_	25	U	25:U	_
+27	L	_	Word	Word	_	25	Terminal	25:Terminal	_
+28	.	_	Punctuation	Punctuation	_	25	U	25:U	_
+29	Cool	_	Word	Word	_	25	Terminal	25:Terminal	_
+30	J	_	Word	Word	_	25	Terminal	25:Terminal	_
+31	and	_	Word	Word	_	21	N	21:N	_
+32	The	_	Word	Word	_	21	C	21:C	_
+33	Streets	_	Word	Word	_	32	Terminal	32:Terminal	_
+34	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

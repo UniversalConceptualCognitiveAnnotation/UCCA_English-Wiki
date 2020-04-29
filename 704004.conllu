@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 704004
+# text = Later in that year , Dylan allowed a two - hour edit , dominated by the concert performances , to be more widely released .
+1	Later	_	Word	Word	_	4	R	4:R	_
+2	in	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	that	_	Word	Word	_	4	E	4:E	_
+4	year	_	Word	Word	_	24	T	24:T	_
+5	,	_	Punctuation	Punctuation	_	24	U	24:U	_
+6	Dylan	_	Word	Word	_	24	A	24:A	_
+7	allowed	_	Word	Word	_	24	D	24:D	_
+8	a	_	Word	Word	_	12	E	12:E	_
+9	two	_	Word	Word	_	11	Q	11:Q	_
+10	-	_	Punctuation	Punctuation	_	11	U	11:U	_
+11	hour	_	Word	Word	_	12	E	12:E	_
+12	edit	_	Word	Word	_	24	A	24:A	_
+13	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+14	dominated	_	Word	Word	_	12	E	12:E	_
+15	by	_	Word	Word	_	18	R	18:R	_
+16	the	_	Word	Word	_	18	F	18:F	_
+17	concert	_	Word	Word	_	18	A	18:A	_
+18	performances	_	Word	Word	_	14	A	14:A	_
+19	,	_	Punctuation	Punctuation	_	24	U	24:U	_
+20	to	_	Word	Word	_	24	F	24:F	_
+21	be	_	Word	Word	_	24	F	24:F	_
+22	more	_	Word	Word	_	23	E	23:E	_
+23	widely	_	Word	Word	_	24	D	24:D	_
+24	released	_	Word	Word	_	0	H	0:H	_
+25	.	_	Punctuation	Punctuation	_	24	U	24:U	_
+

@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 954003
+# text = During this time , Leigh read the Margaret Mitchell novel Gone with the Wind and instructed her American agent to suggest her to David O. Selznick , who was planning a film version .
+1	During	_	Word	Word	_	3	R	3:R	_
+2	this	_	Word	Word	_	3	E	3:E	_
+3	time	_	Word	Word	_	6	T	6:T	_
+4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	Leigh	_	Word	Word	_	6	A	6:A|16:A	_
+6	read	_	Word	Word	_	0	H	0:H	_
+7	the	_	Word	Word	_	10	E	10:E	_
+8	Margaret	_	Word	Word	_	10	E	10:E	_
+9	Mitchell	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	novel	_	Word	Word	_	11	E	11:E	_
+11	Gone	_	Word	Word	_	6	A	6:A	_
+12	with	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	the	_	Word	Word	_	11	Terminal	11:Terminal	_
+14	Wind	_	Word	Word	_	11	Terminal	11:Terminal	_
+15	and	_	Word	Word	_	16	L	16:L	_
+16	instructed	_	Word	Word	_	6	H	6:H	_
+17	her	_	Word	Word	_	19	A	19:A	_
+18	American	_	Word	Word	_	19	E	19:E	_
+19	agent	_	Word	Word	_	0	P	0:P|18:A|21:A	_
+20	to	_	Word	Word	_	21	F	21:F	_
+21	suggest	_	Word	Word	_	16	A	16:A	_
+22	her	_	Word	Word	_	21	A	21:A	_
+23	to	_	Word	Word	_	24	R	24:R	_
+24	David	_	Word	Word	_	21	A	21:A	_
+25	O.	_	Word	Word	_	24	Terminal	24:Terminal	_
+26	Selznick	_	Word	Word	_	24	Terminal	24:Terminal	_
+27	,	_	Punctuation	Punctuation	_	24	U	24:U	_
+28	who	_	Word	Word	_	30	R	30:R	_
+29	was	_	Word	Word	_	30	F	30:F	_
+30	planning	_	Word	Word	_	24	E	24:E	_
+31	a	_	Word	Word	_	33	E	33:E	_
+32	film	_	Word	Word	_	33	E	33:E	_
+33	version	_	Word	Word	_	30	A	30:A	_
+34	.	_	Punctuation	Punctuation	_	33	U	33:U	_
+

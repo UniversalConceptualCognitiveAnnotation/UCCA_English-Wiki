@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 1019016
+# text = Jackson 's father was also said to have verbally abused Jackson , saying that he had a fat nose on numerous occasions .
+1	Jackson	_	Word	Word	_	3	A	3:A	_
+2	's	_	Word	Word	_	1	R	1:R	_
+3	father	_	Word	Word	_	0	S	0:S|13:A	_
+4	was	_	Word	Word	_	10	F	10:F	_
+5	also	_	Word	Word	_	10	D	10:D	_
+6	said	_	Word	Word	_	10	G	10:G	_
+7	to	_	Word	Word	_	10	F	10:F	_
+8	have	_	Word	Word	_	10	F	10:F	_
+9	verbally	_	Word	Word	_	10	A	10:A	_
+10	abused	_	Word	Word	_	0	H	0:H	_
+11	Jackson	_	Word	Word	_	10	A	10:A	_
+12	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+13	saying	_	Word	Word	_	10	H	10:H	_
+14	that	_	Word	Word	_	16	R	16:R	_
+15	he	_	Word	Word	_	16	A	16:A	_
+16	had	_	Word	Word	_	13	A	13:A	_
+17	a	_	Word	Word	_	19	E	19:E	_
+18	fat	_	Word	Word	_	19	E	19:E	_
+19	nose	_	Word	Word	_	16	A	16:A	_
+20	on	_	Word	Word	_	22	R	22:R	_
+21	numerous	_	Word	Word	_	22	Q	22:Q	_
+22	occasions	_	Word	Word	_	13	D	13:D	_
+23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+

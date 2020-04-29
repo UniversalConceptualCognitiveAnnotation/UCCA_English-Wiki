@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 637007
+# text = Lennon 's emotional debut solo album , John Lennon / Plastic Ono Band ( 1970 ) , was received with high praise .
+1	Lennon	_	Word	Word	_	6	E	6:E	_
+2	's	_	Word	Word	_	1	R	1:R	_
+3	emotional	_	Word	Word	_	6	E	6:E	_
+4	debut	_	Word	Word	_	6	E	6:E	_
+5	solo	_	Word	Word	_	6	E	6:E	_
+6	album	_	Word	Word	_	19	A	19:A	_
+7	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	John	_	Word	Word	_	6	E	6:E	_
+9	Lennon	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	/	_	Punctuation	Punctuation	_	8	U	8:U	_
+11	Plastic	_	Word	Word	_	8	Terminal	8:Terminal	_
+12	Ono	_	Word	Word	_	8	Terminal	8:Terminal	_
+13	Band	_	Word	Word	_	8	Terminal	8:Terminal	_
+14	(	_	Punctuation	Punctuation	_	8	U	8:U	_
+15	1970	_	Word	Word	_	8	T	8:T	_
+16	)	_	Punctuation	Punctuation	_	19	U	19:U	_
+17	,	_	Punctuation	Punctuation	_	19	U	19:U	_
+18	was	_	Word	Word	_	19	F	19:F	_
+19	received	_	Word	Word	_	0	H	0:H	_
+20	with	_	Word	Word	_	22	R	22:R	_
+21	high	_	Word	Word	_	22	D	22:D	_
+22	praise	_	Word	Word	_	19	A	19:A	_
+23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+

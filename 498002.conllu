@@ -1,0 +1,49 @@
+# format = ucca
+# sent_id = 498002
+# text = The Rise and Fall of Ziggy Stardust and the Spiders from Mars ( 1972 ) , combining the hard rock elements of The Man Who Sold the World with the lighter experimental rock and pop of Hunky Dory , was released in June . "
+1	The	_	Word	Word	_	41	A	41:A	_
+2	Rise	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	and	_	Word	Word	_	1	Terminal	1:Terminal	_
+4	Fall	_	Word	Word	_	1	Terminal	1:Terminal	_
+5	of	_	Word	Word	_	1	Terminal	1:Terminal	_
+6	Ziggy	_	Word	Word	_	1	Terminal	1:Terminal	_
+7	Stardust	_	Word	Word	_	1	Terminal	1:Terminal	_
+8	and	_	Word	Word	_	1	Terminal	1:Terminal	_
+9	the	_	Word	Word	_	1	Terminal	1:Terminal	_
+10	Spiders	_	Word	Word	_	1	Terminal	1:Terminal	_
+11	from	_	Word	Word	_	1	Terminal	1:Terminal	_
+12	Mars	_	Word	Word	_	1	Terminal	1:Terminal	_
+13	(	_	Punctuation	Punctuation	_	1	U	1:U	_
+14	1972	_	Word	Word	_	1	E	1:E	_
+15	)	_	Punctuation	Punctuation	_	1	U	1:U	_
+16	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+17	combining	_	Word	Word	_	1	E	1:E	_
+18	the	_	Word	Word	_	21	E	21:E	_
+19	hard	_	Word	Word	_	20	E	20:E	_
+20	rock	_	Word	Word	_	21	E	21:E	_
+21	elements	_	Word	Word	_	17	A	17:A	_
+22	of	_	Word	Word	_	23	R	23:R	_
+23	The	_	Word	Word	_	21	E	21:E	_
+24	Man	_	Word	Word	_	23	Terminal	23:Terminal	_
+25	Who	_	Word	Word	_	23	Terminal	23:Terminal	_
+26	Sold	_	Word	Word	_	23	Terminal	23:Terminal	_
+27	the	_	Word	Word	_	23	Terminal	23:Terminal	_
+28	World	_	Word	Word	_	23	Terminal	23:Terminal	_
+29	with	_	Word	Word	_	33	R	33:R	_
+30	the	_	Word	Word	_	33	E	33:E	_
+31	lighter	_	Word	Word	_	33	E	33:E	_
+32	experimental	_	Word	Word	_	33	E	33:E	_
+33	rock	_	Word	Word	_	17	A	17:A	_
+34	and	_	Word	Word	_	33	N	33:N	_
+35	pop	_	Word	Word	_	33	C	33:C	_
+36	of	_	Word	Word	_	37	R	37:R	_
+37	Hunky	_	Word	Word	_	33	E	33:E	_
+38	Dory	_	Word	Word	_	37	Terminal	37:Terminal	_
+39	,	_	Punctuation	Punctuation	_	41	U	41:U	_
+40	was	_	Word	Word	_	41	F	41:F	_
+41	released	_	Word	Word	_	0	H	0:H	_
+42	in	_	Word	Word	_	43	R	43:R	_
+43	June	_	Word	Word	_	41	T	41:T	_
+44	.	_	Punctuation	Punctuation	_	43	U	43:U	_
+45	"	_	Punctuation	Punctuation	_	43	U	43:U	_
+

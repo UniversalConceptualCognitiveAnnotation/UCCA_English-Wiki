@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 532000
+# text = With the demise of her television series , Garland returned to the stage .
+1	With	_	Word	Word	_	10	L	10:L	_
+2	the	_	Word	Word	_	3	F	3:F	_
+3	demise	_	Word	Word	_	0	H	0:H	_
+4	of	_	Word	Word	_	7	R	7:R	_
+5	her	_	Word	Word	_	7	E	7:E	_
+6	television	_	Word	Word	_	7	E	7:E	_
+7	series	_	Word	Word	_	3	A	3:A	_
+8	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+9	Garland	_	Word	Word	_	10	A	10:A	_
+10	returned	_	Word	Word	_	3	H	3:H	_
+11	to	_	Word	Word	_	13	R	13:R	_
+12	the	_	Word	Word	_	13	F	13:F	_
+13	stage	_	Word	Word	_	10	A	10:A	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

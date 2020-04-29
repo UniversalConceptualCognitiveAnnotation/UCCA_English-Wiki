@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 474021
+# text = Ironically Johnson was himself suspended five days later , when he bumped referee Scott Foster , missing three games .
+1	Ironically	_	Word	Word	_	5	G	5:G	_
+2	Johnson	_	Word	Word	_	5	A	5:A	_
+3	was	_	Word	Word	_	5	F	5:F	_
+4	himself	_	Word	Word	_	2	F	2:F	_
+5	suspended	_	Word	Word	_	0	H	0:H	_
+6	five	_	Word	Word	_	7	Q	7:Q	_
+7	days	_	Word	Word	_	5	T	5:T	_
+8	later	_	Word	Word	_	7	R	7:R	_
+9	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+10	when	_	Word	Word	_	12	L	12:L	_
+11	he	_	Word	Word	_	12	A	12:A|17:A	_
+12	bumped	_	Word	Word	_	5	H	5:H	_
+13	referee	_	Word	Word	_	14	E	14:E	_
+14	Scott	_	Word	Word	_	12	A	12:A	_
+15	Foster	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+17	missing	_	Word	Word	_	5	H	5:H	_
+18	three	_	Word	Word	_	19	Q	19:Q	_
+19	games	_	Word	Word	_	17	A	17:A	_
+20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

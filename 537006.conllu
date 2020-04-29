@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 537006
+# text = Pearl Warner and the couple 's two children joined him in Baltimore , Maryland , less than a year later .
+1	Pearl	_	Word	Word	_	9	A	9:A	_
+2	Warner	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	and	_	Word	Word	_	1	N	1:N	_
+4	the	_	Word	Word	_	5	F	5:F	_
+5	couple	_	Word	Word	_	1	C	1:C	_
+6	's	_	Word	Word	_	5	R	5:R	_
+7	two	_	Word	Word	_	5	Q	5:Q	_
+8	children	_	Word	Word	_	5	A	5:A	_
+9	joined	_	Word	Word	_	0	H	0:H	_
+10	him	_	Word	Word	_	9	A	9:A	_
+11	in	_	Word	Word	_	12	R	12:R	_
+12	Baltimore	_	Word	Word	_	9	A	9:A	_
+13	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+14	Maryland	_	Word	Word	_	12	C	12:C	_
+15	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+16	less	_	Word	Word	_	19	E	19:E	_
+17	than	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	a	_	Word	Word	_	19	F	19:F	_
+19	year	_	Word	Word	_	9	T	9:T	_
+20	later	_	Word	Word	_	19	R	19:R	_
+21	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

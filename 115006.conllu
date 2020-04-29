@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 115006
+# text = She was outspoken , assertive , athletic , and wore trousers before it was fashionable for women to do so .
+1	She	_	Word	Word	_	3	A	3:A|5:A|7:A|10:A	_
+2	was	_	Word	Word	_	3	F	3:F	_
+3	outspoken	_	Word	Word	_	0	H	0:H	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	assertive	_	Word	Word	_	3	H	3:H	_
+6	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+7	athletic	_	Word	Word	_	3	H	3:H	_
+8	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+9	and	_	Word	Word	_	10	L	10:L	_
+10	wore	_	Word	Word	_	3	H	3:H	_
+11	trousers	_	Word	Word	_	10	A	10:A	_
+12	before	_	Word	Word	_	15	L	15:L	_
+13	it	_	Word	Word	_	15	F	15:F	_
+14	was	_	Word	Word	_	15	F	15:F	_
+15	fashionable	_	Word	Word	_	3	H	3:H	_
+16	for	_	Word	Word	_	19	R	19:R	_
+17	women	_	Word	Word	_	19	A	19:A	_
+18	to	_	Word	Word	_	19	F	19:F	_
+19	do	_	Word	Word	_	15	A	15:A	_
+20	so	_	Word	Word	_	19	A	19:A	_
+21	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

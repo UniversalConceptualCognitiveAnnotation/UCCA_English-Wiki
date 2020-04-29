@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 548003
+# text = His wife , Ann , continually pressured him to " slow down " , and the aging studio head felt a need to put his affairs in order .
+1	His	_	Word	Word	_	2	A	2:A	_
+2	wife	_	Word	Word	_	4	E	4:E	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	Ann	_	Word	Word	_	7	A	7:A	_
+5	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+6	continually	_	Word	Word	_	7	D	7:D	_
+7	pressured	_	Word	Word	_	0	H	0:H	_
+8	him	_	Word	Word	_	7	A	7:A|11:A	_
+9	to	_	Word	Word	_	11	F	11:F	_
+10	"	_	Punctuation	Punctuation	_	11	U	11:U	_
+11	slow	_	Word	Word	_	7	A	7:A	_
+12	down	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	"	_	Punctuation	Punctuation	_	7	U	7:U	_
+14	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+15	and	_	Word	Word	_	20	L	20:L	_
+16	the	_	Word	Word	_	17	F	17:F	_
+17	aging	_	Word	Word	_	18	E	18:E	_
+18	studio	_	Word	Word	_	20	A	20:A	_
+19	head	_	Word	Word	_	18	A	18:A	_
+20	felt	_	Word	Word	_	7	H	7:H	_
+21	a	_	Word	Word	_	22	F	22:F	_
+22	need	_	Word	Word	_	28	D	28:D	_
+23	to	_	Word	Word	_	28	F	28:F	_
+24	put	_	Word	Word	_	28	F	28:F	_
+25	his	_	Word	Word	_	26	E	26:E	_
+26	affairs	_	Word	Word	_	28	A	28:A	_
+27	in	_	Word	Word	_	28	F	28:F	_
+28	order	_	Word	Word	_	20	A	20:A	_
+29	.	_	Punctuation	Punctuation	_	28	U	28:U	_
+

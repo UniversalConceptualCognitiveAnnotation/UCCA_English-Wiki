@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 488011
+# text = After the critical disappointment of Hulk and Troy , critics questioned Bana 's bankability in big - budget films .
+1	After	_	Word	Word	_	11	L	11:L	_
+2	the	_	Word	Word	_	3	E	3:E	_
+3	critical	_	Word	Word	_	4	A	4:A	_
+4	disappointment	_	Word	Word	_	0	H	0:H	_
+5	of	_	Word	Word	_	6	R	6:R	_
+6	Hulk	_	Word	Word	_	4	A	4:A	_
+7	and	_	Word	Word	_	6	N	6:N	_
+8	Troy	_	Word	Word	_	6	C	6:C	_
+9	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+10	critics	_	Word	Word	_	11	A	11:A|4:A	_
+11	questioned	_	Word	Word	_	4	H	4:H	_
+12	Bana	_	Word	Word	_	14	A	14:A	_
+13	's	_	Word	Word	_	12	R	12:R	_
+14	bankability	_	Word	Word	_	11	A	11:A	_
+15	in	_	Word	Word	_	19	E	19:E	_
+16	big	_	Word	Word	_	18	E	18:E	_
+17	-	_	Punctuation	Punctuation	_	18	U	18:U	_
+18	budget	_	Word	Word	_	19	E	19:E	_
+19	films	_	Word	Word	_	14	A	14:A	_
+20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

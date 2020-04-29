@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 644009
+# text = During a car journey to visit Cynthia and Julian during Lennon 's divorce , McCartney composed a song , " Hey Jules " , to comfort him .
+1	During	_	Word	Word	_	13	L	13:L	_
+2	a	_	Word	Word	_	3	E	3:E	_
+3	car	_	Word	Word	_	4	A	4:A	_
+4	journey	_	Word	Word	_	0	H	0:H	_
+5	to	_	Word	Word	_	6	R	6:R	_
+6	visit	_	Word	Word	_	4	A	4:A	_
+7	Cynthia	_	Word	Word	_	6	A	6:A	_
+8	and	_	Word	Word	_	7	N	7:N	_
+9	Julian	_	Word	Word	_	7	C	7:C	_
+10	during	_	Word	Word	_	13	L	13:L	_
+11	Lennon	_	Word	Word	_	13	A	13:A	_
+12	's	_	Word	Word	_	11	R	11:R	_
+13	divorce	_	Word	Word	_	4	H	4:H	_
+14	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+15	McCartney	_	Word	Word	_	16	A	16:A|4:A|26:A	_
+16	composed	_	Word	Word	_	4	H	4:H	_
+17	a	_	Word	Word	_	18	E	18:E	_
+18	song	_	Word	Word	_	21	E	21:E	_
+19	,	_	Punctuation	Punctuation	_	21	U	21:U	_
+20	"	_	Punctuation	Punctuation	_	21	U	21:U	_
+21	Hey	_	Word	Word	_	16	A	16:A	_
+22	Jules	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	"	_	Punctuation	Punctuation	_	4	U	4:U	_
+24	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+25	to	_	Word	Word	_	26	L	26:L	_
+26	comfort	_	Word	Word	_	4	H	4:H	_
+27	him	_	Word	Word	_	26	A	26:A	_
+28	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+

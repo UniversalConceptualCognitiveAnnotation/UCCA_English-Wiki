@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 556003
+# text = Overcoming his reticence about performing outside the Courts , he competed in Humes 's Annual " Minstrel " show in April 1953 .
+1	Overcoming	_	Word	Word	_	3	D	3:D	_
+2	his	_	Word	Word	_	3	F	3:F	_
+3	reticence	_	Word	Word	_	0	H	0:H	_
+4	about	_	Word	Word	_	5	R	5:R	_
+5	performing	_	Word	Word	_	3	A	3:A	_
+6	outside	_	Word	Word	_	8	R	8:R	_
+7	the	_	Word	Word	_	8	E	8:E	_
+8	Courts	_	Word	Word	_	5	A	5:A	_
+9	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+10	he	_	Word	Word	_	11	A	11:A|3:A|5:A	_
+11	competed	_	Word	Word	_	3	H	3:H	_
+12	in	_	Word	Word	_	19	R	19:R	_
+13	Humes	_	Word	Word	_	19	A	19:A	_
+14	's	_	Word	Word	_	13	R	13:R	_
+15	Annual	_	Word	Word	_	19	T	19:T	_
+16	"	_	Punctuation	Punctuation	_	19	U	19:U	_
+17	Minstrel	_	Word	Word	_	19	A	19:A	_
+18	"	_	Punctuation	Punctuation	_	19	U	19:U	_
+19	show	_	Word	Word	_	11	A	11:A	_
+20	in	_	Word	Word	_	21	R	21:R	_
+21	April	_	Word	Word	_	11	T	11:T	_
+22	1953	_	Word	Word	_	21	C	21:C	_
+23	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

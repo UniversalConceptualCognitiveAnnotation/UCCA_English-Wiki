@@ -1,0 +1,57 @@
+# format = ucca
+# sent_id = 208001
+# text = Who Is Harry Kellerman and Why Is He Saying Those Terrible Things About Me ? ( 1971 ) , Straw Dogs ( also 1971 ) , and Papillon ( 1973 ) were followed by Lenny ( 1974 ) , for which Hoffman received his third nomination for Best Actor in seven years .
+1	Who	_	Word	Word	_	33	A	33:A	_
+2	Is	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	Harry	_	Word	Word	_	1	Terminal	1:Terminal	_
+4	Kellerman	_	Word	Word	_	1	Terminal	1:Terminal	_
+5	and	_	Word	Word	_	1	Terminal	1:Terminal	_
+6	Why	_	Word	Word	_	1	Terminal	1:Terminal	_
+7	Is	_	Word	Word	_	1	Terminal	1:Terminal	_
+8	He	_	Word	Word	_	1	Terminal	1:Terminal	_
+9	Saying	_	Word	Word	_	1	Terminal	1:Terminal	_
+10	Those	_	Word	Word	_	1	Terminal	1:Terminal	_
+11	Terrible	_	Word	Word	_	1	Terminal	1:Terminal	_
+12	Things	_	Word	Word	_	1	Terminal	1:Terminal	_
+13	About	_	Word	Word	_	1	Terminal	1:Terminal	_
+14	Me	_	Word	Word	_	1	Terminal	1:Terminal	_
+15	?	_	Punctuation	Punctuation	_	1	U	1:U	_
+16	(	_	Punctuation	Punctuation	_	1	U	1:U	_
+17	1971	_	Word	Word	_	1	E	1:E	_
+18	)	_	Punctuation	Punctuation	_	1	U	1:U	_
+19	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+20	Straw	_	Word	Word	_	1	C	1:C	_
+21	Dogs	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	(	_	Punctuation	Punctuation	_	20	U	20:U	_
+23	also	_	Word	Word	_	20	E	20:E	_
+24	1971	_	Word	Word	_	23	T	23:T	_
+25	)	_	Punctuation	Punctuation	_	1	U	1:U	_
+26	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+27	and	_	Word	Word	_	1	N	1:N	_
+28	Papillon	_	Word	Word	_	1	C	1:C	_
+29	(	_	Punctuation	Punctuation	_	28	U	28:U	_
+30	1973	_	Word	Word	_	28	E	28:E	_
+31	)	_	Punctuation	Punctuation	_	33	U	33:U	_
+32	were	_	Word	Word	_	33	F	33:F	_
+33	followed	_	Word	Word	_	0	H	0:H	_
+34	by	_	Word	Word	_	35	R	35:R	_
+35	Lenny	_	Word	Word	_	33	A	33:A	_
+36	(	_	Punctuation	Punctuation	_	35	U	35:U	_
+37	1974	_	Word	Word	_	35	E	35:E	_
+38	)	_	Punctuation	Punctuation	_	35	U	35:U	_
+39	,	_	Punctuation	Punctuation	_	35	U	35:U	_
+40	for	_	Word	Word	_	43	A	43:A	_
+41	which	_	Word	Word	_	43	R	43:R	_
+42	Hoffman	_	Word	Word	_	43	A	43:A	_
+43	received	_	Word	Word	_	35	E	35:E	_
+44	his	_	Word	Word	_	46	A	46:A	_
+45	third	_	Word	Word	_	46	D	46:D	_
+46	nomination	_	Word	Word	_	43	A	43:A	_
+47	for	_	Word	Word	_	49	R	49:R	_
+48	Best	_	Word	Word	_	49	E	49:E	_
+49	Actor	_	Word	Word	_	46	A	46:A	_
+50	in	_	Word	Word	_	52	R	52:R	_
+51	seven	_	Word	Word	_	52	Q	52:Q	_
+52	years	_	Word	Word	_	46	T	46:T	_
+53	.	_	Punctuation	Punctuation	_	52	U	52:U	_
+

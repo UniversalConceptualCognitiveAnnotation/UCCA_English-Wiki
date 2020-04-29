@@ -1,0 +1,42 @@
+# format = ucca
+# sent_id = 1018011
+# text = His other records , including Off the Wall ( 1979 ) , Bad ( 1987 ) , Dangerous ( 1991 ) , and HIStory ( 1995 ) , also rank among the world 's best - selling .
+1	His	_	Word	Word	_	3	E	3:E	_
+2	other	_	Word	Word	_	3	E	3:E	_
+3	records	_	Word	Word	_	30	A	30:A	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	including	_	Word	Word	_	6	R	6:R	_
+6	Off	_	Word	Word	_	3	E	3:E	_
+7	the	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	Wall	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	(	_	Punctuation	Punctuation	_	6	U	6:U	_
+10	1979	_	Word	Word	_	6	E	6:E	_
+11	)	_	Punctuation	Punctuation	_	6	U	6:U	_
+12	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+13	Bad	_	Word	Word	_	6	C	6:C	_
+14	(	_	Punctuation	Punctuation	_	13	U	13:U	_
+15	1987	_	Word	Word	_	13	E	13:E	_
+16	)	_	Punctuation	Punctuation	_	6	U	6:U	_
+17	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+18	Dangerous	_	Word	Word	_	6	C	6:C	_
+19	(	_	Punctuation	Punctuation	_	18	U	18:U	_
+20	1991	_	Word	Word	_	18	E	18:E	_
+21	)	_	Punctuation	Punctuation	_	6	U	6:U	_
+22	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+23	and	_	Word	Word	_	6	N	6:N	_
+24	HIStory	_	Word	Word	_	6	C	6:C	_
+25	(	_	Punctuation	Punctuation	_	24	U	24:U	_
+26	1995	_	Word	Word	_	24	E	24:E	_
+27	)	_	Punctuation	Punctuation	_	30	U	30:U	_
+28	,	_	Punctuation	Punctuation	_	30	U	30:U	_
+29	also	_	Word	Word	_	30	D	30:D	_
+30	rank	_	Word	Word	_	0	H	0:H	_
+31	among	_	Word	Word	_	37	R	37:R	_
+32	the	_	Word	Word	_	37	F	37:F	_
+33	world	_	Word	Word	_	37	A	37:A	_
+34	's	_	Word	Word	_	33	R	33:R	_
+35	best	_	Word	Word	_	37	D	37:D	_
+36	-	_	Punctuation	Punctuation	_	37	U	37:U	_
+37	selling	_	Word	Word	_	30	A	30:A	_
+38	.	_	Punctuation	Punctuation	_	37	U	37:U	_
+

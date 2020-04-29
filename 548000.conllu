@@ -1,0 +1,35 @@
+# format = ucca
+# sent_id = 548000
+# text = Despite these achievements , Jack grew weary of making films , and he sold a substantial amount of his studio stock to Seven Arts Productions on November 14 , 1966 .
+1	Despite	_	Word	Word	_	6	L	6:L	_
+2	these	_	Word	Word	_	3	E	3:E	_
+3	achievements	_	Word	Word	_	0	H	0:H	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	Jack	_	Word	Word	_	6	A	6:A|3:A|9:A	_
+6	grew	_	Word	Word	_	3	H	3:H	_
+7	weary	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	of	_	Word	Word	_	9	R	9:R	_
+9	making	_	Word	Word	_	6	A	6:A	_
+10	films	_	Word	Word	_	9	A	9:A	_
+11	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+12	and	_	Word	Word	_	14	L	14:L	_
+13	he	_	Word	Word	_	14	A	14:A	_
+14	sold	_	Word	Word	_	3	H	3:H	_
+15	a	_	Word	Word	_	17	F	17:F	_
+16	substantial	_	Word	Word	_	17	E	17:E	_
+17	amount	_	Word	Word	_	21	Q	21:Q	_
+18	of	_	Word	Word	_	21	R	21:R	_
+19	his	_	Word	Word	_	21	E	21:E	_
+20	studio	_	Word	Word	_	21	E	21:E	_
+21	stock	_	Word	Word	_	14	A	14:A	_
+22	to	_	Word	Word	_	23	R	23:R	_
+23	Seven	_	Word	Word	_	14	A	14:A	_
+24	Arts	_	Word	Word	_	23	Terminal	23:Terminal	_
+25	Productions	_	Word	Word	_	23	Terminal	23:Terminal	_
+26	on	_	Word	Word	_	27	R	27:R	_
+27	November	_	Word	Word	_	14	T	14:T	_
+28	14	_	Word	Word	_	27	C	27:C	_
+29	,	_	Punctuation	Punctuation	_	27	U	27:U	_
+30	1966	_	Word	Word	_	27	C	27:C	_
+31	.	_	Punctuation	Punctuation	_	27	U	27:U	_
+

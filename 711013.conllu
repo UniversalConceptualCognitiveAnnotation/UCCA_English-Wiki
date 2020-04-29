@@ -1,0 +1,40 @@
+# format = ucca
+# sent_id = 711013
+# text = No Direction Home , Martin Scorsese 's acclaimed film biography of Dylan , was first broadcast on September 26 - 27 , 2005 , on BBC Two in the UK and PBS in the US .
+1	No	_	Word	Word	_	16	A	16:A	_
+2	Direction	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	Home	_	Word	Word	_	1	Terminal	1:Terminal	_
+4	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+5	Martin	_	Word	Word	_	7	A	7:A	_
+6	Scorsese	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	's	_	Word	Word	_	9	E	9:E	_
+8	acclaimed	_	Word	Word	_	9	E	9:E	_
+9	film	_	Word	Word	_	1	E	1:E	_
+10	biography	_	Word	Word	_	9	C	9:C	_
+11	of	_	Word	Word	_	12	R	12:R	_
+12	Dylan	_	Word	Word	_	9	E	9:E	_
+13	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+14	was	_	Word	Word	_	16	F	16:F	_
+15	first	_	Word	Word	_	16	D	16:D	_
+16	broadcast	_	Word	Word	_	0	H	0:H	_
+17	on	_	Word	Word	_	18	R	18:R	_
+18	September	_	Word	Word	_	16	T	16:T	_
+19	26	_	Word	Word	_	18	C	18:C	_
+20	-	_	Punctuation	Punctuation	_	19	U	19:U	_
+21	27	_	Word	Word	_	19	C	19:C	_
+22	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+23	2005	_	Word	Word	_	18	C	18:C	_
+24	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+25	on	_	Word	Word	_	26	R	26:R	_
+26	BBC	_	Word	Word	_	16	A	16:A	_
+27	Two	_	Word	Word	_	26	Terminal	26:Terminal	_
+28	in	_	Word	Word	_	30	R	30:R	_
+29	the	_	Word	Word	_	30	E	30:E	_
+30	UK	_	Word	Word	_	26	E	26:E	_
+31	and	_	Word	Word	_	26	N	26:N	_
+32	PBS	_	Word	Word	_	26	C	26:C	_
+33	in	_	Word	Word	_	35	R	35:R	_
+34	the	_	Word	Word	_	35	E	35:E	_
+35	US	_	Word	Word	_	32	E	32:E	_
+36	.	_	Punctuation	Punctuation	_	35	U	35:U	_
+

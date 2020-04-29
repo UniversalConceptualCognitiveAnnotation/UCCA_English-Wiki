@@ -1,0 +1,51 @@
+# format = ucca
+# sent_id = 947015
+# text = In late 2006 , Stefani released a limited edition line of dolls called " Love Angel Music Baby . . . . Fashion dolls " . The dolls are inspired by the various costumes that Stefani and the Harajuku Girls wore while touring for the album .
+1	In	_	Word	Word	_	3	R	3:R	_
+2	late	_	Word	Word	_	3	E	3:E	_
+3	2006	_	Word	Word	_	6	T	6:T	_
+4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	Stefani	_	Word	Word	_	6	A	6:A	_
+6	released	_	Word	Word	_	0	H	0:H	_
+7	a	_	Word	Word	_	10	E	10:E	_
+8	limited	_	Word	Word	_	10	E	10:E	_
+9	edition	_	Word	Word	_	8	A	8:A	_
+10	line	_	Word	Word	_	6	A	6:A	_
+11	of	_	Word	Word	_	12	R	12:R	_
+12	dolls	_	Word	Word	_	10	E	10:E	_
+13	called	_	Word	Word	_	10	E	10:E	_
+14	"	_	Punctuation	Punctuation	_	13	U	13:U	_
+15	Love	_	Word	Word	_	13	A	13:A	_
+16	Angel	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	Music	_	Word	Word	_	15	Terminal	15:Terminal	_
+18	Baby	_	Word	Word	_	15	Terminal	15:Terminal	_
+19	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+20	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+21	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+22	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+23	Fashion	_	Word	Word	_	15	Terminal	15:Terminal	_
+24	dolls	_	Word	Word	_	15	Terminal	15:Terminal	_
+25	"	_	Punctuation	Punctuation	_	6	U	6:U	_
+26	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+27	The	_	Word	Word	_	28	E	28:E	_
+28	dolls	_	Word	Word	_	30	A	30:A	_
+29	are	_	Word	Word	_	30	F	30:F	_
+30	inspired	_	Word	Word	_	6	H	6:H	_
+31	by	_	Word	Word	_	34	R	34:R	_
+32	the	_	Word	Word	_	34	E	34:E	_
+33	various	_	Word	Word	_	34	Q	34:Q	_
+34	costumes	_	Word	Word	_	30	A	30:A	_
+35	that	_	Word	Word	_	41	R	41:R	_
+36	Stefani	_	Word	Word	_	41	A	41:A|43:A	_
+37	and	_	Word	Word	_	36	N	36:N	_
+38	the	_	Word	Word	_	40	E	40:E	_
+39	Harajuku	_	Word	Word	_	40	E	40:E	_
+40	Girls	_	Word	Word	_	36	C	36:C	_
+41	wore	_	Word	Word	_	34	E	34:E	_
+42	while	_	Word	Word	_	43	L	43:L	_
+43	touring	_	Word	Word	_	6	H	6:H	_
+44	for	_	Word	Word	_	46	R	46:R	_
+45	the	_	Word	Word	_	46	E	46:E	_
+46	album	_	Word	Word	_	43	A	43:A	_
+47	.	_	Punctuation	Punctuation	_	46	U	46:U	_
+

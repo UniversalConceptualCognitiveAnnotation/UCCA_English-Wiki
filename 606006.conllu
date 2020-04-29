@@ -1,0 +1,41 @@
+# format = ucca
+# sent_id = 606006
+# text = The album also included the top - ten hits " Jet " and " Helen Wheels " , and earned the 413th spot on Rolling Stone 's list of the 500 Greatest Albums of All Time .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	album	_	Word	Word	_	0	C	0:C|20:A	_
+3	also	_	Word	Word	_	4	D	4:D	_
+4	included	_	Word	Word	_	0	H	0:H	_
+5	the	_	Word	Word	_	9	F	9:F	_
+6	top	_	Word	Word	_	8	E	8:E	_
+7	-	_	Punctuation	Punctuation	_	8	U	8:U	_
+8	ten	_	Word	Word	_	9	E	9:E	_
+9	hits	_	Word	Word	_	11	E	11:E	_
+10	"	_	Punctuation	Punctuation	_	11	U	11:U	_
+11	Jet	_	Word	Word	_	4	A	4:A	_
+12	"	_	Punctuation	Punctuation	_	11	U	11:U	_
+13	and	_	Word	Word	_	11	N	11:N	_
+14	"	_	Punctuation	Punctuation	_	11	U	11:U	_
+15	Helen	_	Word	Word	_	11	C	11:C	_
+16	Wheels	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	"	_	Punctuation	Punctuation	_	4	U	4:U	_
+18	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+19	and	_	Word	Word	_	20	L	20:L	_
+20	earned	_	Word	Word	_	4	H	4:H	_
+21	the	_	Word	Word	_	23	F	23:F	_
+22	413th	_	Word	Word	_	23	Q	23:Q	_
+23	spot	_	Word	Word	_	20	A	20:A	_
+24	on	_	Word	Word	_	30	R	30:R	_
+25	Rolling	_	Word	Word	_	27	A	27:A	_
+26	Stone	_	Word	Word	_	25	Terminal	25:Terminal	_
+27	's	_	Word	Word	_	28	E	28:E	_
+28	list	_	Word	Word	_	30	E	30:E	_
+29	of	_	Word	Word	_	30	R	30:R	_
+30	the	_	Word	Word	_	23	E	23:E	_
+31	500	_	Word	Word	_	30	Terminal	30:Terminal	_
+32	Greatest	_	Word	Word	_	30	Terminal	30:Terminal	_
+33	Albums	_	Word	Word	_	30	Terminal	30:Terminal	_
+34	of	_	Word	Word	_	30	Terminal	30:Terminal	_
+35	All	_	Word	Word	_	30	Terminal	30:Terminal	_
+36	Time	_	Word	Word	_	30	Terminal	30:Terminal	_
+37	.	_	Punctuation	Punctuation	_	30	U	30:U	_
+

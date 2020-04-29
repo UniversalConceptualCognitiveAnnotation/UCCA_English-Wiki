@@ -1,0 +1,55 @@
+# format = ucca
+# sent_id = 634003
+# text = They recorded their debut album , Please Please Me , in under 10 hours on 11 February 1963 , a day when Lennon was suffering the effects of a cold , which is evident in the vocal on the last song to be recorded that day , Twist and Shout .
+1	They	_	Word	Word	_	2	A	2:A	_
+2	recorded	_	Word	Word	_	0	H	0:H	_
+3	their	_	Word	Word	_	5	E	5:E	_
+4	debut	_	Word	Word	_	5	E	5:E	_
+5	album	_	Word	Word	_	2	A	2:A	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	Please	_	Word	Word	_	5	E	5:E	_
+8	Please	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	Me	_	Word	Word	_	7	Terminal	7:Terminal	_
+10	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+11	in	_	Word	Word	_	14	R	14:R	_
+12	under	_	Word	Word	_	14	R	14:R	_
+13	10	_	Word	Word	_	14	Q	14:Q	_
+14	hours	_	Word	Word	_	2	A	2:A	_
+15	on	_	Word	Word	_	16	R	16:R	_
+16	11	_	Word	Word	_	2	T	2:T	_
+17	February	_	Word	Word	_	16	C	16:C	_
+18	1963	_	Word	Word	_	16	C	16:C	_
+19	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+20	a	_	Word	Word	_	25	L	25:L	_
+21	day	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	when	_	Word	Word	_	20	Terminal	20:Terminal	_
+23	Lennon	_	Word	Word	_	25	A	25:A	_
+24	was	_	Word	Word	_	25	F	25:F	_
+25	suffering	_	Word	Word	_	2	H	2:H	_
+26	the	_	Word	Word	_	27	E	27:E	_
+27	effects	_	Word	Word	_	30	E	30:E	_
+28	of	_	Word	Word	_	30	R	30:R	_
+29	a	_	Word	Word	_	30	E	30:E	_
+30	cold	_	Word	Word	_	0	C	0:C|34:A	_
+31	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+32	which	_	Word	Word	_	34	L	34:L	_
+33	is	_	Word	Word	_	34	F	34:F	_
+34	evident	_	Word	Word	_	2	H	2:H	_
+35	in	_	Word	Word	_	37	R	37:R	_
+36	the	_	Word	Word	_	37	E	37:E	_
+37	vocal	_	Word	Word	_	34	A	34:A	_
+38	on	_	Word	Word	_	41	R	41:R	_
+39	the	_	Word	Word	_	41	E	41:E	_
+40	last	_	Word	Word	_	41	E	41:E	_
+41	song	_	Word	Word	_	44	A	44:A	_
+42	to	_	Word	Word	_	44	F	44:F	_
+43	be	_	Word	Word	_	44	F	44:F	_
+44	recorded	_	Word	Word	_	37	E	37:E	_
+45	that	_	Word	Word	_	46	E	46:E	_
+46	day	_	Word	Word	_	44	T	44:T	_
+47	,	_	Punctuation	Punctuation	_	44	U	44:U	_
+48	Twist	_	Word	Word	_	44	E	44:E	_
+49	and	_	Word	Word	_	48	Terminal	48:Terminal	_
+50	Shout	_	Word	Word	_	48	Terminal	48:Terminal	_
+51	.	_	Punctuation	Punctuation	_	44	U	44:U	_
+

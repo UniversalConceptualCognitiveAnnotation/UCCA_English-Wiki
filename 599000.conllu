@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 599000
+# text = Sir James Paul McCartney , MBE ( born 18 June 1942 ) is an English musician , singer , songwriter , multi - instrumentalist and composer .
+1	Sir	_	Word	Word	_	2	E	2:E	_
+2	James	_	Word	Word	_	16	A	16:A|18:A|20:A|24:A|26:A	_
+3	Paul	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	McCartney	_	Word	Word	_	2	Terminal	2:Terminal	_
+5	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+6	MBE	_	Word	Word	_	2	E	2:E	_
+7	(	_	Punctuation	Punctuation	_	2	U	2:U	_
+8	born	_	Word	Word	_	2	E	2:E	_
+9	18	_	Word	Word	_	8	T	8:T	_
+10	June	_	Word	Word	_	9	C	9:C	_
+11	1942	_	Word	Word	_	9	C	9:C	_
+12	)	_	Punctuation	Punctuation	_	16	U	16:U	_
+13	is	_	Word	Word	_	16	F	16:F	_
+14	an	_	Word	Word	_	15	E	15:E	_
+15	English	_	Word	Word	_	16	A	16:A|18:A|20:A|24:A|26:A	_
+16	musician	_	Word	Word	_	0	H	0:H	_
+17	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+18	singer	_	Word	Word	_	16	H	16:H	_
+19	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+20	songwriter	_	Word	Word	_	16	H	16:H	_
+21	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+22	multi	_	Word	Word	_	24	E	24:E	_
+23	-	_	Punctuation	Punctuation	_	24	U	24:U	_
+24	instrumentalist	_	Word	Word	_	16	H	16:H	_
+25	and	_	Word	Word	_	26	L	26:L	_
+26	composer	_	Word	Word	_	16	H	16:H	_
+27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+

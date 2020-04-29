@@ -1,0 +1,39 @@
+# format = ucca
+# sent_id = 697000
+# text = In July 1965 , Dylan released the single " Like a Rolling Stone " , which peaked at number two in the U . S . and at number four in the UK charts .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	July	_	Word	Word	_	6	T	6:T	_
+3	1965	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	Dylan	_	Word	Word	_	6	A	6:A	_
+6	released	_	Word	Word	_	0	H	0:H	_
+7	the	_	Word	Word	_	10	E	10:E	_
+8	single	_	Word	Word	_	10	E	10:E	_
+9	"	_	Punctuation	Punctuation	_	10	U	10:U	_
+10	Like	_	Word	Word	_	6	A	6:A	_
+11	a	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	Rolling	_	Word	Word	_	10	Terminal	10:Terminal	_
+13	Stone	_	Word	Word	_	10	Terminal	10:Terminal	_
+14	"	_	Punctuation	Punctuation	_	10	U	10:U	_
+15	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+16	which	_	Word	Word	_	17	R	17:R	_
+17	peaked	_	Word	Word	_	10	E	10:E	_
+18	at	_	Word	Word	_	19	R	19:R	_
+19	number	_	Word	Word	_	17	A	17:A	_
+20	two	_	Word	Word	_	19	Q	19:Q	_
+21	in	_	Word	Word	_	23	R	23:R	_
+22	the	_	Word	Word	_	23	E	23:E	_
+23	U	_	Word	Word	_	19	E	19:E	_
+24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+25	S	_	Word	Word	_	23	Terminal	23:Terminal	_
+26	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+27	and	_	Word	Word	_	19	N	19:N	_
+28	at	_	Word	Word	_	29	R	29:R	_
+29	number	_	Word	Word	_	19	C	19:C	_
+30	four	_	Word	Word	_	29	Q	29:Q	_
+31	in	_	Word	Word	_	34	R	34:R	_
+32	the	_	Word	Word	_	34	E	34:E	_
+33	UK	_	Word	Word	_	34	E	34:E	_
+34	charts	_	Word	Word	_	29	E	29:E	_
+35	.	_	Punctuation	Punctuation	_	34	U	34:U	_
+

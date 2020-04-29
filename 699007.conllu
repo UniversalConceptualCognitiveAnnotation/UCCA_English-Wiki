@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 699007
+# text = Manager Albert Grossman had already scheduled an extensive concert tour for that summer and fall .
+1	Manager	_	Word	Word	_	2	E	2:E	_
+2	Albert	_	Word	Word	_	6	A	6:A	_
+3	Grossman	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	had	_	Word	Word	_	6	F	6:F	_
+5	already	_	Word	Word	_	6	D	6:D	_
+6	scheduled	_	Word	Word	_	0	H	0:H	_
+7	an	_	Word	Word	_	10	F	10:F	_
+8	extensive	_	Word	Word	_	10	D	10:D	_
+9	concert	_	Word	Word	_	10	A	10:A	_
+10	tour	_	Word	Word	_	6	A	6:A	_
+11	for	_	Word	Word	_	13	R	13:R	_
+12	that	_	Word	Word	_	13	E	13:E	_
+13	summer	_	Word	Word	_	6	T	6:T	_
+14	and	_	Word	Word	_	13	N	13:N	_
+15	fall	_	Word	Word	_	13	C	13:C	_
+16	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

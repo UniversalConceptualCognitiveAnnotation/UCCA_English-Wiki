@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 133006
+# text = Released in 1942 , Woman of the Year was another success .
+1	Released	_	Word	Word	_	0	H	0:H	_
+2	in	_	Word	Word	_	3	R	3:R	_
+3	1942	_	Word	Word	_	1	T	1:T	_
+4	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+5	Woman	_	Word	Word	_	11	A	11:A|1:A	_
+6	of	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	the	_	Word	Word	_	5	Terminal	5:Terminal	_
+8	Year	_	Word	Word	_	5	Terminal	5:Terminal	_
+9	was	_	Word	Word	_	11	F	11:F	_
+10	another	_	Word	Word	_	11	D	11:D	_
+11	success	_	Word	Word	_	1	H	1:H	_
+12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+

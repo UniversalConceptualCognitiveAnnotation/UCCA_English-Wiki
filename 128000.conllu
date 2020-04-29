@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 128000
+# text = By the end of 1933 Hepburn was at the top of her profession , but yearned to prove herself on Broadway .
+1	By	_	Word	Word	_	5	R	5:R	_
+2	the	_	Word	Word	_	5	E	5:E	_
+3	end	_	Word	Word	_	5	E	5:E	_
+4	of	_	Word	Word	_	5	R	5:R	_
+5	1933	_	Word	Word	_	10	T	10:T	_
+6	Hepburn	_	Word	Word	_	10	A	10:A|16:A|18:A	_
+7	was	_	Word	Word	_	10	F	10:F	_
+8	at	_	Word	Word	_	10	R	10:R	_
+9	the	_	Word	Word	_	10	E	10:E	_
+10	top	_	Word	Word	_	0	H	0:H	_
+11	of	_	Word	Word	_	13	R	13:R	_
+12	her	_	Word	Word	_	13	A	13:A	_
+13	profession	_	Word	Word	_	10	A	10:A	_
+14	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+15	but	_	Word	Word	_	16	L	16:L	_
+16	yearned	_	Word	Word	_	10	H	10:H	_
+17	to	_	Word	Word	_	18	F	18:F	_
+18	prove	_	Word	Word	_	16	A	16:A	_
+19	herself	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	on	_	Word	Word	_	21	R	21:R	_
+21	Broadway	_	Word	Word	_	18	A	18:A	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

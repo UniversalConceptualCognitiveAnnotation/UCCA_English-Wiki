@@ -1,0 +1,40 @@
+# format = ucca
+# sent_id = 226011
+# text = Jackie 's first huge blockbuster success came when he co - starred with Chris Tucker in the 1998 buddy cop action comedy Rush Hour , grossing US $ 130 million in the United States alone .
+1	Jackie	_	Word	Word	_	6	A	6:A	_
+2	's	_	Word	Word	_	1	R	1:R	_
+3	first	_	Word	Word	_	6	D	6:D	_
+4	huge	_	Word	Word	_	6	D	6:D	_
+5	blockbuster	_	Word	Word	_	6	A	6:A	_
+6	success	_	Word	Word	_	0	H	0:H	_
+7	came	_	Word	Word	_	6	F	6:F	_
+8	when	_	Word	Word	_	12	L	12:L	_
+9	he	_	Word	Word	_	12	A	12:A	_
+10	co	_	Word	Word	_	12	E	12:E	_
+11	-	_	Punctuation	Punctuation	_	12	U	12:U	_
+12	starred	_	Word	Word	_	6	H	6:H	_
+13	with	_	Word	Word	_	14	R	14:R	_
+14	Chris	_	Word	Word	_	12	A	12:A	_
+15	Tucker	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	in	_	Word	Word	_	23	R	23:R	_
+17	the	_	Word	Word	_	23	F	23:F	_
+18	1998	_	Word	Word	_	23	E	23:E	_
+19	buddy	_	Word	Word	_	20	E	20:E	_
+20	cop	_	Word	Word	_	23	E	23:E	_
+21	action	_	Word	Word	_	23	E	23:E	_
+22	comedy	_	Word	Word	_	23	E	23:E	_
+23	Rush	_	Word	Word	_	12	A	12:A	_
+24	Hour	_	Word	Word	_	23	Terminal	23:Terminal	_
+25	,	_	Punctuation	Punctuation	_	23	U	23:U	_
+26	grossing	_	Word	Word	_	23	E	23:E	_
+27	US	_	Word	Word	_	28	E	28:E	_
+28	$	_	Word	Word	_	26	A	26:A	_
+29	130	_	Word	Word	_	28	Q	28:Q	_
+30	million	_	Word	Word	_	29	C	29:C	_
+31	in	_	Word	Word	_	33	R	33:R	_
+32	the	_	Word	Word	_	33	F	33:F	_
+33	United	_	Word	Word	_	26	A	26:A	_
+34	States	_	Word	Word	_	33	Terminal	33:Terminal	_
+35	alone	_	Word	Word	_	33	E	33:E	_
+36	.	_	Punctuation	Punctuation	_	33	U	33:U	_
+

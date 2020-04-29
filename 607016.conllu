@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 607016
+# text = Equipment technicians resolved the problems and David Bowie , Alison Moyet , Pete Townshend and Bob Geldof joined McCartney on stage , receiving an enthusiastic crowd reaction .
+1	Equipment	_	Word	Word	_	3	A	3:A	_
+2	technicians	_	Word	Word	_	1	A	1:A	_
+3	resolved	_	Word	Word	_	0	H	0:H	_
+4	the	_	Word	Word	_	5	F	5:F	_
+5	problems	_	Word	Word	_	3	A	3:A	_
+6	and	_	Word	Word	_	18	L	18:L	_
+7	David	_	Word	Word	_	18	A	18:A|27:A	_
+8	Bowie	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+10	Alison	_	Word	Word	_	7	C	7:C	_
+11	Moyet	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+13	Pete	_	Word	Word	_	7	C	7:C	_
+14	Townshend	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	and	_	Word	Word	_	7	N	7:N	_
+16	Bob	_	Word	Word	_	7	C	7:C	_
+17	Geldof	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	joined	_	Word	Word	_	3	H	3:H	_
+19	McCartney	_	Word	Word	_	18	A	18:A	_
+20	on	_	Word	Word	_	21	R	21:R	_
+21	stage	_	Word	Word	_	18	A	18:A	_
+22	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+23	receiving	_	Word	Word	_	27	D	27:D	_
+24	an	_	Word	Word	_	27	F	27:F	_
+25	enthusiastic	_	Word	Word	_	27	D	27:D	_
+26	crowd	_	Word	Word	_	27	A	27:A	_
+27	reaction	_	Word	Word	_	3	H	3:H	_
+28	.	_	Punctuation	Punctuation	_	27	U	27:U	_
+

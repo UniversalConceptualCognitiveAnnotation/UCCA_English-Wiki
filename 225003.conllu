@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 225003
+# text = Chan then played a minor role in the 1981 film The Cannonball Run , which grossed US $ 100 million worldwide .
+1	Chan	_	Word	Word	_	3	A	3:A	_
+2	then	_	Word	Word	_	3	D	3:D	_
+3	played	_	Word	Word	_	0	H	0:H	_
+4	a	_	Word	Word	_	6	F	6:F	_
+5	minor	_	Word	Word	_	6	E	6:E	_
+6	role	_	Word	Word	_	3	A	3:A	_
+7	in	_	Word	Word	_	11	R	11:R	_
+8	the	_	Word	Word	_	11	F	11:F	_
+9	1981	_	Word	Word	_	11	E	11:E	_
+10	film	_	Word	Word	_	11	E	11:E	_
+11	The	_	Word	Word	_	3	A	3:A	_
+12	Cannonball	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	Run	_	Word	Word	_	11	Terminal	11:Terminal	_
+14	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+15	which	_	Word	Word	_	16	R	16:R	_
+16	grossed	_	Word	Word	_	11	E	11:E	_
+17	US	_	Word	Word	_	18	E	18:E	_
+18	$	_	Word	Word	_	16	A	16:A	_
+19	100	_	Word	Word	_	18	Q	18:Q	_
+20	million	_	Word	Word	_	19	C	19:C	_
+21	worldwide	_	Word	Word	_	16	A	16:A	_
+22	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

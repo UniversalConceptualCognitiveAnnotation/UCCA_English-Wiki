@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 250011
+# text = Hawke returned to Broadway in Jack O ' Brien 's 2003 production of Henry IV , playing Henry Percy , also called Harry Hotspur .
+1	Hawke	_	Word	Word	_	2	A	2:A|17:A	_
+2	returned	_	Word	Word	_	0	H	0:H	_
+3	to	_	Word	Word	_	4	R	4:R	_
+4	Broadway	_	Word	Word	_	2	A	2:A	_
+5	in	_	Word	Word	_	12	R	12:R	_
+6	Jack	_	Word	Word	_	10	A	10:A	_
+7	O	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	'	_	Punctuation	Punctuation	_	6	U	6:U	_
+9	Brien	_	Word	Word	_	6	Terminal	6:Terminal	_
+10	's	_	Word	Word	_	12	E	12:E	_
+11	2003	_	Word	Word	_	12	E	12:E	_
+12	production	_	Word	Word	_	2	A	2:A	_
+13	of	_	Word	Word	_	14	R	14:R	_
+14	Henry	_	Word	Word	_	12	E	12:E	_
+15	IV	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+17	playing	_	Word	Word	_	2	H	2:H	_
+18	Henry	_	Word	Word	_	17	A	17:A	_
+19	Percy	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+21	also	_	Word	Word	_	22	D	22:D	_
+22	called	_	Word	Word	_	18	E	18:E	_
+23	Harry	_	Word	Word	_	22	A	22:A	_
+24	Hotspur	_	Word	Word	_	23	Terminal	23:Terminal	_
+25	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+

@@ -1,0 +1,39 @@
+# format = ucca
+# sent_id = 195008
+# text = A week later , NBC bought from Warner Bros . TV the right to show the TV series on their network for a near - record license fee in a bidding war with CBS .
+1	A	_	Word	Word	_	3	E	3:E	_
+2	week	_	Word	Word	_	3	E	3:E	_
+3	later	_	Word	Word	_	6	L	6:L	_
+4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	NBC	_	Word	Word	_	6	A	6:A|15:A|31:A	_
+6	bought	_	Word	Word	_	0	H	0:H	_
+7	from	_	Word	Word	_	8	R	8:R	_
+8	Warner	_	Word	Word	_	6	A	6:A	_
+9	Bros	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+11	TV	_	Word	Word	_	8	Terminal	8:Terminal	_
+12	the	_	Word	Word	_	13	E	13:E	_
+13	right	_	Word	Word	_	6	A	6:A	_
+14	to	_	Word	Word	_	15	R	15:R	_
+15	show	_	Word	Word	_	13	A	13:A	_
+16	the	_	Word	Word	_	18	E	18:E	_
+17	TV	_	Word	Word	_	18	E	18:E	_
+18	series	_	Word	Word	_	15	A	15:A	_
+19	on	_	Word	Word	_	21	R	21:R	_
+20	their	_	Word	Word	_	21	E	21:E	_
+21	network	_	Word	Word	_	15	A	15:A	_
+22	for	_	Word	Word	_	28	R	28:R	_
+23	a	_	Word	Word	_	28	E	28:E	_
+24	near	_	Word	Word	_	26	E	26:E	_
+25	-	_	Punctuation	Punctuation	_	26	U	26:U	_
+26	record	_	Word	Word	_	28	E	28:E	_
+27	license	_	Word	Word	_	28	E	28:E	_
+28	fee	_	Word	Word	_	15	A	15:A	_
+29	in	_	Word	Word	_	31	R	31:R	_
+30	a	_	Word	Word	_	31	E	31:E	_
+31	bidding	_	Word	Word	_	6	A	6:A	_
+32	war	_	Word	Word	_	31	E	31:E	_
+33	with	_	Word	Word	_	34	R	34:R	_
+34	CBS	_	Word	Word	_	31	A	31:A	_
+35	.	_	Punctuation	Punctuation	_	34	U	34:U	_
+

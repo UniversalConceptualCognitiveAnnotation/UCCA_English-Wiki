@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 631002
+# text = Seven years Lennon 's senior , Parkes took him on trips and to local cinemas .
+1	Seven	_	Word	Word	_	2	Q	2:Q	_
+2	years	_	Word	Word	_	5	T	5:T	_
+3	Lennon	_	Word	Word	_	5	A	5:A	_
+4	's	_	Word	Word	_	3	R	3:R	_
+5	senior	_	Word	Word	_	0	H	0:H	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	Parkes	_	Word	Word	_	11	A	11:A|15:A	_
+8	took	_	Word	Word	_	11	D	11:D|15:P	_
+9	him	_	Word	Word	_	11	A	11:A|15:A	_
+10	on	_	Word	Word	_	11	R	11:R	_
+11	trips	_	Word	Word	_	5	H	5:H	_
+12	and	_	Word	Word	_	15	L	15:L	_
+13	to	_	Word	Word	_	15	R	15:R	_
+14	local	_	Word	Word	_	15	E	15:E	_
+15	cinemas	_	Word	Word	_	5	H	5:H	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

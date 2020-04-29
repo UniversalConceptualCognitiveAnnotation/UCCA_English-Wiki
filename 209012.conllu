@@ -1,0 +1,36 @@
+# format = ucca
+# sent_id = 209012
+# text = He next appeared in Barry Levinson 's adaptation of Sphere ( 1998 ) , opposite Sharon Stone , Samuel L . Jackson , Peter Coyote , Queen Latifah and Liev Schreiber .
+1	He	_	Word	Word	_	3	A	3:A	_
+2	next	_	Word	Word	_	3	D	3:D	_
+3	appeared	_	Word	Word	_	0	H	0:H	_
+4	in	_	Word	Word	_	10	R	10:R	_
+5	Barry	_	Word	Word	_	7	A	7:A	_
+6	Levinson	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	's	_	Word	Word	_	10	E	10:E	_
+8	adaptation	_	Word	Word	_	10	E	10:E	_
+9	of	_	Word	Word	_	8	R	8:R	_
+10	Sphere	_	Word	Word	_	3	A	3:A	_
+11	(	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	1998	_	Word	Word	_	10	E	10:E	_
+13	)	_	Punctuation	Punctuation	_	3	U	3:U	_
+14	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+15	opposite	_	Word	Word	_	16	R	16:R	_
+16	Sharon	_	Word	Word	_	3	A	3:A	_
+17	Stone	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+19	Samuel	_	Word	Word	_	16	C	16:C	_
+20	L	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+22	Jackson	_	Word	Word	_	19	Terminal	19:Terminal	_
+23	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+24	Peter	_	Word	Word	_	16	C	16:C	_
+25	Coyote	_	Word	Word	_	24	Terminal	24:Terminal	_
+26	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+27	Queen	_	Word	Word	_	16	C	16:C	_
+28	Latifah	_	Word	Word	_	27	Terminal	27:Terminal	_
+29	and	_	Word	Word	_	16	N	16:N	_
+30	Liev	_	Word	Word	_	16	C	16:C	_
+31	Schreiber	_	Word	Word	_	30	Terminal	30:Terminal	_
+32	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

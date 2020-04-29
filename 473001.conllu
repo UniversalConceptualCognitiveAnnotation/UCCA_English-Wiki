@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 473001
+# text = Johnson led the West to a 153 - 113 win and was crowned All - Star MVP after recording 25 points , 9 assists , and 5 rebounds .
+1	Johnson	_	Word	Word	_	10	A	10:A|13:A|19:A	_
+2	led	_	Word	Word	_	10	D	10:D	_
+3	the	_	Word	Word	_	4	F	4:F	_
+4	West	_	Word	Word	_	10	A	10:A	_
+5	to	_	Word	Word	_	10	R	10:R	_
+6	a	_	Word	Word	_	7	F	7:F	_
+7	153	_	Word	Word	_	10	A	10:A	_
+8	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	113	_	Word	Word	_	7	C	7:C	_
+10	win	_	Word	Word	_	0	H	0:H	_
+11	and	_	Word	Word	_	13	L	13:L	_
+12	was	_	Word	Word	_	13	F	13:F	_
+13	crowned	_	Word	Word	_	10	H	10:H	_
+14	All	_	Word	Word	_	17	E	17:E	_
+15	-	_	Punctuation	Punctuation	_	14	U	14:U	_
+16	Star	_	Word	Word	_	14	Terminal	14:Terminal	_
+17	MVP	_	Word	Word	_	13	A	13:A	_
+18	after	_	Word	Word	_	19	L	19:L	_
+19	recording	_	Word	Word	_	10	H	10:H	_
+20	25	_	Word	Word	_	21	Q	21:Q	_
+21	points	_	Word	Word	_	19	A	19:A	_
+22	,	_	Punctuation	Punctuation	_	21	U	21:U	_
+23	9	_	Word	Word	_	24	Q	24:Q	_
+24	assists	_	Word	Word	_	21	C	21:C	_
+25	,	_	Punctuation	Punctuation	_	21	U	21:U	_
+26	and	_	Word	Word	_	21	N	21:N	_
+27	5	_	Word	Word	_	28	Q	28:Q	_
+28	rebounds	_	Word	Word	_	21	C	21:C	_
+29	.	_	Punctuation	Punctuation	_	28	U	28:U	_
+

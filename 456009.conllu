@@ -1,0 +1,45 @@
+# format = ucca
+# sent_id = 456009
+# text = Jennings moderated the final debate among the Democratic presidential candidates in March , and anchored Peter Jennings Reporting : Who Is Ross Perot ? and a subsequent 90 - minute town forum with Perot and a studio audience in June .
+1	Jennings	_	Word	Word	_	2	A	2:A|15:A	_
+2	moderated	_	Word	Word	_	0	H	0:H	_
+3	the	_	Word	Word	_	5	E	5:E	_
+4	final	_	Word	Word	_	5	E	5:E	_
+5	debate	_	Word	Word	_	2	A	2:A	_
+6	among	_	Word	Word	_	10	R	10:R	_
+7	the	_	Word	Word	_	10	E	10:E	_
+8	Democratic	_	Word	Word	_	10	E	10:E	_
+9	presidential	_	Word	Word	_	10	E	10:E	_
+10	candidates	_	Word	Word	_	5	E	5:E	_
+11	in	_	Word	Word	_	12	R	12:R	_
+12	March	_	Word	Word	_	2	T	2:T	_
+13	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+14	and	_	Word	Word	_	15	L	15:L	_
+15	anchored	_	Word	Word	_	2	H	2:H	_
+16	Peter	_	Word	Word	_	15	A	15:A	_
+17	Jennings	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	Reporting	_	Word	Word	_	16	Terminal	16:Terminal	_
+19	:	_	Punctuation	Punctuation	_	16	U	16:U	_
+20	Who	_	Word	Word	_	16	Terminal	16:Terminal	_
+21	Is	_	Word	Word	_	16	Terminal	16:Terminal	_
+22	Ross	_	Word	Word	_	16	Terminal	16:Terminal	_
+23	Perot	_	Word	Word	_	16	Terminal	16:Terminal	_
+24	?	_	Punctuation	Punctuation	_	16	U	16:U	_
+25	and	_	Word	Word	_	16	N	16:N	_
+26	a	_	Word	Word	_	32	E	32:E	_
+27	subsequent	_	Word	Word	_	32	E	32:E	_
+28	90	_	Word	Word	_	30	Q	30:Q	_
+29	-	_	Punctuation	Punctuation	_	30	U	30:U	_
+30	minute	_	Word	Word	_	32	E	32:E	_
+31	town	_	Word	Word	_	32	E	32:E	_
+32	forum	_	Word	Word	_	16	C	16:C	_
+33	with	_	Word	Word	_	34	R	34:R	_
+34	Perot	_	Word	Word	_	32	E	32:E	_
+35	and	_	Word	Word	_	34	N	34:N	_
+36	a	_	Word	Word	_	38	E	38:E	_
+37	studio	_	Word	Word	_	38	E	38:E	_
+38	audience	_	Word	Word	_	34	C	34:C	_
+39	in	_	Word	Word	_	40	R	40:R	_
+40	June	_	Word	Word	_	15	T	15:T	_
+41	.	_	Punctuation	Punctuation	_	40	U	40:U	_
+

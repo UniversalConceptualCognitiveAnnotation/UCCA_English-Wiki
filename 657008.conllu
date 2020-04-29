@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 657008
+# text = Following the film 's poor reception , she was bought out of her recording contract for $ 50 million , which led to a decline in her career .
+1	Following	_	Word	Word	_	25	L	25:L	_
+2	the	_	Word	Word	_	3	F	3:F	_
+3	film	_	Word	Word	_	6	A	6:A	_
+4	's	_	Word	Word	_	3	R	3:R	_
+5	poor	_	Word	Word	_	6	D	6:D	_
+6	reception	_	Word	Word	_	0	H	0:H	_
+7	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	she	_	Word	Word	_	10	A	10:A	_
+9	was	_	Word	Word	_	10	F	10:F	_
+10	bought	_	Word	Word	_	0	C	0:C|25:A	_
+11	out	_	Word	Word	_	10	F	10:F	_
+12	of	_	Word	Word	_	15	R	15:R	_
+13	her	_	Word	Word	_	15	E	15:E	_
+14	recording	_	Word	Word	_	15	E	15:E	_
+15	contract	_	Word	Word	_	10	A	10:A	_
+16	for	_	Word	Word	_	17	R	17:R	_
+17	$	_	Word	Word	_	10	A	10:A	_
+18	50	_	Word	Word	_	17	Q	17:Q	_
+19	million	_	Word	Word	_	18	C	18:C	_
+20	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+21	which	_	Word	Word	_	25	L	25:L	_
+22	led	_	Word	Word	_	25	D	25:D	_
+23	to	_	Word	Word	_	25	R	25:R	_
+24	a	_	Word	Word	_	25	F	25:F	_
+25	decline	_	Word	Word	_	6	H	6:H	_
+26	in	_	Word	Word	_	28	R	28:R	_
+27	her	_	Word	Word	_	28	A	28:A	_
+28	career	_	Word	Word	_	25	A	25:A	_
+29	.	_	Punctuation	Punctuation	_	28	U	28:U	_
+

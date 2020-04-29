@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 487002
+# text = The Castle was a surprise critical and financial success , earning A $ 10,326,428 at the box office in Australia .
+1	The	_	Word	Word	_	9	A	9:A|11:A	_
+2	Castle	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	was	_	Word	Word	_	9	F	9:F	_
+4	a	_	Word	Word	_	9	G	9:G	_
+5	surprise	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	critical	_	Word	Word	_	9	D	9:D	_
+7	and	_	Word	Word	_	6	N	6:N	_
+8	financial	_	Word	Word	_	6	C	6:C	_
+9	success	_	Word	Word	_	0	H	0:H	_
+10	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+11	earning	_	Word	Word	_	9	H	9:H	_
+12	A	_	Word	Word	_	13	E	13:E	_
+13	$	_	Word	Word	_	11	A	11:A	_
+14	10,326,428	_	Word	Word	_	13	Q	13:Q	_
+15	at	_	Word	Word	_	18	R	18:R	_
+16	the	_	Word	Word	_	18	E	18:E	_
+17	box	_	Word	Word	_	18	E	18:E	_
+18	office	_	Word	Word	_	11	A	11:A	_
+19	in	_	Word	Word	_	20	R	20:R	_
+20	Australia	_	Word	Word	_	11	A	11:A	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+

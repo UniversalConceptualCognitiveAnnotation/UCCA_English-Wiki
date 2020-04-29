@@ -1,0 +1,44 @@
+# format = ucca
+# sent_id = 236001
+# text = Although saddened by the news , he also tweeted " If they killed the guy sooner , they will say why not negotiate first ? If they negotiate first , they ask why not kill the guy sooner ? "
+1	Although	_	Word	Word	_	9	L	9:L	_
+2	saddened	_	Word	Word	_	0	H	0:H	_
+3	by	_	Word	Word	_	5	R	5:R	_
+4	the	_	Word	Word	_	5	F	5:F	_
+5	news	_	Word	Word	_	2	A	2:A	_
+6	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+7	he	_	Word	Word	_	9	A	9:A|2:A	_
+8	also	_	Word	Word	_	9	D	9:D	_
+9	tweeted	_	Word	Word	_	2	H	2:H	_
+10	"	_	Punctuation	Punctuation	_	9	U	9:U	_
+11	If	_	Word	Word	_	20	L	20:L	_
+12	they	_	Word	Word	_	13	A	13:A	_
+13	killed	_	Word	Word	_	9	A	9:A	_
+14	the	_	Word	Word	_	15	F	15:F	_
+15	guy	_	Word	Word	_	13	A	13:A	_
+16	sooner	_	Word	Word	_	13	D	13:D	_
+17	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+18	they	_	Word	Word	_	20	A	20:A	_
+19	will	_	Word	Word	_	20	F	20:F	_
+20	say	_	Word	Word	_	13	H	13:H	_
+21	why	_	Word	Word	_	20	A	20:A	_
+22	not	_	Word	Word	_	23	D	23:D	_
+23	negotiate	_	Word	Word	_	21	H	21:H	_
+24	first	_	Word	Word	_	23	D	23:D	_
+25	?	_	Punctuation	Punctuation	_	13	U	13:U	_
+26	If	_	Word	Word	_	28	L	28:L	_
+27	they	_	Word	Word	_	28	A	28:A	_
+28	negotiate	_	Word	Word	_	13	H	13:H	_
+29	first	_	Word	Word	_	28	D	28:D	_
+30	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+31	they	_	Word	Word	_	32	A	32:A	_
+32	ask	_	Word	Word	_	13	H	13:H	_
+33	why	_	Word	Word	_	32	A	32:A	_
+34	not	_	Word	Word	_	35	D	35:D	_
+35	kill	_	Word	Word	_	33	H	33:H	_
+36	the	_	Word	Word	_	37	F	37:F	_
+37	guy	_	Word	Word	_	35	A	35:A	_
+38	sooner	_	Word	Word	_	35	D	35:D	_
+39	?	_	Punctuation	Punctuation	_	35	U	35:U	_
+40	"	_	Punctuation	Punctuation	_	35	U	35:U	_
+

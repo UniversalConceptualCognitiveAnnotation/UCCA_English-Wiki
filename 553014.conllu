@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 553014
+# text = Prescription drug abuse his severely deteriorated health , and he died suddenly in 1977 at the age of 42 .
+1	Prescription	_	Word	Word	_	2	E	2:E	_
+2	drug	_	Word	Word	_	3	A	3:A	_
+3	abuse	_	Word	Word	_	6	A	6:A	_
+4	his	_	Word	Word	_	6	A	6:A	_
+5	severely	_	Word	Word	_	6	D	6:D	_
+6	deteriorated	_	Word	Word	_	0	H	0:H	_
+7	health	_	Word	Word	_	6	A	6:A	_
+8	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+9	and	_	Word	Word	_	11	L	11:L	_
+10	he	_	Word	Word	_	11	A	11:A|17:A	_
+11	died	_	Word	Word	_	6	H	6:H	_
+12	suddenly	_	Word	Word	_	11	T	11:T	_
+13	in	_	Word	Word	_	14	E	14:E	_
+14	1977	_	Word	Word	_	11	T	11:T	_
+15	at	_	Word	Word	_	17	L	17:L	_
+16	the	_	Word	Word	_	17	E	17:E	_
+17	age	_	Word	Word	_	6	H	6:H	_
+18	of	_	Word	Word	_	19	R	19:R	_
+19	42	_	Word	Word	_	17	T	17:T	_
+20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

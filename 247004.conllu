@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 247004
+# text = In 2001 , Hawke appeared in two more Linklater movies : Waking Life and Tape , both critically acclaimed .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	2001	_	Word	Word	_	5	T	5:T	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	Hawke	_	Word	Word	_	5	A	5:A	_
+5	appeared	_	Word	Word	_	0	H	0:H	_
+6	in	_	Word	Word	_	12	R	12:R	_
+7	two	_	Word	Word	_	10	Q	10:Q	_
+8	more	_	Word	Word	_	7	R	7:R	_
+9	Linklater	_	Word	Word	_	10	E	10:E	_
+10	movies	_	Word	Word	_	12	E	12:E	_
+11	:	_	Punctuation	Punctuation	_	12	U	12:U	_
+12	Waking	_	Word	Word	_	5	A	5:A	_
+13	Life	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	and	_	Word	Word	_	12	N	12:N	_
+15	Tape	_	Word	Word	_	12	C	12:C	_
+16	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+17	both	_	Word	Word	_	19	A	19:A	_
+18	critically	_	Word	Word	_	19	A	19:A	_
+19	acclaimed	_	Word	Word	_	12	E	12:E	_
+20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

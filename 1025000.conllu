@@ -1,0 +1,51 @@
+# format = ucca
+# sent_id = 1025000
+# text = In 1984 , ATV Music Publishing , which had the copyrights to nearly 4000 songs , including the Northern Songs catalog that contained the majority of the Lennon - McCartney compositions recorded by The Beatles , was put up for sale by Robert Holmes à Court .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1984	_	Word	Word	_	41	T	41:T	_
+3	,	_	Punctuation	Punctuation	_	41	U	41:U	_
+4	ATV	_	Word	Word	_	41	A	41:A	_
+5	Music	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	Publishing	_	Word	Word	_	4	Terminal	4:Terminal	_
+7	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+8	which	_	Word	Word	_	11	R	11:R	_
+9	had	_	Word	Word	_	11	F	11:F	_
+10	the	_	Word	Word	_	11	F	11:F	_
+11	copyrights	_	Word	Word	_	4	E	4:E	_
+12	to	_	Word	Word	_	15	R	15:R	_
+13	nearly	_	Word	Word	_	14	E	14:E	_
+14	4000	_	Word	Word	_	15	Q	15:Q	_
+15	songs	_	Word	Word	_	11	A	11:A	_
+16	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+17	including	_	Word	Word	_	21	R	21:R	_
+18	the	_	Word	Word	_	21	E	21:E	_
+19	Northern	_	Word	Word	_	21	E	21:E	_
+20	Songs	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	catalog	_	Word	Word	_	15	E	15:E	_
+22	that	_	Word	Word	_	23	R	23:R	_
+23	contained	_	Word	Word	_	21	E	21:E	_
+24	the	_	Word	Word	_	25	E	25:E	_
+25	majority	_	Word	Word	_	31	Q	31:Q	_
+26	of	_	Word	Word	_	31	R	31:R	_
+27	the	_	Word	Word	_	31	E	31:E	_
+28	Lennon	_	Word	Word	_	31	E	31:E	_
+29	-	_	Punctuation	Punctuation	_	28	U	28:U	_
+30	McCartney	_	Word	Word	_	28	C	28:C	_
+31	compositions	_	Word	Word	_	23	A	23:A	_
+32	recorded	_	Word	Word	_	31	E	31:E	_
+33	by	_	Word	Word	_	34	R	34:R	_
+34	The	_	Word	Word	_	32	A	32:A	_
+35	Beatles	_	Word	Word	_	34	Terminal	34:Terminal	_
+36	,	_	Punctuation	Punctuation	_	41	U	41:U	_
+37	was	_	Word	Word	_	41	F	41:F	_
+38	put	_	Word	Word	_	41	D	41:D	_
+39	up	_	Word	Word	_	38	Terminal	38:Terminal	_
+40	for	_	Word	Word	_	41	R	41:R	_
+41	sale	_	Word	Word	_	0	H	0:H	_
+42	by	_	Word	Word	_	43	R	43:R	_
+43	Robert	_	Word	Word	_	41	A	41:A	_
+44	Holmes	_	Word	Word	_	43	Terminal	43:Terminal	_
+45	à	_	Word	Word	_	43	Terminal	43:Terminal	_
+46	Court	_	Word	Word	_	43	Terminal	43:Terminal	_
+47	.	_	Punctuation	Punctuation	_	43	U	43:U	_
+

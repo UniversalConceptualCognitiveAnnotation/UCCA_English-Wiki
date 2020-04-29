@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 492014
+# text = Bowie 's latest studio album The Next Day was released in March 2013 .
+1	Bowie	_	Word	Word	_	2	A	2:A	_
+2	's	_	Word	Word	_	5	E	5:E	_
+3	latest	_	Word	Word	_	5	E	5:E	_
+4	studio	_	Word	Word	_	5	E	5:E	_
+5	album	_	Word	Word	_	6	E	6:E	_
+6	The	_	Word	Word	_	10	A	10:A	_
+7	Next	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	Day	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	was	_	Word	Word	_	10	F	10:F	_
+10	released	_	Word	Word	_	0	H	0:H	_
+11	in	_	Word	Word	_	12	R	12:R	_
+12	March	_	Word	Word	_	10	T	10:T	_
+13	2013	_	Word	Word	_	12	C	12:C	_
+14	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+

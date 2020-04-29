@@ -1,0 +1,56 @@
+# format = ucca
+# sent_id = 655003
+# text = The Beatles ' producer , George Martin , tells how Lennon " had an inborn dislike of his own voice which I could never understand . He was always saying to me : ' DO something with my voice ! ... put something on it ... Make it different . ' "
+1	The	_	Word	Word	_	2	E	2:E	_
+2	Beatles	_	Word	Word	_	4	A	4:A	_
+3	'	_	Punctuation	Punctuation	_	4	U	4:U	_
+4	producer	_	Word	Word	_	9	A	9:A	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	George	_	Word	Word	_	4	A	4:A	_
+7	Martin	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+9	tells	_	Word	Word	_	0	H	0:H	_
+10	how	_	Word	Word	_	16	D	16:D	_
+11	Lennon	_	Word	Word	_	16	A	16:A	_
+12	"	_	Punctuation	Punctuation	_	16	U	16:U	_
+13	had	_	Word	Word	_	16	F	16:F	_
+14	an	_	Word	Word	_	15	E	15:E	_
+15	inborn	_	Word	Word	_	16	D	16:D	_
+16	dislike	_	Word	Word	_	9	A	9:A	_
+17	of	_	Word	Word	_	20	R	20:R	_
+18	his	_	Word	Word	_	20	E	20:E	_
+19	own	_	Word	Word	_	20	F	20:F	_
+20	voice	_	Word	Word	_	16	A	16:A	_
+21	which	_	Word	Word	_	25	L	25:L	_
+22	I	_	Word	Word	_	25	A	25:A	_
+23	could	_	Word	Word	_	25	D	25:D	_
+24	never	_	Word	Word	_	25	T	25:T	_
+25	understand	_	Word	Word	_	16	H	16:H	_
+26	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+27	He	_	Word	Word	_	30	A	30:A	_
+28	was	_	Word	Word	_	30	F	30:F	_
+29	always	_	Word	Word	_	30	T	30:T	_
+30	saying	_	Word	Word	_	16	H	16:H	_
+31	to	_	Word	Word	_	32	R	32:R	_
+32	me	_	Word	Word	_	30	A	30:A	_
+33	:	_	Punctuation	Punctuation	_	35	U	35:U	_
+34	'	_	Punctuation	Punctuation	_	35	U	35:U	_
+35	DO	_	Word	Word	_	30	A	30:A	_
+36	something	_	Word	Word	_	35	A	35:A	_
+37	with	_	Word	Word	_	39	R	39:R	_
+38	my	_	Word	Word	_	39	E	39:E	_
+39	voice	_	Word	Word	_	35	A	35:A	_
+40	!	_	Punctuation	Punctuation	_	35	U	35:U	_
+41	...	_	Punctuation	Punctuation	_	35	U	35:U	_
+42	put	_	Word	Word	_	35	H	35:H	_
+43	something	_	Word	Word	_	42	A	42:A	_
+44	on	_	Word	Word	_	45	R	45:R	_
+45	it	_	Word	Word	_	42	A	42:A	_
+46	...	_	Punctuation	Punctuation	_	35	U	35:U	_
+47	Make	_	Word	Word	_	35	H	35:H	_
+48	it	_	Word	Word	_	47	A	47:A	_
+49	different	_	Word	Word	_	47	A	47:A	_
+50	.	_	Punctuation	Punctuation	_	47	U	47:U	_
+51	'	_	Punctuation	Punctuation	_	47	U	47:U	_
+52	"	_	Punctuation	Punctuation	_	47	U	47:U	_
+

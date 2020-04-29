@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 124002
+# text = Impressed by her eagerness , Knopf cast Hepburn in his current production , The Czarina .
+1	Impressed	_	Word	Word	_	0	H	0:H	_
+2	by	_	Word	Word	_	4	R	4:R	_
+3	her	_	Word	Word	_	4	A	4:A	_
+4	eagerness	_	Word	Word	_	1	A	1:A	_
+5	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+6	Knopf	_	Word	Word	_	7	A	7:A|1:A	_
+7	cast	_	Word	Word	_	1	H	1:H	_
+8	Hepburn	_	Word	Word	_	7	A	7:A	_
+9	in	_	Word	Word	_	14	R	14:R	_
+10	his	_	Word	Word	_	12	E	12:E	_
+11	current	_	Word	Word	_	12	E	12:E	_
+12	production	_	Word	Word	_	14	E	14:E	_
+13	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+14	The	_	Word	Word	_	7	A	7:A	_
+15	Czarina	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

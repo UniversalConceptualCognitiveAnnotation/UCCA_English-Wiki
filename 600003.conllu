@@ -1,0 +1,35 @@
+# format = ucca
+# sent_id = 600003
+# text = Harrison had also passed the exam , meaning he could attend a grammar school rather than a secondary modern school , where most pupils went until becoming eligible to work .
+1	Harrison	_	Word	Word	_	4	A	4:A	_
+2	had	_	Word	Word	_	4	F	4:F	_
+3	also	_	Word	Word	_	4	D	4:D	_
+4	passed	_	Word	Word	_	0	H	0:H	_
+5	the	_	Word	Word	_	6	E	6:E	_
+6	exam	_	Word	Word	_	4	A	4:A	_
+7	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+8	meaning	_	Word	Word	_	11	L	11:L	_
+9	he	_	Word	Word	_	11	A	11:A	_
+10	could	_	Word	Word	_	11	D	11:D	_
+11	attend	_	Word	Word	_	4	H	4:H	_
+12	a	_	Word	Word	_	14	E	14:E	_
+13	grammar	_	Word	Word	_	14	E	14:E	_
+14	school	_	Word	Word	_	11	A	11:A	_
+15	rather	_	Word	Word	_	20	R	20:R	_
+16	than	_	Word	Word	_	15	E	15:E	_
+17	a	_	Word	Word	_	20	E	20:E	_
+18	secondary	_	Word	Word	_	20	E	20:E	_
+19	modern	_	Word	Word	_	20	E	20:E	_
+20	school	_	Word	Word	_	14	E	14:E	_
+21	,	_	Punctuation	Punctuation	_	20	U	20:U	_
+22	where	_	Word	Word	_	25	R	25:R	_
+23	most	_	Word	Word	_	24	Q	24:Q	_
+24	pupils	_	Word	Word	_	0	C	0:C|28:A|30:A	_
+25	went	_	Word	Word	_	20	E	20:E	_
+26	until	_	Word	Word	_	28	L	28:L	_
+27	becoming	_	Word	Word	_	28	D	28:D	_
+28	eligible	_	Word	Word	_	25	H	25:H	_
+29	to	_	Word	Word	_	30	R	30:R	_
+30	work	_	Word	Word	_	28	A	28:A	_
+31	.	_	Punctuation	Punctuation	_	30	U	30:U	_
+

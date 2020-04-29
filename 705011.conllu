@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 705011
+# text = Now I come out and say Jesus Christ is the answer .
+1	Now	_	Word	Word	_	3	T	3:T	_
+2	I	_	Word	Word	_	3	A	3:A	_
+3	come	_	Word	Word	_	0	H	0:H	_
+4	out	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	and	_	Word	Word	_	3	Terminal	3:Terminal	_
+6	say	_	Word	Word	_	3	Terminal	3:Terminal	_
+7	Jesus	_	Word	Word	_	9	A	9:A	_
+8	Christ	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	is	_	Word	Word	_	3	A	3:A	_
+10	the	_	Word	Word	_	11	E	11:E	_
+11	answer	_	Word	Word	_	9	A	9:A	_
+12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+

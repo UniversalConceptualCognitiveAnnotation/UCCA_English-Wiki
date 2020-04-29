@@ -1,0 +1,55 @@
+# format = ucca
+# sent_id = 543011
+# text = We became father and child , no question about it . " she said . " He told me I did n't have to come back to work until I really felt like it . He was a thoughtful man . Not many nice things were said about him . "
+1	We	_	Word	Word	_	3	A	3:A	_
+2	became	_	Word	Word	_	3	D	3:D	_
+3	father	_	Word	Word	_	14	A	14:A	_
+4	and	_	Word	Word	_	3	N	3:N	_
+5	child	_	Word	Word	_	3	C	3:C	_
+6	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+7	no	_	Word	Word	_	8	D	8:D	_
+8	question	_	Word	Word	_	3	H	3:H	_
+9	about	_	Word	Word	_	10	R	10:R	_
+10	it	_	Word	Word	_	8	A	8:A	_
+11	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+12	"	_	Punctuation	Punctuation	_	14	U	14:U	_
+13	she	_	Word	Word	_	14	A	14:A	_
+14	said	_	Word	Word	_	0	H	0:H	_
+15	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+16	"	_	Punctuation	Punctuation	_	14	U	14:U	_
+17	He	_	Word	Word	_	18	A	18:A	_
+18	told	_	Word	Word	_	3	H	3:H	_
+19	me	_	Word	Word	_	18	A	18:A	_
+20	I	_	Word	Word	_	28	A	28:A	_
+21	did	_	Word	Word	_	28	F	28:F	_
+22	n't	_	Word	Word	_	28	D	28:D	_
+23	have	_	Word	Word	_	28	D	28:D	_
+24	to	_	Word	Word	_	28	F	28:F	_
+25	come	_	Word	Word	_	28	D	28:D	_
+26	back	_	Word	Word	_	25	Terminal	25:Terminal	_
+27	to	_	Word	Word	_	28	F	28:F	_
+28	work	_	Word	Word	_	18	A	18:A	_
+29	until	_	Word	Word	_	32	L	32:L	_
+30	I	_	Word	Word	_	32	A	32:A	_
+31	really	_	Word	Word	_	32	D	32:D	_
+32	felt	_	Word	Word	_	28	H	28:H	_
+33	like	_	Word	Word	_	32	Terminal	32:Terminal	_
+34	it	_	Word	Word	_	32	A	32:A	_
+35	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+36	He	_	Word	Word	_	37	A	37:A	_
+37	was	_	Word	Word	_	3	H	3:H	_
+38	a	_	Word	Word	_	40	F	40:F	_
+39	thoughtful	_	Word	Word	_	40	E	40:E	_
+40	man	_	Word	Word	_	37	A	37:A	_
+41	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+42	Not	_	Word	Word	_	43	E	43:E	_
+43	many	_	Word	Word	_	45	Q	45:Q	_
+44	nice	_	Word	Word	_	45	E	45:E	_
+45	things	_	Word	Word	_	47	A	47:A	_
+46	were	_	Word	Word	_	47	F	47:F	_
+47	said	_	Word	Word	_	3	H	3:H	_
+48	about	_	Word	Word	_	49	R	49:R	_
+49	him	_	Word	Word	_	47	A	47:A	_
+50	.	_	Punctuation	Punctuation	_	49	U	49:U	_
+51	"	_	Punctuation	Punctuation	_	49	U	49:U	_
+

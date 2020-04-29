@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 615009
+# text = The festival has included guest performances by famous musicians , songwriting competitions , drawing contests and special events featuring performances by the Crickets .
+1	The	_	Word	Word	_	2	F	2:F	_
+2	festival	_	Word	Word	_	4	A	4:A	_
+3	has	_	Word	Word	_	4	F	4:F	_
+4	included	_	Word	Word	_	0	H	0:H	_
+5	guest	_	Word	Word	_	6	A	6:A	_
+6	performances	_	Word	Word	_	4	A	4:A	_
+7	by	_	Word	Word	_	9	R	9:R	_
+8	famous	_	Word	Word	_	9	E	9:E	_
+9	musicians	_	Word	Word	_	0	A	0:A|8:A	_
+10	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+11	songwriting	_	Word	Word	_	12	A	12:A	_
+12	competitions	_	Word	Word	_	6	H	6:H	_
+13	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+14	drawing	_	Word	Word	_	15	A	15:A	_
+15	contests	_	Word	Word	_	6	H	6:H	_
+16	and	_	Word	Word	_	19	L	19:L	_
+17	special	_	Word	Word	_	18	D	18:D	_
+18	events	_	Word	Word	_	19	A	19:A	_
+19	featuring	_	Word	Word	_	6	H	6:H	_
+20	performances	_	Word	Word	_	19	A	19:A	_
+21	by	_	Word	Word	_	23	R	23:R	_
+22	the	_	Word	Word	_	23	F	23:F	_
+23	Crickets	_	Word	Word	_	20	A	20:A	_
+24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 229002
+# text = He later clarified that he would not be completely retiring from action films , but would be performing fewer stunts and taking care of his body more .
+1	He	_	Word	Word	_	3	A	3:A	_
+2	later	_	Word	Word	_	3	D	3:D	_
+3	clarified	_	Word	Word	_	0	H	0:H	_
+4	that	_	Word	Word	_	10	R	10:R	_
+5	he	_	Word	Word	_	10	A	10:A|18:A|22:A	_
+6	would	_	Word	Word	_	10	D	10:D	_
+7	not	_	Word	Word	_	10	D	10:D	_
+8	be	_	Word	Word	_	10	F	10:F	_
+9	completely	_	Word	Word	_	10	D	10:D	_
+10	retiring	_	Word	Word	_	3	A	3:A	_
+11	from	_	Word	Word	_	13	R	13:R	_
+12	action	_	Word	Word	_	13	E	13:E	_
+13	films	_	Word	Word	_	10	A	10:A	_
+14	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+15	but	_	Word	Word	_	18	L	18:L	_
+16	would	_	Word	Word	_	18	D	18:D	_
+17	be	_	Word	Word	_	18	F	18:F	_
+18	performing	_	Word	Word	_	10	H	10:H	_
+19	fewer	_	Word	Word	_	20	Q	20:Q	_
+20	stunts	_	Word	Word	_	18	A	18:A	_
+21	and	_	Word	Word	_	22	L	22:L	_
+22	taking	_	Word	Word	_	10	H	10:H	_
+23	care	_	Word	Word	_	22	Terminal	22:Terminal	_
+24	of	_	Word	Word	_	26	R	26:R	_
+25	his	_	Word	Word	_	26	E	26:E	_
+26	body	_	Word	Word	_	22	A	22:A	_
+27	more	_	Word	Word	_	22	D	22:D	_
+28	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+

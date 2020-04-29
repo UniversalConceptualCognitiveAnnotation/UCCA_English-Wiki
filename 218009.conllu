@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 218009
+# text = In 2007 she again played Mary Jane Watson , in Spider - Man 3 .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	2007	_	Word	Word	_	5	T	5:T	_
+3	she	_	Word	Word	_	5	A	5:A	_
+4	again	_	Word	Word	_	5	D	5:D	_
+5	played	_	Word	Word	_	0	H	0:H	_
+6	Mary	_	Word	Word	_	5	A	5:A	_
+7	Jane	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	Watson	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+10	in	_	Word	Word	_	11	R	11:R	_
+11	Spider	_	Word	Word	_	5	A	5:A	_
+12	-	_	Punctuation	Punctuation	_	11	U	11:U	_
+13	Man	_	Word	Word	_	11	Terminal	11:Terminal	_
+14	3	_	Word	Word	_	11	Terminal	11:Terminal	_
+15	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+

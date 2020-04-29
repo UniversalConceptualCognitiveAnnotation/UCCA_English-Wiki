@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 647002
+# text = ABKCO Industries , formed in 1968 by Allen Klein as an umbrella company to ABKCO Records , recruited May Pang as a receptionist in 1969 .
+1	ABKCO	_	Word	Word	_	2	E	2:E	_
+2	Industries	_	Word	Word	_	18	A	18:A	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	formed	_	Word	Word	_	2	E	2:E	_
+5	in	_	Word	Word	_	6	R	6:R	_
+6	1968	_	Word	Word	_	4	T	4:T	_
+7	by	_	Word	Word	_	8	R	8:R	_
+8	Allen	_	Word	Word	_	4	A	4:A	_
+9	Klein	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	as	_	Word	Word	_	13	R	13:R	_
+11	an	_	Word	Word	_	13	E	13:E	_
+12	umbrella	_	Word	Word	_	13	E	13:E	_
+13	company	_	Word	Word	_	4	A	4:A	_
+14	to	_	Word	Word	_	15	R	15:R	_
+15	ABKCO	_	Word	Word	_	13	E	13:E	_
+16	Records	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+18	recruited	_	Word	Word	_	0	H	0:H	_
+19	May	_	Word	Word	_	23	A	23:A	_
+20	Pang	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	as	_	Word	Word	_	23	R	23:R	_
+22	a	_	Word	Word	_	23	E	23:E	_
+23	receptionist	_	Word	Word	_	18	A	18:A	_
+24	in	_	Word	Word	_	25	R	25:R	_
+25	1969	_	Word	Word	_	18	T	18:T	_
+26	.	_	Punctuation	Punctuation	_	25	U	25:U	_
+

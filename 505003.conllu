@@ -1,0 +1,37 @@
+# format = ucca
+# sent_id = 505003
+# text = As " Ashes to Ashes " hit number one on the UK charts , Bowie opened a three - month run on Broadway on 24 September , starring in The Elephant Man .
+1	As	_	Word	Word	_	21	L	21:L	_
+2	"	_	Punctuation	Punctuation	_	7	U	7:U	_
+3	Ashes	_	Word	Word	_	7	A	7:A	_
+4	to	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	Ashes	_	Word	Word	_	3	Terminal	3:Terminal	_
+6	"	_	Punctuation	Punctuation	_	7	U	7:U	_
+7	hit	_	Word	Word	_	0	H	0:H	_
+8	number	_	Word	Word	_	7	A	7:A	_
+9	one	_	Word	Word	_	8	Q	8:Q	_
+10	on	_	Word	Word	_	13	R	13:R	_
+11	the	_	Word	Word	_	13	E	13:E	_
+12	UK	_	Word	Word	_	13	E	13:E	_
+13	charts	_	Word	Word	_	7	A	7:A	_
+14	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+15	Bowie	_	Word	Word	_	21	A	21:A|28:A	_
+16	opened	_	Word	Word	_	21	D	21:D	_
+17	a	_	Word	Word	_	20	E	20:E	_
+18	three	_	Word	Word	_	20	Q	20:Q	_
+19	-	_	Punctuation	Punctuation	_	20	U	20:U	_
+20	month	_	Word	Word	_	21	T	21:T	_
+21	run	_	Word	Word	_	7	H	7:H	_
+22	on	_	Word	Word	_	23	R	23:R	_
+23	Broadway	_	Word	Word	_	21	A	21:A	_
+24	on	_	Word	Word	_	25	R	25:R	_
+25	24	_	Word	Word	_	21	T	21:T	_
+26	September	_	Word	Word	_	25	C	25:C	_
+27	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+28	starring	_	Word	Word	_	7	H	7:H	_
+29	in	_	Word	Word	_	30	R	30:R	_
+30	The	_	Word	Word	_	28	A	28:A	_
+31	Elephant	_	Word	Word	_	30	Terminal	30:Terminal	_
+32	Man	_	Word	Word	_	30	Terminal	30:Terminal	_
+33	.	_	Punctuation	Punctuation	_	30	U	30:U	_
+

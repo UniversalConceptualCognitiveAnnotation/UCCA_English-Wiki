@@ -1,0 +1,35 @@
+# format = ucca
+# sent_id = 467014
+# text = After two years in college , during which he averaged 17.1 points , 7.6 rebounds , and 7.9 assists per game , Johnson was drafted in the 1979 NBA Draft .
+1	After	_	Word	Word	_	10	L	10:L	_
+2	two	_	Word	Word	_	3	Q	3:Q	_
+3	years	_	Word	Word	_	5	T	5:T	_
+4	in	_	Word	Word	_	5	R	5:R	_
+5	college	_	Word	Word	_	0	H	0:H	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	during	_	Word	Word	_	10	L	10:L	_
+8	which	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	he	_	Word	Word	_	10	A	10:A|5:A|15:A|19:A	_
+10	averaged	_	Word	Word	_	5	H	5:H	_
+11	17.1	_	Word	Word	_	12	Q	12:Q	_
+12	points	_	Word	Word	_	10	A	10:A	_
+13	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+14	7.6	_	Word	Word	_	15	Q	15:Q	_
+15	rebounds	_	Word	Word	_	12	C	12:C	_
+16	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+17	and	_	Word	Word	_	12	N	12:N	_
+18	7.9	_	Word	Word	_	19	Q	19:Q	_
+19	assists	_	Word	Word	_	12	C	12:C	_
+20	per	_	Word	Word	_	21	R	21:R	_
+21	game	_	Word	Word	_	12	E	12:E	_
+22	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+23	Johnson	_	Word	Word	_	25	A	25:A	_
+24	was	_	Word	Word	_	25	F	25:F	_
+25	drafted	_	Word	Word	_	5	H	5:H	_
+26	in	_	Word	Word	_	30	R	30:R	_
+27	the	_	Word	Word	_	30	E	30:E	_
+28	1979	_	Word	Word	_	29	T	29:T	_
+29	NBA	_	Word	Word	_	30	E	30:E	_
+30	Draft	_	Word	Word	_	25	A	25:A	_
+31	.	_	Punctuation	Punctuation	_	30	U	30:U	_
+

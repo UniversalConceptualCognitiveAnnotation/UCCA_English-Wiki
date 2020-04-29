@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 221001
+# text = She explained that she had been feeling low in the six months before her admission .
+1	She	_	Word	Word	_	2	A	2:A	_
+2	explained	_	Word	Word	_	0	H	0:H	_
+3	that	_	Word	Word	_	7	R	7:R	_
+4	she	_	Word	Word	_	7	A	7:A	_
+5	had	_	Word	Word	_	7	F	7:F	_
+6	been	_	Word	Word	_	7	F	7:F	_
+7	feeling	_	Word	Word	_	2	A	2:A	_
+8	low	_	Word	Word	_	7	D	7:D	_
+9	in	_	Word	Word	_	12	R	12:R	_
+10	the	_	Word	Word	_	12	F	12:F	_
+11	six	_	Word	Word	_	12	Q	12:Q	_
+12	months	_	Word	Word	_	7	T	7:T	_
+13	before	_	Word	Word	_	15	L	15:L	_
+14	her	_	Word	Word	_	15	A	15:A	_
+15	admission	_	Word	Word	_	7	H	7:H	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

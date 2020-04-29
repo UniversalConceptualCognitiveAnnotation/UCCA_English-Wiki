@@ -1,0 +1,49 @@
+# format = ucca
+# sent_id = 558017
+# text = Presley made what would be his only appearance on Nashville 's Grand Ole Opry on October 2 ; after a polite audience response , Opry manager Jim Denny told Phillips that his singer was " not bad " but did not suit the program .
+1	Presley	_	Word	Word	_	8	A	8:A	_
+2	made	_	Word	Word	_	8	F	8:F	_
+3	what	_	Word	Word	_	8	F	8:F	_
+4	would	_	Word	Word	_	8	F	8:F	_
+5	be	_	Word	Word	_	8	F	8:F	_
+6	his	_	Word	Word	_	8	A	8:A	_
+7	only	_	Word	Word	_	8	D	8:D	_
+8	appearance	_	Word	Word	_	0	H	0:H	_
+9	on	_	Word	Word	_	10	R	10:R	_
+10	Nashville	_	Word	Word	_	8	A	8:A	_
+11	's	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	Grand	_	Word	Word	_	10	Terminal	10:Terminal	_
+13	Ole	_	Word	Word	_	10	Terminal	10:Terminal	_
+14	Opry	_	Word	Word	_	10	Terminal	10:Terminal	_
+15	on	_	Word	Word	_	16	R	16:R	_
+16	October	_	Word	Word	_	8	T	8:T	_
+17	2	_	Word	Word	_	16	C	16:C	_
+18	;	_	Punctuation	Punctuation	_	8	U	8:U	_
+19	after	_	Word	Word	_	23	L	23:L	_
+20	a	_	Word	Word	_	23	E	23:E	_
+21	polite	_	Word	Word	_	23	D	23:D	_
+22	audience	_	Word	Word	_	23	A	23:A	_
+23	response	_	Word	Word	_	8	H	8:H	_
+24	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+25	Opry	_	Word	Word	_	26	A	26:A	_
+26	manager	_	Word	Word	_	27	E	27:E	_
+27	Jim	_	Word	Word	_	29	A	29:A	_
+28	Denny	_	Word	Word	_	27	Terminal	27:Terminal	_
+29	told	_	Word	Word	_	8	H	8:H	_
+30	Phillips	_	Word	Word	_	29	A	29:A	_
+31	that	_	Word	Word	_	37	R	37:R	_
+32	his	_	Word	Word	_	37	A	37:A	_
+33	singer	_	Word	Word	_	32	A	32:A|42:A	_
+34	was	_	Word	Word	_	37	F	37:F	_
+35	"	_	Punctuation	Punctuation	_	37	U	37:U	_
+36	not	_	Word	Word	_	37	D	37:D	_
+37	bad	_	Word	Word	_	29	A	29:A	_
+38	"	_	Punctuation	Punctuation	_	37	U	37:U	_
+39	but	_	Word	Word	_	42	L	42:L	_
+40	did	_	Word	Word	_	42	F	42:F	_
+41	not	_	Word	Word	_	42	D	42:D	_
+42	suit	_	Word	Word	_	37	H	37:H	_
+43	the	_	Word	Word	_	44	E	44:E	_
+44	program	_	Word	Word	_	42	A	42:A	_
+45	.	_	Punctuation	Punctuation	_	44	U	44:U	_
+

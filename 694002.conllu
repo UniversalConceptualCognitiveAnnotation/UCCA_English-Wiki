@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 694002
+# text = Rather than comply with the censorship , Dylan refused to appear on the program .
+1	Rather	_	Word	Word	_	11	L	11:L	_
+2	than	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	comply	_	Word	Word	_	0	H	0:H	_
+4	with	_	Word	Word	_	6	R	6:R	_
+5	the	_	Word	Word	_	6	E	6:E	_
+6	censorship	_	Word	Word	_	3	A	3:A	_
+7	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+8	Dylan	_	Word	Word	_	11	A	11:A|3:A	_
+9	refused	_	Word	Word	_	11	D	11:D	_
+10	to	_	Word	Word	_	11	F	11:F	_
+11	appear	_	Word	Word	_	3	H	3:H	_
+12	on	_	Word	Word	_	14	R	14:R	_
+13	the	_	Word	Word	_	14	E	14:E	_
+14	program	_	Word	Word	_	11	A	11:A	_
+15	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

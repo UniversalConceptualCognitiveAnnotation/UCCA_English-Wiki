@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 522011
+# text = She performed at various studio functions and was eventually cast opposite Deanna Durbin in the musical short Every Sunday .
+1	She	_	Word	Word	_	2	A	2:A|10:A	_
+2	performed	_	Word	Word	_	0	H	0:H	_
+3	at	_	Word	Word	_	6	R	6:R	_
+4	various	_	Word	Word	_	6	E	6:E	_
+5	studio	_	Word	Word	_	6	E	6:E	_
+6	functions	_	Word	Word	_	2	A	2:A	_
+7	and	_	Word	Word	_	10	L	10:L	_
+8	was	_	Word	Word	_	10	F	10:F	_
+9	eventually	_	Word	Word	_	10	D	10:D	_
+10	cast	_	Word	Word	_	2	H	2:H	_
+11	opposite	_	Word	Word	_	12	R	12:R	_
+12	Deanna	_	Word	Word	_	10	A	10:A	_
+13	Durbin	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	in	_	Word	Word	_	18	R	18:R	_
+15	the	_	Word	Word	_	18	F	18:F	_
+16	musical	_	Word	Word	_	17	E	17:E	_
+17	short	_	Word	Word	_	18	E	18:E	_
+18	Every	_	Word	Word	_	10	A	10:A	_
+19	Sunday	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

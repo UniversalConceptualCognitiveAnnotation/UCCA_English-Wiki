@@ -1,0 +1,44 @@
+# format = ucca
+# sent_id = 641003
+# text = He wrote " Cookin ' ( In the Kitchen of Love ) " for Starr 's Ringo 's Rotogravure ( 1976 ) , performing on the track in June in what would be his last recording session until 1980 .
+1	He	_	Word	Word	_	2	A	2:A|24:A	_
+2	wrote	_	Word	Word	_	0	H	0:H	_
+3	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	Cookin	_	Word	Word	_	2	A	2:A	_
+5	'	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	(	_	Punctuation	Punctuation	_	4	U	4:U	_
+7	In	_	Word	Word	_	4	Terminal	4:Terminal	_
+8	the	_	Word	Word	_	4	Terminal	4:Terminal	_
+9	Kitchen	_	Word	Word	_	4	Terminal	4:Terminal	_
+10	of	_	Word	Word	_	4	Terminal	4:Terminal	_
+11	Love	_	Word	Word	_	4	Terminal	4:Terminal	_
+12	)	_	Punctuation	Punctuation	_	2	U	2:U	_
+13	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+14	for	_	Word	Word	_	19	R	19:R	_
+15	Starr	_	Word	Word	_	19	E	19:E	_
+16	's	_	Word	Word	_	15	R	15:R	_
+17	Ringo	_	Word	Word	_	15	Terminal	15:Terminal	_
+18	's	_	Word	Word	_	15	R	15:R	_
+19	Rotogravure	_	Word	Word	_	2	A	2:A	_
+20	(	_	Punctuation	Punctuation	_	19	U	19:U	_
+21	1976	_	Word	Word	_	19	E	19:E	_
+22	)	_	Punctuation	Punctuation	_	2	U	2:U	_
+23	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+24	performing	_	Word	Word	_	2	H	2:H	_
+25	on	_	Word	Word	_	27	R	27:R	_
+26	the	_	Word	Word	_	27	E	27:E	_
+27	track	_	Word	Word	_	24	A	24:A	_
+28	in	_	Word	Word	_	29	R	29:R	_
+29	June	_	Word	Word	_	24	T	24:T	_
+30	in	_	Word	Word	_	37	L	37:L	_
+31	what	_	Word	Word	_	33	R	33:R	_
+32	would	_	Word	Word	_	33	E	33:E	_
+33	be	_	Word	Word	_	37	E	37:E	_
+34	his	_	Word	Word	_	37	A	37:A	_
+35	last	_	Word	Word	_	37	D	37:D	_
+36	recording	_	Word	Word	_	37	E	37:E	_
+37	session	_	Word	Word	_	2	H	2:H	_
+38	until	_	Word	Word	_	39	R	39:R	_
+39	1980	_	Word	Word	_	37	T	37:T	_
+40	.	_	Punctuation	Punctuation	_	39	U	39:U	_
+

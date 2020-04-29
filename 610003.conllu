@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 610003
+# text = They began the Driving World Tour in April 2002 , which included stops in the US , Mexico and Japan .
+1	They	_	Word	Word	_	2	A	2:A	_
+2	began	_	Word	Word	_	0	H	0:H	_
+3	the	_	Word	Word	_	4	F	4:F	_
+4	Driving	_	Word	Word	_	2	A	2:A	_
+5	World	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	Tour	_	Word	Word	_	4	Terminal	4:Terminal	_
+7	in	_	Word	Word	_	8	R	8:R	_
+8	April	_	Word	Word	_	2	T	2:T	_
+9	2002	_	Word	Word	_	8	C	8:C	_
+10	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+11	which	_	Word	Word	_	13	R	13:R	_
+12	included	_	Word	Word	_	13	D	13:D	_
+13	stops	_	Word	Word	_	4	E	4:E	_
+14	in	_	Word	Word	_	16	R	16:R	_
+15	the	_	Word	Word	_	16	E	16:E	_
+16	US	_	Word	Word	_	13	A	13:A	_
+17	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+18	Mexico	_	Word	Word	_	16	C	16:C	_
+19	and	_	Word	Word	_	16	N	16:N	_
+20	Japan	_	Word	Word	_	16	C	16:C	_
+21	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

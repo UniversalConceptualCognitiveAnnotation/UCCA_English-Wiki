@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 944013
+# text = The album debuted on the US Billboard 200 albums chart at number seven , selling 309 , 000 copies in its first week .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	album	_	Word	Word	_	0	C	0:C|15:A	_
+3	debuted	_	Word	Word	_	0	H	0:H	_
+4	on	_	Word	Word	_	10	R	10:R	_
+5	the	_	Word	Word	_	10	E	10:E	_
+6	US	_	Word	Word	_	10	E	10:E	_
+7	Billboard	_	Word	Word	_	10	E	10:E	_
+8	200	_	Word	Word	_	9	Q	9:Q	_
+9	albums	_	Word	Word	_	10	E	10:E	_
+10	chart	_	Word	Word	_	3	A	3:A	_
+11	at	_	Word	Word	_	12	R	12:R	_
+12	number	_	Word	Word	_	3	A	3:A	_
+13	seven	_	Word	Word	_	12	Q	12:Q	_
+14	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+15	selling	_	Word	Word	_	3	H	3:H	_
+16	309	_	Word	Word	_	19	Q	19:Q	_
+17	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+18	000	_	Word	Word	_	16	Terminal	16:Terminal	_
+19	copies	_	Word	Word	_	15	A	15:A	_
+20	in	_	Word	Word	_	21	L	21:L	_
+21	its	_	Word	Word	_	3	H	3:H	_
+22	first	_	Word	Word	_	23	Q	23:Q	_
+23	week	_	Word	Word	_	21	T	21:T	_
+24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

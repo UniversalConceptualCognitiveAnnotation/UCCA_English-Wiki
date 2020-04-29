@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 532009
+# text = Her second performance , in Melbourne , started an hour late .
+1	Her	_	Word	Word	_	3	A	3:A	_
+2	second	_	Word	Word	_	3	D	3:D	_
+3	performance	_	Word	Word	_	8	A	8:A	_
+4	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+5	in	_	Word	Word	_	6	R	6:R	_
+6	Melbourne	_	Word	Word	_	8	A	8:A	_
+7	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+8	started	_	Word	Word	_	0	H	0:H	_
+9	an	_	Word	Word	_	10	E	10:E	_
+10	hour	_	Word	Word	_	11	Q	11:Q	_
+11	late	_	Word	Word	_	8	T	8:T	_
+12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+

@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 469011
+# text = The Lakers again reached the Finals , and for a third time faced the Sixers , who featured center Moses Malone as well as Erving .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	Lakers	_	Word	Word	_	4	A	4:A|13:A	_
+3	again	_	Word	Word	_	4	D	4:D	_
+4	reached	_	Word	Word	_	0	H	0:H	_
+5	the	_	Word	Word	_	6	E	6:E	_
+6	Finals	_	Word	Word	_	4	A	4:A	_
+7	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+8	and	_	Word	Word	_	13	L	13:L	_
+9	for	_	Word	Word	_	12	R	12:R	_
+10	a	_	Word	Word	_	12	E	12:E	_
+11	third	_	Word	Word	_	12	Q	12:Q	_
+12	time	_	Word	Word	_	13	D	13:D	_
+13	faced	_	Word	Word	_	4	H	4:H	_
+14	the	_	Word	Word	_	15	E	15:E	_
+15	Sixers	_	Word	Word	_	13	A	13:A	_
+16	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+17	who	_	Word	Word	_	18	R	18:R	_
+18	featured	_	Word	Word	_	15	E	15:E	_
+19	center	_	Word	Word	_	20	E	20:E	_
+20	Moses	_	Word	Word	_	18	A	18:A	_
+21	Malone	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	as	_	Word	Word	_	20	N	20:N	_
+23	well	_	Word	Word	_	22	Terminal	22:Terminal	_
+24	as	_	Word	Word	_	22	Terminal	22:Terminal	_
+25	Erving	_	Word	Word	_	20	C	20:C	_
+26	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+

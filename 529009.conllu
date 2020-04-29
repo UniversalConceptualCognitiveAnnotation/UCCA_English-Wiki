@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 529009
+# text = He arranged a four - month concert tour of the United Kingdom , where she played to sold - out audiences throughout England , Scotland , and Ireland .
+1	He	_	Word	Word	_	2	A	2:A	_
+2	arranged	_	Word	Word	_	0	H	0:H	_
+3	a	_	Word	Word	_	6	F	6:F	_
+4	four	_	Word	Word	_	6	Q	6:Q	_
+5	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+6	month	_	Word	Word	_	8	T	8:T	_
+7	concert	_	Word	Word	_	8	A	8:A	_
+8	tour	_	Word	Word	_	2	A	2:A	_
+9	of	_	Word	Word	_	11	R	11:R	_
+10	the	_	Word	Word	_	11	F	11:F	_
+11	United	_	Word	Word	_	8	A	8:A	_
+12	Kingdom	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+14	where	_	Word	Word	_	16	L	16:L	_
+15	she	_	Word	Word	_	16	A	16:A	_
+16	played	_	Word	Word	_	2	H	2:H	_
+17	to	_	Word	Word	_	21	R	21:R	_
+18	sold	_	Word	Word	_	21	E	21:E	_
+19	-	_	Punctuation	Punctuation	_	18	U	18:U	_
+20	out	_	Word	Word	_	18	Terminal	18:Terminal	_
+21	audiences	_	Word	Word	_	16	A	16:A	_
+22	throughout	_	Word	Word	_	23	R	23:R	_
+23	England	_	Word	Word	_	16	A	16:A	_
+24	,	_	Punctuation	Punctuation	_	23	U	23:U	_
+25	Scotland	_	Word	Word	_	23	C	23:C	_
+26	,	_	Punctuation	Punctuation	_	23	U	23:U	_
+27	and	_	Word	Word	_	23	N	23:N	_
+28	Ireland	_	Word	Word	_	23	C	23:C	_
+29	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

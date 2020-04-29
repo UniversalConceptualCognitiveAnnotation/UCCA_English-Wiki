@@ -1,0 +1,36 @@
+# format = ucca
+# sent_id = 470003
+# text = In Game 3 , Johnson responded with 21 assists in a 137 - 104 win , but in Game 4 , he again made several crucial errors late in the contest .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	Game	_	Word	Word	_	6	A	6:A	_
+3	3	_	Word	Word	_	2	Q	2:Q	_
+4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	Johnson	_	Word	Word	_	6	A	6:A|9:A|31:A	_
+6	responded	_	Word	Word	_	0	H	0:H	_
+7	with	_	Word	Word	_	9	R	9:R	_
+8	21	_	Word	Word	_	9	Q	9:Q	_
+9	assists	_	Word	Word	_	6	A	6:A	_
+10	in	_	Word	Word	_	15	R	15:R	_
+11	a	_	Word	Word	_	15	E	15:E	_
+12	137	_	Word	Word	_	15	Q	15:Q	_
+13	-	_	Punctuation	Punctuation	_	12	U	12:U	_
+14	104	_	Word	Word	_	12	C	12:C	_
+15	win	_	Word	Word	_	6	A	6:A	_
+16	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+17	but	_	Word	Word	_	27	L	27:L	_
+18	in	_	Word	Word	_	19	R	19:R	_
+19	Game	_	Word	Word	_	27	A	27:A	_
+20	4	_	Word	Word	_	19	Q	19:Q	_
+21	,	_	Punctuation	Punctuation	_	27	U	27:U	_
+22	he	_	Word	Word	_	27	A	27:A	_
+23	again	_	Word	Word	_	27	D	27:D	_
+24	made	_	Word	Word	_	27	F	27:F	_
+25	several	_	Word	Word	_	27	D	27:D	_
+26	crucial	_	Word	Word	_	27	D	27:D	_
+27	errors	_	Word	Word	_	6	H	6:H	_
+28	late	_	Word	Word	_	31	T	31:T	_
+29	in	_	Word	Word	_	31	R	31:R	_
+30	the	_	Word	Word	_	31	E	31:E	_
+31	contest	_	Word	Word	_	27	A	27:A	_
+32	.	_	Punctuation	Punctuation	_	31	U	31:U	_
+

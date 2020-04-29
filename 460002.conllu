@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 460002
+# text = At one point , Jennings broke his composure after receiving phone calls from his children . "
+1	At	_	Word	Word	_	3	R	3:R	_
+2	one	_	Word	Word	_	3	E	3:E	_
+3	point	_	Word	Word	_	8	D	8:D	_
+4	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+5	Jennings	_	Word	Word	_	8	A	8:A|10:A	_
+6	broke	_	Word	Word	_	8	D	8:D	_
+7	his	_	Word	Word	_	8	E	8:E	_
+8	composure	_	Word	Word	_	0	H	0:H	_
+9	after	_	Word	Word	_	10	L	10:L	_
+10	receiving	_	Word	Word	_	8	H	8:H	_
+11	phone	_	Word	Word	_	12	E	12:E	_
+12	calls	_	Word	Word	_	10	A	10:A	_
+13	from	_	Word	Word	_	15	R	15:R	_
+14	his	_	Word	Word	_	15	E	15:E	_
+15	children	_	Word	Word	_	10	A	10:A	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+17	"	_	Punctuation	Punctuation	_	15	U	15:U	_
+

@@ -1,0 +1,37 @@
+# format = ucca
+# sent_id = 699008
+# text = On July 29 , 1966 , Dylan crashed his 500cc Triumph Tiger 100 motorcycle on a road near his home in Woodstock , New York , and was thrown to the ground .
+1	On	_	Word	Word	_	2	R	2:R	_
+2	July	_	Word	Word	_	8	T	8:T	_
+3	29	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	1966	_	Word	Word	_	2	C	2:C	_
+6	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	Dylan	_	Word	Word	_	8	A	8:A|29:A	_
+8	crashed	_	Word	Word	_	0	H	0:H	_
+9	his	_	Word	Word	_	11	E	11:E	_
+10	500cc	_	Word	Word	_	11	E	11:E	_
+11	Triumph	_	Word	Word	_	8	A	8:A	_
+12	Tiger	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	100	_	Word	Word	_	11	Terminal	11:Terminal	_
+14	motorcycle	_	Word	Word	_	11	E	11:E	_
+15	on	_	Word	Word	_	17	R	17:R	_
+16	a	_	Word	Word	_	17	E	17:E	_
+17	road	_	Word	Word	_	8	A	8:A	_
+18	near	_	Word	Word	_	20	R	20:R	_
+19	his	_	Word	Word	_	20	E	20:E	_
+20	home	_	Word	Word	_	17	E	17:E	_
+21	in	_	Word	Word	_	22	R	22:R	_
+22	Woodstock	_	Word	Word	_	20	E	20:E	_
+23	,	_	Punctuation	Punctuation	_	22	U	22:U	_
+24	New	_	Word	Word	_	22	C	22:C	_
+25	York	_	Word	Word	_	24	Terminal	24:Terminal	_
+26	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+27	and	_	Word	Word	_	29	L	29:L	_
+28	was	_	Word	Word	_	29	F	29:F	_
+29	thrown	_	Word	Word	_	8	H	8:H	_
+30	to	_	Word	Word	_	32	R	32:R	_
+31	the	_	Word	Word	_	32	E	32:E	_
+32	ground	_	Word	Word	_	29	A	29:A	_
+33	.	_	Punctuation	Punctuation	_	32	U	32:U	_
+

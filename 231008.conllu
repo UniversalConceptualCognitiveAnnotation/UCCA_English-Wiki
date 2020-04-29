@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 231008
+# text = The regular judges on the program were He Ping , Wu Yue and Cheng Pei Pei .
+1	The	_	Word	Word	_	3	F	3:F	_
+2	regular	_	Word	Word	_	3	D	3:D	_
+3	judges	_	Word	Word	_	0	H	0:H	_
+4	on	_	Word	Word	_	6	R	6:R	_
+5	the	_	Word	Word	_	6	F	6:F	_
+6	program	_	Word	Word	_	3	A	3:A	_
+7	were	_	Word	Word	_	3	F	3:F	_
+8	He	_	Word	Word	_	3	A	3:A	_
+9	Ping	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+11	Wu	_	Word	Word	_	8	C	8:C	_
+12	Yue	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	and	_	Word	Word	_	8	N	8:N	_
+14	Cheng	_	Word	Word	_	8	C	8:C	_
+15	Pei	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	Pei	_	Word	Word	_	14	Terminal	14:Terminal	_
+17	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+

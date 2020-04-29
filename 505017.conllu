@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 505017
+# text = The world tour lasted six months and was extremely popular . "
+1	The	_	Word	Word	_	3	E	3:E	_
+2	world	_	Word	Word	_	3	A	3:A	_
+3	tour	_	Word	Word	_	0	C	0:C|10:A	_
+4	lasted	_	Word	Word	_	0	H	0:H	_
+5	six	_	Word	Word	_	6	Q	6:Q	_
+6	months	_	Word	Word	_	4	T	4:T	_
+7	and	_	Word	Word	_	10	L	10:L	_
+8	was	_	Word	Word	_	10	F	10:F	_
+9	extremely	_	Word	Word	_	10	D	10:D	_
+10	popular	_	Word	Word	_	4	H	4:H	_
+11	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	"	_	Punctuation	Punctuation	_	10	U	10:U	_
+

@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 231000
+# text = In recent years , the ageing Chan grew tired of being typecast as an action hero , prompting him to act with more emotion in his latest films .
+1	In	_	Word	Word	_	3	R	3:R	_
+2	recent	_	Word	Word	_	3	E	3:E	_
+3	years	_	Word	Word	_	9	T	9:T	_
+4	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+5	the	_	Word	Word	_	6	F	6:F	_
+6	ageing	_	Word	Word	_	9	A	9:A	_
+7	Chan	_	Word	Word	_	6	A	6:A|12:A	_
+8	grew	_	Word	Word	_	9	D	9:D	_
+9	tired	_	Word	Word	_	0	H	0:H	_
+10	of	_	Word	Word	_	12	R	12:R	_
+11	being	_	Word	Word	_	12	F	12:F	_
+12	typecast	_	Word	Word	_	9	A	9:A	_
+13	as	_	Word	Word	_	16	R	16:R	_
+14	an	_	Word	Word	_	16	F	16:F	_
+15	action	_	Word	Word	_	16	D	16:D	_
+16	hero	_	Word	Word	_	12	A	12:A	_
+17	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+18	prompting	_	Word	Word	_	21	D	21:D	_
+19	him	_	Word	Word	_	21	A	21:A	_
+20	to	_	Word	Word	_	21	F	21:F	_
+21	act	_	Word	Word	_	9	H	9:H	_
+22	with	_	Word	Word	_	24	R	24:R	_
+23	more	_	Word	Word	_	24	Q	24:Q	_
+24	emotion	_	Word	Word	_	21	D	21:D	_
+25	in	_	Word	Word	_	28	R	28:R	_
+26	his	_	Word	Word	_	28	E	28:E	_
+27	latest	_	Word	Word	_	28	E	28:E	_
+28	films	_	Word	Word	_	21	A	21:A	_
+29	.	_	Punctuation	Punctuation	_	28	U	28:U	_
+

@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 631001
+# text = He regularly visited his cousin , Stanley Parkes , who lived in Fleetwood .
+1	He	_	Word	Word	_	3	A	3:A	_
+2	regularly	_	Word	Word	_	3	T	3:T	_
+3	visited	_	Word	Word	_	0	H	0:H	_
+4	his	_	Word	Word	_	5	A	5:A	_
+5	cousin	_	Word	Word	_	7	E	7:E	_
+6	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+7	Stanley	_	Word	Word	_	3	A	3:A	_
+8	Parkes	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+10	who	_	Word	Word	_	11	R	11:R	_
+11	lived	_	Word	Word	_	7	E	7:E	_
+12	in	_	Word	Word	_	13	R	13:R	_
+13	Fleetwood	_	Word	Word	_	11	A	11:A	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

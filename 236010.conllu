@@ -1,0 +1,34 @@
+# format = ucca
+# sent_id = 236010
+# text = Chan has also put his name to Jackie Chan Theater International , a cinema chain in China , co - run by Hong Kong company Sparkle Roll Group Ltd .
+1	Chan	_	Word	Word	_	4	A	4:A	_
+2	has	_	Word	Word	_	4	F	4:F	_
+3	also	_	Word	Word	_	4	D	4:D	_
+4	put	_	Word	Word	_	0	H	0:H	_
+5	his	_	Word	Word	_	6	E	6:E	_
+6	name	_	Word	Word	_	4	A	4:A	_
+7	to	_	Word	Word	_	8	R	8:R	_
+8	Jackie	_	Word	Word	_	4	A	4:A	_
+9	Chan	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	Theater	_	Word	Word	_	8	Terminal	8:Terminal	_
+11	International	_	Word	Word	_	8	Terminal	8:Terminal	_
+12	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+13	a	_	Word	Word	_	15	F	15:F	_
+14	cinema	_	Word	Word	_	15	E	15:E	_
+15	chain	_	Word	Word	_	8	E	8:E	_
+16	in	_	Word	Word	_	17	R	17:R	_
+17	China	_	Word	Word	_	15	E	15:E	_
+18	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+19	co	_	Word	Word	_	21	D	21:D	_
+20	-	_	Punctuation	Punctuation	_	21	U	21:U	_
+21	run	_	Word	Word	_	8	E	8:E	_
+22	by	_	Word	Word	_	26	R	26:R	_
+23	Hong	_	Word	Word	_	25	E	25:E	_
+24	Kong	_	Word	Word	_	23	Terminal	23:Terminal	_
+25	company	_	Word	Word	_	26	E	26:E	_
+26	Sparkle	_	Word	Word	_	21	A	21:A	_
+27	Roll	_	Word	Word	_	26	Terminal	26:Terminal	_
+28	Group	_	Word	Word	_	26	Terminal	26:Terminal	_
+29	Ltd	_	Word	Word	_	26	Terminal	26:Terminal	_
+30	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+

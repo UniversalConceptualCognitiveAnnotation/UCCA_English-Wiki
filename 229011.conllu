@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 229011
+# text = Chan is an avid football fan and supports the Hong Kong National Football Team , England National Football Team , and Manchester City .
+1	Chan	_	Word	Word	_	6	A	6:A|8:A	_
+2	is	_	Word	Word	_	6	F	6:F	_
+3	an	_	Word	Word	_	6	F	6:F	_
+4	avid	_	Word	Word	_	6	D	6:D	_
+5	football	_	Word	Word	_	6	A	6:A	_
+6	fan	_	Word	Word	_	0	H	0:H	_
+7	and	_	Word	Word	_	8	L	8:L	_
+8	supports	_	Word	Word	_	6	H	6:H	_
+9	the	_	Word	Word	_	10	F	10:F	_
+10	Hong	_	Word	Word	_	14	E	14:E	_
+11	Kong	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	National	_	Word	Word	_	14	E	14:E	_
+13	Football	_	Word	Word	_	14	E	14:E	_
+14	Team	_	Word	Word	_	8	A	8:A	_
+15	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+16	England	_	Word	Word	_	19	E	19:E	_
+17	National	_	Word	Word	_	19	E	19:E	_
+18	Football	_	Word	Word	_	19	E	19:E	_
+19	Team	_	Word	Word	_	14	C	14:C	_
+20	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+21	and	_	Word	Word	_	14	N	14:N	_
+22	Manchester	_	Word	Word	_	14	C	14:C	_
+23	City	_	Word	Word	_	22	Terminal	22:Terminal	_
+24	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

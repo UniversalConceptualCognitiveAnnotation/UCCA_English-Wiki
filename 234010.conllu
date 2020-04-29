@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 234010
+# text = Chan insisted that his remarks were not intended to insult the people of Taiwan .
+1	Chan	_	Word	Word	_	2	A	2:A	_
+2	insisted	_	Word	Word	_	0	H	0:H	_
+3	that	_	Word	Word	_	10	R	10:R	_
+4	his	_	Word	Word	_	5	A	5:A	_
+5	remarks	_	Word	Word	_	10	A	10:A	_
+6	were	_	Word	Word	_	10	F	10:F	_
+7	not	_	Word	Word	_	10	D	10:D	_
+8	intended	_	Word	Word	_	10	D	10:D	_
+9	to	_	Word	Word	_	10	F	10:F	_
+10	insult	_	Word	Word	_	2	A	2:A	_
+11	the	_	Word	Word	_	12	F	12:F	_
+12	people	_	Word	Word	_	10	A	10:A	_
+13	of	_	Word	Word	_	14	R	14:R	_
+14	Taiwan	_	Word	Word	_	12	E	12:E	_
+15	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

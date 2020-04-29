@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 637005
+# text = In 1970 , Lennon and Ono went through primal therapy with Dr . Arthur Janov in Los Angeles , California .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1970	_	Word	Word	_	7	T	7:T	_
+3	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+4	Lennon	_	Word	Word	_	7	A	7:A	_
+5	and	_	Word	Word	_	4	N	4:N	_
+6	Ono	_	Word	Word	_	4	C	4:C	_
+7	went	_	Word	Word	_	0	H	0:H	_
+8	through	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	primal	_	Word	Word	_	10	E	10:E	_
+10	therapy	_	Word	Word	_	7	A	7:A	_
+11	with	_	Word	Word	_	12	R	12:R	_
+12	Dr	_	Word	Word	_	10	E	10:E	_
+13	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+14	Arthur	_	Word	Word	_	12	Terminal	12:Terminal	_
+15	Janov	_	Word	Word	_	12	Terminal	12:Terminal	_
+16	in	_	Word	Word	_	17	R	17:R	_
+17	Los	_	Word	Word	_	10	E	10:E	_
+18	Angeles	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	,	_	Punctuation	Punctuation	_	17	U	17:U	_
+20	California	_	Word	Word	_	17	E	17:E	_
+21	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+

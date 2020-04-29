@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 1019006
+# text = Michael Jackson was born on August 29 , 1958 , in Gary , Indiana .
+1	Michael	_	Word	Word	_	4	A	4:A	_
+2	Jackson	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	was	_	Word	Word	_	4	F	4:F	_
+4	born	_	Word	Word	_	0	H	0:H	_
+5	on	_	Word	Word	_	6	R	6:R	_
+6	August	_	Word	Word	_	4	T	4:T	_
+7	29	_	Word	Word	_	6	C	6:C	_
+8	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+9	1958	_	Word	Word	_	6	C	6:C	_
+10	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+11	in	_	Word	Word	_	12	R	12:R	_
+12	Gary	_	Word	Word	_	4	A	4:A	_
+13	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+14	Indiana	_	Word	Word	_	12	C	12:C	_
+15	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+

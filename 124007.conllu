@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 124007
+# text = On opening night , Hepburn turned up late , mixed her lines , tripped over her feet , and spoke too high and fast to be comprehensible .
+1	On	_	Word	Word	_	2	R	2:R	_
+2	opening	_	Word	Word	_	6	A	6:A	_
+3	night	_	Word	Word	_	2	T	2:T	_
+4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	Hepburn	_	Word	Word	_	6	A	6:A|10:A|14:A|20:A|27:A	_
+6	turned	_	Word	Word	_	0	H	0:H	_
+7	up	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	late	_	Word	Word	_	6	T	6:T	_
+9	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+10	mixed	_	Word	Word	_	6	H	6:H	_
+11	her	_	Word	Word	_	12	E	12:E	_
+12	lines	_	Word	Word	_	10	A	10:A	_
+13	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+14	tripped	_	Word	Word	_	6	H	6:H	_
+15	over	_	Word	Word	_	14	E	14:E	_
+16	her	_	Word	Word	_	17	E	17:E	_
+17	feet	_	Word	Word	_	14	A	14:A	_
+18	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+19	and	_	Word	Word	_	20	L	20:L	_
+20	spoke	_	Word	Word	_	6	H	6:H	_
+21	too	_	Word	Word	_	22	E	22:E	_
+22	high	_	Word	Word	_	20	D	20:D	_
+23	and	_	Word	Word	_	22	N	22:N	_
+24	fast	_	Word	Word	_	22	C	22:C	_
+25	to	_	Word	Word	_	27	F	27:F	_
+26	be	_	Word	Word	_	27	F	27:F	_
+27	comprehensible	_	Word	Word	_	20	A	20:A	_
+28	.	_	Punctuation	Punctuation	_	27	U	27:U	_
+

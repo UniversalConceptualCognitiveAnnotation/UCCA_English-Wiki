@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 460001
+# text = Like other network news anchors , he was widely praised for guiding Americans through the tragedy .
+1	Like	_	Word	Word	_	5	L	5:L	_
+2	other	_	Word	Word	_	5	E	5:E	_
+3	network	_	Word	Word	_	5	E	5:E	_
+4	news	_	Word	Word	_	5	E	5:E	_
+5	anchors	_	Word	Word	_	0	H	0:H	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	he	_	Word	Word	_	10	A	10:A|12:A	_
+8	was	_	Word	Word	_	10	F	10:F	_
+9	widely	_	Word	Word	_	10	D	10:D	_
+10	praised	_	Word	Word	_	0	S	0:S|5:S	_
+11	for	_	Word	Word	_	12	R	12:R	_
+12	guiding	_	Word	Word	_	10	A	10:A	_
+13	Americans	_	Word	Word	_	12	A	12:A	_
+14	through	_	Word	Word	_	16	R	16:R	_
+15	the	_	Word	Word	_	16	E	16:E	_
+16	tragedy	_	Word	Word	_	12	A	12:A	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

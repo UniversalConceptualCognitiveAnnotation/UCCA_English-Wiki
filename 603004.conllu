@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 603004
+# text = McCartney 's " She 's Leaving Home " was an orchestral pop song .
+1	McCartney	_	Word	Word	_	4	E	4:E	_
+2	's	_	Word	Word	_	1	R	1:R	_
+3	"	_	Punctuation	Punctuation	_	4	U	4:U	_
+4	She	_	Word	Word	_	9	A	9:A	_
+5	's	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	Leaving	_	Word	Word	_	4	Terminal	4:Terminal	_
+7	Home	_	Word	Word	_	4	Terminal	4:Terminal	_
+8	"	_	Punctuation	Punctuation	_	9	U	9:U	_
+9	was	_	Word	Word	_	0	H	0:H	_
+10	an	_	Word	Word	_	13	F	13:F	_
+11	orchestral	_	Word	Word	_	13	E	13:E	_
+12	pop	_	Word	Word	_	13	E	13:E	_
+13	song	_	Word	Word	_	9	A	9:A	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

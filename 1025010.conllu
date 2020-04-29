@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 1025010
+# text = But in early August , Holmes à Court 's team contacted Jackson and talks resumed .
+1	But	_	Word	Word	_	14	L	14:L	_
+2	in	_	Word	Word	_	4	R	4:R	_
+3	early	_	Word	Word	_	4	E	4:E	_
+4	August	_	Word	Word	_	11	T	11:T	_
+5	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+6	Holmes	_	Word	Word	_	10	A	10:A	_
+7	à	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	Court	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	's	_	Word	Word	_	6	R	6:R	_
+10	team	_	Word	Word	_	11	A	11:A	_
+11	contacted	_	Word	Word	_	0	H	0:H	_
+12	Jackson	_	Word	Word	_	11	A	11:A	_
+13	and	_	Word	Word	_	14	L	14:L	_
+14	talks	_	Word	Word	_	11	H	11:H	_
+15	resumed	_	Word	Word	_	14	D	14:D	_
+16	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

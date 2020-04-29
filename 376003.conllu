@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 376003
+# text = In 2002 , he starred in another indie film , The Good Girl , alongside actress Jennifer Aniston .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	2002	_	Word	Word	_	5	T	5:T	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	he	_	Word	Word	_	5	A	5:A	_
+5	starred	_	Word	Word	_	0	H	0:H	_
+6	in	_	Word	Word	_	11	R	11:R	_
+7	another	_	Word	Word	_	9	E	9:E	_
+8	indie	_	Word	Word	_	9	E	9:E	_
+9	film	_	Word	Word	_	11	E	11:E	_
+10	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+11	The	_	Word	Word	_	5	A	5:A	_
+12	Good	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	Girl	_	Word	Word	_	11	Terminal	11:Terminal	_
+14	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+15	alongside	_	Word	Word	_	17	R	17:R	_
+16	actress	_	Word	Word	_	17	E	17:E	_
+17	Jennifer	_	Word	Word	_	5	A	5:A	_
+18	Aniston	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+

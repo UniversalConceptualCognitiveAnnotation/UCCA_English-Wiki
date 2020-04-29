@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 588011
+# text = Anderson described Depp 's ability as an actor to pick up the sword to be " about as good as you can get . "
+1	Anderson	_	Word	Word	_	2	A	2:A	_
+2	described	_	Word	Word	_	0	H	0:H	_
+3	Depp	_	Word	Word	_	5	A	5:A	_
+4	's	_	Word	Word	_	3	R	3:R	_
+5	ability	_	Word	Word	_	2	A	2:A	_
+6	as	_	Word	Word	_	8	R	8:R	_
+7	an	_	Word	Word	_	8	E	8:E	_
+8	actor	_	Word	Word	_	5	A	5:A	_
+9	to	_	Word	Word	_	10	F	10:F	_
+10	pick	_	Word	Word	_	5	A	5:A	_
+11	up	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	the	_	Word	Word	_	13	E	13:E	_
+13	sword	_	Word	Word	_	10	A	10:A	_
+14	to	_	Word	Word	_	19	F	19:F	_
+15	be	_	Word	Word	_	19	F	19:F	_
+16	"	_	Punctuation	Punctuation	_	19	U	19:U	_
+17	about	_	Word	Word	_	19	E	19:E	_
+18	as	_	Word	Word	_	19	E	19:E	_
+19	good	_	Word	Word	_	0	C	0:C|21:D	_
+20	as	_	Word	Word	_	21	L	21:L	_
+21	you	_	Word	Word	_	19	H	19:H	_
+22	can	_	Word	Word	_	21	D	21:D	_
+23	get	_	Word	Word	_	21	D	21:D	_
+24	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+25	"	_	Punctuation	Punctuation	_	21	U	21:U	_
+

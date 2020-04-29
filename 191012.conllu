@@ -1,0 +1,41 @@
+# format = ucca
+# sent_id = 191012
+# text = He worked on Excess Baggage , a comedy about a girl who stages her own kidnapping to get her father 's attention , and rewrote some of Will Smith 's scenes in Enemy of the State .
+1	He	_	Word	Word	_	2	A	2:A|25:A	_
+2	worked	_	Word	Word	_	0	H	0:H	_
+3	on	_	Word	Word	_	4	R	4:R	_
+4	Excess	_	Word	Word	_	2	A	2:A	_
+5	Baggage	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+7	a	_	Word	Word	_	8	E	8:E	_
+8	comedy	_	Word	Word	_	4	E	4:E	_
+9	about	_	Word	Word	_	11	R	11:R	_
+10	a	_	Word	Word	_	11	E	11:E	_
+11	girl	_	Word	Word	_	8	E	8:E	_
+12	who	_	Word	Word	_	13	R	13:R	_
+13	stages	_	Word	Word	_	11	E	11:E	_
+14	her	_	Word	Word	_	16	A	16:A	_
+15	own	_	Word	Word	_	13	D	13:D	_
+16	kidnapping	_	Word	Word	_	13	A	13:A	_
+17	to	_	Word	Word	_	22	L	22:L	_
+18	get	_	Word	Word	_	22	D	22:D	_
+19	her	_	Word	Word	_	20	A	20:A	_
+20	father	_	Word	Word	_	22	A	22:A	_
+21	's	_	Word	Word	_	20	R	20:R	_
+22	attention	_	Word	Word	_	13	H	13:H	_
+23	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+24	and	_	Word	Word	_	25	L	25:L	_
+25	rewrote	_	Word	Word	_	2	H	2:H	_
+26	some	_	Word	Word	_	31	Q	31:Q	_
+27	of	_	Word	Word	_	31	F	31:F	_
+28	Will	_	Word	Word	_	31	E	31:E	_
+29	Smith	_	Word	Word	_	28	Terminal	28:Terminal	_
+30	's	_	Word	Word	_	28	R	28:R	_
+31	scenes	_	Word	Word	_	25	A	25:A	_
+32	in	_	Word	Word	_	33	R	33:R	_
+33	Enemy	_	Word	Word	_	31	E	31:E	_
+34	of	_	Word	Word	_	33	Terminal	33:Terminal	_
+35	the	_	Word	Word	_	33	Terminal	33:Terminal	_
+36	State	_	Word	Word	_	33	Terminal	33:Terminal	_
+37	.	_	Punctuation	Punctuation	_	33	U	33:U	_
+

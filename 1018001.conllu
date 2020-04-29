@@ -1,0 +1,39 @@
+# format = ucca
+# sent_id = 1018001
+# text = Often referred to by the honorific nickname " King of Pop " , or by his initials MJ , Jackson is recognized as the most successful entertainer of all time by Guinness World Records .
+1	Often	_	Word	Word	_	2	T	2:T	_
+2	referred	_	Word	Word	_	0	H	0:H	_
+3	to	_	Word	Word	_	2	A	2:A	_
+4	by	_	Word	Word	_	9	R	9:R	_
+5	the	_	Word	Word	_	9	E	9:E	_
+6	honorific	_	Word	Word	_	7	E	7:E	_
+7	nickname	_	Word	Word	_	9	E	9:E	_
+8	"	_	Punctuation	Punctuation	_	9	U	9:U	_
+9	King	_	Word	Word	_	2	A	2:A	_
+10	of	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	Pop	_	Word	Word	_	9	Terminal	9:Terminal	_
+12	"	_	Punctuation	Punctuation	_	9	U	9:U	_
+13	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+14	or	_	Word	Word	_	9	N	9:N	_
+15	by	_	Word	Word	_	18	R	18:R	_
+16	his	_	Word	Word	_	17	E	17:E	_
+17	initials	_	Word	Word	_	18	E	18:E	_
+18	MJ	_	Word	Word	_	9	C	9:C	_
+19	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+20	Jackson	_	Word	Word	_	22	A	22:A|3:C	_
+21	is	_	Word	Word	_	22	F	22:F	_
+22	recognized	_	Word	Word	_	2	H	2:H	_
+23	as	_	Word	Word	_	27	R	27:R	_
+24	the	_	Word	Word	_	26	E	26:E	_
+25	most	_	Word	Word	_	26	E	26:E	_
+26	successful	_	Word	Word	_	27	D	27:D	_
+27	entertainer	_	Word	Word	_	22	A	22:A	_
+28	of	_	Word	Word	_	30	R	30:R	_
+29	all	_	Word	Word	_	30	E	30:E	_
+30	time	_	Word	Word	_	27	T	27:T	_
+31	by	_	Word	Word	_	32	R	32:R	_
+32	Guinness	_	Word	Word	_	22	A	22:A	_
+33	World	_	Word	Word	_	32	Terminal	32:Terminal	_
+34	Records	_	Word	Word	_	32	Terminal	32:Terminal	_
+35	.	_	Punctuation	Punctuation	_	32	U	32:U	_
+

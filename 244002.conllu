@@ -1,0 +1,35 @@
+# format = ucca
+# sent_id = 244002
+# text = Hawke 's mother remarried when he was 10 and the family moved to West Windsor Township , New Jersey , where Hawke attended West Windsor - Plainsboro High School South .
+1	Hawke	_	Word	Word	_	4	A	4:A	_
+2	's	_	Word	Word	_	1	R	1:R	_
+3	mother	_	Word	Word	_	1	A	1:A	_
+4	remarried	_	Word	Word	_	0	H	0:H	_
+5	when	_	Word	Word	_	6	L	6:L	_
+6	he	_	Word	Word	_	4	H	4:H	_
+7	was	_	Word	Word	_	6	F	6:F	_
+8	10	_	Word	Word	_	6	T	6:T	_
+9	and	_	Word	Word	_	12	L	12:L	_
+10	the	_	Word	Word	_	11	F	11:F	_
+11	family	_	Word	Word	_	12	A	12:A	_
+12	moved	_	Word	Word	_	4	H	4:H	_
+13	to	_	Word	Word	_	14	R	14:R	_
+14	West	_	Word	Word	_	12	A	12:A	_
+15	Windsor	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	Township	_	Word	Word	_	14	Terminal	14:Terminal	_
+17	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+18	New	_	Word	Word	_	14	C	14:C	_
+19	Jersey	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+21	where	_	Word	Word	_	23	R	23:R	_
+22	Hawke	_	Word	Word	_	23	A	23:A	_
+23	attended	_	Word	Word	_	14	E	14:E	_
+24	West	_	Word	Word	_	23	A	23:A	_
+25	Windsor	_	Word	Word	_	24	Terminal	24:Terminal	_
+26	-	_	Punctuation	Punctuation	_	24	U	24:U	_
+27	Plainsboro	_	Word	Word	_	24	Terminal	24:Terminal	_
+28	High	_	Word	Word	_	24	E	24:E	_
+29	School	_	Word	Word	_	28	Terminal	28:Terminal	_
+30	South	_	Word	Word	_	28	E	28:E	_
+31	.	_	Punctuation	Punctuation	_	28	U	28:U	_
+

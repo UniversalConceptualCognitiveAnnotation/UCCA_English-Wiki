@@ -1,0 +1,40 @@
+# format = ucca
+# sent_id = 960011
+# text = David Niven said she had been " quite , quite mad " ; and in his diary Noël Coward expressed surprise that " things had been bad and getting worse since 1948 or thereabouts . "
+1	David	_	Word	Word	_	3	A	3:A	_
+2	Niven	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	said	_	Word	Word	_	0	H	0:H	_
+4	she	_	Word	Word	_	11	A	11:A	_
+5	had	_	Word	Word	_	11	F	11:F	_
+6	been	_	Word	Word	_	11	F	11:F	_
+7	"	_	Punctuation	Punctuation	_	11	U	11:U	_
+8	quite	_	Word	Word	_	11	D	11:D	_
+9	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+10	quite	_	Word	Word	_	8	C	8:C	_
+11	mad	_	Word	Word	_	3	A	3:A	_
+12	"	_	Punctuation	Punctuation	_	3	U	3:U	_
+13	;	_	Punctuation	Punctuation	_	3	U	3:U	_
+14	and	_	Word	Word	_	21	L	21:L	_
+15	in	_	Word	Word	_	17	R	17:R	_
+16	his	_	Word	Word	_	17	E	17:E	_
+17	diary	_	Word	Word	_	21	A	21:A	_
+18	Noël	_	Word	Word	_	21	A	21:A	_
+19	Coward	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	expressed	_	Word	Word	_	21	D	21:D	_
+21	surprise	_	Word	Word	_	3	H	3:H	_
+22	that	_	Word	Word	_	27	R	27:R	_
+23	"	_	Punctuation	Punctuation	_	27	U	27:U	_
+24	things	_	Word	Word	_	27	A	27:A|30:A	_
+25	had	_	Word	Word	_	27	F	27:F	_
+26	been	_	Word	Word	_	27	F	27:F	_
+27	bad	_	Word	Word	_	21	A	21:A	_
+28	and	_	Word	Word	_	30	L	30:L	_
+29	getting	_	Word	Word	_	30	D	30:D	_
+30	worse	_	Word	Word	_	27	H	27:H	_
+31	since	_	Word	Word	_	32	R	32:R	_
+32	1948	_	Word	Word	_	0	C	0:C|30:T	_
+33	or	_	Word	Word	_	32	N	32:N	_
+34	thereabouts	_	Word	Word	_	32	C	32:C	_
+35	.	_	Punctuation	Punctuation	_	32	U	32:U	_
+36	"	_	Punctuation	Punctuation	_	32	U	32:U	_
+

@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 605003
+# text = McCartney wanted the tour to avoid large venues ; most of the small halls they played had capacities of fewer than 3,000 people .
+1	McCartney	_	Word	Word	_	2	A	2:A	_
+2	wanted	_	Word	Word	_	0	H	0:H	_
+3	the	_	Word	Word	_	4	F	4:F	_
+4	tour	_	Word	Word	_	6	A	6:A	_
+5	to	_	Word	Word	_	6	F	6:F	_
+6	avoid	_	Word	Word	_	2	A	2:A	_
+7	large	_	Word	Word	_	8	E	8:E	_
+8	venues	_	Word	Word	_	6	A	6:A	_
+9	;	_	Punctuation	Punctuation	_	2	U	2:U	_
+10	most	_	Word	Word	_	14	Q	14:Q	_
+11	of	_	Word	Word	_	14	R	14:R	_
+12	the	_	Word	Word	_	14	F	14:F	_
+13	small	_	Word	Word	_	14	E	14:E	_
+14	halls	_	Word	Word	_	18	A	18:A	_
+15	they	_	Word	Word	_	16	A	16:A	_
+16	played	_	Word	Word	_	14	E	14:E	_
+17	had	_	Word	Word	_	18	F	18:F	_
+18	capacities	_	Word	Word	_	2	H	2:H	_
+19	of	_	Word	Word	_	23	R	23:R	_
+20	fewer	_	Word	Word	_	23	E	23:E	_
+21	than	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	3,000	_	Word	Word	_	23	Q	23:Q	_
+23	people	_	Word	Word	_	18	A	18:A	_
+24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

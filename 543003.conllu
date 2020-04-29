@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 543003
+# text = Film director Gottfried Reinhardt claimed that Warner " derived pleasure " from humiliating subordinates . "
+1	Film	_	Word	Word	_	2	A	2:A	_
+2	director	_	Word	Word	_	3	E	3:E	_
+3	Gottfried	_	Word	Word	_	5	A	5:A	_
+4	Reinhardt	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	claimed	_	Word	Word	_	0	H	0:H	_
+6	that	_	Word	Word	_	10	R	10:R	_
+7	Warner	_	Word	Word	_	10	A	10:A|13:A	_
+8	"	_	Punctuation	Punctuation	_	10	U	10:U	_
+9	derived	_	Word	Word	_	10	F	10:F	_
+10	pleasure	_	Word	Word	_	5	A	5:A	_
+11	"	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	from	_	Word	Word	_	13	R	13:R	_
+13	humiliating	_	Word	Word	_	10	A	10:A	_
+14	subordinates	_	Word	Word	_	13	A	13:A	_
+15	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+16	"	_	Punctuation	Punctuation	_	13	U	13:U	_
+

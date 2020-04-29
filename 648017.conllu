@@ -1,0 +1,48 @@
+# format = ucca
+# sent_id = 648017
+# text = Lennon summarised his feelings towards McCartney in an interview three days before his death : " Throughout my career , I 've selected to work with ... only two people : Paul McCartney and Yoko Ono ... That ai n't bad picking . "
+1	Lennon	_	Word	Word	_	2	A	2:A|9:A	_
+2	summarised	_	Word	Word	_	0	H	0:H	_
+3	his	_	Word	Word	_	4	A	4:A	_
+4	feelings	_	Word	Word	_	2	A	2:A	_
+5	towards	_	Word	Word	_	6	R	6:R	_
+6	McCartney	_	Word	Word	_	4	A	4:A	_
+7	in	_	Word	Word	_	9	L	9:L	_
+8	an	_	Word	Word	_	9	E	9:E	_
+9	interview	_	Word	Word	_	2	H	2:H	_
+10	three	_	Word	Word	_	11	Q	11:Q	_
+11	days	_	Word	Word	_	14	L	14:L	_
+12	before	_	Word	Word	_	11	R	11:R	_
+13	his	_	Word	Word	_	14	A	14:A	_
+14	death	_	Word	Word	_	2	H	2:H	_
+15	:	_	Punctuation	Punctuation	_	2	U	2:U	_
+16	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+17	Throughout	_	Word	Word	_	25	L	25:L	_
+18	my	_	Word	Word	_	19	A	19:A	_
+19	career	_	Word	Word	_	2	A	2:A	_
+20	,	_	Punctuation	Punctuation	_	19	U	19:U	_
+21	I	_	Word	Word	_	25	A	25:A	_
+22	've	_	Word	Word	_	25	F	25:F	_
+23	selected	_	Word	Word	_	25	D	25:D	_
+24	to	_	Word	Word	_	25	F	25:F	_
+25	work	_	Word	Word	_	19	H	19:H	_
+26	with	_	Word	Word	_	32	R	32:R	_
+27	...	_	Punctuation	Punctuation	_	32	U	32:U	_
+28	only	_	Word	Word	_	30	E	30:E	_
+29	two	_	Word	Word	_	30	Q	30:Q	_
+30	people	_	Word	Word	_	32	E	32:E	_
+31	:	_	Punctuation	Punctuation	_	32	U	32:U	_
+32	Paul	_	Word	Word	_	25	A	25:A	_
+33	McCartney	_	Word	Word	_	32	Terminal	32:Terminal	_
+34	and	_	Word	Word	_	32	N	32:N	_
+35	Yoko	_	Word	Word	_	32	C	32:C	_
+36	Ono	_	Word	Word	_	35	Terminal	35:Terminal	_
+37	...	_	Punctuation	Punctuation	_	19	U	19:U	_
+38	That	_	Word	Word	_	39	A	39:A	_
+39	ai	_	Word	Word	_	19	H	19:H	_
+40	n't	_	Word	Word	_	39	D	39:D	_
+41	bad	_	Word	Word	_	42	E	42:E	_
+42	picking	_	Word	Word	_	39	A	39:A	_
+43	.	_	Punctuation	Punctuation	_	42	U	42:U	_
+44	"	_	Punctuation	Punctuation	_	42	U	42:U	_
+

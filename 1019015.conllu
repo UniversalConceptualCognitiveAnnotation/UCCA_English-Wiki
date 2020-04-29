@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 1019015
+# text = He admitted that he had often cried from loneliness and he would vomit on the sight of his father .
+1	He	_	Word	Word	_	2	A	2:A	_
+2	admitted	_	Word	Word	_	0	H	0:H	_
+3	that	_	Word	Word	_	7	R	7:R	_
+4	he	_	Word	Word	_	7	A	7:A|9:A	_
+5	had	_	Word	Word	_	7	F	7:F	_
+6	often	_	Word	Word	_	7	T	7:T	_
+7	cried	_	Word	Word	_	2	A	2:A	_
+8	from	_	Word	Word	_	9	L	9:L	_
+9	loneliness	_	Word	Word	_	7	H	7:H	_
+10	and	_	Word	Word	_	13	L	13:L	_
+11	he	_	Word	Word	_	13	A	13:A|16:A	_
+12	would	_	Word	Word	_	13	D	13:D	_
+13	vomit	_	Word	Word	_	2	H	2:H	_
+14	on	_	Word	Word	_	16	L	16:L	_
+15	the	_	Word	Word	_	16	E	16:E	_
+16	sight	_	Word	Word	_	2	H	2:H	_
+17	of	_	Word	Word	_	19	R	19:R	_
+18	his	_	Word	Word	_	19	A	19:A	_
+19	father	_	Word	Word	_	16	A	16:A	_
+20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

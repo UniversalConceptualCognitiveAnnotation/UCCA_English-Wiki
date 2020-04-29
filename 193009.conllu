@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 193009
+# text = Cleveland and Sorkin also won the Writers Guild of America Award for best episodic drama at the February 2001 ceremony for " In Excelsis Deo " .
+1	Cleveland	_	Word	Word	_	5	A	5:A	_
+2	and	_	Word	Word	_	1	N	1:N	_
+3	Sorkin	_	Word	Word	_	1	C	1:C	_
+4	also	_	Word	Word	_	5	D	5:D	_
+5	won	_	Word	Word	_	0	H	0:H	_
+6	the	_	Word	Word	_	11	E	11:E	_
+7	Writers	_	Word	Word	_	11	E	11:E	_
+8	Guild	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	of	_	Word	Word	_	7	Terminal	7:Terminal	_
+10	America	_	Word	Word	_	7	Terminal	7:Terminal	_
+11	Award	_	Word	Word	_	5	A	5:A	_
+12	for	_	Word	Word	_	15	R	15:R	_
+13	best	_	Word	Word	_	15	E	15:E	_
+14	episodic	_	Word	Word	_	15	E	15:E	_
+15	drama	_	Word	Word	_	11	E	11:E	_
+16	at	_	Word	Word	_	20	R	20:R	_
+17	the	_	Word	Word	_	20	E	20:E	_
+18	February	_	Word	Word	_	20	T	20:T	_
+19	2001	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	ceremony	_	Word	Word	_	5	A	5:A	_
+21	for	_	Word	Word	_	23	R	23:R	_
+22	"	_	Punctuation	Punctuation	_	23	U	23:U	_
+23	In	_	Word	Word	_	20	A	20:A	_
+24	Excelsis	_	Word	Word	_	23	Terminal	23:Terminal	_
+25	Deo	_	Word	Word	_	23	Terminal	23:Terminal	_
+26	"	_	Punctuation	Punctuation	_	23	U	23:U	_
+27	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

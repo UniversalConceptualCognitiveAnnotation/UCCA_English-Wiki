@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 456003
+# text = On October 13 , 1991 , breaking news forced ABC News to interrupt regular Saturday morning programming again .
+1	On	_	Word	Word	_	2	R	2:R	_
+2	October	_	Word	Word	_	9	T	9:T	_
+3	13	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	1991	_	Word	Word	_	2	C	2:C	_
+6	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+7	breaking	_	Word	Word	_	8	E	8:E	_
+8	news	_	Word	Word	_	9	A	9:A	_
+9	forced	_	Word	Word	_	0	H	0:H	_
+10	ABC	_	Word	Word	_	11	E	11:E	_
+11	News	_	Word	Word	_	9	A	9:A	_
+12	to	_	Word	Word	_	13	R	13:R	_
+13	interrupt	_	Word	Word	_	9	A	9:A	_
+14	regular	_	Word	Word	_	17	E	17:E	_
+15	Saturday	_	Word	Word	_	17	E	17:E	_
+16	morning	_	Word	Word	_	15	C	15:C	_
+17	programming	_	Word	Word	_	13	A	13:A	_
+18	again	_	Word	Word	_	9	D	9:D	_
+19	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

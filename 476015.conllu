@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 476015
+# text = Johnson sold his ownership stake in the Lakers in October 2010 .
+1	Johnson	_	Word	Word	_	2	A	2:A	_
+2	sold	_	Word	Word	_	0	H	0:H	_
+3	his	_	Word	Word	_	5	E	5:E	_
+4	ownership	_	Word	Word	_	5	E	5:E	_
+5	stake	_	Word	Word	_	2	A	2:A	_
+6	in	_	Word	Word	_	8	R	8:R	_
+7	the	_	Word	Word	_	8	F	8:F	_
+8	Lakers	_	Word	Word	_	5	E	5:E	_
+9	in	_	Word	Word	_	10	R	10:R	_
+10	October	_	Word	Word	_	2	T	2:T	_
+11	2010	_	Word	Word	_	10	C	10:C	_
+12	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+

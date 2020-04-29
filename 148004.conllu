@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 148004
+# text = Rumors have existed since the 1930s that Hepburn may have been a lesbian or bisexual .
+1	Rumors	_	Word	Word	_	0	H	0:H	_
+2	have	_	Word	Word	_	1	F	1:F	_
+3	existed	_	Word	Word	_	1	D	1:D	_
+4	since	_	Word	Word	_	6	R	6:R	_
+5	the	_	Word	Word	_	6	E	6:E	_
+6	1930s	_	Word	Word	_	1	T	1:T	_
+7	that	_	Word	Word	_	13	R	13:R|15:R	_
+8	Hepburn	_	Word	Word	_	13	A	13:A|15:A	_
+9	may	_	Word	Word	_	13	D	13:D|15:D	_
+10	have	_	Word	Word	_	13	F	13:F	_
+11	been	_	Word	Word	_	13	F	13:F	_
+12	a	_	Word	Word	_	13	E	13:E	_
+13	lesbian	_	Word	Word	_	1	A	1:A	_
+14	or	_	Word	Word	_	15	L	15:L	_
+15	bisexual	_	Word	Word	_	13	H	13:H	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

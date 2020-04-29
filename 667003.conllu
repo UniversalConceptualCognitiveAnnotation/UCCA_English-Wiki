@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 667003
+# text = Just a few months later , in July 2001 , it was widely reported that Carey had suffered a physical and emotional breakdown .
+1	Just	_	Word	Word	_	4	E	4:E	_
+2	a	_	Word	Word	_	4	E	4:E	_
+3	few	_	Word	Word	_	4	E	4:E	_
+4	months	_	Word	Word	_	8	E	8:E	_
+5	later	_	Word	Word	_	4	R	4:R	_
+6	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	in	_	Word	Word	_	8	R	8:R	_
+8	July	_	Word	Word	_	14	D	14:D	_
+9	2001	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+11	it	_	Word	Word	_	14	A	14:A	_
+12	was	_	Word	Word	_	14	F	14:F	_
+13	widely	_	Word	Word	_	14	D	14:D	_
+14	reported	_	Word	Word	_	0	H	0:H	_
+15	that	_	Word	Word	_	18	F	18:F	_
+16	Carey	_	Word	Word	_	18	A	18:A	_
+17	had	_	Word	Word	_	18	F	18:F	_
+18	suffered	_	Word	Word	_	14	A	14:A	_
+19	a	_	Word	Word	_	23	E	23:E	_
+20	physical	_	Word	Word	_	23	E	23:E	_
+21	and	_	Word	Word	_	20	N	20:N	_
+22	emotional	_	Word	Word	_	20	C	20:C	_
+23	breakdown	_	Word	Word	_	18	A	18:A	_
+24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

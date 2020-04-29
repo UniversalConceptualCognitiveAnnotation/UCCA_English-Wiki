@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 610012
+# text = The arms ' motto is Ecce Cor Meum , Latin for " Behold My Heart " . In 2003 , the McCartneys had a child , Beatrice Milly .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	arms	_	Word	Word	_	4	A	4:A	_
+3	'	_	Punctuation	Punctuation	_	4	U	4:U	_
+4	motto	_	Word	Word	_	5	A	5:A	_
+5	is	_	Word	Word	_	0	H	0:H	_
+6	Ecce	_	Word	Word	_	5	A	5:A	_
+7	Cor	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	Meum	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+10	Latin	_	Word	Word	_	6	E	6:E	_
+11	for	_	Word	Word	_	13	R	13:R	_
+12	"	_	Punctuation	Punctuation	_	13	U	13:U	_
+13	Behold	_	Word	Word	_	10	E	10:E	_
+14	My	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	Heart	_	Word	Word	_	13	Terminal	13:Terminal	_
+16	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+17	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+18	In	_	Word	Word	_	19	R	19:R	_
+19	2003	_	Word	Word	_	25	T	25:T	_
+20	,	_	Punctuation	Punctuation	_	25	U	25:U	_
+21	the	_	Word	Word	_	22	E	22:E	_
+22	McCartneys	_	Word	Word	_	25	A	25:A	_
+23	had	_	Word	Word	_	25	F	25:F	_
+24	a	_	Word	Word	_	25	E	25:E	_
+25	child	_	Word	Word	_	5	H	5:H	_
+26	,	_	Punctuation	Punctuation	_	25	U	25:U	_
+27	Beatrice	_	Word	Word	_	25	A	25:A	_
+28	Milly	_	Word	Word	_	27	Terminal	27:Terminal	_
+29	.	_	Punctuation	Punctuation	_	25	U	25:U	_
+

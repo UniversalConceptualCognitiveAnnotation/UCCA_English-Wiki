@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 128001
+# text = Jed Harris , one of the most successful theatre producers of the 1920s , was going through a career slump .
+1	Jed	_	Word	Word	_	20	A	20:A	_
+2	Harris	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+4	one	_	Word	Word	_	8	Q	8:Q	_
+5	of	_	Word	Word	_	8	F	8:F	_
+6	the	_	Word	Word	_	8	E	8:E	_
+7	most	_	Word	Word	_	8	E	8:E	_
+8	successful	_	Word	Word	_	9	D	9:D	_
+9	theatre	_	Word	Word	_	1	E	1:E	_
+10	producers	_	Word	Word	_	9	A	9:A	_
+11	of	_	Word	Word	_	13	R	13:R	_
+12	the	_	Word	Word	_	13	E	13:E	_
+13	1920s	_	Word	Word	_	9	T	9:T	_
+14	,	_	Punctuation	Punctuation	_	20	U	20:U	_
+15	was	_	Word	Word	_	20	F	20:F	_
+16	going	_	Word	Word	_	20	F	20:F	_
+17	through	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	a	_	Word	Word	_	20	E	20:E	_
+19	career	_	Word	Word	_	20	A	20:A	_
+20	slump	_	Word	Word	_	0	H	0:H	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+

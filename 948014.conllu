@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 948014
+# text = In December 2005 , Stefani and Rossdale announced that they were expecting their first child together .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	December	_	Word	Word	_	8	T	8:T	_
+3	2005	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+5	Stefani	_	Word	Word	_	8	A	8:A	_
+6	and	_	Word	Word	_	5	N	5:N	_
+7	Rossdale	_	Word	Word	_	5	C	5:C	_
+8	announced	_	Word	Word	_	0	H	0:H	_
+9	that	_	Word	Word	_	12	R	12:R	_
+10	they	_	Word	Word	_	12	A	12:A	_
+11	were	_	Word	Word	_	12	F	12:F	_
+12	expecting	_	Word	Word	_	8	A	8:A	_
+13	their	_	Word	Word	_	15	A	15:A	_
+14	first	_	Word	Word	_	15	D	15:D	_
+15	child	_	Word	Word	_	12	A	12:A	_
+16	together	_	Word	Word	_	15	F	15:F	_
+17	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

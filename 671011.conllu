@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 671011
+# text = The Adventures of Mimi " DVD was released in November 2007 internationally and December 2007 in the US .
+1	The	_	Word	Word	_	6	E	6:E	_
+2	Adventures	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	of	_	Word	Word	_	1	Terminal	1:Terminal	_
+4	Mimi	_	Word	Word	_	1	Terminal	1:Terminal	_
+5	"	_	Punctuation	Punctuation	_	6	U	6:U	_
+6	DVD	_	Word	Word	_	0	C	0:C|18:A	_
+7	was	_	Word	Word	_	8	F	8:F	_
+8	released	_	Word	Word	_	0	H	0:H	_
+9	in	_	Word	Word	_	10	R	10:R	_
+10	November	_	Word	Word	_	8	D	8:D	_
+11	2007	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	internationally	_	Word	Word	_	8	A	8:A	_
+13	and	_	Word	Word	_	18	L	18:L	_
+14	December	_	Word	Word	_	18	D	18:D	_
+15	2007	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	in	_	Word	Word	_	18	R	18:R	_
+17	the	_	Word	Word	_	18	E	18:E	_
+18	US	_	Word	Word	_	8	H	8:H	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

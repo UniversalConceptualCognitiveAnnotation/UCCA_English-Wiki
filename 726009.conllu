@@ -1,0 +1,36 @@
+# format = ucca
+# sent_id = 726009
+# text = An adaptation of the popular Tomb Raider videogame , Jolie was required to learn an English accent and undergo extensive martial arts training to play the title role of Lara Croft .
+1	An	_	Word	Word	_	2	E	2:E	_
+2	adaptation	_	Word	Word	_	0	H	0:H	_
+3	of	_	Word	Word	_	6	R	6:R	_
+4	the	_	Word	Word	_	6	E	6:E	_
+5	popular	_	Word	Word	_	6	E	6:E	_
+6	Tomb	_	Word	Word	_	2	E	2:E	_
+7	Raider	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	videogame	_	Word	Word	_	6	E	6:E	_
+9	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+10	Jolie	_	Word	Word	_	14	A	14:A|23:A|25:A	_
+11	was	_	Word	Word	_	14	F	14:F	_
+12	required	_	Word	Word	_	14	D	14:D|23:D	_
+13	to	_	Word	Word	_	14	F	14:F	_
+14	learn	_	Word	Word	_	2	H	2:H	_
+15	an	_	Word	Word	_	17	E	17:E	_
+16	English	_	Word	Word	_	17	E	17:E	_
+17	accent	_	Word	Word	_	14	A	14:A	_
+18	and	_	Word	Word	_	23	L	23:L	_
+19	undergo	_	Word	Word	_	23	F	23:F	_
+20	extensive	_	Word	Word	_	23	D	23:D	_
+21	martial	_	Word	Word	_	23	A	23:A	_
+22	arts	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	training	_	Word	Word	_	2	H	2:H	_
+24	to	_	Word	Word	_	25	L	25:L	_
+25	play	_	Word	Word	_	2	H	2:H	_
+26	the	_	Word	Word	_	28	E	28:E	_
+27	title	_	Word	Word	_	28	E	28:E	_
+28	role	_	Word	Word	_	25	A	25:A	_
+29	of	_	Word	Word	_	30	R	30:R	_
+30	Lara	_	Word	Word	_	28	E	28:E	_
+31	Croft	_	Word	Word	_	30	Terminal	30:Terminal	_
+32	.	_	Punctuation	Punctuation	_	30	U	30:U	_
+

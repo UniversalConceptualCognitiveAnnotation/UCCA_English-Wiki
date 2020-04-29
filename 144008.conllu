@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 144008
+# text = She returned to television screens in 1992 for The Man Upstairs , co-starring Ryan O'Neal , for which she received a Golden Globe nomination .
+1	She	_	Word	Word	_	2	A	2:A	_
+2	returned	_	Word	Word	_	0	H	0:H	_
+3	to	_	Word	Word	_	5	R	5:R	_
+4	television	_	Word	Word	_	5	E	5:E	_
+5	screens	_	Word	Word	_	2	A	2:A	_
+6	in	_	Word	Word	_	7	R	7:R	_
+7	1992	_	Word	Word	_	2	T	2:T	_
+8	for	_	Word	Word	_	9	R	9:R	_
+9	The	_	Word	Word	_	2	A	2:A	_
+10	Man	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	Upstairs	_	Word	Word	_	9	Terminal	9:Terminal	_
+12	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+13	co-starring	_	Word	Word	_	9	E	9:E	_
+14	Ryan	_	Word	Word	_	13	A	13:A	_
+15	O'Neal	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+17	for	_	Word	Word	_	18	R	18:R	_
+18	which	_	Word	Word	_	24	L	24:L	_
+19	she	_	Word	Word	_	24	A	24:A	_
+20	received	_	Word	Word	_	24	D	24:D	_
+21	a	_	Word	Word	_	24	E	24:E	_
+22	Golden	_	Word	Word	_	24	A	24:A	_
+23	Globe	_	Word	Word	_	22	Terminal	22:Terminal	_
+24	nomination	_	Word	Word	_	2	H	2:H	_
+25	.	_	Punctuation	Punctuation	_	24	U	24:U	_
+

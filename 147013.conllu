@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 147013
+# text = They first met while Hepburn was filming Sylvia Scarlett , when they were introduced by their mutual friend Cary Grant .
+1	They	_	Word	Word	_	3	A	3:A	_
+2	first	_	Word	Word	_	3	D	3:D	_
+3	met	_	Word	Word	_	0	H	0:H	_
+4	while	_	Word	Word	_	7	L	7:L	_
+5	Hepburn	_	Word	Word	_	7	A	7:A	_
+6	was	_	Word	Word	_	7	F	7:F	_
+7	filming	_	Word	Word	_	3	H	3:H	_
+8	Sylvia	_	Word	Word	_	7	A	7:A	_
+9	Scarlett	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+11	when	_	Word	Word	_	14	L	14:L	_
+12	they	_	Word	Word	_	14	A	14:A	_
+13	were	_	Word	Word	_	14	F	14:F	_
+14	introduced	_	Word	Word	_	3	H	3:H	_
+15	by	_	Word	Word	_	19	R	19:R	_
+16	their	_	Word	Word	_	19	E	19:E	_
+17	mutual	_	Word	Word	_	16	D	16:D	_
+18	friend	_	Word	Word	_	16	A	16:A	_
+19	Cary	_	Word	Word	_	14	A	14:A	_
+20	Grant	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

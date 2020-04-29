@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 701014
+# text = Dylan contributed piano and harmony vocals to Steve Goodman 's album , Somebody Else 's Troubles , under the pseudonym Robert Milkwood Thomas in September 1972 .
+1	Dylan	_	Word	Word	_	2	A	2:A	_
+2	contributed	_	Word	Word	_	0	H	0:H	_
+3	piano	_	Word	Word	_	6	E	6:E	_
+4	and	_	Word	Word	_	3	N	3:N	_
+5	harmony	_	Word	Word	_	3	C	3:C	_
+6	vocals	_	Word	Word	_	2	A	2:A	_
+7	to	_	Word	Word	_	13	R	13:R	_
+8	Steve	_	Word	Word	_	10	A	10:A	_
+9	Goodman	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	's	_	Word	Word	_	11	E	11:E	_
+11	album	_	Word	Word	_	13	E	13:E	_
+12	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+13	Somebody	_	Word	Word	_	2	A	2:A	_
+14	Else	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	's	_	Word	Word	_	13	Terminal	13:Terminal	_
+16	Troubles	_	Word	Word	_	13	Terminal	13:Terminal	_
+17	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+18	under	_	Word	Word	_	21	R	21:R	_
+19	the	_	Word	Word	_	20	E	20:E	_
+20	pseudonym	_	Word	Word	_	21	E	21:E	_
+21	Robert	_	Word	Word	_	2	A	2:A	_
+22	Milkwood	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	Thomas	_	Word	Word	_	21	Terminal	21:Terminal	_
+24	in	_	Word	Word	_	25	R	25:R	_
+25	September	_	Word	Word	_	2	T	2:T	_
+26	1972	_	Word	Word	_	25	C	25:C	_
+27	.	_	Punctuation	Punctuation	_	25	U	25:U	_
+

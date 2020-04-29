@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 652011
+# text = The FBI admitted it had 281 pages of files on Lennon , but refused to release most of them on the grounds that they contained national security information .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	FBI	_	Word	Word	_	0	C	0:C|16:A	_
+3	admitted	_	Word	Word	_	0	H	0:H	_
+4	it	_	Word	Word	_	5	A	5:A	_
+5	had	_	Word	Word	_	3	A	3:A	_
+6	281	_	Word	Word	_	7	Q	7:Q	_
+7	pages	_	Word	Word	_	9	E	9:E	_
+8	of	_	Word	Word	_	9	R	9:R	_
+9	files	_	Word	Word	_	5	A	5:A	_
+10	on	_	Word	Word	_	11	R	11:R	_
+11	Lennon	_	Word	Word	_	5	A	5:A	_
+12	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+13	but	_	Word	Word	_	16	L	16:L	_
+14	refused	_	Word	Word	_	16	D	16:D	_
+15	to	_	Word	Word	_	16	F	16:F	_
+16	release	_	Word	Word	_	3	H	3:H	_
+17	most	_	Word	Word	_	19	Q	19:Q	_
+18	of	_	Word	Word	_	19	R	19:R	_
+19	them	_	Word	Word	_	16	A	16:A	_
+20	on	_	Word	Word	_	25	L	25:L	_
+21	the	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	grounds	_	Word	Word	_	20	Terminal	20:Terminal	_
+23	that	_	Word	Word	_	20	Terminal	20:Terminal	_
+24	they	_	Word	Word	_	25	A	25:A	_
+25	contained	_	Word	Word	_	3	H	3:H	_
+26	national	_	Word	Word	_	27	E	27:E	_
+27	security	_	Word	Word	_	28	E	28:E	_
+28	information	_	Word	Word	_	25	A	25:A	_
+29	.	_	Punctuation	Punctuation	_	28	U	28:U	_
+

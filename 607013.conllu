@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 607013
+# text = In 1985 , Warner Brothers commissioned McCartney to write a song for the comedic feature film Spies Like Us .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1985	_	Word	Word	_	6	T	6:T	_
+3	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+4	Warner	_	Word	Word	_	6	A	6:A	_
+5	Brothers	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	commissioned	_	Word	Word	_	0	H	0:H	_
+7	McCartney	_	Word	Word	_	6	A	6:A|9:A	_
+8	to	_	Word	Word	_	9	F	9:F	_
+9	write	_	Word	Word	_	6	A	6:A	_
+10	a	_	Word	Word	_	11	E	11:E	_
+11	song	_	Word	Word	_	9	A	9:A	_
+12	for	_	Word	Word	_	17	R	17:R	_
+13	the	_	Word	Word	_	16	F	16:F	_
+14	comedic	_	Word	Word	_	16	E	16:E	_
+15	feature	_	Word	Word	_	16	E	16:E	_
+16	film	_	Word	Word	_	17	E	17:E	_
+17	Spies	_	Word	Word	_	9	A	9:A	_
+18	Like	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	Us	_	Word	Word	_	17	Terminal	17:Terminal	_
+20	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+

@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 489014
+# text = In the film , Bana played Nero , a Romulan mining ship captain who attempts to exact revenge on Spock , whom he blames for the destruction of his homeworld and its inhabitants .
+1	In	_	Word	Word	_	3	R	3:R	_
+2	the	_	Word	Word	_	3	E	3:E	_
+3	film	_	Word	Word	_	6	A	6:A	_
+4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	Bana	_	Word	Word	_	6	A	6:A	_
+6	played	_	Word	Word	_	0	H	0:H	_
+7	Nero	_	Word	Word	_	6	A	6:A	_
+8	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	a	_	Word	Word	_	13	F	13:F	_
+10	Romulan	_	Word	Word	_	13	E	13:E	_
+11	mining	_	Word	Word	_	12	E	12:E	_
+12	ship	_	Word	Word	_	13	A	13:A	_
+13	captain	_	Word	Word	_	0	S	0:S|10:A|15:A|18:A	_
+14	who	_	Word	Word	_	15	R	15:R	_
+15	attempts	_	Word	Word	_	13	E	13:E	_
+16	to	_	Word	Word	_	18	F	18:F	_
+17	exact	_	Word	Word	_	18	D	18:D	_
+18	revenge	_	Word	Word	_	15	A	15:A	_
+19	on	_	Word	Word	_	20	R	20:R	_
+20	Spock	_	Word	Word	_	18	A	18:A	_
+21	,	_	Punctuation	Punctuation	_	20	U	20:U	_
+22	whom	_	Word	Word	_	24	R	24:R	_
+23	he	_	Word	Word	_	24	A	24:A	_
+24	blames	_	Word	Word	_	20	E	20:E	_
+25	for	_	Word	Word	_	27	R	27:R	_
+26	the	_	Word	Word	_	27	E	27:E	_
+27	destruction	_	Word	Word	_	24	A	24:A	_
+28	of	_	Word	Word	_	30	R	30:R	_
+29	his	_	Word	Word	_	30	E	30:E	_
+30	homeworld	_	Word	Word	_	27	A	27:A	_
+31	and	_	Word	Word	_	30	N	30:N	_
+32	its	_	Word	Word	_	33	A	33:A	_
+33	inhabitants	_	Word	Word	_	30	C	30:C	_
+34	.	_	Punctuation	Punctuation	_	33	U	33:U	_
+

@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 567009
+# text = Frank Sinatra , who had famously inspired the swooning of teenaged girls in the 1940s , condemned the new musical phenomenon .
+1	Frank	_	Word	Word	_	17	A	17:A	_
+2	Sinatra	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+4	who	_	Word	Word	_	7	R	7:R	_
+5	had	_	Word	Word	_	7	F	7:F	_
+6	famously	_	Word	Word	_	7	D	7:D	_
+7	inspired	_	Word	Word	_	1	E	1:E	_
+8	the	_	Word	Word	_	9	E	9:E	_
+9	swooning	_	Word	Word	_	7	A	7:A	_
+10	of	_	Word	Word	_	12	R	12:R	_
+11	teenaged	_	Word	Word	_	12	E	12:E	_
+12	girls	_	Word	Word	_	9	A	9:A	_
+13	in	_	Word	Word	_	15	R	15:R	_
+14	the	_	Word	Word	_	15	E	15:E	_
+15	1940s	_	Word	Word	_	9	T	9:T	_
+16	,	_	Punctuation	Punctuation	_	17	U	17:U	_
+17	condemned	_	Word	Word	_	0	H	0:H	_
+18	the	_	Word	Word	_	21	F	21:F	_
+19	new	_	Word	Word	_	21	D	21:D	_
+20	musical	_	Word	Word	_	21	A	21:A	_
+21	phenomenon	_	Word	Word	_	17	A	17:A	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

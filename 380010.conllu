@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 380010
+# text = He played Robert Graysmith , a San Francisco Chronicle cartoonist and author of two books about the Zodiac serial killer .
+1	He	_	Word	Word	_	2	A	2:A	_
+2	played	_	Word	Word	_	0	H	0:H	_
+3	Robert	_	Word	Word	_	2	A	2:A	_
+4	Graysmith	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+6	a	_	Word	Word	_	10	F	10:F	_
+7	San	_	Word	Word	_	10	A	10:A	_
+8	Francisco	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	Chronicle	_	Word	Word	_	7	Terminal	7:Terminal	_
+10	cartoonist	_	Word	Word	_	3	E	3:E	_
+11	and	_	Word	Word	_	10	N	10:N	_
+12	author	_	Word	Word	_	10	C	10:C	_
+13	of	_	Word	Word	_	15	R	15:R	_
+14	two	_	Word	Word	_	15	Q	15:Q	_
+15	books	_	Word	Word	_	12	A	12:A	_
+16	about	_	Word	Word	_	18	R	18:R	_
+17	the	_	Word	Word	_	18	F	18:F	_
+18	Zodiac	_	Word	Word	_	15	E	15:E	_
+19	serial	_	Word	Word	_	20	A	20:A	_
+20	killer	_	Word	Word	_	18	E	18:E	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+

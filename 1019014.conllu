@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 1019014
+# text = Jackson first spoke openly about his childhood abuse in an interview with Oprah Winfrey , broadcast in February 1993 .
+1	Jackson	_	Word	Word	_	3	A	3:A|11:A	_
+2	first	_	Word	Word	_	3	D	3:D	_
+3	spoke	_	Word	Word	_	0	H	0:H	_
+4	openly	_	Word	Word	_	3	D	3:D	_
+5	about	_	Word	Word	_	8	R	8:R	_
+6	his	_	Word	Word	_	8	A	8:A	_
+7	childhood	_	Word	Word	_	8	A	8:A	_
+8	abuse	_	Word	Word	_	3	A	3:A	_
+9	in	_	Word	Word	_	16	L	16:L	_
+10	an	_	Word	Word	_	11	E	11:E	_
+11	interview	_	Word	Word	_	0	C	0:C|16:A	_
+12	with	_	Word	Word	_	13	R	13:R	_
+13	Oprah	_	Word	Word	_	11	A	11:A	_
+14	Winfrey	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+16	broadcast	_	Word	Word	_	3	H	3:H	_
+17	in	_	Word	Word	_	18	R	18:R	_
+18	February	_	Word	Word	_	16	T	16:T	_
+19	1993	_	Word	Word	_	18	C	18:C	_
+20	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

@@ -1,0 +1,49 @@
+# format = ucca
+# sent_id = 1027014
+# text = Thanks to the Bad album , Bruce Swedien and Humberto Gatica won one Grammy in 1988 for Best Engineered Recording - Non Classical and Michael Jackson won one Grammy for Best Music Video , Short Form for " Leave Me Alone " in 1989 .
+1	Thanks	_	Word	Word	_	0	H	0:H	_
+2	to	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	the	_	Word	Word	_	4	E	4:E	_
+4	Bad	_	Word	Word	_	1	A	1:A	_
+5	album	_	Word	Word	_	4	E	4:E	_
+6	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+7	Bruce	_	Word	Word	_	12	A	12:A	_
+8	Swedien	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	and	_	Word	Word	_	7	N	7:N	_
+10	Humberto	_	Word	Word	_	7	C	7:C	_
+11	Gatica	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	won	_	Word	Word	_	1	A	1:A	_
+13	one	_	Word	Word	_	14	Q	14:Q	_
+14	Grammy	_	Word	Word	_	12	A	12:A	_
+15	in	_	Word	Word	_	16	R	16:R	_
+16	1988	_	Word	Word	_	12	T	12:T	_
+17	for	_	Word	Word	_	20	R	20:R	_
+18	Best	_	Word	Word	_	19	D	19:D	_
+19	Engineered	_	Word	Word	_	20	E	20:E	_
+20	Recording	_	Word	Word	_	12	A	12:A	_
+21	-	_	Punctuation	Punctuation	_	20	U	20:U	_
+22	Non	_	Word	Word	_	23	E	23:E	_
+23	Classical	_	Word	Word	_	20	E	20:E	_
+24	and	_	Word	Word	_	27	L	27:L	_
+25	Michael	_	Word	Word	_	27	A	27:A	_
+26	Jackson	_	Word	Word	_	25	Terminal	25:Terminal	_
+27	won	_	Word	Word	_	1	H	1:H	_
+28	one	_	Word	Word	_	29	Q	29:Q	_
+29	Grammy	_	Word	Word	_	27	A	27:A	_
+30	for	_	Word	Word	_	33	R	33:R	_
+31	Best	_	Word	Word	_	33	E	33:E	_
+32	Music	_	Word	Word	_	33	E	33:E	_
+33	Video	_	Word	Word	_	29	E	29:E	_
+34	,	_	Punctuation	Punctuation	_	33	U	33:U	_
+35	Short	_	Word	Word	_	33	E	33:E	_
+36	Form	_	Word	Word	_	35	C	35:C	_
+37	for	_	Word	Word	_	39	R	39:R	_
+38	"	_	Punctuation	Punctuation	_	39	U	39:U	_
+39	Leave	_	Word	Word	_	27	A	27:A	_
+40	Me	_	Word	Word	_	39	Terminal	39:Terminal	_
+41	Alone	_	Word	Word	_	39	Terminal	39:Terminal	_
+42	"	_	Punctuation	Punctuation	_	27	U	27:U	_
+43	in	_	Word	Word	_	44	R	44:R	_
+44	1989	_	Word	Word	_	27	T	27:T	_
+45	.	_	Punctuation	Punctuation	_	44	U	44:U	_
+

@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 552003
+# text = During the next several years , he gradually lost the ability to speak and became unresponsive to friends and relatives .
+1	During	_	Word	Word	_	5	R	5:R	_
+2	the	_	Word	Word	_	5	F	5:F	_
+3	next	_	Word	Word	_	5	E	5:E	_
+4	several	_	Word	Word	_	5	Q	5:Q	_
+5	years	_	Word	Word	_	11	T	11:T	_
+6	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+7	he	_	Word	Word	_	11	A	11:A|13:A|16:A|18:A|20:A	_
+8	gradually	_	Word	Word	_	9	E	9:E	_
+9	lost	_	Word	Word	_	11	D	11:D	_
+10	the	_	Word	Word	_	11	F	11:F	_
+11	ability	_	Word	Word	_	0	H	0:H	_
+12	to	_	Word	Word	_	13	F	13:F	_
+13	speak	_	Word	Word	_	11	A	11:A	_
+14	and	_	Word	Word	_	16	L	16:L	_
+15	became	_	Word	Word	_	16	D	16:D	_
+16	unresponsive	_	Word	Word	_	11	H	11:H	_
+17	to	_	Word	Word	_	18	R	18:R|20:R	_
+18	friends	_	Word	Word	_	16	A	16:A	_
+19	and	_	Word	Word	_	20	L	20:L	_
+20	relatives	_	Word	Word	_	18	H	18:H	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+

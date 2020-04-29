@@ -1,0 +1,37 @@
+# format = ucca
+# sent_id = 672002
+# text = Carey and actor / comedian Nick Cannon met while they shot her music video for her second single , " Bye Bye " , on an island off the coast of Antigua .
+1	Carey	_	Word	Word	_	8	A	8:A	_
+2	and	_	Word	Word	_	1	N	1:N	_
+3	actor	_	Word	Word	_	6	E	6:E	_
+4	/	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	comedian	_	Word	Word	_	3	H	3:H	_
+6	Nick	_	Word	Word	_	1	C	1:C	_
+7	Cannon	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	met	_	Word	Word	_	0	H	0:H	_
+9	while	_	Word	Word	_	11	L	11:L	_
+10	they	_	Word	Word	_	11	A	11:A	_
+11	shot	_	Word	Word	_	8	H	8:H	_
+12	her	_	Word	Word	_	14	E	14:E	_
+13	music	_	Word	Word	_	14	E	14:E	_
+14	video	_	Word	Word	_	11	A	11:A	_
+15	for	_	Word	Word	_	21	R	21:R	_
+16	her	_	Word	Word	_	18	E	18:E	_
+17	second	_	Word	Word	_	18	Q	18:Q	_
+18	single	_	Word	Word	_	21	E	21:E	_
+19	,	_	Punctuation	Punctuation	_	21	U	21:U	_
+20	"	_	Punctuation	Punctuation	_	21	U	21:U	_
+21	Bye	_	Word	Word	_	11	A	11:A	_
+22	Bye	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	"	_	Punctuation	Punctuation	_	11	U	11:U	_
+24	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+25	on	_	Word	Word	_	27	R	27:R	_
+26	an	_	Word	Word	_	27	F	27:F	_
+27	island	_	Word	Word	_	11	A	11:A	_
+28	off	_	Word	Word	_	32	R	32:R	_
+29	the	_	Word	Word	_	32	E	32:E	_
+30	coast	_	Word	Word	_	32	E	32:E	_
+31	of	_	Word	Word	_	32	R	32:R	_
+32	Antigua	_	Word	Word	_	27	E	27:E	_
+33	.	_	Punctuation	Punctuation	_	32	U	32:U	_
+

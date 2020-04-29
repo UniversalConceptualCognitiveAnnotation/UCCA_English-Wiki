@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 131012
+# text = The Philadelphia Story first toured the United States , to positive reviews , and then opened in New York at the Schubert Theatre on March 29 , 1939 .
+1	The	_	Word	Word	_	5	A	5:A|12:A|16:A	_
+2	Philadelphia	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	Story	_	Word	Word	_	1	Terminal	1:Terminal	_
+4	first	_	Word	Word	_	5	D	5:D	_
+5	toured	_	Word	Word	_	0	H	0:H	_
+6	the	_	Word	Word	_	7	E	7:E	_
+7	United	_	Word	Word	_	5	A	5:A	_
+8	States	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+10	to	_	Word	Word	_	12	L	12:L	_
+11	positive	_	Word	Word	_	12	D	12:D	_
+12	reviews	_	Word	Word	_	5	H	5:H	_
+13	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+14	and	_	Word	Word	_	15	E	15:E	_
+15	then	_	Word	Word	_	16	L	16:L	_
+16	opened	_	Word	Word	_	5	H	5:H	_
+17	in	_	Word	Word	_	18	R	18:R	_
+18	New	_	Word	Word	_	16	A	16:A	_
+19	York	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	at	_	Word	Word	_	22	R	22:R	_
+21	the	_	Word	Word	_	22	E	22:E	_
+22	Schubert	_	Word	Word	_	16	A	16:A	_
+23	Theatre	_	Word	Word	_	22	Terminal	22:Terminal	_
+24	on	_	Word	Word	_	25	R	25:R	_
+25	March	_	Word	Word	_	16	T	16:T	_
+26	29	_	Word	Word	_	25	C	25:C	_
+27	,	_	Punctuation	Punctuation	_	25	U	25:U	_
+28	1939	_	Word	Word	_	25	C	25:C	_
+29	.	_	Punctuation	Punctuation	_	25	U	25:U	_
+

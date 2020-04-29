@@ -1,0 +1,54 @@
+# format = ucca
+# sent_id = 600006
+# text = She rode a bicycle to her patients ; McCartney described an early memory of her leaving at " about three in the morning [ the ] streets ... thick with snow " . On 31 October 1956 , when McCartney was fourteen , his mother died of an embolism .
+1	She	_	Word	Word	_	2	A	2:A	_
+2	rode	_	Word	Word	_	0	H	0:H	_
+3	a	_	Word	Word	_	4	E	4:E	_
+4	bicycle	_	Word	Word	_	2	A	2:A	_
+5	to	_	Word	Word	_	7	R	7:R	_
+6	her	_	Word	Word	_	7	A	7:A	_
+7	patients	_	Word	Word	_	2	A	2:A	_
+8	;	_	Punctuation	Punctuation	_	2	U	2:U	_
+9	McCartney	_	Word	Word	_	10	A	10:A	_
+10	described	_	Word	Word	_	2	H	2:H	_
+11	an	_	Word	Word	_	13	E	13:E	_
+12	early	_	Word	Word	_	13	E	13:E	_
+13	memory	_	Word	Word	_	10	A	10:A	_
+14	of	_	Word	Word	_	16	R	16:R	_
+15	her	_	Word	Word	_	16	A	16:A	_
+16	leaving	_	Word	Word	_	13	E	13:E	_
+17	at	_	Word	Word	_	20	R	20:R	_
+18	"	_	Punctuation	Punctuation	_	20	U	20:U	_
+19	about	_	Word	Word	_	20	E	20:E	_
+20	three	_	Word	Word	_	16	T	16:T	_
+21	in	_	Word	Word	_	23	R	23:R	_
+22	the	_	Word	Word	_	23	E	23:E	_
+23	morning	_	Word	Word	_	20	C	20:C	_
+24	[	_	Punctuation	Punctuation	_	16	U	16:U	_
+25	the	_	Word	Word	_	27	E	27:E	_
+26	]	_	Punctuation	Punctuation	_	27	U	27:U	_
+27	streets	_	Word	Word	_	29	A	29:A	_
+28	...	_	Punctuation	Punctuation	_	29	U	29:U	_
+29	thick	_	Word	Word	_	16	H	16:H	_
+30	with	_	Word	Word	_	31	R	31:R	_
+31	snow	_	Word	Word	_	29	A	29:A	_
+32	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+33	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+34	On	_	Word	Word	_	35	R	35:R	_
+35	31	_	Word	Word	_	46	T	46:T	_
+36	October	_	Word	Word	_	35	C	35:C	_
+37	1956	_	Word	Word	_	35	C	35:C	_
+38	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+39	when	_	Word	Word	_	40	L	40:L	_
+40	McCartney	_	Word	Word	_	2	H	2:H	_
+41	was	_	Word	Word	_	40	F	40:F	_
+42	fourteen	_	Word	Word	_	40	A	40:A	_
+43	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+44	his	_	Word	Word	_	45	A	45:A	_
+45	mother	_	Word	Word	_	46	A	46:A	_
+46	died	_	Word	Word	_	2	H	2:H	_
+47	of	_	Word	Word	_	49	R	49:R	_
+48	an	_	Word	Word	_	49	E	49:E	_
+49	embolism	_	Word	Word	_	46	A	46:A	_
+50	.	_	Punctuation	Punctuation	_	49	U	49:U	_
+

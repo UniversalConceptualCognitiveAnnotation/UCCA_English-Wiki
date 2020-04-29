@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 666004
+# text = The album , titled Rainbow ( 1999 ) , found Carey once again working with a new array of music producers and songwriters , such as Jay - Z and DJ Clue ? .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	album	_	Word	Word	_	4	A	4:A	_
+3	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+4	titled	_	Word	Word	_	14	A	14:A	_
+5	Rainbow	_	Word	Word	_	4	A	4:A	_
+6	(	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	1999	_	Word	Word	_	5	E	5:E	_
+8	)	_	Punctuation	Punctuation	_	14	U	14:U	_
+9	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+10	found	_	Word	Word	_	14	F	14:F	_
+11	Carey	_	Word	Word	_	14	A	14:A	_
+12	once	_	Word	Word	_	13	E	13:E	_
+13	again	_	Word	Word	_	14	D	14:D	_
+14	working	_	Word	Word	_	0	H	0:H	_
+15	with	_	Word	Word	_	21	R	21:R	_
+16	a	_	Word	Word	_	21	E	21:E	_
+17	new	_	Word	Word	_	21	E	21:E	_
+18	array	_	Word	Word	_	21	E	21:E	_
+19	of	_	Word	Word	_	18	R	18:R	_
+20	music	_	Word	Word	_	21	E	21:E	_
+21	producers	_	Word	Word	_	14	A	14:A	_
+22	and	_	Word	Word	_	21	N	21:N	_
+23	songwriters	_	Word	Word	_	21	C	21:C	_
+24	,	_	Punctuation	Punctuation	_	21	U	21:U	_
+25	such	_	Word	Word	_	27	R	27:R	_
+26	as	_	Word	Word	_	25	Terminal	25:Terminal	_
+27	Jay	_	Word	Word	_	21	E	21:E	_
+28	-	_	Punctuation	Punctuation	_	27	U	27:U	_
+29	Z	_	Word	Word	_	27	Terminal	27:Terminal	_
+30	and	_	Word	Word	_	27	N	27:N	_
+31	DJ	_	Word	Word	_	27	C	27:C	_
+32	Clue	_	Word	Word	_	31	Terminal	31:Terminal	_
+33	?	_	Punctuation	Punctuation	_	27	U	27:U	_
+34	.	_	Punctuation	Punctuation	_	27	U	27:U	_
+

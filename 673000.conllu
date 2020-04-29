@@ -1,0 +1,37 @@
+# format = ucca
+# sent_id = 673000
+# text = On January 20 , 2009 , Carey performed " Hero " at the Neighborhood Inaugural Ball after Barack Obama was sworn as the first African - American president of the United States .
+1	On	_	Word	Word	_	2	R	2:R	_
+2	January	_	Word	Word	_	8	T	8:T	_
+3	20	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	2009	_	Word	Word	_	2	C	2:C	_
+6	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	Carey	_	Word	Word	_	8	A	8:A	_
+8	performed	_	Word	Word	_	0	H	0:H	_
+9	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+10	Hero	_	Word	Word	_	8	A	8:A	_
+11	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+12	at	_	Word	Word	_	16	L	16:L	_
+13	the	_	Word	Word	_	16	F	16:F	_
+14	Neighborhood	_	Word	Word	_	16	A	16:A	_
+15	Inaugural	_	Word	Word	_	16	T	16:T	_
+16	Ball	_	Word	Word	_	8	H	8:H	_
+17	after	_	Word	Word	_	21	L	21:L	_
+18	Barack	_	Word	Word	_	21	A	21:A	_
+19	Obama	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	was	_	Word	Word	_	21	F	21:F	_
+21	sworn	_	Word	Word	_	8	H	8:H	_
+22	as	_	Word	Word	_	28	R	28:R	_
+23	the	_	Word	Word	_	28	F	28:F	_
+24	first	_	Word	Word	_	27	D	27:D	_
+25	African	_	Word	Word	_	27	E	27:E	_
+26	-	_	Punctuation	Punctuation	_	27	U	27:U	_
+27	American	_	Word	Word	_	28	E	28:E	_
+28	president	_	Word	Word	_	0	P	0:P|27:A	_
+29	of	_	Word	Word	_	31	R	31:R	_
+30	the	_	Word	Word	_	31	E	31:E	_
+31	United	_	Word	Word	_	28	A	28:A	_
+32	States	_	Word	Word	_	31	Terminal	31:Terminal	_
+33	.	_	Punctuation	Punctuation	_	31	U	31:U	_
+

@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 490020
+# text = On 21 April 2007 Bana crashed his 1974 XB Falcon Coupe in the Targa Tasmania rally .
+1	On	_	Word	Word	_	2	R	2:R	_
+2	21	_	Word	Word	_	6	T	6:T	_
+3	April	_	Word	Word	_	2	C	2:C	_
+4	2007	_	Word	Word	_	2	C	2:C	_
+5	Bana	_	Word	Word	_	6	A	6:A	_
+6	crashed	_	Word	Word	_	0	H	0:H	_
+7	his	_	Word	Word	_	9	E	9:E	_
+8	1974	_	Word	Word	_	9	E	9:E	_
+9	XB	_	Word	Word	_	6	A	6:A	_
+10	Falcon	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	Coupe	_	Word	Word	_	9	E	9:E	_
+12	in	_	Word	Word	_	14	R	14:R	_
+13	the	_	Word	Word	_	14	E	14:E	_
+14	Targa	_	Word	Word	_	6	A	6:A	_
+15	Tasmania	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	rally	_	Word	Word	_	14	E	14:E	_
+17	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

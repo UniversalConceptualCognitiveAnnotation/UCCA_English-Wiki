@@ -1,0 +1,36 @@
+# format = ucca
+# sent_id = 234001
+# text = In a Clean Hong Kong commercial , he urged the people of Hong Kong to be more considerate with regards to littering , a problem that has been widespread for decades .
+1	In	_	Word	Word	_	6	R	6:R	_
+2	a	_	Word	Word	_	6	F	6:F	_
+3	Clean	_	Word	Word	_	6	E	6:E	_
+4	Hong	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	Kong	_	Word	Word	_	3	Terminal	3:Terminal	_
+6	commercial	_	Word	Word	_	9	A	9:A	_
+7	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+8	he	_	Word	Word	_	9	A	9:A	_
+9	urged	_	Word	Word	_	0	H	0:H	_
+10	the	_	Word	Word	_	11	F	11:F	_
+11	people	_	Word	Word	_	9	A	9:A	_
+12	of	_	Word	Word	_	13	R	13:R	_
+13	Hong	_	Word	Word	_	11	E	11:E	_
+14	Kong	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	to	_	Word	Word	_	18	F	18:F	_
+16	be	_	Word	Word	_	18	F	18:F	_
+17	more	_	Word	Word	_	18	D	18:D	_
+18	considerate	_	Word	Word	_	9	A	9:A	_
+19	with	_	Word	Word	_	20	R	20:R	_
+20	regards	_	Word	Word	_	22	R	22:R	_
+21	to	_	Word	Word	_	20	R	20:R	_
+22	littering	_	Word	Word	_	18	A	18:A	_
+23	,	_	Punctuation	Punctuation	_	22	U	22:U	_
+24	a	_	Word	Word	_	25	F	25:F	_
+25	problem	_	Word	Word	_	22	E	22:E	_
+26	that	_	Word	Word	_	29	R	29:R	_
+27	has	_	Word	Word	_	29	F	29:F	_
+28	been	_	Word	Word	_	29	F	29:F	_
+29	widespread	_	Word	Word	_	25	E	25:E	_
+30	for	_	Word	Word	_	31	R	31:R	_
+31	decades	_	Word	Word	_	29	T	29:T	_
+32	.	_	Punctuation	Punctuation	_	31	U	31:U	_
+

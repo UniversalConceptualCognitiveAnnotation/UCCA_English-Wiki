@@ -1,0 +1,51 @@
+# format = ucca
+# sent_id = 669008
+# text = However , while smaller productions were booked throughout the tour 's stateside leg , Carey performed at stadiums in Asia and Europe , performing for a crowd of over , 35,000 , in Manila , 50,000 in Malaysia , and to over 70,000 people in China .
+1	However	_	Word	Word	_	16	L	16:L	_
+2	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+3	while	_	Word	Word	_	1	Terminal	1:Terminal	_
+4	smaller	_	Word	Word	_	5	E	5:E	_
+5	productions	_	Word	Word	_	7	A	7:A	_
+6	were	_	Word	Word	_	7	F	7:F	_
+7	booked	_	Word	Word	_	0	H	0:H	_
+8	throughout	_	Word	Word	_	13	R	13:R	_
+9	the	_	Word	Word	_	13	E	13:E	_
+10	tour	_	Word	Word	_	13	E	13:E	_
+11	's	_	Word	Word	_	10	R	10:R	_
+12	stateside	_	Word	Word	_	13	E	13:E	_
+13	leg	_	Word	Word	_	7	A	7:A	_
+14	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+15	Carey	_	Word	Word	_	16	A	16:A|24:A	_
+16	performed	_	Word	Word	_	7	H	7:H	_
+17	at	_	Word	Word	_	18	R	18:R	_
+18	stadiums	_	Word	Word	_	16	A	16:A	_
+19	in	_	Word	Word	_	20	R	20:R	_
+20	Asia	_	Word	Word	_	18	E	18:E	_
+21	and	_	Word	Word	_	20	N	20:N	_
+22	Europe	_	Word	Word	_	20	C	20:C	_
+23	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+24	performing	_	Word	Word	_	7	H	7:H	_
+25	for	_	Word	Word	_	27	R	27:R	_
+26	a	_	Word	Word	_	27	E	27:E	_
+27	crowd	_	Word	Word	_	24	A	24:A	_
+28	of	_	Word	Word	_	27	R	27:R	_
+29	over	_	Word	Word	_	31	R	31:R	_
+30	,	_	Punctuation	Punctuation	_	31	U	31:U	_
+31	35,000	_	Word	Word	_	27	E	27:E	_
+32	,	_	Punctuation	Punctuation	_	31	U	31:U	_
+33	in	_	Word	Word	_	34	R	34:R	_
+34	Manila	_	Word	Word	_	31	E	31:E	_
+35	,	_	Punctuation	Punctuation	_	31	U	31:U	_
+36	50,000	_	Word	Word	_	31	C	31:C	_
+37	in	_	Word	Word	_	38	R	38:R	_
+38	Malaysia	_	Word	Word	_	36	E	36:E	_
+39	,	_	Punctuation	Punctuation	_	31	U	31:U	_
+40	and	_	Word	Word	_	31	N	31:N	_
+41	to	_	Word	Word	_	44	R	44:R	_
+42	over	_	Word	Word	_	44	E	44:E	_
+43	70,000	_	Word	Word	_	44	E	44:E	_
+44	people	_	Word	Word	_	31	C	31:C	_
+45	in	_	Word	Word	_	46	R	46:R	_
+46	China	_	Word	Word	_	44	E	44:E	_
+47	.	_	Punctuation	Punctuation	_	46	U	46:U	_
+

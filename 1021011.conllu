@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 1021011
+# text = Jones and Jackson produced the Off the Wall album together .
+1	Jones	_	Word	Word	_	4	A	4:A	_
+2	and	_	Word	Word	_	1	N	1:N	_
+3	Jackson	_	Word	Word	_	1	C	1:C	_
+4	produced	_	Word	Word	_	0	H	0:H	_
+5	the	_	Word	Word	_	6	E	6:E	_
+6	Off	_	Word	Word	_	4	A	4:A	_
+7	the	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	Wall	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	album	_	Word	Word	_	6	E	6:E	_
+10	together	_	Word	Word	_	4	D	4:D	_
+11	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+

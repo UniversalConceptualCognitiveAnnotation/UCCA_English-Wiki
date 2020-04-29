@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 947004
+# text = In 2004 , Stefani showed interest in making film appearances and began auditioning for films such as Mr. & Mrs. Smith .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	2004	_	Word	Word	_	6	T	6:T	_
+3	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+4	Stefani	_	Word	Word	_	6	A	6:A|10:A|13:A	_
+5	showed	_	Word	Word	_	6	D	6:D	_
+6	interest	_	Word	Word	_	0	H	0:H	_
+7	in	_	Word	Word	_	10	R	10:R	_
+8	making	_	Word	Word	_	10	F	10:F	_
+9	film	_	Word	Word	_	10	A	10:A	_
+10	appearances	_	Word	Word	_	6	A	6:A	_
+11	and	_	Word	Word	_	13	L	13:L	_
+12	began	_	Word	Word	_	13	D	13:D	_
+13	auditioning	_	Word	Word	_	6	H	6:H	_
+14	for	_	Word	Word	_	15	R	15:R	_
+15	films	_	Word	Word	_	13	A	13:A	_
+16	such	_	Word	Word	_	18	R	18:R	_
+17	as	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	Mr.	_	Word	Word	_	15	E	15:E	_
+19	&	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	Mrs.	_	Word	Word	_	18	Terminal	18:Terminal	_
+21	Smith	_	Word	Word	_	18	Terminal	18:Terminal	_
+22	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

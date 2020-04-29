@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 510002
+# text = Among the acts he selected for the festival were Philip Glass , Television and The Dandy Warhols .
+1	Among	_	Word	Word	_	3	R	3:R	_
+2	the	_	Word	Word	_	3	E	3:E	_
+3	acts	_	Word	Word	_	5	A	5:A	_
+4	he	_	Word	Word	_	5	A	5:A	_
+5	selected	_	Word	Word	_	0	H	0:H	_
+6	for	_	Word	Word	_	8	R	8:R	_
+7	the	_	Word	Word	_	8	E	8:E	_
+8	festival	_	Word	Word	_	5	A	5:A	_
+9	were	_	Word	Word	_	10	R	10:R	_
+10	Philip	_	Word	Word	_	5	A	5:A	_
+11	Glass	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+13	Television	_	Word	Word	_	10	C	10:C	_
+14	and	_	Word	Word	_	10	N	10:N	_
+15	The	_	Word	Word	_	16	E	16:E	_
+16	Dandy	_	Word	Word	_	10	C	10:C	_
+17	Warhols	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

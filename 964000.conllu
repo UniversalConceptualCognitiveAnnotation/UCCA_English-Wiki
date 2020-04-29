@@ -1,0 +1,34 @@
+# format = ucca
+# sent_id = 964000
+# text = Her early performances brought her immediate success in Britain , but she remained largely unknown in other parts of the world until the release of Gone with the Wind .
+1	Her	_	Word	Word	_	3	A	3:A	_
+2	early	_	Word	Word	_	3	T	3:T	_
+3	performances	_	Word	Word	_	7	A	7:A	_
+4	brought	_	Word	Word	_	7	D	7:D	_
+5	her	_	Word	Word	_	7	A	7:A	_
+6	immediate	_	Word	Word	_	7	T	7:T	_
+7	success	_	Word	Word	_	0	H	0:H	_
+8	in	_	Word	Word	_	9	R	9:R	_
+9	Britain	_	Word	Word	_	7	A	7:A	_
+10	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+11	but	_	Word	Word	_	15	L	15:L	_
+12	she	_	Word	Word	_	15	A	15:A	_
+13	remained	_	Word	Word	_	15	D	15:D	_
+14	largely	_	Word	Word	_	15	D	15:D	_
+15	unknown	_	Word	Word	_	7	H	7:H	_
+16	in	_	Word	Word	_	18	R	18:R	_
+17	other	_	Word	Word	_	18	E	18:E	_
+18	parts	_	Word	Word	_	15	A	15:A	_
+19	of	_	Word	Word	_	21	R	21:R	_
+20	the	_	Word	Word	_	21	E	21:E	_
+21	world	_	Word	Word	_	18	E	18:E	_
+22	until	_	Word	Word	_	24	L	24:L	_
+23	the	_	Word	Word	_	24	E	24:E	_
+24	release	_	Word	Word	_	7	H	7:H	_
+25	of	_	Word	Word	_	26	R	26:R	_
+26	Gone	_	Word	Word	_	24	A	24:A	_
+27	with	_	Word	Word	_	26	Terminal	26:Terminal	_
+28	the	_	Word	Word	_	26	Terminal	26:Terminal	_
+29	Wind	_	Word	Word	_	26	Terminal	26:Terminal	_
+30	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+

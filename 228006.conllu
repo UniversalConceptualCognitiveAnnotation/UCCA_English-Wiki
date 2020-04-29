@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 228006
+# text = In The Spy Next Door , Chan plays an undercover agent whose cover is blown when he looks after the children of his girlfriend .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	The	_	Word	Word	_	8	A	8:A	_
+3	Spy	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	Next	_	Word	Word	_	2	Terminal	2:Terminal	_
+5	Door	_	Word	Word	_	2	Terminal	2:Terminal	_
+6	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	Chan	_	Word	Word	_	8	A	8:A	_
+8	plays	_	Word	Word	_	0	H	0:H	_
+9	an	_	Word	Word	_	11	F	11:F	_
+10	undercover	_	Word	Word	_	11	E	11:E	_
+11	agent	_	Word	Word	_	8	A	8:A	_
+12	whose	_	Word	Word	_	13	R	13:R	_
+13	cover	_	Word	Word	_	11	E	11:E	_
+14	is	_	Word	Word	_	13	F	13:F	_
+15	blown	_	Word	Word	_	13	D	13:D	_
+16	when	_	Word	Word	_	18	L	18:L	_
+17	he	_	Word	Word	_	18	A	18:A	_
+18	looks	_	Word	Word	_	13	H	13:H	_
+19	after	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	the	_	Word	Word	_	21	F	21:F	_
+21	children	_	Word	Word	_	18	A	18:A	_
+22	of	_	Word	Word	_	23	R	23:R	_
+23	his	_	Word	Word	_	21	E	21:E	_
+24	girlfriend	_	Word	Word	_	23	A	23:A|21:A	_
+25	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

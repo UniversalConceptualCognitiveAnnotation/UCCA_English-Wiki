@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 213006
+# text = Her father worked as a medical services executive , and her mother was an artist and one - time gallery owner .
+1	Her	_	Word	Word	_	3	A	3:A	_
+2	father	_	Word	Word	_	1	A	1:A	_
+3	worked	_	Word	Word	_	0	H	0:H	_
+4	as	_	Word	Word	_	8	R	8:R	_
+5	a	_	Word	Word	_	8	F	8:F	_
+6	medical	_	Word	Word	_	7	E	7:E	_
+7	services	_	Word	Word	_	8	E	8:E	_
+8	executive	_	Word	Word	_	3	A	3:A	_
+9	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+10	and	_	Word	Word	_	13	L	13:L	_
+11	her	_	Word	Word	_	13	A	13:A	_
+12	mother	_	Word	Word	_	11	A	11:A	_
+13	was	_	Word	Word	_	3	H	3:H	_
+14	an	_	Word	Word	_	15	F	15:F	_
+15	artist	_	Word	Word	_	13	A	13:A	_
+16	and	_	Word	Word	_	15	N	15:N	_
+17	one	_	Word	Word	_	20	T	20:T	_
+18	-	_	Punctuation	Punctuation	_	17	U	17:U	_
+19	time	_	Word	Word	_	17	Terminal	17:Terminal	_
+20	gallery	_	Word	Word	_	15	C	15:C	_
+21	owner	_	Word	Word	_	20	A	20:A	_
+22	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+

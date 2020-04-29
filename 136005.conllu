@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 136005
+# text = The movie was released at the end of 1951 to popular support and critical acclaim , and gave Hepburn her fifth Best Actress nomination at the Academy Awards .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	movie	_	Word	Word	_	4	A	4:A|15:A|24:A	_
+3	was	_	Word	Word	_	4	F	4:F	_
+4	released	_	Word	Word	_	0	H	0:H	_
+5	at	_	Word	Word	_	9	R	9:R	_
+6	the	_	Word	Word	_	9	E	9:E	_
+7	end	_	Word	Word	_	9	E	9:E	_
+8	of	_	Word	Word	_	9	R	9:R	_
+9	1951	_	Word	Word	_	4	T	4:T	_
+10	to	_	Word	Word	_	12	F	12:F	_
+11	popular	_	Word	Word	_	12	D	12:D	_
+12	support	_	Word	Word	_	4	A	4:A	_
+13	and	_	Word	Word	_	15	L	15:L	_
+14	critical	_	Word	Word	_	15	D	15:D	_
+15	acclaim	_	Word	Word	_	12	H	12:H	_
+16	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+17	and	_	Word	Word	_	24	L	24:L	_
+18	gave	_	Word	Word	_	24	D	24:D	_
+19	Hepburn	_	Word	Word	_	24	A	24:A	_
+20	her	_	Word	Word	_	24	D	24:D	_
+21	fifth	_	Word	Word	_	20	Q	20:Q	_
+22	Best	_	Word	Word	_	23	D	23:D	_
+23	Actress	_	Word	Word	_	24	A	24:A	_
+24	nomination	_	Word	Word	_	4	H	4:H	_
+25	at	_	Word	Word	_	28	R	28:R	_
+26	the	_	Word	Word	_	28	E	28:E	_
+27	Academy	_	Word	Word	_	28	E	28:E	_
+28	Awards	_	Word	Word	_	24	A	24:A	_
+29	.	_	Punctuation	Punctuation	_	28	U	28:U	_
+

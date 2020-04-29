@@ -1,0 +1,36 @@
+# format = ucca
+# sent_id = 529002
+# text = The Oscar was won , however , by Grace Kelly for The Country Girl ( 1954 ) . The camera crew was packing up before Kelly could even reach the stage .
+1	The	_	Word	Word	_	2	F	2:F	_
+2	Oscar	_	Word	Word	_	4	A	4:A	_
+3	was	_	Word	Word	_	4	F	4:F	_
+4	won	_	Word	Word	_	0	H	0:H	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	however	_	Word	Word	_	23	L	23:L	_
+7	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+8	by	_	Word	Word	_	9	R	9:R	_
+9	Grace	_	Word	Word	_	4	A	4:A	_
+10	Kelly	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	for	_	Word	Word	_	12	R	12:R	_
+12	The	_	Word	Word	_	4	A	4:A	_
+13	Country	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	Girl	_	Word	Word	_	12	Terminal	12:Terminal	_
+15	(	_	Punctuation	Punctuation	_	12	U	12:U	_
+16	1954	_	Word	Word	_	12	E	12:E	_
+17	)	_	Punctuation	Punctuation	_	4	U	4:U	_
+18	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+19	The	_	Word	Word	_	20	F	20:F	_
+20	camera	_	Word	Word	_	23	A	23:A	_
+21	crew	_	Word	Word	_	20	A	20:A	_
+22	was	_	Word	Word	_	23	F	23:F	_
+23	packing	_	Word	Word	_	4	H	4:H	_
+24	up	_	Word	Word	_	23	Terminal	23:Terminal	_
+25	before	_	Word	Word	_	29	L	29:L	_
+26	Kelly	_	Word	Word	_	29	A	29:A	_
+27	could	_	Word	Word	_	29	D	29:D	_
+28	even	_	Word	Word	_	29	D	29:D	_
+29	reach	_	Word	Word	_	4	H	4:H	_
+30	the	_	Word	Word	_	31	F	31:F	_
+31	stage	_	Word	Word	_	29	A	29:A	_
+32	.	_	Punctuation	Punctuation	_	31	U	31:U	_
+

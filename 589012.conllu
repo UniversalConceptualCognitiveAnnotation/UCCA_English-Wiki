@@ -1,0 +1,46 @@
+# format = ucca
+# sent_id = 589012
+# text = Depp was going to star as Tonto in 2013 's Lone Ranger film , but the project had been shelved because of budgetary concerns , as well as a lackluster response to the 2012 science - fiction Western Cowboys & Aliens .
+1	Depp	_	Word	Word	_	5	A	5:A	_
+2	was	_	Word	Word	_	5	F	5:F	_
+3	going	_	Word	Word	_	5	D	5:D	_
+4	to	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	star	_	Word	Word	_	0	H	0:H	_
+6	as	_	Word	Word	_	7	R	7:R	_
+7	Tonto	_	Word	Word	_	5	A	5:A	_
+8	in	_	Word	Word	_	11	R	11:R	_
+9	2013	_	Word	Word	_	10	T	10:T	_
+10	's	_	Word	Word	_	11	E	11:E	_
+11	Lone	_	Word	Word	_	5	A	5:A	_
+12	Ranger	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	film	_	Word	Word	_	11	E	11:E	_
+14	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+15	but	_	Word	Word	_	20	L	20:L	_
+16	the	_	Word	Word	_	17	E	17:E	_
+17	project	_	Word	Word	_	20	A	20:A	_
+18	had	_	Word	Word	_	20	F	20:F	_
+19	been	_	Word	Word	_	20	F	20:F	_
+20	shelved	_	Word	Word	_	5	H	5:H	_
+21	because	_	Word	Word	_	24	L	24:L	_
+22	of	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	budgetary	_	Word	Word	_	24	A	24:A	_
+24	concerns	_	Word	Word	_	5	H	5:H	_
+25	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+26	as	_	Word	Word	_	31	L	31:L	_
+27	well	_	Word	Word	_	26	Terminal	26:Terminal	_
+28	as	_	Word	Word	_	26	Terminal	26:Terminal	_
+29	a	_	Word	Word	_	30	E	30:E	_
+30	lackluster	_	Word	Word	_	31	D	31:D	_
+31	response	_	Word	Word	_	5	H	5:H	_
+32	to	_	Word	Word	_	39	R	39:R	_
+33	the	_	Word	Word	_	38	E	38:E	_
+34	2012	_	Word	Word	_	38	E	38:E	_
+35	science	_	Word	Word	_	37	E	37:E	_
+36	-	_	Punctuation	Punctuation	_	37	U	37:U	_
+37	fiction	_	Word	Word	_	38	E	38:E	_
+38	Western	_	Word	Word	_	39	E	39:E	_
+39	Cowboys	_	Word	Word	_	31	A	31:A	_
+40	&	_	Punctuation	Punctuation	_	39	U	39:U	_
+41	Aliens	_	Word	Word	_	39	Terminal	39:Terminal	_
+42	.	_	Punctuation	Punctuation	_	39	U	39:U	_
+

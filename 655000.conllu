@@ -1,0 +1,53 @@
+# format = ucca
+# sent_id = 655000
+# text = When the Beatles recorded " Twist and Shout " , the final track during the mammoth one - day session that produced the band 's 1963 debut album , Please Please Me , Lennon 's voice , already compromised by a cold , came close to giving out .
+1	When	_	Word	Word	_	47	L	47:L	_
+2	the	_	Word	Word	_	3	E	3:E	_
+3	Beatles	_	Word	Word	_	4	A	4:A	_
+4	recorded	_	Word	Word	_	0	H	0:H	_
+5	"	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	Twist	_	Word	Word	_	4	A	4:A	_
+7	and	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	Shout	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	"	_	Punctuation	Punctuation	_	6	U	6:U	_
+10	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+11	the	_	Word	Word	_	13	E	13:E	_
+12	final	_	Word	Word	_	13	E	13:E	_
+13	track	_	Word	Word	_	6	E	6:E	_
+14	during	_	Word	Word	_	20	L	20:L	_
+15	the	_	Word	Word	_	20	E	20:E	_
+16	mammoth	_	Word	Word	_	20	D	20:D	_
+17	one	_	Word	Word	_	19	Q	19:Q	_
+18	-	_	Punctuation	Punctuation	_	19	U	19:U	_
+19	day	_	Word	Word	_	20	T	20:T	_
+20	session	_	Word	Word	_	13	H	13:H	_
+21	that	_	Word	Word	_	22	R	22:R	_
+22	produced	_	Word	Word	_	20	A	20:A	_
+23	the	_	Word	Word	_	24	E	24:E	_
+24	band	_	Word	Word	_	30	E	30:E	_
+25	's	_	Word	Word	_	24	R	24:R	_
+26	1963	_	Word	Word	_	30	E	30:E	_
+27	debut	_	Word	Word	_	28	E	28:E	_
+28	album	_	Word	Word	_	30	E	30:E	_
+29	,	_	Punctuation	Punctuation	_	30	U	30:U	_
+30	Please	_	Word	Word	_	22	A	22:A	_
+31	Please	_	Word	Word	_	30	Terminal	30:Terminal	_
+32	Me	_	Word	Word	_	30	Terminal	30:Terminal	_
+33	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+34	Lennon	_	Word	Word	_	36	E	36:E	_
+35	's	_	Word	Word	_	34	R	34:R	_
+36	voice	_	Word	Word	_	47	A	47:A	_
+37	,	_	Punctuation	Punctuation	_	36	U	36:U	_
+38	already	_	Word	Word	_	39	D	39:D	_
+39	compromised	_	Word	Word	_	36	E	36:E	_
+40	by	_	Word	Word	_	42	R	42:R	_
+41	a	_	Word	Word	_	42	E	42:E	_
+42	cold	_	Word	Word	_	39	A	39:A	_
+43	,	_	Punctuation	Punctuation	_	47	U	47:U	_
+44	came	_	Word	Word	_	47	D	47:D	_
+45	close	_	Word	Word	_	44	Terminal	44:Terminal	_
+46	to	_	Word	Word	_	47	F	47:F	_
+47	giving	_	Word	Word	_	4	H	4:H	_
+48	out	_	Word	Word	_	47	Terminal	47:Terminal	_
+49	.	_	Punctuation	Punctuation	_	47	U	47:U	_
+

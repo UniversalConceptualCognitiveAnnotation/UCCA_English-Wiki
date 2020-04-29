@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 555000
+# text = Entering a new school , Milam , for sixth grade in September 1946 , Presley was regarded as a loner .
+1	Entering	_	Word	Word	_	0	H	0:H	_
+2	a	_	Word	Word	_	4	E	4:E	_
+3	new	_	Word	Word	_	4	E	4:E	_
+4	school	_	Word	Word	_	6	E	6:E	_
+5	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+6	Milam	_	Word	Word	_	1	A	1:A	_
+7	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+8	for	_	Word	Word	_	10	R	10:R	_
+9	sixth	_	Word	Word	_	10	Q	10:Q	_
+10	grade	_	Word	Word	_	1	A	1:A	_
+11	in	_	Word	Word	_	12	R	12:R	_
+12	September	_	Word	Word	_	1	T	1:T	_
+13	1946	_	Word	Word	_	12	C	12:C	_
+14	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+15	Presley	_	Word	Word	_	17	A	17:A|1:A|3:A	_
+16	was	_	Word	Word	_	17	F	17:F	_
+17	regarded	_	Word	Word	_	1	H	1:H	_
+18	as	_	Word	Word	_	20	R	20:R	_
+19	a	_	Word	Word	_	20	E	20:E	_
+20	loner	_	Word	Word	_	17	A	17:A	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+

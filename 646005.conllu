@@ -1,0 +1,41 @@
+# format = ucca
+# sent_id = 646005
+# text = They were married at The Rock Hotel in Gibraltar on 20 March 1969 , and spent their honeymoon at the Amsterdam Hilton Hotel in Amsterdam campaigning with a week - long Bed - In for peace .
+1	They	_	Word	Word	_	3	A	3:A|26:A	_
+2	were	_	Word	Word	_	3	F	3:F	_
+3	married	_	Word	Word	_	0	H	0:H	_
+4	at	_	Word	Word	_	7	R	7:R	_
+5	The	_	Word	Word	_	7	E	7:E	_
+6	Rock	_	Word	Word	_	7	E	7:E	_
+7	Hotel	_	Word	Word	_	3	A	3:A	_
+8	in	_	Word	Word	_	9	R	9:R	_
+9	Gibraltar	_	Word	Word	_	7	E	7:E	_
+10	on	_	Word	Word	_	11	R	11:R	_
+11	20	_	Word	Word	_	3	T	3:T	_
+12	March	_	Word	Word	_	11	C	11:C	_
+13	1969	_	Word	Word	_	11	C	11:C	_
+14	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+15	and	_	Word	Word	_	18	L	18:L	_
+16	spent	_	Word	Word	_	18	T	18:T	_
+17	their	_	Word	Word	_	18	A	18:A	_
+18	honeymoon	_	Word	Word	_	3	H	3:H	_
+19	at	_	Word	Word	_	23	R	23:R	_
+20	the	_	Word	Word	_	23	E	23:E	_
+21	Amsterdam	_	Word	Word	_	23	E	23:E	_
+22	Hilton	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	Hotel	_	Word	Word	_	18	A	18:A	_
+24	in	_	Word	Word	_	25	R	25:R	_
+25	Amsterdam	_	Word	Word	_	23	E	23:E	_
+26	campaigning	_	Word	Word	_	3	H	3:H	_
+27	with	_	Word	Word	_	32	R	32:R	_
+28	a	_	Word	Word	_	29	E	29:E	_
+29	week	_	Word	Word	_	32	E	32:E	_
+30	-	_	Punctuation	Punctuation	_	29	U	29:U	_
+31	long	_	Word	Word	_	29	R	29:R	_
+32	Bed	_	Word	Word	_	26	A	26:A	_
+33	-	_	Punctuation	Punctuation	_	32	U	32:U	_
+34	In	_	Word	Word	_	32	Terminal	32:Terminal	_
+35	for	_	Word	Word	_	36	R	36:R	_
+36	peace	_	Word	Word	_	32	E	32:E	_
+37	.	_	Punctuation	Punctuation	_	36	U	36:U	_
+

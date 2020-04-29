@@ -1,0 +1,45 @@
+# format = ucca
+# sent_id = 472014
+# text = Many articles praised Johnson as a hero , and former U . S . President George H . W . Bush said , " For me , Magic is a hero , a hero for anyone who loves sports . "
+1	Many	_	Word	Word	_	2	Q	2:Q	_
+2	articles	_	Word	Word	_	3	A	3:A	_
+3	praised	_	Word	Word	_	0	H	0:H	_
+4	Johnson	_	Word	Word	_	3	A	3:A|7:A	_
+5	as	_	Word	Word	_	7	R	7:R	_
+6	a	_	Word	Word	_	7	F	7:F	_
+7	hero	_	Word	Word	_	3	A	3:A	_
+8	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+9	and	_	Word	Word	_	22	L	22:L	_
+10	former	_	Word	Word	_	15	D	15:D	_
+11	U	_	Word	Word	_	15	A	15:A	_
+12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+13	S	_	Word	Word	_	11	Terminal	11:Terminal	_
+14	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+15	President	_	Word	Word	_	16	E	16:E	_
+16	George	_	Word	Word	_	22	A	22:A	_
+17	H	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+19	W	_	Word	Word	_	16	Terminal	16:Terminal	_
+20	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+21	Bush	_	Word	Word	_	16	Terminal	16:Terminal	_
+22	said	_	Word	Word	_	3	H	3:H	_
+23	,	_	Punctuation	Punctuation	_	22	U	22:U	_
+24	"	_	Punctuation	Punctuation	_	22	U	22:U	_
+25	For	_	Word	Word	_	26	R	26:R	_
+26	me	_	Word	Word	_	31	G	31:G	_
+27	,	_	Punctuation	Punctuation	_	31	U	31:U	_
+28	Magic	_	Word	Word	_	31	A	31:A|34:A	_
+29	is	_	Word	Word	_	31	F	31:F	_
+30	a	_	Word	Word	_	31	F	31:F	_
+31	hero	_	Word	Word	_	22	A	22:A	_
+32	,	_	Punctuation	Punctuation	_	31	U	31:U	_
+33	a	_	Word	Word	_	34	F	34:F	_
+34	hero	_	Word	Word	_	31	H	31:H	_
+35	for	_	Word	Word	_	36	R	36:R	_
+36	anyone	_	Word	Word	_	34	G	34:G	_
+37	who	_	Word	Word	_	38	R	38:R	_
+38	loves	_	Word	Word	_	36	E	36:E	_
+39	sports	_	Word	Word	_	38	A	38:A	_
+40	.	_	Punctuation	Punctuation	_	38	U	38:U	_
+41	"	_	Punctuation	Punctuation	_	38	U	38:U	_
+

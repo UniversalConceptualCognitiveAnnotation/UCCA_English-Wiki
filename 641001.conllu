@@ -1,0 +1,34 @@
+# format = ucca
+# sent_id = 641001
+# text = Within the month , he fulfilled his contractual obligation to EMI / Capitol for one more album by releasing Shaved Fish , a compilation album of previously recorded tracks .
+1	Within	_	Word	Word	_	3	R	3:R	_
+2	the	_	Word	Word	_	3	E	3:E	_
+3	month	_	Word	Word	_	6	T	6:T	_
+4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	he	_	Word	Word	_	6	A	6:A|19:A	_
+6	fulfilled	_	Word	Word	_	0	H	0:H	_
+7	his	_	Word	Word	_	8	E	8:E	_
+8	contractual	_	Word	Word	_	9	A	9:A	_
+9	obligation	_	Word	Word	_	6	A	6:A	_
+10	to	_	Word	Word	_	11	R	11:R	_
+11	EMI	_	Word	Word	_	9	A	9:A	_
+12	/	_	Punctuation	Punctuation	_	11	U	11:U	_
+13	Capitol	_	Word	Word	_	11	Terminal	11:Terminal	_
+14	for	_	Word	Word	_	17	R	17:R	_
+15	one	_	Word	Word	_	17	Q	17:Q	_
+16	more	_	Word	Word	_	17	E	17:E	_
+17	album	_	Word	Word	_	9	A	9:A	_
+18	by	_	Word	Word	_	19	R	19:R	_
+19	releasing	_	Word	Word	_	6	A	6:A	_
+20	Shaved	_	Word	Word	_	19	A	19:A	_
+21	Fish	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	,	_	Punctuation	Punctuation	_	20	U	20:U	_
+23	a	_	Word	Word	_	25	E	25:E	_
+24	compilation	_	Word	Word	_	25	E	25:E	_
+25	album	_	Word	Word	_	20	E	20:E	_
+26	of	_	Word	Word	_	29	R	29:R	_
+27	previously	_	Word	Word	_	28	D	28:D	_
+28	recorded	_	Word	Word	_	29	E	29:E	_
+29	tracks	_	Word	Word	_	25	E	25:E	_
+30	.	_	Punctuation	Punctuation	_	29	U	29:U	_
+

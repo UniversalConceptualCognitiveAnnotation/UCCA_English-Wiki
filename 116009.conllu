@@ -1,0 +1,41 @@
+# format = ucca
+# sent_id = 116009
+# text = Thomas Hepburn was eager for his children to use their minds and bodies to the limit , and taught them to swim , run , dive , ride , wrestle , and play golf and tennis .
+1	Thomas	_	Word	Word	_	4	A	4:A|19:A	_
+2	Hepburn	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	was	_	Word	Word	_	4	F	4:F	_
+4	eager	_	Word	Word	_	0	H	0:H	_
+5	for	_	Word	Word	_	9	R	9:R	_
+6	his	_	Word	Word	_	7	A	7:A	_
+7	children	_	Word	Word	_	9	A	9:A	_
+8	to	_	Word	Word	_	9	F	9:F	_
+9	use	_	Word	Word	_	4	A	4:A	_
+10	their	_	Word	Word	_	11	E	11:E	_
+11	minds	_	Word	Word	_	9	A	9:A	_
+12	and	_	Word	Word	_	11	N	11:N	_
+13	bodies	_	Word	Word	_	11	C	11:C	_
+14	to	_	Word	Word	_	16	R	16:R	_
+15	the	_	Word	Word	_	16	E	16:E	_
+16	limit	_	Word	Word	_	9	D	9:D	_
+17	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+18	and	_	Word	Word	_	19	L	19:L	_
+19	taught	_	Word	Word	_	4	H	4:H	_
+20	them	_	Word	Word	_	19	A	19:A|22:A|24:A|26:A|28:A|30:A|34:A|36:A	_
+21	to	_	Word	Word	_	22	F	22:F	_
+22	swim	_	Word	Word	_	19	A	19:A	_
+23	,	_	Punctuation	Punctuation	_	22	U	22:U	_
+24	run	_	Word	Word	_	22	H	22:H	_
+25	,	_	Punctuation	Punctuation	_	22	U	22:U	_
+26	dive	_	Word	Word	_	22	H	22:H	_
+27	,	_	Punctuation	Punctuation	_	22	U	22:U	_
+28	ride	_	Word	Word	_	22	H	22:H	_
+29	,	_	Punctuation	Punctuation	_	22	U	22:U	_
+30	wrestle	_	Word	Word	_	22	H	22:H	_
+31	,	_	Punctuation	Punctuation	_	22	U	22:U	_
+32	and	_	Word	Word	_	34	L	34:L	_
+33	play	_	Word	Word	_	34	F	34:F	_
+34	golf	_	Word	Word	_	22	H	22:H	_
+35	and	_	Word	Word	_	36	L	36:L	_
+36	tennis	_	Word	Word	_	22	H	22:H	_
+37	.	_	Punctuation	Punctuation	_	36	U	36:U	_
+

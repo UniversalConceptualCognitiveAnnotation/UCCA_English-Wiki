@@ -1,0 +1,42 @@
+# format = ucca
+# sent_id = 956014
+# text = After viewing Leigh 's screen test , Selznick noted that " she does n't seem right as to sincerity or age or innocence " , a view shared by Hitchcock and Leigh 's mentor , George Cukor .
+1	After	_	Word	Word	_	9	L	9:L	_
+2	viewing	_	Word	Word	_	0	H	0:H	_
+3	Leigh	_	Word	Word	_	6	A	6:A	_
+4	's	_	Word	Word	_	3	R	3:R	_
+5	screen	_	Word	Word	_	6	A	6:A	_
+6	test	_	Word	Word	_	2	A	2:A	_
+7	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+8	Selznick	_	Word	Word	_	9	A	9:A|2:A	_
+9	noted	_	Word	Word	_	2	H	2:H	_
+10	that	_	Word	Word	_	16	R	16:R	_
+11	"	_	Punctuation	Punctuation	_	16	U	16:U	_
+12	she	_	Word	Word	_	16	A	16:A	_
+13	does	_	Word	Word	_	16	F	16:F	_
+14	n't	_	Word	Word	_	16	D	16:D	_
+15	seem	_	Word	Word	_	16	G	16:G	_
+16	right	_	Word	Word	_	9	A	9:A|27:A	_
+17	as	_	Word	Word	_	19	R	19:R	_
+18	to	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	sincerity	_	Word	Word	_	16	A	16:A	_
+20	or	_	Word	Word	_	21	L	21:L	_
+21	age	_	Word	Word	_	19	H	19:H	_
+22	or	_	Word	Word	_	23	L	23:L	_
+23	innocence	_	Word	Word	_	19	H	19:H	_
+24	"	_	Punctuation	Punctuation	_	27	U	27:U	_
+25	,	_	Punctuation	Punctuation	_	27	U	27:U	_
+26	a	_	Word	Word	_	27	E	27:E	_
+27	view	_	Word	Word	_	2	H	2:H	_
+28	shared	_	Word	Word	_	27	D	27:D	_
+29	by	_	Word	Word	_	30	R	30:R	_
+30	Hitchcock	_	Word	Word	_	27	A	27:A	_
+31	and	_	Word	Word	_	30	N	30:N	_
+32	Leigh	_	Word	Word	_	36	E	36:E	_
+33	's	_	Word	Word	_	32	R	32:R	_
+34	mentor	_	Word	Word	_	32	A	32:A	_
+35	,	_	Punctuation	Punctuation	_	36	U	36:U	_
+36	George	_	Word	Word	_	30	C	30:C	_
+37	Cukor	_	Word	Word	_	36	Terminal	36:Terminal	_
+38	.	_	Punctuation	Punctuation	_	36	U	36:U	_
+

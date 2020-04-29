@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 611012
+# text = Having donated his time , he received £ 1 from the Olympic organisers .
+1	Having	_	Word	Word	_	2	F	2:F	_
+2	donated	_	Word	Word	_	0	H	0:H	_
+3	his	_	Word	Word	_	4	E	4:E	_
+4	time	_	Word	Word	_	2	A	2:A	_
+5	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+6	he	_	Word	Word	_	7	A	7:A|2:A	_
+7	received	_	Word	Word	_	2	H	2:H	_
+8	£	_	Word	Word	_	7	A	7:A	_
+9	1	_	Word	Word	_	8	Q	8:Q	_
+10	from	_	Word	Word	_	13	R	13:R	_
+11	the	_	Word	Word	_	13	F	13:F	_
+12	Olympic	_	Word	Word	_	13	A	13:A	_
+13	organisers	_	Word	Word	_	7	A	7:A	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

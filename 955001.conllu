@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 955001
+# text = He was not well known in the United States despite his success in Britain , and earlier attempts to introduce him to American audiences had failed .
+1	He	_	Word	Word	_	5	A	5:A	_
+2	was	_	Word	Word	_	5	F	5:F	_
+3	not	_	Word	Word	_	5	D	5:D	_
+4	well	_	Word	Word	_	5	D	5:D	_
+5	known	_	Word	Word	_	0	H	0:H	_
+6	in	_	Word	Word	_	8	R	8:R	_
+7	the	_	Word	Word	_	8	E	8:E	_
+8	United	_	Word	Word	_	5	A	5:A	_
+9	States	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	despite	_	Word	Word	_	12	L	12:L	_
+11	his	_	Word	Word	_	12	A	12:A	_
+12	success	_	Word	Word	_	5	H	5:H	_
+13	in	_	Word	Word	_	14	R	14:R	_
+14	Britain	_	Word	Word	_	12	A	12:A	_
+15	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+16	and	_	Word	Word	_	20	L	20:L	_
+17	earlier	_	Word	Word	_	20	T	20:T	_
+18	attempts	_	Word	Word	_	20	D	20:D	_
+19	to	_	Word	Word	_	20	F	20:F	_
+20	introduce	_	Word	Word	_	5	H	5:H	_
+21	him	_	Word	Word	_	20	A	20:A	_
+22	to	_	Word	Word	_	24	R	24:R	_
+23	American	_	Word	Word	_	24	E	24:E	_
+24	audiences	_	Word	Word	_	20	A	20:A	_
+25	had	_	Word	Word	_	20	F	20:F	_
+26	failed	_	Word	Word	_	20	D	20:D	_
+27	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+

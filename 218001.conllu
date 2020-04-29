@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 218001
+# text = The film premiered at the 2005 Toronto Film Festival .
+1	The	_	Word	Word	_	2	F	2:F	_
+2	film	_	Word	Word	_	3	A	3:A	_
+3	premiered	_	Word	Word	_	0	H	0:H	_
+4	at	_	Word	Word	_	9	R	9:R	_
+5	the	_	Word	Word	_	9	F	9:F	_
+6	2005	_	Word	Word	_	9	E	9:E	_
+7	Toronto	_	Word	Word	_	9	E	9:E	_
+8	Film	_	Word	Word	_	9	E	9:E	_
+9	Festival	_	Word	Word	_	3	A	3:A	_
+10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

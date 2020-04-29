@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 1019001
+# text = In the mid - 1990s , he was accused of child sexual abuse , but the case was settled out of court for about $ 25 million and no formal charges were brought .
+1	In	_	Word	Word	_	5	R	5:R	_
+2	the	_	Word	Word	_	5	E	5:E	_
+3	mid	_	Word	Word	_	5	E	5:E	_
+4	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+5	1990s	_	Word	Word	_	9	T	9:T	_
+6	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+7	he	_	Word	Word	_	9	A	9:A	_
+8	was	_	Word	Word	_	9	F	9:F	_
+9	accused	_	Word	Word	_	0	H	0:H	_
+10	of	_	Word	Word	_	13	R	13:R	_
+11	child	_	Word	Word	_	13	A	13:A	_
+12	sexual	_	Word	Word	_	13	A	13:A	_
+13	abuse	_	Word	Word	_	9	A	9:A	_
+14	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+15	but	_	Word	Word	_	19	L	19:L	_
+16	the	_	Word	Word	_	17	E	17:E	_
+17	case	_	Word	Word	_	19	A	19:A	_
+18	was	_	Word	Word	_	19	F	19:F	_
+19	settled	_	Word	Word	_	9	H	9:H	_
+20	out	_	Word	Word	_	22	R	22:R	_
+21	of	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	court	_	Word	Word	_	19	A	19:A	_
+23	for	_	Word	Word	_	25	R	25:R	_
+24	about	_	Word	Word	_	25	E	25:E	_
+25	$	_	Word	Word	_	19	A	19:A	_
+26	25	_	Word	Word	_	25	Q	25:Q	_
+27	million	_	Word	Word	_	26	Terminal	26:Terminal	_
+28	and	_	Word	Word	_	31	L	31:L	_
+29	no	_	Word	Word	_	31	D	31:D	_
+30	formal	_	Word	Word	_	31	D	31:D	_
+31	charges	_	Word	Word	_	9	H	9:H	_
+32	were	_	Word	Word	_	31	F	31:F	_
+33	brought	_	Word	Word	_	31	D	31:D	_
+34	.	_	Punctuation	Punctuation	_	31	U	31:U	_
+

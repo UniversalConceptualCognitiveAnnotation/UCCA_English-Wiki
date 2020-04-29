@@ -1,0 +1,44 @@
+# format = ucca
+# sent_id = 729004
+# text = Based in part on the Wineville Chicken Coop Murders , the film stars Jolie as Christine Collins , who is reunited with her kidnapped son in 1928 Los Angelesâ   only to realize the boy is an impostor .
+1	Based	_	Word	Word	_	0	H	0:H	_
+2	in	_	Word	Word	_	1	D	1:D	_
+3	part	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	on	_	Word	Word	_	9	R	9:R	_
+5	the	_	Word	Word	_	9	F	9:F	_
+6	Wineville	_	Word	Word	_	9	A	9:A	_
+7	Chicken	_	Word	Word	_	8	E	8:E	_
+8	Coop	_	Word	Word	_	9	A	9:A	_
+9	Murders	_	Word	Word	_	1	A	1:A	_
+10	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+11	the	_	Word	Word	_	12	E	12:E	_
+12	film	_	Word	Word	_	0	C	0:C|1:A	_
+13	stars	_	Word	Word	_	1	H	1:H	_
+14	Jolie	_	Word	Word	_	13	A	13:A	_
+15	as	_	Word	Word	_	16	R	16:R	_
+16	Christine	_	Word	Word	_	13	A	13:A	_
+17	Collins	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+19	who	_	Word	Word	_	21	R	21:R	_
+20	is	_	Word	Word	_	21	F	21:F	_
+21	reunited	_	Word	Word	_	16	E	16:E	_
+22	with	_	Word	Word	_	25	R	25:R	_
+23	her	_	Word	Word	_	25	A	25:A	_
+24	kidnapped	_	Word	Word	_	25	E	25:E	_
+25	son	_	Word	Word	_	21	A	21:A	_
+26	in	_	Word	Word	_	27	R	27:R	_
+27	1928	_	Word	Word	_	21	T	21:T	_
+28	Los	_	Word	Word	_	21	A	21:A	_
+29	Angelesâ	_	Word	Word	_	28	Terminal	28:Terminal	_
+30		_	Punctuation	Punctuation	_	21	U	21:U	_
+31		_	Punctuation	Punctuation	_	21	U	21:U	_
+32	only	_	Word	Word	_	33	E	33:E	_
+33	to	_	Word	Word	_	34	L	34:L	_
+34	realize	_	Word	Word	_	21	H	21:H	_
+35	the	_	Word	Word	_	36	E	36:E	_
+36	boy	_	Word	Word	_	39	A	39:A	_
+37	is	_	Word	Word	_	39	F	39:F	_
+38	an	_	Word	Word	_	39	E	39:E	_
+39	impostor	_	Word	Word	_	34	A	34:A	_
+40	.	_	Punctuation	Punctuation	_	39	U	39:U	_
+

@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 591004
+# text = Also in 2011 , Hugo , directed by Martin Scorsese , was released .
+1	Also	_	Word	Word	_	13	D	13:D	_
+2	in	_	Word	Word	_	3	R	3:R	_
+3	2011	_	Word	Word	_	13	T	13:T	_
+4	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+5	Hugo	_	Word	Word	_	13	A	13:A	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	directed	_	Word	Word	_	5	E	5:E	_
+8	by	_	Word	Word	_	9	R	9:R	_
+9	Martin	_	Word	Word	_	7	A	7:A	_
+10	Scorsese	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+12	was	_	Word	Word	_	13	F	13:F	_
+13	released	_	Word	Word	_	0	H	0:H	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

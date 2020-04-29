@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 729013
+# text = Peter Travers wrote , " Depp and Jolie hit career lows , producing the chemistry of high - fashion zombies . "
+1	Peter	_	Word	Word	_	3	A	3:A	_
+2	Travers	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	wrote	_	Word	Word	_	0	H	0:H	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	"	_	Punctuation	Punctuation	_	3	U	3:U	_
+6	Depp	_	Word	Word	_	11	A	11:A|13:A	_
+7	and	_	Word	Word	_	6	N	6:N	_
+8	Jolie	_	Word	Word	_	6	C	6:C	_
+9	hit	_	Word	Word	_	11	D	11:D	_
+10	career	_	Word	Word	_	11	A	11:A	_
+11	lows	_	Word	Word	_	3	A	3:A	_
+12	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+13	producing	_	Word	Word	_	11	H	11:H	_
+14	the	_	Word	Word	_	15	E	15:E	_
+15	chemistry	_	Word	Word	_	13	A	13:A	_
+16	of	_	Word	Word	_	20	R	20:R	_
+17	high	_	Word	Word	_	19	D	19:D	_
+18	-	_	Punctuation	Punctuation	_	19	U	19:U	_
+19	fashion	_	Word	Word	_	20	E	20:E	_
+20	zombies	_	Word	Word	_	15	A	15:A	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+22	"	_	Punctuation	Punctuation	_	20	U	20:U	_
+

@@ -1,0 +1,48 @@
+# format = ucca
+# sent_id = 186000
+# text = After more than a decade away from the theatre , Sorkin returned to adapt for the stage his screenplay The Farnsworth Invention , which started a workshop run at La Jolla Playhouse in February 2007 and which opened on Broadway in December 2007 .
+1	After	_	Word	Word	_	12	L	12:L	_
+2	more	_	Word	Word	_	5	E	5:E	_
+3	than	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	a	_	Word	Word	_	5	E	5:E	_
+5	decade	_	Word	Word	_	6	T	6:T	_
+6	away	_	Word	Word	_	0	H	0:H	_
+7	from	_	Word	Word	_	9	R	9:R	_
+8	the	_	Word	Word	_	9	E	9:E	_
+9	theatre	_	Word	Word	_	0	C	0:C|12:A	_
+10	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+11	Sorkin	_	Word	Word	_	12	A	12:A|6:A|14:A	_
+12	returned	_	Word	Word	_	6	H	6:H	_
+13	to	_	Word	Word	_	14	L	14:L	_
+14	adapt	_	Word	Word	_	6	H	6:H	_
+15	for	_	Word	Word	_	17	R	17:R	_
+16	the	_	Word	Word	_	17	E	17:E	_
+17	stage	_	Word	Word	_	14	A	14:A	_
+18	his	_	Word	Word	_	19	A	19:A	_
+19	screenplay	_	Word	Word	_	20	E	20:E	_
+20	The	_	Word	Word	_	14	A	14:A	_
+21	Farnsworth	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	Invention	_	Word	Word	_	20	Terminal	20:Terminal	_
+23	,	_	Punctuation	Punctuation	_	20	U	20:U	_
+24	which	_	Word	Word	_	25	R	25:R	_
+25	started	_	Word	Word	_	20	E	20:E	_
+26	a	_	Word	Word	_	28	E	28:E	_
+27	workshop	_	Word	Word	_	28	E	28:E	_
+28	run	_	Word	Word	_	25	A	25:A	_
+29	at	_	Word	Word	_	30	R	30:R	_
+30	La	_	Word	Word	_	25	A	25:A	_
+31	Jolla	_	Word	Word	_	30	Terminal	30:Terminal	_
+32	Playhouse	_	Word	Word	_	30	Terminal	30:Terminal	_
+33	in	_	Word	Word	_	34	R	34:R	_
+34	February	_	Word	Word	_	25	T	25:T	_
+35	2007	_	Word	Word	_	34	C	34:C	_
+36	and	_	Word	Word	_	38	L	38:L	_
+37	which	_	Word	Word	_	38	R	38:R	_
+38	opened	_	Word	Word	_	25	H	25:H	_
+39	on	_	Word	Word	_	40	R	40:R	_
+40	Broadway	_	Word	Word	_	38	A	38:A	_
+41	in	_	Word	Word	_	42	R	42:R	_
+42	December	_	Word	Word	_	38	T	38:T	_
+43	2007	_	Word	Word	_	42	C	42:C	_
+44	.	_	Punctuation	Punctuation	_	42	U	42:U	_
+

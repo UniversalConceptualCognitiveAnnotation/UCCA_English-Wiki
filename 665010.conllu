@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 665010
+# text = When describing Carey 's popularity in Japan throughout the 1990s , author Chris Nickson compared it to Beatlemania in the 1960s .
+1	When	_	Word	Word	_	15	L	15:L	_
+2	describing	_	Word	Word	_	0	H	0:H	_
+3	Carey	_	Word	Word	_	5	A	5:A	_
+4	's	_	Word	Word	_	3	R	3:R	_
+5	popularity	_	Word	Word	_	2	A	2:A	_
+6	in	_	Word	Word	_	7	R	7:R	_
+7	Japan	_	Word	Word	_	5	A	5:A	_
+8	throughout	_	Word	Word	_	10	R	10:R	_
+9	the	_	Word	Word	_	10	E	10:E	_
+10	1990s	_	Word	Word	_	5	D	5:D	_
+11	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+12	author	_	Word	Word	_	13	E	13:E	_
+13	Chris	_	Word	Word	_	15	A	15:A	_
+14	Nickson	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	compared	_	Word	Word	_	2	H	2:H	_
+16	it	_	Word	Word	_	15	A	15:A	_
+17	to	_	Word	Word	_	18	R	18:R	_
+18	Beatlemania	_	Word	Word	_	15	A	15:A	_
+19	in	_	Word	Word	_	21	R	21:R	_
+20	the	_	Word	Word	_	21	E	21:E	_
+21	1960s	_	Word	Word	_	18	E	18:E	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

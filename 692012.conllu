@@ -1,0 +1,49 @@
+# format = ucca
+# sent_id = 692012
+# text = Like " Blowin ' in the Wind " , " A Hard Rain 's a - Gonna Fall " marked an important new direction in modern songwriting , blending a stream - of - consciousness , imagist lyrical attack with a traditional folk form .
+1	Like	_	Word	Word	_	3	R	3:R	_
+2	"	_	Punctuation	Punctuation	_	3	U	3:U	_
+3	Blowin	_	Word	Word	_	24	A	24:A	_
+4	'	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	in	_	Word	Word	_	3	Terminal	3:Terminal	_
+6	the	_	Word	Word	_	3	Terminal	3:Terminal	_
+7	Wind	_	Word	Word	_	3	Terminal	3:Terminal	_
+8	"	_	Punctuation	Punctuation	_	24	U	24:U	_
+9	,	_	Punctuation	Punctuation	_	24	U	24:U	_
+10	"	_	Punctuation	Punctuation	_	24	U	24:U	_
+11	A	_	Word	Word	_	24	A	24:A|29:A	_
+12	Hard	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	Rain	_	Word	Word	_	11	Terminal	11:Terminal	_
+14	's	_	Word	Word	_	11	Terminal	11:Terminal	_
+15	a	_	Word	Word	_	11	Terminal	11:Terminal	_
+16	-	_	Punctuation	Punctuation	_	11	U	11:U	_
+17	Gonna	_	Word	Word	_	11	Terminal	11:Terminal	_
+18	Fall	_	Word	Word	_	11	Terminal	11:Terminal	_
+19	"	_	Punctuation	Punctuation	_	24	U	24:U	_
+20	marked	_	Word	Word	_	24	D	24:D	_
+21	an	_	Word	Word	_	24	F	24:F	_
+22	important	_	Word	Word	_	24	D	24:D	_
+23	new	_	Word	Word	_	24	D	24:D	_
+24	direction	_	Word	Word	_	0	H	0:H	_
+25	in	_	Word	Word	_	27	R	27:R	_
+26	modern	_	Word	Word	_	27	D	27:D	_
+27	songwriting	_	Word	Word	_	24	A	24:A	_
+28	,	_	Punctuation	Punctuation	_	24	U	24:U	_
+29	blending	_	Word	Word	_	24	H	24:H	_
+30	a	_	Word	Word	_	35	F	35:F	_
+31	stream	_	Word	Word	_	35	D	35:D	_
+32	-	_	Punctuation	Punctuation	_	35	U	35:U	_
+33	of	_	Word	Word	_	35	R	35:R	_
+34	-	_	Punctuation	Punctuation	_	35	U	35:U	_
+35	consciousness	_	Word	Word	_	29	A	29:A	_
+36	,	_	Punctuation	Punctuation	_	35	U	35:U	_
+37	imagist	_	Word	Word	_	39	A	39:A	_
+38	lyrical	_	Word	Word	_	37	C	37:C	_
+39	attack	_	Word	Word	_	35	H	35:H	_
+40	with	_	Word	Word	_	42	L	42:L	_
+41	a	_	Word	Word	_	42	F	42:F	_
+42	traditional	_	Word	Word	_	35	H	35:H	_
+43	folk	_	Word	Word	_	44	E	44:E	_
+44	form	_	Word	Word	_	42	A	42:A	_
+45	.	_	Punctuation	Punctuation	_	44	U	44:U	_
+

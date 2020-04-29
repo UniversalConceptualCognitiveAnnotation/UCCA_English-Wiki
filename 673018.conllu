@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 673018
+# text = Though stateside , the tour spanned few international dates , such as in Brazil and Singapore , where Carey played to over 100,000 spectators .
+1	Though	_	Word	Word	_	6	L	6:L	_
+2	stateside	_	Word	Word	_	0	H	0:H	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	the	_	Word	Word	_	5	E	5:E	_
+5	tour	_	Word	Word	_	0	C	0:C|2:P	_
+6	spanned	_	Word	Word	_	2	H	2:H	_
+7	few	_	Word	Word	_	9	Q	9:Q	_
+8	international	_	Word	Word	_	9	E	9:E	_
+9	dates	_	Word	Word	_	6	A	6:A	_
+10	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+11	such	_	Word	Word	_	14	R	14:R	_
+12	as	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	in	_	Word	Word	_	14	R	14:R	_
+14	Brazil	_	Word	Word	_	9	E	9:E	_
+15	and	_	Word	Word	_	14	N	14:N	_
+16	Singapore	_	Word	Word	_	14	C	14:C	_
+17	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+18	where	_	Word	Word	_	20	R	20:R	_
+19	Carey	_	Word	Word	_	20	A	20:A	_
+20	played	_	Word	Word	_	14	E	14:E	_
+21	to	_	Word	Word	_	24	R	24:R	_
+22	over	_	Word	Word	_	23	E	23:E	_
+23	100,000	_	Word	Word	_	24	Q	24:Q	_
+24	spectators	_	Word	Word	_	20	A	20:A	_
+25	.	_	Punctuation	Punctuation	_	24	U	24:U	_
+

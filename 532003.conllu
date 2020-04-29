@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 532003
+# text = She made guest appearances on The Ed Sullivan Show and The Tonight Show .
+1	She	_	Word	Word	_	4	A	4:A	_
+2	made	_	Word	Word	_	4	F	4:F	_
+3	guest	_	Word	Word	_	4	A	4:A	_
+4	appearances	_	Word	Word	_	0	H	0:H	_
+5	on	_	Word	Word	_	6	R	6:R	_
+6	The	_	Word	Word	_	4	A	4:A	_
+7	Ed	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	Sullivan	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	Show	_	Word	Word	_	6	Terminal	6:Terminal	_
+10	and	_	Word	Word	_	6	N	6:N	_
+11	The	_	Word	Word	_	6	C	6:C	_
+12	Tonight	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	Show	_	Word	Word	_	11	Terminal	11:Terminal	_
+14	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+

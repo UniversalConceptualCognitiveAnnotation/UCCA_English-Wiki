@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 462001
+# text = On April 1 , 2005 , he anchored World News Tonight for the last time ; his poor health also prevented him from covering the death and funeral of Pope John Paul II .
+1	On	_	Word	Word	_	2	R	2:R	_
+2	April	_	Word	Word	_	8	T	8:T	_
+3	1	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	2005	_	Word	Word	_	2	C	2:C	_
+6	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	he	_	Word	Word	_	8	A	8:A	_
+8	anchored	_	Word	Word	_	0	H	0:H	_
+9	World	_	Word	Word	_	8	A	8:A	_
+10	News	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	Tonight	_	Word	Word	_	9	Terminal	9:Terminal	_
+12	for	_	Word	Word	_	15	R	15:R	_
+13	the	_	Word	Word	_	15	E	15:E	_
+14	last	_	Word	Word	_	15	E	15:E	_
+15	time	_	Word	Word	_	8	D	8:D	_
+16	;	_	Punctuation	Punctuation	_	8	U	8:U	_
+17	his	_	Word	Word	_	19	A	19:A	_
+18	poor	_	Word	Word	_	19	D	19:D	_
+19	health	_	Word	Word	_	21	A	21:A	_
+20	also	_	Word	Word	_	21	D	21:D	_
+21	prevented	_	Word	Word	_	8	H	8:H	_
+22	him	_	Word	Word	_	21	A	21:A	_
+23	from	_	Word	Word	_	24	R	24:R	_
+24	covering	_	Word	Word	_	21	A	21:A	_
+25	the	_	Word	Word	_	26	E	26:E	_
+26	death	_	Word	Word	_	24	A	24:A	_
+27	and	_	Word	Word	_	26	N	26:N	_
+28	funeral	_	Word	Word	_	26	C	26:C	_
+29	of	_	Word	Word	_	30	R	30:R	_
+30	Pope	_	Word	Word	_	26	A	26:A	_
+31	John	_	Word	Word	_	30	Terminal	30:Terminal	_
+32	Paul	_	Word	Word	_	30	Terminal	30:Terminal	_
+33	II	_	Word	Word	_	30	Terminal	30:Terminal	_
+34	.	_	Punctuation	Punctuation	_	30	U	30:U	_
+

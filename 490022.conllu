@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 490022
+# text = Bana appeared on the British motoring show Top Gear on 15 November 2009 as a guest for its " Star in a Reasonably Priced Car " segment .
+1	Bana	_	Word	Word	_	2	A	2:A	_
+2	appeared	_	Word	Word	_	0	H	0:H	_
+3	on	_	Word	Word	_	8	R	8:R	_
+4	the	_	Word	Word	_	8	E	8:E	_
+5	British	_	Word	Word	_	7	E	7:E	_
+6	motoring	_	Word	Word	_	7	E	7:E	_
+7	show	_	Word	Word	_	8	E	8:E	_
+8	Top	_	Word	Word	_	2	A	2:A	_
+9	Gear	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	on	_	Word	Word	_	11	R	11:R	_
+11	15	_	Word	Word	_	2	T	2:T	_
+12	November	_	Word	Word	_	11	C	11:C	_
+13	2009	_	Word	Word	_	11	C	11:C	_
+14	as	_	Word	Word	_	16	R	16:R	_
+15	a	_	Word	Word	_	16	E	16:E	_
+16	guest	_	Word	Word	_	2	A	2:A	_
+17	for	_	Word	Word	_	20	R	20:R	_
+18	its	_	Word	Word	_	20	E	20:E	_
+19	"	_	Punctuation	Punctuation	_	20	U	20:U	_
+20	Star	_	Word	Word	_	16	A	16:A	_
+21	in	_	Word	Word	_	25	R	25:R	_
+22	a	_	Word	Word	_	25	F	25:F	_
+23	Reasonably	_	Word	Word	_	24	D	24:D	_
+24	Priced	_	Word	Word	_	25	E	25:E	_
+25	Car	_	Word	Word	_	20	E	20:E	_
+26	"	_	Punctuation	Punctuation	_	20	U	20:U	_
+27	segment	_	Word	Word	_	20	E	20:E	_
+28	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+

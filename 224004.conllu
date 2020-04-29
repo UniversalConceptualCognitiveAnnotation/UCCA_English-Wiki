@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 224004
+# text = Despite the film 's failure , Lo Wei continued producing films with similar themes , resulting in little improvement at the box office .
+1	Despite	_	Word	Word	_	10	L	10:L	_
+2	the	_	Word	Word	_	3	F	3:F	_
+3	film	_	Word	Word	_	5	A	5:A	_
+4	's	_	Word	Word	_	3	R	3:R	_
+5	failure	_	Word	Word	_	0	H	0:H	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	Lo	_	Word	Word	_	10	A	10:A	_
+8	Wei	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	continued	_	Word	Word	_	10	D	10:D	_
+10	producing	_	Word	Word	_	5	H	5:H	_
+11	films	_	Word	Word	_	10	A	10:A	_
+12	with	_	Word	Word	_	14	R	14:R	_
+13	similar	_	Word	Word	_	14	E	14:E	_
+14	themes	_	Word	Word	_	11	E	11:E	_
+15	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+16	resulting	_	Word	Word	_	19	L	19:L	_
+17	in	_	Word	Word	_	16	R	16:R	_
+18	little	_	Word	Word	_	19	D	19:D	_
+19	improvement	_	Word	Word	_	5	H	5:H	_
+20	at	_	Word	Word	_	23	R	23:R	_
+21	the	_	Word	Word	_	23	F	23:F	_
+22	box	_	Word	Word	_	23	E	23:E	_
+23	office	_	Word	Word	_	19	A	19:A	_
+24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

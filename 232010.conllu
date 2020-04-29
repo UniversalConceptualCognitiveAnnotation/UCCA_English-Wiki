@@ -1,0 +1,45 @@
+# format = ucca
+# sent_id = 232010
+# text = The day before the Beijing Olympics opened , Chan released one of the two official Olympics albums , Official Album for the Beijing 2008 Olympic Games - Jackie Chan 's Version , which featured a number of special guest appearances .
+1	The	_	Word	Word	_	2	F	2:F	_
+2	day	_	Word	Word	_	10	L	10:L	_
+3	before	_	Word	Word	_	2	R	2:R	_
+4	the	_	Word	Word	_	6	F	6:F	_
+5	Beijing	_	Word	Word	_	6	E	6:E	_
+6	Olympics	_	Word	Word	_	7	A	7:A	_
+7	opened	_	Word	Word	_	0	H	0:H	_
+8	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	Chan	_	Word	Word	_	10	A	10:A	_
+10	released	_	Word	Word	_	7	H	7:H	_
+11	one	_	Word	Word	_	17	Q	17:Q	_
+12	of	_	Word	Word	_	14	R	14:R	_
+13	the	_	Word	Word	_	14	F	14:F	_
+14	two	_	Word	Word	_	11	E	11:E	_
+15	official	_	Word	Word	_	17	E	17:E	_
+16	Olympics	_	Word	Word	_	17	E	17:E	_
+17	albums	_	Word	Word	_	19	E	19:E	_
+18	,	_	Punctuation	Punctuation	_	19	U	19:U	_
+19	Official	_	Word	Word	_	10	A	10:A	_
+20	Album	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	for	_	Word	Word	_	19	Terminal	19:Terminal	_
+22	the	_	Word	Word	_	19	Terminal	19:Terminal	_
+23	Beijing	_	Word	Word	_	19	Terminal	19:Terminal	_
+24	2008	_	Word	Word	_	19	Terminal	19:Terminal	_
+25	Olympic	_	Word	Word	_	19	Terminal	19:Terminal	_
+26	Games	_	Word	Word	_	19	Terminal	19:Terminal	_
+27	-	_	Punctuation	Punctuation	_	19	U	19:U	_
+28	Jackie	_	Word	Word	_	19	Terminal	19:Terminal	_
+29	Chan	_	Word	Word	_	19	Terminal	19:Terminal	_
+30	's	_	Word	Word	_	19	Terminal	19:Terminal	_
+31	Version	_	Word	Word	_	19	Terminal	19:Terminal	_
+32	,	_	Punctuation	Punctuation	_	19	U	19:U	_
+33	which	_	Word	Word	_	40	R	40:R	_
+34	featured	_	Word	Word	_	40	D	40:D	_
+35	a	_	Word	Word	_	40	F	40:F	_
+36	number	_	Word	Word	_	40	D	40:D	_
+37	of	_	Word	Word	_	36	R	36:R	_
+38	special	_	Word	Word	_	40	D	40:D	_
+39	guest	_	Word	Word	_	40	A	40:A	_
+40	appearances	_	Word	Word	_	19	E	19:E	_
+41	.	_	Punctuation	Punctuation	_	40	U	40:U	_
+

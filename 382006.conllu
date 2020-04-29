@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 382006
+# text = On December 19 , 2011 , he was announced as a jury member for the 62nd Berlin International Film Festival that was held in February 2012 .
+1	On	_	Word	Word	_	2	R	2:R	_
+2	December	_	Word	Word	_	9	T	9:T	_
+3	19	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	2011	_	Word	Word	_	2	C	2:C	_
+6	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+7	he	_	Word	Word	_	9	A	9:A|12:A	_
+8	was	_	Word	Word	_	9	F	9:F	_
+9	announced	_	Word	Word	_	0	H	0:H	_
+10	as	_	Word	Word	_	12	R	12:R	_
+11	a	_	Word	Word	_	12	F	12:F	_
+12	jury	_	Word	Word	_	9	A	9:A	_
+13	member	_	Word	Word	_	12	D	12:D	_
+14	for	_	Word	Word	_	17	R	17:R	_
+15	the	_	Word	Word	_	17	F	17:F	_
+16	62nd	_	Word	Word	_	17	Q	17:Q	_
+17	Berlin	_	Word	Word	_	12	A	12:A	_
+18	International	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	Film	_	Word	Word	_	17	Terminal	17:Terminal	_
+20	Festival	_	Word	Word	_	17	Terminal	17:Terminal	_
+21	that	_	Word	Word	_	23	R	23:R	_
+22	was	_	Word	Word	_	23	F	23:F	_
+23	held	_	Word	Word	_	17	E	17:E	_
+24	in	_	Word	Word	_	25	R	25:R	_
+25	February	_	Word	Word	_	23	T	23:T	_
+26	2012	_	Word	Word	_	25	C	25:C	_
+27	.	_	Punctuation	Punctuation	_	25	U	25:U	_
+

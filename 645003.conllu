@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 645003
+# text = He bought Julian a Gibson Les Paul guitar and other instruments , and encouraged his interest in music by demonstrating guitar chord techniques .
+1	He	_	Word	Word	_	2	A	2:A|14:A|20:A	_
+2	bought	_	Word	Word	_	0	H	0:H	_
+3	Julian	_	Word	Word	_	2	A	2:A	_
+4	a	_	Word	Word	_	8	E	8:E	_
+5	Gibson	_	Word	Word	_	8	E	8:E	_
+6	Les	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	Paul	_	Word	Word	_	5	Terminal	5:Terminal	_
+8	guitar	_	Word	Word	_	2	A	2:A	_
+9	and	_	Word	Word	_	8	N	8:N	_
+10	other	_	Word	Word	_	11	E	11:E	_
+11	instruments	_	Word	Word	_	8	C	8:C	_
+12	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+13	and	_	Word	Word	_	14	L	14:L	_
+14	encouraged	_	Word	Word	_	2	H	2:H	_
+15	his	_	Word	Word	_	16	A	16:A	_
+16	interest	_	Word	Word	_	14	A	14:A	_
+17	in	_	Word	Word	_	18	R	18:R	_
+18	music	_	Word	Word	_	16	A	16:A	_
+19	by	_	Word	Word	_	20	R	20:R	_
+20	demonstrating	_	Word	Word	_	14	A	14:A	_
+21	guitar	_	Word	Word	_	23	E	23:E	_
+22	chord	_	Word	Word	_	23	E	23:E	_
+23	techniques	_	Word	Word	_	20	A	20:A	_
+24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 546023
+# text = When Harry Warner died on July 27 , 1958 , Jack avoided the funeral and departed for his annual vacation at Cap d ' Antibes .
+1	When	_	Word	Word	_	12	L	12:L	_
+2	Harry	_	Word	Word	_	4	A	4:A	_
+3	Warner	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	died	_	Word	Word	_	0	H	0:H	_
+5	on	_	Word	Word	_	6	R	6:R	_
+6	July	_	Word	Word	_	4	T	4:T	_
+7	27	_	Word	Word	_	6	C	6:C	_
+8	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+9	1958	_	Word	Word	_	6	C	6:C	_
+10	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+11	Jack	_	Word	Word	_	12	A	12:A|16:A	_
+12	avoided	_	Word	Word	_	4	H	4:H	_
+13	the	_	Word	Word	_	14	F	14:F	_
+14	funeral	_	Word	Word	_	12	A	12:A	_
+15	and	_	Word	Word	_	16	L	16:L	_
+16	departed	_	Word	Word	_	4	H	4:H	_
+17	for	_	Word	Word	_	20	R	20:R	_
+18	his	_	Word	Word	_	20	A	20:A	_
+19	annual	_	Word	Word	_	20	D	20:D	_
+20	vacation	_	Word	Word	_	16	A	16:A	_
+21	at	_	Word	Word	_	22	R	22:R	_
+22	Cap	_	Word	Word	_	20	A	20:A	_
+23	d	_	Word	Word	_	22	Terminal	22:Terminal	_
+24	'	_	Punctuation	Punctuation	_	22	U	22:U	_
+25	Antibes	_	Word	Word	_	22	Terminal	22:Terminal	_
+26	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+

@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 673003
+# text = She later apologized on The Today Show , explaining how she did her best effort despite the circumstances .
+1	She	_	Word	Word	_	3	A	3:A|9:A	_
+2	later	_	Word	Word	_	3	T	3:T	_
+3	apologized	_	Word	Word	_	0	H	0:H	_
+4	on	_	Word	Word	_	5	R	5:R	_
+5	The	_	Word	Word	_	3	A	3:A	_
+6	Today	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	Show	_	Word	Word	_	5	Terminal	5:Terminal	_
+8	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+9	explaining	_	Word	Word	_	3	H	3:H	_
+10	how	_	Word	Word	_	9	A	9:A	_
+11	she	_	Word	Word	_	15	A	15:A	_
+12	did	_	Word	Word	_	15	F	15:F	_
+13	her	_	Word	Word	_	15	A	15:A	_
+14	best	_	Word	Word	_	15	D	15:D	_
+15	effort	_	Word	Word	_	10	E	10:E	_
+16	despite	_	Word	Word	_	18	L	18:L	_
+17	the	_	Word	Word	_	18	E	18:E	_
+18	circumstances	_	Word	Word	_	15	H	15:H	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

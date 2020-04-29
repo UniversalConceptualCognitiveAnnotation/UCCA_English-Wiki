@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 149009
+# text = By 1997 she had become very weak , was speaking and eating very little , and it was feared she would die .
+1	By	_	Word	Word	_	2	R	2:R	_
+2	1997	_	Word	Word	_	7	T	7:T	_
+3	she	_	Word	Word	_	7	A	7:A|10:A|12:A	_
+4	had	_	Word	Word	_	7	F	7:F	_
+5	become	_	Word	Word	_	7	D	7:D	_
+6	very	_	Word	Word	_	7	D	7:D	_
+7	weak	_	Word	Word	_	0	H	0:H	_
+8	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	was	_	Word	Word	_	10	F	10:F	_
+10	speaking	_	Word	Word	_	7	H	7:H	_
+11	and	_	Word	Word	_	12	L	12:L	_
+12	eating	_	Word	Word	_	7	H	7:H	_
+13	very	_	Word	Word	_	14	E	14:E	_
+14	little	_	Word	Word	_	10	D	10:D|12:D	_
+15	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+16	and	_	Word	Word	_	19	L	19:L	_
+17	it	_	Word	Word	_	19	F	19:F	_
+18	was	_	Word	Word	_	19	F	19:F	_
+19	feared	_	Word	Word	_	7	H	7:H	_
+20	she	_	Word	Word	_	22	A	22:A	_
+21	would	_	Word	Word	_	22	F	22:F	_
+22	die	_	Word	Word	_	19	A	19:A	_
+23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+

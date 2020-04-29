@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 380009
+# text = In 2007 , Gyllenhaal starred in David Fincher 's Zodiac , which was based on a true story .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	2007	_	Word	Word	_	5	T	5:T	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	Gyllenhaal	_	Word	Word	_	5	A	5:A	_
+5	starred	_	Word	Word	_	0	H	0:H	_
+6	in	_	Word	Word	_	10	R	10:R	_
+7	David	_	Word	Word	_	9	A	9:A	_
+8	Fincher	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	's	_	Word	Word	_	10	E	10:E	_
+10	Zodiac	_	Word	Word	_	5	A	5:A	_
+11	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	which	_	Word	Word	_	14	R	14:R	_
+13	was	_	Word	Word	_	14	F	14:F	_
+14	based	_	Word	Word	_	10	E	10:E	_
+15	on	_	Word	Word	_	18	R	18:R	_
+16	a	_	Word	Word	_	18	F	18:F	_
+17	true	_	Word	Word	_	18	E	18:E	_
+18	story	_	Word	Word	_	14	A	14:A	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

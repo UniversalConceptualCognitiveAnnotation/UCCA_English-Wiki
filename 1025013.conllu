@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 1025013
+# text = Jackson 's purchase of ATV Music was finalized August 10 , 1985 .
+1	Jackson	_	Word	Word	_	3	A	3:A	_
+2	's	_	Word	Word	_	1	R	1:R	_
+3	purchase	_	Word	Word	_	0	H	0:H	_
+4	of	_	Word	Word	_	5	R	5:R	_
+5	ATV	_	Word	Word	_	3	A	3:A	_
+6	Music	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	was	_	Word	Word	_	3	F	3:F	_
+8	finalized	_	Word	Word	_	3	D	3:D	_
+9	August	_	Word	Word	_	3	T	3:T	_
+10	10	_	Word	Word	_	9	C	9:C	_
+11	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+12	1985	_	Word	Word	_	9	C	9:C	_
+13	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

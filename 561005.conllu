@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 561005
+# text = After his first appearance , on January 28 , Presley stayed in town to record at RCA 's New York studio .
+1	After	_	Word	Word	_	12	L	12:L	_
+2	his	_	Word	Word	_	4	A	4:A	_
+3	first	_	Word	Word	_	4	D	4:D	_
+4	appearance	_	Word	Word	_	0	H	0:H	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	on	_	Word	Word	_	7	R	7:R	_
+7	January	_	Word	Word	_	4	T	4:T	_
+8	28	_	Word	Word	_	7	C	7:C	_
+9	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+10	Presley	_	Word	Word	_	12	A	12:A|15:A	_
+11	stayed	_	Word	Word	_	12	D	12:D	_
+12	in	_	Word	Word	_	4	H	4:H	_
+13	town	_	Word	Word	_	12	A	12:A	_
+14	to	_	Word	Word	_	15	L	15:L	_
+15	record	_	Word	Word	_	4	H	4:H	_
+16	at	_	Word	Word	_	21	R	21:R	_
+17	RCA	_	Word	Word	_	18	A	18:A	_
+18	's	_	Word	Word	_	21	E	21:E	_
+19	New	_	Word	Word	_	21	E	21:E	_
+20	York	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	studio	_	Word	Word	_	15	A	15:A	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

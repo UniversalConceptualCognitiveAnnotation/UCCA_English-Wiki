@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 466012
+# text = Johnson was a part - owner of the Lakers for several years , and was part of a group that purchased the Los Angeles Dodgers in 2012 .
+1	Johnson	_	Word	Word	_	6	A	6:A|16:A	_
+2	was	_	Word	Word	_	6	F	6:F	_
+3	a	_	Word	Word	_	6	F	6:F	_
+4	part	_	Word	Word	_	6	D	6:D	_
+5	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+6	owner	_	Word	Word	_	0	H	0:H	_
+7	of	_	Word	Word	_	9	R	9:R	_
+8	the	_	Word	Word	_	9	E	9:E	_
+9	Lakers	_	Word	Word	_	6	A	6:A	_
+10	for	_	Word	Word	_	12	R	12:R	_
+11	several	_	Word	Word	_	12	Q	12:Q	_
+12	years	_	Word	Word	_	6	T	6:T	_
+13	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+14	and	_	Word	Word	_	16	L	16:L	_
+15	was	_	Word	Word	_	16	F	16:F	_
+16	part	_	Word	Word	_	6	H	6:H	_
+17	of	_	Word	Word	_	19	R	19:R	_
+18	a	_	Word	Word	_	19	F	19:F	_
+19	group	_	Word	Word	_	16	A	16:A	_
+20	that	_	Word	Word	_	21	R	21:R	_
+21	purchased	_	Word	Word	_	19	E	19:E	_
+22	the	_	Word	Word	_	23	E	23:E	_
+23	Los	_	Word	Word	_	21	A	21:A	_
+24	Angeles	_	Word	Word	_	23	Terminal	23:Terminal	_
+25	Dodgers	_	Word	Word	_	23	Terminal	23:Terminal	_
+26	in	_	Word	Word	_	27	R	27:R	_
+27	2012	_	Word	Word	_	21	T	21:T	_
+28	.	_	Punctuation	Punctuation	_	27	U	27:U	_
+

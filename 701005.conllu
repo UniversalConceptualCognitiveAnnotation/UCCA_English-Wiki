@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 701005
+# text = Rolling Stone magazine writer Greil Marcus notoriously asked " What is this shit ? "
+1	Rolling	_	Word	Word	_	4	A	4:A	_
+2	Stone	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	magazine	_	Word	Word	_	1	E	1:E	_
+4	writer	_	Word	Word	_	5	E	5:E	_
+5	Greil	_	Word	Word	_	8	A	8:A	_
+6	Marcus	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	notoriously	_	Word	Word	_	8	G	8:G	_
+8	asked	_	Word	Word	_	0	H	0:H	_
+9	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+10	What	_	Word	Word	_	11	A	11:A	_
+11	is	_	Word	Word	_	8	A	8:A	_
+12	this	_	Word	Word	_	13	E	13:E	_
+13	shit	_	Word	Word	_	11	A	11:A	_
+14	?	_	Punctuation	Punctuation	_	13	U	13:U	_
+15	"	_	Punctuation	Punctuation	_	13	U	13:U	_
+

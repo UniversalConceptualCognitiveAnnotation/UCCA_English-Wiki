@@ -1,0 +1,35 @@
+# format = ucca
+# sent_id = 469005
+# text = He also joined Wilt Chamberlain and Oscar Robertson as the only NBA players to tally at least 700 points , 700 rebounds , and 700 assists in the same season .
+1	He	_	Word	Word	_	3	A	3:A|22:A|26:A	_
+2	also	_	Word	Word	_	3	L	3:L	_
+3	joined	_	Word	Word	_	0	H	0:H	_
+4	Wilt	_	Word	Word	_	3	A	3:A	_
+5	Chamberlain	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	and	_	Word	Word	_	4	N	4:N	_
+7	Oscar	_	Word	Word	_	4	C	4:C	_
+8	Robertson	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	as	_	Word	Word	_	13	R	13:R	_
+10	the	_	Word	Word	_	13	E	13:E	_
+11	only	_	Word	Word	_	13	D	13:D	_
+12	NBA	_	Word	Word	_	13	A	13:A	_
+13	players	_	Word	Word	_	15	A	15:A	_
+14	to	_	Word	Word	_	15	F	15:F	_
+15	tally	_	Word	Word	_	3	A	3:A	_
+16	at	_	Word	Word	_	19	E	19:E	_
+17	least	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	700	_	Word	Word	_	19	Q	19:Q	_
+19	points	_	Word	Word	_	15	A	15:A	_
+20	,	_	Punctuation	Punctuation	_	19	U	19:U	_
+21	700	_	Word	Word	_	22	Q	22:Q	_
+22	rebounds	_	Word	Word	_	19	C	19:C	_
+23	,	_	Punctuation	Punctuation	_	19	U	19:U	_
+24	and	_	Word	Word	_	19	N	19:N	_
+25	700	_	Word	Word	_	26	Q	26:Q	_
+26	assists	_	Word	Word	_	19	C	19:C	_
+27	in	_	Word	Word	_	30	R	30:R	_
+28	the	_	Word	Word	_	30	E	30:E	_
+29	same	_	Word	Word	_	30	E	30:E	_
+30	season	_	Word	Word	_	15	T	15:T	_
+31	.	_	Punctuation	Punctuation	_	30	U	30:U	_
+

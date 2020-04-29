@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 1025012
+# text = He also agreed to visit Holmes à Court in Australia , where he would appear on the Channel Seven Perth Telethon .
+1	He	_	Word	Word	_	3	A	3:A|5:A	_
+2	also	_	Word	Word	_	3	D	3:D	_
+3	agreed	_	Word	Word	_	0	H	0:H	_
+4	to	_	Word	Word	_	5	F	5:F	_
+5	visit	_	Word	Word	_	3	A	3:A	_
+6	Holmes	_	Word	Word	_	5	A	5:A	_
+7	à	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	Court	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	in	_	Word	Word	_	10	R	10:R	_
+10	Australia	_	Word	Word	_	5	A	5:A	_
+11	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	where	_	Word	Word	_	15	R	15:R	_
+13	he	_	Word	Word	_	15	A	15:A	_
+14	would	_	Word	Word	_	15	D	15:D	_
+15	appear	_	Word	Word	_	10	E	10:E	_
+16	on	_	Word	Word	_	21	R	21:R	_
+17	the	_	Word	Word	_	21	F	21:F	_
+18	Channel	_	Word	Word	_	21	A	21:A	_
+19	Seven	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	Perth	_	Word	Word	_	21	A	21:A	_
+21	Telethon	_	Word	Word	_	15	A	15:A	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

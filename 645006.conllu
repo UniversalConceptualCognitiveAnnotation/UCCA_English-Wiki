@@ -1,0 +1,41 @@
+# format = ucca
+# sent_id = 645006
+# text = He said he was trying to re - establish a connection with the then 17 - year - old , and confidently predicted , " Julian and I will have a relationship in the future . "
+1	He	_	Word	Word	_	2	A	2:A	_
+2	said	_	Word	Word	_	0	H	0:H	_
+3	he	_	Word	Word	_	9	A	9:A|11:A|23:A	_
+4	was	_	Word	Word	_	9	F	9:F	_
+5	trying	_	Word	Word	_	9	D	9:D	_
+6	to	_	Word	Word	_	9	F	9:F	_
+7	re	_	Word	Word	_	9	E	9:E	_
+8	-	_	Punctuation	Punctuation	_	9	U	9:U	_
+9	establish	_	Word	Word	_	2	A	2:A	_
+10	a	_	Word	Word	_	11	E	11:E	_
+11	connection	_	Word	Word	_	9	A	9:A	_
+12	with	_	Word	Word	_	19	R	19:R	_
+13	the	_	Word	Word	_	19	E	19:E	_
+14	then	_	Word	Word	_	19	R	19:R	_
+15	17	_	Word	Word	_	17	Q	17:Q	_
+16	-	_	Punctuation	Punctuation	_	17	U	17:U	_
+17	year	_	Word	Word	_	19	T	19:T	_
+18	-	_	Punctuation	Punctuation	_	19	U	19:U	_
+19	old	_	Word	Word	_	11	A	11:A	_
+20	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+21	and	_	Word	Word	_	23	L	23:L	_
+22	confidently	_	Word	Word	_	23	D	23:D	_
+23	predicted	_	Word	Word	_	2	H	2:H	_
+24	,	_	Punctuation	Punctuation	_	23	U	23:U	_
+25	"	_	Punctuation	Punctuation	_	23	U	23:U	_
+26	Julian	_	Word	Word	_	32	A	32:A	_
+27	and	_	Word	Word	_	26	N	26:N	_
+28	I	_	Word	Word	_	26	C	26:C	_
+29	will	_	Word	Word	_	32	F	32:F	_
+30	have	_	Word	Word	_	32	F	32:F	_
+31	a	_	Word	Word	_	32	E	32:E	_
+32	relationship	_	Word	Word	_	23	A	23:A	_
+33	in	_	Word	Word	_	35	R	35:R	_
+34	the	_	Word	Word	_	35	E	35:E	_
+35	future	_	Word	Word	_	32	T	32:T	_
+36	.	_	Punctuation	Punctuation	_	35	U	35:U	_
+37	"	_	Punctuation	Punctuation	_	35	U	35:U	_
+

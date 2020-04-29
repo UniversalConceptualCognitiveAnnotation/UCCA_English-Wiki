@@ -1,0 +1,41 @@
+# format = ucca
+# sent_id = 474005
+# text = Johnson , who still had a guaranteed player contract that would pay him $ 14.6 million during the 1994 - 95 NBA season , signed a separate contract to coach the team that had no compensation .
+1	Johnson	_	Word	Word	_	25	A	25:A	_
+2	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+3	who	_	Word	Word	_	5	R	5:R	_
+4	still	_	Word	Word	_	5	D	5:D	_
+5	had	_	Word	Word	_	1	E	1:E	_
+6	a	_	Word	Word	_	9	F	9:F	_
+7	guaranteed	_	Word	Word	_	9	E	9:E	_
+8	player	_	Word	Word	_	9	E	9:E	_
+9	contract	_	Word	Word	_	5	A	5:A	_
+10	that	_	Word	Word	_	12	R	12:R	_
+11	would	_	Word	Word	_	12	F	12:F	_
+12	pay	_	Word	Word	_	9	E	9:E	_
+13	him	_	Word	Word	_	12	A	12:A	_
+14	$	_	Word	Word	_	12	A	12:A	_
+15	14.6	_	Word	Word	_	14	Q	14:Q	_
+16	million	_	Word	Word	_	15	C	15:C	_
+17	during	_	Word	Word	_	23	L	23:L	_
+18	the	_	Word	Word	_	23	F	23:F	_
+19	1994	_	Word	Word	_	23	T	23:T	_
+20	-	_	Punctuation	Punctuation	_	19	U	19:U	_
+21	95	_	Word	Word	_	19	C	19:C	_
+22	NBA	_	Word	Word	_	23	A	23:A	_
+23	season	_	Word	Word	_	12	H	12:H	_
+24	,	_	Punctuation	Punctuation	_	25	U	25:U	_
+25	signed	_	Word	Word	_	0	H	0:H	_
+26	a	_	Word	Word	_	28	F	28:F	_
+27	separate	_	Word	Word	_	28	E	28:E	_
+28	contract	_	Word	Word	_	25	A	25:A	_
+29	to	_	Word	Word	_	30	F	30:F	_
+30	coach	_	Word	Word	_	28	E	28:E	_
+31	the	_	Word	Word	_	32	F	32:F	_
+32	team	_	Word	Word	_	30	A	30:A	_
+33	that	_	Word	Word	_	34	F	34:F	_
+34	had	_	Word	Word	_	28	E	28:E	_
+35	no	_	Word	Word	_	34	D	34:D	_
+36	compensation	_	Word	Word	_	34	A	34:A	_
+37	.	_	Punctuation	Punctuation	_	34	U	34:U	_
+

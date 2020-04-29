@@ -1,0 +1,36 @@
+# format = ucca
+# sent_id = 591013
+# text = He also appeared in the music video of " My Valentine " from the album Kisses on the Bottom by Paul McCartney released in February 2012 , along with Natalie Portman .
+1	He	_	Word	Word	_	3	A	3:A	_
+2	also	_	Word	Word	_	3	D	3:D	_
+3	appeared	_	Word	Word	_	0	H	0:H	_
+4	in	_	Word	Word	_	7	R	7:R	_
+5	the	_	Word	Word	_	7	E	7:E	_
+6	music	_	Word	Word	_	7	E	7:E	_
+7	video	_	Word	Word	_	3	A	3:A	_
+8	of	_	Word	Word	_	10	R	10:R	_
+9	"	_	Punctuation	Punctuation	_	10	U	10:U	_
+10	My	_	Word	Word	_	7	E	7:E	_
+11	Valentine	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	"	_	Punctuation	Punctuation	_	10	U	10:U	_
+13	from	_	Word	Word	_	16	R	16:R	_
+14	the	_	Word	Word	_	15	E	15:E	_
+15	album	_	Word	Word	_	16	E	16:E	_
+16	Kisses	_	Word	Word	_	10	E	10:E	_
+17	on	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	the	_	Word	Word	_	16	Terminal	16:Terminal	_
+19	Bottom	_	Word	Word	_	16	Terminal	16:Terminal	_
+20	by	_	Word	Word	_	16	E	16:E	_
+21	Paul	_	Word	Word	_	20	A	20:A	_
+22	McCartney	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	released	_	Word	Word	_	16	E	16:E	_
+24	in	_	Word	Word	_	25	R	25:R	_
+25	February	_	Word	Word	_	23	T	23:T	_
+26	2012	_	Word	Word	_	25	C	25:C	_
+27	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+28	along	_	Word	Word	_	30	R	30:R	_
+29	with	_	Word	Word	_	28	Terminal	28:Terminal	_
+30	Natalie	_	Word	Word	_	3	A	3:A	_
+31	Portman	_	Word	Word	_	30	Terminal	30:Terminal	_
+32	.	_	Punctuation	Punctuation	_	30	U	30:U	_
+

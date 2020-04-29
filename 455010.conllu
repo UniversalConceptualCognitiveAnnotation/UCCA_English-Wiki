@@ -1,0 +1,51 @@
+# format = ucca
+# sent_id = 455010
+# text = It was World News Tonight , however , that ended the year at the top ; ABC 's evening newscast spent the last 13 weeks of the year in first place , and its average ratings for the entire year beat CBS for the first time .
+1	It	_	Word	Word	_	15	F	15:F	_
+2	was	_	Word	Word	_	15	F	15:F	_
+3	World	_	Word	Word	_	15	A	15:A	_
+4	News	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	Tonight	_	Word	Word	_	3	Terminal	3:Terminal	_
+6	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+7	however	_	Word	Word	_	31	L	31:L	_
+8	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+9	that	_	Word	Word	_	15	F	15:F	_
+10	ended	_	Word	Word	_	15	D	15:D	_
+11	the	_	Word	Word	_	12	E	12:E	_
+12	year	_	Word	Word	_	15	T	15:T	_
+13	at	_	Word	Word	_	15	R	15:R	_
+14	the	_	Word	Word	_	15	E	15:E	_
+15	top	_	Word	Word	_	0	H	0:H	_
+16	;	_	Punctuation	Punctuation	_	15	U	15:U	_
+17	ABC	_	Word	Word	_	20	E	20:E	_
+18	's	_	Word	Word	_	17	R	17:R	_
+19	evening	_	Word	Word	_	20	E	20:E	_
+20	newscast	_	Word	Word	_	31	A	31:A	_
+21	spent	_	Word	Word	_	31	F	31:F	_
+22	the	_	Word	Word	_	25	E	25:E	_
+23	last	_	Word	Word	_	25	E	25:E	_
+24	13	_	Word	Word	_	25	Q	25:Q	_
+25	weeks	_	Word	Word	_	31	T	31:T	_
+26	of	_	Word	Word	_	28	R	28:R	_
+27	the	_	Word	Word	_	28	E	28:E	_
+28	year	_	Word	Word	_	25	E	25:E	_
+29	in	_	Word	Word	_	31	R	31:R	_
+30	first	_	Word	Word	_	31	E	31:E	_
+31	place	_	Word	Word	_	15	H	15:H	_
+32	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+33	and	_	Word	Word	_	41	L	41:L	_
+34	its	_	Word	Word	_	36	E	36:E	_
+35	average	_	Word	Word	_	36	E	36:E	_
+36	ratings	_	Word	Word	_	41	A	41:A	_
+37	for	_	Word	Word	_	40	R	40:R	_
+38	the	_	Word	Word	_	40	E	40:E	_
+39	entire	_	Word	Word	_	40	E	40:E	_
+40	year	_	Word	Word	_	36	E	36:E	_
+41	beat	_	Word	Word	_	15	H	15:H	_
+42	CBS	_	Word	Word	_	41	A	41:A	_
+43	for	_	Word	Word	_	46	R	46:R	_
+44	the	_	Word	Word	_	46	E	46:E	_
+45	first	_	Word	Word	_	46	E	46:E	_
+46	time	_	Word	Word	_	41	D	41:D	_
+47	.	_	Punctuation	Punctuation	_	46	U	46:U	_
+

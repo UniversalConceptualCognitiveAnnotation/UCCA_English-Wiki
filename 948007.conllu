@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 948007
+# text = They married on September 14 , 2002 , with a wedding in St Paul ' s , Covent Garden , London .
+1	They	_	Word	Word	_	2	A	2:A|11:A	_
+2	married	_	Word	Word	_	0	H	0:H	_
+3	on	_	Word	Word	_	4	R	4:R	_
+4	September	_	Word	Word	_	2	T	2:T	_
+5	14	_	Word	Word	_	4	C	4:C	_
+6	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+7	2002	_	Word	Word	_	4	C	4:C	_
+8	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+9	with	_	Word	Word	_	11	L	11:L	_
+10	a	_	Word	Word	_	11	E	11:E	_
+11	wedding	_	Word	Word	_	2	H	2:H	_
+12	in	_	Word	Word	_	13	R	13:R	_
+13	St	_	Word	Word	_	11	A	11:A	_
+14	Paul	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	'	_	Punctuation	Punctuation	_	13	U	13:U	_
+16	s	_	Word	Word	_	13	Terminal	13:Terminal	_
+17	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+18	Covent	_	Word	Word	_	13	C	13:C	_
+19	Garden	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+21	London	_	Word	Word	_	13	C	13:C	_
+22	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

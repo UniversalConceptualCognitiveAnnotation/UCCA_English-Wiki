@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 610014
+# text = In 2006 , McCartney released the classical work Ecce Cor Meum .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	2006	_	Word	Word	_	5	T	5:T	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	McCartney	_	Word	Word	_	5	A	5:A	_
+5	released	_	Word	Word	_	0	H	0:H	_
+6	the	_	Word	Word	_	8	F	8:F	_
+7	classical	_	Word	Word	_	8	E	8:E	_
+8	work	_	Word	Word	_	9	E	9:E	_
+9	Ecce	_	Word	Word	_	5	A	5:A	_
+10	Cor	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	Meum	_	Word	Word	_	9	Terminal	9:Terminal	_
+12	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 616012
+# text = In September 2000 , the first UK exhibition of McCartney 's paintings opened , featuring 500 canvases at the Arnolfini Gallery in Bristol , England .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	September	_	Word	Word	_	13	T	13:T	_
+3	2000	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+5	the	_	Word	Word	_	6	F	6:F	_
+6	first	_	Word	Word	_	8	D	8:D	_
+7	UK	_	Word	Word	_	8	A	8:A	_
+8	exhibition	_	Word	Word	_	0	P	0:P|15:A	_
+9	of	_	Word	Word	_	12	R	12:R	_
+10	McCartney	_	Word	Word	_	11	A	11:A	_
+11	's	_	Word	Word	_	12	E	12:E	_
+12	paintings	_	Word	Word	_	8	A	8:A	_
+13	opened	_	Word	Word	_	0	H	0:H	_
+14	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+15	featuring	_	Word	Word	_	13	H	13:H	_
+16	500	_	Word	Word	_	17	Q	17:Q	_
+17	canvases	_	Word	Word	_	15	A	15:A	_
+18	at	_	Word	Word	_	21	R	21:R	_
+19	the	_	Word	Word	_	21	F	21:F	_
+20	Arnolfini	_	Word	Word	_	21	E	21:E	_
+21	Gallery	_	Word	Word	_	15	A	15:A	_
+22	in	_	Word	Word	_	23	R	23:R	_
+23	Bristol	_	Word	Word	_	21	E	21:E	_
+24	,	_	Punctuation	Punctuation	_	23	U	23:U	_
+25	England	_	Word	Word	_	23	Terminal	23:Terminal	_
+26	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

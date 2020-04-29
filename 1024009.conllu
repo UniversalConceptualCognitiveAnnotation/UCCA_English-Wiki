@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 1024009
+# text = He donated all the funds ( around $ 8 million ) raised from the Victory Tour to charity .
+1	He	_	Word	Word	_	2	A	2:A	_
+2	donated	_	Word	Word	_	0	H	0:H	_
+3	all	_	Word	Word	_	5	Q	5:Q	_
+4	the	_	Word	Word	_	5	E	5:E	_
+5	funds	_	Word	Word	_	2	A	2:A	_
+6	(	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	around	_	Word	Word	_	8	E	8:E	_
+8	$	_	Word	Word	_	5	E	5:E	_
+9	8	_	Word	Word	_	8	Q	8:Q	_
+10	million	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	)	_	Punctuation	Punctuation	_	5	U	5:U	_
+12	raised	_	Word	Word	_	5	E	5:E	_
+13	from	_	Word	Word	_	15	R	15:R	_
+14	the	_	Word	Word	_	15	E	15:E	_
+15	Victory	_	Word	Word	_	12	A	12:A	_
+16	Tour	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	to	_	Word	Word	_	18	R	18:R	_
+18	charity	_	Word	Word	_	2	A	2:A	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

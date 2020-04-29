@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 537003
+# text = Following their marriage in 1876 , the couple had three children in Poland , one of whom died at a young age .
+1	Following	_	Word	Word	_	9	L	9:L	_
+2	their	_	Word	Word	_	3	A	3:A	_
+3	marriage	_	Word	Word	_	0	H	0:H	_
+4	in	_	Word	Word	_	5	R	5:R	_
+5	1876	_	Word	Word	_	3	T	3:T	_
+6	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+7	the	_	Word	Word	_	8	F	8:F	_
+8	couple	_	Word	Word	_	9	A	9:A	_
+9	had	_	Word	Word	_	3	H	3:H	_
+10	three	_	Word	Word	_	11	Q	11:Q	_
+11	children	_	Word	Word	_	9	A	9:A	_
+12	in	_	Word	Word	_	13	R	13:R	_
+13	Poland	_	Word	Word	_	9	A	9:A	_
+14	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+15	one	_	Word	Word	_	0	Q	0:Q|22:A	_
+16	of	_	Word	Word	_	18	R	18:R	_
+17	whom	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	died	_	Word	Word	_	11	E	11:E	_
+19	at	_	Word	Word	_	22	L	22:L	_
+20	a	_	Word	Word	_	22	F	22:F	_
+21	young	_	Word	Word	_	22	D	22:D	_
+22	age	_	Word	Word	_	18	H	18:H	_
+23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+

@@ -1,0 +1,37 @@
+# format = ucca
+# sent_id = 954012
+# text = Leigh appeared with Robert Taylor , Lionel Barrymore and Maureen O'Sullivan in A Yank at Oxford ( 1938 ) , the first of her films to receive attention in the United States .
+1	Leigh	_	Word	Word	_	2	A	2:A	_
+2	appeared	_	Word	Word	_	0	H	0:H	_
+3	with	_	Word	Word	_	4	R	4:R	_
+4	Robert	_	Word	Word	_	2	A	2:A	_
+5	Taylor	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+7	Lionel	_	Word	Word	_	4	C	4:C	_
+8	Barrymore	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	and	_	Word	Word	_	4	N	4:N	_
+10	Maureen	_	Word	Word	_	4	C	4:C	_
+11	O'Sullivan	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	in	_	Word	Word	_	13	R	13:R	_
+13	A	_	Word	Word	_	2	A	2:A	_
+14	Yank	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	at	_	Word	Word	_	13	Terminal	13:Terminal	_
+16	Oxford	_	Word	Word	_	13	Terminal	13:Terminal	_
+17	(	_	Punctuation	Punctuation	_	13	U	13:U	_
+18	1938	_	Word	Word	_	13	E	13:E	_
+19	)	_	Punctuation	Punctuation	_	13	U	13:U	_
+20	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+21	the	_	Word	Word	_	25	E	25:E	_
+22	first	_	Word	Word	_	25	Q	25:Q	_
+23	of	_	Word	Word	_	25	R	25:R	_
+24	her	_	Word	Word	_	25	E	25:E	_
+25	films	_	Word	Word	_	13	E	13:E	_
+26	to	_	Word	Word	_	28	F	28:F	_
+27	receive	_	Word	Word	_	28	D	28:D	_
+28	attention	_	Word	Word	_	25	E	25:E	_
+29	in	_	Word	Word	_	31	R	31:R	_
+30	the	_	Word	Word	_	31	E	31:E	_
+31	United	_	Word	Word	_	28	A	28:A	_
+32	States	_	Word	Word	_	31	Terminal	31:Terminal	_
+33	.	_	Punctuation	Punctuation	_	31	U	31:U	_
+

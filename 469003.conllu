@@ -1,0 +1,44 @@
+# format = ucca
+# sent_id = 469003
+# text = However , Buss was also unhappy with the Lakers offense and had intended on firing Westhead days before the Westhead - Johnson altercation , but assistant GMJerry West and GM Bill Sharman had convinced Buss to delay his decision .
+1	However	_	Word	Word	_	15	L	15:L	_
+2	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+3	Buss	_	Word	Word	_	6	A	6:A|15:A	_
+4	was	_	Word	Word	_	6	F	6:F	_
+5	also	_	Word	Word	_	6	D	6:D	_
+6	unhappy	_	Word	Word	_	0	H	0:H	_
+7	with	_	Word	Word	_	10	R	10:R	_
+8	the	_	Word	Word	_	9	E	9:E	_
+9	Lakers	_	Word	Word	_	10	A	10:A	_
+10	offense	_	Word	Word	_	6	A	6:A	_
+11	and	_	Word	Word	_	15	L	15:L	_
+12	had	_	Word	Word	_	15	F	15:F	_
+13	intended	_	Word	Word	_	15	D	15:D	_
+14	on	_	Word	Word	_	15	F	15:F	_
+15	firing	_	Word	Word	_	6	H	6:H	_
+16	Westhead	_	Word	Word	_	15	A	15:A	_
+17	days	_	Word	Word	_	18	E	18:E	_
+18	before	_	Word	Word	_	23	L	23:L	_
+19	the	_	Word	Word	_	20	E	20:E	_
+20	Westhead	_	Word	Word	_	23	A	23:A	_
+21	-	_	Punctuation	Punctuation	_	20	U	20:U	_
+22	Johnson	_	Word	Word	_	20	C	20:C	_
+23	altercation	_	Word	Word	_	6	H	6:H	_
+24	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+25	but	_	Word	Word	_	34	L	34:L	_
+26	assistant	_	Word	Word	_	27	E	27:E	_
+27	GMJerry	_	Word	Word	_	34	A	34:A	_
+28	West	_	Word	Word	_	27	Terminal	27:Terminal	_
+29	and	_	Word	Word	_	27	N	27:N	_
+30	GM	_	Word	Word	_	31	E	31:E	_
+31	Bill	_	Word	Word	_	27	C	27:C	_
+32	Sharman	_	Word	Word	_	31	Terminal	31:Terminal	_
+33	had	_	Word	Word	_	34	F	34:F	_
+34	convinced	_	Word	Word	_	6	H	6:H	_
+35	Buss	_	Word	Word	_	34	A	34:A	_
+36	to	_	Word	Word	_	39	F	39:F	_
+37	delay	_	Word	Word	_	39	D	39:D	_
+38	his	_	Word	Word	_	39	A	39:A	_
+39	decision	_	Word	Word	_	34	A	34:A	_
+40	.	_	Punctuation	Punctuation	_	39	U	39:U	_
+

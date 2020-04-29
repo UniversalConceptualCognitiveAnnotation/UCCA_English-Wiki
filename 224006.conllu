@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 224006
+# text = Under director Yuen Woo - ping , Chan was allowed complete freedom over his stunt work .
+1	Under	_	Word	Word	_	3	R	3:R	_
+2	director	_	Word	Word	_	3	E	3:E	_
+3	Yuen	_	Word	Word	_	12	A	12:A	_
+4	Woo	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	-	_	Punctuation	Punctuation	_	3	U	3:U	_
+6	ping	_	Word	Word	_	3	Terminal	3:Terminal	_
+7	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+8	Chan	_	Word	Word	_	12	A	12:A	_
+9	was	_	Word	Word	_	12	F	12:F	_
+10	allowed	_	Word	Word	_	12	D	12:D	_
+11	complete	_	Word	Word	_	12	D	12:D	_
+12	freedom	_	Word	Word	_	0	H	0:H	_
+13	over	_	Word	Word	_	15	R	15:R	_
+14	his	_	Word	Word	_	15	A	15:A	_
+15	stunt	_	Word	Word	_	12	A	12:A	_
+16	work	_	Word	Word	_	15	D	15:D	_
+17	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

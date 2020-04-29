@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 476000
+# text = Johnson first fathered a son in 1981 , when Andre Johnson was born to Melissa Mitchell .
+1	Johnson	_	Word	Word	_	3	A	3:A	_
+2	first	_	Word	Word	_	3	D	3:D	_
+3	fathered	_	Word	Word	_	0	H	0:H	_
+4	a	_	Word	Word	_	5	F	5:F	_
+5	son	_	Word	Word	_	3	A	3:A	_
+6	in	_	Word	Word	_	7	R	7:R	_
+7	1981	_	Word	Word	_	3	T	3:T	_
+8	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+9	when	_	Word	Word	_	13	L	13:L	_
+10	Andre	_	Word	Word	_	13	A	13:A	_
+11	Johnson	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	was	_	Word	Word	_	13	F	13:F	_
+13	born	_	Word	Word	_	3	H	3:H	_
+14	to	_	Word	Word	_	15	R	15:R	_
+15	Melissa	_	Word	Word	_	13	A	13:A	_
+16	Mitchell	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

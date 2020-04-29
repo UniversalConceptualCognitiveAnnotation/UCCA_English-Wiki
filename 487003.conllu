@@ -1,0 +1,48 @@
+# format = ucca
+# sent_id = 487003
+# text = In 1997 , in spite of his lack of experience in dramatic roles , Bana was approached by director Andrew Dominik to appear in the film Chopper ( 2000 ) , a biopic based on the life of infamous Australian criminal Chopper Read .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1997	_	Word	Word	_	17	T	17:T	_
+3	,	_	Punctuation	Punctuation	_	17	U	17:U	_
+4	in	_	Word	Word	_	5	R	5:R	_
+5	spite	_	Word	Word	_	10	L	10:L	_
+6	of	_	Word	Word	_	5	F	5:F	_
+7	his	_	Word	Word	_	10	A	10:A	_
+8	lack	_	Word	Word	_	10	D	10:D	_
+9	of	_	Word	Word	_	10	R	10:R	_
+10	experience	_	Word	Word	_	17	H	17:H	_
+11	in	_	Word	Word	_	13	R	13:R	_
+12	dramatic	_	Word	Word	_	13	E	13:E	_
+13	roles	_	Word	Word	_	10	A	10:A	_
+14	,	_	Punctuation	Punctuation	_	17	U	17:U	_
+15	Bana	_	Word	Word	_	17	A	17:A|23:A	_
+16	was	_	Word	Word	_	17	F	17:F	_
+17	approached	_	Word	Word	_	0	H	0:H	_
+18	by	_	Word	Word	_	20	R	20:R	_
+19	director	_	Word	Word	_	20	E	20:E	_
+20	Andrew	_	Word	Word	_	17	A	17:A	_
+21	Dominik	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	to	_	Word	Word	_	23	F	23:F	_
+23	appear	_	Word	Word	_	17	A	17:A	_
+24	in	_	Word	Word	_	27	R	27:R	_
+25	the	_	Word	Word	_	27	E	27:E	_
+26	film	_	Word	Word	_	27	E	27:E	_
+27	Chopper	_	Word	Word	_	23	A	23:A	_
+28	(	_	Punctuation	Punctuation	_	27	U	27:U	_
+29	2000	_	Word	Word	_	27	E	27:E	_
+30	)	_	Punctuation	Punctuation	_	27	U	27:U	_
+31	,	_	Punctuation	Punctuation	_	27	U	27:U	_
+32	a	_	Word	Word	_	33	E	33:E	_
+33	biopic	_	Word	Word	_	27	E	27:E	_
+34	based	_	Word	Word	_	37	R	37:R	_
+35	on	_	Word	Word	_	34	E	34:E	_
+36	the	_	Word	Word	_	37	E	37:E	_
+37	life	_	Word	Word	_	33	E	33:E	_
+38	of	_	Word	Word	_	42	R	42:R	_
+39	infamous	_	Word	Word	_	41	D	41:D	_
+40	Australian	_	Word	Word	_	42	E	42:E	_
+41	criminal	_	Word	Word	_	42	E	42:E	_
+42	Chopper	_	Word	Word	_	37	E	37:E	_
+43	Read	_	Word	Word	_	42	Terminal	42:Terminal	_
+44	.	_	Punctuation	Punctuation	_	42	U	42:U	_
+

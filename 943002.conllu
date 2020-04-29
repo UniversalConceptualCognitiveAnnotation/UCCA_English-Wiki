@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 943002
+# text = As a child , Stefani 's musical interests consisted of musicals such as The Sound of Music and Evita .
+1	As	_	Word	Word	_	8	L	8:L	_
+2	a	_	Word	Word	_	3	E	3:E	_
+3	child	_	Word	Word	_	0	H	0:H	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	Stefani	_	Word	Word	_	0	C	0:C|3:A	_
+6	's	_	Word	Word	_	5	R	5:R	_
+7	musical	_	Word	Word	_	8	A	8:A	_
+8	interests	_	Word	Word	_	3	H	3:H	_
+9	consisted	_	Word	Word	_	11	R	11:R	_
+10	of	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	musicals	_	Word	Word	_	8	A	8:A	_
+12	such	_	Word	Word	_	14	R	14:R	_
+13	as	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	The	_	Word	Word	_	11	E	11:E	_
+15	Sound	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	of	_	Word	Word	_	14	Terminal	14:Terminal	_
+17	Music	_	Word	Word	_	14	Terminal	14:Terminal	_
+18	and	_	Word	Word	_	14	N	14:N	_
+19	Evita	_	Word	Word	_	14	C	14:C	_
+20	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

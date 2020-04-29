@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 567007
+# text = A Detroit newspaper suggested that " the trouble with going to see Elvis Presley is that you 're liable to get killed . "
+1	A	_	Word	Word	_	3	E	3:E	_
+2	Detroit	_	Word	Word	_	3	E	3:E	_
+3	newspaper	_	Word	Word	_	4	A	4:A	_
+4	suggested	_	Word	Word	_	0	H	0:H	_
+5	that	_	Word	Word	_	8	R	8:R	_
+6	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	the	_	Word	Word	_	8	E	8:E	_
+8	trouble	_	Word	Word	_	4	A	4:A	_
+9	with	_	Word	Word	_	12	R	12:R	_
+10	going	_	Word	Word	_	12	D	12:D	_
+11	to	_	Word	Word	_	12	F	12:F	_
+12	see	_	Word	Word	_	8	A	8:A	_
+13	Elvis	_	Word	Word	_	12	A	12:A	_
+14	Presley	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	is	_	Word	Word	_	8	F	8:F	_
+16	that	_	Word	Word	_	22	R	22:R	_
+17	you	_	Word	Word	_	22	A	22:A	_
+18	're	_	Word	Word	_	22	F	22:F	_
+19	liable	_	Word	Word	_	22	D	22:D	_
+20	to	_	Word	Word	_	22	F	22:F	_
+21	get	_	Word	Word	_	22	D	22:D	_
+22	killed	_	Word	Word	_	8	A	8:A	_
+23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+24	"	_	Punctuation	Punctuation	_	22	U	22:U	_
+

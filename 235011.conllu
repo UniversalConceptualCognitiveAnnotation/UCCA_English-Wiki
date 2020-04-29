@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 235011
+# text = Hong Kong Legislator Leung Kwok - hung said that Chan " insulted the Chinese people . Chinese people are n't pets . "
+1	Hong	_	Word	Word	_	4	E	4:E	_
+2	Kong	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	Legislator	_	Word	Word	_	4	E	4:E	_
+4	Leung	_	Word	Word	_	8	A	8:A	_
+5	Kwok	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+7	hung	_	Word	Word	_	4	Terminal	4:Terminal	_
+8	said	_	Word	Word	_	0	H	0:H	_
+9	that	_	Word	Word	_	12	R	12:R	_
+10	Chan	_	Word	Word	_	12	A	12:A	_
+11	"	_	Punctuation	Punctuation	_	12	U	12:U	_
+12	insulted	_	Word	Word	_	8	A	8:A	_
+13	the	_	Word	Word	_	15	F	15:F	_
+14	Chinese	_	Word	Word	_	15	E	15:E	_
+15	people	_	Word	Word	_	12	A	12:A	_
+16	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+17	Chinese	_	Word	Word	_	18	E	18:E	_
+18	people	_	Word	Word	_	19	A	19:A	_
+19	are	_	Word	Word	_	12	H	12:H	_
+20	n't	_	Word	Word	_	19	D	19:D	_
+21	pets	_	Word	Word	_	19	A	19:A	_
+22	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+23	"	_	Punctuation	Punctuation	_	19	U	19:U	_
+

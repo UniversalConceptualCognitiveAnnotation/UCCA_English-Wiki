@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 451005
+# text = Three months later though , he changed his mind and packed his bags for America .
+1	Three	_	Word	Word	_	2	Q	2:Q	_
+2	months	_	Word	Word	_	7	T	7:T	_
+3	later	_	Word	Word	_	2	R	2:R	_
+4	though	_	Word	Word	_	11	L	11:L	_
+5	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+6	he	_	Word	Word	_	7	A	7:A|11:A	_
+7	changed	_	Word	Word	_	0	H	0:H	_
+8	his	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	mind	_	Word	Word	_	7	Terminal	7:Terminal	_
+10	and	_	Word	Word	_	11	L	11:L	_
+11	packed	_	Word	Word	_	7	H	7:H	_
+12	his	_	Word	Word	_	13	E	13:E	_
+13	bags	_	Word	Word	_	11	A	11:A	_
+14	for	_	Word	Word	_	15	R	15:R	_
+15	America	_	Word	Word	_	11	A	11:A	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

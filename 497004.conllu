@@ -1,0 +1,47 @@
+# format = ucca
+# sent_id = 497004
+# text = Elsewhere , the album explored more serious themes , and found Bowie paying unusually direct homage to his influences with " Song for Bob Dylan " , " Andy Warhol " , and " Queen Bitch " , a Velvet Underground pastiche .
+1	Elsewhere	_	Word	Word	_	5	A	5:A	_
+2	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+3	the	_	Word	Word	_	4	E	4:E	_
+4	album	_	Word	Word	_	0	C	0:C|16:A	_
+5	explored	_	Word	Word	_	0	H	0:H	_
+6	more	_	Word	Word	_	7	D	7:D	_
+7	serious	_	Word	Word	_	8	E	8:E	_
+8	themes	_	Word	Word	_	5	A	5:A	_
+9	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+10	and	_	Word	Word	_	16	L	16:L	_
+11	found	_	Word	Word	_	16	D	16:D	_
+12	Bowie	_	Word	Word	_	16	A	16:A	_
+13	paying	_	Word	Word	_	16	F	16:F	_
+14	unusually	_	Word	Word	_	16	D	16:D	_
+15	direct	_	Word	Word	_	16	D	16:D	_
+16	homage	_	Word	Word	_	5	H	5:H	_
+17	to	_	Word	Word	_	19	R	19:R	_
+18	his	_	Word	Word	_	19	E	19:E	_
+19	influences	_	Word	Word	_	16	A	16:A	_
+20	with	_	Word	Word	_	22	R	22:R	_
+21	"	_	Punctuation	Punctuation	_	22	U	22:U	_
+22	Song	_	Word	Word	_	19	E	19:E	_
+23	for	_	Word	Word	_	22	Terminal	22:Terminal	_
+24	Bob	_	Word	Word	_	22	Terminal	22:Terminal	_
+25	Dylan	_	Word	Word	_	22	Terminal	22:Terminal	_
+26	"	_	Punctuation	Punctuation	_	22	U	22:U	_
+27	,	_	Punctuation	Punctuation	_	22	U	22:U	_
+28	"	_	Punctuation	Punctuation	_	22	U	22:U	_
+29	Andy	_	Word	Word	_	22	C	22:C	_
+30	Warhol	_	Word	Word	_	29	Terminal	29:Terminal	_
+31	"	_	Punctuation	Punctuation	_	22	U	22:U	_
+32	,	_	Punctuation	Punctuation	_	22	U	22:U	_
+33	and	_	Word	Word	_	22	N	22:N	_
+34	"	_	Punctuation	Punctuation	_	22	U	22:U	_
+35	Queen	_	Word	Word	_	22	C	22:C	_
+36	Bitch	_	Word	Word	_	35	Terminal	35:Terminal	_
+37	"	_	Punctuation	Punctuation	_	35	U	35:U	_
+38	,	_	Punctuation	Punctuation	_	35	U	35:U	_
+39	a	_	Word	Word	_	42	E	42:E	_
+40	Velvet	_	Word	Word	_	42	E	42:E	_
+41	Underground	_	Word	Word	_	40	Terminal	40:Terminal	_
+42	pastiche	_	Word	Word	_	35	E	35:E	_
+43	.	_	Punctuation	Punctuation	_	42	U	42:U	_
+

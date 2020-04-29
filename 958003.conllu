@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 958003
+# text = Leigh was filming Caesar and Cleopatra ( 1945 ) when she discovered she was pregnant , but she suffered a miscarriage .
+1	Leigh	_	Word	Word	_	3	A	3:A	_
+2	was	_	Word	Word	_	3	F	3:F	_
+3	filming	_	Word	Word	_	0	H	0:H	_
+4	Caesar	_	Word	Word	_	3	A	3:A	_
+5	and	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	Cleopatra	_	Word	Word	_	4	Terminal	4:Terminal	_
+7	(	_	Punctuation	Punctuation	_	4	U	4:U	_
+8	1945	_	Word	Word	_	4	E	4:E	_
+9	)	_	Punctuation	Punctuation	_	3	U	3:U	_
+10	when	_	Word	Word	_	12	L	12:L	_
+11	she	_	Word	Word	_	12	A	12:A	_
+12	discovered	_	Word	Word	_	3	H	3:H	_
+13	she	_	Word	Word	_	15	A	15:A	_
+14	was	_	Word	Word	_	15	F	15:F	_
+15	pregnant	_	Word	Word	_	12	A	12:A	_
+16	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+17	but	_	Word	Word	_	21	L	21:L	_
+18	she	_	Word	Word	_	21	A	21:A	_
+19	suffered	_	Word	Word	_	21	D	21:D	_
+20	a	_	Word	Word	_	21	E	21:E	_
+21	miscarriage	_	Word	Word	_	3	H	3:H	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

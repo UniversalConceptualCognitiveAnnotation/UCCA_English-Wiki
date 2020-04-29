@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 553006
+# text = Presley 's first RCA single , " Heartbreak Hotel " , released in January 1956 , was a number - one hit .
+1	Presley	_	Word	Word	_	2	A	2:A	_
+2	's	_	Word	Word	_	5	E	5:E	_
+3	first	_	Word	Word	_	5	Q	5:Q	_
+4	RCA	_	Word	Word	_	5	E	5:E	_
+5	single	_	Word	Word	_	8	E	8:E	_
+6	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+8	Heartbreak	_	Word	Word	_	22	A	22:A	_
+9	Hotel	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+11	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+12	released	_	Word	Word	_	8	E	8:E	_
+13	in	_	Word	Word	_	14	R	14:R	_
+14	January	_	Word	Word	_	12	T	12:T	_
+15	1956	_	Word	Word	_	14	C	14:C	_
+16	,	_	Punctuation	Punctuation	_	22	U	22:U	_
+17	was	_	Word	Word	_	22	F	22:F	_
+18	a	_	Word	Word	_	22	F	22:F	_
+19	number	_	Word	Word	_	22	D	22:D	_
+20	-	_	Punctuation	Punctuation	_	19	U	19:U	_
+21	one	_	Word	Word	_	19	Q	19:Q	_
+22	hit	_	Word	Word	_	0	H	0:H	_
+23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+

@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 1019004
+# text = The Los Angeles County Coroner ruled his death a homicide , and his personal physician was convicted of involuntary manslaughter .
+1	The	_	Word	Word	_	4	E	4:E	_
+2	Los	_	Word	Word	_	4	E	4:E	_
+3	Angeles	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	County	_	Word	Word	_	5	A	5:A	_
+5	Coroner	_	Word	Word	_	6	A	6:A	_
+6	ruled	_	Word	Word	_	0	H	0:H	_
+7	his	_	Word	Word	_	8	A	8:A	_
+8	death	_	Word	Word	_	6	A	6:A	_
+9	a	_	Word	Word	_	10	E	10:E	_
+10	homicide	_	Word	Word	_	6	A	6:A	_
+11	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+12	and	_	Word	Word	_	17	L	17:L	_
+13	his	_	Word	Word	_	17	A	17:A	_
+14	personal	_	Word	Word	_	13	D	13:D	_
+15	physician	_	Word	Word	_	13	A	13:A|20:A	_
+16	was	_	Word	Word	_	17	F	17:F	_
+17	convicted	_	Word	Word	_	6	H	6:H	_
+18	of	_	Word	Word	_	20	R	20:R	_
+19	involuntary	_	Word	Word	_	20	G	20:G	_
+20	manslaughter	_	Word	Word	_	17	A	17:A	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+

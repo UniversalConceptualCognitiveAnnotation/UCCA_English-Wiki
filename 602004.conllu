@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 602004
+# text = Revolver also included McCartney 's " Eleanor Rigby " , which featured a string octet .
+1	Revolver	_	Word	Word	_	3	A	3:A	_
+2	also	_	Word	Word	_	3	D	3:D	_
+3	included	_	Word	Word	_	0	H	0:H	_
+4	McCartney	_	Word	Word	_	7	E	7:E	_
+5	's	_	Word	Word	_	4	R	4:R	_
+6	"	_	Punctuation	Punctuation	_	7	U	7:U	_
+7	Eleanor	_	Word	Word	_	3	A	3:A	_
+8	Rigby	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	"	_	Punctuation	Punctuation	_	7	U	7:U	_
+10	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+11	which	_	Word	Word	_	12	R	12:R	_
+12	featured	_	Word	Word	_	7	E	7:E	_
+13	a	_	Word	Word	_	15	E	15:E	_
+14	string	_	Word	Word	_	15	E	15:E	_
+15	octet	_	Word	Word	_	12	A	12:A	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

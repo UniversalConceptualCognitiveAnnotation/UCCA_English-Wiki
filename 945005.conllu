@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 945005
+# text = L . A . M . B . 's third single " Hollaback Girl " became Stefani 's first US and second Australian number - one single ; it was less successful elsewhere .
+1	L	_	Word	Word	_	11	E	11:E	_
+2	.	_	Punctuation	Punctuation	_	1	U	1:U	_
+3	A	_	Word	Word	_	1	Terminal	1:Terminal	_
+4	.	_	Punctuation	Punctuation	_	1	U	1:U	_
+5	M	_	Word	Word	_	1	Terminal	1:Terminal	_
+6	.	_	Punctuation	Punctuation	_	1	U	1:U	_
+7	B	_	Word	Word	_	1	Terminal	1:Terminal	_
+8	.	_	Punctuation	Punctuation	_	1	U	1:U	_
+9	's	_	Word	Word	_	1	R	1:R	_
+10	third	_	Word	Word	_	11	Q	11:Q	_
+11	single	_	Word	Word	_	13	E	13:E	_
+12	"	_	Punctuation	Punctuation	_	13	U	13:U	_
+13	Hollaback	_	Word	Word	_	16	A	16:A	_
+14	Girl	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	"	_	Punctuation	Punctuation	_	16	U	16:U	_
+16	became	_	Word	Word	_	0	H	0:H	_
+17	Stefani	_	Word	Word	_	18	A	18:A	_
+18	's	_	Word	Word	_	27	E	27:E	_
+19	first	_	Word	Word	_	20	D	20:D	_
+20	US	_	Word	Word	_	27	E	27:E	_
+21	and	_	Word	Word	_	20	L	20:L	_
+22	second	_	Word	Word	_	24	D	24:D	_
+23	Australian	_	Word	Word	_	24	A	24:A	_
+24	number	_	Word	Word	_	0	S	0:S|20:S	_
+25	-	_	Punctuation	Punctuation	_	24	U	24:U	_
+26	one	_	Word	Word	_	24	Q	24:Q	_
+27	single	_	Word	Word	_	16	A	16:A	_
+28	;	_	Punctuation	Punctuation	_	16	U	16:U	_
+29	it	_	Word	Word	_	32	A	32:A	_
+30	was	_	Word	Word	_	32	F	32:F	_
+31	less	_	Word	Word	_	32	D	32:D	_
+32	successful	_	Word	Word	_	16	H	16:H	_
+33	elsewhere	_	Word	Word	_	32	A	32:A	_
+34	.	_	Punctuation	Punctuation	_	32	U	32:U	_
+

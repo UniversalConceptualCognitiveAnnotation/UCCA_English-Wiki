@@ -1,0 +1,37 @@
+# format = ucca
+# sent_id = 209002
+# text = Upon accepting , Hoffman stated softly to his fellow nominees that it was okay if they did n't vote for him because " I did n't vote for you guys either . "
+1	Upon	_	Word	Word	_	5	L	5:L	_
+2	accepting	_	Word	Word	_	0	H	0:H	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	Hoffman	_	Word	Word	_	5	A	5:A|2:A	_
+5	stated	_	Word	Word	_	2	H	2:H	_
+6	softly	_	Word	Word	_	5	D	5:D	_
+7	to	_	Word	Word	_	10	R	10:R	_
+8	his	_	Word	Word	_	10	E	10:E	_
+9	fellow	_	Word	Word	_	10	E	10:E	_
+10	nominees	_	Word	Word	_	5	A	5:A	_
+11	that	_	Word	Word	_	14	R	14:R	_
+12	it	_	Word	Word	_	14	F	14:F	_
+13	was	_	Word	Word	_	14	F	14:F	_
+14	okay	_	Word	Word	_	5	A	5:A	_
+15	if	_	Word	Word	_	19	R	19:R	_
+16	they	_	Word	Word	_	19	A	19:A	_
+17	did	_	Word	Word	_	19	F	19:F	_
+18	n't	_	Word	Word	_	19	D	19:D	_
+19	vote	_	Word	Word	_	14	A	14:A	_
+20	for	_	Word	Word	_	21	R	21:R	_
+21	him	_	Word	Word	_	19	A	19:A	_
+22	because	_	Word	Word	_	27	L	27:L	_
+23	"	_	Punctuation	Punctuation	_	14	U	14:U	_
+24	I	_	Word	Word	_	27	A	27:A	_
+25	did	_	Word	Word	_	27	F	27:F	_
+26	n't	_	Word	Word	_	27	D	27:D	_
+27	vote	_	Word	Word	_	14	H	14:H	_
+28	for	_	Word	Word	_	29	R	29:R	_
+29	you	_	Word	Word	_	27	A	27:A	_
+30	guys	_	Word	Word	_	29	Terminal	29:Terminal	_
+31	either	_	Word	Word	_	26	Terminal	26:Terminal	_
+32	.	_	Punctuation	Punctuation	_	27	U	27:U	_
+33	"	_	Punctuation	Punctuation	_	27	U	27:U	_
+

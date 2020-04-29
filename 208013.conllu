@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 208013
+# text = Hoffman 's largest film failure was Elaine May 's Ishtar , with Warren Beatty .
+1	Hoffman	_	Word	Word	_	5	A	5:A	_
+2	's	_	Word	Word	_	1	R	1:R	_
+3	largest	_	Word	Word	_	5	D	5:D	_
+4	film	_	Word	Word	_	5	A	5:A	_
+5	failure	_	Word	Word	_	0	H	0:H	_
+6	was	_	Word	Word	_	5	F	5:F	_
+7	Elaine	_	Word	Word	_	9	A	9:A	_
+8	May	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	's	_	Word	Word	_	10	E	10:E	_
+10	Ishtar	_	Word	Word	_	5	A	5:A	_
+11	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	with	_	Word	Word	_	13	R	13:R	_
+13	Warren	_	Word	Word	_	10	E	10:E	_
+14	Beatty	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

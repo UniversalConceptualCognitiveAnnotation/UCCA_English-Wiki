@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 66010
+# text = During this period , she wore black clothing , experimented with knife play , and went out moshing with her live - in boyfriend .
+1	During	_	Word	Word	_	3	R	3:R	_
+2	this	_	Word	Word	_	3	E	3:E	_
+3	period	_	Word	Word	_	6	T	6:T|13:T|18:T	_
+4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	she	_	Word	Word	_	6	A	6:A|13:A|18:A	_
+6	wore	_	Word	Word	_	0	H	0:H	_
+7	black	_	Word	Word	_	8	E	8:E	_
+8	clothing	_	Word	Word	_	6	A	6:A	_
+9	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+10	experimented	_	Word	Word	_	13	D	13:D	_
+11	with	_	Word	Word	_	13	R	13:R	_
+12	knife	_	Word	Word	_	13	A	13:A	_
+13	play	_	Word	Word	_	6	H	6:H	_
+14	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+15	and	_	Word	Word	_	18	L	18:L	_
+16	went	_	Word	Word	_	18	F	18:F	_
+17	out	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	moshing	_	Word	Word	_	6	H	6:H	_
+19	with	_	Word	Word	_	24	R	24:R	_
+20	her	_	Word	Word	_	24	A	24:A|21:A	_
+21	live	_	Word	Word	_	24	E	24:E	_
+22	-	_	Punctuation	Punctuation	_	21	U	21:U	_
+23	in	_	Word	Word	_	21	Terminal	21:Terminal	_
+24	boyfriend	_	Word	Word	_	18	A	18:A	_
+25	.	_	Punctuation	Punctuation	_	24	U	24:U	_
+

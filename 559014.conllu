@@ -1,0 +1,34 @@
+# format = ucca
+# sent_id = 559014
+# text = At the time , Presley was variously billed as " The King of Western Bop " , " The Hillbilly Cat " , and " The Memphis Flash " .
+1	At	_	Word	Word	_	3	R	3:R	_
+2	the	_	Word	Word	_	3	F	3:F	_
+3	time	_	Word	Word	_	8	T	8:T	_
+4	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+5	Presley	_	Word	Word	_	8	A	8:A	_
+6	was	_	Word	Word	_	8	F	8:F	_
+7	variously	_	Word	Word	_	8	D	8:D	_
+8	billed	_	Word	Word	_	0	H	0:H	_
+9	as	_	Word	Word	_	11	R	11:R	_
+10	"	_	Punctuation	Punctuation	_	11	U	11:U	_
+11	The	_	Word	Word	_	8	A	8:A	_
+12	King	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	of	_	Word	Word	_	11	Terminal	11:Terminal	_
+14	Western	_	Word	Word	_	11	Terminal	11:Terminal	_
+15	Bop	_	Word	Word	_	11	Terminal	11:Terminal	_
+16	"	_	Punctuation	Punctuation	_	11	U	11:U	_
+17	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+18	"	_	Punctuation	Punctuation	_	11	U	11:U	_
+19	The	_	Word	Word	_	11	C	11:C	_
+20	Hillbilly	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	Cat	_	Word	Word	_	19	Terminal	19:Terminal	_
+22	"	_	Punctuation	Punctuation	_	11	U	11:U	_
+23	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+24	and	_	Word	Word	_	11	N	11:N	_
+25	"	_	Punctuation	Punctuation	_	11	U	11:U	_
+26	The	_	Word	Word	_	11	C	11:C	_
+27	Memphis	_	Word	Word	_	26	Terminal	26:Terminal	_
+28	Flash	_	Word	Word	_	26	Terminal	26:Terminal	_
+29	"	_	Punctuation	Punctuation	_	11	U	11:U	_
+30	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+

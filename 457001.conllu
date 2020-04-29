@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 457001
+# text = On August 13 , 1993 , Jennings and Kati Marton publicly announced their separation in Newsday .
+1	On	_	Word	Word	_	2	R	2:R	_
+2	August	_	Word	Word	_	12	T	12:T	_
+3	13	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	1993	_	Word	Word	_	2	C	2:C	_
+6	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+7	Jennings	_	Word	Word	_	12	A	12:A	_
+8	and	_	Word	Word	_	7	N	7:N	_
+9	Kati	_	Word	Word	_	7	C	7:C	_
+10	Marton	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	publicly	_	Word	Word	_	12	D	12:D	_
+12	announced	_	Word	Word	_	0	H	0:H	_
+13	their	_	Word	Word	_	14	A	14:A	_
+14	separation	_	Word	Word	_	12	A	12:A	_
+15	in	_	Word	Word	_	16	R	16:R	_
+16	Newsday	_	Word	Word	_	12	A	12:A	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

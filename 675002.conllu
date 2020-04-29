@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 675002
+# text = When asked if an album will be released by the end of 2011 as well , Cannon said that he was not sure .
+1	When	_	Word	Word	_	18	L	18:L	_
+2	asked	_	Word	Word	_	0	H	0:H	_
+3	if	_	Word	Word	_	8	R	8:R	_
+4	an	_	Word	Word	_	5	E	5:E	_
+5	album	_	Word	Word	_	8	A	8:A	_
+6	will	_	Word	Word	_	8	F	8:F	_
+7	be	_	Word	Word	_	8	F	8:F	_
+8	released	_	Word	Word	_	2	A	2:A	_
+9	by	_	Word	Word	_	13	R	13:R	_
+10	the	_	Word	Word	_	11	E	11:E	_
+11	end	_	Word	Word	_	13	E	13:E	_
+12	of	_	Word	Word	_	13	R	13:R	_
+13	2011	_	Word	Word	_	8	T	8:T	_
+14	as	_	Word	Word	_	8	D	8:D	_
+15	well	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+17	Cannon	_	Word	Word	_	18	A	18:A|2:A	_
+18	said	_	Word	Word	_	2	H	2:H	_
+19	that	_	Word	Word	_	23	R	23:R	_
+20	he	_	Word	Word	_	23	A	23:A	_
+21	was	_	Word	Word	_	23	F	23:F	_
+22	not	_	Word	Word	_	23	D	23:D	_
+23	sure	_	Word	Word	_	18	A	18:A	_
+24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

@@ -1,0 +1,57 @@
+# format = ucca
+# sent_id = 553002
+# text = One of the most popular musicians of the 20th century , he is often referred to as the " King of Rock and Roll " or " the King " . Born in Tupelo , Mississippi , Presley moved to Memphis , Tennessee , with his family at the age of 13 .
+1	One	_	Word	Word	_	5	D	5:D	_
+2	of	_	Word	Word	_	4	R	4:R	_
+3	the	_	Word	Word	_	4	E	4:E	_
+4	most	_	Word	Word	_	5	D	5:D	_
+5	popular	_	Word	Word	_	6	E	6:E	_
+6	musicians	_	Word	Word	_	0	H	0:H	_
+7	of	_	Word	Word	_	10	R	10:R	_
+8	the	_	Word	Word	_	10	E	10:E	_
+9	20th	_	Word	Word	_	10	Q	10:Q	_
+10	century	_	Word	Word	_	6	E	6:E	_
+11	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+12	he	_	Word	Word	_	0	C	0:C|6:A	_
+13	is	_	Word	Word	_	15	F	15:F	_
+14	often	_	Word	Word	_	15	D	15:D	_
+15	referred	_	Word	Word	_	6	H	6:H	_
+16	to	_	Word	Word	_	12	R	12:R	_
+17	as	_	Word	Word	_	20	R	20:R	_
+18	the	_	Word	Word	_	20	E	20:E	_
+19	"	_	Punctuation	Punctuation	_	20	U	20:U	_
+20	King	_	Word	Word	_	15	A	15:A	_
+21	of	_	Word	Word	_	22	R	22:R	_
+22	Rock	_	Word	Word	_	20	E	20:E	_
+23	and	_	Word	Word	_	22	N	22:N	_
+24	Roll	_	Word	Word	_	22	C	22:C	_
+25	"	_	Punctuation	Punctuation	_	20	U	20:U	_
+26	or	_	Word	Word	_	20	N	20:N	_
+27	"	_	Punctuation	Punctuation	_	20	U	20:U	_
+28	the	_	Word	Word	_	29	E	29:E	_
+29	King	_	Word	Word	_	20	C	20:C	_
+30	"	_	Punctuation	Punctuation	_	6	U	6:U	_
+31	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+32	Born	_	Word	Word	_	6	H	6:H	_
+33	in	_	Word	Word	_	34	R	34:R	_
+34	Tupelo	_	Word	Word	_	32	A	32:A	_
+35	,	_	Punctuation	Punctuation	_	34	U	34:U	_
+36	Mississippi	_	Word	Word	_	34	C	34:C	_
+37	,	_	Punctuation	Punctuation	_	32	U	32:U	_
+38	Presley	_	Word	Word	_	39	A	39:A|32:A|50:A	_
+39	moved	_	Word	Word	_	6	H	6:H	_
+40	to	_	Word	Word	_	41	R	41:R	_
+41	Memphis	_	Word	Word	_	39	A	39:A	_
+42	,	_	Punctuation	Punctuation	_	41	U	41:U	_
+43	Tennessee	_	Word	Word	_	41	C	41:C	_
+44	,	_	Punctuation	Punctuation	_	39	U	39:U	_
+45	with	_	Word	Word	_	46	R	46:R	_
+46	his	_	Word	Word	_	39	A	39:A	_
+47	family	_	Word	Word	_	46	A	46:A	_
+48	at	_	Word	Word	_	50	R	50:R	_
+49	the	_	Word	Word	_	50	E	50:E	_
+50	age	_	Word	Word	_	39	A	39:A	_
+51	of	_	Word	Word	_	52	R	52:R	_
+52	13	_	Word	Word	_	50	T	50:T	_
+53	.	_	Punctuation	Punctuation	_	52	U	52:U	_
+

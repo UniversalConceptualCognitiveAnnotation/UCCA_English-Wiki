@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 252003
+# text = Hawke next starred in the Off - Broadway production of a new play , Tommy Nohilly 's Blood from a Stone , from December 2010 to February 2011 .
+1	Hawke	_	Word	Word	_	3	A	3:A	_
+2	next	_	Word	Word	_	3	D	3:D	_
+3	starred	_	Word	Word	_	0	H	0:H	_
+4	in	_	Word	Word	_	9	R	9:R	_
+5	the	_	Word	Word	_	9	F	9:F	_
+6	Off	_	Word	Word	_	8	E	8:E	_
+7	-	_	Punctuation	Punctuation	_	8	U	8:U	_
+8	Broadway	_	Word	Word	_	9	E	9:E	_
+9	production	_	Word	Word	_	3	A	3:A	_
+10	of	_	Word	Word	_	13	R	13:R	_
+11	a	_	Word	Word	_	13	F	13:F	_
+12	new	_	Word	Word	_	13	E	13:E	_
+13	play	_	Word	Word	_	18	E	18:E	_
+14	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+15	Tommy	_	Word	Word	_	17	A	17:A	_
+16	Nohilly	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	's	_	Word	Word	_	18	E	18:E	_
+18	Blood	_	Word	Word	_	9	E	9:E	_
+19	from	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	a	_	Word	Word	_	18	Terminal	18:Terminal	_
+21	Stone	_	Word	Word	_	18	Terminal	18:Terminal	_
+22	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+23	from	_	Word	Word	_	24	R	24:R	_
+24	December	_	Word	Word	_	3	T	3:T	_
+25	2010	_	Word	Word	_	24	C	24:C	_
+26	to	_	Word	Word	_	24	R	24:R	_
+27	February	_	Word	Word	_	24	C	24:C	_
+28	2011	_	Word	Word	_	27	C	27:C	_
+29	.	_	Punctuation	Punctuation	_	27	U	27:U	_
+

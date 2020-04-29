@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 960007
+# text = Shortly after filming commenced , she suffered a breakdown ; and Paramount Pictures replaced her with Elizabeth Taylor .
+1	Shortly	_	Word	Word	_	2	E	2:E	_
+2	after	_	Word	Word	_	9	L	9:L	_
+3	filming	_	Word	Word	_	0	H	0:H	_
+4	commenced	_	Word	Word	_	3	D	3:D	_
+5	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+6	she	_	Word	Word	_	9	A	9:A	_
+7	suffered	_	Word	Word	_	9	D	9:D	_
+8	a	_	Word	Word	_	9	E	9:E	_
+9	breakdown	_	Word	Word	_	3	H	3:H	_
+10	;	_	Punctuation	Punctuation	_	3	U	3:U	_
+11	and	_	Word	Word	_	14	L	14:L	_
+12	Paramount	_	Word	Word	_	14	A	14:A	_
+13	Pictures	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	replaced	_	Word	Word	_	3	H	3:H	_
+15	her	_	Word	Word	_	14	A	14:A	_
+16	with	_	Word	Word	_	17	R	17:R	_
+17	Elizabeth	_	Word	Word	_	14	A	14:A	_
+18	Taylor	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+

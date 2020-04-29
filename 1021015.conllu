@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 1021015
+# text = Despite its commercial success , Jackson felt Off the Wall should have made a much bigger impact , and was determined to exceed expectations with his next release .
+1	Despite	_	Word	Word	_	7	L	7:L	_
+2	its	_	Word	Word	_	4	A	4:A	_
+3	commercial	_	Word	Word	_	4	A	4:A	_
+4	success	_	Word	Word	_	0	H	0:H	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	Jackson	_	Word	Word	_	7	A	7:A|23:A	_
+7	felt	_	Word	Word	_	4	H	4:H	_
+8	Off	_	Word	Word	_	17	A	17:A	_
+9	the	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	Wall	_	Word	Word	_	8	Terminal	8:Terminal	_
+11	should	_	Word	Word	_	17	D	17:D	_
+12	have	_	Word	Word	_	17	F	17:F	_
+13	made	_	Word	Word	_	17	F	17:F	_
+14	a	_	Word	Word	_	17	E	17:E	_
+15	much	_	Word	Word	_	16	E	16:E	_
+16	bigger	_	Word	Word	_	17	D	17:D	_
+17	impact	_	Word	Word	_	7	A	7:A	_
+18	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+19	and	_	Word	Word	_	23	L	23:L	_
+20	was	_	Word	Word	_	23	F	23:F	_
+21	determined	_	Word	Word	_	23	D	23:D	_
+22	to	_	Word	Word	_	23	F	23:F	_
+23	exceed	_	Word	Word	_	4	H	4:H	_
+24	expectations	_	Word	Word	_	23	A	23:A	_
+25	with	_	Word	Word	_	28	L	28:L	_
+26	his	_	Word	Word	_	28	A	28:A	_
+27	next	_	Word	Word	_	28	D	28:D	_
+28	release	_	Word	Word	_	4	H	4:H	_
+29	.	_	Punctuation	Punctuation	_	28	U	28:U	_
+

@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 221007
+# text = Four years later , she supported Democrat Barack Obama in the 2008 presidential election .
+1	Four	_	Word	Word	_	2	Q	2:Q	_
+2	years	_	Word	Word	_	6	T	6:T	_
+3	later	_	Word	Word	_	2	R	2:R	_
+4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	she	_	Word	Word	_	6	A	6:A	_
+6	supported	_	Word	Word	_	0	H	0:H	_
+7	Democrat	_	Word	Word	_	8	E	8:E	_
+8	Barack	_	Word	Word	_	6	A	6:A	_
+9	Obama	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	in	_	Word	Word	_	13	R	13:R	_
+11	the	_	Word	Word	_	13	F	13:F	_
+12	2008	_	Word	Word	_	13	T	13:T	_
+13	presidential	_	Word	Word	_	6	A	6:A	_
+14	election	_	Word	Word	_	13	A	13:A	_
+15	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

@@ -1,0 +1,43 @@
+# format = ucca
+# sent_id = 479007
+# text = With the two future Hall of Famers , the league won a whole generation of new fans , drawing both traditionalist adherents of Bird 's dirt court Indiana game and those appreciative of Johnson 's public park flair .
+1	With	_	Word	Word	_	5	R	5:R	_
+2	the	_	Word	Word	_	5	F	5:F	_
+3	two	_	Word	Word	_	5	Q	5:Q	_
+4	future	_	Word	Word	_	5	E	5:E	_
+5	Hall	_	Word	Word	_	11	A	11:A	_
+6	of	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	Famers	_	Word	Word	_	5	Terminal	5:Terminal	_
+8	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+9	the	_	Word	Word	_	10	F	10:F	_
+10	league	_	Word	Word	_	0	C	0:C|19:A	_
+11	won	_	Word	Word	_	0	H	0:H	_
+12	a	_	Word	Word	_	14	F	14:F	_
+13	whole	_	Word	Word	_	14	E	14:E	_
+14	generation	_	Word	Word	_	17	E	17:E	_
+15	of	_	Word	Word	_	17	R	17:R	_
+16	new	_	Word	Word	_	17	E	17:E	_
+17	fans	_	Word	Word	_	11	A	11:A	_
+18	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+19	drawing	_	Word	Word	_	11	H	11:H	_
+20	both	_	Word	Word	_	22	N	22:N	_
+21	traditionalist	_	Word	Word	_	22	D	22:D	_
+22	adherents	_	Word	Word	_	19	A	19:A	_
+23	of	_	Word	Word	_	29	R	29:R	_
+24	Bird	_	Word	Word	_	29	A	29:A	_
+25	's	_	Word	Word	_	24	R	24:R	_
+26	dirt	_	Word	Word	_	27	E	27:E	_
+27	court	_	Word	Word	_	29	A	29:A	_
+28	Indiana	_	Word	Word	_	29	A	29:A	_
+29	game	_	Word	Word	_	22	A	22:A	_
+30	and	_	Word	Word	_	22	N	22:N	_
+31	those	_	Word	Word	_	32	A	32:A	_
+32	appreciative	_	Word	Word	_	22	C	22:C	_
+33	of	_	Word	Word	_	38	R	38:R	_
+34	Johnson	_	Word	Word	_	38	A	38:A	_
+35	's	_	Word	Word	_	34	R	34:R	_
+36	public	_	Word	Word	_	37	E	37:E	_
+37	park	_	Word	Word	_	38	A	38:A	_
+38	flair	_	Word	Word	_	32	A	32:A	_
+39	.	_	Punctuation	Punctuation	_	38	U	38:U	_
+

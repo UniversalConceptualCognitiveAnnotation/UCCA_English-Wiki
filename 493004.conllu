@@ -1,0 +1,39 @@
+# format = ucca
+# sent_id = 493004
+# text = In 2004 , Rolling Stone ranked him 39th on their list of the " 100 Greatest Artists of All Time " , and 23rd on their list of the best singers of all time .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	2004	_	Word	Word	_	6	T	6:T	_
+3	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+4	Rolling	_	Word	Word	_	6	A	6:A	_
+5	Stone	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	ranked	_	Word	Word	_	0	H	0:H	_
+7	him	_	Word	Word	_	6	A	6:A	_
+8	39th	_	Word	Word	_	6	A	6:A	_
+9	on	_	Word	Word	_	11	R	11:R	_
+10	their	_	Word	Word	_	11	E	11:E	_
+11	list	_	Word	Word	_	8	E	8:E	_
+12	of	_	Word	Word	_	17	R	17:R	_
+13	the	_	Word	Word	_	17	E	17:E	_
+14	"	_	Punctuation	Punctuation	_	17	U	17:U	_
+15	100	_	Word	Word	_	17	Q	17:Q	_
+16	Greatest	_	Word	Word	_	17	E	17:E	_
+17	Artists	_	Word	Word	_	11	E	11:E	_
+18	of	_	Word	Word	_	20	R	20:R	_
+19	All	_	Word	Word	_	20	E	20:E	_
+20	Time	_	Word	Word	_	17	E	17:E	_
+21	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+22	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+23	and	_	Word	Word	_	8	N	8:N	_
+24	23rd	_	Word	Word	_	8	C	8:C	_
+25	on	_	Word	Word	_	27	R	27:R	_
+26	their	_	Word	Word	_	27	E	27:E	_
+27	list	_	Word	Word	_	24	E	24:E	_
+28	of	_	Word	Word	_	31	R	31:R	_
+29	the	_	Word	Word	_	31	E	31:E	_
+30	best	_	Word	Word	_	31	E	31:E	_
+31	singers	_	Word	Word	_	27	E	27:E	_
+32	of	_	Word	Word	_	34	R	34:R	_
+33	all	_	Word	Word	_	34	E	34:E	_
+34	time	_	Word	Word	_	31	E	31:E	_
+35	.	_	Punctuation	Punctuation	_	34	U	34:U	_
+

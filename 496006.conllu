@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 496006
+# text = Breaking up with Farthingale shortly after completion of the film , Bowie moved in with Mary Finnigan as her lodger .
+1	Breaking	_	Word	Word	_	0	H	0:H	_
+2	up	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	with	_	Word	Word	_	4	R	4:R	_
+4	Farthingale	_	Word	Word	_	1	A	1:A	_
+5	shortly	_	Word	Word	_	7	L	7:L	_
+6	after	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	completion	_	Word	Word	_	1	H	1:H	_
+8	of	_	Word	Word	_	10	R	10:R	_
+9	the	_	Word	Word	_	10	E	10:E	_
+10	film	_	Word	Word	_	7	A	7:A	_
+11	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+12	Bowie	_	Word	Word	_	13	A	13:A|1:A|7:A|20:A	_
+13	moved	_	Word	Word	_	1	H	1:H	_
+14	in	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	with	_	Word	Word	_	16	R	16:R	_
+16	Mary	_	Word	Word	_	13	A	13:A	_
+17	Finnigan	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	as	_	Word	Word	_	20	R	20:R	_
+19	her	_	Word	Word	_	20	A	20:A	_
+20	lodger	_	Word	Word	_	13	A	13:A	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+

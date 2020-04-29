@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 646002
+# text = When Lennon 's wife returned home she found Ono wearing her bathrobe and drinking tea with Lennon who simply said , " Oh , hi . "
+1	When	_	Word	Word	_	8	L	8:L	_
+2	Lennon	_	Word	Word	_	4	A	4:A	_
+3	's	_	Word	Word	_	2	R	2:R	_
+4	wife	_	Word	Word	_	5	A	5:A	_
+5	returned	_	Word	Word	_	0	H	0:H	_
+6	home	_	Word	Word	_	5	A	5:A	_
+7	she	_	Word	Word	_	8	A	8:A	_
+8	found	_	Word	Word	_	5	H	5:H	_
+9	Ono	_	Word	Word	_	10	A	10:A|14:A	_
+10	wearing	_	Word	Word	_	8	A	8:A	_
+11	her	_	Word	Word	_	12	E	12:E	_
+12	bathrobe	_	Word	Word	_	10	A	10:A	_
+13	and	_	Word	Word	_	14	L	14:L	_
+14	drinking	_	Word	Word	_	10	H	10:H	_
+15	tea	_	Word	Word	_	14	A	14:A	_
+16	with	_	Word	Word	_	17	R	17:R	_
+17	Lennon	_	Word	Word	_	14	A	14:A	_
+18	who	_	Word	Word	_	20	R	20:R	_
+19	simply	_	Word	Word	_	20	D	20:D	_
+20	said	_	Word	Word	_	17	E	17:E	_
+21	,	_	Punctuation	Punctuation	_	20	U	20:U	_
+22	"	_	Punctuation	Punctuation	_	20	U	20:U	_
+23	Oh	_	Word	Word	_	20	A	20:A	_
+24	,	_	Punctuation	Punctuation	_	23	U	23:U	_
+25	hi	_	Word	Word	_	23	Terminal	23:Terminal	_
+26	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+27	"	_	Punctuation	Punctuation	_	20	U	20:U	_
+

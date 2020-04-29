@@ -1,0 +1,50 @@
+# format = ucca
+# sent_id = 638008
+# text = Embroiled in a continuing legal battle with the immigration authorities , Lennon was denied permanent residency in the US ( which would n't be resolved until 1976 ) . Depressed , Lennon got intoxicated and had sex with a female guest , leaving Ono embarrassed .
+1	Embroiled	_	Word	Word	_	0	H	0:H	_
+2	in	_	Word	Word	_	6	R	6:R	_
+3	a	_	Word	Word	_	4	E	4:E	_
+4	continuing	_	Word	Word	_	6	D	6:D	_
+5	legal	_	Word	Word	_	6	E	6:E	_
+6	battle	_	Word	Word	_	1	A	1:A	_
+7	with	_	Word	Word	_	10	R	10:R	_
+8	the	_	Word	Word	_	10	E	10:E	_
+9	immigration	_	Word	Word	_	10	E	10:E	_
+10	authorities	_	Word	Word	_	6	A	6:A	_
+11	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+12	Lennon	_	Word	Word	_	14	A	14:A|1:A|16:A	_
+13	was	_	Word	Word	_	14	F	14:F	_
+14	denied	_	Word	Word	_	1	H	1:H	_
+15	permanent	_	Word	Word	_	16	D	16:D	_
+16	residency	_	Word	Word	_	0	S	0:S|25:A	_
+17	in	_	Word	Word	_	19	R	19:R	_
+18	the	_	Word	Word	_	19	E	19:E	_
+19	US	_	Word	Word	_	16	A	16:A	_
+20	(	_	Punctuation	Punctuation	_	1	U	1:U	_
+21	which	_	Word	Word	_	25	L	25:L	_
+22	would	_	Word	Word	_	25	F	25:F	_
+23	n't	_	Word	Word	_	25	D	25:D	_
+24	be	_	Word	Word	_	25	F	25:F	_
+25	resolved	_	Word	Word	_	1	H	1:H	_
+26	until	_	Word	Word	_	27	R	27:R	_
+27	1976	_	Word	Word	_	25	T	25:T	_
+28	)	_	Punctuation	Punctuation	_	1	U	1:U	_
+29	.	_	Punctuation	Punctuation	_	1	U	1:U	_
+30	Depressed	_	Word	Word	_	1	H	1:H	_
+31	,	_	Punctuation	Punctuation	_	30	U	30:U	_
+32	Lennon	_	Word	Word	_	34	A	34:A|30:A|37:A|43:A	_
+33	got	_	Word	Word	_	34	D	34:D	_
+34	intoxicated	_	Word	Word	_	1	H	1:H	_
+35	and	_	Word	Word	_	37	L	37:L	_
+36	had	_	Word	Word	_	37	F	37:F	_
+37	sex	_	Word	Word	_	1	H	1:H	_
+38	with	_	Word	Word	_	41	R	41:R	_
+39	a	_	Word	Word	_	41	E	41:E	_
+40	female	_	Word	Word	_	41	E	41:E	_
+41	guest	_	Word	Word	_	37	A	37:A	_
+42	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+43	leaving	_	Word	Word	_	1	H	1:H	_
+44	Ono	_	Word	Word	_	45	A	45:A	_
+45	embarrassed	_	Word	Word	_	43	A	43:A	_
+46	.	_	Punctuation	Punctuation	_	45	U	45:U	_
+

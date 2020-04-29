@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 691012
+# text = Under the pseudonym Tedham Porterhouse , Dylan contributed harmonica to Ramblin ' Jack Elliott 's 1964 album Jack Elliott .
+1	Under	_	Word	Word	_	3	R	3:R	_
+2	the	_	Word	Word	_	3	E	3:E	_
+3	pseudonym	_	Word	Word	_	8	A	8:A	_
+4	Tedham	_	Word	Word	_	3	E	3:E	_
+5	Porterhouse	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	Dylan	_	Word	Word	_	8	A	8:A	_
+8	contributed	_	Word	Word	_	0	H	0:H	_
+9	harmonica	_	Word	Word	_	8	A	8:A	_
+10	to	_	Word	Word	_	18	R	18:R	_
+11	Ramblin	_	Word	Word	_	15	A	15:A	_
+12	'	_	Punctuation	Punctuation	_	11	U	11:U	_
+13	Jack	_	Word	Word	_	11	Terminal	11:Terminal	_
+14	Elliott	_	Word	Word	_	11	Terminal	11:Terminal	_
+15	's	_	Word	Word	_	17	E	17:E	_
+16	1964	_	Word	Word	_	17	E	17:E	_
+17	album	_	Word	Word	_	18	E	18:E	_
+18	Jack	_	Word	Word	_	8	A	8:A	_
+19	Elliott	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

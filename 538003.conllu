@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 538003
+# text = Warner claimed that he briefly belonged to a street gang based at Westlake 's Crossing , a notorious neighborhood located just west of the city 's downtown area .
+1	Warner	_	Word	Word	_	2	A	2:A	_
+2	claimed	_	Word	Word	_	0	H	0:H	_
+3	that	_	Word	Word	_	6	R	6:R	_
+4	he	_	Word	Word	_	6	A	6:A	_
+5	briefly	_	Word	Word	_	6	T	6:T	_
+6	belonged	_	Word	Word	_	2	A	2:A	_
+7	to	_	Word	Word	_	9	R	9:R	_
+8	a	_	Word	Word	_	9	F	9:F	_
+9	street	_	Word	Word	_	6	A	6:A	_
+10	gang	_	Word	Word	_	9	A	9:A	_
+11	based	_	Word	Word	_	13	R	13:R	_
+12	at	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	Westlake	_	Word	Word	_	9	A	9:A	_
+14	's	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	Crossing	_	Word	Word	_	13	Terminal	13:Terminal	_
+16	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+17	a	_	Word	Word	_	19	F	19:F	_
+18	notorious	_	Word	Word	_	19	E	19:E	_
+19	neighborhood	_	Word	Word	_	13	E	13:E	_
+20	located	_	Word	Word	_	27	R	27:R	_
+21	just	_	Word	Word	_	22	E	22:E	_
+22	west	_	Word	Word	_	27	R	27:R	_
+23	of	_	Word	Word	_	22	R	22:R	_
+24	the	_	Word	Word	_	25	F	25:F	_
+25	city	_	Word	Word	_	27	E	27:E	_
+26	's	_	Word	Word	_	25	R	25:R	_
+27	downtown	_	Word	Word	_	19	E	19:E	_
+28	area	_	Word	Word	_	27	E	27:E	_
+29	.	_	Punctuation	Punctuation	_	27	U	27:U	_
+

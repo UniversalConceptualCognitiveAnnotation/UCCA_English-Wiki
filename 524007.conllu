@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 524007
+# text = With the conclusion of filming , MGM kept Garland busy with promotional tours and the shooting of Babes in Arms , directed by Busby Berkeley .
+1	With	_	Word	Word	_	10	L	10:L	_
+2	the	_	Word	Word	_	3	F	3:F	_
+3	conclusion	_	Word	Word	_	5	D	5:D	_
+4	of	_	Word	Word	_	5	R	5:R	_
+5	filming	_	Word	Word	_	0	H	0:H	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	MGM	_	Word	Word	_	10	A	10:A	_
+8	kept	_	Word	Word	_	10	D	10:D	_
+9	Garland	_	Word	Word	_	10	A	10:A	_
+10	busy	_	Word	Word	_	5	H	5:H	_
+11	with	_	Word	Word	_	13	R	13:R	_
+12	promotional	_	Word	Word	_	13	A	13:A	_
+13	tours	_	Word	Word	_	10	A	10:A	_
+14	and	_	Word	Word	_	16	L	16:L	_
+15	the	_	Word	Word	_	16	F	16:F	_
+16	shooting	_	Word	Word	_	13	H	13:H	_
+17	of	_	Word	Word	_	18	R	18:R	_
+18	Babes	_	Word	Word	_	16	A	16:A	_
+19	in	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	Arms	_	Word	Word	_	18	Terminal	18:Terminal	_
+21	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+22	directed	_	Word	Word	_	18	E	18:E	_
+23	by	_	Word	Word	_	24	R	24:R	_
+24	Busby	_	Word	Word	_	22	A	22:A	_
+25	Berkeley	_	Word	Word	_	24	Terminal	24:Terminal	_
+26	.	_	Punctuation	Punctuation	_	24	U	24:U	_
+

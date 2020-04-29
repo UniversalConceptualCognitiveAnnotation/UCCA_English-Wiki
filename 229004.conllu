@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 229004
+# text = That same year , the two had a son , singer and actor Jaycee Chan .
+1	That	_	Word	Word	_	3	E	3:E	_
+2	same	_	Word	Word	_	3	E	3:E	_
+3	year	_	Word	Word	_	7	T	7:T	_
+4	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+5	the	_	Word	Word	_	6	F	6:F	_
+6	two	_	Word	Word	_	7	A	7:A|9:A	_
+7	had	_	Word	Word	_	0	H	0:H	_
+8	a	_	Word	Word	_	9	F	9:F	_
+9	son	_	Word	Word	_	0	A	0:A|14:A	_
+10	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+11	singer	_	Word	Word	_	14	E	14:E	_
+12	and	_	Word	Word	_	11	N	11:N	_
+13	actor	_	Word	Word	_	11	C	11:C	_
+14	Jaycee	_	Word	Word	_	7	H	7:H	_
+15	Chan	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

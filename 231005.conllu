@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 231005
+# text = The series was produced by , and featured Jackie Chan .
+1	The	_	Word	Word	_	2	F	2:F	_
+2	series	_	Word	Word	_	4	A	4:A|8:A	_
+3	was	_	Word	Word	_	4	F	4:F	_
+4	produced	_	Word	Word	_	0	H	0:H	_
+5	by	_	Word	Word	_	4	R	4:R	_
+6	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+7	and	_	Word	Word	_	8	L	8:L	_
+8	featured	_	Word	Word	_	4	H	4:H	_
+9	Jackie	_	Word	Word	_	4	A	4:A|8:A	_
+10	Chan	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+

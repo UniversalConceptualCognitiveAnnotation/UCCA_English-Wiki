@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 501006
+# text = This he refused to do , and his interview went ahead .
+1	This	_	Word	Word	_	5	A	5:A	_
+2	he	_	Word	Word	_	5	A	5:A	_
+3	refused	_	Word	Word	_	5	D	5:D	_
+4	to	_	Word	Word	_	5	F	5:F	_
+5	do	_	Word	Word	_	0	H	0:H	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	and	_	Word	Word	_	9	L	9:L	_
+8	his	_	Word	Word	_	9	A	9:A	_
+9	interview	_	Word	Word	_	5	H	5:H	_
+10	went	_	Word	Word	_	9	D	9:D	_
+11	ahead	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

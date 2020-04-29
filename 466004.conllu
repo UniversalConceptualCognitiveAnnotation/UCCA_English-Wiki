@@ -1,0 +1,36 @@
+# format = ucca
+# sent_id = 466004
+# text = Johnson 's career achievements include three NBA MVP Awards , nine NBA Finals appearances , twelve All - Star games , and ten All - NBA First and Second Team nominations .
+1	Johnson	_	Word	Word	_	2	A	2:A|14:A	_
+2	's	_	Word	Word	_	5	A	5:A	_
+3	career	_	Word	Word	_	4	A	4:A	_
+4	achievements	_	Word	Word	_	2	A	2:A	_
+5	include	_	Word	Word	_	0	H	0:H	_
+6	three	_	Word	Word	_	9	Q	9:Q	_
+7	NBA	_	Word	Word	_	9	E	9:E	_
+8	MVP	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	Awards	_	Word	Word	_	5	A	5:A	_
+10	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+11	nine	_	Word	Word	_	14	D	14:D	_
+12	NBA	_	Word	Word	_	14	A	14:A	_
+13	Finals	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	appearances	_	Word	Word	_	9	C	9:C	_
+15	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+16	twelve	_	Word	Word	_	20	Q	20:Q	_
+17	All	_	Word	Word	_	20	E	20:E	_
+18	-	_	Punctuation	Punctuation	_	17	U	17:U	_
+19	Star	_	Word	Word	_	17	Terminal	17:Terminal	_
+20	games	_	Word	Word	_	9	C	9:C	_
+21	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+22	and	_	Word	Word	_	9	N	9:N	_
+23	ten	_	Word	Word	_	30	Q	30:Q	_
+24	All	_	Word	Word	_	30	E	30:E	_
+25	-	_	Punctuation	Punctuation	_	24	U	24:U	_
+26	NBA	_	Word	Word	_	24	Terminal	24:Terminal	_
+27	First	_	Word	Word	_	30	Q	30:Q	_
+28	and	_	Word	Word	_	27	N	27:N	_
+29	Second	_	Word	Word	_	27	C	27:C	_
+30	Team	_	Word	Word	_	31	A	31:A	_
+31	nominations	_	Word	Word	_	9	C	9:C	_
+32	.	_	Punctuation	Punctuation	_	31	U	31:U	_
+

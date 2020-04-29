@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 214010
+# text = In 1993 , Dunst played Hedril in " Dark Page " , the seventh episode of the seventh season of Star Trek : The Next Generation .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1993	_	Word	Word	_	5	T	5:T	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	Dunst	_	Word	Word	_	5	A	5:A	_
+5	played	_	Word	Word	_	0	H	0:H	_
+6	Hedril	_	Word	Word	_	5	A	5:A	_
+7	in	_	Word	Word	_	9	R	9:R	_
+8	"	_	Punctuation	Punctuation	_	9	U	9:U	_
+9	Dark	_	Word	Word	_	5	A	5:A	_
+10	Page	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	"	_	Punctuation	Punctuation	_	9	U	9:U	_
+12	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+13	the	_	Word	Word	_	15	F	15:F	_
+14	seventh	_	Word	Word	_	15	Q	15:Q	_
+15	episode	_	Word	Word	_	9	E	9:E	_
+16	of	_	Word	Word	_	21	R	21:R	_
+17	the	_	Word	Word	_	21	F	21:F	_
+18	seventh	_	Word	Word	_	19	Q	19:Q	_
+19	season	_	Word	Word	_	21	E	21:E	_
+20	of	_	Word	Word	_	19	R	19:R	_
+21	Star	_	Word	Word	_	15	E	15:E	_
+22	Trek	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	:	_	Punctuation	Punctuation	_	21	U	21:U	_
+24	The	_	Word	Word	_	21	Terminal	21:Terminal	_
+25	Next	_	Word	Word	_	21	Terminal	21:Terminal	_
+26	Generation	_	Word	Word	_	21	Terminal	21:Terminal	_
+27	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

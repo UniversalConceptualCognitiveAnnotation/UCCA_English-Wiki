@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 555015
+# text = That September , he began ushering at Loew 's State Theater .
+1	That	_	Word	Word	_	2	E	2:E	_
+2	September	_	Word	Word	_	6	T	6:T	_
+3	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+4	he	_	Word	Word	_	6	A	6:A	_
+5	began	_	Word	Word	_	6	D	6:D	_
+6	ushering	_	Word	Word	_	0	H	0:H	_
+7	at	_	Word	Word	_	11	E	11:E	_
+8	Loew	_	Word	Word	_	11	E	11:E	_
+9	's	_	Word	Word	_	8	R	8:R	_
+10	State	_	Word	Word	_	11	E	11:E	_
+11	Theater	_	Word	Word	_	6	A	6:A	_
+12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+

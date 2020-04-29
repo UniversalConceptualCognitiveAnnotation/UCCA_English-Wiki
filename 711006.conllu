@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 711006
+# text = That year also saw the release of the film Masked & Anonymous , which Dylan co - wrote with director Larry Charles under the alias Sergei Petrov .
+1	That	_	Word	Word	_	2	E	2:E	_
+2	year	_	Word	Word	_	6	T	6:T	_
+3	also	_	Word	Word	_	6	D	6:D	_
+4	saw	_	Word	Word	_	6	F	6:F	_
+5	the	_	Word	Word	_	6	E	6:E	_
+6	release	_	Word	Word	_	0	H	0:H	_
+7	of	_	Word	Word	_	10	R	10:R	_
+8	the	_	Word	Word	_	9	E	9:E	_
+9	film	_	Word	Word	_	10	E	10:E	_
+10	Masked	_	Word	Word	_	6	A	6:A	_
+11	&	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	Anonymous	_	Word	Word	_	10	Terminal	10:Terminal	_
+13	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+14	which	_	Word	Word	_	18	R	18:R	_
+15	Dylan	_	Word	Word	_	18	A	18:A	_
+16	co	_	Word	Word	_	18	D	18:D	_
+17	-	_	Punctuation	Punctuation	_	18	U	18:U	_
+18	wrote	_	Word	Word	_	10	E	10:E	_
+19	with	_	Word	Word	_	21	R	21:R	_
+20	director	_	Word	Word	_	21	E	21:E	_
+21	Larry	_	Word	Word	_	18	A	18:A	_
+22	Charles	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	under	_	Word	Word	_	26	R	26:R	_
+24	the	_	Word	Word	_	25	E	25:E	_
+25	alias	_	Word	Word	_	26	E	26:E	_
+26	Sergei	_	Word	Word	_	18	A	18:A	_
+27	Petrov	_	Word	Word	_	26	Terminal	26:Terminal	_
+28	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+

@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 949008
+# text = Some critics also saw the 1980s music style of Love . Angel . Music . Baby . as another way which Stefani was imitating the singer .
+1	Some	_	Word	Word	_	2	E	2:E	_
+2	critics	_	Word	Word	_	4	A	4:A	_
+3	also	_	Word	Word	_	4	D	4:D	_
+4	saw	_	Word	Word	_	0	H	0:H	_
+5	the	_	Word	Word	_	8	E	8:E	_
+6	1980s	_	Word	Word	_	8	E	8:E	_
+7	music	_	Word	Word	_	8	E	8:E	_
+8	style	_	Word	Word	_	4	A	4:A	_
+9	of	_	Word	Word	_	10	R	10:R	_
+10	Love	_	Word	Word	_	8	E	8:E	_
+11	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	Angel	_	Word	Word	_	10	Terminal	10:Terminal	_
+13	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+14	Music	_	Word	Word	_	10	Terminal	10:Terminal	_
+15	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+16	Baby	_	Word	Word	_	10	Terminal	10:Terminal	_
+17	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+18	as	_	Word	Word	_	20	R	20:R	_
+19	another	_	Word	Word	_	20	E	20:E	_
+20	way	_	Word	Word	_	4	A	4:A	_
+21	which	_	Word	Word	_	24	R	24:R	_
+22	Stefani	_	Word	Word	_	24	A	24:A	_
+23	was	_	Word	Word	_	24	F	24:F	_
+24	imitating	_	Word	Word	_	20	E	20:E	_
+25	the	_	Word	Word	_	26	E	26:E	_
+26	singer	_	Word	Word	_	24	A	24:A	_
+27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+

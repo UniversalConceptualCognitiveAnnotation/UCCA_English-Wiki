@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 950003
+# text = She stated she lost the weight through diet and exercise but admitted to obsessing over her weight due to the size zero trend .
+1	She	_	Word	Word	_	2	A	2:A|12:A	_
+2	stated	_	Word	Word	_	0	H	0:H	_
+3	she	_	Word	Word	_	4	A	4:A|8:A|10:A|14:A	_
+4	lost	_	Word	Word	_	2	A	2:A	_
+5	the	_	Word	Word	_	6	E	6:E	_
+6	weight	_	Word	Word	_	4	A	4:A	_
+7	through	_	Word	Word	_	8	L	8:L	_
+8	diet	_	Word	Word	_	4	H	4:H	_
+9	and	_	Word	Word	_	10	L	10:L	_
+10	exercise	_	Word	Word	_	4	H	4:H	_
+11	but	_	Word	Word	_	12	L	12:L	_
+12	admitted	_	Word	Word	_	2	H	2:H	_
+13	to	_	Word	Word	_	14	F	14:F	_
+14	obsessing	_	Word	Word	_	12	A	12:A	_
+15	over	_	Word	Word	_	17	R	17:R	_
+16	her	_	Word	Word	_	17	E	17:E	_
+17	weight	_	Word	Word	_	14	A	14:A	_
+18	due	_	Word	Word	_	23	L	23:L	_
+19	to	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	the	_	Word	Word	_	21	F	21:F	_
+21	size	_	Word	Word	_	23	A	23:A	_
+22	zero	_	Word	Word	_	21	Q	21:Q	_
+23	trend	_	Word	Word	_	14	H	14:H	_
+24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

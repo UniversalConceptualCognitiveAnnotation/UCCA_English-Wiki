@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 1018004
+# text = In the early 1980s , Jackson became the dominant figure in popular music .
+1	In	_	Word	Word	_	4	R	4:R	_
+2	the	_	Word	Word	_	4	E	4:E	_
+3	early	_	Word	Word	_	4	E	4:E	_
+4	1980s	_	Word	Word	_	10	T	10:T	_
+5	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+6	Jackson	_	Word	Word	_	10	A	10:A	_
+7	became	_	Word	Word	_	10	D	10:D	_
+8	the	_	Word	Word	_	10	F	10:F	_
+9	dominant	_	Word	Word	_	10	D	10:D	_
+10	figure	_	Word	Word	_	0	H	0:H	_
+11	in	_	Word	Word	_	13	R	13:R	_
+12	popular	_	Word	Word	_	13	E	13:E	_
+13	music	_	Word	Word	_	10	A	10:A	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

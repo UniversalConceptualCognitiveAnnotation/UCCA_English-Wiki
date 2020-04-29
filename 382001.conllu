@@ -1,0 +1,40 @@
+# format = ucca
+# sent_id = 382001
+# text = Environmentally conscious , he recycles regularly , and said in an interview that he spends $ 400 a year to have trees planted in a Mozambique forest , partly to promote the Future Forests program .
+1	Environmentally	_	Word	Word	_	2	A	2:A	_
+2	conscious	_	Word	Word	_	0	H	0:H	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	he	_	Word	Word	_	5	A	5:A|2:A|9:A	_
+5	recycles	_	Word	Word	_	2	H	2:H	_
+6	regularly	_	Word	Word	_	5	T	5:T	_
+7	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+8	and	_	Word	Word	_	9	L	9:L	_
+9	said	_	Word	Word	_	2	H	2:H	_
+10	in	_	Word	Word	_	12	R	12:R	_
+11	an	_	Word	Word	_	12	F	12:F	_
+12	interview	_	Word	Word	_	9	A	9:A	_
+13	that	_	Word	Word	_	15	R	15:R	_
+14	he	_	Word	Word	_	15	A	15:A|31:A	_
+15	spends	_	Word	Word	_	9	A	9:A	_
+16	$	_	Word	Word	_	15	A	15:A	_
+17	400	_	Word	Word	_	16	Q	16:Q	_
+18	a	_	Word	Word	_	19	F	19:F	_
+19	year	_	Word	Word	_	15	T	15:T	_
+20	to	_	Word	Word	_	23	L	23:L	_
+21	have	_	Word	Word	_	23	F	23:F	_
+22	trees	_	Word	Word	_	23	A	23:A	_
+23	planted	_	Word	Word	_	15	H	15:H	_
+24	in	_	Word	Word	_	27	R	27:R	_
+25	a	_	Word	Word	_	27	F	27:F	_
+26	Mozambique	_	Word	Word	_	27	E	27:E	_
+27	forest	_	Word	Word	_	23	A	23:A	_
+28	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+29	partly	_	Word	Word	_	30	E	30:E	_
+30	to	_	Word	Word	_	31	L	31:L	_
+31	promote	_	Word	Word	_	15	H	15:H	_
+32	the	_	Word	Word	_	33	F	33:F	_
+33	Future	_	Word	Word	_	31	A	31:A	_
+34	Forests	_	Word	Word	_	33	Terminal	33:Terminal	_
+35	program	_	Word	Word	_	33	E	33:E	_
+36	.	_	Punctuation	Punctuation	_	33	U	33:U	_
+

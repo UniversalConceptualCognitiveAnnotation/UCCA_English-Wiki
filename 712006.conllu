@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 712006
+# text = On August 29 , 2006 , Dylan released his Modern Times album .
+1	On	_	Word	Word	_	2	R	2:R	_
+2	August	_	Word	Word	_	8	T	8:T	_
+3	29	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	2006	_	Word	Word	_	2	C	2:C	_
+6	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	Dylan	_	Word	Word	_	8	A	8:A	_
+8	released	_	Word	Word	_	0	H	0:H	_
+9	his	_	Word	Word	_	10	E	10:E	_
+10	Modern	_	Word	Word	_	8	A	8:A	_
+11	Times	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	album	_	Word	Word	_	10	E	10:E	_
+13	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+

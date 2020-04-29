@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 543012
+# text = Warner also earned the gratitude and affection of Errol Flynn .
+1	Warner	_	Word	Word	_	5	A	5:A|7:A	_
+2	also	_	Word	Word	_	5	D	5:D|7:D	_
+3	earned	_	Word	Word	_	5	D	5:D|7:D	_
+4	the	_	Word	Word	_	5	F	5:F	_
+5	gratitude	_	Word	Word	_	0	H	0:H	_
+6	and	_	Word	Word	_	7	L	7:L	_
+7	affection	_	Word	Word	_	5	H	5:H	_
+8	of	_	Word	Word	_	9	R	9:R	_
+9	Errol	_	Word	Word	_	5	A	5:A|7:A	_
+10	Flynn	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

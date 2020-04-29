@@ -1,0 +1,42 @@
+# format = ucca
+# sent_id = 551004
+# text = Former studio employees named by Warner included Alvah Bessie , Howard Koch , Ring Lardner Jr . , John Howard Lawson , Albert Maltz , Robert Rossen , Dalton Trumbo , Clifford Odets , and Irwin Shaw .
+1	Former	_	Word	Word	_	2	D	2:D	_
+2	studio	_	Word	Word	_	7	A	7:A	_
+3	employees	_	Word	Word	_	2	A	2:A|4:A	_
+4	named	_	Word	Word	_	2	E	2:E	_
+5	by	_	Word	Word	_	6	R	6:R	_
+6	Warner	_	Word	Word	_	4	A	4:A	_
+7	included	_	Word	Word	_	0	H	0:H	_
+8	Alvah	_	Word	Word	_	7	A	7:A	_
+9	Bessie	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+11	Howard	_	Word	Word	_	8	C	8:C	_
+12	Koch	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+14	Ring	_	Word	Word	_	8	C	8:C	_
+15	Lardner	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	Jr	_	Word	Word	_	14	Terminal	14:Terminal	_
+17	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+18	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+19	John	_	Word	Word	_	8	C	8:C	_
+20	Howard	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	Lawson	_	Word	Word	_	19	Terminal	19:Terminal	_
+22	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+23	Albert	_	Word	Word	_	8	C	8:C	_
+24	Maltz	_	Word	Word	_	23	Terminal	23:Terminal	_
+25	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+26	Robert	_	Word	Word	_	8	C	8:C	_
+27	Rossen	_	Word	Word	_	26	Terminal	26:Terminal	_
+28	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+29	Dalton	_	Word	Word	_	8	C	8:C	_
+30	Trumbo	_	Word	Word	_	29	Terminal	29:Terminal	_
+31	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+32	Clifford	_	Word	Word	_	8	C	8:C	_
+33	Odets	_	Word	Word	_	32	Terminal	32:Terminal	_
+34	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+35	and	_	Word	Word	_	8	N	8:N	_
+36	Irwin	_	Word	Word	_	8	C	8:C	_
+37	Shaw	_	Word	Word	_	36	Terminal	36:Terminal	_
+38	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+

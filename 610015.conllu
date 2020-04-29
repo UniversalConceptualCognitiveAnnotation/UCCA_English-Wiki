@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 610015
+# text = The rock album Memory Almost Full followed in 2007 .
+1	The	_	Word	Word	_	3	F	3:F	_
+2	rock	_	Word	Word	_	3	E	3:E	_
+3	album	_	Word	Word	_	4	E	4:E	_
+4	Memory	_	Word	Word	_	7	A	7:A	_
+5	Almost	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	Full	_	Word	Word	_	4	Terminal	4:Terminal	_
+7	followed	_	Word	Word	_	0	H	0:H	_
+8	in	_	Word	Word	_	9	R	9:R	_
+9	2007	_	Word	Word	_	7	T	7:T	_
+10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

@@ -1,0 +1,46 @@
+# format = ucca
+# sent_id = 199001
+# text = He is teaming with The Office star John Krasinski to develop a miniseries about the Chateau Marmont Hotel based on Life at the Marmont , a book by the hotel 's co - owner Raymond R . Sarlot and Fred Basten .
+1	He	_	Word	Word	_	3	A	3:A|11:A	_
+2	is	_	Word	Word	_	3	F	3:F	_
+3	teaming	_	Word	Word	_	0	H	0:H	_
+4	with	_	Word	Word	_	8	R	8:R	_
+5	The	_	Word	Word	_	7	A	7:A	_
+6	Office	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	star	_	Word	Word	_	8	E	8:E	_
+8	John	_	Word	Word	_	3	A	3:A	_
+9	Krasinski	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	to	_	Word	Word	_	11	L	11:L	_
+11	develop	_	Word	Word	_	3	H	3:H	_
+12	a	_	Word	Word	_	13	E	13:E	_
+13	miniseries	_	Word	Word	_	11	A	11:A	_
+14	about	_	Word	Word	_	16	R	16:R	_
+15	the	_	Word	Word	_	16	E	16:E	_
+16	Chateau	_	Word	Word	_	13	E	13:E	_
+17	Marmont	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	Hotel	_	Word	Word	_	16	Terminal	16:Terminal	_
+19	based	_	Word	Word	_	13	E	13:E	_
+20	on	_	Word	Word	_	21	R	21:R	_
+21	Life	_	Word	Word	_	19	A	19:A	_
+22	at	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	the	_	Word	Word	_	21	Terminal	21:Terminal	_
+24	Marmont	_	Word	Word	_	21	Terminal	21:Terminal	_
+25	,	_	Punctuation	Punctuation	_	21	U	21:U	_
+26	a	_	Word	Word	_	27	F	27:F	_
+27	book	_	Word	Word	_	21	E	21:E	_
+28	by	_	Word	Word	_	35	R	35:R	_
+29	the	_	Word	Word	_	30	E	30:E	_
+30	hotel	_	Word	Word	_	34	A	34:A	_
+31	's	_	Word	Word	_	30	R	30:R	_
+32	co	_	Word	Word	_	34	D	34:D	_
+33	-	_	Punctuation	Punctuation	_	34	U	34:U	_
+34	owner	_	Word	Word	_	35	E	35:E	_
+35	Raymond	_	Word	Word	_	27	E	27:E	_
+36	R	_	Word	Word	_	35	Terminal	35:Terminal	_
+37	.	_	Punctuation	Punctuation	_	35	U	35:U	_
+38	Sarlot	_	Word	Word	_	35	Terminal	35:Terminal	_
+39	and	_	Word	Word	_	35	N	35:N	_
+40	Fred	_	Word	Word	_	35	C	35:C	_
+41	Basten	_	Word	Word	_	40	Terminal	40:Terminal	_
+42	.	_	Punctuation	Punctuation	_	35	U	35:U	_
+

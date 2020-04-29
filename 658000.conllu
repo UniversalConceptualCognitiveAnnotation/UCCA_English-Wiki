@@ -1,0 +1,36 @@
+# format = ucca
+# sent_id = 658000
+# text = In a career spanning over two decades , Carey has sold more than 200 million records worldwide , making her one of the best - selling music artists of all time .
+1	In	_	Word	Word	_	11	L	11:L	_
+2	a	_	Word	Word	_	3	F	3:F	_
+3	career	_	Word	Word	_	0	H	0:H	_
+4	spanning	_	Word	Word	_	7	F	7:F	_
+5	over	_	Word	Word	_	7	R	7:R	_
+6	two	_	Word	Word	_	7	Q	7:Q	_
+7	decades	_	Word	Word	_	3	T	3:T	_
+8	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+9	Carey	_	Word	Word	_	11	A	11:A|3:A	_
+10	has	_	Word	Word	_	11	F	11:F	_
+11	sold	_	Word	Word	_	3	H	3:H	_
+12	more	_	Word	Word	_	16	Q	16:Q	_
+13	than	_	Word	Word	_	14	R	14:R	_
+14	200	_	Word	Word	_	12	E	12:E	_
+15	million	_	Word	Word	_	14	C	14:C	_
+16	records	_	Word	Word	_	11	A	11:A	_
+17	worldwide	_	Word	Word	_	11	A	11:A	_
+18	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+19	making	_	Word	Word	_	3	H	3:H	_
+20	her	_	Word	Word	_	19	A	19:A	_
+21	one	_	Word	Word	_	19	A	19:A	_
+22	of	_	Word	Word	_	27	R	27:R	_
+23	the	_	Word	Word	_	27	F	27:F	_
+24	best	_	Word	Word	_	26	D	26:D	_
+25	-	_	Punctuation	Punctuation	_	26	U	26:U	_
+26	selling	_	Word	Word	_	27	E	27:E	_
+27	music	_	Word	Word	_	21	E	21:E	_
+28	artists	_	Word	Word	_	27	A	27:A	_
+29	of	_	Word	Word	_	31	R	31:R	_
+30	all	_	Word	Word	_	31	Q	31:Q	_
+31	time	_	Word	Word	_	26	T	26:T	_
+32	.	_	Punctuation	Punctuation	_	31	U	31:U	_
+

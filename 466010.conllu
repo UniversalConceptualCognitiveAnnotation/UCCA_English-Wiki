@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 466010
+# text = His friendship and rivalry with Boston Celtics star Larry Bird , whom he faced in the 1979 NCAA finals and three NBA championship series , were well documented .
+1	His	_	Word	Word	_	2	A	2:A|4:A	_
+2	friendship	_	Word	Word	_	28	A	28:A	_
+3	and	_	Word	Word	_	4	L	4:L	_
+4	rivalry	_	Word	Word	_	2	H	2:H	_
+5	with	_	Word	Word	_	9	R	9:R	_
+6	Boston	_	Word	Word	_	8	A	8:A	_
+7	Celtics	_	Word	Word	_	6	C	6:C	_
+8	star	_	Word	Word	_	9	E	9:E	_
+9	Larry	_	Word	Word	_	2	A	2:A|4:A	_
+10	Bird	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+12	whom	_	Word	Word	_	14	R	14:R	_
+13	he	_	Word	Word	_	14	A	14:A	_
+14	faced	_	Word	Word	_	9	E	9:E	_
+15	in	_	Word	Word	_	19	R	19:R	_
+16	the	_	Word	Word	_	19	E	19:E	_
+17	1979	_	Word	Word	_	19	E	19:E	_
+18	NCAA	_	Word	Word	_	19	E	19:E	_
+19	finals	_	Word	Word	_	14	A	14:A	_
+20	and	_	Word	Word	_	19	N	19:N	_
+21	three	_	Word	Word	_	24	Q	24:Q	_
+22	NBA	_	Word	Word	_	24	E	24:E	_
+23	championship	_	Word	Word	_	24	E	24:E	_
+24	series	_	Word	Word	_	19	C	19:C	_
+25	,	_	Punctuation	Punctuation	_	28	U	28:U	_
+26	were	_	Word	Word	_	28	F	28:F	_
+27	well	_	Word	Word	_	28	D	28:D	_
+28	documented	_	Word	Word	_	0	H	0:H	_
+29	.	_	Punctuation	Punctuation	_	28	U	28:U	_
+

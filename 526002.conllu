@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 526002
+# text = In 1951 , they divorced .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1951	_	Word	Word	_	5	T	5:T	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	they	_	Word	Word	_	5	A	5:A	_
+5	divorced	_	Word	Word	_	0	H	0:H	_
+6	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+

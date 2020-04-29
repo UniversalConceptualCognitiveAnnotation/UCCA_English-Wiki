@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 492013
+# text = He has not toured since the 2003 - 04 Reality Tour and has not performed live since 2006 .
+1	He	_	Word	Word	_	4	A	4:A|15:A	_
+2	has	_	Word	Word	_	4	F	4:F	_
+3	not	_	Word	Word	_	4	D	4:D	_
+4	toured	_	Word	Word	_	0	H	0:H	_
+5	since	_	Word	Word	_	10	L	10:L	_
+6	the	_	Word	Word	_	7	F	7:F	_
+7	2003	_	Word	Word	_	10	T	10:T	_
+8	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	04	_	Word	Word	_	7	C	7:C	_
+10	Reality	_	Word	Word	_	4	H	4:H	_
+11	Tour	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	and	_	Word	Word	_	15	L	15:L	_
+13	has	_	Word	Word	_	15	F	15:F	_
+14	not	_	Word	Word	_	15	D	15:D	_
+15	performed	_	Word	Word	_	4	H	4:H	_
+16	live	_	Word	Word	_	15	D	15:D	_
+17	since	_	Word	Word	_	18	R	18:R	_
+18	2006	_	Word	Word	_	15	T	15:T	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

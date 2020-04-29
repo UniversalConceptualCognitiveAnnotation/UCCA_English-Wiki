@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 692000
+# text = From December 1962 to January 1963 , Dylan made his first trip to the United Kingdom .
+1	From	_	Word	Word	_	2	R	2:R	_
+2	December	_	Word	Word	_	12	T	12:T	_
+3	1962	_	Word	Word	_	2	C	2:C	_
+4	to	_	Word	Word	_	5	R	5:R	_
+5	January	_	Word	Word	_	2	C	2:C	_
+6	1963	_	Word	Word	_	5	C	5:C	_
+7	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+8	Dylan	_	Word	Word	_	12	A	12:A	_
+9	made	_	Word	Word	_	12	F	12:F	_
+10	his	_	Word	Word	_	12	A	12:A	_
+11	first	_	Word	Word	_	12	D	12:D	_
+12	trip	_	Word	Word	_	0	H	0:H	_
+13	to	_	Word	Word	_	15	R	15:R	_
+14	the	_	Word	Word	_	15	E	15:E	_
+15	United	_	Word	Word	_	12	A	12:A	_
+16	Kingdom	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

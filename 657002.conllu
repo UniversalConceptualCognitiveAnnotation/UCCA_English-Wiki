@@ -1,0 +1,45 @@
+# format = ucca
+# sent_id = 657002
+# text = Following her marriage to Mottola in 1993 and success with hit records Emotions ( 1991 ) , Music Box ( 1993 ) , and Merry Christmas ( 1994 ) , Carey was established as Columbia 's highest - selling act .
+1	Following	_	Word	Word	_	9	L	9:L	_
+2	her	_	Word	Word	_	3	A	3:A|9:A	_
+3	marriage	_	Word	Word	_	0	H	0:H	_
+4	to	_	Word	Word	_	5	R	5:R	_
+5	Mottola	_	Word	Word	_	3	A	3:A	_
+6	in	_	Word	Word	_	7	R	7:R	_
+7	1993	_	Word	Word	_	3	T	3:T	_
+8	and	_	Word	Word	_	9	L	9:L	_
+9	success	_	Word	Word	_	3	H	3:H	_
+10	with	_	Word	Word	_	13	R	13:R	_
+11	hit	_	Word	Word	_	12	E	12:E	_
+12	records	_	Word	Word	_	13	E	13:E	_
+13	Emotions	_	Word	Word	_	9	A	9:A	_
+14	(	_	Punctuation	Punctuation	_	13	U	13:U	_
+15	1991	_	Word	Word	_	13	E	13:E	_
+16	)	_	Punctuation	Punctuation	_	13	U	13:U	_
+17	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+18	Music	_	Word	Word	_	13	C	13:C	_
+19	Box	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	(	_	Punctuation	Punctuation	_	18	U	18:U	_
+21	1993	_	Word	Word	_	18	E	18:E	_
+22	)	_	Punctuation	Punctuation	_	13	U	13:U	_
+23	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+24	and	_	Word	Word	_	13	N	13:N	_
+25	Merry	_	Word	Word	_	13	C	13:C	_
+26	Christmas	_	Word	Word	_	25	Terminal	25:Terminal	_
+27	(	_	Punctuation	Punctuation	_	25	U	25:U	_
+28	1994	_	Word	Word	_	25	E	25:E	_
+29	)	_	Punctuation	Punctuation	_	3	U	3:U	_
+30	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+31	Carey	_	Word	Word	_	33	A	33:A	_
+32	was	_	Word	Word	_	33	F	33:F	_
+33	established	_	Word	Word	_	3	H	3:H	_
+34	as	_	Word	Word	_	40	R	40:R	_
+35	Columbia	_	Word	Word	_	39	A	39:A	_
+36	's	_	Word	Word	_	35	R	35:R	_
+37	highest	_	Word	Word	_	39	D	39:D	_
+38	-	_	Punctuation	Punctuation	_	39	U	39:U	_
+39	selling	_	Word	Word	_	40	E	40:E	_
+40	act	_	Word	Word	_	33	A	33:A	_
+41	.	_	Punctuation	Punctuation	_	40	U	40:U	_
+

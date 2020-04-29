@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 652004
+# text = The press conference was filmed , and would later appear in the 2006 documentary The U.S . vs . John Lennon .
+1	The	_	Word	Word	_	3	E	3:E	_
+2	press	_	Word	Word	_	3	E	3:E	_
+3	conference	_	Word	Word	_	0	C	0:C|10:A	_
+4	was	_	Word	Word	_	5	F	5:F	_
+5	filmed	_	Word	Word	_	0	H	0:H	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	and	_	Word	Word	_	10	L	10:L	_
+8	would	_	Word	Word	_	10	F	10:F	_
+9	later	_	Word	Word	_	10	T	10:T	_
+10	appear	_	Word	Word	_	5	H	5:H	_
+11	in	_	Word	Word	_	15	R	15:R	_
+12	the	_	Word	Word	_	14	E	14:E	_
+13	2006	_	Word	Word	_	14	E	14:E	_
+14	documentary	_	Word	Word	_	15	E	15:E	_
+15	The	_	Word	Word	_	10	A	10:A	_
+16	U.S	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+18	vs	_	Word	Word	_	15	Terminal	15:Terminal	_
+19	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+20	John	_	Word	Word	_	15	Terminal	15:Terminal	_
+21	Lennon	_	Word	Word	_	15	Terminal	15:Terminal	_
+22	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 554007
+# text = As an only child , Presley became close to both parents and formed an unusually tight bond with his mother .
+1	As	_	Word	Word	_	8	L	8:L	_
+2	an	_	Word	Word	_	3	E	3:E	_
+3	only	_	Word	Word	_	0	H	0:H	_
+4	child	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+6	Presley	_	Word	Word	_	8	A	8:A|3:A|17:A	_
+7	became	_	Word	Word	_	8	D	8:D	_
+8	close	_	Word	Word	_	3	H	3:H	_
+9	to	_	Word	Word	_	11	R	11:R	_
+10	both	_	Word	Word	_	11	Q	11:Q	_
+11	parents	_	Word	Word	_	8	A	8:A	_
+12	and	_	Word	Word	_	17	L	17:L	_
+13	formed	_	Word	Word	_	17	D	17:D	_
+14	an	_	Word	Word	_	17	E	17:E	_
+15	unusually	_	Word	Word	_	16	E	16:E	_
+16	tight	_	Word	Word	_	17	D	17:D	_
+17	bond	_	Word	Word	_	3	H	3:H	_
+18	with	_	Word	Word	_	19	R	19:R	_
+19	his	_	Word	Word	_	17	A	17:A	_
+20	mother	_	Word	Word	_	19	A	19:A	_
+21	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

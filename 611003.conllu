@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 611003
+# text = In 2010 , McCartney opened the Consol Energy Center in Pittsburgh , Pennsylvania .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	2010	_	Word	Word	_	5	T	5:T	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	McCartney	_	Word	Word	_	5	A	5:A	_
+5	opened	_	Word	Word	_	0	H	0:H	_
+6	the	_	Word	Word	_	9	F	9:F	_
+7	Consol	_	Word	Word	_	9	E	9:E	_
+8	Energy	_	Word	Word	_	9	E	9:E	_
+9	Center	_	Word	Word	_	5	A	5:A	_
+10	in	_	Word	Word	_	11	R	11:R	_
+11	Pittsburgh	_	Word	Word	_	9	E	9:E	_
+12	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+13	Pennsylvania	_	Word	Word	_	11	C	11:C	_
+14	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+

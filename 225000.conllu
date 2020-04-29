@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 225000
+# text = Willie Chan had become Jackie 's personal manager and firm friend , and has remained so for over 30 years .
+1	Willie	_	Word	Word	_	8	A	8:A|11:A|16:A	_
+2	Chan	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	had	_	Word	Word	_	8	F	8:F	_
+4	become	_	Word	Word	_	8	D	8:D|11:D	_
+5	Jackie	_	Word	Word	_	8	A	8:A|11:A	_
+6	's	_	Word	Word	_	5	R	5:R	_
+7	personal	_	Word	Word	_	8	D	8:D	_
+8	manager	_	Word	Word	_	0	H	0:H	_
+9	and	_	Word	Word	_	11	L	11:L	_
+10	firm	_	Word	Word	_	11	D	11:D	_
+11	friend	_	Word	Word	_	8	H	8:H	_
+12	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+13	and	_	Word	Word	_	16	L	16:L	_
+14	has	_	Word	Word	_	16	F	16:F	_
+15	remained	_	Word	Word	_	16	D	16:D	_
+16	so	_	Word	Word	_	8	H	8:H	_
+17	for	_	Word	Word	_	20	R	20:R	_
+18	over	_	Word	Word	_	19	R	19:R	_
+19	30	_	Word	Word	_	20	Q	20:Q	_
+20	years	_	Word	Word	_	16	T	16:T	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+

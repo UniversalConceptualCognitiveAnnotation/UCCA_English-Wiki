@@ -1,0 +1,39 @@
+# format = ucca
+# sent_id = 454005
+# text = When his contract expired with ABC in the early 1980s , Jennings flirted with the possibility of moving back to Canada and working with the CBC on its new nightly newscast , The Journal .
+1	When	_	Word	Word	_	13	L	13:L	_
+2	his	_	Word	Word	_	3	E	3:E	_
+3	contract	_	Word	Word	_	4	A	4:A	_
+4	expired	_	Word	Word	_	0	H	0:H	_
+5	with	_	Word	Word	_	6	R	6:R	_
+6	ABC	_	Word	Word	_	4	A	4:A	_
+7	in	_	Word	Word	_	10	R	10:R	_
+8	the	_	Word	Word	_	10	E	10:E	_
+9	early	_	Word	Word	_	10	E	10:E	_
+10	1980s	_	Word	Word	_	4	T	4:T	_
+11	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+12	Jennings	_	Word	Word	_	13	A	13:A|18:A|23:A	_
+13	flirted	_	Word	Word	_	4	H	4:H	_
+14	with	_	Word	Word	_	16	R	16:R	_
+15	the	_	Word	Word	_	16	E	16:E	_
+16	possibility	_	Word	Word	_	13	D	13:D	_
+17	of	_	Word	Word	_	18	R	18:R	_
+18	moving	_	Word	Word	_	13	A	13:A	_
+19	back	_	Word	Word	_	18	D	18:D	_
+20	to	_	Word	Word	_	21	R	21:R	_
+21	Canada	_	Word	Word	_	18	A	18:A	_
+22	and	_	Word	Word	_	23	L	23:L	_
+23	working	_	Word	Word	_	18	H	18:H	_
+24	with	_	Word	Word	_	26	R	26:R	_
+25	the	_	Word	Word	_	26	E	26:E	_
+26	CBC	_	Word	Word	_	23	A	23:A	_
+27	on	_	Word	Word	_	33	R	33:R	_
+28	its	_	Word	Word	_	33	E	33:E	_
+29	new	_	Word	Word	_	33	E	33:E	_
+30	nightly	_	Word	Word	_	31	E	31:E	_
+31	newscast	_	Word	Word	_	33	E	33:E	_
+32	,	_	Punctuation	Punctuation	_	33	U	33:U	_
+33	The	_	Word	Word	_	23	A	23:A	_
+34	Journal	_	Word	Word	_	33	Terminal	33:Terminal	_
+35	.	_	Punctuation	Punctuation	_	33	U	33:U	_
+

@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 960006
+# text = In January 1953 , Leigh travelled to Ceylon to film Elephant Walk with Peter Finch .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	January	_	Word	Word	_	6	T	6:T	_
+3	1953	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	Leigh	_	Word	Word	_	6	A	6:A|10:A	_
+6	travelled	_	Word	Word	_	0	H	0:H	_
+7	to	_	Word	Word	_	8	R	8:R	_
+8	Ceylon	_	Word	Word	_	6	A	6:A	_
+9	to	_	Word	Word	_	10	L	10:L	_
+10	film	_	Word	Word	_	6	H	6:H	_
+11	Elephant	_	Word	Word	_	10	A	10:A	_
+12	Walk	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	with	_	Word	Word	_	14	R	14:R	_
+14	Peter	_	Word	Word	_	10	A	10:A	_
+15	Finch	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

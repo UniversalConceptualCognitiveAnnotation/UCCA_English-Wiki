@@ -1,0 +1,37 @@
+# format = ucca
+# sent_id = 956009
+# text = In February 1940 , Jill Esmond agreed to divorce Olivier , and Leigh Holman agreed to divorce Leigh , although they maintained a strong friendship for the rest of Leigh 's life .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	February	_	Word	Word	_	7	T	7:T	_
+3	1940	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+5	Jill	_	Word	Word	_	7	A	7:A|9:A	_
+6	Esmond	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	agreed	_	Word	Word	_	0	H	0:H	_
+8	to	_	Word	Word	_	9	F	9:F	_
+9	divorce	_	Word	Word	_	7	A	7:A	_
+10	Olivier	_	Word	Word	_	9	A	9:A	_
+11	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+12	and	_	Word	Word	_	15	L	15:L	_
+13	Leigh	_	Word	Word	_	15	A	15:A|17:A	_
+14	Holman	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	agreed	_	Word	Word	_	7	H	7:H	_
+16	to	_	Word	Word	_	17	F	17:F	_
+17	divorce	_	Word	Word	_	15	A	15:A	_
+18	Leigh	_	Word	Word	_	17	A	17:A	_
+19	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+20	although	_	Word	Word	_	25	L	25:L	_
+21	they	_	Word	Word	_	25	A	25:A	_
+22	maintained	_	Word	Word	_	25	D	25:D	_
+23	a	_	Word	Word	_	25	F	25:F	_
+24	strong	_	Word	Word	_	25	D	25:D	_
+25	friendship	_	Word	Word	_	7	H	7:H	_
+26	for	_	Word	Word	_	32	L	32:L	_
+27	the	_	Word	Word	_	28	E	28:E	_
+28	rest	_	Word	Word	_	32	D	32:D	_
+29	of	_	Word	Word	_	32	R	32:R	_
+30	Leigh	_	Word	Word	_	32	A	32:A	_
+31	's	_	Word	Word	_	30	R	30:R	_
+32	life	_	Word	Word	_	7	H	7:H	_
+33	.	_	Punctuation	Punctuation	_	32	U	32:U	_
+

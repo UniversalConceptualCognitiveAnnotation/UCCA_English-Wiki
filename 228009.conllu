@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 228009
+# text = On 22 June 2009 , he left Los Angeles to begin filming The Karate Kid , a remake of the 1984 original , in Beijing .
+1	On	_	Word	Word	_	2	R	2:R	_
+2	22	_	Word	Word	_	7	T	7:T	_
+3	June	_	Word	Word	_	2	C	2:C	_
+4	2009	_	Word	Word	_	2	C	2:C	_
+5	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+6	he	_	Word	Word	_	7	A	7:A|12:A	_
+7	left	_	Word	Word	_	0	H	0:H	_
+8	Los	_	Word	Word	_	7	A	7:A	_
+9	Angeles	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	to	_	Word	Word	_	12	L	12:L	_
+11	begin	_	Word	Word	_	12	D	12:D	_
+12	filming	_	Word	Word	_	7	H	7:H	_
+13	The	_	Word	Word	_	12	A	12:A	_
+14	Karate	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	Kid	_	Word	Word	_	13	Terminal	13:Terminal	_
+16	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+17	a	_	Word	Word	_	18	F	18:F	_
+18	remake	_	Word	Word	_	13	E	13:E	_
+19	of	_	Word	Word	_	21	R	21:R	_
+20	the	_	Word	Word	_	21	F	21:F	_
+21	1984	_	Word	Word	_	18	A	18:A	_
+22	original	_	Word	Word	_	21	E	21:E	_
+23	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+24	in	_	Word	Word	_	25	R	25:R	_
+25	Beijing	_	Word	Word	_	12	A	12:A	_
+26	.	_	Punctuation	Punctuation	_	25	U	25:U	_
+

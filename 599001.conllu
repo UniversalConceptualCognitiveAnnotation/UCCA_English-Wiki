@@ -1,0 +1,43 @@
+# format = ucca
+# sent_id = 599001
+# text = With John Lennon , George Harrison and Ringo Starr , he gained worldwide fame as a member of the Beatles , and his collaboration with Lennon is one of the most celebrated songwriting partnerships of the 20th century .
+1	With	_	Word	Word	_	2	R	2:R	_
+2	John	_	Word	Word	_	14	A	14:A	_
+3	Lennon	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	George	_	Word	Word	_	2	C	2:C	_
+6	Harrison	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	and	_	Word	Word	_	2	N	2:N	_
+8	Ringo	_	Word	Word	_	2	C	2:C	_
+9	Starr	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+11	he	_	Word	Word	_	14	A	14:A|17:A	_
+12	gained	_	Word	Word	_	14	D	14:D	_
+13	worldwide	_	Word	Word	_	14	A	14:A	_
+14	fame	_	Word	Word	_	0	H	0:H	_
+15	as	_	Word	Word	_	17	R	17:R	_
+16	a	_	Word	Word	_	17	E	17:E	_
+17	member	_	Word	Word	_	14	A	14:A	_
+18	of	_	Word	Word	_	19	R	19:R	_
+19	the	_	Word	Word	_	17	A	17:A	_
+20	Beatles	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+22	and	_	Word	Word	_	24	L	24:L	_
+23	his	_	Word	Word	_	24	A	24:A	_
+24	collaboration	_	Word	Word	_	14	H	14:H	_
+25	with	_	Word	Word	_	26	R	26:R	_
+26	Lennon	_	Word	Word	_	24	A	24:A	_
+27	is	_	Word	Word	_	24	F	24:F	_
+28	one	_	Word	Word	_	32	D	32:D	_
+29	of	_	Word	Word	_	32	F	32:F	_
+30	the	_	Word	Word	_	31	E	31:E	_
+31	most	_	Word	Word	_	32	D	32:D	_
+32	celebrated	_	Word	Word	_	24	A	24:A	_
+33	songwriting	_	Word	Word	_	34	A	34:A	_
+34	partnerships	_	Word	Word	_	32	A	32:A	_
+35	of	_	Word	Word	_	38	R	38:R	_
+36	the	_	Word	Word	_	38	E	38:E	_
+37	20th	_	Word	Word	_	38	E	38:E	_
+38	century	_	Word	Word	_	32	T	32:T	_
+39	.	_	Punctuation	Punctuation	_	38	U	38:U	_
+

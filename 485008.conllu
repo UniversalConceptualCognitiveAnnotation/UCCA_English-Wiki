@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 485008
+# text = In a cover story for The Mail on Sunday , he told author Antonella Gambotto - Burke that his family had suffered from racist taunts , and that it had distressed him . "
+1	In	_	Word	Word	_	4	R	4:R	_
+2	a	_	Word	Word	_	4	E	4:E	_
+3	cover	_	Word	Word	_	4	E	4:E	_
+4	story	_	Word	Word	_	12	A	12:A	_
+5	for	_	Word	Word	_	6	R	6:R	_
+6	The	_	Word	Word	_	4	E	4:E	_
+7	Mail	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	on	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	Sunday	_	Word	Word	_	6	Terminal	6:Terminal	_
+10	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+11	he	_	Word	Word	_	12	A	12:A	_
+12	told	_	Word	Word	_	0	H	0:H	_
+13	author	_	Word	Word	_	14	E	14:E	_
+14	Antonella	_	Word	Word	_	12	A	12:A	_
+15	Gambotto	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	-	_	Punctuation	Punctuation	_	14	U	14:U	_
+17	Burke	_	Word	Word	_	14	Terminal	14:Terminal	_
+18	that	_	Word	Word	_	22	R	22:R	_
+19	his	_	Word	Word	_	20	A	20:A	_
+20	family	_	Word	Word	_	22	A	22:A	_
+21	had	_	Word	Word	_	22	F	22:F	_
+22	suffered	_	Word	Word	_	12	A	12:A	_
+23	from	_	Word	Word	_	25	R	25:R	_
+24	racist	_	Word	Word	_	25	E	25:E	_
+25	taunts	_	Word	Word	_	22	A	22:A	_
+26	,	_	Punctuation	Punctuation	_	22	U	22:U	_
+27	and	_	Word	Word	_	31	L	31:L	_
+28	that	_	Word	Word	_	31	F	31:F	_
+29	it	_	Word	Word	_	31	A	31:A	_
+30	had	_	Word	Word	_	31	F	31:F	_
+31	distressed	_	Word	Word	_	22	H	22:H	_
+32	him	_	Word	Word	_	31	A	31:A	_
+33	.	_	Punctuation	Punctuation	_	31	U	31:U	_
+34	"	_	Punctuation	Punctuation	_	31	U	31:U	_
+

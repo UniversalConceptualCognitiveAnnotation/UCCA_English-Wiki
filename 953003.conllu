@@ -1,0 +1,44 @@
+# format = ucca
+# sent_id = 953003
+# text = At the age of six , Vivian Hartley was sent to the Convent of the Sacred Heart ( now Woldingham School ) in Roehampton , south - west London , from Loreto Convent , Darjeeling , by her mother .
+1	At	_	Word	Word	_	10	L	10:L	_
+2	the	_	Word	Word	_	3	E	3:E	_
+3	age	_	Word	Word	_	0	H	0:H	_
+4	of	_	Word	Word	_	5	R	5:R	_
+5	six	_	Word	Word	_	3	T	3:T	_
+6	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+7	Vivian	_	Word	Word	_	10	A	10:A|3:A	_
+8	Hartley	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	was	_	Word	Word	_	10	F	10:F	_
+10	sent	_	Word	Word	_	3	H	3:H	_
+11	to	_	Word	Word	_	13	R	13:R	_
+12	the	_	Word	Word	_	13	E	13:E	_
+13	Convent	_	Word	Word	_	10	A	10:A	_
+14	of	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	the	_	Word	Word	_	13	Terminal	13:Terminal	_
+16	Sacred	_	Word	Word	_	13	Terminal	13:Terminal	_
+17	Heart	_	Word	Word	_	13	Terminal	13:Terminal	_
+18	(	_	Punctuation	Punctuation	_	13	U	13:U	_
+19	now	_	Word	Word	_	21	T	21:T	_
+20	Woldingham	_	Word	Word	_	21	E	21:E	_
+21	School	_	Word	Word	_	13	E	13:E	_
+22	)	_	Punctuation	Punctuation	_	13	U	13:U	_
+23	in	_	Word	Word	_	24	R	24:R	_
+24	Roehampton	_	Word	Word	_	13	E	13:E	_
+25	,	_	Punctuation	Punctuation	_	24	U	24:U	_
+26	south	_	Word	Word	_	29	E	29:E	_
+27	-	_	Punctuation	Punctuation	_	26	U	26:U	_
+28	west	_	Word	Word	_	26	C	26:C	_
+29	London	_	Word	Word	_	24	C	24:C	_
+30	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+31	from	_	Word	Word	_	33	R	33:R	_
+32	Loreto	_	Word	Word	_	33	E	33:E	_
+33	Convent	_	Word	Word	_	10	A	10:A	_
+34	,	_	Punctuation	Punctuation	_	33	U	33:U	_
+35	Darjeeling	_	Word	Word	_	33	E	33:E	_
+36	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+37	by	_	Word	Word	_	38	R	38:R	_
+38	her	_	Word	Word	_	10	A	10:A	_
+39	mother	_	Word	Word	_	38	A	38:A	_
+40	.	_	Punctuation	Punctuation	_	38	U	38:U	_
+

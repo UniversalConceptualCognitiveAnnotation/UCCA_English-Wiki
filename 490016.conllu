@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 490016
+# text = In 2009 he released a documentary named Love The Beast .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	2009	_	Word	Word	_	4	T	4:T	_
+3	he	_	Word	Word	_	4	A	4:A	_
+4	released	_	Word	Word	_	0	H	0:H	_
+5	a	_	Word	Word	_	6	E	6:E	_
+6	documentary	_	Word	Word	_	4	A	4:A	_
+7	named	_	Word	Word	_	6	E	6:E	_
+8	Love	_	Word	Word	_	7	A	7:A	_
+9	The	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	Beast	_	Word	Word	_	8	Terminal	8:Terminal	_
+11	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

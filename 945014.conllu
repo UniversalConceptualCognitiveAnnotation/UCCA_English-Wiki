@@ -1,0 +1,34 @@
+# format = ucca
+# sent_id = 945014
+# text = Stefani commented that it differed from L.A.M.B. because " I just was n't inspired to do another album and ... I was a lot more relaxed making it . "
+1	Stefani	_	Word	Word	_	2	A	2:A	_
+2	commented	_	Word	Word	_	0	H	0:H	_
+3	that	_	Word	Word	_	5	R	5:R	_
+4	it	_	Word	Word	_	5	A	5:A	_
+5	differed	_	Word	Word	_	2	A	2:A	_
+6	from	_	Word	Word	_	7	R	7:R	_
+7	L.A.M.B.	_	Word	Word	_	5	A	5:A	_
+8	because	_	Word	Word	_	14	L	14:L	_
+9	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+10	I	_	Word	Word	_	14	A	14:A|16:A	_
+11	just	_	Word	Word	_	14	D	14:D	_
+12	was	_	Word	Word	_	14	F	14:F	_
+13	n't	_	Word	Word	_	14	D	14:D	_
+14	inspired	_	Word	Word	_	5	H	5:H	_
+15	to	_	Word	Word	_	16	F	16:F	_
+16	do	_	Word	Word	_	14	A	14:A	_
+17	another	_	Word	Word	_	18	E	18:E	_
+18	album	_	Word	Word	_	16	A	16:A	_
+19	and	_	Word	Word	_	27	L	27:L	_
+20	...	_	Punctuation	Punctuation	_	5	U	5:U	_
+21	I	_	Word	Word	_	27	A	27:A	_
+22	was	_	Word	Word	_	27	F	27:F	_
+23	a	_	Word	Word	_	25	E	25:E	_
+24	lot	_	Word	Word	_	23	Terminal	23:Terminal	_
+25	more	_	Word	Word	_	26	E	26:E	_
+26	relaxed	_	Word	Word	_	27	D	27:D	_
+27	making	_	Word	Word	_	5	H	5:H	_
+28	it	_	Word	Word	_	27	A	27:A	_
+29	.	_	Punctuation	Punctuation	_	27	U	27:U	_
+30	"	_	Punctuation	Punctuation	_	27	U	27:U	_
+

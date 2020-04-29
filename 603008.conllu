@@ -1,0 +1,50 @@
+# format = ucca
+# sent_id = 603008
+# text = Scholar David Scott Kastan described Sgt . Pepper as " the most important and influential rock - and - roll album ever recorded " . Epstein 's death in August 1967 created a void , which left the Beatles perplexed and concerned about their future .
+1	Scholar	_	Word	Word	_	5	A	5:A	_
+2	David	_	Word	Word	_	1	A	1:A	_
+3	Scott	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	Kastan	_	Word	Word	_	2	Terminal	2:Terminal	_
+5	described	_	Word	Word	_	0	H	0:H	_
+6	Sgt	_	Word	Word	_	5	A	5:A	_
+7	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	Pepper	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	as	_	Word	Word	_	13	R	13:R|15:R	_
+10	"	_	Punctuation	Punctuation	_	13	U	13:U	_
+11	the	_	Word	Word	_	12	F	12:F	_
+12	most	_	Word	Word	_	13	D	13:D|15:D	_
+13	important	_	Word	Word	_	5	A	5:A	_
+14	and	_	Word	Word	_	15	L	15:L	_
+15	influential	_	Word	Word	_	13	H	13:H	_
+16	rock	_	Word	Word	_	21	E	21:E	_
+17	-	_	Punctuation	Punctuation	_	16	U	16:U	_
+18	and	_	Word	Word	_	16	Terminal	16:Terminal	_
+19	-	_	Punctuation	Punctuation	_	16	U	16:U	_
+20	roll	_	Word	Word	_	16	Terminal	16:Terminal	_
+21	album	_	Word	Word	_	13	A	13:A|15:A	_
+22	ever	_	Word	Word	_	23	T	23:T	_
+23	recorded	_	Word	Word	_	13	A	13:A|15:A	_
+24	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+25	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+26	Epstein	_	Word	Word	_	28	A	28:A	_
+27	's	_	Word	Word	_	26	R	26:R	_
+28	death	_	Word	Word	_	32	A	32:A	_
+29	in	_	Word	Word	_	30	R	30:R	_
+30	August	_	Word	Word	_	28	T	28:T	_
+31	1967	_	Word	Word	_	30	C	30:C	_
+32	created	_	Word	Word	_	5	H	5:H	_
+33	a	_	Word	Word	_	34	E	34:E	_
+34	void	_	Word	Word	_	32	A	32:A|40:A	_
+35	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+36	which	_	Word	Word	_	40	L	40:L	_
+37	left	_	Word	Word	_	40	D	40:D	_
+38	the	_	Word	Word	_	40	A	40:A	_
+39	Beatles	_	Word	Word	_	38	Terminal	38:Terminal	_
+40	perplexed	_	Word	Word	_	5	H	5:H	_
+41	and	_	Word	Word	_	40	N	40:N	_
+42	concerned	_	Word	Word	_	40	C	40:C	_
+43	about	_	Word	Word	_	45	R	45:R	_
+44	their	_	Word	Word	_	45	E	45:E	_
+45	future	_	Word	Word	_	40	A	40:A	_
+46	.	_	Punctuation	Punctuation	_	45	U	45:U	_
+

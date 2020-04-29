@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 601006
+# text = Informally represented by Allan Williams , the Beatles ' first booking was for a series of performances in Hamburg , starting in 1960 .
+1	Informally	_	Word	Word	_	2	D	2:D	_
+2	represented	_	Word	Word	_	0	H	0:H	_
+3	by	_	Word	Word	_	4	R	4:R	_
+4	Allan	_	Word	Word	_	2	A	2:A	_
+5	Williams	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+7	the	_	Word	Word	_	12	A	12:A|2:A	_
+8	Beatles	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	'	_	Punctuation	Punctuation	_	12	U	12:U	_
+10	first	_	Word	Word	_	11	D	11:D	_
+11	booking	_	Word	Word	_	12	A	12:A	_
+12	was	_	Word	Word	_	2	H	2:H	_
+13	for	_	Word	Word	_	17	R	17:R	_
+14	a	_	Word	Word	_	15	E	15:E	_
+15	series	_	Word	Word	_	17	D	17:D	_
+16	of	_	Word	Word	_	17	F	17:F	_
+17	performances	_	Word	Word	_	12	A	12:A	_
+18	in	_	Word	Word	_	19	R	19:R	_
+19	Hamburg	_	Word	Word	_	17	A	17:A	_
+20	,	_	Punctuation	Punctuation	_	17	U	17:U	_
+21	starting	_	Word	Word	_	23	E	23:E	_
+22	in	_	Word	Word	_	23	R	23:R	_
+23	1960	_	Word	Word	_	17	T	17:T	_
+24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

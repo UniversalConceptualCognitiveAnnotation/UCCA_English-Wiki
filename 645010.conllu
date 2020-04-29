@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 645010
+# text = Lennon was intrigued by Ono 's " Hammer A Nail " : patrons hammered a nail into a wooden board , creating the art piece .
+1	Lennon	_	Word	Word	_	3	A	3:A	_
+2	was	_	Word	Word	_	3	F	3:F	_
+3	intrigued	_	Word	Word	_	0	H	0:H	_
+4	by	_	Word	Word	_	8	R	8:R	_
+5	Ono	_	Word	Word	_	8	E	8:E	_
+6	's	_	Word	Word	_	5	R	5:R	_
+7	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+8	Hammer	_	Word	Word	_	3	A	3:A	_
+9	A	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	Nail	_	Word	Word	_	8	Terminal	8:Terminal	_
+11	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+12	:	_	Punctuation	Punctuation	_	8	U	8:U	_
+13	patrons	_	Word	Word	_	14	A	14:A|22:A	_
+14	hammered	_	Word	Word	_	8	E	8:E	_
+15	a	_	Word	Word	_	16	E	16:E	_
+16	nail	_	Word	Word	_	14	A	14:A	_
+17	into	_	Word	Word	_	20	R	20:R	_
+18	a	_	Word	Word	_	20	E	20:E	_
+19	wooden	_	Word	Word	_	20	E	20:E	_
+20	board	_	Word	Word	_	14	A	14:A	_
+21	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+22	creating	_	Word	Word	_	14	H	14:H	_
+23	the	_	Word	Word	_	25	E	25:E	_
+24	art	_	Word	Word	_	25	E	25:E	_
+25	piece	_	Word	Word	_	22	A	22:A	_
+26	.	_	Punctuation	Punctuation	_	25	U	25:U	_
+

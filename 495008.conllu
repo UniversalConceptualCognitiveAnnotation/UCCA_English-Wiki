@@ -1,0 +1,50 @@
+# format = ucca
+# sent_id = 495008
+# text = Dissatisfied with his stage name as Davy ( and Davie ) Jones , which in the mid - 1960s invited confusion with Davy Jones of The Monkees , Bowie renamed himself after the 19th century American frontiersman Jim Bowie and the knife he had popularised .
+1	Dissatisfied	_	Word	Word	_	0	H	0:H	_
+2	with	_	Word	Word	_	5	R	5:R	_
+3	his	_	Word	Word	_	5	E	5:E	_
+4	stage	_	Word	Word	_	5	E	5:E	_
+5	name	_	Word	Word	_	1	A	1:A	_
+6	as	_	Word	Word	_	7	R	7:R	_
+7	Davy	_	Word	Word	_	5	E	5:E	_
+8	(	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	and	_	Word	Word	_	7	N	7:N	_
+10	Davie	_	Word	Word	_	7	C	7:C	_
+11	)	_	Punctuation	Punctuation	_	7	U	7:U	_
+12	Jones	_	Word	Word	_	7	Terminal	7:Terminal	_
+13	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+14	which	_	Word	Word	_	21	R	21:R	_
+15	in	_	Word	Word	_	19	R	19:R	_
+16	the	_	Word	Word	_	19	E	19:E	_
+17	mid	_	Word	Word	_	19	E	19:E	_
+18	-	_	Punctuation	Punctuation	_	19	U	19:U	_
+19	1960s	_	Word	Word	_	21	T	21:T	_
+20	invited	_	Word	Word	_	21	D	21:D	_
+21	confusion	_	Word	Word	_	5	E	5:E	_
+22	with	_	Word	Word	_	23	R	23:R	_
+23	Davy	_	Word	Word	_	21	A	21:A	_
+24	Jones	_	Word	Word	_	23	Terminal	23:Terminal	_
+25	of	_	Word	Word	_	27	R	27:R	_
+26	The	_	Word	Word	_	27	E	27:E	_
+27	Monkees	_	Word	Word	_	23	E	23:E	_
+28	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+29	Bowie	_	Word	Word	_	30	A	30:A|1:A	_
+30	renamed	_	Word	Word	_	1	H	1:H	_
+31	himself	_	Word	Word	_	30	Terminal	30:Terminal	_
+32	after	_	Word	Word	_	38	R	38:R	_
+33	the	_	Word	Word	_	37	E	37:E	_
+34	19th	_	Word	Word	_	35	Q	35:Q	_
+35	century	_	Word	Word	_	37	T	37:T	_
+36	American	_	Word	Word	_	37	A	37:A	_
+37	frontiersman	_	Word	Word	_	38	E	38:E	_
+38	Jim	_	Word	Word	_	30	A	30:A	_
+39	Bowie	_	Word	Word	_	38	Terminal	38:Terminal	_
+40	and	_	Word	Word	_	38	N	38:N	_
+41	the	_	Word	Word	_	42	E	42:E	_
+42	knife	_	Word	Word	_	38	C	38:C	_
+43	he	_	Word	Word	_	45	A	45:A	_
+44	had	_	Word	Word	_	45	F	45:F	_
+45	popularised	_	Word	Word	_	42	E	42:E	_
+46	.	_	Punctuation	Punctuation	_	45	U	45:U	_
+

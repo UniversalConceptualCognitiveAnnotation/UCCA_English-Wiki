@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 589005
+# text = He portrayed the Mad Hatter in Burton 's Alice in Wonderland , and the titular character in Rango .
+1	He	_	Word	Word	_	2	A	2:A	_
+2	portrayed	_	Word	Word	_	0	H	0:H	_
+3	the	_	Word	Word	_	4	E	4:E	_
+4	Mad	_	Word	Word	_	2	A	2:A	_
+5	Hatter	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	in	_	Word	Word	_	9	R	9:R	_
+7	Burton	_	Word	Word	_	8	A	8:A	_
+8	's	_	Word	Word	_	9	E	9:E	_
+9	Alice	_	Word	Word	_	4	E	4:E	_
+10	in	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	Wonderland	_	Word	Word	_	9	Terminal	9:Terminal	_
+12	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+13	and	_	Word	Word	_	4	N	4:N	_
+14	the	_	Word	Word	_	16	E	16:E	_
+15	titular	_	Word	Word	_	16	E	16:E	_
+16	character	_	Word	Word	_	4	C	4:C	_
+17	in	_	Word	Word	_	18	R	18:R	_
+18	Rango	_	Word	Word	_	16	E	16:E	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

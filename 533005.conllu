@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 533005
+# text = On June 22 , 1969 , Garland was found dead by Deans in the bathroom of their rented house in Chelsea , London .
+1	On	_	Word	Word	_	2	R	2:R	_
+2	June	_	Word	Word	_	9	T	9:T	_
+3	22	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	1969	_	Word	Word	_	2	C	2:C	_
+6	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+7	Garland	_	Word	Word	_	9	A	9:A|10:A	_
+8	was	_	Word	Word	_	9	F	9:F	_
+9	found	_	Word	Word	_	0	H	0:H	_
+10	dead	_	Word	Word	_	9	H	9:H	_
+11	by	_	Word	Word	_	12	R	12:R	_
+12	Deans	_	Word	Word	_	9	A	9:A	_
+13	in	_	Word	Word	_	15	R	15:R	_
+14	the	_	Word	Word	_	15	F	15:F	_
+15	bathroom	_	Word	Word	_	9	A	9:A	_
+16	of	_	Word	Word	_	19	R	19:R	_
+17	their	_	Word	Word	_	19	E	19:E	_
+18	rented	_	Word	Word	_	19	E	19:E	_
+19	house	_	Word	Word	_	15	E	15:E	_
+20	in	_	Word	Word	_	21	R	21:R	_
+21	Chelsea	_	Word	Word	_	19	E	19:E	_
+22	,	_	Punctuation	Punctuation	_	21	U	21:U	_
+23	London	_	Word	Word	_	21	C	21:C	_
+24	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

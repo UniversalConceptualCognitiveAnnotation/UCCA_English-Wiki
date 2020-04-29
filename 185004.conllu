@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 185004
+# text = Castle Rock Entertainment hired Sorkin to adapt A Few Good Men for the big screen .
+1	Castle	_	Word	Word	_	4	A	4:A	_
+2	Rock	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	Entertainment	_	Word	Word	_	1	Terminal	1:Terminal	_
+4	hired	_	Word	Word	_	0	H	0:H	_
+5	Sorkin	_	Word	Word	_	4	A	4:A|7:A	_
+6	to	_	Word	Word	_	7	L	7:L	_
+7	adapt	_	Word	Word	_	4	H	4:H	_
+8	A	_	Word	Word	_	7	A	7:A	_
+9	Few	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	Good	_	Word	Word	_	8	Terminal	8:Terminal	_
+11	Men	_	Word	Word	_	8	Terminal	8:Terminal	_
+12	for	_	Word	Word	_	15	R	15:R	_
+13	the	_	Word	Word	_	15	E	15:E	_
+14	big	_	Word	Word	_	15	E	15:E	_
+15	screen	_	Word	Word	_	7	A	7:A	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

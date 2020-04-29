@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 115008
+# text = A 26 - year affair with her co-star Spencer Tracy was hidden from the public .
+1	A	_	Word	Word	_	5	E	5:E	_
+2	26	_	Word	Word	_	4	Q	4:Q	_
+3	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+4	year	_	Word	Word	_	5	T	5:T	_
+5	affair	_	Word	Word	_	12	A	12:A	_
+6	with	_	Word	Word	_	9	R	9:R	_
+7	her	_	Word	Word	_	8	A	8:A	_
+8	co-star	_	Word	Word	_	9	E	9:E	_
+9	Spencer	_	Word	Word	_	5	A	5:A	_
+10	Tracy	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	was	_	Word	Word	_	12	F	12:F	_
+12	hidden	_	Word	Word	_	0	H	0:H	_
+13	from	_	Word	Word	_	15	R	15:R	_
+14	the	_	Word	Word	_	15	E	15:E	_
+15	public	_	Word	Word	_	12	A	12:A	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

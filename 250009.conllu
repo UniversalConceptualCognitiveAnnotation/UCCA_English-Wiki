@@ -1,0 +1,37 @@
+# format = ucca
+# sent_id = 250009
+# text = Outside of the New York stage , Hawke made an appearance in a 1995 production of Sam Shepard 's Buried Child , directed by Gary Sinise at the Steppenwolf Theater in Chicago .
+1	Outside	_	Word	Word	_	6	R	6:R	_
+2	of	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	the	_	Word	Word	_	6	F	6:F	_
+4	New	_	Word	Word	_	6	E	6:E	_
+5	York	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	stage	_	Word	Word	_	11	A	11:A	_
+7	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+8	Hawke	_	Word	Word	_	11	A	11:A	_
+9	made	_	Word	Word	_	11	F	11:F	_
+10	an	_	Word	Word	_	11	F	11:F	_
+11	appearance	_	Word	Word	_	0	H	0:H	_
+12	in	_	Word	Word	_	15	R	15:R	_
+13	a	_	Word	Word	_	15	F	15:F	_
+14	1995	_	Word	Word	_	15	E	15:E	_
+15	production	_	Word	Word	_	11	A	11:A	_
+16	of	_	Word	Word	_	20	R	20:R	_
+17	Sam	_	Word	Word	_	19	A	19:A	_
+18	Shepard	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	's	_	Word	Word	_	20	E	20:E	_
+20	Buried	_	Word	Word	_	15	E	15:E	_
+21	Child	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+23	directed	_	Word	Word	_	15	E	15:E	_
+24	by	_	Word	Word	_	25	R	25:R	_
+25	Gary	_	Word	Word	_	23	A	23:A	_
+26	Sinise	_	Word	Word	_	25	Terminal	25:Terminal	_
+27	at	_	Word	Word	_	30	R	30:R	_
+28	the	_	Word	Word	_	30	F	30:F	_
+29	Steppenwolf	_	Word	Word	_	30	E	30:E	_
+30	Theater	_	Word	Word	_	23	A	23:A	_
+31	in	_	Word	Word	_	32	R	32:R	_
+32	Chicago	_	Word	Word	_	30	E	30:E	_
+33	.	_	Punctuation	Punctuation	_	32	U	32:U	_
+

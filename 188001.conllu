@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 188001
+# text = In 1984 , Removing All Doubt was staged for drama students at his alma mater , Syracuse University .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1984	_	Word	Word	_	8	T	8:T	_
+3	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+4	Removing	_	Word	Word	_	8	A	8:A	_
+5	All	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	Doubt	_	Word	Word	_	4	Terminal	4:Terminal	_
+7	was	_	Word	Word	_	8	F	8:F	_
+8	staged	_	Word	Word	_	0	H	0:H	_
+9	for	_	Word	Word	_	11	R	11:R	_
+10	drama	_	Word	Word	_	11	A	11:A	_
+11	students	_	Word	Word	_	8	A	8:A	_
+12	at	_	Word	Word	_	18	R	18:R	_
+13	his	_	Word	Word	_	14	E	14:E	_
+14	alma	_	Word	Word	_	18	E	18:E	_
+15	mater	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+17	Syracuse	_	Word	Word	_	18	E	18:E	_
+18	University	_	Word	Word	_	8	A	8:A	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

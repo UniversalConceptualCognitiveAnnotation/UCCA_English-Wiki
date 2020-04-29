@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 701008
+# text = In October 1970 , Dylan released New Morning , which some considered a return to form .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	October	_	Word	Word	_	6	T	6:T	_
+3	1970	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	Dylan	_	Word	Word	_	6	A	6:A	_
+6	released	_	Word	Word	_	0	H	0:H	_
+7	New	_	Word	Word	_	6	A	6:A	_
+8	Morning	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+10	which	_	Word	Word	_	12	R	12:R	_
+11	some	_	Word	Word	_	12	A	12:A	_
+12	considered	_	Word	Word	_	7	E	7:E	_
+13	a	_	Word	Word	_	14	E	14:E	_
+14	return	_	Word	Word	_	12	A	12:A	_
+15	to	_	Word	Word	_	16	R	16:R	_
+16	form	_	Word	Word	_	14	A	14:A	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 104009
+# text = In response , Jolie released a statement in which she indicated that she no longer wished to pursue a relationship with her father .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	response	_	Word	Word	_	5	L	5:L	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	Jolie	_	Word	Word	_	5	A	5:A	_
+5	released	_	Word	Word	_	0	H	0:H	_
+6	a	_	Word	Word	_	7	E	7:E	_
+7	statement	_	Word	Word	_	5	A	5:A	_
+8	in	_	Word	Word	_	11	R	11:R	_
+9	which	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	she	_	Word	Word	_	11	A	11:A	_
+11	indicated	_	Word	Word	_	7	E	7:E	_
+12	that	_	Word	Word	_	16	R	16:R	_
+13	she	_	Word	Word	_	16	A	16:A|20:A	_
+14	no	_	Word	Word	_	16	D	16:D	_
+15	longer	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	wished	_	Word	Word	_	11	A	11:A	_
+17	to	_	Word	Word	_	20	F	20:F	_
+18	pursue	_	Word	Word	_	20	D	20:D	_
+19	a	_	Word	Word	_	20	E	20:E	_
+20	relationship	_	Word	Word	_	16	A	16:A	_
+21	with	_	Word	Word	_	23	R	23:R	_
+22	her	_	Word	Word	_	23	A	23:A	_
+23	father	_	Word	Word	_	20	A	20:A	_
+24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

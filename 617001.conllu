@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 617001
+# text = His father invited Paul and his brother Michael to solve crosswords with him , so as to increase their " word power " , as McCartney said .
+1	His	_	Word	Word	_	2	A	2:A	_
+2	father	_	Word	Word	_	3	A	3:A	_
+3	invited	_	Word	Word	_	0	H	0:H	_
+4	Paul	_	Word	Word	_	3	A	3:A|10:A|22:A	_
+5	and	_	Word	Word	_	4	N	4:N	_
+6	his	_	Word	Word	_	7	A	7:A	_
+7	brother	_	Word	Word	_	8	E	8:E	_
+8	Michael	_	Word	Word	_	4	C	4:C	_
+9	to	_	Word	Word	_	10	F	10:F	_
+10	solve	_	Word	Word	_	3	A	3:A	_
+11	crosswords	_	Word	Word	_	10	A	10:A	_
+12	with	_	Word	Word	_	13	R	13:R	_
+13	him	_	Word	Word	_	10	A	10:A	_
+14	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+15	so	_	Word	Word	_	22	L	22:L	_
+16	as	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	to	_	Word	Word	_	15	Terminal	15:Terminal	_
+18	increase	_	Word	Word	_	22	D	22:D	_
+19	their	_	Word	Word	_	22	F	22:F	_
+20	"	_	Punctuation	Punctuation	_	22	U	22:U	_
+21	word	_	Word	Word	_	22	A	22:A	_
+22	power	_	Word	Word	_	3	H	3:H	_
+23	"	_	Punctuation	Punctuation	_	3	U	3:U	_
+24	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+25	as	_	Word	Word	_	27	L	27:L	_
+26	McCartney	_	Word	Word	_	27	A	27:A	_
+27	said	_	Word	Word	_	3	H	3:H	_
+28	.	_	Punctuation	Punctuation	_	27	U	27:U	_
+

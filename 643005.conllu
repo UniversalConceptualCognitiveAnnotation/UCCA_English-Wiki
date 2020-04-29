@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 643005
+# text = After negotiations , Lennon capitulated and agreed to her divorcing him on the same grounds .
+1	After	_	Word	Word	_	5	L	5:L	_
+2	negotiations	_	Word	Word	_	0	H	0:H	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	Lennon	_	Word	Word	_	5	A	5:A|2:A|7:A	_
+5	capitulated	_	Word	Word	_	2	H	2:H	_
+6	and	_	Word	Word	_	7	L	7:L	_
+7	agreed	_	Word	Word	_	2	H	2:H	_
+8	to	_	Word	Word	_	10	R	10:R	_
+9	her	_	Word	Word	_	10	A	10:A	_
+10	divorcing	_	Word	Word	_	7	A	7:A	_
+11	him	_	Word	Word	_	10	A	10:A	_
+12	on	_	Word	Word	_	15	R	15:R	_
+13	the	_	Word	Word	_	15	E	15:E	_
+14	same	_	Word	Word	_	15	E	15:E	_
+15	grounds	_	Word	Word	_	7	A	7:A	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

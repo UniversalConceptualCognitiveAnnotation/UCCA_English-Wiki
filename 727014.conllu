@@ -1,0 +1,44 @@
+# format = ucca
+# sent_id = 727014
+# text = The movie received mixed reviews and The Hollywood Reporter concluded , " Angelina Jolie plays a role that definitely feels like something she has already done , but she does add an unmistakable dash of excitement and glamour . "
+1	The	_	Word	Word	_	2	E	2:E	_
+2	movie	_	Word	Word	_	3	A	3:A	_
+3	received	_	Word	Word	_	0	H	0:H	_
+4	mixed	_	Word	Word	_	5	E	5:E	_
+5	reviews	_	Word	Word	_	3	A	3:A	_
+6	and	_	Word	Word	_	10	L	10:L	_
+7	The	_	Word	Word	_	10	A	10:A	_
+8	Hollywood	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	Reporter	_	Word	Word	_	7	Terminal	7:Terminal	_
+10	concluded	_	Word	Word	_	3	H	3:H	_
+11	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	"	_	Punctuation	Punctuation	_	10	U	10:U	_
+13	Angelina	_	Word	Word	_	15	A	15:A	_
+14	Jolie	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	plays	_	Word	Word	_	10	A	10:A	_
+16	a	_	Word	Word	_	17	E	17:E	_
+17	role	_	Word	Word	_	15	A	15:A	_
+18	that	_	Word	Word	_	22	R	22:R	_
+19	definitely	_	Word	Word	_	20	E	20:E	_
+20	feels	_	Word	Word	_	22	G	22:G	_
+21	like	_	Word	Word	_	22	F	22:F	_
+22	something	_	Word	Word	_	17	E	17:E	_
+23	she	_	Word	Word	_	26	A	26:A	_
+24	has	_	Word	Word	_	26	F	26:F	_
+25	already	_	Word	Word	_	26	D	26:D	_
+26	done	_	Word	Word	_	22	E	22:E	_
+27	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+28	but	_	Word	Word	_	36	L	36:L	_
+29	she	_	Word	Word	_	36	A	36:A	_
+30	does	_	Word	Word	_	36	F	36:F	_
+31	add	_	Word	Word	_	36	D	36:D	_
+32	an	_	Word	Word	_	34	E	34:E	_
+33	unmistakable	_	Word	Word	_	34	E	34:E	_
+34	dash	_	Word	Word	_	36	D	36:D	_
+35	of	_	Word	Word	_	36	R	36:R	_
+36	excitement	_	Word	Word	_	15	H	15:H	_
+37	and	_	Word	Word	_	36	N	36:N	_
+38	glamour	_	Word	Word	_	36	C	36:C	_
+39	.	_	Punctuation	Punctuation	_	36	U	36:U	_
+40	"	_	Punctuation	Punctuation	_	36	U	36:U	_
+

@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 142000
+# text = Hepburn made her only appearance at the Academy Awards in 1974 , to present the Irving G. Thalberg Memorial Award to Lawrence Weingarten .
+1	Hepburn	_	Word	Word	_	5	A	5:A|14:A	_
+2	made	_	Word	Word	_	5	F	5:F	_
+3	her	_	Word	Word	_	5	D	5:D	_
+4	only	_	Word	Word	_	3	Q	3:Q	_
+5	appearance	_	Word	Word	_	0	H	0:H	_
+6	at	_	Word	Word	_	9	R	9:R	_
+7	the	_	Word	Word	_	9	E	9:E	_
+8	Academy	_	Word	Word	_	9	E	9:E	_
+9	Awards	_	Word	Word	_	5	A	5:A	_
+10	in	_	Word	Word	_	11	R	11:R	_
+11	1974	_	Word	Word	_	5	T	5:T	_
+12	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+13	to	_	Word	Word	_	14	L	14:L	_
+14	present	_	Word	Word	_	5	H	5:H	_
+15	the	_	Word	Word	_	14	A	14:A	_
+16	Irving	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	G.	_	Word	Word	_	15	Terminal	15:Terminal	_
+18	Thalberg	_	Word	Word	_	15	Terminal	15:Terminal	_
+19	Memorial	_	Word	Word	_	15	Terminal	15:Terminal	_
+20	Award	_	Word	Word	_	15	Terminal	15:Terminal	_
+21	to	_	Word	Word	_	22	R	22:R	_
+22	Lawrence	_	Word	Word	_	14	A	14:A	_
+23	Weingarten	_	Word	Word	_	22	Terminal	22:Terminal	_
+24	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+

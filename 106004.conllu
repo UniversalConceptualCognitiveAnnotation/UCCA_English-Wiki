@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 106004
+# text = In 1997 , Jolie starred with David Duchovny in the thriller Playing God , set in the Los Angeles underworld .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1997	_	Word	Word	_	5	T	5:T	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	Jolie	_	Word	Word	_	5	A	5:A	_
+5	starred	_	Word	Word	_	0	H	0:H	_
+6	with	_	Word	Word	_	7	R	7:R	_
+7	David	_	Word	Word	_	5	A	5:A	_
+8	Duchovny	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	in	_	Word	Word	_	12	R	12:R	_
+10	the	_	Word	Word	_	11	E	11:E	_
+11	thriller	_	Word	Word	_	12	E	12:E	_
+12	Playing	_	Word	Word	_	5	A	5:A	_
+13	God	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+15	set	_	Word	Word	_	12	E	12:E	_
+16	in	_	Word	Word	_	18	R	18:R	_
+17	the	_	Word	Word	_	18	E	18:E	_
+18	Los	_	Word	Word	_	15	A	15:A	_
+19	Angeles	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	underworld	_	Word	Word	_	18	C	18:C	_
+21	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

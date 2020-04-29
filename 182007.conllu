@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 182007
+# text = Her forthright manner , clipped vocal style and ubiquitous cigarette contributed to a public persona which has often been imitated and satirized .
+1	Her	_	Word	Word	_	2	A	2:A|6:A|10:E	_
+2	forthright	_	Word	Word	_	11	A	11:A	_
+3	manner	_	Word	Word	_	2	D	2:D	_
+4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	clipped	_	Word	Word	_	6	D	6:D	_
+6	vocal	_	Word	Word	_	2	C	2:C	_
+7	style	_	Word	Word	_	6	D	6:D	_
+8	and	_	Word	Word	_	2	N	2:N	_
+9	ubiquitous	_	Word	Word	_	10	E	10:E	_
+10	cigarette	_	Word	Word	_	2	C	2:C	_
+11	contributed	_	Word	Word	_	0	H	0:H	_
+12	to	_	Word	Word	_	15	R	15:R	_
+13	a	_	Word	Word	_	15	F	15:F	_
+14	public	_	Word	Word	_	15	E	15:E	_
+15	persona	_	Word	Word	_	11	A	11:A	_
+16	which	_	Word	Word	_	20	R	20:R|22:R	_
+17	has	_	Word	Word	_	20	F	20:F	_
+18	often	_	Word	Word	_	20	D	20:D|22:D	_
+19	been	_	Word	Word	_	20	F	20:F	_
+20	imitated	_	Word	Word	_	15	E	15:E	_
+21	and	_	Word	Word	_	22	L	22:L	_
+22	satirized	_	Word	Word	_	20	H	20:H	_
+23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+

@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 538005
+# text = Jack 's older brother Sam disapproved of these youthful pursuits . "
+1	Jack	_	Word	Word	_	5	E	5:E	_
+2	's	_	Word	Word	_	1	R	1:R	_
+3	older	_	Word	Word	_	1	D	1:D	_
+4	brother	_	Word	Word	_	1	A	1:A	_
+5	Sam	_	Word	Word	_	6	A	6:A	_
+6	disapproved	_	Word	Word	_	0	H	0:H	_
+7	of	_	Word	Word	_	10	R	10:R	_
+8	these	_	Word	Word	_	10	E	10:E	_
+9	youthful	_	Word	Word	_	10	D	10:D	_
+10	pursuits	_	Word	Word	_	6	A	6:A	_
+11	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	"	_	Punctuation	Punctuation	_	10	U	10:U	_
+

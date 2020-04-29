@@ -1,0 +1,44 @@
+# format = ucca
+# sent_id = 586018
+# text = Depp and his co - stars , Peter DeLuise and Holly Robinson , briefly reprised their roles in cameo appearances in the series ' 2012 feature film adaptation , which featured a much more comedic tone than the series .
+1	Depp	_	Word	Word	_	17	A	17:A	_
+2	and	_	Word	Word	_	1	N	1:N	_
+3	his	_	Word	Word	_	8	E	8:E	_
+4	co	_	Word	Word	_	3	D	3:D	_
+5	-	_	Punctuation	Punctuation	_	3	U	3:U	_
+6	stars	_	Word	Word	_	3	A	3:A	_
+7	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+8	Peter	_	Word	Word	_	1	C	1:C	_
+9	DeLuise	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	and	_	Word	Word	_	8	N	8:N	_
+11	Holly	_	Word	Word	_	8	C	8:C	_
+12	Robinson	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	,	_	Punctuation	Punctuation	_	17	U	17:U	_
+14	briefly	_	Word	Word	_	17	T	17:T	_
+15	reprised	_	Word	Word	_	17	D	17:D	_
+16	their	_	Word	Word	_	17	F	17:F	_
+17	roles	_	Word	Word	_	0	H	0:H	_
+18	in	_	Word	Word	_	20	R	20:R	_
+19	cameo	_	Word	Word	_	20	A	20:A	_
+20	appearances	_	Word	Word	_	17	A	17:A	_
+21	in	_	Word	Word	_	28	R	28:R	_
+22	the	_	Word	Word	_	28	E	28:E	_
+23	series	_	Word	Word	_	28	E	28:E	_
+24	'	_	Punctuation	Punctuation	_	28	U	28:U	_
+25	2012	_	Word	Word	_	28	E	28:E	_
+26	feature	_	Word	Word	_	27	E	27:E	_
+27	film	_	Word	Word	_	28	E	28:E	_
+28	adaptation	_	Word	Word	_	20	A	20:A	_
+29	,	_	Punctuation	Punctuation	_	28	U	28:U	_
+30	which	_	Word	Word	_	36	R	36:R	_
+31	featured	_	Word	Word	_	36	D	36:D|39:D	_
+32	a	_	Word	Word	_	36	F	36:F	_
+33	much	_	Word	Word	_	34	E	34:E	_
+34	more	_	Word	Word	_	35	E	35:E	_
+35	comedic	_	Word	Word	_	0	C	0:C|39:D	_
+36	tone	_	Word	Word	_	28	E	28:E	_
+37	than	_	Word	Word	_	39	L	39:L	_
+38	the	_	Word	Word	_	39	E	39:E	_
+39	series	_	Word	Word	_	36	H	36:H	_
+40	.	_	Punctuation	Punctuation	_	39	U	39:U	_
+

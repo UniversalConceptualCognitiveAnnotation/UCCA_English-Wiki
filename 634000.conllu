@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 634000
+# text = Brian Epstein , the Beatles ' manager from 1962 , had no prior experience of artist management , but nevertheless had a strong influence on their early dress code and attitude on stage .
+1	Brian	_	Word	Word	_	0	C	0:C|7:A|17:A|24:A	_
+2	Epstein	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+4	the	_	Word	Word	_	5	E	5:E	_
+5	Beatles	_	Word	Word	_	7	A	7:A	_
+6	'	_	Punctuation	Punctuation	_	7	U	7:U	_
+7	manager	_	Word	Word	_	1	E	1:E	_
+8	from	_	Word	Word	_	9	R	9:R	_
+9	1962	_	Word	Word	_	7	T	7:T	_
+10	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+11	had	_	Word	Word	_	14	F	14:F	_
+12	no	_	Word	Word	_	14	D	14:D	_
+13	prior	_	Word	Word	_	14	D	14:D	_
+14	experience	_	Word	Word	_	0	H	0:H	_
+15	of	_	Word	Word	_	17	R	17:R	_
+16	artist	_	Word	Word	_	17	A	17:A|31:A	_
+17	management	_	Word	Word	_	14	A	14:A	_
+18	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+19	but	_	Word	Word	_	24	L	24:L	_
+20	nevertheless	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	had	_	Word	Word	_	24	F	24:F	_
+22	a	_	Word	Word	_	23	E	23:E	_
+23	strong	_	Word	Word	_	24	D	24:D	_
+24	influence	_	Word	Word	_	14	H	14:H	_
+25	on	_	Word	Word	_	29	R	29:R	_
+26	their	_	Word	Word	_	29	E	29:E	_
+27	early	_	Word	Word	_	29	E	29:E	_
+28	dress	_	Word	Word	_	29	E	29:E	_
+29	code	_	Word	Word	_	24	A	24:A	_
+30	and	_	Word	Word	_	29	N	29:N	_
+31	attitude	_	Word	Word	_	29	C	29:C	_
+32	on	_	Word	Word	_	33	R	33:R	_
+33	stage	_	Word	Word	_	31	A	31:A	_
+34	.	_	Punctuation	Punctuation	_	33	U	33:U	_
+

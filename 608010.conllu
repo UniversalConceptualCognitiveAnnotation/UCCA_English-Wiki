@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 608010
+# text = He collaborated with composer Carl Davis , producing Liverpool Oratorio .
+1	He	_	Word	Word	_	2	A	2:A|8:A	_
+2	collaborated	_	Word	Word	_	0	H	0:H	_
+3	with	_	Word	Word	_	5	R	5:R	_
+4	composer	_	Word	Word	_	5	E	5:E	_
+5	Carl	_	Word	Word	_	2	A	2:A	_
+6	Davis	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+8	producing	_	Word	Word	_	2	H	2:H	_
+9	Liverpool	_	Word	Word	_	8	A	8:A	_
+10	Oratorio	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+

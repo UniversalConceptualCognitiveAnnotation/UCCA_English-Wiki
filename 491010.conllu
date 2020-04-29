@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 491010
+# text = In 2005 , Bana narrated the documentary Terrors of Tasmania about the endangered Tasmanian Devil .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	2005	_	Word	Word	_	5	T	5:T	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	Bana	_	Word	Word	_	5	A	5:A	_
+5	narrated	_	Word	Word	_	0	H	0:H	_
+6	the	_	Word	Word	_	8	E	8:E	_
+7	documentary	_	Word	Word	_	8	E	8:E	_
+8	Terrors	_	Word	Word	_	5	A	5:A	_
+9	of	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	Tasmania	_	Word	Word	_	8	Terminal	8:Terminal	_
+11	about	_	Word	Word	_	8	E	8:E	_
+12	the	_	Word	Word	_	14	E	14:E	_
+13	endangered	_	Word	Word	_	14	E	14:E	_
+14	Tasmanian	_	Word	Word	_	11	A	11:A	_
+15	Devil	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

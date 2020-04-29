@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 942012
+# text = Stefani was born and raised in Fullerton , California , and grew up in a Roman Catholic household .
+1	Stefani	_	Word	Word	_	3	A	3:A|5:A|12:A	_
+2	was	_	Word	Word	_	3	F	3:F	_
+3	born	_	Word	Word	_	12	H	12:H	_
+4	and	_	Word	Word	_	5	L	5:L	_
+5	raised	_	Word	Word	_	12	H	12:H	_
+6	in	_	Word	Word	_	7	R	7:R	_
+7	Fullerton	_	Word	Word	_	3	A	3:A|5:A	_
+8	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	California	_	Word	Word	_	7	C	7:C	_
+10	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+11	and	_	Word	Word	_	12	L	12:L	_
+12	grew	_	Word	Word	_	0	H	0:H	_
+13	up	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	in	_	Word	Word	_	18	R	18:R	_
+15	a	_	Word	Word	_	18	E	18:E	_
+16	Roman	_	Word	Word	_	17	E	17:E	_
+17	Catholic	_	Word	Word	_	18	E	18:E	_
+18	household	_	Word	Word	_	12	A	12:A	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

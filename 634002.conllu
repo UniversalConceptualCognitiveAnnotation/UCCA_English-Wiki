@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 634002
+# text = The band 's first single , " Love Me Do " , was released in October 1962 and reached No . 17 on the British charts .
+1	The	_	Word	Word	_	5	E	5:E	_
+2	band	_	Word	Word	_	5	E	5:E	_
+3	's	_	Word	Word	_	2	R	2:R	_
+4	first	_	Word	Word	_	5	E	5:E	_
+5	single	_	Word	Word	_	14	A	14:A	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+8	Love	_	Word	Word	_	5	E	5:E|19:A	_
+9	Me	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	Do	_	Word	Word	_	8	Terminal	8:Terminal	_
+11	"	_	Punctuation	Punctuation	_	14	U	14:U	_
+12	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+13	was	_	Word	Word	_	14	F	14:F	_
+14	released	_	Word	Word	_	0	H	0:H	_
+15	in	_	Word	Word	_	16	R	16:R	_
+16	October	_	Word	Word	_	14	T	14:T	_
+17	1962	_	Word	Word	_	16	C	16:C	_
+18	and	_	Word	Word	_	19	L	19:L	_
+19	reached	_	Word	Word	_	14	H	14:H	_
+20	No	_	Word	Word	_	19	A	19:A	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+22	17	_	Word	Word	_	20	E	20:E	_
+23	on	_	Word	Word	_	26	R	26:R	_
+24	the	_	Word	Word	_	26	E	26:E	_
+25	British	_	Word	Word	_	26	E	26:E	_
+26	charts	_	Word	Word	_	19	A	19:A	_
+27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+

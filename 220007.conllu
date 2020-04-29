@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 220007
+# text = Dunst made her singing debut in the 2001 film Get Over It , performing two songs written by Marc Shaiman .
+1	Dunst	_	Word	Word	_	5	A	5:A|14:A	_
+2	made	_	Word	Word	_	5	F	5:F	_
+3	her	_	Word	Word	_	5	F	5:F	_
+4	singing	_	Word	Word	_	5	D	5:D	_
+5	debut	_	Word	Word	_	0	H	0:H	_
+6	in	_	Word	Word	_	10	R	10:R	_
+7	the	_	Word	Word	_	10	F	10:F	_
+8	2001	_	Word	Word	_	10	E	10:E	_
+9	film	_	Word	Word	_	10	E	10:E	_
+10	Get	_	Word	Word	_	5	A	5:A	_
+11	Over	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	It	_	Word	Word	_	10	Terminal	10:Terminal	_
+13	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+14	performing	_	Word	Word	_	5	H	5:H	_
+15	two	_	Word	Word	_	16	Q	16:Q	_
+16	songs	_	Word	Word	_	14	A	14:A	_
+17	written	_	Word	Word	_	16	E	16:E	_
+18	by	_	Word	Word	_	19	R	19:R	_
+19	Marc	_	Word	Word	_	17	A	17:A	_
+20	Shaiman	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

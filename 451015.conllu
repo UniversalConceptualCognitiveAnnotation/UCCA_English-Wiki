@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 451015
+# text = After three rocky years at the anchor desk , Jennings quit to become a foreign correspondent .
+1	After	_	Word	Word	_	11	L	11:L	_
+2	three	_	Word	Word	_	4	Q	4:Q	_
+3	rocky	_	Word	Word	_	4	E	4:E	_
+4	years	_	Word	Word	_	5	T	5:T	_
+5	at	_	Word	Word	_	0	H	0:H	_
+6	the	_	Word	Word	_	8	E	8:E	_
+7	anchor	_	Word	Word	_	8	E	8:E	_
+8	desk	_	Word	Word	_	5	A	5:A	_
+9	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+10	Jennings	_	Word	Word	_	11	A	11:A|5:A|16:A	_
+11	quit	_	Word	Word	_	5	H	5:H	_
+12	to	_	Word	Word	_	16	L	16:L	_
+13	become	_	Word	Word	_	16	D	16:D	_
+14	a	_	Word	Word	_	16	E	16:E	_
+15	foreign	_	Word	Word	_	16	E	16:E	_
+16	correspondent	_	Word	Word	_	5	H	5:H	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

@@ -1,0 +1,42 @@
+# format = ucca
+# sent_id = 556001
+# text = On his own time , he would head down to Beale Street , the heart of Memphis 's thriving blues scene , and gaze longingly at the wild , flashy clothes in the windows of Lansky Brothers .
+1	On	_	Word	Word	_	4	R	4:R	_
+2	his	_	Word	Word	_	4	E	4:E	_
+3	own	_	Word	Word	_	4	E	4:E	_
+4	time	_	Word	Word	_	8	T	8:T	_
+5	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+6	he	_	Word	Word	_	8	A	8:A|24:A	_
+7	would	_	Word	Word	_	8	D	8:D	_
+8	head	_	Word	Word	_	0	H	0:H	_
+9	down	_	Word	Word	_	12	R	12:R	_
+10	to	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	Beale	_	Word	Word	_	12	E	12:E	_
+12	Street	_	Word	Word	_	8	A	8:A	_
+13	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+14	the	_	Word	Word	_	15	E	15:E	_
+15	heart	_	Word	Word	_	12	E	12:E	_
+16	of	_	Word	Word	_	21	R	21:R	_
+17	Memphis	_	Word	Word	_	21	A	21:A	_
+18	's	_	Word	Word	_	17	R	17:R	_
+19	thriving	_	Word	Word	_	21	D	21:D	_
+20	blues	_	Word	Word	_	21	A	21:A	_
+21	scene	_	Word	Word	_	15	E	15:E	_
+22	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+23	and	_	Word	Word	_	24	L	24:L	_
+24	gaze	_	Word	Word	_	8	H	8:H	_
+25	longingly	_	Word	Word	_	24	T	24:T	_
+26	at	_	Word	Word	_	31	R	31:R	_
+27	the	_	Word	Word	_	31	E	31:E	_
+28	wild	_	Word	Word	_	31	E	31:E	_
+29	,	_	Punctuation	Punctuation	_	31	U	31:U	_
+30	flashy	_	Word	Word	_	31	E	31:E	_
+31	clothes	_	Word	Word	_	24	A	24:A	_
+32	in	_	Word	Word	_	34	R	34:R	_
+33	the	_	Word	Word	_	34	E	34:E	_
+34	windows	_	Word	Word	_	31	E	31:E	_
+35	of	_	Word	Word	_	36	R	36:R	_
+36	Lansky	_	Word	Word	_	34	E	34:E	_
+37	Brothers	_	Word	Word	_	36	Terminal	36:Terminal	_
+38	.	_	Punctuation	Punctuation	_	36	U	36:U	_
+

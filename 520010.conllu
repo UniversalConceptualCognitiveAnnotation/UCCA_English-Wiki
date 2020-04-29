@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 520010
+# text = Garland attended Hollywood High School and later graduated from University High School ( Los Angeles , California ) .
+1	Garland	_	Word	Word	_	2	A	2:A|8:A	_
+2	attended	_	Word	Word	_	0	H	0:H	_
+3	Hollywood	_	Word	Word	_	5	E	5:E	_
+4	High	_	Word	Word	_	5	E	5:E	_
+5	School	_	Word	Word	_	2	A	2:A	_
+6	and	_	Word	Word	_	8	L	8:L	_
+7	later	_	Word	Word	_	8	D	8:D	_
+8	graduated	_	Word	Word	_	2	H	2:H	_
+9	from	_	Word	Word	_	12	R	12:R	_
+10	University	_	Word	Word	_	12	E	12:E	_
+11	High	_	Word	Word	_	12	E	12:E	_
+12	School	_	Word	Word	_	8	A	8:A	_
+13	(	_	Punctuation	Punctuation	_	12	U	12:U	_
+14	Los	_	Word	Word	_	12	E	12:E	_
+15	Angeles	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+17	California	_	Word	Word	_	14	C	14:C	_
+18	)	_	Punctuation	Punctuation	_	14	U	14:U	_
+19	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

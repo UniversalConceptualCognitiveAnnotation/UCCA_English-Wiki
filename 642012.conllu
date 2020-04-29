@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 642012
+# text = The couple were married on 23 August at the Mount Pleasant Register Office in Liverpool .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	couple	_	Word	Word	_	4	A	4:A	_
+3	were	_	Word	Word	_	4	F	4:F	_
+4	married	_	Word	Word	_	0	H	0:H	_
+5	on	_	Word	Word	_	6	R	6:R	_
+6	23	_	Word	Word	_	4	T	4:T	_
+7	August	_	Word	Word	_	6	C	6:C	_
+8	at	_	Word	Word	_	10	R	10:R	_
+9	the	_	Word	Word	_	10	E	10:E	_
+10	Mount	_	Word	Word	_	4	A	4:A	_
+11	Pleasant	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	Register	_	Word	Word	_	10	Terminal	10:Terminal	_
+13	Office	_	Word	Word	_	10	Terminal	10:Terminal	_
+14	in	_	Word	Word	_	15	R	15:R	_
+15	Liverpool	_	Word	Word	_	10	C	10:C	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

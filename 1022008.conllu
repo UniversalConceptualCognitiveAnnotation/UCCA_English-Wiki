@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 1022008
+# text = The videocassette of the documentary The Making of Michael Jackson 's Thriller sold over 350 , 000 copies in a few months .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	videocassette	_	Word	Word	_	13	A	13:A	_
+3	of	_	Word	Word	_	6	R	6:R	_
+4	the	_	Word	Word	_	5	E	5:E	_
+5	documentary	_	Word	Word	_	6	E	6:E	_
+6	The	_	Word	Word	_	2	E	2:E	_
+7	Making	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	of	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	Michael	_	Word	Word	_	6	Terminal	6:Terminal	_
+10	Jackson	_	Word	Word	_	6	Terminal	6:Terminal	_
+11	's	_	Word	Word	_	6	Terminal	6:Terminal	_
+12	Thriller	_	Word	Word	_	6	Terminal	6:Terminal	_
+13	sold	_	Word	Word	_	0	H	0:H	_
+14	over	_	Word	Word	_	18	R	18:R	_
+15	350	_	Word	Word	_	18	Q	18:Q	_
+16	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+17	000	_	Word	Word	_	15	Terminal	15:Terminal	_
+18	copies	_	Word	Word	_	13	A	13:A	_
+19	in	_	Word	Word	_	22	R	22:R	_
+20	a	_	Word	Word	_	22	E	22:E	_
+21	few	_	Word	Word	_	22	Q	22:Q	_
+22	months	_	Word	Word	_	13	T	13:T	_
+23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+

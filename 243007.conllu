@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 243007
+# text = In November 2007 Hawke directed his first play , Jonathan Marc Sherman 's Things We Want .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	November	_	Word	Word	_	5	T	5:T	_
+3	2007	_	Word	Word	_	2	C	2:C	_
+4	Hawke	_	Word	Word	_	5	A	5:A	_
+5	directed	_	Word	Word	_	0	H	0:H	_
+6	his	_	Word	Word	_	8	E	8:E	_
+7	first	_	Word	Word	_	8	Q	8:Q	_
+8	play	_	Word	Word	_	14	E	14:E	_
+9	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+10	Jonathan	_	Word	Word	_	13	A	13:A	_
+11	Marc	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	Sherman	_	Word	Word	_	10	Terminal	10:Terminal	_
+13	's	_	Word	Word	_	14	E	14:E	_
+14	Things	_	Word	Word	_	5	A	5:A	_
+15	We	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	Want	_	Word	Word	_	14	Terminal	14:Terminal	_
+17	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

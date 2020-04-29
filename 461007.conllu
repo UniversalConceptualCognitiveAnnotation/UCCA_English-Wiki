@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 461007
+# text = He was noted for questioning General Wesley Clark over Clark 's silence over controversial comments made by filmmaker Michael Moore , a supporter of Clark .
+1	He	_	Word	Word	_	3	A	3:A|5:A	_
+2	was	_	Word	Word	_	3	F	3:F	_
+3	noted	_	Word	Word	_	0	H	0:H	_
+4	for	_	Word	Word	_	5	R	5:R	_
+5	questioning	_	Word	Word	_	3	A	3:A	_
+6	General	_	Word	Word	_	7	E	7:E	_
+7	Wesley	_	Word	Word	_	5	A	5:A	_
+8	Clark	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	over	_	Word	Word	_	12	R	12:R	_
+10	Clark	_	Word	Word	_	12	E	12:E	_
+11	's	_	Word	Word	_	10	R	10:R	_
+12	silence	_	Word	Word	_	5	A	5:A	_
+13	over	_	Word	Word	_	16	R	16:R	_
+14	controversial	_	Word	Word	_	15	E	15:E	_
+15	comments	_	Word	Word	_	16	A	16:A	_
+16	made	_	Word	Word	_	12	E	12:E	_
+17	by	_	Word	Word	_	19	R	19:R	_
+18	filmmaker	_	Word	Word	_	19	E	19:E	_
+19	Michael	_	Word	Word	_	16	A	16:A	_
+20	Moore	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	,	_	Punctuation	Punctuation	_	19	U	19:U	_
+22	a	_	Word	Word	_	23	E	23:E	_
+23	supporter	_	Word	Word	_	19	E	19:E	_
+24	of	_	Word	Word	_	25	R	25:R	_
+25	Clark	_	Word	Word	_	23	A	23:A	_
+26	.	_	Punctuation	Punctuation	_	25	U	25:U	_
+

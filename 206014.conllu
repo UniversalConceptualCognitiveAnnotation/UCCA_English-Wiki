@@ -1,0 +1,41 @@
+# format = ucca
+# sent_id = 206014
+# text = Confused about what to do with his life , he is seduced into having an affair with Mrs . Robinson , an alcoholic and a neurotic , and the wife of his father 's business partner .
+1	Confused	_	Word	Word	_	0	H	0:H	_
+2	about	_	Word	Word	_	5	R	5:R	_
+3	what	_	Word	Word	_	5	A	5:A	_
+4	to	_	Word	Word	_	5	F	5:F	_
+5	do	_	Word	Word	_	1	A	1:A	_
+6	with	_	Word	Word	_	8	R	8:R	_
+7	his	_	Word	Word	_	8	E	8:E	_
+8	life	_	Word	Word	_	5	A	5:A	_
+9	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+10	he	_	Word	Word	_	12	A	12:A|16:A	_
+11	is	_	Word	Word	_	12	F	12:F	_
+12	seduced	_	Word	Word	_	1	H	1:H	_
+13	into	_	Word	Word	_	16	R	16:R	_
+14	having	_	Word	Word	_	16	F	16:F	_
+15	an	_	Word	Word	_	16	F	16:F	_
+16	affair	_	Word	Word	_	12	A	12:A	_
+17	with	_	Word	Word	_	20	R	20:R	_
+18	Mrs	_	Word	Word	_	20	E	20:E	_
+19	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+20	Robinson	_	Word	Word	_	16	A	16:A	_
+21	,	_	Punctuation	Punctuation	_	20	U	20:U	_
+22	an	_	Word	Word	_	23	F	23:F	_
+23	alcoholic	_	Word	Word	_	20	E	20:E	_
+24	and	_	Word	Word	_	23	N	23:N	_
+25	a	_	Word	Word	_	26	F	26:F	_
+26	neurotic	_	Word	Word	_	23	C	23:C	_
+27	,	_	Punctuation	Punctuation	_	23	U	23:U	_
+28	and	_	Word	Word	_	23	N	23:N	_
+29	the	_	Word	Word	_	30	F	30:F	_
+30	wife	_	Word	Word	_	23	C	23:C	_
+31	of	_	Word	Word	_	36	R	36:R	_
+32	his	_	Word	Word	_	33	A	33:A	_
+33	father	_	Word	Word	_	0	C	0:C|36:A	_
+34	's	_	Word	Word	_	33	R	33:R	_
+35	business	_	Word	Word	_	36	E	36:E	_
+36	partner	_	Word	Word	_	30	A	30:A	_
+37	.	_	Punctuation	Punctuation	_	36	U	36:U	_
+

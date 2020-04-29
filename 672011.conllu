@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 672011
+# text = For that reason , she cancelled the tour , and lost the child only two months later .
+1	For	_	Word	Word	_	3	R	3:R	_
+2	that	_	Word	Word	_	3	E	3:E	_
+3	reason	_	Word	Word	_	11	L	11:L	_
+4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	she	_	Word	Word	_	6	A	6:A|11:A	_
+6	cancelled	_	Word	Word	_	0	H	0:H	_
+7	the	_	Word	Word	_	8	E	8:E	_
+8	tour	_	Word	Word	_	6	A	6:A	_
+9	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+10	and	_	Word	Word	_	11	L	11:L	_
+11	lost	_	Word	Word	_	6	H	6:H	_
+12	the	_	Word	Word	_	13	E	13:E	_
+13	child	_	Word	Word	_	11	A	11:A	_
+14	only	_	Word	Word	_	16	E	16:E	_
+15	two	_	Word	Word	_	16	Q	16:Q	_
+16	months	_	Word	Word	_	11	T	11:T	_
+17	later	_	Word	Word	_	16	R	16:R	_
+18	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

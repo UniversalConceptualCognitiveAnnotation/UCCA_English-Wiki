@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 701011
+# text = Between March 16 and 19 , 1971 , Dylan reserved three days at Blue Rock Studios , a small studio in New York 's Greenwich Village .
+1	Between	_	Word	Word	_	2	R	2:R	_
+2	March	_	Word	Word	_	10	T	10:T	_
+3	16	_	Word	Word	_	2	C	2:C	_
+4	and	_	Word	Word	_	3	N	3:N	_
+5	19	_	Word	Word	_	3	C	3:C	_
+6	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+7	1971	_	Word	Word	_	2	C	2:C	_
+8	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+9	Dylan	_	Word	Word	_	10	A	10:A	_
+10	reserved	_	Word	Word	_	0	H	0:H	_
+11	three	_	Word	Word	_	12	Q	12:Q	_
+12	days	_	Word	Word	_	10	A	10:A	_
+13	at	_	Word	Word	_	14	R	14:R	_
+14	Blue	_	Word	Word	_	10	A	10:A	_
+15	Rock	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	Studios	_	Word	Word	_	14	Terminal	14:Terminal	_
+17	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+18	a	_	Word	Word	_	20	E	20:E	_
+19	small	_	Word	Word	_	20	E	20:E	_
+20	studio	_	Word	Word	_	14	E	14:E	_
+21	in	_	Word	Word	_	25	R	25:R	_
+22	New	_	Word	Word	_	25	E	25:E	_
+23	York	_	Word	Word	_	22	Terminal	22:Terminal	_
+24	's	_	Word	Word	_	22	R	22:R	_
+25	Greenwich	_	Word	Word	_	20	E	20:E	_
+26	Village	_	Word	Word	_	25	Terminal	25:Terminal	_
+27	.	_	Punctuation	Punctuation	_	25	U	25:U	_
+

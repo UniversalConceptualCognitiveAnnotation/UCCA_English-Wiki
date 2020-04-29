@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 450004
+# text = He struggled academically , and Jennings later surmised that it was out of " pure boredom " that he failed 10th grade and dropped out . "
+1	He	_	Word	Word	_	2	A	2:A	_
+2	struggled	_	Word	Word	_	0	H	0:H	_
+3	academically	_	Word	Word	_	2	D	2:D	_
+4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	and	_	Word	Word	_	8	L	8:L	_
+6	Jennings	_	Word	Word	_	8	A	8:A|16:A|24:A	_
+7	later	_	Word	Word	_	8	L	8:L	_
+8	surmised	_	Word	Word	_	2	H	2:H	_
+9	that	_	Word	Word	_	16	R	16:R	_
+10	it	_	Word	Word	_	16	F	16:F	_
+11	was	_	Word	Word	_	16	F	16:F	_
+12	out	_	Word	Word	_	20	L	20:L	_
+13	of	_	Word	Word	_	12	R	12:R	_
+14	"	_	Punctuation	Punctuation	_	16	U	16:U	_
+15	pure	_	Word	Word	_	16	D	16:D	_
+16	boredom	_	Word	Word	_	8	A	8:A	_
+17	"	_	Punctuation	Punctuation	_	16	U	16:U	_
+18	that	_	Word	Word	_	20	R	20:R	_
+19	he	_	Word	Word	_	20	A	20:A	_
+20	failed	_	Word	Word	_	16	H	16:H	_
+21	10th	_	Word	Word	_	22	E	22:E	_
+22	grade	_	Word	Word	_	20	A	20:A	_
+23	and	_	Word	Word	_	24	L	24:L	_
+24	dropped	_	Word	Word	_	16	H	16:H	_
+25	out	_	Word	Word	_	24	Terminal	24:Terminal	_
+26	.	_	Punctuation	Punctuation	_	24	U	24:U	_
+27	"	_	Punctuation	Punctuation	_	24	U	24:U	_
+

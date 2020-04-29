@@ -1,0 +1,40 @@
+# format = ucca
+# sent_id = 674001
+# text = It was later revealed that it would be her second Christmas album , the follow - up to Merry Christmas ( 1994 ) , which became the best - selling Holiday album of all time .
+1	It	_	Word	Word	_	4	F	4:F	_
+2	was	_	Word	Word	_	4	F	4:F	_
+3	later	_	Word	Word	_	4	T	4:T	_
+4	revealed	_	Word	Word	_	0	H	0:H	_
+5	that	_	Word	Word	_	8	R	8:R	_
+6	it	_	Word	Word	_	8	A	8:A	_
+7	would	_	Word	Word	_	8	D	8:D	_
+8	be	_	Word	Word	_	4	A	4:A	_
+9	her	_	Word	Word	_	12	E	12:E	_
+10	second	_	Word	Word	_	12	Q	12:Q	_
+11	Christmas	_	Word	Word	_	12	E	12:E	_
+12	album	_	Word	Word	_	8	A	8:A	_
+13	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+14	the	_	Word	Word	_	15	E	15:E	_
+15	follow	_	Word	Word	_	12	E	12:E	_
+16	-	_	Punctuation	Punctuation	_	15	U	15:U	_
+17	up	_	Word	Word	_	15	Terminal	15:Terminal	_
+18	to	_	Word	Word	_	19	R	19:R	_
+19	Merry	_	Word	Word	_	15	E	15:E	_
+20	Christmas	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	(	_	Punctuation	Punctuation	_	19	U	19:U	_
+22	1994	_	Word	Word	_	19	E	19:E	_
+23	)	_	Punctuation	Punctuation	_	19	U	19:U	_
+24	,	_	Punctuation	Punctuation	_	19	U	19:U	_
+25	which	_	Word	Word	_	26	R	26:R	_
+26	became	_	Word	Word	_	19	E	19:E	_
+27	the	_	Word	Word	_	32	E	32:E	_
+28	best	_	Word	Word	_	30	D	30:D	_
+29	-	_	Punctuation	Punctuation	_	30	U	30:U	_
+30	selling	_	Word	Word	_	32	E	32:E	_
+31	Holiday	_	Word	Word	_	32	E	32:E	_
+32	album	_	Word	Word	_	26	A	26:A	_
+33	of	_	Word	Word	_	34	R	34:R	_
+34	all	_	Word	Word	_	32	E	32:E	_
+35	time	_	Word	Word	_	34	Terminal	34:Terminal	_
+36	.	_	Punctuation	Punctuation	_	34	U	34:U	_
+

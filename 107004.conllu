@@ -1,0 +1,37 @@
+# format = ucca
+# sent_id = 107004
+# text = The film chronicled the destruction of Carangi 's life and career as a result of her addiction to heroin , and her decline and death from AIDS in the mid - 1980s .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	film	_	Word	Word	_	3	A	3:A	_
+3	chronicled	_	Word	Word	_	0	H	0:H	_
+4	the	_	Word	Word	_	5	E	5:E	_
+5	destruction	_	Word	Word	_	3	A	3:A	_
+6	of	_	Word	Word	_	9	R	9:R|11:R	_
+7	Carangi	_	Word	Word	_	9	A	9:A|11:A	_
+8	's	_	Word	Word	_	7	R	7:R	_
+9	life	_	Word	Word	_	5	A	5:A	_
+10	and	_	Word	Word	_	11	L	11:L	_
+11	career	_	Word	Word	_	9	H	9:H	_
+12	as	_	Word	Word	_	14	R	14:R	_
+13	a	_	Word	Word	_	14	E	14:E	_
+14	result	_	Word	Word	_	17	L	17:L	_
+15	of	_	Word	Word	_	14	R	14:R	_
+16	her	_	Word	Word	_	17	A	17:A	_
+17	addiction	_	Word	Word	_	5	H	5:H	_
+18	to	_	Word	Word	_	19	R	19:R	_
+19	heroin	_	Word	Word	_	17	A	17:A	_
+20	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+21	and	_	Word	Word	_	23	L	23:L	_
+22	her	_	Word	Word	_	23	A	23:A|25:A	_
+23	decline	_	Word	Word	_	5	H	5:H	_
+24	and	_	Word	Word	_	25	L	25:L	_
+25	death	_	Word	Word	_	5	H	5:H	_
+26	from	_	Word	Word	_	27	R	27:R	_
+27	AIDS	_	Word	Word	_	23	A	23:A|25:A	_
+28	in	_	Word	Word	_	32	R	32:R	_
+29	the	_	Word	Word	_	32	E	32:E	_
+30	mid	_	Word	Word	_	32	E	32:E	_
+31	-	_	Punctuation	Punctuation	_	32	U	32:U	_
+32	1980s	_	Word	Word	_	23	T	23:T|25:T	_
+33	.	_	Punctuation	Punctuation	_	32	U	32:U	_
+

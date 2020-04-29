@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 146012
+# text = For decades , Hepburn openly promoted birth control and supported abortion .
+1	For	_	Word	Word	_	2	R	2:R	_
+2	decades	_	Word	Word	_	6	T	6:T	_
+3	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+4	Hepburn	_	Word	Word	_	6	A	6:A|10:A	_
+5	openly	_	Word	Word	_	6	D	6:D	_
+6	promoted	_	Word	Word	_	0	H	0:H	_
+7	birth	_	Word	Word	_	8	A	8:A	_
+8	control	_	Word	Word	_	6	A	6:A	_
+9	and	_	Word	Word	_	10	L	10:L	_
+10	supported	_	Word	Word	_	6	H	6:H	_
+11	abortion	_	Word	Word	_	10	A	10:A	_
+12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+

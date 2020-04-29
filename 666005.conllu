@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 666005
+# text = Carey also wrote two ballads with David Foster and Diane Warren , whom she seemingly used to replace Afanasieff .
+1	Carey	_	Word	Word	_	3	A	3:A	_
+2	also	_	Word	Word	_	3	D	3:D	_
+3	wrote	_	Word	Word	_	0	H	0:H	_
+4	two	_	Word	Word	_	5	E	5:E	_
+5	ballads	_	Word	Word	_	3	A	3:A	_
+6	with	_	Word	Word	_	7	R	7:R	_
+7	David	_	Word	Word	_	3	A	3:A	_
+8	Foster	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	and	_	Word	Word	_	7	N	7:N	_
+10	Diane	_	Word	Word	_	7	C	7:C	_
+11	Warren	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+13	whom	_	Word	Word	_	16	R	16:R	_
+14	she	_	Word	Word	_	16	A	16:A|18:A	_
+15	seemingly	_	Word	Word	_	16	D	16:D	_
+16	used	_	Word	Word	_	10	E	10:E	_
+17	to	_	Word	Word	_	18	F	18:F	_
+18	replace	_	Word	Word	_	16	A	16:A	_
+19	Afanasieff	_	Word	Word	_	18	A	18:A	_
+20	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

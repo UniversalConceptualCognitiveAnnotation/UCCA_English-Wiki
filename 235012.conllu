@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 235012
+# text = The Hong Kong Tourism Board stated that it had received 164 comments and complaints from the public over Chan 's remarks .
+1	The	_	Word	Word	_	5	F	5:F	_
+2	Hong	_	Word	Word	_	5	E	5:E	_
+3	Kong	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	Tourism	_	Word	Word	_	5	E	5:E	_
+5	Board	_	Word	Word	_	6	A	6:A	_
+6	stated	_	Word	Word	_	0	H	0:H	_
+7	that	_	Word	Word	_	10	R	10:R	_
+8	it	_	Word	Word	_	10	A	10:A	_
+9	had	_	Word	Word	_	10	F	10:F	_
+10	received	_	Word	Word	_	6	A	6:A	_
+11	164	_	Word	Word	_	12	Q	12:Q	_
+12	comments	_	Word	Word	_	10	A	10:A	_
+13	and	_	Word	Word	_	12	N	12:N	_
+14	complaints	_	Word	Word	_	12	C	12:C	_
+15	from	_	Word	Word	_	17	R	17:R	_
+16	the	_	Word	Word	_	17	F	17:F	_
+17	public	_	Word	Word	_	10	A	10:A	_
+18	over	_	Word	Word	_	21	R	21:R	_
+19	Chan	_	Word	Word	_	21	A	21:A	_
+20	's	_	Word	Word	_	19	R	19:R	_
+21	remarks	_	Word	Word	_	10	A	10:A	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

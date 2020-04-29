@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 125015
+# text = It opened on March 11 , 1932 , at the Morosco Theatre on Broadway .
+1	It	_	Word	Word	_	2	A	2:A	_
+2	opened	_	Word	Word	_	0	H	0:H	_
+3	on	_	Word	Word	_	4	R	4:R	_
+4	March	_	Word	Word	_	2	T	2:T	_
+5	11	_	Word	Word	_	4	C	4:C	_
+6	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+7	1932	_	Word	Word	_	4	C	4:C	_
+8	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+9	at	_	Word	Word	_	12	R	12:R	_
+10	the	_	Word	Word	_	12	E	12:E	_
+11	Morosco	_	Word	Word	_	12	E	12:E	_
+12	Theatre	_	Word	Word	_	2	A	2:A	_
+13	on	_	Word	Word	_	14	R	14:R	_
+14	Broadway	_	Word	Word	_	12	E	12:E	_
+15	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

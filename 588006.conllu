@@ -1,0 +1,46 @@
+# format = ucca
+# sent_id = 588006
+# text = Depp next starred as Willy Wonka in the 2005 film Charlie and the Chocolate Factory , a major success at the box office and earning him a nomination for the Golden Globe Award for Best Actor in a Musical or Comedy .
+1	Depp	_	Word	Word	_	3	A	3:A	_
+2	next	_	Word	Word	_	3	D	3:D	_
+3	starred	_	Word	Word	_	0	H	0:H	_
+4	as	_	Word	Word	_	5	R	5:R	_
+5	Willy	_	Word	Word	_	3	A	3:A	_
+6	Wonka	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	in	_	Word	Word	_	11	R	11:R	_
+8	the	_	Word	Word	_	10	E	10:E	_
+9	2005	_	Word	Word	_	10	E	10:E	_
+10	film	_	Word	Word	_	11	E	11:E	_
+11	Charlie	_	Word	Word	_	3	A	3:A	_
+12	and	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	the	_	Word	Word	_	11	Terminal	11:Terminal	_
+14	Chocolate	_	Word	Word	_	11	Terminal	11:Terminal	_
+15	Factory	_	Word	Word	_	11	Terminal	11:Terminal	_
+16	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+17	a	_	Word	Word	_	19	E	19:E	_
+18	major	_	Word	Word	_	19	D	19:D	_
+19	success	_	Word	Word	_	11	E	11:E	_
+20	at	_	Word	Word	_	22	R	22:R	_
+21	the	_	Word	Word	_	22	E	22:E	_
+22	box	_	Word	Word	_	19	A	19:A	_
+23	office	_	Word	Word	_	22	Terminal	22:Terminal	_
+24	and	_	Word	Word	_	28	L	28:L	_
+25	earning	_	Word	Word	_	28	D	28:D	_
+26	him	_	Word	Word	_	28	A	28:A	_
+27	a	_	Word	Word	_	28	F	28:F	_
+28	nomination	_	Word	Word	_	19	H	19:H	_
+29	for	_	Word	Word	_	31	R	31:R	_
+30	the	_	Word	Word	_	31	E	31:E	_
+31	Golden	_	Word	Word	_	28	A	28:A	_
+32	Globe	_	Word	Word	_	31	Terminal	31:Terminal	_
+33	Award	_	Word	Word	_	31	Terminal	31:Terminal	_
+34	for	_	Word	Word	_	35	R	35:R	_
+35	Best	_	Word	Word	_	31	C	31:C	_
+36	Actor	_	Word	Word	_	35	Terminal	35:Terminal	_
+37	in	_	Word	Word	_	39	R	39:R	_
+38	a	_	Word	Word	_	39	E	39:E	_
+39	Musical	_	Word	Word	_	35	E	35:E	_
+40	or	_	Word	Word	_	39	N	39:N	_
+41	Comedy	_	Word	Word	_	39	C	39:C	_
+42	.	_	Punctuation	Punctuation	_	39	U	39:U	_
+

@@ -1,0 +1,35 @@
+# format = ucca
+# sent_id = 650000
+# text = Lennon and Ono showed their solidarity with the Clydeside UCS workers ' work - in of 1971 by sending a bouquet of red roses and a cheque for £ 5,000 .
+1	Lennon	_	Word	Word	_	4	A	4:A|19:A	_
+2	and	_	Word	Word	_	1	N	1:N	_
+3	Ono	_	Word	Word	_	1	C	1:C	_
+4	showed	_	Word	Word	_	0	H	0:H	_
+5	their	_	Word	Word	_	6	A	6:A	_
+6	solidarity	_	Word	Word	_	4	A	4:A	_
+7	with	_	Word	Word	_	13	R	13:R	_
+8	the	_	Word	Word	_	11	E	11:E	_
+9	Clydeside	_	Word	Word	_	11	E	11:E	_
+10	UCS	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	workers	_	Word	Word	_	13	A	13:A	_
+12	'	_	Punctuation	Punctuation	_	13	U	13:U	_
+13	work	_	Word	Word	_	6	A	6:A	_
+14	-	_	Punctuation	Punctuation	_	13	U	13:U	_
+15	in	_	Word	Word	_	13	Terminal	13:Terminal	_
+16	of	_	Word	Word	_	17	R	17:R	_
+17	1971	_	Word	Word	_	13	T	13:T	_
+18	by	_	Word	Word	_	19	R	19:R	_
+19	sending	_	Word	Word	_	4	A	4:A	_
+20	a	_	Word	Word	_	21	E	21:E	_
+21	bouquet	_	Word	Word	_	19	A	19:A	_
+22	of	_	Word	Word	_	24	R	24:R	_
+23	red	_	Word	Word	_	24	E	24:E	_
+24	roses	_	Word	Word	_	21	E	21:E	_
+25	and	_	Word	Word	_	21	N	21:N	_
+26	a	_	Word	Word	_	27	E	27:E	_
+27	cheque	_	Word	Word	_	21	C	21:C	_
+28	for	_	Word	Word	_	29	R	29:R	_
+29	£	_	Word	Word	_	27	E	27:E	_
+30	5,000	_	Word	Word	_	29	Q	29:Q	_
+31	.	_	Punctuation	Punctuation	_	29	U	29:U	_
+

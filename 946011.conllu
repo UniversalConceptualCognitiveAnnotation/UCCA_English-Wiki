@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 946011
+# text = With Stefani promoting her second solo album , No Doubt began initial work on a new album without her and planned to complete it after Stefani 's The Sweet Escape Tour was finished .
+1	With	_	Word	Word	_	13	L	13:L	_
+2	Stefani	_	Word	Word	_	3	A	3:A	_
+3	promoting	_	Word	Word	_	0	H	0:H	_
+4	her	_	Word	Word	_	7	E	7:E	_
+5	second	_	Word	Word	_	7	Q	7:Q	_
+6	solo	_	Word	Word	_	7	E	7:E	_
+7	album	_	Word	Word	_	3	A	3:A	_
+8	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+9	No	_	Word	Word	_	13	A	13:A|23:A	_
+10	Doubt	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	began	_	Word	Word	_	13	D	13:D	_
+12	initial	_	Word	Word	_	13	D	13:D	_
+13	work	_	Word	Word	_	3	H	3:H	_
+14	on	_	Word	Word	_	17	R	17:R	_
+15	a	_	Word	Word	_	17	E	17:E	_
+16	new	_	Word	Word	_	17	E	17:E	_
+17	album	_	Word	Word	_	13	A	13:A	_
+18	without	_	Word	Word	_	19	R	19:R	_
+19	her	_	Word	Word	_	13	A	13:A	_
+20	and	_	Word	Word	_	23	L	23:L	_
+21	planned	_	Word	Word	_	23	D	23:D	_
+22	to	_	Word	Word	_	23	F	23:F	_
+23	complete	_	Word	Word	_	3	H	3:H	_
+24	it	_	Word	Word	_	23	A	23:A	_
+25	after	_	Word	Word	_	28	L	28:L	_
+26	Stefani	_	Word	Word	_	28	A	28:A	_
+27	's	_	Word	Word	_	26	R	26:R	_
+28	The	_	Word	Word	_	3	H	3:H	_
+29	Sweet	_	Word	Word	_	28	Terminal	28:Terminal	_
+30	Escape	_	Word	Word	_	28	Terminal	28:Terminal	_
+31	Tour	_	Word	Word	_	28	Terminal	28:Terminal	_
+32	was	_	Word	Word	_	28	F	28:F	_
+33	finished	_	Word	Word	_	28	D	28:D	_
+34	.	_	Punctuation	Punctuation	_	28	U	28:U	_
+

@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 702002
+# text = Dylan began 1973 by signing with a new record label , David Geffen 's Asylum Records , when his contract with Columbia Records expired .
+1	Dylan	_	Word	Word	_	5	A	5:A	_
+2	began	_	Word	Word	_	3	E	3:E	_
+3	1973	_	Word	Word	_	5	T	5:T	_
+4	by	_	Word	Word	_	5	F	5:F	_
+5	signing	_	Word	Word	_	0	H	0:H	_
+6	with	_	Word	Word	_	15	R	15:R	_
+7	a	_	Word	Word	_	10	E	10:E	_
+8	new	_	Word	Word	_	10	E	10:E	_
+9	record	_	Word	Word	_	10	E	10:E	_
+10	label	_	Word	Word	_	15	E	15:E	_
+11	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+12	David	_	Word	Word	_	14	A	14:A	_
+13	Geffen	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	's	_	Word	Word	_	15	E	15:E	_
+15	Asylum	_	Word	Word	_	5	A	5:A	_
+16	Records	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+18	when	_	Word	Word	_	24	L	24:L	_
+19	his	_	Word	Word	_	20	E	20:E	_
+20	contract	_	Word	Word	_	24	A	24:A	_
+21	with	_	Word	Word	_	20	E	20:E	_
+22	Columbia	_	Word	Word	_	21	A	21:A	_
+23	Records	_	Word	Word	_	22	Terminal	22:Terminal	_
+24	expired	_	Word	Word	_	5	H	5:H	_
+25	.	_	Punctuation	Punctuation	_	24	U	24:U	_
+

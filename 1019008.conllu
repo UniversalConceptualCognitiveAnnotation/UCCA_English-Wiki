@@ -1,0 +1,46 @@
+# format = ucca
+# sent_id = 1019008
+# text = His mother , Katherine Esther Scruse , was a devout Jehovah 's Witness , and his father , Joseph Walter " Joe " Jackson , was a steel mill worker who performed with an R & B band called The Falcons .
+1	His	_	Word	Word	_	2	A	2:A	_
+2	mother	_	Word	Word	_	4	E	4:E	_
+3	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+4	Katherine	_	Word	Word	_	11	A	11:A	_
+5	Esther	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	Scruse	_	Word	Word	_	4	Terminal	4:Terminal	_
+7	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+8	was	_	Word	Word	_	11	F	11:F	_
+9	a	_	Word	Word	_	11	E	11:E	_
+10	devout	_	Word	Word	_	11	D	11:D	_
+11	Jehovah	_	Word	Word	_	0	H	0:H	_
+12	's	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	Witness	_	Word	Word	_	11	Terminal	11:Terminal	_
+14	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+15	and	_	Word	Word	_	30	L	30:L	_
+16	his	_	Word	Word	_	17	A	17:A	_
+17	father	_	Word	Word	_	19	E	19:E	_
+18	,	_	Punctuation	Punctuation	_	19	U	19:U	_
+19	Joseph	_	Word	Word	_	0	C	0:C|32:A	_
+20	Walter	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	"	_	Punctuation	Punctuation	_	19	U	19:U	_
+22	Joe	_	Word	Word	_	19	Terminal	19:Terminal	_
+23	"	_	Punctuation	Punctuation	_	19	U	19:U	_
+24	Jackson	_	Word	Word	_	19	Terminal	19:Terminal	_
+25	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+26	was	_	Word	Word	_	30	F	30:F	_
+27	a	_	Word	Word	_	30	E	30:E	_
+28	steel	_	Word	Word	_	29	E	29:E	_
+29	mill	_	Word	Word	_	30	A	30:A	_
+30	worker	_	Word	Word	_	11	H	11:H	_
+31	who	_	Word	Word	_	32	L	32:L	_
+32	performed	_	Word	Word	_	11	H	11:H	_
+33	with	_	Word	Word	_	38	R	38:R	_
+34	an	_	Word	Word	_	38	E	38:E	_
+35	R	_	Word	Word	_	38	A	38:A	_
+36	&	_	Word	Word	_	35	Terminal	35:Terminal	_
+37	B	_	Word	Word	_	35	Terminal	35:Terminal	_
+38	band	_	Word	Word	_	32	A	32:A	_
+39	called	_	Word	Word	_	38	E	38:E	_
+40	The	_	Word	Word	_	39	A	39:A	_
+41	Falcons	_	Word	Word	_	40	Terminal	40:Terminal	_
+42	.	_	Punctuation	Punctuation	_	39	U	39:U	_
+

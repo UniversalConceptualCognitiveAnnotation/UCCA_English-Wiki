@@ -1,0 +1,44 @@
+# format = ucca
+# sent_id = 507002
+# text = The line - up was completed by Tony and Hunt Sales , whom Bowie had known since the late 1970s for their contribution , on drums and bass respectively , to Iggy Pop 's 1977 album Lust For Life .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	line	_	Word	Word	_	0	H	0:H	_
+3	-	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	up	_	Word	Word	_	2	Terminal	2:Terminal	_
+5	was	_	Word	Word	_	2	F	2:F	_
+6	completed	_	Word	Word	_	2	D	2:D	_
+7	by	_	Word	Word	_	8	R	8:R	_
+8	Tony	_	Word	Word	_	2	A	2:A	_
+9	and	_	Word	Word	_	8	N	8:N	_
+10	Hunt	_	Word	Word	_	8	C	8:C	_
+11	Sales	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+13	whom	_	Word	Word	_	16	R	16:R	_
+14	Bowie	_	Word	Word	_	16	A	16:A	_
+15	had	_	Word	Word	_	16	F	16:F	_
+16	known	_	Word	Word	_	8	E	8:E	_
+17	since	_	Word	Word	_	20	R	20:R	_
+18	the	_	Word	Word	_	20	E	20:E	_
+19	late	_	Word	Word	_	20	E	20:E	_
+20	1970s	_	Word	Word	_	16	T	16:T	_
+21	for	_	Word	Word	_	23	R	23:R	_
+22	their	_	Word	Word	_	23	A	23:A	_
+23	contribution	_	Word	Word	_	16	A	16:A	_
+24	,	_	Punctuation	Punctuation	_	23	U	23:U	_
+25	on	_	Word	Word	_	26	R	26:R	_
+26	drums	_	Word	Word	_	23	A	23:A	_
+27	and	_	Word	Word	_	26	N	26:N	_
+28	bass	_	Word	Word	_	26	C	26:C	_
+29	respectively	_	Word	Word	_	26	R	26:R	_
+30	,	_	Punctuation	Punctuation	_	23	U	23:U	_
+31	to	_	Word	Word	_	37	R	37:R	_
+32	Iggy	_	Word	Word	_	34	A	34:A	_
+33	Pop	_	Word	Word	_	32	Terminal	32:Terminal	_
+34	's	_	Word	Word	_	36	E	36:E	_
+35	1977	_	Word	Word	_	36	E	36:E	_
+36	album	_	Word	Word	_	37	E	37:E	_
+37	Lust	_	Word	Word	_	23	A	23:A	_
+38	For	_	Word	Word	_	37	Terminal	37:Terminal	_
+39	Life	_	Word	Word	_	37	Terminal	37:Terminal	_
+40	.	_	Punctuation	Punctuation	_	37	U	37:U	_
+

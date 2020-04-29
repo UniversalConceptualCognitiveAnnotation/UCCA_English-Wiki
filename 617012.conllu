@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 617012
+# text = This rose to £ 48 . 5 million by 2005 .
+1	This	_	Word	Word	_	2	A	2:A	_
+2	rose	_	Word	Word	_	0	H	0:H	_
+3	to	_	Word	Word	_	4	R	4:R	_
+4	£	_	Word	Word	_	2	A	2:A	_
+5	48	_	Word	Word	_	4	Q	4:Q	_
+6	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	5	_	Word	Word	_	5	Terminal	5:Terminal	_
+8	million	_	Word	Word	_	5	Terminal	5:Terminal	_
+9	by	_	Word	Word	_	10	R	10:R	_
+10	2005	_	Word	Word	_	2	T	2:T	_
+11	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+

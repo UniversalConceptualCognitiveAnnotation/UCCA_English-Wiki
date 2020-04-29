@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 533000
+# text = Returning to the stage , Garland made her last appearances at New York 's Palace Theatre in July , a 16 - show stand , performing with her children Lorna and Joey Luft .
+1	Returning	_	Word	Word	_	0	H	0:H	_
+2	to	_	Word	Word	_	4	R	4:R	_
+3	the	_	Word	Word	_	4	F	4:F	_
+4	stage	_	Word	Word	_	1	A	1:A	_
+5	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+6	Garland	_	Word	Word	_	10	A	10:A|1:A|26:A	_
+7	made	_	Word	Word	_	10	F	10:F	_
+8	her	_	Word	Word	_	9	F	9:F	_
+9	last	_	Word	Word	_	10	D	10:D	_
+10	appearances	_	Word	Word	_	1	H	1:H	_
+11	at	_	Word	Word	_	15	R	15:R	_
+12	New	_	Word	Word	_	15	E	15:E	_
+13	York	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	's	_	Word	Word	_	12	R	12:R	_
+15	Palace	_	Word	Word	_	10	A	10:A	_
+16	Theatre	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	in	_	Word	Word	_	18	R	18:R	_
+18	July	_	Word	Word	_	10	T	10:T	_
+19	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+20	a	_	Word	Word	_	23	F	23:F	_
+21	16	_	Word	Word	_	23	D	23:D	_
+22	-	_	Punctuation	Punctuation	_	23	U	23:U	_
+23	show	_	Word	Word	_	1	H	1:H	_
+24	stand	_	Word	Word	_	23	D	23:D	_
+25	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+26	performing	_	Word	Word	_	1	H	1:H	_
+27	with	_	Word	Word	_	30	R	30:R	_
+28	her	_	Word	Word	_	30	E	30:E	_
+29	children	_	Word	Word	_	28	A	28:A	_
+30	Lorna	_	Word	Word	_	26	A	26:A	_
+31	and	_	Word	Word	_	30	N	30:N	_
+32	Joey	_	Word	Word	_	30	C	30:C	_
+33	Luft	_	Word	Word	_	30	C	30:C	_
+34	.	_	Punctuation	Punctuation	_	30	U	30:U	_
+

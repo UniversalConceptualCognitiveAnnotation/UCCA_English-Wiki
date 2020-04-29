@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 708001
+# text = Dylan also toured with The Grateful Dead in 1987 , resulting in a live album Dylan & The Dead .
+1	Dylan	_	Word	Word	_	3	A	3:A	_
+2	also	_	Word	Word	_	3	D	3:D	_
+3	toured	_	Word	Word	_	0	H	0:H	_
+4	with	_	Word	Word	_	5	R	5:R	_
+5	The	_	Word	Word	_	3	A	3:A	_
+6	Grateful	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	Dead	_	Word	Word	_	5	Terminal	5:Terminal	_
+8	in	_	Word	Word	_	9	R	9:R	_
+9	1987	_	Word	Word	_	3	T	3:T	_
+10	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+11	resulting	_	Word	Word	_	16	L	16:L	_
+12	in	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	a	_	Word	Word	_	15	E	15:E	_
+14	live	_	Word	Word	_	15	E	15:E	_
+15	album	_	Word	Word	_	16	E	16:E	_
+16	Dylan	_	Word	Word	_	3	H	3:H	_
+17	&	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	The	_	Word	Word	_	16	Terminal	16:Terminal	_
+19	Dead	_	Word	Word	_	16	Terminal	16:Terminal	_
+20	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

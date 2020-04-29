@@ -1,0 +1,34 @@
+# format = ucca
+# sent_id = 726003
+# text = Variety noted , " Jolie is excellent as the flamboyant , irresponsible girl who turns out to be far more instrumental than the doctors in Susanna 's rehabilitation . "
+1	Variety	_	Word	Word	_	2	A	2:A	_
+2	noted	_	Word	Word	_	0	H	0:H	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	Jolie	_	Word	Word	_	7	A	7:A	_
+6	is	_	Word	Word	_	7	F	7:F	_
+7	excellent	_	Word	Word	_	2	A	2:A	_
+8	as	_	Word	Word	_	13	R	13:R	_
+9	the	_	Word	Word	_	13	E	13:E	_
+10	flamboyant	_	Word	Word	_	13	E	13:E	_
+11	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+12	irresponsible	_	Word	Word	_	13	E	13:E	_
+13	girl	_	Word	Word	_	7	A	7:A	_
+14	who	_	Word	Word	_	21	R	21:R	_
+15	turns	_	Word	Word	_	21	D	21:D	_
+16	out	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	to	_	Word	Word	_	21	F	21:F	_
+18	be	_	Word	Word	_	21	F	21:F	_
+19	far	_	Word	Word	_	20	E	20:E	_
+20	more	_	Word	Word	_	21	D	21:D	_
+21	instrumental	_	Word	Word	_	13	E	13:E	_
+22	than	_	Word	Word	_	24	L	24:L	_
+23	the	_	Word	Word	_	24	F	24:F	_
+24	doctors	_	Word	Word	_	21	H	21:H	_
+25	in	_	Word	Word	_	28	R	28:R	_
+26	Susanna	_	Word	Word	_	28	A	28:A	_
+27	's	_	Word	Word	_	26	R	26:R	_
+28	rehabilitation	_	Word	Word	_	0	P	0:P|24:A	_
+29	.	_	Punctuation	Punctuation	_	24	U	24:U	_
+30	"	_	Punctuation	Punctuation	_	24	U	24:U	_
+

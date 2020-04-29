@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 562007
+# text = He began a tour of the Midwest in mid - May , taking in 15 cities in as many days .
+1	He	_	Word	Word	_	4	A	4:A|13:A	_
+2	began	_	Word	Word	_	4	D	4:D	_
+3	a	_	Word	Word	_	4	E	4:E	_
+4	tour	_	Word	Word	_	0	H	0:H	_
+5	of	_	Word	Word	_	7	R	7:R	_
+6	the	_	Word	Word	_	7	E	7:E	_
+7	Midwest	_	Word	Word	_	4	A	4:A	_
+8	in	_	Word	Word	_	11	R	11:R	_
+9	mid	_	Word	Word	_	11	E	11:E	_
+10	-	_	Punctuation	Punctuation	_	11	U	11:U	_
+11	May	_	Word	Word	_	4	T	4:T	_
+12	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+13	taking	_	Word	Word	_	4	H	4:H	_
+14	in	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	15	_	Word	Word	_	16	Q	16:Q	_
+16	cities	_	Word	Word	_	13	A	13:A	_
+17	in	_	Word	Word	_	20	R	20:R	_
+18	as	_	Word	Word	_	19	E	19:E	_
+19	many	_	Word	Word	_	20	Q	20:Q	_
+20	days	_	Word	Word	_	13	T	13:T	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+

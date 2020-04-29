@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 642001
+# text = His body was cremated at Ferncliff Cemetery in Hartsdale , New York .
+1	His	_	Word	Word	_	2	E	2:E	_
+2	body	_	Word	Word	_	4	A	4:A	_
+3	was	_	Word	Word	_	4	F	4:F	_
+4	cremated	_	Word	Word	_	0	H	0:H	_
+5	at	_	Word	Word	_	7	R	7:R	_
+6	Ferncliff	_	Word	Word	_	7	E	7:E	_
+7	Cemetery	_	Word	Word	_	4	A	4:A	_
+8	in	_	Word	Word	_	9	R	9:R	_
+9	Hartsdale	_	Word	Word	_	4	A	4:A	_
+10	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+11	New	_	Word	Word	_	9	C	9:C	_
+12	York	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

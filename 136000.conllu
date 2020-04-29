@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 136000
+# text = In 1951 , Hepburn filmed The African Queen , her first movie in Technicolor .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1951	_	Word	Word	_	5	T	5:T	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	Hepburn	_	Word	Word	_	5	A	5:A	_
+5	filmed	_	Word	Word	_	0	H	0:H	_
+6	The	_	Word	Word	_	5	A	5:A	_
+7	African	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	Queen	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+10	her	_	Word	Word	_	12	E	12:E	_
+11	first	_	Word	Word	_	12	Q	12:Q	_
+12	movie	_	Word	Word	_	6	E	6:E	_
+13	in	_	Word	Word	_	14	R	14:R	_
+14	Technicolor	_	Word	Word	_	12	E	12:E	_
+15	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 958012
+# text = Olivier played the lead in Richard III and also performed with Leigh in The School for Scandal and The Skin of Our Teeth .
+1	Olivier	_	Word	Word	_	2	A	2:A|10:A	_
+2	played	_	Word	Word	_	0	H	0:H	_
+3	the	_	Word	Word	_	4	E	4:E	_
+4	lead	_	Word	Word	_	2	A	2:A	_
+5	in	_	Word	Word	_	6	R	6:R	_
+6	Richard	_	Word	Word	_	2	A	2:A	_
+7	III	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	and	_	Word	Word	_	10	L	10:L	_
+9	also	_	Word	Word	_	10	D	10:D	_
+10	performed	_	Word	Word	_	2	H	2:H	_
+11	with	_	Word	Word	_	12	R	12:R	_
+12	Leigh	_	Word	Word	_	10	A	10:A	_
+13	in	_	Word	Word	_	14	R	14:R	_
+14	The	_	Word	Word	_	10	A	10:A	_
+15	School	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	for	_	Word	Word	_	14	Terminal	14:Terminal	_
+17	Scandal	_	Word	Word	_	14	Terminal	14:Terminal	_
+18	and	_	Word	Word	_	14	N	14:N	_
+19	The	_	Word	Word	_	14	C	14:C	_
+20	Skin	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	of	_	Word	Word	_	19	Terminal	19:Terminal	_
+22	Our	_	Word	Word	_	19	Terminal	19:Terminal	_
+23	Teeth	_	Word	Word	_	19	Terminal	19:Terminal	_
+24	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

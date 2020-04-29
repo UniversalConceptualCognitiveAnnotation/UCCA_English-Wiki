@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 193008
+# text = In the end , Sorkin apologized to Cleveland .
+1	In	_	Word	Word	_	3	R	3:R	_
+2	the	_	Word	Word	_	3	E	3:E	_
+3	end	_	Word	Word	_	6	L	6:L	_
+4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	Sorkin	_	Word	Word	_	6	A	6:A	_
+6	apologized	_	Word	Word	_	0	H	0:H	_
+7	to	_	Word	Word	_	8	R	8:R	_
+8	Cleveland	_	Word	Word	_	6	A	6:A	_
+9	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+

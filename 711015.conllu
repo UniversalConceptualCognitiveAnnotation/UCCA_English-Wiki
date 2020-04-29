@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 711015
+# text = The film received a Peabody Award in April 2006 and a Columbia - duPont Award in January 2007 .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	film	_	Word	Word	_	0	C	0:C|12:A	_
+3	received	_	Word	Word	_	0	H	0:H	_
+4	a	_	Word	Word	_	5	E	5:E	_
+5	Peabody	_	Word	Word	_	3	A	3:A	_
+6	Award	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	in	_	Word	Word	_	8	R	8:R	_
+8	April	_	Word	Word	_	3	T	3:T	_
+9	2006	_	Word	Word	_	8	C	8:C	_
+10	and	_	Word	Word	_	12	L	12:L	_
+11	a	_	Word	Word	_	12	E	12:E	_
+12	Columbia	_	Word	Word	_	3	H	3:H	_
+13	-	_	Punctuation	Punctuation	_	12	U	12:U	_
+14	duPont	_	Word	Word	_	12	Terminal	12:Terminal	_
+15	Award	_	Word	Word	_	12	Terminal	12:Terminal	_
+16	in	_	Word	Word	_	17	R	17:R	_
+17	January	_	Word	Word	_	12	T	12:T	_
+18	2007	_	Word	Word	_	17	C	17:C	_
+19	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+

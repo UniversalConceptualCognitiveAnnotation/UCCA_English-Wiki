@@ -1,0 +1,35 @@
+# format = ucca
+# sent_id = 671015
+# text = Although E = MC ² was well received by most critics , some of them criticized it for being very similar to the formula used on The Emancipation of Mimi .
+1	Although	_	Word	Word	_	16	L	16:L	_
+2	E	_	Word	Word	_	8	A	8:A	_
+3	=	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	MC	_	Word	Word	_	2	Terminal	2:Terminal	_
+5	²	_	Punctuation	Punctuation	_	8	U	8:U	_
+6	was	_	Word	Word	_	8	F	8:F	_
+7	well	_	Word	Word	_	8	D	8:D	_
+8	received	_	Word	Word	_	0	H	0:H	_
+9	by	_	Word	Word	_	11	R	11:R	_
+10	most	_	Word	Word	_	11	E	11:E	_
+11	critics	_	Word	Word	_	8	A	8:A	_
+12	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+13	some	_	Word	Word	_	15	E	15:E	_
+14	of	_	Word	Word	_	13	R	13:R	_
+15	them	_	Word	Word	_	16	A	16:A	_
+16	criticized	_	Word	Word	_	8	H	8:H	_
+17	it	_	Word	Word	_	16	A	16:A|19:A	_
+18	for	_	Word	Word	_	19	R	19:R	_
+19	being	_	Word	Word	_	16	A	16:A	_
+20	very	_	Word	Word	_	21	E	21:E	_
+21	similar	_	Word	Word	_	19	D	19:D	_
+22	to	_	Word	Word	_	24	R	24:R	_
+23	the	_	Word	Word	_	24	E	24:E	_
+24	formula	_	Word	Word	_	19	A	19:A	_
+25	used	_	Word	Word	_	24	E	24:E	_
+26	on	_	Word	Word	_	27	R	27:R	_
+27	The	_	Word	Word	_	25	A	25:A	_
+28	Emancipation	_	Word	Word	_	27	Terminal	27:Terminal	_
+29	of	_	Word	Word	_	27	Terminal	27:Terminal	_
+30	Mimi	_	Word	Word	_	27	Terminal	27:Terminal	_
+31	.	_	Punctuation	Punctuation	_	27	U	27:U	_
+

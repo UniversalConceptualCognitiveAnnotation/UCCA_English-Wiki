@@ -1,0 +1,39 @@
+# format = ucca
+# sent_id = 185001
+# text = After graduating from Syracuse University with a Bachelor of Fine Arts degree in Musical Theatre in 1983 , Sorkin spent much of the 1980s in New York as a struggling , sporadically employed actor .
+1	After	_	Word	Word	_	20	L	20:L	_
+2	graduating	_	Word	Word	_	0	H	0:H	_
+3	from	_	Word	Word	_	5	R	5:R	_
+4	Syracuse	_	Word	Word	_	5	E	5:E	_
+5	University	_	Word	Word	_	2	A	2:A	_
+6	with	_	Word	Word	_	8	R	8:R	_
+7	a	_	Word	Word	_	8	E	8:E	_
+8	Bachelor	_	Word	Word	_	2	A	2:A	_
+9	of	_	Word	Word	_	11	R	11:R	_
+10	Fine	_	Word	Word	_	11	E	11:E	_
+11	Arts	_	Word	Word	_	12	E	12:E	_
+12	degree	_	Word	Word	_	8	E	8:E	_
+13	in	_	Word	Word	_	15	R	15:R	_
+14	Musical	_	Word	Word	_	15	E	15:E	_
+15	Theatre	_	Word	Word	_	8	E	8:E	_
+16	in	_	Word	Word	_	17	R	17:R	_
+17	1983	_	Word	Word	_	2	T	2:T	_
+18	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+19	Sorkin	_	Word	Word	_	20	A	20:A|2:A|30:A|33:A|34:A	_
+20	spent	_	Word	Word	_	2	H	2:H	_
+21	much	_	Word	Word	_	24	Q	24:Q	_
+22	of	_	Word	Word	_	24	R	24:R	_
+23	the	_	Word	Word	_	24	E	24:E	_
+24	1980s	_	Word	Word	_	20	T	20:T	_
+25	in	_	Word	Word	_	26	R	26:R	_
+26	New	_	Word	Word	_	20	A	20:A	_
+27	York	_	Word	Word	_	26	Terminal	26:Terminal	_
+28	as	_	Word	Word	_	34	R	34:R	_
+29	a	_	Word	Word	_	34	E	34:E	_
+30	struggling	_	Word	Word	_	34	E	34:E	_
+31	,	_	Punctuation	Punctuation	_	34	U	34:U	_
+32	sporadically	_	Word	Word	_	33	T	33:T	_
+33	employed	_	Word	Word	_	34	E	34:E	_
+34	actor	_	Word	Word	_	20	A	20:A	_
+35	.	_	Punctuation	Punctuation	_	34	U	34:U	_
+

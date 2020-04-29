@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 1026010
+# text = He also relied heavily on Klein for medical and business advice .
+1	He	_	Word	Word	_	3	A	3:A	_
+2	also	_	Word	Word	_	3	D	3:D	_
+3	relied	_	Word	Word	_	0	H	0:H	_
+4	heavily	_	Word	Word	_	3	D	3:D	_
+5	on	_	Word	Word	_	6	R	6:R	_
+6	Klein	_	Word	Word	_	3	A	3:A	_
+7	for	_	Word	Word	_	11	R	11:R	_
+8	medical	_	Word	Word	_	11	A	11:A	_
+9	and	_	Word	Word	_	8	N	8:N	_
+10	business	_	Word	Word	_	8	C	8:C	_
+11	advice	_	Word	Word	_	3	A	3:A	_
+12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+

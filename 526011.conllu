@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 526011
+# text = During the filming of The Barkleys of Broadway , she was taking prescription sleeping medication along with illicitly obtained pills containing morphine .
+1	During	_	Word	Word	_	12	L	12:L	_
+2	the	_	Word	Word	_	3	E	3:E	_
+3	filming	_	Word	Word	_	0	H	0:H	_
+4	of	_	Word	Word	_	5	R	5:R	_
+5	The	_	Word	Word	_	3	A	3:A	_
+6	Barkleys	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	of	_	Word	Word	_	5	Terminal	5:Terminal	_
+8	Broadway	_	Word	Word	_	5	Terminal	5:Terminal	_
+9	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+10	she	_	Word	Word	_	12	A	12:A	_
+11	was	_	Word	Word	_	12	F	12:F	_
+12	taking	_	Word	Word	_	3	H	3:H	_
+13	prescription	_	Word	Word	_	15	E	15:E	_
+14	sleeping	_	Word	Word	_	15	E	15:E	_
+15	medication	_	Word	Word	_	12	A	12:A	_
+16	along	_	Word	Word	_	15	N	15:N	_
+17	with	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	illicitly	_	Word	Word	_	19	D	19:D	_
+19	obtained	_	Word	Word	_	20	E	20:E	_
+20	pills	_	Word	Word	_	15	C	15:C	_
+21	containing	_	Word	Word	_	20	E	20:E	_
+22	morphine	_	Word	Word	_	21	A	21:A	_
+23	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

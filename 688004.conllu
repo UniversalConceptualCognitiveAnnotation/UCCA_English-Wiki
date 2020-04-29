@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 688004
+# text = Leaving his initial base in the culture of folk music behind , Dylan 's six - minute single " Like a Rolling Stone " radically altered the parameters of popular music in 1965 .
+1	Leaving	_	Word	Word	_	0	H	0:H	_
+2	his	_	Word	Word	_	4	E	4:E	_
+3	initial	_	Word	Word	_	4	E	4:E	_
+4	base	_	Word	Word	_	1	A	1:A	_
+5	in	_	Word	Word	_	7	R	7:R	_
+6	the	_	Word	Word	_	7	F	7:F	_
+7	culture	_	Word	Word	_	4	E	4:E	_
+8	of	_	Word	Word	_	10	R	10:R	_
+9	folk	_	Word	Word	_	10	E	10:E	_
+10	music	_	Word	Word	_	7	A	7:A	_
+11	behind	_	Word	Word	_	1	D	1:D	_
+12	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+13	Dylan	_	Word	Word	_	14	A	14:A|1:A	_
+14	's	_	Word	Word	_	18	E	18:E	_
+15	six	_	Word	Word	_	17	Q	17:Q	_
+16	-	_	Punctuation	Punctuation	_	17	U	17:U	_
+17	minute	_	Word	Word	_	18	E	18:E	_
+18	single	_	Word	Word	_	20	E	20:E	_
+19	"	_	Punctuation	Punctuation	_	20	U	20:U	_
+20	Like	_	Word	Word	_	26	A	26:A	_
+21	a	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	Rolling	_	Word	Word	_	20	Terminal	20:Terminal	_
+23	Stone	_	Word	Word	_	20	Terminal	20:Terminal	_
+24	"	_	Punctuation	Punctuation	_	26	U	26:U	_
+25	radically	_	Word	Word	_	26	D	26:D	_
+26	altered	_	Word	Word	_	1	H	1:H	_
+27	the	_	Word	Word	_	28	E	28:E	_
+28	parameters	_	Word	Word	_	26	A	26:A	_
+29	of	_	Word	Word	_	31	R	31:R	_
+30	popular	_	Word	Word	_	31	E	31:E	_
+31	music	_	Word	Word	_	28	E	28:E	_
+32	in	_	Word	Word	_	33	R	33:R	_
+33	1965	_	Word	Word	_	26	T	26:T	_
+34	.	_	Punctuation	Punctuation	_	33	U	33:U	_
+

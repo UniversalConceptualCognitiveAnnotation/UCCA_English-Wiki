@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 229015
+# text = Chan and his team undertake many of the stunts performed by other characters in his films , shooting the scenes so that their faces are obscured .
+1	Chan	_	Word	Word	_	9	A	9:A|18:A	_
+2	and	_	Word	Word	_	1	N	1:N	_
+3	his	_	Word	Word	_	4	A	4:A	_
+4	team	_	Word	Word	_	1	C	1:C	_
+5	undertake	_	Word	Word	_	9	D	9:D	_
+6	many	_	Word	Word	_	9	D	9:D	_
+7	of	_	Word	Word	_	9	R	9:R	_
+8	the	_	Word	Word	_	9	F	9:F	_
+9	stunts	_	Word	Word	_	0	C	0:C|10:A	_
+10	performed	_	Word	Word	_	9	H	9:H	_
+11	by	_	Word	Word	_	13	R	13:R	_
+12	other	_	Word	Word	_	13	E	13:E	_
+13	characters	_	Word	Word	_	10	A	10:A	_
+14	in	_	Word	Word	_	16	R	16:R	_
+15	his	_	Word	Word	_	16	E	16:E	_
+16	films	_	Word	Word	_	13	E	13:E	_
+17	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+18	shooting	_	Word	Word	_	9	H	9:H	_
+19	the	_	Word	Word	_	20	F	20:F	_
+20	scenes	_	Word	Word	_	18	A	18:A	_
+21	so	_	Word	Word	_	26	L	26:L	_
+22	that	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	their	_	Word	Word	_	24	E	24:E	_
+24	faces	_	Word	Word	_	26	A	26:A	_
+25	are	_	Word	Word	_	26	F	26:F	_
+26	obscured	_	Word	Word	_	9	H	9:H	_
+27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+

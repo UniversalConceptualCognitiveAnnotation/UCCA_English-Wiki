@@ -1,0 +1,45 @@
+# format = ucca
+# sent_id = 651005
+# text = Nixon believed that Lennon 's anti - war activities could cost him his re - election ; Republican Senator Strom Thurmond suggested in a February 1972 memo that " deportation would be a strategic counter - measure " against Lennon .
+1	Nixon	_	Word	Word	_	2	A	2:A	_
+2	believed	_	Word	Word	_	0	H	0:H	_
+3	that	_	Word	Word	_	11	R	11:R	_
+4	Lennon	_	Word	Word	_	9	A	9:A	_
+5	's	_	Word	Word	_	4	R	4:R	_
+6	anti	_	Word	Word	_	8	E	8:E	_
+7	-	_	Punctuation	Punctuation	_	8	U	8:U	_
+8	war	_	Word	Word	_	9	A	9:A	_
+9	activities	_	Word	Word	_	11	A	11:A	_
+10	could	_	Word	Word	_	11	D	11:D	_
+11	cost	_	Word	Word	_	2	A	2:A	_
+12	him	_	Word	Word	_	11	A	11:A	_
+13	his	_	Word	Word	_	16	E	16:E	_
+14	re	_	Word	Word	_	16	E	16:E	_
+15	-	_	Punctuation	Punctuation	_	16	U	16:U	_
+16	election	_	Word	Word	_	11	A	11:A	_
+17	;	_	Punctuation	Punctuation	_	2	U	2:U	_
+18	Republican	_	Word	Word	_	19	A	19:A	_
+19	Senator	_	Word	Word	_	22	A	22:A	_
+20	Strom	_	Word	Word	_	19	A	19:A	_
+21	Thurmond	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	suggested	_	Word	Word	_	2	H	2:H	_
+23	in	_	Word	Word	_	25	R	25:R	_
+24	a	_	Word	Word	_	25	F	25:F	_
+25	February	_	Word	Word	_	27	T	27:T	_
+26	1972	_	Word	Word	_	25	C	25:C	_
+27	memo	_	Word	Word	_	22	A	22:A	_
+28	that	_	Word	Word	_	37	R	37:R	_
+29	"	_	Punctuation	Punctuation	_	37	U	37:U	_
+30	deportation	_	Word	Word	_	37	A	37:A	_
+31	would	_	Word	Word	_	37	D	37:D	_
+32	be	_	Word	Word	_	37	F	37:F	_
+33	a	_	Word	Word	_	37	E	37:E	_
+34	strategic	_	Word	Word	_	37	D	37:D	_
+35	counter	_	Word	Word	_	37	D	37:D	_
+36	-	_	Punctuation	Punctuation	_	37	U	37:U	_
+37	measure	_	Word	Word	_	22	A	22:A	_
+38	"	_	Punctuation	Punctuation	_	37	U	37:U	_
+39	against	_	Word	Word	_	40	R	40:R	_
+40	Lennon	_	Word	Word	_	37	A	37:A	_
+41	.	_	Punctuation	Punctuation	_	40	U	40:U	_
+

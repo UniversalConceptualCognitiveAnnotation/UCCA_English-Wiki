@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 550012
+# text = The relationship was in its fourth year when Ann Warner pressed her husband to terminate the affair .
+1	The	_	Word	Word	_	2	F	2:F	_
+2	relationship	_	Word	Word	_	0	H	0:H	_
+3	was	_	Word	Word	_	2	F	2:F	_
+4	in	_	Word	Word	_	7	R	7:R	_
+5	its	_	Word	Word	_	7	E	7:E	_
+6	fourth	_	Word	Word	_	7	Q	7:Q	_
+7	year	_	Word	Word	_	2	D	2:D	_
+8	when	_	Word	Word	_	11	L	11:L	_
+9	Ann	_	Word	Word	_	11	A	11:A	_
+10	Warner	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	pressed	_	Word	Word	_	2	H	2:H	_
+12	her	_	Word	Word	_	13	A	13:A	_
+13	husband	_	Word	Word	_	11	A	11:A	_
+14	to	_	Word	Word	_	17	F	17:F	_
+15	terminate	_	Word	Word	_	17	D	17:D	_
+16	the	_	Word	Word	_	17	F	17:F	_
+17	affair	_	Word	Word	_	11	A	11:A	_
+18	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+

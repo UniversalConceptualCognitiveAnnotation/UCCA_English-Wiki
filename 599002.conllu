@@ -1,0 +1,35 @@
+# format = ucca
+# sent_id = 599002
+# text = After the band 's break - up , he pursued a solo career , later forming Wings with his first wife , Linda , and singer - songwriter Denny Laine .
+1	After	_	Word	Word	_	13	L	13:L	_
+2	the	_	Word	Word	_	3	E	3:E	_
+3	band	_	Word	Word	_	5	A	5:A	_
+4	's	_	Word	Word	_	3	R	3:R	_
+5	break	_	Word	Word	_	0	H	0:H	_
+6	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	up	_	Word	Word	_	5	Terminal	5:Terminal	_
+8	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+9	he	_	Word	Word	_	13	A	13:A|16:A	_
+10	pursued	_	Word	Word	_	13	D	13:D	_
+11	a	_	Word	Word	_	13	E	13:E	_
+12	solo	_	Word	Word	_	13	D	13:D	_
+13	career	_	Word	Word	_	5	H	5:H	_
+14	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+15	later	_	Word	Word	_	16	L	16:L	_
+16	forming	_	Word	Word	_	5	H	5:H	_
+17	Wings	_	Word	Word	_	16	A	16:A	_
+18	with	_	Word	Word	_	21	R	21:R	_
+19	his	_	Word	Word	_	21	A	21:A	_
+20	first	_	Word	Word	_	21	D	21:D	_
+21	wife	_	Word	Word	_	16	A	16:A	_
+22	,	_	Punctuation	Punctuation	_	21	U	21:U	_
+23	Linda	_	Word	Word	_	21	A	21:A	_
+24	,	_	Punctuation	Punctuation	_	21	U	21:U	_
+25	and	_	Word	Word	_	26	L	26:L	_
+26	singer	_	Word	Word	_	21	H	21:H	_
+27	-	_	Punctuation	Punctuation	_	21	U	21:U	_
+28	songwriter	_	Word	Word	_	21	H	21:H	_
+29	Denny	_	Word	Word	_	26	A	26:A|28:A	_
+30	Laine	_	Word	Word	_	29	Terminal	29:Terminal	_
+31	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+

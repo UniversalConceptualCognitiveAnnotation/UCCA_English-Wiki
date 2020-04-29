@@ -1,0 +1,44 @@
+# format = ucca
+# sent_id = 526008
+# text = During this period , she spent two weeks in treatment at the Austen Riggs Center , a psychiatric hospital in Stockbridge , Massachusetts For these and other episodes , Garland is thought to have suffered from Borderline Personality Disorder .
+1	During	_	Word	Word	_	3	R	3:R	_
+2	this	_	Word	Word	_	3	E	3:E	_
+3	period	_	Word	Word	_	28	L	28:L	_
+4	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+5	she	_	Word	Word	_	10	A	10:A	_
+6	spent	_	Word	Word	_	8	F	8:F	_
+7	two	_	Word	Word	_	8	Q	8:Q	_
+8	weeks	_	Word	Word	_	10	D	10:D	_
+9	in	_	Word	Word	_	10	R	10:R	_
+10	treatment	_	Word	Word	_	0	H	0:H	_
+11	at	_	Word	Word	_	13	R	13:R	_
+12	the	_	Word	Word	_	13	F	13:F	_
+13	Austen	_	Word	Word	_	10	A	10:A	_
+14	Riggs	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	Center	_	Word	Word	_	13	Terminal	13:Terminal	_
+16	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+17	a	_	Word	Word	_	19	F	19:F	_
+18	psychiatric	_	Word	Word	_	19	E	19:E	_
+19	hospital	_	Word	Word	_	13	E	13:E	_
+20	in	_	Word	Word	_	21	R	21:R	_
+21	Stockbridge	_	Word	Word	_	19	E	19:E	_
+22	,	_	Punctuation	Punctuation	_	21	U	21:U	_
+23	Massachusetts	_	Word	Word	_	21	C	21:C	_
+24	For	_	Word	Word	_	28	L	28:L	_
+25	these	_	Word	Word	_	28	D	28:D	_
+26	and	_	Word	Word	_	25	N	25:N	_
+27	other	_	Word	Word	_	25	C	25:C	_
+28	episodes	_	Word	Word	_	10	H	10:H	_
+29	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+30	Garland	_	Word	Word	_	35	A	35:A	_
+31	is	_	Word	Word	_	35	F	35:F	_
+32	thought	_	Word	Word	_	35	G	35:G	_
+33	to	_	Word	Word	_	35	F	35:F	_
+34	have	_	Word	Word	_	35	F	35:F	_
+35	suffered	_	Word	Word	_	10	H	10:H	_
+36	from	_	Word	Word	_	37	R	37:R	_
+37	Borderline	_	Word	Word	_	35	A	35:A	_
+38	Personality	_	Word	Word	_	37	Terminal	37:Terminal	_
+39	Disorder	_	Word	Word	_	37	Terminal	37:Terminal	_
+40	.	_	Punctuation	Punctuation	_	37	U	37:U	_
+

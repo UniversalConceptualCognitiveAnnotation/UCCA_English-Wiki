@@ -1,0 +1,37 @@
+# format = ucca
+# sent_id = 553004
+# text = Accompanied by guitarist Scotty Moore and bassist Bill Black , Presley was the most important popularizer of rockabilly , an uptempo , backbeat - driven fusion of country and rhythm and blues .
+1	Accompanied	_	Word	Word	_	0	H	0:H	_
+2	by	_	Word	Word	_	4	R	4:R	_
+3	guitarist	_	Word	Word	_	4	E	4:E	_
+4	Scotty	_	Word	Word	_	1	A	1:A	_
+5	Moore	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	and	_	Word	Word	_	4	N	4:N	_
+7	bassist	_	Word	Word	_	8	E	8:E	_
+8	Bill	_	Word	Word	_	4	C	4:C	_
+9	Black	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+11	Presley	_	Word	Word	_	16	A	16:A|1:A	_
+12	was	_	Word	Word	_	16	F	16:F	_
+13	the	_	Word	Word	_	16	F	16:F	_
+14	most	_	Word	Word	_	15	E	15:E	_
+15	important	_	Word	Word	_	16	D	16:D	_
+16	popularizer	_	Word	Word	_	1	H	1:H	_
+17	of	_	Word	Word	_	18	R	18:R	_
+18	rockabilly	_	Word	Word	_	16	A	16:A	_
+19	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+20	an	_	Word	Word	_	26	E	26:E	_
+21	uptempo	_	Word	Word	_	26	E	26:E	_
+22	,	_	Punctuation	Punctuation	_	26	U	26:U	_
+23	backbeat	_	Word	Word	_	25	A	25:A	_
+24	-	_	Punctuation	Punctuation	_	25	U	25:U	_
+25	driven	_	Word	Word	_	26	E	26:E	_
+26	fusion	_	Word	Word	_	18	E	18:E	_
+27	of	_	Word	Word	_	28	R	28:R	_
+28	country	_	Word	Word	_	26	E	26:E	_
+29	and	_	Word	Word	_	28	N	28:N	_
+30	rhythm	_	Word	Word	_	28	C	28:C	_
+31	and	_	Word	Word	_	30	Terminal	30:Terminal	_
+32	blues	_	Word	Word	_	30	Terminal	30:Terminal	_
+33	.	_	Punctuation	Punctuation	_	28	U	28:U	_
+

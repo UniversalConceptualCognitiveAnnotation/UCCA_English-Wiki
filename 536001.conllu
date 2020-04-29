@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 536001
+# text = Warner 's career spanned some forty - five years , its duration surpassing that of any other of the seminal Hollywood studio moguls .
+1	Warner	_	Word	Word	_	3	A	3:A	_
+2	's	_	Word	Word	_	1	R	1:R	_
+3	career	_	Word	Word	_	0	H	0:H	_
+4	spanned	_	Word	Word	_	3	D	3:D	_
+5	some	_	Word	Word	_	9	E	9:E	_
+6	forty	_	Word	Word	_	9	Q	9:Q	_
+7	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	five	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	years	_	Word	Word	_	3	T	3:T	_
+10	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+11	its	_	Word	Word	_	12	E	12:E	_
+12	duration	_	Word	Word	_	13	A	13:A	_
+13	surpassing	_	Word	Word	_	3	H	3:H	_
+14	that	_	Word	Word	_	13	A	13:A	_
+15	of	_	Word	Word	_	21	R	21:R	_
+16	any	_	Word	Word	_	21	Q	21:Q	_
+17	other	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	of	_	Word	Word	_	21	R	21:R	_
+19	the	_	Word	Word	_	21	F	21:F	_
+20	seminal	_	Word	Word	_	21	D	21:D	_
+21	Hollywood	_	Word	Word	_	14	E	14:E	_
+22	studio	_	Word	Word	_	21	A	21:A	_
+23	moguls	_	Word	Word	_	21	A	21:A	_
+24	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

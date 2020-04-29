@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 224011
+# text = When Willie Chan left the company , he advised Jackie to decide for himself whether or not to stay with Lo Wei .
+1	When	_	Word	Word	_	9	L	9:L	_
+2	Willie	_	Word	Word	_	4	A	4:A	_
+3	Chan	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	left	_	Word	Word	_	0	H	0:H	_
+5	the	_	Word	Word	_	6	F	6:F	_
+6	company	_	Word	Word	_	4	A	4:A	_
+7	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+8	he	_	Word	Word	_	9	A	9:A	_
+9	advised	_	Word	Word	_	4	H	4:H	_
+10	Jackie	_	Word	Word	_	9	A	9:A|12:A|19:A	_
+11	to	_	Word	Word	_	12	F	12:F	_
+12	decide	_	Word	Word	_	9	A	9:A	_
+13	for	_	Word	Word	_	14	R	14:R	_
+14	himself	_	Word	Word	_	12	D	12:D	_
+15	whether	_	Word	Word	_	19	R	19:R	_
+16	or	_	Word	Word	_	15	N	15:N	_
+17	not	_	Word	Word	_	15	C	15:C	_
+18	to	_	Word	Word	_	19	F	19:F	_
+19	stay	_	Word	Word	_	12	A	12:A	_
+20	with	_	Word	Word	_	21	R	21:R	_
+21	Lo	_	Word	Word	_	19	A	19:A	_
+22	Wei	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

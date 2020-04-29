@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 116011
+# text = She loved swimming in Long Island Sound , and took ice - cold baths every morning in the belief that " the bitterer the medicine , the better it was for you . "
+1	She	_	Word	Word	_	2	A	2:A|3:A|14:A|19:A	_
+2	loved	_	Word	Word	_	0	H	0:H	_
+3	swimming	_	Word	Word	_	2	A	2:A	_
+4	in	_	Word	Word	_	5	R	5:R	_
+5	Long	_	Word	Word	_	3	A	3:A	_
+6	Island	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	Sound	_	Word	Word	_	5	Terminal	5:Terminal	_
+8	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+9	and	_	Word	Word	_	14	L	14:L	_
+10	took	_	Word	Word	_	14	F	14:F	_
+11	ice	_	Word	Word	_	13	E	13:E	_
+12	-	_	Punctuation	Punctuation	_	13	U	13:U	_
+13	cold	_	Word	Word	_	14	D	14:D	_
+14	baths	_	Word	Word	_	2	H	2:H	_
+15	every	_	Word	Word	_	16	E	16:E	_
+16	morning	_	Word	Word	_	14	T	14:T	_
+17	in	_	Word	Word	_	19	R	19:R	_
+18	the	_	Word	Word	_	19	E	19:E	_
+19	belief	_	Word	Word	_	14	A	14:A	_
+20	that	_	Word	Word	_	23	R	23:R	_
+21	"	_	Punctuation	Punctuation	_	23	U	23:U	_
+22	the	_	Word	Word	_	23	F	23:F	_
+23	bitterer	_	Word	Word	_	19	A	19:A	_
+24	the	_	Word	Word	_	25	E	25:E	_
+25	medicine	_	Word	Word	_	23	A	23:A	_
+26	,	_	Punctuation	Punctuation	_	23	U	23:U	_
+27	the	_	Word	Word	_	28	E	28:E	_
+28	better	_	Word	Word	_	23	H	23:H	_
+29	it	_	Word	Word	_	28	A	28:A	_
+30	was	_	Word	Word	_	28	F	28:F	_
+31	for	_	Word	Word	_	32	R	32:R	_
+32	you	_	Word	Word	_	28	A	28:A	_
+33	.	_	Punctuation	Punctuation	_	32	U	32:U	_
+34	"	_	Punctuation	Punctuation	_	32	U	32:U	_
+

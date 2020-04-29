@@ -1,0 +1,37 @@
+# format = ucca
+# sent_id = 527005
+# text = She was suspended from the picture on May 10 , 1949 , and was replaced by Betty Hutton , who stepped in performing all the musical routines as staged by Busby Berkeley .
+1	She	_	Word	Word	_	3	A	3:A|15:A	_
+2	was	_	Word	Word	_	3	F	3:F	_
+3	suspended	_	Word	Word	_	0	H	0:H	_
+4	from	_	Word	Word	_	6	R	6:R	_
+5	the	_	Word	Word	_	6	F	6:F	_
+6	picture	_	Word	Word	_	3	A	3:A	_
+7	on	_	Word	Word	_	8	R	8:R	_
+8	May	_	Word	Word	_	3	T	3:T	_
+9	10	_	Word	Word	_	8	C	8:C	_
+10	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+11	1949	_	Word	Word	_	8	C	8:C	_
+12	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+13	and	_	Word	Word	_	15	L	15:L	_
+14	was	_	Word	Word	_	15	F	15:F	_
+15	replaced	_	Word	Word	_	3	H	3:H	_
+16	by	_	Word	Word	_	17	R	17:R	_
+17	Betty	_	Word	Word	_	15	A	15:A	_
+18	Hutton	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	,	_	Punctuation	Punctuation	_	17	U	17:U	_
+20	who	_	Word	Word	_	23	R	23:R	_
+21	stepped	_	Word	Word	_	23	D	23:D	_
+22	in	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	performing	_	Word	Word	_	17	E	17:E	_
+24	all	_	Word	Word	_	27	Q	27:Q	_
+25	the	_	Word	Word	_	27	F	27:F	_
+26	musical	_	Word	Word	_	27	E	27:E	_
+27	routines	_	Word	Word	_	23	A	23:A	_
+28	as	_	Word	Word	_	29	R	29:R	_
+29	staged	_	Word	Word	_	27	E	27:E	_
+30	by	_	Word	Word	_	31	R	31:R	_
+31	Busby	_	Word	Word	_	29	A	29:A	_
+32	Berkeley	_	Word	Word	_	31	Terminal	31:Terminal	_
+33	.	_	Punctuation	Punctuation	_	31	U	31:U	_
+

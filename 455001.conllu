@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 455001
+# text = a ] He spent his first year at the anchor desk educating himself on American domestic affairs in preparation for the 1984 presidential campaign season . [
+1	a	_	Word	Word	_	12	F	12:F	_
+2	]	_	Punctuation	Punctuation	_	12	U	12:U	_
+3	He	_	Word	Word	_	12	A	12:A|19:A	_
+4	spent	_	Word	Word	_	12	F	12:F	_
+5	his	_	Word	Word	_	7	E	7:E	_
+6	first	_	Word	Word	_	7	Q	7:Q	_
+7	year	_	Word	Word	_	12	T	12:T	_
+8	at	_	Word	Word	_	11	R	11:R	_
+9	the	_	Word	Word	_	11	E	11:E	_
+10	anchor	_	Word	Word	_	11	E	11:E	_
+11	desk	_	Word	Word	_	12	A	12:A	_
+12	educating	_	Word	Word	_	0	H	0:H	_
+13	himself	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	on	_	Word	Word	_	17	R	17:R	_
+15	American	_	Word	Word	_	17	E	17:E	_
+16	domestic	_	Word	Word	_	17	E	17:E	_
+17	affairs	_	Word	Word	_	12	A	12:A	_
+18	in	_	Word	Word	_	19	L	19:L	_
+19	preparation	_	Word	Word	_	12	H	12:H	_
+20	for	_	Word	Word	_	25	R	25:R	_
+21	the	_	Word	Word	_	25	E	25:E	_
+22	1984	_	Word	Word	_	25	E	25:E	_
+23	presidential	_	Word	Word	_	25	E	25:E	_
+24	campaign	_	Word	Word	_	25	E	25:E	_
+25	season	_	Word	Word	_	19	A	19:A	_
+26	.	_	Punctuation	Punctuation	_	25	U	25:U	_
+27	[	_	Punctuation	Punctuation	_	25	U	25:U	_
+

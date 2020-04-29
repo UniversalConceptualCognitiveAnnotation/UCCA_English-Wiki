@@ -1,0 +1,35 @@
+# format = ucca
+# sent_id = 541007
+# text = These included gangster classics such as Little Caesar and The Public Enemy as well as the critically acclaimed I Am a Fugitive from a Chain Gang , starring Paul Muni .
+1	These	_	Word	Word	_	2	A	2:A	_
+2	included	_	Word	Word	_	0	H	0:H	_
+3	gangster	_	Word	Word	_	4	E	4:E	_
+4	classics	_	Word	Word	_	2	A	2:A	_
+5	such	_	Word	Word	_	7	R	7:R	_
+6	as	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	Little	_	Word	Word	_	4	E	4:E	_
+8	Caesar	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	and	_	Word	Word	_	7	N	7:N	_
+10	The	_	Word	Word	_	7	C	7:C	_
+11	Public	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	Enemy	_	Word	Word	_	10	Terminal	10:Terminal	_
+13	as	_	Word	Word	_	7	N	7:N	_
+14	well	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	as	_	Word	Word	_	13	Terminal	13:Terminal	_
+16	the	_	Word	Word	_	18	F	18:F	_
+17	critically	_	Word	Word	_	18	A	18:A	_
+18	acclaimed	_	Word	Word	_	19	E	19:E	_
+19	I	_	Word	Word	_	7	C	7:C	_
+20	Am	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	a	_	Word	Word	_	19	Terminal	19:Terminal	_
+22	Fugitive	_	Word	Word	_	19	Terminal	19:Terminal	_
+23	from	_	Word	Word	_	19	Terminal	19:Terminal	_
+24	a	_	Word	Word	_	19	Terminal	19:Terminal	_
+25	Chain	_	Word	Word	_	19	Terminal	19:Terminal	_
+26	Gang	_	Word	Word	_	19	Terminal	19:Terminal	_
+27	,	_	Punctuation	Punctuation	_	19	U	19:U	_
+28	starring	_	Word	Word	_	19	E	19:E	_
+29	Paul	_	Word	Word	_	28	A	28:A	_
+30	Muni	_	Word	Word	_	29	Terminal	29:Terminal	_
+31	.	_	Punctuation	Punctuation	_	28	U	28:U	_
+

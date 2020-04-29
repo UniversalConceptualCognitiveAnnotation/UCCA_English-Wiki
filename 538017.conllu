@@ -1,0 +1,55 @@
+# format = ucca
+# sent_id = 538017
+# text = Later that year , the Warners sold the family business to the General Film Company for " $ 10,000 in cash , $ 12,000 in preferred stock , and payments over a four - year period for a total of $ 52,000 " ( equivalent to $ 1,328,696 today ) .
+1	Later	_	Word	Word	_	3	R	3:R	_
+2	that	_	Word	Word	_	3	E	3:E	_
+3	year	_	Word	Word	_	7	T	7:T	_
+4	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+5	the	_	Word	Word	_	6	F	6:F	_
+6	Warners	_	Word	Word	_	7	A	7:A	_
+7	sold	_	Word	Word	_	0	H	0:H	_
+8	the	_	Word	Word	_	10	F	10:F	_
+9	family	_	Word	Word	_	10	A	10:A	_
+10	business	_	Word	Word	_	7	A	7:A	_
+11	to	_	Word	Word	_	13	R	13:R	_
+12	the	_	Word	Word	_	13	F	13:F	_
+13	General	_	Word	Word	_	7	A	7:A	_
+14	Film	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	Company	_	Word	Word	_	13	Terminal	13:Terminal	_
+16	for	_	Word	Word	_	18	R	18:R	_
+17	"	_	Punctuation	Punctuation	_	18	U	18:U	_
+18	$	_	Word	Word	_	7	A	7:A	_
+19	10,000	_	Word	Word	_	18	Q	18:Q	_
+20	in	_	Word	Word	_	18	E	18:E	_
+21	cash	_	Word	Word	_	20	A	20:A	_
+22	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+23	$	_	Word	Word	_	18	C	18:C	_
+24	12,000	_	Word	Word	_	23	Q	23:Q	_
+25	in	_	Word	Word	_	23	E	23:E	_
+26	preferred	_	Word	Word	_	27	E	27:E	_
+27	stock	_	Word	Word	_	25	A	25:A	_
+28	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+29	and	_	Word	Word	_	18	N	18:N	_
+30	payments	_	Word	Word	_	18	C	18:C	_
+31	over	_	Word	Word	_	35	R	35:R	_
+32	a	_	Word	Word	_	35	F	35:F	_
+33	four	_	Word	Word	_	35	Q	35:Q	_
+34	-	_	Punctuation	Punctuation	_	35	U	35:U	_
+35	year	_	Word	Word	_	30	T	30:T	_
+36	period	_	Word	Word	_	35	E	35:E	_
+37	for	_	Word	Word	_	41	R	41:R	_
+38	a	_	Word	Word	_	39	F	39:F	_
+39	total	_	Word	Word	_	41	E	41:E	_
+40	of	_	Word	Word	_	41	R	41:R	_
+41	$	_	Word	Word	_	30	A	30:A	_
+42	52,000	_	Word	Word	_	41	Q	41:Q	_
+43	"	_	Punctuation	Punctuation	_	18	U	18:U	_
+44	(	_	Punctuation	Punctuation	_	18	U	18:U	_
+45	equivalent	_	Word	Word	_	18	E	18:E	_
+46	to	_	Word	Word	_	47	R	47:R	_
+47	$	_	Word	Word	_	45	A	45:A	_
+48	1,328,696	_	Word	Word	_	47	Q	47:Q	_
+49	today	_	Word	Word	_	45	T	45:T	_
+50	)	_	Punctuation	Punctuation	_	45	U	45:U	_
+51	.	_	Punctuation	Punctuation	_	45	U	45:U	_
+

@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 957012
+# text = The film was popular in the United States and an outstanding success in the Soviet Union .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	film	_	Word	Word	_	0	C	0:C|12:A	_
+3	was	_	Word	Word	_	4	F	4:F	_
+4	popular	_	Word	Word	_	0	H	0:H	_
+5	in	_	Word	Word	_	7	R	7:R	_
+6	the	_	Word	Word	_	7	E	7:E	_
+7	United	_	Word	Word	_	4	A	4:A	_
+8	States	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	and	_	Word	Word	_	12	L	12:L	_
+10	an	_	Word	Word	_	11	E	11:E	_
+11	outstanding	_	Word	Word	_	12	D	12:D	_
+12	success	_	Word	Word	_	4	H	4:H	_
+13	in	_	Word	Word	_	15	R	15:R	_
+14	the	_	Word	Word	_	15	E	15:E	_
+15	Soviet	_	Word	Word	_	12	A	12:A	_
+16	Union	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

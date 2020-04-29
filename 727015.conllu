@@ -1,0 +1,56 @@
+# format = ucca
+# sent_id = 727015
+# text = She also provided the voice of the angelfish Lola in the DreamWorks animated movie Shark Tale ( 2004 ) , and had a brief appearance in Sky Captain and the World of Tomorrow ( 2004 ) , a science fiction adventure film shot entirely with actors in front of a bluescreen .
+1	She	_	Word	Word	_	3	A	3:A|25:A	_
+2	also	_	Word	Word	_	3	D	3:D	_
+3	provided	_	Word	Word	_	0	H	0:H	_
+4	the	_	Word	Word	_	5	E	5:E	_
+5	voice	_	Word	Word	_	3	A	3:A	_
+6	of	_	Word	Word	_	9	R	9:R	_
+7	the	_	Word	Word	_	8	E	8:E	_
+8	angelfish	_	Word	Word	_	9	E	9:E	_
+9	Lola	_	Word	Word	_	5	E	5:E	_
+10	in	_	Word	Word	_	15	R	15:R	_
+11	the	_	Word	Word	_	14	E	14:E	_
+12	DreamWorks	_	Word	Word	_	14	E	14:E	_
+13	animated	_	Word	Word	_	14	E	14:E	_
+14	movie	_	Word	Word	_	15	E	15:E	_
+15	Shark	_	Word	Word	_	3	A	3:A	_
+16	Tale	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	(	_	Punctuation	Punctuation	_	15	U	15:U	_
+18	2004	_	Word	Word	_	15	E	15:E	_
+19	)	_	Punctuation	Punctuation	_	3	U	3:U	_
+20	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+21	and	_	Word	Word	_	25	L	25:L	_
+22	had	_	Word	Word	_	25	F	25:F	_
+23	a	_	Word	Word	_	25	F	25:F	_
+24	brief	_	Word	Word	_	25	T	25:T	_
+25	appearance	_	Word	Word	_	3	H	3:H	_
+26	in	_	Word	Word	_	27	R	27:R	_
+27	Sky	_	Word	Word	_	25	A	25:A	_
+28	Captain	_	Word	Word	_	27	Terminal	27:Terminal	_
+29	and	_	Word	Word	_	27	Terminal	27:Terminal	_
+30	the	_	Word	Word	_	27	Terminal	27:Terminal	_
+31	World	_	Word	Word	_	27	Terminal	27:Terminal	_
+32	of	_	Word	Word	_	27	Terminal	27:Terminal	_
+33	Tomorrow	_	Word	Word	_	27	Terminal	27:Terminal	_
+34	(	_	Punctuation	Punctuation	_	27	U	27:U	_
+35	2004	_	Word	Word	_	27	E	27:E	_
+36	)	_	Punctuation	Punctuation	_	27	U	27:U	_
+37	,	_	Punctuation	Punctuation	_	27	U	27:U	_
+38	a	_	Word	Word	_	42	E	42:E	_
+39	science	_	Word	Word	_	40	E	40:E	_
+40	fiction	_	Word	Word	_	42	E	42:E	_
+41	adventure	_	Word	Word	_	42	E	42:E	_
+42	film	_	Word	Word	_	27	E	27:E	_
+43	shot	_	Word	Word	_	42	E	42:E	_
+44	entirely	_	Word	Word	_	43	D	43:D	_
+45	with	_	Word	Word	_	46	R	46:R	_
+46	actors	_	Word	Word	_	43	A	43:A	_
+47	in	_	Word	Word	_	46	E	46:E	_
+48	front	_	Word	Word	_	47	Terminal	47:Terminal	_
+49	of	_	Word	Word	_	47	Terminal	47:Terminal	_
+50	a	_	Word	Word	_	51	E	51:E	_
+51	bluescreen	_	Word	Word	_	47	A	47:A	_
+52	.	_	Punctuation	Punctuation	_	51	U	51:U	_
+

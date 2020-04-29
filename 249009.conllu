@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 249009
+# text = In 2008 Hawke starred with Mark Ruffalo in the crime drama What Does n't Kill You .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	2008	_	Word	Word	_	4	T	4:T	_
+3	Hawke	_	Word	Word	_	4	A	4:A	_
+4	starred	_	Word	Word	_	0	H	0:H	_
+5	with	_	Word	Word	_	6	R	6:R	_
+6	Mark	_	Word	Word	_	4	A	4:A	_
+7	Ruffalo	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	in	_	Word	Word	_	12	R	12:R	_
+9	the	_	Word	Word	_	12	F	12:F	_
+10	crime	_	Word	Word	_	11	E	11:E	_
+11	drama	_	Word	Word	_	12	E	12:E	_
+12	What	_	Word	Word	_	4	A	4:A	_
+13	Does	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	n't	_	Word	Word	_	12	Terminal	12:Terminal	_
+15	Kill	_	Word	Word	_	12	Terminal	12:Terminal	_
+16	You	_	Word	Word	_	12	Terminal	12:Terminal	_
+17	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+

@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 1027013
+# text = As of 2012 , the album sold between 30 to 45 million copies worldwide .
+1	As	_	Word	Word	_	3	R	3:R	_
+2	of	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	2012	_	Word	Word	_	7	T	7:T	_
+4	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+5	the	_	Word	Word	_	6	E	6:E	_
+6	album	_	Word	Word	_	7	A	7:A	_
+7	sold	_	Word	Word	_	0	H	0:H	_
+8	between	_	Word	Word	_	9	R	9:R	_
+9	30	_	Word	Word	_	13	E	13:E	_
+10	to	_	Word	Word	_	11	R	11:R	_
+11	45	_	Word	Word	_	9	C	9:C	_
+12	million	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	copies	_	Word	Word	_	7	A	7:A	_
+14	worldwide	_	Word	Word	_	7	A	7:A	_
+15	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

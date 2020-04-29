@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 563007
+# text = Allen , no fan of rock and roll , introduced a " new Elvis " in a white bow tie and black tails .
+1	Allen	_	Word	Word	_	10	A	10:A	_
+2	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+3	no	_	Word	Word	_	4	D	4:D	_
+4	fan	_	Word	Word	_	1	E	1:E	_
+5	of	_	Word	Word	_	6	R	6:R	_
+6	rock	_	Word	Word	_	4	A	4:A	_
+7	and	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	roll	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+10	introduced	_	Word	Word	_	0	H	0:H	_
+11	a	_	Word	Word	_	14	E	14:E	_
+12	"	_	Punctuation	Punctuation	_	14	U	14:U	_
+13	new	_	Word	Word	_	14	E	14:E	_
+14	Elvis	_	Word	Word	_	10	A	10:A	_
+15	"	_	Punctuation	Punctuation	_	14	U	14:U	_
+16	in	_	Word	Word	_	19	R	19:R	_
+17	a	_	Word	Word	_	19	E	19:E	_
+18	white	_	Word	Word	_	19	E	19:E	_
+19	bow	_	Word	Word	_	14	E	14:E	_
+20	tie	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	and	_	Word	Word	_	19	N	19:N	_
+22	black	_	Word	Word	_	23	E	23:E	_
+23	tails	_	Word	Word	_	19	C	19:C	_
+24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

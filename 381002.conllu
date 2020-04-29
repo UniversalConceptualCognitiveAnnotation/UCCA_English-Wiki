@@ -1,0 +1,37 @@
+# format = ucca
+# sent_id = 381002
+# text = In December 2006 , Jake and his sister escaped a fire that destroyed Manka ' s , a famed lodge and restaurant in Inverness , California , at which they were vacationing .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	December	_	Word	Word	_	9	T	9:T	_
+3	2006	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+5	Jake	_	Word	Word	_	9	A	9:A	_
+6	and	_	Word	Word	_	5	N	5:N	_
+7	his	_	Word	Word	_	8	A	8:A	_
+8	sister	_	Word	Word	_	5	C	5:C	_
+9	escaped	_	Word	Word	_	0	H	0:H	_
+10	a	_	Word	Word	_	11	F	11:F	_
+11	fire	_	Word	Word	_	9	A	9:A	_
+12	that	_	Word	Word	_	13	R	13:R	_
+13	destroyed	_	Word	Word	_	11	E	11:E	_
+14	Manka	_	Word	Word	_	13	A	13:A	_
+15	'	_	Punctuation	Punctuation	_	14	U	14:U	_
+16	s	_	Word	Word	_	14	Terminal	14:Terminal	_
+17	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+18	a	_	Word	Word	_	20	F	20:F	_
+19	famed	_	Word	Word	_	20	E	20:E	_
+20	lodge	_	Word	Word	_	14	E	14:E	_
+21	and	_	Word	Word	_	20	N	20:N	_
+22	restaurant	_	Word	Word	_	20	C	20:C	_
+23	in	_	Word	Word	_	24	R	24:R	_
+24	Inverness	_	Word	Word	_	20	E	20:E	_
+25	,	_	Punctuation	Punctuation	_	24	U	24:U	_
+26	California	_	Word	Word	_	24	C	24:C	_
+27	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+28	at	_	Word	Word	_	32	A	32:A	_
+29	which	_	Word	Word	_	32	R	32:R	_
+30	they	_	Word	Word	_	32	A	32:A	_
+31	were	_	Word	Word	_	32	F	32:F	_
+32	vacationing	_	Word	Word	_	14	E	14:E	_
+33	.	_	Punctuation	Punctuation	_	32	U	32:U	_
+

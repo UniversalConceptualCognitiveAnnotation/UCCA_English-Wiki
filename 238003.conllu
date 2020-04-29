@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 238003
+# text = Following the 2008 Sichuan earthquake , Chan donated RMB ¥ 10 million to help those in need .
+1	Following	_	Word	Word	_	8	L	8:L	_
+2	the	_	Word	Word	_	5	F	5:F	_
+3	2008	_	Word	Word	_	5	T	5:T	_
+4	Sichuan	_	Word	Word	_	5	A	5:A	_
+5	earthquake	_	Word	Word	_	0	H	0:H	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	Chan	_	Word	Word	_	8	A	8:A	_
+8	donated	_	Word	Word	_	5	H	5:H	_
+9	RMB	_	Word	Word	_	8	A	8:A	_
+10	¥	_	Word	Word	_	9	C	9:C	_
+11	10	_	Word	Word	_	9	Q	9:Q	_
+12	million	_	Word	Word	_	11	C	11:C	_
+13	to	_	Word	Word	_	14	L	14:L	_
+14	help	_	Word	Word	_	5	H	5:H	_
+15	those	_	Word	Word	_	14	A	14:A	_
+16	in	_	Word	Word	_	17	R	17:R	_
+17	need	_	Word	Word	_	15	E	15:E	_
+18	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+

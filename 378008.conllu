@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 378008
+# text = The story , which received mixed reviews , is loosely based on writer / director Brad Silberling 's personal experiences following the murder of girlfriend Rebecca Schaeffer .
+1	The	_	Word	Word	_	2	F	2:F	_
+2	story	_	Word	Word	_	11	A	11:A	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	which	_	Word	Word	_	5	R	5:R	_
+5	received	_	Word	Word	_	2	E	2:E	_
+6	mixed	_	Word	Word	_	7	E	7:E	_
+7	reviews	_	Word	Word	_	5	A	5:A	_
+8	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+9	is	_	Word	Word	_	11	F	11:F	_
+10	loosely	_	Word	Word	_	11	D	11:D	_
+11	based	_	Word	Word	_	0	H	0:H	_
+12	on	_	Word	Word	_	20	R	20:R	_
+13	writer	_	Word	Word	_	16	E	16:E	_
+14	/	_	Punctuation	Punctuation	_	13	U	13:U	_
+15	director	_	Word	Word	_	13	H	13:H	_
+16	Brad	_	Word	Word	_	0	C	0:C|13:A|15:A|25:A	_
+17	Silberling	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	's	_	Word	Word	_	16	R	16:R	_
+19	personal	_	Word	Word	_	20	D	20:D	_
+20	experiences	_	Word	Word	_	11	A	11:A	_
+21	following	_	Word	Word	_	23	L	23:L	_
+22	the	_	Word	Word	_	23	F	23:F	_
+23	murder	_	Word	Word	_	20	H	20:H	_
+24	of	_	Word	Word	_	26	R	26:R	_
+25	girlfriend	_	Word	Word	_	26	E	26:E	_
+26	Rebecca	_	Word	Word	_	23	A	23:A	_
+27	Schaeffer	_	Word	Word	_	26	Terminal	26:Terminal	_
+28	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+

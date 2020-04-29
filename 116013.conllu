@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 116013
+# text = With her friends and siblings , she would put on plays and perform to her neighbors for 50 cents a ticket to raise money for the Navajo people .
+1	With	_	Word	Word	_	3	R	3:R	_
+2	her	_	Word	Word	_	3	A	3:A|5:A	_
+3	friends	_	Word	Word	_	9	A	9:A	_
+4	and	_	Word	Word	_	5	L	5:L	_
+5	siblings	_	Word	Word	_	3	H	3:H	_
+6	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+7	she	_	Word	Word	_	9	A	9:A|13:A|23:A	_
+8	would	_	Word	Word	_	9	F	9:F	_
+9	put	_	Word	Word	_	0	H	0:H	_
+10	on	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	plays	_	Word	Word	_	9	A	9:A	_
+12	and	_	Word	Word	_	13	L	13:L	_
+13	perform	_	Word	Word	_	9	H	9:H	_
+14	to	_	Word	Word	_	16	R	16:R	_
+15	her	_	Word	Word	_	16	A	16:A	_
+16	neighbors	_	Word	Word	_	13	A	13:A	_
+17	for	_	Word	Word	_	19	R	19:R	_
+18	50	_	Word	Word	_	19	Q	19:Q	_
+19	cents	_	Word	Word	_	13	A	13:A	_
+20	a	_	Word	Word	_	21	R	21:R	_
+21	ticket	_	Word	Word	_	19	C	19:C	_
+22	to	_	Word	Word	_	23	L	23:L	_
+23	raise	_	Word	Word	_	9	H	9:H	_
+24	money	_	Word	Word	_	23	A	23:A	_
+25	for	_	Word	Word	_	28	R	28:R	_
+26	the	_	Word	Word	_	28	E	28:E	_
+27	Navajo	_	Word	Word	_	28	E	28:E	_
+28	people	_	Word	Word	_	23	A	23:A	_
+29	.	_	Punctuation	Punctuation	_	28	U	28:U	_
+

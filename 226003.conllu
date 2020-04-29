@@ -1,0 +1,40 @@
+# format = ucca
+# sent_id = 226003
+# text = This was followed by Armour of God II : Operation Condor , and Police Story 3 : Super Cop , for which Chan won the Best Actor Award at the 1993 Golden Horse Film Festival .
+1	This	_	Word	Word	_	5	L	5:L	_
+2	was	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	followed	_	Word	Word	_	1	Terminal	1:Terminal	_
+4	by	_	Word	Word	_	5	R	5:R	_
+5	Armour	_	Word	Word	_	0	H	0:H	_
+6	of	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	God	_	Word	Word	_	5	Terminal	5:Terminal	_
+8	II	_	Word	Word	_	5	Terminal	5:Terminal	_
+9	:	_	Punctuation	Punctuation	_	5	U	5:U	_
+10	Operation	_	Word	Word	_	5	Terminal	5:Terminal	_
+11	Condor	_	Word	Word	_	5	Terminal	5:Terminal	_
+12	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+13	and	_	Word	Word	_	5	N	5:N	_
+14	Police	_	Word	Word	_	5	C	5:C	_
+15	Story	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	3	_	Word	Word	_	14	Terminal	14:Terminal	_
+17	:	_	Punctuation	Punctuation	_	14	U	14:U	_
+18	Super	_	Word	Word	_	14	Terminal	14:Terminal	_
+19	Cop	_	Word	Word	_	14	Terminal	14:Terminal	_
+20	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+21	for	_	Word	Word	_	24	A	24:A	_
+22	which	_	Word	Word	_	24	R	24:R	_
+23	Chan	_	Word	Word	_	24	A	24:A	_
+24	won	_	Word	Word	_	14	E	14:E	_
+25	the	_	Word	Word	_	26	F	26:F	_
+26	Best	_	Word	Word	_	24	A	24:A	_
+27	Actor	_	Word	Word	_	26	Terminal	26:Terminal	_
+28	Award	_	Word	Word	_	26	Terminal	26:Terminal	_
+29	at	_	Word	Word	_	32	R	32:R	_
+30	the	_	Word	Word	_	32	F	32:F	_
+31	1993	_	Word	Word	_	32	E	32:E	_
+32	Golden	_	Word	Word	_	24	A	24:A	_
+33	Horse	_	Word	Word	_	32	Terminal	32:Terminal	_
+34	Film	_	Word	Word	_	32	Terminal	32:Terminal	_
+35	Festival	_	Word	Word	_	32	Terminal	32:Terminal	_
+36	.	_	Punctuation	Punctuation	_	32	U	32:U	_
+

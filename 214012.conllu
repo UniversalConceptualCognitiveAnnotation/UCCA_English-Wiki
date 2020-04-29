@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 214012
+# text = The film received ambivalent reviews , but many film critics complimented Dunst 's performance .
+1	The	_	Word	Word	_	2	F	2:F	_
+2	film	_	Word	Word	_	5	A	5:A	_
+3	received	_	Word	Word	_	5	F	5:F	_
+4	ambivalent	_	Word	Word	_	5	D	5:D	_
+5	reviews	_	Word	Word	_	0	H	0:H	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	but	_	Word	Word	_	11	L	11:L	_
+8	many	_	Word	Word	_	10	Q	10:Q	_
+9	film	_	Word	Word	_	10	A	10:A	_
+10	critics	_	Word	Word	_	11	A	11:A	_
+11	complimented	_	Word	Word	_	5	H	5:H	_
+12	Dunst	_	Word	Word	_	14	A	14:A	_
+13	's	_	Word	Word	_	12	R	12:R	_
+14	performance	_	Word	Word	_	11	A	11:A	_
+15	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

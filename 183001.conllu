@@ -1,0 +1,44 @@
+# format = ucca
+# sent_id = 183001
+# text = She won the Academy Award for Best Actress twice , was the first person to accrue 10 Academy Award nominations for acting , and was the first woman to receive a Lifetime Achievement Award from the American Film Institute .
+1	She	_	Word	Word	_	2	A	2:A|11:A|25:A	_
+2	won	_	Word	Word	_	0	H	0:H	_
+3	the	_	Word	Word	_	5	F	5:F	_
+4	Academy	_	Word	Word	_	5	E	5:E	_
+5	Award	_	Word	Word	_	2	A	2:A	_
+6	for	_	Word	Word	_	8	R	8:R	_
+7	Best	_	Word	Word	_	8	E	8:E	_
+8	Actress	_	Word	Word	_	5	E	5:E	_
+9	twice	_	Word	Word	_	2	D	2:D	_
+10	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+11	was	_	Word	Word	_	2	H	2:H	_
+12	the	_	Word	Word	_	14	F	14:F	_
+13	first	_	Word	Word	_	14	Q	14:Q	_
+14	person	_	Word	Word	_	11	A	11:A	_
+15	to	_	Word	Word	_	16	F	16:F	_
+16	accrue	_	Word	Word	_	14	E	14:E	_
+17	10	_	Word	Word	_	20	Q	20:Q	_
+18	Academy	_	Word	Word	_	19	E	19:E	_
+19	Award	_	Word	Word	_	20	E	20:E	_
+20	nominations	_	Word	Word	_	16	A	16:A	_
+21	for	_	Word	Word	_	22	R	22:R	_
+22	acting	_	Word	Word	_	20	E	20:E	_
+23	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+24	and	_	Word	Word	_	25	L	25:L	_
+25	was	_	Word	Word	_	2	H	2:H	_
+26	the	_	Word	Word	_	28	F	28:F	_
+27	first	_	Word	Word	_	28	Q	28:Q	_
+28	woman	_	Word	Word	_	25	A	25:A	_
+29	to	_	Word	Word	_	30	F	30:F	_
+30	receive	_	Word	Word	_	28	E	28:E	_
+31	a	_	Word	Word	_	34	F	34:F	_
+32	Lifetime	_	Word	Word	_	34	E	34:E	_
+33	Achievement	_	Word	Word	_	34	E	34:E	_
+34	Award	_	Word	Word	_	30	A	30:A	_
+35	from	_	Word	Word	_	39	R	39:R	_
+36	the	_	Word	Word	_	39	F	39:F	_
+37	American	_	Word	Word	_	39	E	39:E	_
+38	Film	_	Word	Word	_	39	E	39:E	_
+39	Institute	_	Word	Word	_	34	E	34:E	_
+40	.	_	Punctuation	Punctuation	_	39	U	39:U	_
+

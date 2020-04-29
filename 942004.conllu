@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 942004
+# text = The album 's third single , " Hollaback Girl " , was the first US digital download to sell one million copies .
+1	The	_	Word	Word	_	5	E	5:E	_
+2	album	_	Word	Word	_	5	E	5:E	_
+3	's	_	Word	Word	_	2	R	2:R	_
+4	third	_	Word	Word	_	5	Q	5:Q	_
+5	single	_	Word	Word	_	8	E	8:E	_
+6	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+8	Hollaback	_	Word	Word	_	12	A	12:A	_
+9	Girl	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	"	_	Punctuation	Punctuation	_	12	U	12:U	_
+11	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+12	was	_	Word	Word	_	0	H	0:H	_
+13	the	_	Word	Word	_	17	E	17:E	_
+14	first	_	Word	Word	_	17	Q	17:Q	_
+15	US	_	Word	Word	_	17	E	17:E	_
+16	digital	_	Word	Word	_	17	E	17:E	_
+17	download	_	Word	Word	_	12	A	12:A	_
+18	to	_	Word	Word	_	19	F	19:F	_
+19	sell	_	Word	Word	_	17	E	17:E	_
+20	one	_	Word	Word	_	22	Q	22:Q	_
+21	million	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	copies	_	Word	Word	_	19	A	19:A	_
+23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+

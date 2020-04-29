@@ -1,0 +1,57 @@
+# format = ucca
+# sent_id = 730004
+# text = The film , which Jolie also scripted and co - produced , aroused both praise and criticism in the Balkans ; the response from Bosniak war - victims advocacy organizations was " overwhelmingly positive , " while a Serb war prisoners group decried the film for its alleged anti - Serb bias .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	film	_	Word	Word	_	0	C	0:C|7:A|11:A|17:A	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	which	_	Word	Word	_	7	R	7:R	_
+5	Jolie	_	Word	Word	_	7	A	7:A|11:A	_
+6	also	_	Word	Word	_	7	D	7:D|11:D	_
+7	scripted	_	Word	Word	_	2	E	2:E	_
+8	and	_	Word	Word	_	11	L	11:L	_
+9	co	_	Word	Word	_	11	D	11:D	_
+10	-	_	Punctuation	Punctuation	_	11	U	11:U	_
+11	produced	_	Word	Word	_	7	H	7:H	_
+12	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+13	aroused	_	Word	Word	_	15	D	15:D|17:D	_
+14	both	_	Word	Word	_	17	L	17:L	_
+15	praise	_	Word	Word	_	0	H	0:H	_
+16	and	_	Word	Word	_	17	L	17:L	_
+17	criticism	_	Word	Word	_	15	H	15:H	_
+18	in	_	Word	Word	_	20	R	20:R	_
+19	the	_	Word	Word	_	20	E	20:E	_
+20	Balkans	_	Word	Word	_	0	C	0:C|17:A	_
+21	;	_	Punctuation	Punctuation	_	15	U	15:U	_
+22	the	_	Word	Word	_	23	E	23:E	_
+23	response	_	Word	Word	_	15	H	15:H	_
+24	from	_	Word	Word	_	30	R	30:R	_
+25	Bosniak	_	Word	Word	_	30	E	30:E	_
+26	war	_	Word	Word	_	28	A	28:A	_
+27	-	_	Punctuation	Punctuation	_	28	U	28:U	_
+28	victims	_	Word	Word	_	30	E	30:E	_
+29	advocacy	_	Word	Word	_	30	E	30:E	_
+30	organizations	_	Word	Word	_	23	A	23:A	_
+31	was	_	Word	Word	_	23	F	23:F	_
+32	"	_	Punctuation	Punctuation	_	23	U	23:U	_
+33	overwhelmingly	_	Word	Word	_	34	E	34:E	_
+34	positive	_	Word	Word	_	23	D	23:D	_
+35	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+36	"	_	Punctuation	Punctuation	_	15	U	15:U	_
+37	while	_	Word	Word	_	43	L	43:L	_
+38	a	_	Word	Word	_	42	F	42:F	_
+39	Serb	_	Word	Word	_	42	A	42:A	_
+40	war	_	Word	Word	_	41	A	41:A	_
+41	prisoners	_	Word	Word	_	42	A	42:A	_
+42	group	_	Word	Word	_	43	A	43:A	_
+43	decried	_	Word	Word	_	15	H	15:H	_
+44	the	_	Word	Word	_	45	E	45:E	_
+45	film	_	Word	Word	_	43	A	43:A	_
+46	for	_	Word	Word	_	52	R	52:R	_
+47	its	_	Word	Word	_	52	A	52:A	_
+48	alleged	_	Word	Word	_	52	G	52:G	_
+49	anti	_	Word	Word	_	51	E	51:E	_
+50	-	_	Punctuation	Punctuation	_	51	U	51:U	_
+51	Serb	_	Word	Word	_	52	A	52:A	_
+52	bias	_	Word	Word	_	43	A	43:A	_
+53	.	_	Punctuation	Punctuation	_	52	U	52:U	_
+

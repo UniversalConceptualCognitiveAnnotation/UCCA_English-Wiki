@@ -1,0 +1,34 @@
+# format = ucca
+# sent_id = 962007
+# text = On the night of 7 July 1967 , Merivale left her as usual , to perform in a play , and returned home around midnight to find her asleep .
+1	On	_	Word	Word	_	3	R	3:R	_
+2	the	_	Word	Word	_	3	E	3:E	_
+3	night	_	Word	Word	_	10	T	10:T	_
+4	of	_	Word	Word	_	5	R	5:R	_
+5	7	_	Word	Word	_	3	C	3:C	_
+6	July	_	Word	Word	_	5	C	5:C	_
+7	1967	_	Word	Word	_	5	C	5:C	_
+8	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+9	Merivale	_	Word	Word	_	10	A	10:A|16:A|22:A|27:A	_
+10	left	_	Word	Word	_	0	H	0:H	_
+11	her	_	Word	Word	_	10	A	10:A	_
+12	as	_	Word	Word	_	13	R	13:R	_
+13	usual	_	Word	Word	_	10	D	10:D	_
+14	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+15	to	_	Word	Word	_	16	L	16:L	_
+16	perform	_	Word	Word	_	10	H	10:H	_
+17	in	_	Word	Word	_	19	R	19:R	_
+18	a	_	Word	Word	_	19	E	19:E	_
+19	play	_	Word	Word	_	16	A	16:A	_
+20	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+21	and	_	Word	Word	_	22	L	22:L	_
+22	returned	_	Word	Word	_	10	H	10:H	_
+23	home	_	Word	Word	_	22	A	22:A	_
+24	around	_	Word	Word	_	25	E	25:E	_
+25	midnight	_	Word	Word	_	22	T	22:T	_
+26	to	_	Word	Word	_	27	L	27:L	_
+27	find	_	Word	Word	_	10	H	10:H	_
+28	her	_	Word	Word	_	27	A	27:A|29:A	_
+29	asleep	_	Word	Word	_	27	A	27:A	_
+30	.	_	Punctuation	Punctuation	_	29	U	29:U	_
+

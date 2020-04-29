@@ -1,0 +1,43 @@
+# format = ucca
+# sent_id = 466003
+# text = After protests from his fellow players , he retired again for four years , but returned in 1996 , at age 36 , to play 32 games for the Lakers before retiring for the third and final time .
+1	After	_	Word	Word	_	9	L	9:L	_
+2	protests	_	Word	Word	_	0	H	0:H	_
+3	from	_	Word	Word	_	6	R	6:R	_
+4	his	_	Word	Word	_	5	A	5:A	_
+5	fellow	_	Word	Word	_	6	E	6:E	_
+6	players	_	Word	Word	_	0	P	0:P|5:A	_
+7	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+8	he	_	Word	Word	_	9	A	9:A|16:A|21:A|25:A|32:A	_
+9	retired	_	Word	Word	_	2	H	2:H	_
+10	again	_	Word	Word	_	9	D	9:D	_
+11	for	_	Word	Word	_	13	R	13:R	_
+12	four	_	Word	Word	_	13	Q	13:Q	_
+13	years	_	Word	Word	_	9	T	9:T	_
+14	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+15	but	_	Word	Word	_	16	L	16:L	_
+16	returned	_	Word	Word	_	2	H	2:H	_
+17	in	_	Word	Word	_	18	R	18:R	_
+18	1996	_	Word	Word	_	16	T	16:T	_
+19	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+20	at	_	Word	Word	_	21	L	21:L	_
+21	age	_	Word	Word	_	2	H	2:H	_
+22	36	_	Word	Word	_	21	T	21:T	_
+23	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+24	to	_	Word	Word	_	25	L	25:L	_
+25	play	_	Word	Word	_	2	H	2:H	_
+26	32	_	Word	Word	_	27	Q	27:Q	_
+27	games	_	Word	Word	_	25	A	25:A	_
+28	for	_	Word	Word	_	30	R	30:R	_
+29	the	_	Word	Word	_	30	E	30:E	_
+30	Lakers	_	Word	Word	_	25	A	25:A	_
+31	before	_	Word	Word	_	32	L	32:L	_
+32	retiring	_	Word	Word	_	2	H	2:H	_
+33	for	_	Word	Word	_	38	R	38:R	_
+34	the	_	Word	Word	_	38	E	38:E	_
+35	third	_	Word	Word	_	37	Q	37:Q	_
+36	and	_	Word	Word	_	37	N	37:N	_
+37	final	_	Word	Word	_	38	E	38:E	_
+38	time	_	Word	Word	_	32	A	32:A	_
+39	.	_	Punctuation	Punctuation	_	38	U	38:U	_
+

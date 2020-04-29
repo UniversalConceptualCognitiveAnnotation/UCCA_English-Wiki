@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 528015
+# text = About 30 minutes of footage was cut , sparking outrage among critics and filmgoers .
+1	About	_	Word	Word	_	2	E	2:E	_
+2	30	_	Word	Word	_	3	Q	3:Q	_
+3	minutes	_	Word	Word	_	5	Q	5:Q	_
+4	of	_	Word	Word	_	5	R	5:R	_
+5	footage	_	Word	Word	_	7	A	7:A	_
+6	was	_	Word	Word	_	7	F	7:F	_
+7	cut	_	Word	Word	_	0	H	0:H|10:A	_
+8	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	sparking	_	Word	Word	_	10	D	10:D	_
+10	outrage	_	Word	Word	_	7	H	7:H	_
+11	among	_	Word	Word	_	12	R	12:R	_
+12	critics	_	Word	Word	_	10	A	10:A	_
+13	and	_	Word	Word	_	12	N	12:N	_
+14	filmgoers	_	Word	Word	_	12	C	12:C	_
+15	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

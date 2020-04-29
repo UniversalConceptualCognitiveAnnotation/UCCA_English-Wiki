@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 124005
+# text = Knopf decided to produce The Big Pond in New York and called for Hepburn to be the understudy to the leading lady .
+1	Knopf	_	Word	Word	_	4	A	4:A|12:A	_
+2	decided	_	Word	Word	_	4	D	4:D	_
+3	to	_	Word	Word	_	4	F	4:F	_
+4	produce	_	Word	Word	_	0	H	0:H	_
+5	The	_	Word	Word	_	4	A	4:A	_
+6	Big	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	Pond	_	Word	Word	_	5	Terminal	5:Terminal	_
+8	in	_	Word	Word	_	9	R	9:R	_
+9	New	_	Word	Word	_	4	A	4:A	_
+10	York	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	and	_	Word	Word	_	12	L	12:L	_
+12	called	_	Word	Word	_	4	H	4:H	_
+13	for	_	Word	Word	_	12	R	12:R	_
+14	Hepburn	_	Word	Word	_	12	A	12:A|18:A	_
+15	to	_	Word	Word	_	18	F	18:F	_
+16	be	_	Word	Word	_	18	F	18:F	_
+17	the	_	Word	Word	_	18	E	18:E	_
+18	understudy	_	Word	Word	_	12	A	12:A	_
+19	to	_	Word	Word	_	21	R	21:R	_
+20	the	_	Word	Word	_	22	E	22:E	_
+21	leading	_	Word	Word	_	18	A	18:A	_
+22	lady	_	Word	Word	_	21	A	21:A	_
+23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+

@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 669009
+# text = In the United Kingdom , it became Carey 's first tour to feature shows outside of London , booking arena stops in Glasgow , Birmingham and Manchester .
+1	In	_	Word	Word	_	3	R	3:R	_
+2	the	_	Word	Word	_	3	E	3:E	_
+3	United	_	Word	Word	_	7	A	7:A	_
+4	Kingdom	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+6	it	_	Word	Word	_	7	F	7:F	_
+7	became	_	Word	Word	_	0	H	0:H	_
+8	Carey	_	Word	Word	_	11	E	11:E	_
+9	's	_	Word	Word	_	8	R	8:R	_
+10	first	_	Word	Word	_	11	E	11:E	_
+11	tour	_	Word	Word	_	0	C	0:C|13:A|19:A	_
+12	to	_	Word	Word	_	13	R	13:R	_
+13	feature	_	Word	Word	_	11	E	11:E	_
+14	shows	_	Word	Word	_	13	A	13:A	_
+15	outside	_	Word	Word	_	17	R	17:R	_
+16	of	_	Word	Word	_	15	R	15:R	_
+17	London	_	Word	Word	_	14	E	14:E	_
+18	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+19	booking	_	Word	Word	_	7	H	7:H	_
+20	arena	_	Word	Word	_	21	E	21:E	_
+21	stops	_	Word	Word	_	19	A	19:A	_
+22	in	_	Word	Word	_	23	R	23:R	_
+23	Glasgow	_	Word	Word	_	21	E	21:E	_
+24	,	_	Punctuation	Punctuation	_	23	U	23:U	_
+25	Birmingham	_	Word	Word	_	23	C	23:C	_
+26	and	_	Word	Word	_	23	N	23:N	_
+27	Manchester	_	Word	Word	_	23	C	23:C	_
+28	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

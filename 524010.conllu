@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 524010
+# text = At the 1940 Academy Awards ceremony , Garland received an Academy Juvenile Award for her performances in 1939 , including The Wizard of Oz and Babes in Arms .
+1	At	_	Word	Word	_	6	R	6:R	_
+2	the	_	Word	Word	_	3	F	3:F	_
+3	1940	_	Word	Word	_	6	T	6:T	_
+4	Academy	_	Word	Word	_	6	A	6:A	_
+5	Awards	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	ceremony	_	Word	Word	_	9	A	9:A	_
+7	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+8	Garland	_	Word	Word	_	9	A	9:A	_
+9	received	_	Word	Word	_	0	H	0:H	_
+10	an	_	Word	Word	_	11	F	11:F	_
+11	Academy	_	Word	Word	_	9	A	9:A	_
+12	Juvenile	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	Award	_	Word	Word	_	11	Terminal	11:Terminal	_
+14	for	_	Word	Word	_	16	R	16:R	_
+15	her	_	Word	Word	_	16	A	16:A	_
+16	performances	_	Word	Word	_	9	A	9:A	_
+17	in	_	Word	Word	_	18	R	18:R	_
+18	1939	_	Word	Word	_	16	T	16:T	_
+19	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+20	including	_	Word	Word	_	21	R	21:R	_
+21	The	_	Word	Word	_	16	A	16:A	_
+22	Wizard	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	of	_	Word	Word	_	21	Terminal	21:Terminal	_
+24	Oz	_	Word	Word	_	21	Terminal	21:Terminal	_
+25	and	_	Word	Word	_	21	N	21:N	_
+26	Babes	_	Word	Word	_	21	C	21:C	_
+27	in	_	Word	Word	_	26	Terminal	26:Terminal	_
+28	Arms	_	Word	Word	_	26	Terminal	26:Terminal	_
+29	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

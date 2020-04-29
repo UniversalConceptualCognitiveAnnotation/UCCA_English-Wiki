@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 654001
+# text = After negotiations between Lennon , Spinetti and the artistic director of the National Theatre , Sir Laurence Olivier , the play opened at the Old Vic in 1968 .
+1	After	_	Word	Word	_	22	L	22:L	_
+2	negotiations	_	Word	Word	_	0	H	0:H	_
+3	between	_	Word	Word	_	4	R	4:R	_
+4	Lennon	_	Word	Word	_	2	A	2:A	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	Spinetti	_	Word	Word	_	4	C	4:C	_
+7	and	_	Word	Word	_	4	N	4:N	_
+8	the	_	Word	Word	_	10	E	10:E	_
+9	artistic	_	Word	Word	_	10	D	10:D	_
+10	director	_	Word	Word	_	16	E	16:E	_
+11	of	_	Word	Word	_	14	R	14:R	_
+12	the	_	Word	Word	_	14	E	14:E	_
+13	National	_	Word	Word	_	14	E	14:E	_
+14	Theatre	_	Word	Word	_	10	A	10:A	_
+15	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+16	Sir	_	Word	Word	_	4	C	4:C	_
+17	Laurence	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	Olivier	_	Word	Word	_	16	Terminal	16:Terminal	_
+19	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+20	the	_	Word	Word	_	21	E	21:E	_
+21	play	_	Word	Word	_	22	A	22:A	_
+22	opened	_	Word	Word	_	2	H	2:H	_
+23	at	_	Word	Word	_	25	R	25:R	_
+24	the	_	Word	Word	_	25	E	25:E	_
+25	Old	_	Word	Word	_	22	A	22:A	_
+26	Vic	_	Word	Word	_	25	Terminal	25:Terminal	_
+27	in	_	Word	Word	_	28	R	28:R	_
+28	1968	_	Word	Word	_	22	T	22:T	_
+29	.	_	Punctuation	Punctuation	_	28	U	28:U	_
+

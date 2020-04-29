@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 479003
+# text = Similarly , Bird admitted that Johnson 's daily box score was the first thing he checked in the morning .
+1	Similarly	_	Word	Word	_	4	L	4:L	_
+2	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+3	Bird	_	Word	Word	_	4	A	4:A	_
+4	admitted	_	Word	Word	_	0	H	0:H	_
+5	that	_	Word	Word	_	11	R	11:R	_
+6	Johnson	_	Word	Word	_	9	E	9:E	_
+7	's	_	Word	Word	_	6	R	6:R	_
+8	daily	_	Word	Word	_	9	E	9:E	_
+9	box	_	Word	Word	_	11	A	11:A	_
+10	score	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	was	_	Word	Word	_	4	A	4:A	_
+12	the	_	Word	Word	_	14	F	14:F	_
+13	first	_	Word	Word	_	14	Q	14:Q	_
+14	thing	_	Word	Word	_	11	A	11:A	_
+15	he	_	Word	Word	_	16	A	16:A	_
+16	checked	_	Word	Word	_	14	E	14:E	_
+17	in	_	Word	Word	_	19	R	19:R	_
+18	the	_	Word	Word	_	19	F	19:F	_
+19	morning	_	Word	Word	_	16	T	16:T	_
+20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

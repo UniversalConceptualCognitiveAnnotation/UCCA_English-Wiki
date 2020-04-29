@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 586004
+# text = The Kids set out together for Los Angeles in pursuit of a record deal , changing their name to Six Gun Method , but the group split up before signing a record deal .
+1	The	_	Word	Word	_	3	A	3:A|10:A|16:A	_
+2	Kids	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	set	_	Word	Word	_	0	H	0:H	_
+4	out	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	together	_	Word	Word	_	3	D	3:D	_
+6	for	_	Word	Word	_	7	R	7:R	_
+7	Los	_	Word	Word	_	3	A	3:A	_
+8	Angeles	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	in	_	Word	Word	_	10	L	10:L	_
+10	pursuit	_	Word	Word	_	3	H	3:H	_
+11	of	_	Word	Word	_	14	R	14:R	_
+12	a	_	Word	Word	_	14	F	14:F	_
+13	record	_	Word	Word	_	14	A	14:A	_
+14	deal	_	Word	Word	_	10	A	10:A	_
+15	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+16	changing	_	Word	Word	_	3	H	3:H	_
+17	their	_	Word	Word	_	18	E	18:E	_
+18	name	_	Word	Word	_	16	A	16:A	_
+19	to	_	Word	Word	_	20	R	20:R	_
+20	Six	_	Word	Word	_	16	A	16:A	_
+21	Gun	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	Method	_	Word	Word	_	20	Terminal	20:Terminal	_
+23	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+24	but	_	Word	Word	_	27	L	27:L	_
+25	the	_	Word	Word	_	26	E	26:E	_
+26	group	_	Word	Word	_	0	C	0:C|30:A	_
+27	split	_	Word	Word	_	3	H	3:H	_
+28	up	_	Word	Word	_	27	Terminal	27:Terminal	_
+29	before	_	Word	Word	_	30	L	30:L	_
+30	signing	_	Word	Word	_	3	H	3:H	_
+31	a	_	Word	Word	_	33	E	33:E	_
+32	record	_	Word	Word	_	33	E	33:E	_
+33	deal	_	Word	Word	_	30	A	30:A	_
+34	.	_	Punctuation	Punctuation	_	33	U	33:U	_
+

@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 491001
+# text = His love of the sport began at a young age when his godfather took him to games to see the St Kilda Football Club , his favourite team in the Australian Football League .
+1	His	_	Word	Word	_	2	A	2:A	_
+2	love	_	Word	Word	_	0	H	0:H	_
+3	of	_	Word	Word	_	5	R	5:R	_
+4	the	_	Word	Word	_	5	E	5:E	_
+5	sport	_	Word	Word	_	2	A	2:A	_
+6	began	_	Word	Word	_	2	D	2:D	_
+7	at	_	Word	Word	_	10	R	10:R	_
+8	a	_	Word	Word	_	10	E	10:E	_
+9	young	_	Word	Word	_	10	E	10:E	_
+10	age	_	Word	Word	_	2	A	2:A	_
+11	when	_	Word	Word	_	14	L	14:L	_
+12	his	_	Word	Word	_	13	A	13:A	_
+13	godfather	_	Word	Word	_	14	A	14:A	_
+14	took	_	Word	Word	_	2	H	2:H	_
+15	him	_	Word	Word	_	14	A	14:A|19:A	_
+16	to	_	Word	Word	_	17	R	17:R	_
+17	games	_	Word	Word	_	14	A	14:A	_
+18	to	_	Word	Word	_	19	F	19:F	_
+19	see	_	Word	Word	_	14	A	14:A	_
+20	the	_	Word	Word	_	24	E	24:E	_
+21	St	_	Word	Word	_	24	E	24:E	_
+22	Kilda	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	Football	_	Word	Word	_	24	E	24:E	_
+24	Club	_	Word	Word	_	19	A	19:A	_
+25	,	_	Punctuation	Punctuation	_	24	U	24:U	_
+26	his	_	Word	Word	_	27	A	27:A	_
+27	favourite	_	Word	Word	_	28	E	28:E	_
+28	team	_	Word	Word	_	24	E	24:E	_
+29	in	_	Word	Word	_	33	R	33:R	_
+30	the	_	Word	Word	_	33	E	33:E	_
+31	Australian	_	Word	Word	_	33	E	33:E	_
+32	Football	_	Word	Word	_	33	E	33:E	_
+33	League	_	Word	Word	_	28	E	28:E	_
+34	.	_	Punctuation	Punctuation	_	33	U	33:U	_
+

@@ -1,0 +1,50 @@
+# format = ucca
+# sent_id = 565003
+# text = Moore recalled , " He 'd start out , ' You ai n't nothin ' but a Hound Dog , ' and they 'd just go to pieces . They 'd always react the same way . There 'd be a riot every time . "
+1	Moore	_	Word	Word	_	2	A	2:A	_
+2	recalled	_	Word	Word	_	0	H	0:H	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	He	_	Word	Word	_	7	A	7:A	_
+6	'd	_	Word	Word	_	7	D	7:D	_
+7	start	_	Word	Word	_	2	A	2:A	_
+8	out	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+10	'	_	Punctuation	Punctuation	_	7	U	7:U	_
+11	You	_	Word	Word	_	7	A	7:A	_
+12	ai	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	n't	_	Word	Word	_	11	Terminal	11:Terminal	_
+14	nothin	_	Word	Word	_	11	Terminal	11:Terminal	_
+15	'	_	Punctuation	Punctuation	_	11	U	11:U	_
+16	but	_	Word	Word	_	11	Terminal	11:Terminal	_
+17	a	_	Word	Word	_	11	Terminal	11:Terminal	_
+18	Hound	_	Word	Word	_	11	Terminal	11:Terminal	_
+19	Dog	_	Word	Word	_	11	Terminal	11:Terminal	_
+20	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+21	'	_	Punctuation	Punctuation	_	7	U	7:U	_
+22	and	_	Word	Word	_	26	L	26:L	_
+23	they	_	Word	Word	_	26	A	26:A	_
+24	'd	_	Word	Word	_	26	D	26:D	_
+25	just	_	Word	Word	_	26	D	26:D	_
+26	go	_	Word	Word	_	7	H	7:H	_
+27	to	_	Word	Word	_	26	Terminal	26:Terminal	_
+28	pieces	_	Word	Word	_	26	Terminal	26:Terminal	_
+29	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+30	They	_	Word	Word	_	33	A	33:A	_
+31	'd	_	Word	Word	_	33	D	33:D	_
+32	always	_	Word	Word	_	33	T	33:T	_
+33	react	_	Word	Word	_	7	H	7:H	_
+34	the	_	Word	Word	_	36	E	36:E	_
+35	same	_	Word	Word	_	36	E	36:E	_
+36	way	_	Word	Word	_	33	D	33:D	_
+37	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+38	There	_	Word	Word	_	42	F	42:F	_
+39	'd	_	Word	Word	_	42	D	42:D	_
+40	be	_	Word	Word	_	42	F	42:F	_
+41	a	_	Word	Word	_	42	E	42:E	_
+42	riot	_	Word	Word	_	7	H	7:H	_
+43	every	_	Word	Word	_	44	E	44:E	_
+44	time	_	Word	Word	_	42	T	42:T	_
+45	.	_	Punctuation	Punctuation	_	44	U	44:U	_
+46	"	_	Punctuation	Punctuation	_	44	U	44:U	_
+

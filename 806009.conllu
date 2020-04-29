@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 806009
+# text = He wore an anti - landmines T - shirt during some of the Back in the World tour shows .
+1	He	_	Word	Word	_	2	A	2:A	_
+2	wore	_	Word	Word	_	0	H	0:H	_
+3	an	_	Word	Word	_	7	E	7:E	_
+4	anti	_	Word	Word	_	6	E	6:E	_
+5	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	landmines	_	Word	Word	_	7	E	7:E	_
+7	T	_	Word	Word	_	2	A	2:A	_
+8	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	shirt	_	Word	Word	_	7	Terminal	7:Terminal	_
+10	during	_	Word	Word	_	19	L	19:L	_
+11	some	_	Word	Word	_	19	D	19:D	_
+12	of	_	Word	Word	_	19	R	19:R	_
+13	the	_	Word	Word	_	19	F	19:F	_
+14	Back	_	Word	Word	_	18	A	18:A	_
+15	in	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	the	_	Word	Word	_	14	Terminal	14:Terminal	_
+17	World	_	Word	Word	_	14	Terminal	14:Terminal	_
+18	tour	_	Word	Word	_	19	A	19:A	_
+19	shows	_	Word	Word	_	2	H	2:H	_
+20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

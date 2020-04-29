@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 591010
+# text = He made a cameo as the Mad Hatter in the music video for Avril Lavigne 's " Alice " in 2010 .
+1	He	_	Word	Word	_	4	A	4:A	_
+2	made	_	Word	Word	_	4	F	4:F	_
+3	a	_	Word	Word	_	4	E	4:E	_
+4	cameo	_	Word	Word	_	0	H	0:H	_
+5	as	_	Word	Word	_	7	R	7:R	_
+6	the	_	Word	Word	_	7	E	7:E	_
+7	Mad	_	Word	Word	_	4	A	4:A	_
+8	Hatter	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	in	_	Word	Word	_	12	R	12:R	_
+10	the	_	Word	Word	_	12	E	12:E	_
+11	music	_	Word	Word	_	12	E	12:E	_
+12	video	_	Word	Word	_	4	A	4:A	_
+13	for	_	Word	Word	_	18	R	18:R	_
+14	Avril	_	Word	Word	_	16	A	16:A	_
+15	Lavigne	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	's	_	Word	Word	_	18	E	18:E	_
+17	"	_	Punctuation	Punctuation	_	16	U	16:U	_
+18	Alice	_	Word	Word	_	12	E	12:E	_
+19	"	_	Punctuation	Punctuation	_	4	U	4:U	_
+20	in	_	Word	Word	_	21	R	21:R	_
+21	2010	_	Word	Word	_	4	T	4:T	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

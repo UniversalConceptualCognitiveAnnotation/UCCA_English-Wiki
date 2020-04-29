@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 493002
+# text = Throughout his career , he has sold an estimated 140 million albums .
+1	Throughout	_	Word	Word	_	7	L	7:L	_
+2	his	_	Word	Word	_	3	A	3:A	_
+3	career	_	Word	Word	_	0	H	0:H	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	he	_	Word	Word	_	7	A	7:A	_
+6	has	_	Word	Word	_	7	F	7:F	_
+7	sold	_	Word	Word	_	3	H	3:H	_
+8	an	_	Word	Word	_	10	E	10:E	_
+9	estimated	_	Word	Word	_	10	E	10:E	_
+10	140	_	Word	Word	_	12	Q	12:Q	_
+11	million	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	albums	_	Word	Word	_	7	A	7:A	_
+13	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+

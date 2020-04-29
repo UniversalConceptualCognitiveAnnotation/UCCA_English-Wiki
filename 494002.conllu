@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 494002
+# text = Bowie studied art , music , and design , including layout and typesetting .
+1	Bowie	_	Word	Word	_	2	A	2:A	_
+2	studied	_	Word	Word	_	0	H	0:H	_
+3	art	_	Word	Word	_	2	A	2:A	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	music	_	Word	Word	_	3	C	3:C	_
+6	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+7	and	_	Word	Word	_	3	N	3:N	_
+8	design	_	Word	Word	_	3	C	3:C	_
+9	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+10	including	_	Word	Word	_	11	R	11:R	_
+11	layout	_	Word	Word	_	8	E	8:E	_
+12	and	_	Word	Word	_	11	N	11:N	_
+13	typesetting	_	Word	Word	_	11	C	11:C	_
+14	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+

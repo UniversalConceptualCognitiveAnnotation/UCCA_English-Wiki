@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 507010
+# text = Performing his early hits during the seven - month Sound + Vision Tour , he found commercial success and acclaim once again .
+1	Performing	_	Word	Word	_	0	H	0:H	_
+2	his	_	Word	Word	_	4	E	4:E	_
+3	early	_	Word	Word	_	4	E	4:E	_
+4	hits	_	Word	Word	_	1	A	1:A	_
+5	during	_	Word	Word	_	13	L	13:L	_
+6	the	_	Word	Word	_	9	E	9:E	_
+7	seven	_	Word	Word	_	9	Q	9:Q	_
+8	-	_	Punctuation	Punctuation	_	9	U	9:U	_
+9	month	_	Word	Word	_	13	T	13:T	_
+10	Sound	_	Word	Word	_	13	E	13:E	_
+11	+	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	Vision	_	Word	Word	_	10	Terminal	10:Terminal	_
+13	Tour	_	Word	Word	_	1	H	1:H	_
+14	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+15	he	_	Word	Word	_	18	A	18:A|20:A	_
+16	found	_	Word	Word	_	18	D	18:D|20:D	_
+17	commercial	_	Word	Word	_	18	A	18:A	_
+18	success	_	Word	Word	_	1	H	1:H	_
+19	and	_	Word	Word	_	20	L	20:L	_
+20	acclaim	_	Word	Word	_	18	H	18:H	_
+21	once	_	Word	Word	_	18	D	18:D|20:D	_
+22	again	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

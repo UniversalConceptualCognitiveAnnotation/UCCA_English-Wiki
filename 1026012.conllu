@@ -1,0 +1,37 @@
+# format = ucca
+# sent_id = 1026012
+# text = In 1986 , the tabloids ran a story claiming that Jackson slept in a hyperbaric oxygen chamber to slow the aging process ; he was pictured lying down in a glass box .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1986	_	Word	Word	_	6	T	6:T	_
+3	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+4	the	_	Word	Word	_	5	E	5:E	_
+5	tabloids	_	Word	Word	_	6	A	6:A	_
+6	ran	_	Word	Word	_	0	H	0:H	_
+7	a	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	story	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	claiming	_	Word	Word	_	6	D	6:D	_
+10	that	_	Word	Word	_	12	R	12:R	_
+11	Jackson	_	Word	Word	_	12	A	12:A|22:A	_
+12	slept	_	Word	Word	_	6	A	6:A	_
+13	in	_	Word	Word	_	17	R	17:R	_
+14	a	_	Word	Word	_	17	E	17:E	_
+15	hyperbaric	_	Word	Word	_	16	E	16:E	_
+16	oxygen	_	Word	Word	_	17	E	17:E	_
+17	chamber	_	Word	Word	_	12	A	12:A	_
+18	to	_	Word	Word	_	22	L	22:L	_
+19	slow	_	Word	Word	_	22	D	22:D	_
+20	the	_	Word	Word	_	22	F	22:F	_
+21	aging	_	Word	Word	_	22	A	22:A	_
+22	process	_	Word	Word	_	12	H	12:H	_
+23	;	_	Punctuation	Punctuation	_	6	U	6:U	_
+24	he	_	Word	Word	_	26	A	26:A|27:A	_
+25	was	_	Word	Word	_	26	F	26:F	_
+26	pictured	_	Word	Word	_	6	H	6:H	_
+27	lying	_	Word	Word	_	26	A	26:A	_
+28	down	_	Word	Word	_	27	Terminal	27:Terminal	_
+29	in	_	Word	Word	_	32	R	32:R	_
+30	a	_	Word	Word	_	32	E	32:E	_
+31	glass	_	Word	Word	_	32	E	32:E	_
+32	box	_	Word	Word	_	27	A	27:A	_
+33	.	_	Punctuation	Punctuation	_	32	U	32:U	_
+

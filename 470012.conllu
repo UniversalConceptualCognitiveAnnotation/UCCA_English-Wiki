@@ -1,0 +1,52 @@
+# format = ucca
+# sent_id = 470012
+# text = After the Lakers defeated the Celtics in six games , Abdul - Jabbar and Johnson , who averaged 18.3 points on .494 shooting , 14.0 assists , and 6.8 rebounds per game in the championship series , said the Finals win was the highlight of their careers .
+1	After	_	Word	Word	_	38	L	38:L	_
+2	the	_	Word	Word	_	3	E	3:E	_
+3	Lakers	_	Word	Word	_	4	A	4:A	_
+4	defeated	_	Word	Word	_	0	H	0:H	_
+5	the	_	Word	Word	_	6	E	6:E	_
+6	Celtics	_	Word	Word	_	4	A	4:A	_
+7	in	_	Word	Word	_	9	R	9:R	_
+8	six	_	Word	Word	_	9	Q	9:Q	_
+9	games	_	Word	Word	_	4	A	4:A	_
+10	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+11	Abdul	_	Word	Word	_	38	A	38:A	_
+12	-	_	Punctuation	Punctuation	_	11	U	11:U	_
+13	Jabbar	_	Word	Word	_	11	Terminal	11:Terminal	_
+14	and	_	Word	Word	_	11	N	11:N	_
+15	Johnson	_	Word	Word	_	0	C	0:C|18:A|23:A|26:A|30:A|41:A	_
+16	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+17	who	_	Word	Word	_	18	R	18:R	_
+18	averaged	_	Word	Word	_	15	E	15:E	_
+19	18.3	_	Word	Word	_	20	Q	20:Q	_
+20	points	_	Word	Word	_	18	A	18:A	_
+21	on	_	Word	Word	_	23	R	23:R	_
+22	.494	_	Word	Word	_	23	Q	23:Q	_
+23	shooting	_	Word	Word	_	20	E	20:E	_
+24	,	_	Punctuation	Punctuation	_	20	U	20:U	_
+25	14.0	_	Word	Word	_	26	Q	26:Q	_
+26	assists	_	Word	Word	_	20	C	20:C	_
+27	,	_	Punctuation	Punctuation	_	20	U	20:U	_
+28	and	_	Word	Word	_	20	N	20:N	_
+29	6.8	_	Word	Word	_	30	Q	30:Q	_
+30	rebounds	_	Word	Word	_	20	C	20:C	_
+31	per	_	Word	Word	_	32	R	32:R	_
+32	game	_	Word	Word	_	20	E	20:E	_
+33	in	_	Word	Word	_	35	R	35:R	_
+34	the	_	Word	Word	_	35	E	35:E	_
+35	championship	_	Word	Word	_	18	A	18:A	_
+36	series	_	Word	Word	_	35	E	35:E	_
+37	,	_	Punctuation	Punctuation	_	38	U	38:U	_
+38	said	_	Word	Word	_	4	H	4:H	_
+39	the	_	Word	Word	_	41	E	41:E	_
+40	Finals	_	Word	Word	_	41	D	41:D	_
+41	win	_	Word	Word	_	44	A	44:A	_
+42	was	_	Word	Word	_	44	F	44:F	_
+43	the	_	Word	Word	_	44	E	44:E	_
+44	highlight	_	Word	Word	_	38	A	38:A	_
+45	of	_	Word	Word	_	47	R	47:R	_
+46	their	_	Word	Word	_	47	A	47:A	_
+47	careers	_	Word	Word	_	44	A	44:A	_
+48	.	_	Punctuation	Punctuation	_	47	U	47:U	_
+

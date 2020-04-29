@@ -1,0 +1,49 @@
+# format = ucca
+# sent_id = 245007
+# text = Hawke then appeared in A Midnight Clear ( 1992 ) , a well - received war film by Keith Gordon , and 1993 's Alive , an adaptation of Piers Paul Read 's 1974 book , Alive : The Story of the Andes Survivors .
+1	Hawke	_	Word	Word	_	3	A	3:A	_
+2	then	_	Word	Word	_	3	L	3:L	_
+3	appeared	_	Word	Word	_	0	H	0:H	_
+4	in	_	Word	Word	_	5	R	5:R	_
+5	A	_	Word	Word	_	3	A	3:A	_
+6	Midnight	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	Clear	_	Word	Word	_	5	Terminal	5:Terminal	_
+8	(	_	Punctuation	Punctuation	_	5	U	5:U	_
+9	1992	_	Word	Word	_	5	E	5:E	_
+10	)	_	Punctuation	Punctuation	_	5	U	5:U	_
+11	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+12	a	_	Word	Word	_	17	F	17:F	_
+13	well	_	Word	Word	_	15	D	15:D	_
+14	-	_	Punctuation	Punctuation	_	15	U	15:U	_
+15	received	_	Word	Word	_	17	E	17:E	_
+16	war	_	Word	Word	_	17	E	17:E	_
+17	film	_	Word	Word	_	5	E	5:E	_
+18	by	_	Word	Word	_	19	R	19:R	_
+19	Keith	_	Word	Word	_	17	E	17:E	_
+20	Gordon	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+22	and	_	Word	Word	_	5	N	5:N	_
+23	1993	_	Word	Word	_	25	E	25:E	_
+24	's	_	Word	Word	_	23	R	23:R	_
+25	Alive	_	Word	Word	_	5	C	5:C	_
+26	,	_	Punctuation	Punctuation	_	25	U	25:U	_
+27	an	_	Word	Word	_	28	F	28:F	_
+28	adaptation	_	Word	Word	_	25	E	25:E	_
+29	of	_	Word	Word	_	37	R	37:R	_
+30	Piers	_	Word	Word	_	33	A	33:A	_
+31	Paul	_	Word	Word	_	30	Terminal	30:Terminal	_
+32	Read	_	Word	Word	_	30	Terminal	30:Terminal	_
+33	's	_	Word	Word	_	35	E	35:E	_
+34	1974	_	Word	Word	_	35	E	35:E	_
+35	book	_	Word	Word	_	37	E	37:E	_
+36	,	_	Punctuation	Punctuation	_	37	U	37:U	_
+37	Alive	_	Word	Word	_	28	A	28:A	_
+38	:	_	Punctuation	Punctuation	_	37	U	37:U	_
+39	The	_	Word	Word	_	37	Terminal	37:Terminal	_
+40	Story	_	Word	Word	_	37	Terminal	37:Terminal	_
+41	of	_	Word	Word	_	37	Terminal	37:Terminal	_
+42	the	_	Word	Word	_	37	Terminal	37:Terminal	_
+43	Andes	_	Word	Word	_	37	Terminal	37:Terminal	_
+44	Survivors	_	Word	Word	_	37	Terminal	37:Terminal	_
+45	.	_	Punctuation	Punctuation	_	37	U	37:U	_
+

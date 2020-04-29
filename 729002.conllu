@@ -1,0 +1,43 @@
+# format = ucca
+# sent_id = 729002
+# text = She also provided the voice of Master Tigress in the DreamWorks animated movie Kung Fu Panda ( 2008 ) . With revenue of $ 632 million internationally , it became the third - highest grossing film of 2008 .
+1	She	_	Word	Word	_	3	A	3:A	_
+2	also	_	Word	Word	_	3	D	3:D	_
+3	provided	_	Word	Word	_	0	H	0:H	_
+4	the	_	Word	Word	_	5	E	5:E	_
+5	voice	_	Word	Word	_	3	A	3:A	_
+6	of	_	Word	Word	_	7	R	7:R	_
+7	Master	_	Word	Word	_	5	E	5:E	_
+8	Tigress	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	in	_	Word	Word	_	14	R	14:R	_
+10	the	_	Word	Word	_	14	E	14:E	_
+11	DreamWorks	_	Word	Word	_	14	E	14:E	_
+12	animated	_	Word	Word	_	13	E	13:E	_
+13	movie	_	Word	Word	_	14	E	14:E	_
+14	Kung	_	Word	Word	_	3	A	3:A	_
+15	Fu	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	Panda	_	Word	Word	_	14	Terminal	14:Terminal	_
+17	(	_	Punctuation	Punctuation	_	14	U	14:U	_
+18	2008	_	Word	Word	_	14	E	14:E	_
+19	)	_	Punctuation	Punctuation	_	3	U	3:U	_
+20	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+21	With	_	Word	Word	_	22	L	22:L	_
+22	revenue	_	Word	Word	_	3	H	3:H	_
+23	of	_	Word	Word	_	24	R	24:R	_
+24	$	_	Word	Word	_	22	A	22:A	_
+25	632	_	Word	Word	_	24	Q	24:Q	_
+26	million	_	Word	Word	_	25	Terminal	25:Terminal	_
+27	internationally	_	Word	Word	_	22	A	22:A	_
+28	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+29	it	_	Word	Word	_	30	A	30:A	_
+30	became	_	Word	Word	_	3	H	3:H	_
+31	the	_	Word	Word	_	36	E	36:E	_
+32	third	_	Word	Word	_	34	Q	34:Q	_
+33	-	_	Punctuation	Punctuation	_	34	U	34:U	_
+34	highest	_	Word	Word	_	35	D	35:D	_
+35	grossing	_	Word	Word	_	36	E	36:E	_
+36	film	_	Word	Word	_	30	A	30:A	_
+37	of	_	Word	Word	_	38	R	38:R	_
+38	2008	_	Word	Word	_	36	E	36:E	_
+39	.	_	Punctuation	Punctuation	_	38	U	38:U	_
+

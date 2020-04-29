@@ -1,0 +1,53 @@
+# format = ucca
+# sent_id = 601016
+# text = Considered a high point in the Beatles catalogue In My Life , both Lennon and McCartney claimed lead authorship for the song , " " . McCartney said of the album , " we 'd had our cute period , and now it was time to expand . "
+1	Considered	_	Word	Word	_	0	H	0:H	_
+2	a	_	Word	Word	_	4	E	4:E	_
+3	high	_	Word	Word	_	4	E	4:E	_
+4	point	_	Word	Word	_	1	A	1:A	_
+5	in	_	Word	Word	_	8	R	8:R	_
+6	the	_	Word	Word	_	8	E	8:E	_
+7	Beatles	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	catalogue	_	Word	Word	_	4	E	4:E	_
+9	In	_	Word	Word	_	1	A	1:A	_
+10	My	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	Life	_	Word	Word	_	9	Terminal	9:Terminal	_
+12	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+13	both	_	Word	Word	_	14	Q	14:Q	_
+14	Lennon	_	Word	Word	_	17	A	17:A	_
+15	and	_	Word	Word	_	14	N	14:N	_
+16	McCartney	_	Word	Word	_	14	C	14:C	_
+17	claimed	_	Word	Word	_	1	H	1:H	_
+18	lead	_	Word	Word	_	19	D	19:D	_
+19	authorship	_	Word	Word	_	17	A	17:A	_
+20	for	_	Word	Word	_	22	R	22:R	_
+21	the	_	Word	Word	_	22	E	22:E	_
+22	song	_	Word	Word	_	19	A	19:A	_
+23	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+24	"	_	Punctuation	Punctuation	_	1	U	1:U	_
+25	"	_	Punctuation	Punctuation	_	1	U	1:U	_
+26	.	_	Punctuation	Punctuation	_	1	U	1:U	_
+27	McCartney	_	Word	Word	_	28	A	28:A	_
+28	said	_	Word	Word	_	1	H	1:H	_
+29	of	_	Word	Word	_	31	R	31:R	_
+30	the	_	Word	Word	_	31	E	31:E	_
+31	album	_	Word	Word	_	28	A	28:A	_
+32	,	_	Punctuation	Punctuation	_	28	U	28:U	_
+33	"	_	Punctuation	Punctuation	_	28	U	28:U	_
+34	we	_	Word	Word	_	36	A	36:A|47:A	_
+35	'd	_	Word	Word	_	36	F	36:F	_
+36	had	_	Word	Word	_	28	A	28:A	_
+37	our	_	Word	Word	_	39	E	39:E	_
+38	cute	_	Word	Word	_	39	E	39:E	_
+39	period	_	Word	Word	_	36	A	36:A	_
+40	,	_	Punctuation	Punctuation	_	36	U	36:U	_
+41	and	_	Word	Word	_	47	L	47:L	_
+42	now	_	Word	Word	_	47	T	47:T	_
+43	it	_	Word	Word	_	47	F	47:F	_
+44	was	_	Word	Word	_	47	F	47:F	_
+45	time	_	Word	Word	_	47	T	47:T	_
+46	to	_	Word	Word	_	47	F	47:F	_
+47	expand	_	Word	Word	_	36	H	36:H	_
+48	.	_	Punctuation	Punctuation	_	47	U	47:U	_
+49	"	_	Punctuation	Punctuation	_	47	U	47:U	_
+

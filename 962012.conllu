@@ -1,0 +1,35 @@
+# format = ucca
+# sent_id = 962012
+# text = Olivier paid his respects , and " stood and prayed for forgiveness for all the evils that had sprung up between us " , before helping Merivale make funeral arrangements .
+1	Olivier	_	Word	Word	_	4	A	4:A|8:A|10:A|12:A|30:A	_
+2	paid	_	Word	Word	_	4	F	4:F	_
+3	his	_	Word	Word	_	4	F	4:F	_
+4	respects	_	Word	Word	_	0	H	0:H	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	and	_	Word	Word	_	8	L	8:L	_
+7	"	_	Punctuation	Punctuation	_	4	U	4:U	_
+8	stood	_	Word	Word	_	4	H	4:H	_
+9	and	_	Word	Word	_	10	L	10:L	_
+10	prayed	_	Word	Word	_	4	H	4:H	_
+11	for	_	Word	Word	_	12	R	12:R	_
+12	forgiveness	_	Word	Word	_	10	A	10:A	_
+13	for	_	Word	Word	_	16	R	16:R	_
+14	all	_	Word	Word	_	16	D	16:D	_
+15	the	_	Word	Word	_	16	E	16:E	_
+16	evils	_	Word	Word	_	12	A	12:A	_
+17	that	_	Word	Word	_	16	F	16:F	_
+18	had	_	Word	Word	_	16	F	16:F	_
+19	sprung	_	Word	Word	_	16	D	16:D	_
+20	up	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	between	_	Word	Word	_	22	R	22:R	_
+22	us	_	Word	Word	_	16	A	16:A	_
+23	"	_	Punctuation	Punctuation	_	4	U	4:U	_
+24	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+25	before	_	Word	Word	_	30	L	30:L	_
+26	helping	_	Word	Word	_	30	D	30:D	_
+27	Merivale	_	Word	Word	_	30	A	30:A	_
+28	make	_	Word	Word	_	30	F	30:F	_
+29	funeral	_	Word	Word	_	30	A	30:A	_
+30	arrangements	_	Word	Word	_	4	H	4:H	_
+31	.	_	Punctuation	Punctuation	_	30	U	30:U	_
+

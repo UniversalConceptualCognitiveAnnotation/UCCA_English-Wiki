@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 711001
+# text = Recorded with his touring band , Dylan produced the album himself under the pseudonym Jack Frost .
+1	Recorded	_	Word	Word	_	0	H	0:H	_
+2	with	_	Word	Word	_	5	R	5:R	_
+3	his	_	Word	Word	_	5	A	5:A	_
+4	touring	_	Word	Word	_	5	A	5:A	_
+5	band	_	Word	Word	_	1	A	1:A	_
+6	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+7	Dylan	_	Word	Word	_	8	A	8:A	_
+8	produced	_	Word	Word	_	1	H	1:H	_
+9	the	_	Word	Word	_	10	E	10:E	_
+10	album	_	Word	Word	_	0	C	0:C|1:A	_
+11	himself	_	Word	Word	_	8	D	8:D	_
+12	under	_	Word	Word	_	15	R	15:R	_
+13	the	_	Word	Word	_	14	E	14:E	_
+14	pseudonym	_	Word	Word	_	15	E	15:E	_
+15	Jack	_	Word	Word	_	8	A	8:A	_
+16	Frost	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

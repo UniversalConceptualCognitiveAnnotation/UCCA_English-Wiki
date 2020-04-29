@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 692007
+# text = Many of the songs on this album were labeled protest songs , inspired partly by Guthrie and influenced by Pete Seeger 's passion for topical songs . "
+1	Many	_	Word	Word	_	4	Q	4:Q	_
+2	of	_	Word	Word	_	4	R	4:R	_
+3	the	_	Word	Word	_	4	E	4:E	_
+4	songs	_	Word	Word	_	0	C	0:C|13:A|18:A	_
+5	on	_	Word	Word	_	7	R	7:R	_
+6	this	_	Word	Word	_	7	E	7:E	_
+7	album	_	Word	Word	_	4	E	4:E	_
+8	were	_	Word	Word	_	9	F	9:F	_
+9	labeled	_	Word	Word	_	0	H	0:H	_
+10	protest	_	Word	Word	_	11	E	11:E	_
+11	songs	_	Word	Word	_	9	A	9:A	_
+12	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+13	inspired	_	Word	Word	_	9	H	9:H	_
+14	partly	_	Word	Word	_	13	D	13:D	_
+15	by	_	Word	Word	_	16	R	16:R	_
+16	Guthrie	_	Word	Word	_	13	A	13:A	_
+17	and	_	Word	Word	_	18	L	18:L	_
+18	influenced	_	Word	Word	_	9	H	9:H	_
+19	by	_	Word	Word	_	23	R	23:R	_
+20	Pete	_	Word	Word	_	23	A	23:A	_
+21	Seeger	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	's	_	Word	Word	_	20	R	20:R	_
+23	passion	_	Word	Word	_	18	A	18:A	_
+24	for	_	Word	Word	_	26	R	26:R	_
+25	topical	_	Word	Word	_	26	E	26:E	_
+26	songs	_	Word	Word	_	23	A	23:A	_
+27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+28	"	_	Punctuation	Punctuation	_	26	U	26:U	_
+

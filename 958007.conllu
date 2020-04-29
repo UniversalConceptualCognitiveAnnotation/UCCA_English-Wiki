@@ -1,0 +1,54 @@
+# format = ucca
+# sent_id = 958007
+# text = Leigh was well enough to resume acting in 1946 , in a successful London production of Thornton Wilder 's The Skin of Our Teeth ; but her films of this period , Caesar and Cleopatra ( 1945 ) and Anna Karenina ( 1948 ) , were not great successes .
+1	Leigh	_	Word	Word	_	3	A	3:A|7:A	_
+2	was	_	Word	Word	_	3	F	3:F	_
+3	well	_	Word	Word	_	0	H	0:H	_
+4	enough	_	Word	Word	_	3	D	3:D	_
+5	to	_	Word	Word	_	7	L	7:L	_
+6	resume	_	Word	Word	_	7	D	7:D	_
+7	acting	_	Word	Word	_	3	H	3:H	_
+8	in	_	Word	Word	_	9	R	9:R	_
+9	1946	_	Word	Word	_	7	T	7:T	_
+10	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+11	in	_	Word	Word	_	15	R	15:R	_
+12	a	_	Word	Word	_	15	E	15:E	_
+13	successful	_	Word	Word	_	15	E	15:E	_
+14	London	_	Word	Word	_	15	E	15:E	_
+15	production	_	Word	Word	_	7	A	7:A	_
+16	of	_	Word	Word	_	20	R	20:R	_
+17	Thornton	_	Word	Word	_	19	A	19:A	_
+18	Wilder	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	's	_	Word	Word	_	20	E	20:E	_
+20	The	_	Word	Word	_	15	E	15:E	_
+21	Skin	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	of	_	Word	Word	_	20	Terminal	20:Terminal	_
+23	Our	_	Word	Word	_	20	Terminal	20:Terminal	_
+24	Teeth	_	Word	Word	_	20	Terminal	20:Terminal	_
+25	;	_	Punctuation	Punctuation	_	3	U	3:U	_
+26	but	_	Word	Word	_	49	L	49:L	_
+27	her	_	Word	Word	_	28	E	28:E	_
+28	films	_	Word	Word	_	33	E	33:E	_
+29	of	_	Word	Word	_	31	R	31:R	_
+30	this	_	Word	Word	_	31	E	31:E	_
+31	period	_	Word	Word	_	28	E	28:E	_
+32	,	_	Punctuation	Punctuation	_	33	U	33:U	_
+33	Caesar	_	Word	Word	_	49	A	49:A	_
+34	and	_	Word	Word	_	33	Terminal	33:Terminal	_
+35	Cleopatra	_	Word	Word	_	33	Terminal	33:Terminal	_
+36	(	_	Punctuation	Punctuation	_	33	U	33:U	_
+37	1945	_	Word	Word	_	33	E	33:E	_
+38	)	_	Punctuation	Punctuation	_	33	U	33:U	_
+39	and	_	Word	Word	_	33	N	33:N	_
+40	Anna	_	Word	Word	_	33	C	33:C	_
+41	Karenina	_	Word	Word	_	40	Terminal	40:Terminal	_
+42	(	_	Punctuation	Punctuation	_	40	U	40:U	_
+43	1948	_	Word	Word	_	40	E	40:E	_
+44	)	_	Punctuation	Punctuation	_	49	U	49:U	_
+45	,	_	Punctuation	Punctuation	_	49	U	49:U	_
+46	were	_	Word	Word	_	49	F	49:F	_
+47	not	_	Word	Word	_	49	D	49:D	_
+48	great	_	Word	Word	_	49	D	49:D	_
+49	successes	_	Word	Word	_	3	H	3:H	_
+50	.	_	Punctuation	Punctuation	_	49	U	49:U	_
+

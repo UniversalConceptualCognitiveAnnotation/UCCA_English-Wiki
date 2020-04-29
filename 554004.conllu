@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 554004
+# text = He has been inducted into multiple music halls of fame .
+1	He	_	Word	Word	_	4	A	4:A	_
+2	has	_	Word	Word	_	4	F	4:F	_
+3	been	_	Word	Word	_	4	F	4:F	_
+4	inducted	_	Word	Word	_	0	H	0:H	_
+5	into	_	Word	Word	_	8	R	8:R	_
+6	multiple	_	Word	Word	_	8	Q	8:Q	_
+7	music	_	Word	Word	_	8	E	8:E	_
+8	halls	_	Word	Word	_	4	A	4:A	_
+9	of	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	fame	_	Word	Word	_	8	Terminal	8:Terminal	_
+11	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+

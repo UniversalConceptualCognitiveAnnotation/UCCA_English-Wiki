@@ -1,0 +1,43 @@
+# format = ucca
+# sent_id = 672008
+# text = Heavy speculation suggested that Carey had become pregnant , and had abandoned plans for a tour as a result . Many reports were made claiming that Carey had been visiting a famed gynecologist 's office in Los Angeles .
+1	Heavy	_	Word	Word	_	2	D	2:D	_
+2	speculation	_	Word	Word	_	0	H	0:H	_
+3	suggested	_	Word	Word	_	8	R	8:R	_
+4	that	_	Word	Word	_	8	R	8:R	_
+5	Carey	_	Word	Word	_	8	A	8:A|13:A	_
+6	had	_	Word	Word	_	8	F	8:F	_
+7	become	_	Word	Word	_	8	D	8:D	_
+8	pregnant	_	Word	Word	_	2	A	2:A	_
+9	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+10	and	_	Word	Word	_	13	L	13:L	_
+11	had	_	Word	Word	_	13	F	13:F	_
+12	abandoned	_	Word	Word	_	13	D	13:D	_
+13	plans	_	Word	Word	_	2	H	2:H	_
+14	for	_	Word	Word	_	16	R	16:R	_
+15	a	_	Word	Word	_	16	E	16:E	_
+16	tour	_	Word	Word	_	13	A	13:A	_
+17	as	_	Word	Word	_	19	R	19:R	_
+18	a	_	Word	Word	_	19	E	19:E	_
+19	result	_	Word	Word	_	22	L	22:L	_
+20	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+21	Many	_	Word	Word	_	22	D	22:D	_
+22	reports	_	Word	Word	_	2	H	2:H	_
+23	were	_	Word	Word	_	22	F	22:F	_
+24	made	_	Word	Word	_	22	F	22:F	_
+25	claiming	_	Word	Word	_	30	R	30:R	_
+26	that	_	Word	Word	_	30	R	30:R	_
+27	Carey	_	Word	Word	_	30	A	30:A	_
+28	had	_	Word	Word	_	30	F	30:F	_
+29	been	_	Word	Word	_	30	F	30:F	_
+30	visiting	_	Word	Word	_	22	A	22:A	_
+31	a	_	Word	Word	_	35	E	35:E	_
+32	famed	_	Word	Word	_	33	D	33:D	_
+33	gynecologist	_	Word	Word	_	35	E	35:E	_
+34	's	_	Word	Word	_	33	R	33:R	_
+35	office	_	Word	Word	_	30	A	30:A	_
+36	in	_	Word	Word	_	37	R	37:R	_
+37	Los	_	Word	Word	_	35	E	35:E	_
+38	Angeles	_	Word	Word	_	37	Terminal	37:Terminal	_
+39	.	_	Punctuation	Punctuation	_	37	U	37:U	_
+

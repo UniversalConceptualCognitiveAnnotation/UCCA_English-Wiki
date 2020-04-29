@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 542002
+# text = This strategy yielded three leading stars from Paramount Studios - William Powell , Kay Francis , and Ruth Chatterton .
+1	This	_	Word	Word	_	2	E	2:E	_
+2	strategy	_	Word	Word	_	3	A	3:A	_
+3	yielded	_	Word	Word	_	0	H	0:H	_
+4	three	_	Word	Word	_	6	Q	6:Q	_
+5	leading	_	Word	Word	_	6	E	6:E	_
+6	stars	_	Word	Word	_	11	E	11:E	_
+7	from	_	Word	Word	_	8	R	8:R	_
+8	Paramount	_	Word	Word	_	3	A	3:A	_
+9	Studios	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	-	_	Punctuation	Punctuation	_	3	U	3:U	_
+11	William	_	Word	Word	_	3	A	3:A	_
+12	Powell	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+14	Kay	_	Word	Word	_	11	C	11:C	_
+15	Francis	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+17	and	_	Word	Word	_	11	N	11:N	_
+18	Ruth	_	Word	Word	_	11	C	11:C	_
+19	Chatterton	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+

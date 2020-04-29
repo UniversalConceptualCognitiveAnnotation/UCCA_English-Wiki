@@ -1,0 +1,48 @@
+# format = ucca
+# sent_id = 220013
+# text = Dunst starred as the magical princess Majokko in the Takashi Murakami and McG directed short Akihabara Majokko Princess singing a cover of " Turning Japanese " . This was shown at the " Pop Life " exhibition in London 's Tate Modern museum .
+1	Dunst	_	Word	Word	_	2	A	2:A|19:A	_
+2	starred	_	Word	Word	_	0	H	0:H	_
+3	as	_	Word	Word	_	7	R	7:R	_
+4	the	_	Word	Word	_	7	F	7:F	_
+5	magical	_	Word	Word	_	6	E	6:E	_
+6	princess	_	Word	Word	_	7	E	7:E	_
+7	Majokko	_	Word	Word	_	2	A	2:A	_
+8	in	_	Word	Word	_	16	R	16:R	_
+9	the	_	Word	Word	_	16	F	16:F	_
+10	Takashi	_	Word	Word	_	14	A	14:A	_
+11	Murakami	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	and	_	Word	Word	_	10	N	10:N	_
+13	McG	_	Word	Word	_	10	C	10:C	_
+14	directed	_	Word	Word	_	16	E	16:E	_
+15	short	_	Word	Word	_	16	E	16:E	_
+16	Akihabara	_	Word	Word	_	2	A	2:A	_
+17	Majokko	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	Princess	_	Word	Word	_	16	Terminal	16:Terminal	_
+19	singing	_	Word	Word	_	2	H	2:H	_
+20	a	_	Word	Word	_	21	F	21:F	_
+21	cover	_	Word	Word	_	19	A	19:A	_
+22	of	_	Word	Word	_	24	R	24:R	_
+23	"	_	Punctuation	Punctuation	_	24	U	24:U	_
+24	Turning	_	Word	Word	_	21	E	21:E	_
+25	Japanese	_	Word	Word	_	24	Terminal	24:Terminal	_
+26	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+27	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+28	This	_	Word	Word	_	30	A	30:A	_
+29	was	_	Word	Word	_	30	F	30:F	_
+30	shown	_	Word	Word	_	2	H	2:H	_
+31	at	_	Word	Word	_	35	R	35:R	_
+32	the	_	Word	Word	_	35	F	35:F	_
+33	"	_	Punctuation	Punctuation	_	35	U	35:U	_
+34	Pop	_	Word	Word	_	35	E	35:E	_
+35	Life	_	Word	Word	_	30	A	30:A	_
+36	"	_	Punctuation	Punctuation	_	35	U	35:U	_
+37	exhibition	_	Word	Word	_	35	E	35:E	_
+38	in	_	Word	Word	_	41	R	41:R	_
+39	London	_	Word	Word	_	41	E	41:E	_
+40	's	_	Word	Word	_	39	R	39:R	_
+41	Tate	_	Word	Word	_	30	A	30:A	_
+42	Modern	_	Word	Word	_	41	Terminal	41:Terminal	_
+43	museum	_	Word	Word	_	41	E	41:E	_
+44	.	_	Punctuation	Punctuation	_	41	U	41:U	_
+

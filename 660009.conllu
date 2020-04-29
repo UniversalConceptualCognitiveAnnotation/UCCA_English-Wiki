@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 660009
+# text = Mariah Carey finished as the best - selling album in the United States in 1991 , while totaling sales of over 15 million copies .
+1	Mariah	_	Word	Word	_	3	A	3:A	_
+2	Carey	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	finished	_	Word	Word	_	0	H	0:H	_
+4	as	_	Word	Word	_	9	R	9:R	_
+5	the	_	Word	Word	_	9	F	9:F	_
+6	best	_	Word	Word	_	8	D	8:D	_
+7	-	_	Punctuation	Punctuation	_	8	U	8:U	_
+8	selling	_	Word	Word	_	9	E	9:E	_
+9	album	_	Word	Word	_	0	C	0:C|8:A|19:A	_
+10	in	_	Word	Word	_	12	R	12:R	_
+11	the	_	Word	Word	_	12	F	12:F	_
+12	United	_	Word	Word	_	8	A	8:A	_
+13	States	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	in	_	Word	Word	_	15	R	15:R	_
+15	1991	_	Word	Word	_	8	T	8:T	_
+16	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+17	while	_	Word	Word	_	19	L	19:L	_
+18	totaling	_	Word	Word	_	19	D	19:D	_
+19	sales	_	Word	Word	_	3	H	3:H	_
+20	of	_	Word	Word	_	24	R	24:R	_
+21	over	_	Word	Word	_	22	R	22:R	_
+22	15	_	Word	Word	_	24	Q	24:Q	_
+23	million	_	Word	Word	_	22	C	22:C	_
+24	copies	_	Word	Word	_	19	A	19:A	_
+25	.	_	Punctuation	Punctuation	_	24	U	24:U	_
+

@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 636010
+# text = At the end of 1968 , Lennon featured in the film The Rolling Stones Rock and Roll Circus ( not released until 1996 ) in the role of a Dirty Mac band member .
+1	At	_	Word	Word	_	5	R	5:R	_
+2	the	_	Word	Word	_	3	E	3:E	_
+3	end	_	Word	Word	_	5	E	5:E	_
+4	of	_	Word	Word	_	5	R	5:R	_
+5	1968	_	Word	Word	_	8	T	8:T	_
+6	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	Lennon	_	Word	Word	_	8	A	8:A|27:A	_
+8	featured	_	Word	Word	_	0	H	0:H	_
+9	in	_	Word	Word	_	12	R	12:R	_
+10	the	_	Word	Word	_	11	E	11:E	_
+11	film	_	Word	Word	_	12	E	12:E	_
+12	The	_	Word	Word	_	8	A	8:A	_
+13	Rolling	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	Stones	_	Word	Word	_	12	Terminal	12:Terminal	_
+15	Rock	_	Word	Word	_	12	Terminal	12:Terminal	_
+16	and	_	Word	Word	_	12	Terminal	12:Terminal	_
+17	Roll	_	Word	Word	_	12	Terminal	12:Terminal	_
+18	Circus	_	Word	Word	_	12	Terminal	12:Terminal	_
+19	(	_	Punctuation	Punctuation	_	12	U	12:U	_
+20	not	_	Word	Word	_	21	D	21:D	_
+21	released	_	Word	Word	_	12	E	12:E	_
+22	until	_	Word	Word	_	23	R	23:R	_
+23	1996	_	Word	Word	_	21	T	21:T	_
+24	)	_	Punctuation	Punctuation	_	8	U	8:U	_
+25	in	_	Word	Word	_	27	R	27:R	_
+26	the	_	Word	Word	_	27	E	27:E	_
+27	role	_	Word	Word	_	8	A	8:A	_
+28	of	_	Word	Word	_	33	R	33:R	_
+29	a	_	Word	Word	_	33	E	33:E	_
+30	Dirty	_	Word	Word	_	33	E	33:E	_
+31	Mac	_	Word	Word	_	30	Terminal	30:Terminal	_
+32	band	_	Word	Word	_	33	E	33:E	_
+33	member	_	Word	Word	_	27	A	27:A	_
+34	.	_	Punctuation	Punctuation	_	33	U	33:U	_
+

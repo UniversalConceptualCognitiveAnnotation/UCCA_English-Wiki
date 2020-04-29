@@ -1,0 +1,43 @@
+# format = ucca
+# sent_id = 126000
+# text = A scout for the Hollywood agent Leland Hayward spotted Hepburn 's appearance in The Warrior 's Husband , and asked her to test for the part of Sydney Fairfield in the upcoming RKO film A Bill of Divorcement .
+1	A	_	Word	Word	_	2	E	2:E	_
+2	scout	_	Word	Word	_	0	C	0:C|20:A	_
+3	for	_	Word	Word	_	6	R	6:R	_
+4	the	_	Word	Word	_	6	E	6:E	_
+5	Hollywood	_	Word	Word	_	6	E	6:E	_
+6	agent	_	Word	Word	_	2	A	2:A	_
+7	Leland	_	Word	Word	_	2	A	2:A	_
+8	Hayward	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	spotted	_	Word	Word	_	0	H	0:H	_
+10	Hepburn	_	Word	Word	_	12	A	12:A	_
+11	's	_	Word	Word	_	10	R	10:R	_
+12	appearance	_	Word	Word	_	9	A	9:A	_
+13	in	_	Word	Word	_	14	R	14:R	_
+14	The	_	Word	Word	_	12	A	12:A	_
+15	Warrior	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	's	_	Word	Word	_	14	Terminal	14:Terminal	_
+17	Husband	_	Word	Word	_	14	Terminal	14:Terminal	_
+18	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+19	and	_	Word	Word	_	20	L	20:L	_
+20	asked	_	Word	Word	_	9	H	9:H	_
+21	her	_	Word	Word	_	20	A	20:A|23:A	_
+22	to	_	Word	Word	_	23	F	23:F	_
+23	test	_	Word	Word	_	20	A	20:A	_
+24	for	_	Word	Word	_	26	R	26:R	_
+25	the	_	Word	Word	_	26	E	26:E	_
+26	part	_	Word	Word	_	23	A	23:A	_
+27	of	_	Word	Word	_	28	R	28:R	_
+28	Sydney	_	Word	Word	_	26	A	26:A	_
+29	Fairfield	_	Word	Word	_	28	Terminal	28:Terminal	_
+30	in	_	Word	Word	_	35	R	35:R	_
+31	the	_	Word	Word	_	34	E	34:E	_
+32	upcoming	_	Word	Word	_	34	E	34:E	_
+33	RKO	_	Word	Word	_	34	E	34:E	_
+34	film	_	Word	Word	_	35	E	35:E	_
+35	A	_	Word	Word	_	23	A	23:A	_
+36	Bill	_	Word	Word	_	35	Terminal	35:Terminal	_
+37	of	_	Word	Word	_	35	Terminal	35:Terminal	_
+38	Divorcement	_	Word	Word	_	35	Terminal	35:Terminal	_
+39	.	_	Punctuation	Punctuation	_	35	U	35:U	_
+

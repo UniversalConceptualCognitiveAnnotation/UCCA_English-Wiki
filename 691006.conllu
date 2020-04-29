@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 691006
+# text = The album made little impact , selling only 5,000 copies in its first year , just enough to break even .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	album	_	Word	Word	_	0	C	0:C|7:A|17:A|19:A	_
+3	made	_	Word	Word	_	5	F	5:F	_
+4	little	_	Word	Word	_	5	D	5:D	_
+5	impact	_	Word	Word	_	0	H	0:H	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	selling	_	Word	Word	_	5	H	5:H	_
+8	only	_	Word	Word	_	9	E	9:E	_
+9	5,000	_	Word	Word	_	10	Q	10:Q	_
+10	copies	_	Word	Word	_	7	A	7:A	_
+11	in	_	Word	Word	_	14	R	14:R	_
+12	its	_	Word	Word	_	14	E	14:E	_
+13	first	_	Word	Word	_	14	Q	14:Q	_
+14	year	_	Word	Word	_	7	T	7:T	_
+15	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+16	just	_	Word	Word	_	17	E	17:E	_
+17	enough	_	Word	Word	_	5	H	5:H	_
+18	to	_	Word	Word	_	19	L	19:L	_
+19	break	_	Word	Word	_	5	H	5:H	_
+20	even	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

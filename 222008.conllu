@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 222008
+# text = He was nicknamed Pao - pao Chinese : 炮炮 ( literally meaning " Cannonball " ) because the high - energy child was always rolling around .
+1	He	_	Word	Word	_	3	A	3:A	_
+2	was	_	Word	Word	_	3	F	3:F	_
+3	nicknamed	_	Word	Word	_	0	H	0:H	_
+4	Pao	_	Word	Word	_	3	A	3:A	_
+5	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	pao	_	Word	Word	_	4	Terminal	4:Terminal	_
+7	Chinese	_	Word	Word	_	9	E	9:E	_
+8	:	_	Punctuation	Punctuation	_	9	U	9:U	_
+9	炮炮	_	Word	Word	_	4	E	4:E	_
+10	(	_	Punctuation	Punctuation	_	4	U	4:U	_
+11	literally	_	Word	Word	_	12	D	12:D	_
+12	meaning	_	Word	Word	_	4	E	4:E	_
+13	"	_	Punctuation	Punctuation	_	12	U	12:U	_
+14	Cannonball	_	Word	Word	_	12	A	12:A	_
+15	"	_	Punctuation	Punctuation	_	3	U	3:U	_
+16	)	_	Punctuation	Punctuation	_	3	U	3:U	_
+17	because	_	Word	Word	_	25	L	25:L	_
+18	the	_	Word	Word	_	22	F	22:F	_
+19	high	_	Word	Word	_	21	D	21:D	_
+20	-	_	Punctuation	Punctuation	_	21	U	21:U	_
+21	energy	_	Word	Word	_	22	E	22:E	_
+22	child	_	Word	Word	_	25	A	25:A	_
+23	was	_	Word	Word	_	25	F	25:F	_
+24	always	_	Word	Word	_	25	D	25:D	_
+25	rolling	_	Word	Word	_	3	H	3:H	_
+26	around	_	Word	Word	_	25	D	25:D	_
+27	.	_	Punctuation	Punctuation	_	25	U	25:U	_
+

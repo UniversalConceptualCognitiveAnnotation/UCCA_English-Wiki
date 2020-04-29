@@ -1,0 +1,35 @@
+# format = ucca
+# sent_id = 234002
+# text = Furthermore , in an advertisement promoting nationalism , he gave a short explanation of the March of the Volunteers , the national anthem of the People 's Republic of China .
+1	Furthermore	_	Word	Word	_	13	L	13:L	_
+2	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+3	in	_	Word	Word	_	5	R	5:R	_
+4	an	_	Word	Word	_	5	F	5:F	_
+5	advertisement	_	Word	Word	_	13	A	13:A	_
+6	promoting	_	Word	Word	_	5	E	5:E	_
+7	nationalism	_	Word	Word	_	6	A	6:A	_
+8	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+9	he	_	Word	Word	_	13	A	13:A	_
+10	gave	_	Word	Word	_	13	F	13:F	_
+11	a	_	Word	Word	_	13	F	13:F	_
+12	short	_	Word	Word	_	13	D	13:D	_
+13	explanation	_	Word	Word	_	0	H	0:H	_
+14	of	_	Word	Word	_	16	R	16:R	_
+15	the	_	Word	Word	_	16	F	16:F	_
+16	March	_	Word	Word	_	13	A	13:A	_
+17	of	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	the	_	Word	Word	_	16	Terminal	16:Terminal	_
+19	Volunteers	_	Word	Word	_	16	Terminal	16:Terminal	_
+20	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+21	the	_	Word	Word	_	23	F	23:F	_
+22	national	_	Word	Word	_	23	E	23:E	_
+23	anthem	_	Word	Word	_	16	E	16:E	_
+24	of	_	Word	Word	_	26	R	26:R	_
+25	the	_	Word	Word	_	26	F	26:F	_
+26	People	_	Word	Word	_	23	E	23:E	_
+27	's	_	Word	Word	_	26	Terminal	26:Terminal	_
+28	Republic	_	Word	Word	_	26	Terminal	26:Terminal	_
+29	of	_	Word	Word	_	26	Terminal	26:Terminal	_
+30	China	_	Word	Word	_	26	Terminal	26:Terminal	_
+31	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+

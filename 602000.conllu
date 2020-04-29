@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 602000
+# text = In 1966 , the Beatles released the album Revolver .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1966	_	Word	Word	_	6	T	6:T	_
+3	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+4	the	_	Word	Word	_	5	E	5:E	_
+5	Beatles	_	Word	Word	_	6	A	6:A	_
+6	released	_	Word	Word	_	0	H	0:H	_
+7	the	_	Word	Word	_	9	E	9:E	_
+8	album	_	Word	Word	_	9	E	9:E	_
+9	Revolver	_	Word	Word	_	6	A	6:A	_
+10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

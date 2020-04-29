@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 1024002
+# text = He suffered second - degree burns to his scalp .
+1	He	_	Word	Word	_	2	A	2:A	_
+2	suffered	_	Word	Word	_	0	H	0:H	_
+3	second	_	Word	Word	_	5	Q	5:Q	_
+4	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+5	degree	_	Word	Word	_	6	E	6:E	_
+6	burns	_	Word	Word	_	2	A	2:A	_
+7	to	_	Word	Word	_	9	R	9:R	_
+8	his	_	Word	Word	_	9	E	9:E	_
+9	scalp	_	Word	Word	_	6	E	6:E	_
+10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

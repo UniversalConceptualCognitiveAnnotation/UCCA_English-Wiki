@@ -1,0 +1,42 @@
+# format = ucca
+# sent_id = 553012
+# text = In 1968 , after seven years away from the stage , he returned to live performance in a celebrated comeback television special that led to an extended Las Vegas concert residency and a string of profitable tours .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1968	_	Word	Word	_	16	T	16:T	_
+3	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+4	after	_	Word	Word	_	7	L	7:L	_
+5	seven	_	Word	Word	_	6	Q	6:Q	_
+6	years	_	Word	Word	_	7	T	7:T	_
+7	away	_	Word	Word	_	16	H	16:H	_
+8	from	_	Word	Word	_	10	R	10:R	_
+9	the	_	Word	Word	_	10	E	10:E	_
+10	stage	_	Word	Word	_	7	A	7:A	_
+11	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+12	he	_	Word	Word	_	16	A	16:A|7:A	_
+13	returned	_	Word	Word	_	16	D	16:D	_
+14	to	_	Word	Word	_	16	R	16:R	_
+15	live	_	Word	Word	_	16	D	16:D	_
+16	performance	_	Word	Word	_	0	H	0:H	_
+17	in	_	Word	Word	_	22	R	22:R	_
+18	a	_	Word	Word	_	22	E	22:E	_
+19	celebrated	_	Word	Word	_	22	E	22:E	_
+20	comeback	_	Word	Word	_	22	E	22:E	_
+21	television	_	Word	Word	_	22	E	22:E	_
+22	special	_	Word	Word	_	16	A	16:A	_
+23	that	_	Word	Word	_	31	R	31:R	_
+24	led	_	Word	Word	_	31	D	31:D|37:D	_
+25	to	_	Word	Word	_	31	R	31:R	_
+26	an	_	Word	Word	_	31	F	31:F	_
+27	extended	_	Word	Word	_	31	T	31:T	_
+28	Las	_	Word	Word	_	31	A	31:A	_
+29	Vegas	_	Word	Word	_	28	Terminal	28:Terminal	_
+30	concert	_	Word	Word	_	31	A	31:A	_
+31	residency	_	Word	Word	_	22	E	22:E	_
+32	and	_	Word	Word	_	36	L	36:L	_
+33	a	_	Word	Word	_	34	E	34:E	_
+34	string	_	Word	Word	_	37	D	37:D	_
+35	of	_	Word	Word	_	37	R	37:R	_
+36	profitable	_	Word	Word	_	31	H	31:H	_
+37	tours	_	Word	Word	_	0	C	0:C|36:A	_
+38	.	_	Punctuation	Punctuation	_	36	U	36:U	_
+

@@ -1,0 +1,39 @@
+# format = ucca
+# sent_id = 587001
+# text = Depp was the first choice and was cast to star in the 1986 American skater drama film Thrashin ' , chosen and cast by the director but ultimately rejected by the film 's producer .
+1	Depp	_	Word	Word	_	5	A	5:A|8:A|10:A|21:A|23:A|29:A	_
+2	was	_	Word	Word	_	5	F	5:F	_
+3	the	_	Word	Word	_	5	F	5:F	_
+4	first	_	Word	Word	_	5	D	5:D	_
+5	choice	_	Word	Word	_	0	H	0:H	_
+6	and	_	Word	Word	_	8	L	8:L	_
+7	was	_	Word	Word	_	8	F	8:F	_
+8	cast	_	Word	Word	_	5	H	5:H	_
+9	to	_	Word	Word	_	10	F	10:F	_
+10	star	_	Word	Word	_	5	A	5:A	_
+11	in	_	Word	Word	_	18	R	18:R	_
+12	the	_	Word	Word	_	17	E	17:E	_
+13	1986	_	Word	Word	_	17	E	17:E	_
+14	American	_	Word	Word	_	17	E	17:E	_
+15	skater	_	Word	Word	_	16	E	16:E	_
+16	drama	_	Word	Word	_	17	E	17:E	_
+17	film	_	Word	Word	_	18	E	18:E	_
+18	Thrashin	_	Word	Word	_	0	C	0:C|8:A	_
+19	'	_	Punctuation	Punctuation	_	5	U	5:U	_
+20	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+21	chosen	_	Word	Word	_	5	H	5:H	_
+22	and	_	Word	Word	_	23	L	23:L	_
+23	cast	_	Word	Word	_	5	H	5:H	_
+24	by	_	Word	Word	_	26	R	26:R	_
+25	the	_	Word	Word	_	26	E	26:E	_
+26	director	_	Word	Word	_	21	A	21:A|23:A	_
+27	but	_	Word	Word	_	29	L	29:L	_
+28	ultimately	_	Word	Word	_	29	D	29:D	_
+29	rejected	_	Word	Word	_	5	H	5:H	_
+30	by	_	Word	Word	_	32	R	32:R	_
+31	the	_	Word	Word	_	32	F	32:F	_
+32	film	_	Word	Word	_	29	A	29:A	_
+33	's	_	Word	Word	_	32	R	32:R	_
+34	producer	_	Word	Word	_	32	A	32:A	_
+35	.	_	Punctuation	Punctuation	_	32	U	32:U	_
+

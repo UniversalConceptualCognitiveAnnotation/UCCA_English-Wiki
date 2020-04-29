@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 617002
+# text = In 2001 , McCartney published Blackbird Singing , a volume of poems and lyrics to his songs for which he gave readings in Liverpool and New York City .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	2001	_	Word	Word	_	5	T	5:T	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	McCartney	_	Word	Word	_	5	A	5:A	_
+5	published	_	Word	Word	_	0	H	0:H	_
+6	Blackbird	_	Word	Word	_	0	C	0:C|22:A	_
+7	Singing	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+9	a	_	Word	Word	_	10	E	10:E	_
+10	volume	_	Word	Word	_	6	E	6:E	_
+11	of	_	Word	Word	_	12	R	12:R	_
+12	poems	_	Word	Word	_	10	E	10:E	_
+13	and	_	Word	Word	_	12	N	12:N	_
+14	lyrics	_	Word	Word	_	12	C	12:C	_
+15	to	_	Word	Word	_	17	R	17:R	_
+16	his	_	Word	Word	_	17	E	17:E	_
+17	songs	_	Word	Word	_	14	E	14:E	_
+18	for	_	Word	Word	_	22	L	22:L	_
+19	which	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	he	_	Word	Word	_	22	A	22:A	_
+21	gave	_	Word	Word	_	22	F	22:F	_
+22	readings	_	Word	Word	_	5	H	5:H	_
+23	in	_	Word	Word	_	24	R	24:R	_
+24	Liverpool	_	Word	Word	_	22	A	22:A	_
+25	and	_	Word	Word	_	24	N	24:N	_
+26	New	_	Word	Word	_	24	C	24:C	_
+27	York	_	Word	Word	_	26	Terminal	26:Terminal	_
+28	City	_	Word	Word	_	26	Terminal	26:Terminal	_
+29	.	_	Punctuation	Punctuation	_	24	U	24:U	_
+

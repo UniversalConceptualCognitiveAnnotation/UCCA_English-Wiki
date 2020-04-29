@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 502000
+# text = Bowie moved to Switzerland in 1976 , purchasing a chalet in the hills to the north of Lake Geneva .
+1	Bowie	_	Word	Word	_	2	A	2:A|8:A	_
+2	moved	_	Word	Word	_	0	H	0:H	_
+3	to	_	Word	Word	_	4	R	4:R	_
+4	Switzerland	_	Word	Word	_	2	A	2:A	_
+5	in	_	Word	Word	_	6	R	6:R	_
+6	1976	_	Word	Word	_	2	T	2:T	_
+7	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+8	purchasing	_	Word	Word	_	2	H	2:H	_
+9	a	_	Word	Word	_	10	E	10:E	_
+10	chalet	_	Word	Word	_	8	A	8:A	_
+11	in	_	Word	Word	_	13	R	13:R	_
+12	the	_	Word	Word	_	13	E	13:E	_
+13	hills	_	Word	Word	_	10	E	10:E	_
+14	to	_	Word	Word	_	16	R	16:R	_
+15	the	_	Word	Word	_	16	E	16:E	_
+16	north	_	Word	Word	_	18	E	18:E	_
+17	of	_	Word	Word	_	18	R	18:R	_
+18	Lake	_	Word	Word	_	13	E	13:E	_
+19	Geneva	_	Word	Word	_	18	E	18:E	_
+20	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

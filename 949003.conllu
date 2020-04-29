@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 949003
+# text = Stefani received five nominations at the 2006 Grammy Awards , including Best Female Pop Vocal Performance and Best Pop Vocal Album .
+1	Stefani	_	Word	Word	_	4	A	4:A	_
+2	received	_	Word	Word	_	4	D	4:D	_
+3	five	_	Word	Word	_	4	D	4:D	_
+4	nominations	_	Word	Word	_	0	H	0:H	_
+5	at	_	Word	Word	_	8	L	8:L	_
+6	the	_	Word	Word	_	8	F	8:F	_
+7	2006	_	Word	Word	_	8	T	8:T	_
+8	Grammy	_	Word	Word	_	4	H	4:H	_
+9	Awards	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+11	including	_	Word	Word	_	16	R	16:R	_
+12	Best	_	Word	Word	_	16	E	16:E	_
+13	Female	_	Word	Word	_	16	E	16:E	_
+14	Pop	_	Word	Word	_	16	E	16:E	_
+15	Vocal	_	Word	Word	_	16	E	16:E	_
+16	Performance	_	Word	Word	_	4	A	4:A	_
+17	and	_	Word	Word	_	16	N	16:N	_
+18	Best	_	Word	Word	_	21	E	21:E	_
+19	Pop	_	Word	Word	_	21	E	21:E	_
+20	Vocal	_	Word	Word	_	21	E	21:E	_
+21	Album	_	Word	Word	_	16	C	16:C	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

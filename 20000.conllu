@@ -1,0 +1,44 @@
+# format = ucca
+# sent_id = 20000
+# text = William Bradley " Brad " Pitt was born in Shawnee , Oklahoma , and is the son of Jane Etta ( née Hillhouse ) , a high school counselor , and William Alvin Pitt , a truck company owner .
+1	William	_	Word	Word	_	8	A	8:A|17:A	_
+2	Bradley	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	"	_	Punctuation	Punctuation	_	1	U	1:U	_
+4	Brad	_	Word	Word	_	1	Terminal	1:Terminal	_
+5	"	_	Punctuation	Punctuation	_	1	U	1:U	_
+6	Pitt	_	Word	Word	_	1	Terminal	1:Terminal	_
+7	was	_	Word	Word	_	8	F	8:F	_
+8	born	_	Word	Word	_	0	H	0:H	_
+9	in	_	Word	Word	_	10	R	10:R	_
+10	Shawnee	_	Word	Word	_	8	A	8:A	_
+11	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	Oklahoma	_	Word	Word	_	10	C	10:C	_
+13	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+14	and	_	Word	Word	_	17	L	17:L	_
+15	is	_	Word	Word	_	17	F	17:F	_
+16	the	_	Word	Word	_	17	E	17:E	_
+17	son	_	Word	Word	_	8	H	8:H	_
+18	of	_	Word	Word	_	19	R	19:R	_
+19	Jane	_	Word	Word	_	17	A	17:A	_
+20	Etta	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	(	_	Punctuation	Punctuation	_	19	U	19:U	_
+22	née	_	Word	Word	_	19	E	19:E	_
+23	Hillhouse	_	Word	Word	_	22	A	22:A	_
+24	)	_	Punctuation	Punctuation	_	19	U	19:U	_
+25	,	_	Punctuation	Punctuation	_	19	U	19:U	_
+26	a	_	Word	Word	_	29	E	29:E	_
+27	high	_	Word	Word	_	28	E	28:E	_
+28	school	_	Word	Word	_	29	A	29:A	_
+29	counselor	_	Word	Word	_	19	E	19:E	_
+30	,	_	Punctuation	Punctuation	_	19	U	19:U	_
+31	and	_	Word	Word	_	19	N	19:N	_
+32	William	_	Word	Word	_	19	C	19:C	_
+33	Alvin	_	Word	Word	_	32	Terminal	32:Terminal	_
+34	Pitt	_	Word	Word	_	32	Terminal	32:Terminal	_
+35	,	_	Punctuation	Punctuation	_	32	U	32:U	_
+36	a	_	Word	Word	_	39	E	39:E	_
+37	truck	_	Word	Word	_	38	E	38:E	_
+38	company	_	Word	Word	_	39	A	39:A	_
+39	owner	_	Word	Word	_	32	E	32:E	_
+40	.	_	Punctuation	Punctuation	_	39	U	39:U	_
+

@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 633009
+# text = In August that year , the Beatles engaged for a 48 - night residency in Hamburg , Germany , and desperately in need of a drummer , asked Pete Best to join them .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	August	_	Word	Word	_	8	T	8:T	_
+3	that	_	Word	Word	_	4	E	4:E	_
+4	year	_	Word	Word	_	2	C	2:C	_
+5	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+6	the	_	Word	Word	_	7	E	7:E	_
+7	Beatles	_	Word	Word	_	0	C	0:C|23:A|28:A	_
+8	engaged	_	Word	Word	_	0	H	0:H	_
+9	for	_	Word	Word	_	14	R	14:R	_
+10	a	_	Word	Word	_	14	E	14:E	_
+11	48	_	Word	Word	_	13	Q	13:Q	_
+12	-	_	Punctuation	Punctuation	_	13	U	13:U	_
+13	night	_	Word	Word	_	14	E	14:E	_
+14	residency	_	Word	Word	_	8	A	8:A	_
+15	in	_	Word	Word	_	16	R	16:R	_
+16	Hamburg	_	Word	Word	_	8	A	8:A	_
+17	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+18	Germany	_	Word	Word	_	16	E	16:E	_
+19	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+20	and	_	Word	Word	_	23	L	23:L	_
+21	desperately	_	Word	Word	_	23	D	23:D	_
+22	in	_	Word	Word	_	23	R	23:R	_
+23	need	_	Word	Word	_	8	H	8:H	_
+24	of	_	Word	Word	_	26	R	26:R	_
+25	a	_	Word	Word	_	26	E	26:E	_
+26	drummer	_	Word	Word	_	23	A	23:A	_
+27	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+28	asked	_	Word	Word	_	8	H	8:H	_
+29	Pete	_	Word	Word	_	28	A	28:A|32:A	_
+30	Best	_	Word	Word	_	29	Terminal	29:Terminal	_
+31	to	_	Word	Word	_	32	F	32:F	_
+32	join	_	Word	Word	_	28	A	28:A	_
+33	them	_	Word	Word	_	32	A	32:A	_
+34	.	_	Punctuation	Punctuation	_	32	U	32:U	_
+

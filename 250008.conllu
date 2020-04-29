@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 250008
+# text = The following year Hawke was a co - founder and the artistic director of Malaparte , a Manhattan theater company , which survived until 2000 .
+1	The	_	Word	Word	_	3	F	3:F	_
+2	following	_	Word	Word	_	3	E	3:E	_
+3	year	_	Word	Word	_	9	T	9:T|13:T	_
+4	Hawke	_	Word	Word	_	9	A	9:A|13:A	_
+5	was	_	Word	Word	_	9	F	9:F	_
+6	a	_	Word	Word	_	9	F	9:F	_
+7	co	_	Word	Word	_	9	D	9:D	_
+8	-	_	Punctuation	Punctuation	_	9	U	9:U	_
+9	founder	_	Word	Word	_	0	H	0:H	_
+10	and	_	Word	Word	_	13	L	13:L	_
+11	the	_	Word	Word	_	13	F	13:F	_
+12	artistic	_	Word	Word	_	13	D	13:D	_
+13	director	_	Word	Word	_	9	H	9:H	_
+14	of	_	Word	Word	_	15	R	15:R	_
+15	Malaparte	_	Word	Word	_	0	C	0:C|13:A|23:A	_
+16	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+17	a	_	Word	Word	_	20	F	20:F	_
+18	Manhattan	_	Word	Word	_	20	E	20:E	_
+19	theater	_	Word	Word	_	20	E	20:E	_
+20	company	_	Word	Word	_	15	E	15:E	_
+21	,	_	Punctuation	Punctuation	_	20	U	20:U	_
+22	which	_	Word	Word	_	23	R	23:R	_
+23	survived	_	Word	Word	_	20	E	20:E	_
+24	until	_	Word	Word	_	25	R	25:R	_
+25	2000	_	Word	Word	_	23	T	23:T	_
+26	.	_	Punctuation	Punctuation	_	25	U	25:U	_
+

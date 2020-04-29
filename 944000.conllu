@@ -1,0 +1,50 @@
+# format = ucca
+# sent_id = 944000
+# text = During the time when No Doubt was receiving mainstream success , Stefani collaborated on the singles " You 're the Boss " with The Brian Setzer Orchestra , " South Side " with Moby , and " Let Me Blow Ya Mind " with Eve .
+1	During	_	Word	Word	_	3	R	3:R	_
+2	the	_	Word	Word	_	3	E	3:E	_
+3	time	_	Word	Word	_	13	L	13:L	_
+4	when	_	Word	Word	_	3	R	3:R	_
+5	No	_	Word	Word	_	10	A	10:A	_
+6	Doubt	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	was	_	Word	Word	_	10	F	10:F	_
+8	receiving	_	Word	Word	_	10	D	10:D	_
+9	mainstream	_	Word	Word	_	10	A	10:A	_
+10	success	_	Word	Word	_	0	H	0:H	_
+11	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	Stefani	_	Word	Word	_	13	A	13:A|24:A|34:A|45:A	_
+13	collaborated	_	Word	Word	_	10	H	10:H	_
+14	on	_	Word	Word	_	18	R	18:R	_
+15	the	_	Word	Word	_	16	E	16:E	_
+16	singles	_	Word	Word	_	18	E	18:E	_
+17	"	_	Punctuation	Punctuation	_	18	U	18:U	_
+18	You	_	Word	Word	_	13	A	13:A	_
+19	're	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	the	_	Word	Word	_	18	Terminal	18:Terminal	_
+21	Boss	_	Word	Word	_	18	Terminal	18:Terminal	_
+22	"	_	Punctuation	Punctuation	_	18	U	18:U	_
+23	with	_	Word	Word	_	24	R	24:R	_
+24	The	_	Word	Word	_	18	E	18:E	_
+25	Brian	_	Word	Word	_	24	Terminal	24:Terminal	_
+26	Setzer	_	Word	Word	_	24	Terminal	24:Terminal	_
+27	Orchestra	_	Word	Word	_	24	Terminal	24:Terminal	_
+28	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+29	"	_	Punctuation	Punctuation	_	18	U	18:U	_
+30	South	_	Word	Word	_	18	C	18:C	_
+31	Side	_	Word	Word	_	30	Terminal	30:Terminal	_
+32	"	_	Punctuation	Punctuation	_	30	U	30:U	_
+33	with	_	Word	Word	_	34	R	34:R	_
+34	Moby	_	Word	Word	_	30	E	30:E	_
+35	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+36	and	_	Word	Word	_	18	N	18:N	_
+37	"	_	Punctuation	Punctuation	_	18	U	18:U	_
+38	Let	_	Word	Word	_	18	C	18:C	_
+39	Me	_	Word	Word	_	38	Terminal	38:Terminal	_
+40	Blow	_	Word	Word	_	38	Terminal	38:Terminal	_
+41	Ya	_	Word	Word	_	38	Terminal	38:Terminal	_
+42	Mind	_	Word	Word	_	38	Terminal	38:Terminal	_
+43	"	_	Punctuation	Punctuation	_	38	U	38:U	_
+44	with	_	Word	Word	_	45	R	45:R	_
+45	Eve	_	Word	Word	_	38	E	38:E	_
+46	.	_	Punctuation	Punctuation	_	45	U	45:U	_
+

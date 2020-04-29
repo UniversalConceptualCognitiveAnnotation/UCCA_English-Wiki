@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 124001
+# text = The day after graduating , she traveled to Baltimore to meet Edwin H . Knopf , who ran a successful stock theatre company .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	day	_	Word	Word	_	3	E	3:E	_
+3	after	_	Word	Word	_	7	L	7:L	_
+4	graduating	_	Word	Word	_	0	H	0:H	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	she	_	Word	Word	_	7	A	7:A|4:A|11:A	_
+7	traveled	_	Word	Word	_	4	H	4:H	_
+8	to	_	Word	Word	_	9	R	9:R	_
+9	Baltimore	_	Word	Word	_	7	A	7:A	_
+10	to	_	Word	Word	_	11	L	11:L	_
+11	meet	_	Word	Word	_	4	H	4:H	_
+12	Edwin	_	Word	Word	_	11	A	11:A	_
+13	H	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+15	Knopf	_	Word	Word	_	12	Terminal	12:Terminal	_
+16	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+17	who	_	Word	Word	_	18	R	18:R	_
+18	ran	_	Word	Word	_	12	E	12:E	_
+19	a	_	Word	Word	_	23	E	23:E	_
+20	successful	_	Word	Word	_	23	E	23:E	_
+21	stock	_	Word	Word	_	22	E	22:E	_
+22	theatre	_	Word	Word	_	23	E	23:E	_
+23	company	_	Word	Word	_	18	A	18:A	_
+24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

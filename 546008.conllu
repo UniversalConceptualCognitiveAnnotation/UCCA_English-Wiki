@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 546008
+# text = Animated characters such as Bugs Bunny , Daffy Duck , and Porky Pig , while embraced by cartoon lovers , " were always stepchildren at Warner Bros . "
+1	Animated	_	Word	Word	_	2	E	2:E	_
+2	characters	_	Word	Word	_	0	C	0:C|16:A	_
+3	such	_	Word	Word	_	5	R	5:R	_
+4	as	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	Bugs	_	Word	Word	_	2	E	2:E	_
+6	Bunny	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+8	Daffy	_	Word	Word	_	5	C	5:C	_
+9	Duck	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+11	and	_	Word	Word	_	5	N	5:N	_
+12	Porky	_	Word	Word	_	5	C	5:C	_
+13	Pig	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	,	_	Punctuation	Punctuation	_	24	U	24:U	_
+15	while	_	Word	Word	_	16	L	16:L	_
+16	embraced	_	Word	Word	_	24	H	24:H	_
+17	by	_	Word	Word	_	18	R	18:R	_
+18	cartoon	_	Word	Word	_	16	A	16:A	_
+19	lovers	_	Word	Word	_	18	A	18:A	_
+20	,	_	Punctuation	Punctuation	_	24	U	24:U	_
+21	"	_	Punctuation	Punctuation	_	24	U	24:U	_
+22	were	_	Word	Word	_	24	F	24:F	_
+23	always	_	Word	Word	_	24	D	24:D	_
+24	stepchildren	_	Word	Word	_	0	H	0:H	_
+25	at	_	Word	Word	_	26	R	26:R	_
+26	Warner	_	Word	Word	_	24	A	24:A	_
+27	Bros	_	Word	Word	_	26	Terminal	26:Terminal	_
+28	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+29	"	_	Punctuation	Punctuation	_	26	U	26:U	_
+

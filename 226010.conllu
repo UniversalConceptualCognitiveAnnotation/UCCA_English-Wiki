@@ -1,0 +1,41 @@
+# format = ucca
+# sent_id = 226010
+# text = The success of Rumble in the Bronx led to a 1996 release of Police Story 3 : Super Cop in the United States under the title Supercop , which grossed a total of US $ 16,270,600 .
+1	The	_	Word	Word	_	2	F	2:F	_
+2	success	_	Word	Word	_	8	A	8:A	_
+3	of	_	Word	Word	_	4	R	4:R	_
+4	Rumble	_	Word	Word	_	2	A	2:A	_
+5	in	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	the	_	Word	Word	_	4	Terminal	4:Terminal	_
+7	Bronx	_	Word	Word	_	4	Terminal	4:Terminal	_
+8	led	_	Word	Word	_	0	H	0:H	_
+9	to	_	Word	Word	_	12	F	12:F	_
+10	a	_	Word	Word	_	11	F	11:F	_
+11	1996	_	Word	Word	_	12	T	12:T	_
+12	release	_	Word	Word	_	8	A	8:A	_
+13	of	_	Word	Word	_	14	R	14:R	_
+14	Police	_	Word	Word	_	12	A	12:A	_
+15	Story	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	3	_	Word	Word	_	14	Terminal	14:Terminal	_
+17	:	_	Punctuation	Punctuation	_	14	U	14:U	_
+18	Super	_	Word	Word	_	14	Terminal	14:Terminal	_
+19	Cop	_	Word	Word	_	14	Terminal	14:Terminal	_
+20	in	_	Word	Word	_	22	R	22:R	_
+21	the	_	Word	Word	_	22	F	22:F	_
+22	United	_	Word	Word	_	12	A	12:A	_
+23	States	_	Word	Word	_	22	Terminal	22:Terminal	_
+24	under	_	Word	Word	_	27	R	27:R	_
+25	the	_	Word	Word	_	27	F	27:F	_
+26	title	_	Word	Word	_	27	E	27:E	_
+27	Supercop	_	Word	Word	_	14	E	14:E	_
+28	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+29	which	_	Word	Word	_	30	L	30:L	_
+30	grossed	_	Word	Word	_	8	H	8:H	_
+31	a	_	Word	Word	_	35	F	35:F	_
+32	total	_	Word	Word	_	35	E	35:E	_
+33	of	_	Word	Word	_	35	R	35:R	_
+34	US	_	Word	Word	_	35	E	35:E	_
+35	$	_	Word	Word	_	30	A	30:A	_
+36	16,270,600	_	Word	Word	_	35	Q	35:Q	_
+37	.	_	Punctuation	Punctuation	_	35	U	35:U	_
+

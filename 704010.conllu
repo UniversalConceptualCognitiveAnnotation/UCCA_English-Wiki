@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 704010
+# text = Concerts in Tokyo in February and March were recorded and released as the live double album , Bob Dylan At Budokan .
+1	Concerts	_	Word	Word	_	9	A	9:A|11:A	_
+2	in	_	Word	Word	_	3	R	3:R	_
+3	Tokyo	_	Word	Word	_	1	A	1:A	_
+4	in	_	Word	Word	_	5	R	5:R	_
+5	February	_	Word	Word	_	1	T	1:T	_
+6	and	_	Word	Word	_	5	N	5:N	_
+7	March	_	Word	Word	_	5	C	5:C	_
+8	were	_	Word	Word	_	9	F	9:F	_
+9	recorded	_	Word	Word	_	0	H	0:H	_
+10	and	_	Word	Word	_	11	L	11:L	_
+11	released	_	Word	Word	_	9	H	9:H	_
+12	as	_	Word	Word	_	18	R	18:R	_
+13	the	_	Word	Word	_	16	E	16:E	_
+14	live	_	Word	Word	_	16	E	16:E	_
+15	double	_	Word	Word	_	16	E	16:E	_
+16	album	_	Word	Word	_	18	E	18:E	_
+17	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+18	Bob	_	Word	Word	_	9	A	9:A|11:A	_
+19	Dylan	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	At	_	Word	Word	_	18	Terminal	18:Terminal	_
+21	Budokan	_	Word	Word	_	18	Terminal	18:Terminal	_
+22	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

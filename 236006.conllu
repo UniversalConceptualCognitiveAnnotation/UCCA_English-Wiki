@@ -1,0 +1,36 @@
+# format = ucca
+# sent_id = 236006
+# text = He issued a statement on 27 August 2010 apologising for his comments and claiming that his assistant who helped him post the tweets had misunderstood the meaning of his original message .
+1	He	_	Word	Word	_	2	A	2:A|9:A|14:A	_
+2	issued	_	Word	Word	_	0	H	0:H	_
+3	a	_	Word	Word	_	4	F	4:F	_
+4	statement	_	Word	Word	_	2	A	2:A	_
+5	on	_	Word	Word	_	6	R	6:R	_
+6	27	_	Word	Word	_	2	T	2:T	_
+7	August	_	Word	Word	_	6	C	6:C	_
+8	2010	_	Word	Word	_	6	C	6:C	_
+9	apologising	_	Word	Word	_	2	H	2:H	_
+10	for	_	Word	Word	_	12	R	12:R	_
+11	his	_	Word	Word	_	12	A	12:A	_
+12	comments	_	Word	Word	_	9	A	9:A	_
+13	and	_	Word	Word	_	14	L	14:L	_
+14	claiming	_	Word	Word	_	2	H	2:H	_
+15	that	_	Word	Word	_	25	R	25:R	_
+16	his	_	Word	Word	_	25	A	25:A	_
+17	assistant	_	Word	Word	_	16	A	16:A|21:A	_
+18	who	_	Word	Word	_	21	R	21:R	_
+19	helped	_	Word	Word	_	21	D	21:D	_
+20	him	_	Word	Word	_	21	A	21:A	_
+21	post	_	Word	Word	_	16	E	16:E	_
+22	the	_	Word	Word	_	23	F	23:F	_
+23	tweets	_	Word	Word	_	21	A	21:A	_
+24	had	_	Word	Word	_	25	F	25:F	_
+25	misunderstood	_	Word	Word	_	14	A	14:A	_
+26	the	_	Word	Word	_	27	F	27:F	_
+27	meaning	_	Word	Word	_	25	A	25:A	_
+28	of	_	Word	Word	_	31	R	31:R	_
+29	his	_	Word	Word	_	31	E	31:E	_
+30	original	_	Word	Word	_	31	E	31:E	_
+31	message	_	Word	Word	_	27	A	27:A	_
+32	.	_	Punctuation	Punctuation	_	31	U	31:U	_
+

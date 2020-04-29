@@ -1,0 +1,37 @@
+# format = ucca
+# sent_id = 127005
+# text = She had seen the script on the desk of producer Pandro S . Berman and , convinced that she was born to play the part , insisted that the role be hers .
+1	She	_	Word	Word	_	3	A	3:A|17:A|27:A	_
+2	had	_	Word	Word	_	3	F	3:F	_
+3	seen	_	Word	Word	_	0	H	0:H	_
+4	the	_	Word	Word	_	5	E	5:E	_
+5	script	_	Word	Word	_	3	A	3:A	_
+6	on	_	Word	Word	_	8	R	8:R	_
+7	the	_	Word	Word	_	8	E	8:E	_
+8	desk	_	Word	Word	_	3	A	3:A	_
+9	of	_	Word	Word	_	10	R	10:R	_
+10	producer	_	Word	Word	_	8	E	8:E	_
+11	Pandro	_	Word	Word	_	10	A	10:A	_
+12	S	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+14	Berman	_	Word	Word	_	11	Terminal	11:Terminal	_
+15	and	_	Word	Word	_	17	L	17:L	_
+16	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+17	convinced	_	Word	Word	_	3	H	3:H	_
+18	that	_	Word	Word	_	21	R	21:R	_
+19	she	_	Word	Word	_	21	A	21:A|23:A	_
+20	was	_	Word	Word	_	21	F	21:F	_
+21	born	_	Word	Word	_	17	A	17:A	_
+22	to	_	Word	Word	_	23	F	23:F	_
+23	play	_	Word	Word	_	21	A	21:A	_
+24	the	_	Word	Word	_	25	E	25:E	_
+25	part	_	Word	Word	_	23	A	23:A	_
+26	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+27	insisted	_	Word	Word	_	3	H	3:H	_
+28	that	_	Word	Word	_	30	R	30:R	_
+29	the	_	Word	Word	_	30	E	30:E	_
+30	role	_	Word	Word	_	27	A	27:A	_
+31	be	_	Word	Word	_	30	F	30:F	_
+32	hers	_	Word	Word	_	30	A	30:A	_
+33	.	_	Punctuation	Punctuation	_	30	U	30:U	_
+

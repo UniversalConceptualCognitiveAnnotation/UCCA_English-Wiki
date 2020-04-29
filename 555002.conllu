@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 555002
+# text = He played and sang during lunchtime , and was often teased as a " trashy " kid who played hillbilly music .
+1	He	_	Word	Word	_	2	A	2:A|4:A|11:A	_
+2	played	_	Word	Word	_	11	H	11:H	_
+3	and	_	Word	Word	_	4	L	4:L	_
+4	sang	_	Word	Word	_	11	H	11:H	_
+5	during	_	Word	Word	_	6	R	6:R	_
+6	lunchtime	_	Word	Word	_	2	T	2:T|4:T	_
+7	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+8	and	_	Word	Word	_	11	L	11:L	_
+9	was	_	Word	Word	_	11	F	11:F	_
+10	often	_	Word	Word	_	11	D	11:D	_
+11	teased	_	Word	Word	_	0	H	0:H	_
+12	as	_	Word	Word	_	17	R	17:R	_
+13	a	_	Word	Word	_	17	E	17:E	_
+14	"	_	Punctuation	Punctuation	_	17	U	17:U	_
+15	trashy	_	Word	Word	_	17	E	17:E	_
+16	"	_	Punctuation	Punctuation	_	15	U	15:U	_
+17	kid	_	Word	Word	_	11	A	11:A	_
+18	who	_	Word	Word	_	19	R	19:R	_
+19	played	_	Word	Word	_	17	E	17:E	_
+20	hillbilly	_	Word	Word	_	21	E	21:E	_
+21	music	_	Word	Word	_	19	A	19:A	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

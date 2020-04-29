@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 958017
+# text = Later , he would comment that he " lost Vivien " in Australia .
+1	Later	_	Word	Word	_	5	T	5:T	_
+2	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+3	he	_	Word	Word	_	5	A	5:A	_
+4	would	_	Word	Word	_	5	D	5:D	_
+5	comment	_	Word	Word	_	0	H	0:H	_
+6	that	_	Word	Word	_	9	R	9:R	_
+7	he	_	Word	Word	_	9	A	9:A	_
+8	"	_	Punctuation	Punctuation	_	9	U	9:U	_
+9	lost	_	Word	Word	_	5	A	5:A	_
+10	Vivien	_	Word	Word	_	9	A	9:A	_
+11	"	_	Punctuation	Punctuation	_	9	U	9:U	_
+12	in	_	Word	Word	_	13	R	13:R	_
+13	Australia	_	Word	Word	_	9	A	9:A	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 698006
+# text = Journalist Nora Ephron first made the news public in the New York Post in February 1966 with the headline " Hush ! Bob Dylan is wed . "
+1	Journalist	_	Word	Word	_	2	E	2:E	_
+2	Nora	_	Word	Word	_	8	A	8:A	_
+3	Ephron	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	first	_	Word	Word	_	8	D	8:D	_
+5	made	_	Word	Word	_	8	F	8:F	_
+6	the	_	Word	Word	_	7	E	7:E	_
+7	news	_	Word	Word	_	8	A	8:A	_
+8	public	_	Word	Word	_	0	H	0:H	_
+9	in	_	Word	Word	_	11	R	11:R	_
+10	the	_	Word	Word	_	11	E	11:E	_
+11	New	_	Word	Word	_	8	A	8:A	_
+12	York	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	Post	_	Word	Word	_	11	Terminal	11:Terminal	_
+14	in	_	Word	Word	_	15	R	15:R	_
+15	February	_	Word	Word	_	8	T	8:T	_
+16	1966	_	Word	Word	_	15	C	15:C	_
+17	with	_	Word	Word	_	21	R	21:R	_
+18	the	_	Word	Word	_	19	E	19:E	_
+19	headline	_	Word	Word	_	21	E	21:E	_
+20	"	_	Punctuation	Punctuation	_	21	U	21:U	_
+21	Hush	_	Word	Word	_	8	A	8:A	_
+22	!	_	Punctuation	Punctuation	_	21	U	21:U	_
+23	Bob	_	Word	Word	_	21	Terminal	21:Terminal	_
+24	Dylan	_	Word	Word	_	21	Terminal	21:Terminal	_
+25	is	_	Word	Word	_	21	Terminal	21:Terminal	_
+26	wed	_	Word	Word	_	21	Terminal	21:Terminal	_
+27	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+28	"	_	Punctuation	Punctuation	_	21	U	21:U	_
+

@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 612004
+# text = He was strongly influenced by Motown artists , in particular James Jamerson , who McCartney called a hero for his melodic style .
+1	He	_	Word	Word	_	4	A	4:A	_
+2	was	_	Word	Word	_	4	F	4:F	_
+3	strongly	_	Word	Word	_	4	D	4:D	_
+4	influenced	_	Word	Word	_	0	H	0:H	_
+5	by	_	Word	Word	_	7	R	7:R	_
+6	Motown	_	Word	Word	_	7	E	7:E	_
+7	artists	_	Word	Word	_	4	A	4:A	_
+8	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	in	_	Word	Word	_	10	R	10:R	_
+10	particular	_	Word	Word	_	11	R	11:R	_
+11	James	_	Word	Word	_	7	E	7:E	_
+12	Jamerson	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+14	who	_	Word	Word	_	16	R	16:R	_
+15	McCartney	_	Word	Word	_	16	A	16:A	_
+16	called	_	Word	Word	_	11	E	11:E	_
+17	a	_	Word	Word	_	18	E	18:E	_
+18	hero	_	Word	Word	_	16	A	16:A	_
+19	for	_	Word	Word	_	20	L	20:L	_
+20	his	_	Word	Word	_	16	H	16:H	_
+21	melodic	_	Word	Word	_	22	E	22:E	_
+22	style	_	Word	Word	_	20	A	20:A	_
+23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+

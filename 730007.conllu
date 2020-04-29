@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 730007
+# text = It also received a nomination for a Golden Globe Award for Best Foreign Language Film .
+1	It	_	Word	Word	_	5	A	5:A	_
+2	also	_	Word	Word	_	5	D	5:D	_
+3	received	_	Word	Word	_	5	D	5:D	_
+4	a	_	Word	Word	_	5	E	5:E	_
+5	nomination	_	Word	Word	_	0	H	0:H	_
+6	for	_	Word	Word	_	9	R	9:R	_
+7	a	_	Word	Word	_	9	E	9:E	_
+8	Golden	_	Word	Word	_	9	E	9:E	_
+9	Globe	_	Word	Word	_	5	A	5:A	_
+10	Award	_	Word	Word	_	9	E	9:E	_
+11	for	_	Word	Word	_	15	R	15:R	_
+12	Best	_	Word	Word	_	15	E	15:E	_
+13	Foreign	_	Word	Word	_	14	E	14:E	_
+14	Language	_	Word	Word	_	15	E	15:E	_
+15	Film	_	Word	Word	_	9	E	9:E	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

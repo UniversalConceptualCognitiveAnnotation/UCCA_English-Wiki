@@ -1,0 +1,35 @@
+# format = ucca
+# sent_id = 141005
+# text = Her next film , an adaptation of Edward Albee 's A Delicate Balance ( 1973 ) directed by Tony Richardson , had a small release and received generally unfavorable reviews .
+1	Her	_	Word	Word	_	3	E	3:E	_
+2	next	_	Word	Word	_	3	E	3:E	_
+3	film	_	Word	Word	_	0	C	0:C|1:A|17:A|30:A	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	an	_	Word	Word	_	6	E	6:E	_
+6	adaptation	_	Word	Word	_	3	E	3:E	_
+7	of	_	Word	Word	_	11	R	11:R	_
+8	Edward	_	Word	Word	_	10	A	10:A	_
+9	Albee	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	's	_	Word	Word	_	11	E	11:E	_
+11	A	_	Word	Word	_	6	A	6:A	_
+12	Delicate	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	Balance	_	Word	Word	_	11	Terminal	11:Terminal	_
+14	(	_	Punctuation	Punctuation	_	11	U	11:U	_
+15	1973	_	Word	Word	_	11	E	11:E	_
+16	)	_	Punctuation	Punctuation	_	3	U	3:U	_
+17	directed	_	Word	Word	_	3	E	3:E	_
+18	by	_	Word	Word	_	19	R	19:R	_
+19	Tony	_	Word	Word	_	17	A	17:A	_
+20	Richardson	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	,	_	Punctuation	Punctuation	_	25	U	25:U	_
+22	had	_	Word	Word	_	25	F	25:F	_
+23	a	_	Word	Word	_	25	E	25:E	_
+24	small	_	Word	Word	_	25	D	25:D	_
+25	release	_	Word	Word	_	0	H	0:H	_
+26	and	_	Word	Word	_	30	L	30:L	_
+27	received	_	Word	Word	_	30	D	30:D	_
+28	generally	_	Word	Word	_	30	D	30:D	_
+29	unfavorable	_	Word	Word	_	30	D	30:D	_
+30	reviews	_	Word	Word	_	25	H	25:H	_
+31	.	_	Punctuation	Punctuation	_	30	U	30:U	_
+

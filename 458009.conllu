@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 458009
+# text = Worried , Jennings and ABC decided to cut back on international reporting and give more air time to " soft stories " , in an effort to emulate the success of Nightly News .
+1	Worried	_	Word	Word	_	0	H	0:H	_
+2	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+3	Jennings	_	Word	Word	_	6	A	6:A|1:A|8:A|14:A|28:A	_
+4	and	_	Word	Word	_	3	N	3:N	_
+5	ABC	_	Word	Word	_	3	C	3:C	_
+6	decided	_	Word	Word	_	1	H	1:H	_
+7	to	_	Word	Word	_	8	R	8:R	_
+8	cut	_	Word	Word	_	6	A	6:A	_
+9	back	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	on	_	Word	Word	_	12	R	12:R	_
+11	international	_	Word	Word	_	12	E	12:E	_
+12	reporting	_	Word	Word	_	8	A	8:A	_
+13	and	_	Word	Word	_	14	L	14:L	_
+14	give	_	Word	Word	_	8	H	8:H	_
+15	more	_	Word	Word	_	17	E	17:E	_
+16	air	_	Word	Word	_	17	E	17:E	_
+17	time	_	Word	Word	_	14	A	14:A	_
+18	to	_	Word	Word	_	21	R	21:R	_
+19	"	_	Punctuation	Punctuation	_	21	U	21:U	_
+20	soft	_	Word	Word	_	21	E	21:E	_
+21	stories	_	Word	Word	_	14	A	14:A	_
+22	"	_	Punctuation	Punctuation	_	1	U	1:U	_
+23	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+24	in	_	Word	Word	_	26	R	26:R	_
+25	an	_	Word	Word	_	26	E	26:E	_
+26	effort	_	Word	Word	_	28	L	28:L	_
+27	to	_	Word	Word	_	28	F	28:F	_
+28	emulate	_	Word	Word	_	1	H	1:H	_
+29	the	_	Word	Word	_	30	E	30:E	_
+30	success	_	Word	Word	_	28	A	28:A	_
+31	of	_	Word	Word	_	33	R	33:R	_
+32	Nightly	_	Word	Word	_	33	E	33:E	_
+33	News	_	Word	Word	_	30	A	30:A	_
+34	.	_	Punctuation	Punctuation	_	33	U	33:U	_
+

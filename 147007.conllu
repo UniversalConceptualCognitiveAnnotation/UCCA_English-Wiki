@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 147007
+# text = Soon after moving to California , Hepburn began a relationship with her agent Leland Hayward .
+1	Soon	_	Word	Word	_	2	E	2:E	_
+2	after	_	Word	Word	_	10	L	10:L	_
+3	moving	_	Word	Word	_	0	H	0:H	_
+4	to	_	Word	Word	_	5	R	5:R	_
+5	California	_	Word	Word	_	3	A	3:A	_
+6	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+7	Hepburn	_	Word	Word	_	10	A	10:A|3:A	_
+8	began	_	Word	Word	_	10	D	10:D	_
+9	a	_	Word	Word	_	10	E	10:E	_
+10	relationship	_	Word	Word	_	3	H	3:H	_
+11	with	_	Word	Word	_	13	R	13:R	_
+12	her	_	Word	Word	_	13	A	13:A	_
+13	agent	_	Word	Word	_	10	A	10:A	_
+14	Leland	_	Word	Word	_	13	A	13:A	_
+15	Hayward	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

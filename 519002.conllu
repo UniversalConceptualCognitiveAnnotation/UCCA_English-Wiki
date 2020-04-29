@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 519002
+# text = Respected for her versatility , she received a Juvenile Academy Award and won a Golden Globe Award as well as Grammy Awards and a Special Tony Award .
+1	Respected	_	Word	Word	_	0	H	0:H	_
+2	for	_	Word	Word	_	4	R	4:R	_
+3	her	_	Word	Word	_	4	A	4:A	_
+4	versatility	_	Word	Word	_	1	A	1:A	_
+5	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+6	she	_	Word	Word	_	7	A	7:A|1:A|13:A	_
+7	received	_	Word	Word	_	1	H	1:H	_
+8	a	_	Word	Word	_	11	F	11:F	_
+9	Juvenile	_	Word	Word	_	11	E	11:E	_
+10	Academy	_	Word	Word	_	11	E	11:E	_
+11	Award	_	Word	Word	_	7	A	7:A	_
+12	and	_	Word	Word	_	13	L	13:L	_
+13	won	_	Word	Word	_	1	H	1:H	_
+14	a	_	Word	Word	_	17	F	17:F	_
+15	Golden	_	Word	Word	_	16	E	16:E	_
+16	Globe	_	Word	Word	_	17	E	17:E	_
+17	Award	_	Word	Word	_	13	A	13:A	_
+18	as	_	Word	Word	_	17	N	17:N	_
+19	well	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	as	_	Word	Word	_	18	Terminal	18:Terminal	_
+21	Grammy	_	Word	Word	_	22	E	22:E	_
+22	Awards	_	Word	Word	_	17	C	17:C	_
+23	and	_	Word	Word	_	17	N	17:N	_
+24	a	_	Word	Word	_	27	F	27:F	_
+25	Special	_	Word	Word	_	27	E	27:E	_
+26	Tony	_	Word	Word	_	27	E	27:E	_
+27	Award	_	Word	Word	_	17	C	17:C	_
+28	.	_	Punctuation	Punctuation	_	27	U	27:U	_
+

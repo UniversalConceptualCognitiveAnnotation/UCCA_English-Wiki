@@ -1,0 +1,35 @@
+# format = ucca
+# sent_id = 944003
+# text = The band 's 2001 album , Rock Steady , explored more reggae and dancehall sounds , while maintaining the band 's New Wave influences , and generally received positive reviews .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	band	_	Word	Word	_	3	A	3:A	_
+3	's	_	Word	Word	_	5	E	5:E	_
+4	2001	_	Word	Word	_	5	E	5:E	_
+5	album	_	Word	Word	_	0	C	0:C|3:A|4:A|24:A|28:A	_
+6	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+7	Rock	_	Word	Word	_	10	A	10:A	_
+8	Steady	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+10	explored	_	Word	Word	_	0	H	0:H	_
+11	more	_	Word	Word	_	15	E	15:E	_
+12	reggae	_	Word	Word	_	15	E	15:E	_
+13	and	_	Word	Word	_	12	N	12:N	_
+14	dancehall	_	Word	Word	_	12	C	12:C	_
+15	sounds	_	Word	Word	_	10	A	10:A	_
+16	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+17	while	_	Word	Word	_	24	L	24:L	_
+18	maintaining	_	Word	Word	_	24	D	24:D	_
+19	the	_	Word	Word	_	20	E	20:E	_
+20	band	_	Word	Word	_	24	A	24:A	_
+21	's	_	Word	Word	_	20	R	20:R	_
+22	New	_	Word	Word	_	24	A	24:A	_
+23	Wave	_	Word	Word	_	22	Terminal	22:Terminal	_
+24	influences	_	Word	Word	_	10	H	10:H	_
+25	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+26	and	_	Word	Word	_	28	L	28:L	_
+27	generally	_	Word	Word	_	28	D	28:D	_
+28	received	_	Word	Word	_	10	H	10:H	_
+29	positive	_	Word	Word	_	30	E	30:E	_
+30	reviews	_	Word	Word	_	28	A	28:A	_
+31	.	_	Punctuation	Punctuation	_	30	U	30:U	_
+

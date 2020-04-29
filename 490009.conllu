@@ -1,0 +1,41 @@
+# format = ucca
+# sent_id = 490009
+# text = They married in 1997 , after Bana proposed to her on a trip to the United States , which he won from Cleo Magazine after being named their " Bachelor of the Year " in 1996 .
+1	They	_	Word	Word	_	2	A	2:A	_
+2	married	_	Word	Word	_	0	H	0:H	_
+3	in	_	Word	Word	_	4	R	4:R	_
+4	1997	_	Word	Word	_	2	T	2:T	_
+5	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+6	after	_	Word	Word	_	8	L	8:L	_
+7	Bana	_	Word	Word	_	8	A	8:A	_
+8	proposed	_	Word	Word	_	2	H	2:H	_
+9	to	_	Word	Word	_	10	R	10:R	_
+10	her	_	Word	Word	_	8	A	8:A	_
+11	on	_	Word	Word	_	21	L	21:L	_
+12	a	_	Word	Word	_	13	E	13:E	_
+13	trip	_	Word	Word	_	0	C	0:C|21:A	_
+14	to	_	Word	Word	_	16	R	16:R	_
+15	the	_	Word	Word	_	16	E	16:E	_
+16	United	_	Word	Word	_	13	A	13:A	_
+17	States	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+19	which	_	Word	Word	_	21	L	21:L	_
+20	he	_	Word	Word	_	21	A	21:A|27:A	_
+21	won	_	Word	Word	_	2	H	2:H	_
+22	from	_	Word	Word	_	23	R	23:R	_
+23	Cleo	_	Word	Word	_	21	A	21:A	_
+24	Magazine	_	Word	Word	_	23	Terminal	23:Terminal	_
+25	after	_	Word	Word	_	27	L	27:L	_
+26	being	_	Word	Word	_	27	F	27:F	_
+27	named	_	Word	Word	_	2	H	2:H	_
+28	their	_	Word	Word	_	30	E	30:E	_
+29	"	_	Punctuation	Punctuation	_	30	U	30:U	_
+30	Bachelor	_	Word	Word	_	27	A	27:A	_
+31	of	_	Word	Word	_	30	Terminal	30:Terminal	_
+32	the	_	Word	Word	_	30	Terminal	30:Terminal	_
+33	Year	_	Word	Word	_	30	Terminal	30:Terminal	_
+34	"	_	Punctuation	Punctuation	_	27	U	27:U	_
+35	in	_	Word	Word	_	36	R	36:R	_
+36	1996	_	Word	Word	_	27	T	27:T	_
+37	.	_	Punctuation	Punctuation	_	36	U	36:U	_
+

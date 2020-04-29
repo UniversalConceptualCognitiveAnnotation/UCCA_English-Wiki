@@ -1,0 +1,35 @@
+# format = ucca
+# sent_id = 958004
+# text = She fell into a deep depression that hit the low point when she turned on Olivier , verbally and physically attacking him until she fell to the floor , sobbing .
+1	She	_	Word	Word	_	6	A	6:A	_
+2	fell	_	Word	Word	_	6	D	6:D	_
+3	into	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	a	_	Word	Word	_	6	F	6:F	_
+5	deep	_	Word	Word	_	6	D	6:D	_
+6	depression	_	Word	Word	_	0	H	0:H	_
+7	that	_	Word	Word	_	8	L	8:L	_
+8	hit	_	Word	Word	_	6	H	6:H	_
+9	the	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	low	_	Word	Word	_	8	Terminal	8:Terminal	_
+11	point	_	Word	Word	_	8	Terminal	8:Terminal	_
+12	when	_	Word	Word	_	14	L	14:L	_
+13	she	_	Word	Word	_	14	A	14:A|21:A	_
+14	turned	_	Word	Word	_	6	H	6:H	_
+15	on	_	Word	Word	_	16	R	16:R	_
+16	Olivier	_	Word	Word	_	14	A	14:A	_
+17	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+18	verbally	_	Word	Word	_	21	A	21:A	_
+19	and	_	Word	Word	_	18	N	18:N	_
+20	physically	_	Word	Word	_	18	C	18:C	_
+21	attacking	_	Word	Word	_	6	H	6:H	_
+22	him	_	Word	Word	_	21	A	21:A	_
+23	until	_	Word	Word	_	25	L	25:L	_
+24	she	_	Word	Word	_	25	A	25:A|30:A	_
+25	fell	_	Word	Word	_	6	H	6:H	_
+26	to	_	Word	Word	_	28	R	28:R	_
+27	the	_	Word	Word	_	28	E	28:E	_
+28	floor	_	Word	Word	_	25	A	25:A	_
+29	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+30	sobbing	_	Word	Word	_	6	H	6:H	_
+31	.	_	Punctuation	Punctuation	_	30	U	30:U	_
+

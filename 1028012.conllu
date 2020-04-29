@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 1028012
+# text = It saw a theatrical release in Germany , though . It debuted atop the Billboard Top Music Video Cassette chart , staying there for 22 weeks .
+1	It	_	Word	Word	_	5	A	5:A	_
+2	saw	_	Word	Word	_	5	D	5:D	_
+3	a	_	Word	Word	_	4	E	4:E	_
+4	theatrical	_	Word	Word	_	5	A	5:A	_
+5	release	_	Word	Word	_	0	H	0:H	_
+6	in	_	Word	Word	_	7	R	7:R	_
+7	Germany	_	Word	Word	_	5	A	5:A	_
+8	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+9	though	_	Word	Word	_	12	L	12:L	_
+10	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+11	It	_	Word	Word	_	12	A	12:A|22:A	_
+12	debuted	_	Word	Word	_	5	H	5:H	_
+13	atop	_	Word	Word	_	20	R	20:R	_
+14	the	_	Word	Word	_	20	E	20:E	_
+15	Billboard	_	Word	Word	_	20	E	20:E	_
+16	Top	_	Word	Word	_	17	E	17:E	_
+17	Music	_	Word	Word	_	20	E	20:E	_
+18	Video	_	Word	Word	_	19	E	19:E	_
+19	Cassette	_	Word	Word	_	20	E	20:E	_
+20	chart	_	Word	Word	_	12	A	12:A	_
+21	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+22	staying	_	Word	Word	_	5	H	5:H	_
+23	there	_	Word	Word	_	22	A	22:A	_
+24	for	_	Word	Word	_	26	R	26:R	_
+25	22	_	Word	Word	_	26	Q	26:Q	_
+26	weeks	_	Word	Word	_	22	T	22:T	_
+27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+

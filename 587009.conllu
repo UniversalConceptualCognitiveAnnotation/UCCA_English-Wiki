@@ -1,0 +1,37 @@
+# format = ucca
+# sent_id = 587009
+# text = Depp paid for most of Thompson 's memorial event , complete with fireworks and the shooting of Thompson 's ashes by a cannon , in Aspen , Colorado , where Thompson lived .
+1	Depp	_	Word	Word	_	2	A	2:A	_
+2	paid	_	Word	Word	_	0	H	0:H	_
+3	for	_	Word	Word	_	9	R	9:R	_
+4	most	_	Word	Word	_	9	D	9:D	_
+5	of	_	Word	Word	_	9	R	9:R	_
+6	Thompson	_	Word	Word	_	9	A	9:A	_
+7	's	_	Word	Word	_	6	R	6:R	_
+8	memorial	_	Word	Word	_	9	A	9:A	_
+9	event	_	Word	Word	_	2	A	2:A	_
+10	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+11	complete	_	Word	Word	_	13	L	13:L	_
+12	with	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	fireworks	_	Word	Word	_	2	H	2:H	_
+14	and	_	Word	Word	_	16	L	16:L	_
+15	the	_	Word	Word	_	16	E	16:E	_
+16	shooting	_	Word	Word	_	2	H	2:H	_
+17	of	_	Word	Word	_	20	R	20:R	_
+18	Thompson	_	Word	Word	_	19	E	19:E	_
+19	's	_	Word	Word	_	20	E	20:E	_
+20	ashes	_	Word	Word	_	16	A	16:A	_
+21	by	_	Word	Word	_	23	R	23:R	_
+22	a	_	Word	Word	_	23	E	23:E	_
+23	cannon	_	Word	Word	_	16	A	16:A	_
+24	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+25	in	_	Word	Word	_	26	R	26:R	_
+26	Aspen	_	Word	Word	_	9	A	9:A	_
+27	,	_	Punctuation	Punctuation	_	26	U	26:U	_
+28	Colorado	_	Word	Word	_	26	C	26:C	_
+29	,	_	Punctuation	Punctuation	_	26	U	26:U	_
+30	where	_	Word	Word	_	32	R	32:R	_
+31	Thompson	_	Word	Word	_	32	A	32:A	_
+32	lived	_	Word	Word	_	26	E	26:E	_
+33	.	_	Punctuation	Punctuation	_	32	U	32:U	_
+

@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 503005
+# text = Five years later , the duet proved a worldwide seasonal hit , charting in the UK at number three on Christmas Day , 1982 .
+1	Five	_	Word	Word	_	3	Q	3:Q	_
+2	years	_	Word	Word	_	3	R	3:R	_
+3	later	_	Word	Word	_	11	T	11:T	_
+4	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+5	the	_	Word	Word	_	6	E	6:E	_
+6	duet	_	Word	Word	_	11	A	11:A|13:A	_
+7	proved	_	Word	Word	_	11	D	11:D	_
+8	a	_	Word	Word	_	11	E	11:E	_
+9	worldwide	_	Word	Word	_	11	A	11:A	_
+10	seasonal	_	Word	Word	_	11	T	11:T	_
+11	hit	_	Word	Word	_	0	H	0:H	_
+12	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+13	charting	_	Word	Word	_	11	H	11:H	_
+14	in	_	Word	Word	_	16	R	16:R	_
+15	the	_	Word	Word	_	16	E	16:E	_
+16	UK	_	Word	Word	_	13	A	13:A	_
+17	at	_	Word	Word	_	18	R	18:R	_
+18	number	_	Word	Word	_	13	A	13:A	_
+19	three	_	Word	Word	_	18	Q	18:Q	_
+20	on	_	Word	Word	_	22	R	22:R	_
+21	Christmas	_	Word	Word	_	22	E	22:E	_
+22	Day	_	Word	Word	_	13	T	13:T	_
+23	,	_	Punctuation	Punctuation	_	22	U	22:U	_
+24	1982	_	Word	Word	_	22	C	22:C	_
+25	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+

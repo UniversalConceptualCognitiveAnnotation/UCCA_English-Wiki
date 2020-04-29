@@ -1,0 +1,35 @@
+# format = ucca
+# sent_id = 558009
+# text = Interviewing Presley on - air , Phillips asked him what high school he attended in order to clarify his color for the many callers who had assumed he was black .
+1	Interviewing	_	Word	Word	_	0	H	0:H	_
+2	Presley	_	Word	Word	_	1	A	1:A	_
+3	on	_	Word	Word	_	1	A	1:A	_
+4	-	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	air	_	Word	Word	_	3	Terminal	3:Terminal	_
+6	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+7	Phillips	_	Word	Word	_	8	A	8:A|1:A|18:A	_
+8	asked	_	Word	Word	_	1	H	1:H	_
+9	him	_	Word	Word	_	8	A	8:A	_
+10	what	_	Word	Word	_	11	R	11:R	_
+11	high	_	Word	Word	_	14	A	14:A	_
+12	school	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	he	_	Word	Word	_	14	A	14:A	_
+14	attended	_	Word	Word	_	8	A	8:A	_
+15	in	_	Word	Word	_	16	R	16:R	_
+16	order	_	Word	Word	_	18	L	18:L	_
+17	to	_	Word	Word	_	16	F	16:F	_
+18	clarify	_	Word	Word	_	1	H	1:H	_
+19	his	_	Word	Word	_	20	E	20:E	_
+20	color	_	Word	Word	_	18	A	18:A	_
+21	for	_	Word	Word	_	24	R	24:R	_
+22	the	_	Word	Word	_	24	E	24:E	_
+23	many	_	Word	Word	_	24	Q	24:Q	_
+24	callers	_	Word	Word	_	18	A	18:A	_
+25	who	_	Word	Word	_	27	R	27:R	_
+26	had	_	Word	Word	_	27	F	27:F	_
+27	assumed	_	Word	Word	_	24	E	24:E	_
+28	he	_	Word	Word	_	30	A	30:A	_
+29	was	_	Word	Word	_	30	F	30:F	_
+30	black	_	Word	Word	_	27	A	27:A	_
+31	.	_	Punctuation	Punctuation	_	30	U	30:U	_
+

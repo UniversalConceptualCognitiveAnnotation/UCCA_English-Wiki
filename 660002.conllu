@@ -1,0 +1,41 @@
+# format = ucca
+# sent_id = 660002
+# text = After the first two songs , he became so enamored at the sound and quality of Carey 's voice that he turned around and returned to the event , only to find that she had left .
+1	After	_	Word	Word	_	10	L	10:L	_
+2	the	_	Word	Word	_	5	F	5:F	_
+3	first	_	Word	Word	_	5	Q	5:Q	_
+4	two	_	Word	Word	_	5	Q	5:Q	_
+5	songs	_	Word	Word	_	0	H	0:H	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	he	_	Word	Word	_	10	A	10:A	_
+8	became	_	Word	Word	_	10	D	10:D	_
+9	so	_	Word	Word	_	10	D	10:D	_
+10	enamored	_	Word	Word	_	5	H	5:H	_
+11	at	_	Word	Word	_	13	R	13:R	_
+12	the	_	Word	Word	_	13	F	13:F	_
+13	sound	_	Word	Word	_	10	A	10:A	_
+14	and	_	Word	Word	_	13	N	13:N	_
+15	quality	_	Word	Word	_	13	C	13:C	_
+16	of	_	Word	Word	_	19	R	19:R	_
+17	Carey	_	Word	Word	_	19	E	19:E	_
+18	's	_	Word	Word	_	17	R	17:R	_
+19	voice	_	Word	Word	_	13	E	13:E	_
+20	that	_	Word	Word	_	22	L	22:L	_
+21	he	_	Word	Word	_	22	A	22:A|25:A|32:A	_
+22	turned	_	Word	Word	_	5	H	5:H	_
+23	around	_	Word	Word	_	22	D	22:D	_
+24	and	_	Word	Word	_	25	L	25:L	_
+25	returned	_	Word	Word	_	5	H	5:H	_
+26	to	_	Word	Word	_	28	R	28:R	_
+27	the	_	Word	Word	_	28	F	28:F	_
+28	event	_	Word	Word	_	25	A	25:A	_
+29	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+30	only	_	Word	Word	_	32	D	32:D	_
+31	to	_	Word	Word	_	32	F	32:F	_
+32	find	_	Word	Word	_	5	H	5:H	_
+33	that	_	Word	Word	_	36	R	36:R	_
+34	she	_	Word	Word	_	36	A	36:A	_
+35	had	_	Word	Word	_	36	F	36:F	_
+36	left	_	Word	Word	_	32	A	32:A	_
+37	.	_	Punctuation	Punctuation	_	36	U	36:U	_
+

@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 519004
+# text = She remains the youngest recipient ( at 39 years of age ) of the Cecil B. DeMille Award for lifetime achievement in the motion picture industry .
+1	She	_	Word	Word	_	2	A	2:A|11:A	_
+2	remains	_	Word	Word	_	0	H	0:H	_
+3	the	_	Word	Word	_	5	F	5:F	_
+4	youngest	_	Word	Word	_	5	E	5:E	_
+5	recipient	_	Word	Word	_	2	A	2:A	_
+6	(	_	Punctuation	Punctuation	_	2	U	2:U	_
+7	at	_	Word	Word	_	11	L	11:L	_
+8	39	_	Word	Word	_	9	Q	9:Q	_
+9	years	_	Word	Word	_	11	D	11:D	_
+10	of	_	Word	Word	_	11	R	11:R	_
+11	age	_	Word	Word	_	2	H	2:H	_
+12	)	_	Punctuation	Punctuation	_	2	U	2:U	_
+13	of	_	Word	Word	_	18	R	18:R	_
+14	the	_	Word	Word	_	18	F	18:F	_
+15	Cecil	_	Word	Word	_	18	E	18:E	_
+16	B.	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	DeMille	_	Word	Word	_	15	Terminal	15:Terminal	_
+18	Award	_	Word	Word	_	5	E	5:E	_
+19	for	_	Word	Word	_	21	R	21:R	_
+20	lifetime	_	Word	Word	_	21	E	21:E	_
+21	achievement	_	Word	Word	_	18	E	18:E	_
+22	in	_	Word	Word	_	26	R	26:R	_
+23	the	_	Word	Word	_	26	F	26:F	_
+24	motion	_	Word	Word	_	25	E	25:E	_
+25	picture	_	Word	Word	_	26	E	26:E	_
+26	industry	_	Word	Word	_	21	E	21:E	_
+27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+

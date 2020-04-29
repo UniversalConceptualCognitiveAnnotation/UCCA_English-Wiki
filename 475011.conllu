@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 475011
+# text = Johnson 's half court shot at the buzzer would have won the game , but it fell short .
+1	Johnson	_	Word	Word	_	5	A	5:A	_
+2	's	_	Word	Word	_	1	R	1:R	_
+3	half	_	Word	Word	_	4	E	4:E	_
+4	court	_	Word	Word	_	5	A	5:A	_
+5	shot	_	Word	Word	_	11	A	11:A	_
+6	at	_	Word	Word	_	8	R	8:R	_
+7	the	_	Word	Word	_	8	F	8:F	_
+8	buzzer	_	Word	Word	_	5	A	5:A	_
+9	would	_	Word	Word	_	11	D	11:D	_
+10	have	_	Word	Word	_	11	F	11:F	_
+11	won	_	Word	Word	_	0	H	0:H	_
+12	the	_	Word	Word	_	13	F	13:F	_
+13	game	_	Word	Word	_	11	A	11:A	_
+14	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+15	but	_	Word	Word	_	17	L	17:L	_
+16	it	_	Word	Word	_	17	A	17:A	_
+17	fell	_	Word	Word	_	11	H	11:H	_
+18	short	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+

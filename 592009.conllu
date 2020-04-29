@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 592009
+# text = In 2008 he donated £ 1 million ( about $ 2 million ) to the hospital .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	2008	_	Word	Word	_	4	T	4:T	_
+3	he	_	Word	Word	_	4	A	4:A	_
+4	donated	_	Word	Word	_	0	H	0:H	_
+5	£	_	Word	Word	_	4	A	4:A	_
+6	1	_	Word	Word	_	5	Q	5:Q	_
+7	million	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	(	_	Punctuation	Punctuation	_	5	U	5:U	_
+9	about	_	Word	Word	_	10	E	10:E	_
+10	$	_	Word	Word	_	5	E	5:E	_
+11	2	_	Word	Word	_	10	Q	10:Q	_
+12	million	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	)	_	Punctuation	Punctuation	_	4	U	4:U	_
+14	to	_	Word	Word	_	16	R	16:R	_
+15	the	_	Word	Word	_	16	E	16:E	_
+16	hospital	_	Word	Word	_	4	A	4:A	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

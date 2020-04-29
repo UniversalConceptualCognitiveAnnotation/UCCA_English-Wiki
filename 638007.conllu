@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 638007
+# text = In 1972 , Lennon and Ono attended a post - election wake held in the New York home of activist Jerry Rubin after McGovern lost to Nixon .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1972	_	Word	Word	_	7	T	7:T	_
+3	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+4	Lennon	_	Word	Word	_	7	A	7:A	_
+5	and	_	Word	Word	_	4	N	4:N	_
+6	Ono	_	Word	Word	_	4	C	4:C	_
+7	attended	_	Word	Word	_	0	H	0:H	_
+8	a	_	Word	Word	_	12	E	12:E	_
+9	post	_	Word	Word	_	11	E	11:E	_
+10	-	_	Punctuation	Punctuation	_	11	U	11:U	_
+11	election	_	Word	Word	_	12	E	12:E	_
+12	wake	_	Word	Word	_	7	A	7:A	_
+13	held	_	Word	Word	_	12	E	12:E	_
+14	in	_	Word	Word	_	18	R	18:R	_
+15	the	_	Word	Word	_	18	E	18:E	_
+16	New	_	Word	Word	_	18	E	18:E	_
+17	York	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	home	_	Word	Word	_	13	A	13:A	_
+19	of	_	Word	Word	_	21	R	21:R	_
+20	activist	_	Word	Word	_	21	E	21:E	_
+21	Jerry	_	Word	Word	_	18	E	18:E	_
+22	Rubin	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	after	_	Word	Word	_	25	L	25:L	_
+24	McGovern	_	Word	Word	_	25	A	25:A	_
+25	lost	_	Word	Word	_	7	H	7:H	_
+26	to	_	Word	Word	_	27	R	27:R	_
+27	Nixon	_	Word	Word	_	25	A	25:A	_
+28	.	_	Punctuation	Punctuation	_	27	U	27:U	_
+

@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 505016
+# text = Let 's Dance was followed by the Serious Moonlight Tour , during which Bowie was accompanied by guitarist Earl Slick and backing vocalists Frank and George Simms .
+1	Let	_	Word	Word	_	5	A	5:A	_
+2	's	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	Dance	_	Word	Word	_	1	Terminal	1:Terminal	_
+4	was	_	Word	Word	_	5	F	5:F	_
+5	followed	_	Word	Word	_	0	H	0:H	_
+6	by	_	Word	Word	_	8	R	8:R	_
+7	the	_	Word	Word	_	8	E	8:E	_
+8	Serious	_	Word	Word	_	5	A	5:A	_
+9	Moonlight	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	Tour	_	Word	Word	_	8	Terminal	8:Terminal	_
+11	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+12	during	_	Word	Word	_	16	L	16:L	_
+13	which	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	Bowie	_	Word	Word	_	16	A	16:A	_
+15	was	_	Word	Word	_	16	F	16:F	_
+16	accompanied	_	Word	Word	_	5	H	5:H	_
+17	by	_	Word	Word	_	18	R	18:R	_
+18	guitarist	_	Word	Word	_	16	A	16:A	_
+19	Earl	_	Word	Word	_	18	A	18:A	_
+20	Slick	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	and	_	Word	Word	_	23	L	23:L	_
+22	backing	_	Word	Word	_	23	D	23:D	_
+23	vocalists	_	Word	Word	_	18	H	18:H	_
+24	Frank	_	Word	Word	_	23	A	23:A	_
+25	and	_	Word	Word	_	24	N	24:N	_
+26	George	_	Word	Word	_	24	C	24:C	_
+27	Simms	_	Word	Word	_	26	Terminal	26:Terminal	_
+28	.	_	Punctuation	Punctuation	_	24	U	24:U	_
+

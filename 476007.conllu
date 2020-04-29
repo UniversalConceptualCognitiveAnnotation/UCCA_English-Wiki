@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 476007
+# text = The game was played at a gym inside Fort McNair , and reporters covering the President were not allowed to enter .
+1	The	_	Word	Word	_	2	F	2:F	_
+2	game	_	Word	Word	_	4	A	4:A	_
+3	was	_	Word	Word	_	4	F	4:F	_
+4	played	_	Word	Word	_	0	H	0:H	_
+5	at	_	Word	Word	_	7	R	7:R	_
+6	a	_	Word	Word	_	7	F	7:F	_
+7	gym	_	Word	Word	_	4	A	4:A	_
+8	inside	_	Word	Word	_	9	R	9:R	_
+9	Fort	_	Word	Word	_	7	E	7:E	_
+10	McNair	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+12	and	_	Word	Word	_	19	L	19:L	_
+13	reporters	_	Word	Word	_	19	A	19:A	_
+14	covering	_	Word	Word	_	13	E	13:E	_
+15	the	_	Word	Word	_	16	F	16:F	_
+16	President	_	Word	Word	_	14	A	14:A	_
+17	were	_	Word	Word	_	19	F	19:F	_
+18	not	_	Word	Word	_	19	D	19:D	_
+19	allowed	_	Word	Word	_	4	H	4:H	_
+20	to	_	Word	Word	_	21	F	21:F	_
+21	enter	_	Word	Word	_	19	A	19:A	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

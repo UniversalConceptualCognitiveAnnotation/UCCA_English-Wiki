@@ -1,0 +1,48 @@
+# format = ucca
+# sent_id = 236009
+# text = In addition to his film production and distribution company , JCE Movies Limited , Jackie Chan also owns or co - owns the production companies JC Group China , Jackie & Willie Productions ( with Willie Chan ) and Jackie & JJ Productions .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	addition	_	Word	Word	_	11	R	11:R	_
+3	to	_	Word	Word	_	2	R	2:R	_
+4	his	_	Word	Word	_	11	E	11:E	_
+5	film	_	Word	Word	_	6	A	6:A	_
+6	production	_	Word	Word	_	9	E	9:E	_
+7	and	_	Word	Word	_	6	N	6:N	_
+8	distribution	_	Word	Word	_	6	C	6:C	_
+9	company	_	Word	Word	_	11	E	11:E	_
+10	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+11	JCE	_	Word	Word	_	18	A	18:A|22:A	_
+12	Movies	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	Limited	_	Word	Word	_	11	Terminal	11:Terminal	_
+14	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+15	Jackie	_	Word	Word	_	18	A	18:A|22:A	_
+16	Chan	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	also	_	Word	Word	_	18	D	18:D|22:D	_
+18	owns	_	Word	Word	_	0	H	0:H	_
+19	or	_	Word	Word	_	22	L	22:L	_
+20	co	_	Word	Word	_	22	E	22:E	_
+21	-	_	Punctuation	Punctuation	_	22	U	22:U	_
+22	owns	_	Word	Word	_	18	H	18:H	_
+23	the	_	Word	Word	_	26	F	26:F	_
+24	production	_	Word	Word	_	25	E	25:E	_
+25	companies	_	Word	Word	_	26	E	26:E	_
+26	JC	_	Word	Word	_	18	A	18:A|22:A	_
+27	Group	_	Word	Word	_	26	Terminal	26:Terminal	_
+28	China	_	Word	Word	_	26	Terminal	26:Terminal	_
+29	,	_	Punctuation	Punctuation	_	26	U	26:U	_
+30	Jackie	_	Word	Word	_	26	C	26:C	_
+31	&	_	Word	Word	_	30	Terminal	30:Terminal	_
+32	Willie	_	Word	Word	_	30	Terminal	30:Terminal	_
+33	Productions	_	Word	Word	_	30	Terminal	30:Terminal	_
+34	(	_	Punctuation	Punctuation	_	30	U	30:U	_
+35	with	_	Word	Word	_	36	R	36:R	_
+36	Willie	_	Word	Word	_	30	E	30:E	_
+37	Chan	_	Word	Word	_	36	Terminal	36:Terminal	_
+38	)	_	Punctuation	Punctuation	_	26	U	26:U	_
+39	and	_	Word	Word	_	26	N	26:N	_
+40	Jackie	_	Word	Word	_	26	C	26:C	_
+41	&	_	Word	Word	_	40	Terminal	40:Terminal	_
+42	JJ	_	Word	Word	_	40	Terminal	40:Terminal	_
+43	Productions	_	Word	Word	_	40	Terminal	40:Terminal	_
+44	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+

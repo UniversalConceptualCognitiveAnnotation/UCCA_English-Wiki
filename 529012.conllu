@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 529012
+# text = Garland and Luft were married on June 8 , 1952 , in Hollister , California .
+1	Garland	_	Word	Word	_	5	A	5:A	_
+2	and	_	Word	Word	_	1	N	1:N	_
+3	Luft	_	Word	Word	_	1	C	1:C	_
+4	were	_	Word	Word	_	5	F	5:F	_
+5	married	_	Word	Word	_	0	H	0:H	_
+6	on	_	Word	Word	_	7	R	7:R	_
+7	June	_	Word	Word	_	5	T	5:T	_
+8	8	_	Word	Word	_	7	C	7:C	_
+9	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+10	1952	_	Word	Word	_	7	C	7:C	_
+11	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+12	in	_	Word	Word	_	13	R	13:R	_
+13	Hollister	_	Word	Word	_	5	A	5:A	_
+14	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+15	California	_	Word	Word	_	13	C	13:C	_
+16	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

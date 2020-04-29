@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 104006
+# text = They reconciled and he appeared with her in Lara Croft : Tomb Raider ( 2001 ) , but their relationship again deteriorated .
+1	They	_	Word	Word	_	2	A	2:A	_
+2	reconciled	_	Word	Word	_	0	H	0:H	_
+3	and	_	Word	Word	_	5	L	5:L	_
+4	he	_	Word	Word	_	5	A	5:A	_
+5	appeared	_	Word	Word	_	2	H	2:H	_
+6	with	_	Word	Word	_	7	R	7:R	_
+7	her	_	Word	Word	_	5	A	5:A	_
+8	in	_	Word	Word	_	9	R	9:R	_
+9	Lara	_	Word	Word	_	5	A	5:A	_
+10	Croft	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	:	_	Punctuation	Punctuation	_	9	U	9:U	_
+12	Tomb	_	Word	Word	_	9	Terminal	9:Terminal	_
+13	Raider	_	Word	Word	_	9	Terminal	9:Terminal	_
+14	(	_	Punctuation	Punctuation	_	9	U	9:U	_
+15	2001	_	Word	Word	_	9	E	9:E	_
+16	)	_	Punctuation	Punctuation	_	2	U	2:U	_
+17	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+18	but	_	Word	Word	_	20	L	20:L	_
+19	their	_	Word	Word	_	20	A	20:A	_
+20	relationship	_	Word	Word	_	2	H	2:H	_
+21	again	_	Word	Word	_	22	E	22:E	_
+22	deteriorated	_	Word	Word	_	20	D	20:D	_
+23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+

@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 142008
+# text = During its Los Angeles run , Hepburn fractured her hip .
+1	During	_	Word	Word	_	8	L	8:L	_
+2	its	_	Word	Word	_	5	A	5:A	_
+3	Los	_	Word	Word	_	5	A	5:A	_
+4	Angeles	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	run	_	Word	Word	_	0	H	0:H	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	Hepburn	_	Word	Word	_	8	A	8:A	_
+8	fractured	_	Word	Word	_	5	H	5:H	_
+9	her	_	Word	Word	_	10	E	10:E	_
+10	hip	_	Word	Word	_	8	A	8:A	_
+11	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+

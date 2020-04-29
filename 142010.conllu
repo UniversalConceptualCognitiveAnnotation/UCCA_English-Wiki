@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 142010
+# text = That year , she was voted " Favorite Motion Picture Actress " by the People 's Choice Awards .
+1	That	_	Word	Word	_	2	E	2:E	_
+2	year	_	Word	Word	_	6	T	6:T	_
+3	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+4	she	_	Word	Word	_	6	A	6:A	_
+5	was	_	Word	Word	_	6	F	6:F	_
+6	voted	_	Word	Word	_	0	H	0:H	_
+7	"	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	Favorite	_	Word	Word	_	11	D	11:D	_
+9	Motion	_	Word	Word	_	10	E	10:E	_
+10	Picture	_	Word	Word	_	11	A	11:A	_
+11	Actress	_	Word	Word	_	6	A	6:A	_
+12	"	_	Punctuation	Punctuation	_	6	U	6:U	_
+13	by	_	Word	Word	_	14	R	14:R	_
+14	the	_	Word	Word	_	6	A	6:A	_
+15	People	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	's	_	Word	Word	_	14	Terminal	14:Terminal	_
+17	Choice	_	Word	Word	_	14	Terminal	14:Terminal	_
+18	Awards	_	Word	Word	_	14	Terminal	14:Terminal	_
+19	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

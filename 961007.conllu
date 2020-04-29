@@ -1,0 +1,36 @@
+# format = ucca
+# sent_id = 961007
+# text = After their return to London , her former husband , Leigh Holman , who continued to exert a strong influence over her , stayed with the Oliviers and helped calm her .
+1	After	_	Word	Word	_	24	L	24:L	_
+2	their	_	Word	Word	_	3	A	3:A	_
+3	return	_	Word	Word	_	0	H	0:H	_
+4	to	_	Word	Word	_	5	R	5:R	_
+5	London	_	Word	Word	_	3	A	3:A	_
+6	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+7	her	_	Word	Word	_	11	E	11:E	_
+8	former	_	Word	Word	_	7	T	7:T	_
+9	husband	_	Word	Word	_	7	A	7:A	_
+10	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+11	Leigh	_	Word	Word	_	0	C	0:C|20:A|30:A	_
+12	Holman	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+14	who	_	Word	Word	_	20	R	20:R	_
+15	continued	_	Word	Word	_	20	D	20:D	_
+16	to	_	Word	Word	_	20	F	20:F	_
+17	exert	_	Word	Word	_	20	D	20:D	_
+18	a	_	Word	Word	_	20	F	20:F	_
+19	strong	_	Word	Word	_	20	D	20:D	_
+20	influence	_	Word	Word	_	11	E	11:E	_
+21	over	_	Word	Word	_	22	R	22:R	_
+22	her	_	Word	Word	_	20	A	20:A	_
+23	,	_	Punctuation	Punctuation	_	24	U	24:U	_
+24	stayed	_	Word	Word	_	3	H	3:H	_
+25	with	_	Word	Word	_	27	R	27:R	_
+26	the	_	Word	Word	_	27	E	27:E	_
+27	Oliviers	_	Word	Word	_	24	A	24:A	_
+28	and	_	Word	Word	_	30	L	30:L	_
+29	helped	_	Word	Word	_	30	D	30:D	_
+30	calm	_	Word	Word	_	3	H	3:H	_
+31	her	_	Word	Word	_	30	A	30:A	_
+32	.	_	Punctuation	Punctuation	_	30	U	30:U	_
+

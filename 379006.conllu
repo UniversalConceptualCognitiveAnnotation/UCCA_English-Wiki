@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 379006
+# text = The film won the Golden Lion prize at the Venice Film Festival .
+1	The	_	Word	Word	_	2	F	2:F	_
+2	film	_	Word	Word	_	3	A	3:A	_
+3	won	_	Word	Word	_	0	H	0:H	_
+4	the	_	Word	Word	_	7	E	7:E	_
+5	Golden	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	Lion	_	Word	Word	_	4	Terminal	4:Terminal	_
+7	prize	_	Word	Word	_	3	A	3:A	_
+8	at	_	Word	Word	_	10	R	10:R	_
+9	the	_	Word	Word	_	10	F	10:F	_
+10	Venice	_	Word	Word	_	3	A	3:A	_
+11	Film	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	Festival	_	Word	Word	_	10	Terminal	10:Terminal	_
+13	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+

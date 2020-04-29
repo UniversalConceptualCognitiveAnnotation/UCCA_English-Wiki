@@ -1,0 +1,39 @@
+# format = ucca
+# sent_id = 948013
+# text = Stefani 's song " Danger Zone " was widely believed to be about the discovery and its aftermath , which has proven to be impossible because the song was written prior to the incident .
+1	Stefani	_	Word	Word	_	2	A	2:A|15:A	_
+2	's	_	Word	Word	_	3	E	3:E	_
+3	song	_	Word	Word	_	5	E	5:E	_
+4	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+5	Danger	_	Word	Word	_	10	A	10:A	_
+6	Zone	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	"	_	Punctuation	Punctuation	_	10	U	10:U	_
+8	was	_	Word	Word	_	10	F	10:F	_
+9	widely	_	Word	Word	_	10	D	10:D	_
+10	believed	_	Word	Word	_	0	H	0:H	_
+11	to	_	Word	Word	_	13	F	13:F	_
+12	be	_	Word	Word	_	13	F	13:F	_
+13	about	_	Word	Word	_	10	A	10:A	_
+14	the	_	Word	Word	_	15	F	15:F	_
+15	discovery	_	Word	Word	_	13	A	13:A	_
+16	and	_	Word	Word	_	18	L	18:L	_
+17	its	_	Word	Word	_	18	A	18:A	_
+18	aftermath	_	Word	Word	_	15	H	15:H	_
+19	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+20	which	_	Word	Word	_	25	L	25:L	_
+21	has	_	Word	Word	_	25	F	25:F	_
+22	proven	_	Word	Word	_	25	D	25:D	_
+23	to	_	Word	Word	_	25	F	25:F	_
+24	be	_	Word	Word	_	25	F	25:F	_
+25	impossible	_	Word	Word	_	10	H	10:H	_
+26	because	_	Word	Word	_	30	L	30:L	_
+27	the	_	Word	Word	_	28	F	28:F	_
+28	song	_	Word	Word	_	30	A	30:A	_
+29	was	_	Word	Word	_	30	F	30:F	_
+30	written	_	Word	Word	_	10	H	10:H	_
+31	prior	_	Word	Word	_	34	L	34:L	_
+32	to	_	Word	Word	_	31	Terminal	31:Terminal	_
+33	the	_	Word	Word	_	34	E	34:E	_
+34	incident	_	Word	Word	_	10	H	10:H	_
+35	.	_	Punctuation	Punctuation	_	34	U	34:U	_
+

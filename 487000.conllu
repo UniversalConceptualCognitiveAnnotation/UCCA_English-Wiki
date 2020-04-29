@@ -1,0 +1,49 @@
+# format = ucca
+# sent_id = 487000
+# text = That same year , Bana made his film debut in the Australian film The Castle , which tells the story of a Melbourne - based family 's struggles to keep their home by Melbourne 's airport as the airport authority force them to move .
+1	That	_	Word	Word	_	3	F	3:F	_
+2	same	_	Word	Word	_	3	E	3:E	_
+3	year	_	Word	Word	_	6	L	6:L	_
+4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	Bana	_	Word	Word	_	6	A	6:A	_
+6	made	_	Word	Word	_	0	H	0:H	_
+7	his	_	Word	Word	_	9	E	9:E	_
+8	film	_	Word	Word	_	9	E	9:E	_
+9	debut	_	Word	Word	_	6	A	6:A	_
+10	in	_	Word	Word	_	14	R	14:R	_
+11	the	_	Word	Word	_	14	E	14:E	_
+12	Australian	_	Word	Word	_	14	E	14:E	_
+13	film	_	Word	Word	_	14	E	14:E	_
+14	The	_	Word	Word	_	6	A	6:A	_
+15	Castle	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+17	which	_	Word	Word	_	20	R	20:R	_
+18	tells	_	Word	Word	_	20	D	20:D	_
+19	the	_	Word	Word	_	20	E	20:E	_
+20	story	_	Word	Word	_	14	E	14:E	_
+21	of	_	Word	Word	_	28	R	28:R	_
+22	a	_	Word	Word	_	26	E	26:E	_
+23	Melbourne	_	Word	Word	_	26	E	26:E	_
+24	-	_	Punctuation	Punctuation	_	23	U	23:U	_
+25	based	_	Word	Word	_	23	R	23:R	_
+26	family	_	Word	Word	_	28	A	28:A	_
+27	's	_	Word	Word	_	26	R	26:R	_
+28	struggles	_	Word	Word	_	20	A	20:A	_
+29	to	_	Word	Word	_	30	F	30:F	_
+30	keep	_	Word	Word	_	28	A	28:A	_
+31	their	_	Word	Word	_	32	E	32:E	_
+32	home	_	Word	Word	_	30	A	30:A	_
+33	by	_	Word	Word	_	36	R	36:R	_
+34	Melbourne	_	Word	Word	_	36	E	36:E	_
+35	's	_	Word	Word	_	34	R	34:R	_
+36	airport	_	Word	Word	_	32	E	32:E	_
+37	as	_	Word	Word	_	41	L	41:L	_
+38	the	_	Word	Word	_	40	E	40:E	_
+39	airport	_	Word	Word	_	40	E	40:E	_
+40	authority	_	Word	Word	_	41	A	41:A	_
+41	force	_	Word	Word	_	28	H	28:H	_
+42	them	_	Word	Word	_	41	A	41:A|44:A	_
+43	to	_	Word	Word	_	44	F	44:F	_
+44	move	_	Word	Word	_	41	A	41:A	_
+45	.	_	Punctuation	Punctuation	_	44	U	44:U	_
+

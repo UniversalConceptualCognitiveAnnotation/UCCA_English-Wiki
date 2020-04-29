@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 226013
+# text = As a publicity stunt , Jackie also wrote his autobiography in collaboration with Jeff Yang entitled I Am Jackie Chan .
+1	As	_	Word	Word	_	8	L	8:L	_
+2	a	_	Word	Word	_	4	F	4:F	_
+3	publicity	_	Word	Word	_	4	E	4:E	_
+4	stunt	_	Word	Word	_	0	H	0:H	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	Jackie	_	Word	Word	_	8	A	8:A|4:A	_
+7	also	_	Word	Word	_	8	D	8:D	_
+8	wrote	_	Word	Word	_	4	H	4:H	_
+9	his	_	Word	Word	_	10	E	10:E	_
+10	autobiography	_	Word	Word	_	8	A	8:A	_
+11	in	_	Word	Word	_	12	R	12:R	_
+12	collaboration	_	Word	Word	_	8	D	8:D	_
+13	with	_	Word	Word	_	14	R	14:R	_
+14	Jeff	_	Word	Word	_	8	A	8:A	_
+15	Yang	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	entitled	_	Word	Word	_	10	E	10:E	_
+17	I	_	Word	Word	_	16	A	16:A	_
+18	Am	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	Jackie	_	Word	Word	_	17	Terminal	17:Terminal	_
+20	Chan	_	Word	Word	_	17	Terminal	17:Terminal	_
+21	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

@@ -1,0 +1,52 @@
+# format = ucca
+# sent_id = 538013
+# text = Jack , who was still living in Youngstown at the time , arrived on weekends " to sing illustrated song - slides during reel changes " . In 1906 , the brothers purchased a small theater in New Castle , which they called the Cascade Movie Palace .
+1	Jack	_	Word	Word	_	13	A	13:A	_
+2	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+3	who	_	Word	Word	_	6	R	6:R	_
+4	was	_	Word	Word	_	6	F	6:F	_
+5	still	_	Word	Word	_	6	D	6:D	_
+6	living	_	Word	Word	_	1	E	1:E	_
+7	in	_	Word	Word	_	8	R	8:R	_
+8	Youngstown	_	Word	Word	_	6	A	6:A	_
+9	at	_	Word	Word	_	11	R	11:R	_
+10	the	_	Word	Word	_	11	F	11:F	_
+11	time	_	Word	Word	_	6	T	6:T	_
+12	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+13	arrived	_	Word	Word	_	0	H	0:H	_
+14	on	_	Word	Word	_	15	R	15:R	_
+15	weekends	_	Word	Word	_	13	T	13:T	_
+16	"	_	Punctuation	Punctuation	_	13	U	13:U	_
+17	to	_	Word	Word	_	18	F	18:F	_
+18	sing	_	Word	Word	_	13	A	13:A	_
+19	illustrated	_	Word	Word	_	22	E	22:E	_
+20	song	_	Word	Word	_	22	E	22:E	_
+21	-	_	Punctuation	Punctuation	_	22	U	22:U	_
+22	slides	_	Word	Word	_	18	A	18:A	_
+23	during	_	Word	Word	_	25	L	25:L	_
+24	reel	_	Word	Word	_	25	A	25:A	_
+25	changes	_	Word	Word	_	18	H	18:H	_
+26	"	_	Punctuation	Punctuation	_	13	U	13:U	_
+27	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+28	In	_	Word	Word	_	29	R	29:R	_
+29	1906	_	Word	Word	_	33	T	33:T	_
+30	,	_	Punctuation	Punctuation	_	33	U	33:U	_
+31	the	_	Word	Word	_	32	F	32:F	_
+32	brothers	_	Word	Word	_	33	A	33:A	_
+33	purchased	_	Word	Word	_	13	H	13:H	_
+34	a	_	Word	Word	_	36	F	36:F	_
+35	small	_	Word	Word	_	36	E	36:E	_
+36	theater	_	Word	Word	_	33	A	33:A	_
+37	in	_	Word	Word	_	38	R	38:R	_
+38	New	_	Word	Word	_	33	A	33:A	_
+39	Castle	_	Word	Word	_	38	Terminal	38:Terminal	_
+40	,	_	Punctuation	Punctuation	_	33	U	33:U	_
+41	which	_	Word	Word	_	43	R	43:R	_
+42	they	_	Word	Word	_	43	A	43:A	_
+43	called	_	Word	Word	_	36	E	36:E	_
+44	the	_	Word	Word	_	45	F	45:F	_
+45	Cascade	_	Word	Word	_	43	A	43:A	_
+46	Movie	_	Word	Word	_	45	Terminal	45:Terminal	_
+47	Palace	_	Word	Word	_	45	Terminal	45:Terminal	_
+48	.	_	Punctuation	Punctuation	_	45	U	45:U	_
+

@@ -1,0 +1,35 @@
+# format = ucca
+# sent_id = 650008
+# text = Biographer Bill Harry records that following Bloody Sunday , Lennon and Ono financially supported the production of the film The Irish Tapes , a political documentary with a Republican slant .
+1	Biographer	_	Word	Word	_	4	A	4:A	_
+2	Bill	_	Word	Word	_	1	A	1:A	_
+3	Harry	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	records	_	Word	Word	_	0	H	0:H	_
+5	that	_	Word	Word	_	7	R	7:R	_
+6	following	_	Word	Word	_	14	L	14:L	_
+7	Bloody	_	Word	Word	_	4	A	4:A	_
+8	Sunday	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+10	Lennon	_	Word	Word	_	14	A	14:A	_
+11	and	_	Word	Word	_	10	N	10:N	_
+12	Ono	_	Word	Word	_	10	C	10:C	_
+13	financially	_	Word	Word	_	14	D	14:D	_
+14	supported	_	Word	Word	_	7	H	7:H	_
+15	the	_	Word	Word	_	16	E	16:E	_
+16	production	_	Word	Word	_	14	A	14:A	_
+17	of	_	Word	Word	_	20	R	20:R	_
+18	the	_	Word	Word	_	19	E	19:E	_
+19	film	_	Word	Word	_	20	E	20:E	_
+20	The	_	Word	Word	_	16	A	16:A	_
+21	Irish	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	Tapes	_	Word	Word	_	20	Terminal	20:Terminal	_
+23	,	_	Punctuation	Punctuation	_	20	U	20:U	_
+24	a	_	Word	Word	_	26	E	26:E	_
+25	political	_	Word	Word	_	26	E	26:E	_
+26	documentary	_	Word	Word	_	20	E	20:E	_
+27	with	_	Word	Word	_	30	R	30:R	_
+28	a	_	Word	Word	_	30	E	30:E	_
+29	Republican	_	Word	Word	_	30	E	30:E	_
+30	slant	_	Word	Word	_	26	E	26:E	_
+31	.	_	Punctuation	Punctuation	_	30	U	30:U	_
+

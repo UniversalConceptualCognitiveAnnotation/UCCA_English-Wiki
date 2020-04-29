@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 611010
+# text = He played to over 100,000 people total during two performances in Mexico City in May , the shows grossing nearly $ 6million .
+1	He	_	Word	Word	_	2	A	2:A|10:A	_
+2	played	_	Word	Word	_	0	H	0:H	_
+3	to	_	Word	Word	_	6	R	6:R	_
+4	over	_	Word	Word	_	5	E	5:E	_
+5	100,000	_	Word	Word	_	6	Q	6:Q	_
+6	people	_	Word	Word	_	2	A	2:A	_
+7	total	_	Word	Word	_	6	E	6:E	_
+8	during	_	Word	Word	_	10	L	10:L	_
+9	two	_	Word	Word	_	10	D	10:D	_
+10	performances	_	Word	Word	_	2	H	2:H	_
+11	in	_	Word	Word	_	12	R	12:R	_
+12	Mexico	_	Word	Word	_	10	A	10:A	_
+13	City	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	in	_	Word	Word	_	15	R	15:R	_
+15	May	_	Word	Word	_	10	T	10:T	_
+16	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+17	the	_	Word	Word	_	18	E	18:E	_
+18	shows	_	Word	Word	_	19	A	19:A	_
+19	grossing	_	Word	Word	_	2	H	2:H	_
+20	nearly	_	Word	Word	_	21	E	21:E	_
+21	$	_	Word	Word	_	19	A	19:A	_
+22	6million	_	Word	Word	_	21	Q	21:Q	_
+23	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

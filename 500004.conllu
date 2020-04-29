@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 500004
+# text = Choreographed by Toni Basil , and lavishly produced with theatrical special effects , the high - budget stage production was filmed by Alan Yentob .
+1	Choreographed	_	Word	Word	_	0	H	0:H	_
+2	by	_	Word	Word	_	3	R	3:R	_
+3	Toni	_	Word	Word	_	1	A	1:A	_
+4	Basil	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+6	and	_	Word	Word	_	8	L	8:L	_
+7	lavishly	_	Word	Word	_	8	D	8:D	_
+8	produced	_	Word	Word	_	1	H	1:H	_
+9	with	_	Word	Word	_	12	R	12:R	_
+10	theatrical	_	Word	Word	_	12	E	12:E	_
+11	special	_	Word	Word	_	12	E	12:E	_
+12	effects	_	Word	Word	_	8	A	8:A	_
+13	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+14	the	_	Word	Word	_	19	E	19:E	_
+15	high	_	Word	Word	_	17	E	17:E	_
+16	-	_	Punctuation	Punctuation	_	17	U	17:U	_
+17	budget	_	Word	Word	_	19	A	19:A	_
+18	stage	_	Word	Word	_	19	A	19:A	_
+19	production	_	Word	Word	_	0	C	0:C|1:A|8:A	_
+20	was	_	Word	Word	_	21	F	21:F	_
+21	filmed	_	Word	Word	_	1	H	1:H	_
+22	by	_	Word	Word	_	23	R	23:R	_
+23	Alan	_	Word	Word	_	21	A	21:A	_
+24	Yentob	_	Word	Word	_	23	Terminal	23:Terminal	_
+25	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

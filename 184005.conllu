@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 184005
+# text = After performing in Philadelphia , Washington and Boston , she made her Broadway debut in 1929 in Broken Dishes , and followed it with Solid South .
+1	After	_	Word	Word	_	14	L	14:L	_
+2	performing	_	Word	Word	_	0	H	0:H	_
+3	in	_	Word	Word	_	4	R	4:R	_
+4	Philadelphia	_	Word	Word	_	2	A	2:A	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	Washington	_	Word	Word	_	4	C	4:C	_
+7	and	_	Word	Word	_	4	N	4:N	_
+8	Boston	_	Word	Word	_	4	C	4:C	_
+9	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+10	she	_	Word	Word	_	14	A	14:A|2:A|22:A	_
+11	made	_	Word	Word	_	14	F	14:F	_
+12	her	_	Word	Word	_	14	F	14:F	_
+13	Broadway	_	Word	Word	_	14	A	14:A	_
+14	debut	_	Word	Word	_	2	H	2:H	_
+15	in	_	Word	Word	_	16	R	16:R	_
+16	1929	_	Word	Word	_	14	T	14:T	_
+17	in	_	Word	Word	_	18	R	18:R	_
+18	Broken	_	Word	Word	_	14	A	14:A	_
+19	Dishes	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+21	and	_	Word	Word	_	22	L	22:L	_
+22	followed	_	Word	Word	_	2	H	2:H	_
+23	it	_	Word	Word	_	22	A	22:A	_
+24	with	_	Word	Word	_	25	R	25:R	_
+25	Solid	_	Word	Word	_	22	A	22:A	_
+26	South	_	Word	Word	_	25	Terminal	25:Terminal	_
+27	.	_	Punctuation	Punctuation	_	25	U	25:U	_
+

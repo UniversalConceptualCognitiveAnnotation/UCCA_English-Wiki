@@ -1,0 +1,42 @@
+# format = ucca
+# sent_id = 544008
+# text = The film project , which was recommended to Jack Warner by FBI Director J . Edgar Hoover , drew on the real - life experiences of agent Leon Turrou , who had worked as an undercover agent .
+1	The	_	Word	Word	_	3	F	3:F	_
+2	film	_	Word	Word	_	3	A	3:A	_
+3	project	_	Word	Word	_	0	P	0:P|7:A	_
+4	,	_	Punctuation	Punctuation	_	19	U	19:U	_
+5	which	_	Word	Word	_	7	L	7:L	_
+6	was	_	Word	Word	_	7	F	7:F	_
+7	recommended	_	Word	Word	_	19	H	19:H	_
+8	to	_	Word	Word	_	9	R	9:R	_
+9	Jack	_	Word	Word	_	7	A	7:A	_
+10	Warner	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	by	_	Word	Word	_	14	R	14:R	_
+12	FBI	_	Word	Word	_	14	E	14:E	_
+13	Director	_	Word	Word	_	12	A	12:A	_
+14	J	_	Word	Word	_	7	A	7:A	_
+15	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+16	Edgar	_	Word	Word	_	14	Terminal	14:Terminal	_
+17	Hoover	_	Word	Word	_	14	Terminal	14:Terminal	_
+18	,	_	Punctuation	Punctuation	_	19	U	19:U	_
+19	drew	_	Word	Word	_	0	H	0:H	_
+20	on	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	the	_	Word	Word	_	22	E	22:E	_
+22	real	_	Word	Word	_	25	D	25:D	_
+23	-	_	Punctuation	Punctuation	_	22	U	22:U	_
+24	life	_	Word	Word	_	22	Terminal	22:Terminal	_
+25	experiences	_	Word	Word	_	19	A	19:A	_
+26	of	_	Word	Word	_	28	R	28:R	_
+27	agent	_	Word	Word	_	28	E	28:E	_
+28	Leon	_	Word	Word	_	25	A	25:A	_
+29	Turrou	_	Word	Word	_	28	Terminal	28:Terminal	_
+30	,	_	Punctuation	Punctuation	_	28	U	28:U	_
+31	who	_	Word	Word	_	37	R	37:R	_
+32	had	_	Word	Word	_	37	F	37:F	_
+33	worked	_	Word	Word	_	37	D	37:D	_
+34	as	_	Word	Word	_	37	R	37:R	_
+35	an	_	Word	Word	_	37	E	37:E	_
+36	undercover	_	Word	Word	_	37	D	37:D	_
+37	agent	_	Word	Word	_	28	E	28:E	_
+38	.	_	Punctuation	Punctuation	_	37	U	37:U	_
+

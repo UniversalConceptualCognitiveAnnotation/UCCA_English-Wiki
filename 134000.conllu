@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 134000
+# text = Since Woman of the Year Hepburn had committed to a romantic relationship with Tracy and dedicated herself to helping the star , who suffered from alcoholism and insomnia .
+1	Since	_	Word	Word	_	8	L	8:L	_
+2	Woman	_	Word	Word	_	0	H	0:H	_
+3	of	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	the	_	Word	Word	_	2	Terminal	2:Terminal	_
+5	Year	_	Word	Word	_	2	Terminal	2:Terminal	_
+6	Hepburn	_	Word	Word	_	8	A	8:A|2:A|12:A|16:A|19:A	_
+7	had	_	Word	Word	_	8	F	8:F	_
+8	committed	_	Word	Word	_	2	H	2:H	_
+9	to	_	Word	Word	_	12	F	12:F	_
+10	a	_	Word	Word	_	12	F	12:F	_
+11	romantic	_	Word	Word	_	12	D	12:D	_
+12	relationship	_	Word	Word	_	8	A	8:A	_
+13	with	_	Word	Word	_	14	R	14:R	_
+14	Tracy	_	Word	Word	_	12	A	12:A	_
+15	and	_	Word	Word	_	16	L	16:L	_
+16	dedicated	_	Word	Word	_	2	H	2:H	_
+17	herself	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	to	_	Word	Word	_	19	F	19:F	_
+19	helping	_	Word	Word	_	16	A	16:A	_
+20	the	_	Word	Word	_	21	F	21:F	_
+21	star	_	Word	Word	_	19	A	19:A	_
+22	,	_	Punctuation	Punctuation	_	21	U	21:U	_
+23	who	_	Word	Word	_	24	F	24:F	_
+24	suffered	_	Word	Word	_	21	E	21:E	_
+25	from	_	Word	Word	_	26	R	26:R|28:R	_
+26	alcoholism	_	Word	Word	_	24	A	24:A	_
+27	and	_	Word	Word	_	28	L	28:L	_
+28	insomnia	_	Word	Word	_	26	H	26:H	_
+29	.	_	Punctuation	Punctuation	_	28	U	28:U	_
+

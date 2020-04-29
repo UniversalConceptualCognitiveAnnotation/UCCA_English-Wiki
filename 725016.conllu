@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 725016
+# text = The Detroit Free Press concluded , " Jolie , while always delicious to look at , is simply and woefully miscast . "
+1	The	_	Word	Word	_	5	A	5:A	_
+2	Detroit	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	Free	_	Word	Word	_	1	Terminal	1:Terminal	_
+4	Press	_	Word	Word	_	1	Terminal	1:Terminal	_
+5	concluded	_	Word	Word	_	0	H	0:H	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+8	Jolie	_	Word	Word	_	21	A	21:A|15:C	_
+9	,	_	Punctuation	Punctuation	_	21	U	21:U	_
+10	while	_	Word	Word	_	14	L	14:L	_
+11	always	_	Word	Word	_	14	T	14:T	_
+12	delicious	_	Word	Word	_	14	D	14:D	_
+13	to	_	Word	Word	_	14	F	14:F	_
+14	look	_	Word	Word	_	21	H	21:H	_
+15	at	_	Word	Word	_	14	A	14:A	_
+16	,	_	Punctuation	Punctuation	_	21	U	21:U	_
+17	is	_	Word	Word	_	21	F	21:F	_
+18	simply	_	Word	Word	_	21	G	21:G	_
+19	and	_	Word	Word	_	18	N	18:N	_
+20	woefully	_	Word	Word	_	18	C	18:C	_
+21	miscast	_	Word	Word	_	5	A	5:A	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+23	"	_	Punctuation	Punctuation	_	21	U	21:U	_
+

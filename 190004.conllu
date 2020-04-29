@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 190004
+# text = He then spent several months at the Los Angeles offices of Castle Rock , working on the script with Rob Reiner .
+1	He	_	Word	Word	_	3	A	3:A|15:A	_
+2	then	_	Word	Word	_	15	L	15:L	_
+3	spent	_	Word	Word	_	0	H	0:H	_
+4	several	_	Word	Word	_	5	Q	5:Q	_
+5	months	_	Word	Word	_	3	T	3:T	_
+6	at	_	Word	Word	_	12	R	12:R	_
+7	the	_	Word	Word	_	10	E	10:E	_
+8	Los	_	Word	Word	_	10	E	10:E	_
+9	Angeles	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	offices	_	Word	Word	_	12	E	12:E	_
+11	of	_	Word	Word	_	10	R	10:R	_
+12	Castle	_	Word	Word	_	3	A	3:A	_
+13	Rock	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+15	working	_	Word	Word	_	3	H	3:H	_
+16	on	_	Word	Word	_	18	R	18:R	_
+17	the	_	Word	Word	_	18	E	18:E	_
+18	script	_	Word	Word	_	15	A	15:A	_
+19	with	_	Word	Word	_	20	R	20:R	_
+20	Rob	_	Word	Word	_	15	A	15:A	_
+21	Reiner	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+

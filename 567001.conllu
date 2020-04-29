@@ -1,0 +1,39 @@
+# format = ucca
+# sent_id = 567001
+# text = Under the headline " Presley Records a Craze in Soviet " , The New York Times reported that pressings of his music on discarded X - ray plates were commanding high prices in Leningrad .
+1	Under	_	Word	Word	_	5	R	5:R	_
+2	the	_	Word	Word	_	3	F	3:F	_
+3	headline	_	Word	Word	_	5	E	5:E	_
+4	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+5	Presley	_	Word	Word	_	17	A	17:A	_
+6	Records	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	a	_	Word	Word	_	5	Terminal	5:Terminal	_
+8	Craze	_	Word	Word	_	5	Terminal	5:Terminal	_
+9	in	_	Word	Word	_	5	Terminal	5:Terminal	_
+10	Soviet	_	Word	Word	_	5	Terminal	5:Terminal	_
+11	"	_	Punctuation	Punctuation	_	17	U	17:U	_
+12	,	_	Punctuation	Punctuation	_	17	U	17:U	_
+13	The	_	Word	Word	_	17	A	17:A	_
+14	New	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	York	_	Word	Word	_	13	Terminal	13:Terminal	_
+16	Times	_	Word	Word	_	13	Terminal	13:Terminal	_
+17	reported	_	Word	Word	_	0	H	0:H	_
+18	that	_	Word	Word	_	30	R	30:R	_
+19	pressings	_	Word	Word	_	30	A	30:A	_
+20	of	_	Word	Word	_	22	R	22:R	_
+21	his	_	Word	Word	_	22	E	22:E	_
+22	music	_	Word	Word	_	19	E	19:E	_
+23	on	_	Word	Word	_	28	R	28:R	_
+24	discarded	_	Word	Word	_	28	E	28:E	_
+25	X	_	Word	Word	_	28	E	28:E	_
+26	-	_	Punctuation	Punctuation	_	25	U	25:U	_
+27	ray	_	Word	Word	_	25	Terminal	25:Terminal	_
+28	plates	_	Word	Word	_	19	E	19:E	_
+29	were	_	Word	Word	_	30	F	30:F	_
+30	commanding	_	Word	Word	_	17	A	17:A	_
+31	high	_	Word	Word	_	32	E	32:E	_
+32	prices	_	Word	Word	_	30	A	30:A	_
+33	in	_	Word	Word	_	34	R	34:R	_
+34	Leningrad	_	Word	Word	_	30	A	30:A	_
+35	.	_	Punctuation	Punctuation	_	34	U	34:U	_
+

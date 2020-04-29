@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 942018
+# text = Eric was the keyboardist for No Doubt ; he left the band to pursue a career in animation on The Simpsons on the Fox TV network .
+1	Eric	_	Word	Word	_	4	A	4:A	_
+2	was	_	Word	Word	_	4	F	4:F	_
+3	the	_	Word	Word	_	4	E	4:E	_
+4	keyboardist	_	Word	Word	_	0	H	0:H	_
+5	for	_	Word	Word	_	6	R	6:R	_
+6	No	_	Word	Word	_	4	A	4:A	_
+7	Doubt	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	;	_	Punctuation	Punctuation	_	4	U	4:U	_
+9	he	_	Word	Word	_	10	A	10:A|16:A	_
+10	left	_	Word	Word	_	4	H	4:H	_
+11	the	_	Word	Word	_	12	E	12:E	_
+12	band	_	Word	Word	_	10	A	10:A	_
+13	to	_	Word	Word	_	16	L	16:L	_
+14	pursue	_	Word	Word	_	16	D	16:D	_
+15	a	_	Word	Word	_	16	E	16:E	_
+16	career	_	Word	Word	_	4	H	4:H	_
+17	in	_	Word	Word	_	18	R	18:R	_
+18	animation	_	Word	Word	_	16	A	16:A	_
+19	on	_	Word	Word	_	20	R	20:R	_
+20	The	_	Word	Word	_	18	E	18:E	_
+21	Simpsons	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	on	_	Word	Word	_	24	R	24:R	_
+23	the	_	Word	Word	_	24	E	24:E	_
+24	Fox	_	Word	Word	_	18	E	18:E	_
+25	TV	_	Word	Word	_	24	Terminal	24:Terminal	_
+26	network	_	Word	Word	_	24	E	24:E	_
+27	.	_	Punctuation	Punctuation	_	24	U	24:U	_
+

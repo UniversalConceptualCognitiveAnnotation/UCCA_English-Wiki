@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 137000
+# text = In the summer of 1952 , Hepburn appeared in London 's West End for a ten - week run of George Bernard Shaw 's The Millionairess .
+1	In	_	Word	Word	_	3	R	3:R	_
+2	the	_	Word	Word	_	3	E	3:E	_
+3	summer	_	Word	Word	_	8	T	8:T	_
+4	of	_	Word	Word	_	5	R	5:R	_
+5	1952	_	Word	Word	_	3	E	3:E	_
+6	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	Hepburn	_	Word	Word	_	8	A	8:A	_
+8	appeared	_	Word	Word	_	0	H	0:H	_
+9	in	_	Word	Word	_	13	R	13:R	_
+10	London	_	Word	Word	_	13	E	13:E	_
+11	's	_	Word	Word	_	13	R	13:R	_
+12	West	_	Word	Word	_	13	E	13:E	_
+13	End	_	Word	Word	_	8	A	8:A	_
+14	for	_	Word	Word	_	19	R	19:R	_
+15	a	_	Word	Word	_	18	E	18:E	_
+16	ten	_	Word	Word	_	18	Q	18:Q	_
+17	-	_	Punctuation	Punctuation	_	18	U	18:U	_
+18	week	_	Word	Word	_	19	T	19:T	_
+19	run	_	Word	Word	_	8	A	8:A	_
+20	of	_	Word	Word	_	24	R	24:R	_
+21	George	_	Word	Word	_	24	A	24:A	_
+22	Bernard	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	Shaw	_	Word	Word	_	21	Terminal	21:Terminal	_
+24	's	_	Word	Word	_	19	A	19:A	_
+25	The	_	Word	Word	_	24	A	24:A	_
+26	Millionairess	_	Word	Word	_	25	Terminal	25:Terminal	_
+27	.	_	Punctuation	Punctuation	_	24	U	24:U	_
+

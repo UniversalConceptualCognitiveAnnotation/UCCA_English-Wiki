@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 204000
+# text = In 1987 , Sorkin started using marijuana and cocaine .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1987	_	Word	Word	_	6	T	6:T	_
+3	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+4	Sorkin	_	Word	Word	_	6	A	6:A	_
+5	started	_	Word	Word	_	6	D	6:D	_
+6	using	_	Word	Word	_	0	H	0:H	_
+7	marijuana	_	Word	Word	_	6	A	6:A	_
+8	and	_	Word	Word	_	7	N	7:N	_
+9	cocaine	_	Word	Word	_	7	C	7:C	_
+10	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

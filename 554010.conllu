@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 554010
+# text = Gladys was regarded by relatives and friends as the dominant member of the small family .
+1	Gladys	_	Word	Word	_	3	A	3:A	_
+2	was	_	Word	Word	_	3	F	3:F	_
+3	regarded	_	Word	Word	_	0	H	0:H	_
+4	by	_	Word	Word	_	5	R	5:R|7:R	_
+5	relatives	_	Word	Word	_	3	A	3:A	_
+6	and	_	Word	Word	_	7	L	7:L	_
+7	friends	_	Word	Word	_	5	H	5:H	_
+8	as	_	Word	Word	_	11	R	11:R	_
+9	the	_	Word	Word	_	11	F	11:F	_
+10	dominant	_	Word	Word	_	11	D	11:D	_
+11	member	_	Word	Word	_	3	A	3:A	_
+12	of	_	Word	Word	_	15	R	15:R	_
+13	the	_	Word	Word	_	15	F	15:F	_
+14	small	_	Word	Word	_	15	D	15:D	_
+15	family	_	Word	Word	_	11	A	11:A	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

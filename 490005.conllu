@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 490005
+# text = In 2011 , Bana appeared as Erik Heller in the action thriller film Hanna , starring alongside Saoirse Ronan & Cate Blanchett .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	2011	_	Word	Word	_	5	T	5:T	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	Bana	_	Word	Word	_	5	A	5:A|16:A	_
+5	appeared	_	Word	Word	_	0	H	0:H	_
+6	as	_	Word	Word	_	7	R	7:R	_
+7	Erik	_	Word	Word	_	5	A	5:A	_
+8	Heller	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	in	_	Word	Word	_	14	R	14:R	_
+10	the	_	Word	Word	_	14	E	14:E	_
+11	action	_	Word	Word	_	12	E	12:E	_
+12	thriller	_	Word	Word	_	13	E	13:E	_
+13	film	_	Word	Word	_	14	E	14:E	_
+14	Hanna	_	Word	Word	_	5	A	5:A	_
+15	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+16	starring	_	Word	Word	_	5	H	5:H	_
+17	alongside	_	Word	Word	_	18	R	18:R	_
+18	Saoirse	_	Word	Word	_	16	A	16:A	_
+19	Ronan	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	&	_	Word	Word	_	18	N	18:N	_
+21	Cate	_	Word	Word	_	18	C	18:C	_
+22	Blanchett	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

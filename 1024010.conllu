@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 1024010
+# text = He also co - wrote the charity single " We Are the World " in 1985 with Lionel Richie , which was released worldwide to aid the poor in the U.S. and Africa .
+1	He	_	Word	Word	_	5	A	5:A	_
+2	also	_	Word	Word	_	5	D	5:D	_
+3	co	_	Word	Word	_	5	D	5:D	_
+4	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+5	wrote	_	Word	Word	_	0	H	0:H	_
+6	the	_	Word	Word	_	8	E	8:E	_
+7	charity	_	Word	Word	_	8	E	8:E	_
+8	single	_	Word	Word	_	10	E	10:E	_
+9	"	_	Punctuation	Punctuation	_	10	U	10:U	_
+10	We	_	Word	Word	_	5	A	5:A	_
+11	Are	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	the	_	Word	Word	_	10	Terminal	10:Terminal	_
+13	World	_	Word	Word	_	10	Terminal	10:Terminal	_
+14	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+15	in	_	Word	Word	_	16	R	16:R	_
+16	1985	_	Word	Word	_	5	T	5:T	_
+17	with	_	Word	Word	_	18	R	18:R	_
+18	Lionel	_	Word	Word	_	5	A	5:A	_
+19	Richie	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+21	which	_	Word	Word	_	23	R	23:R	_
+22	was	_	Word	Word	_	23	F	23:F	_
+23	released	_	Word	Word	_	10	E	10:E	_
+24	worldwide	_	Word	Word	_	23	A	23:A	_
+25	to	_	Word	Word	_	26	L	26:L	_
+26	aid	_	Word	Word	_	23	H	23:H	_
+27	the	_	Word	Word	_	28	E	28:E	_
+28	poor	_	Word	Word	_	26	A	26:A	_
+29	in	_	Word	Word	_	31	R	31:R	_
+30	the	_	Word	Word	_	31	E	31:E	_
+31	U.S.	_	Word	Word	_	28	A	28:A	_
+32	and	_	Word	Word	_	31	N	31:N	_
+33	Africa	_	Word	Word	_	31	C	31:C	_
+34	.	_	Punctuation	Punctuation	_	31	U	31:U	_
+

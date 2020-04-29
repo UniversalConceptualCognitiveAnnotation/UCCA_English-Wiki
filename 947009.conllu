@@ -1,0 +1,37 @@
+# format = ucca
+# sent_id = 947009
+# text = Stefani lent her voice to the title character of the 2004 video game Malice ; before completion , however , the company opted not to use No Doubt band members ' voices .
+1	Stefani	_	Word	Word	_	2	A	2:A	_
+2	lent	_	Word	Word	_	0	H	0:H	_
+3	her	_	Word	Word	_	4	E	4:E	_
+4	voice	_	Word	Word	_	2	A	2:A	_
+5	to	_	Word	Word	_	8	R	8:R	_
+6	the	_	Word	Word	_	8	E	8:E	_
+7	title	_	Word	Word	_	8	E	8:E	_
+8	character	_	Word	Word	_	2	A	2:A	_
+9	of	_	Word	Word	_	14	R	14:R	_
+10	the	_	Word	Word	_	13	E	13:E	_
+11	2004	_	Word	Word	_	13	E	13:E	_
+12	video	_	Word	Word	_	13	E	13:E	_
+13	game	_	Word	Word	_	14	E	14:E	_
+14	Malice	_	Word	Word	_	0	C	0:C|17:A	_
+15	;	_	Punctuation	Punctuation	_	2	U	2:U	_
+16	before	_	Word	Word	_	17	L	17:L	_
+17	completion	_	Word	Word	_	2	H	2:H	_
+18	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+19	however	_	Word	Word	_	23	L	23:L	_
+20	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+21	the	_	Word	Word	_	22	E	22:E	_
+22	company	_	Word	Word	_	0	C	0:C|17:A|26:A	_
+23	opted	_	Word	Word	_	2	H	2:H	_
+24	not	_	Word	Word	_	26	D	26:D	_
+25	to	_	Word	Word	_	26	F	26:F	_
+26	use	_	Word	Word	_	23	A	23:A	_
+27	No	_	Word	Word	_	30	A	30:A	_
+28	Doubt	_	Word	Word	_	27	Terminal	27:Terminal	_
+29	band	_	Word	Word	_	30	E	30:E	_
+30	members	_	Word	Word	_	32	E	32:E	_
+31	'	_	Punctuation	Punctuation	_	32	U	32:U	_
+32	voices	_	Word	Word	_	26	A	26:A	_
+33	.	_	Punctuation	Punctuation	_	32	U	32:U	_
+

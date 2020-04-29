@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 237003
+# text = Other ventures include Jackie Chan Signature Club gyms ( a partnership with California Fitness ) , and a line of chocolates , cookies and nutritional oatcakes .
+1	Other	_	Word	Word	_	2	E	2:E	_
+2	ventures	_	Word	Word	_	3	A	3:A	_
+3	include	_	Word	Word	_	0	H	0:H	_
+4	Jackie	_	Word	Word	_	8	E	8:E	_
+5	Chan	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	Signature	_	Word	Word	_	4	Terminal	4:Terminal	_
+7	Club	_	Word	Word	_	4	Terminal	4:Terminal	_
+8	gyms	_	Word	Word	_	3	A	3:A	_
+9	(	_	Punctuation	Punctuation	_	8	U	8:U	_
+10	a	_	Word	Word	_	11	F	11:F	_
+11	partnership	_	Word	Word	_	8	E	8:E	_
+12	with	_	Word	Word	_	13	R	13:R	_
+13	California	_	Word	Word	_	11	A	11:A	_
+14	Fitness	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	)	_	Punctuation	Punctuation	_	8	U	8:U	_
+16	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+17	and	_	Word	Word	_	8	N	8:N	_
+18	a	_	Word	Word	_	21	F	21:F	_
+19	line	_	Word	Word	_	21	E	21:E	_
+20	of	_	Word	Word	_	21	R	21:R	_
+21	chocolates	_	Word	Word	_	8	C	8:C	_
+22	,	_	Punctuation	Punctuation	_	21	U	21:U	_
+23	cookies	_	Word	Word	_	21	C	21:C	_
+24	and	_	Word	Word	_	21	N	21:N	_
+25	nutritional	_	Word	Word	_	26	E	26:E	_
+26	oatcakes	_	Word	Word	_	21	C	21:C	_
+27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+

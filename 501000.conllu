@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 501000
+# text = Station to Station ( 1976 ) introduced a new Bowie persona , the " Thin White Duke " of its title track .
+1	Station	_	Word	Word	_	7	A	7:A	_
+2	to	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	Station	_	Word	Word	_	1	Terminal	1:Terminal	_
+4	(	_	Punctuation	Punctuation	_	7	U	7:U	_
+5	1976	_	Word	Word	_	7	T	7:T	_
+6	)	_	Punctuation	Punctuation	_	7	U	7:U	_
+7	introduced	_	Word	Word	_	0	H	0:H	_
+8	a	_	Word	Word	_	11	E	11:E	_
+9	new	_	Word	Word	_	11	E	11:E	_
+10	Bowie	_	Word	Word	_	11	E	11:E	_
+11	persona	_	Word	Word	_	7	A	7:A	_
+12	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+13	the	_	Word	Word	_	15	E	15:E	_
+14	"	_	Punctuation	Punctuation	_	15	U	15:U	_
+15	Thin	_	Word	Word	_	11	E	11:E	_
+16	White	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	Duke	_	Word	Word	_	15	Terminal	15:Terminal	_
+18	"	_	Punctuation	Punctuation	_	15	U	15:U	_
+19	of	_	Word	Word	_	21	R	21:R	_
+20	its	_	Word	Word	_	21	E	21:E	_
+21	title	_	Word	Word	_	15	E	15:E	_
+22	track	_	Word	Word	_	21	E	21:E	_
+23	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

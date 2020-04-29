@@ -1,0 +1,44 @@
+# format = ucca
+# sent_id = 725000
+# text = In accordance with Lee Strasberg 's method acting , Jolie preferred to stay in character in between scenes during many of her early films , and as a result had gained a reputation for being difficult to deal with .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	accordance	_	Word	Word	_	14	L	14:L	_
+3	with	_	Word	Word	_	2	R	2:R	_
+4	Lee	_	Word	Word	_	7	A	7:A	_
+5	Strasberg	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	's	_	Word	Word	_	4	R	4:R	_
+7	method	_	Word	Word	_	0	H	0:H	_
+8	acting	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+10	Jolie	_	Word	Word	_	14	A	14:A|33:A|39:C	_
+11	preferred	_	Word	Word	_	14	D	14:D	_
+12	to	_	Word	Word	_	14	F	14:F	_
+13	stay	_	Word	Word	_	14	D	14:D	_
+14	in	_	Word	Word	_	7	H	7:H	_
+15	character	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	in	_	Word	Word	_	18	L	18:L	_
+17	between	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	scenes	_	Word	Word	_	7	H	7:H	_
+19	during	_	Word	Word	_	24	L	24:L	_
+20	many	_	Word	Word	_	24	Q	24:Q	_
+21	of	_	Word	Word	_	24	R	24:R	_
+22	her	_	Word	Word	_	24	E	24:E	_
+23	early	_	Word	Word	_	24	E	24:E	_
+24	films	_	Word	Word	_	7	H	7:H	_
+25	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+26	and	_	Word	Word	_	33	L	33:L	_
+27	as	_	Word	Word	_	29	R	29:R	_
+28	a	_	Word	Word	_	29	E	29:E	_
+29	result	_	Word	Word	_	33	L	33:L	_
+30	had	_	Word	Word	_	33	F	33:F	_
+31	gained	_	Word	Word	_	33	D	33:D	_
+32	a	_	Word	Word	_	33	E	33:E	_
+33	reputation	_	Word	Word	_	7	H	7:H	_
+34	for	_	Word	Word	_	38	R	38:R	_
+35	being	_	Word	Word	_	38	F	38:F	_
+36	difficult	_	Word	Word	_	38	D	38:D	_
+37	to	_	Word	Word	_	38	F	38:F	_
+38	deal	_	Word	Word	_	33	A	33:A	_
+39	with	_	Word	Word	_	38	A	38:A	_
+40	.	_	Punctuation	Punctuation	_	39	U	39:U	_
+

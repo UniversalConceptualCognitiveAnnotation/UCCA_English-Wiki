@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 950000
+# text = In 2006 , Stefani modified her image , inspired by that of Michelle Pfeiffer 's character in the 1983 film Scarface .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	2006	_	Word	Word	_	5	T	5:T	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	Stefani	_	Word	Word	_	5	A	5:A|9:A	_
+5	modified	_	Word	Word	_	0	H	0:H	_
+6	her	_	Word	Word	_	7	E	7:E	_
+7	image	_	Word	Word	_	5	A	5:A	_
+8	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+9	inspired	_	Word	Word	_	5	H	5:H	_
+10	by	_	Word	Word	_	11	R	11:R	_
+11	that	_	Word	Word	_	9	A	9:A	_
+12	of	_	Word	Word	_	16	R	16:R	_
+13	Michelle	_	Word	Word	_	16	E	16:E	_
+14	Pfeiffer	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	's	_	Word	Word	_	13	R	13:R	_
+16	character	_	Word	Word	_	11	E	11:E	_
+17	in	_	Word	Word	_	21	R	21:R	_
+18	the	_	Word	Word	_	20	E	20:E	_
+19	1983	_	Word	Word	_	20	E	20:E	_
+20	film	_	Word	Word	_	21	E	21:E	_
+21	Scarface	_	Word	Word	_	16	E	16:E	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

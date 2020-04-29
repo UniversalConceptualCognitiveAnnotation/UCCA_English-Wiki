@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 188000
+# text = He continued writing and eventually put together his first play Removing All Doubt which he sent to his old theatre teacher , Arthur Storch , who was impressed .
+1	He	_	Word	Word	_	3	A	3:A|6:A	_
+2	continued	_	Word	Word	_	3	D	3:D	_
+3	writing	_	Word	Word	_	0	H	0:H	_
+4	and	_	Word	Word	_	6	L	6:L	_
+5	eventually	_	Word	Word	_	6	L	6:L	_
+6	put	_	Word	Word	_	3	H	3:H	_
+7	together	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	his	_	Word	Word	_	10	E	10:E	_
+9	first	_	Word	Word	_	10	Q	10:Q	_
+10	play	_	Word	Word	_	11	E	11:E	_
+11	Removing	_	Word	Word	_	6	A	6:A	_
+12	All	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	Doubt	_	Word	Word	_	11	Terminal	11:Terminal	_
+14	which	_	Word	Word	_	16	R	16:R	_
+15	he	_	Word	Word	_	16	A	16:A	_
+16	sent	_	Word	Word	_	11	E	11:E	_
+17	to	_	Word	Word	_	23	R	23:R	_
+18	his	_	Word	Word	_	21	A	21:A	_
+19	old	_	Word	Word	_	21	D	21:D	_
+20	theatre	_	Word	Word	_	21	A	21:A	_
+21	teacher	_	Word	Word	_	23	E	23:E	_
+22	,	_	Punctuation	Punctuation	_	23	U	23:U	_
+23	Arthur	_	Word	Word	_	16	A	16:A	_
+24	Storch	_	Word	Word	_	23	Terminal	23:Terminal	_
+25	,	_	Punctuation	Punctuation	_	23	U	23:U	_
+26	who	_	Word	Word	_	28	R	28:R	_
+27	was	_	Word	Word	_	28	F	28:F	_
+28	impressed	_	Word	Word	_	23	E	23:E	_
+29	.	_	Punctuation	Punctuation	_	28	U	28:U	_
+

@@ -1,0 +1,39 @@
+# format = ucca
+# sent_id = 232012
+# text = Jackie Chan has received worldwide recognition for his acting , having won several awards including an Innovator Award from the American Choreography Awards and a lifetime achievement award from the Taurus World Stunt Awards .
+1	Jackie	_	Word	Word	_	6	A	6:A|12:A	_
+2	Chan	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	has	_	Word	Word	_	6	F	6:F	_
+4	received	_	Word	Word	_	6	D	6:D	_
+5	worldwide	_	Word	Word	_	6	A	6:A	_
+6	recognition	_	Word	Word	_	0	H	0:H	_
+7	for	_	Word	Word	_	9	R	9:R	_
+8	his	_	Word	Word	_	9	A	9:A	_
+9	acting	_	Word	Word	_	6	A	6:A	_
+10	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+11	having	_	Word	Word	_	12	F	12:F	_
+12	won	_	Word	Word	_	6	H	6:H	_
+13	several	_	Word	Word	_	14	Q	14:Q	_
+14	awards	_	Word	Word	_	12	A	12:A	_
+15	including	_	Word	Word	_	18	R	18:R	_
+16	an	_	Word	Word	_	18	F	18:F	_
+17	Innovator	_	Word	Word	_	18	E	18:E	_
+18	Award	_	Word	Word	_	14	E	14:E	_
+19	from	_	Word	Word	_	23	R	23:R	_
+20	the	_	Word	Word	_	23	F	23:F	_
+21	American	_	Word	Word	_	22	E	22:E	_
+22	Choreography	_	Word	Word	_	23	E	23:E	_
+23	Awards	_	Word	Word	_	18	E	18:E	_
+24	and	_	Word	Word	_	18	N	18:N	_
+25	a	_	Word	Word	_	28	E	28:E	_
+26	lifetime	_	Word	Word	_	27	E	27:E	_
+27	achievement	_	Word	Word	_	28	E	28:E	_
+28	award	_	Word	Word	_	18	C	18:C	_
+29	from	_	Word	Word	_	34	R	34:R	_
+30	the	_	Word	Word	_	34	F	34:F	_
+31	Taurus	_	Word	Word	_	34	E	34:E	_
+32	World	_	Word	Word	_	31	Terminal	31:Terminal	_
+33	Stunt	_	Word	Word	_	31	Terminal	31:Terminal	_
+34	Awards	_	Word	Word	_	28	E	28:E	_
+35	.	_	Punctuation	Punctuation	_	34	U	34:U	_
+

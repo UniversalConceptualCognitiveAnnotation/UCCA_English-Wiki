@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 491007
+# text = In 2004 , he appeared in several high profile advertisements for the fellowship .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	2004	_	Word	Word	_	5	T	5:T	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	he	_	Word	Word	_	5	A	5:A	_
+5	appeared	_	Word	Word	_	0	H	0:H	_
+6	in	_	Word	Word	_	10	R	10:R	_
+7	several	_	Word	Word	_	10	Q	10:Q	_
+8	high	_	Word	Word	_	9	E	9:E	_
+9	profile	_	Word	Word	_	10	E	10:E	_
+10	advertisements	_	Word	Word	_	5	A	5:A	_
+11	for	_	Word	Word	_	13	R	13:R	_
+12	the	_	Word	Word	_	13	E	13:E	_
+13	fellowship	_	Word	Word	_	10	E	10:E	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

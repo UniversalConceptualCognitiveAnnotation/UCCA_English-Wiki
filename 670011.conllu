@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 670011
+# text = Billboard listed " We Belong Together " ninth on The Billboard Hot 100 - Time All All - Top Songs and was declared the most popular song of the 2000s decade by Billboard .
+1	Billboard	_	Word	Word	_	2	A	2:A	_
+2	listed	_	Word	Word	_	0	H	0:H	_
+3	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	We	_	Word	Word	_	2	A	2:A|23:A	_
+5	Belong	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	Together	_	Word	Word	_	4	Terminal	4:Terminal	_
+7	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+8	ninth	_	Word	Word	_	2	A	2:A	_
+9	on	_	Word	Word	_	20	R	20:R	_
+10	The	_	Word	Word	_	20	E	20:E	_
+11	Billboard	_	Word	Word	_	20	E	20:E	_
+12	Hot	_	Word	Word	_	13	E	13:E	_
+13	100	_	Word	Word	_	20	E	20:E	_
+14	-	_	Punctuation	Punctuation	_	20	U	20:U	_
+15	Time	_	Word	Word	_	20	E	20:E	_
+16	All	_	Word	Word	_	15	E	15:E	_
+17	All	_	Word	Word	_	15	F	15:F	_
+18	-	_	Punctuation	Punctuation	_	20	U	20:U	_
+19	Top	_	Word	Word	_	20	E	20:E	_
+20	Songs	_	Word	Word	_	8	E	8:E	_
+21	and	_	Word	Word	_	23	L	23:L	_
+22	was	_	Word	Word	_	23	F	23:F	_
+23	declared	_	Word	Word	_	2	H	2:H	_
+24	the	_	Word	Word	_	27	E	27:E	_
+25	most	_	Word	Word	_	26	E	26:E	_
+26	popular	_	Word	Word	_	27	E	27:E	_
+27	song	_	Word	Word	_	23	A	23:A	_
+28	of	_	Word	Word	_	31	R	31:R	_
+29	the	_	Word	Word	_	31	E	31:E	_
+30	2000s	_	Word	Word	_	31	E	31:E	_
+31	decade	_	Word	Word	_	27	E	27:E	_
+32	by	_	Word	Word	_	33	R	33:R	_
+33	Billboard	_	Word	Word	_	23	A	23:A	_
+34	.	_	Punctuation	Punctuation	_	33	U	33:U	_
+

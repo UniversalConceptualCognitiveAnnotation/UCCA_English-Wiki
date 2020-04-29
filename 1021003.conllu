@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 1021003
+# text = In June 1975 , the Jackson 5 signed with Epic Records , a subsidiary of CBS Records and renamed themselves the Jacksons .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	June	_	Word	Word	_	8	T	8:T	_
+3	1975	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+5	the	_	Word	Word	_	8	A	8:A|19:A	_
+6	Jackson	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	5	_	Word	Word	_	5	Terminal	5:Terminal	_
+8	signed	_	Word	Word	_	0	H	0:H	_
+9	with	_	Word	Word	_	10	R	10:R	_
+10	Epic	_	Word	Word	_	8	A	8:A	_
+11	Records	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+13	a	_	Word	Word	_	14	E	14:E	_
+14	subsidiary	_	Word	Word	_	10	E	10:E	_
+15	of	_	Word	Word	_	16	R	16:R	_
+16	CBS	_	Word	Word	_	14	E	14:E	_
+17	Records	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	and	_	Word	Word	_	19	L	19:L	_
+19	renamed	_	Word	Word	_	8	H	8:H	_
+20	themselves	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	the	_	Word	Word	_	19	A	19:A	_
+22	Jacksons	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

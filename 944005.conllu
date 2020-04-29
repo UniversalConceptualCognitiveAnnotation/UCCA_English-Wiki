@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 944005
+# text = A greatest hits collection , The Singles 1992 - 2003 , which includes a cover of Talk Talk 's " It 's My Life " , was released in 2003 to moderate sales .
+1	A	_	Word	Word	_	4	E	4:E	_
+2	greatest	_	Word	Word	_	3	E	3:E	_
+3	hits	_	Word	Word	_	4	E	4:E	_
+4	collection	_	Word	Word	_	0	C	0:C|33:A	_
+5	,	_	Punctuation	Punctuation	_	28	U	28:U	_
+6	The	_	Word	Word	_	28	A	28:A	_
+7	Singles	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	1992	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+10	2003	_	Word	Word	_	6	Terminal	6:Terminal	_
+11	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+12	which	_	Word	Word	_	13	R	13:R	_
+13	includes	_	Word	Word	_	6	E	6:E	_
+14	a	_	Word	Word	_	15	E	15:E	_
+15	cover	_	Word	Word	_	13	A	13:A	_
+16	of	_	Word	Word	_	21	R	21:R	_
+17	Talk	_	Word	Word	_	19	A	19:A	_
+18	Talk	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	's	_	Word	Word	_	21	E	21:E	_
+20	"	_	Punctuation	Punctuation	_	19	U	19:U	_
+21	It	_	Word	Word	_	15	E	15:E	_
+22	's	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	My	_	Word	Word	_	21	Terminal	21:Terminal	_
+24	Life	_	Word	Word	_	21	Terminal	21:Terminal	_
+25	"	_	Punctuation	Punctuation	_	28	U	28:U	_
+26	,	_	Punctuation	Punctuation	_	28	U	28:U	_
+27	was	_	Word	Word	_	28	F	28:F	_
+28	released	_	Word	Word	_	0	H	0:H	_
+29	in	_	Word	Word	_	30	R	30:R	_
+30	2003	_	Word	Word	_	28	T	28:T	_
+31	to	_	Word	Word	_	33	L	33:L	_
+32	moderate	_	Word	Word	_	33	D	33:D	_
+33	sales	_	Word	Word	_	28	H	28:H	_
+34	.	_	Punctuation	Punctuation	_	33	U	33:U	_
+

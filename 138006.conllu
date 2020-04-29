@@ -1,0 +1,34 @@
+# format = ucca
+# sent_id = 138006
+# text = Appearing in Stratford , Connecticut , at the American Shakespeare Theatre , she repeated her Portia in The Merchant of Venice and played Beatrice in Much Ado About Nothing .
+1	Appearing	_	Word	Word	_	0	H	0:H	_
+2	in	_	Word	Word	_	3	R	3:R	_
+3	Stratford	_	Word	Word	_	1	A	1:A	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	Connecticut	_	Word	Word	_	3	C	3:C	_
+6	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+7	at	_	Word	Word	_	9	R	9:R	_
+8	the	_	Word	Word	_	9	E	9:E	_
+9	American	_	Word	Word	_	1	A	1:A	_
+10	Shakespeare	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	Theatre	_	Word	Word	_	9	Terminal	9:Terminal	_
+12	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+13	she	_	Word	Word	_	14	A	14:A|23:A	_
+14	repeated	_	Word	Word	_	1	H	1:H	_
+15	her	_	Word	Word	_	14	A	14:A	_
+16	Portia	_	Word	Word	_	15	A	15:A	_
+17	in	_	Word	Word	_	18	R	18:R	_
+18	The	_	Word	Word	_	14	A	14:A	_
+19	Merchant	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	of	_	Word	Word	_	18	Terminal	18:Terminal	_
+21	Venice	_	Word	Word	_	18	Terminal	18:Terminal	_
+22	and	_	Word	Word	_	23	L	23:L	_
+23	played	_	Word	Word	_	1	H	1:H	_
+24	Beatrice	_	Word	Word	_	23	A	23:A	_
+25	in	_	Word	Word	_	26	R	26:R	_
+26	Much	_	Word	Word	_	23	A	23:A	_
+27	Ado	_	Word	Word	_	26	Terminal	26:Terminal	_
+28	About	_	Word	Word	_	26	Terminal	26:Terminal	_
+29	Nothing	_	Word	Word	_	26	Terminal	26:Terminal	_
+30	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+

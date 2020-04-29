@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 651003
+# text = He and Ono planned to join the workers ' protest on 14 December .
+1	He	_	Word	Word	_	6	A	6:A	_
+2	and	_	Word	Word	_	1	N	1:N	_
+3	Ono	_	Word	Word	_	1	C	1:C	_
+4	planned	_	Word	Word	_	6	D	6:D	_
+5	to	_	Word	Word	_	6	F	6:F	_
+6	join	_	Word	Word	_	0	H	0:H	_
+7	the	_	Word	Word	_	10	E	10:E	_
+8	workers	_	Word	Word	_	10	E	10:E	_
+9	'	_	Punctuation	Punctuation	_	10	U	10:U	_
+10	protest	_	Word	Word	_	6	A	6:A	_
+11	on	_	Word	Word	_	12	R	12:R	_
+12	14	_	Word	Word	_	6	T	6:T	_
+13	December	_	Word	Word	_	12	C	12:C	_
+14	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+

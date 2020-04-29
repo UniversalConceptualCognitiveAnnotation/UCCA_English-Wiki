@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 641002
+# text = He devoted himself to Sean , rising at 6 am daily to plan and prepare his meals and to spend time with him .
+1	He	_	Word	Word	_	2	A	2:A|7:A|13:A|20:A	_
+2	devoted	_	Word	Word	_	0	H	0:H	_
+3	himself	_	Word	Word	_	2	D	2:D	_
+4	to	_	Word	Word	_	5	R	5:R	_
+5	Sean	_	Word	Word	_	2	A	2:A	_
+6	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+7	rising	_	Word	Word	_	2	H	2:H	_
+8	at	_	Word	Word	_	9	R	9:R	_
+9	6	_	Word	Word	_	7	T	7:T	_
+10	am	_	Word	Word	_	9	C	9:C	_
+11	daily	_	Word	Word	_	7	D	7:D	_
+12	to	_	Word	Word	_	13	L	13:L	_
+13	plan	_	Word	Word	_	2	H	2:H	_
+14	and	_	Word	Word	_	13	N	13:N	_
+15	prepare	_	Word	Word	_	13	C	13:C	_
+16	his	_	Word	Word	_	17	E	17:E	_
+17	meals	_	Word	Word	_	13	A	13:A	_
+18	and	_	Word	Word	_	20	L	20:L	_
+19	to	_	Word	Word	_	20	F	20:F	_
+20	spend	_	Word	Word	_	2	H	2:H	_
+21	time	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	with	_	Word	Word	_	23	R	23:R	_
+23	him	_	Word	Word	_	20	A	20:A	_
+24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

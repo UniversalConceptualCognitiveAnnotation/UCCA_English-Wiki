@@ -1,0 +1,36 @@
+# format = ucca
+# sent_id = 956003
+# text = She befriended Clark Gable , his wife Carole Lombard and Olivia de Havilland ; but she clashed with Leslie Howard , with whom she was required to play several emotional scenes .
+1	She	_	Word	Word	_	2	A	2:A	_
+2	befriended	_	Word	Word	_	0	H	0:H	_
+3	Clark	_	Word	Word	_	2	A	2:A	_
+4	Gable	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+6	his	_	Word	Word	_	8	E	8:E	_
+7	wife	_	Word	Word	_	6	A	6:A	_
+8	Carole	_	Word	Word	_	3	C	3:C	_
+9	Lombard	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	and	_	Word	Word	_	3	N	3:N	_
+11	Olivia	_	Word	Word	_	3	C	3:C	_
+12	de	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	Havilland	_	Word	Word	_	11	Terminal	11:Terminal	_
+14	;	_	Punctuation	Punctuation	_	2	U	2:U	_
+15	but	_	Word	Word	_	17	L	17:L	_
+16	she	_	Word	Word	_	17	A	17:A	_
+17	clashed	_	Word	Word	_	2	H	2:H	_
+18	with	_	Word	Word	_	19	R	19:R	_
+19	Leslie	_	Word	Word	_	17	A	17:A	_
+20	Howard	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	,	_	Punctuation	Punctuation	_	19	U	19:U	_
+22	with	_	Word	Word	_	28	R	28:R	_
+23	whom	_	Word	Word	_	22	Terminal	22:Terminal	_
+24	she	_	Word	Word	_	28	A	28:A	_
+25	was	_	Word	Word	_	28	F	28:F	_
+26	required	_	Word	Word	_	28	D	28:D	_
+27	to	_	Word	Word	_	28	F	28:F	_
+28	play	_	Word	Word	_	19	E	19:E	_
+29	several	_	Word	Word	_	31	Q	31:Q	_
+30	emotional	_	Word	Word	_	31	E	31:E	_
+31	scenes	_	Word	Word	_	28	A	28:A	_
+32	.	_	Punctuation	Punctuation	_	31	U	31:U	_
+

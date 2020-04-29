@@ -1,0 +1,42 @@
+# format = ucca
+# sent_id = 377014
+# text = Gyllenhaal 's performance was well received by critics ; Gary Mairs of Culture Vulture wrote that " Gyllenhaal manages the difficult trick of seeming both blandly normal and profoundly disturbed , often within the same scene . "
+1	Gyllenhaal	_	Word	Word	_	3	A	3:A	_
+2	's	_	Word	Word	_	1	R	1:R	_
+3	performance	_	Word	Word	_	6	A	6:A	_
+4	was	_	Word	Word	_	6	F	6:F	_
+5	well	_	Word	Word	_	6	D	6:D	_
+6	received	_	Word	Word	_	0	H	0:H	_
+7	by	_	Word	Word	_	8	R	8:R	_
+8	critics	_	Word	Word	_	6	A	6:A	_
+9	;	_	Punctuation	Punctuation	_	6	U	6:U	_
+10	Gary	_	Word	Word	_	15	A	15:A	_
+11	Mairs	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	of	_	Word	Word	_	13	R	13:R	_
+13	Culture	_	Word	Word	_	10	E	10:E	_
+14	Vulture	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	wrote	_	Word	Word	_	6	H	6:H	_
+16	that	_	Word	Word	_	19	R	19:R	_
+17	"	_	Punctuation	Punctuation	_	19	U	19:U	_
+18	Gyllenhaal	_	Word	Word	_	19	A	19:A|27:A|30:A	_
+19	manages	_	Word	Word	_	15	A	15:A	_
+20	the	_	Word	Word	_	22	F	22:F	_
+21	difficult	_	Word	Word	_	22	E	22:E	_
+22	trick	_	Word	Word	_	27	E	27:E	_
+23	of	_	Word	Word	_	24	R	24:R	_
+24	seeming	_	Word	Word	_	27	G	27:G|30:G	_
+25	both	_	Word	Word	_	30	L	30:L	_
+26	blandly	_	Word	Word	_	27	D	27:D	_
+27	normal	_	Word	Word	_	19	A	19:A	_
+28	and	_	Word	Word	_	25	Terminal	25:Terminal	_
+29	profoundly	_	Word	Word	_	30	D	30:D	_
+30	disturbed	_	Word	Word	_	27	H	27:H	_
+31	,	_	Punctuation	Punctuation	_	30	U	30:U	_
+32	often	_	Word	Word	_	33	E	33:E	_
+33	within	_	Word	Word	_	36	R	36:R	_
+34	the	_	Word	Word	_	36	F	36:F	_
+35	same	_	Word	Word	_	36	E	36:E	_
+36	scene	_	Word	Word	_	27	A	27:A|30:A	_
+37	.	_	Punctuation	Punctuation	_	36	U	36:U	_
+38	"	_	Punctuation	Punctuation	_	36	U	36:U	_
+

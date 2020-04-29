@@ -1,0 +1,47 @@
+# format = ucca
+# sent_id = 705000
+# text = In April and May 1978 , Dylan took the same large band and backing vocalists into Rundown Studios , a rehearsal space Dylan had rented in Santa Monica , California , to record an album of new material : Street - Legal .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	April	_	Word	Word	_	8	T	8:T	_
+3	and	_	Word	Word	_	2	N	2:N	_
+4	May	_	Word	Word	_	2	C	2:C	_
+5	1978	_	Word	Word	_	2	C	2:C	_
+6	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	Dylan	_	Word	Word	_	8	A	8:A	_
+8	took	_	Word	Word	_	0	H	0:H	_
+9	the	_	Word	Word	_	12	F	12:F	_
+10	same	_	Word	Word	_	12	D	12:D|15:D	_
+11	large	_	Word	Word	_	12	D	12:D	_
+12	band	_	Word	Word	_	0	P	0:P|33:A	_
+13	and	_	Word	Word	_	12	L	12:L	_
+14	backing	_	Word	Word	_	15	D	15:D	_
+15	vocalists	_	Word	Word	_	0	P	0:P|33:A	_
+16	into	_	Word	Word	_	17	R	17:R	_
+17	Rundown	_	Word	Word	_	8	A	8:A	_
+18	Studios	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	,	_	Punctuation	Punctuation	_	17	U	17:U	_
+20	a	_	Word	Word	_	22	E	22:E	_
+21	rehearsal	_	Word	Word	_	22	E	22:E	_
+22	space	_	Word	Word	_	17	E	17:E	_
+23	Dylan	_	Word	Word	_	25	A	25:A|33:A	_
+24	had	_	Word	Word	_	25	F	25:F	_
+25	rented	_	Word	Word	_	22	E	22:E	_
+26	in	_	Word	Word	_	27	R	27:R	_
+27	Santa	_	Word	Word	_	25	A	25:A	_
+28	Monica	_	Word	Word	_	27	Terminal	27:Terminal	_
+29	,	_	Punctuation	Punctuation	_	27	U	27:U	_
+30	California	_	Word	Word	_	27	C	27:C	_
+31	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+32	to	_	Word	Word	_	33	L	33:L	_
+33	record	_	Word	Word	_	8	H	8:H	_
+34	an	_	Word	Word	_	35	E	35:E	_
+35	album	_	Word	Word	_	40	E	40:E	_
+36	of	_	Word	Word	_	38	R	38:R	_
+37	new	_	Word	Word	_	38	E	38:E	_
+38	material	_	Word	Word	_	35	E	35:E	_
+39	:	_	Punctuation	Punctuation	_	40	U	40:U	_
+40	Street	_	Word	Word	_	33	A	33:A	_
+41	-	_	Punctuation	Punctuation	_	40	U	40:U	_
+42	Legal	_	Word	Word	_	40	Terminal	40:Terminal	_
+43	.	_	Punctuation	Punctuation	_	40	U	40:U	_
+

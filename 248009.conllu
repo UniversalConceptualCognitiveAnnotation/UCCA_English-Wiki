@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 248009
+# text = Upon release , Taking Lives received broadly negative reviews .
+1	Upon	_	Word	Word	_	6	L	6:L	_
+2	release	_	Word	Word	_	0	H	0:H	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	Taking	_	Word	Word	_	6	A	6:A|2:A	_
+5	Lives	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	received	_	Word	Word	_	2	H	2:H	_
+7	broadly	_	Word	Word	_	8	E	8:E	_
+8	negative	_	Word	Word	_	9	E	9:E	_
+9	reviews	_	Word	Word	_	6	A	6:A	_
+10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

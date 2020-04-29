@@ -1,0 +1,41 @@
+# format = ucca
+# sent_id = 726008
+# text = Although highly regarded for her acting abilities , Jolie 's films to date had often not appealed to a wide audience , but Lara Croft : Tomb Raider ( 2001 ) made her an international superstar .
+1	Although	_	Word	Word	_	17	L	17:L	_
+2	highly	_	Word	Word	_	3	D	3:D	_
+3	regarded	_	Word	Word	_	0	H	0:H	_
+4	for	_	Word	Word	_	7	R	7:R	_
+5	her	_	Word	Word	_	7	A	7:A	_
+6	acting	_	Word	Word	_	7	A	7:A	_
+7	abilities	_	Word	Word	_	3	A	3:A	_
+8	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+9	Jolie	_	Word	Word	_	10	A	10:A|3:A	_
+10	's	_	Word	Word	_	11	E	11:E	_
+11	films	_	Word	Word	_	17	A	17:A	_
+12	to	_	Word	Word	_	17	T	17:T	_
+13	date	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	had	_	Word	Word	_	17	F	17:F	_
+15	often	_	Word	Word	_	17	T	17:T	_
+16	not	_	Word	Word	_	17	D	17:D	_
+17	appealed	_	Word	Word	_	3	H	3:H	_
+18	to	_	Word	Word	_	21	R	21:R	_
+19	a	_	Word	Word	_	21	F	21:F	_
+20	wide	_	Word	Word	_	21	D	21:D	_
+21	audience	_	Word	Word	_	17	A	17:A	_
+22	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+23	but	_	Word	Word	_	36	L	36:L	_
+24	Lara	_	Word	Word	_	36	A	36:A	_
+25	Croft	_	Word	Word	_	24	Terminal	24:Terminal	_
+26	:	_	Punctuation	Punctuation	_	24	U	24:U	_
+27	Tomb	_	Word	Word	_	24	Terminal	24:Terminal	_
+28	Raider	_	Word	Word	_	24	Terminal	24:Terminal	_
+29	(	_	Punctuation	Punctuation	_	24	U	24:U	_
+30	2001	_	Word	Word	_	24	E	24:E	_
+31	)	_	Punctuation	Punctuation	_	36	U	36:U	_
+32	made	_	Word	Word	_	36	D	36:D	_
+33	her	_	Word	Word	_	36	A	36:A	_
+34	an	_	Word	Word	_	36	E	36:E	_
+35	international	_	Word	Word	_	36	A	36:A	_
+36	superstar	_	Word	Word	_	3	H	3:H	_
+37	.	_	Punctuation	Punctuation	_	36	U	36:U	_
+

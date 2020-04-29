@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 603007
+# text = The Beatles ' heavy moustaches reflected the growing influence of hippie style trends on the band , while their clothing " spoofed the vogue in Britain for military fashions " , wrote Gould .
+1	The	_	Word	Word	_	5	E	5:E	_
+2	Beatles	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	'	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	heavy	_	Word	Word	_	5	E	5:E	_
+5	moustaches	_	Word	Word	_	6	A	6:A	_
+6	reflected	_	Word	Word	_	0	H	0:H	_
+7	the	_	Word	Word	_	8	F	8:F	_
+8	growing	_	Word	Word	_	9	D	9:D	_
+9	influence	_	Word	Word	_	6	A	6:A	_
+10	of	_	Word	Word	_	13	R	13:R	_
+11	hippie	_	Word	Word	_	13	E	13:E	_
+12	style	_	Word	Word	_	13	E	13:E	_
+13	trends	_	Word	Word	_	9	A	9:A	_
+14	on	_	Word	Word	_	16	R	16:R	_
+15	the	_	Word	Word	_	16	F	16:F	_
+16	band	_	Word	Word	_	9	A	9:A	_
+17	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+18	while	_	Word	Word	_	32	L	32:L	_
+19	their	_	Word	Word	_	20	E	20:E	_
+20	clothing	_	Word	Word	_	22	A	22:A	_
+21	"	_	Punctuation	Punctuation	_	22	U	22:U	_
+22	spoofed	_	Word	Word	_	32	A	32:A	_
+23	the	_	Word	Word	_	24	F	24:F	_
+24	vogue	_	Word	Word	_	22	A	22:A	_
+25	in	_	Word	Word	_	26	R	26:R	_
+26	Britain	_	Word	Word	_	24	E	24:E	_
+27	for	_	Word	Word	_	29	R	29:R	_
+28	military	_	Word	Word	_	29	E	29:E	_
+29	fashions	_	Word	Word	_	24	E	24:E	_
+30	"	_	Punctuation	Punctuation	_	32	U	32:U	_
+31	,	_	Punctuation	Punctuation	_	32	U	32:U	_
+32	wrote	_	Word	Word	_	6	H	6:H	_
+33	Gould	_	Word	Word	_	32	A	32:A	_
+34	.	_	Punctuation	Punctuation	_	32	U	32:U	_
+

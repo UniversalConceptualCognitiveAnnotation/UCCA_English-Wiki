@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 140005
+# text = Hepburn 's next appearance was in The Madwoman of Chaillot ( 1969 ) , which she filmed in Nice immediately after completing The Lion in Winter .
+1	Hepburn	_	Word	Word	_	4	A	4:A	_
+2	's	_	Word	Word	_	1	R	1:R	_
+3	next	_	Word	Word	_	4	D	4:D	_
+4	appearance	_	Word	Word	_	0	H	0:H	_
+5	was	_	Word	Word	_	4	F	4:F	_
+6	in	_	Word	Word	_	7	R	7:R	_
+7	The	_	Word	Word	_	4	A	4:A	_
+8	Madwoman	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	of	_	Word	Word	_	7	Terminal	7:Terminal	_
+10	Chaillot	_	Word	Word	_	7	Terminal	7:Terminal	_
+11	(	_	Punctuation	Punctuation	_	7	U	7:U	_
+12	1969	_	Word	Word	_	7	E	7:E	_
+13	)	_	Punctuation	Punctuation	_	4	U	4:U	_
+14	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+15	which	_	Word	Word	_	17	L	17:L	_
+16	she	_	Word	Word	_	17	A	17:A|22:A	_
+17	filmed	_	Word	Word	_	4	H	4:H	_
+18	in	_	Word	Word	_	19	R	19:R	_
+19	Nice	_	Word	Word	_	17	A	17:A	_
+20	immediately	_	Word	Word	_	21	E	21:E	_
+21	after	_	Word	Word	_	22	L	22:L	_
+22	completing	_	Word	Word	_	4	H	4:H	_
+23	The	_	Word	Word	_	22	A	22:A	_
+24	Lion	_	Word	Word	_	23	Terminal	23:Terminal	_
+25	in	_	Word	Word	_	23	Terminal	23:Terminal	_
+26	Winter	_	Word	Word	_	23	Terminal	23:Terminal	_
+27	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+

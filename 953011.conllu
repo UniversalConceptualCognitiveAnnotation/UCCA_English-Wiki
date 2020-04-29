@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 953011
+# text = Leigh 's friends suggested she take a small role in the film Things Are Looking Up , which marked her film debut .
+1	Leigh	_	Word	Word	_	4	A	4:A	_
+2	's	_	Word	Word	_	1	R	1:R	_
+3	friends	_	Word	Word	_	1	A	1:A	_
+4	suggested	_	Word	Word	_	0	H	0:H	_
+5	she	_	Word	Word	_	6	A	6:A	_
+6	take	_	Word	Word	_	4	A	4:A	_
+7	a	_	Word	Word	_	9	E	9:E	_
+8	small	_	Word	Word	_	9	E	9:E	_
+9	role	_	Word	Word	_	6	A	6:A	_
+10	in	_	Word	Word	_	13	R	13:R	_
+11	the	_	Word	Word	_	12	E	12:E	_
+12	film	_	Word	Word	_	13	E	13:E	_
+13	Things	_	Word	Word	_	9	E	9:E	_
+14	Are	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	Looking	_	Word	Word	_	13	Terminal	13:Terminal	_
+16	Up	_	Word	Word	_	13	Terminal	13:Terminal	_
+17	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+18	which	_	Word	Word	_	22	R	22:R	_
+19	marked	_	Word	Word	_	22	D	22:D	_
+20	her	_	Word	Word	_	22	A	22:A	_
+21	film	_	Word	Word	_	22	A	22:A	_
+22	debut	_	Word	Word	_	13	E	13:E	_
+23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+

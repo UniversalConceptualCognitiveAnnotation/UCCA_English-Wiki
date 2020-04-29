@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 965002
+# text = London purchased the papers of Laurence Olivier from his estate in 1999 .
+1	London	_	Word	Word	_	2	A	2:A	_
+2	purchased	_	Word	Word	_	0	H	0:H	_
+3	the	_	Word	Word	_	4	E	4:E	_
+4	papers	_	Word	Word	_	2	A	2:A	_
+5	of	_	Word	Word	_	4	E	4:E	_
+6	Laurence	_	Word	Word	_	5	A	5:A	_
+7	Olivier	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	from	_	Word	Word	_	10	R	10:R	_
+9	his	_	Word	Word	_	10	E	10:E	_
+10	estate	_	Word	Word	_	4	E	4:E	_
+11	in	_	Word	Word	_	12	R	12:R	_
+12	1999	_	Word	Word	_	2	T	2:T	_
+13	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+

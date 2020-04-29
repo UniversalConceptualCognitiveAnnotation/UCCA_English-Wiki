@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 699005
+# text = ABC Television had paid an advance for a TV show they could screen .
+1	ABC	_	Word	Word	_	4	A	4:A	_
+2	Television	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	had	_	Word	Word	_	4	F	4:F	_
+4	paid	_	Word	Word	_	0	H	0:H	_
+5	an	_	Word	Word	_	6	E	6:E	_
+6	advance	_	Word	Word	_	4	A	4:A	_
+7	for	_	Word	Word	_	10	R	10:R	_
+8	a	_	Word	Word	_	10	E	10:E	_
+9	TV	_	Word	Word	_	10	E	10:E	_
+10	show	_	Word	Word	_	4	A	4:A	_
+11	they	_	Word	Word	_	13	A	13:A	_
+12	could	_	Word	Word	_	13	D	13:D	_
+13	screen	_	Word	Word	_	10	E	10:E	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

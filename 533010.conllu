@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 533010
+# text = Even so , a British specialist who had attended her said she had been living on borrowed time owing to cirrhosis .
+1	Even	_	Word	Word	_	11	L	11:L	_
+2	so	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+4	a	_	Word	Word	_	6	F	6:F	_
+5	British	_	Word	Word	_	6	E	6:E	_
+6	specialist	_	Word	Word	_	0	A	0:A|5:A	_
+7	who	_	Word	Word	_	9	R	9:R	_
+8	had	_	Word	Word	_	9	F	9:F	_
+9	attended	_	Word	Word	_	6	E	6:E	_
+10	her	_	Word	Word	_	9	A	9:A	_
+11	said	_	Word	Word	_	0	H	0:H	_
+12	she	_	Word	Word	_	15	A	15:A|21:A	_
+13	had	_	Word	Word	_	15	F	15:F	_
+14	been	_	Word	Word	_	15	F	15:F	_
+15	living	_	Word	Word	_	11	A	11:A	_
+16	on	_	Word	Word	_	18	R	18:R	_
+17	borrowed	_	Word	Word	_	18	E	18:E	_
+18	time	_	Word	Word	_	15	D	15:D	_
+19	owing	_	Word	Word	_	21	L	21:L	_
+20	to	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	cirrhosis	_	Word	Word	_	15	H	15:H	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

@@ -1,0 +1,46 @@
+# format = ucca
+# sent_id = 700010
+# text = Woody Guthrie died on October 3 , 1967 , and Dylan made his first live appearance in twenty months at a Guthrie memorial concert held at Carnegie Hall on January 20 , 1968 , where he was backed by The Band .
+1	Woody	_	Word	Word	_	3	A	3:A	_
+2	Guthrie	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	died	_	Word	Word	_	0	H	0:H	_
+4	on	_	Word	Word	_	5	R	5:R	_
+5	October	_	Word	Word	_	3	A	3:A	_
+6	3	_	Word	Word	_	5	C	5:C	_
+7	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+8	1967	_	Word	Word	_	5	C	5:C	_
+9	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+10	and	_	Word	Word	_	16	L	16:L	_
+11	Dylan	_	Word	Word	_	16	A	16:A	_
+12	made	_	Word	Word	_	16	F	16:F	_
+13	his	_	Word	Word	_	14	E	14:E	_
+14	first	_	Word	Word	_	16	D	16:D	_
+15	live	_	Word	Word	_	16	D	16:D	_
+16	appearance	_	Word	Word	_	3	H	3:H	_
+17	in	_	Word	Word	_	19	R	19:R	_
+18	twenty	_	Word	Word	_	19	Q	19:Q	_
+19	months	_	Word	Word	_	14	E	14:E	_
+20	at	_	Word	Word	_	24	R	24:R	_
+21	a	_	Word	Word	_	24	F	24:F	_
+22	Guthrie	_	Word	Word	_	24	A	24:A	_
+23	memorial	_	Word	Word	_	24	A	24:A	_
+24	concert	_	Word	Word	_	16	A	16:A	_
+25	held	_	Word	Word	_	24	F	24:F	_
+26	at	_	Word	Word	_	27	R	27:R	_
+27	Carnegie	_	Word	Word	_	24	A	24:A	_
+28	Hall	_	Word	Word	_	27	Terminal	27:Terminal	_
+29	on	_	Word	Word	_	30	R	30:R	_
+30	January	_	Word	Word	_	16	T	16:T	_
+31	20	_	Word	Word	_	30	C	30:C	_
+32	,	_	Punctuation	Punctuation	_	30	U	30:U	_
+33	1968	_	Word	Word	_	30	C	30:C	_
+34	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+35	where	_	Word	Word	_	38	L	38:L	_
+36	he	_	Word	Word	_	38	A	38:A	_
+37	was	_	Word	Word	_	38	F	38:F	_
+38	backed	_	Word	Word	_	3	H	3:H	_
+39	by	_	Word	Word	_	40	R	40:R	_
+40	The	_	Word	Word	_	38	A	38:A	_
+41	Band	_	Word	Word	_	40	Terminal	40:Terminal	_
+42	.	_	Punctuation	Punctuation	_	40	U	40:U	_
+

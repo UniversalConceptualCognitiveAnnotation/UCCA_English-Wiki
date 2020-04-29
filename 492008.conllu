@@ -1,0 +1,42 @@
+# format = ucca
+# sent_id = 492008
+# text = He then confounded the expectations of both his record label and his American audiences by recording the minimalist album Low ( 1977 ) - the first of three collaborations with Brian Eno over the next two years .
+1	He	_	Word	Word	_	5	A	5:A|16:A	_
+2	then	_	Word	Word	_	5	L	5:L	_
+3	confounded	_	Word	Word	_	5	D	5:D	_
+4	the	_	Word	Word	_	5	E	5:E	_
+5	expectations	_	Word	Word	_	0	H	0:H	_
+6	of	_	Word	Word	_	10	R	10:R	_
+7	both	_	Word	Word	_	10	Q	10:Q	_
+8	his	_	Word	Word	_	10	E	10:E	_
+9	record	_	Word	Word	_	10	E	10:E	_
+10	label	_	Word	Word	_	5	A	5:A	_
+11	and	_	Word	Word	_	10	N	10:N	_
+12	his	_	Word	Word	_	14	A	14:A	_
+13	American	_	Word	Word	_	14	E	14:E	_
+14	audiences	_	Word	Word	_	10	C	10:C	_
+15	by	_	Word	Word	_	16	R	16:R	_
+16	recording	_	Word	Word	_	5	A	5:A	_
+17	the	_	Word	Word	_	19	E	19:E	_
+18	minimalist	_	Word	Word	_	19	E	19:E	_
+19	album	_	Word	Word	_	20	E	20:E	_
+20	Low	_	Word	Word	_	16	A	16:A	_
+21	(	_	Punctuation	Punctuation	_	20	U	20:U	_
+22	1977	_	Word	Word	_	20	E	20:E	_
+23	)	_	Punctuation	Punctuation	_	20	U	20:U	_
+24	-	_	Punctuation	Punctuation	_	20	U	20:U	_
+25	the	_	Word	Word	_	26	E	26:E	_
+26	first	_	Word	Word	_	29	D	29:D	_
+27	of	_	Word	Word	_	28	R	28:R	_
+28	three	_	Word	Word	_	26	E	26:E	_
+29	collaborations	_	Word	Word	_	20	E	20:E	_
+30	with	_	Word	Word	_	31	R	31:R	_
+31	Brian	_	Word	Word	_	29	A	29:A	_
+32	Eno	_	Word	Word	_	31	Terminal	31:Terminal	_
+33	over	_	Word	Word	_	37	R	37:R	_
+34	the	_	Word	Word	_	37	E	37:E	_
+35	next	_	Word	Word	_	37	E	37:E	_
+36	two	_	Word	Word	_	37	Q	37:Q	_
+37	years	_	Word	Word	_	29	T	29:T	_
+38	.	_	Punctuation	Punctuation	_	37	U	37:U	_
+

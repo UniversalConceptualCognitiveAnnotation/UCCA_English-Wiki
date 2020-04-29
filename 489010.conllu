@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 489010
+# text = In 2007 , he also returned to his Australian TV roots by appearing in hit comedy Kath and Kim as himself .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	2007	_	Word	Word	_	6	T	6:T	_
+3	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+4	he	_	Word	Word	_	6	A	6:A|13:A	_
+5	also	_	Word	Word	_	6	D	6:D	_
+6	returned	_	Word	Word	_	0	H	0:H	_
+7	to	_	Word	Word	_	11	R	11:R	_
+8	his	_	Word	Word	_	11	E	11:E	_
+9	Australian	_	Word	Word	_	10	E	10:E	_
+10	TV	_	Word	Word	_	11	E	11:E	_
+11	roots	_	Word	Word	_	6	A	6:A	_
+12	by	_	Word	Word	_	13	L	13:L	_
+13	appearing	_	Word	Word	_	6	H	6:H	_
+14	in	_	Word	Word	_	17	R	17:R	_
+15	hit	_	Word	Word	_	16	E	16:E	_
+16	comedy	_	Word	Word	_	17	E	17:E	_
+17	Kath	_	Word	Word	_	13	A	13:A	_
+18	and	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	Kim	_	Word	Word	_	17	Terminal	17:Terminal	_
+20	as	_	Word	Word	_	21	R	21:R	_
+21	himself	_	Word	Word	_	13	A	13:A	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

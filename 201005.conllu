@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 201005
+# text = Sorkin has also said , " As a writer , I do n't like to answer questions until the very moment that I have to . "
+1	Sorkin	_	Word	Word	_	4	A	4:A	_
+2	has	_	Word	Word	_	4	F	4:F	_
+3	also	_	Word	Word	_	4	D	4:D	_
+4	said	_	Word	Word	_	0	H	0:H	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	"	_	Punctuation	Punctuation	_	4	U	4:U	_
+7	As	_	Word	Word	_	9	R	9:R	_
+8	a	_	Word	Word	_	9	E	9:E	_
+9	writer	_	Word	Word	_	4	A	4:A	_
+10	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+11	I	_	Word	Word	_	14	A	14:A|16:A	_
+12	do	_	Word	Word	_	14	F	14:F	_
+13	n't	_	Word	Word	_	14	D	14:D	_
+14	like	_	Word	Word	_	9	H	9:H	_
+15	to	_	Word	Word	_	16	R	16:R	_
+16	answer	_	Word	Word	_	0	P	0:P|23:P	_
+17	questions	_	Word	Word	_	16	A	16:A	_
+18	until	_	Word	Word	_	23	L	23:L	_
+19	the	_	Word	Word	_	21	E	21:E	_
+20	very	_	Word	Word	_	21	E	21:E	_
+21	moment	_	Word	Word	_	23	T	23:T	_
+22	that	_	Word	Word	_	23	F	23:F	_
+23	I	_	Word	Word	_	9	H	9:H	_
+24	have	_	Word	Word	_	23	D	23:D	_
+25	to	_	Word	Word	_	24	Terminal	24:Terminal	_
+26	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+27	"	_	Punctuation	Punctuation	_	23	U	23:U	_
+

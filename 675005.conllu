@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 675005
+# text = On November 5 , 2011 , Carey and Bieber filmed a music video for the duet at the Macy 's in New York City .
+1	On	_	Word	Word	_	2	R	2:R	_
+2	November	_	Word	Word	_	10	T	10:T	_
+3	5	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	2011	_	Word	Word	_	2	C	2:C	_
+6	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+7	Carey	_	Word	Word	_	10	A	10:A	_
+8	and	_	Word	Word	_	7	N	7:N	_
+9	Bieber	_	Word	Word	_	7	C	7:C	_
+10	filmed	_	Word	Word	_	0	H	0:H	_
+11	a	_	Word	Word	_	13	E	13:E	_
+12	music	_	Word	Word	_	13	E	13:E	_
+13	video	_	Word	Word	_	10	A	10:A	_
+14	for	_	Word	Word	_	16	R	16:R	_
+15	the	_	Word	Word	_	16	E	16:E	_
+16	duet	_	Word	Word	_	13	E	13:E	_
+17	at	_	Word	Word	_	19	R	19:R	_
+18	the	_	Word	Word	_	19	E	19:E	_
+19	Macy	_	Word	Word	_	10	A	10:A	_
+20	's	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	in	_	Word	Word	_	22	R	22:R	_
+22	New	_	Word	Word	_	19	C	19:C	_
+23	York	_	Word	Word	_	22	Terminal	22:Terminal	_
+24	City	_	Word	Word	_	22	Terminal	22:Terminal	_
+25	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+

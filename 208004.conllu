@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 208004
+# text = He opted out of directing Straight Time ( 1978 ) , but starred as a thief .
+1	He	_	Word	Word	_	2	A	2:A|5:A|13:A	_
+2	opted	_	Word	Word	_	0	H	0:H	_
+3	out	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	of	_	Word	Word	_	5	R	5:R	_
+5	directing	_	Word	Word	_	2	A	2:A	_
+6	Straight	_	Word	Word	_	5	A	5:A	_
+7	Time	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	(	_	Punctuation	Punctuation	_	6	U	6:U	_
+9	1978	_	Word	Word	_	6	E	6:E	_
+10	)	_	Punctuation	Punctuation	_	2	U	2:U	_
+11	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+12	but	_	Word	Word	_	13	L	13:L	_
+13	starred	_	Word	Word	_	2	H	2:H	_
+14	as	_	Word	Word	_	16	R	16:R	_
+15	a	_	Word	Word	_	16	F	16:F	_
+16	thief	_	Word	Word	_	13	A	13:A	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

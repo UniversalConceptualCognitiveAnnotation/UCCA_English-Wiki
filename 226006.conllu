@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 226006
+# text = Jackie Chan rekindled his Hollywood ambitions in the 1990s , but refused early offers to play villains in Hollywood films to avoid being typecast in future roles .
+1	Jackie	_	Word	Word	_	6	A	6:A|12:A|16:A|24:A	_
+2	Chan	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	rekindled	_	Word	Word	_	6	D	6:D	_
+4	his	_	Word	Word	_	6	F	6:F	_
+5	Hollywood	_	Word	Word	_	6	A	6:A	_
+6	ambitions	_	Word	Word	_	0	H	0:H	_
+7	in	_	Word	Word	_	9	R	9:R	_
+8	the	_	Word	Word	_	9	F	9:F	_
+9	1990s	_	Word	Word	_	6	T	6:T	_
+10	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+11	but	_	Word	Word	_	12	L	12:L	_
+12	refused	_	Word	Word	_	6	H	6:H	_
+13	early	_	Word	Word	_	14	D	14:D	_
+14	offers	_	Word	Word	_	12	A	12:A	_
+15	to	_	Word	Word	_	16	F	16:F	_
+16	play	_	Word	Word	_	14	A	14:A	_
+17	villains	_	Word	Word	_	16	A	16:A	_
+18	in	_	Word	Word	_	20	R	20:R	_
+19	Hollywood	_	Word	Word	_	20	E	20:E	_
+20	films	_	Word	Word	_	16	A	16:A	_
+21	to	_	Word	Word	_	24	L	24:L	_
+22	avoid	_	Word	Word	_	24	D	24:D	_
+23	being	_	Word	Word	_	24	F	24:F	_
+24	typecast	_	Word	Word	_	6	H	6:H	_
+25	in	_	Word	Word	_	27	R	27:R	_
+26	future	_	Word	Word	_	27	E	27:E	_
+27	roles	_	Word	Word	_	24	A	24:A	_
+28	.	_	Punctuation	Punctuation	_	27	U	27:U	_
+

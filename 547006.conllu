@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 547006
+# text = However , the film won the best - picture Academy Award for 1964 .
+1	However	_	Word	Word	_	5	L	5:L	_
+2	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+3	the	_	Word	Word	_	4	F	4:F	_
+4	film	_	Word	Word	_	5	A	5:A	_
+5	won	_	Word	Word	_	0	H	0:H	_
+6	the	_	Word	Word	_	5	A	5:A	_
+7	best	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+9	picture	_	Word	Word	_	6	Terminal	6:Terminal	_
+10	Academy	_	Word	Word	_	6	Terminal	6:Terminal	_
+11	Award	_	Word	Word	_	6	Terminal	6:Terminal	_
+12	for	_	Word	Word	_	13	R	13:R	_
+13	1964	_	Word	Word	_	5	T	5:T	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

@@ -1,0 +1,48 @@
+# format = ucca
+# sent_id = 210004
+# text = Hoffman appeared in Stranger than Fiction ( 2006 ) , played the perfumer Giuseppe Baldini in Tom Tykwer 's film Perfume : The Story of a Murderer ( also 2006 ) , and had a cameo in the same year 's The Holiday .
+1	Hoffman	_	Word	Word	_	2	A	2:A|11:A|36:A	_
+2	appeared	_	Word	Word	_	0	H	0:H	_
+3	in	_	Word	Word	_	4	R	4:R	_
+4	Stranger	_	Word	Word	_	2	A	2:A	_
+5	than	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	Fiction	_	Word	Word	_	4	Terminal	4:Terminal	_
+7	(	_	Punctuation	Punctuation	_	4	U	4:U	_
+8	2006	_	Word	Word	_	4	E	4:E	_
+9	)	_	Punctuation	Punctuation	_	2	U	2:U	_
+10	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+11	played	_	Word	Word	_	2	H	2:H	_
+12	the	_	Word	Word	_	14	F	14:F	_
+13	perfumer	_	Word	Word	_	14	E	14:E	_
+14	Giuseppe	_	Word	Word	_	11	A	11:A	_
+15	Baldini	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	in	_	Word	Word	_	21	R	21:R	_
+17	Tom	_	Word	Word	_	19	A	19:A	_
+18	Tykwer	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	's	_	Word	Word	_	21	E	21:E	_
+20	film	_	Word	Word	_	21	E	21:E	_
+21	Perfume	_	Word	Word	_	11	A	11:A	_
+22	:	_	Punctuation	Punctuation	_	21	U	21:U	_
+23	The	_	Word	Word	_	21	Terminal	21:Terminal	_
+24	Story	_	Word	Word	_	21	Terminal	21:Terminal	_
+25	of	_	Word	Word	_	21	Terminal	21:Terminal	_
+26	a	_	Word	Word	_	21	Terminal	21:Terminal	_
+27	Murderer	_	Word	Word	_	21	Terminal	21:Terminal	_
+28	(	_	Punctuation	Punctuation	_	21	U	21:U	_
+29	also	_	Word	Word	_	21	E	21:E	_
+30	2006	_	Word	Word	_	29	T	29:T	_
+31	)	_	Punctuation	Punctuation	_	2	U	2:U	_
+32	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+33	and	_	Word	Word	_	36	L	36:L	_
+34	had	_	Word	Word	_	36	F	36:F	_
+35	a	_	Word	Word	_	36	F	36:F	_
+36	cameo	_	Word	Word	_	2	H	2:H	_
+37	in	_	Word	Word	_	42	R	42:R	_
+38	the	_	Word	Word	_	40	F	40:F	_
+39	same	_	Word	Word	_	40	E	40:E	_
+40	year	_	Word	Word	_	42	E	42:E	_
+41	's	_	Word	Word	_	40	R	40:R	_
+42	The	_	Word	Word	_	36	A	36:A	_
+43	Holiday	_	Word	Word	_	42	Terminal	42:Terminal	_
+44	.	_	Punctuation	Punctuation	_	42	U	42:U	_
+

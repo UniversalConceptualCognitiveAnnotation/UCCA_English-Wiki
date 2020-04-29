@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 591005
+# text = Dark Shadows , directed by Tim Burton , was released in 2012 .
+1	Dark	_	Word	Word	_	10	A	10:A	_
+2	Shadows	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+4	directed	_	Word	Word	_	1	E	1:E	_
+5	by	_	Word	Word	_	6	R	6:R	_
+6	Tim	_	Word	Word	_	4	A	4:A	_
+7	Burton	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+9	was	_	Word	Word	_	10	F	10:F	_
+10	released	_	Word	Word	_	0	H	0:H	_
+11	in	_	Word	Word	_	12	R	12:R	_
+12	2012	_	Word	Word	_	10	T	10:T	_
+13	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+

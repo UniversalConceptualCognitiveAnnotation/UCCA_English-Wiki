@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 556015
+# text = B.B . King recalled that he knew Presley before he was popular when they both used to frequent Beale Street .
+1	B.B	_	Word	Word	_	4	A	4:A	_
+2	.	_	Punctuation	Punctuation	_	1	U	1:U	_
+3	King	_	Word	Word	_	1	Terminal	1:Terminal	_
+4	recalled	_	Word	Word	_	0	H	0:H	_
+5	that	_	Word	Word	_	7	R	7:R	_
+6	he	_	Word	Word	_	7	A	7:A	_
+7	knew	_	Word	Word	_	4	A	4:A	_
+8	Presley	_	Word	Word	_	7	A	7:A	_
+9	before	_	Word	Word	_	12	L	12:L	_
+10	he	_	Word	Word	_	12	A	12:A	_
+11	was	_	Word	Word	_	12	F	12:F	_
+12	popular	_	Word	Word	_	7	H	7:H	_
+13	when	_	Word	Word	_	18	L	18:L	_
+14	they	_	Word	Word	_	18	A	18:A	_
+15	both	_	Word	Word	_	14	Q	14:Q	_
+16	used	_	Word	Word	_	18	D	18:D	_
+17	to	_	Word	Word	_	18	F	18:F	_
+18	frequent	_	Word	Word	_	7	H	7:H	_
+19	Beale	_	Word	Word	_	20	E	20:E	_
+20	Street	_	Word	Word	_	18	A	18:A	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+

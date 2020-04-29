@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 591003
+# text = The film is written and directed by Bruce Robinson .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	film	_	Word	Word	_	4	A	4:A|6:A	_
+3	is	_	Word	Word	_	4	F	4:F	_
+4	written	_	Word	Word	_	0	H	0:H	_
+5	and	_	Word	Word	_	6	L	6:L	_
+6	directed	_	Word	Word	_	4	H	4:H	_
+7	by	_	Word	Word	_	8	R	8:R	_
+8	Bruce	_	Word	Word	_	4	A	4:A|6:A	_
+9	Robinson	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+

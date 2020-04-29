@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 962000
+# text = In 1960 , she and Olivier divorced and Olivier married actress Joan Plowright .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1960	_	Word	Word	_	7	T	7:T	_
+3	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+4	she	_	Word	Word	_	7	A	7:A	_
+5	and	_	Word	Word	_	4	N	4:N	_
+6	Olivier	_	Word	Word	_	4	C	4:C	_
+7	divorced	_	Word	Word	_	0	H	0:H	_
+8	and	_	Word	Word	_	10	L	10:L	_
+9	Olivier	_	Word	Word	_	10	A	10:A	_
+10	married	_	Word	Word	_	7	H	7:H	_
+11	actress	_	Word	Word	_	12	E	12:E	_
+12	Joan	_	Word	Word	_	10	A	10:A	_
+13	Plowright	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+

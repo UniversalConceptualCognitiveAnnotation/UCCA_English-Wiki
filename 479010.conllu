@@ -1,0 +1,39 @@
+# format = ucca
+# sent_id = 479010
+# text = Johnson appeared at Bird 's retirement ceremony in 1992 , and described Bird as a " friend forever " ; during Johnson 's Hall of Fame ceremony , Bird formally inducted his old rival .
+1	Johnson	_	Word	Word	_	2	A	2:A|12:A|17:A	_
+2	appeared	_	Word	Word	_	0	H	0:H	_
+3	at	_	Word	Word	_	7	R	7:R	_
+4	Bird	_	Word	Word	_	7	A	7:A	_
+5	's	_	Word	Word	_	4	R	4:R	_
+6	retirement	_	Word	Word	_	7	E	7:E	_
+7	ceremony	_	Word	Word	_	2	A	2:A	_
+8	in	_	Word	Word	_	9	R	9:R	_
+9	1992	_	Word	Word	_	7	T	7:T	_
+10	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+11	and	_	Word	Word	_	12	L	12:L	_
+12	described	_	Word	Word	_	2	H	2:H	_
+13	Bird	_	Word	Word	_	12	A	12:A|17:A	_
+14	as	_	Word	Word	_	17	R	17:R	_
+15	a	_	Word	Word	_	17	F	17:F	_
+16	"	_	Punctuation	Punctuation	_	17	U	17:U	_
+17	friend	_	Word	Word	_	12	A	12:A	_
+18	forever	_	Word	Word	_	17	D	17:D	_
+19	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+20	;	_	Punctuation	Punctuation	_	2	U	2:U	_
+21	during	_	Word	Word	_	27	L	27:L	_
+22	Johnson	_	Word	Word	_	27	A	27:A	_
+23	's	_	Word	Word	_	22	R	22:R	_
+24	Hall	_	Word	Word	_	27	E	27:E	_
+25	of	_	Word	Word	_	24	Terminal	24:Terminal	_
+26	Fame	_	Word	Word	_	24	Terminal	24:Terminal	_
+27	ceremony	_	Word	Word	_	2	H	2:H	_
+28	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+29	Bird	_	Word	Word	_	31	A	31:A	_
+30	formally	_	Word	Word	_	31	D	31:D	_
+31	inducted	_	Word	Word	_	2	H	2:H	_
+32	his	_	Word	Word	_	31	A	31:A	_
+33	old	_	Word	Word	_	32	D	32:D	_
+34	rival	_	Word	Word	_	32	A	32:A	_
+35	.	_	Punctuation	Punctuation	_	32	U	32:U	_
+

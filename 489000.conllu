@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 489000
+# text = The following year , Bana co - starred with Daniel Craig and Geoffrey Rush in Steven Spielberg 's controversial film Munich .
+1	The	_	Word	Word	_	3	E	3:E	_
+2	following	_	Word	Word	_	3	E	3:E	_
+3	year	_	Word	Word	_	8	L	8:L	_
+4	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+5	Bana	_	Word	Word	_	8	A	8:A	_
+6	co	_	Word	Word	_	8	D	8:D	_
+7	-	_	Punctuation	Punctuation	_	8	U	8:U	_
+8	starred	_	Word	Word	_	0	H	0:H	_
+9	with	_	Word	Word	_	10	R	10:R	_
+10	Daniel	_	Word	Word	_	8	A	8:A	_
+11	Craig	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	and	_	Word	Word	_	10	N	10:N	_
+13	Geoffrey	_	Word	Word	_	10	C	10:C	_
+14	Rush	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	in	_	Word	Word	_	21	R	21:R	_
+16	Steven	_	Word	Word	_	18	A	18:A	_
+17	Spielberg	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	's	_	Word	Word	_	20	E	20:E	_
+19	controversial	_	Word	Word	_	20	E	20:E	_
+20	film	_	Word	Word	_	21	E	21:E	_
+21	Munich	_	Word	Word	_	8	A	8:A	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

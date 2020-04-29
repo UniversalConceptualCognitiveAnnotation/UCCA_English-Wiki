@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 523011
+# text = For Garland , this regular dose of drugs led to addiction and a lifelong struggle and contributed to her eventual demise .
+1	For	_	Word	Word	_	2	R	2:R	_
+2	Garland	_	Word	Word	_	0	C	0:C|5:A|15:A	_
+3	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+4	this	_	Word	Word	_	6	E	6:E	_
+5	regular	_	Word	Word	_	6	E	6:E	_
+6	dose	_	Word	Word	_	8	Q	8:Q	_
+7	of	_	Word	Word	_	8	R	8:R	_
+8	drugs	_	Word	Word	_	0	C	0:C|15:A|21:A	_
+9	led	_	Word	Word	_	11	D	11:D|15:D	_
+10	to	_	Word	Word	_	11	R	11:R	_
+11	addiction	_	Word	Word	_	0	H	0:H	_
+12	and	_	Word	Word	_	15	L	15:L	_
+13	a	_	Word	Word	_	14	E	14:E	_
+14	lifelong	_	Word	Word	_	15	T	15:T	_
+15	struggle	_	Word	Word	_	11	H	11:H	_
+16	and	_	Word	Word	_	21	L	21:L	_
+17	contributed	_	Word	Word	_	21	D	21:D	_
+18	to	_	Word	Word	_	21	F	21:F	_
+19	her	_	Word	Word	_	21	A	21:A	_
+20	eventual	_	Word	Word	_	21	T	21:T	_
+21	demise	_	Word	Word	_	11	H	11:H	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

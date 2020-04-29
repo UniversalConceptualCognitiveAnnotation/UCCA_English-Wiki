@@ -1,0 +1,42 @@
+# format = ucca
+# sent_id = 709009
+# text = The event coincided with the start of the Gulf War against Saddam Hussein , and Dylan performed his song " Masters of War " . Dylan then made a short speech that startled some of the audience .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	event	_	Word	Word	_	3	A	3:A	_
+3	coincided	_	Word	Word	_	0	H	0:H	_
+4	with	_	Word	Word	_	6	R	6:R	_
+5	the	_	Word	Word	_	6	E	6:E	_
+6	start	_	Word	Word	_	3	A	3:A	_
+7	of	_	Word	Word	_	9	R	9:R	_
+8	the	_	Word	Word	_	9	E	9:E	_
+9	Gulf	_	Word	Word	_	6	E	6:E	_
+10	War	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	against	_	Word	Word	_	12	R	12:R	_
+12	Saddam	_	Word	Word	_	9	A	9:A	_
+13	Hussein	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+15	and	_	Word	Word	_	17	L	17:L	_
+16	Dylan	_	Word	Word	_	17	A	17:A	_
+17	performed	_	Word	Word	_	3	H	3:H	_
+18	his	_	Word	Word	_	19	E	19:E	_
+19	song	_	Word	Word	_	21	E	21:E	_
+20	"	_	Punctuation	Punctuation	_	21	U	21:U	_
+21	Masters	_	Word	Word	_	17	A	17:A	_
+22	of	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	War	_	Word	Word	_	21	Terminal	21:Terminal	_
+24	"	_	Punctuation	Punctuation	_	3	U	3:U	_
+25	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+26	Dylan	_	Word	Word	_	31	A	31:A	_
+27	then	_	Word	Word	_	33	L	33:L	_
+28	made	_	Word	Word	_	31	F	31:F	_
+29	a	_	Word	Word	_	31	E	31:E	_
+30	short	_	Word	Word	_	31	T	31:T	_
+31	speech	_	Word	Word	_	0	C	0:C|33:A	_
+32	that	_	Word	Word	_	33	L	33:L	_
+33	startled	_	Word	Word	_	3	H	3:H	_
+34	some	_	Word	Word	_	37	Q	37:Q	_
+35	of	_	Word	Word	_	37	R	37:R	_
+36	the	_	Word	Word	_	37	E	37:E	_
+37	audience	_	Word	Word	_	33	A	33:A	_
+38	.	_	Punctuation	Punctuation	_	37	U	37:U	_
+

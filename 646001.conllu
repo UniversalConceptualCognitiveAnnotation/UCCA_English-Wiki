@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 646001
+# text = They spent the night recording what would become the Two Virgins album , after which , he said , they " made love at dawn . "
+1	They	_	Word	Word	_	5	A	5:A	_
+2	spent	_	Word	Word	_	4	F	4:F	_
+3	the	_	Word	Word	_	4	F	4:F	_
+4	night	_	Word	Word	_	5	T	5:T	_
+5	recording	_	Word	Word	_	0	H	0:H	_
+6	what	_	Word	Word	_	8	R	8:R	_
+7	would	_	Word	Word	_	8	E	8:E	_
+8	become	_	Word	Word	_	12	E	12:E	_
+9	the	_	Word	Word	_	12	E	12:E	_
+10	Two	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	Virgins	_	Word	Word	_	9	Terminal	9:Terminal	_
+12	album	_	Word	Word	_	5	A	5:A	_
+13	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+14	after	_	Word	Word	_	18	L	18:L	_
+15	which	_	Word	Word	_	14	F	14:F	_
+16	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+17	he	_	Word	Word	_	18	A	18:A	_
+18	said	_	Word	Word	_	5	H	5:H	_
+19	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+20	they	_	Word	Word	_	22	A	22:A	_
+21	"	_	Punctuation	Punctuation	_	22	U	22:U	_
+22	made	_	Word	Word	_	18	A	18:A	_
+23	love	_	Word	Word	_	22	Terminal	22:Terminal	_
+24	at	_	Word	Word	_	25	R	25:R	_
+25	dawn	_	Word	Word	_	22	T	22:T	_
+26	.	_	Punctuation	Punctuation	_	25	U	25:U	_
+27	"	_	Punctuation	Punctuation	_	25	U	25:U	_
+

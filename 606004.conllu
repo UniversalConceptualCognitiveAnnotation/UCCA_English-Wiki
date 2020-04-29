@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 606004
+# text = Rolling Stone named it Album of the Year for 1974 , and in 1975 it won Grammy Awards for Best Contemporary / Pop Vocal and Best Engineered Album .
+1	Rolling	_	Word	Word	_	3	A	3:A	_
+2	Stone	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	named	_	Word	Word	_	0	H	0:H	_
+4	it	_	Word	Word	_	3	A	3:A	_
+5	Album	_	Word	Word	_	3	A	3:A	_
+6	of	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	the	_	Word	Word	_	5	Terminal	5:Terminal	_
+8	Year	_	Word	Word	_	5	Terminal	5:Terminal	_
+9	for	_	Word	Word	_	10	R	10:R	_
+10	1974	_	Word	Word	_	5	E	5:E	_
+11	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+12	and	_	Word	Word	_	16	L	16:L	_
+13	in	_	Word	Word	_	14	R	14:R	_
+14	1975	_	Word	Word	_	16	T	16:T	_
+15	it	_	Word	Word	_	16	A	16:A	_
+16	won	_	Word	Word	_	3	H	3:H	_
+17	Grammy	_	Word	Word	_	16	A	16:A	_
+18	Awards	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	for	_	Word	Word	_	24	R	24:R	_
+20	Best	_	Word	Word	_	24	E	24:E	_
+21	Contemporary	_	Word	Word	_	24	E	24:E	_
+22	/	_	Punctuation	Punctuation	_	21	U	21:U	_
+23	Pop	_	Word	Word	_	21	C	21:C	_
+24	Vocal	_	Word	Word	_	17	E	17:E	_
+25	and	_	Word	Word	_	24	N	24:N	_
+26	Best	_	Word	Word	_	28	E	28:E	_
+27	Engineered	_	Word	Word	_	28	E	28:E	_
+28	Album	_	Word	Word	_	24	C	24:C	_
+29	.	_	Punctuation	Punctuation	_	28	U	28:U	_
+

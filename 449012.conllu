@@ -1,0 +1,53 @@
+# format = ucca
+# sent_id = 449012
+# text = Along with Tom Brokaw at NBC and Dan Rather at CBS , Jennings formed part of the " Big Three " news anchors who dominated American evening network news from the early 1980s until his death in 2005 , which closely followed the retirements of Brokaw and Rather .
+1	Along	_	Word	Word	_	3	R	3:R	_
+2	with	_	Word	Word	_	3	R	3:R	_
+3	Tom	_	Word	Word	_	14	A	14:A	_
+4	Brokaw	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	at	_	Word	Word	_	6	R	6:R	_
+6	NBC	_	Word	Word	_	3	E	3:E	_
+7	and	_	Word	Word	_	3	N	3:N	_
+8	Dan	_	Word	Word	_	3	C	3:C	_
+9	Rather	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	at	_	Word	Word	_	11	R	11:R	_
+11	CBS	_	Word	Word	_	8	E	8:E	_
+12	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+13	Jennings	_	Word	Word	_	14	A	14:A	_
+14	formed	_	Word	Word	_	0	H	0:H	_
+15	part	_	Word	Word	_	23	E	23:E	_
+16	of	_	Word	Word	_	15	R	15:R	_
+17	the	_	Word	Word	_	23	E	23:E	_
+18	"	_	Punctuation	Punctuation	_	23	U	23:U	_
+19	Big	_	Word	Word	_	20	E	20:E	_
+20	Three	_	Word	Word	_	23	E	23:E	_
+21	"	_	Punctuation	Punctuation	_	23	U	23:U	_
+22	news	_	Word	Word	_	23	E	23:E	_
+23	anchors	_	Word	Word	_	14	A	14:A	_
+24	who	_	Word	Word	_	25	R	25:R	_
+25	dominated	_	Word	Word	_	23	E	23:E	_
+26	American	_	Word	Word	_	29	E	29:E	_
+27	evening	_	Word	Word	_	29	E	29:E	_
+28	network	_	Word	Word	_	29	E	29:E	_
+29	news	_	Word	Word	_	25	A	25:A	_
+30	from	_	Word	Word	_	33	R	33:R	_
+31	the	_	Word	Word	_	33	E	33:E	_
+32	early	_	Word	Word	_	33	E	33:E	_
+33	1980s	_	Word	Word	_	14	T	14:T	_
+34	until	_	Word	Word	_	36	L	36:L	_
+35	his	_	Word	Word	_	36	A	36:A	_
+36	death	_	Word	Word	_	14	H	14:H	_
+37	in	_	Word	Word	_	38	R	38:R	_
+38	2005	_	Word	Word	_	36	T	36:T	_
+39	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+40	which	_	Word	Word	_	44	L	44:L	_
+41	closely	_	Word	Word	_	42	E	42:E	_
+42	followed	_	Word	Word	_	44	L	44:L	_
+43	the	_	Word	Word	_	44	E	44:E	_
+44	retirements	_	Word	Word	_	14	H	14:H	_
+45	of	_	Word	Word	_	46	R	46:R	_
+46	Brokaw	_	Word	Word	_	44	A	44:A	_
+47	and	_	Word	Word	_	46	N	46:N	_
+48	Rather	_	Word	Word	_	46	C	46:C	_
+49	.	_	Punctuation	Punctuation	_	46	U	46:U	_
+

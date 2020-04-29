@@ -1,0 +1,46 @@
+# format = ucca
+# sent_id = 510005
+# text = Onstage in Oslo , Norway , on 18 June , Bowie was hit in the eye with a lollipop thrown by a fan ; a week later he suffered chest pain while performing at the Hurricane Festival in Scheeßel , Germany .
+1	Onstage	_	Word	Word	_	0	H	0:H	_
+2	in	_	Word	Word	_	3	R	3:R	_
+3	Oslo	_	Word	Word	_	1	A	1:A	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	Norway	_	Word	Word	_	3	C	3:C	_
+6	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+7	on	_	Word	Word	_	8	R	8:R	_
+8	18	_	Word	Word	_	1	T	1:T	_
+9	June	_	Word	Word	_	8	C	8:C	_
+10	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+11	Bowie	_	Word	Word	_	13	A	13:A|1:A	_
+12	was	_	Word	Word	_	13	F	13:F	_
+13	hit	_	Word	Word	_	1	H	1:H	_
+14	in	_	Word	Word	_	16	R	16:R	_
+15	the	_	Word	Word	_	16	E	16:E	_
+16	eye	_	Word	Word	_	13	A	13:A	_
+17	with	_	Word	Word	_	19	R	19:R	_
+18	a	_	Word	Word	_	19	E	19:E	_
+19	lollipop	_	Word	Word	_	13	A	13:A	_
+20	thrown	_	Word	Word	_	19	E	19:E	_
+21	by	_	Word	Word	_	23	R	23:R	_
+22	a	_	Word	Word	_	23	E	23:E	_
+23	fan	_	Word	Word	_	20	A	20:A	_
+24	;	_	Punctuation	Punctuation	_	1	U	1:U	_
+25	a	_	Word	Word	_	26	Q	26:Q	_
+26	week	_	Word	Word	_	31	T	31:T	_
+27	later	_	Word	Word	_	26	R	26:R	_
+28	he	_	Word	Word	_	31	A	31:A|33:A	_
+29	suffered	_	Word	Word	_	31	D	31:D	_
+30	chest	_	Word	Word	_	31	A	31:A	_
+31	pain	_	Word	Word	_	1	H	1:H	_
+32	while	_	Word	Word	_	33	L	33:L	_
+33	performing	_	Word	Word	_	1	H	1:H	_
+34	at	_	Word	Word	_	37	E	37:E	_
+35	the	_	Word	Word	_	37	E	37:E	_
+36	Hurricane	_	Word	Word	_	37	E	37:E	_
+37	Festival	_	Word	Word	_	33	A	33:A	_
+38	in	_	Word	Word	_	39	R	39:R	_
+39	Scheeßel	_	Word	Word	_	33	A	33:A	_
+40	,	_	Punctuation	Punctuation	_	39	U	39:U	_
+41	Germany	_	Word	Word	_	39	C	39:C	_
+42	.	_	Punctuation	Punctuation	_	39	U	39:U	_
+

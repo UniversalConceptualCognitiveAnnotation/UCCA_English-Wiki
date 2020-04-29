@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 506003
+# text = The same year , Bowie worked with the Pat Metheny Group to record " This Is Not America " for the soundtrack of The Falcon and the Snowman .
+1	The	_	Word	Word	_	3	E	3:E	_
+2	same	_	Word	Word	_	3	E	3:E	_
+3	year	_	Word	Word	_	6	T	6:T	_
+4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	Bowie	_	Word	Word	_	6	A	6:A|13:A	_
+6	worked	_	Word	Word	_	0	H	0:H	_
+7	with	_	Word	Word	_	9	R	9:R	_
+8	the	_	Word	Word	_	9	E	9:E	_
+9	Pat	_	Word	Word	_	0	C	0:C|13:A	_
+10	Metheny	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	Group	_	Word	Word	_	9	Terminal	9:Terminal	_
+12	to	_	Word	Word	_	13	L	13:L	_
+13	record	_	Word	Word	_	6	H	6:H	_
+14	"	_	Punctuation	Punctuation	_	13	U	13:U	_
+15	This	_	Word	Word	_	13	A	13:A	_
+16	Is	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	Not	_	Word	Word	_	15	Terminal	15:Terminal	_
+18	America	_	Word	Word	_	15	Terminal	15:Terminal	_
+19	"	_	Punctuation	Punctuation	_	13	U	13:U	_
+20	for	_	Word	Word	_	22	R	22:R	_
+21	the	_	Word	Word	_	22	E	22:E	_
+22	soundtrack	_	Word	Word	_	13	A	13:A	_
+23	of	_	Word	Word	_	24	R	24:R	_
+24	The	_	Word	Word	_	22	E	22:E	_
+25	Falcon	_	Word	Word	_	24	Terminal	24:Terminal	_
+26	and	_	Word	Word	_	24	Terminal	24:Terminal	_
+27	the	_	Word	Word	_	24	Terminal	24:Terminal	_
+28	Snowman	_	Word	Word	_	24	Terminal	24:Terminal	_
+29	.	_	Punctuation	Punctuation	_	24	U	24:U	_
+

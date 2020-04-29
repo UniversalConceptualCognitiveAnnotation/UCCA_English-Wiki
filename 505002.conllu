@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 505002
+# text = The album 's hard rock edge included conspicuous guitar contributions from Robert Fripp , Pete Townshend , Chuck Hammer and Tom Verlaine .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	album	_	Word	Word	_	6	E	6:E	_
+3	's	_	Word	Word	_	2	R	2:R	_
+4	hard	_	Word	Word	_	5	E	5:E	_
+5	rock	_	Word	Word	_	6	E	6:E	_
+6	edge	_	Word	Word	_	10	A	10:A	_
+7	included	_	Word	Word	_	10	D	10:D	_
+8	conspicuous	_	Word	Word	_	10	D	10:D	_
+9	guitar	_	Word	Word	_	10	A	10:A	_
+10	contributions	_	Word	Word	_	0	H	0:H	_
+11	from	_	Word	Word	_	12	R	12:R	_
+12	Robert	_	Word	Word	_	10	A	10:A	_
+13	Fripp	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+15	Pete	_	Word	Word	_	12	C	12:C	_
+16	Townshend	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+18	Chuck	_	Word	Word	_	12	C	12:C	_
+19	Hammer	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	and	_	Word	Word	_	12	N	12:N	_
+21	Tom	_	Word	Word	_	12	C	12:C	_
+22	Verlaine	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+

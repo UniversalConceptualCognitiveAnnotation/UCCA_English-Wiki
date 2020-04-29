@@ -1,0 +1,37 @@
+# format = ucca
+# sent_id = 451011
+# text = ABC was in bad shape at the time , " Jennings said . " They were willing to try anything , and , to demonstrate the point , they tried me . "
+1	ABC	_	Word	Word	_	5	A	5:A	_
+2	was	_	Word	Word	_	5	F	5:F	_
+3	in	_	Word	Word	_	5	R	5:R	_
+4	bad	_	Word	Word	_	5	D	5:D	_
+5	shape	_	Word	Word	_	12	A	12:A	_
+6	at	_	Word	Word	_	8	R	8:R	_
+7	the	_	Word	Word	_	8	E	8:E	_
+8	time	_	Word	Word	_	5	T	5:T	_
+9	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+10	"	_	Punctuation	Punctuation	_	12	U	12:U	_
+11	Jennings	_	Word	Word	_	12	A	12:A	_
+12	said	_	Word	Word	_	0	H	0:H	_
+13	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+14	"	_	Punctuation	Punctuation	_	12	U	12:U	_
+15	They	_	Word	Word	_	19	A	19:A	_
+16	were	_	Word	Word	_	19	F	19:F	_
+17	willing	_	Word	Word	_	19	D	19:D	_
+18	to	_	Word	Word	_	19	F	19:F	_
+19	try	_	Word	Word	_	5	H	5:H	_
+20	anything	_	Word	Word	_	19	A	19:A	_
+21	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+22	and	_	Word	Word	_	25	L	25:L	_
+23	,	_	Punctuation	Punctuation	_	22	U	22:U	_
+24	to	_	Word	Word	_	22	R	22:R	_
+25	demonstrate	_	Word	Word	_	5	H	5:H	_
+26	the	_	Word	Word	_	27	E	27:E	_
+27	point	_	Word	Word	_	25	A	25:A	_
+28	,	_	Punctuation	Punctuation	_	25	U	25:U	_
+29	they	_	Word	Word	_	30	A	30:A|25:A	_
+30	tried	_	Word	Word	_	5	H	5:H	_
+31	me	_	Word	Word	_	30	A	30:A	_
+32	.	_	Punctuation	Punctuation	_	30	U	30:U	_
+33	"	_	Punctuation	Punctuation	_	30	U	30:U	_
+

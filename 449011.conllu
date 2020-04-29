@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 449011
+# text = Having always been fascinated with the United States , Jennings became a naturalized United States citizen in 2003 .
+1	Having	_	Word	Word	_	4	F	4:F	_
+2	always	_	Word	Word	_	4	D	4:D	_
+3	been	_	Word	Word	_	4	F	4:F	_
+4	fascinated	_	Word	Word	_	0	H	0:H	_
+5	with	_	Word	Word	_	7	R	7:R	_
+6	the	_	Word	Word	_	7	E	7:E	_
+7	United	_	Word	Word	_	4	A	4:A	_
+8	States	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+10	Jennings	_	Word	Word	_	16	A	16:A|4:A	_
+11	became	_	Word	Word	_	16	D	16:D	_
+12	a	_	Word	Word	_	16	E	16:E	_
+13	naturalized	_	Word	Word	_	16	D	16:D	_
+14	United	_	Word	Word	_	16	A	16:A	_
+15	States	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	citizen	_	Word	Word	_	4	H	4:H	_
+17	in	_	Word	Word	_	18	R	18:R	_
+18	2003	_	Word	Word	_	16	T	16:T	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

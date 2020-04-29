@@ -1,0 +1,54 @@
+# format = ucca
+# sent_id = 234008
+# text = Chan 's comments were criticised by Parris Chang , a Taiwanese legislator and senior member of the DPP , who called for the government of Taiwan to take punitive steps against Chan for his comments , such as banning his movies and barring him the right to visit Taiwan .
+1	Chan	_	Word	Word	_	3	A	3:A	_
+2	's	_	Word	Word	_	1	R	1:R	_
+3	comments	_	Word	Word	_	5	A	5:A	_
+4	were	_	Word	Word	_	5	F	5:F	_
+5	criticised	_	Word	Word	_	0	H	0:H	_
+6	by	_	Word	Word	_	7	R	7:R	_
+7	Parris	_	Word	Word	_	5	A	5:A	_
+8	Chang	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+10	a	_	Word	Word	_	12	F	12:F	_
+11	Taiwanese	_	Word	Word	_	12	E	12:E	_
+12	legislator	_	Word	Word	_	7	E	7:E	_
+13	and	_	Word	Word	_	12	N	12:N	_
+14	senior	_	Word	Word	_	15	D	15:D	_
+15	member	_	Word	Word	_	12	C	12:C	_
+16	of	_	Word	Word	_	18	R	18:R	_
+17	the	_	Word	Word	_	18	F	18:F	_
+18	DPP	_	Word	Word	_	15	A	15:A	_
+19	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+20	who	_	Word	Word	_	21	R	21:R	_
+21	called	_	Word	Word	_	7	E	7:E	_
+22	for	_	Word	Word	_	24	R	24:R	_
+23	the	_	Word	Word	_	24	F	24:F	_
+24	government	_	Word	Word	_	21	A	21:A	_
+25	of	_	Word	Word	_	26	R	26:R	_
+26	Taiwan	_	Word	Word	_	24	E	24:E	_
+27	to	_	Word	Word	_	30	F	30:F	_
+28	take	_	Word	Word	_	30	F	30:F	_
+29	punitive	_	Word	Word	_	30	A	30:A	_
+30	steps	_	Word	Word	_	21	A	21:A	_
+31	against	_	Word	Word	_	32	R	32:R	_
+32	Chan	_	Word	Word	_	30	A	30:A	_
+33	for	_	Word	Word	_	35	L	35:L	_
+34	his	_	Word	Word	_	35	A	35:A	_
+35	comments	_	Word	Word	_	30	H	30:H	_
+36	,	_	Punctuation	Punctuation	_	30	U	30:U	_
+37	such	_	Word	Word	_	39	L	39:L	_
+38	as	_	Word	Word	_	37	Terminal	37:Terminal	_
+39	banning	_	Word	Word	_	30	H	30:H	_
+40	his	_	Word	Word	_	41	E	41:E	_
+41	movies	_	Word	Word	_	39	A	39:A	_
+42	and	_	Word	Word	_	43	L	43:L	_
+43	barring	_	Word	Word	_	30	H	30:H	_
+44	him	_	Word	Word	_	43	A	43:A|46:A|48:A	_
+45	the	_	Word	Word	_	46	F	46:F	_
+46	right	_	Word	Word	_	43	A	43:A	_
+47	to	_	Word	Word	_	48	F	48:F	_
+48	visit	_	Word	Word	_	46	A	46:A	_
+49	Taiwan	_	Word	Word	_	48	A	48:A	_
+50	.	_	Punctuation	Punctuation	_	48	U	48:U	_
+

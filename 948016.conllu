@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 948016
+# text = during a concert in Fort Lauderdale , Florida after her press agent stated that it was untrue .
+1	during	_	Word	Word	_	13	L	13:L	_
+2	a	_	Word	Word	_	3	F	3:F	_
+3	concert	_	Word	Word	_	0	H	0:H	_
+4	in	_	Word	Word	_	5	R	5:R	_
+5	Fort	_	Word	Word	_	3	A	3:A	_
+6	Lauderdale	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+8	Florida	_	Word	Word	_	5	C	5:C	_
+9	after	_	Word	Word	_	13	L	13:L	_
+10	her	_	Word	Word	_	13	A	13:A	_
+11	press	_	Word	Word	_	10	A	10:A	_
+12	agent	_	Word	Word	_	10	A	10:A	_
+13	stated	_	Word	Word	_	3	H	3:H	_
+14	that	_	Word	Word	_	17	R	17:R	_
+15	it	_	Word	Word	_	17	A	17:A	_
+16	was	_	Word	Word	_	17	F	17:F	_
+17	untrue	_	Word	Word	_	13	A	13:A	_
+18	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+

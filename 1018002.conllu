@@ -1,0 +1,34 @@
+# format = ucca
+# sent_id = 1018002
+# text = His contributions to music , dance , and fashion , along with his publicized personal life , made him a global figure in popular culture for over four decades .
+1	His	_	Word	Word	_	2	A	2:A	_
+2	contributions	_	Word	Word	_	18	A	18:A	_
+3	to	_	Word	Word	_	4	R	4:R	_
+4	music	_	Word	Word	_	2	A	2:A	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	dance	_	Word	Word	_	4	C	4:C	_
+7	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+8	and	_	Word	Word	_	4	N	4:N	_
+9	fashion	_	Word	Word	_	4	C	4:C	_
+10	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+11	along	_	Word	Word	_	14	L	14:L	_
+12	with	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	his	_	Word	Word	_	16	A	16:A	_
+14	publicized	_	Word	Word	_	2	H	2:H	_
+15	personal	_	Word	Word	_	16	A	16:A	_
+16	life	_	Word	Word	_	14	A	14:A	_
+17	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+18	made	_	Word	Word	_	0	H	0:H	_
+19	him	_	Word	Word	_	18	A	18:A	_
+20	a	_	Word	Word	_	22	E	22:E	_
+21	global	_	Word	Word	_	22	E	22:E	_
+22	figure	_	Word	Word	_	0	S	0:S|21:A	_
+23	in	_	Word	Word	_	25	R	25:R	_
+24	popular	_	Word	Word	_	25	E	25:E	_
+25	culture	_	Word	Word	_	22	A	22:A	_
+26	for	_	Word	Word	_	29	R	29:R	_
+27	over	_	Word	Word	_	29	E	29:E	_
+28	four	_	Word	Word	_	29	Q	29:Q	_
+29	decades	_	Word	Word	_	18	T	18:T	_
+30	.	_	Punctuation	Punctuation	_	29	U	29:U	_
+

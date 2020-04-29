@@ -1,0 +1,34 @@
+# format = ucca
+# sent_id = 592001
+# text = Along with Sean Penn , John Malkovich and Mick Hucknall , Depp co - owned the French restaurant - bar Man Ray , located near the Champs - Élysées .
+1	Along	_	Word	Word	_	3	R	3:R	_
+2	with	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	Sean	_	Word	Word	_	15	A	15:A	_
+4	Penn	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+6	John	_	Word	Word	_	3	C	3:C	_
+7	Malkovich	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	and	_	Word	Word	_	3	N	3:N	_
+9	Mick	_	Word	Word	_	3	C	3:C	_
+10	Hucknall	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+12	Depp	_	Word	Word	_	15	A	15:A	_
+13	co	_	Word	Word	_	15	D	15:D	_
+14	-	_	Punctuation	Punctuation	_	15	U	15:U	_
+15	owned	_	Word	Word	_	0	H	0:H	_
+16	the	_	Word	Word	_	18	E	18:E	_
+17	French	_	Word	Word	_	18	E	18:E	_
+18	restaurant	_	Word	Word	_	21	E	21:E	_
+19	-	_	Punctuation	Punctuation	_	18	U	18:U	_
+20	bar	_	Word	Word	_	18	C	18:C	_
+21	Man	_	Word	Word	_	15	A	15:A	_
+22	Ray	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	,	_	Punctuation	Punctuation	_	21	U	21:U	_
+24	located	_	Word	Word	_	21	E	21:E	_
+25	near	_	Word	Word	_	27	R	27:R	_
+26	the	_	Word	Word	_	27	E	27:E	_
+27	Champs	_	Word	Word	_	24	A	24:A	_
+28	-	_	Punctuation	Punctuation	_	27	U	27:U	_
+29	Élysées	_	Word	Word	_	27	Terminal	27:Terminal	_
+30	.	_	Punctuation	Punctuation	_	27	U	27:U	_
+

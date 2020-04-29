@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 215010
+# text = In 1997 , she was the voice of Young Anastasia in the animated musical film Anastasia .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1997	_	Word	Word	_	7	T	7:T	_
+3	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+4	she	_	Word	Word	_	7	A	7:A	_
+5	was	_	Word	Word	_	7	F	7:F	_
+6	the	_	Word	Word	_	7	F	7:F	_
+7	voice	_	Word	Word	_	0	H	0:H	_
+8	of	_	Word	Word	_	10	R	10:R	_
+9	Young	_	Word	Word	_	10	E	10:E	_
+10	Anastasia	_	Word	Word	_	7	A	7:A	_
+11	in	_	Word	Word	_	16	R	16:R	_
+12	the	_	Word	Word	_	16	F	16:F	_
+13	animated	_	Word	Word	_	16	E	16:E	_
+14	musical	_	Word	Word	_	15	E	15:E	_
+15	film	_	Word	Word	_	16	E	16:E	_
+16	Anastasia	_	Word	Word	_	7	A	7:A	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

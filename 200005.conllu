@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 200005
+# text = In November 2010 , it was reported that he is writing a musical based on the life of Houdini , with music by Danny Elfman .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	November	_	Word	Word	_	7	T	7:T	_
+3	2010	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+5	it	_	Word	Word	_	7	F	7:F	_
+6	was	_	Word	Word	_	7	F	7:F	_
+7	reported	_	Word	Word	_	0	H	0:H	_
+8	that	_	Word	Word	_	11	R	11:R	_
+9	he	_	Word	Word	_	11	A	11:A	_
+10	is	_	Word	Word	_	11	F	11:F	_
+11	writing	_	Word	Word	_	7	A	7:A	_
+12	a	_	Word	Word	_	13	E	13:E	_
+13	musical	_	Word	Word	_	11	A	11:A	_
+14	based	_	Word	Word	_	13	E	13:E	_
+15	on	_	Word	Word	_	17	R	17:R	_
+16	the	_	Word	Word	_	17	E	17:E	_
+17	life	_	Word	Word	_	14	A	14:A	_
+18	of	_	Word	Word	_	19	R	19:R	_
+19	Houdini	_	Word	Word	_	17	A	17:A	_
+20	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+21	with	_	Word	Word	_	22	L	22:L	_
+22	music	_	Word	Word	_	7	H	7:H	_
+23	by	_	Word	Word	_	24	R	24:R	_
+24	Danny	_	Word	Word	_	22	A	22:A	_
+25	Elfman	_	Word	Word	_	24	Terminal	24:Terminal	_
+26	.	_	Punctuation	Punctuation	_	24	U	24:U	_
+

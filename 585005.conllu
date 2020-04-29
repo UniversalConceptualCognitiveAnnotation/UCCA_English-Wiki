@@ -1,0 +1,52 @@
+# format = ucca
+# sent_id = 585005
+# text = He has been nominated for top awards many times , winning the Best Actor Awards from the Golden Globes for Sweeney Todd : The Demon Barber of Fleet Street and from the Screen Actors Guild for Pirates of the Caribbean : The Curse of the Black Pearl .
+1	He	_	Word	Word	_	4	A	4:A|11:A	_
+2	has	_	Word	Word	_	4	F	4:F	_
+3	been	_	Word	Word	_	4	F	4:F	_
+4	nominated	_	Word	Word	_	0	H	0:H	_
+5	for	_	Word	Word	_	7	R	7:R	_
+6	top	_	Word	Word	_	7	E	7:E	_
+7	awards	_	Word	Word	_	4	A	4:A	_
+8	many	_	Word	Word	_	9	Q	9:Q	_
+9	times	_	Word	Word	_	4	D	4:D	_
+10	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+11	winning	_	Word	Word	_	4	H	4:H	_
+12	the	_	Word	Word	_	13	F	13:F	_
+13	Best	_	Word	Word	_	11	A	11:A	_
+14	Actor	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	Awards	_	Word	Word	_	13	Terminal	13:Terminal	_
+16	from	_	Word	Word	_	18	R	18:R	_
+17	the	_	Word	Word	_	18	F	18:F	_
+18	Golden	_	Word	Word	_	13	E	13:E	_
+19	Globes	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	for	_	Word	Word	_	21	R	21:R	_
+21	Sweeney	_	Word	Word	_	18	E	18:E	_
+22	Todd	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	:	_	Punctuation	Punctuation	_	21	U	21:U	_
+24	The	_	Word	Word	_	21	Terminal	21:Terminal	_
+25	Demon	_	Word	Word	_	21	Terminal	21:Terminal	_
+26	Barber	_	Word	Word	_	21	Terminal	21:Terminal	_
+27	of	_	Word	Word	_	21	Terminal	21:Terminal	_
+28	Fleet	_	Word	Word	_	21	Terminal	21:Terminal	_
+29	Street	_	Word	Word	_	21	Terminal	21:Terminal	_
+30	and	_	Word	Word	_	18	N	18:N	_
+31	from	_	Word	Word	_	33	R	33:R	_
+32	the	_	Word	Word	_	33	F	33:F	_
+33	Screen	_	Word	Word	_	18	C	18:C	_
+34	Actors	_	Word	Word	_	33	Terminal	33:Terminal	_
+35	Guild	_	Word	Word	_	33	Terminal	33:Terminal	_
+36	for	_	Word	Word	_	37	R	37:R	_
+37	Pirates	_	Word	Word	_	33	E	33:E	_
+38	of	_	Word	Word	_	37	Terminal	37:Terminal	_
+39	the	_	Word	Word	_	37	Terminal	37:Terminal	_
+40	Caribbean	_	Word	Word	_	37	Terminal	37:Terminal	_
+41	:	_	Punctuation	Punctuation	_	37	U	37:U	_
+42	The	_	Word	Word	_	37	Terminal	37:Terminal	_
+43	Curse	_	Word	Word	_	37	Terminal	37:Terminal	_
+44	of	_	Word	Word	_	37	Terminal	37:Terminal	_
+45	the	_	Word	Word	_	37	Terminal	37:Terminal	_
+46	Black	_	Word	Word	_	37	Terminal	37:Terminal	_
+47	Pearl	_	Word	Word	_	37	Terminal	37:Terminal	_
+48	.	_	Punctuation	Punctuation	_	37	U	37:U	_
+

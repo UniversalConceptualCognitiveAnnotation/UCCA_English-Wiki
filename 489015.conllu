@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 489015
+# text = The film was a critical success and grossed over US $ 380million worldwide .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	film	_	Word	Word	_	0	C	0:C|8:A	_
+3	was	_	Word	Word	_	6	F	6:F	_
+4	a	_	Word	Word	_	5	E	5:E	_
+5	critical	_	Word	Word	_	6	A	6:A	_
+6	success	_	Word	Word	_	0	H	0:H	_
+7	and	_	Word	Word	_	8	L	8:L	_
+8	grossed	_	Word	Word	_	6	H	6:H	_
+9	over	_	Word	Word	_	11	R	11:R	_
+10	US	_	Word	Word	_	11	E	11:E	_
+11	$	_	Word	Word	_	8	A	8:A	_
+12	380million	_	Word	Word	_	11	Q	11:Q	_
+13	worldwide	_	Word	Word	_	8	A	8:A	_
+14	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+

@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 709008
+# text = In 1991 , Dylan was honored by the recording industry with a Grammy Lifetime Achievement Award from American actor Jack Nicholson .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1991	_	Word	Word	_	6	T	6:T	_
+3	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+4	Dylan	_	Word	Word	_	6	A	6:A	_
+5	was	_	Word	Word	_	6	F	6:F	_
+6	honored	_	Word	Word	_	0	H	0:H	_
+7	by	_	Word	Word	_	10	R	10:R	_
+8	the	_	Word	Word	_	10	E	10:E	_
+9	recording	_	Word	Word	_	10	E	10:E	_
+10	industry	_	Word	Word	_	6	A	6:A	_
+11	with	_	Word	Word	_	16	R	16:R	_
+12	a	_	Word	Word	_	16	E	16:E	_
+13	Grammy	_	Word	Word	_	16	E	16:E	_
+14	Lifetime	_	Word	Word	_	15	T	15:T	_
+15	Achievement	_	Word	Word	_	13	E	13:E	_
+16	Award	_	Word	Word	_	6	A	6:A	_
+17	from	_	Word	Word	_	20	R	20:R	_
+18	American	_	Word	Word	_	19	A	19:A	_
+19	actor	_	Word	Word	_	20	E	20:E	_
+20	Jack	_	Word	Word	_	6	A	6:A	_
+21	Nicholson	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+

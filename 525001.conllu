@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 525001
+# text = She was deeply devoted to him and was devastated in early 1940 when he eloped with Lana Turner .
+1	She	_	Word	Word	_	4	A	4:A|9:A	_
+2	was	_	Word	Word	_	4	F	4:F	_
+3	deeply	_	Word	Word	_	4	D	4:D	_
+4	devoted	_	Word	Word	_	0	H	0:H	_
+5	to	_	Word	Word	_	6	R	6:R	_
+6	him	_	Word	Word	_	4	A	4:A	_
+7	and	_	Word	Word	_	9	L	9:L	_
+8	was	_	Word	Word	_	9	F	9:F	_
+9	devastated	_	Word	Word	_	4	H	4:H	_
+10	in	_	Word	Word	_	12	R	12:R	_
+11	early	_	Word	Word	_	12	E	12:E	_
+12	1940	_	Word	Word	_	9	T	9:T	_
+13	when	_	Word	Word	_	15	L	15:L	_
+14	he	_	Word	Word	_	15	A	15:A	_
+15	eloped	_	Word	Word	_	4	H	4:H	_
+16	with	_	Word	Word	_	17	R	17:R	_
+17	Lana	_	Word	Word	_	15	A	15:A	_
+18	Turner	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+

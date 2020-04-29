@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 1021016
+# text = In 1980 , he secured the highest royalty rate in the music industry : 37 percent of wholesale album profit .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1980	_	Word	Word	_	5	T	5:T	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	he	_	Word	Word	_	5	A	5:A	_
+5	secured	_	Word	Word	_	0	H	0:H	_
+6	the	_	Word	Word	_	9	E	9:E	_
+7	highest	_	Word	Word	_	9	E	9:E	_
+8	royalty	_	Word	Word	_	9	E	9:E	_
+9	rate	_	Word	Word	_	5	A	5:A	_
+10	in	_	Word	Word	_	13	R	13:R	_
+11	the	_	Word	Word	_	13	E	13:E	_
+12	music	_	Word	Word	_	13	E	13:E	_
+13	industry	_	Word	Word	_	9	E	9:E	_
+14	:	_	Punctuation	Punctuation	_	9	U	9:U	_
+15	37	_	Word	Word	_	16	Q	16:Q	_
+16	percent	_	Word	Word	_	9	E	9:E	_
+17	of	_	Word	Word	_	20	R	20:R	_
+18	wholesale	_	Word	Word	_	19	E	19:E	_
+19	album	_	Word	Word	_	20	E	20:E	_
+20	profit	_	Word	Word	_	16	E	16:E	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+

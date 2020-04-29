@@ -1,0 +1,36 @@
+# format = ucca
+# sent_id = 525008
+# text = At the age of 21 , she was given the " glamour treatment " in Presenting Lily Mars , in which she was dressed in " grown - up " gowns .
+1	At	_	Word	Word	_	13	L	13:L	_
+2	the	_	Word	Word	_	3	F	3:F	_
+3	age	_	Word	Word	_	0	H	0:H	_
+4	of	_	Word	Word	_	5	R	5:R	_
+5	21	_	Word	Word	_	3	T	3:T	_
+6	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+7	she	_	Word	Word	_	13	A	13:A|3:A	_
+8	was	_	Word	Word	_	13	F	13:F	_
+9	given	_	Word	Word	_	13	D	13:D	_
+10	the	_	Word	Word	_	13	F	13:F	_
+11	"	_	Punctuation	Punctuation	_	13	U	13:U	_
+12	glamour	_	Word	Word	_	13	A	13:A	_
+13	treatment	_	Word	Word	_	3	H	3:H	_
+14	"	_	Punctuation	Punctuation	_	13	U	13:U	_
+15	in	_	Word	Word	_	16	R	16:R	_
+16	Presenting	_	Word	Word	_	13	A	13:A	_
+17	Lily	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	Mars	_	Word	Word	_	16	Terminal	16:Terminal	_
+19	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+20	in	_	Word	Word	_	24	R	24:R	_
+21	which	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	she	_	Word	Word	_	24	A	24:A	_
+23	was	_	Word	Word	_	24	F	24:F	_
+24	dressed	_	Word	Word	_	16	E	16:E	_
+25	in	_	Word	Word	_	31	R	31:R	_
+26	"	_	Punctuation	Punctuation	_	31	U	31:U	_
+27	grown	_	Word	Word	_	31	E	31:E	_
+28	-	_	Punctuation	Punctuation	_	27	U	27:U	_
+29	up	_	Word	Word	_	27	Terminal	27:Terminal	_
+30	"	_	Punctuation	Punctuation	_	31	U	31:U	_
+31	gowns	_	Word	Word	_	24	A	24:A	_
+32	.	_	Punctuation	Punctuation	_	31	U	31:U	_
+

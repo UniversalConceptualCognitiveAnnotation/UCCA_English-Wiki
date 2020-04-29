@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 28006
+# text = Later in 1988 , Pitt made a guest appearance on the Fox police drama 21 Jump Street .
+1	Later	_	Word	Word	_	3	R	3:R	_
+2	in	_	Word	Word	_	3	F	3:F	_
+3	1988	_	Word	Word	_	9	T	9:T	_
+4	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+5	Pitt	_	Word	Word	_	9	A	9:A	_
+6	made	_	Word	Word	_	9	F	9:F	_
+7	a	_	Word	Word	_	9	E	9:E	_
+8	guest	_	Word	Word	_	9	A	9:A	_
+9	appearance	_	Word	Word	_	0	H	0:H	_
+10	on	_	Word	Word	_	15	R	15:R	_
+11	the	_	Word	Word	_	14	E	14:E	_
+12	Fox	_	Word	Word	_	14	E	14:E	_
+13	police	_	Word	Word	_	14	E	14:E	_
+14	drama	_	Word	Word	_	15	E	15:E	_
+15	21	_	Word	Word	_	9	A	9:A	_
+16	Jump	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	Street	_	Word	Word	_	15	Terminal	15:Terminal	_
+18	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

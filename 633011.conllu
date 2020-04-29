@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 633011
+# text = After the first Hamburg residency , the band accepted another in April 1961 , and a third in April 1962 .
+1	After	_	Word	Word	_	9	L	9:L	_
+2	the	_	Word	Word	_	5	E	5:E	_
+3	first	_	Word	Word	_	5	D	5:D	_
+4	Hamburg	_	Word	Word	_	5	E	5:E	_
+5	residency	_	Word	Word	_	0	H	0:H	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	the	_	Word	Word	_	8	E	8:E	_
+8	band	_	Word	Word	_	0	C	0:C|17:A	_
+9	accepted	_	Word	Word	_	5	H	5:H	_
+10	another	_	Word	Word	_	9	A	9:A	_
+11	in	_	Word	Word	_	12	R	12:R	_
+12	April	_	Word	Word	_	9	T	9:T	_
+13	1961	_	Word	Word	_	12	C	12:C	_
+14	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+15	and	_	Word	Word	_	17	L	17:L	_
+16	a	_	Word	Word	_	17	E	17:E	_
+17	third	_	Word	Word	_	5	H	5:H	_
+18	in	_	Word	Word	_	19	R	19:R	_
+19	April	_	Word	Word	_	17	T	17:T	_
+20	1962	_	Word	Word	_	19	C	19:C	_
+21	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

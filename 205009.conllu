@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 205009
+# text = Hoffman was born in Los Angeles , the second son of Lillian ( née Gold ) and Harry Hoffman .
+1	Hoffman	_	Word	Word	_	3	A	3:A|10:A	_
+2	was	_	Word	Word	_	3	F	3:F	_
+3	born	_	Word	Word	_	0	H	0:H	_
+4	in	_	Word	Word	_	5	R	5:R	_
+5	Los	_	Word	Word	_	3	A	3:A	_
+6	Angeles	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+8	the	_	Word	Word	_	10	F	10:F	_
+9	second	_	Word	Word	_	10	Q	10:Q	_
+10	son	_	Word	Word	_	3	H	3:H	_
+11	of	_	Word	Word	_	12	R	12:R	_
+12	Lillian	_	Word	Word	_	10	E	10:E	_
+13	(	_	Punctuation	Punctuation	_	12	U	12:U	_
+14	née	_	Word	Word	_	15	E	15:E	_
+15	Gold	_	Word	Word	_	12	E	12:E	_
+16	)	_	Punctuation	Punctuation	_	12	U	12:U	_
+17	and	_	Word	Word	_	12	N	12:N	_
+18	Harry	_	Word	Word	_	12	C	12:C	_
+19	Hoffman	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+

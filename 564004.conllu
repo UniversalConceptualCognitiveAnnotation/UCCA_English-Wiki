@@ -1,0 +1,39 @@
+# format = ucca
+# sent_id = 564004
+# text = The single pairing " Do n't Be Cruel " with " Hound Dog " ruled the top of the charts for 11 weeks — a mark that would not be surpassed for 36 years .
+1	The	_	Word	Word	_	3	E	3:E	_
+2	single	_	Word	Word	_	3	E	3:E	_
+3	pairing	_	Word	Word	_	5	E	5:E	_
+4	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+5	Do	_	Word	Word	_	15	A	15:A	_
+6	n't	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	Be	_	Word	Word	_	5	Terminal	5:Terminal	_
+8	Cruel	_	Word	Word	_	5	Terminal	5:Terminal	_
+9	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+10	with	_	Word	Word	_	5	R	5:R	_
+11	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+12	Hound	_	Word	Word	_	5	C	5:C	_
+13	Dog	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	"	_	Punctuation	Punctuation	_	15	U	15:U	_
+15	ruled	_	Word	Word	_	0	H	0:H	_
+16	the	_	Word	Word	_	17	E	17:E	_
+17	top	_	Word	Word	_	15	A	15:A	_
+18	of	_	Word	Word	_	20	R	20:R	_
+19	the	_	Word	Word	_	20	E	20:E	_
+20	charts	_	Word	Word	_	17	C	17:C	_
+21	for	_	Word	Word	_	23	R	23:R	_
+22	11	_	Word	Word	_	23	Q	23:Q	_
+23	weeks	_	Word	Word	_	15	T	15:T	_
+24	—	_	Punctuation	Punctuation	_	15	U	15:U	_
+25	a	_	Word	Word	_	26	E	26:E	_
+26	mark	_	Word	Word	_	31	A	31:A	_
+27	that	_	Word	Word	_	31	F	31:F	_
+28	would	_	Word	Word	_	31	D	31:D	_
+29	not	_	Word	Word	_	31	D	31:D	_
+30	be	_	Word	Word	_	31	F	31:F	_
+31	surpassed	_	Word	Word	_	15	H	15:H	_
+32	for	_	Word	Word	_	34	R	34:R	_
+33	36	_	Word	Word	_	34	Q	34:Q	_
+34	years	_	Word	Word	_	31	T	31:T	_
+35	.	_	Punctuation	Punctuation	_	34	U	34:U	_
+

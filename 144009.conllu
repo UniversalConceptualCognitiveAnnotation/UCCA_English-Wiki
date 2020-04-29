@@ -1,0 +1,37 @@
+# format = ucca
+# sent_id = 144009
+# text = In 1994 she worked opposite Anthony Quinn in This Ca n't Be Love , which was largely based on Hepburn 's own life , with numerous references to her personality and career .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1994	_	Word	Word	_	4	T	4:T	_
+3	she	_	Word	Word	_	4	A	4:A	_
+4	worked	_	Word	Word	_	0	H	0:H	_
+5	opposite	_	Word	Word	_	6	R	6:R	_
+6	Anthony	_	Word	Word	_	4	A	4:A	_
+7	Quinn	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	in	_	Word	Word	_	9	R	9:R	_
+9	This	_	Word	Word	_	4	A	4:A	_
+10	Ca	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	n't	_	Word	Word	_	9	Terminal	9:Terminal	_
+12	Be	_	Word	Word	_	9	Terminal	9:Terminal	_
+13	Love	_	Word	Word	_	9	Terminal	9:Terminal	_
+14	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+15	which	_	Word	Word	_	18	R	18:R	_
+16	was	_	Word	Word	_	18	F	18:F	_
+17	largely	_	Word	Word	_	18	D	18:D	_
+18	based	_	Word	Word	_	9	E	9:E	_
+19	on	_	Word	Word	_	23	R	23:R	_
+20	Hepburn	_	Word	Word	_	23	A	23:A	_
+21	's	_	Word	Word	_	20	R	20:R	_
+22	own	_	Word	Word	_	20	E	20:E	_
+23	life	_	Word	Word	_	18	A	18:A	_
+24	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+25	with	_	Word	Word	_	27	L	27:L	_
+26	numerous	_	Word	Word	_	27	D	27:D	_
+27	references	_	Word	Word	_	18	H	18:H	_
+28	to	_	Word	Word	_	30	R	30:R|32:R	_
+29	her	_	Word	Word	_	30	A	30:A|32:A	_
+30	personality	_	Word	Word	_	27	A	27:A	_
+31	and	_	Word	Word	_	32	L	32:L	_
+32	career	_	Word	Word	_	30	H	30:H	_
+33	.	_	Punctuation	Punctuation	_	32	U	32:U	_
+

@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 129010
+# text = For her next film she played Mary Stuart in John Ford 's Mary of Scotland ( 1936 ) . It met with a similarly poor reception .
+1	For	_	Word	Word	_	4	R	4:R	_
+2	her	_	Word	Word	_	4	E	4:E	_
+3	next	_	Word	Word	_	4	E	4:E	_
+4	film	_	Word	Word	_	6	A	6:A	_
+5	she	_	Word	Word	_	6	A	6:A	_
+6	played	_	Word	Word	_	0	H	0:H	_
+7	Mary	_	Word	Word	_	6	A	6:A	_
+8	Stuart	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	in	_	Word	Word	_	13	R	13:R	_
+10	John	_	Word	Word	_	13	E	13:E	_
+11	Ford	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	's	_	Word	Word	_	10	R	10:R	_
+13	Mary	_	Word	Word	_	6	A	6:A	_
+14	of	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	Scotland	_	Word	Word	_	13	Terminal	13:Terminal	_
+16	(	_	Punctuation	Punctuation	_	13	U	13:U	_
+17	1936	_	Word	Word	_	13	E	13:E	_
+18	)	_	Punctuation	Punctuation	_	6	U	6:U	_
+19	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+20	It	_	Word	Word	_	21	A	21:A|26:A	_
+21	met	_	Word	Word	_	6	H	6:H	_
+22	with	_	Word	Word	_	26	R	26:R	_
+23	a	_	Word	Word	_	26	E	26:E	_
+24	similarly	_	Word	Word	_	25	E	25:E	_
+25	poor	_	Word	Word	_	26	D	26:D	_
+26	reception	_	Word	Word	_	21	A	21:A	_
+27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+

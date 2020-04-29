@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 1025001
+# text = Jackson had become interested in owning music catalogs after working with Paul McCartney in the early 1980s .
+1	Jackson	_	Word	Word	_	4	A	4:A|6:A|10:A	_
+2	had	_	Word	Word	_	4	F	4:F	_
+3	become	_	Word	Word	_	4	D	4:D	_
+4	interested	_	Word	Word	_	0	H	0:H	_
+5	in	_	Word	Word	_	6	R	6:R	_
+6	owning	_	Word	Word	_	4	A	4:A	_
+7	music	_	Word	Word	_	8	E	8:E	_
+8	catalogs	_	Word	Word	_	6	A	6:A	_
+9	after	_	Word	Word	_	10	L	10:L	_
+10	working	_	Word	Word	_	4	H	4:H	_
+11	with	_	Word	Word	_	12	R	12:R	_
+12	Paul	_	Word	Word	_	10	A	10:A	_
+13	McCartney	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	in	_	Word	Word	_	17	R	17:R	_
+15	the	_	Word	Word	_	17	E	17:E	_
+16	early	_	Word	Word	_	17	E	17:E	_
+17	1980s	_	Word	Word	_	10	T	10:T	_
+18	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+

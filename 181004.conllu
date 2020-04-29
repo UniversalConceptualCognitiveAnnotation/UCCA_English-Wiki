@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 181004
+# text = Gyllenhaal has stated that she " grew up mostly Jewish , culturally " , though she did not attend Hebrew school .
+1	Gyllenhaal	_	Word	Word	_	3	A	3:A	_
+2	has	_	Word	Word	_	3	F	3:F	_
+3	stated	_	Word	Word	_	0	H	0:H	_
+4	that	_	Word	Word	_	10	R	10:R	_
+5	she	_	Word	Word	_	10	A	10:A	_
+6	"	_	Punctuation	Punctuation	_	10	U	10:U	_
+7	grew	_	Word	Word	_	10	D	10:D	_
+8	up	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	mostly	_	Word	Word	_	10	D	10:D	_
+10	Jewish	_	Word	Word	_	3	A	3:A	_
+11	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	culturally	_	Word	Word	_	10	D	10:D	_
+13	"	_	Punctuation	Punctuation	_	3	U	3:U	_
+14	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+15	though	_	Word	Word	_	19	L	19:L	_
+16	she	_	Word	Word	_	19	A	19:A	_
+17	did	_	Word	Word	_	19	F	19:F	_
+18	not	_	Word	Word	_	19	D	19:D	_
+19	attend	_	Word	Word	_	3	H	3:H	_
+20	Hebrew	_	Word	Word	_	21	E	21:E	_
+21	school	_	Word	Word	_	19	A	19:A	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

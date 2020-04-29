@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 147000
+# text = Hepburn 's only husband was Ludlow Ogden Smith , a socialite businessman from Philadelphia whom she met while a student at Bryn Mawr .
+1	Hepburn	_	Word	Word	_	4	A	4:A	_
+2	's	_	Word	Word	_	1	R	1:R	_
+3	only	_	Word	Word	_	4	D	4:D	_
+4	husband	_	Word	Word	_	0	H	0:H	_
+5	was	_	Word	Word	_	4	F	4:F	_
+6	Ludlow	_	Word	Word	_	4	A	4:A	_
+7	Ogden	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	Smith	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+10	a	_	Word	Word	_	12	E	12:E	_
+11	socialite	_	Word	Word	_	12	E	12:E	_
+12	businessman	_	Word	Word	_	6	E	6:E	_
+13	from	_	Word	Word	_	12	E	12:E	_
+14	Philadelphia	_	Word	Word	_	13	A	13:A	_
+15	whom	_	Word	Word	_	17	R	17:R	_
+16	she	_	Word	Word	_	17	A	17:A|20:A	_
+17	met	_	Word	Word	_	6	E	6:E	_
+18	while	_	Word	Word	_	20	L	20:L	_
+19	a	_	Word	Word	_	20	E	20:E	_
+20	student	_	Word	Word	_	17	H	17:H	_
+21	at	_	Word	Word	_	22	R	22:R	_
+22	Bryn	_	Word	Word	_	20	A	20:A	_
+23	Mawr	_	Word	Word	_	22	Terminal	22:Terminal	_
+24	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+

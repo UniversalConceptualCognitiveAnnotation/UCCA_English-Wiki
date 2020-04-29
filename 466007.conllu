@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 466007
+# text = After leaving the NBA in 1992 , Johnson formed the Magic Johnson All - Stars , a barnstorming team that travelled around the world playing exhibition games .
+1	After	_	Word	Word	_	9	L	9:L	_
+2	leaving	_	Word	Word	_	0	H	0:H	_
+3	the	_	Word	Word	_	4	E	4:E	_
+4	NBA	_	Word	Word	_	2	A	2:A	_
+5	in	_	Word	Word	_	6	R	6:R	_
+6	1992	_	Word	Word	_	2	T	2:T	_
+7	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+8	Johnson	_	Word	Word	_	9	A	9:A|2:A	_
+9	formed	_	Word	Word	_	2	H	2:H	_
+10	the	_	Word	Word	_	9	A	9:A	_
+11	Magic	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	Johnson	_	Word	Word	_	10	Terminal	10:Terminal	_
+13	All	_	Word	Word	_	10	Terminal	10:Terminal	_
+14	-	_	Punctuation	Punctuation	_	10	U	10:U	_
+15	Stars	_	Word	Word	_	10	Terminal	10:Terminal	_
+16	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+17	a	_	Word	Word	_	19	E	19:E	_
+18	barnstorming	_	Word	Word	_	19	E	19:E	_
+19	team	_	Word	Word	_	10	E	10:E	_
+20	that	_	Word	Word	_	21	R	21:R	_
+21	travelled	_	Word	Word	_	19	E	19:E	_
+22	around	_	Word	Word	_	24	R	24:R	_
+23	the	_	Word	Word	_	24	E	24:E	_
+24	world	_	Word	Word	_	21	A	21:A	_
+25	playing	_	Word	Word	_	21	H	21:H	_
+26	exhibition	_	Word	Word	_	27	D	27:D	_
+27	games	_	Word	Word	_	25	A	25:A	_
+28	.	_	Punctuation	Punctuation	_	27	U	27:U	_
+

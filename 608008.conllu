@@ -1,0 +1,35 @@
+# format = ucca
+# sent_id = 608008
+# text = He performed for the largest paying stadium audience in history on 21 April 1990 , when 184,000 people attended his concert at Maracanã Stadium in Rio de Janeiro , Brazil .
+1	He	_	Word	Word	_	2	A	2:A	_
+2	performed	_	Word	Word	_	0	H	0:H	_
+3	for	_	Word	Word	_	8	R	8:R	_
+4	the	_	Word	Word	_	8	F	8:F	_
+5	largest	_	Word	Word	_	8	E	8:E	_
+6	paying	_	Word	Word	_	8	E	8:E	_
+7	stadium	_	Word	Word	_	8	E	8:E	_
+8	audience	_	Word	Word	_	2	A	2:A	_
+9	in	_	Word	Word	_	10	R	10:R	_
+10	history	_	Word	Word	_	8	E	8:E	_
+11	on	_	Word	Word	_	12	R	12:R	_
+12	21	_	Word	Word	_	2	T	2:T	_
+13	April	_	Word	Word	_	12	C	12:C	_
+14	1990	_	Word	Word	_	12	C	12:C	_
+15	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+16	when	_	Word	Word	_	19	L	19:L	_
+17	184,000	_	Word	Word	_	18	Q	18:Q	_
+18	people	_	Word	Word	_	19	A	19:A	_
+19	attended	_	Word	Word	_	2	H	2:H	_
+20	his	_	Word	Word	_	21	A	21:A	_
+21	concert	_	Word	Word	_	19	A	19:A	_
+22	at	_	Word	Word	_	23	R	23:R	_
+23	Maracanã	_	Word	Word	_	19	A	19:A	_
+24	Stadium	_	Word	Word	_	23	Terminal	23:Terminal	_
+25	in	_	Word	Word	_	26	R	26:R	_
+26	Rio	_	Word	Word	_	23	E	23:E	_
+27	de	_	Word	Word	_	26	Terminal	26:Terminal	_
+28	Janeiro	_	Word	Word	_	26	Terminal	26:Terminal	_
+29	,	_	Punctuation	Punctuation	_	26	U	26:U	_
+30	Brazil	_	Word	Word	_	26	C	26:C	_
+31	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+

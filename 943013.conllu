@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 943013
+# text = No Doubt 's third album , Tragic Kingdom ( 1995 ) , which followed the self - released The Beacon Street Collection ( 1995 ) , took more than three years to make .
+1	No	_	Word	Word	_	3	A	3:A	_
+2	Doubt	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	's	_	Word	Word	_	5	E	5:E	_
+4	third	_	Word	Word	_	5	Q	5:Q	_
+5	album	_	Word	Word	_	7	E	7:E	_
+6	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+7	Tragic	_	Word	Word	_	33	A	33:A	_
+8	Kingdom	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	(	_	Punctuation	Punctuation	_	7	U	7:U	_
+10	1995	_	Word	Word	_	7	E	7:E	_
+11	)	_	Punctuation	Punctuation	_	7	U	7:U	_
+12	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+13	which	_	Word	Word	_	14	R	14:R	_
+14	followed	_	Word	Word	_	7	E	7:E	_
+15	the	_	Word	Word	_	19	E	19:E	_
+16	self	_	Word	Word	_	18	A	18:A	_
+17	-	_	Punctuation	Punctuation	_	18	U	18:U	_
+18	released	_	Word	Word	_	19	E	19:E	_
+19	The	_	Word	Word	_	14	A	14:A	_
+20	Beacon	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	Street	_	Word	Word	_	19	Terminal	19:Terminal	_
+22	Collection	_	Word	Word	_	19	Terminal	19:Terminal	_
+23	(	_	Punctuation	Punctuation	_	19	U	19:U	_
+24	1995	_	Word	Word	_	19	E	19:E	_
+25	)	_	Punctuation	Punctuation	_	33	U	33:U	_
+26	,	_	Punctuation	Punctuation	_	33	U	33:U	_
+27	took	_	Word	Word	_	31	F	31:F	_
+28	more	_	Word	Word	_	30	E	30:E	_
+29	than	_	Word	Word	_	28	Terminal	28:Terminal	_
+30	three	_	Word	Word	_	31	Q	31:Q	_
+31	years	_	Word	Word	_	33	D	33:D	_
+32	to	_	Word	Word	_	33	F	33:F	_
+33	make	_	Word	Word	_	0	H	0:H	_
+34	.	_	Punctuation	Punctuation	_	33	U	33:U	_
+

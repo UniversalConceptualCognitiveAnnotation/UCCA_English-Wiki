@@ -1,0 +1,55 @@
+# format = ucca
+# sent_id = 962005
+# text = She also appeared in the films The Roman Spring of Mrs . Stone ( 1961 ) and Ship of Fools ( 1965 ) . In May 1967 , she was rehearsing to appear with Michael Redgrave in Edward Albee 's A Delicate Balance when she suffered a recurrence of tuberculosis .
+1	She	_	Word	Word	_	3	A	3:A	_
+2	also	_	Word	Word	_	3	D	3:D	_
+3	appeared	_	Word	Word	_	0	H	0:H	_
+4	in	_	Word	Word	_	7	R	7:R	_
+5	the	_	Word	Word	_	6	E	6:E	_
+6	films	_	Word	Word	_	7	E	7:E	_
+7	The	_	Word	Word	_	3	A	3:A	_
+8	Roman	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	Spring	_	Word	Word	_	7	Terminal	7:Terminal	_
+10	of	_	Word	Word	_	7	Terminal	7:Terminal	_
+11	Mrs	_	Word	Word	_	7	Terminal	7:Terminal	_
+12	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+13	Stone	_	Word	Word	_	7	Terminal	7:Terminal	_
+14	(	_	Punctuation	Punctuation	_	7	U	7:U	_
+15	1961	_	Word	Word	_	7	E	7:E	_
+16	)	_	Punctuation	Punctuation	_	7	U	7:U	_
+17	and	_	Word	Word	_	7	N	7:N	_
+18	Ship	_	Word	Word	_	7	C	7:C	_
+19	of	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	Fools	_	Word	Word	_	18	Terminal	18:Terminal	_
+21	(	_	Punctuation	Punctuation	_	18	U	18:U	_
+22	1965	_	Word	Word	_	18	E	18:E	_
+23	)	_	Punctuation	Punctuation	_	3	U	3:U	_
+24	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+25	In	_	Word	Word	_	26	R	26:R	_
+26	May	_	Word	Word	_	31	T	31:T	_
+27	1967	_	Word	Word	_	26	C	26:C	_
+28	,	_	Punctuation	Punctuation	_	31	U	31:U	_
+29	she	_	Word	Word	_	31	A	31:A|33:A	_
+30	was	_	Word	Word	_	31	F	31:F	_
+31	rehearsing	_	Word	Word	_	3	H	3:H	_
+32	to	_	Word	Word	_	33	L	33:L	_
+33	appear	_	Word	Word	_	3	H	3:H	_
+34	with	_	Word	Word	_	35	R	35:R	_
+35	Michael	_	Word	Word	_	33	A	33:A	_
+36	Redgrave	_	Word	Word	_	35	Terminal	35:Terminal	_
+37	in	_	Word	Word	_	41	R	41:R	_
+38	Edward	_	Word	Word	_	40	A	40:A	_
+39	Albee	_	Word	Word	_	38	Terminal	38:Terminal	_
+40	's	_	Word	Word	_	41	E	41:E	_
+41	A	_	Word	Word	_	33	A	33:A	_
+42	Delicate	_	Word	Word	_	41	Terminal	41:Terminal	_
+43	Balance	_	Word	Word	_	41	Terminal	41:Terminal	_
+44	when	_	Word	Word	_	50	L	50:L	_
+45	she	_	Word	Word	_	50	A	50:A	_
+46	suffered	_	Word	Word	_	50	D	50:D	_
+47	a	_	Word	Word	_	48	E	48:E	_
+48	recurrence	_	Word	Word	_	50	D	50:D	_
+49	of	_	Word	Word	_	50	R	50:R	_
+50	tuberculosis	_	Word	Word	_	3	H	3:H	_
+51	.	_	Punctuation	Punctuation	_	50	U	50:U	_
+

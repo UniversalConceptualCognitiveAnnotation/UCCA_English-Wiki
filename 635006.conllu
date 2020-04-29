@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 635006
+# text = The comment went virtually unnoticed in England but caused great offence in the US when quoted by a magazine there five months later .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	comment	_	Word	Word	_	0	C	0:C|11:A|16:A	_
+3	went	_	Word	Word	_	5	D	5:D	_
+4	virtually	_	Word	Word	_	5	D	5:D	_
+5	unnoticed	_	Word	Word	_	0	H	0:H	_
+6	in	_	Word	Word	_	7	R	7:R	_
+7	England	_	Word	Word	_	5	A	5:A	_
+8	but	_	Word	Word	_	11	L	11:L	_
+9	caused	_	Word	Word	_	11	D	11:D	_
+10	great	_	Word	Word	_	11	D	11:D	_
+11	offence	_	Word	Word	_	5	H	5:H	_
+12	in	_	Word	Word	_	14	R	14:R	_
+13	the	_	Word	Word	_	14	E	14:E	_
+14	US	_	Word	Word	_	11	A	11:A	_
+15	when	_	Word	Word	_	16	L	16:L	_
+16	quoted	_	Word	Word	_	5	H	5:H	_
+17	by	_	Word	Word	_	19	R	19:R	_
+18	a	_	Word	Word	_	19	E	19:E	_
+19	magazine	_	Word	Word	_	16	A	16:A	_
+20	there	_	Word	Word	_	16	A	16:A	_
+21	five	_	Word	Word	_	22	Q	22:Q	_
+22	months	_	Word	Word	_	16	T	16:T	_
+23	later	_	Word	Word	_	22	R	22:R	_
+24	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+

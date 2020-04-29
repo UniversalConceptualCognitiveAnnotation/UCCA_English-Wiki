@@ -1,0 +1,47 @@
+# format = ucca
+# sent_id = 808019
+# text = He added , " We were crazy . We had a big argument the night before we got married , and it was nearly called off ... [ it ' s ] miraculous that we made it . But we did . "
+1	He	_	Word	Word	_	2	A	2:A	_
+2	added	_	Word	Word	_	0	H	0:H	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	We	_	Word	Word	_	7	A	7:A	_
+6	were	_	Word	Word	_	7	F	7:F	_
+7	crazy	_	Word	Word	_	2	A	2:A	_
+8	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	We	_	Word	Word	_	13	A	13:A	_
+10	had	_	Word	Word	_	13	F	13:F	_
+11	a	_	Word	Word	_	13	E	13:E	_
+12	big	_	Word	Word	_	13	D	13:D	_
+13	argument	_	Word	Word	_	7	H	7:H	_
+14	the	_	Word	Word	_	15	E	15:E	_
+15	night	_	Word	Word	_	16	E	16:E	_
+16	before	_	Word	Word	_	19	L	19:L	_
+17	we	_	Word	Word	_	19	A	19:A	_
+18	got	_	Word	Word	_	19	D	19:D	_
+19	married	_	Word	Word	_	7	H	7:H	_
+20	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+21	and	_	Word	Word	_	25	L	25:L	_
+22	it	_	Word	Word	_	25	A	25:A	_
+23	was	_	Word	Word	_	25	F	25:F	_
+24	nearly	_	Word	Word	_	25	D	25:D	_
+25	called	_	Word	Word	_	7	H	7:H	_
+26	off	_	Word	Word	_	25	Terminal	25:Terminal	_
+27	...	_	Punctuation	Punctuation	_	7	U	7:U	_
+28	[	_	Punctuation	Punctuation	_	7	U	7:U	_
+29	it	_	Word	Word	_	33	F	33:F	_
+30	'	_	Punctuation	Punctuation	_	33	U	33:U	_
+31	s	_	Word	Word	_	33	F	33:F	_
+32	]	_	Punctuation	Punctuation	_	33	U	33:U	_
+33	miraculous	_	Word	Word	_	7	H	7:H	_
+34	that	_	Word	Word	_	36	R	36:R	_
+35	we	_	Word	Word	_	36	A	36:A	_
+36	made	_	Word	Word	_	0	P	0:P|40:P	_
+37	it	_	Word	Word	_	36	Terminal	36:Terminal	_
+38	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+39	But	_	Word	Word	_	40	L	40:L	_
+40	we	_	Word	Word	_	7	H	7:H	_
+41	did	_	Word	Word	_	40	F	40:F	_
+42	.	_	Punctuation	Punctuation	_	40	U	40:U	_
+43	"	_	Punctuation	Punctuation	_	40	U	40:U	_
+

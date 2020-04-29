@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 192003
+# text = Sports Night was produced by Disney and debuted on the Disney - owned ABC network in the fall of 1998 .
+1	Sports	_	Word	Word	_	4	A	4:A|8:A	_
+2	Night	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	was	_	Word	Word	_	4	F	4:F	_
+4	produced	_	Word	Word	_	0	H	0:H	_
+5	by	_	Word	Word	_	6	R	6:R	_
+6	Disney	_	Word	Word	_	4	A	4:A	_
+7	and	_	Word	Word	_	8	L	8:L	_
+8	debuted	_	Word	Word	_	4	H	4:H	_
+9	on	_	Word	Word	_	14	R	14:R	_
+10	the	_	Word	Word	_	14	E	14:E	_
+11	Disney	_	Word	Word	_	13	A	13:A	_
+12	-	_	Punctuation	Punctuation	_	13	U	13:U	_
+13	owned	_	Word	Word	_	14	E	14:E	_
+14	ABC	_	Word	Word	_	8	A	8:A	_
+15	network	_	Word	Word	_	14	E	14:E	_
+16	in	_	Word	Word	_	18	R	18:R	_
+17	the	_	Word	Word	_	18	E	18:E	_
+18	fall	_	Word	Word	_	8	T	8:T	_
+19	of	_	Word	Word	_	20	R	20:R	_
+20	1998	_	Word	Word	_	18	C	18:C	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+

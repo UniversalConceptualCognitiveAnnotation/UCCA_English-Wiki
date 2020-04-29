@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 616007
+# text = Miles also co - founded International Times , an underground paper that McCartney helped to start with direct financial support and by providing interviews to attract advertiser income .
+1	Miles	_	Word	Word	_	5	A	5:A	_
+2	also	_	Word	Word	_	5	D	5:D	_
+3	co	_	Word	Word	_	5	D	5:D	_
+4	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+5	founded	_	Word	Word	_	0	H	0:H	_
+6	International	_	Word	Word	_	5	A	5:A	_
+7	Times	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+9	an	_	Word	Word	_	11	F	11:F	_
+10	underground	_	Word	Word	_	11	E	11:E	_
+11	paper	_	Word	Word	_	6	E	6:E	_
+12	that	_	Word	Word	_	16	R	16:R	_
+13	McCartney	_	Word	Word	_	16	A	16:A|20:A|24:A|26:A	_
+14	helped	_	Word	Word	_	16	D	16:D	_
+15	to	_	Word	Word	_	16	F	16:F	_
+16	start	_	Word	Word	_	11	E	11:E	_
+17	with	_	Word	Word	_	20	R	20:R	_
+18	direct	_	Word	Word	_	20	D	20:D	_
+19	financial	_	Word	Word	_	20	A	20:A	_
+20	support	_	Word	Word	_	16	A	16:A	_
+21	and	_	Word	Word	_	24	L	24:L	_
+22	by	_	Word	Word	_	24	L	24:L	_
+23	providing	_	Word	Word	_	24	D	24:D	_
+24	interviews	_	Word	Word	_	20	H	20:H	_
+25	to	_	Word	Word	_	26	L	26:L	_
+26	attract	_	Word	Word	_	20	H	20:H	_
+27	advertiser	_	Word	Word	_	28	E	28:E	_
+28	income	_	Word	Word	_	26	A	26:A	_
+29	.	_	Punctuation	Punctuation	_	28	U	28:U	_
+

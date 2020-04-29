@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 564009
+# text = Actor Charles Laughton hosted the show , filling in while Sullivan recuperated from a car accident .
+1	Actor	_	Word	Word	_	2	E	2:E	_
+2	Charles	_	Word	Word	_	0	C	0:C|8:A	_
+3	Laughton	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	hosted	_	Word	Word	_	0	H	0:H	_
+5	the	_	Word	Word	_	6	E	6:E	_
+6	show	_	Word	Word	_	4	A	4:A	_
+7	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+8	filling	_	Word	Word	_	4	H	4:H	_
+9	in	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	while	_	Word	Word	_	12	L	12:L	_
+11	Sullivan	_	Word	Word	_	12	A	12:A	_
+12	recuperated	_	Word	Word	_	4	H	4:H	_
+13	from	_	Word	Word	_	16	R	16:R	_
+14	a	_	Word	Word	_	16	F	16:F	_
+15	car	_	Word	Word	_	16	A	16:A	_
+16	accident	_	Word	Word	_	12	A	12:A	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

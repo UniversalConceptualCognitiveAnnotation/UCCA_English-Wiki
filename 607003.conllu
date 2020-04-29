@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 607003
+# text = Though certified platinum , critics panned Back to the Egg .
+1	Though	_	Word	Word	_	6	L	6:L	_
+2	certified	_	Word	Word	_	3	E	3:E	_
+3	platinum	_	Word	Word	_	0	H	0:H	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	critics	_	Word	Word	_	6	A	6:A	_
+6	panned	_	Word	Word	_	3	H	3:H	_
+7	Back	_	Word	Word	_	6	A	6:A|3:A	_
+8	to	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	the	_	Word	Word	_	7	Terminal	7:Terminal	_
+10	Egg	_	Word	Word	_	7	Terminal	7:Terminal	_
+11	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+

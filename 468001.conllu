@@ -1,0 +1,49 @@
+# format = ucca
+# sent_id = 468001
+# text = Johnson said that what was " most amazing " about joining the Lakers was the chance to play alongside Kareem Abdul - Jabbar , the team 's 7 ft 2 in ( 2.18 m ) center who became the leading scorer in NBA history .
+1	Johnson	_	Word	Word	_	2	A	2:A|11:A	_
+2	said	_	Word	Word	_	0	H	0:H	_
+3	that	_	Word	Word	_	4	R	4:R	_
+4	what	_	Word	Word	_	2	A	2:A	_
+5	was	_	Word	Word	_	8	F	8:F	_
+6	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	most	_	Word	Word	_	8	D	8:D	_
+8	amazing	_	Word	Word	_	4	E	4:E	_
+9	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+10	about	_	Word	Word	_	11	R	11:R	_
+11	joining	_	Word	Word	_	8	A	8:A	_
+12	the	_	Word	Word	_	13	E	13:E	_
+13	Lakers	_	Word	Word	_	11	A	11:A	_
+14	was	_	Word	Word	_	4	F	4:F	_
+15	the	_	Word	Word	_	16	E	16:E	_
+16	chance	_	Word	Word	_	18	D	18:D	_
+17	to	_	Word	Word	_	18	F	18:F	_
+18	play	_	Word	Word	_	4	H	4:H	_
+19	alongside	_	Word	Word	_	18	D	18:D	_
+20	Kareem	_	Word	Word	_	18	A	18:A	_
+21	Abdul	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	-	_	Punctuation	Punctuation	_	20	U	20:U	_
+23	Jabbar	_	Word	Word	_	20	Terminal	20:Terminal	_
+24	,	_	Punctuation	Punctuation	_	20	U	20:U	_
+25	the	_	Word	Word	_	26	E	26:E	_
+26	team	_	Word	Word	_	36	A	36:A	_
+27	's	_	Word	Word	_	26	R	26:R	_
+28	7	_	Word	Word	_	29	Q	29:Q	_
+29	ft	_	Word	Word	_	36	E	36:E	_
+30	2	_	Word	Word	_	31	Q	31:Q	_
+31	in	_	Word	Word	_	29	C	29:C	_
+32	(	_	Punctuation	Punctuation	_	29	U	29:U	_
+33	2.18	_	Word	Word	_	34	Q	34:Q	_
+34	m	_	Word	Word	_	29	C	29:C	_
+35	)	_	Punctuation	Punctuation	_	29	U	29:U	_
+36	center	_	Word	Word	_	20	E	20:E	_
+37	who	_	Word	Word	_	41	R	41:R	_
+38	became	_	Word	Word	_	41	D	41:D	_
+39	the	_	Word	Word	_	41	E	41:E	_
+40	leading	_	Word	Word	_	41	D	41:D	_
+41	scorer	_	Word	Word	_	36	E	36:E	_
+42	in	_	Word	Word	_	44	R	44:R	_
+43	NBA	_	Word	Word	_	44	A	44:A	_
+44	history	_	Word	Word	_	41	A	41:A	_
+45	.	_	Punctuation	Punctuation	_	44	U	44:U	_
+

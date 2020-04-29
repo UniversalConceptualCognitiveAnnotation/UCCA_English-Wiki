@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 530001
+# text = She signed a three - year , $ 300,000 contract with the network .
+1	She	_	Word	Word	_	2	A	2:A	_
+2	signed	_	Word	Word	_	0	H	0:H	_
+3	a	_	Word	Word	_	10	F	10:F	_
+4	three	_	Word	Word	_	6	Q	6:Q	_
+5	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+6	year	_	Word	Word	_	10	E	10:E	_
+7	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+8	$	_	Word	Word	_	10	E	10:E	_
+9	300,000	_	Word	Word	_	8	Q	8:Q	_
+10	contract	_	Word	Word	_	2	A	2:A	_
+11	with	_	Word	Word	_	13	R	13:R	_
+12	the	_	Word	Word	_	13	F	13:F	_
+13	network	_	Word	Word	_	2	A	2:A	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

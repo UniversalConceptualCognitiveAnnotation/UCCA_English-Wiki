@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 672003
+# text = On April 30 , 2008 , Carey married Cannon at her private estate on Windermere Island in The Bahamas .
+1	On	_	Word	Word	_	2	R	2:R	_
+2	April	_	Word	Word	_	8	T	8:T	_
+3	30	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	2008	_	Word	Word	_	2	C	2:C	_
+6	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	Carey	_	Word	Word	_	8	A	8:A	_
+8	married	_	Word	Word	_	0	H	0:H	_
+9	Cannon	_	Word	Word	_	8	A	8:A	_
+10	at	_	Word	Word	_	13	R	13:R	_
+11	her	_	Word	Word	_	13	E	13:E	_
+12	private	_	Word	Word	_	13	E	13:E	_
+13	estate	_	Word	Word	_	8	A	8:A	_
+14	on	_	Word	Word	_	15	R	15:R	_
+15	Windermere	_	Word	Word	_	13	E	13:E	_
+16	Island	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	in	_	Word	Word	_	18	R	18:R	_
+18	The	_	Word	Word	_	15	C	15:C	_
+19	Bahamas	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

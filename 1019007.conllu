@@ -1,0 +1,37 @@
+# format = ucca
+# sent_id = 1019007
+# text = He was the eighth of ten children in an African - American working - class family who lived in a 3 - room house in Gary , an industrial city near Chicago .
+1	He	_	Word	Word	_	2	A	2:A	_
+2	was	_	Word	Word	_	0	H	0:H	_
+3	the	_	Word	Word	_	4	E	4:E	_
+4	eighth	_	Word	Word	_	2	A	2:A	_
+5	of	_	Word	Word	_	7	R	7:R	_
+6	ten	_	Word	Word	_	7	Q	7:Q	_
+7	children	_	Word	Word	_	4	E	4:E	_
+8	in	_	Word	Word	_	16	R	16:R	_
+9	an	_	Word	Word	_	16	E	16:E	_
+10	African	_	Word	Word	_	16	E	16:E	_
+11	-	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	American	_	Word	Word	_	10	Terminal	10:Terminal	_
+13	working	_	Word	Word	_	15	A	15:A	_
+14	-	_	Punctuation	Punctuation	_	15	U	15:U	_
+15	class	_	Word	Word	_	16	E	16:E	_
+16	family	_	Word	Word	_	2	A	2:A	_
+17	who	_	Word	Word	_	18	R	18:R	_
+18	lived	_	Word	Word	_	16	E	16:E	_
+19	in	_	Word	Word	_	24	R	24:R	_
+20	a	_	Word	Word	_	24	E	24:E	_
+21	3	_	Word	Word	_	23	Q	23:Q	_
+22	-	_	Punctuation	Punctuation	_	23	U	23:U	_
+23	room	_	Word	Word	_	24	E	24:E	_
+24	house	_	Word	Word	_	18	A	18:A	_
+25	in	_	Word	Word	_	26	R	26:R	_
+26	Gary	_	Word	Word	_	24	E	24:E	_
+27	,	_	Punctuation	Punctuation	_	26	U	26:U	_
+28	an	_	Word	Word	_	30	E	30:E	_
+29	industrial	_	Word	Word	_	30	E	30:E	_
+30	city	_	Word	Word	_	26	E	26:E	_
+31	near	_	Word	Word	_	32	R	32:R	_
+32	Chicago	_	Word	Word	_	30	E	30:E	_
+33	.	_	Punctuation	Punctuation	_	32	U	32:U	_
+

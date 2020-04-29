@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 692005
+# text = He also learned new material from several UK performers , including Martin Carthy .
+1	He	_	Word	Word	_	3	A	3:A	_
+2	also	_	Word	Word	_	3	D	3:D	_
+3	learned	_	Word	Word	_	0	H	0:H	_
+4	new	_	Word	Word	_	5	E	5:E	_
+5	material	_	Word	Word	_	3	A	3:A	_
+6	from	_	Word	Word	_	9	R	9:R	_
+7	several	_	Word	Word	_	9	D	9:D	_
+8	UK	_	Word	Word	_	9	A	9:A	_
+9	performers	_	Word	Word	_	3	A	3:A	_
+10	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+11	including	_	Word	Word	_	12	R	12:R	_
+12	Martin	_	Word	Word	_	9	E	9:E	_
+13	Carthy	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+

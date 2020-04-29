@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 114004
+# text = Raised in Connecticut by wealthy , progressive parents , Hepburn began to act while studying at Bryn Mawr College .
+1	Raised	_	Word	Word	_	0	H	0:H	_
+2	in	_	Word	Word	_	3	R	3:R	_
+3	Connecticut	_	Word	Word	_	1	A	1:A	_
+4	by	_	Word	Word	_	8	R	8:R	_
+5	wealthy	_	Word	Word	_	8	E	8:E	_
+6	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	progressive	_	Word	Word	_	8	E	8:E	_
+8	parents	_	Word	Word	_	1	A	1:A	_
+9	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+10	Hepburn	_	Word	Word	_	13	A	13:A|1:A|15:A	_
+11	began	_	Word	Word	_	13	D	13:D	_
+12	to	_	Word	Word	_	13	F	13:F	_
+13	act	_	Word	Word	_	1	H	1:H	_
+14	while	_	Word	Word	_	15	L	15:L	_
+15	studying	_	Word	Word	_	1	H	1:H	_
+16	at	_	Word	Word	_	19	R	19:R	_
+17	Bryn	_	Word	Word	_	19	E	19:E	_
+18	Mawr	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	College	_	Word	Word	_	15	A	15:A	_
+20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

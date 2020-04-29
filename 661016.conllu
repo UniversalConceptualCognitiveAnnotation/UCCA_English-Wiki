@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 661016
+# text = On March 16 , 1992 , Carey recorded a seven - piece set - list at Kaufman Astoria Studios in Queens , New York .
+1	On	_	Word	Word	_	2	R	2:R	_
+2	March	_	Word	Word	_	8	T	8:T	_
+3	16	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	1992	_	Word	Word	_	2	C	2:C	_
+6	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	Carey	_	Word	Word	_	8	A	8:A	_
+8	recorded	_	Word	Word	_	0	H	0:H	_
+9	a	_	Word	Word	_	15	F	15:F	_
+10	seven	_	Word	Word	_	12	Q	12:Q	_
+11	-	_	Punctuation	Punctuation	_	12	U	12:U	_
+12	piece	_	Word	Word	_	15	E	15:E	_
+13	set	_	Word	Word	_	15	E	15:E	_
+14	-	_	Punctuation	Punctuation	_	15	U	15:U	_
+15	list	_	Word	Word	_	8	A	8:A	_
+16	at	_	Word	Word	_	19	R	19:R	_
+17	Kaufman	_	Word	Word	_	19	E	19:E	_
+18	Astoria	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	Studios	_	Word	Word	_	8	A	8:A	_
+20	in	_	Word	Word	_	21	R	21:R	_
+21	Queens	_	Word	Word	_	19	E	19:E	_
+22	,	_	Punctuation	Punctuation	_	21	U	21:U	_
+23	New	_	Word	Word	_	21	C	21:C	_
+24	York	_	Word	Word	_	23	Terminal	23:Terminal	_
+25	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

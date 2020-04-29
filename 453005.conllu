@@ -1,0 +1,35 @@
+# format = ucca
+# sent_id = 453005
+# text = He continued to cover the Middle East , and in 1978 he was the first American reporter to interview the Ayatollah Khomeini of Iran , then in exile in Paris .
+1	He	_	Word	Word	_	4	A	4:A	_
+2	continued	_	Word	Word	_	4	D	4:D	_
+3	to	_	Word	Word	_	4	F	4:F	_
+4	cover	_	Word	Word	_	0	H	0:H	_
+5	the	_	Word	Word	_	6	E	6:E	_
+6	Middle	_	Word	Word	_	4	A	4:A	_
+7	East	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+9	and	_	Word	Word	_	13	L	13:L	_
+10	in	_	Word	Word	_	11	R	11:R	_
+11	1978	_	Word	Word	_	13	T	13:T	_
+12	he	_	Word	Word	_	13	A	13:A	_
+13	was	_	Word	Word	_	4	H	4:H	_
+14	the	_	Word	Word	_	15	E	15:E	_
+15	first	_	Word	Word	_	19	D	19:D	_
+16	American	_	Word	Word	_	17	E	17:E	_
+17	reporter	_	Word	Word	_	19	A	19:A	_
+18	to	_	Word	Word	_	19	R	19:R	_
+19	interview	_	Word	Word	_	13	A	13:A	_
+20	the	_	Word	Word	_	21	E	21:E	_
+21	Ayatollah	_	Word	Word	_	19	A	19:A	_
+22	Khomeini	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	of	_	Word	Word	_	24	R	24:R	_
+24	Iran	_	Word	Word	_	21	E	21:E	_
+25	,	_	Punctuation	Punctuation	_	21	U	21:U	_
+26	then	_	Word	Word	_	28	T	28:T	_
+27	in	_	Word	Word	_	28	R	28:R	_
+28	exile	_	Word	Word	_	21	E	21:E	_
+29	in	_	Word	Word	_	30	R	30:R	_
+30	Paris	_	Word	Word	_	28	A	28:A	_
+31	.	_	Punctuation	Punctuation	_	30	U	30:U	_
+

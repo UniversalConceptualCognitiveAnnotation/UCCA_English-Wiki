@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 549008
+# text = On October 14 , 1914 , Warner married Irma Solomons , the adolescent daughter of one of San Francisco 's pioneer Jewish families .
+1	On	_	Word	Word	_	2	R	2:R	_
+2	October	_	Word	Word	_	8	T	8:T	_
+3	14	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	1914	_	Word	Word	_	2	C	2:C	_
+6	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	Warner	_	Word	Word	_	8	A	8:A	_
+8	married	_	Word	Word	_	0	H	0:H	_
+9	Irma	_	Word	Word	_	8	A	8:A	_
+10	Solomons	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+12	the	_	Word	Word	_	14	F	14:F	_
+13	adolescent	_	Word	Word	_	14	D	14:D	_
+14	daughter	_	Word	Word	_	9	E	9:E	_
+15	of	_	Word	Word	_	23	R	23:R	_
+16	one	_	Word	Word	_	23	Q	23:Q	_
+17	of	_	Word	Word	_	23	R	23:R	_
+18	San	_	Word	Word	_	23	E	23:E	_
+19	Francisco	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	's	_	Word	Word	_	18	R	18:R	_
+21	pioneer	_	Word	Word	_	23	E	23:E	_
+22	Jewish	_	Word	Word	_	23	E	23:E	_
+23	families	_	Word	Word	_	14	A	14:A	_
+24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

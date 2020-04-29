@@ -1,0 +1,48 @@
+# format = ucca
+# sent_id = 534008
+# text = Some have also suggested a connection between the date of Garland 's death and funeral on June 27 , 1969 and the Stonewall riots , the flashpoint of the modern Gay Liberation movement , which started in the early hours of June 28 .
+1	Some	_	Word	Word	_	4	A	4:A	_
+2	have	_	Word	Word	_	4	F	4:F	_
+3	also	_	Word	Word	_	4	D	4:D	_
+4	suggested	_	Word	Word	_	0	H	0:H	_
+5	a	_	Word	Word	_	6	F	6:F	_
+6	connection	_	Word	Word	_	4	A	4:A	_
+7	between	_	Word	Word	_	9	R	9:R	_
+8	the	_	Word	Word	_	9	F	9:F	_
+9	date	_	Word	Word	_	6	A	6:A	_
+10	of	_	Word	Word	_	13	R	13:R	_
+11	Garland	_	Word	Word	_	13	A	13:A|15:A	_
+12	's	_	Word	Word	_	11	R	11:R	_
+13	death	_	Word	Word	_	9	E	9:E	_
+14	and	_	Word	Word	_	9	N	9:N	_
+15	funeral	_	Word	Word	_	9	C	9:C	_
+16	on	_	Word	Word	_	17	R	17:R	_
+17	June	_	Word	Word	_	15	T	15:T	_
+18	27	_	Word	Word	_	17	C	17:C	_
+19	,	_	Punctuation	Punctuation	_	17	U	17:U	_
+20	1969	_	Word	Word	_	17	C	17:C	_
+21	and	_	Word	Word	_	9	N	9:N	_
+22	the	_	Word	Word	_	24	F	24:F	_
+23	Stonewall	_	Word	Word	_	24	A	24:A	_
+24	riots	_	Word	Word	_	0	C	0:C|27:A|36:P	_
+25	,	_	Punctuation	Punctuation	_	27	U	27:U	_
+26	the	_	Word	Word	_	27	F	27:F	_
+27	flashpoint	_	Word	Word	_	4	H	4:H	_
+28	of	_	Word	Word	_	33	R	33:R	_
+29	the	_	Word	Word	_	33	F	33:F	_
+30	modern	_	Word	Word	_	33	E	33:E	_
+31	Gay	_	Word	Word	_	32	A	32:A	_
+32	Liberation	_	Word	Word	_	33	E	33:E	_
+33	movement	_	Word	Word	_	27	A	27:A	_
+34	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+35	which	_	Word	Word	_	36	L	36:L	_
+36	started	_	Word	Word	_	4	H	4:H	_
+37	in	_	Word	Word	_	42	R	42:R	_
+38	the	_	Word	Word	_	42	F	42:F	_
+39	early	_	Word	Word	_	40	E	40:E	_
+40	hours	_	Word	Word	_	42	E	42:E	_
+41	of	_	Word	Word	_	42	R	42:R	_
+42	June	_	Word	Word	_	36	T	36:T	_
+43	28	_	Word	Word	_	42	C	42:C	_
+44	.	_	Punctuation	Punctuation	_	42	U	42:U	_
+

@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 729012
+# text = She also starred opposite Johnny Depp in The Tourist ( 2010 ) , which was a major critical failure .
+1	She	_	Word	Word	_	3	A	3:A	_
+2	also	_	Word	Word	_	3	D	3:D	_
+3	starred	_	Word	Word	_	0	H	0:H	_
+4	opposite	_	Word	Word	_	5	R	5:R	_
+5	Johnny	_	Word	Word	_	3	A	3:A	_
+6	Depp	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	in	_	Word	Word	_	8	R	8:R	_
+8	The	_	Word	Word	_	3	A	3:A	_
+9	Tourist	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	(	_	Punctuation	Punctuation	_	8	U	8:U	_
+11	2010	_	Word	Word	_	8	E	8:E	_
+12	)	_	Punctuation	Punctuation	_	8	U	8:U	_
+13	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+14	which	_	Word	Word	_	19	R	19:R	_
+15	was	_	Word	Word	_	19	F	19:F	_
+16	a	_	Word	Word	_	17	E	17:E	_
+17	major	_	Word	Word	_	19	D	19:D	_
+18	critical	_	Word	Word	_	19	A	19:A	_
+19	failure	_	Word	Word	_	8	E	8:E	_
+20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 1028013
+# text = It was eventually knocked off the top spot by Michael Jackson : The Legend Continues .
+1	It	_	Word	Word	_	4	A	4:A	_
+2	was	_	Word	Word	_	4	F	4:F	_
+3	eventually	_	Word	Word	_	4	D	4:D	_
+4	knocked	_	Word	Word	_	0	H	0:H	_
+5	off	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	the	_	Word	Word	_	8	E	8:E	_
+7	top	_	Word	Word	_	8	E	8:E	_
+8	spot	_	Word	Word	_	4	A	4:A	_
+9	by	_	Word	Word	_	10	R	10:R	_
+10	Michael	_	Word	Word	_	4	A	4:A	_
+11	Jackson	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	:	_	Punctuation	Punctuation	_	10	U	10:U	_
+13	The	_	Word	Word	_	10	Terminal	10:Terminal	_
+14	Legend	_	Word	Word	_	10	Terminal	10:Terminal	_
+15	Continues	_	Word	Word	_	10	Terminal	10:Terminal	_
+16	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+

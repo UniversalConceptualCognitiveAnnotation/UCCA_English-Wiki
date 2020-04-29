@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 654002
+# text = Lennon and Ono attended the opening night performance , their second public appearance together to date .
+1	Lennon	_	Word	Word	_	4	A	4:A	_
+2	and	_	Word	Word	_	1	N	1:N	_
+3	Ono	_	Word	Word	_	1	C	1:C	_
+4	attended	_	Word	Word	_	0	H	0:H	_
+5	the	_	Word	Word	_	8	E	8:E	_
+6	opening	_	Word	Word	_	7	E	7:E	_
+7	night	_	Word	Word	_	8	D	8:D	_
+8	performance	_	Word	Word	_	4	A	4:A	_
+9	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+10	their	_	Word	Word	_	13	A	13:A	_
+11	second	_	Word	Word	_	13	D	13:D	_
+12	public	_	Word	Word	_	13	D	13:D	_
+13	appearance	_	Word	Word	_	4	H	4:H	_
+14	together	_	Word	Word	_	13	D	13:D	_
+15	to	_	Word	Word	_	16	R	16:R	_
+16	date	_	Word	Word	_	13	T	13:T	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

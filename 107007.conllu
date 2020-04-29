@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 107007
+# text = She also won her first Screen Actors Guild Award .
+1	She	_	Word	Word	_	3	A	3:A	_
+2	also	_	Word	Word	_	3	D	3:D	_
+3	won	_	Word	Word	_	0	H	0:H	_
+4	her	_	Word	Word	_	9	E	9:E	_
+5	first	_	Word	Word	_	9	Q	9:Q	_
+6	Screen	_	Word	Word	_	9	E	9:E	_
+7	Actors	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	Guild	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	Award	_	Word	Word	_	3	A	3:A	_
+10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

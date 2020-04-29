@@ -1,0 +1,52 @@
+# format = ucca
+# sent_id = 468006
+# text = Paul Westhead decided to start Johnson at center in Game 6 ; Johnson recorded 42 points , 15 rebounds , 7 assists , and 3 steals in a 123 - 107 win , while playing guard , forward , and center at different times during the game .
+1	Paul	_	Word	Word	_	5	A	5:A	_
+2	Westhead	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	decided	_	Word	Word	_	5	D	5:D	_
+4	to	_	Word	Word	_	5	F	5:F	_
+5	start	_	Word	Word	_	0	H	0:H	_
+6	Johnson	_	Word	Word	_	5	A	5:A	_
+7	at	_	Word	Word	_	8	E	8:E	_
+8	center	_	Word	Word	_	5	A	5:A	_
+9	in	_	Word	Word	_	10	R	10:R	_
+10	Game	_	Word	Word	_	5	A	5:A	_
+11	6	_	Word	Word	_	10	Q	10:Q	_
+12	;	_	Punctuation	Punctuation	_	5	U	5:U	_
+13	Johnson	_	Word	Word	_	14	A	14:A|19:A|22:A|26:A|36:A|38:A|41:A	_
+14	recorded	_	Word	Word	_	5	H	5:H	_
+15	42	_	Word	Word	_	16	Q	16:Q	_
+16	points	_	Word	Word	_	14	A	14:A	_
+17	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+18	15	_	Word	Word	_	19	Q	19:Q	_
+19	rebounds	_	Word	Word	_	16	C	16:C	_
+20	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+21	7	_	Word	Word	_	22	Q	22:Q	_
+22	assists	_	Word	Word	_	16	C	16:C	_
+23	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+24	and	_	Word	Word	_	16	N	16:N	_
+25	3	_	Word	Word	_	26	Q	26:Q	_
+26	steals	_	Word	Word	_	16	C	16:C	_
+27	in	_	Word	Word	_	32	R	32:R	_
+28	a	_	Word	Word	_	32	E	32:E	_
+29	123	_	Word	Word	_	32	Q	32:Q	_
+30	-	_	Punctuation	Punctuation	_	29	U	29:U	_
+31	107	_	Word	Word	_	29	C	29:C	_
+32	win	_	Word	Word	_	14	A	14:A	_
+33	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+34	while	_	Word	Word	_	36	L	36:L	_
+35	playing	_	Word	Word	_	36	D	36:D|38:D|41:D	_
+36	guard	_	Word	Word	_	5	H	5:H	_
+37	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+38	forward	_	Word	Word	_	5	H	5:H	_
+39	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+40	and	_	Word	Word	_	41	L	41:L	_
+41	center	_	Word	Word	_	5	H	5:H	_
+42	at	_	Word	Word	_	44	R	44:R	_
+43	different	_	Word	Word	_	44	E	44:E	_
+44	times	_	Word	Word	_	36	T	36:T|38:T|41:T	_
+45	during	_	Word	Word	_	47	R	47:R	_
+46	the	_	Word	Word	_	47	E	47:E	_
+47	game	_	Word	Word	_	36	A	36:A|38:A|41:A	_
+48	.	_	Punctuation	Punctuation	_	47	U	47:U	_
+

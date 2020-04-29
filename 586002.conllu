@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 586002
+# text = He attempted to go back to school two weeks later , but the principal told him to follow his dream of being a musician .
+1	He	_	Word	Word	_	4	A	4:A	_
+2	attempted	_	Word	Word	_	4	D	4:D	_
+3	to	_	Word	Word	_	4	F	4:F	_
+4	go	_	Word	Word	_	0	H	0:H	_
+5	back	_	Word	Word	_	4	D	4:D	_
+6	to	_	Word	Word	_	7	R	7:R	_
+7	school	_	Word	Word	_	4	A	4:A	_
+8	two	_	Word	Word	_	9	Q	9:Q	_
+9	weeks	_	Word	Word	_	4	T	4:T	_
+10	later	_	Word	Word	_	9	R	9:R	_
+11	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+12	but	_	Word	Word	_	15	L	15:L	_
+13	the	_	Word	Word	_	14	E	14:E	_
+14	principal	_	Word	Word	_	15	A	15:A	_
+15	told	_	Word	Word	_	4	H	4:H	_
+16	him	_	Word	Word	_	15	A	15:A|18:A|24:A	_
+17	to	_	Word	Word	_	18	F	18:F	_
+18	follow	_	Word	Word	_	15	A	15:A	_
+19	his	_	Word	Word	_	20	A	20:A	_
+20	dream	_	Word	Word	_	18	A	18:A	_
+21	of	_	Word	Word	_	24	R	24:R	_
+22	being	_	Word	Word	_	24	F	24:F	_
+23	a	_	Word	Word	_	24	E	24:E	_
+24	musician	_	Word	Word	_	20	A	20:A	_
+25	.	_	Punctuation	Punctuation	_	24	U	24:U	_
+

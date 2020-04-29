@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 704006
+# text = Martin Scorsese 's acclaimed cinematic chronicle of this show , The Last Waltz , was released in 1978 and included about half of Dylan 's set .
+1	Martin	_	Word	Word	_	3	A	3:A	_
+2	Scorsese	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	's	_	Word	Word	_	6	E	6:E	_
+4	acclaimed	_	Word	Word	_	6	E	6:E	_
+5	cinematic	_	Word	Word	_	6	E	6:E	_
+6	chronicle	_	Word	Word	_	11	E	11:E	_
+7	of	_	Word	Word	_	9	R	9:R	_
+8	this	_	Word	Word	_	9	E	9:E	_
+9	show	_	Word	Word	_	6	E	6:E	_
+10	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+11	The	_	Word	Word	_	0	C	0:C|20:A	_
+12	Last	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	Waltz	_	Word	Word	_	11	Terminal	11:Terminal	_
+14	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+15	was	_	Word	Word	_	16	F	16:F	_
+16	released	_	Word	Word	_	0	H	0:H	_
+17	in	_	Word	Word	_	18	R	18:R	_
+18	1978	_	Word	Word	_	16	T	16:T	_
+19	and	_	Word	Word	_	20	L	20:L	_
+20	included	_	Word	Word	_	16	H	16:H	_
+21	about	_	Word	Word	_	22	E	22:E	_
+22	half	_	Word	Word	_	26	D	26:D	_
+23	of	_	Word	Word	_	26	R	26:R	_
+24	Dylan	_	Word	Word	_	26	A	26:A	_
+25	's	_	Word	Word	_	24	R	24:R	_
+26	set	_	Word	Word	_	20	A	20:A	_
+27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+

@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 526010
+# text = Because of her mental condition , Garland was unable to complete a series of films .
+1	Because	_	Word	Word	_	11	L	11:L	_
+2	of	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	her	_	Word	Word	_	5	A	5:A	_
+4	mental	_	Word	Word	_	5	A	5:A	_
+5	condition	_	Word	Word	_	0	H	0:H	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	Garland	_	Word	Word	_	11	A	11:A	_
+8	was	_	Word	Word	_	11	F	11:F	_
+9	unable	_	Word	Word	_	11	D	11:D	_
+10	to	_	Word	Word	_	11	F	11:F	_
+11	complete	_	Word	Word	_	5	H	5:H	_
+12	a	_	Word	Word	_	15	F	15:F	_
+13	series	_	Word	Word	_	15	Q	15:Q	_
+14	of	_	Word	Word	_	15	R	15:R	_
+15	films	_	Word	Word	_	11	A	11:A	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

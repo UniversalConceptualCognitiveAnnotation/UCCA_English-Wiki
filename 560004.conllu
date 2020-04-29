@@ -1,0 +1,36 @@
+# format = ucca
+# sent_id = 560004
+# text = There were occasions in some towns in Texas when we 'd have to be sure to have a police guard because somebody 'd always try to take a crack at him .
+1	There	_	Word	Word	_	3	F	3:F	_
+2	were	_	Word	Word	_	3	F	3:F	_
+3	occasions	_	Word	Word	_	0	H	0:H	_
+4	in	_	Word	Word	_	6	R	6:R	_
+5	some	_	Word	Word	_	6	Q	6:Q	_
+6	towns	_	Word	Word	_	3	A	3:A	_
+7	in	_	Word	Word	_	8	R	8:R	_
+8	Texas	_	Word	Word	_	6	C	6:C	_
+9	when	_	Word	Word	_	17	L	17:L	_
+10	we	_	Word	Word	_	17	A	17:A	_
+11	'd	_	Word	Word	_	17	D	17:D	_
+12	have	_	Word	Word	_	17	D	17:D	_
+13	to	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	be	_	Word	Word	_	17	F	17:F	_
+15	sure	_	Word	Word	_	17	D	17:D	_
+16	to	_	Word	Word	_	17	F	17:F	_
+17	have	_	Word	Word	_	3	H	3:H	_
+18	a	_	Word	Word	_	19	F	19:F	_
+19	police	_	Word	Word	_	17	A	17:A	_
+20	guard	_	Word	Word	_	19	A	19:A	_
+21	because	_	Word	Word	_	27	L	27:L	_
+22	somebody	_	Word	Word	_	27	A	27:A	_
+23	'd	_	Word	Word	_	27	D	27:D	_
+24	always	_	Word	Word	_	27	T	27:T	_
+25	try	_	Word	Word	_	27	D	27:D	_
+26	to	_	Word	Word	_	27	F	27:F	_
+27	take	_	Word	Word	_	3	H	3:H	_
+28	a	_	Word	Word	_	27	Terminal	27:Terminal	_
+29	crack	_	Word	Word	_	27	Terminal	27:Terminal	_
+30	at	_	Word	Word	_	31	R	31:R	_
+31	him	_	Word	Word	_	27	A	27:A	_
+32	.	_	Punctuation	Punctuation	_	31	U	31:U	_
+

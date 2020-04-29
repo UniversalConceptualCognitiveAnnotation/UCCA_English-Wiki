@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 479000
+# text = Johnson and Larry Bird were first linked as rivals after Johnson 's Michigan State squad defeated Bird 's Indiana State team in the 1979 NCAA finals .
+1	Johnson	_	Word	Word	_	7	A	7:A|9:A	_
+2	and	_	Word	Word	_	1	N	1:N	_
+3	Larry	_	Word	Word	_	1	C	1:C	_
+4	Bird	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	were	_	Word	Word	_	7	F	7:F	_
+6	first	_	Word	Word	_	7	D	7:D	_
+7	linked	_	Word	Word	_	0	H	0:H	_
+8	as	_	Word	Word	_	9	R	9:R	_
+9	rivals	_	Word	Word	_	7	A	7:A	_
+10	after	_	Word	Word	_	16	L	16:L	_
+11	Johnson	_	Word	Word	_	12	A	12:A	_
+12	's	_	Word	Word	_	15	E	15:E	_
+13	Michigan	_	Word	Word	_	15	E	15:E	_
+14	State	_	Word	Word	_	13	E	13:E	_
+15	squad	_	Word	Word	_	16	A	16:A	_
+16	defeated	_	Word	Word	_	7	H	7:H	_
+17	Bird	_	Word	Word	_	18	A	18:A	_
+18	's	_	Word	Word	_	21	E	21:E	_
+19	Indiana	_	Word	Word	_	21	E	21:E	_
+20	State	_	Word	Word	_	19	E	19:E	_
+21	team	_	Word	Word	_	16	A	16:A	_
+22	in	_	Word	Word	_	26	L	26:L	_
+23	the	_	Word	Word	_	24	F	24:F	_
+24	1979	_	Word	Word	_	26	T	26:T	_
+25	NCAA	_	Word	Word	_	26	E	26:E	_
+26	finals	_	Word	Word	_	7	H	7:H	_
+27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+

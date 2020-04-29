@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 524000
+# text = In 1938 , aged 16 , she was cast as Dorothy Gale in The Wizard of Oz ( 1939 ) , a film based on the children 's book by L. Frank Baum .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1938	_	Word	Word	_	9	T	9:T	_
+3	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+4	aged	_	Word	Word	_	9	H	9:H	_
+5	16	_	Word	Word	_	4	T	4:T	_
+6	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+7	she	_	Word	Word	_	9	A	9:A|4:A	_
+8	was	_	Word	Word	_	9	F	9:F	_
+9	cast	_	Word	Word	_	0	H	0:H	_
+10	as	_	Word	Word	_	11	R	11:R	_
+11	Dorothy	_	Word	Word	_	9	A	9:A	_
+12	Gale	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	in	_	Word	Word	_	14	R	14:R	_
+14	The	_	Word	Word	_	9	A	9:A	_
+15	Wizard	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	of	_	Word	Word	_	14	Terminal	14:Terminal	_
+17	Oz	_	Word	Word	_	14	Terminal	14:Terminal	_
+18	(	_	Punctuation	Punctuation	_	14	U	14:U	_
+19	1939	_	Word	Word	_	14	E	14:E	_
+20	)	_	Punctuation	Punctuation	_	14	U	14:U	_
+21	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+22	a	_	Word	Word	_	23	F	23:F	_
+23	film	_	Word	Word	_	14	E	14:E	_
+24	based	_	Word	Word	_	23	E	23:E	_
+25	on	_	Word	Word	_	29	R	29:R	_
+26	the	_	Word	Word	_	29	F	29:F	_
+27	children	_	Word	Word	_	28	A	28:A	_
+28	's	_	Word	Word	_	29	E	29:E	_
+29	book	_	Word	Word	_	24	A	24:A	_
+30	by	_	Word	Word	_	29	E	29:E	_
+31	L.	_	Word	Word	_	30	A	30:A	_
+32	Frank	_	Word	Word	_	31	Terminal	31:Terminal	_
+33	Baum	_	Word	Word	_	31	Terminal	31:Terminal	_
+34	.	_	Punctuation	Punctuation	_	30	U	30:U	_
+

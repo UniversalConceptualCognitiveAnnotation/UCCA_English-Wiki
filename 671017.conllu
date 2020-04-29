@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 671017
+# text = Carey is second only to The Beatles , who have twenty number - one singles .
+1	Carey	_	Word	Word	_	3	A	3:A	_
+2	is	_	Word	Word	_	3	F	3:F	_
+3	second	_	Word	Word	_	0	H	0:H	_
+4	only	_	Word	Word	_	6	R	6:R	_
+5	to	_	Word	Word	_	4	R	4:R	_
+6	The	_	Word	Word	_	3	A	3:A	_
+7	Beatles	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+9	who	_	Word	Word	_	10	R	10:R	_
+10	have	_	Word	Word	_	6	E	6:E	_
+11	twenty	_	Word	Word	_	15	E	15:E	_
+12	number	_	Word	Word	_	15	E	15:E	_
+13	-	_	Punctuation	Punctuation	_	12	U	12:U	_
+14	one	_	Word	Word	_	12	E	12:E	_
+15	singles	_	Word	Word	_	10	A	10:A	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

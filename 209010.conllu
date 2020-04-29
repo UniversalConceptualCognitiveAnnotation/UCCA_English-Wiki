@@ -1,0 +1,43 @@
+# format = ucca
+# sent_id = 209010
+# text = In the mid - 1990s , Hoffman starred in - and was deeply involved in the production of - David Mamet 's American Buffalo ( also 1996 ) , and an early effort of film editor Kate Sanford .
+1	In	_	Word	Word	_	5	R	5:R	_
+2	the	_	Word	Word	_	5	F	5:F	_
+3	mid	_	Word	Word	_	5	E	5:E	_
+4	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+5	1990s	_	Word	Word	_	8	T	8:T	_
+6	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	Hoffman	_	Word	Word	_	8	A	8:A|14:A	_
+8	starred	_	Word	Word	_	0	H	0:H	_
+9	in	_	Word	Word	_	8	A	8:A	_
+10	-	_	Punctuation	Punctuation	_	8	U	8:U	_
+11	and	_	Word	Word	_	14	L	14:L	_
+12	was	_	Word	Word	_	14	F	14:F	_
+13	deeply	_	Word	Word	_	14	D	14:D	_
+14	involved	_	Word	Word	_	8	H	8:H	_
+15	in	_	Word	Word	_	17	R	17:R	_
+16	the	_	Word	Word	_	17	F	17:F	_
+17	production	_	Word	Word	_	14	A	14:A	_
+18	of	_	Word	Word	_	23	R	23:R	_
+19	-	_	Punctuation	Punctuation	_	23	U	23:U	_
+20	David	_	Word	Word	_	22	A	22:A	_
+21	Mamet	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	's	_	Word	Word	_	23	E	23:E	_
+23	American	_	Word	Word	_	17	A	17:A	_
+24	Buffalo	_	Word	Word	_	23	Terminal	23:Terminal	_
+25	(	_	Punctuation	Punctuation	_	23	U	23:U	_
+26	also	_	Word	Word	_	23	E	23:E	_
+27	1996	_	Word	Word	_	26	T	26:T	_
+28	)	_	Punctuation	Punctuation	_	23	U	23:U	_
+29	,	_	Punctuation	Punctuation	_	23	U	23:U	_
+30	and	_	Word	Word	_	23	N	23:N	_
+31	an	_	Word	Word	_	33	F	33:F	_
+32	early	_	Word	Word	_	33	D	33:D	_
+33	effort	_	Word	Word	_	23	C	23:C	_
+34	of	_	Word	Word	_	37	R	37:R	_
+35	film	_	Word	Word	_	36	A	36:A	_
+36	editor	_	Word	Word	_	37	E	37:E	_
+37	Kate	_	Word	Word	_	33	A	33:A	_
+38	Sanford	_	Word	Word	_	37	Terminal	37:Terminal	_
+39	.	_	Punctuation	Punctuation	_	37	U	37:U	_
+

@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 449001
+# text = He was the sole anchor of ABC 's World News Tonight from 1983 until his death in 2005 of complications from lung cancer .
+1	He	_	Word	Word	_	2	A	2:A	_
+2	was	_	Word	Word	_	0	H	0:H	_
+3	the	_	Word	Word	_	5	E	5:E	_
+4	sole	_	Word	Word	_	5	D	5:D	_
+5	anchor	_	Word	Word	_	2	A	2:A	_
+6	of	_	Word	Word	_	9	R	9:R	_
+7	ABC	_	Word	Word	_	9	E	9:E	_
+8	's	_	Word	Word	_	7	R	7:R	_
+9	World	_	Word	Word	_	5	A	5:A	_
+10	News	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	Tonight	_	Word	Word	_	9	Terminal	9:Terminal	_
+12	from	_	Word	Word	_	13	R	13:R	_
+13	1983	_	Word	Word	_	2	T	2:T	_
+14	until	_	Word	Word	_	16	L	16:L	_
+15	his	_	Word	Word	_	16	A	16:A	_
+16	death	_	Word	Word	_	2	H	2:H	_
+17	in	_	Word	Word	_	18	R	18:R	_
+18	2005	_	Word	Word	_	16	T	16:T	_
+19	of	_	Word	Word	_	20	R	20:R	_
+20	complications	_	Word	Word	_	16	A	16:A	_
+21	from	_	Word	Word	_	23	R	23:R	_
+22	lung	_	Word	Word	_	23	E	23:E	_
+23	cancer	_	Word	Word	_	20	E	20:E	_
+24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

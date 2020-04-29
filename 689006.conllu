@@ -1,0 +1,39 @@
+# format = ucca
+# sent_id = 689006
+# text = Robert Zimmerman spent his early years listening to the radio - first to blues and country stations broadcasting from Shreveport , Louisiana , and , as a teen , to early rock and roll .
+1	Robert	_	Word	Word	_	7	A	7:A|17:A|28:A|32:A	_
+2	Zimmerman	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	spent	_	Word	Word	_	6	F	6:F	_
+4	his	_	Word	Word	_	6	E	6:E	_
+5	early	_	Word	Word	_	6	E	6:E	_
+6	years	_	Word	Word	_	7	D	7:D	_
+7	listening	_	Word	Word	_	0	H	0:H	_
+8	to	_	Word	Word	_	10	R	10:R	_
+9	the	_	Word	Word	_	10	E	10:E	_
+10	radio	_	Word	Word	_	7	A	7:A	_
+11	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+12	first	_	Word	Word	_	17	D	17:D	_
+13	to	_	Word	Word	_	17	R	17:R	_
+14	blues	_	Word	Word	_	17	E	17:E	_
+15	and	_	Word	Word	_	14	N	14:N	_
+16	country	_	Word	Word	_	14	C	14:C	_
+17	stations	_	Word	Word	_	7	H	7:H	_
+18	broadcasting	_	Word	Word	_	17	E	17:E	_
+19	from	_	Word	Word	_	20	R	20:R	_
+20	Shreveport	_	Word	Word	_	18	A	18:A	_
+21	,	_	Punctuation	Punctuation	_	20	U	20:U	_
+22	Louisiana	_	Word	Word	_	20	C	20:C	_
+23	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+24	and	_	Word	Word	_	28	L	28:L	_
+25	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+26	as	_	Word	Word	_	28	L	28:L	_
+27	a	_	Word	Word	_	28	E	28:E	_
+28	teen	_	Word	Word	_	7	H	7:H	_
+29	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+30	to	_	Word	Word	_	32	R	32:R	_
+31	early	_	Word	Word	_	32	E	32:E	_
+32	rock	_	Word	Word	_	7	H	7:H	_
+33	and	_	Word	Word	_	32	Terminal	32:Terminal	_
+34	roll	_	Word	Word	_	32	Terminal	32:Terminal	_
+35	.	_	Punctuation	Punctuation	_	32	U	32:U	_
+

@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 689011
+# text = Zimmerman moved to Minneapolis in September 1959 , where he enrolled at the University of Minnesota .
+1	Zimmerman	_	Word	Word	_	2	A	2:A	_
+2	moved	_	Word	Word	_	0	H	0:H	_
+3	to	_	Word	Word	_	4	R	4:R	_
+4	Minneapolis	_	Word	Word	_	2	A	2:A	_
+5	in	_	Word	Word	_	6	R	6:R	_
+6	September	_	Word	Word	_	2	T	2:T	_
+7	1959	_	Word	Word	_	6	C	6:C	_
+8	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+9	where	_	Word	Word	_	11	R	11:R	_
+10	he	_	Word	Word	_	11	A	11:A	_
+11	enrolled	_	Word	Word	_	4	E	4:E	_
+12	at	_	Word	Word	_	14	R	14:R	_
+13	the	_	Word	Word	_	14	E	14:E	_
+14	University	_	Word	Word	_	11	A	11:A	_
+15	of	_	Word	Word	_	16	R	16:R	_
+16	Minnesota	_	Word	Word	_	14	E	14:E	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

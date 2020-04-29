@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 467000
+# text = Earvin Johnson Jr. was born in Lansing , Michigan to Earvin Sr. , a General Motors assembly worker , and Christine , a schoolcustodian .
+1	Earvin	_	Word	Word	_	5	A	5:A	_
+2	Johnson	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	Jr.	_	Word	Word	_	1	Terminal	1:Terminal	_
+4	was	_	Word	Word	_	5	F	5:F	_
+5	born	_	Word	Word	_	0	H	0:H	_
+6	in	_	Word	Word	_	7	R	7:R	_
+7	Lansing	_	Word	Word	_	5	A	5:A	_
+8	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	Michigan	_	Word	Word	_	7	C	7:C	_
+10	to	_	Word	Word	_	11	R	11:R	_
+11	Earvin	_	Word	Word	_	5	A	5:A	_
+12	Sr.	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+14	a	_	Word	Word	_	15	E	15:E	_
+15	General	_	Word	Word	_	18	A	18:A	_
+16	Motors	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	assembly	_	Word	Word	_	18	E	18:E	_
+18	worker	_	Word	Word	_	11	E	11:E	_
+19	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+20	and	_	Word	Word	_	11	N	11:N	_
+21	Christine	_	Word	Word	_	11	C	11:C	_
+22	,	_	Punctuation	Punctuation	_	21	U	21:U	_
+23	a	_	Word	Word	_	24	E	24:E	_
+24	schoolcustodian	_	Word	Word	_	21	E	21:E	_
+25	.	_	Punctuation	Punctuation	_	24	U	24:U	_
+

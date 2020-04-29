@@ -1,0 +1,40 @@
+# format = ucca
+# sent_id = 590010
+# text = Depp stated , " I always thought of Ichabod as a very delicate , fragile person who was maybe a little too in touch with his feminine side , like a frightened little girl . "
+1	Depp	_	Word	Word	_	2	A	2:A	_
+2	stated	_	Word	Word	_	0	H	0:H	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	I	_	Word	Word	_	7	A	7:A	_
+6	always	_	Word	Word	_	7	D	7:D	_
+7	thought	_	Word	Word	_	2	A	2:A	_
+8	of	_	Word	Word	_	9	R	9:R	_
+9	Ichabod	_	Word	Word	_	7	A	7:A	_
+10	as	_	Word	Word	_	16	R	16:R	_
+11	a	_	Word	Word	_	16	F	16:F	_
+12	very	_	Word	Word	_	13	D	13:D|15:D	_
+13	delicate	_	Word	Word	_	16	E	16:E	_
+14	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+15	fragile	_	Word	Word	_	13	H	13:H	_
+16	person	_	Word	Word	_	7	A	7:A	_
+17	who	_	Word	Word	_	23	R	23:R	_
+18	was	_	Word	Word	_	23	F	23:F	_
+19	maybe	_	Word	Word	_	23	G	23:G	_
+20	a	_	Word	Word	_	22	E	22:E	_
+21	little	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	too	_	Word	Word	_	23	D	23:D	_
+23	in	_	Word	Word	_	16	E	16:E	_
+24	touch	_	Word	Word	_	23	Terminal	23:Terminal	_
+25	with	_	Word	Word	_	28	R	28:R	_
+26	his	_	Word	Word	_	28	E	28:E	_
+27	feminine	_	Word	Word	_	28	E	28:E	_
+28	side	_	Word	Word	_	23	A	23:A	_
+29	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+30	like	_	Word	Word	_	34	L	34:L	_
+31	a	_	Word	Word	_	34	F	34:F	_
+32	frightened	_	Word	Word	_	34	E	34:E	_
+33	little	_	Word	Word	_	34	E	34:E	_
+34	girl	_	Word	Word	_	16	H	16:H	_
+35	.	_	Punctuation	Punctuation	_	34	U	34:U	_
+36	"	_	Punctuation	Punctuation	_	34	U	34:U	_
+

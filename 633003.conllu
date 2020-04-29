@@ -1,0 +1,35 @@
+# format = ucca
+# sent_id = 633003
+# text = McCartney says that Aunt Mimi : " was very aware that John 's friends were lower class " , and would often patronise him when he arrived to visit Lennon .
+1	McCartney	_	Word	Word	_	2	A	2:A	_
+2	says	_	Word	Word	_	0	H	0:H	_
+3	that	_	Word	Word	_	10	R	10:R	_
+4	Aunt	_	Word	Word	_	10	A	10:A|23:A	_
+5	Mimi	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	:	_	Punctuation	Punctuation	_	10	U	10:U	_
+7	"	_	Punctuation	Punctuation	_	10	U	10:U	_
+8	was	_	Word	Word	_	10	F	10:F	_
+9	very	_	Word	Word	_	10	D	10:D	_
+10	aware	_	Word	Word	_	2	A	2:A	_
+11	that	_	Word	Word	_	17	R	17:R	_
+12	John	_	Word	Word	_	14	A	14:A	_
+13	's	_	Word	Word	_	14	R	14:R	_
+14	friends	_	Word	Word	_	17	A	17:A	_
+15	were	_	Word	Word	_	17	F	17:F	_
+16	lower	_	Word	Word	_	17	E	17:E	_
+17	class	_	Word	Word	_	10	A	10:A	_
+18	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+19	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+20	and	_	Word	Word	_	23	L	23:L	_
+21	would	_	Word	Word	_	23	F	23:F	_
+22	often	_	Word	Word	_	23	D	23:D	_
+23	patronise	_	Word	Word	_	2	H	2:H	_
+24	him	_	Word	Word	_	23	A	23:A	_
+25	when	_	Word	Word	_	29	L	29:L	_
+26	he	_	Word	Word	_	29	A	29:A	_
+27	arrived	_	Word	Word	_	29	D	29:D	_
+28	to	_	Word	Word	_	29	F	29:F	_
+29	visit	_	Word	Word	_	2	H	2:H	_
+30	Lennon	_	Word	Word	_	29	A	29:A	_
+31	.	_	Punctuation	Punctuation	_	29	U	29:U	_
+

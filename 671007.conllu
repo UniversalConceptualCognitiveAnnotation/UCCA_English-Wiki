@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 671007
+# text = Midway through the tour , Carey booked a two - night concert engagement in Hong Kong , which was scheduled to take place following her Japanese shows .
+1	Midway	_	Word	Word	_	4	R	4:R	_
+2	through	_	Word	Word	_	1	R	1:R	_
+3	the	_	Word	Word	_	4	E	4:E	_
+4	tour	_	Word	Word	_	7	D	7:D	_
+5	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+6	Carey	_	Word	Word	_	7	A	7:A	_
+7	booked	_	Word	Word	_	0	H	0:H	_
+8	a	_	Word	Word	_	13	E	13:E	_
+9	two	_	Word	Word	_	11	E	11:E	_
+10	-	_	Punctuation	Punctuation	_	11	U	11:U	_
+11	night	_	Word	Word	_	13	E	13:E	_
+12	concert	_	Word	Word	_	13	E	13:E	_
+13	engagement	_	Word	Word	_	0	C	0:C|23:A	_
+14	in	_	Word	Word	_	15	R	15:R	_
+15	Hong	_	Word	Word	_	13	E	13:E	_
+16	Kong	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+18	which	_	Word	Word	_	23	L	23:L	_
+19	was	_	Word	Word	_	23	F	23:F	_
+20	scheduled	_	Word	Word	_	23	D	23:D	_
+21	to	_	Word	Word	_	23	F	23:F	_
+22	take	_	Word	Word	_	23	F	23:F	_
+23	place	_	Word	Word	_	7	H	7:H	_
+24	following	_	Word	Word	_	27	L	27:L	_
+25	her	_	Word	Word	_	27	E	27:E	_
+26	Japanese	_	Word	Word	_	27	E	27:E	_
+27	shows	_	Word	Word	_	7	H	7:H	_
+28	.	_	Punctuation	Punctuation	_	27	U	27:U	_
+

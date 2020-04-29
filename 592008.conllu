@@ -1,0 +1,37 @@
+# format = ucca
+# sent_id = 592008
+# text = To thank Great Ormond Street Hospital , Depp visited the hospital in November 2007 , dressed in his Captain Jack Sparrow outfit , and spent four hours reading stories to the children .
+1	To	_	Word	Word	_	9	L	9:L	_
+2	thank	_	Word	Word	_	0	H	0:H	_
+3	Great	_	Word	Word	_	6	E	6:E	_
+4	Ormond	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	Street	_	Word	Word	_	3	Terminal	3:Terminal	_
+6	Hospital	_	Word	Word	_	2	A	2:A	_
+7	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+8	Depp	_	Word	Word	_	9	A	9:A|2:A|16:A|28:A	_
+9	visited	_	Word	Word	_	2	H	2:H	_
+10	the	_	Word	Word	_	11	E	11:E	_
+11	hospital	_	Word	Word	_	9	A	9:A	_
+12	in	_	Word	Word	_	13	R	13:R	_
+13	November	_	Word	Word	_	9	T	9:T	_
+14	2007	_	Word	Word	_	13	C	13:C	_
+15	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+16	dressed	_	Word	Word	_	2	H	2:H	_
+17	in	_	Word	Word	_	22	R	22:R	_
+18	his	_	Word	Word	_	22	E	22:E	_
+19	Captain	_	Word	Word	_	22	E	22:E	_
+20	Jack	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	Sparrow	_	Word	Word	_	19	Terminal	19:Terminal	_
+22	outfit	_	Word	Word	_	16	A	16:A	_
+23	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+24	and	_	Word	Word	_	28	L	28:L	_
+25	spent	_	Word	Word	_	27	F	27:F	_
+26	four	_	Word	Word	_	27	Q	27:Q	_
+27	hours	_	Word	Word	_	28	D	28:D	_
+28	reading	_	Word	Word	_	2	H	2:H	_
+29	stories	_	Word	Word	_	28	A	28:A	_
+30	to	_	Word	Word	_	32	R	32:R	_
+31	the	_	Word	Word	_	32	E	32:E	_
+32	children	_	Word	Word	_	28	A	28:A	_
+33	.	_	Punctuation	Punctuation	_	32	U	32:U	_
+

@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 253007
+# text = In 2001 Hawke co - founded the Young Lions Fiction Award , an annual prize for achievements in fiction writing by authors under age 35 .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	2001	_	Word	Word	_	6	T	6:T	_
+3	Hawke	_	Word	Word	_	6	A	6:A	_
+4	co	_	Word	Word	_	6	D	6:D	_
+5	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+6	founded	_	Word	Word	_	0	H	0:H	_
+7	the	_	Word	Word	_	8	F	8:F	_
+8	Young	_	Word	Word	_	6	A	6:A	_
+9	Lions	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	Fiction	_	Word	Word	_	8	Terminal	8:Terminal	_
+11	Award	_	Word	Word	_	8	Terminal	8:Terminal	_
+12	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+13	an	_	Word	Word	_	15	F	15:F	_
+14	annual	_	Word	Word	_	15	E	15:E	_
+15	prize	_	Word	Word	_	8	E	8:E	_
+16	for	_	Word	Word	_	17	R	17:R	_
+17	achievements	_	Word	Word	_	15	E	15:E	_
+18	in	_	Word	Word	_	20	R	20:R	_
+19	fiction	_	Word	Word	_	20	E	20:E	_
+20	writing	_	Word	Word	_	17	A	17:A	_
+21	by	_	Word	Word	_	22	R	22:R	_
+22	authors	_	Word	Word	_	17	A	17:A	_
+23	under	_	Word	Word	_	24	R	24:R	_
+24	age	_	Word	Word	_	22	E	22:E	_
+25	35	_	Word	Word	_	24	E	24:E	_
+26	.	_	Punctuation	Punctuation	_	24	U	24:U	_
+

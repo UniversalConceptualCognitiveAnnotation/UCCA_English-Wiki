@@ -1,0 +1,48 @@
+# format = ucca
+# sent_id = 807003
+# text = In August 1967 , McCartney met the Maharishi Mahesh Yogi at the London Hilton , and later went to Bangor in North Wales , to attend a weekend initiation conference , where he and the other Beatles learned the basics of Transcendental Meditation .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	August	_	Word	Word	_	6	T	6:T	_
+3	1967	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	McCartney	_	Word	Word	_	6	A	6:A|18:A|26:A	_
+6	met	_	Word	Word	_	0	H	0:H	_
+7	the	_	Word	Word	_	8	E	8:E	_
+8	Maharishi	_	Word	Word	_	6	A	6:A	_
+9	Mahesh	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	Yogi	_	Word	Word	_	8	Terminal	8:Terminal	_
+11	at	_	Word	Word	_	14	R	14:R	_
+12	the	_	Word	Word	_	14	E	14:E	_
+13	London	_	Word	Word	_	14	E	14:E	_
+14	Hilton	_	Word	Word	_	6	A	6:A	_
+15	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+16	and	_	Word	Word	_	18	L	18:L	_
+17	later	_	Word	Word	_	18	T	18:T	_
+18	went	_	Word	Word	_	6	H	6:H	_
+19	to	_	Word	Word	_	20	R	20:R	_
+20	Bangor	_	Word	Word	_	18	A	18:A	_
+21	in	_	Word	Word	_	23	R	23:R	_
+22	North	_	Word	Word	_	23	E	23:E	_
+23	Wales	_	Word	Word	_	20	C	20:C	_
+24	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+25	to	_	Word	Word	_	26	L	26:L	_
+26	attend	_	Word	Word	_	6	H	6:H	_
+27	a	_	Word	Word	_	30	F	30:F	_
+28	weekend	_	Word	Word	_	30	T	30:T	_
+29	initiation	_	Word	Word	_	30	A	30:A	_
+30	conference	_	Word	Word	_	26	A	26:A	_
+31	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+32	where	_	Word	Word	_	38	L	38:L	_
+33	he	_	Word	Word	_	38	A	38:A	_
+34	and	_	Word	Word	_	33	N	33:N	_
+35	the	_	Word	Word	_	37	E	37:E	_
+36	other	_	Word	Word	_	37	E	37:E	_
+37	Beatles	_	Word	Word	_	33	C	33:C	_
+38	learned	_	Word	Word	_	6	H	6:H	_
+39	the	_	Word	Word	_	40	E	40:E	_
+40	basics	_	Word	Word	_	38	A	38:A	_
+41	of	_	Word	Word	_	43	R	43:R	_
+42	Transcendental	_	Word	Word	_	43	A	43:A	_
+43	Meditation	_	Word	Word	_	40	E	40:E	_
+44	.	_	Punctuation	Punctuation	_	43	U	43:U	_
+

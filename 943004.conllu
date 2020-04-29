@@ -1,0 +1,47 @@
+# format = ucca
+# sent_id = 943004
+# text = Stefani made her onstage debut during a talent show at Loara High School , where she sang " I Have Confidence " , from The Sound of Music , in a self - made tweed dress inspired by one from the film .
+1	Stefani	_	Word	Word	_	5	A	5:A	_
+2	made	_	Word	Word	_	5	F	5:F	_
+3	her	_	Word	Word	_	5	F	5:F	_
+4	onstage	_	Word	Word	_	5	A	5:A	_
+5	debut	_	Word	Word	_	0	H	0:H	_
+6	during	_	Word	Word	_	9	L	9:L	_
+7	a	_	Word	Word	_	9	F	9:F	_
+8	talent	_	Word	Word	_	9	A	9:A	_
+9	show	_	Word	Word	_	5	H	5:H	_
+10	at	_	Word	Word	_	11	R	11:R	_
+11	Loara	_	Word	Word	_	9	A	9:A	_
+12	High	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	School	_	Word	Word	_	11	Terminal	11:Terminal	_
+14	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+15	where	_	Word	Word	_	17	R	17:R	_
+16	she	_	Word	Word	_	17	A	17:A	_
+17	sang	_	Word	Word	_	11	E	11:E	_
+18	"	_	Punctuation	Punctuation	_	17	U	17:U	_
+19	I	_	Word	Word	_	17	A	17:A	_
+20	Have	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	Confidence	_	Word	Word	_	19	Terminal	19:Terminal	_
+22	"	_	Punctuation	Punctuation	_	19	U	19:U	_
+23	,	_	Punctuation	Punctuation	_	19	U	19:U	_
+24	from	_	Word	Word	_	25	R	25:R	_
+25	The	_	Word	Word	_	19	E	19:E	_
+26	Sound	_	Word	Word	_	25	Terminal	25:Terminal	_
+27	of	_	Word	Word	_	25	Terminal	25:Terminal	_
+28	Music	_	Word	Word	_	25	Terminal	25:Terminal	_
+29	,	_	Punctuation	Punctuation	_	17	U	17:U	_
+30	in	_	Word	Word	_	36	R	36:R	_
+31	a	_	Word	Word	_	36	E	36:E	_
+32	self	_	Word	Word	_	34	D	34:D	_
+33	-	_	Punctuation	Punctuation	_	34	U	34:U	_
+34	made	_	Word	Word	_	36	E	36:E	_
+35	tweed	_	Word	Word	_	36	E	36:E	_
+36	dress	_	Word	Word	_	17	A	17:A	_
+37	inspired	_	Word	Word	_	36	E	36:E	_
+38	by	_	Word	Word	_	39	R	39:R	_
+39	one	_	Word	Word	_	37	A	37:A	_
+40	from	_	Word	Word	_	42	R	42:R	_
+41	the	_	Word	Word	_	42	E	42:E	_
+42	film	_	Word	Word	_	39	E	39:E	_
+43	.	_	Punctuation	Punctuation	_	42	U	42:U	_
+

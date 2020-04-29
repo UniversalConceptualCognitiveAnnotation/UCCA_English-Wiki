@@ -1,0 +1,35 @@
+# format = ucca
+# sent_id = 140002
+# text = Filming took place in Montmajour Abbey in the south of France , an experience she loved despite being — according to director Anthony Harvey — " enormously vulnerable " throughout .
+1	Filming	_	Word	Word	_	0	H	0:H	_
+2	took	_	Word	Word	_	3	F	3:F	_
+3	place	_	Word	Word	_	5	R	5:R	_
+4	in	_	Word	Word	_	5	R	5:R	_
+5	Montmajour	_	Word	Word	_	1	A	1:A	_
+6	Abbey	_	Word	Word	_	5	C	5:C	_
+7	in	_	Word	Word	_	11	R	11:R	_
+8	the	_	Word	Word	_	11	E	11:E	_
+9	south	_	Word	Word	_	11	E	11:E	_
+10	of	_	Word	Word	_	11	R	11:R	_
+11	France	_	Word	Word	_	5	E	5:E	_
+12	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+13	an	_	Word	Word	_	14	E	14:E	_
+14	experience	_	Word	Word	_	16	A	16:A	_
+15	she	_	Word	Word	_	16	A	16:A|28:A	_
+16	loved	_	Word	Word	_	1	H	1:H	_
+17	despite	_	Word	Word	_	20	L	20:L	_
+18	being	_	Word	Word	_	28	F	28:F	_
+19	—	_	Punctuation	Punctuation	_	20	U	20:U	_
+20	according	_	Word	Word	_	1	H	1:H	_
+21	to	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	director	_	Word	Word	_	23	E	23:E	_
+23	Anthony	_	Word	Word	_	20	A	20:A	_
+24	Harvey	_	Word	Word	_	23	Terminal	23:Terminal	_
+25	—	_	Punctuation	Punctuation	_	20	U	20:U	_
+26	"	_	Punctuation	Punctuation	_	20	U	20:U	_
+27	enormously	_	Word	Word	_	28	D	28:D	_
+28	vulnerable	_	Word	Word	_	20	A	20:A	_
+29	"	_	Punctuation	Punctuation	_	28	U	28:U	_
+30	throughout	_	Word	Word	_	28	T	28:T	_
+31	.	_	Punctuation	Punctuation	_	28	U	28:U	_
+

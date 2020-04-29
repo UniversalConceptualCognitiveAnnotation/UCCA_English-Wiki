@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 205012
+# text = His older brother , Ronald , is a lawyer and economist .
+1	His	_	Word	Word	_	3	A	3:A	_
+2	older	_	Word	Word	_	3	D	3:D	_
+3	brother	_	Word	Word	_	5	E	5:E	_
+4	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+5	Ronald	_	Word	Word	_	9	A	9:A	_
+6	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+7	is	_	Word	Word	_	9	F	9:F	_
+8	a	_	Word	Word	_	9	F	9:F	_
+9	lawyer	_	Word	Word	_	0	H	0:H	_
+10	and	_	Word	Word	_	9	N	9:N	_
+11	economist	_	Word	Word	_	9	C	9:C	_
+12	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

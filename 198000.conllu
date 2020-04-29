@@ -1,0 +1,41 @@
+# format = ucca
+# sent_id = 198000
+# text = Sorkin 's next jaunt back into film occurred when he was commissioned by Universal Pictures to adapt 60 Minutes producer George Crile 's nonfiction book Charlie Wilson 's War for Tom Hanks ' production company Playtone .
+1	Sorkin	_	Word	Word	_	4	A	4:A	_
+2	's	_	Word	Word	_	1	R	1:R	_
+3	next	_	Word	Word	_	4	D	4:D	_
+4	jaunt	_	Word	Word	_	0	H	0:H	_
+5	back	_	Word	Word	_	6	E	6:E	_
+6	into	_	Word	Word	_	7	R	7:R	_
+7	film	_	Word	Word	_	4	A	4:A	_
+8	occurred	_	Word	Word	_	4	D	4:D	_
+9	when	_	Word	Word	_	12	L	12:L	_
+10	he	_	Word	Word	_	12	A	12:A|17:A	_
+11	was	_	Word	Word	_	12	F	12:F	_
+12	commissioned	_	Word	Word	_	4	H	4:H	_
+13	by	_	Word	Word	_	14	R	14:R	_
+14	Universal	_	Word	Word	_	12	A	12:A	_
+15	Pictures	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	to	_	Word	Word	_	17	R	17:R	_
+17	adapt	_	Word	Word	_	12	A	12:A	_
+18	60	_	Word	Word	_	21	E	21:E	_
+19	Minutes	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	producer	_	Word	Word	_	18	A	18:A	_
+21	George	_	Word	Word	_	26	E	26:E	_
+22	Crile	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	's	_	Word	Word	_	21	R	21:R	_
+24	nonfiction	_	Word	Word	_	25	E	25:E	_
+25	book	_	Word	Word	_	26	E	26:E	_
+26	Charlie	_	Word	Word	_	17	A	17:A	_
+27	Wilson	_	Word	Word	_	26	Terminal	26:Terminal	_
+28	's	_	Word	Word	_	26	Terminal	26:Terminal	_
+29	War	_	Word	Word	_	26	Terminal	26:Terminal	_
+30	for	_	Word	Word	_	36	R	36:R	_
+31	Tom	_	Word	Word	_	35	E	35:E	_
+32	Hanks	_	Word	Word	_	31	Terminal	31:Terminal	_
+33	'	_	Punctuation	Punctuation	_	35	U	35:U	_
+34	production	_	Word	Word	_	35	E	35:E	_
+35	company	_	Word	Word	_	36	E	36:E	_
+36	Playtone	_	Word	Word	_	17	A	17:A	_
+37	.	_	Punctuation	Punctuation	_	36	U	36:U	_
+

@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 451009
+# text = He replaced Ron Cochran , a fellow Canadian .
+1	He	_	Word	Word	_	2	A	2:A	_
+2	replaced	_	Word	Word	_	0	H	0:H	_
+3	Ron	_	Word	Word	_	2	A	2:A	_
+4	Cochran	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+6	a	_	Word	Word	_	8	E	8:E	_
+7	fellow	_	Word	Word	_	8	E	8:E	_
+8	Canadian	_	Word	Word	_	3	E	3:E	_
+9	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+

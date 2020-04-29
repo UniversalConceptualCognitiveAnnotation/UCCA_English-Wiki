@@ -1,0 +1,45 @@
+# format = ucca
+# sent_id = 806003
+# text = In his first interview after Linda 's death , he promised to continue working for animal rights , and in 1999 he spent £ 3 , 000 , 000 to ensure Linda McCartney Foods remained free of genetically engineered ingredients .
+1	In	_	Word	Word	_	8	L	8:L	_
+2	his	_	Word	Word	_	4	A	4:A	_
+3	first	_	Word	Word	_	4	D	4:D	_
+4	interview	_	Word	Word	_	0	H	0:H	_
+5	after	_	Word	Word	_	8	L	8:L	_
+6	Linda	_	Word	Word	_	8	A	8:A	_
+7	's	_	Word	Word	_	6	R	6:R	_
+8	death	_	Word	Word	_	4	H	4:H	_
+9	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+10	he	_	Word	Word	_	11	A	11:A|14:A	_
+11	promised	_	Word	Word	_	4	H	4:H	_
+12	to	_	Word	Word	_	14	F	14:F	_
+13	continue	_	Word	Word	_	14	D	14:D	_
+14	working	_	Word	Word	_	11	A	11:A	_
+15	for	_	Word	Word	_	17	R	17:R	_
+16	animal	_	Word	Word	_	17	E	17:E	_
+17	rights	_	Word	Word	_	14	A	14:A	_
+18	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+19	and	_	Word	Word	_	23	L	23:L	_
+20	in	_	Word	Word	_	21	R	21:R	_
+21	1999	_	Word	Word	_	23	T	23:T	_
+22	he	_	Word	Word	_	23	A	23:A|31:A	_
+23	spent	_	Word	Word	_	4	H	4:H	_
+24	£	_	Word	Word	_	23	A	23:A	_
+25	3	_	Word	Word	_	24	Q	24:Q	_
+26	,	_	Punctuation	Punctuation	_	25	U	25:U	_
+27	000	_	Word	Word	_	25	Terminal	25:Terminal	_
+28	,	_	Punctuation	Punctuation	_	25	U	25:U	_
+29	000	_	Word	Word	_	25	Terminal	25:Terminal	_
+30	to	_	Word	Word	_	31	L	31:L	_
+31	ensure	_	Word	Word	_	4	H	4:H	_
+32	Linda	_	Word	Word	_	36	A	36:A	_
+33	McCartney	_	Word	Word	_	32	Terminal	32:Terminal	_
+34	Foods	_	Word	Word	_	32	Terminal	32:Terminal	_
+35	remained	_	Word	Word	_	36	D	36:D	_
+36	free	_	Word	Word	_	31	A	31:A	_
+37	of	_	Word	Word	_	40	R	40:R	_
+38	genetically	_	Word	Word	_	39	A	39:A	_
+39	engineered	_	Word	Word	_	40	E	40:E	_
+40	ingredients	_	Word	Word	_	36	A	36:A	_
+41	.	_	Punctuation	Punctuation	_	40	U	40:U	_
+

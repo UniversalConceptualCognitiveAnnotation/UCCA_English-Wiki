@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 555010
+# text = Enrolled at Humes High School , Presley received only a C in music in eighth grade .
+1	Enrolled	_	Word	Word	_	0	H	0:H	_
+2	at	_	Word	Word	_	4	R	4:R	_
+3	Humes	_	Word	Word	_	4	E	4:E	_
+4	High	_	Word	Word	_	1	A	1:A	_
+5	School	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+7	Presley	_	Word	Word	_	8	A	8:A|1:A	_
+8	received	_	Word	Word	_	1	H	1:H	_
+9	only	_	Word	Word	_	8	D	8:D	_
+10	a	_	Word	Word	_	11	E	11:E	_
+11	C	_	Word	Word	_	8	A	8:A	_
+12	in	_	Word	Word	_	13	R	13:R	_
+13	music	_	Word	Word	_	8	A	8:A	_
+14	in	_	Word	Word	_	16	L	16:L	_
+15	eighth	_	Word	Word	_	16	D	16:D	_
+16	grade	_	Word	Word	_	1	H	1:H	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

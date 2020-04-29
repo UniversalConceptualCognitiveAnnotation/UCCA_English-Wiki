@@ -1,0 +1,41 @@
+# format = ucca
+# sent_id = 138003
+# text = Hepburn played a cold - hearted Soviet pilot , a performance Bosley Crowther called " horrible " . It was a critical and commercial failure , and Hepburn considered it the worst film on her resume .
+1	Hepburn	_	Word	Word	_	2	A	2:A	_
+2	played	_	Word	Word	_	0	H	0:H	_
+3	a	_	Word	Word	_	8	E	8:E	_
+4	cold	_	Word	Word	_	6	E	6:E	_
+5	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+6	hearted	_	Word	Word	_	8	E	8:E	_
+7	Soviet	_	Word	Word	_	8	A	8:A	_
+8	pilot	_	Word	Word	_	0	C	0:C|6:A	_
+9	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+10	a	_	Word	Word	_	11	E	11:E	_
+11	performance	_	Word	Word	_	14	A	14:A	_
+12	Bosley	_	Word	Word	_	14	A	14:A	_
+13	Crowther	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	called	_	Word	Word	_	2	H	2:H	_
+15	"	_	Punctuation	Punctuation	_	14	U	14:U	_
+16	horrible	_	Word	Word	_	14	A	14:A	_
+17	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+18	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+19	It	_	Word	Word	_	25	A	25:A	_
+20	was	_	Word	Word	_	25	F	25:F	_
+21	a	_	Word	Word	_	22	F	22:F	_
+22	critical	_	Word	Word	_	25	D	25:D	_
+23	and	_	Word	Word	_	22	N	22:N	_
+24	commercial	_	Word	Word	_	22	C	22:C	_
+25	failure	_	Word	Word	_	2	H	2:H	_
+26	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+27	and	_	Word	Word	_	29	L	29:L	_
+28	Hepburn	_	Word	Word	_	29	A	29:A	_
+29	considered	_	Word	Word	_	2	H	2:H	_
+30	it	_	Word	Word	_	29	A	29:A	_
+31	the	_	Word	Word	_	33	E	33:E	_
+32	worst	_	Word	Word	_	29	A	29:A	_
+33	film	_	Word	Word	_	32	A	32:A	_
+34	on	_	Word	Word	_	36	R	36:R	_
+35	her	_	Word	Word	_	36	E	36:E	_
+36	resume	_	Word	Word	_	32	A	32:A	_
+37	.	_	Punctuation	Punctuation	_	36	U	36:U	_
+

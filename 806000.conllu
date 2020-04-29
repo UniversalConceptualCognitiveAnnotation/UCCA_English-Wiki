@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 806000
+# text = Paul and Linda were vegetarians for most of their 30 - year marriage .
+1	Paul	_	Word	Word	_	5	A	5:A	_
+2	and	_	Word	Word	_	1	N	1:N	_
+3	Linda	_	Word	Word	_	1	C	1:C	_
+4	were	_	Word	Word	_	5	F	5:F	_
+5	vegetarians	_	Word	Word	_	0	H	0:H	_
+6	for	_	Word	Word	_	7	R	7:R	_
+7	most	_	Word	Word	_	13	L	13:L	_
+8	of	_	Word	Word	_	7	R	7:R	_
+9	their	_	Word	Word	_	13	A	13:A	_
+10	30	_	Word	Word	_	12	Q	12:Q	_
+11	-	_	Punctuation	Punctuation	_	12	U	12:U	_
+12	year	_	Word	Word	_	13	T	13:T	_
+13	marriage	_	Word	Word	_	5	H	5:H	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

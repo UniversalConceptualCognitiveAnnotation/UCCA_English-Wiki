@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 474017
+# text = Cedric Ceballos , upset over a reduction in his playing time after Magic Johnson 's arrival , left the team for several days .
+1	Cedric	_	Word	Word	_	18	A	18:A	_
+2	Ceballos	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+4	upset	_	Word	Word	_	1	E	1:E	_
+5	over	_	Word	Word	_	7	R	7:R	_
+6	a	_	Word	Word	_	7	F	7:F	_
+7	reduction	_	Word	Word	_	4	A	4:A	_
+8	in	_	Word	Word	_	10	R	10:R	_
+9	his	_	Word	Word	_	10	A	10:A	_
+10	playing	_	Word	Word	_	7	A	7:A	_
+11	time	_	Word	Word	_	10	D	10:D	_
+12	after	_	Word	Word	_	16	L	16:L	_
+13	Magic	_	Word	Word	_	16	A	16:A	_
+14	Johnson	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	's	_	Word	Word	_	13	R	13:R	_
+16	arrival	_	Word	Word	_	7	H	7:H	_
+17	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+18	left	_	Word	Word	_	0	H	0:H	_
+19	the	_	Word	Word	_	20	F	20:F	_
+20	team	_	Word	Word	_	18	A	18:A	_
+21	for	_	Word	Word	_	23	R	23:R	_
+22	several	_	Word	Word	_	23	Q	23:Q	_
+23	days	_	Word	Word	_	18	T	18:T	_
+24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

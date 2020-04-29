@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 150004
+# text = In 2004 , in accordance with Hepburn 's wishes , her belongings were put up for auction with Sotheby 's in New York .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	2004	_	Word	Word	_	17	T	17:T	_
+3	,	_	Punctuation	Punctuation	_	17	U	17:U	_
+4	in	_	Word	Word	_	5	R	5:R	_
+5	accordance	_	Word	Word	_	9	L	9:L	_
+6	with	_	Word	Word	_	5	R	5:R	_
+7	Hepburn	_	Word	Word	_	9	A	9:A	_
+8	's	_	Word	Word	_	7	R	7:R	_
+9	wishes	_	Word	Word	_	17	H	17:H	_
+10	,	_	Punctuation	Punctuation	_	17	U	17:U	_
+11	her	_	Word	Word	_	12	E	12:E	_
+12	belongings	_	Word	Word	_	17	A	17:A	_
+13	were	_	Word	Word	_	17	F	17:F	_
+14	put	_	Word	Word	_	17	E	17:E	_
+15	up	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	for	_	Word	Word	_	17	R	17:R	_
+17	auction	_	Word	Word	_	0	H	0:H	_
+18	with	_	Word	Word	_	19	R	19:R	_
+19	Sotheby	_	Word	Word	_	17	A	17:A	_
+20	's	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	in	_	Word	Word	_	22	R	22:R	_
+22	New	_	Word	Word	_	19	E	19:E	_
+23	York	_	Word	Word	_	22	Terminal	22:Terminal	_
+24	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+

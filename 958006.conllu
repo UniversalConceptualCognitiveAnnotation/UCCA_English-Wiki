@@ -1,0 +1,49 @@
+# format = ucca
+# sent_id = 958006
+# text = Olivier came to recognise the symptoms of an impending episode - several days of hyperactivity followed by a period of depression and an explosive breakdown , after which Leigh would have no memory of the event , but would be acutely embarrassed and remorseful .
+1	Olivier	_	Word	Word	_	4	A	4:A	_
+2	came	_	Word	Word	_	4	D	4:D	_
+3	to	_	Word	Word	_	4	F	4:F	_
+4	recognise	_	Word	Word	_	0	H	0:H	_
+5	the	_	Word	Word	_	6	E	6:E	_
+6	symptoms	_	Word	Word	_	4	A	4:A	_
+7	of	_	Word	Word	_	10	R	10:R	_
+8	an	_	Word	Word	_	10	F	10:F	_
+9	impending	_	Word	Word	_	10	D	10:D	_
+10	episode	_	Word	Word	_	6	E	6:E	_
+11	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+12	several	_	Word	Word	_	13	Q	13:Q	_
+13	days	_	Word	Word	_	15	T	15:T	_
+14	of	_	Word	Word	_	15	R	15:R	_
+15	hyperactivity	_	Word	Word	_	0	C	0:C|16:A	_
+16	followed	_	Word	Word	_	15	H	15:H	_
+17	by	_	Word	Word	_	21	R	21:R	_
+18	a	_	Word	Word	_	19	E	19:E	_
+19	period	_	Word	Word	_	21	T	21:T	_
+20	of	_	Word	Word	_	21	R	21:R	_
+21	depression	_	Word	Word	_	16	A	16:A	_
+22	and	_	Word	Word	_	25	L	25:L	_
+23	an	_	Word	Word	_	25	F	25:F	_
+24	explosive	_	Word	Word	_	25	D	25:D	_
+25	breakdown	_	Word	Word	_	21	H	21:H	_
+26	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+27	after	_	Word	Word	_	33	L	33:L	_
+28	which	_	Word	Word	_	27	Terminal	27:Terminal	_
+29	Leigh	_	Word	Word	_	33	A	33:A|42:A|44:A	_
+30	would	_	Word	Word	_	33	D	33:D	_
+31	have	_	Word	Word	_	33	F	33:F	_
+32	no	_	Word	Word	_	33	D	33:D	_
+33	memory	_	Word	Word	_	4	H	4:H	_
+34	of	_	Word	Word	_	36	R	36:R	_
+35	the	_	Word	Word	_	36	E	36:E	_
+36	event	_	Word	Word	_	33	A	33:A	_
+37	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+38	but	_	Word	Word	_	42	L	42:L	_
+39	would	_	Word	Word	_	42	D	42:D|44:D	_
+40	be	_	Word	Word	_	42	F	42:F	_
+41	acutely	_	Word	Word	_	42	D	42:D|44:D	_
+42	embarrassed	_	Word	Word	_	4	H	4:H	_
+43	and	_	Word	Word	_	44	L	44:L	_
+44	remorseful	_	Word	Word	_	4	H	4:H	_
+45	.	_	Punctuation	Punctuation	_	44	U	44:U	_
+

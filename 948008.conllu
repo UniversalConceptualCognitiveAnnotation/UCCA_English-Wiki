@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 948008
+# text = A second wedding was held in Los Angeles two weeks later .
+1	A	_	Word	Word	_	3	F	3:F	_
+2	second	_	Word	Word	_	3	D	3:D	_
+3	wedding	_	Word	Word	_	0	H	0:H	_
+4	was	_	Word	Word	_	3	F	3:F	_
+5	held	_	Word	Word	_	3	D	3:D	_
+6	in	_	Word	Word	_	7	R	7:R	_
+7	Los	_	Word	Word	_	3	A	3:A	_
+8	Angeles	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	two	_	Word	Word	_	10	Q	10:Q	_
+10	weeks	_	Word	Word	_	3	T	3:T	_
+11	later	_	Word	Word	_	10	R	10:R	_
+12	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+

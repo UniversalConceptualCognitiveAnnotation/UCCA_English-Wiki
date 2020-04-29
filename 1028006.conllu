@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 1028006
+# text = Jackson wrote about his childhood , The Jackson 5 , and the abuse he had suffered .
+1	Jackson	_	Word	Word	_	2	A	2:A|7:A	_
+2	wrote	_	Word	Word	_	0	H	0:H	_
+3	about	_	Word	Word	_	5	R	5:R	_
+4	his	_	Word	Word	_	5	A	5:A	_
+5	childhood	_	Word	Word	_	2	A	2:A	_
+6	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+7	The	_	Word	Word	_	2	H	2:H	_
+8	Jackson	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	5	_	Word	Word	_	7	Terminal	7:Terminal	_
+10	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+11	and	_	Word	Word	_	13	L	13:L	_
+12	the	_	Word	Word	_	13	E	13:E	_
+13	abuse	_	Word	Word	_	5	H	5:H	_
+14	he	_	Word	Word	_	13	A	13:A	_
+15	had	_	Word	Word	_	13	F	13:F	_
+16	suffered	_	Word	Word	_	13	D	13:D	_
+17	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

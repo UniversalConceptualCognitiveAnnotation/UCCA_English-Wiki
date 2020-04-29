@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 702011
+# text = Dylan returned to Columbia Records , which subsequently reissued his two Asylum albums on their imprint .
+1	Dylan	_	Word	Word	_	2	A	2:A	_
+2	returned	_	Word	Word	_	0	H	0:H	_
+3	to	_	Word	Word	_	4	R	4:R	_
+4	Columbia	_	Word	Word	_	2	A	2:A	_
+5	Records	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+7	which	_	Word	Word	_	9	R	9:R	_
+8	subsequently	_	Word	Word	_	9	D	9:D	_
+9	reissued	_	Word	Word	_	4	E	4:E	_
+10	his	_	Word	Word	_	13	E	13:E	_
+11	two	_	Word	Word	_	13	Q	13:Q	_
+12	Asylum	_	Word	Word	_	13	E	13:E	_
+13	albums	_	Word	Word	_	9	A	9:A	_
+14	on	_	Word	Word	_	16	R	16:R	_
+15	their	_	Word	Word	_	16	E	16:E	_
+16	imprint	_	Word	Word	_	9	A	9:A	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

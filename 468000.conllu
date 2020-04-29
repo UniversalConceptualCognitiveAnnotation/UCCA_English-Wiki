@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 468000
+# text = Johnson was drafted first overall in 1979 by the Los Angeles Lakers .
+1	Johnson	_	Word	Word	_	3	A	3:A	_
+2	was	_	Word	Word	_	3	F	3:F	_
+3	drafted	_	Word	Word	_	0	H	0:H	_
+4	first	_	Word	Word	_	5	Q	5:Q	_
+5	overall	_	Word	Word	_	3	D	3:D	_
+6	in	_	Word	Word	_	7	R	7:R	_
+7	1979	_	Word	Word	_	3	T	3:T	_
+8	by	_	Word	Word	_	10	R	10:R	_
+9	the	_	Word	Word	_	10	E	10:E	_
+10	Los	_	Word	Word	_	3	A	3:A	_
+11	Angeles	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	Lakers	_	Word	Word	_	10	Terminal	10:Terminal	_
+13	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+

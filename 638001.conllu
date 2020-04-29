@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 638001
+# text = Like " Give Peace a Chance " , the song became an anti - war anthem , but its lyrics offended religious groups .
+1	Like	_	Word	Word	_	21	L	21:L	_
+2	"	_	Punctuation	Punctuation	_	3	U	3:U	_
+3	Give	_	Word	Word	_	0	H	0:H	_
+4	Peace	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	a	_	Word	Word	_	3	Terminal	3:Terminal	_
+6	Chance	_	Word	Word	_	3	Terminal	3:Terminal	_
+7	"	_	Punctuation	Punctuation	_	3	U	3:U	_
+8	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+9	the	_	Word	Word	_	10	E	10:E	_
+10	song	_	Word	Word	_	16	A	16:A	_
+11	became	_	Word	Word	_	16	F	16:F	_
+12	an	_	Word	Word	_	16	F	16:F	_
+13	anti	_	Word	Word	_	15	E	15:E	_
+14	-	_	Punctuation	Punctuation	_	15	U	15:U	_
+15	war	_	Word	Word	_	16	A	16:A	_
+16	anthem	_	Word	Word	_	0	P	0:P|3:P	_
+17	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+18	but	_	Word	Word	_	21	L	21:L	_
+19	its	_	Word	Word	_	21	A	21:A	_
+20	lyrics	_	Word	Word	_	19	A	19:A	_
+21	offended	_	Word	Word	_	3	H	3:H	_
+22	religious	_	Word	Word	_	23	E	23:E	_
+23	groups	_	Word	Word	_	21	A	21:A	_
+24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

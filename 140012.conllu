@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 140012
+# text = Hepburn would typically receive a standing ovation at the end of the night , and the show 's run was twice extended .
+1	Hepburn	_	Word	Word	_	4	A	4:A	_
+2	would	_	Word	Word	_	4	F	4:F	_
+3	typically	_	Word	Word	_	4	D	4:D	_
+4	receive	_	Word	Word	_	0	H	0:H	_
+5	a	_	Word	Word	_	6	E	6:E	_
+6	standing	_	Word	Word	_	4	A	4:A	_
+7	ovation	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	at	_	Word	Word	_	13	R	13:R	_
+9	the	_	Word	Word	_	13	E	13:E	_
+10	end	_	Word	Word	_	13	E	13:E	_
+11	of	_	Word	Word	_	13	R	13:R	_
+12	the	_	Word	Word	_	13	E	13:E	_
+13	night	_	Word	Word	_	4	T	4:T	_
+14	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+15	and	_	Word	Word	_	22	L	22:L	_
+16	the	_	Word	Word	_	19	E	19:E	_
+17	show	_	Word	Word	_	19	A	19:A	_
+18	's	_	Word	Word	_	17	R	17:R	_
+19	run	_	Word	Word	_	22	A	22:A	_
+20	was	_	Word	Word	_	22	F	22:F	_
+21	twice	_	Word	Word	_	22	D	22:D	_
+22	extended	_	Word	Word	_	4	H	4:H	_
+23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+

@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 616001
+# text = However , his lack of discipline negatively affected his academic grades , preventing him from earning admission to art college .
+1	However	_	Word	Word	_	13	L	13:L	_
+2	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+3	his	_	Word	Word	_	6	A	6:A	_
+4	lack	_	Word	Word	_	6	D	6:D	_
+5	of	_	Word	Word	_	6	R	6:R	_
+6	discipline	_	Word	Word	_	8	A	8:A|13:A	_
+7	negatively	_	Word	Word	_	8	D	8:D	_
+8	affected	_	Word	Word	_	0	H	0:H	_
+9	his	_	Word	Word	_	11	E	11:E	_
+10	academic	_	Word	Word	_	11	E	11:E	_
+11	grades	_	Word	Word	_	8	A	8:A	_
+12	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+13	preventing	_	Word	Word	_	8	H	8:H	_
+14	him	_	Word	Word	_	13	A	13:A|17:A	_
+15	from	_	Word	Word	_	17	R	17:R	_
+16	earning	_	Word	Word	_	17	D	17:D	_
+17	admission	_	Word	Word	_	13	A	13:A	_
+18	to	_	Word	Word	_	20	R	20:R	_
+19	art	_	Word	Word	_	20	E	20:E	_
+20	college	_	Word	Word	_	17	A	17:A	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+

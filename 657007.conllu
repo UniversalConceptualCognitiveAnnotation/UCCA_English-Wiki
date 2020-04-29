@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 657007
+# text = Before the release of her first feature film Glitter ( 2001 ) , she suffered a physical and emotional breakdown and was hospitalized for severe exhaustion .
+1	Before	_	Word	Word	_	20	L	20:L	_
+2	the	_	Word	Word	_	3	F	3:F	_
+3	release	_	Word	Word	_	0	H	0:H	_
+4	of	_	Word	Word	_	9	R	9:R	_
+5	her	_	Word	Word	_	8	E	8:E	_
+6	first	_	Word	Word	_	8	Q	8:Q	_
+7	feature	_	Word	Word	_	8	E	8:E	_
+8	film	_	Word	Word	_	9	E	9:E	_
+9	Glitter	_	Word	Word	_	3	A	3:A	_
+10	(	_	Punctuation	Punctuation	_	9	U	9:U	_
+11	2001	_	Word	Word	_	9	E	9:E	_
+12	)	_	Punctuation	Punctuation	_	3	U	3:U	_
+13	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+14	she	_	Word	Word	_	20	A	20:A|23:A|26:A	_
+15	suffered	_	Word	Word	_	20	F	20:F	_
+16	a	_	Word	Word	_	20	F	20:F	_
+17	physical	_	Word	Word	_	20	A	20:A	_
+18	and	_	Word	Word	_	17	N	17:N	_
+19	emotional	_	Word	Word	_	17	C	17:C	_
+20	breakdown	_	Word	Word	_	3	H	3:H	_
+21	and	_	Word	Word	_	23	L	23:L	_
+22	was	_	Word	Word	_	23	F	23:F	_
+23	hospitalized	_	Word	Word	_	3	H	3:H	_
+24	for	_	Word	Word	_	26	L	26:L	_
+25	severe	_	Word	Word	_	26	D	26:D	_
+26	exhaustion	_	Word	Word	_	3	H	3:H	_
+27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+

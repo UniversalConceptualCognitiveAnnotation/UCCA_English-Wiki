@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 610006
+# text = In July 2002 , McCartney married Heather Mills .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	July	_	Word	Word	_	6	T	6:T	_
+3	2002	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	McCartney	_	Word	Word	_	6	A	6:A	_
+6	married	_	Word	Word	_	0	H	0:H	_
+7	Heather	_	Word	Word	_	6	A	6:A	_
+8	Mills	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+

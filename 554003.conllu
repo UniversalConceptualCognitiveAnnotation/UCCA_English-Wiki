@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 554003
+# text = Nominated for 14 competitive Grammys , he won three , and received the Grammy Lifetime Achievement Award at age 36 .
+1	Nominated	_	Word	Word	_	0	H	0:H	_
+2	for	_	Word	Word	_	5	R	5:R	_
+3	14	_	Word	Word	_	5	Q	5:Q	_
+4	competitive	_	Word	Word	_	5	E	5:E	_
+5	Grammys	_	Word	Word	_	0	C	0:C|4:A|9:C	_
+6	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	he	_	Word	Word	_	8	A	8:A|1:A|12:A|19:A	_
+8	won	_	Word	Word	_	1	H	1:H	_
+9	three	_	Word	Word	_	8	A	8:A	_
+10	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+11	and	_	Word	Word	_	12	L	12:L	_
+12	received	_	Word	Word	_	1	H	1:H	_
+13	the	_	Word	Word	_	17	E	17:E	_
+14	Grammy	_	Word	Word	_	17	E	17:E	_
+15	Lifetime	_	Word	Word	_	16	T	16:T	_
+16	Achievement	_	Word	Word	_	17	E	17:E	_
+17	Award	_	Word	Word	_	12	A	12:A	_
+18	at	_	Word	Word	_	19	L	19:L	_
+19	age	_	Word	Word	_	1	H	1:H	_
+20	36	_	Word	Word	_	19	T	19:T	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+

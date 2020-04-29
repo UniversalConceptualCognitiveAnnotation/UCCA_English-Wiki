@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 642002
+# text = Ono scattered his ashes in New York 's Central Park , where the Strawberry Fields memorial was later created .
+1	Ono	_	Word	Word	_	2	A	2:A	_
+2	scattered	_	Word	Word	_	0	H	0:H	_
+3	his	_	Word	Word	_	4	E	4:E	_
+4	ashes	_	Word	Word	_	2	A	2:A	_
+5	in	_	Word	Word	_	6	R	6:R	_
+6	New	_	Word	Word	_	2	A	2:A	_
+7	York	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	's	_	Word	Word	_	6	R	6:R	_
+9	Central	_	Word	Word	_	6	C	6:C	_
+10	Park	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+12	where	_	Word	Word	_	19	R	19:R	_
+13	the	_	Word	Word	_	16	E	16:E	_
+14	Strawberry	_	Word	Word	_	16	E	16:E	_
+15	Fields	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	memorial	_	Word	Word	_	19	A	19:A	_
+17	was	_	Word	Word	_	19	F	19:F	_
+18	later	_	Word	Word	_	19	T	19:T	_
+19	created	_	Word	Word	_	9	E	9:E	_
+20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

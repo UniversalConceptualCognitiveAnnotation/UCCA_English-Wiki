@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 946002
+# text = To promote The Sweet Escape , Stefani was a mentor on the sixth season of American Idol and performed the song with Akon .
+1	To	_	Word	Word	_	10	L	10:L	_
+2	promote	_	Word	Word	_	0	H	0:H	_
+3	The	_	Word	Word	_	2	A	2:A	_
+4	Sweet	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	Escape	_	Word	Word	_	3	Terminal	3:Terminal	_
+6	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+7	Stefani	_	Word	Word	_	10	A	10:A|2:A|19:A	_
+8	was	_	Word	Word	_	10	F	10:F	_
+9	a	_	Word	Word	_	10	E	10:E	_
+10	mentor	_	Word	Word	_	2	H	2:H	_
+11	on	_	Word	Word	_	16	R	16:R	_
+12	the	_	Word	Word	_	14	E	14:E	_
+13	sixth	_	Word	Word	_	14	Q	14:Q	_
+14	season	_	Word	Word	_	16	E	16:E	_
+15	of	_	Word	Word	_	16	R	16:R	_
+16	American	_	Word	Word	_	10	A	10:A	_
+17	Idol	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	and	_	Word	Word	_	19	L	19:L	_
+19	performed	_	Word	Word	_	2	H	2:H	_
+20	the	_	Word	Word	_	21	E	21:E	_
+21	song	_	Word	Word	_	19	A	19:A	_
+22	with	_	Word	Word	_	23	R	23:R	_
+23	Akon	_	Word	Word	_	19	A	19:A	_
+24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

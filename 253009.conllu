@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 253009
+# text = Hawke is also an activist for gay rights and in March 2011 , he and his wife released a video pressing for marriage equality in New York State .
+1	Hawke	_	Word	Word	_	5	A	5:A	_
+2	is	_	Word	Word	_	5	F	5:F	_
+3	also	_	Word	Word	_	5	D	5:D	_
+4	an	_	Word	Word	_	5	F	5:F	_
+5	activist	_	Word	Word	_	0	H	0:H	_
+6	for	_	Word	Word	_	8	R	8:R	_
+7	gay	_	Word	Word	_	8	A	8:A	_
+8	rights	_	Word	Word	_	5	A	5:A	_
+9	and	_	Word	Word	_	18	L	18:L	_
+10	in	_	Word	Word	_	11	R	11:R	_
+11	March	_	Word	Word	_	18	T	18:T	_
+12	2011	_	Word	Word	_	11	C	11:C	_
+13	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+14	he	_	Word	Word	_	18	A	18:A	_
+15	and	_	Word	Word	_	14	N	14:N	_
+16	his	_	Word	Word	_	14	C	14:C	_
+17	wife	_	Word	Word	_	16	A	16:A	_
+18	released	_	Word	Word	_	5	H	5:H	_
+19	a	_	Word	Word	_	21	F	21:F	_
+20	video	_	Word	Word	_	21	E	21:E	_
+21	pressing	_	Word	Word	_	18	A	18:A	_
+22	for	_	Word	Word	_	24	R	24:R	_
+23	marriage	_	Word	Word	_	24	A	24:A	_
+24	equality	_	Word	Word	_	21	E	21:E	_
+25	in	_	Word	Word	_	26	R	26:R	_
+26	New	_	Word	Word	_	24	A	24:A	_
+27	York	_	Word	Word	_	26	Terminal	26:Terminal	_
+28	State	_	Word	Word	_	26	Terminal	26:Terminal	_
+29	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+

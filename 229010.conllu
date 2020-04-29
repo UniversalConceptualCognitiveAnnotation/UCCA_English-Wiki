@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 229010
+# text = In 2009 , Chan received an honorary doctorate from the University of Cambodia .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	2009	_	Word	Word	_	5	T	5:T	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	Chan	_	Word	Word	_	5	A	5:A	_
+5	received	_	Word	Word	_	0	H	0:H	_
+6	an	_	Word	Word	_	8	F	8:F	_
+7	honorary	_	Word	Word	_	8	E	8:E	_
+8	doctorate	_	Word	Word	_	5	A	5:A	_
+9	from	_	Word	Word	_	11	R	11:R	_
+10	the	_	Word	Word	_	11	F	11:F	_
+11	University	_	Word	Word	_	5	A	5:A	_
+12	of	_	Word	Word	_	13	R	13:R	_
+13	Cambodia	_	Word	Word	_	11	E	11:E	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

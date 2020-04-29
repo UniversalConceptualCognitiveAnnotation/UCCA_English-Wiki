@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 709004
+# text = Dylan 's 1990s began with Under the Red Sky ( 1990 ) , an about - face from the serious Oh Mercy .
+1	Dylan	_	Word	Word	_	0	H	0:H	_
+2	's	_	Word	Word	_	1	R	1:R	_
+3	1990s	_	Word	Word	_	1	T	1:T	_
+4	began	_	Word	Word	_	1	F	1:F	_
+5	with	_	Word	Word	_	6	R	6:R	_
+6	Under	_	Word	Word	_	1	A	1:A	_
+7	the	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	Red	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	Sky	_	Word	Word	_	6	Terminal	6:Terminal	_
+10	(	_	Punctuation	Punctuation	_	6	U	6:U	_
+11	1990	_	Word	Word	_	6	E	6:E	_
+12	)	_	Punctuation	Punctuation	_	6	U	6:U	_
+13	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+14	an	_	Word	Word	_	15	F	15:F	_
+15	about	_	Word	Word	_	6	E	6:E	_
+16	-	_	Punctuation	Punctuation	_	15	U	15:U	_
+17	face	_	Word	Word	_	15	Terminal	15:Terminal	_
+18	from	_	Word	Word	_	21	R	21:R	_
+19	the	_	Word	Word	_	21	E	21:E	_
+20	serious	_	Word	Word	_	21	E	21:E	_
+21	Oh	_	Word	Word	_	15	A	15:A	_
+22	Mercy	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

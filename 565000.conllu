@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 565000
+# text = Accompanying Presley 's rise to fame , a cultural shift was taking place that he both helped inspire and came to symbolize .
+1	Accompanying	_	Word	Word	_	18	L	18:L	_
+2	Presley	_	Word	Word	_	6	A	6:A	_
+3	's	_	Word	Word	_	2	R	2:R	_
+4	rise	_	Word	Word	_	6	D	6:D	_
+5	to	_	Word	Word	_	6	R	6:R	_
+6	fame	_	Word	Word	_	0	H	0:H	_
+7	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	a	_	Word	Word	_	10	F	10:F	_
+9	cultural	_	Word	Word	_	10	A	10:A	_
+10	shift	_	Word	Word	_	0	C	0:C|18:A|22:A	_
+11	was	_	Word	Word	_	10	F	10:F	_
+12	taking	_	Word	Word	_	10	F	10:F	_
+13	place	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	that	_	Word	Word	_	18	L	18:L	_
+15	he	_	Word	Word	_	18	A	18:A|22:A	_
+16	both	_	Word	Word	_	18	L	18:L	_
+17	helped	_	Word	Word	_	18	D	18:D	_
+18	inspire	_	Word	Word	_	6	H	6:H	_
+19	and	_	Word	Word	_	22	L	22:L	_
+20	came	_	Word	Word	_	22	D	22:D	_
+21	to	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	symbolize	_	Word	Word	_	6	H	6:H	_
+23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+

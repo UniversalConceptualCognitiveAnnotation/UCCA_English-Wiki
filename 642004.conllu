@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 642004
+# text = As of 2013 , he remains in prison , having been denied parole seven times .
+1	As	_	Word	Word	_	3	R	3:R	_
+2	of	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	2013	_	Word	Word	_	6	T	6:T	_
+4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	he	_	Word	Word	_	6	A	6:A|12:A	_
+6	remains	_	Word	Word	_	0	H	0:H	_
+7	in	_	Word	Word	_	8	R	8:R	_
+8	prison	_	Word	Word	_	6	A	6:A	_
+9	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+10	having	_	Word	Word	_	12	F	12:F	_
+11	been	_	Word	Word	_	12	F	12:F	_
+12	denied	_	Word	Word	_	6	H	6:H	_
+13	parole	_	Word	Word	_	12	A	12:A	_
+14	seven	_	Word	Word	_	15	Q	15:Q	_
+15	times	_	Word	Word	_	12	D	12:D	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

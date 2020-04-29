@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 672004
+# text = Carey had a cameo appearance in Adam Sandler 's 2008 film You Do n't Mess with the Zohan , playing herself .
+1	Carey	_	Word	Word	_	5	A	5:A|20:A	_
+2	had	_	Word	Word	_	5	F	5:F	_
+3	a	_	Word	Word	_	5	E	5:E	_
+4	cameo	_	Word	Word	_	5	A	5:A	_
+5	appearance	_	Word	Word	_	0	H	0:H	_
+6	in	_	Word	Word	_	12	R	12:R	_
+7	Adam	_	Word	Word	_	9	A	9:A	_
+8	Sandler	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	's	_	Word	Word	_	11	E	11:E	_
+10	2008	_	Word	Word	_	11	E	11:E	_
+11	film	_	Word	Word	_	12	E	12:E	_
+12	You	_	Word	Word	_	5	A	5:A	_
+13	Do	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	n't	_	Word	Word	_	12	Terminal	12:Terminal	_
+15	Mess	_	Word	Word	_	12	Terminal	12:Terminal	_
+16	with	_	Word	Word	_	12	Terminal	12:Terminal	_
+17	the	_	Word	Word	_	12	Terminal	12:Terminal	_
+18	Zohan	_	Word	Word	_	12	Terminal	12:Terminal	_
+19	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+20	playing	_	Word	Word	_	5	H	5:H	_
+21	herself	_	Word	Word	_	20	D	20:D	_
+22	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+

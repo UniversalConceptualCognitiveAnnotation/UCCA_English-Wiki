@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 490007
+# text = He is set to star in Elvis & Nixon as Elvis Presley .
+1	He	_	Word	Word	_	5	A	5:A	_
+2	is	_	Word	Word	_	5	F	5:F	_
+3	set	_	Word	Word	_	5	D	5:D	_
+4	to	_	Word	Word	_	5	F	5:F	_
+5	star	_	Word	Word	_	0	H	0:H	_
+6	in	_	Word	Word	_	7	R	7:R	_
+7	Elvis	_	Word	Word	_	5	A	5:A	_
+8	&	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	Nixon	_	Word	Word	_	7	Terminal	7:Terminal	_
+10	as	_	Word	Word	_	11	R	11:R	_
+11	Elvis	_	Word	Word	_	5	A	5:A	_
+12	Presley	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+

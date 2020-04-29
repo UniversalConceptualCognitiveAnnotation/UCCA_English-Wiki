@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 221010
+# text = Dunst explained that Tuesday is " not a holiday , and [ the United States is ] one of the lowest democratic countries in voter turnout . "
+1	Dunst	_	Word	Word	_	2	A	2:A	_
+2	explained	_	Word	Word	_	0	H	0:H	_
+3	that	_	Word	Word	_	5	R	5:R	_
+4	Tuesday	_	Word	Word	_	5	A	5:A	_
+5	is	_	Word	Word	_	2	A	2:A	_
+6	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	not	_	Word	Word	_	5	D	5:D	_
+8	a	_	Word	Word	_	9	F	9:F	_
+9	holiday	_	Word	Word	_	5	A	5:A	_
+10	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+11	and	_	Word	Word	_	16	L	16:L	_
+12	[	_	Punctuation	Punctuation	_	5	U	5:U	_
+13	the	_	Word	Word	_	14	F	14:F	_
+14	United	_	Word	Word	_	16	A	16:A	_
+15	States	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	is	_	Word	Word	_	5	H	5:H	_
+17	]	_	Punctuation	Punctuation	_	16	U	16:U	_
+18	one	_	Word	Word	_	23	Q	23:Q	_
+19	of	_	Word	Word	_	18	R	18:R	_
+20	the	_	Word	Word	_	23	F	23:F	_
+21	lowest	_	Word	Word	_	26	E	26:E	_
+22	democratic	_	Word	Word	_	23	E	23:E	_
+23	countries	_	Word	Word	_	16	A	16:A	_
+24	in	_	Word	Word	_	26	R	26:R	_
+25	voter	_	Word	Word	_	26	E	26:E	_
+26	turnout	_	Word	Word	_	23	E	23:E	_
+27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+28	"	_	Punctuation	Punctuation	_	26	U	26:U	_
+

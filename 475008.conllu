@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 475008
+# text = Magic , at the age of 42 , played with the All - Stars against his alma mater , Michigan State .
+1	Magic	_	Word	Word	_	9	A	9:A|5:A	_
+2	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+3	at	_	Word	Word	_	5	L	5:L	_
+4	the	_	Word	Word	_	5	F	5:F	_
+5	age	_	Word	Word	_	9	H	9:H	_
+6	of	_	Word	Word	_	7	R	7:R	_
+7	42	_	Word	Word	_	5	D	5:D	_
+8	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+9	played	_	Word	Word	_	0	H	0:H	_
+10	with	_	Word	Word	_	12	R	12:R	_
+11	the	_	Word	Word	_	12	F	12:F	_
+12	All	_	Word	Word	_	9	A	9:A	_
+13	-	_	Punctuation	Punctuation	_	12	U	12:U	_
+14	Stars	_	Word	Word	_	12	Terminal	12:Terminal	_
+15	against	_	Word	Word	_	20	R	20:R	_
+16	his	_	Word	Word	_	17	A	17:A	_
+17	alma	_	Word	Word	_	20	E	20:E	_
+18	mater	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	,	_	Punctuation	Punctuation	_	17	U	17:U	_
+20	Michigan	_	Word	Word	_	9	A	9:A	_
+21	State	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+

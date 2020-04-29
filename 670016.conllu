@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 670016
+# text = To date , The Emancipation of Mimi has sold over 12 million copies worldwide .
+1	To	_	Word	Word	_	2	R	2:R	_
+2	date	_	Word	Word	_	9	D	9:D	_
+3	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+4	The	_	Word	Word	_	9	A	9:A	_
+5	Emancipation	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	of	_	Word	Word	_	4	Terminal	4:Terminal	_
+7	Mimi	_	Word	Word	_	4	Terminal	4:Terminal	_
+8	has	_	Word	Word	_	9	F	9:F	_
+9	sold	_	Word	Word	_	0	H	0:H	_
+10	over	_	Word	Word	_	13	E	13:E	_
+11	12	_	Word	Word	_	12	E	12:E	_
+12	million	_	Word	Word	_	13	E	13:E	_
+13	copies	_	Word	Word	_	9	A	9:A	_
+14	worldwide	_	Word	Word	_	9	D	9:D	_
+15	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

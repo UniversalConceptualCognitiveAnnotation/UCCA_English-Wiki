@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 561015
+# text = It became the first rock - and - roll album to top the Billboard chart , a position it held for 10 weeks .
+1	It	_	Word	Word	_	2	A	2:A	_
+2	became	_	Word	Word	_	0	H	0:H	_
+3	the	_	Word	Word	_	10	E	10:E	_
+4	first	_	Word	Word	_	10	Q	10:Q	_
+5	rock	_	Word	Word	_	10	E	10:E	_
+6	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	and	_	Word	Word	_	5	Terminal	5:Terminal	_
+8	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+9	roll	_	Word	Word	_	5	Terminal	5:Terminal	_
+10	album	_	Word	Word	_	2	A	2:A	_
+11	to	_	Word	Word	_	12	F	12:F	_
+12	top	_	Word	Word	_	10	E	10:E	_
+13	the	_	Word	Word	_	15	E	15:E	_
+14	Billboard	_	Word	Word	_	15	E	15:E	_
+15	chart	_	Word	Word	_	12	A	12:A	_
+16	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+17	a	_	Word	Word	_	18	E	18:E	_
+18	position	_	Word	Word	_	20	A	20:A	_
+19	it	_	Word	Word	_	20	A	20:A	_
+20	held	_	Word	Word	_	2	H	2:H	_
+21	for	_	Word	Word	_	23	R	23:R	_
+22	10	_	Word	Word	_	23	Q	23:Q	_
+23	weeks	_	Word	Word	_	20	T	20:T	_
+24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

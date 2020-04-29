@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 222005
+# text = As a cultural icon , Chan has been referenced in various pop songs , cartoons , and video games .
+1	As	_	Word	Word	_	9	L	9:L	_
+2	a	_	Word	Word	_	4	F	4:F	_
+3	cultural	_	Word	Word	_	4	E	4:E	_
+4	icon	_	Word	Word	_	0	H	0:H	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	Chan	_	Word	Word	_	9	A	9:A|4:A	_
+7	has	_	Word	Word	_	9	F	9:F	_
+8	been	_	Word	Word	_	9	F	9:F	_
+9	referenced	_	Word	Word	_	4	H	4:H	_
+10	in	_	Word	Word	_	13	R	13:R	_
+11	various	_	Word	Word	_	13	E	13:E	_
+12	pop	_	Word	Word	_	13	E	13:E	_
+13	songs	_	Word	Word	_	9	A	9:A	_
+14	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+15	cartoons	_	Word	Word	_	13	C	13:C	_
+16	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+17	and	_	Word	Word	_	13	N	13:N	_
+18	video	_	Word	Word	_	19	E	19:E	_
+19	games	_	Word	Word	_	13	C	13:C	_
+20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

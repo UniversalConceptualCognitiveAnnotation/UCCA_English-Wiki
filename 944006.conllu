@@ -1,0 +1,51 @@
+# format = ucca
+# sent_id = 944006
+# text = In 2002 , Eve and Stefani won a Grammy Award for Best Rap / Sung Collaboration for " Let Me Blow Ya Mind " . Following No Doubt 's hiatus , Stefani sought out her bandmate Tony Kanal to discuss the possibility of a solo career .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	2002	_	Word	Word	_	7	T	7:T	_
+3	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+4	Eve	_	Word	Word	_	7	A	7:A	_
+5	and	_	Word	Word	_	4	N	4:N	_
+6	Stefani	_	Word	Word	_	4	C	4:C	_
+7	won	_	Word	Word	_	0	H	0:H	_
+8	a	_	Word	Word	_	9	E	9:E	_
+9	Grammy	_	Word	Word	_	7	A	7:A	_
+10	Award	_	Word	Word	_	9	E	9:E	_
+11	for	_	Word	Word	_	16	R	16:R	_
+12	Best	_	Word	Word	_	16	D	16:D	_
+13	Rap	_	Word	Word	_	16	A	16:A	_
+14	/	_	Punctuation	Punctuation	_	13	U	13:U	_
+15	Sung	_	Word	Word	_	13	C	13:C	_
+16	Collaboration	_	Word	Word	_	9	E	9:E	_
+17	for	_	Word	Word	_	19	R	19:R	_
+18	"	_	Punctuation	Punctuation	_	19	U	19:U	_
+19	Let	_	Word	Word	_	7	A	7:A	_
+20	Me	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	Blow	_	Word	Word	_	19	Terminal	19:Terminal	_
+22	Ya	_	Word	Word	_	19	Terminal	19:Terminal	_
+23	Mind	_	Word	Word	_	19	Terminal	19:Terminal	_
+24	"	_	Punctuation	Punctuation	_	7	U	7:U	_
+25	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+26	Following	_	Word	Word	_	30	L	30:L	_
+27	No	_	Word	Word	_	30	A	30:A	_
+28	Doubt	_	Word	Word	_	27	Terminal	27:Terminal	_
+29	's	_	Word	Word	_	27	R	27:R	_
+30	hiatus	_	Word	Word	_	7	H	7:H	_
+31	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+32	Stefani	_	Word	Word	_	33	A	33:A|40:A|46:A	_
+33	sought	_	Word	Word	_	7	H	7:H	_
+34	out	_	Word	Word	_	33	Terminal	33:Terminal	_
+35	her	_	Word	Word	_	37	E	37:E	_
+36	bandmate	_	Word	Word	_	35	A	35:A	_
+37	Tony	_	Word	Word	_	33	A	33:A	_
+38	Kanal	_	Word	Word	_	37	Terminal	37:Terminal	_
+39	to	_	Word	Word	_	40	L	40:L	_
+40	discuss	_	Word	Word	_	7	H	7:H	_
+41	the	_	Word	Word	_	42	E	42:E	_
+42	possibility	_	Word	Word	_	40	A	40:A	_
+43	of	_	Word	Word	_	46	R	46:R	_
+44	a	_	Word	Word	_	46	E	46:E	_
+45	solo	_	Word	Word	_	46	D	46:D	_
+46	career	_	Word	Word	_	42	E	42:E	_
+47	.	_	Punctuation	Punctuation	_	46	U	46:U	_
+

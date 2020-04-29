@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 553005
+# text = RCA Victor acquired his contract in a deal arranged by Colonel Tom Parker , who went on to manage the singer for over two decades .
+1	RCA	_	Word	Word	_	3	A	3:A	_
+2	Victor	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	acquired	_	Word	Word	_	0	H	0:H	_
+4	his	_	Word	Word	_	5	E	5:E	_
+5	contract	_	Word	Word	_	3	A	3:A	_
+6	in	_	Word	Word	_	8	R	8:R	_
+7	a	_	Word	Word	_	8	E	8:E	_
+8	deal	_	Word	Word	_	0	C	0:C|9:A	_
+9	arranged	_	Word	Word	_	8	H	8:H	_
+10	by	_	Word	Word	_	12	R	12:R	_
+11	Colonel	_	Word	Word	_	12	E	12:E	_
+12	Tom	_	Word	Word	_	9	A	9:A	_
+13	Parker	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+15	who	_	Word	Word	_	19	R	19:R	_
+16	went	_	Word	Word	_	19	D	19:D	_
+17	on	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	to	_	Word	Word	_	19	F	19:F	_
+19	manage	_	Word	Word	_	12	E	12:E	_
+20	the	_	Word	Word	_	21	E	21:E	_
+21	singer	_	Word	Word	_	19	A	19:A	_
+22	for	_	Word	Word	_	25	R	25:R	_
+23	over	_	Word	Word	_	25	E	25:E	_
+24	two	_	Word	Word	_	25	Q	25:Q	_
+25	decades	_	Word	Word	_	19	T	19:T	_
+26	.	_	Punctuation	Punctuation	_	25	U	25:U	_
+

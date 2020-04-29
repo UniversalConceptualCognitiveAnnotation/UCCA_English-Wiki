@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 636014
+# text = In 1969 , they formed the Plastic Ono Band , releasing Live Peace in Toronto 1969 .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1969	_	Word	Word	_	5	T	5:T	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	they	_	Word	Word	_	5	A	5:A|11:A	_
+5	formed	_	Word	Word	_	0	H	0:H	_
+6	the	_	Word	Word	_	9	E	9:E	_
+7	Plastic	_	Word	Word	_	9	E	9:E	_
+8	Ono	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	Band	_	Word	Word	_	5	A	5:A	_
+10	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+11	releasing	_	Word	Word	_	5	H	5:H	_
+12	Live	_	Word	Word	_	11	A	11:A	_
+13	Peace	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	in	_	Word	Word	_	15	R	15:R	_
+15	Toronto	_	Word	Word	_	11	A	11:A	_
+16	1969	_	Word	Word	_	11	T	11:T	_
+17	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+

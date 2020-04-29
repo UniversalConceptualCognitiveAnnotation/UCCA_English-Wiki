@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 496002
+# text = Love You till Tuesday , was a 30 - minute film featuring performances from his repertoire and was intended as a vehicle to promote the singer .
+1	Love	_	Word	Word	_	6	A	6:A	_
+2	You	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	till	_	Word	Word	_	1	Terminal	1:Terminal	_
+4	Tuesday	_	Word	Word	_	1	Terminal	1:Terminal	_
+5	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+6	was	_	Word	Word	_	0	H	0:H	_
+7	a	_	Word	Word	_	11	E	11:E	_
+8	30	_	Word	Word	_	10	Q	10:Q	_
+9	-	_	Punctuation	Punctuation	_	10	U	10:U	_
+10	minute	_	Word	Word	_	11	E	11:E	_
+11	film	_	Word	Word	_	0	C	0:C|10:A|12:A|19:A	_
+12	featuring	_	Word	Word	_	11	E	11:E	_
+13	performances	_	Word	Word	_	12	A	12:A	_
+14	from	_	Word	Word	_	16	R	16:R	_
+15	his	_	Word	Word	_	16	E	16:E	_
+16	repertoire	_	Word	Word	_	13	A	13:A	_
+17	and	_	Word	Word	_	19	L	19:L	_
+18	was	_	Word	Word	_	19	F	19:F	_
+19	intended	_	Word	Word	_	6	H	6:H	_
+20	as	_	Word	Word	_	24	R	24:R	_
+21	a	_	Word	Word	_	22	E	22:E	_
+22	vehicle	_	Word	Word	_	24	D	24:D	_
+23	to	_	Word	Word	_	24	F	24:F	_
+24	promote	_	Word	Word	_	19	A	19:A	_
+25	the	_	Word	Word	_	26	E	26:E	_
+26	singer	_	Word	Word	_	24	A	24:A	_
+27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+

@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 617005
+# text = In 2004 , they worked together on the animated short film Tropic Island Hum .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	2004	_	Word	Word	_	5	T	5:T	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	they	_	Word	Word	_	5	A	5:A	_
+5	worked	_	Word	Word	_	0	H	0:H	_
+6	together	_	Word	Word	_	5	D	5:D	_
+7	on	_	Word	Word	_	12	R	12:R	_
+8	the	_	Word	Word	_	12	E	12:E	_
+9	animated	_	Word	Word	_	11	E	11:E	_
+10	short	_	Word	Word	_	11	E	11:E	_
+11	film	_	Word	Word	_	12	E	12:E	_
+12	Tropic	_	Word	Word	_	5	A	5:A	_
+13	Island	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	Hum	_	Word	Word	_	12	Terminal	12:Terminal	_
+15	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+

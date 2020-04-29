@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 500000
+# text = Bowie moved to the United States in 1974 , initially staying in New York City before settling in Los Angeles .
+1	Bowie	_	Word	Word	_	2	A	2:A|11:A|17:A	_
+2	moved	_	Word	Word	_	0	H	0:H	_
+3	to	_	Word	Word	_	5	R	5:R	_
+4	the	_	Word	Word	_	5	E	5:E	_
+5	United	_	Word	Word	_	2	A	2:A	_
+6	States	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	in	_	Word	Word	_	8	R	8:R	_
+8	1974	_	Word	Word	_	2	T	2:T	_
+9	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+10	initially	_	Word	Word	_	11	D	11:D	_
+11	staying	_	Word	Word	_	2	H	2:H	_
+12	in	_	Word	Word	_	13	R	13:R	_
+13	New	_	Word	Word	_	11	A	11:A	_
+14	York	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	City	_	Word	Word	_	13	Terminal	13:Terminal	_
+16	before	_	Word	Word	_	17	L	17:L	_
+17	settling	_	Word	Word	_	2	H	2:H	_
+18	in	_	Word	Word	_	19	R	19:R	_
+19	Los	_	Word	Word	_	17	A	17:A	_
+20	Angeles	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

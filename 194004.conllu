@@ -1,0 +1,57 @@
+# format = ucca
+# sent_id = 194004
+# text = Sorkin 's TV series The West Wing aired on the same network , and so at the request of NBC 's Entertainment President Jeff Zucker he apologized , but would later say " there should be a difference between what NBC News does and what The West Wing TV series does . "
+1	Sorkin	_	Word	Word	_	4	E	4:E	_
+2	's	_	Word	Word	_	1	R	1:R	_
+3	TV	_	Word	Word	_	4	E	4:E	_
+4	series	_	Word	Word	_	8	A	8:A	_
+5	The	_	Word	Word	_	4	E	4:E	_
+6	West	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	Wing	_	Word	Word	_	5	Terminal	5:Terminal	_
+8	aired	_	Word	Word	_	0	H	0:H	_
+9	on	_	Word	Word	_	12	R	12:R	_
+10	the	_	Word	Word	_	12	E	12:E	_
+11	same	_	Word	Word	_	12	E	12:E	_
+12	network	_	Word	Word	_	8	A	8:A	_
+13	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+14	and	_	Word	Word	_	18	L	18:L	_
+15	so	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	at	_	Word	Word	_	18	L	18:L	_
+17	the	_	Word	Word	_	18	E	18:E	_
+18	request	_	Word	Word	_	8	H	8:H	_
+19	of	_	Word	Word	_	24	R	24:R	_
+20	NBC	_	Word	Word	_	22	E	22:E	_
+21	's	_	Word	Word	_	20	R	20:R	_
+22	Entertainment	_	Word	Word	_	23	A	23:A	_
+23	President	_	Word	Word	_	24	E	24:E	_
+24	Jeff	_	Word	Word	_	18	A	18:A	_
+25	Zucker	_	Word	Word	_	24	Terminal	24:Terminal	_
+26	he	_	Word	Word	_	27	A	27:A|32:A	_
+27	apologized	_	Word	Word	_	8	H	8:H	_
+28	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+29	but	_	Word	Word	_	32	L	32:L	_
+30	would	_	Word	Word	_	32	F	32:F	_
+31	later	_	Word	Word	_	32	L	32:L	_
+32	say	_	Word	Word	_	8	H	8:H	_
+33	"	_	Punctuation	Punctuation	_	32	U	32:U	_
+34	there	_	Word	Word	_	38	F	38:F	_
+35	should	_	Word	Word	_	38	D	38:D	_
+36	be	_	Word	Word	_	38	F	38:F	_
+37	a	_	Word	Word	_	38	E	38:E	_
+38	difference	_	Word	Word	_	32	A	32:A	_
+39	between	_	Word	Word	_	43	R	43:R	_
+40	what	_	Word	Word	_	43	A	43:A	_
+41	NBC	_	Word	Word	_	42	E	42:E	_
+42	News	_	Word	Word	_	43	A	43:A	_
+43	does	_	Word	Word	_	38	A	38:A	_
+44	and	_	Word	Word	_	51	L	51:L	_
+45	what	_	Word	Word	_	51	A	51:A	_
+46	The	_	Word	Word	_	50	E	50:E	_
+47	West	_	Word	Word	_	46	Terminal	46:Terminal	_
+48	Wing	_	Word	Word	_	46	Terminal	46:Terminal	_
+49	TV	_	Word	Word	_	50	E	50:E	_
+50	series	_	Word	Word	_	51	A	51:A	_
+51	does	_	Word	Word	_	43	H	43:H	_
+52	.	_	Punctuation	Punctuation	_	51	U	51:U	_
+53	"	_	Punctuation	Punctuation	_	51	U	51:U	_
+

@@ -1,0 +1,34 @@
+# format = ucca
+# sent_id = 588005
+# text = In 2004 , he was again nominated for the Best Actor Academy Award for his performance as Scottish author J . M . Barrie in the film Finding Neverland .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	2004	_	Word	Word	_	7	T	7:T	_
+3	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+4	he	_	Word	Word	_	7	A	7:A	_
+5	was	_	Word	Word	_	7	F	7:F	_
+6	again	_	Word	Word	_	7	D	7:D	_
+7	nominated	_	Word	Word	_	0	H	0:H	_
+8	for	_	Word	Word	_	10	R	10:R	_
+9	the	_	Word	Word	_	10	E	10:E	_
+10	Best	_	Word	Word	_	7	A	7:A	_
+11	Actor	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	Academy	_	Word	Word	_	10	C	10:C	_
+13	Award	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	for	_	Word	Word	_	16	R	16:R	_
+15	his	_	Word	Word	_	16	A	16:A	_
+16	performance	_	Word	Word	_	7	A	7:A	_
+17	as	_	Word	Word	_	20	R	20:R	_
+18	Scottish	_	Word	Word	_	19	E	19:E	_
+19	author	_	Word	Word	_	20	E	20:E	_
+20	J	_	Word	Word	_	16	A	16:A	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+22	M	_	Word	Word	_	20	Terminal	20:Terminal	_
+23	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+24	Barrie	_	Word	Word	_	20	Terminal	20:Terminal	_
+25	in	_	Word	Word	_	28	R	28:R	_
+26	the	_	Word	Word	_	27	E	27:E	_
+27	film	_	Word	Word	_	28	E	28:E	_
+28	Finding	_	Word	Word	_	16	A	16:A	_
+29	Neverland	_	Word	Word	_	28	Terminal	28:Terminal	_
+30	.	_	Punctuation	Punctuation	_	28	U	28:U	_
+

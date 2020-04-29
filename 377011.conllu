@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 377011
+# text = The film earned $ 32 million and was described in the Sacramento News and Review as Gyllenhaal 's " breakout performance . "
+1	The	_	Word	Word	_	2	F	2:F	_
+2	film	_	Word	Word	_	0	C	0:C|9:A	_
+3	earned	_	Word	Word	_	0	H	0:H	_
+4	$	_	Word	Word	_	3	A	3:A	_
+5	32	_	Word	Word	_	4	Q	4:Q	_
+6	million	_	Word	Word	_	5	C	5:C	_
+7	and	_	Word	Word	_	9	L	9:L	_
+8	was	_	Word	Word	_	9	F	9:F	_
+9	described	_	Word	Word	_	3	H	3:H	_
+10	in	_	Word	Word	_	12	R	12:R	_
+11	the	_	Word	Word	_	12	F	12:F	_
+12	Sacramento	_	Word	Word	_	9	A	9:A	_
+13	News	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	and	_	Word	Word	_	12	Terminal	12:Terminal	_
+15	Review	_	Word	Word	_	12	Terminal	12:Terminal	_
+16	as	_	Word	Word	_	21	R	21:R	_
+17	Gyllenhaal	_	Word	Word	_	21	A	21:A	_
+18	's	_	Word	Word	_	17	R	17:R	_
+19	"	_	Punctuation	Punctuation	_	21	U	21:U	_
+20	breakout	_	Word	Word	_	21	D	21:D	_
+21	performance	_	Word	Word	_	9	A	9:A	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+23	"	_	Punctuation	Punctuation	_	21	U	21:U	_
+

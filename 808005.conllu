@@ -1,0 +1,35 @@
+# format = ucca
+# sent_id = 808005
+# text = McCartney first met British actress Jane Asher on 18 April 1963 , when a photographer asked them to pose at a Beatles performance at the Royal Albert Hall in London .
+1	McCartney	_	Word	Word	_	3	A	3:A	_
+2	first	_	Word	Word	_	3	D	3:D	_
+3	met	_	Word	Word	_	0	H	0:H	_
+4	British	_	Word	Word	_	5	A	5:A	_
+5	actress	_	Word	Word	_	6	E	6:E	_
+6	Jane	_	Word	Word	_	3	A	3:A	_
+7	Asher	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	on	_	Word	Word	_	9	R	9:R	_
+9	18	_	Word	Word	_	3	T	3:T	_
+10	April	_	Word	Word	_	9	C	9:C	_
+11	1963	_	Word	Word	_	9	C	9:C	_
+12	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+13	when	_	Word	Word	_	16	L	16:L	_
+14	a	_	Word	Word	_	15	E	15:E	_
+15	photographer	_	Word	Word	_	16	A	16:A	_
+16	asked	_	Word	Word	_	3	H	3:H	_
+17	them	_	Word	Word	_	16	A	16:A|19:A	_
+18	to	_	Word	Word	_	19	F	19:F	_
+19	pose	_	Word	Word	_	16	A	16:A	_
+20	at	_	Word	Word	_	23	R	23:R	_
+21	a	_	Word	Word	_	23	F	23:F	_
+22	Beatles	_	Word	Word	_	23	A	23:A	_
+23	performance	_	Word	Word	_	19	A	19:A	_
+24	at	_	Word	Word	_	26	R	26:R	_
+25	the	_	Word	Word	_	26	E	26:E	_
+26	Royal	_	Word	Word	_	23	A	23:A	_
+27	Albert	_	Word	Word	_	26	Terminal	26:Terminal	_
+28	Hall	_	Word	Word	_	26	Terminal	26:Terminal	_
+29	in	_	Word	Word	_	30	R	30:R	_
+30	London	_	Word	Word	_	26	E	26:E	_
+31	.	_	Punctuation	Punctuation	_	30	U	30:U	_
+

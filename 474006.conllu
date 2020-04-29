@@ -1,0 +1,40 @@
+# format = ucca
+# sent_id = 474006
+# text = The Lakers played well initially , winning five of their first six games under Johnson , but after losing the next five games , Johnson announced that he was resigning as coach after the season .
+1	The	_	Word	Word	_	2	F	2:F	_
+2	Lakers	_	Word	Word	_	3	A	3:A|7:A|19:A	_
+3	played	_	Word	Word	_	0	H	0:H	_
+4	well	_	Word	Word	_	3	D	3:D	_
+5	initially	_	Word	Word	_	3	T	3:T	_
+6	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+7	winning	_	Word	Word	_	3	H	3:H	_
+8	five	_	Word	Word	_	13	Q	13:Q	_
+9	of	_	Word	Word	_	12	R	12:R	_
+10	their	_	Word	Word	_	12	E	12:E	_
+11	first	_	Word	Word	_	12	Q	12:Q	_
+12	six	_	Word	Word	_	8	E	8:E	_
+13	games	_	Word	Word	_	7	A	7:A	_
+14	under	_	Word	Word	_	15	R	15:R	_
+15	Johnson	_	Word	Word	_	13	E	13:E	_
+16	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+17	but	_	Word	Word	_	19	L	19:L	_
+18	after	_	Word	Word	_	19	L	19:L	_
+19	losing	_	Word	Word	_	3	H	3:H	_
+20	the	_	Word	Word	_	23	F	23:F	_
+21	next	_	Word	Word	_	23	E	23:E	_
+22	five	_	Word	Word	_	23	Q	23:Q	_
+23	games	_	Word	Word	_	19	A	19:A	_
+24	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+25	Johnson	_	Word	Word	_	26	A	26:A	_
+26	announced	_	Word	Word	_	3	H	3:H	_
+27	that	_	Word	Word	_	30	R	30:R	_
+28	he	_	Word	Word	_	30	A	30:A	_
+29	was	_	Word	Word	_	30	F	30:F	_
+30	resigning	_	Word	Word	_	26	A	26:A	_
+31	as	_	Word	Word	_	32	R	32:R	_
+32	coach	_	Word	Word	_	30	A	30:A	_
+33	after	_	Word	Word	_	35	L	35:L	_
+34	the	_	Word	Word	_	35	F	35:F	_
+35	season	_	Word	Word	_	30	H	30:H	_
+36	.	_	Punctuation	Punctuation	_	35	U	35:U	_
+

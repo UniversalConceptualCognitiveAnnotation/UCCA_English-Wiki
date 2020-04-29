@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 252008
+# text = Subsequently , he is set to star in and direct a new play , Clive by Jonathan Marc Sherman .
+1	Subsequently	_	Word	Word	_	10	L	10:L	_
+2	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+3	he	_	Word	Word	_	7	A	7:A|10:A	_
+4	is	_	Word	Word	_	7	F	7:F	_
+5	set	_	Word	Word	_	7	D	7:D|10:D	_
+6	to	_	Word	Word	_	7	F	7:F	_
+7	star	_	Word	Word	_	0	H	0:H	_
+8	in	_	Word	Word	_	7	R	7:R	_
+9	and	_	Word	Word	_	10	L	10:L	_
+10	direct	_	Word	Word	_	7	H	7:H	_
+11	a	_	Word	Word	_	13	F	13:F	_
+12	new	_	Word	Word	_	13	E	13:E	_
+13	play	_	Word	Word	_	15	E	15:E	_
+14	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+15	Clive	_	Word	Word	_	7	A	7:A|10:A	_
+16	by	_	Word	Word	_	17	R	17:R	_
+17	Jonathan	_	Word	Word	_	15	E	15:E	_
+18	Marc	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	Sherman	_	Word	Word	_	17	Terminal	17:Terminal	_
+20	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+

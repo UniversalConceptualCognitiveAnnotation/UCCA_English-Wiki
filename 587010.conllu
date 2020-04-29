@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 587010
+# text = He returned to Thompson 's work with a film adaptation of the novel The Rum Diary , released in 2011 .
+1	He	_	Word	Word	_	2	A	2:A	_
+2	returned	_	Word	Word	_	0	H	0:H	_
+3	to	_	Word	Word	_	6	R	6:R	_
+4	Thompson	_	Word	Word	_	5	A	5:A	_
+5	's	_	Word	Word	_	6	E	6:E	_
+6	work	_	Word	Word	_	2	A	2:A	_
+7	with	_	Word	Word	_	10	R	10:R	_
+8	a	_	Word	Word	_	10	E	10:E	_
+9	film	_	Word	Word	_	10	E	10:E	_
+10	adaptation	_	Word	Word	_	2	A	2:A	_
+11	of	_	Word	Word	_	14	R	14:R	_
+12	the	_	Word	Word	_	13	E	13:E	_
+13	novel	_	Word	Word	_	14	E	14:E	_
+14	The	_	Word	Word	_	10	E	10:E	_
+15	Rum	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	Diary	_	Word	Word	_	14	Terminal	14:Terminal	_
+17	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+18	released	_	Word	Word	_	10	E	10:E	_
+19	in	_	Word	Word	_	20	R	20:R	_
+20	2011	_	Word	Word	_	18	T	18:T	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+

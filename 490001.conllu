@@ -1,0 +1,44 @@
+# format = ucca
+# sent_id = 490001
+# text = Bana also co - starred with Adam Sandler and Seth Rogen in Judd Apatow 's third directorial feature , about stand - up comics , titled Funny People , marking Bana 's first appearance in an American mainstream comedy .
+1	Bana	_	Word	Word	_	5	A	5:A	_
+2	also	_	Word	Word	_	5	D	5:D	_
+3	co	_	Word	Word	_	5	D	5:D	_
+4	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+5	starred	_	Word	Word	_	0	H	0:H	_
+6	with	_	Word	Word	_	7	R	7:R	_
+7	Adam	_	Word	Word	_	5	A	5:A	_
+8	Sandler	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	and	_	Word	Word	_	7	N	7:N	_
+10	Seth	_	Word	Word	_	7	C	7:C	_
+11	Rogen	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	in	_	Word	Word	_	18	R	18:R	_
+13	Judd	_	Word	Word	_	17	A	17:A	_
+14	Apatow	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	's	_	Word	Word	_	13	R	13:R	_
+16	third	_	Word	Word	_	18	Q	18:Q	_
+17	directorial	_	Word	Word	_	18	E	18:E	_
+18	feature	_	Word	Word	_	5	A	5:A	_
+19	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+20	about	_	Word	Word	_	24	R	24:R	_
+21	stand	_	Word	Word	_	24	E	24:E	_
+22	-	_	Punctuation	Punctuation	_	21	U	21:U	_
+23	up	_	Word	Word	_	21	Terminal	21:Terminal	_
+24	comics	_	Word	Word	_	18	E	18:E	_
+25	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+26	titled	_	Word	Word	_	18	E	18:E	_
+27	Funny	_	Word	Word	_	26	A	26:A|34:A	_
+28	People	_	Word	Word	_	27	Terminal	27:Terminal	_
+29	,	_	Punctuation	Punctuation	_	34	U	34:U	_
+30	marking	_	Word	Word	_	34	D	34:D	_
+31	Bana	_	Word	Word	_	34	A	34:A	_
+32	's	_	Word	Word	_	31	R	31:R	_
+33	first	_	Word	Word	_	34	D	34:D	_
+34	appearance	_	Word	Word	_	5	H	5:H	_
+35	in	_	Word	Word	_	39	R	39:R	_
+36	an	_	Word	Word	_	39	E	39:E	_
+37	American	_	Word	Word	_	39	E	39:E	_
+38	mainstream	_	Word	Word	_	39	E	39:E	_
+39	comedy	_	Word	Word	_	34	A	34:A	_
+40	.	_	Punctuation	Punctuation	_	39	U	39:U	_
+

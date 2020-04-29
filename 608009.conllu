@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 608009
+# text = McCartney ventured into orchestral music in 1991 , when the Royal Liverpool Philharmonic Society commissioned a musical piece by him to celebrate its sesquicentennial .
+1	McCartney	_	Word	Word	_	2	A	2:A	_
+2	ventured	_	Word	Word	_	0	H	0:H	_
+3	into	_	Word	Word	_	5	R	5:R	_
+4	orchestral	_	Word	Word	_	5	E	5:E	_
+5	music	_	Word	Word	_	2	A	2:A	_
+6	in	_	Word	Word	_	7	R	7:R	_
+7	1991	_	Word	Word	_	2	T	2:T	_
+8	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+9	when	_	Word	Word	_	15	L	15:L	_
+10	the	_	Word	Word	_	11	E	11:E	_
+11	Royal	_	Word	Word	_	15	A	15:A|22:A	_
+12	Liverpool	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	Philharmonic	_	Word	Word	_	11	Terminal	11:Terminal	_
+14	Society	_	Word	Word	_	11	Terminal	11:Terminal	_
+15	commissioned	_	Word	Word	_	2	H	2:H	_
+16	a	_	Word	Word	_	18	F	18:F	_
+17	musical	_	Word	Word	_	18	E	18:E	_
+18	piece	_	Word	Word	_	15	A	15:A	_
+19	by	_	Word	Word	_	20	R	20:R	_
+20	him	_	Word	Word	_	18	E	18:E	_
+21	to	_	Word	Word	_	22	L	22:L	_
+22	celebrate	_	Word	Word	_	2	H	2:H	_
+23	its	_	Word	Word	_	24	E	24:E	_
+24	sesquicentennial	_	Word	Word	_	22	A	22:A	_
+25	.	_	Punctuation	Punctuation	_	24	U	24:U	_
+

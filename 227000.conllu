@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 227000
+# text = In 1998 , Chan released his final film for Golden Harvest , Who Am I ? .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1998	_	Word	Word	_	5	T	5:T	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	Chan	_	Word	Word	_	5	A	5:A	_
+5	released	_	Word	Word	_	0	H	0:H	_
+6	his	_	Word	Word	_	8	E	8:E	_
+7	final	_	Word	Word	_	8	E	8:E	_
+8	film	_	Word	Word	_	13	E	13:E	_
+9	for	_	Word	Word	_	10	R	10:R	_
+10	Golden	_	Word	Word	_	8	E	8:E	_
+11	Harvest	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+13	Who	_	Word	Word	_	5	A	5:A	_
+14	Am	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	I	_	Word	Word	_	13	Terminal	13:Terminal	_
+16	?	_	Punctuation	Punctuation	_	13	U	13:U	_
+17	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

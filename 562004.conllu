@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 562004
+# text = In late April , Presley began a two - week residency at the New Frontier Hotel and Casino on the Las Vegas Strip .
+1	In	_	Word	Word	_	3	R	3:R	_
+2	late	_	Word	Word	_	3	E	3:E	_
+3	April	_	Word	Word	_	11	T	11:T	_
+4	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+5	Presley	_	Word	Word	_	11	A	11:A	_
+6	began	_	Word	Word	_	11	D	11:D	_
+7	a	_	Word	Word	_	10	E	10:E	_
+8	two	_	Word	Word	_	10	Q	10:Q	_
+9	-	_	Punctuation	Punctuation	_	10	U	10:U	_
+10	week	_	Word	Word	_	11	T	11:T	_
+11	residency	_	Word	Word	_	0	H	0:H	_
+12	at	_	Word	Word	_	14	R	14:R	_
+13	the	_	Word	Word	_	14	E	14:E	_
+14	New	_	Word	Word	_	11	A	11:A	_
+15	Frontier	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	Hotel	_	Word	Word	_	14	E	14:E	_
+17	and	_	Word	Word	_	16	N	16:N	_
+18	Casino	_	Word	Word	_	16	C	16:C	_
+19	on	_	Word	Word	_	23	R	23:R	_
+20	the	_	Word	Word	_	23	E	23:E	_
+21	Las	_	Word	Word	_	23	E	23:E	_
+22	Vegas	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	Strip	_	Word	Word	_	14	C	14:C	_
+24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

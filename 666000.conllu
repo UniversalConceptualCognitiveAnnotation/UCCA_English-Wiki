@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 666000
+# text = During the spring of 1999 , Carey began working on the final album of her record contract with Sony , her ex - husband 's label .
+1	During	_	Word	Word	_	5	R	5:R	_
+2	the	_	Word	Word	_	3	E	3:E	_
+3	spring	_	Word	Word	_	5	E	5:E	_
+4	of	_	Word	Word	_	3	R	3:R	_
+5	1999	_	Word	Word	_	9	D	9:D	_
+6	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+7	Carey	_	Word	Word	_	9	A	9:A	_
+8	began	_	Word	Word	_	9	D	9:D	_
+9	working	_	Word	Word	_	0	H	0:H	_
+10	on	_	Word	Word	_	13	R	13:R	_
+11	the	_	Word	Word	_	13	E	13:E	_
+12	final	_	Word	Word	_	13	E	13:E	_
+13	album	_	Word	Word	_	9	A	9:A	_
+14	of	_	Word	Word	_	17	R	17:R	_
+15	her	_	Word	Word	_	17	E	17:E	_
+16	record	_	Word	Word	_	17	E	17:E	_
+17	contract	_	Word	Word	_	13	E	13:E	_
+18	with	_	Word	Word	_	19	R	19:R	_
+19	Sony	_	Word	Word	_	17	E	17:E	_
+20	,	_	Punctuation	Punctuation	_	19	U	19:U	_
+21	her	_	Word	Word	_	26	E	26:E	_
+22	ex	_	Word	Word	_	24	E	24:E	_
+23	-	_	Punctuation	Punctuation	_	24	U	24:U	_
+24	husband	_	Word	Word	_	26	E	26:E	_
+25	's	_	Word	Word	_	24	R	24:R	_
+26	label	_	Word	Word	_	19	E	19:E	_
+27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+

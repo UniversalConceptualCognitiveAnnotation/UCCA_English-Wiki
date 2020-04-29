@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 676010
+# text = Carey taped a performance of " Beautiful " along with a medley of her greatest hits on May 15 , 2013 ; the taping aired on the American Idol finale the following day .
+1	Carey	_	Word	Word	_	2	A	2:A	_
+2	taped	_	Word	Word	_	0	H	0:H	_
+3	a	_	Word	Word	_	4	E	4:E	_
+4	performance	_	Word	Word	_	2	A	2:A	_
+5	of	_	Word	Word	_	7	R	7:R	_
+6	"	_	Punctuation	Punctuation	_	7	U	7:U	_
+7	Beautiful	_	Word	Word	_	4	E	4:E	_
+8	"	_	Punctuation	Punctuation	_	4	U	4:U	_
+9	along	_	Word	Word	_	4	N	4:N	_
+10	with	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	a	_	Word	Word	_	12	E	12:E	_
+12	medley	_	Word	Word	_	4	C	4:C	_
+13	of	_	Word	Word	_	16	R	16:R	_
+14	her	_	Word	Word	_	16	E	16:E	_
+15	greatest	_	Word	Word	_	16	E	16:E	_
+16	hits	_	Word	Word	_	12	E	12:E	_
+17	on	_	Word	Word	_	18	R	18:R	_
+18	May	_	Word	Word	_	2	T	2:T	_
+19	15	_	Word	Word	_	18	C	18:C	_
+20	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+21	2013	_	Word	Word	_	18	C	18:C	_
+22	;	_	Punctuation	Punctuation	_	2	U	2:U	_
+23	the	_	Word	Word	_	24	E	24:E	_
+24	taping	_	Word	Word	_	25	A	25:A	_
+25	aired	_	Word	Word	_	2	H	2:H	_
+26	on	_	Word	Word	_	30	R	30:R	_
+27	the	_	Word	Word	_	30	F	30:F	_
+28	American	_	Word	Word	_	30	A	30:A	_
+29	Idol	_	Word	Word	_	28	Terminal	28:Terminal	_
+30	finale	_	Word	Word	_	25	A	25:A	_
+31	the	_	Word	Word	_	33	E	33:E	_
+32	following	_	Word	Word	_	33	E	33:E	_
+33	day	_	Word	Word	_	25	T	25:T	_
+34	.	_	Punctuation	Punctuation	_	33	U	33:U	_
+

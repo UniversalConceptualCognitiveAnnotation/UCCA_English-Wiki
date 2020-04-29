@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 232002
+# text = He has released 20 albums since 1984 and has performed vocals in Cantonese , Mandarin , Japanese , Taiwanese and English .
+1	He	_	Word	Word	_	3	A	3:A|10:A	_
+2	has	_	Word	Word	_	3	F	3:F	_
+3	released	_	Word	Word	_	0	H	0:H	_
+4	20	_	Word	Word	_	5	Q	5:Q	_
+5	albums	_	Word	Word	_	3	A	3:A	_
+6	since	_	Word	Word	_	7	R	7:R	_
+7	1984	_	Word	Word	_	3	T	3:T	_
+8	and	_	Word	Word	_	10	L	10:L	_
+9	has	_	Word	Word	_	10	F	10:F	_
+10	performed	_	Word	Word	_	3	H	3:H	_
+11	vocals	_	Word	Word	_	10	A	10:A	_
+12	in	_	Word	Word	_	13	R	13:R	_
+13	Cantonese	_	Word	Word	_	10	A	10:A	_
+14	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+15	Mandarin	_	Word	Word	_	13	C	13:C	_
+16	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+17	Japanese	_	Word	Word	_	13	C	13:C	_
+18	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+19	Taiwanese	_	Word	Word	_	13	C	13:C	_
+20	and	_	Word	Word	_	13	N	13:N	_
+21	English	_	Word	Word	_	13	C	13:C	_
+22	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

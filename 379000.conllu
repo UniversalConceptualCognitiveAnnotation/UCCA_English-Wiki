@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 379000
+# text = 2005 was a prolific year for Gyllenhaal , who starred in the critically praised films Proof , Jarhead , and Brokeback Mountain .
+1	2005	_	Word	Word	_	4	T	4:T	_
+2	was	_	Word	Word	_	4	F	4:F	_
+3	a	_	Word	Word	_	4	F	4:F	_
+4	prolific	_	Word	Word	_	0	H	0:H	_
+5	year	_	Word	Word	_	1	E	1:E	_
+6	for	_	Word	Word	_	7	R	7:R	_
+7	Gyllenhaal	_	Word	Word	_	4	A	4:A	_
+8	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	who	_	Word	Word	_	10	R	10:R	_
+10	starred	_	Word	Word	_	7	E	7:E	_
+11	in	_	Word	Word	_	16	R	16:R	_
+12	the	_	Word	Word	_	16	F	16:F	_
+13	critically	_	Word	Word	_	14	A	14:A	_
+14	praised	_	Word	Word	_	16	E	16:E	_
+15	films	_	Word	Word	_	14	A	14:A	_
+16	Proof	_	Word	Word	_	10	A	10:A	_
+17	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+18	Jarhead	_	Word	Word	_	16	C	16:C	_
+19	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+20	and	_	Word	Word	_	16	N	16:N	_
+21	Brokeback	_	Word	Word	_	16	C	16:C	_
+22	Mountain	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

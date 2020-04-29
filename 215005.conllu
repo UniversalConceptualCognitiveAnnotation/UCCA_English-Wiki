@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 215005
+# text = She was part of an ensemble cast that included Robin Williams , Bonnie Hunt , and David Alan Grier .
+1	She	_	Word	Word	_	3	A	3:A	_
+2	was	_	Word	Word	_	3	F	3:F	_
+3	part	_	Word	Word	_	0	H	0:H	_
+4	of	_	Word	Word	_	7	R	7:R	_
+5	an	_	Word	Word	_	7	F	7:F	_
+6	ensemble	_	Word	Word	_	7	E	7:E	_
+7	cast	_	Word	Word	_	3	A	3:A	_
+8	that	_	Word	Word	_	9	R	9:R	_
+9	included	_	Word	Word	_	7	E	7:E	_
+10	Robin	_	Word	Word	_	9	A	9:A	_
+11	Williams	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+13	Bonnie	_	Word	Word	_	10	C	10:C	_
+14	Hunt	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+16	and	_	Word	Word	_	10	N	10:N	_
+17	David	_	Word	Word	_	10	C	10:C	_
+18	Alan	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	Grier	_	Word	Word	_	17	Terminal	17:Terminal	_
+20	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+

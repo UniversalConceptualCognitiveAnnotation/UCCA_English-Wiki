@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 539011
+# text = Warner Bros . followed up the success of My Four Years in Germany with a popular serial titled The Tiger 's Claw in 1919 .
+1	Warner	_	Word	Word	_	4	A	4:A	_
+2	Bros	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+4	followed	_	Word	Word	_	0	H	0:H	_
+5	up	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	the	_	Word	Word	_	7	F	7:F	_
+7	success	_	Word	Word	_	4	A	4:A	_
+8	of	_	Word	Word	_	9	R	9:R	_
+9	My	_	Word	Word	_	7	A	7:A	_
+10	Four	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	Years	_	Word	Word	_	9	Terminal	9:Terminal	_
+12	in	_	Word	Word	_	9	Terminal	9:Terminal	_
+13	Germany	_	Word	Word	_	9	Terminal	9:Terminal	_
+14	with	_	Word	Word	_	17	R	17:R	_
+15	a	_	Word	Word	_	17	F	17:F	_
+16	popular	_	Word	Word	_	17	E	17:E	_
+17	serial	_	Word	Word	_	4	A	4:A	_
+18	titled	_	Word	Word	_	17	E	17:E	_
+19	The	_	Word	Word	_	18	A	18:A	_
+20	Tiger	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	's	_	Word	Word	_	19	Terminal	19:Terminal	_
+22	Claw	_	Word	Word	_	19	Terminal	19:Terminal	_
+23	in	_	Word	Word	_	24	R	24:R	_
+24	1919	_	Word	Word	_	4	T	4:T	_
+25	.	_	Punctuation	Punctuation	_	24	U	24:U	_
+

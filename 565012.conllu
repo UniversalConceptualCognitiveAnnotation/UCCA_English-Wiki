@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 565012
+# text = The movie was panned by the critics but did very well at the box office .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	movie	_	Word	Word	_	0	C	0:C|11:A	_
+3	was	_	Word	Word	_	4	F	4:F	_
+4	panned	_	Word	Word	_	0	H	0:H	_
+5	by	_	Word	Word	_	7	R	7:R	_
+6	the	_	Word	Word	_	7	E	7:E	_
+7	critics	_	Word	Word	_	4	A	4:A	_
+8	but	_	Word	Word	_	11	L	11:L	_
+9	did	_	Word	Word	_	11	F	11:F	_
+10	very	_	Word	Word	_	11	D	11:D	_
+11	well	_	Word	Word	_	4	H	4:H	_
+12	at	_	Word	Word	_	14	E	14:E	_
+13	the	_	Word	Word	_	14	E	14:E	_
+14	box	_	Word	Word	_	11	A	11:A	_
+15	office	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

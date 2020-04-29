@@ -1,0 +1,44 @@
+# format = ucca
+# sent_id = 944011
+# text = Stefani 's decision to use her solo career as an opportunity to delve further into pop music instead of trying " to convince the world of [ her ] talent , depth and artistic worth " was considered unusual .
+1	Stefani	_	Word	Word	_	3	A	3:A	_
+2	's	_	Word	Word	_	1	R	1:R	_
+3	decision	_	Word	Word	_	38	A	38:A	_
+4	to	_	Word	Word	_	5	F	5:F	_
+5	use	_	Word	Word	_	3	A	3:A	_
+6	her	_	Word	Word	_	8	A	8:A	_
+7	solo	_	Word	Word	_	8	D	8:D	_
+8	career	_	Word	Word	_	5	A	5:A	_
+9	as	_	Word	Word	_	13	R	13:R	_
+10	an	_	Word	Word	_	11	E	11:E	_
+11	opportunity	_	Word	Word	_	13	D	13:D	_
+12	to	_	Word	Word	_	13	F	13:F	_
+13	delve	_	Word	Word	_	5	A	5:A	_
+14	further	_	Word	Word	_	13	D	13:D	_
+15	into	_	Word	Word	_	17	R	17:R	_
+16	pop	_	Word	Word	_	17	E	17:E	_
+17	music	_	Word	Word	_	13	A	13:A	_
+18	instead	_	Word	Word	_	23	L	23:L	_
+19	of	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	trying	_	Word	Word	_	23	D	23:D	_
+21	"	_	Punctuation	Punctuation	_	23	U	23:U	_
+22	to	_	Word	Word	_	23	F	23:F	_
+23	convince	_	Word	Word	_	13	H	13:H	_
+24	the	_	Word	Word	_	25	E	25:E	_
+25	world	_	Word	Word	_	23	A	23:A	_
+26	of	_	Word	Word	_	35	R	35:R	_
+27	[	_	Punctuation	Punctuation	_	35	U	35:U	_
+28	her	_	Word	Word	_	30	A	30:A|32:A|35:A	_
+29	]	_	Punctuation	Punctuation	_	30	U	30:U	_
+30	talent	_	Word	Word	_	35	H	35:H	_
+31	,	_	Punctuation	Punctuation	_	35	U	35:U	_
+32	depth	_	Word	Word	_	35	H	35:H	_
+33	and	_	Word	Word	_	35	L	35:L	_
+34	artistic	_	Word	Word	_	35	A	35:A	_
+35	worth	_	Word	Word	_	23	A	23:A	_
+36	"	_	Punctuation	Punctuation	_	38	U	38:U	_
+37	was	_	Word	Word	_	38	F	38:F	_
+38	considered	_	Word	Word	_	0	H	0:H	_
+39	unusual	_	Word	Word	_	38	A	38:A	_
+40	.	_	Punctuation	Punctuation	_	38	U	38:U	_
+

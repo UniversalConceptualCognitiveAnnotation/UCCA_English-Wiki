@@ -1,0 +1,36 @@
+# format = ucca
+# sent_id = 708011
+# text = Despite Orbison 's death in December 1988 , the remaining four recorded a second album in May 1990 , which they released with the unexpected title Traveling Wilburys Vol . 3 .
+1	Despite	_	Word	Word	_	12	L	12:L	_
+2	Orbison	_	Word	Word	_	4	A	4:A	_
+3	's	_	Word	Word	_	2	R	2:R	_
+4	death	_	Word	Word	_	0	H	0:H	_
+5	in	_	Word	Word	_	6	R	6:R	_
+6	December	_	Word	Word	_	4	T	4:T	_
+7	1988	_	Word	Word	_	6	C	6:C	_
+8	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+9	the	_	Word	Word	_	11	E	11:E	_
+10	remaining	_	Word	Word	_	11	E	11:E	_
+11	four	_	Word	Word	_	12	A	12:A	_
+12	recorded	_	Word	Word	_	4	H	4:H	_
+13	a	_	Word	Word	_	15	E	15:E	_
+14	second	_	Word	Word	_	15	Q	15:Q	_
+15	album	_	Word	Word	_	12	A	12:A	_
+16	in	_	Word	Word	_	17	R	17:R	_
+17	May	_	Word	Word	_	12	T	12:T	_
+18	1990	_	Word	Word	_	17	C	17:C	_
+19	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+20	which	_	Word	Word	_	22	R	22:R	_
+21	they	_	Word	Word	_	22	A	22:A	_
+22	released	_	Word	Word	_	15	E	15:E	_
+23	with	_	Word	Word	_	27	R	27:R	_
+24	the	_	Word	Word	_	26	E	26:E	_
+25	unexpected	_	Word	Word	_	26	E	26:E	_
+26	title	_	Word	Word	_	27	E	27:E	_
+27	Traveling	_	Word	Word	_	22	A	22:A	_
+28	Wilburys	_	Word	Word	_	27	Terminal	27:Terminal	_
+29	Vol	_	Word	Word	_	27	Terminal	27:Terminal	_
+30	.	_	Punctuation	Punctuation	_	27	U	27:U	_
+31	3	_	Word	Word	_	27	Terminal	27:Terminal	_
+32	.	_	Punctuation	Punctuation	_	27	U	27:U	_
+

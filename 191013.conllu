@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 191013
+# text = Sorkin collaborated with Warren Beatty on a couple of scripts , one of which was Bulworth .
+1	Sorkin	_	Word	Word	_	2	A	2:A	_
+2	collaborated	_	Word	Word	_	0	H	0:H	_
+3	with	_	Word	Word	_	4	R	4:R	_
+4	Warren	_	Word	Word	_	2	A	2:A	_
+5	Beatty	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	on	_	Word	Word	_	10	R	10:R	_
+7	a	_	Word	Word	_	8	E	8:E	_
+8	couple	_	Word	Word	_	10	Q	10:Q	_
+9	of	_	Word	Word	_	10	F	10:F	_
+10	scripts	_	Word	Word	_	2	A	2:A	_
+11	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	one	_	Word	Word	_	15	A	15:A	_
+13	of	_	Word	Word	_	15	F	15:F	_
+14	which	_	Word	Word	_	15	F	15:F	_
+15	was	_	Word	Word	_	10	E	10:E	_
+16	Bulworth	_	Word	Word	_	15	A	15:A	_
+17	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

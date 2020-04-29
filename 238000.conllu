@@ -1,0 +1,50 @@
+# format = ucca
+# sent_id = 238000
+# text = In April 2008 , Jackie Chan was invited for the audio launch of an Indian film , entitled Dasavathaaram ( 2008 ) in Chennai ( Madras ) , where he shared the dais with Indian celebrities , including Amitabh Bachchan , Mammootty and Kamal Hassan .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	April	_	Word	Word	_	8	T	8:T	_
+3	2008	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+5	Jackie	_	Word	Word	_	8	A	8:A	_
+6	Chan	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	was	_	Word	Word	_	8	F	8:F	_
+8	invited	_	Word	Word	_	0	H	0:H	_
+9	for	_	Word	Word	_	12	R	12:R	_
+10	the	_	Word	Word	_	12	F	12:F	_
+11	audio	_	Word	Word	_	12	A	12:A	_
+12	launch	_	Word	Word	_	8	A	8:A	_
+13	of	_	Word	Word	_	16	R	16:R	_
+14	an	_	Word	Word	_	16	F	16:F	_
+15	Indian	_	Word	Word	_	16	E	16:E	_
+16	film	_	Word	Word	_	12	A	12:A	_
+17	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+18	entitled	_	Word	Word	_	16	E	16:E	_
+19	Dasavathaaram	_	Word	Word	_	18	A	18:A	_
+20	(	_	Punctuation	Punctuation	_	16	U	16:U	_
+21	2008	_	Word	Word	_	16	E	16:E	_
+22	)	_	Punctuation	Punctuation	_	12	U	12:U	_
+23	in	_	Word	Word	_	24	R	24:R	_
+24	Chennai	_	Word	Word	_	12	A	12:A	_
+25	(	_	Punctuation	Punctuation	_	24	U	24:U	_
+26	Madras	_	Word	Word	_	24	C	24:C	_
+27	)	_	Punctuation	Punctuation	_	8	U	8:U	_
+28	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+29	where	_	Word	Word	_	31	L	31:L	_
+30	he	_	Word	Word	_	31	A	31:A	_
+31	shared	_	Word	Word	_	8	H	8:H	_
+32	the	_	Word	Word	_	33	F	33:F	_
+33	dais	_	Word	Word	_	31	A	31:A	_
+34	with	_	Word	Word	_	36	R	36:R	_
+35	Indian	_	Word	Word	_	36	E	36:E	_
+36	celebrities	_	Word	Word	_	31	A	31:A	_
+37	,	_	Punctuation	Punctuation	_	36	U	36:U	_
+38	including	_	Word	Word	_	39	R	39:R	_
+39	Amitabh	_	Word	Word	_	36	E	36:E	_
+40	Bachchan	_	Word	Word	_	39	Terminal	39:Terminal	_
+41	,	_	Punctuation	Punctuation	_	39	U	39:U	_
+42	Mammootty	_	Word	Word	_	39	C	39:C	_
+43	and	_	Word	Word	_	39	N	39:N	_
+44	Kamal	_	Word	Word	_	39	C	39:C	_
+45	Hassan	_	Word	Word	_	44	Terminal	44:Terminal	_
+46	.	_	Punctuation	Punctuation	_	39	U	39:U	_
+

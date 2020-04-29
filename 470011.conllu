@@ -1,0 +1,50 @@
+# format = ucca
+# sent_id = 470011
+# text = However , Abdul - Jabbar , who was now 38 years old , scored 30 points and grabbed 17 rebounds in Game 2 , and his 36 points in a Game 5 win were instrumental in establishing a 3 - 2 lead for Los Angeles .
+1	However	_	Word	Word	_	18	L	18:L	_
+2	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+3	Abdul	_	Word	Word	_	0	C	0:C|12:A|18:A	_
+4	-	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	Jabbar	_	Word	Word	_	3	Terminal	3:Terminal	_
+6	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+7	who	_	Word	Word	_	12	R	12:R	_
+8	was	_	Word	Word	_	12	F	12:F	_
+9	now	_	Word	Word	_	12	T	12:T	_
+10	38	_	Word	Word	_	11	Q	11:Q	_
+11	years	_	Word	Word	_	12	T	12:T	_
+12	old	_	Word	Word	_	3	E	3:E	_
+13	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+14	scored	_	Word	Word	_	0	H	0:H	_
+15	30	_	Word	Word	_	16	Q	16:Q	_
+16	points	_	Word	Word	_	14	A	14:A	_
+17	and	_	Word	Word	_	18	L	18:L	_
+18	grabbed	_	Word	Word	_	14	H	14:H	_
+19	17	_	Word	Word	_	20	E	20:E	_
+20	rebounds	_	Word	Word	_	18	A	18:A	_
+21	in	_	Word	Word	_	22	R	22:R	_
+22	Game	_	Word	Word	_	18	A	18:A	_
+23	2	_	Word	Word	_	22	Q	22:Q	_
+24	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+25	and	_	Word	Word	_	37	L	37:L	_
+26	his	_	Word	Word	_	28	E	28:E	_
+27	36	_	Word	Word	_	28	Q	28:Q	_
+28	points	_	Word	Word	_	33	A	33:A	_
+29	in	_	Word	Word	_	31	R	31:R	_
+30	a	_	Word	Word	_	31	E	31:E	_
+31	Game	_	Word	Word	_	33	A	33:A	_
+32	5	_	Word	Word	_	31	Q	31:Q	_
+33	win	_	Word	Word	_	37	A	37:A	_
+34	were	_	Word	Word	_	37	F	37:F	_
+35	instrumental	_	Word	Word	_	37	D	37:D	_
+36	in	_	Word	Word	_	37	R	37:R	_
+37	establishing	_	Word	Word	_	14	H	14:H	_
+38	a	_	Word	Word	_	42	E	42:E	_
+39	3	_	Word	Word	_	42	D	42:D	_
+40	-	_	Punctuation	Punctuation	_	39	U	39:U	_
+41	2	_	Word	Word	_	39	C	39:C	_
+42	lead	_	Word	Word	_	37	A	37:A	_
+43	for	_	Word	Word	_	44	R	44:R	_
+44	Los	_	Word	Word	_	42	A	42:A	_
+45	Angeles	_	Word	Word	_	44	Terminal	44:Terminal	_
+46	.	_	Punctuation	Punctuation	_	44	U	44:U	_
+

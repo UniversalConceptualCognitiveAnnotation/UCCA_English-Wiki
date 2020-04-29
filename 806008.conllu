@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 806008
+# text = Following McCartney 's marriage to Mills , he joined her in a campaign against landmines , becoming a patron of Adopt - A - Minefield .
+1	Following	_	Word	Word	_	9	L	9:L	_
+2	McCartney	_	Word	Word	_	4	A	4:A	_
+3	's	_	Word	Word	_	2	R	2:R	_
+4	marriage	_	Word	Word	_	0	H	0:H	_
+5	to	_	Word	Word	_	6	R	6:R	_
+6	Mills	_	Word	Word	_	4	A	4:A	_
+7	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+8	he	_	Word	Word	_	9	A	9:A|19:A	_
+9	joined	_	Word	Word	_	4	H	4:H	_
+10	her	_	Word	Word	_	9	A	9:A	_
+11	in	_	Word	Word	_	13	R	13:R	_
+12	a	_	Word	Word	_	13	F	13:F	_
+13	campaign	_	Word	Word	_	9	A	9:A	_
+14	against	_	Word	Word	_	15	R	15:R	_
+15	landmines	_	Word	Word	_	13	A	13:A	_
+16	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+17	becoming	_	Word	Word	_	19	D	19:D	_
+18	a	_	Word	Word	_	19	E	19:E	_
+19	patron	_	Word	Word	_	4	H	4:H	_
+20	of	_	Word	Word	_	21	R	21:R	_
+21	Adopt	_	Word	Word	_	19	A	19:A	_
+22	-	_	Punctuation	Punctuation	_	21	U	21:U	_
+23	A	_	Word	Word	_	21	Terminal	21:Terminal	_
+24	-	_	Punctuation	Punctuation	_	21	U	21:U	_
+25	Minefield	_	Word	Word	_	21	Terminal	21:Terminal	_
+26	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

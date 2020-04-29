@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 565008
+# text = After the performance , crowds in Nashville and St . Louis burned him in effigy .
+1	After	_	Word	Word	_	12	L	12:L	_
+2	the	_	Word	Word	_	3	E	3:E	_
+3	performance	_	Word	Word	_	0	H	0:H	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	crowds	_	Word	Word	_	12	A	12:A	_
+6	in	_	Word	Word	_	7	R	7:R	_
+7	Nashville	_	Word	Word	_	5	E	5:E	_
+8	and	_	Word	Word	_	7	N	7:N	_
+9	St	_	Word	Word	_	7	C	7:C	_
+10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+11	Louis	_	Word	Word	_	9	Terminal	9:Terminal	_
+12	burned	_	Word	Word	_	3	H	3:H	_
+13	him	_	Word	Word	_	12	A	12:A	_
+14	in	_	Word	Word	_	15	R	15:R	_
+15	effigy	_	Word	Word	_	12	A	12:A	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

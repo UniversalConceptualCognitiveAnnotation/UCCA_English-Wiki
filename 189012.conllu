@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 189012
+# text = Rob Reiner , a producing partner at Castle Rock , opted to direct it .
+1	Rob	_	Word	Word	_	11	A	11:A	_
+2	Reiner	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+4	a	_	Word	Word	_	6	F	6:F	_
+5	producing	_	Word	Word	_	6	A	6:A	_
+6	partner	_	Word	Word	_	1	E	1:E	_
+7	at	_	Word	Word	_	8	R	8:R	_
+8	Castle	_	Word	Word	_	6	A	6:A	_
+9	Rock	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+11	opted	_	Word	Word	_	0	H	0:H	_
+12	to	_	Word	Word	_	13	R	13:R	_
+13	direct	_	Word	Word	_	11	A	11:A	_
+14	it	_	Word	Word	_	13	A	13:A	_
+15	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

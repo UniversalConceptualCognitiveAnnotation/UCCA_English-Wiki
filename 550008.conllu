@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 550008
+# text = When he attempted to report for work , studio guards denied him entry .
+1	When	_	Word	Word	_	11	L	11:L	_
+2	he	_	Word	Word	_	5	A	5:A	_
+3	attempted	_	Word	Word	_	5	D	5:D	_
+4	to	_	Word	Word	_	5	F	5:F	_
+5	report	_	Word	Word	_	0	H	0:H	_
+6	for	_	Word	Word	_	7	R	7:R	_
+7	work	_	Word	Word	_	5	A	5:A	_
+8	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+9	studio	_	Word	Word	_	11	A	11:A	_
+10	guards	_	Word	Word	_	9	A	9:A	_
+11	denied	_	Word	Word	_	5	H	5:H	_
+12	him	_	Word	Word	_	11	A	11:A|13:A	_
+13	entry	_	Word	Word	_	11	A	11:A	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

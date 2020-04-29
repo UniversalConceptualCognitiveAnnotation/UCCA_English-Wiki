@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 730005
+# text = Sarajevo 's regional government named Jolie an honorary citizen of the capital for raising awareness of the war .
+1	Sarajevo	_	Word	Word	_	2	A	2:A	_
+2	's	_	Word	Word	_	4	E	4:E	_
+3	regional	_	Word	Word	_	4	E	4:E	_
+4	government	_	Word	Word	_	5	A	5:A	_
+5	named	_	Word	Word	_	0	H	0:H	_
+6	Jolie	_	Word	Word	_	5	A	5:A|15:A	_
+7	an	_	Word	Word	_	9	F	9:F	_
+8	honorary	_	Word	Word	_	9	D	9:D	_
+9	citizen	_	Word	Word	_	5	A	5:A	_
+10	of	_	Word	Word	_	12	R	12:R	_
+11	the	_	Word	Word	_	12	E	12:E	_
+12	capital	_	Word	Word	_	9	A	9:A	_
+13	for	_	Word	Word	_	15	L	15:L	_
+14	raising	_	Word	Word	_	15	D	15:D	_
+15	awareness	_	Word	Word	_	5	H	5:H	_
+16	of	_	Word	Word	_	18	R	18:R	_
+17	the	_	Word	Word	_	18	E	18:E	_
+18	war	_	Word	Word	_	15	A	15:A	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

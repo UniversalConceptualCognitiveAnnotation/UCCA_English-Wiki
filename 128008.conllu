@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 128008
+# text = Despite this , Harris moved the play to New York without further rehearsal .
+1	Despite	_	Word	Word	_	13	L	13:L	_
+2	this	_	Word	Word	_	1	F	1:F	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	Harris	_	Word	Word	_	5	A	5:A	_
+5	moved	_	Word	Word	_	0	H	0:H	_
+6	the	_	Word	Word	_	7	E	7:E	_
+7	play	_	Word	Word	_	5	A	5:A	_
+8	to	_	Word	Word	_	9	R	9:R	_
+9	New	_	Word	Word	_	5	A	5:A	_
+10	York	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	without	_	Word	Word	_	13	L	13:L	_
+12	further	_	Word	Word	_	13	D	13:D	_
+13	rehearsal	_	Word	Word	_	5	H	5:H	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

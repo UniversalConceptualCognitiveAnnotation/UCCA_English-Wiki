@@ -1,0 +1,36 @@
+# format = ucca
+# sent_id = 186008
+# text = Before he reached his teenage years , his parents were taking him to the theatre to see shows such as Who 's Afraid of Virginia Woolf ? and That Championship Season .
+1	Before	_	Word	Word	_	11	L	11:L	_
+2	he	_	Word	Word	_	3	A	3:A	_
+3	reached	_	Word	Word	_	0	H	0:H	_
+4	his	_	Word	Word	_	6	E	6:E	_
+5	teenage	_	Word	Word	_	6	E	6:E	_
+6	years	_	Word	Word	_	3	A	3:A	_
+7	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+8	his	_	Word	Word	_	9	A	9:A	_
+9	parents	_	Word	Word	_	0	S	0:S|17:A	_
+10	were	_	Word	Word	_	11	F	11:F	_
+11	taking	_	Word	Word	_	3	H	3:H	_
+12	him	_	Word	Word	_	11	A	11:A|17:A	_
+13	to	_	Word	Word	_	15	R	15:R	_
+14	the	_	Word	Word	_	15	E	15:E	_
+15	theatre	_	Word	Word	_	11	A	11:A	_
+16	to	_	Word	Word	_	17	L	17:L	_
+17	see	_	Word	Word	_	3	H	3:H	_
+18	shows	_	Word	Word	_	17	A	17:A	_
+19	such	_	Word	Word	_	21	R	21:R	_
+20	as	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	Who	_	Word	Word	_	18	E	18:E	_
+22	's	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	Afraid	_	Word	Word	_	21	Terminal	21:Terminal	_
+24	of	_	Word	Word	_	21	Terminal	21:Terminal	_
+25	Virginia	_	Word	Word	_	21	Terminal	21:Terminal	_
+26	Woolf	_	Word	Word	_	21	Terminal	21:Terminal	_
+27	?	_	Punctuation	Punctuation	_	21	U	21:U	_
+28	and	_	Word	Word	_	21	N	21:N	_
+29	That	_	Word	Word	_	21	C	21:C	_
+30	Championship	_	Word	Word	_	29	Terminal	29:Terminal	_
+31	Season	_	Word	Word	_	29	Terminal	29:Terminal	_
+32	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

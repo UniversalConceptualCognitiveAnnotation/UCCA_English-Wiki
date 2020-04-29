@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 222003
+# text = Jackie Chan has been acting since the 1960s and has appeared in over 150 films .
+1	Jackie	_	Word	Word	_	5	A	5:A|11:A	_
+2	Chan	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	has	_	Word	Word	_	5	F	5:F	_
+4	been	_	Word	Word	_	5	F	5:F	_
+5	acting	_	Word	Word	_	0	H	0:H	_
+6	since	_	Word	Word	_	8	R	8:R	_
+7	the	_	Word	Word	_	8	F	8:F	_
+8	1960s	_	Word	Word	_	5	T	5:T	_
+9	and	_	Word	Word	_	11	L	11:L	_
+10	has	_	Word	Word	_	11	F	11:F	_
+11	appeared	_	Word	Word	_	5	H	5:H	_
+12	in	_	Word	Word	_	15	R	15:R	_
+13	over	_	Word	Word	_	14	R	14:R	_
+14	150	_	Word	Word	_	15	Q	15:Q	_
+15	films	_	Word	Word	_	11	A	11:A	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

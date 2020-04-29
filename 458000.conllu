@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 458000
+# text = During the mid - 1990s , television critics praised Jennings for his insistence on not letting the O . J . Simpson murder case swamp the newscast . [
+1	During	_	Word	Word	_	5	R	5:R	_
+2	the	_	Word	Word	_	5	E	5:E	_
+3	mid	_	Word	Word	_	5	E	5:E	_
+4	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+5	1990s	_	Word	Word	_	9	T	9:T	_
+6	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+7	television	_	Word	Word	_	8	E	8:E	_
+8	critics	_	Word	Word	_	9	A	9:A	_
+9	praised	_	Word	Word	_	0	H	0:H	_
+10	Jennings	_	Word	Word	_	9	A	9:A	_
+11	for	_	Word	Word	_	13	R	13:R	_
+12	his	_	Word	Word	_	13	A	13:A	_
+13	insistence	_	Word	Word	_	9	A	9:A	_
+14	on	_	Word	Word	_	13	F	13:F	_
+15	not	_	Word	Word	_	13	D	13:D	_
+16	letting	_	Word	Word	_	13	D	13:D	_
+17	the	_	Word	Word	_	24	E	24:E	_
+18	O	_	Word	Word	_	24	E	24:E	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+20	J	_	Word	Word	_	18	Terminal	18:Terminal	_
+21	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+22	Simpson	_	Word	Word	_	18	Terminal	18:Terminal	_
+23	murder	_	Word	Word	_	24	E	24:E	_
+24	case	_	Word	Word	_	25	A	25:A	_
+25	swamp	_	Word	Word	_	13	A	13:A	_
+26	the	_	Word	Word	_	27	E	27:E	_
+27	newscast	_	Word	Word	_	25	A	25:A	_
+28	.	_	Punctuation	Punctuation	_	27	U	27:U	_
+29	[	_	Punctuation	Punctuation	_	27	U	27:U	_
+

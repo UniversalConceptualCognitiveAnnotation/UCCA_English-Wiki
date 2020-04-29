@@ -1,0 +1,47 @@
+# format = ucca
+# sent_id = 473007
+# text = During his retirement , Johnson has written a book on safer sex , run several businesses , worked for NBC as a commentator , and toured Asia , Australia and New Zealand with a basketball team of former college and NBA players .
+1	During	_	Word	Word	_	7	L	7:L	_
+2	his	_	Word	Word	_	3	A	3:A	_
+3	retirement	_	Word	Word	_	0	H	0:H	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	Johnson	_	Word	Word	_	7	A	7:A|14:A|23:A|26:A	_
+6	has	_	Word	Word	_	7	F	7:F	_
+7	written	_	Word	Word	_	3	H	3:H	_
+8	a	_	Word	Word	_	9	F	9:F	_
+9	book	_	Word	Word	_	7	A	7:A	_
+10	on	_	Word	Word	_	12	R	12:R	_
+11	safer	_	Word	Word	_	12	E	12:E	_
+12	sex	_	Word	Word	_	9	E	9:E	_
+13	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+14	run	_	Word	Word	_	3	H	3:H	_
+15	several	_	Word	Word	_	16	Q	16:Q	_
+16	businesses	_	Word	Word	_	14	A	14:A	_
+17	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+18	worked	_	Word	Word	_	23	D	23:D	_
+19	for	_	Word	Word	_	20	R	20:R	_
+20	NBC	_	Word	Word	_	23	A	23:A	_
+21	as	_	Word	Word	_	23	R	23:R	_
+22	a	_	Word	Word	_	23	F	23:F	_
+23	commentator	_	Word	Word	_	3	H	3:H	_
+24	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+25	and	_	Word	Word	_	26	L	26:L	_
+26	toured	_	Word	Word	_	3	H	3:H	_
+27	Asia	_	Word	Word	_	26	A	26:A	_
+28	,	_	Punctuation	Punctuation	_	27	U	27:U	_
+29	Australia	_	Word	Word	_	27	C	27:C	_
+30	and	_	Word	Word	_	27	N	27:N	_
+31	New	_	Word	Word	_	27	C	27:C	_
+32	Zealand	_	Word	Word	_	31	Terminal	31:Terminal	_
+33	with	_	Word	Word	_	36	R	36:R	_
+34	a	_	Word	Word	_	36	F	36:F	_
+35	basketball	_	Word	Word	_	36	E	36:E	_
+36	team	_	Word	Word	_	26	A	26:A	_
+37	of	_	Word	Word	_	42	R	42:R	_
+38	former	_	Word	Word	_	42	E	42:E	_
+39	college	_	Word	Word	_	42	E	42:E	_
+40	and	_	Word	Word	_	39	N	39:N	_
+41	NBA	_	Word	Word	_	39	C	39:C	_
+42	players	_	Word	Word	_	36	E	36:E	_
+43	.	_	Punctuation	Punctuation	_	42	U	42:U	_
+

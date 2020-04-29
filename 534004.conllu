@@ -1,0 +1,39 @@
+# format = ucca
+# sent_id = 534004
+# text = These include " Over the Rainbow " , which was ranked as the number one movie song of all time in the American Film Institute 's " 100 Years ... 100 Songs " list .
+1	These	_	Word	Word	_	2	A	2:A	_
+2	include	_	Word	Word	_	0	H	0:H	_
+3	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	Over	_	Word	Word	_	2	A	2:A	_
+5	the	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	Rainbow	_	Word	Word	_	4	Terminal	4:Terminal	_
+7	"	_	Punctuation	Punctuation	_	4	U	4:U	_
+8	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+9	which	_	Word	Word	_	11	R	11:R	_
+10	was	_	Word	Word	_	11	F	11:F	_
+11	ranked	_	Word	Word	_	4	E	4:E	_
+12	as	_	Word	Word	_	17	R	17:R	_
+13	the	_	Word	Word	_	17	F	17:F	_
+14	number	_	Word	Word	_	17	E	17:E	_
+15	one	_	Word	Word	_	14	Q	14:Q	_
+16	movie	_	Word	Word	_	17	E	17:E	_
+17	song	_	Word	Word	_	11	A	11:A	_
+18	of	_	Word	Word	_	20	R	20:R	_
+19	all	_	Word	Word	_	20	E	20:E	_
+20	time	_	Word	Word	_	17	E	17:E	_
+21	in	_	Word	Word	_	28	R	28:R	_
+22	the	_	Word	Word	_	28	F	28:F	_
+23	American	_	Word	Word	_	25	E	25:E	_
+24	Film	_	Word	Word	_	25	E	25:E	_
+25	Institute	_	Word	Word	_	26	A	26:A	_
+26	's	_	Word	Word	_	28	E	28:E	_
+27	"	_	Punctuation	Punctuation	_	26	U	26:U	_
+28	100	_	Word	Word	_	11	A	11:A	_
+29	Years	_	Word	Word	_	28	Terminal	28:Terminal	_
+30	...	_	Punctuation	Punctuation	_	28	U	28:U	_
+31	100	_	Word	Word	_	28	Terminal	28:Terminal	_
+32	Songs	_	Word	Word	_	28	Terminal	28:Terminal	_
+33	"	_	Punctuation	Punctuation	_	28	U	28:U	_
+34	list	_	Word	Word	_	28	E	28:E	_
+35	.	_	Punctuation	Punctuation	_	28	U	28:U	_
+

@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 493007
+# text = The family lived at 40 Stansfield Road , located near the border of the south London areas of Brixton and Stockwell .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	family	_	Word	Word	_	3	A	3:A	_
+3	lived	_	Word	Word	_	0	H	0:H	_
+4	at	_	Word	Word	_	5	R	5:R	_
+5	40	_	Word	Word	_	3	A	3:A	_
+6	Stansfield	_	Word	Word	_	5	C	5:C	_
+7	Road	_	Word	Word	_	5	C	5:C|9:A	_
+8	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+9	located	_	Word	Word	_	5	E	5:E	_
+10	near	_	Word	Word	_	19	R	19:R	_
+11	the	_	Word	Word	_	12	E	12:E	_
+12	border	_	Word	Word	_	19	E	19:E	_
+13	of	_	Word	Word	_	17	R	17:R	_
+14	the	_	Word	Word	_	17	E	17:E	_
+15	south	_	Word	Word	_	17	E	17:E	_
+16	London	_	Word	Word	_	17	E	17:E	_
+17	areas	_	Word	Word	_	19	E	19:E	_
+18	of	_	Word	Word	_	19	R	19:R	_
+19	Brixton	_	Word	Word	_	9	A	9:A	_
+20	and	_	Word	Word	_	19	N	19:N	_
+21	Stockwell	_	Word	Word	_	19	C	19:C	_
+22	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

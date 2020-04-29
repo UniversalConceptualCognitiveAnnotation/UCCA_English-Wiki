@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 563008
+# text = Presley sang " Hound Dog " for less than a minute to a basset hound wearing a top hat and bow tie .
+1	Presley	_	Word	Word	_	2	A	2:A	_
+2	sang	_	Word	Word	_	0	H	0:H	_
+3	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	Hound	_	Word	Word	_	2	A	2:A	_
+5	Dog	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+7	for	_	Word	Word	_	11	R	11:R	_
+8	less	_	Word	Word	_	11	E	11:E	_
+9	than	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	a	_	Word	Word	_	11	E	11:E	_
+11	minute	_	Word	Word	_	2	T	2:T	_
+12	to	_	Word	Word	_	15	R	15:R	_
+13	a	_	Word	Word	_	15	E	15:E	_
+14	basset	_	Word	Word	_	15	E	15:E	_
+15	hound	_	Word	Word	_	2	A	2:A	_
+16	wearing	_	Word	Word	_	15	E	15:E	_
+17	a	_	Word	Word	_	18	E	18:E	_
+18	top	_	Word	Word	_	16	A	16:A	_
+19	hat	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	and	_	Word	Word	_	18	N	18:N	_
+21	bow	_	Word	Word	_	18	C	18:C	_
+22	tie	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

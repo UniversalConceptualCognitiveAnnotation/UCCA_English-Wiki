@@ -1,0 +1,43 @@
+# format = ucca
+# sent_id = 377005
+# text = Gyllenhaal appeared in the 1993 film A Dangerous Woman ( along with sister Maggie ) ; in " Bop Gun " a 1994 episode of Homicide : Life on the Street ; and in the 1998 comedy Homegrown .
+1	Gyllenhaal	_	Word	Word	_	2	A	2:A|7:A|13:A	_
+2	appeared	_	Word	Word	_	0	H	0:H	_
+3	in	_	Word	Word	_	7	R	7:R	_
+4	the	_	Word	Word	_	7	F	7:F	_
+5	1993	_	Word	Word	_	7	E	7:E	_
+6	film	_	Word	Word	_	7	E	7:E	_
+7	A	_	Word	Word	_	2	H	2:H	_
+8	Dangerous	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	Woman	_	Word	Word	_	7	Terminal	7:Terminal	_
+10	(	_	Punctuation	Punctuation	_	7	U	7:U	_
+11	along	_	Word	Word	_	14	R	14:R	_
+12	with	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	sister	_	Word	Word	_	14	E	14:E	_
+14	Maggie	_	Word	Word	_	7	A	7:A	_
+15	)	_	Punctuation	Punctuation	_	2	U	2:U	_
+16	;	_	Punctuation	Punctuation	_	2	U	2:U	_
+17	in	_	Word	Word	_	19	R	19:R	_
+18	"	_	Punctuation	Punctuation	_	19	U	19:U	_
+19	Bop	_	Word	Word	_	2	A	2:A	_
+20	Gun	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	"	_	Punctuation	Punctuation	_	19	U	19:U	_
+22	a	_	Word	Word	_	26	F	26:F	_
+23	1994	_	Word	Word	_	24	E	24:E	_
+24	episode	_	Word	Word	_	26	E	26:E	_
+25	of	_	Word	Word	_	26	R	26:R	_
+26	Homicide	_	Word	Word	_	19	E	19:E	_
+27	:	_	Punctuation	Punctuation	_	26	U	26:U	_
+28	Life	_	Word	Word	_	26	Terminal	26:Terminal	_
+29	on	_	Word	Word	_	26	Terminal	26:Terminal	_
+30	the	_	Word	Word	_	26	Terminal	26:Terminal	_
+31	Street	_	Word	Word	_	26	Terminal	26:Terminal	_
+32	;	_	Punctuation	Punctuation	_	19	U	19:U	_
+33	and	_	Word	Word	_	19	N	19:N	_
+34	in	_	Word	Word	_	38	R	38:R	_
+35	the	_	Word	Word	_	38	F	38:F	_
+36	1998	_	Word	Word	_	38	E	38:E	_
+37	comedy	_	Word	Word	_	38	E	38:E	_
+38	Homegrown	_	Word	Word	_	19	C	19:C	_
+39	.	_	Punctuation	Punctuation	_	38	U	38:U	_
+

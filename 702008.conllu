@@ -1,0 +1,46 @@
+# format = ucca
+# sent_id = 702008
+# text = In January 1974 , Dylan returned to live touring after a break of seven years ; backed by The Band , he embarked on a high - profile , coast - to - coast North American tour , playing 40 concerts .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	January	_	Word	Word	_	9	T	9:T	_
+3	1974	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+5	Dylan	_	Word	Word	_	9	A	9:A|12:A|17:A	_
+6	returned	_	Word	Word	_	9	D	9:D	_
+7	to	_	Word	Word	_	9	R	9:R	_
+8	live	_	Word	Word	_	9	D	9:D	_
+9	touring	_	Word	Word	_	0	H	0:H	_
+10	after	_	Word	Word	_	12	L	12:L	_
+11	a	_	Word	Word	_	12	E	12:E	_
+12	break	_	Word	Word	_	9	H	9:H	_
+13	of	_	Word	Word	_	15	R	15:R	_
+14	seven	_	Word	Word	_	15	Q	15:Q	_
+15	years	_	Word	Word	_	12	T	12:T	_
+16	;	_	Punctuation	Punctuation	_	9	U	9:U	_
+17	backed	_	Word	Word	_	9	H	9:H	_
+18	by	_	Word	Word	_	19	R	19:R	_
+19	The	_	Word	Word	_	17	A	17:A	_
+20	Band	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+22	he	_	Word	Word	_	23	A	23:A|39:A	_
+23	embarked	_	Word	Word	_	9	H	9:H	_
+24	on	_	Word	Word	_	37	R	37:R	_
+25	a	_	Word	Word	_	37	F	37:F	_
+26	high	_	Word	Word	_	28	E	28:E	_
+27	-	_	Punctuation	Punctuation	_	28	U	28:U	_
+28	profile	_	Word	Word	_	37	D	37:D	_
+29	,	_	Punctuation	Punctuation	_	37	U	37:U	_
+30	coast	_	Word	Word	_	37	A	37:A	_
+31	-	_	Punctuation	Punctuation	_	30	U	30:U	_
+32	to	_	Word	Word	_	30	Terminal	30:Terminal	_
+33	-	_	Punctuation	Punctuation	_	30	U	30:U	_
+34	coast	_	Word	Word	_	30	Terminal	30:Terminal	_
+35	North	_	Word	Word	_	36	E	36:E	_
+36	American	_	Word	Word	_	37	A	37:A	_
+37	tour	_	Word	Word	_	23	A	23:A	_
+38	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+39	playing	_	Word	Word	_	9	H	9:H	_
+40	40	_	Word	Word	_	41	Q	41:Q	_
+41	concerts	_	Word	Word	_	39	A	39:A	_
+42	.	_	Punctuation	Punctuation	_	41	U	41:U	_
+

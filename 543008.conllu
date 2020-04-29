@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 543008
+# text = Among these was Bette Davis , one of the studio 's leading stars , who once fled to England to secure release from her contract .
+1	Among	_	Word	Word	_	2	R	2:R	_
+2	these	_	Word	Word	_	3	A	3:A	_
+3	was	_	Word	Word	_	0	H	0:H	_
+4	Bette	_	Word	Word	_	3	A	3:A	_
+5	Davis	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+7	one	_	Word	Word	_	13	Q	13:Q	_
+8	of	_	Word	Word	_	13	R	13:R	_
+9	the	_	Word	Word	_	11	F	11:F	_
+10	studio	_	Word	Word	_	11	A	11:A	_
+11	's	_	Word	Word	_	13	E	13:E	_
+12	leading	_	Word	Word	_	13	E	13:E	_
+13	stars	_	Word	Word	_	4	E	4:E	_
+14	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+15	who	_	Word	Word	_	17	R	17:R	_
+16	once	_	Word	Word	_	17	D	17:D	_
+17	fled	_	Word	Word	_	4	E	4:E	_
+18	to	_	Word	Word	_	19	R	19:R	_
+19	England	_	Word	Word	_	17	A	17:A	_
+20	to	_	Word	Word	_	21	L	21:L	_
+21	secure	_	Word	Word	_	17	H	17:H	_
+22	release	_	Word	Word	_	21	A	21:A	_
+23	from	_	Word	Word	_	25	R	25:R	_
+24	her	_	Word	Word	_	25	E	25:E	_
+25	contract	_	Word	Word	_	22	A	22:A	_
+26	.	_	Punctuation	Punctuation	_	25	U	25:U	_
+

@@ -1,0 +1,53 @@
+# format = ucca
+# sent_id = 960000
+# text = A Streetcar Named Desire won glowing reviews for her and she won a second Academy Award for Best Actress , a British Academy of Film and Television Arts ( BAFTA ) Award for Best British Actress , and a New York Film Critics Circle Award for Best Actress .
+1	A	_	Word	Word	_	5	A	5:A	_
+2	Streetcar	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	Named	_	Word	Word	_	1	Terminal	1:Terminal	_
+4	Desire	_	Word	Word	_	1	Terminal	1:Terminal	_
+5	won	_	Word	Word	_	0	H	0:H	_
+6	glowing	_	Word	Word	_	7	E	7:E	_
+7	reviews	_	Word	Word	_	5	A	5:A	_
+8	for	_	Word	Word	_	9	R	9:R	_
+9	her	_	Word	Word	_	5	A	5:A	_
+10	and	_	Word	Word	_	12	L	12:L	_
+11	she	_	Word	Word	_	12	A	12:A	_
+12	won	_	Word	Word	_	5	H	5:H	_
+13	a	_	Word	Word	_	16	E	16:E	_
+14	second	_	Word	Word	_	16	Q	16:Q	_
+15	Academy	_	Word	Word	_	16	E	16:E	_
+16	Award	_	Word	Word	_	12	A	12:A	_
+17	for	_	Word	Word	_	19	R	19:R	_
+18	Best	_	Word	Word	_	19	D	19:D	_
+19	Actress	_	Word	Word	_	16	E	16:E	_
+20	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+21	a	_	Word	Word	_	32	E	32:E	_
+22	British	_	Word	Word	_	23	E	23:E	_
+23	Academy	_	Word	Word	_	32	E	32:E	_
+24	of	_	Word	Word	_	28	R	28:R	_
+25	Film	_	Word	Word	_	28	E	28:E	_
+26	and	_	Word	Word	_	25	N	25:N	_
+27	Television	_	Word	Word	_	25	C	25:C	_
+28	Arts	_	Word	Word	_	23	E	23:E	_
+29	(	_	Punctuation	Punctuation	_	23	U	23:U	_
+30	BAFTA	_	Word	Word	_	23	E	23:E	_
+31	)	_	Punctuation	Punctuation	_	32	U	32:U	_
+32	Award	_	Word	Word	_	16	C	16:C	_
+33	for	_	Word	Word	_	36	R	36:R	_
+34	Best	_	Word	Word	_	36	D	36:D	_
+35	British	_	Word	Word	_	36	E	36:E	_
+36	Actress	_	Word	Word	_	32	E	32:E	_
+37	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+38	and	_	Word	Word	_	16	N	16:N	_
+39	a	_	Word	Word	_	45	E	45:E	_
+40	New	_	Word	Word	_	44	E	44:E	_
+41	York	_	Word	Word	_	40	Terminal	40:Terminal	_
+42	Film	_	Word	Word	_	44	E	44:E	_
+43	Critics	_	Word	Word	_	42	A	42:A	_
+44	Circle	_	Word	Word	_	45	E	45:E	_
+45	Award	_	Word	Word	_	16	C	16:C	_
+46	for	_	Word	Word	_	48	R	48:R	_
+47	Best	_	Word	Word	_	48	D	48:D	_
+48	Actress	_	Word	Word	_	45	E	45:E	_
+49	.	_	Punctuation	Punctuation	_	48	U	48:U	_
+

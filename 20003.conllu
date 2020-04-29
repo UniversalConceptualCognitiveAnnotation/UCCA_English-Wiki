@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 20003
+# text = He participated in the school 's Key and Forensics clubs , in school debates , and in musicals .
+1	He	_	Word	Word	_	2	A	2:A	_
+2	participated	_	Word	Word	_	0	H	0:H	_
+3	in	_	Word	Word	_	10	R	10:R	_
+4	the	_	Word	Word	_	10	E	10:E	_
+5	school	_	Word	Word	_	10	E	10:E	_
+6	's	_	Word	Word	_	5	R	5:R	_
+7	Key	_	Word	Word	_	10	E	10:E	_
+8	and	_	Word	Word	_	7	N	7:N	_
+9	Forensics	_	Word	Word	_	7	C	7:C	_
+10	clubs	_	Word	Word	_	2	A	2:A	_
+11	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	in	_	Word	Word	_	14	R	14:R	_
+13	school	_	Word	Word	_	14	E	14:E	_
+14	debates	_	Word	Word	_	10	C	10:C	_
+15	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+16	and	_	Word	Word	_	10	N	10:N	_
+17	in	_	Word	Word	_	18	R	18:R	_
+18	musicals	_	Word	Word	_	10	C	10:C	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

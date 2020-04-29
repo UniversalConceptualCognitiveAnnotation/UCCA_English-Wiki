@@ -1,0 +1,45 @@
+# format = ucca
+# sent_id = 650004
+# text = Lennon and Ono , backed by David Peel and Rubin , performed an acoustic set of four songs from their forthcoming Some Time in New York City album including " John Sinclair " , whose lyrics called for his release .
+1	Lennon	_	Word	Word	_	5	A	5:A|12:A	_
+2	and	_	Word	Word	_	1	N	1:N	_
+3	Ono	_	Word	Word	_	1	C	1:C	_
+4	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+5	backed	_	Word	Word	_	0	H	0:H	_
+6	by	_	Word	Word	_	7	R	7:R	_
+7	David	_	Word	Word	_	5	A	5:A	_
+8	Peel	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	and	_	Word	Word	_	7	N	7:N	_
+10	Rubin	_	Word	Word	_	7	C	7:C	_
+11	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+12	performed	_	Word	Word	_	5	H	5:H	_
+13	an	_	Word	Word	_	15	E	15:E	_
+14	acoustic	_	Word	Word	_	15	E	15:E	_
+15	set	_	Word	Word	_	12	A	12:A	_
+16	of	_	Word	Word	_	18	R	18:R	_
+17	four	_	Word	Word	_	18	Q	18:Q	_
+18	songs	_	Word	Word	_	15	E	15:E	_
+19	from	_	Word	Word	_	28	R	28:R	_
+20	their	_	Word	Word	_	28	E	28:E	_
+21	forthcoming	_	Word	Word	_	28	E	28:E	_
+22	Some	_	Word	Word	_	28	E	28:E	_
+23	Time	_	Word	Word	_	22	Terminal	22:Terminal	_
+24	in	_	Word	Word	_	22	Terminal	22:Terminal	_
+25	New	_	Word	Word	_	22	Terminal	22:Terminal	_
+26	York	_	Word	Word	_	22	Terminal	22:Terminal	_
+27	City	_	Word	Word	_	22	Terminal	22:Terminal	_
+28	album	_	Word	Word	_	15	E	15:E	_
+29	including	_	Word	Word	_	31	R	31:R	_
+30	"	_	Punctuation	Punctuation	_	31	U	31:U	_
+31	John	_	Word	Word	_	15	E	15:E	_
+32	Sinclair	_	Word	Word	_	31	Terminal	31:Terminal	_
+33	"	_	Punctuation	Punctuation	_	31	U	31:U	_
+34	,	_	Punctuation	Punctuation	_	31	U	31:U	_
+35	whose	_	Word	Word	_	37	R	37:R	_
+36	lyrics	_	Word	Word	_	37	A	37:A	_
+37	called	_	Word	Word	_	31	E	31:E	_
+38	for	_	Word	Word	_	40	R	40:R	_
+39	his	_	Word	Word	_	40	A	40:A	_
+40	release	_	Word	Word	_	37	A	37:A	_
+41	.	_	Punctuation	Punctuation	_	40	U	40:U	_
+

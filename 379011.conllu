@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 379011
+# text = Shortly after the 2006 Academy Awards , Gyllenhaal was invited to join the Academy in recognition of his acting career .
+1	Shortly	_	Word	Word	_	2	E	2:E	_
+2	after	_	Word	Word	_	10	L	10:L	_
+3	the	_	Word	Word	_	6	F	6:F	_
+4	2006	_	Word	Word	_	6	E	6:E	_
+5	Academy	_	Word	Word	_	6	E	6:E	_
+6	Awards	_	Word	Word	_	0	H	0:H	_
+7	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	Gyllenhaal	_	Word	Word	_	10	A	10:A|6:A|12:A	_
+9	was	_	Word	Word	_	10	F	10:F	_
+10	invited	_	Word	Word	_	6	H	6:H	_
+11	to	_	Word	Word	_	12	R	12:R	_
+12	join	_	Word	Word	_	10	A	10:A	_
+13	the	_	Word	Word	_	14	F	14:F	_
+14	Academy	_	Word	Word	_	12	A	12:A	_
+15	in	_	Word	Word	_	16	L	16:L	_
+16	recognition	_	Word	Word	_	6	H	6:H	_
+17	of	_	Word	Word	_	19	R	19:R	_
+18	his	_	Word	Word	_	19	A	19:A	_
+19	acting	_	Word	Word	_	16	A	16:A	_
+20	career	_	Word	Word	_	19	E	19:E	_
+21	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

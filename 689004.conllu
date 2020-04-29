@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 689004
+# text = Dylan 's parents , Abram Zimmerman and Beatrice " Beatty " Stone , were part of the area 's small but close - knit Jewish community .
+1	Dylan	_	Word	Word	_	3	A	3:A	_
+2	's	_	Word	Word	_	1	R	1:R	_
+3	parents	_	Word	Word	_	5	E	5:E	_
+4	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+5	Abram	_	Word	Word	_	15	A	15:A	_
+6	Zimmerman	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	and	_	Word	Word	_	5	N	5:N	_
+8	Beatrice	_	Word	Word	_	5	C	5:C	_
+9	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+10	Beatty	_	Word	Word	_	8	Terminal	8:Terminal	_
+11	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+12	Stone	_	Word	Word	_	8	Terminal	8:Terminal	_
+13	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+14	were	_	Word	Word	_	15	F	15:F	_
+15	part	_	Word	Word	_	0	H	0:H	_
+16	of	_	Word	Word	_	26	R	26:R	_
+17	the	_	Word	Word	_	18	E	18:E	_
+18	area	_	Word	Word	_	26	A	26:A	_
+19	's	_	Word	Word	_	18	R	18:R	_
+20	small	_	Word	Word	_	26	D	26:D	_
+21	but	_	Word	Word	_	20	N	20:N	_
+22	close	_	Word	Word	_	20	C	20:C	_
+23	-	_	Punctuation	Punctuation	_	22	U	22:U	_
+24	knit	_	Word	Word	_	22	Terminal	22:Terminal	_
+25	Jewish	_	Word	Word	_	26	A	26:A	_
+26	community	_	Word	Word	_	15	A	15:A	_
+27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+

@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 531000
+# text = In 1961 , Garland and CBS settled their contract disputes with the help of her new agent , Freddie Fields , and negotiated a new round of specials .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1961	_	Word	Word	_	7	T	7:T	_
+3	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+4	Garland	_	Word	Word	_	7	A	7:A|23:A	_
+5	and	_	Word	Word	_	4	N	4:N	_
+6	CBS	_	Word	Word	_	4	C	4:C	_
+7	settled	_	Word	Word	_	0	H	0:H	_
+8	their	_	Word	Word	_	10	A	10:A	_
+9	contract	_	Word	Word	_	10	A	10:A	_
+10	disputes	_	Word	Word	_	7	A	7:A	_
+11	with	_	Word	Word	_	13	R	13:R	_
+12	the	_	Word	Word	_	13	F	13:F	_
+13	help	_	Word	Word	_	7	D	7:D	_
+14	of	_	Word	Word	_	19	R	19:R	_
+15	her	_	Word	Word	_	17	A	17:A	_
+16	new	_	Word	Word	_	17	D	17:D	_
+17	agent	_	Word	Word	_	19	E	19:E	_
+18	,	_	Punctuation	Punctuation	_	19	U	19:U	_
+19	Freddie	_	Word	Word	_	7	A	7:A	_
+20	Fields	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+22	and	_	Word	Word	_	23	L	23:L	_
+23	negotiated	_	Word	Word	_	7	H	7:H	_
+24	a	_	Word	Word	_	26	E	26:E	_
+25	new	_	Word	Word	_	26	E	26:E	_
+26	round	_	Word	Word	_	23	A	23:A	_
+27	of	_	Word	Word	_	28	R	28:R	_
+28	specials	_	Word	Word	_	26	E	26:E	_
+29	.	_	Punctuation	Punctuation	_	28	U	28:U	_
+

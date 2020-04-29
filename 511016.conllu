@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 511016
+# text = Directed by Floria Sigismondi , it stars Bowie and Tilda Swinton as a married couple .
+1	Directed	_	Word	Word	_	0	H	0:H	_
+2	by	_	Word	Word	_	3	R	3:R	_
+3	Floria	_	Word	Word	_	1	A	1:A	_
+4	Sigismondi	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+6	it	_	Word	Word	_	7	A	7:A	_
+7	stars	_	Word	Word	_	1	H	1:H	_
+8	Bowie	_	Word	Word	_	7	A	7:A	_
+9	and	_	Word	Word	_	8	N	8:N	_
+10	Tilda	_	Word	Word	_	8	C	8:C	_
+11	Swinton	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	as	_	Word	Word	_	15	R	15:R	_
+13	a	_	Word	Word	_	15	E	15:E	_
+14	married	_	Word	Word	_	15	E	15:E	_
+15	couple	_	Word	Word	_	7	A	7:A	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

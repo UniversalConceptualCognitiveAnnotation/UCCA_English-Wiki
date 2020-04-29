@@ -1,0 +1,44 @@
+# format = ucca
+# sent_id = 808002
+# text = He often chose clothes and make - up for her , encouraging her to grow her hair out like Brigitte Bardot ' s , and at least once insisting she have it re - styled , to disappointing effect .
+1	He	_	Word	Word	_	3	A	3:A|12:A|29:A	_
+2	often	_	Word	Word	_	3	T	3:T	_
+3	chose	_	Word	Word	_	0	H	0:H	_
+4	clothes	_	Word	Word	_	3	A	3:A	_
+5	and	_	Word	Word	_	4	N	4:N	_
+6	make	_	Word	Word	_	4	C	4:C	_
+7	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	up	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	for	_	Word	Word	_	10	R	10:R	_
+10	her	_	Word	Word	_	3	A	3:A	_
+11	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+12	encouraging	_	Word	Word	_	3	H	3:H	_
+13	her	_	Word	Word	_	12	A	12:A|15:A	_
+14	to	_	Word	Word	_	15	F	15:F	_
+15	grow	_	Word	Word	_	12	A	12:A	_
+16	her	_	Word	Word	_	17	E	17:E	_
+17	hair	_	Word	Word	_	0	C	0:C|20:C	_
+18	out	_	Word	Word	_	15	Terminal	15:Terminal	_
+19	like	_	Word	Word	_	20	L	20:L	_
+20	Brigitte	_	Word	Word	_	15	H	15:H	_
+21	Bardot	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	'	_	Punctuation	Punctuation	_	20	U	20:U	_
+23	s	_	Word	Word	_	20	R	20:R	_
+24	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+25	and	_	Word	Word	_	29	L	29:L	_
+26	at	_	Word	Word	_	28	E	28:E	_
+27	least	_	Word	Word	_	26	Terminal	26:Terminal	_
+28	once	_	Word	Word	_	29	D	29:D	_
+29	insisting	_	Word	Word	_	3	H	3:H	_
+30	she	_	Word	Word	_	35	A	35:A	_
+31	have	_	Word	Word	_	35	D	35:D	_
+32	it	_	Word	Word	_	35	A	35:A	_
+33	re	_	Word	Word	_	35	D	35:D	_
+34	-	_	Punctuation	Punctuation	_	35	U	35:U	_
+35	styled	_	Word	Word	_	29	A	29:A	_
+36	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+37	to	_	Word	Word	_	38	L	38:L	_
+38	disappointing	_	Word	Word	_	3	H	3:H	_
+39	effect	_	Word	Word	_	38	A	38:A	_
+40	.	_	Punctuation	Punctuation	_	38	U	38:U	_
+

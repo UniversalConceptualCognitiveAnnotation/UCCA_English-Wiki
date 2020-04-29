@@ -1,0 +1,37 @@
+# format = ucca
+# sent_id = 253013
+# text = He supports the United States Democratic Party , and supported Bill Bradley , John Kerry and Barack Obama for President of the United States in 2000 , 2004 and 2008 , respectively .
+1	He	_	Word	Word	_	2	A	2:A|10:A	_
+2	supports	_	Word	Word	_	0	H	0:H	_
+3	the	_	Word	Word	_	7	F	7:F	_
+4	United	_	Word	Word	_	7	E	7:E	_
+5	States	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	Democratic	_	Word	Word	_	7	E	7:E	_
+7	Party	_	Word	Word	_	2	A	2:A	_
+8	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+9	and	_	Word	Word	_	10	L	10:L	_
+10	supported	_	Word	Word	_	2	H	2:H	_
+11	Bill	_	Word	Word	_	20	A	20:A	_
+12	Bradley	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+14	John	_	Word	Word	_	11	C	11:C	_
+15	Kerry	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	and	_	Word	Word	_	11	N	11:N	_
+17	Barack	_	Word	Word	_	11	C	11:C	_
+18	Obama	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	for	_	Word	Word	_	20	R	20:R	_
+20	President	_	Word	Word	_	10	A	10:A	_
+21	of	_	Word	Word	_	23	R	23:R	_
+22	the	_	Word	Word	_	23	F	23:F	_
+23	United	_	Word	Word	_	20	A	20:A	_
+24	States	_	Word	Word	_	23	Terminal	23:Terminal	_
+25	in	_	Word	Word	_	26	R	26:R	_
+26	2000	_	Word	Word	_	10	T	10:T	_
+27	,	_	Punctuation	Punctuation	_	26	U	26:U	_
+28	2004	_	Word	Word	_	26	C	26:C	_
+29	and	_	Word	Word	_	26	N	26:N	_
+30	2008	_	Word	Word	_	26	C	26:C	_
+31	,	_	Punctuation	Punctuation	_	26	U	26:U	_
+32	respectively	_	Word	Word	_	26	R	26:R	_
+33	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+

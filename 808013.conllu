@@ -1,0 +1,44 @@
+# format = ucca
+# sent_id = 808013
+# text = She commented , " It was John who interested me at the start . He was my Beatle hero . But when I met him the fascination faded fast , and I found it was Paul I liked . "
+1	She	_	Word	Word	_	2	A	2:A	_
+2	commented	_	Word	Word	_	0	H	0:H	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	It	_	Word	Word	_	9	F	9:F	_
+6	was	_	Word	Word	_	9	F	9:F	_
+7	John	_	Word	Word	_	9	A	9:A	_
+8	who	_	Word	Word	_	9	F	9:F	_
+9	interested	_	Word	Word	_	2	A	2:A	_
+10	me	_	Word	Word	_	9	A	9:A	_
+11	at	_	Word	Word	_	13	R	13:R	_
+12	the	_	Word	Word	_	13	E	13:E	_
+13	start	_	Word	Word	_	9	D	9:D	_
+14	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+15	He	_	Word	Word	_	19	A	19:A	_
+16	was	_	Word	Word	_	19	F	19:F	_
+17	my	_	Word	Word	_	19	A	19:A	_
+18	Beatle	_	Word	Word	_	19	A	19:A	_
+19	hero	_	Word	Word	_	9	H	9:H	_
+20	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+21	But	_	Word	Word	_	24	L	24:L	_
+22	when	_	Word	Word	_	24	L	24:L	_
+23	I	_	Word	Word	_	24	A	24:A|27:A	_
+24	met	_	Word	Word	_	9	H	9:H	_
+25	him	_	Word	Word	_	24	A	24:A	_
+26	the	_	Word	Word	_	27	E	27:E	_
+27	fascination	_	Word	Word	_	9	H	9:H	_
+28	faded	_	Word	Word	_	27	D	27:D	_
+29	fast	_	Word	Word	_	27	T	27:T	_
+30	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+31	and	_	Word	Word	_	33	L	33:L	_
+32	I	_	Word	Word	_	33	A	33:A	_
+33	found	_	Word	Word	_	9	H	9:H	_
+34	it	_	Word	Word	_	38	F	38:F	_
+35	was	_	Word	Word	_	38	F	38:F	_
+36	Paul	_	Word	Word	_	38	A	38:A	_
+37	I	_	Word	Word	_	38	A	38:A	_
+38	liked	_	Word	Word	_	33	A	33:A	_
+39	.	_	Punctuation	Punctuation	_	38	U	38:U	_
+40	"	_	Punctuation	Punctuation	_	38	U	38:U	_
+

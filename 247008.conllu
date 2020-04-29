@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 247008
+# text = The film was a box office hit , taking $ 104 million worldwide , and garnered generally favorable reviews .
+1	The	_	Word	Word	_	2	F	2:F	_
+2	film	_	Word	Word	_	0	C	0:C|9:A|19:A	_
+3	was	_	Word	Word	_	7	F	7:F	_
+4	a	_	Word	Word	_	7	F	7:F	_
+5	box	_	Word	Word	_	7	A	7:A	_
+6	office	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	hit	_	Word	Word	_	0	H	0:H	_
+8	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	taking	_	Word	Word	_	7	H	7:H	_
+10	$	_	Word	Word	_	9	A	9:A	_
+11	104	_	Word	Word	_	10	Q	10:Q	_
+12	million	_	Word	Word	_	11	C	11:C	_
+13	worldwide	_	Word	Word	_	9	A	9:A	_
+14	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+15	and	_	Word	Word	_	19	L	19:L	_
+16	garnered	_	Word	Word	_	19	D	19:D	_
+17	generally	_	Word	Word	_	18	E	18:E	_
+18	favorable	_	Word	Word	_	19	D	19:D	_
+19	reviews	_	Word	Word	_	7	H	7:H	_
+20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

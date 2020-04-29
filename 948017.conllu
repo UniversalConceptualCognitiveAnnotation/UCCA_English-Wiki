@@ -1,0 +1,34 @@
+# format = ucca
+# sent_id = 948017
+# text = On May 26 , 2006 , their son , Kingston James McGregor Rossdale , was born via Caesarean section at the Cedars - Sinai Medical Center in Los Angeles .
+1	On	_	Word	Word	_	2	R	2:R	_
+2	May	_	Word	Word	_	16	T	16:T	_
+3	26	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	2006	_	Word	Word	_	2	C	2:C	_
+6	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+7	their	_	Word	Word	_	8	A	8:A	_
+8	son	_	Word	Word	_	10	E	10:E	_
+9	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+10	Kingston	_	Word	Word	_	16	A	16:A	_
+11	James	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	McGregor	_	Word	Word	_	10	Terminal	10:Terminal	_
+13	Rossdale	_	Word	Word	_	10	Terminal	10:Terminal	_
+14	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+15	was	_	Word	Word	_	16	F	16:F	_
+16	born	_	Word	Word	_	0	H	0:H	_
+17	via	_	Word	Word	_	19	L	19:L	_
+18	Caesarean	_	Word	Word	_	19	E	19:E	_
+19	section	_	Word	Word	_	16	H	16:H	_
+20	at	_	Word	Word	_	26	R	26:R	_
+21	the	_	Word	Word	_	26	F	26:F	_
+22	Cedars	_	Word	Word	_	26	E	26:E	_
+23	-	_	Punctuation	Punctuation	_	22	U	22:U	_
+24	Sinai	_	Word	Word	_	22	Terminal	22:Terminal	_
+25	Medical	_	Word	Word	_	26	E	26:E	_
+26	Center	_	Word	Word	_	16	A	16:A	_
+27	in	_	Word	Word	_	28	R	28:R	_
+28	Los	_	Word	Word	_	26	E	26:E	_
+29	Angeles	_	Word	Word	_	28	Terminal	28:Terminal	_
+30	.	_	Punctuation	Punctuation	_	28	U	28:U	_
+

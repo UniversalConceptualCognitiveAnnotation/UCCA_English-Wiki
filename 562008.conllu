@@ -1,0 +1,48 @@
+# format = ucca
+# sent_id = 562008
+# text = He had attended several shows by Freddie Bell and the Bellboys in Vegas , and was struck by their cover of " Hound Dog " , a hit in 1953 for blues singer Big Mama Thornton by songwriters Jerry Leiber and Mike Stoller .
+1	He	_	Word	Word	_	3	A	3:A|17:A	_
+2	had	_	Word	Word	_	3	F	3:F	_
+3	attended	_	Word	Word	_	0	H	0:H	_
+4	several	_	Word	Word	_	5	D	5:D	_
+5	shows	_	Word	Word	_	3	A	3:A	_
+6	by	_	Word	Word	_	7	R	7:R	_
+7	Freddie	_	Word	Word	_	5	A	5:A	_
+8	Bell	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	and	_	Word	Word	_	7	Terminal	7:Terminal	_
+10	the	_	Word	Word	_	7	Terminal	7:Terminal	_
+11	Bellboys	_	Word	Word	_	7	Terminal	7:Terminal	_
+12	in	_	Word	Word	_	13	R	13:R	_
+13	Vegas	_	Word	Word	_	3	A	3:A	_
+14	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+15	and	_	Word	Word	_	17	L	17:L	_
+16	was	_	Word	Word	_	17	F	17:F	_
+17	struck	_	Word	Word	_	3	H	3:H	_
+18	by	_	Word	Word	_	20	R	20:R	_
+19	their	_	Word	Word	_	20	E	20:E	_
+20	cover	_	Word	Word	_	17	A	17:A	_
+21	of	_	Word	Word	_	23	R	23:R	_
+22	"	_	Punctuation	Punctuation	_	23	U	23:U	_
+23	Hound	_	Word	Word	_	20	E	20:E	_
+24	Dog	_	Word	Word	_	23	Terminal	23:Terminal	_
+25	"	_	Punctuation	Punctuation	_	23	U	23:U	_
+26	,	_	Punctuation	Punctuation	_	23	U	23:U	_
+27	a	_	Word	Word	_	28	E	28:E	_
+28	hit	_	Word	Word	_	23	E	23:E	_
+29	in	_	Word	Word	_	30	R	30:R	_
+30	1953	_	Word	Word	_	28	E	28:E	_
+31	for	_	Word	Word	_	28	E	28:E	_
+32	blues	_	Word	Word	_	34	E	34:E	_
+33	singer	_	Word	Word	_	32	A	32:A	_
+34	Big	_	Word	Word	_	31	A	31:A	_
+35	Mama	_	Word	Word	_	34	Terminal	34:Terminal	_
+36	Thornton	_	Word	Word	_	34	Terminal	34:Terminal	_
+37	by	_	Word	Word	_	28	E	28:E	_
+38	songwriters	_	Word	Word	_	39	E	39:E	_
+39	Jerry	_	Word	Word	_	37	A	37:A	_
+40	Leiber	_	Word	Word	_	39	Terminal	39:Terminal	_
+41	and	_	Word	Word	_	39	N	39:N	_
+42	Mike	_	Word	Word	_	39	C	39:C	_
+43	Stoller	_	Word	Word	_	42	Terminal	42:Terminal	_
+44	.	_	Punctuation	Punctuation	_	39	U	39:U	_
+

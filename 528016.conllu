@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 528016
+# text = A Star is Born ended up losing money , and the secure financial position Garland had expected from the profits did not materialize .
+1	A	_	Word	Word	_	7	A	7:A	_
+2	Star	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	is	_	Word	Word	_	1	Terminal	1:Terminal	_
+4	Born	_	Word	Word	_	1	Terminal	1:Terminal	_
+5	ended	_	Word	Word	_	7	D	7:D	_
+6	up	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	losing	_	Word	Word	_	0	H	0:H	_
+8	money	_	Word	Word	_	7	A	7:A	_
+9	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+10	and	_	Word	Word	_	23	L	23:L	_
+11	the	_	Word	Word	_	14	F	14:F	_
+12	secure	_	Word	Word	_	14	E	14:E	_
+13	financial	_	Word	Word	_	14	E	14:E	_
+14	position	_	Word	Word	_	23	A	23:A	_
+15	Garland	_	Word	Word	_	17	A	17:A	_
+16	had	_	Word	Word	_	17	F	17:F	_
+17	expected	_	Word	Word	_	14	E	14:E	_
+18	from	_	Word	Word	_	20	R	20:R	_
+19	the	_	Word	Word	_	20	F	20:F	_
+20	profits	_	Word	Word	_	17	A	17:A	_
+21	did	_	Word	Word	_	23	F	23:F	_
+22	not	_	Word	Word	_	23	D	23:D	_
+23	materialize	_	Word	Word	_	7	H	7:H	_
+24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

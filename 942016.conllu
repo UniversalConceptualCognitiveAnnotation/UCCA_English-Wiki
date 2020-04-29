@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 942016
+# text = Gwen 's parents were fans of folk music and exposed her to music by artists like Bob Dylan and Emmylou Harris .
+1	Gwen	_	Word	Word	_	3	A	3:A	_
+2	's	_	Word	Word	_	1	R	1:R	_
+3	parents	_	Word	Word	_	0	S	0:S|10:A	_
+4	were	_	Word	Word	_	5	F	5:F	_
+5	fans	_	Word	Word	_	0	H	0:H	_
+6	of	_	Word	Word	_	8	R	8:R	_
+7	folk	_	Word	Word	_	8	E	8:E	_
+8	music	_	Word	Word	_	5	A	5:A	_
+9	and	_	Word	Word	_	10	L	10:L	_
+10	exposed	_	Word	Word	_	5	H	5:H	_
+11	her	_	Word	Word	_	10	A	10:A	_
+12	to	_	Word	Word	_	13	R	13:R	_
+13	music	_	Word	Word	_	10	A	10:A	_
+14	by	_	Word	Word	_	13	E	13:E	_
+15	artists	_	Word	Word	_	14	A	14:A	_
+16	like	_	Word	Word	_	17	R	17:R	_
+17	Bob	_	Word	Word	_	15	E	15:E	_
+18	Dylan	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	and	_	Word	Word	_	17	N	17:N	_
+20	Emmylou	_	Word	Word	_	17	C	17:C	_
+21	Harris	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+

@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 950017
+# text = Stefani hosted a fundraiser with First Lady Michelle Obama in August 2012 at the singer 's Beverly Hills home .
+1	Stefani	_	Word	Word	_	2	A	2:A	_
+2	hosted	_	Word	Word	_	0	H	0:H	_
+3	a	_	Word	Word	_	4	E	4:E	_
+4	fundraiser	_	Word	Word	_	2	A	2:A	_
+5	with	_	Word	Word	_	8	R	8:R	_
+6	First	_	Word	Word	_	8	E	8:E	_
+7	Lady	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	Michelle	_	Word	Word	_	2	A	2:A	_
+9	Obama	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	in	_	Word	Word	_	11	R	11:R	_
+11	August	_	Word	Word	_	2	T	2:T	_
+12	2012	_	Word	Word	_	11	C	11:C	_
+13	at	_	Word	Word	_	19	R	19:R	_
+14	the	_	Word	Word	_	19	E	19:E	_
+15	singer	_	Word	Word	_	16	A	16:A	_
+16	's	_	Word	Word	_	19	E	19:E	_
+17	Beverly	_	Word	Word	_	19	E	19:E	_
+18	Hills	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	home	_	Word	Word	_	2	A	2:A	_
+20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

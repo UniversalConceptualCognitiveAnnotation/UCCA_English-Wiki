@@ -1,0 +1,48 @@
+# format = ucca
+# sent_id = 639003
+# text = Many radio stations refused to broadcast the song because of the word " nigger " . Lennon and Ono gave two benefit concerts with Elephant 's Memory and guests in New York in aid of patients at the Willowbrook State School mental facility .
+1	Many	_	Word	Word	_	3	Q	3:Q	_
+2	radio	_	Word	Word	_	3	E	3:E	_
+3	stations	_	Word	Word	_	6	A	6:A	_
+4	refused	_	Word	Word	_	6	D	6:D	_
+5	to	_	Word	Word	_	6	F	6:F	_
+6	broadcast	_	Word	Word	_	0	H	0:H	_
+7	the	_	Word	Word	_	8	E	8:E	_
+8	song	_	Word	Word	_	6	A	6:A	_
+9	because	_	Word	Word	_	14	R	14:R	_
+10	of	_	Word	Word	_	9	F	9:F	_
+11	the	_	Word	Word	_	12	E	12:E	_
+12	word	_	Word	Word	_	14	E	14:E	_
+13	"	_	Punctuation	Punctuation	_	14	U	14:U	_
+14	nigger	_	Word	Word	_	6	A	6:A	_
+15	"	_	Punctuation	Punctuation	_	6	U	6:U	_
+16	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+17	Lennon	_	Word	Word	_	20	A	20:A	_
+18	and	_	Word	Word	_	17	N	17:N	_
+19	Ono	_	Word	Word	_	17	C	17:C	_
+20	gave	_	Word	Word	_	6	H	6:H	_
+21	two	_	Word	Word	_	23	Q	23:Q	_
+22	benefit	_	Word	Word	_	23	E	23:E	_
+23	concerts	_	Word	Word	_	20	A	20:A	_
+24	with	_	Word	Word	_	25	R	25:R	_
+25	Elephant	_	Word	Word	_	20	A	20:A	_
+26	's	_	Word	Word	_	25	Terminal	25:Terminal	_
+27	Memory	_	Word	Word	_	25	Terminal	25:Terminal	_
+28	and	_	Word	Word	_	25	N	25:N	_
+29	guests	_	Word	Word	_	25	C	25:C	_
+30	in	_	Word	Word	_	31	R	31:R	_
+31	New	_	Word	Word	_	20	A	20:A	_
+32	York	_	Word	Word	_	31	Terminal	31:Terminal	_
+33	in	_	Word	Word	_	34	L	34:L	_
+34	aid	_	Word	Word	_	6	H	6:H	_
+35	of	_	Word	Word	_	36	R	36:R	_
+36	patients	_	Word	Word	_	34	A	34:A	_
+37	at	_	Word	Word	_	41	R	41:R	_
+38	the	_	Word	Word	_	41	E	41:E	_
+39	Willowbrook	_	Word	Word	_	41	E	41:E	_
+40	State	_	Word	Word	_	41	E	41:E	_
+41	School	_	Word	Word	_	36	E	36:E	_
+42	mental	_	Word	Word	_	43	E	43:E	_
+43	facility	_	Word	Word	_	41	C	41:C	_
+44	.	_	Punctuation	Punctuation	_	43	U	43:U	_
+

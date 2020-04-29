@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 462000
+# text = In late March , viewers started noticing that Jennings ' voice sounded uncharacteristically gravelly and unhealthy during evening newscasts .
+1	In	_	Word	Word	_	3	R	3:R	_
+2	late	_	Word	Word	_	3	E	3:E	_
+3	March	_	Word	Word	_	7	T	7:T	_
+4	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+5	viewers	_	Word	Word	_	7	A	7:A	_
+6	started	_	Word	Word	_	7	D	7:D	_
+7	noticing	_	Word	Word	_	0	H	0:H	_
+8	that	_	Word	Word	_	14	R	14:R|16:R	_
+9	Jennings	_	Word	Word	_	11	E	11:E	_
+10	'	_	Punctuation	Punctuation	_	11	U	11:U	_
+11	voice	_	Word	Word	_	14	A	14:A|16:A	_
+12	sounded	_	Word	Word	_	14	G	14:G|16:G	_
+13	uncharacteristically	_	Word	Word	_	14	D	14:D|16:D	_
+14	gravelly	_	Word	Word	_	7	A	7:A	_
+15	and	_	Word	Word	_	16	L	16:L	_
+16	unhealthy	_	Word	Word	_	14	H	14:H	_
+17	during	_	Word	Word	_	19	L	19:L	_
+18	evening	_	Word	Word	_	19	E	19:E	_
+19	newscasts	_	Word	Word	_	7	H	7:H	_
+20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

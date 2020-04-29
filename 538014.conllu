@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 538014
+# text = They maintained the theater until moving into film distribution in 1907 .
+1	They	_	Word	Word	_	2	A	2:A|9:A	_
+2	maintained	_	Word	Word	_	0	H	0:H	_
+3	the	_	Word	Word	_	4	F	4:F	_
+4	theater	_	Word	Word	_	2	A	2:A	_
+5	until	_	Word	Word	_	9	L	9:L	_
+6	moving	_	Word	Word	_	9	D	9:D	_
+7	into	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	film	_	Word	Word	_	9	A	9:A	_
+9	distribution	_	Word	Word	_	2	H	2:H	_
+10	in	_	Word	Word	_	11	R	11:R	_
+11	1907	_	Word	Word	_	9	T	9:T	_
+12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+

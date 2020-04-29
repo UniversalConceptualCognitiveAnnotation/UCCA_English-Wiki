@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 948011
+# text = Stefani was " devastated and infuriated " at the discovery , leading to a rocky patch in her relationship with Rossdale .
+1	Stefani	_	Word	Word	_	10	A	10:A	_
+2	was	_	Word	Word	_	10	F	10:F	_
+3	"	_	Punctuation	Punctuation	_	10	U	10:U	_
+4	devastated	_	Word	Word	_	10	D	10:D	_
+5	and	_	Word	Word	_	4	N	4:N	_
+6	infuriated	_	Word	Word	_	4	C	4:C	_
+7	"	_	Punctuation	Punctuation	_	10	U	10:U	_
+8	at	_	Word	Word	_	10	R	10:R	_
+9	the	_	Word	Word	_	10	E	10:E	_
+10	discovery	_	Word	Word	_	0	H	0:H	_
+11	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	leading	_	Word	Word	_	16	L	16:L	_
+13	to	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	a	_	Word	Word	_	16	F	16:F	_
+15	rocky	_	Word	Word	_	16	D	16:D	_
+16	patch	_	Word	Word	_	10	H	10:H	_
+17	in	_	Word	Word	_	19	R	19:R	_
+18	her	_	Word	Word	_	19	A	19:A	_
+19	relationship	_	Word	Word	_	16	A	16:A	_
+20	with	_	Word	Word	_	21	R	21:R	_
+21	Rossdale	_	Word	Word	_	19	A	19:A	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

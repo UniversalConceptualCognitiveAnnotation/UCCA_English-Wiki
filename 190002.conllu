@@ -1,0 +1,42 @@
+# format = ucca
+# sent_id = 190002
+# text = While writing for Castle Rock he became friends with colleagues such as William Goldman and Rob Reiner and met his future wife , Julia Bingham , who was one of Castle Rock 's business - affairs lawyers .
+1	While	_	Word	Word	_	8	L	8:L	_
+2	writing	_	Word	Word	_	0	H	0:H	_
+3	for	_	Word	Word	_	4	R	4:R	_
+4	Castle	_	Word	Word	_	2	A	2:A	_
+5	Rock	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	he	_	Word	Word	_	8	A	8:A|2:A|19:A	_
+7	became	_	Word	Word	_	8	D	8:D	_
+8	friends	_	Word	Word	_	2	H	2:H	_
+9	with	_	Word	Word	_	10	R	10:R	_
+10	colleagues	_	Word	Word	_	8	A	8:A	_
+11	such	_	Word	Word	_	13	R	13:R	_
+12	as	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	William	_	Word	Word	_	10	E	10:E	_
+14	Goldman	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	and	_	Word	Word	_	13	N	13:N	_
+16	Rob	_	Word	Word	_	13	C	13:C	_
+17	Reiner	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	and	_	Word	Word	_	19	L	19:L	_
+19	met	_	Word	Word	_	2	H	2:H	_
+20	his	_	Word	Word	_	24	E	24:E	_
+21	future	_	Word	Word	_	20	T	20:T	_
+22	wife	_	Word	Word	_	20	A	20:A	_
+23	,	_	Punctuation	Punctuation	_	24	U	24:U	_
+24	Julia	_	Word	Word	_	19	A	19:A	_
+25	Bingham	_	Word	Word	_	24	Terminal	24:Terminal	_
+26	,	_	Punctuation	Punctuation	_	24	U	24:U	_
+27	who	_	Word	Word	_	28	R	28:R	_
+28	was	_	Word	Word	_	24	E	24:E	_
+29	one	_	Word	Word	_	37	Q	37:Q	_
+30	of	_	Word	Word	_	37	R	37:R	_
+31	Castle	_	Word	Word	_	37	A	37:A	_
+32	Rock	_	Word	Word	_	31	Terminal	31:Terminal	_
+33	's	_	Word	Word	_	31	R	31:R	_
+34	business	_	Word	Word	_	37	A	37:A	_
+35	-	_	Punctuation	Punctuation	_	34	U	34:U	_
+36	affairs	_	Word	Word	_	34	E	34:E	_
+37	lawyers	_	Word	Word	_	28	A	28:A	_
+38	.	_	Punctuation	Punctuation	_	37	U	37:U	_
+

@@ -1,0 +1,56 @@
+# format = ucca
+# sent_id = 470002
+# text = The Lakers won the first game , and led by two points in Game 2 with 18 seconds to go , but after a layup by Gerald Henderson , Johnson failed to get a shot off before the final buzzer sounded , and the Lakers lost 124 - 121 in overtime .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	Lakers	_	Word	Word	_	0	C	0:C|20:A	_
+3	won	_	Word	Word	_	0	H	0:H	_
+4	the	_	Word	Word	_	6	E	6:E	_
+5	first	_	Word	Word	_	6	Q	6:Q	_
+6	game	_	Word	Word	_	3	A	3:A	_
+7	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+8	and	_	Word	Word	_	9	L	9:L	_
+9	led	_	Word	Word	_	3	H	3:H	_
+10	by	_	Word	Word	_	12	R	12:R	_
+11	two	_	Word	Word	_	12	Q	12:Q	_
+12	points	_	Word	Word	_	9	A	9:A	_
+13	in	_	Word	Word	_	14	R	14:R	_
+14	Game	_	Word	Word	_	9	A	9:A	_
+15	2	_	Word	Word	_	14	Q	14:Q	_
+16	with	_	Word	Word	_	20	R	20:R	_
+17	18	_	Word	Word	_	18	Q	18:Q	_
+18	seconds	_	Word	Word	_	20	T	20:T	_
+19	to	_	Word	Word	_	20	F	20:F	_
+20	go	_	Word	Word	_	9	A	9:A	_
+21	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+22	but	_	Word	Word	_	25	L	25:L	_
+23	after	_	Word	Word	_	25	L	25:L	_
+24	a	_	Word	Word	_	25	E	25:E	_
+25	layup	_	Word	Word	_	3	H	3:H	_
+26	by	_	Word	Word	_	27	R	27:R	_
+27	Gerald	_	Word	Word	_	25	A	25:A	_
+28	Henderson	_	Word	Word	_	27	Terminal	27:Terminal	_
+29	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+30	Johnson	_	Word	Word	_	33	A	33:A	_
+31	failed	_	Word	Word	_	33	D	33:D	_
+32	to	_	Word	Word	_	33	F	33:F	_
+33	get	_	Word	Word	_	3	H	3:H	_
+34	a	_	Word	Word	_	33	Terminal	33:Terminal	_
+35	shot	_	Word	Word	_	33	Terminal	33:Terminal	_
+36	off	_	Word	Word	_	33	Terminal	33:Terminal	_
+37	before	_	Word	Word	_	41	L	41:L	_
+38	the	_	Word	Word	_	40	E	40:E	_
+39	final	_	Word	Word	_	40	E	40:E	_
+40	buzzer	_	Word	Word	_	41	A	41:A	_
+41	sounded	_	Word	Word	_	3	H	3:H	_
+42	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+43	and	_	Word	Word	_	46	L	46:L	_
+44	the	_	Word	Word	_	45	E	45:E	_
+45	Lakers	_	Word	Word	_	46	A	46:A	_
+46	lost	_	Word	Word	_	3	H	3:H	_
+47	124	_	Word	Word	_	46	A	46:A	_
+48	-	_	Punctuation	Punctuation	_	47	U	47:U	_
+49	121	_	Word	Word	_	47	C	47:C	_
+50	in	_	Word	Word	_	51	R	51:R	_
+51	overtime	_	Word	Word	_	46	D	46:D	_
+52	.	_	Punctuation	Punctuation	_	51	U	51:U	_
+

@@ -1,0 +1,46 @@
+# format = ucca
+# sent_id = 234009
+# text = Some 50 police and security personnel were required to separate protesters from Chan , as they were attempting to spit at him when he arrived at Taipei airport for a charity sponsored by cable TV channel TVBS on 18 June 2008 .
+1	Some	_	Word	Word	_	3	E	3:E	_
+2	50	_	Word	Word	_	3	Q	3:Q	_
+3	police	_	Word	Word	_	8	A	8:A	_
+4	and	_	Word	Word	_	3	N	3:N	_
+5	security	_	Word	Word	_	3	C	3:C	_
+6	personnel	_	Word	Word	_	5	A	5:A	_
+7	were	_	Word	Word	_	8	F	8:F	_
+8	required	_	Word	Word	_	0	H	0:H	_
+9	to	_	Word	Word	_	10	F	10:F	_
+10	separate	_	Word	Word	_	8	A	8:A	_
+11	protesters	_	Word	Word	_	10	A	10:A	_
+12	from	_	Word	Word	_	13	R	13:R	_
+13	Chan	_	Word	Word	_	10	A	10:A	_
+14	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+15	as	_	Word	Word	_	20	L	20:L	_
+16	they	_	Word	Word	_	20	A	20:A	_
+17	were	_	Word	Word	_	20	F	20:F	_
+18	attempting	_	Word	Word	_	20	D	20:D	_
+19	to	_	Word	Word	_	20	F	20:F	_
+20	spit	_	Word	Word	_	8	H	8:H	_
+21	at	_	Word	Word	_	22	R	22:R	_
+22	him	_	Word	Word	_	20	A	20:A	_
+23	when	_	Word	Word	_	25	L	25:L	_
+24	he	_	Word	Word	_	25	A	25:A|31:A	_
+25	arrived	_	Word	Word	_	8	H	8:H	_
+26	at	_	Word	Word	_	28	R	28:R	_
+27	Taipei	_	Word	Word	_	28	E	28:E	_
+28	airport	_	Word	Word	_	25	A	25:A	_
+29	for	_	Word	Word	_	31	L	31:L	_
+30	a	_	Word	Word	_	31	F	31:F	_
+31	charity	_	Word	Word	_	8	H	8:H	_
+32	sponsored	_	Word	Word	_	8	H	8:H	_
+33	by	_	Word	Word	_	37	R	37:R	_
+34	cable	_	Word	Word	_	35	E	35:E	_
+35	TV	_	Word	Word	_	37	E	37:E	_
+36	channel	_	Word	Word	_	37	E	37:E	_
+37	TVBS	_	Word	Word	_	32	A	32:A	_
+38	on	_	Word	Word	_	39	R	39:R	_
+39	18	_	Word	Word	_	25	T	25:T	_
+40	June	_	Word	Word	_	39	C	39:C	_
+41	2008	_	Word	Word	_	39	C	39:C	_
+42	.	_	Punctuation	Punctuation	_	39	U	39:U	_
+

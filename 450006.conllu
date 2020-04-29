@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 450006
+# text = Jennings then briefly attended Carleton University , where he says he " lasted about 10 minutes " before dropping out .
+1	Jennings	_	Word	Word	_	4	A	4:A	_
+2	then	_	Word	Word	_	10	L	10:L	_
+3	briefly	_	Word	Word	_	4	D	4:D	_
+4	attended	_	Word	Word	_	0	H	0:H	_
+5	Carleton	_	Word	Word	_	6	E	6:E	_
+6	University	_	Word	Word	_	4	A	4:A	_
+7	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+8	where	_	Word	Word	_	10	L	10:L	_
+9	he	_	Word	Word	_	10	A	10:A|19:A	_
+10	says	_	Word	Word	_	4	H	4:H	_
+11	he	_	Word	Word	_	13	A	13:A	_
+12	"	_	Punctuation	Punctuation	_	13	U	13:U	_
+13	lasted	_	Word	Word	_	10	A	10:A	_
+14	about	_	Word	Word	_	16	E	16:E	_
+15	10	_	Word	Word	_	16	Q	16:Q	_
+16	minutes	_	Word	Word	_	13	T	13:T	_
+17	"	_	Punctuation	Punctuation	_	13	U	13:U	_
+18	before	_	Word	Word	_	19	L	19:L	_
+19	dropping	_	Word	Word	_	13	H	13:H	_
+20	out	_	Word	Word	_	19	Terminal	19:Terminal	_
+21	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

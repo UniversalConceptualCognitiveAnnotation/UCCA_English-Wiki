@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 192008
+# text = Although Sports Night was critically acclaimed , ABC canceled the show after two seasons due to its low ratings .
+1	Although	_	Word	Word	_	9	L	9:L	_
+2	Sports	_	Word	Word	_	6	A	6:A	_
+3	Night	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	was	_	Word	Word	_	6	F	6:F	_
+5	critically	_	Word	Word	_	6	D	6:D	_
+6	acclaimed	_	Word	Word	_	0	H	0:H	_
+7	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	ABC	_	Word	Word	_	9	A	9:A	_
+9	canceled	_	Word	Word	_	6	H	6:H	_
+10	the	_	Word	Word	_	11	E	11:E	_
+11	show	_	Word	Word	_	9	A	9:A	_
+12	after	_	Word	Word	_	14	L	14:L	_
+13	two	_	Word	Word	_	14	Q	14:Q	_
+14	seasons	_	Word	Word	_	6	H	6:H	_
+15	due	_	Word	Word	_	19	L	19:L	_
+16	to	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	its	_	Word	Word	_	19	A	19:A	_
+18	low	_	Word	Word	_	19	D	19:D	_
+19	ratings	_	Word	Word	_	6	H	6:H	_
+20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

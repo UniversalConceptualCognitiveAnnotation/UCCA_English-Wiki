@@ -1,0 +1,45 @@
+# format = ucca
+# sent_id = 961000
+# text = In 1953 , Leigh recovered sufficiently to play The Sleeping Prince with Olivier ; and , in 1955 , they performed a season at Stratford - upon - Avon in Shakespeare 's Twelfth Night , Macbeth , and Titus Andronicus .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1953	_	Word	Word	_	5	T	5:T	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	Leigh	_	Word	Word	_	5	A	5:A|8:A	_
+5	recovered	_	Word	Word	_	0	H	0:H	_
+6	sufficiently	_	Word	Word	_	5	D	5:D	_
+7	to	_	Word	Word	_	8	L	8:L	_
+8	play	_	Word	Word	_	5	H	5:H	_
+9	The	_	Word	Word	_	8	A	8:A	_
+10	Sleeping	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	Prince	_	Word	Word	_	9	Terminal	9:Terminal	_
+12	with	_	Word	Word	_	13	R	13:R	_
+13	Olivier	_	Word	Word	_	8	A	8:A	_
+14	;	_	Punctuation	Punctuation	_	5	U	5:U	_
+15	and	_	Word	Word	_	21	L	21:L	_
+16	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+17	in	_	Word	Word	_	18	R	18:R	_
+18	1955	_	Word	Word	_	21	T	21:T	_
+19	,	_	Punctuation	Punctuation	_	21	U	21:U	_
+20	they	_	Word	Word	_	21	A	21:A	_
+21	performed	_	Word	Word	_	5	H	5:H	_
+22	a	_	Word	Word	_	23	E	23:E	_
+23	season	_	Word	Word	_	21	T	21:T	_
+24	at	_	Word	Word	_	25	R	25:R	_
+25	Stratford	_	Word	Word	_	21	A	21:A	_
+26	-	_	Punctuation	Punctuation	_	25	U	25:U	_
+27	upon	_	Word	Word	_	25	Terminal	25:Terminal	_
+28	-	_	Punctuation	Punctuation	_	25	U	25:U	_
+29	Avon	_	Word	Word	_	25	Terminal	25:Terminal	_
+30	in	_	Word	Word	_	33	R	33:R	_
+31	Shakespeare	_	Word	Word	_	32	A	32:A	_
+32	's	_	Word	Word	_	33	E	33:E	_
+33	Twelfth	_	Word	Word	_	21	A	21:A	_
+34	Night	_	Word	Word	_	33	Terminal	33:Terminal	_
+35	,	_	Punctuation	Punctuation	_	33	U	33:U	_
+36	Macbeth	_	Word	Word	_	33	C	33:C	_
+37	,	_	Punctuation	Punctuation	_	33	U	33:U	_
+38	and	_	Word	Word	_	33	N	33:N	_
+39	Titus	_	Word	Word	_	33	C	33:C	_
+40	Andronicus	_	Word	Word	_	39	Terminal	39:Terminal	_
+41	.	_	Punctuation	Punctuation	_	33	U	33:U	_
+

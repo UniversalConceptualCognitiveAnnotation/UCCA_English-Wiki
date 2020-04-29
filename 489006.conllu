@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 489006
+# text = Lucky You , a romantic comedy on which Bana worked before filming Munich , was released in early 2007 .
+1	Lucky	_	Word	Word	_	16	A	16:A	_
+2	You	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+4	a	_	Word	Word	_	6	E	6:E	_
+5	romantic	_	Word	Word	_	6	E	6:E	_
+6	comedy	_	Word	Word	_	1	E	1:E	_
+7	on	_	Word	Word	_	10	R	10:R	_
+8	which	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	Bana	_	Word	Word	_	10	A	10:A|12:A	_
+10	worked	_	Word	Word	_	6	E	6:E	_
+11	before	_	Word	Word	_	12	L	12:L	_
+12	filming	_	Word	Word	_	10	H	10:H	_
+13	Munich	_	Word	Word	_	12	A	12:A	_
+14	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+15	was	_	Word	Word	_	16	F	16:F	_
+16	released	_	Word	Word	_	0	H	0:H	_
+17	in	_	Word	Word	_	19	R	19:R	_
+18	early	_	Word	Word	_	19	E	19:E	_
+19	2007	_	Word	Word	_	16	T	16:T	_
+20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

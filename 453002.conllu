@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 453002
+# text = AM America debuted on January 6 , 1975 , with Jennings delivering regular newscasts from Washington .
+1	AM	_	Word	Word	_	3	A	3:A	_
+2	America	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	debuted	_	Word	Word	_	0	H	0:H	_
+4	on	_	Word	Word	_	5	R	5:R	_
+5	January	_	Word	Word	_	3	T	3:T	_
+6	6	_	Word	Word	_	5	C	5:C	_
+7	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+8	1975	_	Word	Word	_	5	C	5:C	_
+9	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+10	with	_	Word	Word	_	12	L	12:L	_
+11	Jennings	_	Word	Word	_	12	A	12:A	_
+12	delivering	_	Word	Word	_	3	H	3:H	_
+13	regular	_	Word	Word	_	14	E	14:E	_
+14	newscasts	_	Word	Word	_	12	A	12:A	_
+15	from	_	Word	Word	_	16	R	16:R	_
+16	Washington	_	Word	Word	_	12	A	12:A	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

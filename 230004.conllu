@@ -1,0 +1,39 @@
+# format = ucca
+# sent_id = 230004
+# text = Over the years , Chan has dislocated his pelvis and broken his fingers , toes , nose , both cheekbones , hips , sternum , neck , ankle , and ribs on numerous occasions .
+1	Over	_	Word	Word	_	3	R	3:R	_
+2	the	_	Word	Word	_	3	F	3:F	_
+3	years	_	Word	Word	_	7	T	7:T	_
+4	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+5	Chan	_	Word	Word	_	7	A	7:A|11:A	_
+6	has	_	Word	Word	_	7	F	7:F	_
+7	dislocated	_	Word	Word	_	0	H	0:H	_
+8	his	_	Word	Word	_	9	E	9:E	_
+9	pelvis	_	Word	Word	_	7	A	7:A	_
+10	and	_	Word	Word	_	11	L	11:L	_
+11	broken	_	Word	Word	_	7	H	7:H	_
+12	his	_	Word	Word	_	13	E	13:E	_
+13	fingers	_	Word	Word	_	11	A	11:A	_
+14	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+15	toes	_	Word	Word	_	13	C	13:C	_
+16	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+17	nose	_	Word	Word	_	13	C	13:C	_
+18	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+19	both	_	Word	Word	_	20	Q	20:Q	_
+20	cheekbones	_	Word	Word	_	13	C	13:C	_
+21	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+22	hips	_	Word	Word	_	13	C	13:C	_
+23	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+24	sternum	_	Word	Word	_	13	C	13:C	_
+25	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+26	neck	_	Word	Word	_	13	C	13:C	_
+27	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+28	ankle	_	Word	Word	_	13	C	13:C	_
+29	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+30	and	_	Word	Word	_	13	N	13:N	_
+31	ribs	_	Word	Word	_	13	C	13:C	_
+32	on	_	Word	Word	_	34	R	34:R	_
+33	numerous	_	Word	Word	_	34	Q	34:Q	_
+34	occasions	_	Word	Word	_	11	D	11:D	_
+35	.	_	Punctuation	Punctuation	_	34	U	34:U	_
+

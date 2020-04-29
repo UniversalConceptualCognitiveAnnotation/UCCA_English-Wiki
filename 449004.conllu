@@ -1,0 +1,37 @@
+# format = ucca
+# sent_id = 449004
+# text = He began his professional career with CJOH - TV in Ottawa during its early years , anchoring the local newscasts and hosting a teen dance show , Saturday Date , on Saturdays .
+1	He	_	Word	Word	_	5	A	5:A|17:A|22:A	_
+2	began	_	Word	Word	_	5	D	5:D	_
+3	his	_	Word	Word	_	5	E	5:E	_
+4	professional	_	Word	Word	_	5	D	5:D	_
+5	career	_	Word	Word	_	0	H	0:H	_
+6	with	_	Word	Word	_	7	R	7:R	_
+7	CJOH	_	Word	Word	_	5	A	5:A	_
+8	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	TV	_	Word	Word	_	7	Terminal	7:Terminal	_
+10	in	_	Word	Word	_	11	R	11:R	_
+11	Ottawa	_	Word	Word	_	7	E	7:E	_
+12	during	_	Word	Word	_	15	R	15:R	_
+13	its	_	Word	Word	_	15	E	15:E	_
+14	early	_	Word	Word	_	15	E	15:E	_
+15	years	_	Word	Word	_	5	T	5:T	_
+16	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+17	anchoring	_	Word	Word	_	5	H	5:H	_
+18	the	_	Word	Word	_	20	E	20:E	_
+19	local	_	Word	Word	_	20	E	20:E	_
+20	newscasts	_	Word	Word	_	17	A	17:A	_
+21	and	_	Word	Word	_	22	L	22:L	_
+22	hosting	_	Word	Word	_	5	H	5:H	_
+23	a	_	Word	Word	_	28	E	28:E	_
+24	teen	_	Word	Word	_	28	E	28:E	_
+25	dance	_	Word	Word	_	26	E	26:E	_
+26	show	_	Word	Word	_	28	E	28:E	_
+27	,	_	Punctuation	Punctuation	_	28	U	28:U	_
+28	Saturday	_	Word	Word	_	22	A	22:A	_
+29	Date	_	Word	Word	_	28	Terminal	28:Terminal	_
+30	,	_	Punctuation	Punctuation	_	22	U	22:U	_
+31	on	_	Word	Word	_	32	R	32:R	_
+32	Saturdays	_	Word	Word	_	22	T	22:T	_
+33	.	_	Punctuation	Punctuation	_	32	U	32:U	_
+

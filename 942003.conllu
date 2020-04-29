@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 942003
+# text = Inspired by music of the 1980s , the album was a success with sales of over seven million copies .
+1	Inspired	_	Word	Word	_	0	H	0:H	_
+2	by	_	Word	Word	_	3	R	3:R	_
+3	music	_	Word	Word	_	1	A	1:A	_
+4	of	_	Word	Word	_	6	R	6:R	_
+5	the	_	Word	Word	_	6	E	6:E	_
+6	1980s	_	Word	Word	_	3	E	3:E	_
+7	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+8	the	_	Word	Word	_	9	E	9:E	_
+9	album	_	Word	Word	_	0	C	0:C|1:A|14:A	_
+10	was	_	Word	Word	_	12	F	12:F	_
+11	a	_	Word	Word	_	12	E	12:E	_
+12	success	_	Word	Word	_	1	H	1:H	_
+13	with	_	Word	Word	_	14	L	14:L	_
+14	sales	_	Word	Word	_	1	H	1:H	_
+15	of	_	Word	Word	_	19	R	19:R	_
+16	over	_	Word	Word	_	17	E	17:E	_
+17	seven	_	Word	Word	_	19	Q	19:Q	_
+18	million	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	copies	_	Word	Word	_	14	A	14:A	_
+20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

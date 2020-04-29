@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 563011
+# text = Later that night , he appeared on Hy Gardner Calling , a popular local TV show .
+1	Later	_	Word	Word	_	3	R	3:R	_
+2	that	_	Word	Word	_	3	E	3:E	_
+3	night	_	Word	Word	_	6	T	6:T	_
+4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	he	_	Word	Word	_	6	A	6:A	_
+6	appeared	_	Word	Word	_	0	H	0:H	_
+7	on	_	Word	Word	_	8	R	8:R	_
+8	Hy	_	Word	Word	_	6	A	6:A	_
+9	Gardner	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	Calling	_	Word	Word	_	8	Terminal	8:Terminal	_
+11	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+12	a	_	Word	Word	_	16	E	16:E	_
+13	popular	_	Word	Word	_	16	E	16:E	_
+14	local	_	Word	Word	_	16	E	16:E	_
+15	TV	_	Word	Word	_	16	E	16:E	_
+16	show	_	Word	Word	_	8	E	8:E	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

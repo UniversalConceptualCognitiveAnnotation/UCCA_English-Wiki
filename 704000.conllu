@@ -1,0 +1,52 @@
+# format = ucca
+# sent_id = 704000
+# text = Running through late 1975 and again through early 1976 , the tour encompassed the release of the album Desire , with many of Dylan 's new songs featuring an almost travelogue - like narrative style , showing the influence of his new collaborator , playwright Jacques Levy .
+1	Running	_	Word	Word	_	0	H	0:H	_
+2	through	_	Word	Word	_	4	R	4:R	_
+3	late	_	Word	Word	_	4	E	4:E	_
+4	1975	_	Word	Word	_	1	T	1:T	_
+5	and	_	Word	Word	_	4	N	4:N	_
+6	again	_	Word	Word	_	9	D	9:D	_
+7	through	_	Word	Word	_	9	R	9:R	_
+8	early	_	Word	Word	_	9	E	9:E	_
+9	1976	_	Word	Word	_	4	C	4:C	_
+10	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+11	the	_	Word	Word	_	12	E	12:E	_
+12	tour	_	Word	Word	_	0	C	0:C|1:P	_
+13	encompassed	_	Word	Word	_	1	H	1:H	_
+14	the	_	Word	Word	_	15	E	15:E	_
+15	release	_	Word	Word	_	13	A	13:A	_
+16	of	_	Word	Word	_	19	R	19:R	_
+17	the	_	Word	Word	_	18	E	18:E	_
+18	album	_	Word	Word	_	19	E	19:E	_
+19	Desire	_	Word	Word	_	15	A	15:A	_
+20	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+21	with	_	Word	Word	_	28	L	28:L	_
+22	many	_	Word	Word	_	27	Q	27:Q	_
+23	of	_	Word	Word	_	27	R	27:R	_
+24	Dylan	_	Word	Word	_	25	A	25:A	_
+25	's	_	Word	Word	_	27	E	27:E	_
+26	new	_	Word	Word	_	27	E	27:E	_
+27	songs	_	Word	Word	_	0	C	0:C|25:A|26:A|37:A	_
+28	featuring	_	Word	Word	_	1	H	1:H	_
+29	an	_	Word	Word	_	35	E	35:E	_
+30	almost	_	Word	Word	_	31	E	31:E	_
+31	travelogue	_	Word	Word	_	35	E	35:E	_
+32	-	_	Punctuation	Punctuation	_	31	U	31:U	_
+33	like	_	Word	Word	_	31	R	31:R	_
+34	narrative	_	Word	Word	_	35	E	35:E	_
+35	style	_	Word	Word	_	28	A	28:A	_
+36	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+37	showing	_	Word	Word	_	1	H	1:H	_
+38	the	_	Word	Word	_	39	E	39:E	_
+39	influence	_	Word	Word	_	37	A	37:A	_
+40	of	_	Word	Word	_	46	R	46:R	_
+41	his	_	Word	Word	_	43	A	43:A	_
+42	new	_	Word	Word	_	43	D	43:D	_
+43	collaborator	_	Word	Word	_	46	E	46:E	_
+44	,	_	Punctuation	Punctuation	_	46	U	46:U	_
+45	playwright	_	Word	Word	_	46	E	46:E	_
+46	Jacques	_	Word	Word	_	39	A	39:A	_
+47	Levy	_	Word	Word	_	46	Terminal	46:Terminal	_
+48	.	_	Punctuation	Punctuation	_	46	U	46:U	_
+

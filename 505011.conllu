@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 505011
+# text = Co - produced by Chic 's Nile Rodgers , the album went platinum in both the UK and the US .
+1	Co	_	Word	Word	_	3	D	3:D	_
+2	-	_	Punctuation	Punctuation	_	3	U	3:U	_
+3	produced	_	Word	Word	_	0	H	0:H	_
+4	by	_	Word	Word	_	7	R	7:R	_
+5	Chic	_	Word	Word	_	7	E	7:E	_
+6	's	_	Word	Word	_	5	R	5:R	_
+7	Nile	_	Word	Word	_	3	A	3:A	_
+8	Rodgers	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+10	the	_	Word	Word	_	11	E	11:E	_
+11	album	_	Word	Word	_	13	A	13:A|3:A	_
+12	went	_	Word	Word	_	13	D	13:D	_
+13	platinum	_	Word	Word	_	3	H	3:H	_
+14	in	_	Word	Word	_	17	R	17:R	_
+15	both	_	Word	Word	_	17	Q	17:Q	_
+16	the	_	Word	Word	_	17	E	17:E	_
+17	UK	_	Word	Word	_	13	A	13:A	_
+18	and	_	Word	Word	_	17	N	17:N	_
+19	the	_	Word	Word	_	20	E	20:E	_
+20	US	_	Word	Word	_	17	C	17:C	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+

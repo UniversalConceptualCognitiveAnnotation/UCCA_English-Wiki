@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 469008
+# text = During the championship series against the Sixers , Johnson averaged 16.2 points on .533 shooting , 10.8 rebounds , 8.0 assists , and 2.5 steals per game .
+1	During	_	Word	Word	_	10	L	10:L	_
+2	the	_	Word	Word	_	4	E	4:E	_
+3	championship	_	Word	Word	_	0	H	0:H	_
+4	series	_	Word	Word	_	3	D	3:D	_
+5	against	_	Word	Word	_	7	R	7:R	_
+6	the	_	Word	Word	_	7	E	7:E	_
+7	Sixers	_	Word	Word	_	3	A	3:A	_
+8	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+9	Johnson	_	Word	Word	_	10	A	10:A|3:A|15:A|18:A|21:A	_
+10	averaged	_	Word	Word	_	3	H	3:H	_
+11	16.2	_	Word	Word	_	12	Q	12:Q	_
+12	points	_	Word	Word	_	10	A	10:A	_
+13	on	_	Word	Word	_	15	R	15:R	_
+14	.533	_	Word	Word	_	15	E	15:E	_
+15	shooting	_	Word	Word	_	12	E	12:E	_
+16	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+17	10.8	_	Word	Word	_	18	Q	18:Q	_
+18	rebounds	_	Word	Word	_	12	C	12:C	_
+19	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+20	8.0	_	Word	Word	_	21	Q	21:Q	_
+21	assists	_	Word	Word	_	12	C	12:C	_
+22	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+23	and	_	Word	Word	_	12	N	12:N	_
+24	2.5	_	Word	Word	_	25	Q	25:Q	_
+25	steals	_	Word	Word	_	12	C	12:C	_
+26	per	_	Word	Word	_	27	R	27:R	_
+27	game	_	Word	Word	_	12	E	12:E	_
+28	.	_	Punctuation	Punctuation	_	27	U	27:U	_
+

@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 688017
+# text = In May 2012 , Dylan received the Presidential Medal of Freedom from President Barack Obama .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	May	_	Word	Word	_	6	T	6:T	_
+3	2012	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	Dylan	_	Word	Word	_	6	A	6:A	_
+6	received	_	Word	Word	_	0	H	0:H	_
+7	the	_	Word	Word	_	9	E	9:E	_
+8	Presidential	_	Word	Word	_	9	E	9:E	_
+9	Medal	_	Word	Word	_	6	A	6:A	_
+10	of	_	Word	Word	_	11	R	11:R	_
+11	Freedom	_	Word	Word	_	9	E	9:E	_
+12	from	_	Word	Word	_	14	R	14:R	_
+13	President	_	Word	Word	_	14	E	14:E	_
+14	Barack	_	Word	Word	_	6	A	6:A	_
+15	Obama	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

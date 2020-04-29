@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 526013
+# text = These , in combination with migraine headaches , led her to miss several shooting days in a row .
+1	These	_	Word	Word	_	12	A	12:A	_
+2	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+3	in	_	Word	Word	_	4	R	4:R	_
+4	combination	_	Word	Word	_	1	N	1:N	_
+5	with	_	Word	Word	_	4	R	4:R	_
+6	migraine	_	Word	Word	_	7	E	7:E	_
+7	headaches	_	Word	Word	_	1	C	1:C	_
+8	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+9	led	_	Word	Word	_	12	D	12:D	_
+10	her	_	Word	Word	_	12	A	12:A	_
+11	to	_	Word	Word	_	12	F	12:F	_
+12	miss	_	Word	Word	_	0	H	0:H	_
+13	several	_	Word	Word	_	15	Q	15:Q	_
+14	shooting	_	Word	Word	_	15	E	15:E	_
+15	days	_	Word	Word	_	12	A	12:A	_
+16	in	_	Word	Word	_	12	D	12:D	_
+17	a	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	row	_	Word	Word	_	16	Terminal	16:Terminal	_
+19	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+

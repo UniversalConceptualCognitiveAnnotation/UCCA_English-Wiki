@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 1026018
+# text = These reports became embedded in the public consciousness , inspiring the nickname " Wacko Jacko " , which Jackson came to despise .
+1	These	_	Word	Word	_	2	E	2:E	_
+2	reports	_	Word	Word	_	0	C	0:C|10:A	_
+3	became	_	Word	Word	_	4	F	4:F	_
+4	embedded	_	Word	Word	_	0	H	0:H	_
+5	in	_	Word	Word	_	8	R	8:R	_
+6	the	_	Word	Word	_	8	F	8:F	_
+7	public	_	Word	Word	_	8	A	8:A	_
+8	consciousness	_	Word	Word	_	4	A	4:A	_
+9	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+10	inspiring	_	Word	Word	_	4	H	4:H	_
+11	the	_	Word	Word	_	12	E	12:E	_
+12	nickname	_	Word	Word	_	14	E	14:E	_
+13	"	_	Punctuation	Punctuation	_	14	U	14:U	_
+14	Wacko	_	Word	Word	_	10	A	10:A	_
+15	Jacko	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	"	_	Punctuation	Punctuation	_	14	U	14:U	_
+17	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+18	which	_	Word	Word	_	22	R	22:R	_
+19	Jackson	_	Word	Word	_	22	A	22:A	_
+20	came	_	Word	Word	_	22	D	22:D	_
+21	to	_	Word	Word	_	22	F	22:F	_
+22	despise	_	Word	Word	_	14	E	14:E	_
+23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+

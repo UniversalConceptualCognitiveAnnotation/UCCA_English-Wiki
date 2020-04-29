@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 463009
+# text = Notable journalists , political leaders , and other friends of Jennings attended .
+1	Notable	_	Word	Word	_	2	E	2:E	_
+2	journalists	_	Word	Word	_	12	A	12:A	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	political	_	Word	Word	_	5	E	5:E	_
+5	leaders	_	Word	Word	_	2	C	2:C	_
+6	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+7	and	_	Word	Word	_	2	N	2:N	_
+8	other	_	Word	Word	_	9	E	9:E	_
+9	friends	_	Word	Word	_	2	C	2:C	_
+10	of	_	Word	Word	_	11	R	11:R	_
+11	Jennings	_	Word	Word	_	9	E	9:E	_
+12	attended	_	Word	Word	_	0	H	0:H	_
+13	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+

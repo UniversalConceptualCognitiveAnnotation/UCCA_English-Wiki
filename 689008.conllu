@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 689008
+# text = In the Golden Chords , he performed covers of songs by Little Richard and Elvis Presley .
+1	In	_	Word	Word	_	3	R	3:R	_
+2	the	_	Word	Word	_	3	E	3:E	_
+3	Golden	_	Word	Word	_	7	A	7:A	_
+4	Chords	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+6	he	_	Word	Word	_	7	A	7:A	_
+7	performed	_	Word	Word	_	0	H	0:H	_
+8	covers	_	Word	Word	_	10	E	10:E	_
+9	of	_	Word	Word	_	10	R	10:R	_
+10	songs	_	Word	Word	_	7	A	7:A	_
+11	by	_	Word	Word	_	10	E	10:E	_
+12	Little	_	Word	Word	_	11	A	11:A	_
+13	Richard	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	and	_	Word	Word	_	12	N	12:N	_
+15	Elvis	_	Word	Word	_	12	C	12:C	_
+16	Presley	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+

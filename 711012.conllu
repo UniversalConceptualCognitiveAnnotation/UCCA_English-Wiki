@@ -1,0 +1,53 @@
+# format = ucca
+# sent_id = 711012
+# text = He also devoted chapters to the albums New Morning ( 1970 ) and Oh Mercy ( 1989 ) . The book reached number two on The New York Times ' Hardcover Non - Fiction best seller list in December 2004 and was nominated for a National Book Award .
+1	He	_	Word	Word	_	3	A	3:A	_
+2	also	_	Word	Word	_	3	D	3:D	_
+3	devoted	_	Word	Word	_	0	H	0:H	_
+4	chapters	_	Word	Word	_	3	A	3:A	_
+5	to	_	Word	Word	_	8	R	8:R	_
+6	the	_	Word	Word	_	7	E	7:E	_
+7	albums	_	Word	Word	_	8	E	8:E	_
+8	New	_	Word	Word	_	3	A	3:A	_
+9	Morning	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	(	_	Punctuation	Punctuation	_	8	U	8:U	_
+11	1970	_	Word	Word	_	8	E	8:E	_
+12	)	_	Punctuation	Punctuation	_	8	U	8:U	_
+13	and	_	Word	Word	_	8	N	8:N	_
+14	Oh	_	Word	Word	_	8	C	8:C	_
+15	Mercy	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	(	_	Punctuation	Punctuation	_	14	U	14:U	_
+17	1989	_	Word	Word	_	14	E	14:E	_
+18	)	_	Punctuation	Punctuation	_	3	U	3:U	_
+19	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+20	The	_	Word	Word	_	21	E	21:E	_
+21	book	_	Word	Word	_	0	C	0:C|31:C|36:A|43:A	_
+22	reached	_	Word	Word	_	3	H	3:H	_
+23	number	_	Word	Word	_	22	A	22:A	_
+24	two	_	Word	Word	_	23	Q	23:Q	_
+25	on	_	Word	Word	_	37	R	37:R	_
+26	The	_	Word	Word	_	37	E	37:E	_
+27	New	_	Word	Word	_	37	E	37:E	_
+28	York	_	Word	Word	_	27	Terminal	27:Terminal	_
+29	Times	_	Word	Word	_	27	Terminal	27:Terminal	_
+30	'	_	Punctuation	Punctuation	_	37	U	37:U	_
+31	Hardcover	_	Word	Word	_	37	E	37:E	_
+32	Non	_	Word	Word	_	34	E	34:E	_
+33	-	_	Punctuation	Punctuation	_	34	U	34:U	_
+34	Fiction	_	Word	Word	_	31	E	31:E	_
+35	best	_	Word	Word	_	36	D	36:D	_
+36	seller	_	Word	Word	_	31	E	31:E	_
+37	list	_	Word	Word	_	22	A	22:A	_
+38	in	_	Word	Word	_	39	R	39:R	_
+39	December	_	Word	Word	_	22	T	22:T	_
+40	2004	_	Word	Word	_	39	C	39:C	_
+41	and	_	Word	Word	_	43	L	43:L	_
+42	was	_	Word	Word	_	43	F	43:F	_
+43	nominated	_	Word	Word	_	3	H	3:H	_
+44	for	_	Word	Word	_	46	R	46:R	_
+45	a	_	Word	Word	_	46	E	46:E	_
+46	National	_	Word	Word	_	43	A	43:A	_
+47	Book	_	Word	Word	_	46	Terminal	46:Terminal	_
+48	Award	_	Word	Word	_	46	Terminal	46:Terminal	_
+49	.	_	Punctuation	Punctuation	_	46	U	46:U	_
+

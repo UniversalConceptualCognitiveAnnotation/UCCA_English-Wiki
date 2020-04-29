@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 247005
+# text = In the animated Waking Life , he shared a single scene with former co - star Julie Delpy continuing conversations begun in Before Sunrise .
+1	In	_	Word	Word	_	4	R	4:R	_
+2	the	_	Word	Word	_	4	F	4:F	_
+3	animated	_	Word	Word	_	4	E	4:E	_
+4	Waking	_	Word	Word	_	8	A	8:A	_
+5	Life	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	he	_	Word	Word	_	8	A	8:A|16:A|20:A|23:A	_
+8	shared	_	Word	Word	_	0	H	0:H	_
+9	a	_	Word	Word	_	11	F	11:F	_
+10	single	_	Word	Word	_	11	Q	11:Q	_
+11	scene	_	Word	Word	_	8	A	8:A	_
+12	with	_	Word	Word	_	17	R	17:R	_
+13	former	_	Word	Word	_	16	D	16:D	_
+14	co	_	Word	Word	_	16	D	16:D	_
+15	-	_	Punctuation	Punctuation	_	16	U	16:U	_
+16	star	_	Word	Word	_	17	E	17:E	_
+17	Julie	_	Word	Word	_	0	C	0:C|16:A|20:A|23:A	_
+18	Delpy	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	continuing	_	Word	Word	_	20	D	20:D	_
+20	conversations	_	Word	Word	_	8	H	8:H	_
+21	begun	_	Word	Word	_	23	D	23:D	_
+22	in	_	Word	Word	_	23	R	23:R	_
+23	Before	_	Word	Word	_	8	H	8:H	_
+24	Sunrise	_	Word	Word	_	23	Terminal	23:Terminal	_
+25	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

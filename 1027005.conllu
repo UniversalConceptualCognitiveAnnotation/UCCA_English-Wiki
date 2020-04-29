@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 1027005
+# text = The attraction would later return to Disneyland in 2010 after Jackson 's death .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	attraction	_	Word	Word	_	5	A	5:A	_
+3	would	_	Word	Word	_	5	D	5:D	_
+4	later	_	Word	Word	_	5	T	5:T	_
+5	return	_	Word	Word	_	0	H	0:H	_
+6	to	_	Word	Word	_	7	R	7:R	_
+7	Disneyland	_	Word	Word	_	5	A	5:A	_
+8	in	_	Word	Word	_	9	R	9:R	_
+9	2010	_	Word	Word	_	5	T	5:T	_
+10	after	_	Word	Word	_	13	L	13:L	_
+11	Jackson	_	Word	Word	_	13	A	13:A	_
+12	's	_	Word	Word	_	11	R	11:R	_
+13	death	_	Word	Word	_	5	H	5:H	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

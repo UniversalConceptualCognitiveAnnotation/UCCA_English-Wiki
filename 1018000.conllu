@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 1018000
+# text = Michael Joseph Jackson ( August 29 , 1958 - June 25 , 2009 ) was an American singer - songwriter , dancer , businessman and philanthropist .
+1	Michael	_	Word	Word	_	15	A	15:A	_
+2	Joseph	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	Jackson	_	Word	Word	_	1	Terminal	1:Terminal	_
+4	(	_	Punctuation	Punctuation	_	1	U	1:U	_
+5	August	_	Word	Word	_	1	E	1:E	_
+6	29	_	Word	Word	_	5	C	5:C	_
+7	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+8	1958	_	Word	Word	_	5	C	5:C	_
+9	-	_	Punctuation	Punctuation	_	1	U	1:U	_
+10	June	_	Word	Word	_	1	E	1:E	_
+11	25	_	Word	Word	_	10	C	10:C	_
+12	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+13	2009	_	Word	Word	_	10	C	10:C	_
+14	)	_	Punctuation	Punctuation	_	15	U	15:U	_
+15	was	_	Word	Word	_	0	H	0:H	_
+16	an	_	Word	Word	_	18	F	18:F	_
+17	American	_	Word	Word	_	18	E	18:E	_
+18	singer	_	Word	Word	_	15	A	15:A	_
+19	-	_	Punctuation	Punctuation	_	18	U	18:U	_
+20	songwriter	_	Word	Word	_	18	C	18:C	_
+21	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+22	dancer	_	Word	Word	_	18	C	18:C	_
+23	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+24	businessman	_	Word	Word	_	18	C	18:C	_
+25	and	_	Word	Word	_	18	N	18:N	_
+26	philanthropist	_	Word	Word	_	18	C	18:C	_
+27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+

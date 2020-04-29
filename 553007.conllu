@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 553007
+# text = He became the leading figure of the newly popular sound of rock and roll with a series of network television appearances and chart - topping records .
+1	He	_	Word	Word	_	5	A	5:A	_
+2	became	_	Word	Word	_	5	D	5:D	_
+3	the	_	Word	Word	_	5	E	5:E	_
+4	leading	_	Word	Word	_	5	E	5:E	_
+5	figure	_	Word	Word	_	0	H	0:H	_
+6	of	_	Word	Word	_	10	R	10:R	_
+7	the	_	Word	Word	_	10	E	10:E	_
+8	newly	_	Word	Word	_	9	D	9:D	_
+9	popular	_	Word	Word	_	10	E	10:E	_
+10	sound	_	Word	Word	_	5	A	5:A	_
+11	of	_	Word	Word	_	12	R	12:R	_
+12	rock	_	Word	Word	_	10	E	10:E	_
+13	and	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	roll	_	Word	Word	_	12	Terminal	12:Terminal	_
+15	with	_	Word	Word	_	21	L	21:L	_
+16	a	_	Word	Word	_	17	E	17:E	_
+17	series	_	Word	Word	_	21	D	21:D	_
+18	of	_	Word	Word	_	21	R	21:R	_
+19	network	_	Word	Word	_	20	E	20:E	_
+20	television	_	Word	Word	_	21	A	21:A	_
+21	appearances	_	Word	Word	_	5	H	5:H	_
+22	and	_	Word	Word	_	25	L	25:L	_
+23	chart	_	Word	Word	_	25	A	25:A	_
+24	-	_	Punctuation	Punctuation	_	25	U	25:U	_
+25	topping	_	Word	Word	_	5	H	5:H	_
+26	records	_	Word	Word	_	25	A	25:A	_
+27	.	_	Punctuation	Punctuation	_	25	U	25:U	_
+

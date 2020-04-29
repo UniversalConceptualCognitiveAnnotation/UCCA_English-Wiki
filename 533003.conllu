@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 533003
+# text = She performed in London at the Talk of the Town nightclub for a five - week run and made her last concert appearance in Copenhagen during March 1969 .
+1	She	_	Word	Word	_	2	A	2:A|23:A	_
+2	performed	_	Word	Word	_	0	H	0:H	_
+3	in	_	Word	Word	_	4	R	4:R	_
+4	London	_	Word	Word	_	2	A	2:A	_
+5	at	_	Word	Word	_	7	R	7:R	_
+6	the	_	Word	Word	_	7	F	7:F	_
+7	Talk	_	Word	Word	_	2	A	2:A	_
+8	of	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	the	_	Word	Word	_	7	Terminal	7:Terminal	_
+10	Town	_	Word	Word	_	7	Terminal	7:Terminal	_
+11	nightclub	_	Word	Word	_	7	E	7:E	_
+12	for	_	Word	Word	_	16	R	16:R	_
+13	a	_	Word	Word	_	16	F	16:F	_
+14	five	_	Word	Word	_	16	Q	16:Q	_
+15	-	_	Punctuation	Punctuation	_	16	U	16:U	_
+16	week	_	Word	Word	_	2	T	2:T	_
+17	run	_	Word	Word	_	16	E	16:E	_
+18	and	_	Word	Word	_	23	L	23:L	_
+19	made	_	Word	Word	_	23	F	23:F	_
+20	her	_	Word	Word	_	21	F	21:F	_
+21	last	_	Word	Word	_	23	D	23:D	_
+22	concert	_	Word	Word	_	23	A	23:A	_
+23	appearance	_	Word	Word	_	2	H	2:H	_
+24	in	_	Word	Word	_	25	R	25:R	_
+25	Copenhagen	_	Word	Word	_	23	A	23:A	_
+26	during	_	Word	Word	_	27	R	27:R	_
+27	March	_	Word	Word	_	23	T	23:T	_
+28	1969	_	Word	Word	_	27	C	27:C	_
+29	.	_	Punctuation	Punctuation	_	27	U	27:U	_
+

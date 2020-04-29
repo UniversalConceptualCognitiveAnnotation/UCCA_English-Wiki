@@ -1,0 +1,42 @@
+# format = ucca
+# sent_id = 958011
+# text = By 1948 , Olivier was on the board of directors for the Old Vic Theatre , and he and Leigh embarked on a six - month tour of Australia and New Zealand to raise funds for it .
+1	By	_	Word	Word	_	2	R	2:R	_
+2	1948	_	Word	Word	_	5	T	5:T	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	Olivier	_	Word	Word	_	5	A	5:A	_
+5	was	_	Word	Word	_	0	H	0:H	_
+6	on	_	Word	Word	_	8	R	8:R	_
+7	the	_	Word	Word	_	8	E	8:E	_
+8	board	_	Word	Word	_	5	A	5:A	_
+9	of	_	Word	Word	_	10	R	10:R	_
+10	directors	_	Word	Word	_	8	E	8:E	_
+11	for	_	Word	Word	_	15	R	15:R	_
+12	the	_	Word	Word	_	15	E	15:E	_
+13	Old	_	Word	Word	_	15	E	15:E	_
+14	Vic	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	Theatre	_	Word	Word	_	8	E	8:E	_
+16	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+17	and	_	Word	Word	_	27	L	27:L	_
+18	he	_	Word	Word	_	0	C	0:C|34:A	_
+19	and	_	Word	Word	_	18	N	18:N	_
+20	Leigh	_	Word	Word	_	18	C	18:C|34:A	_
+21	embarked	_	Word	Word	_	27	D	27:D	_
+22	on	_	Word	Word	_	27	R	27:R	_
+23	a	_	Word	Word	_	26	E	26:E	_
+24	six	_	Word	Word	_	26	Q	26:Q	_
+25	-	_	Punctuation	Punctuation	_	26	U	26:U	_
+26	month	_	Word	Word	_	27	T	27:T	_
+27	tour	_	Word	Word	_	5	H	5:H	_
+28	of	_	Word	Word	_	29	R	29:R	_
+29	Australia	_	Word	Word	_	27	A	27:A	_
+30	and	_	Word	Word	_	29	N	29:N	_
+31	New	_	Word	Word	_	29	C	29:C	_
+32	Zealand	_	Word	Word	_	31	Terminal	31:Terminal	_
+33	to	_	Word	Word	_	34	L	34:L	_
+34	raise	_	Word	Word	_	5	H	5:H	_
+35	funds	_	Word	Word	_	34	A	34:A	_
+36	for	_	Word	Word	_	37	R	37:R	_
+37	it	_	Word	Word	_	34	A	34:A	_
+38	.	_	Punctuation	Punctuation	_	37	U	37:U	_
+

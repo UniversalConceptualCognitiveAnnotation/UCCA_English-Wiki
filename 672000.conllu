@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 672000
+# text = E = MC ² debuted at number one on the Billboard 200 with 463,000 copies sold , the biggest opening week sales of her career .
+1	E	_	Word	Word	_	5	A	5:A	_
+2	=	_	Punctuation	Punctuation	_	1	U	1:U	_
+3	MC	_	Word	Word	_	1	Terminal	1:Terminal	_
+4	²	_	Punctuation	Punctuation	_	5	U	5:U	_
+5	debuted	_	Word	Word	_	0	H	0:H	_
+6	at	_	Word	Word	_	7	R	7:R	_
+7	number	_	Word	Word	_	5	A	5:A	_
+8	one	_	Word	Word	_	7	Q	7:Q	_
+9	on	_	Word	Word	_	11	R	11:R	_
+10	the	_	Word	Word	_	11	F	11:F	_
+11	Billboard	_	Word	Word	_	5	A	5:A	_
+12	200	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	with	_	Word	Word	_	16	L	16:L	_
+14	463,000	_	Word	Word	_	15	Q	15:Q	_
+15	copies	_	Word	Word	_	16	A	16:A	_
+16	sold	_	Word	Word	_	5	H	5:H	_
+17	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+18	the	_	Word	Word	_	19	F	19:F	_
+19	biggest	_	Word	Word	_	22	D	22:D	_
+20	opening	_	Word	Word	_	21	E	21:E	_
+21	week	_	Word	Word	_	22	T	22:T	_
+22	sales	_	Word	Word	_	5	H	5:H	_
+23	of	_	Word	Word	_	25	L	25:L	_
+24	her	_	Word	Word	_	25	A	25:A	_
+25	career	_	Word	Word	_	5	H	5:H	_
+26	.	_	Punctuation	Punctuation	_	25	U	25:U	_
+

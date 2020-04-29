@@ -1,0 +1,37 @@
+# format = ucca
+# sent_id = 646003
+# text = Ono became pregnant in 1968 and miscarried a male child they named John Ono Lennon II on 21 November 1968 , a few weeks after Lennon 's divorce from Cynthia was granted .
+1	Ono	_	Word	Word	_	3	A	3:A|7:A	_
+2	became	_	Word	Word	_	3	D	3:D	_
+3	pregnant	_	Word	Word	_	0	H	0:H	_
+4	in	_	Word	Word	_	5	R	5:R	_
+5	1968	_	Word	Word	_	3	T	3:T	_
+6	and	_	Word	Word	_	7	L	7:L	_
+7	miscarried	_	Word	Word	_	3	H	3:H	_
+8	a	_	Word	Word	_	10	E	10:E	_
+9	male	_	Word	Word	_	10	E	10:E	_
+10	child	_	Word	Word	_	7	A	7:A	_
+11	they	_	Word	Word	_	12	A	12:A	_
+12	named	_	Word	Word	_	10	E	10:E	_
+13	John	_	Word	Word	_	12	A	12:A	_
+14	Ono	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	Lennon	_	Word	Word	_	13	Terminal	13:Terminal	_
+16	II	_	Word	Word	_	13	Terminal	13:Terminal	_
+17	on	_	Word	Word	_	18	R	18:R	_
+18	21	_	Word	Word	_	7	T	7:T	_
+19	November	_	Word	Word	_	18	C	18:C	_
+20	1968	_	Word	Word	_	18	C	18:C	_
+21	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+22	a	_	Word	Word	_	32	L	32:L	_
+23	few	_	Word	Word	_	22	Terminal	22:Terminal	_
+24	weeks	_	Word	Word	_	22	Terminal	22:Terminal	_
+25	after	_	Word	Word	_	22	Terminal	22:Terminal	_
+26	Lennon	_	Word	Word	_	28	A	28:A	_
+27	's	_	Word	Word	_	26	R	26:R	_
+28	divorce	_	Word	Word	_	32	A	32:A	_
+29	from	_	Word	Word	_	30	R	30:R	_
+30	Cynthia	_	Word	Word	_	28	A	28:A	_
+31	was	_	Word	Word	_	32	F	32:F	_
+32	granted	_	Word	Word	_	3	H	3:H	_
+33	.	_	Punctuation	Punctuation	_	32	U	32:U	_
+

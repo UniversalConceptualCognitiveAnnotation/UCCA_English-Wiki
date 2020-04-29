@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 455004
+# text = Jennings and ABC were criticized for suddenly halting coverage of the convention for 30 minutes and airing a rerun of Hart to Hart instead .
+1	Jennings	_	Word	Word	_	5	A	5:A|8:A|17:A	_
+2	and	_	Word	Word	_	1	N	1:N	_
+3	ABC	_	Word	Word	_	1	C	1:C	_
+4	were	_	Word	Word	_	5	F	5:F	_
+5	criticized	_	Word	Word	_	0	H	0:H	_
+6	for	_	Word	Word	_	8	R	8:R	_
+7	suddenly	_	Word	Word	_	8	D	8:D	_
+8	halting	_	Word	Word	_	5	A	5:A	_
+9	coverage	_	Word	Word	_	8	A	8:A	_
+10	of	_	Word	Word	_	12	R	12:R	_
+11	the	_	Word	Word	_	12	E	12:E	_
+12	convention	_	Word	Word	_	9	A	9:A	_
+13	for	_	Word	Word	_	15	R	15:R	_
+14	30	_	Word	Word	_	15	Q	15:Q	_
+15	minutes	_	Word	Word	_	9	T	9:T	_
+16	and	_	Word	Word	_	17	L	17:L	_
+17	airing	_	Word	Word	_	8	H	8:H	_
+18	a	_	Word	Word	_	19	E	19:E	_
+19	rerun	_	Word	Word	_	17	A	17:A	_
+20	of	_	Word	Word	_	21	R	21:R	_
+21	Hart	_	Word	Word	_	19	E	19:E	_
+22	to	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	Hart	_	Word	Word	_	21	Terminal	21:Terminal	_
+24	instead	_	Word	Word	_	17	D	17:D	_
+25	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+

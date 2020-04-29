@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 213005
+# text = She has one younger brother named Christian , born in 1986 .
+1	She	_	Word	Word	_	2	A	2:A|5:A	_
+2	has	_	Word	Word	_	0	H	0:H	_
+3	one	_	Word	Word	_	5	Q	5:Q	_
+4	younger	_	Word	Word	_	5	E	5:E	_
+5	brother	_	Word	Word	_	2	A	2:A	_
+6	named	_	Word	Word	_	5	E	5:E	_
+7	Christian	_	Word	Word	_	6	A	6:A	_
+8	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+9	born	_	Word	Word	_	5	E	5:E	_
+10	in	_	Word	Word	_	11	R	11:R	_
+11	1986	_	Word	Word	_	9	T	9:T	_
+12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+

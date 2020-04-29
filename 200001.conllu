@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 200001
+# text = On July 12 , 2007 , Variety reported that Sorkin had signed a deal with DreamWorks to write three scripts .
+1	On	_	Word	Word	_	2	R	2:R	_
+2	July	_	Word	Word	_	8	T	8:T	_
+3	12	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	2007	_	Word	Word	_	2	C	2:C	_
+6	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	Variety	_	Word	Word	_	8	A	8:A	_
+8	reported	_	Word	Word	_	0	H	0:H	_
+9	that	_	Word	Word	_	12	R	12:R	_
+10	Sorkin	_	Word	Word	_	12	A	12:A|18:A	_
+11	had	_	Word	Word	_	12	F	12:F	_
+12	signed	_	Word	Word	_	8	A	8:A	_
+13	a	_	Word	Word	_	14	E	14:E	_
+14	deal	_	Word	Word	_	12	A	12:A	_
+15	with	_	Word	Word	_	16	R	16:R	_
+16	DreamWorks	_	Word	Word	_	14	E	14:E	_
+17	to	_	Word	Word	_	18	R	18:R	_
+18	write	_	Word	Word	_	12	A	12:A	_
+19	three	_	Word	Word	_	20	Q	20:Q	_
+20	scripts	_	Word	Word	_	18	A	18:A	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+

@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 692004
+# text = While in London , Dylan performed at several London folk clubs , including The Troubadour , Les Cousins , and Bunjies .
+1	While	_	Word	Word	_	6	L	6:L	_
+2	in	_	Word	Word	_	0	H	0:H	_
+3	London	_	Word	Word	_	2	A	2:A	_
+4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	Dylan	_	Word	Word	_	6	A	6:A|2:A	_
+6	performed	_	Word	Word	_	2	H	2:H	_
+7	at	_	Word	Word	_	11	R	11:R	_
+8	several	_	Word	Word	_	11	Q	11:Q	_
+9	London	_	Word	Word	_	11	E	11:E	_
+10	folk	_	Word	Word	_	11	E	11:E	_
+11	clubs	_	Word	Word	_	6	A	6:A	_
+12	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+13	including	_	Word	Word	_	14	R	14:R	_
+14	The	_	Word	Word	_	11	E	11:E	_
+15	Troubadour	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+17	Les	_	Word	Word	_	14	C	14:C	_
+18	Cousins	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+20	and	_	Word	Word	_	14	N	14:N	_
+21	Bunjies	_	Word	Word	_	14	C	14:C	_
+22	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 511001
+# text = In April , he announced , " I 'm taking a year off - no touring , no albums . "
+1	In	_	Word	Word	_	2	R	2:R	_
+2	April	_	Word	Word	_	5	T	5:T	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	he	_	Word	Word	_	5	A	5:A	_
+5	announced	_	Word	Word	_	0	H	0:H	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+8	I	_	Word	Word	_	10	A	10:A|16:A|19:A	_
+9	'm	_	Word	Word	_	10	F	10:F	_
+10	taking	_	Word	Word	_	5	A	5:A	_
+11	a	_	Word	Word	_	12	E	12:E	_
+12	year	_	Word	Word	_	10	T	10:T	_
+13	off	_	Word	Word	_	10	Terminal	10:Terminal	_
+14	-	_	Punctuation	Punctuation	_	10	U	10:U	_
+15	no	_	Word	Word	_	16	D	16:D	_
+16	touring	_	Word	Word	_	10	H	10:H	_
+17	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+18	no	_	Word	Word	_	19	D	19:D	_
+19	albums	_	Word	Word	_	10	H	10:H	_
+20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+21	"	_	Punctuation	Punctuation	_	19	U	19:U	_
+

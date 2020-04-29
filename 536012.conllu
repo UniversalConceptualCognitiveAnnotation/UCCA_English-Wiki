@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 536012
+# text = Despite his controversial public image , Warner remained a force in the motion picture industry until his retirement in the early 1970s .
+1	Despite	_	Word	Word	_	10	L	10:L	_
+2	his	_	Word	Word	_	5	A	5:A	_
+3	controversial	_	Word	Word	_	5	D	5:D	_
+4	public	_	Word	Word	_	5	A	5:A	_
+5	image	_	Word	Word	_	0	H	0:H	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	Warner	_	Word	Word	_	10	A	10:A	_
+8	remained	_	Word	Word	_	10	D	10:D	_
+9	a	_	Word	Word	_	10	F	10:F	_
+10	force	_	Word	Word	_	5	H	5:H	_
+11	in	_	Word	Word	_	15	R	15:R	_
+12	the	_	Word	Word	_	15	F	15:F	_
+13	motion	_	Word	Word	_	15	E	15:E	_
+14	picture	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	industry	_	Word	Word	_	10	A	10:A	_
+16	until	_	Word	Word	_	18	L	18:L	_
+17	his	_	Word	Word	_	18	A	18:A	_
+18	retirement	_	Word	Word	_	5	H	5:H	_
+19	in	_	Word	Word	_	22	R	22:R	_
+20	the	_	Word	Word	_	22	F	22:F	_
+21	early	_	Word	Word	_	22	E	22:E	_
+22	1970s	_	Word	Word	_	18	T	18:T	_
+23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+

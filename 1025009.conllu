@@ -1,0 +1,41 @@
+# format = ucca
+# sent_id = 1025009
+# text = In June 1985 , Jackson and Branca learned that Charles Koppelman 's and Marty Bandier 's The Entertainment Co. had made a tentative agreement with Holmes à Court to buy ATV Music for $ 50 million .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	June	_	Word	Word	_	8	T	8:T	_
+3	1985	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+5	Jackson	_	Word	Word	_	8	A	8:A	_
+6	and	_	Word	Word	_	5	N	5:N	_
+7	Branca	_	Word	Word	_	5	C	5:C	_
+8	learned	_	Word	Word	_	0	H	0:H	_
+9	that	_	Word	Word	_	24	R	24:R	_
+10	Charles	_	Word	Word	_	16	A	16:A	_
+11	Koppelman	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	's	_	Word	Word	_	10	F	10:F	_
+13	and	_	Word	Word	_	10	N	10:N	_
+14	Marty	_	Word	Word	_	10	C	10:C	_
+15	Bandier	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	's	_	Word	Word	_	17	E	17:E	_
+17	The	_	Word	Word	_	24	A	24:A	_
+18	Entertainment	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	Co.	_	Word	Word	_	17	Terminal	17:Terminal	_
+20	had	_	Word	Word	_	24	F	24:F	_
+21	made	_	Word	Word	_	24	F	24:F	_
+22	a	_	Word	Word	_	24	E	24:E	_
+23	tentative	_	Word	Word	_	24	D	24:D	_
+24	agreement	_	Word	Word	_	8	A	8:A	_
+25	with	_	Word	Word	_	26	R	26:R	_
+26	Holmes	_	Word	Word	_	24	A	24:A	_
+27	à	_	Word	Word	_	26	Terminal	26:Terminal	_
+28	Court	_	Word	Word	_	26	Terminal	26:Terminal	_
+29	to	_	Word	Word	_	30	F	30:F	_
+30	buy	_	Word	Word	_	24	A	24:A	_
+31	ATV	_	Word	Word	_	30	A	30:A	_
+32	Music	_	Word	Word	_	31	Terminal	31:Terminal	_
+33	for	_	Word	Word	_	34	R	34:R	_
+34	$	_	Word	Word	_	30	A	30:A	_
+35	50	_	Word	Word	_	34	Q	34:Q	_
+36	million	_	Word	Word	_	35	Terminal	35:Terminal	_
+37	.	_	Punctuation	Punctuation	_	34	U	34:U	_
+

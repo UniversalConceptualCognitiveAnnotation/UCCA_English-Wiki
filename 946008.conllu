@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 946008
+# text = To promote the album , Stefani embarked a worldwide tour , The Sweet Escape Tour .
+1	To	_	Word	Word	_	10	L	10:L	_
+2	promote	_	Word	Word	_	0	H	0:H	_
+3	the	_	Word	Word	_	4	E	4:E	_
+4	album	_	Word	Word	_	2	A	2:A	_
+5	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+6	Stefani	_	Word	Word	_	10	A	10:A|2:A	_
+7	embarked	_	Word	Word	_	10	D	10:D	_
+8	a	_	Word	Word	_	10	E	10:E	_
+9	worldwide	_	Word	Word	_	10	A	10:A	_
+10	tour	_	Word	Word	_	2	H	2:H	_
+11	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	The	_	Word	Word	_	10	A	10:A	_
+13	Sweet	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	Escape	_	Word	Word	_	12	Terminal	12:Terminal	_
+15	Tour	_	Word	Word	_	12	Terminal	12:Terminal	_
+16	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+

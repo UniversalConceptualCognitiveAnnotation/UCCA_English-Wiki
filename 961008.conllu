@@ -1,0 +1,40 @@
+# format = ucca
+# sent_id = 961008
+# text = In 1958 , considering her marriage to be over , Leigh began a relationship with the actor Jack Merivale , who knew of Leigh 's medical condition and assured Olivier he would care for her .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	1958	_	Word	Word	_	4	T	4:T	_
+3	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+4	considering	_	Word	Word	_	0	H	0:H	_
+5	her	_	Word	Word	_	6	A	6:A	_
+6	marriage	_	Word	Word	_	4	A	4:A	_
+7	to	_	Word	Word	_	6	F	6:F	_
+8	be	_	Word	Word	_	6	F	6:F	_
+9	over	_	Word	Word	_	6	D	6:D	_
+10	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+11	Leigh	_	Word	Word	_	14	A	14:A|4:A	_
+12	began	_	Word	Word	_	14	D	14:D	_
+13	a	_	Word	Word	_	14	E	14:E	_
+14	relationship	_	Word	Word	_	4	H	4:H	_
+15	with	_	Word	Word	_	18	R	18:R	_
+16	the	_	Word	Word	_	17	E	17:E	_
+17	actor	_	Word	Word	_	18	E	18:E	_
+18	Jack	_	Word	Word	_	14	A	14:A	_
+19	Merivale	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+21	who	_	Word	Word	_	22	R	22:R	_
+22	knew	_	Word	Word	_	18	E	18:E	_
+23	of	_	Word	Word	_	27	R	27:R	_
+24	Leigh	_	Word	Word	_	27	A	27:A	_
+25	's	_	Word	Word	_	24	R	24:R	_
+26	medical	_	Word	Word	_	27	A	27:A	_
+27	condition	_	Word	Word	_	22	A	22:A	_
+28	and	_	Word	Word	_	29	L	29:L	_
+29	assured	_	Word	Word	_	22	H	22:H	_
+30	Olivier	_	Word	Word	_	29	A	29:A	_
+31	he	_	Word	Word	_	33	A	33:A	_
+32	would	_	Word	Word	_	33	D	33:D	_
+33	care	_	Word	Word	_	29	A	29:A	_
+34	for	_	Word	Word	_	35	R	35:R	_
+35	her	_	Word	Word	_	33	A	33:A	_
+36	.	_	Punctuation	Punctuation	_	35	U	35:U	_
+

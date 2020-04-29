@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 191003
+# text = When production on A Few Good Men wrapped up , Sorkin took over and continued working on the script for Malice through until the final shooting script .
+1	When	_	Word	Word	_	12	L	12:L	_
+2	production	_	Word	Word	_	0	H	0:H	_
+3	on	_	Word	Word	_	4	R	4:R	_
+4	A	_	Word	Word	_	2	A	2:A	_
+5	Few	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	Good	_	Word	Word	_	4	Terminal	4:Terminal	_
+7	Men	_	Word	Word	_	4	Terminal	4:Terminal	_
+8	wrapped	_	Word	Word	_	2	D	2:D	_
+9	up	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+11	Sorkin	_	Word	Word	_	12	A	12:A|16:A	_
+12	took	_	Word	Word	_	2	H	2:H	_
+13	over	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	and	_	Word	Word	_	16	L	16:L	_
+15	continued	_	Word	Word	_	16	D	16:D	_
+16	working	_	Word	Word	_	2	H	2:H	_
+17	on	_	Word	Word	_	19	R	19:R	_
+18	the	_	Word	Word	_	19	E	19:E	_
+19	script	_	Word	Word	_	16	A	16:A	_
+20	for	_	Word	Word	_	21	R	21:R	_
+21	Malice	_	Word	Word	_	19	E	19:E	_
+22	through	_	Word	Word	_	23	E	23:E	_
+23	until	_	Word	Word	_	27	L	27:L	_
+24	the	_	Word	Word	_	27	E	27:E	_
+25	final	_	Word	Word	_	27	E	27:E	_
+26	shooting	_	Word	Word	_	27	E	27:E	_
+27	script	_	Word	Word	_	2	H	2:H	_
+28	.	_	Punctuation	Punctuation	_	27	U	27:U	_
+

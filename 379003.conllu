@@ -1,0 +1,34 @@
+# format = ucca
+# sent_id = 379003
+# text = He also auditioned to be Batman for one of the biggest blockbusters Batman Begins and came close to getting the role but Christian Bale was ultimately chosen for it .
+1	He	_	Word	Word	_	3	A	3:A|5:A|19:A	_
+2	also	_	Word	Word	_	3	D	3:D	_
+3	auditioned	_	Word	Word	_	0	H	0:H	_
+4	to	_	Word	Word	_	5	F	5:F	_
+5	be	_	Word	Word	_	3	A	3:A	_
+6	Batman	_	Word	Word	_	5	A	5:A	_
+7	for	_	Word	Word	_	13	R	13:R	_
+8	one	_	Word	Word	_	12	Q	12:Q	_
+9	of	_	Word	Word	_	12	R	12:R	_
+10	the	_	Word	Word	_	12	F	12:F	_
+11	biggest	_	Word	Word	_	12	E	12:E	_
+12	blockbusters	_	Word	Word	_	13	E	13:E	_
+13	Batman	_	Word	Word	_	3	A	3:A	_
+14	Begins	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	and	_	Word	Word	_	19	L	19:L	_
+16	came	_	Word	Word	_	19	D	19:D	_
+17	close	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	to	_	Word	Word	_	19	F	19:F	_
+19	getting	_	Word	Word	_	3	H	3:H	_
+20	the	_	Word	Word	_	21	F	21:F	_
+21	role	_	Word	Word	_	19	A	19:A	_
+22	but	_	Word	Word	_	27	L	27:L	_
+23	Christian	_	Word	Word	_	27	A	27:A	_
+24	Bale	_	Word	Word	_	23	Terminal	23:Terminal	_
+25	was	_	Word	Word	_	27	F	27:F	_
+26	ultimately	_	Word	Word	_	27	D	27:D	_
+27	chosen	_	Word	Word	_	3	H	3:H	_
+28	for	_	Word	Word	_	29	R	29:R	_
+29	it	_	Word	Word	_	27	A	27:A	_
+30	.	_	Punctuation	Punctuation	_	29	U	29:U	_
+

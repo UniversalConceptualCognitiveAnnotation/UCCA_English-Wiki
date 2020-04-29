@@ -1,0 +1,42 @@
+# format = ucca
+# sent_id = 467003
+# text = After the game , Fred Stabley Jr. , a sports writer for the Lansing State Journal , gave him the moniker despite the belief of Johnson 's mother , a Christian , that the name was sacrilegious .
+1	After	_	Word	Word	_	18	L	18:L	_
+2	the	_	Word	Word	_	3	E	3:E	_
+3	game	_	Word	Word	_	0	H	0:H	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	Fred	_	Word	Word	_	18	A	18:A	_
+6	Stabley	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	Jr.	_	Word	Word	_	5	Terminal	5:Terminal	_
+8	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+9	a	_	Word	Word	_	11	E	11:E	_
+10	sports	_	Word	Word	_	11	A	11:A	_
+11	writer	_	Word	Word	_	5	E	5:E	_
+12	for	_	Word	Word	_	14	R	14:R	_
+13	the	_	Word	Word	_	14	E	14:E	_
+14	Lansing	_	Word	Word	_	11	A	11:A	_
+15	State	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	Journal	_	Word	Word	_	14	Terminal	14:Terminal	_
+17	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+18	gave	_	Word	Word	_	3	H	3:H	_
+19	him	_	Word	Word	_	18	A	18:A	_
+20	the	_	Word	Word	_	21	E	21:E	_
+21	moniker	_	Word	Word	_	18	A	18:A	_
+22	despite	_	Word	Word	_	24	L	24:L	_
+23	the	_	Word	Word	_	24	E	24:E	_
+24	belief	_	Word	Word	_	3	H	3:H	_
+25	of	_	Word	Word	_	28	R	28:R	_
+26	Johnson	_	Word	Word	_	28	A	28:A	_
+27	's	_	Word	Word	_	26	R	26:R	_
+28	mother	_	Word	Word	_	24	A	24:A	_
+29	,	_	Punctuation	Punctuation	_	28	U	28:U	_
+30	a	_	Word	Word	_	31	E	31:E	_
+31	Christian	_	Word	Word	_	28	E	28:E	_
+32	,	_	Punctuation	Punctuation	_	24	U	24:U	_
+33	that	_	Word	Word	_	37	R	37:R	_
+34	the	_	Word	Word	_	35	E	35:E	_
+35	name	_	Word	Word	_	37	A	37:A	_
+36	was	_	Word	Word	_	37	F	37:F	_
+37	sacrilegious	_	Word	Word	_	24	A	24:A	_
+38	.	_	Punctuation	Punctuation	_	37	U	37:U	_
+

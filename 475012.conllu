@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 475012
+# text = On November 1 , 2002 Johnson returned to play a second exhibition game against Michigan State .
+1	On	_	Word	Word	_	2	R	2:R	_
+2	November	_	Word	Word	_	9	T	9:T	_
+3	1	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	2002	_	Word	Word	_	2	C	2:C	_
+6	Johnson	_	Word	Word	_	9	A	9:A	_
+7	returned	_	Word	Word	_	9	D	9:D	_
+8	to	_	Word	Word	_	9	F	9:F	_
+9	play	_	Word	Word	_	0	H	0:H	_
+10	a	_	Word	Word	_	13	F	13:F	_
+11	second	_	Word	Word	_	13	Q	13:Q	_
+12	exhibition	_	Word	Word	_	13	E	13:E	_
+13	game	_	Word	Word	_	9	A	9:A	_
+14	against	_	Word	Word	_	15	R	15:R	_
+15	Michigan	_	Word	Word	_	9	A	9:A	_
+16	State	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

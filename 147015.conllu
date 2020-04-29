@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 147015
+# text = They separated in 1938 , when Hepburn left Hollywood after being labeled " box office poison " .
+1	They	_	Word	Word	_	2	A	2:A	_
+2	separated	_	Word	Word	_	0	H	0:H	_
+3	in	_	Word	Word	_	4	R	4:R	_
+4	1938	_	Word	Word	_	2	T	2:T	_
+5	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+6	when	_	Word	Word	_	8	L	8:L	_
+7	Hepburn	_	Word	Word	_	8	A	8:A|12:A	_
+8	left	_	Word	Word	_	2	H	2:H	_
+9	Hollywood	_	Word	Word	_	8	A	8:A	_
+10	after	_	Word	Word	_	12	L	12:L	_
+11	being	_	Word	Word	_	12	F	12:F	_
+12	labeled	_	Word	Word	_	2	H	2:H	_
+13	"	_	Punctuation	Punctuation	_	12	U	12:U	_
+14	box	_	Word	Word	_	15	E	15:E	_
+15	office	_	Word	Word	_	16	A	16:A	_
+16	poison	_	Word	Word	_	12	A	12:A	_
+17	"	_	Punctuation	Punctuation	_	16	U	16:U	_
+18	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

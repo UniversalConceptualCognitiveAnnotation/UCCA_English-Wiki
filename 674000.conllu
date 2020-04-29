@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 674000
+# text = Following the cancellation of Angels Advocate , it was announced that Carey would return to the studio to start work on her thirteenth studio album .
+1	Following	_	Word	Word	_	10	L	10:L	_
+2	the	_	Word	Word	_	3	E	3:E	_
+3	cancellation	_	Word	Word	_	0	H	0:H	_
+4	of	_	Word	Word	_	5	R	5:R	_
+5	Angels	_	Word	Word	_	3	A	3:A	_
+6	Advocate	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+8	it	_	Word	Word	_	10	F	10:F	_
+9	was	_	Word	Word	_	10	F	10:F	_
+10	announced	_	Word	Word	_	3	H	3:H	_
+11	that	_	Word	Word	_	14	R	14:R	_
+12	Carey	_	Word	Word	_	14	A	14:A|20:A	_
+13	would	_	Word	Word	_	14	D	14:D	_
+14	return	_	Word	Word	_	10	A	10:A	_
+15	to	_	Word	Word	_	17	R	17:R	_
+16	the	_	Word	Word	_	17	E	17:E	_
+17	studio	_	Word	Word	_	14	A	14:A	_
+18	to	_	Word	Word	_	20	L	20:L	_
+19	start	_	Word	Word	_	20	D	20:D	_
+20	work	_	Word	Word	_	14	H	14:H	_
+21	on	_	Word	Word	_	25	R	25:R	_
+22	her	_	Word	Word	_	25	E	25:E	_
+23	thirteenth	_	Word	Word	_	25	Q	25:Q	_
+24	studio	_	Word	Word	_	25	E	25:E	_
+25	album	_	Word	Word	_	20	A	20:A	_
+26	.	_	Punctuation	Punctuation	_	25	U	25:U	_
+

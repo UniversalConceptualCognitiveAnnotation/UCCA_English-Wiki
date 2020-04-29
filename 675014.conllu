@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 675014
+# text = In June 2012 , Carey posted a photo that wrote , " MC Summer 2012 " , after the photo was posted , many fans speculated that new music will be released soon .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	June	_	Word	Word	_	6	T	6:T	_
+3	2012	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	Carey	_	Word	Word	_	6	A	6:A	_
+6	posted	_	Word	Word	_	0	H	0:H	_
+7	a	_	Word	Word	_	8	E	8:E	_
+8	photo	_	Word	Word	_	6	A	6:A	_
+9	that	_	Word	Word	_	10	R	10:R	_
+10	wrote	_	Word	Word	_	8	E	8:E	_
+11	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	"	_	Punctuation	Punctuation	_	10	U	10:U	_
+13	MC	_	Word	Word	_	10	A	10:A	_
+14	Summer	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	2012	_	Word	Word	_	13	Terminal	13:Terminal	_
+16	"	_	Punctuation	Punctuation	_	6	U	6:U	_
+17	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+18	after	_	Word	Word	_	22	L	22:L	_
+19	the	_	Word	Word	_	20	E	20:E	_
+20	photo	_	Word	Word	_	22	A	22:A	_
+21	was	_	Word	Word	_	22	F	22:F	_
+22	posted	_	Word	Word	_	6	H	6:H	_
+23	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+24	many	_	Word	Word	_	25	Q	25:Q	_
+25	fans	_	Word	Word	_	26	A	26:A	_
+26	speculated	_	Word	Word	_	6	H	6:H	_
+27	that	_	Word	Word	_	32	R	32:R	_
+28	new	_	Word	Word	_	29	E	29:E	_
+29	music	_	Word	Word	_	32	A	32:A	_
+30	will	_	Word	Word	_	32	F	32:F	_
+31	be	_	Word	Word	_	32	F	32:F	_
+32	released	_	Word	Word	_	26	A	26:A	_
+33	soon	_	Word	Word	_	32	T	32:T	_
+34	.	_	Punctuation	Punctuation	_	32	U	32:U	_
+

@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 499007
+# text = After breaking up the Spiders from Mars , Bowie attempted to move on from his Ziggy persona .
+1	After	_	Word	Word	_	12	L	12:L	_
+2	breaking	_	Word	Word	_	0	H	0:H	_
+3	up	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	the	_	Word	Word	_	5	E	5:E	_
+5	Spiders	_	Word	Word	_	2	A	2:A	_
+6	from	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	Mars	_	Word	Word	_	5	Terminal	5:Terminal	_
+8	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+9	Bowie	_	Word	Word	_	12	A	12:A|2:A	_
+10	attempted	_	Word	Word	_	12	D	12:D	_
+11	to	_	Word	Word	_	12	F	12:F	_
+12	move	_	Word	Word	_	2	H	2:H	_
+13	on	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	from	_	Word	Word	_	17	R	17:R	_
+15	his	_	Word	Word	_	17	E	17:E	_
+16	Ziggy	_	Word	Word	_	17	E	17:E	_
+17	persona	_	Word	Word	_	12	A	12:A	_
+18	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+

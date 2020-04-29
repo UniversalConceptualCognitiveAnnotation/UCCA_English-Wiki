@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 494013
+# text = Frustrated by his band - mates ' limited aspirations , Bowie left the Konrads and joined another band , the King Bees .
+1	Frustrated	_	Word	Word	_	0	H	0:H	_
+2	by	_	Word	Word	_	9	R	9:R	_
+3	his	_	Word	Word	_	6	A	6:A	_
+4	band	_	Word	Word	_	6	A	6:A	_
+5	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+6	mates	_	Word	Word	_	9	A	9:A	_
+7	'	_	Punctuation	Punctuation	_	9	U	9:U	_
+8	limited	_	Word	Word	_	9	D	9:D	_
+9	aspirations	_	Word	Word	_	1	A	1:A	_
+10	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+11	Bowie	_	Word	Word	_	12	A	12:A|1:A|16:A	_
+12	left	_	Word	Word	_	1	H	1:H	_
+13	the	_	Word	Word	_	14	E	14:E	_
+14	Konrads	_	Word	Word	_	12	A	12:A	_
+15	and	_	Word	Word	_	16	L	16:L	_
+16	joined	_	Word	Word	_	1	H	1:H	_
+17	another	_	Word	Word	_	18	E	18:E	_
+18	band	_	Word	Word	_	21	E	21:E	_
+19	,	_	Punctuation	Punctuation	_	21	U	21:U	_
+20	the	_	Word	Word	_	21	E	21:E	_
+21	King	_	Word	Word	_	16	A	16:A	_
+22	Bees	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

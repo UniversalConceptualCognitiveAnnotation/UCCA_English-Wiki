@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 560003
+# text = So many of them , through some sort of jealousy , would practically hate him .
+1	So	_	Word	Word	_	2	E	2:E	_
+2	many	_	Word	Word	_	4	Q	4:Q	_
+3	of	_	Word	Word	_	4	R	4:R	_
+4	them	_	Word	Word	_	0	C	0:C|10:A	_
+5	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+6	through	_	Word	Word	_	10	L	10:L	_
+7	some	_	Word	Word	_	10	D	10:D	_
+8	sort	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	of	_	Word	Word	_	10	R	10:R	_
+10	jealousy	_	Word	Word	_	14	H	14:H	_
+11	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+12	would	_	Word	Word	_	14	D	14:D	_
+13	practically	_	Word	Word	_	14	D	14:D	_
+14	hate	_	Word	Word	_	0	H	0:H	_
+15	him	_	Word	Word	_	14	A	14:A	_
+16	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

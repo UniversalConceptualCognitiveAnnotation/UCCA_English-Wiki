@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 253012
+# text = Hawke is a relative of Tennessee Williams : Williams was his great - uncle on his father 's side .
+1	Hawke	_	Word	Word	_	4	A	4:A	_
+2	is	_	Word	Word	_	4	F	4:F	_
+3	a	_	Word	Word	_	4	F	4:F	_
+4	relative	_	Word	Word	_	0	H	0:H	_
+5	of	_	Word	Word	_	6	R	6:R	_
+6	Tennessee	_	Word	Word	_	4	A	4:A	_
+7	Williams	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	:	_	Punctuation	Punctuation	_	4	U	4:U	_
+9	Williams	_	Word	Word	_	12	A	12:A	_
+10	was	_	Word	Word	_	12	F	12:F	_
+11	his	_	Word	Word	_	12	A	12:A	_
+12	great	_	Word	Word	_	4	H	4:H	_
+13	-	_	Punctuation	Punctuation	_	12	U	12:U	_
+14	uncle	_	Word	Word	_	12	Terminal	12:Terminal	_
+15	on	_	Word	Word	_	19	R	19:R	_
+16	his	_	Word	Word	_	19	E	19:E	_
+17	father	_	Word	Word	_	16	A	16:A	_
+18	's	_	Word	Word	_	17	R	17:R	_
+19	side	_	Word	Word	_	12	D	12:D	_
+20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

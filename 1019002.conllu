@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 1019002
+# text = In 2005 , he was tried and acquitted of further child sexual abuse allegations and several other charges after the jury found him not guilty on all counts .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	2005	_	Word	Word	_	6	T	6:T|8:T	_
+3	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+4	he	_	Word	Word	_	6	A	6:A|8:A	_
+5	was	_	Word	Word	_	6	F	6:F	_
+6	tried	_	Word	Word	_	22	H	22:H	_
+7	and	_	Word	Word	_	8	L	8:L	_
+8	acquitted	_	Word	Word	_	22	H	22:H	_
+9	of	_	Word	Word	_	14	R	14:R	_
+10	further	_	Word	Word	_	14	D	14:D	_
+11	child	_	Word	Word	_	13	A	13:A	_
+12	sexual	_	Word	Word	_	13	A	13:A	_
+13	abuse	_	Word	Word	_	14	A	14:A	_
+14	allegations	_	Word	Word	_	6	A	6:A|8:A	_
+15	and	_	Word	Word	_	18	L	18:L	_
+16	several	_	Word	Word	_	18	D	18:D	_
+17	other	_	Word	Word	_	18	D	18:D	_
+18	charges	_	Word	Word	_	14	H	14:H	_
+19	after	_	Word	Word	_	22	L	22:L	_
+20	the	_	Word	Word	_	21	E	21:E	_
+21	jury	_	Word	Word	_	22	A	22:A	_
+22	found	_	Word	Word	_	0	H	0:H	_
+23	him	_	Word	Word	_	25	A	25:A	_
+24	not	_	Word	Word	_	25	D	25:D	_
+25	guilty	_	Word	Word	_	22	A	22:A	_
+26	on	_	Word	Word	_	28	R	28:R	_
+27	all	_	Word	Word	_	28	Q	28:Q	_
+28	counts	_	Word	Word	_	25	A	25:A	_
+29	.	_	Punctuation	Punctuation	_	28	U	28:U	_
+

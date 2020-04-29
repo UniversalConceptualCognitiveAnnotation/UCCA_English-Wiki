@@ -1,0 +1,51 @@
+# format = ucca
+# sent_id = 213004
+# text = She also sang the jazz song " After You 've Gone " for the end credits of the film The Cat 's Meow ( 2001 ) . Dunst was born in Point Pleasant , New Jersey , to Inez ( née Rupprecht ) and Klaus Dunst .
+1	She	_	Word	Word	_	3	A	3:A	_
+2	also	_	Word	Word	_	3	D	3:D	_
+3	sang	_	Word	Word	_	0	H	0:H	_
+4	the	_	Word	Word	_	8	F	8:F	_
+5	jazz	_	Word	Word	_	6	E	6:E	_
+6	song	_	Word	Word	_	8	E	8:E	_
+7	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+8	After	_	Word	Word	_	3	A	3:A	_
+9	You	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	've	_	Word	Word	_	8	Terminal	8:Terminal	_
+11	Gone	_	Word	Word	_	8	Terminal	8:Terminal	_
+12	"	_	Punctuation	Punctuation	_	3	U	3:U	_
+13	for	_	Word	Word	_	16	R	16:R	_
+14	the	_	Word	Word	_	16	F	16:F	_
+15	end	_	Word	Word	_	16	E	16:E	_
+16	credits	_	Word	Word	_	3	A	3:A	_
+17	of	_	Word	Word	_	20	R	20:R	_
+18	the	_	Word	Word	_	20	F	20:F	_
+19	film	_	Word	Word	_	20	E	20:E	_
+20	The	_	Word	Word	_	16	E	16:E	_
+21	Cat	_	Word	Word	_	20	Terminal	20:Terminal	_
+22	's	_	Word	Word	_	20	Terminal	20:Terminal	_
+23	Meow	_	Word	Word	_	20	Terminal	20:Terminal	_
+24	(	_	Punctuation	Punctuation	_	20	U	20:U	_
+25	2001	_	Word	Word	_	20	E	20:E	_
+26	)	_	Punctuation	Punctuation	_	3	U	3:U	_
+27	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+28	Dunst	_	Word	Word	_	30	A	30:A	_
+29	was	_	Word	Word	_	30	F	30:F	_
+30	born	_	Word	Word	_	3	H	3:H	_
+31	in	_	Word	Word	_	32	R	32:R	_
+32	Point	_	Word	Word	_	30	A	30:A	_
+33	Pleasant	_	Word	Word	_	32	Terminal	32:Terminal	_
+34	,	_	Punctuation	Punctuation	_	32	U	32:U	_
+35	New	_	Word	Word	_	32	C	32:C	_
+36	Jersey	_	Word	Word	_	35	Terminal	35:Terminal	_
+37	,	_	Punctuation	Punctuation	_	30	U	30:U	_
+38	to	_	Word	Word	_	39	R	39:R	_
+39	Inez	_	Word	Word	_	30	A	30:A	_
+40	(	_	Punctuation	Punctuation	_	39	U	39:U	_
+41	née	_	Word	Word	_	42	E	42:E	_
+42	Rupprecht	_	Word	Word	_	39	E	39:E	_
+43	)	_	Punctuation	Punctuation	_	39	U	39:U	_
+44	and	_	Word	Word	_	39	N	39:N	_
+45	Klaus	_	Word	Word	_	39	C	39:C	_
+46	Dunst	_	Word	Word	_	45	Terminal	45:Terminal	_
+47	.	_	Punctuation	Punctuation	_	39	U	39:U	_
+

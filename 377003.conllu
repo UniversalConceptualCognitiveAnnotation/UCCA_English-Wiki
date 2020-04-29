@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 377003
+# text = In subsequent years , his parents allowed him to audition for parts , but regularly forbade him to take them if he were chosen .
+1	In	_	Word	Word	_	3	R	3:R	_
+2	subsequent	_	Word	Word	_	3	E	3:E	_
+3	years	_	Word	Word	_	10	T	10:T	_
+4	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+5	his	_	Word	Word	_	10	A	10:A	_
+6	parents	_	Word	Word	_	5	A	5:A|19:A	_
+7	allowed	_	Word	Word	_	10	D	10:D	_
+8	him	_	Word	Word	_	10	A	10:A	_
+9	to	_	Word	Word	_	10	F	10:F	_
+10	audition	_	Word	Word	_	0	H	0:H	_
+11	for	_	Word	Word	_	12	R	12:R	_
+12	parts	_	Word	Word	_	10	A	10:A	_
+13	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+14	but	_	Word	Word	_	19	L	19:L	_
+15	regularly	_	Word	Word	_	16	E	16:E	_
+16	forbade	_	Word	Word	_	19	D	19:D	_
+17	him	_	Word	Word	_	19	A	19:A	_
+18	to	_	Word	Word	_	19	F	19:F	_
+19	take	_	Word	Word	_	10	H	10:H	_
+20	them	_	Word	Word	_	19	A	19:A	_
+21	if	_	Word	Word	_	24	L	24:L	_
+22	he	_	Word	Word	_	24	A	24:A	_
+23	were	_	Word	Word	_	24	F	24:F	_
+24	chosen	_	Word	Word	_	10	H	10:H	_
+25	.	_	Punctuation	Punctuation	_	24	U	24:U	_
+

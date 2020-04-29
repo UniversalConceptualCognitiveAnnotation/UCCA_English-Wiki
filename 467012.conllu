@@ -1,0 +1,41 @@
+# format = ucca
+# sent_id = 467012
+# text = During the 1978 - 79 season , Michigan State again qualified for the NCAA Tournament , where they advanced to the championship game and faced Indiana State University , which was led by senior Larry Bird .
+1	During	_	Word	Word	_	11	L	11:L	_
+2	the	_	Word	Word	_	6	F	6:F	_
+3	1978	_	Word	Word	_	6	C	6:C	_
+4	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	79	_	Word	Word	_	6	C	6:C	_
+6	season	_	Word	Word	_	0	H	0:H	_
+7	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	Michigan	_	Word	Word	_	11	A	11:A	_
+9	State	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	again	_	Word	Word	_	11	D	11:D	_
+11	qualified	_	Word	Word	_	6	H	6:H	_
+12	for	_	Word	Word	_	15	R	15:R	_
+13	the	_	Word	Word	_	15	E	15:E	_
+14	NCAA	_	Word	Word	_	15	A	15:A	_
+15	Tournament	_	Word	Word	_	11	A	11:A	_
+16	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+17	where	_	Word	Word	_	19	L	19:L	_
+18	they	_	Word	Word	_	19	A	19:A|25:A	_
+19	advanced	_	Word	Word	_	6	H	6:H	_
+20	to	_	Word	Word	_	23	R	23:R	_
+21	the	_	Word	Word	_	23	E	23:E	_
+22	championship	_	Word	Word	_	23	D	23:D	_
+23	game	_	Word	Word	_	19	A	19:A	_
+24	and	_	Word	Word	_	25	L	25:L	_
+25	faced	_	Word	Word	_	6	H	6:H	_
+26	Indiana	_	Word	Word	_	25	A	25:A	_
+27	State	_	Word	Word	_	26	Terminal	26:Terminal	_
+28	University	_	Word	Word	_	26	Terminal	26:Terminal	_
+29	,	_	Punctuation	Punctuation	_	26	U	26:U	_
+30	which	_	Word	Word	_	32	R	32:R	_
+31	was	_	Word	Word	_	32	F	32:F	_
+32	led	_	Word	Word	_	26	E	26:E	_
+33	by	_	Word	Word	_	35	R	35:R	_
+34	senior	_	Word	Word	_	35	E	35:E	_
+35	Larry	_	Word	Word	_	32	A	32:A	_
+36	Bird	_	Word	Word	_	35	Terminal	35:Terminal	_
+37	.	_	Punctuation	Punctuation	_	35	U	35:U	_
+

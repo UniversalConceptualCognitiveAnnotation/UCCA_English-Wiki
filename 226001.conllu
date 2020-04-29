@@ -1,0 +1,36 @@
+# format = ucca
+# sent_id = 226001
+# text = Hung co - directed with Corey Yuen , and the villain in the film was played by Yuen Wah , both of whom were fellow graduates of the China Drama Academy .
+1	Hung	_	Word	Word	_	4	A	4:A	_
+2	co	_	Word	Word	_	4	E	4:E	_
+3	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+4	directed	_	Word	Word	_	0	H	0:H	_
+5	with	_	Word	Word	_	6	R	6:R	_
+6	Corey	_	Word	Word	_	0	C	0:C|21:C	_
+7	Yuen	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+9	and	_	Word	Word	_	16	L	16:L	_
+10	the	_	Word	Word	_	11	F	11:F	_
+11	villain	_	Word	Word	_	16	A	16:A	_
+12	in	_	Word	Word	_	14	R	14:R	_
+13	the	_	Word	Word	_	14	F	14:F	_
+14	film	_	Word	Word	_	11	E	11:E	_
+15	was	_	Word	Word	_	16	F	16:F	_
+16	played	_	Word	Word	_	4	H	4:H	_
+17	by	_	Word	Word	_	18	R	18:R	_
+18	Yuen	_	Word	Word	_	0	C	0:C|21:C	_
+19	Wah	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	,	_	Punctuation	Punctuation	_	21	U	21:U	_
+21	both	_	Word	Word	_	26	A	26:A	_
+22	of	_	Word	Word	_	21	R	21:R	_
+23	whom	_	Word	Word	_	21	R	21:R	_
+24	were	_	Word	Word	_	26	F	26:F	_
+25	fellow	_	Word	Word	_	26	D	26:D	_
+26	graduates	_	Word	Word	_	4	H	4:H	_
+27	of	_	Word	Word	_	29	R	29:R	_
+28	the	_	Word	Word	_	29	F	29:F	_
+29	China	_	Word	Word	_	26	A	26:A	_
+30	Drama	_	Word	Word	_	29	Terminal	29:Terminal	_
+31	Academy	_	Word	Word	_	29	Terminal	29:Terminal	_
+32	.	_	Punctuation	Punctuation	_	29	U	29:U	_
+

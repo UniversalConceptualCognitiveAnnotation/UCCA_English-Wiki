@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 946014
+# text = The Singles 1992 - 2003 became available on December 9 , 2008 for the video game Rock Band 2 .
+1	The	_	Word	Word	_	7	A	7:A	_
+2	Singles	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	1992	_	Word	Word	_	1	Terminal	1:Terminal	_
+4	-	_	Punctuation	Punctuation	_	1	U	1:U	_
+5	2003	_	Word	Word	_	1	Terminal	1:Terminal	_
+6	became	_	Word	Word	_	7	D	7:D	_
+7	available	_	Word	Word	_	0	H	0:H	_
+8	on	_	Word	Word	_	9	R	9:R	_
+9	December	_	Word	Word	_	7	T	7:T	_
+10	9	_	Word	Word	_	9	C	9:C	_
+11	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+12	2008	_	Word	Word	_	9	C	9:C	_
+13	for	_	Word	Word	_	17	R	17:R	_
+14	the	_	Word	Word	_	17	E	17:E	_
+15	video	_	Word	Word	_	16	E	16:E	_
+16	game	_	Word	Word	_	17	E	17:E	_
+17	Rock	_	Word	Word	_	7	A	7:A	_
+18	Band	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	2	_	Word	Word	_	17	Terminal	17:Terminal	_
+20	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+

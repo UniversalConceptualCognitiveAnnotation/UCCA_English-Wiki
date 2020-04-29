@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 962006
+# text = Following several weeks of rest , she seemed to recover .
+1	Following	_	Word	Word	_	10	L	10:L	_
+2	several	_	Word	Word	_	3	Q	3:Q	_
+3	weeks	_	Word	Word	_	5	T	5:T	_
+4	of	_	Word	Word	_	5	R	5:R	_
+5	rest	_	Word	Word	_	0	H	0:H	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	she	_	Word	Word	_	10	A	10:A|5:A	_
+8	seemed	_	Word	Word	_	10	G	10:G	_
+9	to	_	Word	Word	_	10	F	10:F	_
+10	recover	_	Word	Word	_	5	H	5:H	_
+11	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+

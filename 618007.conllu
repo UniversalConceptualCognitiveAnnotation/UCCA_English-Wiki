@@ -1,0 +1,37 @@
+# format = ucca
+# sent_id = 618007
+# text = Following the break - up of the Beatles , McCartney 's music continued to be released by Apple Records under the Beatles ' 1967 recording contract with EMI which ran until 1976 .
+1	Following	_	Word	Word	_	16	L	16:L	_
+2	the	_	Word	Word	_	3	F	3:F	_
+3	break	_	Word	Word	_	0	H	0:H	_
+4	-	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	up	_	Word	Word	_	3	Terminal	3:Terminal	_
+6	of	_	Word	Word	_	8	R	8:R	_
+7	the	_	Word	Word	_	8	E	8:E	_
+8	Beatles	_	Word	Word	_	3	A	3:A	_
+9	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+10	McCartney	_	Word	Word	_	11	A	11:A	_
+11	's	_	Word	Word	_	12	E	12:E	_
+12	music	_	Word	Word	_	16	A	16:A	_
+13	continued	_	Word	Word	_	16	D	16:D	_
+14	to	_	Word	Word	_	16	F	16:F	_
+15	be	_	Word	Word	_	16	F	16:F	_
+16	released	_	Word	Word	_	3	H	3:H	_
+17	by	_	Word	Word	_	19	R	19:R	_
+18	Apple	_	Word	Word	_	19	E	19:E	_
+19	Records	_	Word	Word	_	16	A	16:A	_
+20	under	_	Word	Word	_	26	R	26:R	_
+21	the	_	Word	Word	_	22	E	22:E	_
+22	Beatles	_	Word	Word	_	26	E	26:E	_
+23	'	_	Punctuation	Punctuation	_	26	U	26:U	_
+24	1967	_	Word	Word	_	26	E	26:E	_
+25	recording	_	Word	Word	_	26	E	26:E	_
+26	contract	_	Word	Word	_	16	A	16:A	_
+27	with	_	Word	Word	_	26	E	26:E	_
+28	EMI	_	Word	Word	_	27	A	27:A	_
+29	which	_	Word	Word	_	30	R	30:R	_
+30	ran	_	Word	Word	_	26	E	26:E	_
+31	until	_	Word	Word	_	32	R	32:R	_
+32	1976	_	Word	Word	_	30	T	30:T	_
+33	.	_	Punctuation	Punctuation	_	32	U	32:U	_
+

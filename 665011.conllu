@@ -1,0 +1,47 @@
+# format = ucca
+# sent_id = 665011
+# text = The album sold over 3.25 million copies in Japan after only the first three months , and holds the record as the best - selling album by a non - Asian artist , while amassing global sales of over 17 million copies .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	album	_	Word	Word	_	0	C	0:C|20:A|35:A	_
+3	sold	_	Word	Word	_	0	H	0:H	_
+4	over	_	Word	Word	_	7	R	7:R	_
+5	3.25	_	Word	Word	_	7	E	7:E	_
+6	million	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	copies	_	Word	Word	_	3	A	3:A	_
+8	in	_	Word	Word	_	9	R	9:R	_
+9	Japan	_	Word	Word	_	3	A	3:A	_
+10	after	_	Word	Word	_	15	R	15:R	_
+11	only	_	Word	Word	_	15	E	15:E	_
+12	the	_	Word	Word	_	15	E	15:E	_
+13	first	_	Word	Word	_	15	E	15:E	_
+14	three	_	Word	Word	_	15	E	15:E	_
+15	months	_	Word	Word	_	3	D	3:D	_
+16	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+17	and	_	Word	Word	_	20	L	20:L	_
+18	holds	_	Word	Word	_	20	D	20:D	_
+19	the	_	Word	Word	_	20	E	20:E	_
+20	record	_	Word	Word	_	3	H	3:H	_
+21	as	_	Word	Word	_	26	R	26:R	_
+22	the	_	Word	Word	_	26	E	26:E	_
+23	best	_	Word	Word	_	25	E	25:E	_
+24	-	_	Punctuation	Punctuation	_	25	U	25:U	_
+25	selling	_	Word	Word	_	26	E	26:E	_
+26	album	_	Word	Word	_	20	A	20:A	_
+27	by	_	Word	Word	_	32	R	32:R	_
+28	a	_	Word	Word	_	32	E	32:E	_
+29	non	_	Word	Word	_	31	E	31:E	_
+30	-	_	Punctuation	Punctuation	_	31	U	31:U	_
+31	Asian	_	Word	Word	_	32	E	32:E	_
+32	artist	_	Word	Word	_	26	E	26:E	_
+33	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+34	while	_	Word	Word	_	35	L	35:L	_
+35	amassing	_	Word	Word	_	3	H	3:H	_
+36	global	_	Word	Word	_	37	E	37:E	_
+37	sales	_	Word	Word	_	35	A	35:A	_
+38	of	_	Word	Word	_	42	R	42:R	_
+39	over	_	Word	Word	_	42	R	42:R	_
+40	17	_	Word	Word	_	42	E	42:E	_
+41	million	_	Word	Word	_	40	Terminal	40:Terminal	_
+42	copies	_	Word	Word	_	37	E	37:E	_
+43	.	_	Punctuation	Punctuation	_	42	U	42:U	_
+

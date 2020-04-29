@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 727003
+# text = The film was poorly received by critics , though Jolie 's performance received positive reviews .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	film	_	Word	Word	_	5	A	5:A	_
+3	was	_	Word	Word	_	5	F	5:F	_
+4	poorly	_	Word	Word	_	5	D	5:D	_
+5	received	_	Word	Word	_	0	H	0:H	_
+6	by	_	Word	Word	_	7	R	7:R	_
+7	critics	_	Word	Word	_	5	A	5:A	_
+8	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+9	though	_	Word	Word	_	13	L	13:L	_
+10	Jolie	_	Word	Word	_	12	A	12:A	_
+11	's	_	Word	Word	_	10	R	10:R	_
+12	performance	_	Word	Word	_	13	A	13:A	_
+13	received	_	Word	Word	_	5	H	5:H	_
+14	positive	_	Word	Word	_	15	E	15:E	_
+15	reviews	_	Word	Word	_	13	A	13:A	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

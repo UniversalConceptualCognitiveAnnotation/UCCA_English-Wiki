@@ -1,0 +1,40 @@
+# format = ucca
+# sent_id = 230009
+# text = Despite the success of the Rush Hour series , Chan has stated that he is not a fan of it since he neither appreciates the action scenes in the movie , nor understands American humour .
+1	Despite	_	Word	Word	_	12	L	12:L	_
+2	the	_	Word	Word	_	3	F	3:F	_
+3	success	_	Word	Word	_	0	H	0:H	_
+4	of	_	Word	Word	_	8	R	8:R	_
+5	the	_	Word	Word	_	8	F	8:F	_
+6	Rush	_	Word	Word	_	8	E	8:E	_
+7	Hour	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	series	_	Word	Word	_	3	A	3:A	_
+9	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+10	Chan	_	Word	Word	_	12	A	12:A	_
+11	has	_	Word	Word	_	12	F	12:F	_
+12	stated	_	Word	Word	_	3	H	3:H	_
+13	that	_	Word	Word	_	18	R	18:R	_
+14	he	_	Word	Word	_	18	A	18:A	_
+15	is	_	Word	Word	_	18	F	18:F	_
+16	not	_	Word	Word	_	18	D	18:D	_
+17	a	_	Word	Word	_	18	F	18:F	_
+18	fan	_	Word	Word	_	12	A	12:A	_
+19	of	_	Word	Word	_	20	R	20:R	_
+20	it	_	Word	Word	_	18	A	18:A	_
+21	since	_	Word	Word	_	24	L	24:L	_
+22	he	_	Word	Word	_	24	A	24:A|33:A	_
+23	neither	_	Word	Word	_	24	L	24:L	_
+24	appreciates	_	Word	Word	_	3	H	3:H	_
+25	the	_	Word	Word	_	27	F	27:F	_
+26	action	_	Word	Word	_	27	E	27:E	_
+27	scenes	_	Word	Word	_	24	A	24:A	_
+28	in	_	Word	Word	_	30	R	30:R	_
+29	the	_	Word	Word	_	30	F	30:F	_
+30	movie	_	Word	Word	_	27	E	27:E	_
+31	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+32	nor	_	Word	Word	_	23	Terminal	23:Terminal	_
+33	understands	_	Word	Word	_	3	H	3:H	_
+34	American	_	Word	Word	_	35	E	35:E	_
+35	humour	_	Word	Word	_	33	A	33:A	_
+36	.	_	Punctuation	Punctuation	_	35	U	35:U	_
+

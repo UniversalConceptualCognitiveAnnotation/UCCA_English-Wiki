@@ -1,0 +1,53 @@
+# format = ucca
+# sent_id = 670000
+# text = Throughout 2004 , Carey focused on composing material for her tenth studio album , The Emancipation of Mimi ( 2005 ) . The album found Carey working predominantly with Jermaine Dupri , as well as Bryan - Michael Cox , Manuel Seal , The Neptunes and Kanye West .
+1	Throughout	_	Word	Word	_	2	R	2:R	_
+2	2004	_	Word	Word	_	5	D	5:D	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	Carey	_	Word	Word	_	5	A	5:A|7:A	_
+5	focused	_	Word	Word	_	0	H	0:H	_
+6	on	_	Word	Word	_	7	F	7:F	_
+7	composing	_	Word	Word	_	5	A	5:A	_
+8	material	_	Word	Word	_	7	A	7:A	_
+9	for	_	Word	Word	_	15	R	15:R	_
+10	her	_	Word	Word	_	15	E	15:E	_
+11	tenth	_	Word	Word	_	15	E	15:E	_
+12	studio	_	Word	Word	_	13	E	13:E	_
+13	album	_	Word	Word	_	15	E	15:E	_
+14	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+15	The	_	Word	Word	_	7	A	7:A	_
+16	Emancipation	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	of	_	Word	Word	_	15	Terminal	15:Terminal	_
+18	Mimi	_	Word	Word	_	15	Terminal	15:Terminal	_
+19	(	_	Punctuation	Punctuation	_	15	U	15:U	_
+20	2005	_	Word	Word	_	15	E	15:E	_
+21	)	_	Punctuation	Punctuation	_	5	U	5:U	_
+22	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+23	The	_	Word	Word	_	24	E	24:E	_
+24	album	_	Word	Word	_	27	A	27:A	_
+25	found	_	Word	Word	_	27	D	27:D	_
+26	Carey	_	Word	Word	_	27	A	27:A	_
+27	working	_	Word	Word	_	5	H	5:H	_
+28	predominantly	_	Word	Word	_	27	D	27:D	_
+29	with	_	Word	Word	_	30	R	30:R	_
+30	Jermaine	_	Word	Word	_	27	A	27:A	_
+31	Dupri	_	Word	Word	_	30	Terminal	30:Terminal	_
+32	,	_	Punctuation	Punctuation	_	30	U	30:U	_
+33	as	_	Word	Word	_	30	N	30:N	_
+34	well	_	Word	Word	_	33	Terminal	33:Terminal	_
+35	as	_	Word	Word	_	33	Terminal	33:Terminal	_
+36	Bryan	_	Word	Word	_	30	C	30:C	_
+37	-	_	Punctuation	Punctuation	_	36	U	36:U	_
+38	Michael	_	Word	Word	_	36	Terminal	36:Terminal	_
+39	Cox	_	Word	Word	_	36	Terminal	36:Terminal	_
+40	,	_	Punctuation	Punctuation	_	36	U	36:U	_
+41	Manuel	_	Word	Word	_	36	C	36:C	_
+42	Seal	_	Word	Word	_	41	Terminal	41:Terminal	_
+43	,	_	Punctuation	Punctuation	_	36	U	36:U	_
+44	The	_	Word	Word	_	36	C	36:C	_
+45	Neptunes	_	Word	Word	_	44	Terminal	44:Terminal	_
+46	and	_	Word	Word	_	36	N	36:N	_
+47	Kanye	_	Word	Word	_	36	C	36:C	_
+48	West	_	Word	Word	_	47	Terminal	47:Terminal	_
+49	.	_	Punctuation	Punctuation	_	36	U	36:U	_
+

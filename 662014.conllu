@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 662014
+# text = Spanning only six dates across North America , the short but successful tour was a large step for Carey , who dreaded the hassle of touring .
+1	Spanning	_	Word	Word	_	4	F	4:F	_
+2	only	_	Word	Word	_	4	E	4:E	_
+3	six	_	Word	Word	_	4	Q	4:Q	_
+4	dates	_	Word	Word	_	6	T	6:T	_
+5	across	_	Word	Word	_	6	R	6:R	_
+6	North	_	Word	Word	_	0	H	0:H	_
+7	America	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+9	the	_	Word	Word	_	13	F	13:F	_
+10	short	_	Word	Word	_	13	E	13:E	_
+11	but	_	Word	Word	_	10	N	10:N	_
+12	successful	_	Word	Word	_	10	C	10:C	_
+13	tour	_	Word	Word	_	0	C	0:C|6:P|10:A	_
+14	was	_	Word	Word	_	6	H	6:H	_
+15	a	_	Word	Word	_	17	F	17:F	_
+16	large	_	Word	Word	_	17	D	17:D	_
+17	step	_	Word	Word	_	14	A	14:A	_
+18	for	_	Word	Word	_	19	R	19:R	_
+19	Carey	_	Word	Word	_	17	A	17:A	_
+20	,	_	Punctuation	Punctuation	_	19	U	19:U	_
+21	who	_	Word	Word	_	22	R	22:R	_
+22	dreaded	_	Word	Word	_	19	E	19:E	_
+23	the	_	Word	Word	_	24	F	24:F	_
+24	hassle	_	Word	Word	_	22	A	22:A	_
+25	of	_	Word	Word	_	26	R	26:R	_
+26	touring	_	Word	Word	_	24	A	24:A	_
+27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+

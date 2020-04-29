@@ -1,0 +1,39 @@
+# format = ucca
+# sent_id = 656007
+# text = The sculpture entitled ' Peace & Harmony ' exhibits peace symbols and carries the inscription " Peace on Earth for the Conservation of Life - In Honour of John Lennon 1940 - 1980 " .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	sculpture	_	Word	Word	_	0	C	0:C|3:A|13:A	_
+3	entitled	_	Word	Word	_	2	E	2:E	_
+4	'	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	Peace	_	Word	Word	_	3	A	3:A	_
+6	&	_	Word	Word	_	5	N	5:N	_
+7	Harmony	_	Word	Word	_	5	C	5:C	_
+8	'	_	Punctuation	Punctuation	_	9	U	9:U	_
+9	exhibits	_	Word	Word	_	0	H	0:H	_
+10	peace	_	Word	Word	_	11	E	11:E	_
+11	symbols	_	Word	Word	_	9	A	9:A	_
+12	and	_	Word	Word	_	13	L	13:L	_
+13	carries	_	Word	Word	_	9	H	9:H	_
+14	the	_	Word	Word	_	15	E	15:E	_
+15	inscription	_	Word	Word	_	22	E	22:E	_
+16	"	_	Punctuation	Punctuation	_	22	U	22:U	_
+17	Peace	_	Word	Word	_	22	A	22:A	_
+18	on	_	Word	Word	_	19	R	19:R	_
+19	Earth	_	Word	Word	_	17	E	17:E	_
+20	for	_	Word	Word	_	22	R	22:R	_
+21	the	_	Word	Word	_	22	E	22:E	_
+22	Conservation	_	Word	Word	_	13	A	13:A	_
+23	of	_	Word	Word	_	24	R	24:R	_
+24	Life	_	Word	Word	_	22	A	22:A	_
+25	-	_	Punctuation	Punctuation	_	22	U	22:U	_
+26	In	_	Word	Word	_	27	F	27:F	_
+27	Honour	_	Word	Word	_	22	H	22:H	_
+28	of	_	Word	Word	_	29	R	29:R	_
+29	John	_	Word	Word	_	27	A	27:A	_
+30	Lennon	_	Word	Word	_	29	Terminal	29:Terminal	_
+31	1940	_	Word	Word	_	29	E	29:E	_
+32	-	_	Punctuation	Punctuation	_	31	U	31:U	_
+33	1980	_	Word	Word	_	31	C	31:C	_
+34	"	_	Punctuation	Punctuation	_	31	U	31:U	_
+35	.	_	Punctuation	Punctuation	_	31	U	31:U	_
+

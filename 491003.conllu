@@ -1,0 +1,43 @@
+# format = ucca
+# sent_id = 491003
+# text = Bana 's love for St Kilda FC resulted in the club being featured in the film Funny People and in Bana 's promotion of the film in 2009 , notably on NBC 's Late Night with Jimmy Fallon .
+1	Bana	_	Word	Word	_	3	A	3:A	_
+2	's	_	Word	Word	_	1	R	1:R	_
+3	love	_	Word	Word	_	8	A	8:A	_
+4	for	_	Word	Word	_	7	R	7:R	_
+5	St	_	Word	Word	_	7	E	7:E	_
+6	Kilda	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	FC	_	Word	Word	_	3	A	3:A	_
+8	resulted	_	Word	Word	_	0	H	0:H	_
+9	in	_	Word	Word	_	13	R	13:R	_
+10	the	_	Word	Word	_	11	E	11:E	_
+11	club	_	Word	Word	_	13	A	13:A	_
+12	being	_	Word	Word	_	13	F	13:F	_
+13	featured	_	Word	Word	_	8	A	8:A	_
+14	in	_	Word	Word	_	17	R	17:R	_
+15	the	_	Word	Word	_	16	E	16:E	_
+16	film	_	Word	Word	_	17	E	17:E	_
+17	Funny	_	Word	Word	_	13	A	13:A	_
+18	People	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	and	_	Word	Word	_	17	N	17:N	_
+20	in	_	Word	Word	_	23	R	23:R	_
+21	Bana	_	Word	Word	_	23	A	23:A	_
+22	's	_	Word	Word	_	21	R	21:R	_
+23	promotion	_	Word	Word	_	17	C	17:C	_
+24	of	_	Word	Word	_	26	R	26:R	_
+25	the	_	Word	Word	_	26	E	26:E	_
+26	film	_	Word	Word	_	23	A	23:A	_
+27	in	_	Word	Word	_	28	R	28:R	_
+28	2009	_	Word	Word	_	23	T	23:T	_
+29	,	_	Punctuation	Punctuation	_	23	U	23:U	_
+30	notably	_	Word	Word	_	23	G	23:G	_
+31	on	_	Word	Word	_	34	R	34:R	_
+32	NBC	_	Word	Word	_	34	E	34:E	_
+33	's	_	Word	Word	_	32	R	32:R	_
+34	Late	_	Word	Word	_	23	A	23:A	_
+35	Night	_	Word	Word	_	34	Terminal	34:Terminal	_
+36	with	_	Word	Word	_	34	Terminal	34:Terminal	_
+37	Jimmy	_	Word	Word	_	34	Terminal	34:Terminal	_
+38	Fallon	_	Word	Word	_	34	Terminal	34:Terminal	_
+39	.	_	Punctuation	Punctuation	_	34	U	34:U	_
+

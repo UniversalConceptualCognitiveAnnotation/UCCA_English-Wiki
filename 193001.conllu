@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 193001
+# text = He told Wells about his visits to the White House while doing research for The American President , and they found themselves discussing public service and the passion of the people who serve .
+1	He	_	Word	Word	_	2	A	2:A|13:A	_
+2	told	_	Word	Word	_	0	H	0:H	_
+3	Wells	_	Word	Word	_	2	A	2:A	_
+4	about	_	Word	Word	_	6	R	6:R	_
+5	his	_	Word	Word	_	6	A	6:A	_
+6	visits	_	Word	Word	_	2	A	2:A	_
+7	to	_	Word	Word	_	9	R	9:R	_
+8	the	_	Word	Word	_	9	E	9:E	_
+9	White	_	Word	Word	_	6	A	6:A	_
+10	House	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	while	_	Word	Word	_	13	L	13:L	_
+12	doing	_	Word	Word	_	13	F	13:F	_
+13	research	_	Word	Word	_	2	H	2:H	_
+14	for	_	Word	Word	_	15	R	15:R	_
+15	The	_	Word	Word	_	13	A	13:A	_
+16	American	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	President	_	Word	Word	_	15	Terminal	15:Terminal	_
+18	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+19	and	_	Word	Word	_	23	L	23:L	_
+20	they	_	Word	Word	_	23	A	23:A	_
+21	found	_	Word	Word	_	23	D	23:D	_
+22	themselves	_	Word	Word	_	21	E	21:E	_
+23	discussing	_	Word	Word	_	2	H	2:H	_
+24	public	_	Word	Word	_	25	E	25:E	_
+25	service	_	Word	Word	_	23	A	23:A	_
+26	and	_	Word	Word	_	25	N	25:N	_
+27	the	_	Word	Word	_	28	E	28:E	_
+28	passion	_	Word	Word	_	25	C	25:C	_
+29	of	_	Word	Word	_	31	R	31:R	_
+30	the	_	Word	Word	_	31	E	31:E	_
+31	people	_	Word	Word	_	28	E	28:E	_
+32	who	_	Word	Word	_	33	R	33:R	_
+33	serve	_	Word	Word	_	31	E	31:E	_
+34	.	_	Punctuation	Punctuation	_	33	U	33:U	_
+

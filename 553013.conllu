@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 553013
+# text = In 1973 Presley staged the first concert broadcast globally via satellite , Aloha from Hawaii .
+1	In	_	Word	Word	_	2	E	2:E	_
+2	1973	_	Word	Word	_	7	T	7:T	_
+3	Presley	_	Word	Word	_	7	A	7:A	_
+4	staged	_	Word	Word	_	7	D	7:D	_
+5	the	_	Word	Word	_	8	F	8:F	_
+6	first	_	Word	Word	_	8	D	8:D	_
+7	concert	_	Word	Word	_	0	H	0:H	_
+8	broadcast	_	Word	Word	_	7	H	7:H	_
+9	globally	_	Word	Word	_	8	A	8:A	_
+10	via	_	Word	Word	_	11	R	11:R	_
+11	satellite	_	Word	Word	_	8	A	8:A	_
+12	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+13	Aloha	_	Word	Word	_	7	A	7:A	_
+14	from	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	Hawaii	_	Word	Word	_	13	Terminal	13:Terminal	_
+16	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

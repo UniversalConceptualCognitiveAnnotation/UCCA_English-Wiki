@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 221005
+# text = She gained German citizenship in 2011 and now holds dual citizenship with Germany and the U . S .
+1	She	_	Word	Word	_	2	A	2:A|9:A	_
+2	gained	_	Word	Word	_	0	H	0:H	_
+3	German	_	Word	Word	_	4	E	4:E	_
+4	citizenship	_	Word	Word	_	2	A	2:A	_
+5	in	_	Word	Word	_	6	R	6:R	_
+6	2011	_	Word	Word	_	2	T	2:T	_
+7	and	_	Word	Word	_	9	L	9:L	_
+8	now	_	Word	Word	_	9	T	9:T	_
+9	holds	_	Word	Word	_	2	H	2:H	_
+10	dual	_	Word	Word	_	11	E	11:E	_
+11	citizenship	_	Word	Word	_	9	A	9:A	_
+12	with	_	Word	Word	_	13	R	13:R	_
+13	Germany	_	Word	Word	_	11	E	11:E	_
+14	and	_	Word	Word	_	13	N	13:N	_
+15	the	_	Word	Word	_	16	F	16:F	_
+16	U	_	Word	Word	_	13	C	13:C	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+18	S	_	Word	Word	_	16	Terminal	16:Terminal	_
+19	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

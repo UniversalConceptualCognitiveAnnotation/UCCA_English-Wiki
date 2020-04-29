@@ -1,0 +1,53 @@
+# format = ucca
+# sent_id = 808008
+# text = He wrote several songs while living at the Ashers ' , including " Yesterday " , " And I Love Her " , " You Wo n't See Me " and " I 'm Looking Through You " , the latter three having been inspired by their romance .
+1	He	_	Word	Word	_	2	A	2:A|6:A	_
+2	wrote	_	Word	Word	_	0	H	0:H	_
+3	several	_	Word	Word	_	4	Q	4:Q	_
+4	songs	_	Word	Word	_	2	A	2:A	_
+5	while	_	Word	Word	_	6	L	6:L	_
+6	living	_	Word	Word	_	2	H	2:H	_
+7	at	_	Word	Word	_	9	R	9:R	_
+8	the	_	Word	Word	_	9	E	9:E	_
+9	Ashers	_	Word	Word	_	6	A	6:A	_
+10	'	_	Punctuation	Punctuation	_	2	U	2:U	_
+11	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+12	including	_	Word	Word	_	14	R	14:R	_
+13	"	_	Punctuation	Punctuation	_	14	U	14:U	_
+14	Yesterday	_	Word	Word	_	4	E	4:E	_
+15	"	_	Punctuation	Punctuation	_	14	U	14:U	_
+16	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+17	"	_	Punctuation	Punctuation	_	14	U	14:U	_
+18	And	_	Word	Word	_	14	C	14:C	_
+19	I	_	Word	Word	_	18	Terminal	18:Terminal	_
+20	Love	_	Word	Word	_	18	Terminal	18:Terminal	_
+21	Her	_	Word	Word	_	18	Terminal	18:Terminal	_
+22	"	_	Punctuation	Punctuation	_	14	U	14:U	_
+23	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+24	"	_	Punctuation	Punctuation	_	14	U	14:U	_
+25	You	_	Word	Word	_	14	C	14:C	_
+26	Wo	_	Word	Word	_	25	Terminal	25:Terminal	_
+27	n't	_	Word	Word	_	25	Terminal	25:Terminal	_
+28	See	_	Word	Word	_	25	Terminal	25:Terminal	_
+29	Me	_	Word	Word	_	25	Terminal	25:Terminal	_
+30	"	_	Punctuation	Punctuation	_	14	U	14:U	_
+31	and	_	Word	Word	_	14	N	14:N	_
+32	"	_	Punctuation	Punctuation	_	14	U	14:U	_
+33	I	_	Word	Word	_	14	C	14:C	_
+34	'm	_	Word	Word	_	33	Terminal	33:Terminal	_
+35	Looking	_	Word	Word	_	33	Terminal	33:Terminal	_
+36	Through	_	Word	Word	_	33	Terminal	33:Terminal	_
+37	You	_	Word	Word	_	33	Terminal	33:Terminal	_
+38	"	_	Punctuation	Punctuation	_	14	U	14:U	_
+39	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+40	the	_	Word	Word	_	42	E	42:E	_
+41	latter	_	Word	Word	_	42	E	42:E	_
+42	three	_	Word	Word	_	45	A	45:A	_
+43	having	_	Word	Word	_	45	F	45:F	_
+44	been	_	Word	Word	_	45	F	45:F	_
+45	inspired	_	Word	Word	_	14	E	14:E	_
+46	by	_	Word	Word	_	48	R	48:R	_
+47	their	_	Word	Word	_	48	A	48:A	_
+48	romance	_	Word	Word	_	45	A	45:A	_
+49	.	_	Punctuation	Punctuation	_	48	U	48:U	_
+

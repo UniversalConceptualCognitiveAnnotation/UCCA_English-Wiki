@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 1022003
+# text = The album topped the Billboard 200 chart for 37 weeks and was in the top 10 of the 200 for 80 consecutive weeks .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	album	_	Word	Word	_	0	C	0:C|13:A	_
+3	topped	_	Word	Word	_	0	H	0:H	_
+4	the	_	Word	Word	_	5	E	5:E	_
+5	Billboard	_	Word	Word	_	3	A	3:A	_
+6	200	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	chart	_	Word	Word	_	5	E	5:E	_
+8	for	_	Word	Word	_	10	R	10:R	_
+9	37	_	Word	Word	_	10	Q	10:Q	_
+10	weeks	_	Word	Word	_	3	T	3:T	_
+11	and	_	Word	Word	_	13	L	13:L	_
+12	was	_	Word	Word	_	13	F	13:F	_
+13	in	_	Word	Word	_	3	H	3:H	_
+14	the	_	Word	Word	_	15	E	15:E	_
+15	top	_	Word	Word	_	13	A	13:A	_
+16	10	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	of	_	Word	Word	_	19	R	19:R	_
+18	the	_	Word	Word	_	19	E	19:E	_
+19	200	_	Word	Word	_	15	E	15:E	_
+20	for	_	Word	Word	_	23	R	23:R	_
+21	80	_	Word	Word	_	23	Q	23:Q	_
+22	consecutive	_	Word	Word	_	23	E	23:E	_
+23	weeks	_	Word	Word	_	13	T	13:T	_
+24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 710008
+# text = This collection of complex songs won him his first solo " Album of the Year " Grammy Award .
+1	This	_	Word	Word	_	2	E	2:E	_
+2	collection	_	Word	Word	_	5	Q	5:Q	_
+3	of	_	Word	Word	_	5	R	5:R	_
+4	complex	_	Word	Word	_	5	E	5:E	_
+5	songs	_	Word	Word	_	6	A	6:A	_
+6	won	_	Word	Word	_	0	H	0:H	_
+7	him	_	Word	Word	_	6	A	6:A	_
+8	his	_	Word	Word	_	17	E	17:E	_
+9	first	_	Word	Word	_	17	Q	17:Q	_
+10	solo	_	Word	Word	_	17	E	17:E	_
+11	"	_	Punctuation	Punctuation	_	17	U	17:U	_
+12	Album	_	Word	Word	_	17	E	17:E	_
+13	of	_	Word	Word	_	12	Terminal	12:Terminal	_
+14	the	_	Word	Word	_	12	Terminal	12:Terminal	_
+15	Year	_	Word	Word	_	12	Terminal	12:Terminal	_
+16	"	_	Punctuation	Punctuation	_	17	U	17:U	_
+17	Grammy	_	Word	Word	_	6	A	6:A	_
+18	Award	_	Word	Word	_	17	E	17:E	_
+19	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+

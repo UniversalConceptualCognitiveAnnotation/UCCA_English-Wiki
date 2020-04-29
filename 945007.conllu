@@ -1,0 +1,37 @@
+# format = ucca
+# sent_id = 945007
+# text = The fourth single " Cool " was released shortly following the popularity of its predecessor , but failed to match its chart success , reaching the top twenty in US and UK .
+1	The	_	Word	Word	_	3	E	3:E	_
+2	fourth	_	Word	Word	_	3	Q	3:Q	_
+3	single	_	Word	Word	_	0	C	0:C|20:A|25:A	_
+4	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+5	Cool	_	Word	Word	_	8	A	8:A	_
+6	"	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	was	_	Word	Word	_	8	F	8:F	_
+8	released	_	Word	Word	_	0	H	0:H	_
+9	shortly	_	Word	Word	_	10	E	10:E	_
+10	following	_	Word	Word	_	12	L	12:L	_
+11	the	_	Word	Word	_	12	E	12:E	_
+12	popularity	_	Word	Word	_	8	H	8:H	_
+13	of	_	Word	Word	_	15	R	15:R	_
+14	its	_	Word	Word	_	15	A	15:A	_
+15	predecessor	_	Word	Word	_	12	A	12:A	_
+16	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+17	but	_	Word	Word	_	20	L	20:L	_
+18	failed	_	Word	Word	_	20	D	20:D	_
+19	to	_	Word	Word	_	20	F	20:F	_
+20	match	_	Word	Word	_	8	H	8:H	_
+21	its	_	Word	Word	_	23	A	23:A	_
+22	chart	_	Word	Word	_	23	A	23:A	_
+23	success	_	Word	Word	_	20	A	20:A	_
+24	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+25	reaching	_	Word	Word	_	8	H	8:H	_
+26	the	_	Word	Word	_	27	E	27:E	_
+27	top	_	Word	Word	_	25	A	25:A	_
+28	twenty	_	Word	Word	_	27	Terminal	27:Terminal	_
+29	in	_	Word	Word	_	30	R	30:R	_
+30	US	_	Word	Word	_	27	E	27:E	_
+31	and	_	Word	Word	_	30	N	30:N	_
+32	UK	_	Word	Word	_	30	C	30:C	_
+33	.	_	Punctuation	Punctuation	_	30	U	30:U	_
+

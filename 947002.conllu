@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 947002
+# text = In September 2008 , Stefani released a fragrance line as a part of her Harajuku Lovers product line .
+1	In	_	Word	Word	_	2	R	2:R	_
+2	September	_	Word	Word	_	6	T	6:T	_
+3	2008	_	Word	Word	_	2	C	2:C	_
+4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	Stefani	_	Word	Word	_	6	A	6:A	_
+6	released	_	Word	Word	_	0	H	0:H	_
+7	a	_	Word	Word	_	8	F	8:F	_
+8	fragrance	_	Word	Word	_	6	A	6:A	_
+9	line	_	Word	Word	_	8	C	8:C	_
+10	as	_	Word	Word	_	12	R	12:R	_
+11	a	_	Word	Word	_	12	E	12:E	_
+12	part	_	Word	Word	_	15	R	15:R	_
+13	of	_	Word	Word	_	12	R	12:R	_
+14	her	_	Word	Word	_	15	E	15:E	_
+15	Harajuku	_	Word	Word	_	6	A	6:A	_
+16	Lovers	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	product	_	Word	Word	_	15	E	15:E	_
+18	line	_	Word	Word	_	17	C	17:C	_
+19	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+

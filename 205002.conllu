@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 205002
+# text = He first drew critical praise for the play Eh ? , for which he won a Theatre World Award and a Drama Desk Award .
+1	He	_	Word	Word	_	5	A	5:A	_
+2	first	_	Word	Word	_	5	D	5:D	_
+3	drew	_	Word	Word	_	5	F	5:F	_
+4	critical	_	Word	Word	_	5	A	5:A	_
+5	praise	_	Word	Word	_	0	H	0:H	_
+6	for	_	Word	Word	_	9	R	9:R	_
+7	the	_	Word	Word	_	8	F	8:F	_
+8	play	_	Word	Word	_	9	E	9:E	_
+9	Eh	_	Word	Word	_	5	A	5:A	_
+10	?	_	Punctuation	Punctuation	_	9	U	9:U	_
+11	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+12	for	_	Word	Word	_	15	A	15:A	_
+13	which	_	Word	Word	_	15	R	15:R	_
+14	he	_	Word	Word	_	15	A	15:A	_
+15	won	_	Word	Word	_	9	E	9:E	_
+16	a	_	Word	Word	_	17	F	17:F	_
+17	Theatre	_	Word	Word	_	15	A	15:A	_
+18	World	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	Award	_	Word	Word	_	17	E	17:E	_
+20	and	_	Word	Word	_	17	N	17:N	_
+21	a	_	Word	Word	_	22	F	22:F	_
+22	Drama	_	Word	Word	_	17	C	17:C	_
+23	Desk	_	Word	Word	_	22	Terminal	22:Terminal	_
+24	Award	_	Word	Word	_	22	E	22:E	_
+25	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+

@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 1028010
+# text = The musician then released a film called Moonwalker , which featured live footage and short films that starred Jackson and Joe Pesci .
+1	The	_	Word	Word	_	2	E	2:E	_
+2	musician	_	Word	Word	_	4	A	4:A	_
+3	then	_	Word	Word	_	4	L	4:L	_
+4	released	_	Word	Word	_	0	H	0:H	_
+5	a	_	Word	Word	_	6	E	6:E	_
+6	film	_	Word	Word	_	4	A	4:A	_
+7	called	_	Word	Word	_	6	E	6:E	_
+8	Moonwalker	_	Word	Word	_	7	A	7:A|11:A	_
+9	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+10	which	_	Word	Word	_	11	R	11:R	_
+11	featured	_	Word	Word	_	6	E	6:E	_
+12	live	_	Word	Word	_	13	E	13:E	_
+13	footage	_	Word	Word	_	11	A	11:A	_
+14	and	_	Word	Word	_	13	N	13:N	_
+15	short	_	Word	Word	_	16	E	16:E	_
+16	films	_	Word	Word	_	13	C	13:C	_
+17	that	_	Word	Word	_	18	R	18:R	_
+18	starred	_	Word	Word	_	13	E	13:E	_
+19	Jackson	_	Word	Word	_	18	A	18:A	_
+20	and	_	Word	Word	_	19	N	19:N	_
+21	Joe	_	Word	Word	_	19	C	19:C	_
+22	Pesci	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

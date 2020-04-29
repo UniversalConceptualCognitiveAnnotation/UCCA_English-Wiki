@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 474022
+# text = He also missed several games due to a calf injury .
+1	He	_	Word	Word	_	3	A	3:A|10:A	_
+2	also	_	Word	Word	_	10	L	10:L	_
+3	missed	_	Word	Word	_	0	H	0:H	_
+4	several	_	Word	Word	_	5	Q	5:Q	_
+5	games	_	Word	Word	_	3	A	3:A	_
+6	due	_	Word	Word	_	10	L	10:L	_
+7	to	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	a	_	Word	Word	_	9	F	9:F	_
+9	calf	_	Word	Word	_	10	A	10:A	_
+10	injury	_	Word	Word	_	3	H	3:H	_
+11	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+

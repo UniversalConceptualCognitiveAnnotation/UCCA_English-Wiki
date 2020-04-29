@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 189006
+# text = Brown produced A Few Good Men on Broadway at the Music Box Theatre .
+1	Brown	_	Word	Word	_	2	A	2:A	_
+2	produced	_	Word	Word	_	0	H	0:H	_
+3	A	_	Word	Word	_	2	A	2:A	_
+4	Few	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	Good	_	Word	Word	_	3	Terminal	3:Terminal	_
+6	Men	_	Word	Word	_	3	Terminal	3:Terminal	_
+7	on	_	Word	Word	_	8	R	8:R	_
+8	Broadway	_	Word	Word	_	2	A	2:A	_
+9	at	_	Word	Word	_	13	R	13:R	_
+10	the	_	Word	Word	_	13	E	13:E	_
+11	Music	_	Word	Word	_	13	E	13:E	_
+12	Box	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	Theatre	_	Word	Word	_	2	A	2:A	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

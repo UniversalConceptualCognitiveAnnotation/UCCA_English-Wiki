@@ -1,0 +1,35 @@
+# format = ucca
+# sent_id = 963001
+# text = She was cremated at the Golders Green Crematorium and her ashes were scattered on the lake at her home , Tickerage Mill , near Blackboys , East Sussex , England .
+1	She	_	Word	Word	_	3	A	3:A	_
+2	was	_	Word	Word	_	3	F	3:F	_
+3	cremated	_	Word	Word	_	0	H	0:H	_
+4	at	_	Word	Word	_	6	R	6:R	_
+5	the	_	Word	Word	_	6	E	6:E	_
+6	Golders	_	Word	Word	_	3	A	3:A	_
+7	Green	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	Crematorium	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	and	_	Word	Word	_	13	L	13:L	_
+10	her	_	Word	Word	_	11	E	11:E	_
+11	ashes	_	Word	Word	_	13	A	13:A	_
+12	were	_	Word	Word	_	13	F	13:F	_
+13	scattered	_	Word	Word	_	3	H	3:H	_
+14	on	_	Word	Word	_	16	R	16:R	_
+15	the	_	Word	Word	_	16	E	16:E	_
+16	lake	_	Word	Word	_	13	A	13:A	_
+17	at	_	Word	Word	_	21	R	21:R	_
+18	her	_	Word	Word	_	19	E	19:E	_
+19	home	_	Word	Word	_	21	E	21:E	_
+20	,	_	Punctuation	Punctuation	_	21	U	21:U	_
+21	Tickerage	_	Word	Word	_	16	E	16:E	_
+22	Mill	_	Word	Word	_	21	Terminal	21:Terminal	_
+23	,	_	Punctuation	Punctuation	_	21	U	21:U	_
+24	near	_	Word	Word	_	25	R	25:R	_
+25	Blackboys	_	Word	Word	_	21	E	21:E	_
+26	,	_	Punctuation	Punctuation	_	25	U	25:U	_
+27	East	_	Word	Word	_	28	E	28:E	_
+28	Sussex	_	Word	Word	_	25	C	25:C	_
+29	,	_	Punctuation	Punctuation	_	25	U	25:U	_
+30	England	_	Word	Word	_	25	C	25:C	_
+31	.	_	Punctuation	Punctuation	_	25	U	25:U	_
+

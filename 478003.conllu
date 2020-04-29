@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 478003
+# text = Johnson was exceptional because he played point guard despite being 6 ft 9 in ( 2.06 m ) , a size reserved normally for frontcourt players .
+1	Johnson	_	Word	Word	_	3	A	3:A|10:A	_
+2	was	_	Word	Word	_	3	F	3:F	_
+3	exceptional	_	Word	Word	_	0	H	0:H	_
+4	because	_	Word	Word	_	6	L	6:L	_
+5	he	_	Word	Word	_	6	A	6:A	_
+6	played	_	Word	Word	_	3	H	3:H	_
+7	point	_	Word	Word	_	6	A	6:A	_
+8	guard	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	despite	_	Word	Word	_	10	L	10:L	_
+10	being	_	Word	Word	_	3	H	3:H	_
+11	6	_	Word	Word	_	12	Q	12:Q	_
+12	ft	_	Word	Word	_	10	A	10:A	_
+13	9	_	Word	Word	_	14	Q	14:Q	_
+14	in	_	Word	Word	_	12	C	12:C	_
+15	(	_	Punctuation	Punctuation	_	12	U	12:U	_
+16	2.06	_	Word	Word	_	17	Q	17:Q	_
+17	m	_	Word	Word	_	12	C	12:C	_
+18	)	_	Punctuation	Punctuation	_	12	U	12:U	_
+19	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+20	a	_	Word	Word	_	21	F	21:F	_
+21	size	_	Word	Word	_	12	E	12:E	_
+22	reserved	_	Word	Word	_	21	E	21:E	_
+23	normally	_	Word	Word	_	22	D	22:D	_
+24	for	_	Word	Word	_	26	R	26:R	_
+25	frontcourt	_	Word	Word	_	26	E	26:E	_
+26	players	_	Word	Word	_	22	A	22:A	_
+27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+
