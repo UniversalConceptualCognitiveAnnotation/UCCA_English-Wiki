@@ -1,0 +1,57 @@
+# ::id 1025000
+# ::tok In 1984 , ATV Music Publishing , which had the copyrights to nearly 4000 songs , including the Northern Songs catalog that contained the majority of the Lennon - McCartney compositions recorded by The Beatles , was put up for sale by Robert Holmes à Court .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.1.2.1 4-1.1.2.1 5-1.1.2.1 7-1.1.2.2.2 10-1.1.2.2.3.3 11-1.1.2.2.4.1 12-1.1.2.2.4.2.1 13-1.1.2.2.4.2.2 14-1.1.2.2.4.3 16-1.1.2.2.4.4.1 17-1.1.2.2.4.4.2 18-1.1.2.2.4.4.3 19-1.1.2.2.4.4.3 20-1.1.2.2.4.4.4 21-1.1.2.2.4.4.5.2 22-1.1.2.2.4.4.5.3 23-1.1.2.2.4.4.5.4.1.1 24-1.1.2.2.4.4.5.4.1.2 25-1.1.2.2.4.4.5.4.2 26-1.1.2.2.4.4.5.4.3 27-1.1.2.2.4.4.5.4.4.3.1 29-1.1.2.2.4.4.5.4.4.3.2 30-1.1.2.2.4.4.5.4.5 31-1.1.2.2.4.4.5.4.6.2 32-1.1.2.2.4.4.5.4.6.3.1 33-1.1.2.2.4.4.5.4.6.3.2 34-1.1.2.2.4.4.5.4.6.3.2 37-1.1.6 38-1.1.6 39-1.1.7.1 40-1.1.7.2 41-1.1.8.1 42-1.1.8.2 43-1.1.8.2 44-1.1.8.2 45-1.1.8.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label
+                  :R (v8 / label~e.0)
+                  :C (v9 / label~e.1))
+           :A (v4 / label
+                  :C (v10 / label~e.3,4,5)
+                  :E (v11 / label
+                          :A v10
+                          :R (v16 / label~e.7)
+                          :S (v17 / label
+                                  :C (v19 / label~e.10))
+                          :A (v18 / label
+                                  :R (v20 / label~e.11)
+                                  :Q (v21 / label
+                                          :E (v24 / label~e.12)
+                                          :C (v25 / label~e.13))
+                                  :C (v22 / label~e.14)
+                                  :E (v23 / label
+                                          :R (v26 / label~e.16)
+                                          :E (v27 / label~e.17)
+                                          :E (v28 / label~e.18,19)
+                                          :C (v29 / label~e.20)
+                                          :E (v30 / label
+                                                  :A v29
+                                                  :R (v31 / label~e.21)
+                                                  :S (v32 / label~e.22)
+                                                  :A (v33 / label
+                                                          :Q (v34 / label
+                                                                  :E (v40 / label~e.23)
+                                                                  :C (v41 / label~e.24))
+                                                          :R (v35 / label~e.25)
+                                                          :E (v36 / label~e.26)
+                                                          :E (v37 / label
+                                                                  :A (v38 / label~e.30)
+                                                                  :S (v42 / label)
+                                                                  :A (v43 / label
+                                                                          :C (v46 / label~e.27)
+                                                                          :C (v47 / label~e.29)))
+                                                          :C v38
+                                                          :E (v39 / label
+                                                                  :A v38
+                                                                  :P (v44 / label~e.31)
+                                                                  :A (v45 / label
+                                                                          :R (v48 / label~e.32)
+                                                                          :C (v49 / label~e.33,34)))))))))
+           :D (v5 / label~e.37,38)
+           :P (v6 / label
+                  :R (v12 / label~e.39)
+                  :C (v13 / label~e.40))
+           :A (v7 / label
+                  :R (v14 / label~e.41)
+                  :C (v15 / label~e.42,43,44,45))))

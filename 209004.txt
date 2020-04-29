@@ -1,0 +1,19 @@
+# ::id 209004
+# ::tok The film did relatively poorly with the critics and at the box office .
+# ::alignments 1-1.1.1.2 3-1.1.3 4-1.1.4 5-1.1.5.3.1 7-1.1.5.3.3.1 8-1.1.5.1 9-1.1.5.2.1 11-1.1.5.2.3 12-1.1.5.2.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :C (v7 / label~e.1))
+           :D (v4 / label~e.3)
+           :P (v5 / label~e.4)
+           :A (v6 / label
+                  :N (v8 / label~e.8)
+                  :C (v9 / label
+                         :R (v11 / label~e.9)
+                         :C (v12 / label~e.11,12))
+                  :C (v10 / label
+                          :R (v13 / label~e.5)
+                          :C (v14 / label
+                                  :A (v15 / label~e.7))))))

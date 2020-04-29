@@ -1,0 +1,17 @@
+# ::id 235002
+# ::tok In addition , Chan felt that the protesters were publicity seekers . "
+# ::alignments 0-1.1.1 1-1.1.2 3-1.2.1 4-1.2.2 5-1.2.3.1 7-1.2.3.2.2 9-1.2.3.4 10-1.2.3.5
+# ::format ucca
+(v1 / label
+    :L (v2 / label
+           :R (v4 / label~e.0)
+           :C (v5 / label~e.1))
+    :H (v3 / label
+           :A (v6 / label~e.3)
+           :P (v7 / label~e.4)
+           :A (v8 / label
+                  :R (v9 / label~e.5)
+                  :A (v10 / label
+                          :A (v13 / label~e.7))
+                  :A (v11 / label~e.9)
+                  :P (v12 / label~e.10))))

@@ -1,0 +1,31 @@
+# ::id 28001
+# ::tok Pitt 's onscreen career began in 1987 , with uncredited parts in the films No Way Out , No Man 's Land and Less Than Zero .
+# ::alignments 0-1.1.2.1 1-1.1.2.2 2-1.1.3 3-1.1.4 4-1.1.5 5-1.1.6.1 6-1.1.6.2 8-1.1.7.1 9-1.1.7.2.2 10-1.1.7.3 11-1.1.7.4.1 12-1.1.7.4.2.1 13-1.1.7.4.2.2 14-1.1.7.4.3.1 15-1.1.7.4.3.1 16-1.1.7.4.3.1 18-1.1.7.4.3.2 19-1.1.7.4.3.2 20-1.1.7.4.3.2 21-1.1.7.4.3.2 22-1.1.7.4.3.3 23-1.1.7.4.3.4 24-1.1.7.4.3.4 25-1.1.7.4.3.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :C (v9 / label~e.0)
+                  :R (v10 / label~e.1))
+           :A (v4 / label~e.2)
+           :P (v5 / label~e.3)
+           :D (v6 / label~e.4)
+           :T (v7 / label
+                  :R (v11 / label~e.5)
+                  :C (v12 / label~e.6))
+           :A (v8 / label
+                  :R (v13 / label~e.8)
+                  :E (v14 / label
+                          :A (v15 / label~e.10)
+                          :P (v17 / label~e.9))
+                  :C v15
+                  :E (v16 / label
+                          :R (v18 / label~e.11)
+                          :E (v19 / label
+                                  :E (v21 / label~e.12)
+                                  :C (v22 / label~e.13))
+                          :C (v20 / label
+                                  :C (v23 / label~e.14,15,16)
+                                  :C (v24 / label~e.18,19,20,21)
+                                  :N (v25 / label~e.22)
+                                  :C (v26 / label~e.23,24,25))))))

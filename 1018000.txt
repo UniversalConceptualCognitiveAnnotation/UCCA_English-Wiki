@@ -1,0 +1,40 @@
+# ::id 1018000
+# ::tok Michael Joseph Jackson ( August 29 , 1958 - June 25 , 2009 ) was an American singer - songwriter , dancer , businessman and philanthropist .
+# ::alignments 0-1.1.1.1 1-1.1.1.1 2-1.1.1.1 4-1.1.1.2.3.1 5-1.1.1.2.3.2 7-1.1.1.2.3.3 9-1.1.1.3.3.1 10-1.1.1.3.3.2 12-1.1.1.3.3.3 14-1.1.3 16-1.1.4.3.2 17-1.1.4.1.1.1.1 19-1.1.4.1.1.2.1 21-1.1.4.1.2.1 23-1.1.4.1.3.1 24-1.1.4.1.4 25-1.1.4.1.5.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :C (v6 / label~e.0,1,2)
+                  :E (v7 / label
+                         :A v6
+                         :P (v11 / label)
+                         :T (v12 / label
+                                 :C (v21 / label~e.4)
+                                 :C (v22 / label~e.5)
+                                 :C (v23 / label~e.7)))
+                  :E (v8 / label
+                         :A v6
+                         :P (v13 / label)
+                         :T (v14 / label
+                                 :C (v24 / label~e.9)
+                                 :C (v25 / label~e.10)
+                                 :C (v26 / label~e.12))))
+           :S (v4 / label~e.14)
+           :A (v5 / label
+                  :C (v9 / label
+                         :C (v15 / label
+                                 :C (v27 / label
+                                         :P (v32 / label~e.17))
+                                 :C (v28 / label
+                                         :P (v33 / label~e.19)))
+                         :C (v16 / label
+                                 :P (v29 / label~e.21))
+                         :C (v17 / label
+                                 :P (v30 / label~e.23))
+                         :N (v18 / label~e.24)
+                         :C (v19 / label
+                                 :P (v31 / label~e.25)))
+                  :E (v10 / label
+                          :A v9
+                          :S (v20 / label~e.16)))))

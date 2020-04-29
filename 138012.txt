@@ -1,0 +1,97 @@
+# ::id 138012
+# ::tok Williams was pleased with the performance , writing , " Kate is a playwright 's dream actress . She makes dialogue sound better than it is by a matchless beauty and clarity of diction " . He wrote The Night of the Iguana ( 1961 ) with Hepburn in mind , but the actress , although flattered , felt the play was wrong for her and declined the part , which went to Bette Davis .
+# ::alignments 0-1.1.1 2-1.1.3 3-1.1.4.1 4-1.1.4.2.1 5-1.1.4.2.2 7-1.2.3 10-1.2.4.2.1 11-1.2.4.2.2 12-1.2.4.2.3.1 13-1.2.4.2.3.2.1 14-1.2.4.2.3.2.2 15-1.2.4.2.3.3 16-1.2.4.2.3.4.1 18-1.2.4.3.1 19-1.2.4.3.2 20-1.2.4.3.3 21-1.2.4.3.4 22-1.2.4.3.5 23-1.2.4.4 24-1.2.4.5.1 26-1.2.4.3.6.1 27-1.2.4.3.6.2.1.1 28-1.2.4.3.6.2.2 29-1.2.4.3.6.2.1.2 30-1.2.4.3.6.3 31-1.2.4.3.6.4.1 32-1.2.4.3.6.4.2.1 33-1.2.4.3.6.4.2.2 36-1.3.2 37-1.3.3 38-1.3.4.2 39-1.3.4.2 40-1.3.4.2 41-1.3.4.2 42-1.3.4.2 44-1.3.4.3.3 46-1.3.5.2 47-1.3.5.3 48-1.3.5.4.1 49-1.3.5.4.2 51-1.4 52-1.5.1.1 53-1.7.2 55-1.6 56-1.7.1 58-1.5.2 59-1.5.3.1.1 60-1.5.3.1.2 62-1.5.3.3 63-1.5.3.4.1 64-1.5.3.4.2 65-1.8 66-1.9.1 67-1.9.2.2 68-1.9.2.3 70-1.9.2.4.3 71-1.9.2.4.4 73-1.9.2.4.6 74-1.9.2.4.6
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v11 / label~e.0)
+           :S (v12 / label~e.2)
+           :A (v13 / label
+                   :R (v27 / label~e.3)
+                   :P (v28 / label
+                           :E (v45 / label~e.4)
+                           :C (v46 / label~e.5))))
+    :H (v3 / label
+           :P (v14 / label~e.7)
+           :A (v15 / label
+                   :H (v29 / label
+                           :A (v47 / label~e.10)
+                           :S (v48 / label~e.11)
+                           :A (v49 / label
+                                   :E (v68 / label~e.12)
+                                   :E (v69 / label
+                                           :C (v76 / label~e.13)
+                                           :R (v77 / label~e.14))
+                                   :E (v70 / label~e.15)
+                                   :C (v71 / label
+                                           :P (v78 / label~e.16))))
+                   :H (v30 / label
+                           :A (v50 / label~e.18)
+                           :D (v51 / label~e.19)
+                           :A (v52 / label~e.20)
+                           :P (v53 / label~e.21)
+                           :D (v54 / label~e.22)
+                           :A (v55 / label
+                                   :R (v72 / label~e.26)
+                                   :H (v73 / label
+                                           :S (v79 / label
+                                                   :E (v83 / label~e.27)
+                                                   :C (v84 / label~e.29))
+                                           :D (v80 / label~e.28))
+                                   :L (v74 / label~e.30)
+                                   :H (v75 / label
+                                           :D (v81 / label~e.31)
+                                           :P (v82 / label
+                                                   :R (v85 / label~e.32)
+                                                   :C (v86 / label~e.33)))))
+                   :L (v31 / label~e.23)
+                   :H (v32 / label
+                           :A (v56 / label~e.24)
+                           :S v54))
+           :A v11)
+    :H (v4 / label
+           :A (v16 / label~e.36)
+           :P (v17 / label~e.37)
+           :A (v18 / label
+                   :C (v33 / label~e.38,39,40,41,42)
+                   :E (v34 / label
+                           :A v33
+                           :P (v57 / label)
+                           :T (v58 / label~e.44)))
+           :A (v19 / label
+                   :A v16
+                   :R (v35 / label~e.46)
+                   :A (v36 / label~e.47)
+                   :S (v37 / label
+                           :R (v59 / label~e.48)
+                           :C (v60 / label~e.49))))
+    :L (v5 / label~e.51)
+    :H (v6 / label
+           :A (v20 / label
+                   :E (v38 / label~e.52)
+                   :C (v24 / label~e.53))
+           :S (v21 / label~e.58)
+           :A (v22 / label
+                   :A (v39 / label
+                           :E (v61 / label~e.59)
+                           :C (v62 / label~e.60))
+                   :S (v40 / label~e.62)
+                   :A (v41 / label
+                           :R (v63 / label~e.63)
+                           :C (v64 / label~e.64))))
+    :L (v7 / label~e.55)
+    :H (v8 / label
+           :P (v23 / label~e.56)
+           :A v24)
+    :L (v9 / label~e.65)
+    :H (v10 / label
+            :P (v25 / label~e.66)
+            :A (v26 / label
+                    :E (v42 / label~e.67)
+                    :C (v43 / label~e.68)
+                    :E (v44 / label
+                            :A v43
+                            :R (v65 / label~e.70)
+                            :P (v66 / label~e.71)
+                            :A (v67 / label~e.73,74)))
+            :A v24))

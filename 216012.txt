@@ -1,0 +1,18 @@
+# ::id 216012
+# ::tok In the Esquire review , Tom Carson called her performance " terrific . "
+# ::alignments 0-1.1.2.1 2-1.1.2.3 3-1.1.2.4 5-1.1.3 6-1.1.3 7-1.1.4 8-1.1.5.1 9-1.1.5.2 11-1.1.6.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :R (v8 / label~e.0)
+                  :A (v9 / label~e.2)
+                  :P (v10 / label~e.3))
+           :A (v4 / label~e.5,6)
+           :P (v5 / label~e.7)
+           :A (v6 / label
+                  :A (v11 / label~e.8)
+                  :P (v12 / label~e.9))
+           :A (v7 / label
+                  :D (v13 / label~e.11)
+                  :P v12)))

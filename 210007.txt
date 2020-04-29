@@ -1,0 +1,50 @@
+# ::id 210007
+# ::tok He later won the Annie Award for Voice Acting in an Animated Feature for Kung Fu Panda and has continued into the role in the franchise 's subsequent filmed productions outside of the franchise 's television series .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 4-1.1.4.2 5-1.1.4.3 6-1.1.4.4.1 7-1.1.4.4.2 8-1.1.4.4.3 9-1.1.4.4.4.1 11-1.1.4.4.4.3 12-1.1.4.4.4.4 13-1.1.5.1 14-1.1.5.2 15-1.1.5.2 16-1.1.5.2 17-1.2 19-1.3.3 20-1.3.4.1 22-1.3.4.3.1 23-1.3.5.1 25-1.3.5.3.1 26-1.3.5.3.2 27-1.3.5.4 28-1.3.5.5.2 29-1.3.5.6.1 30-1.3.5.7.1 31-1.3.5.7.2 33-1.3.5.7.4.1 34-1.3.5.7.4.2 35-1.3.5.7.5 36-1.3.5.7.6
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label~e.0)
+           :D (v6 / label~e.1)
+           :P (v7 / label~e.2)
+           :A (v8 / label
+                  :E (v13 / label~e.4)
+                  :C (v14 / label~e.5)
+                  :E (v15 / label
+                          :R (v26 / label~e.6)
+                          :E (v27 / label~e.7)
+                          :C (v28 / label~e.8)
+                          :E (v29 / label
+                                  :R (v40 / label~e.9)
+                                  :E (v41 / label~e.11)
+                                  :C (v42 / label~e.12))))
+           :A (v9 / label
+                  :R (v16 / label~e.13)
+                  :C (v17 / label~e.14,15,16)))
+    :L (v3 / label~e.17)
+    :H (v4 / label
+           :A v5
+           :P (v10 / label~e.19)
+           :A (v11 / label
+                   :R (v18 / label~e.20)
+                   :C (v19 / label
+                           :P (v30 / label~e.22)))
+           :A (v12 / label
+                   :R (v20 / label~e.23)
+                   :E (v21 / label
+                           :C (v31 / label~e.25)
+                           :R (v32 / label~e.26))
+                   :E (v22 / label~e.27)
+                   :E (v23 / label
+                           :A (v24 / label
+                                   :P (v34 / label~e.29))
+                           :P (v33 / label~e.28))
+                   :C v24
+                   :E (v25 / label
+                           :R (v35 / label~e.30)
+                           :R (v36 / label~e.31)
+                           :E (v37 / label
+                                   :C (v43 / label~e.33)
+                                   :R (v44 / label~e.34))
+                           :E (v38 / label~e.35)
+                           :C (v39 / label~e.36)))))

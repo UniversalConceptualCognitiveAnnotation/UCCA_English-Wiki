@@ -1,0 +1,25 @@
+# ::id 130013
+# ::tok She was cast in Howard Hawks ' screwball comedy Bringing Up Baby ( 1938 ) alongside Cary Grant .
+# ::alignments 0-1.1.3 2-1.1.5 3-1.1.6.1 4-1.1.6.2.3 5-1.1.6.2.3 7-1.1.6.3 8-1.1.6.4 9-1.1.6.5 10-1.1.6.5 11-1.1.6.5 13-1.1.6.6.3 15-1.1.7.1 16-1.1.7.2 17-1.1.7.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :A (v4 / label~e.0)
+           :P (v5 / label~e.2)
+           :A (v6 / label
+                  :R (v8 / label~e.3)
+                  :E (v9 / label
+                         :A (v12 / label~e.9,10,11)
+                         :S (v16 / label)
+                         :A (v17 / label~e.4,5))
+                  :E (v10 / label~e.7)
+                  :E (v11 / label~e.8)
+                  :C v12
+                  :E (v13 / label
+                          :A v12
+                          :P (v18 / label)
+                          :T (v19 / label~e.13)))
+           :A (v7 / label
+                  :R (v14 / label~e.15)
+                  :C (v15 / label~e.16,17))))

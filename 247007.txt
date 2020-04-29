@@ -1,0 +1,107 @@
+# ::id 247007
+# ::tok Hawke regarded Tape as his " first adult performance " , a performance noted by Roger Ebert for its " physical and verbal acting mastery " . Hawke 's next role , and one for which he received substantial critical acclaim , came in Training Day ( 2001 ) . Hawke played rookie cop Jake Hoyt , alongside Denzel Washington , as one of a pair of narcotics detectives from the Los Angeles Police Department spending 24 hours in the gang neighborhoods of South Los Angeles .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4.2 4-1.1.4.3 6-1.1.4.4 7-1.1.4.5 8-1.1.4.6 12-1.2.1.1.2 13-1.2.2 14-1.2.3.1 15-1.2.3.2 16-1.2.3.2 17-1.2.4.1 18-1.2.4.2.3 20-1.2.4.2.4.1.1 21-1.2.4.2.4.1.2 22-1.2.4.2.4.1.3 23-1.2.4.2.5 24-1.2.4.2.4.2 27-1.3.2.2.1 28-1.3.2.2.2 29-1.3.2.3 30-1.3.2.4 33-1.3.2.5.3 34-1.3.2.5.4.1.2 35-1.3.2.5.4.2 36-1.3.2.5.4.3 37-1.3.2.5.4.4 38-1.3.2.5.4.5 39-1.3.2.5.4.6 40-1.3.2.5.4.7 42-1.3.3 43-1.3.4.2 44-1.3.4.3 45-1.3.4.3 47-1.3.4.4.3 50-1.4.3 51-1.4.4 52-1.4.5.1.2 53-1.4.5.1.3 54-1.4.5.2 55-1.4.5.2 57-1.4.6.1 58-1.4.6.2 59-1.4.6.2 61-1.4.7.1 62-1.4.7.2.1 63-1.4.7.2.2.1 65-1.4.7.2.2.3 66-1.4.7.3 67-1.4.7.4 68-1.4.7.5.1 69-1.4.7.6.1 71-1.4.7.6.3 72-1.4.7.6.3 73-1.4.7.6.4 74-1.4.7.6.5 75-1.4.7.7.1 76-1.4.7.7.2.1 77-1.4.7.7.2.2 78-1.4.7.7.3.1 80-1.4.7.7.3.3 81-1.4.7.7.3.4 82-1.4.7.7.3.5.2 83-1.4.7.7.3.5.3 84-1.4.7.7.3.5.4 85-1.4.7.7.3.5.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label~e.0)
+           :P (v7 / label~e.1)
+           :A (v8 / label~e.2)
+           :A (v9 / label
+                  :A v8
+                  :R (v22 / label~e.3)
+                  :A (v23 / label~e.4)
+                  :D (v24 / label~e.6)
+                  :D (v25 / label~e.7)
+                  :P (v26 / label~e.8)))
+    :H (v3 / label
+           :A (v10 / label
+                   :P (v27 / label
+                           :C (v50 / label~e.12))
+                   :A v23)
+           :P (v11 / label~e.13)
+           :A (v12 / label
+                   :R (v28 / label~e.14)
+                   :C (v29 / label~e.15,16))
+           :A (v13 / label
+                   :R (v30 / label~e.17)
+                   :C (v31 / label
+                           :A v6
+                           :A (v51 / label~e.18)
+                           :D (v52 / label
+                                   :E (v72 / label
+                                           :C (v89 / label~e.20)
+                                           :N (v90 / label~e.21)
+                                           :C (v91 / label~e.22))
+                                   :C (v73 / label~e.24))
+                           :P (v53 / label~e.23))))
+    :H (v4 / label
+           :A (v14 / label
+                   :E (v32 / label
+                           :C (v54 / label~e.27)
+                           :R (v55 / label~e.28))
+                   :E (v33 / label~e.29)
+                   :C (v34 / label~e.30)
+                   :E (v35 / label
+                           :C v34
+                           :Q (v56 / label~e.33)
+                           :E (v57 / label
+                                   :A (v74 / label
+                                           :C v34
+                                           :R (v92 / label~e.34))
+                                   :R (v75 / label~e.35)
+                                   :A (v76 / label~e.36)
+                                   :D (v77 / label~e.37)
+                                   :D (v78 / label~e.38)
+                                   :A (v79 / label~e.39)
+                                   :P (v80 / label~e.40))))
+           :S (v15 / label~e.42)
+           :A (v16 / label
+                   :R (v36 / label~e.43)
+                   :C (v37 / label~e.44,45)
+                   :E (v38 / label
+                           :A v37
+                           :P (v58 / label)
+                           :T (v59 / label~e.47))))
+    :H (v5 / label
+           :A (v17 / label~e.50)
+           :P (v18 / label~e.51)
+           :A (v19 / label
+                   :E (v39 / label
+                           :A (v40 / label~e.54,55)
+                           :D (v60 / label~e.52)
+                           :P (v61 / label~e.53))
+                   :C v40)
+           :A (v20 / label
+                   :R (v41 / label~e.57)
+                   :C (v42 / label~e.58,59))
+           :A (v21 / label
+                   :R (v43 / label~e.61)
+                   :Q (v44 / label
+                           :C (v62 / label~e.62)
+                           :E (v63 / label
+                                   :R (v81 / label~e.63)
+                                   :C (v82 / label~e.65)))
+                   :R (v45 / label~e.66)
+                   :E (v46 / label~e.67)
+                   :C (v47 / label
+                           :P (v64 / label~e.68))
+                   :E (v48 / label
+                           :R (v65 / label~e.69)
+                           :E (v66 / label~e.71,72)
+                           :C (v67 / label~e.73)
+                           :E (v68 / label~e.74))
+                   :E (v49 / label
+                           :P (v69 / label~e.75)
+                           :T (v70 / label
+                                   :Q (v83 / label~e.76)
+                                   :C (v84 / label~e.77))
+                           :A (v71 / label
+                                   :R (v85 / label~e.78)
+                                   :E (v86 / label~e.80)
+                                   :C (v87 / label~e.81)
+                                   :E (v88 / label
+                                           :R (v93 / label~e.82)
+                                           :E (v94 / label~e.83)
+                                           :C (v95 / label~e.84,85)))
+                           :A v64))))

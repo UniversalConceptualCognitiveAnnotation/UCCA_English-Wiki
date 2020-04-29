@@ -1,0 +1,42 @@
+# ::id 187006
+# ::tok He returned in his sophomore year determined to do better , and graduated in 1983 with a bachelor of fine arts degree in musical theatre .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.2 3-1.3.1 4-1.3.2.1 5-1.3.2.2 6-1.4.1 8-1.4.2.2 9-1.4.2.3 11-1.5 12-1.6.1 13-1.6.2.1 14-1.6.2.2 15-1.6.3.1 16-1.6.3.2 17-1.6.3.3 18-1.6.3.4.1 19-1.6.3.4.2.1 20-1.6.3.4.2.2 21-1.6.3.4.3 22-1.6.3.5.1 23-1.6.3.5.2 24-1.6.3.5.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v8 / label~e.0)
+           :P (v9 / label~e.1))
+    :L (v3 / label~e.2)
+    :H (v4 / label
+           :A (v10 / label~e.3)
+           :S (v11 / label
+                   :E (v17 / label~e.4)
+                   :C (v18 / label~e.5)))
+    :H (v5 / label
+           :P (v12 / label~e.6)
+           :A (v13 / label
+                   :P (v19 / label~e.8)
+                   :D (v20 / label~e.9)
+                   :A v8)
+           :A v8)
+    :L (v6 / label~e.11)
+    :H (v7 / label
+           :P (v14 / label~e.12)
+           :T (v15 / label
+                   :R (v21 / label~e.13)
+                   :C (v22 / label~e.14))
+           :A (v16 / label
+                   :R (v23 / label~e.15)
+                   :E (v24 / label~e.16)
+                   :C (v25 / label~e.17)
+                   :E (v26 / label
+                           :R (v28 / label~e.18)
+                           :E (v29 / label
+                                   :E (v34 / label~e.19)
+                                   :C (v35 / label~e.20))
+                           :C (v30 / label~e.21))
+                   :E (v27 / label
+                           :R (v31 / label~e.22)
+                           :E (v32 / label~e.23)
+                           :C (v33 / label~e.24)))
+           :A v8))

@@ -1,0 +1,55 @@
+# ::id 185000
+# ::tok Aaron Sorkin ( born June 9 , 1961 ) is an Academy and Emmy - award winning American screenwriter , producer , and playwright , whose works include A Few Good Men , The American President , The West Wing , Sports Night , Studio 60 on the Sunset Strip , Charlie Wilson 's War , The Social Network , Moneyball and The Newsroom .
+# ::alignments 0-1.1.1.2 1-1.1.1.2 3-1.1.1.3.2 4-1.1.1.3.3.2 5-1.1.1.3.3.3 7-1.1.1.3.3.4 9-1.1.2 10-1.1.4.1.1.1.1 11-1.1.4.1.1.1.2.1 12-1.1.4.1.1.1.2.2 13-1.1.4.1.1.1.2.3 15-1.1.4.1.1.1.3 16-1.1.4.1.1.2 17-1.1.4.1.2 18-1.1.4.1.3 20-1.1.4.2.1 22-1.1.4.6 23-1.1.4.3.1 25-1.1.4.1.4.1 26-1.1.4.1.4.2 27-1.1.4.1.4.3 28-1.1.4.1.4.4.1 29-1.1.4.1.4.4.1 30-1.1.4.1.4.4.1 31-1.1.4.1.4.4.1 33-1.1.4.1.4.4.2 34-1.1.4.1.4.4.2 35-1.1.4.1.4.4.2 37-1.1.4.1.4.4.3 38-1.1.4.1.4.4.3 39-1.1.4.1.4.4.3 41-1.1.4.1.4.4.4 42-1.1.4.1.4.4.4 44-1.1.4.1.4.4.5 45-1.1.4.1.4.4.5 46-1.1.4.1.4.4.5 47-1.1.4.1.4.4.5 48-1.1.4.1.4.4.5 49-1.1.4.1.4.4.5 51-1.1.4.1.4.4.6 52-1.1.4.1.4.4.6 53-1.1.4.1.4.4.6 54-1.1.4.1.4.4.6 56-1.1.4.1.4.4.7 57-1.1.4.1.4.4.7 58-1.1.4.1.4.4.7 60-1.1.4.1.4.4.8 61-1.1.4.1.4.4.9 62-1.1.4.1.4.4.10 63-1.1.4.1.4.4.10
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :C (v6 / label~e.0,1)
+                  :E (v7 / label
+                         :A v6
+                         :P (v12 / label~e.3)
+                         :T (v13 / label
+                                 :C (v20 / label~e.4)
+                                 :C (v21 / label~e.5)
+                                 :C (v22 / label~e.7))))
+           :S (v4 / label~e.9)
+           :A (v5 / label
+                  :H (v8 / label
+                         :A (v14 / label
+                                 :A (v23 / label
+                                         :E (v29 / label~e.10)
+                                         :E (v30 / label
+                                                 :C (v42 / label~e.11)
+                                                 :N (v43 / label~e.12)
+                                                 :C (v44 / label~e.13))
+                                         :C (v31 / label~e.15))
+                                 :P (v24 / label~e.16))
+                         :A (v15 / label~e.17)
+                         :P (v16 / label~e.18)
+                         :A (v17 / label
+                                 :R (v25 / label~e.25)
+                                 :A (v26 / label~e.26)
+                                 :S (v27 / label~e.27)
+                                 :A (v28 / label
+                                         :C (v32 / label~e.28,29,30,31)
+                                         :C (v33 / label~e.33,34,35)
+                                         :C (v34 / label~e.37,38,39)
+                                         :C (v35 / label~e.41,42)
+                                         :C (v36 / label~e.44,45,46,47,48,49)
+                                         :C (v37 / label~e.51,52,53,54)
+                                         :C (v38 / label~e.56,57,58)
+                                         :C (v39 / label~e.60)
+                                         :N (v40 / label~e.61)
+                                         :C (v41 / label~e.62,63))))
+                  :H (v9 / label
+                         :P (v18 / label~e.20)
+                         :A v14
+                         :A v15
+                         :A v17)
+                  :H (v10 / label
+                          :P (v19 / label~e.23)
+                          :A v14
+                          :A v15
+                          :A v17)
+                  :L (v11 / label~e.22))))

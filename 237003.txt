@@ -1,0 +1,32 @@
+# ::id 237003
+# ::tok Other ventures include Jackie Chan Signature Club gyms ( a partnership with California Fitness ) , and a line of chocolates , cookies and nutritional oatcakes .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2 3-1.1.3.3.1 4-1.1.3.3.1 5-1.1.3.3.1 6-1.1.3.3.1 7-1.1.3.3.2 10-1.1.3.3.3.2.2 11-1.1.3.3.3.3.1 12-1.1.3.3.3.3.2 13-1.1.3.3.3.3.2 16-1.1.3.4 18-1.1.3.5.2 19-1.1.3.5.3 20-1.1.3.5.4.1 22-1.1.3.5.4.2 23-1.1.3.5.4.3 24-1.1.3.5.4.4.1 25-1.1.3.5.4.4.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label~e.0)
+                  :C (v7 / label~e.1))
+           :S (v4 / label~e.2)
+           :A (v5 / label
+                  :C (v8 / label
+                         :E (v11 / label~e.3,4,5,6)
+                         :C (v12 / label~e.7)
+                         :E (v13 / label
+                                 :A (v17 / label)
+                                 :P (v18 / label
+                                         :C (v24 / label~e.10))
+                                 :A (v19 / label
+                                         :R (v25 / label~e.11)
+                                         :C (v26 / label~e.12,13))))
+                  :N (v9 / label~e.16)
+                  :C (v10 / label
+                          :E (v14 / label~e.18)
+                          :R (v15 / label~e.19)
+                          :C (v16 / label
+                                  :C (v20 / label~e.20)
+                                  :C (v21 / label~e.22)
+                                  :N (v22 / label~e.23)
+                                  :C (v23 / label
+                                          :E (v27 / label~e.24)
+                                          :C (v28 / label~e.25)))))))

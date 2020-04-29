@@ -1,0 +1,14 @@
+# ::id 227008
+# ::tok It grossed US $ 255 million .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.1.3.3.1 5-1.1.3.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :P (v4 / label~e.1)
+           :A (v5 / label
+                  :E (v6 / label~e.2)
+                  :C (v7 / label~e.3)
+                  :Q (v8 / label
+                         :C (v9 / label~e.4)
+                         :C (v10 / label~e.5)))))

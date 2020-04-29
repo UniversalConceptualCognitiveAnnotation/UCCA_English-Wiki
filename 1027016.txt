@@ -1,0 +1,24 @@
+# ::id 1027016
+# ::tok In 1988 , " Bad " won an American Music Award for Favorite Soul / R & B Single .
+# ::alignments 0-1.1.4.1 1-1.1.4.2 4-1.1.5 6-1.1.6 7-1.1.7.1 8-1.1.7.2 9-1.1.7.2 10-1.1.7.3 11-1.1.7.4.1 12-1.1.7.4.2.2 13-1.1.7.4.3.1 15-1.1.7.4.3.2 16-1.1.7.4.3.2 17-1.1.7.4.3.2 18-1.1.7.4.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label
+                  :R (v7 / label~e.0)
+                  :C (v8 / label~e.1))
+           :A (v4 / label~e.4)
+           :P (v5 / label~e.6)
+           :A (v6 / label
+                  :E (v9 / label~e.7)
+                  :E (v10 / label~e.8,9)
+                  :C (v11 / label~e.10)
+                  :E (v12 / label
+                          :R (v13 / label~e.11)
+                          :E (v14 / label
+                                  :A (v16 / label~e.18)
+                                  :S (v17 / label~e.12))
+                          :E (v15 / label
+                                  :C (v18 / label~e.13)
+                                  :C (v19 / label~e.15,16,17))
+                          :C v16))))

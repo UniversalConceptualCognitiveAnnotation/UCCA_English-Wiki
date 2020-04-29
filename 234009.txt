@@ -1,0 +1,61 @@
+# ::id 234009
+# ::tok Some 50 police and security personnel were required to separate protesters from Chan , as they were attempting to spit at him when he arrived at Taipei airport for a charity sponsored by cable TV channel TVBS on 18 June 2008 .
+# ::alignments 0-1.1.2.1 1-1.1.2.2 2-1.1.2.3.1.1 3-1.1.2.3.2 4-1.1.2.3.3.1 5-1.1.2.3.3.2 7-1.1.4 9-1.1.5.2 10-1.1.5.3.1 11-1.1.5.4.1 12-1.1.5.4.2 14-1.2 15-1.3.1 17-1.3.3 19-1.3.5 20-1.3.6.1 21-1.3.6.2 22-1.4 23-1.5.1 24-1.5.2 25-1.5.3.1 26-1.5.3.2 27-1.5.3.3 28-1.6 30-1.7.2 31-1.8.1 32-1.8.2.1 33-1.8.2.2.1 34-1.8.2.2.2 35-1.8.2.3 36-1.8.2.4 37-1.5.4.1 38-1.5.4.2 39-1.5.4.3 40-1.5.4.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v10 / label)
+           :A (v11 / label
+                   :E (v25 / label~e.0)
+                   :Q (v26 / label~e.1)
+                   :C (v27 / label
+                           :C (v44 / label
+                                   :A (v52 / label~e.2))
+                           :N (v45 / label~e.3)
+                           :C (v46 / label
+                                   :P (v53 / label~e.4)
+                                   :A (v54 / label~e.5))))
+           :P (v12 / label~e.7)
+           :A (v13 / label
+                   :P (v28 / label~e.9)
+                   :A (v29 / label
+                           :A (v47 / label~e.10))
+                   :A (v30 / label
+                           :R (v48 / label~e.11)
+                           :C (v49 / label~e.12))
+                   :A v27))
+    :L (v3 / label~e.14)
+    :H (v4 / label
+           :A (v14 / label~e.15)
+           :D (v15 / label~e.17)
+           :P (v16 / label~e.19)
+           :A (v17 / label
+                   :R (v31 / label~e.20)
+                   :C (v32 / label~e.21)))
+    :L (v5 / label~e.22)
+    :H (v6 / label
+           :A (v18 / label~e.23)
+           :P (v19 / label~e.24)
+           :A (v20 / label
+                   :R (v33 / label~e.25)
+                   :E (v34 / label~e.26)
+                   :C (v35 / label~e.27))
+           :T (v21 / label
+                   :R (v36 / label~e.37)
+                   :C (v37 / label~e.38)
+                   :C (v38 / label~e.39)
+                   :C (v39 / label~e.40)))
+    :L (v7 / label~e.28)
+    :H (v8 / label
+           :P (v22 / label~e.30)
+           :A v18)
+    :H (v9 / label
+           :P (v23 / label~e.31)
+           :A (v24 / label
+                   :R (v40 / label~e.32)
+                   :E (v41 / label
+                           :E (v50 / label~e.33)
+                           :C (v51 / label~e.34))
+                   :E (v42 / label~e.35)
+                   :C (v43 / label~e.36))
+           :A v22))

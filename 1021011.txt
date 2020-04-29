@@ -1,0 +1,16 @@
+# ::id 1021011
+# ::tok Jones and Jackson produced the Off the Wall album together .
+# ::alignments 0-1.1.2.1 1-1.1.2.2 2-1.1.2.3 3-1.1.3 4-1.1.4.2 5-1.1.4.3 6-1.1.4.3 7-1.1.4.3 8-1.1.4.1 9-1.1.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :C (v7 / label~e.0)
+                  :N (v8 / label~e.1)
+                  :C (v9 / label~e.2))
+           :P (v4 / label~e.3)
+           :A (v5 / label
+                  :E (v10 / label~e.8)
+                  :E (v11 / label~e.4)
+                  :C (v12 / label~e.5,6,7))
+           :D (v6 / label~e.9)))

@@ -1,0 +1,66 @@
+# ::id 195010
+# ::tok Sorkin described the show as having " autobiographical elements " to it and " characters that are based on actual people " but said that it departs from those beginnings to look at the backstage maneuverings at a late night sketch comedy show .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.1.4.1 5-1.1.4.2 7-1.1.4.3.1.1 8-1.1.4.3.1.2 10-1.1.4.3.1.3.1 11-1.1.4.3.1.3.2 12-1.1.4.3.2 14-1.1.4.3.3.1 15-1.1.4.3.3.2.2 17-1.1.4.3.3.2.4 18-1.1.4.3.3.2.5.1 19-1.1.4.3.3.2.5.2 20-1.1.4.3.3.2.5.3 22-1.2 23-1.3.2 24-1.3.3.3 25-1.3.3.2.4 26-1.3.3.4.2 27-1.3.3.4.3.1 28-1.3.3.4.3.2 29-1.3.3.4.3.3 30-1.3.3.1 31-1.3.3.2.1 32-1.3.3.2.2.1 33-1.3.3.2.2.2.1 34-1.3.3.2.2.3 35-1.3.3.2.2.2.2 36-1.3.3.2.3.1 37-1.3.3.2.3.2 38-1.3.3.2.3.3.1 39-1.3.3.2.3.3.2 40-1.3.3.2.3.4.1 41-1.3.3.2.3.4.2 42-1.3.3.2.3.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label~e.0)
+           :P (v6 / label~e.1)
+           :A (v7 / label
+                  :E (v11 / label~e.2)
+                  :C (v12 / label~e.3))
+           :A (v8 / label
+                  :R (v13 / label~e.4)
+                  :S (v14 / label~e.5)
+                  :A (v15 / label
+                          :C (v20 / label
+                                  :E (v29 / label~e.7)
+                                  :C (v30 / label~e.8)
+                                  :E (v31 / label
+                                          :R (v45 / label~e.10)
+                                          :C (v46 / label~e.11)))
+                          :N (v21 / label~e.12)
+                          :C (v22 / label
+                                  :C (v32 / label~e.14)
+                                  :E (v33 / label
+                                          :A v32
+                                          :R (v47 / label~e.15)
+                                          :P (v48 / label~e.17)
+                                          :A (v49 / label
+                                                  :R (v56 / label~e.18)
+                                                  :E (v57 / label~e.19)
+                                                  :C (v58 / label~e.20)))))
+                  :A v12))
+    :L (v3 / label~e.22)
+    :H (v4 / label
+           :A v5
+           :P (v9 / label~e.23)
+           :A (v10 / label
+                   :L (v16 / label~e.30)
+                   :H (v17 / label
+                           :P (v23 / label~e.31)
+                           :A (v24 / label
+                                   :R (v34 / label~e.32)
+                                   :P (v35 / label
+                                           :E (v50 / label~e.33)
+                                           :C (v51 / label~e.35))
+                                   :A (v36 / label~e.34))
+                           :A (v25 / label
+                                   :R (v37 / label~e.36)
+                                   :E (v38 / label~e.37)
+                                   :E (v39 / label
+                                           :E (v52 / label~e.38)
+                                           :C (v53 / label~e.39))
+                                   :E (v40 / label
+                                           :E (v54 / label~e.40)
+                                           :C (v55 / label~e.41))
+                                   :C (v41 / label~e.42))
+                           :A (v26 / label~e.25))
+                   :R (v18 / label~e.24)
+                   :H (v19 / label
+                           :A v26
+                           :P (v27 / label~e.26)
+                           :A (v28 / label
+                                   :R (v42 / label~e.27)
+                                   :E (v43 / label~e.28)
+                                   :C (v44 / label~e.29))))))

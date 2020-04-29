@@ -1,0 +1,28 @@
+# ::id 190001
+# ::tok He wrote the scripts for A Few Good Men , Malice , and The American President : the three films grossed about $ 400 million worldwide .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.1.3.3.1 5-1.1.3.3.2 6-1.1.3.3.2 7-1.1.3.3.2 8-1.1.3.3.2 10-1.1.3.3.3 12-1.1.3.3.4 13-1.1.3.3.5 14-1.1.3.3.5 15-1.1.3.3.5 17-1.2.1.1 18-1.2.1.2 19-1.2.1.3 20-1.2.2 21-1.2.3.5 22-1.2.3.1 23-1.2.3.2 24-1.2.3.2 25-1.2.3.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label~e.0)
+           :P (v5 / label~e.1)
+           :A (v6 / label
+                  :E (v10 / label~e.2)
+                  :C (v11 / label~e.3)
+                  :C (v12 / label
+                          :R (v20 / label~e.4)
+                          :C (v21 / label~e.5,6,7,8)
+                          :C (v22 / label~e.10)
+                          :N (v23 / label~e.12)
+                          :C (v24 / label~e.13,14,15))))
+    :H (v3 / label
+           :A (v7 / label
+                  :E (v13 / label~e.17)
+                  :Q (v14 / label~e.18)
+                  :C (v15 / label~e.19))
+           :P (v8 / label~e.20)
+           :A (v9 / label
+                  :C (v16 / label~e.22)
+                  :Q (v17 / label~e.23,24)
+                  :E (v18 / label~e.25)
+                  :R (v19 / label~e.21))))

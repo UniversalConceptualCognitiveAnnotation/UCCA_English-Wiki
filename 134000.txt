@@ -1,0 +1,42 @@
+# ::id 134000
+# ::tok Since Woman of the Year Hepburn had committed to a romantic relationship with Tracy and dedicated herself to helping the star , who suffered from alcoholism and insomnia .
+# ::alignments 0-1.1 1-1.2.3 2-1.2.3 3-1.2.3 4-1.2.3 5-1.2.1 7-1.3.3 10-1.3.4.4 11-1.3.4.5 12-1.3.4.6.1 13-1.3.4.6.2 14-1.4 15-1.5.2 16-1.5.2 18-1.5.3.2 20-1.5.3.3.2 23-1.5.3.3.3.3 24-1.5.3.3.3.4.2.2 25-1.5.3.3.3.4.2.3 26-1.5.3.3.3.4.1 27-1.5.3.3.3.4.3.2
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v7 / label~e.5)
+           :P (v8 / label)
+           :A (v9 / label~e.1,2,3,4))
+    :H (v4 / label
+           :A v7
+           :P (v10 / label~e.7)
+           :A (v11 / label
+                   :A v7
+                   :D (v14 / label~e.10)
+                   :P (v15 / label~e.11)
+                   :A (v16 / label
+                           :R (v19 / label~e.12)
+                           :C (v20 / label~e.13))))
+    :L (v5 / label~e.14)
+    :H (v6 / label
+           :A v7
+           :P (v12 / label~e.15,16)
+           :A (v13 / label
+                   :P (v17 / label~e.18)
+                   :A (v18 / label
+                           :C (v21 / label~e.20)
+                           :E (v22 / label
+                                   :A v21
+                                   :S (v23 / label~e.23)
+                                   :A (v24 / label
+                                           :L (v25 / label~e.26)
+                                           :H (v26 / label
+                                                   :A v21
+                                                   :R (v28 / label~e.24)
+                                                   :S (v29 / label~e.25))
+                                           :H (v27 / label
+                                                   :A v21
+                                                   :S (v30 / label~e.27)
+                                                   :R v28))))
+                   :A v7)))

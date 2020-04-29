@@ -1,0 +1,11 @@
+# ::id 138007
+# ::tok The shows were positively received .
+# ::alignments 0-1.1.2.1 1-1.1.2.2 3-1.1.4 4-1.1.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label~e.0)
+                  :C (v7 / label~e.1))
+           :D (v4 / label~e.3)
+           :S (v5 / label~e.4)))

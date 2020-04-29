@@ -1,0 +1,43 @@
+# ::id 1022009
+# ::tok The era saw the arrival of novelties like dolls modeled after Michael Jackson , which appeared in stores in May 1984 at a price of $ 12 .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.1.3.1 4-1.1.3.2 5-1.1.4.2 6-1.1.4.3 7-1.1.4.1.1 8-1.1.4.1.2 9-1.1.4.1.3.2 10-1.1.4.1.3.3.1 11-1.1.4.1.3.3.2 12-1.1.4.1.3.3.2 14-1.1.4.1.4.2 15-1.1.4.1.4.3 16-1.1.4.1.4.4.1 17-1.1.4.1.4.4.2 18-1.1.4.1.4.5.1 19-1.1.4.1.4.5.2 20-1.1.4.1.4.5.3 21-1.1.4.1.4.6.1 22-1.1.4.1.4.6.2 23-1.1.4.1.4.6.3 24-1.1.4.1.4.6.4.1 25-1.1.4.1.4.6.4.2 26-1.1.4.1.4.6.4.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label
+                  :E (v6 / label~e.0)
+                  :C (v7 / label~e.1))
+           :P (v4 / label
+                  :E (v8 / label~e.3)
+                  :C (v9 / label~e.4))
+           :A (v5 / label
+                  :E (v10 / label
+                          :R (v13 / label~e.7)
+                          :C (v14 / label~e.8)
+                          :E (v15 / label
+                                  :A v14
+                                  :P (v17 / label~e.9)
+                                  :A (v18 / label
+                                          :R (v24 / label~e.10)
+                                          :C (v25 / label~e.11,12)))
+                          :E (v16 / label
+                                  :A v14
+                                  :R (v19 / label~e.14)
+                                  :P (v20 / label~e.15)
+                                  :A (v21 / label
+                                          :R (v26 / label~e.16)
+                                          :C (v27 / label~e.17))
+                                  :T (v22 / label
+                                          :R (v28 / label~e.18)
+                                          :C (v29 / label~e.19)
+                                          :C (v30 / label~e.20))
+                                  :A (v23 / label
+                                          :R (v31 / label~e.21)
+                                          :E (v32 / label~e.22)
+                                          :C (v33 / label~e.23)
+                                          :E (v34 / label
+                                                  :R (v35 / label~e.24)
+                                                  :C (v36 / label~e.25)
+                                                  :Q (v37 / label~e.26)))))
+                  :R (v11 / label~e.5)
+                  :C (v12 / label~e.6))))

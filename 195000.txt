@@ -1,0 +1,40 @@
+# ::id 195000
+# ::tok Sorkin wrote 87 screenplays in all , which amounts to nearly every episode during the show 's first four Emmy - winning seasons .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.3 3-1.1.3.4 4-1.1.3.5.1 5-1.1.3.5.2 7-1.1.3.1.1 8-1.1.3.1.2 9-1.1.3.1.3.1 10-1.1.3.1.3.2.1 11-1.1.3.1.3.2.2 12-1.1.3.1.3.3 13-1.1.3.1.3.4.2 14-1.1.3.1.3.4.3.1 15-1.1.3.1.3.4.3.2 16-1.1.3.1.3.4.3.3 17-1.1.3.1.3.4.4.1.1 18-1.1.3.1.3.4.4.1.2 19-1.1.3.1.3.4.4.2.2 21-1.1.3.1.3.4.4.2.3 22-1.1.3.1.3.4.4.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :P (v4 / label~e.1)
+           :A (v5 / label
+                  :E (v6 / label
+                         :R (v10 / label~e.7)
+                         :P (v11 / label~e.8)
+                         :A (v12 / label
+                                 :R (v15 / label~e.9)
+                                 :E (v16 / label
+                                         :E (v19 / label~e.10)
+                                         :C (v20 / label~e.11))
+                                 :C (v17 / label~e.12)
+                                 :E (v18 / label
+                                         :P (v21 / label)
+                                         :R (v22 / label~e.13)
+                                         :A (v23 / label
+                                                 :E (v25 / label~e.14)
+                                                 :C (v26 / label~e.15)
+                                                 :R (v27 / label~e.16))
+                                         :A (v24 / label
+                                                 :Q (v28 / label
+                                                         :E (v31 / label~e.17)
+                                                         :C (v32 / label~e.18))
+                                                 :E (v29 / label
+                                                         :A (v30 / label~e.22)
+                                                         :A (v33 / label~e.19)
+                                                         :P (v34 / label~e.21))
+                                                 :C v30)))
+                         :A (v8 / label~e.3))
+                  :Q (v7 / label~e.2)
+                  :C v8
+                  :E (v9 / label
+                         :R (v13 / label~e.4)
+                         :C (v14 / label~e.5)))))

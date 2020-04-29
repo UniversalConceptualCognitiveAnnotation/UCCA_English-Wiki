@@ -1,0 +1,15 @@
+# ::id 234005
+# ::tok Construction has begun on a Jackie Chan museum in Shanghai .
+# ::alignments 0-1.1.1 2-1.1.3 3-1.1.4.1 5-1.1.4.3 6-1.1.4.3 7-1.1.4.4 8-1.1.5.3 9-1.1.5.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label~e.0)
+           :D (v4 / label~e.2)
+           :A (v5 / label
+                  :R (v7 / label~e.3)
+                  :E (v8 / label~e.5,6)
+                  :C (v9 / label~e.7))
+           :A (v6 / label
+                  :C (v10 / label~e.9)
+                  :R (v11 / label~e.8))))

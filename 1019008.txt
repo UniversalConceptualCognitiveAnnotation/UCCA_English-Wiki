@@ -1,0 +1,42 @@
+# ::id 1019008
+# ::tok His mother , Katherine Esther Scruse , was a devout Jehovah 's Witness , and his father , Joseph Walter " Joe " Jackson , was a steel mill worker who performed with an R & B band called The Falcons .
+# ::alignments 0-1.1.1.2.1 1-1.1.1.2.2 3-1.1.1.3 4-1.1.1.3 5-1.1.1.3 8-1.1.3.1 9-1.1.4 10-1.1.3.2 11-1.1.3.2 12-1.1.3.2 14-1.2 15-1.3.1.1.1 16-1.3.1.1.2 18-1.5.2 19-1.5.2 21-1.5.2 23-1.5.2 26-1.3.3.1 27-1.3.4.1 28-1.3.4.2 29-1.3.3.2 30-1.4 31-1.5.3 32-1.5.1.1 33-1.5.1.2 34-1.5.1.3.1 35-1.5.1.3.1 36-1.5.1.3.1 37-1.5.1.3.2 38-1.5.1.4.1 39-1.5.1.4.2 40-1.5.1.4.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label
+                  :E (v16 / label
+                          :A (v29 / label~e.0)
+                          :S (v30 / label~e.1))
+                  :C (v17 / label~e.3,4,5))
+           :S (v8 / label
+                  :E (v18 / label~e.8)
+                  :C (v19 / label~e.10,11,12))
+           :D (v9 / label~e.9))
+    :L (v3 / label~e.14)
+    :H (v4 / label
+           :A (v10 / label
+                   :E (v20 / label
+                           :A (v31 / label~e.15)
+                           :S (v32 / label~e.16))
+                   :C (v14 / label~e.18,19,21,23))
+           :P (v11 / label
+                   :E (v21 / label~e.26)
+                   :C (v22 / label~e.29))
+           :A (v12 / label
+                   :E (v23 / label~e.27)
+                   :C (v24 / label~e.28)))
+    :L (v5 / label~e.30)
+    :H (v6 / label
+           :A (v13 / label
+                   :R (v25 / label~e.32)
+                   :E (v26 / label~e.33)
+                   :C (v27 / label
+                           :A (v33 / label~e.34,35,36)
+                           :P (v34 / label~e.37))
+                   :E (v28 / label
+                           :S (v35 / label~e.38)
+                           :A (v36 / label~e.39,40)
+                           :A v34))
+           :A v14
+           :P (v15 / label~e.31)))

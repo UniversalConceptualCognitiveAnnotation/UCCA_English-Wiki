@@ -1,0 +1,34 @@
+# ::id 250011
+# ::tok Hawke returned to Broadway in Jack O ' Brien 's 2003 production of Henry IV , playing Henry Percy , also called Harry Hotspur .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.1.4.1 5-1.1.4.2.2 6-1.1.4.2.2 8-1.1.4.2.2 9-1.1.4.2.3 10-1.1.4.3.2 11-1.1.4.4 12-1.1.4.5.1 13-1.1.4.5.2 14-1.1.4.5.2 16-1.2.2 17-1.2.3.2 18-1.2.3.2 20-1.2.3.3.1 21-1.2.3.3.2 22-1.2.3.3.3 23-1.2.3.3.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label~e.0)
+           :P (v5 / label~e.1)
+           :A (v6 / label
+                  :R (v10 / label~e.2)
+                  :C (v11 / label~e.3))
+           :A (v7 / label
+                  :R (v12 / label~e.4)
+                  :E (v13 / label
+                          :A (v15 / label~e.11)
+                          :A (v19 / label~e.5,6,8)
+                          :S (v20 / label~e.9))
+                  :E (v14 / label
+                          :P v15
+                          :T (v21 / label~e.10))
+                  :C v15
+                  :E (v16 / label
+                          :R (v22 / label~e.12)
+                          :C (v23 / label~e.13,14))))
+    :H (v3 / label
+           :A v4
+           :P (v8 / label~e.16)
+           :A (v9 / label
+                  :C (v17 / label~e.17,18)
+                  :E (v18 / label
+                          :D (v24 / label~e.20)
+                          :S (v25 / label~e.21)
+                          :A (v26 / label~e.22,23)
+                          :A v17))))

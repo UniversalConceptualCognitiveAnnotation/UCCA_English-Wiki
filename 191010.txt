@@ -1,0 +1,77 @@
+# ::id 191010
+# ::tok Kenneth Turan in the Los Angeles Times described the film as " genial and entertaining if not notably inspired " , and believed its most interesting aspects were the " pipe dreams about the American political system and where it could theoretically be headed " . Sorkin did uncredited script doctor work on several films in the 1990s .
+# ::alignments 0-1.3.3 1-1.3.3 2-1.1.1.2.1 3-1.1.1.2.2 4-1.1.1.2.3 5-1.1.1.2.3 6-1.1.1.2.3 7-1.1.2 8-1.1.3.1 9-1.1.3.2 10-1.1.4.1 12-1.1.4.5.1 13-1.1.4.2 14-1.1.4.6.1 15-1.1.4.3.1 17-1.1.4.4.1 18-1.1.4.4.2 21-1.2 22-1.3.1 23-1.3.2.1.1 24-1.3.2.1.2.2 25-1.3.2.1.2.3 26-1.3.2.1.3 27-1.3.2.2 28-1.3.2.3.1.1 30-1.3.2.3.1.2 31-1.3.2.3.1.3 32-1.3.2.3.1.4.1 33-1.3.2.3.1.4.2 34-1.3.2.3.1.4.3 35-1.3.2.3.1.4.4 36-1.3.2.3.1.4.5 37-1.3.2.3.2 38-1.3.2.3.3.1 39-1.3.2.3.3.2 40-1.3.2.3.3.3 41-1.3.2.3.3.4 43-1.3.2.3.3.6 46-1.4.1 48-1.4.3 49-1.4.4.1 50-1.4.4.2 51-1.4.2.2 52-1.4.5.1 53-1.4.5.2 54-1.4.5.3 55-1.4.6.1 56-1.4.6.2 57-1.4.6.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label
+                  :C (v12 / label~e.0,1)
+                  :E (v19 / label
+                          :R (v40 / label~e.2)
+                          :E (v41 / label~e.3)
+                          :C (v42 / label~e.4,5,6)))
+           :P (v7 / label~e.7)
+           :A (v8 / label
+                  :E (v20 / label~e.8)
+                  :C (v21 / label~e.9))
+           :A (v9 / label
+                  :R (v22 / label~e.10)
+                  :L (v23 / label~e.13)
+                  :L (v24 / label
+                          :C (v43 / label~e.15))
+                  :H (v25 / label
+                          :D (v44 / label~e.17)
+                          :S (v45 / label~e.18))
+                  :H (v26 / label
+                          :S (v46 / label~e.12)
+                          :A v21)
+                  :H (v27 / label
+                          :S (v47 / label~e.14)
+                          :A v21)))
+    :L (v3 / label~e.21)
+    :H (v4 / label
+           :P (v10 / label~e.22)
+           :A (v11 / label
+                   :A (v28 / label
+                           :E (v48 / label~e.23)
+                           :E (v49 / label
+                                   :A (v50 / label~e.26)
+                                   :D (v54 / label~e.24)
+                                   :S (v55 / label~e.25))
+                           :C v50)
+                   :S (v29 / label~e.27)
+                   :A (v30 / label
+                           :C (v51 / label
+                                   :E (v56 / label~e.28)
+                                   :E (v57 / label~e.30)
+                                   :C (v58 / label~e.31)
+                                   :E (v59 / label
+                                           :R (v65 / label~e.32)
+                                           :E (v66 / label~e.33)
+                                           :E (v67 / label~e.34)
+                                           :E (v68 / label~e.35)
+                                           :C (v69 / label~e.36)))
+                           :N (v52 / label~e.37)
+                           :C (v53 / label
+                                   :A (v60 / label~e.38)
+                                   :A (v61 / label~e.39)
+                                   :D (v62 / label~e.40)
+                                   :D (v63 / label~e.41)
+                                   :P (v64 / label~e.43))))
+           :A v12)
+    :H (v5 / label
+           :A (v13 / label~e.46)
+           :P (v14 / label
+                   :C (v31 / label~e.51))
+           :G (v15 / label~e.48)
+           :A (v16 / label
+                   :E (v32 / label~e.49)
+                   :C (v33 / label~e.50))
+           :A (v17 / label
+                   :R (v34 / label~e.52)
+                   :Q (v35 / label~e.53)
+                   :C (v36 / label~e.54))
+           :T (v18 / label
+                   :R (v37 / label~e.55)
+                   :E (v38 / label~e.56)
+                   :C (v39 / label~e.57))))

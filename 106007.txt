@@ -1,0 +1,31 @@
+# ::id 106007
+# ::tok That year , she also appeared as a stripper in the music video for " Anybody Seen My Baby ? " by the Rolling Stones .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.1.3 4-1.1.4 5-1.1.5 6-1.1.6.1 7-1.1.6.2.1 8-1.1.6.2.2 9-1.1.7.1 10-1.1.7.2 11-1.1.7.3 12-1.1.7.4 13-1.1.7.5.1 15-1.1.7.5.2 16-1.1.7.5.2 17-1.1.7.5.2 18-1.1.7.5.2 21-1.1.7.5.3.2 22-1.1.7.5.3.3.1 23-1.1.7.5.3.3.2 24-1.1.7.5.3.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label
+                  :E (v9 / label~e.0)
+                  :C (v10 / label~e.1))
+           :A (v4 / label~e.3)
+           :D (v5 / label~e.4)
+           :P (v6 / label~e.5)
+           :A (v7 / label
+                  :R (v11 / label~e.6)
+                  :P (v12 / label
+                          :E (v18 / label~e.7)
+                          :C (v19 / label~e.8)))
+           :A (v8 / label
+                  :R (v13 / label~e.9)
+                  :E (v14 / label~e.10)
+                  :E (v15 / label~e.11)
+                  :C (v16 / label~e.12)
+                  :E (v17 / label
+                          :R (v20 / label~e.13)
+                          :C (v21 / label~e.15,16,17,18)
+                          :E (v22 / label
+                                  :A v21
+                                  :S (v23 / label~e.21)
+                                  :A (v24 / label
+                                          :E (v25 / label~e.22)
+                                          :C (v26 / label~e.23,24)))))))

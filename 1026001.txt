@@ -1,0 +1,25 @@
+# ::id 1026001
+# ::tok The change gained widespread media coverage , including rumors that he might be bleaching his skin .
+# ::alignments 0-1.1.1.1.1 1-1.1.1.1.2 2-1.1.2 3-1.1.3 4-1.1.4 5-1.1.5 7-1.2 8-1.3.1 9-1.3.2.6 10-1.3.2.1 11-1.3.2.2 13-1.3.2.4 14-1.3.2.5.1 15-1.3.2.5.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :P (v12 / label
+                          :E (v18 / label~e.0)
+                          :C (v19 / label~e.1)))
+           :D (v6 / label~e.2)
+           :D (v7 / label~e.3)
+           :A (v8 / label~e.4)
+           :P (v9 / label~e.5))
+    :L (v3 / label~e.7)
+    :H (v4 / label
+           :P (v10 / label~e.8)
+           :A (v11 / label
+                   :A (v13 / label~e.10)
+                   :D (v14 / label~e.11)
+                   :P (v15 / label~e.13)
+                   :A (v16 / label
+                           :E (v20 / label~e.14)
+                           :C (v21 / label~e.15))
+                   :R (v17 / label~e.9))))

@@ -1,0 +1,29 @@
+# ::id 1028019
+# ::tok Shortly afterwards , he became the first Westerner to appear in a television ad in the Soviet Union .
+# ::alignments 0-1.1.1 1-1.1.2 3-1.2.1 4-1.2.2 5-1.2.3.3 6-1.2.3.4 7-1.2.3.1.1 8-1.2.3.2.2 9-1.2.3.2.3 10-1.2.3.2.4.1 11-1.2.3.2.4.2 12-1.2.3.2.4.3 13-1.2.3.2.4.4 14-1.2.3.2.5.1 15-1.2.3.2.5.2 16-1.2.3.2.5.3 17-1.2.3.2.5.3
+# ::format ucca
+(v1 / label
+    :L (v2 / label
+           :E (v4 / label~e.0)
+           :C (v5 / label~e.1))
+    :H (v3 / label
+           :A (v6 / label~e.3)
+           :S (v7 / label~e.4)
+           :A (v8 / label
+                  :C (v9 / label
+                         :S (v13 / label~e.7))
+                  :E (v10 / label
+                          :A v9
+                          :R (v14 / label~e.8)
+                          :P (v15 / label~e.9)
+                          :A (v16 / label
+                                  :R (v18 / label~e.10)
+                                  :E (v19 / label~e.11)
+                                  :E (v20 / label~e.12)
+                                  :C (v21 / label~e.13))
+                          :A (v17 / label
+                                  :R (v22 / label~e.14)
+                                  :E (v23 / label~e.15)
+                                  :C (v24 / label~e.16,17)))
+                  :E (v11 / label~e.5)
+                  :Q (v12 / label~e.6))))

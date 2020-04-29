@@ -1,0 +1,22 @@
+# ::id 185005
+# ::tok The film , directed by Rob Reiner , became a box office success .
+# ::alignments 0-1.1.2.1 1-1.1.2.2 3-1.1.2.3.2 4-1.1.2.3.3.1 5-1.1.2.3.3.2 6-1.1.2.3.3.2 8-1.1.3 9-1.1.4.1 10-1.1.5.2 11-1.1.5.1 12-1.1.4.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v7 / label~e.0)
+                  :C (v8 / label~e.1)
+                  :E (v9 / label
+                         :A v8
+                         :P (v14 / label~e.3)
+                         :A (v15 / label
+                                 :R (v16 / label~e.4)
+                                 :C (v17 / label~e.5,6))))
+           :D (v4 / label~e.8)
+           :S (v5 / label
+                  :E (v10 / label~e.9)
+                  :C (v11 / label~e.12))
+           :A (v6 / label
+                  :C (v12 / label~e.11)
+                  :E (v13 / label~e.10))))

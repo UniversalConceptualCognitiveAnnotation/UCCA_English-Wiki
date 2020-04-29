@@ -1,0 +1,28 @@
+# ::id 184004
+# ::tok She was later chosen to play Hedwig , the character she had seen Entwistle play , in The Wild Duck .
+# ::alignments 0-1.1.2 2-1.1.4 3-1.1.5 5-1.1.6.2 6-1.1.6.3.1 9-1.1.6.3.2.2 10-1.1.6.3.2.3.2 12-1.1.6.3.2.3.4 13-1.1.6.3.2.3.5.2 14-1.1.6.3.2.3.5.3 16-1.1.6.3.2.3.5.4.1 17-1.1.6.3.2.3.5.4.2 18-1.1.6.3.2.3.5.4.2 19-1.1.6.3.2.3.5.4.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :A (v4 / label~e.0)
+           :T (v5 / label~e.2)
+           :P (v6 / label~e.3)
+           :A (v7 / label
+                  :P (v8 / label~e.5)
+                  :A (v9 / label
+                         :C (v10 / label~e.6)
+                         :E (v11 / label
+                                 :C (v12 / label~e.9)
+                                 :E (v13 / label
+                                         :A v12
+                                         :A (v14 / label~e.10)
+                                         :P (v15 / label~e.12)
+                                         :A (v16 / label
+                                                 :A v12
+                                                 :A (v17 / label~e.13)
+                                                 :P (v18 / label~e.14)
+                                                 :A (v19 / label
+                                                         :R (v20 / label~e.16)
+                                                         :C (v21 / label~e.17,18,19))))))
+                  :A v4)))

@@ -1,0 +1,20 @@
+# ::id 149013
+# ::tok She was 96 years old and was buried in Cedar Hill Cemetery , Hartford .
+# ::alignments 0-1.1.1 2-1.1.3.1 3-1.1.3.2 4-1.1.4 5-1.2 7-1.3.3 8-1.3.4.6 9-1.3.4.1 10-1.3.4.1 11-1.3.4.2 13-1.3.4.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label~e.0)
+           :T (v6 / label
+                  :Q (v10 / label~e.2)
+                  :C (v11 / label~e.3))
+           :S (v7 / label~e.4))
+    :L (v3 / label~e.5)
+    :H (v4 / label
+           :A v5
+           :P (v8 / label~e.7)
+           :A (v9 / label
+                  :E (v12 / label~e.9,10)
+                  :C (v13 / label~e.11)
+                  :E (v14 / label~e.13)
+                  :R (v15 / label~e.8))))

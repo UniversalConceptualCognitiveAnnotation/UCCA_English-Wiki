@@ -1,0 +1,44 @@
+# ::id 231006
+# ::tok The aim of the program was to find a new star , skilled in acting and martial arts , to become Chan 's " successor " and student in filmmaking .
+# ::alignments 1-1.1.1.2 2-1.1.2.1 4-1.1.2.3 7-1.1.4.2 9-1.1.4.3.2 10-1.3.4 12-1.1.4.3.4.2 13-1.1.4.3.4.3.1 14-1.1.4.3.4.3.2.1 15-1.1.4.3.4.3.2.2 16-1.1.4.3.4.3.2.3.1 17-1.1.4.3.4.3.2.3.2 19-1.2 20-1.3.1 21-1.3.2.1 22-1.3.2.2 24-1.3.3 26-1.4 27-1.5.1 28-1.5.2.1 29-1.5.2.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :S (v7 / label
+                  :C (v16 / label~e.1))
+           :A (v8 / label
+                  :R (v17 / label~e.2)
+                  :C (v18 / label~e.4))
+           :A (v9 / label
+                  :P (v19 / label~e.7)
+                  :A (v20 / label
+                          :E (v25 / label~e.9)
+                          :C (v13 / label~e.10)
+                          :E (v26 / label
+                                  :A v13
+                                  :S (v27 / label~e.12)
+                                  :A (v28 / label
+                                          :R (v29 / label~e.13)
+                                          :C (v30 / label
+                                                  :C (v31 / label~e.14)
+                                                  :N (v32 / label~e.15)
+                                                  :C (v33 / label
+                                                          :E (v34 / label~e.16)
+                                                          :C (v35 / label~e.17))))))))
+    :L (v3 / label~e.19)
+    :H (v4 / label
+           :D (v10 / label~e.20)
+           :A (v11 / label
+                   :C (v21 / label~e.21)
+                   :R (v22 / label~e.22))
+           :S (v12 / label~e.24)
+           :A v13)
+    :L (v5 / label~e.26)
+    :H (v6 / label
+           :P (v14 / label~e.27)
+           :A (v15 / label
+                   :R (v23 / label~e.28)
+                   :P (v24 / label~e.29))
+           :D v10
+           :A v11
+           :A v13))

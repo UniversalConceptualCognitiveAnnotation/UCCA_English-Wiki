@@ -1,0 +1,29 @@
+# ::id 197006
+# ::tok But in 2006 the Abbey Theatre 's new management pulled out of all involvement with The Farnsworth Invention .
+# ::alignments 0-1.1 1-1.2.1.1 2-1.2.1.2 3-1.2.2.1 4-1.2.2.2.1 5-1.2.2.2.2 6-1.2.2.2.3 7-1.2.2.3 8-1.2.2.4 9-1.2.3.1 10-1.2.3.2 11-1.2.4.4 12-1.2.4.1 13-1.2.4.2 14-1.2.4.3.1 15-1.2.4.3.2 16-1.2.4.3.3 17-1.2.4.3.3
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :T (v4 / label
+                  :R (v8 / label~e.1)
+                  :C (v9 / label~e.2))
+           :A (v5 / label
+                  :E (v10 / label~e.3)
+                  :E (v11 / label
+                          :E (v20 / label~e.4)
+                          :C (v21 / label~e.5)
+                          :R (v22 / label~e.6))
+                  :E (v12 / label~e.7)
+                  :C (v13 / label~e.8))
+           :P (v6 / label
+                  :C (v14 / label~e.9)
+                  :E (v15 / label~e.10))
+           :A (v7 / label
+                  :E (v16 / label~e.12)
+                  :C (v17 / label~e.13)
+                  :E (v18 / label
+                          :R (v23 / label~e.14)
+                          :E (v24 / label~e.15)
+                          :C (v25 / label~e.16,17))
+                  :R (v19 / label~e.11))))

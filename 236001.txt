@@ -1,0 +1,53 @@
+# ::id 236001
+# ::tok Although saddened by the news , he also tweeted " If they killed the guy sooner , they will say why not negotiate first ? If they negotiate first , they ask why not kill the guy sooner ? "
+# ::alignments 0-1.1 1-1.2.1 2-1.2.2.1 4-1.2.2.3 6-1.2.4 7-1.3.4 8-1.3.5 10-1.3.1.1 11-1.3.1.2.1 12-1.3.1.2.2 14-1.3.1.2.3.2 15-1.3.1.2.4 17-1.3.1.3.1 19-1.3.1.3.3 20-1.3.1.3.4.1 21-1.3.1.3.4.2.3 22-1.3.1.3.4.2.4 23-1.3.1.3.4.2.5 25-1.3.1.4 26-1.3.1.5.2 27-1.3.1.5.3 28-1.3.1.5.4 30-1.3.1.6.1 31-1.3.1.6.2 32-1.3.1.6.3.1 33-1.3.1.6.3.2.2 34-1.3.1.6.3.2.3 36-1.3.1.6.3.2.4.2 37-1.3.1.6.3.2.5
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :P (v5 / label~e.1)
+           :A (v6 / label
+                  :R (v11 / label~e.2)
+                  :C (v12 / label~e.4))
+           :A (v7 / label~e.6))
+    :H (v4 / label
+           :A (v8 / label
+                  :L (v13 / label~e.10)
+                  :H (v14 / label
+                          :A (v19 / label~e.11)
+                          :P (v20 / label~e.12)
+                          :A (v21 / label
+                                  :C (v33 / label~e.14))
+                          :D (v22 / label~e.15))
+                  :H (v15 / label
+                          :A (v23 / label~e.17)
+                          :P (v24 / label~e.19)
+                          :A (v25 / label
+                                  :H (v34 / label~e.20)
+                                  :H (v35 / label
+                                          :A (v38 / label)
+                                          :A (v39 / label)
+                                          :D (v40 / label~e.21)
+                                          :P (v41 / label~e.22)
+                                          :D (v42 / label~e.23))))
+                  :L (v16 / label~e.25)
+                  :H (v17 / label
+                          :A (v26 / label)
+                          :A (v27 / label~e.26)
+                          :P (v28 / label~e.27)
+                          :D (v29 / label~e.28))
+                  :H (v18 / label
+                          :A (v30 / label~e.30)
+                          :P (v31 / label~e.31)
+                          :A (v32 / label
+                                  :H (v36 / label~e.32)
+                                  :H (v37 / label
+                                          :A (v43 / label)
+                                          :D (v44 / label~e.33)
+                                          :P (v45 / label~e.34)
+                                          :A (v46 / label
+                                                  :C (v48 / label~e.36))
+                                          :D (v47 / label~e.37)))))
+           :A v7
+           :D (v9 / label~e.7)
+           :P (v10 / label~e.8)))

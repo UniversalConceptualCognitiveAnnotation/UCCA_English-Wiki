@@ -1,0 +1,36 @@
+# ::id 215003
+# ::tok In 1995 , she appeared in the fantasy movie Jumanji , loosely based on Chris Van Allsburg 's 1981 book of the same name .
+# ::alignments 0-1.1.2.1 1-1.1.2.2 3-1.1.3 4-1.1.4 5-1.1.5.6 7-1.1.5.2.1 8-1.1.5.2.2 9-1.1.5.3 11-1.1.5.4.1 12-1.1.5.4.2 13-1.1.5.4.3.1 14-1.1.5.4.3.2.2 15-1.1.5.4.3.2.2 16-1.1.5.4.3.2.2 17-1.1.5.4.3.2.3 18-1.1.5.4.3.3.3 19-1.1.5.4.3.4 20-1.1.5.4.3.5.1 22-1.1.5.4.3.5.3 23-1.1.5.4.3.5.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label
+                  :R (v7 / label~e.0)
+                  :C (v8 / label~e.1))
+           :A (v4 / label~e.3)
+           :P (v5 / label~e.4)
+           :A (v6 / label
+                  :E (v9 / label
+                         :E (v13 / label~e.7)
+                         :C (v14 / label~e.8))
+                  :C (v10 / label~e.9)
+                  :E (v11 / label
+                          :D (v15 / label~e.11)
+                          :S (v16 / label~e.12)
+                          :A (v17 / label
+                                  :R (v18 / label~e.13)
+                                  :E (v19 / label
+                                          :A (v21 / label~e.19)
+                                          :A (v23 / label~e.14,15,16)
+                                          :S (v24 / label~e.17))
+                                  :E (v20 / label
+                                          :A v21
+                                          :P (v25 / label)
+                                          :T (v26 / label~e.18))
+                                  :C v21
+                                  :E (v22 / label
+                                          :R (v27 / label~e.20)
+                                          :E (v28 / label~e.22)
+                                          :C (v29 / label~e.23)))
+                          :A v14)
+                  :R (v12 / label~e.5))))

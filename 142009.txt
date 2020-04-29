@@ -1,0 +1,19 @@
+# ::id 142009
+# ::tok She chose to continue the tour performing in a wheelchair .
+# ::alignments 0-1.1.1 1-1.1.2 3-1.1.4 4-1.1.5.1 5-1.1.5.2 6-1.1.6.1 7-1.1.6.2.1 8-1.1.6.2.2 9-1.1.6.2.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :D (v4 / label~e.1)
+           :P (v5 / label~e.3)
+           :A (v6 / label
+                  :E (v8 / label~e.4)
+                  :C (v9 / label~e.5))
+           :A (v7 / label
+                  :P (v10 / label~e.6)
+                  :A (v11 / label
+                          :R (v12 / label~e.7)
+                          :E (v13 / label~e.8)
+                          :C (v14 / label~e.9))
+                  :A v3)))

@@ -1,0 +1,17 @@
+# ::id 1026017
+# ::tok Consequently the media began making up their own stories .
+# ::alignments 0-1.1 1-1.2.1.1 2-1.2.1.2 3-1.2.2 4-1.2.3 5-1.2.3 6-1.2.4.3.1 7-1.2.4.3.2 8-1.2.4.1
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v4 / label
+                  :E (v8 / label~e.1)
+                  :C (v9 / label~e.2))
+           :D (v5 / label~e.3)
+           :P (v6 / label~e.4,5)
+           :A (v7 / label
+                  :P (v10 / label~e.8)
+                  :A (v11 / label
+                          :C (v12 / label~e.6)
+                          :E (v13 / label~e.7)))))

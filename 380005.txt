@@ -1,0 +1,22 @@
+# ::id 380005
+# ::tok Following the release of Brokeback Mountain , rumors circulated regarding the actor 's sexual orientation .
+# ::alignments 0-1.1 2-1.2.1.2 3-1.2.2.1 4-1.2.2.2 5-1.2.2.2 7-1.3.1 8-1.3.2 9-1.3.3.1 11-1.3.3.2.2 12-1.3.3.2.3 13-1.3.3.3 14-1.3.3.4
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :P (v5 / label
+                  :C (v10 / label~e.2))
+           :A (v6 / label
+                  :R (v11 / label~e.3)
+                  :C (v12 / label~e.4,5)))
+    :H (v4 / label
+           :A (v7 / label~e.7)
+           :P (v8 / label~e.8)
+           :A (v9 / label
+                  :R (v13 / label~e.9)
+                  :A (v14 / label
+                          :A (v17 / label~e.11)
+                          :R (v18 / label~e.12))
+                  :A (v15 / label~e.13)
+                  :S (v16 / label~e.14))))

@@ -1,0 +1,55 @@
+# ::id 130003
+# ::tok She would not give interviews and denied requests for autographs , which earned her the nickname " Katharine of Arrogance " . The public were also baffled by her boyish behavior and fashion choices , and she became a largely unpopular figure .
+# ::alignments 0-1.1.1 2-1.1.3 4-1.1.4.2 5-1.2 6-1.3.1 7-1.3.2.2 8-1.3.2.3.1 9-1.3.2.3.2 11-1.4 12-1.5.2 13-1.5.3 15-1.5.4.1.2 17-1.5.4.2 18-1.5.4.2 19-1.5.4.2 23-1.6.1.2 25-1.6.3 26-1.6.4 27-1.6.5.1 28-1.6.5.2.1 29-1.6.5.2.2 30-1.6.5.2.3 31-1.6.5.3 32-1.6.5.4.1 33-1.6.5.4.2 35-1.7 36-1.8.1 37-1.8.2 39-1.8.3.2.2 40-1.8.3.2.3 41-1.8.3.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v10 / label~e.0)
+           :D (v11 / label~e.2)
+           :P (v12 / label
+                   :C (v26 / label~e.4)))
+    :L (v3 / label~e.5)
+    :H (v4 / label
+           :P (v13 / label~e.6)
+           :A (v14 / label
+                   :A (v27 / label)
+                   :P (v28 / label~e.7)
+                   :A (v29 / label
+                           :R (v39 / label~e.8)
+                           :C (v40 / label~e.9)))
+           :A v10)
+    :L (v5 / label~e.11)
+    :H (v6 / label
+           :A (v15 / label)
+           :P (v16 / label~e.12)
+           :A (v17 / label~e.13)
+           :A (v18 / label
+                   :E (v30 / label
+                           :C (v41 / label~e.15))
+                   :C (v31 / label~e.17,18,19)))
+    :H (v7 / label
+           :A (v19 / label
+                   :C (v32 / label~e.23))
+           :D (v20 / label~e.25)
+           :S (v21 / label~e.26)
+           :A (v22 / label
+                   :R (v33 / label~e.27)
+                   :H (v34 / label
+                           :A (v42 / label~e.28)
+                           :A (v43 / label~e.29)
+                           :P (v44 / label~e.30))
+                   :L (v35 / label~e.31)
+                   :H (v36 / label
+                           :A (v45 / label~e.32)
+                           :P (v46 / label~e.33)
+                           :A v42)))
+    :L (v8 / label~e.35)
+    :H (v9 / label
+           :A (v23 / label~e.36)
+           :P (v24 / label~e.37)
+           :A (v25 / label
+                   :E (v37 / label
+                           :A (v38 / label~e.41)
+                           :D (v47 / label~e.39)
+                           :S (v48 / label~e.40))
+                   :C v38)))

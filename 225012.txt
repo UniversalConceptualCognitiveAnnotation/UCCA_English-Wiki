@@ -1,0 +1,17 @@
+# ::id 225012
+# ::tok It was named the " Best Film " at the 1986 Hong Kong Film Awards .
+# ::alignments 0-1.1.2 2-1.1.4 5-1.1.5.2 6-1.1.5.2 8-1.1.6.1 10-1.1.6.3.3 11-1.1.6.4 12-1.1.6.4 13-1.1.6.4 14-1.1.6.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :P (v4 / label~e.2)
+           :A (v5 / label
+                  :C (v7 / label~e.5,6))
+           :A (v6 / label
+                  :R (v8 / label~e.8)
+                  :E (v9 / label
+                         :A (v10 / label~e.11,12,13,14)
+                         :P (v11 / label)
+                         :T (v12 / label~e.10))
+                  :C v10)))

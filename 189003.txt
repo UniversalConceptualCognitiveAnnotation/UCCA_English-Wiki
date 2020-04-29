@@ -1,0 +1,60 @@
+# ::id 189003
+# ::tok He and his roommates had purchased a Macintosh 512 k so when he returned home he would empty his pockets of the cocktail napkins and type them into the computer , forming a basis from which he wrote many drafts for A Few Good Men .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3.1 3-1.1.1.3.2 5-1.1.3 6-1.1.4.1 7-1.1.4.2 8-1.1.4.2 9-1.1.4.2 10-1.2 11-1.3 12-1.4.1 13-1.4.2 14-1.4.3 15-1.5.1 17-1.5.3 18-1.5.4.1 19-1.5.4.2 20-1.5.5.1 21-1.5.5.2 22-1.5.5.3 23-1.5.5.4 24-1.6 25-1.7.1 26-1.7.2 27-1.7.3.1 28-1.7.3.2 29-1.7.3.3 31-1.8.1 32-1.8.2.1 33-1.8.2.2 34-1.8.2.3.1.2 36-1.8.2.3.3 37-1.8.2.3.4 38-1.8.2.3.5.1 39-1.8.2.3.5.2 40-1.8.2.3.5.3.1 41-1.8.2.3.5.3.2 42-1.8.2.3.5.3.2 43-1.8.2.3.5.3.2 44-1.8.2.3.5.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v10 / label
+                   :C (v25 / label~e.0)
+                   :N (v26 / label~e.1)
+                   :C (v27 / label
+                           :A (v42 / label~e.2)
+                           :S (v43 / label~e.3)))
+           :P (v11 / label~e.5)
+           :A (v12 / label
+                   :E (v28 / label~e.6)
+                   :C (v29 / label~e.7,8,9)))
+    :L (v3 / label~e.10)
+    :L (v4 / label~e.11)
+    :H (v5 / label
+           :A (v13 / label~e.12)
+           :P (v14 / label~e.13)
+           :A (v15 / label~e.14))
+    :H (v6 / label
+           :A (v16 / label~e.15)
+           :P (v17 / label~e.17)
+           :A (v18 / label
+                   :E (v30 / label~e.18)
+                   :C (v31 / label~e.19))
+           :A (v19 / label
+                   :R (v32 / label~e.20)
+                   :E (v33 / label~e.21)
+                   :E (v34 / label~e.22)
+                   :C (v35 / label~e.23)))
+    :L (v7 / label~e.24)
+    :H (v8 / label
+           :P (v20 / label~e.25)
+           :A (v21 / label~e.26)
+           :A (v22 / label
+                   :R (v36 / label~e.27)
+                   :E (v37 / label~e.28)
+                   :C (v38 / label~e.29))
+           :A v16)
+    :H (v9 / label
+           :P (v23 / label~e.31)
+           :A (v24 / label
+                   :E (v39 / label~e.32)
+                   :C (v40 / label~e.33)
+                   :E (v41 / label
+                           :A (v44 / label
+                                   :C v40
+                                   :R (v48 / label~e.34))
+                           :A (v45 / label~e.36)
+                           :P (v46 / label~e.37)
+                           :A (v47 / label
+                                   :Q (v49 / label~e.38)
+                                   :C (v50 / label~e.39)
+                                   :E (v51 / label
+                                           :R (v52 / label~e.40)
+                                           :C (v53 / label~e.41,42,43,44)))))
+           :A v16))

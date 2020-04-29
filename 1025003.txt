@@ -1,0 +1,107 @@
+# ::id 1025003
+# ::tok In 1981 , McCartney was offered the ATV music catalog for £ 20 million ( $ 40 million ) . According to McCartney , he contacted Yoko Ono about making a joint purchase by splitting the cost equally at £ 10 million each , but Ono thought they could buy it for £ 5 million each . When they were unable to make the joint purchase , McCartney let the offer fall through , not wanting to be the sole owner of the Beatles ' songs .
+# ::alignments 0-1.1.2.1 1-1.1.2.2 3-1.1.3 5-1.1.5 6-1.1.6.1 7-1.1.6.2.3 8-1.1.6.3 9-1.1.6.4 10-1.1.7.5 11-1.1.7.1 12-1.1.7.2 13-1.1.7.2 15-1.1.7.3.1 16-1.1.7.3.2 17-1.1.7.3.2 20-1.2.2 21-1.2.2 22-1.2.3 24-1.2.4.1.1 25-1.2.4.1.2 26-1.2.4.1.3 27-1.2.4.1.3 28-1.2.4.1.4.1 30-1.2.4.1.4.2.3.2 31-1.2.4.1.4.2.4 32-1.2.4.1.4.2.3.3 33-1.2.4.1.4.3 34-1.2.4.1.4.4.3 35-1.2.4.1.4.4.4.1 36-1.2.4.1.4.4.4.2 37-1.2.4.1.4.4.5 38-1.2.4.1.4.4.6.1 39-1.2.4.1.4.4.6.2 40-1.2.4.1.4.4.6.3 41-1.2.4.1.4.4.6.3 42-1.2.4.1.4.4.6.4.3 44-1.2.4.4 45-1.2.4.7.1 46-1.2.4.7.2 47-1.2.4.7.3.1 48-1.2.4.7.3.2 49-1.2.4.7.3.3 50-1.2.4.7.3.4 51-1.2.4.7.3.5.1 52-1.2.4.7.3.5.2 53-1.2.4.7.3.5.3 54-1.2.4.7.3.5.3 55-1.2.4.7.3.5.4.3 57-1.2.4.8 58-1.2.4.9.1 60-1.2.4.9.3 63-1.2.4.9.5.2 64-1.2.4.9.6 65-1.2.4.9.5.3 67-1.2.4.10.1 68-1.2.4.10.2 69-1.2.4.10.3.1.1 70-1.2.4.10.3.1.2 71-1.2.4.10.4 72-1.2.4.10.4 74-1.2.4.11.1 75-1.2.4.11.2 79-1.2.4.11.6 80-1.2.4.11.7 81-1.2.4.11.8.2 82-1.2.4.11.8.3 83-1.2.4.11.8.4.4 85-1.2.4.11.8.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v4 / label
+                  :R (v12 / label~e.0)
+                  :C (v13 / label~e.1))
+           :A (v5 / label~e.3)
+           :P (v6 / label~e.5)
+           :A (v7 / label
+                  :E (v14 / label~e.6)
+                  :E (v15 / label
+                          :A (v17 / label~e.9)
+                          :S (v29 / label)
+                          :A (v30 / label~e.7))
+                  :E (v16 / label~e.8)
+                  :C v17)
+           :A (v8 / label
+                  :C (v18 / label~e.11)
+                  :Q (v19 / label~e.12,13)
+                  :E (v20 / label
+                          :C (v31 / label~e.15)
+                          :Q (v32 / label~e.16,17))
+                  :R (v21 / label~e.10)))
+    :H (v3 / label
+           :P (v9 / label~e.20,21)
+           :A (v10 / label~e.22)
+           :A (v11 / label
+                   :H (v22 / label
+                           :A (v33 / label~e.24)
+                           :P (v34 / label~e.25)
+                           :A (v35 / label~e.26,27)
+                           :A (v36 / label
+                                   :R (v53 / label~e.28)
+                                   :H (v54 / label
+                                           :A v33
+                                           :A v35
+                                           :P (v69 / label
+                                                   :E (v83 / label~e.30)
+                                                   :C (v84 / label~e.32))
+                                           :D (v70 / label~e.31))
+                                   :L (v55 / label~e.33)
+                                   :H (v56 / label
+                                           :A v33
+                                           :A v35
+                                           :P (v71 / label~e.34)
+                                           :A (v72 / label
+                                                   :E (v85 / label~e.35)
+                                                   :C (v86 / label~e.36))
+                                           :D (v73 / label~e.37)
+                                           :A (v74 / label
+                                                   :R (v87 / label~e.38)
+                                                   :C (v88 / label~e.39)
+                                                   :Q (v89 / label~e.40,41)
+                                                   :E (v90 / label
+                                                           :A v88
+                                                           :S (v93 / label)
+                                                           :A (v94 / label~e.42))))))
+                   :L (v23 / label~e.44)
+                   :H (v24 / label
+                           :A (v37 / label~e.45)
+                           :P (v38 / label~e.46)
+                           :A (v39 / label
+                                   :A (v57 / label~e.47)
+                                   :D (v58 / label~e.48)
+                                   :P (v59 / label~e.49)
+                                   :A (v60 / label~e.50)
+                                   :A (v61 / label
+                                           :R (v75 / label~e.51)
+                                           :C (v76 / label~e.52)
+                                           :Q (v77 / label~e.53,54)
+                                           :E (v78 / label
+                                                   :A v77
+                                                   :S (v91 / label)
+                                                   :A (v92 / label~e.55)))))
+                   :L (v25 / label~e.57)
+                   :H (v26 / label
+                           :A (v40 / label~e.58)
+                           :D (v41 / label~e.60)
+                           :P (v42 / label
+                                   :E (v62 / label~e.63)
+                                   :C (v63 / label~e.65))
+                           :D (v43 / label~e.64))
+                   :H (v27 / label
+                           :A (v44 / label~e.67)
+                           :D (v45 / label~e.68)
+                           :A (v46 / label
+                                   :P (v64 / label
+                                           :E (v79 / label~e.69)
+                                           :C (v80 / label~e.70)))
+                           :P (v47 / label~e.71,72))
+                   :H (v28 / label
+                           :D (v48 / label~e.74)
+                           :D (v49 / label~e.75)
+                           :D (v50 / label~e.79)
+                           :S (v51 / label~e.80)
+                           :A (v52 / label
+                                   :R (v65 / label~e.81)
+                                   :E (v66 / label~e.82)
+                                   :E (v67 / label
+                                           :A (v68 / label~e.85)
+                                           :S (v81 / label)
+                                           :A (v82 / label~e.83))
+                                   :C v68)
+                           :A v44))))

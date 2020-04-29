@@ -1,0 +1,30 @@
+# ::id 217008
+# ::tok The film generated mostly negative reviews , with Manohla Dargis of the Los Angeles Times describing it as " smug and reductive . "
+# ::alignments 1-1.1.1.2 3-1.1.3.1 4-1.1.3.2 5-1.1.2.2 7-1.2 8-1.3.3.1 9-1.3.3.1 10-1.3.3.2.1 12-1.3.3.2.3 13-1.3.3.2.3 14-1.3.3.2.3 15-1.3.4 16-1.3.1 17-1.3.2.1 19-1.3.2.2.2.1 20-1.3.2.2.2.2 21-1.3.2.2.2.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :C (v12 / label~e.1))
+           :P (v6 / label
+                  :C (v13 / label~e.5))
+           :D (v7 / label
+                  :E (v14 / label~e.3)
+                  :C (v15 / label~e.4)))
+    :L (v3 / label~e.7)
+    :H (v4 / label
+           :A (v8 / label~e.16)
+           :A (v9 / label
+                  :R (v16 / label~e.17)
+                  :C (v17 / label
+                          :A v8
+                          :S (v20 / label
+                                  :C (v23 / label~e.19)
+                                  :N (v24 / label~e.20)
+                                  :C (v25 / label~e.21))))
+           :A (v10 / label
+                   :C (v18 / label~e.8,9)
+                   :E (v19 / label
+                           :R (v21 / label~e.10)
+                           :C (v22 / label~e.12,13,14)))
+           :P (v11 / label~e.15)))

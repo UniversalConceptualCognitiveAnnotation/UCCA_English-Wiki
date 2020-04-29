@@ -1,0 +1,91 @@
+# ::id 201004
+# ::tok A The New York Times article by Peter De Jonge explained that " The West Wing is never plotted out for more than a few weeks ahead and has no major story lines " , which De Jonge believed was because " with characters who have no flaws , it is impossible to give them significant arcs " . Sorkin has stated : " I seldom plan ahead , not because I do n't think it 's good to plan ahead , there just is n't time . "
+# ::alignments 0-1.1.1.1 1-1.1.1.1 2-1.1.1.1 3-1.1.1.1 4-1.1.1.1 5-1.1.1.2 6-1.1.1.3.2 7-1.1.1.3.3 8-1.1.1.3.3 9-1.1.1.3.3 10-1.1.2 11-1.1.3.2 13-1.1.3.3.1 14-1.1.3.3.1 15-1.1.3.3.1 17-1.1.3.3.3 18-1.1.3.3.4 19-1.1.3.3.4 20-1.1.3.3.5.1 21-1.1.3.3.5.2.1.1 22-1.1.3.3.5.2.1.2 23-1.1.3.3.5.2.2 24-1.1.3.3.5.2.3 25-1.1.3.3.5.3 26-1.1.3.3.5.4 27-1.1.3.4 28-1.1.3.5.1 29-1.1.3.5.2 30-1.1.3.5.3.1 31-1.1.3.5.3.2 32-1.1.3.5.3.3 35-1.2 36-1.3.1 37-1.3.1 38-1.3.2 40-1.3.3.2.2 42-1.3.3.3.2.1 43-1.3.3.3.2.2 44-1.3.3.3.2.3.2 45-1.3.3.3.2.3.3 46-1.3.3.3.2.3.4 47-1.3.3.3.2.3.5 51-1.3.3.3.5 53-1.3.3.3.7 54-1.3.3.3.8 55-1.3.3.3.9.1 56-1.3.3.3.9.2 59-1.4.3 61-1.4.5 64-1.4.6.3.1 65-1.4.6.3.2 66-1.4.6.3.3 67-1.4.6.3.4 69-1.4.6.4.1 70-1.4.6.4.2 71-1.4.6.5.1 73-1.4.6.5.3 74-1.4.6.5.4 77-1.4.6.5.5.3 78-1.4.6.5.5.4.2 79-1.4.6.5.5.4.3 80-1.4.6.5.5.4.4 82-1.4.6.6.3 83-1.4.6.6.4 85-1.4.6.6.6 86-1.4.6.6.7
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label
+                  :E (v15 / label~e.0,1,2,3,4)
+                  :C (v16 / label~e.5)
+                  :E (v17 / label
+                          :A v16
+                          :P (v28 / label~e.6)
+                          :A (v29 / label~e.7,8,9)))
+           :P (v7 / label~e.10)
+           :A (v8 / label
+                  :R (v18 / label~e.11)
+                  :H (v19 / label
+                          :A (v30 / label~e.13,14,15)
+                          :D (v31 / label~e.17)
+                          :P (v32 / label~e.18,19)
+                          :A (v33 / label
+                                  :R (v57 / label~e.20)
+                                  :Q (v58 / label
+                                          :E (v71 / label
+                                                  :C (v82 / label~e.21)
+                                                  :R (v83 / label~e.22))
+                                          :E (v72 / label~e.23)
+                                          :C (v73 / label~e.24))
+                                  :C (v59 / label~e.25)
+                                  :E (v60 / label~e.26)))
+                  :L (v20 / label~e.27)
+                  :H (v21 / label
+                          :S (v34 / label~e.28)
+                          :D (v35 / label~e.29)
+                          :A (v36 / label
+                                  :E (v61 / label~e.30)
+                                  :E (v62 / label~e.31)
+                                  :C (v63 / label~e.32))
+                          :A v30)))
+    :L (v3 / label~e.35)
+    :H (v4 / label
+           :A (v9 / label~e.36,37)
+           :P (v10 / label~e.38)
+           :A (v11 / label
+                   :L (v22 / label
+                           :C (v37 / label~e.40))
+                   :H (v23 / label
+                           :A (v38 / label
+                                   :R (v64 / label~e.42)
+                                   :C (v65 / label~e.43)
+                                   :E (v66 / label
+                                           :A v65
+                                           :R (v74 / label~e.44)
+                                           :S (v75 / label~e.45)
+                                           :D (v76 / label~e.46)
+                                           :A (v77 / label~e.47)))
+                           :D (v39 / label~e.51)
+                           :P (v40 / label~e.53)
+                           :A (v41 / label~e.54)
+                           :A (v42 / label
+                                   :E (v67 / label~e.55)
+                                   :C (v68 / label~e.56)))
+                   :H v8))
+    :H (v5 / label
+           :A (v12 / label~e.59)
+           :P (v13 / label~e.61)
+           :A (v14 / label
+                   :H (v24 / label
+                           :A (v43 / label~e.64)
+                           :T (v44 / label~e.65)
+                           :P (v45 / label~e.66)
+                           :D (v46 / label~e.67))
+                   :L (v25 / label
+                           :E (v47 / label~e.69)
+                           :C (v48 / label~e.70))
+                   :H (v26 / label
+                           :A (v49 / label~e.71)
+                           :D (v50 / label~e.73)
+                           :P (v51 / label~e.74)
+                           :A (v52 / label
+                                   :S (v69 / label~e.77)
+                                   :A (v70 / label
+                                           :A (v78 / label)
+                                           :R (v79 / label~e.78)
+                                           :P (v80 / label~e.79)
+                                           :D (v81 / label~e.80))))
+                   :H (v27 / label
+                           :S (v53 / label~e.82)
+                           :D (v54 / label~e.83)
+                           :D (v55 / label~e.85)
+                           :A (v56 / label~e.86)))))

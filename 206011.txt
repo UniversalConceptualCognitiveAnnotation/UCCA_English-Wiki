@@ -1,0 +1,39 @@
+# ::id 206011
+# ::tok The $ 1,000 he received for the eight - week contract was all he had to hold him over until the funds from the movie materialized .
+# ::alignments 1-1.1.1.2 2-1.1.1.3 3-1.1.1.4.2 4-1.1.1.4.3 5-1.1.1.4.4.1 7-1.1.1.4.4.3.1 9-1.1.1.4.4.3.2 10-1.1.1.4.4.4 11-1.1.2 12-1.1.3.1.1 13-1.1.3.1.2 14-1.1.3.1.3 15-1.1.3.2 16-1.1.3.3.1 17-1.1.3.3.2 18-1.1.3.3.1 19-1.2 21-1.3.2.3 22-1.3.2.1.1 24-1.3.2.1.3 25-1.3.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :C (v10 / label~e.1)
+                  :Q (v11 / label~e.2)
+                  :E (v12 / label
+                          :A v10
+                          :A (v18 / label~e.3)
+                          :P (v19 / label~e.4)
+                          :A (v20 / label
+                                  :R (v28 / label~e.5)
+                                  :E (v29 / label
+                                          :Q (v31 / label~e.7)
+                                          :C (v32 / label~e.9))
+                                  :C (v30 / label~e.10))))
+           :S (v6 / label~e.11)
+           :A (v7 / label
+                  :H (v13 / label
+                          :D (v21 / label~e.12)
+                          :A (v22 / label~e.13)
+                          :S (v23 / label~e.14)
+                          :A v10)
+                  :L (v14 / label~e.15)
+                  :H (v15 / label
+                          :P (v24 / label~e.16,18)
+                          :A (v25 / label~e.17)
+                          :A v10)))
+    :L (v3 / label~e.19)
+    :H (v4 / label
+           :A (v8 / label
+                  :E (v16 / label
+                          :R (v26 / label~e.22)
+                          :C (v27 / label~e.24))
+                  :C (v17 / label~e.21))
+           :P (v9 / label~e.25)))

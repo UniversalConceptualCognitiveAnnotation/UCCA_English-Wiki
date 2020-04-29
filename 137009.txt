@@ -1,0 +1,53 @@
+# ::id 137009
+# ::tok At her own insistence , Hepburn performed a fall into a canal and developed a chronic eye infection as a result . The role earned her another Academy Award nomination and has been cited as some of her finest work .
+# ::alignments 0-1.1 1-1.2.1 2-1.2.2 3-1.2.3 5-1.3.1 6-1.3.2 8-1.3.3.1.2 9-1.3.3.2.1 10-1.3.3.2.2 11-1.3.3.2.3 12-1.4 13-1.5.1 14-1.5.2.1 15-1.5.2.2 16-1.5.2.3 17-1.5.2.4 18-1.6 19-1.6 20-1.6 22-1.7.1.1 23-1.9.5 24-1.7.2 25-1.7.3 26-1.7.4.1 27-1.7.4.2 28-1.7.4.2 29-1.7.4.3 30-1.8 33-1.9.3 34-1.9.4.1 35-1.9.4.2 36-1.9.4.3.1 37-1.9.4.4 38-1.9.4.5 39-1.9.4.3.2
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v11 / label~e.1)
+           :D (v12 / label~e.2)
+           :S (v13 / label~e.3))
+    :H (v4 / label
+           :A (v14 / label~e.5)
+           :P (v15 / label~e.6)
+           :A (v16 / label
+                   :P (v26 / label
+                           :C (v41 / label~e.8))
+                   :A (v27 / label
+                           :R (v42 / label~e.9)
+                           :E (v43 / label~e.10)
+                           :C (v44 / label~e.11))))
+    :L (v5 / label~e.12)
+    :H (v6 / label
+           :S (v17 / label~e.13)
+           :A (v18 / label
+                   :E (v28 / label~e.14)
+                   :E (v29 / label~e.15)
+                   :E (v30 / label~e.16)
+                   :C (v31 / label~e.17))
+           :A v14)
+    :L (v7 / label~e.18,19,20)
+    :H (v8 / label
+           :A (v19 / label
+                   :E (v32 / label~e.22)
+                   :C (v25 / label~e.23))
+           :P (v20 / label~e.24)
+           :A (v21 / label~e.25)
+           :A (v22 / label
+                   :D (v33 / label~e.26)
+                   :A (v34 / label~e.27,28)
+                   :P (v35 / label~e.29)))
+    :L (v9 / label~e.30)
+    :H (v10 / label
+            :P (v23 / label~e.33)
+            :A (v24 / label
+                    :R (v36 / label~e.34)
+                    :D (v37 / label~e.35)
+                    :P (v38 / label
+                            :R (v45 / label~e.36)
+                            :C (v46 / label~e.39))
+                    :A (v39 / label~e.37)
+                    :D (v40 / label~e.38)
+                    :A v25)
+            :A v25))

@@ -1,0 +1,51 @@
+# ::id 116006
+# ::tok Hepburn said she realized from a young age that she was the product of " two very remarkable parents " , and credited her " enormously lucky " upbringing with providing the foundation for her success .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.1.3.3.1 5-1.1.3.3.2 6-1.1.3.3.3 7-1.1.3.3.4 8-1.1.3.4.1 9-1.1.3.4.2 11-1.1.3.4.4.1 12-1.1.3.4.4.2 13-1.1.3.4.5.1 15-1.1.3.4.5.2 16-1.1.3.4.5.3.2 17-1.1.3.4.5.3.3 18-1.1.3.4.5.4 21-1.2 22-1.3.3 23-1.3.4.1 25-1.3.4.2.1 26-1.3.4.2.2 28-1.3.1.4 29-1.3.1.1 30-1.3.1.2 31-1.3.1.3.1 32-1.3.1.3.2 33-1.3.1.3.3.1 34-1.3.1.3.3.2 35-1.3.1.3.3.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label~e.0)
+           :P (v6 / label~e.1)
+           :A (v7 / label
+                  :A (v11 / label~e.2)
+                  :P (v12 / label~e.3)
+                  :T (v13 / label
+                          :R (v21 / label~e.4)
+                          :E (v22 / label~e.5)
+                          :E (v23 / label~e.6)
+                          :C (v24 / label~e.7))
+                  :A (v14 / label
+                          :R (v25 / label~e.8)
+                          :A (v26 / label~e.9)
+                          :S (v27 / label
+                                  :E (v34 / label~e.11)
+                                  :C (v35 / label~e.12))
+                          :A (v28 / label
+                                  :R (v36 / label~e.13)
+                                  :Q (v37 / label~e.15)
+                                  :E (v38 / label
+                                          :A (v39 / label~e.18)
+                                          :D (v43 / label~e.16)
+                                          :S (v44 / label~e.17))
+                                  :C v39))))
+    :L (v3 / label~e.21)
+    :H (v4 / label
+           :A (v8 / label
+                  :R (v15 / label~e.29)
+                  :P (v16 / label~e.30)
+                  :A (v17 / label
+                          :E (v29 / label~e.31)
+                          :C (v30 / label~e.32)
+                          :E (v31 / label
+                                  :R (v40 / label~e.33)
+                                  :A (v41 / label~e.34)
+                                  :P (v42 / label~e.35)))
+                  :A (v18 / label~e.28))
+           :A v5
+           :P (v9 / label~e.22)
+           :A (v10 / label
+                   :A (v19 / label~e.23)
+                   :D (v20 / label
+                           :E (v32 / label~e.25)
+                           :C (v33 / label~e.26))
+                   :P v18)))

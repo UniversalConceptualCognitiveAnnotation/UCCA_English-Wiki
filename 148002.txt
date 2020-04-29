@@ -1,0 +1,29 @@
+# ::id 148002
+# ::tok I would have been a terrible mother , " she told Berg , " because I 'm basically a very selfish human being . "
+# ::alignments 0-1.1.5.1.1 1-1.1.5.1.2 4-1.1.5.1.5.1 5-1.1.5.1.6 6-1.1.5.1.5.2 9-1.1.6 10-1.1.7 11-1.1.8 14-1.1.5.2 15-1.1.5.3.1 16-1.1.5.3.2 17-1.1.5.3.3 18-1.1.5.3.4.1 19-1.1.5.3.4.2.2 20-1.1.5.3.4.2.3 21-1.1.5.3.4.3 22-1.1.5.3.4.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :H (v7 / label
+                         :A (v10 / label~e.0)
+                         :D (v11 / label~e.1)
+                         :S (v12 / label
+                                 :E (v18 / label~e.4)
+                                 :C (v19 / label~e.6))
+                         :D (v13 / label~e.5))
+                  :L (v8 / label~e.14)
+                  :H (v9 / label
+                         :A (v14 / label~e.15)
+                         :S (v15 / label~e.16)
+                         :D (v16 / label~e.17)
+                         :A (v17 / label
+                                 :E (v20 / label~e.18)
+                                 :E (v21 / label
+                                         :A (v22 / label~e.21,22)
+                                         :D (v23 / label~e.19)
+                                         :S (v24 / label~e.20))
+                                 :C v22)))
+           :A (v4 / label~e.9)
+           :P (v5 / label~e.10)
+           :A (v6 / label~e.11)))

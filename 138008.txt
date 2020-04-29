@@ -1,0 +1,45 @@
+# ::id 138008
+# ::tok After two years away from the screen , she starred in a film adaptation of Tennessee Williams ' controversial play Suddenly , Last Summer ( 1959 ) with Elizabeth Taylor and Montgomery Clift .
+# ::alignments 0-1.1 1-1.2.1.1 2-1.2.1.2 3-1.2.2 4-1.2.3.1 5-1.2.3.2 6-1.2.3.3 8-1.2.5 9-1.3.3 10-1.3.4.1 11-1.3.4.2.1 12-1.3.4.3 13-1.3.4.2.2 14-1.3.4.4.1 15-1.3.4.4.2.2 16-1.3.4.4.2.2 18-1.3.4.4.3.2 19-1.3.4.4.4 20-1.3.4.5.1 22-1.3.4.5.1 23-1.3.4.5.1 25-1.3.4.5.2.3 27-1.3.5.1 28-1.3.5.2 29-1.3.5.2 30-1.3.5.3 31-1.3.5.4 32-1.3.5.4
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :T (v5 / label
+                  :Q (v12 / label~e.1)
+                  :C (v13 / label~e.2))
+           :S (v6 / label~e.3)
+           :A (v7 / label
+                  :R (v14 / label~e.4)
+                  :E (v15 / label~e.5)
+                  :C (v16 / label~e.6))
+           :A (v8 / label~e.8))
+    :H (v4 / label
+           :A v8
+           :P (v9 / label~e.9)
+           :A (v10 / label
+                   :R (v17 / label~e.10)
+                   :P (v18 / label
+                           :E (v26 / label~e.11)
+                           :C (v27 / label~e.13))
+                   :A (v19 / label~e.12)
+                   :A (v20 / label
+                           :R (v28 / label~e.14)
+                           :E (v29 / label
+                                   :R (v34 / label)
+                                   :C (v35 / label~e.15,16))
+                           :E (v30 / label
+                                   :A (v31 / label~e.19)
+                                   :S (v36 / label~e.18))
+                           :C v31)
+                   :A (v21 / label
+                           :C (v32 / label~e.20,22,23)
+                           :E (v33 / label
+                                   :A v32
+                                   :P (v37 / label)
+                                   :T (v38 / label~e.25))))
+           :A (v11 / label
+                   :R (v22 / label~e.27)
+                   :C (v23 / label~e.28,29)
+                   :N (v24 / label~e.30)
+                   :C (v25 / label~e.31,32))))

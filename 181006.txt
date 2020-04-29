@@ -1,0 +1,21 @@
+# ::id 181006
+# ::tok Gyllenhaal grew up in Los Angeles , California , and studied at the Harvard - Westlake prep school .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.2 3-1.1.3.1 4-1.1.3.2 5-1.1.3.2 7-1.1.3.3 9-1.2 10-1.3.2 11-1.3.3.6 13-1.3.3.2 15-1.3.3.2 16-1.3.3.3 17-1.3.3.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label~e.0)
+           :P (v6 / label~e.1,2)
+           :A (v7 / label
+                  :R (v10 / label~e.3)
+                  :C (v11 / label~e.4,5)
+                  :C (v12 / label~e.7)))
+    :L (v3 / label~e.9)
+    :H (v4 / label
+           :A v5
+           :P (v8 / label~e.10)
+           :A (v9 / label
+                  :E (v13 / label~e.13,15)
+                  :E (v14 / label~e.16)
+                  :C (v15 / label~e.17)
+                  :R (v16 / label~e.11))))

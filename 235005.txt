@@ -1,0 +1,77 @@
+# ::id 235005
+# ::tok On 18 April 2009 , during a panel discussion at the annual Boao Forum for Asia titled " Tapping into Asia 's Creative Industry Potential , " Chan said " ... in the 10 years after Hong Kong 's return to Chinese rule , I can gradually see , I 'm not sure if it 's good to have freedom or not . "
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 3-1.1.1.4 5-1.2 7-1.3.2 8-1.3.3 9-1.3.4.1 11-1.3.4.3 12-1.3.4.4 13-1.3.4.5 14-1.3.4.6.1 15-1.3.4.6.2 16-1.3.4.7.2 18-1.3.4.7.3.2 19-1.3.4.7.3.3.1 20-1.3.4.7.3.3.2.1 21-1.3.4.7.3.3.2.2 22-1.3.4.7.3.3.3.1 23-1.3.4.7.3.3.3.2 24-1.3.4.7.3.3.4 27-1.1.2 28-1.1.3 31-1.1.4.1.1.1 33-1.1.4.1.1.3 34-1.1.4.1.1.4 35-1.1.4.1.1.5 36-1.1.4.1.2.1 37-1.1.4.1.2.1 38-1.1.4.1.2.2 39-1.1.4.1.3 40-1.1.4.1.4.1 41-1.1.4.1.4.2 42-1.1.4.1.5 44-1.1.4.2.1 45-1.1.4.2.2 46-1.1.4.2.3 47-1.1.4.2.4 49-1.1.4.2.5.1 51-1.1.4.2.5.3 52-1.1.4.2.5.4 53-1.1.4.2.5.5.1 56-1.1.4.2.5.5.2.3.1 59-1.1.4.2.5.5.2.4.3.2 60-1.1.4.2.5.5.2.3.2 61-1.1.4.2.5.5.2.3.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v5 / label
+                  :R (v12 / label~e.0)
+                  :C (v13 / label~e.1)
+                  :C (v14 / label~e.2)
+                  :C (v15 / label~e.3))
+           :A (v6 / label~e.27)
+           :P (v7 / label~e.28)
+           :A (v8 / label
+                  :H (v16 / label
+                          :T (v24 / label
+                                  :R (v38 / label~e.31)
+                                  :Q (v39 / label~e.33)
+                                  :C (v40 / label~e.34)
+                                  :R (v41 / label~e.35))
+                          :A (v25 / label
+                                  :C (v42 / label~e.36,37)
+                                  :R (v43 / label~e.38))
+                          :D (v26 / label~e.39)
+                          :A (v27 / label
+                                  :R (v44 / label~e.40)
+                                  :C (v45 / label~e.41))
+                          :P (v28 / label~e.42))
+                  :H (v17 / label
+                          :A (v29 / label~e.44)
+                          :D (v30 / label~e.45)
+                          :D (v31 / label~e.46)
+                          :P (v32 / label~e.47)
+                          :A (v33 / label
+                                  :A (v46 / label~e.49)
+                                  :D (v47 / label~e.51)
+                                  :P (v48 / label~e.52)
+                                  :A (v49 / label
+                                          :R (v53 / label~e.53)
+                                          :C (v54 / label
+                                                  :S (v59 / label
+                                                          :C (v65 / label~e.56)
+                                                          :N (v66 / label~e.60)
+                                                          :C (v67 / label
+                                                                  :C v65
+                                                                  :E (v70 / label~e.61)))
+                                                  :A (v60 / label
+                                                          :A (v68 / label)
+                                                          :S (v69 / label
+                                                                  :C (v71 / label~e.59)))))))))
+    :L (v3 / label~e.5)
+    :H (v4 / label
+           :A (v9 / label~e.7)
+           :P (v10 / label~e.8)
+           :A (v11 / label
+                   :R (v18 / label~e.9)
+                   :E (v19 / label~e.11)
+                   :E (v20 / label~e.12)
+                   :C (v21 / label~e.13)
+                   :E (v22 / label
+                           :R (v34 / label~e.14)
+                           :C (v35 / label~e.15))
+                   :E (v23 / label
+                           :A v21
+                           :S (v36 / label~e.16)
+                           :A (v37 / label
+                                   :A (v50 / label)
+                                   :P (v51 / label~e.18)
+                                   :A (v52 / label
+                                           :R (v55 / label~e.19)
+                                           :A (v56 / label
+                                                   :C (v61 / label~e.20)
+                                                   :R (v62 / label~e.21))
+                                           :A (v57 / label
+                                                   :E (v63 / label~e.22)
+                                                   :C (v64 / label~e.23))
+                                           :S (v58 / label~e.24)))))))

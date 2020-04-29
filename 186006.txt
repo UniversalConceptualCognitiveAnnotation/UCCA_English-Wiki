@@ -1,0 +1,59 @@
+# ::id 186006
+# ::tok His mother was a school teacher and his father a copyright lawyer who had fought in WWII and put himself through college on the G.I . Bill ; both his older sister and brother went on to become lawyers .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.1.3.1 4-1.1.4 5-1.1.3.2 6-1.2 7-1.3.1.1 8-1.3.1.2 9-1.3.2.1 10-1.3.3 11-1.3.2.2 12-1.3.4.1 14-1.3.4.2.2 15-1.3.4.2.3.1 16-1.3.4.2.3.2 17-1.3.4.3 18-1.3.4.4.1 19-1.3.4.4.1 20-1.3.4.4.2.1 21-1.3.4.4.2.2 22-1.3.4.4.3.1 23-1.3.4.4.3.2 24-1.3.4.4.3.3 26-1.3.4.4.3.4 28-1.4.4.1 29-1.4.4.2.1.1 30-1.4.4.2.1.2 31-1.4.4.2.1.3 32-1.4.4.2.2 33-1.4.4.2.3.1 34-1.4.5.1.1 37-1.4.5.2 38-1.4.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label
+                  :A (v16 / label~e.0)
+                  :S (v17 / label~e.1))
+           :P (v7 / label
+                  :E (v18 / label~e.3)
+                  :C (v19 / label~e.5))
+           :A (v8 / label~e.4))
+    :L (v3 / label~e.6)
+    :H (v4 / label
+           :A (v9 / label
+                  :A (v20 / label~e.7)
+                  :S (v21 / label~e.8))
+           :P (v10 / label
+                   :E (v22 / label~e.9)
+                   :C (v23 / label~e.11))
+           :A (v11 / label~e.10)
+           :A (v12 / label
+                   :R (v24 / label~e.12)
+                   :H (v25 / label
+                           :P (v32 / label~e.14)
+                           :A (v33 / label
+                                   :R (v41 / label~e.15)
+                                   :C (v42 / label~e.16))
+                           :A v21)
+                   :L (v26 / label~e.17)
+                   :H (v27 / label
+                           :P (v34 / label~e.18,19)
+                           :A (v35 / label
+                                   :R (v43 / label~e.20)
+                                   :C (v44 / label~e.21))
+                           :A (v36 / label
+                                   :R (v45 / label~e.22)
+                                   :E (v46 / label~e.23)
+                                   :E (v47 / label~e.24)
+                                   :C (v48 / label~e.26))
+                           :A v21)))
+    :H (v5 / label
+           :P (v13 / label~e.38)
+           :A (v14 / label
+                   :Q (v28 / label~e.28)
+                   :C (v29 / label
+                           :C (v37 / label
+                                   :A (v49 / label~e.29)
+                                   :D (v50 / label~e.30)
+                                   :S (v51 / label~e.31))
+                           :N (v38 / label~e.32)
+                           :C (v39 / label
+                                   :S (v52 / label~e.33)
+                                   :A v49)))
+           :D (v15 / label
+                   :E (v30 / label
+                           :C (v40 / label~e.34))
+                   :C (v31 / label~e.37))))

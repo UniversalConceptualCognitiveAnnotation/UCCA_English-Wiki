@@ -1,0 +1,64 @@
+# ::id 246001
+# ::tok The film follows a young American ( Hawke ) and a young French woman ( Julie Delpy ) , who meet on a train and disembark in Vienna , spending the night exploring the city and getting to know one another .
+# ::alignments 1-1.1.1.2 2-1.1.2 4-1.1.3.1.1.3.2 5-1.1.3.1.1.4.2 7-1.1.3.1.1.5.2 9-1.1.3.1.2 11-1.1.3.1.3.2.2 12-1.1.3.1.3.3.2 13-1.1.3.1.3.4 15-1.1.3.1.3.5.3 16-1.1.3.1.3.5.3 19-1.1.3.4.1 20-1.1.3.4.2.1 21-1.1.3.4.2.2.1 23-1.1.3.4.2.2.3 24-1.1.3.4.3 25-1.1.3.4.4.1 26-1.1.3.4.4.2.1 27-1.1.3.4.4.2.2 29-1.1.3.4.5.1 31-1.1.3.4.5.2.2 32-1.1.3.4.5.3 34-1.1.3.4.5.4.2 35-1.1.3.4.6 36-1.1.3.4.7.1 38-1.1.3.4.7.3 39-1.1.3.4.7.4 40-1.1.3.4.7.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :C (v6 / label~e.1))
+           :P (v4 / label~e.2)
+           :A (v5 / label
+                  :C (v7 / label
+                         :C (v9 / label
+                                :C (v19 / label)
+                                :E (v20 / label
+                                        :A (v39 / label)
+                                        :S (v40 / label~e.4))
+                                :E (v21 / label
+                                        :A (v41 / label)
+                                        :S (v42 / label~e.5))
+                                :E (v22 / label
+                                        :P (v43 / label)
+                                        :A (v44 / label~e.7)))
+                         :N (v10 / label~e.9)
+                         :C (v11 / label
+                                 :E (v23 / label
+                                         :A (v25 / label~e.13)
+                                         :S (v45 / label~e.11))
+                                 :E (v24 / label
+                                         :A v25
+                                         :S (v46 / label~e.12))
+                                 :C v25
+                                 :E (v26 / label
+                                         :A v25
+                                         :P (v47 / label)
+                                         :A (v48 / label~e.15,16))))
+                  :E (v8 / label
+                         :R (v12 / label~e.19)
+                         :H (v13 / label
+                                 :P (v27 / label~e.20)
+                                 :A (v28 / label
+                                         :R (v49 / label~e.21)
+                                         :C (v50 / label~e.23))
+                                 :A v7)
+                         :L (v14 / label~e.24)
+                         :H (v15 / label
+                                 :P (v29 / label~e.25)
+                                 :A (v30 / label
+                                         :R (v51 / label~e.26)
+                                         :C (v52 / label~e.27))
+                                 :A v7)
+                         :H (v16 / label
+                                 :D (v31 / label~e.29)
+                                 :T (v32 / label
+                                         :C (v53 / label~e.31))
+                                 :P (v33 / label~e.32)
+                                 :A (v34 / label
+                                         :C (v54 / label~e.34))
+                                 :A v7)
+                         :L (v17 / label~e.35)
+                         :H (v18 / label
+                                 :D (v35 / label~e.36)
+                                 :P (v36 / label~e.38)
+                                 :A (v37 / label~e.39)
+                                 :A (v38 / label~e.40))))))

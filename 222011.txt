@@ -1,0 +1,48 @@
+# ::id 222011
+# ::tok In 1960 , his father immigrated to Canberra , Australia , to work as the head cook for the American embassy , and Chan was sent to the China Drama Academy , a Peking Opera School run by Master Yu Jim - yuen .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.1.2.1 4-1.1.2.2 5-1.1.3 6-1.1.4.1 7-1.1.4.2 9-1.1.4.3 11-1.2 12-1.3.1 13-1.3.2 15-1.3.4 16-1.3.5 17-1.3.6.1 19-1.3.6.3 20-1.3.6.4 22-1.4 23-1.5.1 25-1.5.3 26-1.5.4.1 28-1.5.4.3 29-1.5.4.4 30-1.5.4.5 33-1.5.4.6.2 34-1.5.4.6.3 35-1.5.4.6.4 36-1.5.4.6.5.2 37-1.5.4.6.5.3.1 38-1.5.4.6.5.3.2 39-1.5.4.6.5.3.3 40-1.5.4.6.5.3.3 42-1.5.4.6.5.3.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v7 / label
+                  :R (v19 / label~e.0)
+                  :C (v20 / label~e.1))
+           :A (v8 / label
+                  :A (v21 / label~e.3)
+                  :A (v22 / label~e.4))
+           :P (v9 / label~e.5)
+           :A (v10 / label
+                   :R (v23 / label~e.6)
+                   :C (v24 / label~e.7)
+                   :C (v25 / label~e.9)))
+    :L (v3 / label~e.11)
+    :H (v4 / label
+           :D (v11 / label~e.12)
+           :R (v12 / label~e.13)
+           :D (v13 / label~e.15)
+           :P (v14 / label~e.16)
+           :A (v15 / label
+                   :R (v26 / label~e.17)
+                   :E (v27 / label~e.19)
+                   :C (v28 / label~e.20))
+           :A v8)
+    :L (v5 / label~e.22)
+    :H (v6 / label
+           :A (v16 / label~e.23)
+           :P (v17 / label~e.25)
+           :A (v18 / label
+                   :R (v29 / label~e.26)
+                   :E (v30 / label~e.28)
+                   :E (v31 / label~e.29)
+                   :C (v32 / label~e.30)
+                   :E (v33 / label
+                           :E (v34 / label~e.33)
+                           :E (v35 / label~e.34)
+                           :C (v36 / label~e.35)
+                           :E (v37 / label
+                                   :A v36
+                                   :P (v38 / label~e.36)
+                                   :A (v39 / label
+                                           :R (v40 / label~e.37)
+                                           :E (v41 / label~e.38)
+                                           :C (v42 / label~e.39,40,42)))))))

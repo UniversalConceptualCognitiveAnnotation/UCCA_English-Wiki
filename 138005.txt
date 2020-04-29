@@ -1,0 +1,14 @@
+# ::id 138005
+# ::tok That summer Hepburn returned to Shakespeare .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2 3-1.1.3 4-1.1.4.2 5-1.1.4.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label
+                  :E (v7 / label~e.0)
+                  :C (v8 / label~e.1))
+           :A (v4 / label~e.2)
+           :P (v5 / label~e.3)
+           :A (v6 / label
+                  :R (v9 / label~e.4)
+                  :C (v10 / label~e.5))))

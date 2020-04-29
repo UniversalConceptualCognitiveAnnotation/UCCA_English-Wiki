@@ -1,0 +1,42 @@
+# ::id 1023004
+# ::tok The performance almost did not happen with Jackson originally turning down the invitation to perform , however at Berry Gordy 's request , Jackson agreed to do the show .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2.1.1 4-1.1.2.1.2 5-1.1.2.3 6-1.2 7-1.3.1 8-1.3.2 9-1.3.3 10-1.3.3 11-1.3.4.1.1 12-1.3.4.1.2 13-1.3.4.2.2 14-1.3.4.2.3 16-1.4 17-1.5 18-1.6.1.1 19-1.6.1.1 20-1.6.1.2 21-1.6.2 23-1.7.1 24-1.7.2 27-1.7.3.3.2 28-1.7.3.3.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v9 / label
+                  :E (v20 / label~e.0)
+                  :C (v21 / label~e.1))
+           :D (v10 / label
+                   :E (v22 / label
+                           :E (v29 / label~e.2)
+                           :C (v30 / label~e.4))
+                   :C (v23 / label~e.5)))
+    :L (v3 / label~e.6)
+    :H (v4 / label
+           :A (v11 / label~e.7)
+           :D (v12 / label~e.8)
+           :P (v13 / label~e.9,10)
+           :A (v14 / label
+                   :P (v24 / label
+                           :E (v31 / label~e.11)
+                           :C (v32 / label~e.12))
+                   :A (v25 / label
+                           :A v11
+                           :R (v33 / label~e.13)
+                           :P (v34 / label~e.14))))
+    :L (v5 / label~e.16)
+    :L (v6 / label~e.17)
+    :H (v7 / label
+           :A (v15 / label
+                   :C (v26 / label~e.18,19)
+                   :R (v27 / label~e.20))
+           :P (v16 / label~e.21))
+    :H (v8 / label
+           :A (v17 / label~e.23)
+           :P (v18 / label~e.24)
+           :A (v19 / label
+                   :A v17
+                   :P (v28 / label
+                           :E (v35 / label~e.27)
+                           :C (v36 / label~e.28)))))

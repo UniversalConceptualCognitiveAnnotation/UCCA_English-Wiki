@@ -1,0 +1,56 @@
+# ::id 1026002
+# ::tok According to J. Randy Taraborrelli 's biography , in 1986 , Jackson was diagnosed with vitiligo and lupus ; the vitiligo partially lightened his skin , and the lupus was in remission ; both illnesses made him sensitive to sunlight .
+# ::alignments 0-1.1.1 1-1.1.1 2-1.1.2.1.2 3-1.1.2.1.2 4-1.1.2.1.2 5-1.1.2.1.3 6-1.1.2.2 8-1.1.3.1.1 9-1.1.3.1.2 11-1.1.3.2 13-1.1.3.4 14-1.1.3.5.1 15-1.1.3.5.2.1 16-1.1.3.5.3 17-1.1.3.5.4.1 19-1.2.1.1.1 20-1.2.1.1.2 21-1.2.2 22-1.2.3 23-1.2.4.1 24-1.2.4.2 26-1.3 27-1.4.1.1.1 28-1.4.1.1.2 30-1.4.3.1 31-1.4.3.2 33-1.5.1.1 34-1.5.1.2.1 35-1.5.2 36-1.5.3 37-1.5.4 38-1.5.5.1 39-1.5.5.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v7 / label~e.0,1)
+           :A (v8 / label
+                  :E (v21 / label
+                          :A (v22 / label~e.6)
+                          :A (v37 / label~e.2,3,4)
+                          :S (v38 / label~e.5))
+                  :C v22)
+           :A (v9 / label
+                  :T (v23 / label
+                          :R (v39 / label~e.8)
+                          :C (v40 / label~e.9))
+                  :A (v24 / label~e.11)
+                  :P (v25 / label~e.13)
+                  :A (v26 / label
+                          :R (v41 / label~e.14)
+                          :H (v42 / label
+                                  :P (v50 / label~e.15))
+                          :L (v43 / label~e.16)
+                          :H (v44 / label
+                                  :P (v51 / label~e.17)))))
+    :H (v3 / label
+           :A (v10 / label
+                   :P (v27 / label
+                           :E (v45 / label~e.19)
+                           :C (v46 / label~e.20)))
+           :D (v11 / label~e.21)
+           :P (v12 / label~e.22)
+           :A (v13 / label
+                   :E (v28 / label~e.23)
+                   :C (v29 / label~e.24)))
+    :L (v4 / label~e.26)
+    :H (v5 / label
+           :A (v14 / label
+                   :P (v30 / label
+                           :E (v47 / label~e.27)
+                           :C (v48 / label~e.28)))
+           :S (v15 / label
+                   :R (v31 / label~e.30)
+                   :C (v32 / label~e.31)))
+    :H (v6 / label
+           :A (v16 / label
+                   :Q (v33 / label~e.33)
+                   :C (v34 / label
+                           :P (v49 / label~e.34)))
+           :D (v17 / label~e.35)
+           :A (v18 / label~e.36)
+           :S (v19 / label~e.37)
+           :A (v20 / label
+                   :R (v35 / label~e.38)
+                   :C (v36 / label~e.39))))

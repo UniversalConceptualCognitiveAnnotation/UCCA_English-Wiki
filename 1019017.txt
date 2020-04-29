@@ -1,0 +1,80 @@
+# ::id 1019017
+# ::tok In fact , Michael Jackson 's deep dissatisfaction with his appearance , his nightmares and chronic sleep problems , his tendency to remain hyper - compliant especially with his father , and to remain childlike throughout his adult life are in many ways consistent with the effects of this chronic maltreatment he endured as a young child .
+# ::alignments 0-1.1.1 1-1.1.1 3-1.1.2.1.1.1 4-1.1.2.1.1.1 5-1.1.2.1.1.2 6-1.1.2.1.2 7-1.1.2.1.3 8-1.1.2.1.4.1 9-1.1.2.1.4.2 10-1.1.2.1.4.3 12-1.1.2.2.1 13-1.1.2.2.2 14-1.1.2.3 15-1.1.2.4.1 16-1.1.2.4.2.1 17-1.1.2.4.3 19-1.1.2.5.1 20-1.1.2.5.2 22-1.1.2.5.4 23-1.1.2.5.5 25-1.1.2.5.6 26-1.1.2.5.7.1.1 27-1.1.2.5.7.1.2 28-1.1.2.5.7.2 29-1.1.2.5.7.3 31-1.1.2.6 33-1.1.2.7.2 34-1.1.2.7.3 35-1.1.2.8 36-1.1.2.9.1 37-1.1.2.9.2 38-1.1.2.9.3 40-1.1.4.1 41-1.1.4.2 42-1.1.4.3 43-1.1.5 44-1.1.6.1 45-1.1.6.2.1 46-1.1.6.2.2 47-1.1.6.3.1.1 48-1.1.6.3.1.2.1 49-1.1.6.3.1.3 50-1.1.6.3.1.2.2 51-1.1.6.3.1.4 52-1.1.6.3.1.5 53-1.1.6.3.2 54-1.1.6.3.3.2.1 55-1.1.6.3.3.2.2.2 56-1.1.6.3.3.2.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :G (v3 / label~e.0,1)
+           :A (v4 / label
+                  :H (v8 / label
+                         :A (v23 / label
+                                 :C (v48 / label~e.3,4)
+                                 :R (v49 / label~e.5))
+                         :D (v24 / label~e.6)
+                         :S (v25 / label~e.7)
+                         :A (v26 / label
+                                 :R (v50 / label~e.8)
+                                 :A (v51 / label~e.9)
+                                 :S (v52 / label~e.10)))
+                  :H (v9 / label
+                         :A (v27 / label~e.12)
+                         :P (v28 / label~e.13))
+                  :L (v10 / label~e.14)
+                  :H (v11 / label
+                          :T (v29 / label~e.15)
+                          :A (v30 / label
+                                  :P (v53 / label~e.16))
+                          :S (v31 / label~e.17)
+                          :A v27)
+                  :H (v12 / label
+                          :A (v32 / label~e.19)
+                          :D (v33 / label~e.20)
+                          :D (v34 / label~e.22)
+                          :D (v35 / label~e.23)
+                          :P (v36 / label~e.25)
+                          :A (v37 / label
+                                  :R (v54 / label
+                                          :E (v64 / label~e.26)
+                                          :C (v65 / label~e.27))
+                                  :A (v55 / label~e.28)
+                                  :S (v56 / label~e.29)))
+                  :L (v13 / label~e.31)
+                  :H (v14 / label
+                          :D (v38 / label~e.33)
+                          :S (v39 / label~e.34)
+                          :A v32
+                          :D v33)
+                  :L (v15 / label~e.35)
+                  :H (v16 / label
+                          :A (v40 / label~e.36)
+                          :D (v41 / label~e.37)
+                          :P (v42 / label~e.38)))
+           :D (v5 / label
+                  :R (v17 / label~e.40)
+                  :Q (v18 / label~e.41)
+                  :C (v19 / label~e.42))
+           :S (v6 / label~e.43)
+           :A (v7 / label
+                  :R (v20 / label~e.44)
+                  :S (v21 / label
+                          :E (v43 / label~e.45)
+                          :C (v44 / label~e.46))
+                  :A (v22 / label
+                          :H (v45 / label
+                                  :R (v57 / label~e.47)
+                                  :P (v58 / label
+                                          :E (v66 / label~e.48)
+                                          :C (v67 / label~e.50))
+                                  :T (v59 / label~e.49)
+                                  :A (v60 / label~e.51)
+                                  :D (v61 / label~e.52))
+                          :L (v46 / label~e.53)
+                          :H (v47 / label
+                                  :S (v62 / label)
+                                  :A (v63 / label
+                                          :E (v68 / label~e.54)
+                                          :E (v69 / label
+                                                  :A (v70 / label~e.56)
+                                                  :S (v71 / label~e.55))
+                                          :C v70)
+                                  :A v60)))))

@@ -1,0 +1,39 @@
+# ::id 250009
+# ::tok Outside of the New York stage , Hawke made an appearance in a 1995 production of Sam Shepard 's Buried Child , directed by Gary Sinise at the Steppenwolf Theater in Chicago .
+# ::alignments 0-1.1.1.1 1-1.1.1.1 3-1.1.1.3 4-1.1.1.3 5-1.1.1.4 7-1.1.3 10-1.1.4.3 11-1.1.5.7 13-1.1.5.2.2 14-1.1.5.3 15-1.1.5.4.1 16-1.1.5.4.2.2 17-1.1.5.4.2.2 18-1.1.5.4.2.3 19-1.1.5.4.3 20-1.1.5.4.3 22-1.1.5.5.2 23-1.1.5.5.3.1 24-1.1.5.5.3.2 25-1.1.5.5.3.2 26-1.1.5.5.4.1 28-1.1.5.5.4.3 29-1.1.5.5.4.4 30-1.1.5.5.4.5.1 31-1.1.5.5.4.5.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :R (v7 / label~e.0,1)
+                  :E (v8 / label~e.3,4)
+                  :C (v9 / label~e.5))
+           :A (v4 / label~e.7)
+           :P (v5 / label
+                  :C (v10 / label~e.10))
+           :A (v6 / label
+                  :E (v11 / label
+                          :P (v12 / label~e.14)
+                          :T (v16 / label~e.13))
+                  :C v12
+                  :E (v13 / label
+                          :R (v17 / label~e.15)
+                          :E (v18 / label
+                                  :A (v19 / label~e.19,20)
+                                  :A (v23 / label~e.16,17)
+                                  :S (v24 / label~e.18))
+                          :C v19)
+                  :E (v14 / label
+                          :A v12
+                          :P (v20 / label~e.22)
+                          :A (v21 / label
+                                  :R (v25 / label~e.23)
+                                  :C (v26 / label~e.24,25))
+                          :A (v22 / label
+                                  :R (v27 / label~e.26)
+                                  :E (v28 / label~e.28)
+                                  :C (v29 / label~e.29)
+                                  :E (v30 / label
+                                          :R (v31 / label~e.30)
+                                          :C (v32 / label~e.31))))
+                  :R (v15 / label~e.11))))

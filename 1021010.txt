@@ -1,0 +1,28 @@
+# ::id 1021010
+# ::tok He was referred to Dr. Steven Hoefflin , who performed Jackson 's second rhinoplasty and subsequent operations .
+# ::alignments 0-1.1.1 2-1.1.3 3-1.1.4.4 4-1.1.4.5 5-1.1.4.1 6-1.1.4.1 8-1.1.4.2.2 9-1.1.4.2.3 10-1.1.4.2.4.3.3 11-1.1.4.2.4.1.1.2 12-1.1.4.2.4.1.2 13-1.1.4.2.4.1.3 14-1.1.4.2.4.2 15-1.1.4.2.4.3.1 16-1.1.4.2.4.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :P (v4 / label~e.2)
+           :A (v5 / label
+                  :C (v6 / label~e.5,6)
+                  :E (v7 / label
+                         :A v6
+                         :R (v10 / label~e.8)
+                         :P (v11 / label~e.9)
+                         :A (v12 / label
+                                 :H (v13 / label
+                                         :A (v16 / label
+                                                 :C (v21 / label~e.10)
+                                                 :R (v22 / label~e.11))
+                                         :D (v17 / label~e.12)
+                                         :P (v18 / label~e.13))
+                                 :L (v14 / label~e.14)
+                                 :H (v15 / label
+                                         :G (v19 / label~e.15)
+                                         :P (v20 / label~e.16)
+                                         :A v21)))
+                  :R (v8 / label~e.3)
+                  :E (v9 / label~e.4))))

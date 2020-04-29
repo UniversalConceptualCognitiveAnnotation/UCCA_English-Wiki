@@ -1,0 +1,24 @@
+# ::id 215011
+# ::tok Also in 1997 , Dunst appeared in the political satire Wag the Dog , opposite Robert De Niro and Dustin Hoffman .
+# ::alignments 0-1.1 1-1.2.3.1 2-1.2.3.2 4-1.2.4 5-1.2.5 6-1.2.6.1 8-1.2.6.3.1 9-1.2.6.3.2 10-1.2.6.4 11-1.2.6.4 12-1.2.6.4 14-1.2.7.1 15-1.2.7.2.1 16-1.2.7.2.1 17-1.2.7.2.1 18-1.2.7.2.2 19-1.2.7.2.3 20-1.2.7.2.3
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :T (v4 / label
+                  :R (v9 / label~e.1)
+                  :C (v10 / label~e.2))
+           :A (v5 / label~e.4)
+           :P (v6 / label~e.5)
+           :A (v7 / label
+                  :R (v11 / label~e.6)
+                  :E (v12 / label
+                          :E (v16 / label~e.8)
+                          :C (v17 / label~e.9))
+                  :C (v13 / label~e.10,11,12))
+           :A (v8 / label
+                  :R (v14 / label~e.14)
+                  :C (v15 / label
+                          :C (v18 / label~e.15,16,17)
+                          :N (v19 / label~e.18)
+                          :C (v20 / label~e.19,20)))))

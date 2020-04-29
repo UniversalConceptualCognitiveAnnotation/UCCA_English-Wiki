@@ -1,0 +1,27 @@
+# ::id 205009
+# ::tok Hoffman was born in Los Angeles , the second son of Lillian ( née Gold ) and Harry Hoffman .
+# ::alignments 0-1.1.1 2-1.1.3 3-1.1.4.1 4-1.1.4.2 5-1.1.4.2 8-1.2.3.4 9-1.2.3.1 10-1.2.3.2.1 11-1.2.3.2.2.1.1 13-1.2.3.2.2.1.2.1 14-1.2.3.2.2.1.2.2 16-1.2.3.2.2.2 17-1.2.3.2.2.3 18-1.2.3.2.2.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label~e.0)
+           :P (v5 / label~e.2)
+           :A (v6 / label
+                  :R (v9 / label~e.3)
+                  :C (v10 / label~e.4,5)))
+    :H (v3 / label
+           :A v4
+           :S (v7 / label)
+           :A (v8 / label
+                  :C (v11 / label~e.9)
+                  :E (v12 / label
+                          :R (v14 / label~e.10)
+                          :C (v15 / label
+                                  :C (v16 / label
+                                          :C (v19 / label~e.11)
+                                          :E (v20 / label
+                                                  :E (v21 / label~e.13)
+                                                  :C (v22 / label~e.14)))
+                                  :N (v17 / label~e.16)
+                                  :C (v18 / label~e.17,18)))
+                  :Q (v13 / label~e.8))))

@@ -1,0 +1,89 @@
+# ::id 380006
+# ::tok When asked about such gossip during an interview , Gyllenhaal said : You know it 's flattering when there 's a rumor that says I 'm bisexual . It means I can play more kinds of roles . I 'm open to whatever people want to call me . I 've never really been attracted to men sexually , but I do n't think I would be afraid of it if it happened .
+# ::alignments 0-1.1 1-1.2.3 2-1.2.4.2 3-1.2.4.3 4-1.2.4.1 5-1.3 7-1.4.4 9-1.2.1 10-1.5.4 12-1.5.1.5.1 13-1.5.1.5.2 16-1.5.1.5.3.4 17-1.5.1.5.3.5.1 19-1.5.1.5.3.5.3 21-1.5.1.5.3.5.4.2 22-1.5.1.5.3.5.4.3.2 23-1.5.1.5.3.5.4.3.3 24-1.5.1.5.3.5.4.3.4.1 26-1.5.1.5.3.5.4.3.4.3 28-1.5.1.6.1 29-1.5.1.6.2 30-1.5.1.5.3.1 31-1.5.1.6.3.2 32-1.5.1.6.3.3 33-1.5.1.6.3.4.1.1 34-1.5.1.6.3.4.1.2 35-1.5.1.6.3.4.2 36-1.5.1.6.3.4.3 38-1.5.1.7.1 40-1.5.1.7.3 41-1.5.1.7.4.1 42-1.5.1.7.4.2 43-1.5.1.7.4.3 44-1.5.1.7.4.4 46-1.5.1.7.4.6 47-1.5.1.7.4.7 49-1.5.1.8.1 51-1.5.1.8.3 52-1.5.1.8.4 54-1.5.1.8.6 55-1.5.1.8.7.1 56-1.5.1.8.7.2 57-1.5.1.8.8 59-1.5.1.9 60-1.5.1.10.1 62-1.5.1.10.3 63-1.5.1.10.4 64-1.5.1.10.5.1 65-1.5.1.10.5.2 67-1.5.1.10.5.4 68-1.5.1.10.5.5.1 69-1.5.1.10.5.5.2 70-1.5.1.11 71-1.5.1.12.2 72-1.5.1.12.3
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v7 / label~e.9)
+           :A (v8 / label)
+           :P (v9 / label~e.1)
+           :A (v10 / label
+                   :C (v15 / label~e.4)
+                   :R (v16 / label~e.2)
+                   :E (v17 / label~e.3)))
+    :L (v4 / label~e.5)
+    :H (v5 / label
+           :A v7
+           :A (v11 / label)
+           :P (v12 / label~e.7))
+    :H (v6 / label
+           :A (v13 / label
+                   :H (v18 / label
+                           :A (v26 / label~e.12)
+                           :P (v27 / label~e.13)
+                           :A (v28 / label
+                                   :A (v47 / label~e.30)
+                                   :P (v48 / label~e.16)
+                                   :A (v49 / label
+                                           :R (v65 / label~e.17)
+                                           :S (v66 / label~e.19)
+                                           :A (v67 / label
+                                                   :C (v73 / label~e.21)
+                                                   :E (v74 / label
+                                                           :A v73
+                                                           :R (v77 / label~e.22)
+                                                           :P (v78 / label~e.23)
+                                                           :A (v79 / label
+                                                                   :A (v80 / label~e.24)
+                                                                   :S (v81 / label~e.26)))))))
+                   :H (v19 / label
+                           :A (v29 / label~e.28)
+                           :P (v30 / label~e.29)
+                           :A (v31 / label
+                                   :A v47
+                                   :D (v50 / label~e.31)
+                                   :P (v51 / label~e.32)
+                                   :A (v52 / label
+                                           :E (v68 / label
+                                                   :Q (v75 / label~e.33)
+                                                   :C (v76 / label~e.34))
+                                           :R (v69 / label~e.35)
+                                           :C (v70 / label~e.36))))
+                   :H (v20 / label
+                           :A (v32 / label~e.38)
+                           :S (v33 / label~e.40)
+                           :A (v34 / label
+                                   :R (v53 / label~e.41)
+                                   :A (v54 / label~e.42)
+                                   :A (v55 / label~e.43)
+                                   :D (v56 / label~e.44)
+                                   :P (v57 / label~e.46)
+                                   :A (v58 / label~e.47)))
+                   :H (v21 / label
+                           :A (v35 / label~e.49)
+                           :D (v36 / label~e.51)
+                           :D (v37 / label~e.52)
+                           :P (v38 / label~e.54)
+                           :A (v39 / label
+                                   :R (v59 / label~e.55)
+                                   :C (v60 / label~e.56))
+                           :D (v40 / label~e.57))
+                   :L (v22 / label~e.59)
+                   :H (v23 / label
+                           :A (v41 / label~e.60)
+                           :D (v42 / label~e.62)
+                           :P (v43 / label~e.63)
+                           :A (v44 / label
+                                   :A (v61 / label~e.64)
+                                   :D (v62 / label~e.65)
+                                   :S (v63 / label~e.67)
+                                   :A (v64 / label
+                                           :R (v71 / label~e.68)
+                                           :C (v72 / label~e.69))))
+                   :L (v24 / label~e.70)
+                   :H (v25 / label
+                           :A (v45 / label~e.71)
+                           :P (v46 / label~e.72)))
+           :A v7
+           :P (v14 / label~e.10)))

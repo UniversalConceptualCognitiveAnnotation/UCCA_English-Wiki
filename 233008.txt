@@ -1,0 +1,65 @@
+# ::id 233008
+# ::tok In addition , a series of Japanese Jackie Chan games were released on the MSX by Pony , based on several of his films ( Project A , Project A 2 , Police Story , The Protector and Wheels On Meals ) . Chan has always wanted to be a role model to children , remaining popular with them due to his good - natured acting style .
+# ::alignments 0-1.1.1 1-1.1.2 4-1.2.1.2 5-1.2.1.3 6-1.2.1.5 7-1.2.1.6 8-1.2.1.6 9-1.3.3 11-1.2.3 12-1.2.4.1 14-1.2.4.3 15-1.2.5.1 16-1.2.5.2 18-1.3.1 19-1.3.2.1 20-1.3.2.2 21-1.3.2.3 22-1.3.2.5.2 23-1.3.2.4 25-1.3.2.6.1 26-1.3.2.6.1 28-1.3.2.6.2 29-1.3.2.6.2 30-1.3.2.6.2 32-1.3.2.6.3 33-1.3.2.6.3 35-1.3.2.6.4 36-1.3.2.6.4 37-1.3.2.6.5 38-1.3.2.6.6 39-1.3.2.6.6 40-1.3.2.6.6 43-1.4.1 45-1.4.3 46-1.4.4 50-1.4.5.5 51-1.4.5.5 52-1.4.5.6.1 53-1.4.5.6.2 55-1.5.1 56-1.5.2 57-1.5.3.1 58-1.5.3.2 59-1.6 60-1.6 61-1.7.1 62-1.7.2.1 64-1.7.2.2 65-1.7.3 66-1.7.4
+# ::format ucca
+(v1 / label
+    :G (v2 / label
+           :R (v9 / label~e.0)
+           :C (v10 / label~e.1))
+    :H (v3 / label
+           :A (v11 / label
+                   :E (v29 / label~e.4)
+                   :R (v30 / label~e.5)
+                   :C (v17 / label~e.9)
+                   :E (v31 / label~e.6)
+                   :E (v32 / label~e.7,8))
+           :P (v12 / label~e.11)
+           :A (v13 / label
+                   :R (v33 / label~e.12)
+                   :C (v34 / label~e.14))
+           :A (v14 / label
+                   :R (v35 / label~e.15)
+                   :C (v36 / label~e.16)))
+    :H (v4 / label
+           :P (v15 / label~e.18)
+           :A (v16 / label
+                   :R (v37 / label~e.19)
+                   :Q (v38 / label~e.20)
+                   :R (v39 / label~e.21)
+                   :C (v40 / label~e.23)
+                   :E (v41 / label
+                           :A v40
+                           :A (v49 / label~e.22))
+                   :E (v42 / label
+                           :C (v50 / label~e.25,26)
+                           :C (v51 / label~e.28,29,30)
+                           :C (v52 / label~e.32,33)
+                           :C (v53 / label~e.35,36)
+                           :N (v54 / label~e.37)
+                           :C (v55 / label~e.38,39,40)))
+           :A v17)
+    :H (v5 / label
+           :A (v18 / label~e.43)
+           :D (v19 / label~e.45)
+           :P (v20 / label~e.46)
+           :A (v21 / label
+                   :A v18
+                   :S (v43 / label~e.50,51)
+                   :A (v44 / label
+                           :R (v56 / label~e.52)
+                           :C (v57 / label~e.53))))
+    :H (v6 / label
+           :D (v22 / label~e.55)
+           :P (v23 / label~e.56)
+           :A (v24 / label
+                   :R (v45 / label~e.57)
+                   :C (v46 / label~e.58))
+           :A v18)
+    :L (v7 / label~e.59,60)
+    :H (v8 / label
+           :A (v25 / label~e.61)
+           :D (v26 / label
+                   :E (v47 / label~e.62)
+                   :C (v48 / label~e.64))
+           :A (v27 / label~e.65)
+           :S (v28 / label~e.66)))

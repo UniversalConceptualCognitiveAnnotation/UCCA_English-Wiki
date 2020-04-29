@@ -1,0 +1,70 @@
+# ::id 1020000
+# ::tok In an interview with Martin Bashir , later included in the 2003 broadcast of Living with Michael Jackson , Jackson acknowledged that his father hurt him when he was a child , but was nonetheless a " genius " , as he admitted his father 's strict discipline played a huge role in his success .
+# ::alignments 0-1.1 2-1.3.5 3-1.2.3.1 4-1.2.3.2 5-1.2.3.2 7-1.3.2 8-1.3.3 9-1.3.4.1 11-1.3.4.2.2.3 12-1.3.4.2.3 13-1.3.4.3 14-1.3.4.4 15-1.3.4.4 16-1.3.4.4 17-1.3.4.4 19-1.2.1 20-1.4.2 21-1.4.3.1 22-1.4.3.2.1.1 23-1.6.3 24-1.4.3.2.2 25-1.4.3.2.3 26-1.4.3.3 27-1.4.3.4.1 28-1.4.3.4.2 30-1.4.3.4.3.2 32-1.5 34-1.7 37-1.6.2.2 40-1.8 41-1.9.1 42-1.9.2 43-1.9.3.1.1.1 44-1.9.3.1.1.2 45-1.9.3.1.1.3 46-1.9.3.1.2 47-1.9.3.1.3 50-1.9.3.2.3 51-1.9.3.2.4 52-1.9.3.3.1 53-1.9.3.4 54-1.9.3.3.2
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v11 / label~e.19)
+           :P (v12 / label
+                   :C (v18 / label~e.2))
+           :A (v13 / label
+                   :R (v26 / label~e.3)
+                   :C (v27 / label~e.4,5)))
+    :H (v4 / label
+           :A (v14 / label)
+           :T (v15 / label~e.7)
+           :P (v16 / label~e.8)
+           :A (v17 / label
+                   :R (v28 / label~e.9)
+                   :E (v29 / label
+                           :E (v41 / label
+                                   :A (v42 / label~e.12)
+                                   :P (v56 / label)
+                                   :T (v57 / label~e.11))
+                           :C v42)
+                   :R (v30 / label~e.13)
+                   :C (v31 / label~e.14,15,16,17))
+           :A v18)
+    :H (v5 / label
+           :A v11
+           :P (v19 / label~e.20)
+           :A (v20 / label
+                   :R (v32 / label~e.21)
+                   :H (v33 / label
+                           :A (v43 / label
+                                   :A (v58 / label~e.22)
+                                   :S (v22 / label~e.23))
+                           :P (v44 / label~e.24)
+                           :A (v45 / label~e.25))
+                   :L (v34 / label~e.26)
+                   :H (v35 / label
+                           :A (v46 / label~e.27)
+                           :S (v47 / label~e.28)
+                           :A (v48 / label
+                                   :C (v59 / label~e.30)))))
+    :L (v6 / label~e.32)
+    :H (v7 / label
+           :S (v21 / label
+                   :C (v36 / label~e.37))
+           :A v22)
+    :L (v8 / label~e.34)
+    :L (v9 / label~e.40)
+    :H (v10 / label
+            :A (v23 / label~e.41)
+            :P (v24 / label~e.42)
+            :A (v25 / label
+                    :A (v37 / label
+                            :A (v49 / label
+                                    :A (v60 / label~e.43)
+                                    :S (v61 / label~e.44)
+                                    :R (v62 / label~e.45))
+                            :D (v50 / label~e.46)
+                            :P (v51 / label~e.47))
+                    :D (v38 / label
+                            :E (v52 / label~e.50)
+                            :C (v53 / label~e.51))
+                    :P (v39 / label
+                            :R (v54 / label~e.52)
+                            :C (v55 / label~e.54))
+                    :A (v40 / label~e.53))))

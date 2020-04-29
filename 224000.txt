@@ -1,0 +1,35 @@
+# ::id 224000
+# ::tok In 1976 , Jackie Chan received a telegram from Willie Chan , a film producer in the Hong Kong film industry who had been impressed with Jackie 's stuntwork .
+# ::alignments 0-1.1.2.1 1-1.1.2.2 3-1.1.3 4-1.1.3 5-1.1.4 7-1.1.5.2 8-1.1.6.1 9-1.1.6.2 10-1.1.6.2 13-1.1.6.3.3 14-1.1.6.3.4 15-1.1.6.3.5.1 17-1.1.6.3.5.3 18-1.1.6.3.5.3 19-1.1.6.3.5.4 20-1.1.6.3.5.5 21-1.1.6.4.2 24-1.1.6.4.5 25-1.1.6.4.6.1 26-1.1.6.4.6.2.1 27-1.1.6.4.6.2.2 28-1.1.6.4.6.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label
+                  :R (v8 / label~e.0)
+                  :C (v9 / label~e.1))
+           :A (v4 / label~e.3,4)
+           :P (v5 / label~e.5)
+           :A (v6 / label
+                  :C (v10 / label~e.7))
+           :A (v7 / label
+                  :R (v11 / label~e.8)
+                  :C (v12 / label~e.9,10)
+                  :E (v13 / label
+                          :A v12
+                          :A (v15 / label~e.13)
+                          :P (v16 / label~e.14)
+                          :A (v17 / label
+                                  :R (v21 / label~e.15)
+                                  :E (v22 / label~e.17,18)
+                                  :E (v23 / label~e.19)
+                                  :C (v24 / label~e.20)))
+                  :E (v14 / label
+                          :A v12
+                          :R (v18 / label~e.21)
+                          :P (v19 / label~e.24)
+                          :A (v20 / label
+                                  :R (v25 / label~e.25)
+                                  :A (v26 / label
+                                          :C (v28 / label~e.26)
+                                          :R (v29 / label~e.27))
+                                  :P (v27 / label~e.28))))))

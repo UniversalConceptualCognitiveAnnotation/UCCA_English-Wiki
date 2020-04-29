@@ -1,0 +1,26 @@
+# ::id 249001
+# ::tok Hawke played Sergeant Jake Roenick , a Detroit policeman working desk duty in a rundown police station .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.2 3-1.1.3.3 4-1.1.3.3 7-1.1.3.4.2 8-1.1.3.4.3.1 9-1.1.3.4.4.2 10-1.1.3.4.4.3.1 11-1.1.3.4.4.3.2 12-1.1.3.4.4.4.1 14-1.1.3.4.4.4.3 15-1.1.3.4.4.4.4 16-1.1.3.4.4.4.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :P (v4 / label~e.1)
+           :A (v5 / label
+                  :E (v6 / label~e.2)
+                  :C (v7 / label~e.3,4)
+                  :E (v8 / label
+                         :E (v9 / label~e.7)
+                         :C (v10 / label
+                                 :A (v12 / label~e.8))
+                         :E (v11 / label
+                                 :A v10
+                                 :P (v13 / label~e.9)
+                                 :A (v14 / label
+                                         :E (v16 / label~e.10)
+                                         :C (v17 / label~e.11))
+                                 :A (v15 / label
+                                         :R (v18 / label~e.12)
+                                         :E (v19 / label~e.14)
+                                         :E (v20 / label~e.15)
+                                         :C (v21 / label~e.16)))))))

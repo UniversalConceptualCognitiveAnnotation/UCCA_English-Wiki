@@ -1,0 +1,17 @@
+# ::id 1019006
+# ::tok Michael Jackson was born on August 29 , 1958 , in Gary , Indiana .
+# ::alignments 0-1.1.2 1-1.1.2 3-1.1.4 4-1.1.5.1 5-1.1.5.2 6-1.1.5.3 8-1.1.5.4 10-1.1.6.1 11-1.1.6.2 13-1.1.6.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0,1)
+           :P (v4 / label~e.3)
+           :T (v5 / label
+                  :R (v7 / label~e.4)
+                  :C (v8 / label~e.5)
+                  :C (v9 / label~e.6)
+                  :C (v10 / label~e.8))
+           :A (v6 / label
+                  :R (v11 / label~e.10)
+                  :C (v12 / label~e.11)
+                  :C (v13 / label~e.13))))

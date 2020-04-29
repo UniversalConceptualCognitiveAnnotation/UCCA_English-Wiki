@@ -1,0 +1,29 @@
+# ::id 137008
+# ::tok She described it as " a very emotional part " and found it fascinating to work with Lean .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4.2.1 5-1.1.4.2.2.1 6-1.1.4.2.3 7-1.1.4.2.4 8-1.1.4.2.2.2 10-1.2 11-1.3.3 13-1.3.5 15-1.3.1.2 16-1.3.1.3.1 17-1.3.1.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label~e.0)
+           :P (v6 / label~e.1)
+           :A (v7 / label~e.2)
+           :A (v8 / label
+                  :S (v12 / label)
+                  :A (v13 / label
+                          :R (v16 / label~e.3)
+                          :A (v17 / label
+                                  :E (v22 / label~e.5)
+                                  :C (v23 / label~e.8))
+                          :D (v18 / label~e.6)
+                          :S (v19 / label~e.7))))
+    :L (v3 / label~e.10)
+    :H (v4 / label
+           :A (v9 / label
+                  :P (v14 / label~e.15)
+                  :A (v15 / label
+                          :R (v20 / label~e.16)
+                          :C (v21 / label~e.17))
+                  :A v5)
+           :A v5
+           :D (v10 / label~e.11)
+           :S (v11 / label~e.13)))

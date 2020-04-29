@@ -1,0 +1,26 @@
+# ::id 128009
+# ::tok It opened at the Martin Beck Theatre on December 26 , 1933 , and Hepburn was roundly panned by the critics .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.1.3.3 5-1.1.3.3 6-1.1.3.3 7-1.1.4.1 8-1.1.4.2 9-1.1.4.3 11-1.1.4.4 13-1.2 14-1.3.3 16-1.3.5 17-1.3.1 18-1.3.2.1 19-1.3.2.2 20-1.3.2.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label~e.0)
+           :P (v6 / label~e.1)
+           :A (v7 / label
+                  :R (v13 / label~e.2)
+                  :E (v14 / label~e.3)
+                  :C (v15 / label~e.4,5,6))
+           :T (v8 / label
+                  :R (v16 / label~e.7)
+                  :C (v17 / label~e.8)
+                  :C (v18 / label~e.9)
+                  :C (v19 / label~e.11)))
+    :L (v3 / label~e.13)
+    :H (v4 / label
+           :P (v9 / label~e.17)
+           :A (v10 / label
+                   :R (v20 / label~e.18)
+                   :E (v21 / label~e.19)
+                   :C (v22 / label~e.20))
+           :A (v11 / label~e.14)
+           :D (v12 / label~e.16)))

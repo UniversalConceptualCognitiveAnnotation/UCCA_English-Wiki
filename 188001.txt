@@ -1,0 +1,22 @@
+# ::id 188001
+# ::tok In 1984 , Removing All Doubt was staged for drama students at his alma mater , Syracuse University .
+# ::alignments 0-1.1.2.1 1-1.1.2.2 3-1.1.3 4-1.1.3 5-1.1.3 7-1.1.5 8-1.1.6.1 9-1.1.6.2 10-1.1.6.3 11-1.1.7.1 12-1.1.7.2.1 13-1.1.7.2.2 14-1.1.7.2.2 16-1.1.7.3 17-1.1.7.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label
+                  :R (v8 / label~e.0)
+                  :C (v9 / label~e.1))
+           :A (v4 / label~e.3,4,5)
+           :P (v5 / label~e.7)
+           :A (v6 / label
+                  :R (v10 / label~e.8)
+                  :A (v11 / label~e.9)
+                  :S (v12 / label~e.10))
+           :A (v7 / label
+                  :R (v13 / label~e.11)
+                  :E (v14 / label
+                          :E (v17 / label~e.12)
+                          :C (v18 / label~e.13,14))
+                  :E (v15 / label~e.16)
+                  :C (v16 / label~e.17))))

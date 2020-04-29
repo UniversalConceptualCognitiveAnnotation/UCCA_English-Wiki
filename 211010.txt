@@ -1,0 +1,68 @@
+# ::id 211010
+# ::tok He married attorney Lisa Hoffman ( née Gottsegen ) in October 1980 ; they have four children - Jacob Edward ( born March 20 , 1981 ) , Rebecca Lillian ( b . March 17 , 1983 ) , Maxwell Geoffrey ( born August 30 , 1984 ) , and Alexandra Lydia ( born October 27 , 1987 ) . Hoffman also has two grandchildren .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.2.1 3-1.1.3.3 4-1.1.3.3 6-1.1.3.4.1 7-1.1.3.4.2 9-1.1.4.1 10-1.1.4.2 11-1.1.4.3 13-1.2.1 15-1.2.3 16-1.2.2.2 18-1.2.4.1.1 19-1.2.4.1.1 21-1.2.4.1.2.2 22-1.2.4.1.2.3.1 23-1.2.4.1.2.3.2 25-1.2.4.1.2.3.3 28-1.2.4.2.1 29-1.2.4.2.1 31-1.2.4.2.2.2 33-1.2.4.2.2.3.1 34-1.2.4.2.2.3.2 36-1.2.4.2.2.3.3 39-1.2.4.3.1 40-1.2.4.3.1 42-1.2.4.3.2.2 43-1.2.4.3.2.3.1 44-1.2.4.3.2.3.2 46-1.2.4.3.2.3.3 49-1.2.4.4 50-1.2.4.5.1 51-1.2.4.5.1 53-1.2.4.5.2.2 54-1.2.4.5.2.3.2 55-1.2.4.5.2.3.3 57-1.2.4.5.2.3.4 60-1.3.4 61-1.3.1 63-1.3.3 64-1.3.2.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label~e.0)
+           :P (v6 / label~e.1)
+           :A (v7 / label
+                  :E (v17 / label
+                          :A (v30 / label~e.2))
+                  :C (v18 / label~e.3,4)
+                  :E (v19 / label
+                          :E (v31 / label~e.6)
+                          :C (v32 / label~e.7)))
+           :T (v8 / label
+                  :R (v20 / label~e.9)
+                  :C (v21 / label~e.10)
+                  :C (v22 / label~e.11)))
+    :H (v3 / label
+           :A (v9 / label~e.13)
+           :S (v10 / label
+                   :C (v23 / label~e.16))
+           :D (v11 / label~e.15)
+           :A (v12 / label
+                   :C (v24 / label
+                           :C (v33 / label~e.18,19)
+                           :E (v34 / label
+                                   :A v33
+                                   :P (v41 / label~e.21)
+                                   :T (v42 / label
+                                           :C (v49 / label~e.22)
+                                           :C (v50 / label~e.23)
+                                           :C (v51 / label~e.25))))
+                   :C (v25 / label
+                           :C (v35 / label~e.28,29)
+                           :E (v36 / label
+                                   :A v35
+                                   :P (v43 / label~e.31)
+                                   :T (v44 / label
+                                           :C (v52 / label~e.33)
+                                           :C (v53 / label~e.34)
+                                           :C (v54 / label~e.36))))
+                   :C (v26 / label
+                           :C (v37 / label~e.39,40)
+                           :E (v38 / label
+                                   :A v37
+                                   :P (v45 / label~e.42)
+                                   :T (v46 / label
+                                           :C (v55 / label~e.43)
+                                           :C (v56 / label~e.44)
+                                           :C (v57 / label~e.46))))
+                   :N (v27 / label~e.49)
+                   :C (v28 / label
+                           :C (v39 / label~e.50,51)
+                           :E (v40 / label
+                                   :A v39
+                                   :P (v47 / label~e.53)
+                                   :T (v48 / label
+                                           :C (v58 / label~e.54)
+                                           :C (v59 / label~e.55)
+                                           :C (v60 / label~e.57))))))
+    :H (v4 / label
+           :D (v13 / label~e.61)
+           :S (v14 / label
+                   :C (v29 / label~e.64))
+           :D (v15 / label~e.63)
+           :A (v16 / label~e.60)))

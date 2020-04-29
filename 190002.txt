@@ -1,0 +1,51 @@
+# ::id 190002
+# ::tok While writing for Castle Rock he became friends with colleagues such as William Goldman and Rob Reiner and met his future wife , Julia Bingham , who was one of Castle Rock 's business - affairs lawyers .
+# ::alignments 0-1.1 1-1.2.2 2-1.2.3.1 3-1.2.3.2 4-1.2.3.2 5-1.2.1 6-1.3.2 7-1.3.3 8-1.3.4.1 9-1.3.4.2.1 10-1.3.4.3.1 11-1.3.4.3.1 12-1.3.4.3.2.1 13-1.3.4.3.2.1 14-1.3.4.3.2.2 15-1.3.4.3.2.3 16-1.3.4.3.2.3 17-1.4 18-1.5.2 19-1.5.3.1.1 20-1.5.3.1.2 21-1.5.3.1.3 23-1.5.3.2 24-1.5.3.2 26-1.5.3.3.2 27-1.5.3.3.3 28-1.5.3.3.4.1 29-1.5.3.3.4.2.1 30-1.5.3.3.4.2.2.1 31-1.5.3.3.4.2.2.1 32-1.5.3.3.4.2.2.2 33-1.5.3.3.4.2.3.1 35-1.5.3.3.4.2.3.2 36-1.5.3.3.4.2.4
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v7 / label~e.5)
+           :P (v8 / label~e.1)
+           :A (v9 / label
+                  :R (v15 / label~e.2)
+                  :C (v16 / label~e.3,4)))
+    :H (v4 / label
+           :A v7
+           :D (v10 / label~e.6)
+           :S (v11 / label~e.7)
+           :A (v12 / label
+                   :R (v17 / label~e.8)
+                   :C (v18 / label
+                           :S (v23 / label~e.9))
+                   :E (v19 / label
+                           :R (v24 / label~e.10,11)
+                           :C (v25 / label
+                                   :C (v32 / label~e.12,13)
+                                   :N (v33 / label~e.14)
+                                   :C (v34 / label~e.15,16)))))
+    :L (v5 / label~e.17)
+    :H (v6 / label
+           :A v7
+           :P (v13 / label~e.18)
+           :A (v14 / label
+                   :E (v20 / label
+                           :A (v26 / label~e.19)
+                           :T (v27 / label~e.20)
+                           :A (v28 / label~e.21))
+                   :C (v21 / label~e.23,24)
+                   :E (v22 / label
+                           :A v21
+                           :R (v29 / label~e.26)
+                           :S (v30 / label~e.27)
+                           :A (v31 / label
+                                   :Q (v35 / label~e.28)
+                                   :C (v36 / label
+                                           :R (v37 / label~e.29)
+                                           :A (v38 / label
+                                                   :C (v41 / label~e.30,31)
+                                                   :R (v42 / label~e.32))
+                                           :A (v39 / label
+                                                   :C (v43 / label~e.33)
+                                                   :E (v44 / label~e.35))
+                                           :P (v40 / label~e.36)))))))

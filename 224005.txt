@@ -1,0 +1,38 @@
+# ::id 224005
+# ::tok Chan 's first major breakthrough was the 1978 film Snake in the Eagle 's Shadow , shot while he was loaned to Seasonal Film Corporation under a two - picture deal .
+# ::alignments 0-1.1.1.1.1 1-1.1.1.1.2 2-1.1.1.2 3-1.1.1.3 4-1.1.1.4 5-1.1.2 7-1.1.3.5.3 8-1.1.3.6 9-1.1.3.1 10-1.1.3.1 11-1.1.3.1 12-1.1.3.1 13-1.1.3.1 14-1.1.3.1 16-1.1.3.2.1.2 17-1.1.3.2.2 18-1.1.3.2.3.1 20-1.1.3.2.3.3 21-1.1.3.2.3.4.1 22-1.1.3.2.3.4.2 23-1.1.3.2.3.4.2 24-1.1.3.2.3.4.2 25-1.1.3.2.3.5.1 27-1.1.3.2.3.5.3.1 29-1.1.3.2.3.5.3.2 30-1.1.3.2.3.5.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :A (v6 / label
+                         :C (v14 / label~e.0)
+                         :R (v15 / label~e.1))
+                  :D (v7 / label~e.2)
+                  :D (v8 / label~e.3)
+                  :P (v9 / label~e.4))
+           :S (v4 / label~e.5)
+           :A (v5 / label
+                  :C (v10 / label~e.9,10,11,12,13,14)
+                  :E (v11 / label
+                          :H (v16 / label
+                                  :A v10
+                                  :P (v21 / label~e.16))
+                          :L (v17 / label~e.17)
+                          :H (v18 / label
+                                  :A (v22 / label~e.18)
+                                  :P (v23 / label~e.20)
+                                  :A (v24 / label
+                                          :R (v26 / label~e.21)
+                                          :C (v27 / label~e.22,23,24))
+                                  :A (v25 / label
+                                          :R (v28 / label~e.25)
+                                          :E (v29 / label
+                                                  :Q (v31 / label~e.27)
+                                                  :C (v32 / label~e.29))
+                                          :C (v30 / label~e.30))))
+                  :E (v12 / label
+                          :A v10
+                          :P (v19 / label)
+                          :T (v20 / label~e.7))
+                  :E (v13 / label~e.8))))

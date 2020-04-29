@@ -1,0 +1,26 @@
+# ::id 139008
+# ::tok She did not work again until 1967 's Guess Who 's Coming to Dinner , her ninth film with Tracy .
+# ::alignments 0-1.1.1 2-1.1.3 3-1.1.4 4-1.1.5 5-1.1.6.1 6-1.1.6.2.3.1 7-1.1.6.2.3.2 8-1.1.6.3 9-1.1.6.3 10-1.1.6.3 11-1.1.6.3 12-1.1.6.3 13-1.1.6.3 15-1.1.6.4.1 16-1.1.6.4.2 17-1.1.6.4.3 18-1.1.6.4.4.1 19-1.1.6.4.4.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :D (v4 / label~e.2)
+           :P (v5 / label~e.3)
+           :D (v6 / label~e.4)
+           :A (v7 / label
+                  :R (v8 / label~e.5)
+                  :E (v9 / label
+                         :A (v10 / label~e.8,9,10,11,12,13)
+                         :P (v12 / label)
+                         :T (v13 / label
+                                 :C (v18 / label~e.6)
+                                 :R (v19 / label~e.7)))
+                  :C v10
+                  :E (v11 / label
+                          :E (v14 / label~e.15)
+                          :Q (v15 / label~e.16)
+                          :C (v16 / label~e.17)
+                          :E (v17 / label
+                                  :R (v20 / label~e.18)
+                                  :C (v21 / label~e.19))))))

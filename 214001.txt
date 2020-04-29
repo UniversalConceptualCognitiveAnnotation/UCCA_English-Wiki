@@ -1,0 +1,46 @@
+# ::id 214001
+# ::tok In 1991 , her parents separated , and she subsequently moved with her mother and younger brother to Los Angeles , California , where she attended Laurel Hall School in North Hollywood .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.1.2.1 4-1.1.2.2 5-1.1.3 7-1.2 8-1.3.3 9-1.3.4 10-1.3.5 11-1.3.1.1 12-1.3.1.2.1.1 13-1.3.1.2.1.2 14-1.3.1.2.2 15-1.3.1.2.3.1 16-1.3.1.2.3.2 17-1.3.2.1 18-1.3.2.2.1 19-1.3.2.2.1 21-1.3.2.2.2 23-1.3.2.3.2 24-1.3.2.3.3 25-1.3.2.3.4 26-1.3.2.3.5.1 27-1.3.2.3.5.1 28-1.3.2.3.5.2 29-1.3.2.3.5.3.1 30-1.3.2.3.5.3.2 31-1.3.2.3.5.3.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v5 / label
+                  :R (v13 / label~e.0)
+                  :C (v14 / label~e.1))
+           :A (v6 / label
+                  :A (v15 / label~e.3)
+                  :A (v16 / label~e.4))
+           :P (v7 / label~e.5))
+    :L (v3 / label~e.7)
+    :H (v4 / label
+           :A (v8 / label
+                  :R (v17 / label~e.11)
+                  :C (v18 / label
+                          :C (v22 / label
+                                  :A (v31 / label~e.12)
+                                  :A (v32 / label~e.13))
+                          :N (v23 / label~e.14)
+                          :C (v24 / label
+                                  :D (v33 / label~e.15)
+                                  :A (v34 / label~e.16)
+                                  :A v31)))
+           :A (v9 / label
+                  :R (v19 / label~e.17)
+                  :C (v20 / label
+                          :C (v25 / label~e.18,19)
+                          :C (v26 / label~e.21))
+                  :E (v21 / label
+                          :A v20
+                          :R (v27 / label~e.23)
+                          :A (v28 / label~e.24)
+                          :P (v29 / label~e.25)
+                          :A (v30 / label
+                                  :E (v35 / label~e.26,27)
+                                  :C (v36 / label~e.28)
+                                  :E (v37 / label
+                                          :R (v38 / label~e.29)
+                                          :E (v39 / label~e.30)
+                                          :C (v40 / label~e.31)))))
+           :A (v10 / label~e.8)
+           :D (v11 / label~e.9)
+           :P (v12 / label~e.10)))

@@ -1,0 +1,64 @@
+# ::id 184002
+# ::tok She auditioned for admission to Eva LeGallienne 's Manhattan Civic Repertory , but was rejected by LeGallienne who described her attitude as " insincere " and " frivolous " . She was accepted by the John Murray Anderson School of Theatre , and studied dance with Martha Graham .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.2.1 3-1.1.3.2.2 4-1.1.3.3.1 5-1.1.3.3.2.2 6-1.1.3.3.2.2 7-1.1.3.3.2.3 8-1.1.3.3.3 9-1.1.3.3.3 10-1.1.3.3.3 12-1.2 14-1.3.2 15-1.3.3.1 16-1.3.3.2 17-1.3.3.3.2 18-1.3.3.3.3 19-1.3.3.3.4.1 20-1.3.3.3.4.2 21-1.3.3.3.5.2.1 23-1.3.3.3.5.2.2 25-1.3.3.3.5.1 27-1.3.3.3.5.3.1 30-1.4.1 32-1.4.3 33-1.4.4.1 35-1.4.4.3.3 36-1.4.4.3.3 37-1.4.4.3.3 38-1.4.4.4 39-1.4.4.5 40-1.4.4.6 42-1.5 43-1.6.1 44-1.6.2 45-1.6.3.1 46-1.6.3.2 47-1.6.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v8 / label~e.0)
+           :P (v9 / label~e.1)
+           :A (v10 / label
+                   :A v8
+                   :P (v19 / label
+                           :R (v31 / label~e.2)
+                           :C (v32 / label~e.3))
+                   :A (v20 / label
+                           :R (v33 / label~e.4)
+                           :E (v34 / label
+                                   :A (v35 / label~e.8,9,10)
+                                   :A (v42 / label~e.5,6)
+                                   :S (v43 / label~e.7))
+                           :C v35)))
+    :L (v3 / label~e.12)
+    :H (v4 / label
+           :P (v11 / label~e.14)
+           :A (v12 / label
+                   :R (v21 / label~e.15)
+                   :C (v22 / label~e.16)
+                   :E (v23 / label
+                           :A v22
+                           :R (v36 / label~e.17)
+                           :P (v37 / label~e.18)
+                           :A (v38 / label
+                                   :A (v44 / label~e.19)
+                                   :S (v45 / label~e.20))
+                           :A (v39 / label
+                                   :L (v46 / label~e.25)
+                                   :H (v47 / label
+                                           :R (v49 / label~e.21)
+                                           :S (v50 / label~e.23)
+                                           :A v45)
+                                   :H (v48 / label
+                                           :S (v51 / label~e.27)
+                                           :R v49
+                                           :A v45))))
+           :A v8)
+    :H (v5 / label
+           :A (v13 / label~e.30)
+           :P (v14 / label~e.32)
+           :A (v15 / label
+                   :R (v24 / label~e.33)
+                   :E (v25 / label
+                           :A (v26 / label~e.38)
+                           :S (v40 / label)
+                           :A (v41 / label~e.35,36,37))
+                   :C v26
+                   :R (v27 / label~e.39)
+                   :E (v28 / label~e.40)))
+    :L (v6 / label~e.42)
+    :H (v7 / label
+           :P (v16 / label~e.43)
+           :A (v17 / label~e.44)
+           :A (v18 / label
+                   :R (v29 / label~e.45)
+                   :C (v30 / label~e.46,47))
+           :A v13))

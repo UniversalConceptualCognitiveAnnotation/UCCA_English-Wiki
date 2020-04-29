@@ -1,0 +1,69 @@
+# ::id 247009
+# ::tok Variety wrote that Hawke 's part " shows signs of coming to new life as a screen actor after somnolent turns in the likes of Snow Falling on Cedars . Hawke adds feisty and cunning flourishes to his part that allow him to respectably hold his own under formidable circumstances . "
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.9 3-1.1.3.2.4 4-1.1.3.10.1.1.2 5-1.1.3.10.1.2 7-1.1.3.10.2 8-1.1.3.10.3.1.1 9-1.1.3.10.3.1.2 10-1.1.3.10.3.2.1 11-1.1.3.10.3.2.2.1 12-1.1.3.10.3.2.2.2 13-1.1.3.10.3.2.2.3 14-1.1.3.10.3.2.3.1.1 16-1.1.3.10.3.2.3.1.3 17-1.1.3.10.3.2.3.1.4 18-1.1.3.1 19-1.1.3.2.1 20-1.1.3.2.2 21-1.1.3.2.3.1 23-1.1.3.2.3.2.2 24-1.1.3.2.3.2.3 25-1.1.3.2.3.3 26-1.1.3.2.3.3 27-1.1.3.2.3.3 28-1.1.3.2.3.3 30-1.1.3.3.1 31-1.1.3.3.2 32-1.1.3.3.3.1.1 33-1.1.3.3.3.1.2 34-1.1.3.3.3.1.3 35-1.1.3.3.3.2 36-1.1.3.3.4.1 37-1.1.3.3.4.2 38-1.1.3.3.4.3 39-1.1.3.4 40-1.1.3.5.2 41-1.1.3.5.3 43-1.1.3.5.5 44-1.1.3.5.6 45-1.1.3.5.6 46-1.1.3.5.6 47-1.1.3.6 48-1.1.3.7.1 49-1.1.3.7.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :P (v4 / label~e.1)
+           :A (v5 / label
+                  :L (v6 / label~e.18)
+                  :H (v7 / label
+                         :D (v15 / label~e.19)
+                         :P (v16 / label~e.20)
+                         :A (v17 / label
+                                 :R (v33 / label~e.21)
+                                 :E (v34 / label
+                                         :C (v45 / label~e.23)
+                                         :R (v46 / label~e.24))
+                                 :C (v35 / label~e.25,26,27,28))
+                         :A (v18 / label~e.3))
+                  :H (v8 / label
+                         :A (v19 / label~e.30)
+                         :P (v20 / label~e.31)
+                         :A (v21 / label
+                                 :E (v36 / label
+                                         :C (v47 / label~e.32)
+                                         :N (v48 / label~e.33)
+                                         :C (v49 / label~e.34))
+                                 :C (v37 / label~e.35))
+                         :A (v22 / label
+                                 :R (v38 / label~e.36)
+                                 :A (v39 / label~e.37)
+                                 :P (v40 / label~e.38)))
+                  :L (v9 / label~e.39)
+                  :H (v10 / label
+                          :A (v23 / label)
+                          :D (v24 / label~e.40)
+                          :A (v25 / label~e.41)
+                          :D (v26 / label~e.43)
+                          :P (v27 / label~e.44,45,46))
+                  :L (v11 / label~e.47)
+                  :H (v12 / label
+                          :S (v28 / label~e.48)
+                          :A (v29 / label~e.49))
+                  :R (v13 / label~e.2)
+                  :H (v14 / label
+                          :A (v30 / label
+                                  :A (v41 / label
+                                          :C v18
+                                          :R (v50 / label~e.4))
+                                  :P (v42 / label~e.5))
+                          :P (v31 / label~e.7)
+                          :A (v32 / label
+                                  :E (v43 / label
+                                          :C (v51 / label~e.8)
+                                          :R (v52 / label~e.9))
+                                  :C (v44 / label
+                                          :P (v53 / label~e.10)
+                                          :A (v54 / label
+                                                  :R (v56 / label~e.11)
+                                                  :E (v57 / label~e.12)
+                                                  :C (v58 / label~e.13))
+                                          :A (v55 / label
+                                                  :E (v59 / label
+                                                          :R (v60 / label~e.14)
+                                                          :A (v61 / label~e.16)
+                                                          :P (v62 / label~e.17)
+                                                          :A v18)
+                                                  :C v18)))))))
