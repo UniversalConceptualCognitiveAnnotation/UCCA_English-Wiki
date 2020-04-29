@@ -1,0 +1,94 @@
+# ::id 495006
+# ::tok His new manager , Ralph Horton , later instrumental in his transition to solo artist , soon witnessed Bowie 's move to yet another group , the Buzz , yielding the singer 's fifth unsuccessful single release , " Do Anything You Say " . While with the Buzz , Bowie also joined the Riot Squad ; their recordings , which included a Bowie number and Velvet Underground material , went unreleased .
+# ::alignments 0-1.1.2.1.2.1 1-1.1.2.1.2.2 2-1.1.2.1.2.3 4-1.1.2.1.3 5-1.1.2.1.3 7-1.1.2.2 8-1.1.2.3 9-1.1.2.4.1 10-1.1.2.4.2 11-1.1.2.4.3 12-1.1.2.4.4.2 13-1.1.2.4.4.3 14-1.1.2.4.4.4 16-1.1.3 17-1.1.4 18-1.1.5.1.1 19-1.1.5.1.2 20-1.1.5.2 21-1.1.5.3.2 22-1.1.5.3.3.1.1 23-1.1.5.3.3.1.2 24-1.1.5.3.3.2 26-1.1.5.3.4 27-1.1.5.3.5 29-1.2.1 30-1.2.2.3.1.1.1 31-1.2.2.3.1.1.2 32-1.2.2.3.1.2 33-1.2.2.3.2 34-1.2.2.3.3 35-1.2.2.3.4 36-1.2.2.3.5 39-1.2.2.4 40-1.2.2.4 41-1.2.2.4 42-1.2.2.4 45-1.3 46-1.4.3 47-1.4.4.1 48-1.4.4.2 50-1.4.2 51-1.5.2 52-1.5.3 53-1.5.4.1 54-1.5.4.2 55-1.5.4.2 57-1.6.3.2.2 58-1.6.3.3 60-1.6.3.4.2 61-1.6.3.4.3 62-1.6.3.4.4.1.1 63-1.6.3.4.4.1.2.3 64-1.6.3.4.4.1.3 65-1.6.3.4.4.2 66-1.6.3.4.4.3.1.3 67-1.6.3.4.4.3.1.3 68-1.6.3.4.4.3.2 71-1.6.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v8 / label
+                  :A (v22 / label
+                          :E (v38 / label
+                                  :A (v59 / label~e.0)
+                                  :D (v60 / label~e.1)
+                                  :S (v61 / label~e.2))
+                          :C (v39 / label~e.4,5))
+                  :T (v23 / label~e.7)
+                  :P (v24 / label~e.8)
+                  :A (v25 / label
+                          :R (v40 / label~e.9)
+                          :A (v41 / label~e.10)
+                          :P (v42 / label~e.11)
+                          :A (v43 / label
+                                  :A v41
+                                  :R (v62 / label~e.12)
+                                  :D (v63 / label~e.13)
+                                  :P (v64 / label~e.14))))
+           :T (v9 / label~e.16)
+           :P (v10 / label~e.17)
+           :A (v11 / label
+                   :A (v26 / label
+                           :C (v44 / label~e.18)
+                           :R (v45 / label~e.19))
+                   :P (v27 / label~e.20)
+                   :A (v28 / label
+                           :R (v46 / label~e.21)
+                           :E (v47 / label
+                                   :E (v65 / label
+                                           :E (v72 / label~e.22)
+                                           :C (v73 / label~e.23))
+                                   :C (v66 / label~e.24))
+                           :E (v48 / label~e.26)
+                           :C (v49 / label~e.27))))
+    :H (v3 / label
+           :P (v12 / label~e.29)
+           :A (v13 / label
+                   :E (v29 / label
+                           :A (v50 / label
+                                   :A (v67 / label
+                                           :E (v74 / label~e.30)
+                                           :C (v75 / label~e.31))
+                                   :R (v68 / label~e.32))
+                           :D (v51 / label~e.33)
+                           :D (v52 / label~e.34)
+                           :A (v53 / label~e.35)
+                           :P (v54 / label~e.36))
+                   :C (v30 / label~e.39,40,41,42)))
+    :L (v4 / label~e.45)
+    :H (v5 / label
+           :A (v14 / label~e.50)
+           :S (v15 / label~e.46)
+           :A (v16 / label
+                   :E (v31 / label~e.47)
+                   :C (v32 / label~e.48)))
+    :H (v6 / label
+           :A v14
+           :D (v17 / label~e.51)
+           :P (v18 / label~e.52)
+           :A (v19 / label
+                   :E (v33 / label~e.53)
+                   :C (v34 / label~e.54,55)))
+    :H (v7 / label
+           :A (v20 / label
+                   :E (v35 / label
+                           :A (v36 / label~e.58)
+                           :A (v55 / label~e.57))
+                   :C v36
+                   :E (v37 / label
+                           :A v36
+                           :R (v56 / label~e.60)
+                           :S (v57 / label~e.61)
+                           :A (v58 / label
+                                   :C (v69 / label
+                                           :E (v76 / label~e.62)
+                                           :E (v77 / label
+                                                   :A (v78 / label~e.64)
+                                                   :S (v81 / label)
+                                                   :A (v82 / label~e.63))
+                                           :C v78)
+                                   :N (v70 / label~e.65)
+                                   :C (v71 / label
+                                           :E (v79 / label
+                                                   :A (v80 / label~e.68)
+                                                   :S (v83 / label)
+                                                   :A (v84 / label~e.66,67))
+                                           :C v80))))
+           :P (v21 / label~e.71)))

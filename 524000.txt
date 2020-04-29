@@ -1,0 +1,41 @@
+# ::id 524000
+# ::tok In 1938 , aged 16 , she was cast as Dorothy Gale in The Wizard of Oz ( 1939 ) , a film based on the children 's book by L. Frank Baum .
+# ::alignments 0-1.1.6.1 1-1.1.6.2 3-1.2.3 4-1.2.4 6-1.1.1 8-1.1.3 9-1.1.4.1 10-1.1.4.2 11-1.1.4.2 12-1.1.5.1 13-1.1.5.2 14-1.1.5.2 15-1.1.5.2 16-1.1.5.2 18-1.1.5.3.3 22-1.1.5.4.2 23-1.1.5.4.3.2 24-1.1.5.4.3.3.1 26-1.1.5.4.3.3.3.2 27-1.1.5.4.3.3.3.3 28-1.1.5.4.3.3.4 29-1.1.5.4.3.3.5.2 30-1.1.5.4.3.3.5.3 31-1.1.5.4.3.3.5.3 32-1.1.5.4.3.3.5.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label~e.6)
+           :P (v5 / label~e.8)
+           :A (v6 / label
+                  :R (v11 / label~e.9)
+                  :C (v12 / label~e.10,11))
+           :A (v7 / label
+                  :R (v13 / label~e.12)
+                  :C (v14 / label~e.13,14,15,16)
+                  :E (v15 / label
+                          :A v14
+                          :P (v19 / label)
+                          :T (v20 / label~e.18))
+                  :E (v16 / label
+                          :C (v21 / label~e.22)
+                          :E (v22 / label
+                                  :A v21
+                                  :S (v23 / label~e.23)
+                                  :A (v24 / label
+                                          :R (v25 / label~e.24)
+                                          :E (v26 / label
+                                                  :A (v27 / label~e.28)
+                                                  :A (v29 / label~e.26)
+                                                  :S (v30 / label~e.27))
+                                          :C v27
+                                          :E (v28 / label
+                                                  :A v27
+                                                  :S (v31 / label~e.29)
+                                                  :A (v32 / label~e.30,31,32))))))
+           :T (v8 / label
+                  :R (v17 / label~e.0)
+                  :C (v18 / label~e.1)))
+    :H (v3 / label
+           :A v4
+           :S (v9 / label~e.3)
+           :T (v10 / label~e.4)))

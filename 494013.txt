@@ -1,0 +1,32 @@
+# ::id 494013
+# ::tok Frustrated by his band - mates ' limited aspirations , Bowie left the Konrads and joined another band , the King Bees .
+# ::alignments 0-1.1.2 1-1.1.3.1 2-1.1.3.2.2 3-1.1.3.2.3 5-1.1.3.2.4 7-1.1.3.3 8-1.1.3.4 10-1.1.1 11-1.2.2 12-1.2.3.1 13-1.2.3.2 14-1.3 15-1.4.2 16-1.4.3.5.1 17-1.4.3.5.2 19-1.4.3.1 20-1.4.3.2 21-1.4.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label~e.10)
+           :P (v7 / label~e.0)
+           :A (v8 / label
+                  :R (v13 / label~e.1)
+                  :A (v14 / label
+                          :A (v22 / label~e.2)
+                          :A (v23 / label~e.3)
+                          :S (v24 / label~e.5))
+                  :D (v15 / label~e.7)
+                  :S (v16 / label~e.8)))
+    :H (v3 / label
+           :A v6
+           :P (v9 / label~e.11)
+           :A (v10 / label
+                   :E (v17 / label~e.12)
+                   :C (v18 / label~e.13)))
+    :L (v4 / label~e.14)
+    :H (v5 / label
+           :A v6
+           :P (v11 / label~e.15)
+           :A (v12 / label
+                   :E (v19 / label~e.19)
+                   :C (v20 / label~e.20,21)
+                   :E (v21 / label
+                           :E (v25 / label~e.16)
+                           :C (v26 / label~e.17)))))

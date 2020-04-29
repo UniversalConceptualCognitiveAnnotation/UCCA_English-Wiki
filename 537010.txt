@@ -1,0 +1,35 @@
+# ::id 537010
+# ::tok After two arduous years in Canada , Benjamin and Pearl Warner returned to Baltimore , bringing along their growing family .
+# ::alignments 0-1.1 1-1.2.1 2-1.2.2 3-1.2.3 4-1.2.4.1 5-1.2.4.2 7-1.3.1.1.1 8-1.3.1.1.2 9-1.3.1.1.3 10-1.3.1.2 11-1.3.2 12-1.3.3.1 13-1.3.3.2 15-1.4.4 16-1.4.1 17-1.4.2.1.1 18-1.4.2.2.1 19-1.4.2.1.2
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :D (v6 / label~e.1)
+           :D (v7 / label~e.2)
+           :S (v8 / label~e.3)
+           :A (v9 / label
+                  :R (v16 / label~e.4)
+                  :C (v17 / label~e.5)))
+    :H (v4 / label
+           :A (v10 / label
+                   :C (v18 / label
+                           :C (v24 / label~e.7)
+                           :N (v25 / label~e.8)
+                           :C (v26 / label~e.9))
+                   :C (v19 / label~e.10))
+           :P (v11 / label~e.11)
+           :A (v12 / label
+                   :R (v20 / label~e.12)
+                   :C (v21 / label~e.13)))
+    :H (v5 / label
+           :D (v13 / label~e.16)
+           :A (v14 / label
+                   :C (v22 / label
+                           :A (v27 / label~e.17)
+                           :A (v28 / label~e.19))
+                   :E (v23 / label
+                           :P (v29 / label~e.18)
+                           :A v28))
+           :A v10
+           :P (v15 / label~e.15)))

@@ -1,0 +1,87 @@
+# ::id 558001
+# ::tok As they were about to give up and go home , Presley took his guitar and launched into a 1946 blues number , Arthur Crudup 's " That 's All Right " . Moore recalled , " All of a sudden , Elvis just started singing this song , jumping around and acting the fool , and then Bill picked up his bass , and he started acting the fool , too , and I started playing with them .
+# ::alignments 0-1.1 1-1.2.1 3-1.2.3 4-1.2.3 5-1.2.4 6-1.2.4 7-1.3 8-1.4.1 9-1.4.1 11-1.5.1 12-1.5.2 13-1.5.3.1.2 14-1.5.3.2 15-1.6 16-1.7.1 17-1.7.2.1 18-1.7.2.2.1 19-1.7.2.2.2.3 20-1.7.2.2.3 21-1.7.2.2.4 23-1.7.2.3.2 24-1.7.2.3.2 25-1.7.2.3.3 27-1.7.2.4 28-1.7.2.4 29-1.7.2.4 30-1.7.2.4 33-1.8.1 34-1.8.2 37-1.8.3.3.1 38-1.8.3.3.1 39-1.8.3.3.1 40-1.8.3.3.1 42-1.8.3.3.2 43-1.8.3.3.3 44-1.8.3.3.4 45-1.8.3.3.5 46-1.8.3.3.6.1 47-1.8.3.3.6.2 49-1.8.3.4.1 50-1.8.3.4.1 51-1.8.3.5 52-1.8.3.6.1 53-1.8.3.6.1 54-1.8.3.6.1 56-1.8.3.7 57-1.8.3.8 58-1.8.3.9.1 59-1.8.3.9.2 60-1.8.3.9.2 61-1.8.3.9.3.1.2 62-1.8.3.9.3.2 64-1.8.3.10 65-1.8.3.11.2.1 66-1.8.3.11.3 67-1.8.3.11.4 68-1.8.3.11.4 69-1.8.3.11.4 71-1.8.3.11.2.2 73-1.8.3.12 74-1.8.3.13.1 75-1.8.3.13.2 76-1.8.3.13.3 77-1.8.3.13.4.2 78-1.8.3.13.4.3
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v10 / label~e.1)
+           :D (v11 / label~e.3,4)
+           :P (v12 / label~e.5,6))
+    :L (v4 / label~e.7)
+    :H (v5 / label
+           :P (v13 / label~e.8,9)
+           :A v10
+           :D v11)
+    :H (v6 / label
+           :A (v14 / label~e.11)
+           :P (v15 / label~e.12)
+           :A (v16 / label
+                   :E (v22 / label
+                           :A (v23 / label~e.14)
+                           :S (v39 / label~e.13))
+                   :C v23))
+    :L (v7 / label~e.15)
+    :H (v8 / label
+           :P (v17 / label~e.16)
+           :A (v18 / label
+                   :R (v24 / label~e.17)
+                   :E (v25 / label
+                           :E (v40 / label~e.18)
+                           :E (v41 / label
+                                   :A (v27 / label~e.27,28,29,30)
+                                   :P (v64 / label)
+                                   :T (v65 / label~e.19))
+                           :E (v42 / label~e.20)
+                           :C (v43 / label~e.21))
+                   :E (v26 / label
+                           :A v27
+                           :A (v44 / label~e.23,24)
+                           :P (v45 / label~e.25))
+                   :C v27)
+           :A v14)
+    :H (v9 / label
+           :A (v19 / label~e.33)
+           :P (v20 / label~e.34)
+           :A (v21 / label
+                   :H (v28 / label
+                           :G (v46 / label~e.37,38,39,40)
+                           :A (v47 / label~e.42)
+                           :D (v48 / label~e.43)
+                           :D (v49 / label~e.44)
+                           :P (v50 / label~e.45)
+                           :A (v51 / label
+                                   :E (v66 / label~e.46)
+                                   :C (v67 / label~e.47)))
+                   :H (v29 / label
+                           :P (v52 / label~e.49,50)
+                           :A v47)
+                   :L (v30 / label~e.51)
+                   :H (v31 / label
+                           :P (v53 / label~e.52,53,54)
+                           :A v47)
+                   :L (v32 / label~e.56)
+                   :L (v33 / label~e.57)
+                   :H (v34 / label
+                           :A (v54 / label~e.58)
+                           :P (v55 / label~e.59,60)
+                           :A (v56 / label
+                                   :E (v68 / label
+                                           :A (v69 / label~e.62)
+                                           :S (v74 / label~e.61))
+                                   :C v69))
+                   :L (v35 / label~e.64)
+                   :H (v36 / label
+                           :A (v57 / label
+                                   :C (v70 / label~e.65)
+                                   :E (v71 / label~e.71))
+                           :D (v58 / label~e.66)
+                           :P (v59 / label~e.67,68,69))
+                   :L (v37 / label~e.73)
+                   :H (v38 / label
+                           :A (v60 / label~e.74)
+                           :D (v61 / label~e.75)
+                           :P (v62 / label~e.76)
+                           :A (v63 / label
+                                   :R (v72 / label~e.77)
+                                   :C (v73 / label~e.78))))))

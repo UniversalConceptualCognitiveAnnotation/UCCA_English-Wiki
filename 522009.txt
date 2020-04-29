@@ -1,0 +1,57 @@
+# ::id 522009
+# ::tok During her early years at the studio , she was photographed and dressed in plain garments or frilly juvenile gowns and costumes to match the " girl next door " image that was created for her .
+# ::alignments 0-1.1 1-1.2.2 2-1.2.3.1 3-1.2.3.2 4-1.2.4.1 6-1.2.4.3 8-1.5.1 10-1.6.4 11-1.3 12-1.7.1 13-1.6.5.1 14-1.6.5.2.1.1 15-1.6.5.2.1.2 16-1.6.5.2.2 17-1.6.5.2.3.1 18-1.6.5.2.3.2 19-1.6.5.2.3.3.1 20-1.6.5.2.3.3.2 21-1.6.5.2.3.3.3 22-1.4 23-1.5.2 26-1.5.3.2 27-1.5.3.3.1 28-1.5.3.3.2 30-1.5.3.4 31-1.5.3.5.3 33-1.5.3.5.5 34-1.5.3.5.6.1 35-1.5.3.5.6.2
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :P (v9 / label)
+           :A (v10 / label~e.1)
+           :T (v11 / label
+                   :E (v20 / label~e.2)
+                   :C (v21 / label~e.3))
+           :A (v12 / label
+                   :R (v22 / label~e.4)
+                   :C (v23 / label~e.6)))
+    :L (v4 / label~e.11)
+    :L (v5 / label~e.22)
+    :H (v6 / label
+           :A (v13 / label~e.8)
+           :S (v14 / label~e.23)
+           :A (v15 / label
+                   :C (v24 / label~e.26)
+                   :E (v25 / label
+                           :E (v30 / label~e.27)
+                           :C (v31 / label~e.28))
+                   :E (v26 / label~e.30)
+                   :E (v27 / label
+                           :A v24
+                           :A (v32 / label)
+                           :R (v33 / label~e.31)
+                           :P (v34 / label~e.33)
+                           :A (v35 / label
+                                   :R (v39 / label~e.34)
+                                   :C (v40 / label~e.35)))))
+    :H (v7 / label
+           :A (v16 / label)
+           :A v13
+           :P (v17 / label~e.10)
+           :A (v18 / label
+                   :R (v28 / label~e.13)
+                   :C (v29 / label
+                           :C (v36 / label
+                                   :E (v41 / label~e.14)
+                                   :C (v42 / label~e.15))
+                           :N (v37 / label~e.16)
+                           :C (v38 / label
+                                   :E (v43 / label~e.17)
+                                   :E (v44 / label~e.18)
+                                   :C (v45 / label
+                                           :C (v46 / label~e.19)
+                                           :N (v47 / label~e.20)
+                                           :C (v48 / label~e.21))))))
+    :H (v8 / label
+           :P (v19 / label~e.12)
+           :A v16
+           :A v13
+           :A v18))

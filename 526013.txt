@@ -1,0 +1,24 @@
+# ::id 526013
+# ::tok These , in combination with migraine headaches , led her to miss several shooting days in a row .
+# ::alignments 0-1.1.4.1 2-1.1.4.2.1 3-1.1.4.2.2 4-1.1.4.2.3 5-1.1.4.3.1 6-1.1.4.3.2 8-1.1.5 9-1.1.6 11-1.1.8 12-1.1.9.1 13-1.1.9.2.1 14-1.1.9.3 15-1.1.1 16-1.1.1 17-1.1.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label~e.15,16,17)
+           :A (v4 / label
+                  :C (v9 / label~e.0)
+                  :N (v10 / label
+                          :R (v15 / label~e.2)
+                          :C (v16 / label~e.3)
+                          :R (v17 / label~e.4))
+                  :C (v11 / label
+                          :E (v18 / label~e.5)
+                          :C (v19 / label~e.6)))
+           :D (v5 / label~e.8)
+           :A (v6 / label~e.9)
+           :P (v7 / label~e.11)
+           :A (v8 / label
+                  :Q (v12 / label~e.12)
+                  :E (v13 / label
+                          :P (v20 / label~e.13))
+                  :C (v14 / label~e.14))))

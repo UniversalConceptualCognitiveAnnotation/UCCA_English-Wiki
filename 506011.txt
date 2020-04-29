@@ -1,0 +1,41 @@
+# ::id 506011
+# ::tok Critics maligned the tour as overproduced , saying it pandered to the current stadium rock trends in its special effects and dancing .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1.1 3-1.1.4.3 4-1.1.4.1 5-1.1.4.2 7-1.2.2 8-1.2.3.2 9-1.2.3.3 10-1.2.3.4.1 11-1.2.3.4.2 12-1.2.3.4.3 13-1.2.3.4.4.1 14-1.2.3.4.4.2 15-1.2.3.4.5 16-1.2.3.1.1 17-1.2.3.1.2 18-1.2.3.1.3.1.1.1 19-1.2.3.1.3.1.1.2 20-1.2.3.1.3.2 21-1.2.3.1.3.3.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label~e.0)
+           :P (v5 / label~e.1)
+           :A (v6 / label
+                  :P (v10 / label
+                          :E (v18 / label~e.2)
+                          :C (v13 / label~e.3)))
+           :A (v7 / label
+                  :R (v11 / label~e.4)
+                  :S (v12 / label~e.5)
+                  :A v13))
+    :H (v3 / label
+           :A v4
+           :P (v8 / label~e.7)
+           :A (v9 / label
+                  :A (v14 / label
+                          :R (v19 / label~e.16)
+                          :E (v20 / label~e.17)
+                          :C (v21 / label
+                                  :H (v27 / label
+                                          :P (v32 / label
+                                                  :E (v34 / label~e.18)
+                                                  :C (v35 / label~e.19)))
+                                  :L (v28 / label~e.20)
+                                  :H (v29 / label
+                                          :P (v33 / label~e.21))))
+                  :A (v15 / label~e.8)
+                  :P (v16 / label~e.9)
+                  :A (v17 / label
+                          :R (v22 / label~e.10)
+                          :E (v23 / label~e.11)
+                          :E (v24 / label~e.12)
+                          :E (v25 / label
+                                  :E (v30 / label~e.13)
+                                  :C (v31 / label~e.14))
+                          :C (v26 / label~e.15)))))

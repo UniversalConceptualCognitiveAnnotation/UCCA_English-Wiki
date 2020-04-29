@@ -1,0 +1,18 @@
+# ::id 485009
+# ::tok Wog is such a terrible word , " he said .
+# ::alignments 0-1.1.4.3 1-1.1.4.1 2-1.1.4.2.1.2 3-1.1.4.2.2 4-1.1.4.2.1.3 5-1.1.4.2.3 8-1.1.5 9-1.1.6
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :S (v6 / label~e.1)
+                  :A (v7 / label
+                         :E (v9 / label
+                                :A (v11 / label~e.5)
+                                :D (v12 / label~e.2)
+                                :S (v13 / label~e.4))
+                         :E (v10 / label~e.3)
+                         :C v11)
+                  :A (v8 / label~e.0))
+           :A (v4 / label~e.8)
+           :P (v5 / label~e.9)))

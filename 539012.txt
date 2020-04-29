@@ -1,0 +1,42 @@
+# ::id 539012
+# ::tok That same year , the studio was less successful in its efforts to promote Open Your Eyes , a tract on the dangers of venereal disease that featured Jack Warner 's sole screen appearance .
+# ::alignments 0-1.1.3.1 1-1.1.3.2 2-1.1.3.3 5-1.1.2.4 7-1.1.7.1 8-1.1.7.2 9-1.1.8 11-1.1.1 13-1.1.2.2 14-1.1.2.3.1 15-1.1.2.3.1 16-1.1.2.3.1 19-1.1.2.3.2.2 20-1.1.2.3.2.3.1 22-1.1.2.3.2.3.3 23-1.1.2.3.2.3.4.1 24-1.1.2.3.2.3.4.2 25-1.1.2.3.2.3.4.3 26-1.1.2.3.2.4.2 27-1.1.2.3.2.4.3 28-1.1.2.3.2.4.4.1.1 29-1.1.2.3.2.4.4.1.1 30-1.1.2.3.2.4.4.1.2 31-1.1.2.3.2.4.4.2 32-1.1.2.3.2.4.4.3 33-1.1.2.3.2.4.4.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label~e.11)
+           :A (v4 / label
+                  :P (v9 / label~e.13)
+                  :A (v10 / label
+                          :C (v17 / label~e.14,15,16)
+                          :E (v18 / label
+                                  :C (v19 / label~e.19)
+                                  :E (v20 / label
+                                          :R (v22 / label~e.20)
+                                          :S (v23 / label~e.22)
+                                          :A (v24 / label
+                                                  :R (v28 / label~e.23)
+                                                  :A (v29 / label~e.24)
+                                                  :S (v30 / label~e.25)))
+                                  :E (v21 / label
+                                          :A v19
+                                          :R (v25 / label~e.26)
+                                          :P (v26 / label~e.27)
+                                          :A (v27 / label
+                                                  :A (v31 / label
+                                                          :C (v35 / label~e.28,29)
+                                                          :R (v36 / label~e.30))
+                                                  :D (v32 / label~e.31)
+                                                  :A (v33 / label~e.32)
+                                                  :P (v34 / label~e.33)))))
+                  :A (v11 / label~e.5))
+           :T (v5 / label
+                  :E (v12 / label~e.0)
+                  :E (v13 / label~e.1)
+                  :C (v14 / label~e.2))
+           :A (v6 / label
+                  :C v11)
+           :D (v7 / label
+                  :E (v15 / label~e.7)
+                  :C (v16 / label~e.8))
+           :R (v8 / label~e.9)))

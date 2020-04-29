@@ -1,0 +1,44 @@
+# ::id 533000
+# ::tok Returning to the stage , Garland made her last appearances at New York 's Palace Theatre in July , a 16 - show stand , performing with her children Lorna and Joey Luft .
+# ::alignments 0-1.1.2 1-1.1.3.1 3-1.1.3.3 5-1.1.1 8-1.2.3.2 9-1.2.2.2 10-1.2.4.1 11-1.2.4.2.1 12-1.2.4.2.1 13-1.2.4.2.2 14-1.2.4.3 15-1.2.4.3 16-1.2.5.1 17-1.2.5.2 20-1.3.2 22-1.3.3 23-1.3.4 25-1.4.3 26-1.4.1.1 27-1.4.1.2.1 28-1.4.1.2.2 29-1.4.1.3.1.1 30-1.4.1.3.1.2 31-1.4.1.3.1.3 32-1.4.1.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label~e.5)
+           :P (v7 / label~e.0)
+           :A (v8 / label
+                  :R (v18 / label~e.1)
+                  :C (v19 / label~e.3)))
+    :H (v3 / label
+           :A v6
+           :P (v9 / label
+                  :C (v20 / label~e.9))
+           :D (v10 / label
+                   :C (v21 / label~e.8))
+           :A (v11 / label
+                   :R (v22 / label~e.10)
+                   :E (v23 / label
+                           :C (v30 / label~e.11,12)
+                           :R (v31 / label~e.13))
+                   :C (v24 / label~e.14,15))
+           :T (v12 / label
+                   :R (v25 / label~e.16)
+                   :C (v26 / label~e.17)))
+    :H (v4 / label
+           :D (v13 / label~e.20)
+           :P (v14 / label~e.22)
+           :D (v15 / label~e.23))
+    :H (v5 / label
+           :A (v16 / label
+                   :R (v27 / label~e.26)
+                   :E (v28 / label
+                           :A (v32 / label~e.27)
+                           :A (v33 / label~e.28))
+                   :C (v29 / label
+                           :C (v34 / label
+                                   :C (v36 / label~e.29)
+                                   :N (v37 / label~e.30)
+                                   :C (v38 / label~e.31))
+                           :C (v35 / label~e.32)))
+           :A v6
+           :P (v17 / label~e.25)))

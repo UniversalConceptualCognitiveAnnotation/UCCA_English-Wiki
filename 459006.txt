@@ -1,0 +1,36 @@
+# ::id 459006
+# ::tok On December 31 , 1999 , Jennings was on the air for 23 straight hours to anchor ABC 2000 Today , ABC 's massive millennium eve special .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 4-1.1.1.4 6-1.1.2 8-1.1.4.1 9-1.1.4.2 10-1.1.4.3 11-1.1.5.1 12-1.1.5.2 13-1.1.5.3 14-1.1.5.4 15-1.2 16-1.3.2 17-1.3.3.2 18-1.3.3.2 19-1.3.3.2 21-1.3.3.3.1.1 22-1.3.3.3.1.2 23-1.3.3.3.2 24-1.3.3.3.3.1 25-1.3.3.3.3.2 26-1.3.3.3.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v5 / label
+                  :R (v11 / label~e.0)
+                  :C (v12 / label~e.1)
+                  :C (v13 / label~e.2)
+                  :C (v14 / label~e.4))
+           :A (v6 / label~e.6)
+           :S (v7 / label
+                  :R (v15 / label~e.8)
+                  :E (v16 / label~e.9)
+                  :C (v17 / label~e.10))
+           :A (v8 / label
+                  :R (v18 / label~e.11)
+                  :Q (v19 / label~e.12)
+                  :E (v20 / label~e.13)
+                  :C (v21 / label~e.14)))
+    :L (v3 / label~e.15)
+    :H (v4 / label
+           :A v6
+           :P (v9 / label~e.16)
+           :A (v10 / label
+                   :C (v22 / label~e.17,18,19)
+                   :E (v23 / label
+                           :E (v24 / label
+                                   :C (v28 / label~e.21)
+                                   :R (v29 / label~e.22))
+                           :E (v25 / label~e.23)
+                           :E (v26 / label
+                                   :E (v30 / label~e.24)
+                                   :C (v31 / label~e.25))
+                           :C (v27 / label~e.26)))))

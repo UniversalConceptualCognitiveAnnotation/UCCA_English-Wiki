@@ -1,0 +1,53 @@
+# ::id 552014
+# ::tok The late movie [ mogul ] was widely eulogized for his role in " shaping Hollywood 's ' Golden Age ' " . Several months after Warner 's death , a more personal tribute was organized by the Friends of the Libraries at the University of Southern California .
+# ::alignments 1-1.1.1.2.2 2-1.1.1.3.1 4-1.1.1.2.1 7-1.1.3 8-1.1.4 9-1.1.5.1 10-1.1.5.2 11-1.1.5.3 12-1.1.5.4.1 14-1.1.5.4.2 15-1.1.5.4.3.1.1 16-1.1.5.4.3.1.2 18-1.1.5.4.3.2 19-1.1.5.4.3.3 23-1.2.1 24-1.2.2 25-1.2.3 26-1.3.1.1 27-1.3.1.2 28-1.3.2 31-1.4.1.2.1 32-1.4.1.2.2 33-1.4.1.3 35-1.4.3 36-1.4.4.1 38-1.4.4.3 39-1.4.4.3 40-1.4.4.3 41-1.4.4.3 42-1.4.5.1 44-1.4.5.3 45-1.4.5.4 46-1.4.5.5 47-1.4.5.6
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label
+                  :E (v19 / label
+                          :A (v36 / label~e.4)
+                          :S (v37 / label~e.1))
+                  :C (v20 / label
+                          :A (v38 / label~e.2)
+                          :A v36))
+           :D (v7 / label~e.7)
+           :P (v8 / label~e.8)
+           :A (v9 / label
+                  :R (v21 / label~e.9)
+                  :A (v22 / label~e.10)
+                  :P (v23 / label~e.11)
+                  :A (v24 / label
+                          :R (v39 / label~e.12)
+                          :P (v40 / label~e.14)
+                          :A (v41 / label
+                                  :E (v44 / label
+                                          :C (v47 / label~e.15)
+                                          :R (v48 / label~e.16))
+                                  :E (v45 / label~e.18)
+                                  :C (v46 / label~e.19)))))
+    :L (v3 / label
+           :Q (v10 / label~e.23)
+           :C (v11 / label~e.24)
+           :R (v12 / label~e.25))
+    :H (v4 / label
+           :A (v13 / label
+                   :C (v25 / label~e.26)
+                   :R (v26 / label~e.27))
+           :P (v14 / label~e.28))
+    :H (v5 / label
+           :A (v15 / label
+                   :D (v27 / label
+                           :E (v42 / label~e.31)
+                           :C (v43 / label~e.32))
+                   :P (v28 / label~e.33))
+           :P (v16 / label~e.35)
+           :A (v17 / label
+                   :R (v29 / label~e.36)
+                   :C (v30 / label~e.38,39,40,41))
+           :A (v18 / label
+                   :R (v31 / label~e.42)
+                   :E (v32 / label~e.44)
+                   :R (v33 / label~e.45)
+                   :E (v34 / label~e.46)
+                   :C (v35 / label~e.47))))

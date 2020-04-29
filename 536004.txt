@@ -1,0 +1,50 @@
+# ::id 536004
+# ::tok He assumed exclusive control of the film production company in the 1950s , when he secretly purchased his brothers ' shares in the business after convincing them to participate in a joint sale of stocks .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4 4-1.1.5.1 6-1.1.5.3.1 7-1.1.5.3.2 8-1.1.5.4 9-1.1.6.1 11-1.1.6.3 13-1.2 14-1.3.1 15-1.3.2 16-1.3.3 17-1.3.4.1.3.1 18-1.3.4.1.3.2 20-1.3.4.2 21-1.3.4.3.1 23-1.3.4.3.3 24-1.4 25-1.5.4 26-1.5.1 28-1.5.2.3 29-1.5.2.4.1 31-1.5.2.4.3 32-1.5.2.4.4 33-1.5.2.4.5.1 34-1.5.2.4.5.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label~e.0)
+           :D (v8 / label~e.1)
+           :D (v9 / label~e.2)
+           :P (v10 / label~e.3)
+           :A (v11 / label
+                   :R (v20 / label~e.4)
+                   :E (v21 / label
+                           :A (v30 / label~e.6)
+                           :P (v31 / label~e.7))
+                   :C (v22 / label~e.8))
+           :T (v12 / label
+                   :R (v23 / label~e.9)
+                   :C (v24 / label~e.11)))
+    :L (v3 / label~e.13)
+    :H (v4 / label
+           :A (v13 / label~e.14)
+           :D (v14 / label~e.15)
+           :P (v15 / label~e.16)
+           :A (v16 / label
+                   :E (v25 / label
+                           :A (v26 / label~e.20)
+                           :S (v32 / label)
+                           :A (v33 / label
+                                   :A (v40 / label~e.17)
+                                   :A (v41 / label~e.18)))
+                   :C v26
+                   :E (v27 / label
+                           :R (v34 / label~e.21)
+                           :C (v35 / label~e.23))))
+    :L (v5 / label~e.24)
+    :H (v6 / label
+           :A (v17 / label~e.26)
+           :A (v18 / label
+                   :A v17
+                   :P (v28 / label~e.28)
+                   :A (v29 / label
+                           :R (v36 / label~e.29)
+                           :D (v37 / label~e.31)
+                           :P (v38 / label~e.32)
+                           :A (v39 / label
+                                   :R (v42 / label~e.33)
+                                   :C (v43 / label~e.34))))
+           :A v13
+           :P (v19 / label~e.25)))

@@ -1,0 +1,27 @@
+# ::id 552006
+# ::tok A funeral service was held at the Wilshire Boulevard Temple , the synagogue to which many members of the Warner family belonged .
+# ::alignments 1-1.1.2.1 2-1.1.2.2 5-1.1.5.5 7-1.1.5.2 8-1.1.5.2 9-1.1.5.2 12-1.1.5.3.2 13-1.1.5.3.3.1.2 14-1.1.5.3.3.2 15-1.1.5.3.3.3.1 16-1.1.5.3.3.3.2 17-1.1.5.3.3.3.3.1 19-1.1.5.3.3.3.3.3 20-1.1.5.3.3.3.3.4 21-1.1.5.3.3.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label
+                  :C (v5 / label~e.1)
+                  :C (v6 / label~e.2))
+           :A (v4 / label
+                  :C (v7 / label~e.7,8,9)
+                  :E (v8 / label
+                         :C (v10 / label~e.12)
+                         :E (v11 / label
+                                 :A (v12 / label
+                                         :C v10
+                                         :R (v16 / label~e.13))
+                                 :R (v13 / label~e.14)
+                                 :A (v14 / label
+                                         :Q (v17 / label~e.15)
+                                         :C (v18 / label~e.16)
+                                         :E (v19 / label
+                                                 :R (v20 / label~e.17)
+                                                 :E (v21 / label~e.19)
+                                                 :C (v22 / label~e.20)))
+                                 :S (v15 / label~e.21)))
+                  :R (v9 / label~e.5))))

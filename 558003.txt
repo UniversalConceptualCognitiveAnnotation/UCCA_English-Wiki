@@ -1,0 +1,13 @@
+# ::id 558003
+# ::tok And we said , ' We do n't know . ''
+# ::alignments 0-1.1 1-1.2.3 2-1.2.4 5-1.2.5.1 7-1.2.5.3 8-1.2.5.4
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v4 / label~e.1)
+           :P (v5 / label~e.2)
+           :A (v6 / label
+                  :A (v7 / label~e.5)
+                  :D (v8 / label~e.7)
+                  :P (v9 / label~e.8))))

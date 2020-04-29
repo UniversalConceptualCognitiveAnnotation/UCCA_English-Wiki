@@ -1,0 +1,20 @@
+# ::id 527003
+# ::tok Judy complained to Louis B. Mayer , trying to have Berkeley fired from the feature .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.1.3.2 5-1.1.3.2 7-1.2.4 9-1.2.6 10-1.2.7 11-1.2.1 12-1.2.2.1 14-1.2.2.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label~e.0)
+           :P (v5 / label~e.1)
+           :A (v6 / label
+                  :R (v12 / label~e.2)
+                  :C (v13 / label~e.3,4,5)))
+    :H (v3 / label
+           :P (v7 / label~e.11)
+           :A (v8 / label
+                  :R (v14 / label~e.12)
+                  :C (v15 / label~e.14))
+           :A v4
+           :D (v9 / label~e.7)
+           :D (v10 / label~e.9)
+           :A (v11 / label~e.10)))

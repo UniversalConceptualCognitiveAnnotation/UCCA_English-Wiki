@@ -1,0 +1,29 @@
+# ::id 453010
+# ::tok Jennings ' official title was " Foreign Desk Anchor , " although he continued to serve as the network 's chief foreign correspondent .
+# ::alignments 0-1.1.1.1 2-1.1.1.2 3-1.1.1.3 4-1.1.2 6-1.1.3.1 7-1.1.3.2 8-1.1.3.3 11-1.2 12-1.3.4 13-1.3.5 15-1.3.2 16-1.3.3.1 17-1.3.3.2 18-1.3.3.3.1 19-1.3.3.3.2 20-1.3.3.4 21-1.3.3.5 22-1.3.3.6
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :E (v12 / label~e.0)
+                  :E (v13 / label~e.2)
+                  :C (v14 / label~e.3))
+           :S (v6 / label~e.4)
+           :A (v7 / label
+                  :E (v15 / label~e.6)
+                  :E (v16 / label~e.7)
+                  :C (v17 / label~e.8)))
+    :L (v3 / label~e.11)
+    :H (v4 / label
+           :P (v8 / label~e.15)
+           :A (v9 / label
+                  :R (v18 / label~e.16)
+                  :E (v19 / label~e.17)
+                  :E (v20 / label
+                          :C (v24 / label~e.18)
+                          :R (v25 / label~e.19))
+                  :E (v21 / label~e.20)
+                  :E (v22 / label~e.21)
+                  :C (v23 / label~e.22))
+           :A (v10 / label~e.12)
+           :D (v11 / label~e.13)))

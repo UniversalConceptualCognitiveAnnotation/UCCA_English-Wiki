@@ -1,0 +1,33 @@
+# ::id 563007
+# ::tok Allen , no fan of rock and roll , introduced a " new Elvis " in a white bow tie and black tails .
+# ::alignments 0-1.1.2.1 2-1.1.2.2.2 3-1.1.2.2.3 4-1.1.2.2.4.1 5-1.1.2.2.4.2 6-1.1.2.2.4.2 7-1.1.2.2.4.2 9-1.1.3 10-1.1.4.5 12-1.1.4.6.2 13-1.1.4.1 15-1.1.4.2.1 16-1.1.4.2.2.1.1 17-1.1.4.2.2.1.2 18-1.1.4.2.2.1.3 19-1.1.4.2.2.1.3 20-1.1.4.2.2.2 21-1.1.4.2.2.3.1 22-1.1.4.2.2.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :C (v6 / label~e.0)
+                  :E (v7 / label
+                         :A v6
+                         :D (v12 / label~e.2)
+                         :S (v13 / label~e.3)
+                         :A (v14 / label
+                                 :R (v18 / label~e.4)
+                                 :C (v19 / label~e.5,6,7))))
+           :P (v4 / label~e.9)
+           :A (v5 / label
+                  :C (v8 / label~e.13)
+                  :E (v9 / label
+                         :R (v15 / label~e.15)
+                         :C (v16 / label
+                                 :C (v20 / label
+                                         :E (v23 / label~e.16)
+                                         :E (v24 / label~e.17)
+                                         :C (v25 / label~e.18,19))
+                                 :N (v21 / label~e.20)
+                                 :C (v22 / label
+                                         :E (v26 / label~e.21)
+                                         :C (v27 / label~e.22))))
+                  :E (v10 / label~e.10)
+                  :E (v11 / label
+                          :A v8
+                          :S (v17 / label~e.12)))))

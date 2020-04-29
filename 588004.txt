@@ -1,0 +1,19 @@
+# ::id 588004
+# ::tok Depp was nominated for an Academy Award for Best Actor for the role .
+# ::alignments 0-1.1.1 2-1.1.3 3-1.1.4.1 4-1.1.4.2 5-1.1.4.3 6-1.1.4.3 7-1.1.5.1 8-1.1.5.2 9-1.1.5.2 10-1.1.6.1 11-1.1.6.2 12-1.1.6.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :P (v4 / label~e.2)
+           :A (v5 / label
+                  :R (v8 / label~e.3)
+                  :E (v9 / label~e.4)
+                  :C (v10 / label~e.5,6))
+           :A (v6 / label
+                  :R (v11 / label~e.7)
+                  :C (v12 / label~e.8,9))
+           :A (v7 / label
+                  :R (v13 / label~e.10)
+                  :E (v14 / label~e.11)
+                  :C (v15 / label~e.12))))

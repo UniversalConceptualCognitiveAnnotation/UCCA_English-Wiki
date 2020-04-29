@@ -1,0 +1,23 @@
+# ::id 453003
+# ::tok The show never gained ground against Today , and was canceled in just ten months .
+# ::alignments 0-1.1.1.1 1-1.3.1 2-1.1.2 3-1.1.3 4-1.1.3 5-1.1.4.1 6-1.1.4.2 8-1.2 10-1.3.3 11-1.3.4.1 12-1.3.4.2 13-1.3.4.3 14-1.3.4.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :E (v12 / label~e.0)
+                  :C (v9 / label~e.1))
+           :D (v6 / label~e.2)
+           :S (v7 / label~e.3,4)
+           :A (v8 / label
+                  :R (v13 / label~e.5)
+                  :C (v14 / label~e.6)))
+    :L (v3 / label~e.8)
+    :H (v4 / label
+           :A v9
+           :P (v10 / label~e.10)
+           :T (v11 / label
+                   :R (v15 / label~e.11)
+                   :E (v16 / label~e.12)
+                   :Q (v17 / label~e.13)
+                   :C (v18 / label~e.14))))

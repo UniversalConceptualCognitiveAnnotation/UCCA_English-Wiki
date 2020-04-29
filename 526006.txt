@@ -1,0 +1,78 @@
+# ::id 526006
+# ::tok Garland 's other famous films of the 1940s include The Harvey Girls ( 1946 ) , in which she introduced the Academy Award - winning song " On the Atchison , Topeka and the Santa Fe " , and The Pirate ( 1948 ) . During filming for The Pirate in April 1947 , Garland suffered a nervous breakdown and was placed in a private sanitarium .
+# ::alignments 0-1.1.1.1.2 1-1.1.1.1.3 2-1.1.1.2 3-1.1.1.3.2 4-1.1.1.4 5-1.1.1.5.3.1 6-1.1.1.5.3.2 7-1.1.1.5.3.3 8-1.1.2 9-1.1.3.1.1 10-1.1.3.1.1 11-1.1.3.1.1 13-1.1.3.1.2.3 16-1.1.3.1.3.2 17-1.1.3.1.3.2 18-1.1.3.1.3.3 19-1.1.3.1.3.4 21-1.1.3.1.3.5.1.2.2 22-1.1.3.1.3.5.1.2.2 24-1.1.3.1.3.5.1.2.3 25-1.1.3.1.3.5.1.3 27-1.1.3.1.3.5.2 28-1.1.3.1.3.5.2 29-1.1.3.1.3.5.2 31-1.1.3.1.3.5.2 32-1.1.3.1.3.5.2 33-1.1.3.1.3.5.2 34-1.1.3.1.3.5.2 35-1.1.3.1.3.5.2 38-1.1.3.2 39-1.1.3.3.1 40-1.1.3.3.1 42-1.1.3.3.2.3 45-1.2 46-1.3.2 47-1.3.3.1 48-1.3.3.2 49-1.3.3.2 50-1.3.4.1 51-1.3.4.2 52-1.3.4.3 54-1.3.1 55-1.4.2 57-1.4.3.2 58-1.4.3.3 59-1.5 61-1.6.2 62-1.6.3.1 64-1.6.3.3.2 65-1.6.3.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v8 / label
+                  :E (v19 / label
+                          :A (v22 / label~e.4)
+                          :A (v37 / label~e.0)
+                          :S (v38 / label~e.1))
+                  :E (v20 / label~e.2)
+                  :E (v21 / label
+                          :A v22
+                          :S (v39 / label~e.3))
+                  :C v22
+                  :E (v23 / label
+                          :A v22
+                          :P (v40 / label)
+                          :T (v41 / label
+                                  :R (v48 / label~e.5)
+                                  :E (v49 / label~e.6)
+                                  :C (v50 / label~e.7))))
+           :S (v9 / label~e.8)
+           :A (v10 / label
+                   :C (v24 / label
+                           :C (v42 / label~e.9,10,11)
+                           :E (v43 / label
+                                   :A v42
+                                   :P (v51 / label)
+                                   :T (v52 / label~e.13))
+                           :E (v44 / label
+                                   :A v42
+                                   :R (v53 / label~e.16,17)
+                                   :A (v54 / label~e.18)
+                                   :P (v55 / label~e.19)
+                                   :A (v56 / label
+                                           :E (v59 / label
+                                                   :E (v61 / label
+                                                           :A (v62 / label~e.25)
+                                                           :A (v63 / label~e.21,22)
+                                                           :P (v64 / label~e.24))
+                                                   :C v62)
+                                           :C (v60 / label~e.27,28,29,31,32,33,34,35))))
+                   :N (v25 / label~e.38)
+                   :C (v26 / label
+                           :C (v45 / label~e.39,40)
+                           :E (v46 / label
+                                   :A v45
+                                   :P (v57 / label)
+                                   :T (v58 / label~e.42)))))
+    :L (v3 / label~e.45)
+    :H (v4 / label
+           :A (v11 / label~e.54)
+           :P (v12 / label~e.46)
+           :A (v13 / label
+                   :R (v27 / label~e.47)
+                   :C (v28 / label~e.48,49))
+           :T (v14 / label
+                   :R (v29 / label~e.50)
+                   :C (v30 / label~e.51)
+                   :C (v31 / label~e.52)))
+    :H (v5 / label
+           :A v11
+           :D (v15 / label~e.55)
+           :S (v16 / label
+                   :E (v32 / label~e.57)
+                   :C (v33 / label~e.58)))
+    :L (v6 / label~e.59)
+    :H (v7 / label
+           :P (v17 / label~e.61)
+           :A (v18 / label
+                   :R (v34 / label~e.62)
+                   :E (v35 / label
+                           :A (v36 / label~e.65)
+                           :S (v47 / label~e.64))
+                   :C v36)
+           :A v11))

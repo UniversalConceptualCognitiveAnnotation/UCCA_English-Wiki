@@ -1,0 +1,58 @@
+# ::id 494003
+# ::tok After Terry Burns , his half - brother , introduced him to modern jazz , his enthusiasm for players like Charles Mingus and John Coltrane led his mother to give him a plastic alto saxophone in 1961 ; he was soon receiving lessons from a local musician .
+# ::alignments 0-1.1 1-1.2.1.1 2-1.2.1.1 4-1.2.1.2.1 5-1.2.1.2.2 7-1.2.1.2.3 9-1.2.2 10-1.2.3 11-1.2.4.1 12-1.2.4.2 13-1.2.4.3 15-1.3.1.1 16-1.3.1.2 17-1.3.1.3.1 18-1.3.1.3.2.1 19-1.3.1.3.3.1 20-1.3.1.3.3.2.1 21-1.3.1.3.3.2.1 22-1.3.1.3.3.2.2 23-1.3.1.3.3.2.3 24-1.3.1.3.3.2.3 25-1.3.2 26-1.3.3.1 27-1.3.3.2 29-1.3.5 30-1.3.6 31-1.3.7.1 32-1.3.7.2 33-1.3.7.3 34-1.3.7.4 35-1.3.8.1 36-1.3.8.2 38-1.4.1 40-1.5 41-1.4.3 42-1.4.4 43-1.4.5.1 44-1.4.5.2.1 45-1.4.5.3 46-1.4.5.2.2
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v7 / label
+                  :C (v22 / label~e.1,2)
+                  :E (v23 / label
+                          :A (v41 / label~e.4)
+                          :D (v42 / label~e.5)
+                          :S (v43 / label~e.7)))
+           :P (v8 / label~e.9)
+           :A (v9 / label~e.10)
+           :A (v10 / label
+                   :R (v24 / label~e.11)
+                   :E (v25 / label~e.12)
+                   :C (v26 / label~e.13)))
+    :H (v4 / label
+           :A (v11 / label
+                   :A (v27 / label~e.15)
+                   :S (v28 / label~e.16)
+                   :A (v29 / label
+                           :R (v44 / label~e.17)
+                           :C (v45 / label
+                                   :P (v49 / label~e.18))
+                           :E (v46 / label
+                                   :R (v50 / label~e.19)
+                                   :C (v51 / label
+                                           :C (v52 / label~e.20,21)
+                                           :N (v53 / label~e.22)
+                                           :C (v54 / label~e.23,24)))))
+           :D (v12 / label~e.25)
+           :A (v13 / label
+                   :A (v30 / label~e.26)
+                   :S (v31 / label~e.27))
+           :P (v14 / label~e.29)
+           :A (v15 / label~e.30)
+           :A (v16 / label
+                   :E (v32 / label~e.31)
+                   :E (v33 / label~e.32)
+                   :E (v34 / label~e.33)
+                   :C (v35 / label~e.34))
+           :T (v17 / label
+                   :R (v36 / label~e.35)
+                   :C (v37 / label~e.36)))
+    :H (v5 / label
+           :A (v18 / label~e.38)
+           :D (v19 / label~e.41)
+           :P (v20 / label~e.42)
+           :A (v21 / label
+                   :R (v38 / label~e.43)
+                   :A (v39 / label
+                           :E (v47 / label~e.44)
+                           :C (v48 / label~e.46))
+                   :A (v40 / label~e.45)))
+    :L (v6 / label~e.40))

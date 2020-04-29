@@ -1,0 +1,46 @@
+# ::id 537013
+# ::tok Benjamin worked with his son Harry in the shoe repair shop until he secured a loan to open a meat counter and grocery store in the city 's downtown area .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2.1 4-1.1.3.2.2 5-1.1.3.3 6-1.1.4.1 8-1.1.4.3.1 9-1.1.4.3.2 10-1.1.4.4 11-1.2 12-1.3.1 13-1.3.2 15-1.3.3.1.2 16-1.4 17-1.5.2 19-1.5.3.1.2 20-1.5.3.1.3 21-1.5.3.2 22-1.5.3.3.1 23-1.5.3.3.2 24-1.5.4.1 26-1.5.4.2.2 27-1.5.4.2.3 28-1.5.4.3 29-1.5.4.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label~e.0)
+           :P (v8 / label~e.1)
+           :A (v9 / label
+                  :R (v17 / label~e.2)
+                  :E (v18 / label
+                          :A (v31 / label~e.3)
+                          :A (v32 / label~e.4))
+                  :C (v19 / label~e.5))
+           :A (v10 / label
+                   :R (v20 / label~e.6)
+                   :E (v21 / label
+                           :A (v33 / label~e.8)
+                           :P (v34 / label~e.9))
+                   :C (v22 / label~e.10)))
+    :L (v3 / label~e.11)
+    :H (v4 / label
+           :A (v11 / label~e.12)
+           :P (v12 / label~e.13)
+           :A (v13 / label
+                   :P (v23 / label
+                           :C (v35 / label~e.15))))
+    :L (v5 / label~e.16)
+    :H (v6 / label
+           :A v11
+           :P (v14 / label~e.17)
+           :A (v15 / label
+                   :C (v24 / label
+                           :E (v36 / label~e.19)
+                           :C (v37 / label~e.20))
+                   :N (v25 / label~e.21)
+                   :C (v26 / label
+                           :E (v38 / label~e.22)
+                           :C (v39 / label~e.23)))
+           :A (v16 / label
+                   :R (v27 / label~e.24)
+                   :E (v28 / label
+                           :C (v40 / label~e.26)
+                           :R (v41 / label~e.27))
+                   :C (v29 / label~e.28)
+                   :E (v30 / label~e.29))))

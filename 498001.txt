@@ -1,0 +1,84 @@
+# ::id 498001
+# ::tok The show was hugely popular , catapulting him to stardom as he toured the UK over the course of the next six months and creating , as described by Buckley , a " cult of Bowie " that was " unique - its influence lasted longer and has been more creative than perhaps almost any other force within pop fandom . "
+# ::alignments 0-1.1.1.1 1-1.2.4 3-1.1.3.1 4-1.1.3.2 6-1.2.1 7-1.2.2 8-1.2.3.1 9-1.2.3.2 10-1.3 11-1.4.1 12-1.4.2 13-1.4.3.1 14-1.4.3.2 15-1.4.4.1.1 16-1.4.4.1.2 17-1.4.4.1.3 18-1.4.4.1.4 19-1.4.4.2 20-1.4.4.3 21-1.4.4.4 22-1.4.4.5 23-1.5 24-1.6.1.1 26-1.6.2.1 27-1.6.2.2 28-1.6.3.1 29-1.6.3.2 31-1.6.1.2.1 33-1.6.1.2.2 34-1.6.1.2.3.1 35-1.6.1.2.3.2 37-1.6.1.2.4.2 40-1.6.1.2.4.4 42-1.7.1 43-1.7.2 44-1.9.5 45-1.7.3.1.2 46-1.7.3.2 49-1.7.3.3.3 50-1.9.4 51-1.8 52-1.9.1 53-1.9.2.1.1 54-1.9.2.1.2 55-1.9.2.2 56-1.9.2.3 57-1.9.2.4.1 58-1.9.2.4.2 59-1.9.2.4.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v11 / label
+                   :E (v31 / label~e.0)
+                   :C (v16 / label~e.1))
+           :D (v12 / label
+                   :E (v32 / label~e.3)
+                   :C (v33 / label~e.4)))
+    :H (v3 / label
+           :D (v13 / label~e.6)
+           :A (v14 / label~e.7)
+           :S (v15 / label
+                   :R (v34 / label~e.8)
+                   :C (v35 / label~e.9))
+           :A v16)
+    :L (v4 / label~e.10)
+    :H (v5 / label
+           :A (v17 / label~e.11)
+           :P (v18 / label~e.12)
+           :A (v19 / label
+                   :E (v36 / label~e.13)
+                   :C (v37 / label~e.14))
+           :T (v20 / label
+                   :R (v38 / label
+                           :R (v56 / label~e.15)
+                           :E (v57 / label~e.16)
+                           :C (v58 / label~e.17)
+                           :R (v59 / label~e.18))
+                   :E (v39 / label~e.19)
+                   :E (v40 / label~e.20)
+                   :Q (v41 / label~e.21)
+                   :C (v42 / label~e.22)))
+    :L (v6 / label~e.23)
+    :H (v7 / label
+           :A (v21 / label
+                   :P (v43 / label~e.24)
+                   :A (v44 / label
+                           :E (v60 / label~e.31)
+                           :C (v61 / label~e.33)
+                           :E (v62 / label
+                                   :R (v71 / label~e.34)
+                                   :C (v72 / label~e.35))
+                           :E (v63 / label
+                                   :A v61
+                                   :R (v73 / label~e.37)
+                                   :S (v74 / label~e.40)))
+                   :A v16)
+           :P (v22 / label
+                   :R (v45 / label~e.26)
+                   :C (v46 / label~e.27))
+           :A (v23 / label
+                   :R (v47 / label~e.28)
+                   :C (v48 / label~e.29)))
+    :H (v8 / label
+           :A (v24 / label~e.42)
+           :P (v25 / label~e.43)
+           :D (v26 / label
+                   :C (v49 / label
+                           :C (v30 / label~e.44)
+                           :E (v64 / label~e.45))
+                   :N (v50 / label~e.46)
+                   :C (v51 / label
+                           :E (v65 / label~e.49)
+                           :C (v29 / label~e.50))))
+    :L (v9 / label~e.51)
+    :H (v10 / label
+            :D (v27 / label~e.52)
+            :A (v28 / label
+                    :Q (v52 / label
+                            :E (v66 / label~e.53)
+                            :C (v67 / label~e.54))
+                    :E (v53 / label~e.55)
+                    :C (v54 / label~e.56)
+                    :E (v55 / label
+                            :R (v68 / label~e.57)
+                            :E (v69 / label~e.58)
+                            :C (v70 / label~e.59)))
+            :P v25
+            :D v29
+            :D v30))

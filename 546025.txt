@@ -1,0 +1,30 @@
+# ::id 546025
+# ::tok At the same time , Jack took pride in the fact that U.S . President Dwight D . Eisenhower sent him a letter of condolence .
+# ::alignments 0-1.1.1 2-1.1.3 3-1.1.4 5-1.2.1 7-1.2.2.2 8-1.2.3.3 10-1.2.3.1 11-1.2.3.2.1 12-1.2.3.2.2.1.2 14-1.2.3.2.2.1.3 15-1.2.3.2.2.2 16-1.2.3.2.2.2 18-1.2.3.2.2.2 19-1.2.3.2.3 20-1.2.3.2.4 22-1.2.3.2.5.2 23-1.2.3.2.5.3 24-1.2.3.2.5.4
+# ::format ucca
+(v1 / label
+    :L (v2 / label
+           :R (v4 / label~e.0)
+           :E (v5 / label~e.2)
+           :C (v6 / label~e.3))
+    :H (v3 / label
+           :A (v7 / label~e.5)
+           :P (v8 / label
+                  :C (v10 / label~e.7))
+           :A (v9 / label
+                  :C (v11 / label~e.10)
+                  :E (v12 / label
+                          :R (v14 / label~e.11)
+                          :A (v15 / label
+                                  :E (v19 / label
+                                          :A (v20 / label~e.15,16,18)
+                                          :A (v24 / label~e.12)
+                                          :P (v25 / label~e.14))
+                                  :C v20)
+                          :P (v16 / label~e.19)
+                          :A (v17 / label~e.20)
+                          :A (v18 / label
+                                  :C (v21 / label~e.22)
+                                  :R (v22 / label~e.23)
+                                  :E (v23 / label~e.24)))
+                  :R (v13 / label~e.8))))

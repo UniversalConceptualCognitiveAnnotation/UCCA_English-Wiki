@@ -1,0 +1,33 @@
+# ::id 589014
+# ::tok Depp plans to star as Carl Kolchak in the project Night Stalker , and has bought rights to the comic book The Vault .
+# ::alignments 0-1.1.1 1-1.1.2 3-1.1.3.3 4-1.1.3.4.1 5-1.1.3.4.2 6-1.1.3.4.2 7-1.1.3.5.1 8-1.1.3.5.2.1 9-1.1.3.5.2.2 10-1.1.3.5.3 11-1.1.3.5.3 13-1.2 15-1.3.3 16-1.3.4.1 17-1.3.4.2.1 18-1.3.4.2.2.1 19-1.3.4.2.2.2 20-1.3.4.2.2.3 21-1.3.4.2.3 22-1.3.4.2.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label~e.0)
+           :P (v6 / label~e.1)
+           :A (v7 / label
+                  :A v5
+                  :P (v10 / label~e.3)
+                  :A (v11 / label
+                          :R (v15 / label~e.4)
+                          :C (v16 / label~e.5,6))
+                  :A (v12 / label
+                          :R (v17 / label~e.7)
+                          :E (v18 / label
+                                  :E (v23 / label~e.8)
+                                  :C (v24 / label~e.9))
+                          :C (v19 / label~e.10,11))))
+    :L (v3 / label~e.13)
+    :H (v4 / label
+           :A v5
+           :P (v8 / label~e.15)
+           :A (v9 / label
+                  :S (v13 / label~e.16)
+                  :A (v14 / label
+                          :R (v20 / label~e.17)
+                          :E (v21 / label
+                                  :E (v25 / label~e.18)
+                                  :E (v26 / label~e.19)
+                                  :C (v27 / label~e.20))
+                          :C (v22 / label~e.21,22)))))

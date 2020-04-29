@@ -1,0 +1,32 @@
+# ::id 502000
+# ::tok Bowie moved to Switzerland in 1976 , purchasing a chalet in the hills to the north of Lake Geneva .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.1.4.1 5-1.1.4.2 7-1.2.2 8-1.2.3.2 9-1.2.3.3 10-1.2.3.1.1 11-1.2.3.1.2 12-1.2.3.1.3 13-1.2.3.1.4.1.1 14-1.2.3.1.4.1.2 15-1.2.3.1.4.1.3 16-1.2.3.1.4.2 17-1.2.3.1.4.3 18-1.2.3.1.4.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label~e.0)
+           :P (v5 / label~e.1)
+           :A (v6 / label
+                  :R (v10 / label~e.2)
+                  :C (v11 / label~e.3))
+           :T (v7 / label
+                  :R (v12 / label~e.4)
+                  :C (v13 / label~e.5)))
+    :H (v3 / label
+           :A v4
+           :P (v8 / label~e.7)
+           :A (v9 / label
+                  :E (v14 / label
+                          :R (v17 / label~e.10)
+                          :E (v18 / label~e.11)
+                          :C (v19 / label~e.12)
+                          :E (v20 / label
+                                  :E (v21 / label
+                                          :R (v25 / label~e.13)
+                                          :E (v26 / label~e.14)
+                                          :C (v27 / label~e.15))
+                                  :R (v22 / label~e.16)
+                                  :C (v23 / label~e.17)
+                                  :E (v24 / label~e.18)))
+                  :E (v15 / label~e.8)
+                  :C (v16 / label~e.9))))

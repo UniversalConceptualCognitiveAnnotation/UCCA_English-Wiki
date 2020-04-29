@@ -1,0 +1,71 @@
+# ::id 566003
+# ::tok The year ended with a front - page story in The Wall Street Journal reporting that Presley merchandise had brought in $ 22 million on top of his record sales , and Billboard 's declaration that he had placed more songs in the top 100 than any other artist since records were first charted .
+# ::alignments 0-1.1.1.1.1 1-1.1.1.1.2 2-1.1.1.2 3-1.1.2.1 4-1.1.2.2 5-1.1.2.3.1 7-1.1.2.3.2 8-1.1.2.4 9-1.1.2.5.1 10-1.1.2.5.2 11-1.1.2.5.2 12-1.1.2.5.2 13-1.1.2.5.2 14-1.1.3 15-1.1.4.1 16-1.1.4.2.1.1 17-1.1.4.2.1.2 19-1.1.4.2.3 20-1.1.4.2.3 21-1.1.4.2.4.1 22-1.1.4.2.4.2 23-1.1.4.2.4.2 24-1.1.4.3 25-1.1.4.3 26-1.1.4.3 27-1.1.4.4.1 28-1.1.4.4.2 29-1.1.4.4.3 31-1.2 32-1.3.2.1 33-1.3.2.2 34-1.3.3 35-1.3.4.1 36-1.3.4.2.1 38-1.3.4.2.3 39-1.3.4.2.4.1 40-1.3.4.4.4 41-1.3.4.2.5.1 42-1.3.4.2.5.2 43-1.3.4.4.3 44-1.3.4.4.3 45-1.3.4.3 46-1.3.4.4.1.1 47-1.3.4.4.1.2.1 48-1.3.4.4.1.2.2 49-1.3.4.5 50-1.3.4.6.1 52-1.3.4.6.3 53-1.3.4.6.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v5 / label
+                  :C (v12 / label
+                          :E (v31 / label~e.0)
+                          :C (v32 / label~e.1))
+                  :C (v13 / label~e.2))
+           :A (v6 / label
+                  :R (v14 / label~e.3)
+                  :E (v15 / label~e.4)
+                  :E (v16 / label
+                          :E (v33 / label~e.5)
+                          :C (v34 / label~e.7))
+                  :C (v17 / label~e.8)
+                  :E (v18 / label
+                          :R (v35 / label~e.9)
+                          :C (v36 / label~e.10,11,12,13)))
+           :P (v7 / label~e.14)
+           :A (v8 / label
+                  :R (v19 / label~e.15)
+                  :H (v20 / label
+                          :A (v37 / label
+                                  :E (v53 / label~e.16)
+                                  :C (v54 / label~e.17))
+                          :P (v38 / label~e.19,20)
+                          :A (v39 / label
+                                  :C (v55 / label~e.21)
+                                  :Q (v56 / label~e.22,23)))
+                  :L (v21 / label~e.24,25,26)
+                  :H (v22 / label
+                          :A (v40 / label~e.27)
+                          :A (v41 / label~e.28)
+                          :P (v42 / label~e.29))))
+    :L (v3 / label~e.31)
+    :H (v4 / label
+           :T v5
+           :A (v9 / label
+                  :C (v23 / label~e.32)
+                  :R (v24 / label~e.33))
+           :P (v10 / label~e.34)
+           :A (v11 / label
+                   :R (v25 / label~e.35)
+                   :H (v26 / label
+                           :A (v43 / label~e.36)
+                           :P (v44 / label~e.38)
+                           :A (v45 / label
+                                   :E (v57 / label~e.39)
+                                   :C (v49 / label~e.40))
+                           :A (v46 / label
+                                   :R (v58 / label~e.41)
+                                   :E (v59 / label~e.42)
+                                   :C (v48 / label~e.43,44)))
+                   :L (v27 / label~e.45)
+                   :H (v28 / label
+                           :A (v47 / label
+                                   :Q (v60 / label~e.46)
+                                   :C (v61 / label
+                                           :D (v62 / label~e.47)
+                                           :A (v63 / label~e.48)))
+                           :P v44
+                           :A v48
+                           :A v49)
+                   :L (v29 / label~e.49)
+                   :H (v30 / label
+                           :A (v50 / label~e.50)
+                           :D (v51 / label~e.52)
+                           :P (v52 / label~e.53)))))

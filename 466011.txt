@@ -1,0 +1,43 @@
+# ::id 466011
+# ::tok Since his retirement , Johnson has been an advocate for HIV / AIDS prevention and safe sex , as well as an entrepreneur , philanthropist , broadcaster and motivational speaker .
+# ::alignments 0-1.1 1-1.2.1 2-1.2.2 4-1.3.1 7-1.3.4.1 8-1.3.4.2 9-1.3.5.1 10-1.3.5.2.1.2 12-1.3.5.2.1.3 13-1.3.5.2.2 14-1.3.5.3 15-1.3.5.4.1 16-1.3.5.4.2 18-1.4 19-1.4 20-1.4 21-1.7.1.1 22-1.7.1.2 24-1.8.1 26-1.9.1 27-1.5 28-1.6.1 29-1.6.2
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v11 / label~e.1)
+           :P (v12 / label~e.2))
+    :H (v4 / label
+           :A (v13 / label~e.4)
+           :P (v14 / label
+                   :E (v21 / label~e.7)
+                   :C (v22 / label~e.8))
+           :A (v15 / label
+                   :R (v23 / label~e.9)
+                   :H (v24 / label
+                           :A (v29 / label
+                                   :N (v33 / label)
+                                   :C (v34 / label~e.10)
+                                   :C (v35 / label~e.12))
+                           :P (v30 / label~e.13))
+                   :L (v25 / label~e.14)
+                   :H (v26 / label
+                           :D (v31 / label~e.15)
+                           :P (v32 / label~e.16))))
+    :L (v5 / label~e.18,19,20)
+    :L (v6 / label~e.27)
+    :H (v7 / label
+           :D (v16 / label~e.28)
+           :P (v17 / label~e.29)
+           :A v13)
+    :H (v8 / label
+           :P (v18 / label
+                   :E (v27 / label~e.21)
+                   :C (v28 / label~e.22))
+           :A v13)
+    :H (v9 / label
+           :P (v19 / label~e.24)
+           :A v13)
+    :H (v10 / label
+            :P (v20 / label~e.26)
+            :A v13))

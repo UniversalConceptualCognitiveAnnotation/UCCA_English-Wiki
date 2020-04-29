@@ -1,0 +1,60 @@
+# ::id 534006
+# ::tok Reasons often given for her standing , especially among gay men , are admiration of her ability as a performer , the way her personal struggles mirrored those of gay men in America during the height of her fame and her value as a camp figure .
+# ::alignments 0-1.1.1.1 1-1.1.2 3-1.1.3.1 4-1.1.3.2 5-1.1.3.3 7-1.1.3.4.1 8-1.1.3.4.2 9-1.1.3.4.3 10-1.1.3.4.4 13-1.1.6.1.2 14-1.1.6.1.3.1 15-1.1.6.1.3.2 16-1.1.6.1.3.3 17-1.1.6.1.3.4.1 19-1.1.6.1.3.4.3 22-1.1.6.2.2 23-1.1.6.2.3.1.1.1 24-1.1.6.2.3.1.1.2 25-1.1.6.2.3.1.1.3 26-1.1.6.2.3.2 28-1.1.6.2.3.3.2 29-1.1.6.2.3.3.3 30-1.1.6.2.3.3.4 31-1.1.6.2.3.3.5.1 32-1.1.6.2.3.3.5.2 33-1.1.6.2.3.1.2 35-1.1.6.2.3.1.3.2.1 36-1.1.6.2.3.1.3.2.2 37-1.1.6.2.3.1.3.3 38-1.1.6.2.3.1.3.4 39-1.1.6.3 40-1.1.6.4.1 41-1.1.6.4.2 42-1.1.6.4.3.1 44-1.1.6.4.3.3 45-1.1.6.4.3.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label
+                  :C (v7 / label~e.0))
+           :T (v4 / label~e.1)
+           :A (v5 / label
+                  :R (v8 / label~e.3)
+                  :A (v9 / label~e.4)
+                  :S (v10 / label~e.5)
+                  :A (v11 / label
+                          :E (v16 / label~e.7)
+                          :R (v17 / label~e.8)
+                          :E (v18 / label~e.9)
+                          :C (v19 / label~e.10)))
+           :A (v6 / label
+                  :C (v12 / label
+                          :A (v20 / label)
+                          :P (v21 / label~e.13)
+                          :A (v22 / label
+                                  :R (v28 / label~e.14)
+                                  :E (v29 / label~e.15)
+                                  :C (v30 / label~e.16)
+                                  :E (v31 / label
+                                          :R (v38 / label~e.17)
+                                          :C (v39 / label~e.19))))
+                  :C (v13 / label
+                          :C (v23 / label~e.22)
+                          :E (v24 / label
+                                  :A (v32 / label
+                                          :H (v40 / label
+                                                  :A (v47 / label~e.23)
+                                                  :D (v48 / label~e.24)
+                                                  :S (v49 / label~e.25))
+                                          :L (v41 / label~e.33)
+                                          :H (v42 / label
+                                                  :D (v50 / label
+                                                          :C (v55 / label~e.35)
+                                                          :R (v56 / label~e.36))
+                                                  :A (v51 / label~e.37)
+                                                  :S (v52 / label~e.38)))
+                                  :S (v33 / label~e.26)
+                                  :A (v34 / label
+                                          :R (v43 / label~e.28)
+                                          :E (v44 / label~e.29)
+                                          :C (v45 / label~e.30)
+                                          :E (v46 / label
+                                                  :R (v53 / label~e.31)
+                                                  :C (v54 / label~e.32)))))
+                  :N (v14 / label~e.39)
+                  :C (v15 / label
+                          :E (v25 / label~e.40)
+                          :C (v26 / label~e.41)
+                          :E (v27 / label
+                                  :R (v35 / label~e.42)
+                                  :E (v36 / label~e.44)
+                                  :C (v37 / label~e.45))))))

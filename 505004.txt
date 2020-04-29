@@ -1,0 +1,38 @@
+# ::id 505004
+# ::tok The same year , he made a cameo appearance in the German film Christiane F . , a real - life story of teenage drug addiction in 1970s Berlin .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 4-1.1.3 6-1.1.4.2 7-1.1.5 8-1.1.4.3 9-1.1.6.1 10-1.1.6.2.1 11-1.1.6.2.2 12-1.1.6.2.3 13-1.1.6.3 14-1.1.6.3 17-1.1.6.4.1.1 18-1.1.6.4.2.1 20-1.1.6.4.2.2 21-1.1.6.4.1.2 22-1.1.6.4.3.1 23-1.1.6.4.3.2 24-1.1.6.4.3.3 25-1.1.6.4.3.4 26-1.1.6.4.3.5.1 27-1.1.6.4.3.5.2 28-1.1.6.4.3.6
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label
+                  :E (v8 / label~e.0)
+                  :E (v9 / label~e.1)
+                  :C (v10 / label~e.2))
+           :A (v4 / label~e.4)
+           :P (v5 / label
+                  :E (v11 / label~e.6)
+                  :C (v12 / label~e.8))
+           :D (v6 / label~e.7)
+           :A (v7 / label
+                  :R (v13 / label~e.9)
+                  :E (v14 / label
+                          :E (v17 / label~e.10)
+                          :E (v18 / label~e.11)
+                          :C (v19 / label~e.12))
+                  :C (v15 / label~e.13,14)
+                  :E (v16 / label
+                          :P (v20 / label
+                                  :E (v23 / label~e.17)
+                                  :C (v24 / label~e.21))
+                          :D (v21 / label
+                                  :C (v25 / label~e.18)
+                                  :C (v26 / label~e.20))
+                          :A (v22 / label
+                                  :R (v27 / label~e.22)
+                                  :A (v28 / label~e.23)
+                                  :A (v29 / label~e.24)
+                                  :P (v30 / label~e.25)
+                                  :T (v31 / label
+                                          :R (v33 / label~e.26)
+                                          :C (v34 / label~e.27))
+                                  :A (v32 / label~e.28))))))

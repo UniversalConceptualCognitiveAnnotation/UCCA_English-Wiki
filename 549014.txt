@@ -1,0 +1,49 @@
+# ::id 549014
+# ::tok Jack 's older brother , Harry , reflected the Warner family feelings about the marriage when he exclaimed , " Thank God our mother did n't live to see this " . Warner married Ann after the divorce .
+# ::alignments 0-1.1.1.1.1.2.1 1-1.1.1.1.1.2.2 2-1.1.1.1.2.1 3-1.1.1.1.1.3 5-1.1.1.2 7-1.1.2 9-1.1.3.1.2 10-1.1.3.1.3 11-1.1.3.2 12-1.1.3.3.1 14-1.1.3.3.3 15-1.2 16-1.3.1 17-1.3.2 20-1.3.3.1 21-1.3.3.1 22-1.3.3.2.1 23-1.3.3.2.2 25-1.3.3.4 26-1.3.3.5 28-1.3.3.7 29-1.3.3.8 32-1.4.1 33-1.4.2 34-1.4.3 35-1.5 37-1.6.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v8 / label
+                  :E (v19 / label
+                          :C (v30 / label
+                                  :A (v20 / label~e.5)
+                                  :A (v38 / label
+                                          :C (v41 / label~e.0)
+                                          :R (v42 / label~e.1))
+                                  :S (v39 / label~e.3))
+                          :E (v31 / label
+                                  :S (v40 / label~e.2)
+                                  :A v39))
+                  :C v20)
+           :P (v9 / label~e.7)
+           :A (v10 / label
+                   :A (v21 / label
+                           :E (v32 / label~e.9)
+                           :C (v33 / label~e.10))
+                   :P (v22 / label~e.11)
+                   :A (v23 / label
+                           :R (v34 / label~e.12)
+                           :C (v35 / label~e.14))))
+    :L (v3 / label~e.15)
+    :H (v4 / label
+           :A (v11 / label~e.16)
+           :P (v12 / label~e.17)
+           :A (v13 / label
+                   :G (v24 / label~e.20,21)
+                   :A (v25 / label
+                           :A (v36 / label~e.22)
+                           :S (v37 / label~e.23))
+                   :D (v26 / label~e.25)
+                   :D (v27 / label~e.26)
+                   :P (v28 / label~e.28)
+                   :A (v29 / label~e.29)))
+    :H (v5 / label
+           :A (v14 / label~e.32)
+           :P (v15 / label~e.33)
+           :A (v16 / label~e.34))
+    :L (v6 / label~e.35)
+    :H (v7 / label
+           :A (v17 / label)
+           :P (v18 / label~e.37)
+           :A v14))

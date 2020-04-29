@@ -1,0 +1,22 @@
+# ::id 511017
+# ::tok On 1 March , the album was made available to stream for free through iTunes .
+# ::alignments 0-1.1.4.1 1-1.1.4.2 2-1.1.4.3 4-1.1.5.1 5-1.1.5.2 8-1.1.7.2 10-1.1.9 11-1.1.1.1 12-1.1.1.2 13-1.1.2.1 14-1.1.2.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :R (v9 / label~e.11)
+                  :C (v10 / label~e.12))
+           :A (v4 / label
+                  :R (v11 / label~e.13)
+                  :C (v12 / label~e.14))
+           :T (v5 / label
+                  :R (v13 / label~e.0)
+                  :C (v14 / label~e.1)
+                  :C (v15 / label~e.2))
+           :A (v6 / label
+                  :E (v16 / label~e.4)
+                  :C (v17 / label~e.5))
+           :D (v7 / label
+                  :C (v18 / label~e.8))
+           :P (v8 / label~e.10)))

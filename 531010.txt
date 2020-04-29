@@ -1,0 +1,26 @@
+# ::id 531010
+# ::tok Garland sued Luft for divorce in 1963 , claiming " cruelty " as the grounds .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4.3 4-1.1.4.4 5-1.1.5.1 6-1.1.5.2 8-1.2.3 10-1.2.4.3.1 12-1.2.4.1.1 14-1.2.4.1.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label~e.0)
+           :P (v5 / label~e.1)
+           :A (v6 / label~e.2)
+           :A (v7 / label
+                  :A v4
+                  :A v6
+                  :R (v11 / label~e.3)
+                  :P (v12 / label~e.4))
+           :T (v8 / label
+                  :R (v13 / label~e.5)
+                  :C (v14 / label~e.6)))
+    :H (v3 / label
+           :A v4
+           :P (v9 / label~e.8)
+           :A (v10 / label
+                   :S (v15 / label
+                           :R (v17 / label~e.12)
+                           :C (v18 / label~e.14))
+                   :A (v16 / label
+                           :S (v19 / label~e.10)))))

@@ -1,0 +1,30 @@
+# ::id 500014
+# ::tok In 1975 , in a move echoing Ken Pitt 's acrimonious dismissal five years earlier , Bowie fired his manager .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.2 4-1.3.2.1 5-1.3.2.2 6-1.3.3 7-1.3.1.1.1 8-1.3.1.1.1 9-1.3.1.1.2 10-1.3.1.2 11-1.3.1.3 12-1.3.1.4.1 13-1.3.1.4.2 14-1.3.1.4.3 16-1.1.2 17-1.1.3 18-1.1.4.1 19-1.1.4.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v5 / label
+                  :R (v12 / label~e.0)
+                  :C (v13 / label~e.1))
+           :A (v6 / label~e.16)
+           :P (v7 / label~e.17)
+           :A (v8 / label
+                  :A (v14 / label~e.18)
+                  :A (v15 / label~e.19)))
+    :L (v3 / label~e.3)
+    :H (v4 / label
+           :A (v9 / label
+                  :A (v16 / label
+                          :C (v22 / label~e.7,8)
+                          :R (v23 / label~e.9))
+                  :D (v17 / label~e.10)
+                  :P (v18 / label~e.11)
+                  :T (v19 / label
+                          :Q (v24 / label~e.12)
+                          :C (v25 / label~e.13)
+                          :R (v26 / label~e.14)))
+           :A (v10 / label
+                   :E (v20 / label~e.4)
+                   :C (v21 / label~e.5))
+           :P (v11 / label~e.6)))

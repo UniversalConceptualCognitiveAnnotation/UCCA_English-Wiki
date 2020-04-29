@@ -1,0 +1,22 @@
+# ::id 532016
+# ::tok In February 1967 , Garland was cast as Helen Lawson in Valley of the Dolls for 20th Century Fox .
+# ::alignments 0-1.1.2.1 1-1.1.2.2 2-1.1.2.3 4-1.1.3 6-1.1.5 7-1.1.6.1 8-1.1.6.2 9-1.1.6.2 10-1.1.7.1 11-1.1.7.2 12-1.1.7.2 13-1.1.7.2 14-1.1.7.2 15-1.1.7.3.2 16-1.1.7.3.3 17-1.1.7.3.3 18-1.1.7.3.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label
+                  :R (v8 / label~e.0)
+                  :C (v9 / label~e.1)
+                  :C (v10 / label~e.2))
+           :A (v4 / label~e.4)
+           :P (v5 / label~e.6)
+           :A (v6 / label
+                  :R (v11 / label~e.7)
+                  :C (v12 / label~e.8,9))
+           :A (v7 / label
+                  :R (v13 / label~e.10)
+                  :C (v14 / label~e.11,12,13,14)
+                  :E (v15 / label
+                          :A v14
+                          :S (v16 / label~e.15)
+                          :A (v17 / label~e.16,17,18)))))

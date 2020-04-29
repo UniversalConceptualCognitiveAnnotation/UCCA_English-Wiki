@@ -1,0 +1,30 @@
+# ::id 553006
+# ::tok Presley 's first RCA single , " Heartbreak Hotel " , released in January 1956 , was a number - one hit .
+# ::alignments 0-1.1.3.1.1.2 1-1.1.3.1.1.3 2-1.1.3.1.2 3-1.1.3.1.3.3 4-1.1.3.1.4 7-1.1.3.2 8-1.1.3.2 11-1.1.3.3.2 12-1.1.3.3.3.1 13-1.1.3.3.3.2 14-1.1.3.3.3.3 18-1.1.6.1 20-1.1.6.2 21-1.1.7
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label
+                         :E (v11 / label
+                                 :A (v14 / label~e.4)
+                                 :A (v17 / label~e.0)
+                                 :S (v18 / label~e.1))
+                         :Q (v12 / label~e.2)
+                         :E (v13 / label
+                                 :A v14
+                                 :S (v19 / label)
+                                 :A (v20 / label~e.3))
+                         :C v14)
+                  :C (v7 / label~e.7,8)
+                  :E (v8 / label
+                         :A v7
+                         :P (v15 / label~e.11)
+                         :T (v16 / label
+                                 :R (v21 / label~e.12)
+                                 :C (v22 / label~e.13)
+                                 :C (v23 / label~e.14))))
+           :D (v4 / label
+                  :C (v9 / label~e.18)
+                  :Q (v10 / label~e.20))
+           :S (v5 / label~e.21)))

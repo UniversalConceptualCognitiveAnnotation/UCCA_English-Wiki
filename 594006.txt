@@ -1,0 +1,41 @@
+# ::id 594006
+# ::tok Some have wondered why he has not verified his Native American ancestry with the Cherokee or any tribe when the information is easily available .
+# ::alignments 0-1.1.1.2 2-1.1.3 3-1.1.4.1 4-1.1.4.2.1.1.1 6-1.1.4.2.1.1.3 7-1.1.4.2.1.1.4 8-1.1.4.2.1.1.5.1 9-1.1.4.2.1.1.5.2.1 10-1.1.4.2.1.1.5.2.2 11-1.1.4.2.1.1.5.3 12-1.1.4.2.1.1.6.1 13-1.1.4.2.1.1.6.2 14-1.1.4.2.1.1.6.3.1 15-1.1.4.2.1.1.6.3.2 16-1.1.4.2.1.1.6.3.3.1 17-1.1.4.2.1.1.6.3.3.2 18-1.1.4.2.2 19-1.1.4.2.3.1.1 20-1.1.4.2.3.1.2 22-1.1.4.2.3.3 23-1.1.4.2.3.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :C (v6 / label)
+                  :Q (v7 / label~e.0))
+           :P (v4 / label~e.2)
+           :A (v5 / label
+                  :C (v8 / label~e.3)
+                  :E (v9 / label
+                         :H (v10 / label
+                                 :H (v13 / label
+                                         :A (v17 / label~e.4)
+                                         :D (v18 / label~e.6)
+                                         :P (v19 / label~e.7)
+                                         :A (v20 / label
+                                                 :A (v24 / label~e.8)
+                                                 :A (v25 / label
+                                                         :E (v30 / label~e.9)
+                                                         :C (v31 / label~e.10))
+                                                 :S (v26 / label~e.11))
+                                         :A (v21 / label
+                                                 :R (v27 / label~e.12)
+                                                 :E (v28 / label~e.13)
+                                                 :C (v29 / label
+                                                         :C (v32 / label~e.14)
+                                                         :N (v33 / label~e.15)
+                                                         :C (v34 / label
+                                                                 :Q (v35 / label~e.16)
+                                                                 :C (v36 / label~e.17))))))
+                         :L (v11 / label~e.18)
+                         :H (v12 / label
+                                 :A (v14 / label
+                                         :E (v22 / label~e.19)
+                                         :C (v23 / label~e.20))
+                                 :D (v15 / label~e.22)
+                                 :S (v16 / label~e.23))
+                         :H v8))))

@@ -1,0 +1,26 @@
+# ::id 509009
+# ::tok Making extensive use of live instruments , the album was Bowie 's exit from heavy electronica .
+# ::alignments 1-1.1.3 2-1.1.2.2 3-1.1.4.1 4-1.1.4.2 5-1.1.4.3 7-1.2.2.1 8-1.1.1 10-1.2.4.1 11-1.2.4.2 12-1.2.5 13-1.2.1.1 14-1.2.1.2 15-1.2.1.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label~e.8)
+           :P (v5 / label
+                  :C (v12 / label~e.2))
+           :D (v6 / label~e.1)
+           :A (v7 / label
+                  :R (v13 / label~e.3)
+                  :E (v14 / label~e.4)
+                  :C (v15 / label~e.5)))
+    :H (v3 / label
+           :A (v8 / label
+                  :R (v16 / label~e.13)
+                  :E (v17 / label~e.14)
+                  :C (v18 / label~e.15))
+           :A (v9 / label
+                  :E (v19 / label~e.7)
+                  :C v4)
+           :A (v10 / label
+                   :C (v20 / label~e.10)
+                   :R (v21 / label~e.11))
+           :P (v11 / label~e.12)))

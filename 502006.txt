@@ -1,0 +1,64 @@
+# ::id 502006
+# ::tok During the same period , Iggy Pop , with Bowie as a co - writer and musician , completed his solo album debut The Idiot and its follow - up Lust for Life , touring the UK , Europe , and the US in March and April 1977 .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 3-1.1.1.4 5-1.1.2 6-1.1.2 8-1.1.3.1 9-1.1.3.2 10-1.1.3.3.3.2 12-1.1.3.3.3.3.1 14-1.1.3.3.3.3.2 15-1.1.3.3.2 16-1.1.3.3.4.2 18-1.1.4 19-1.1.5.1.1.1 20-1.1.5.1.1.2.1 21-1.1.5.1.1.2.2 22-1.1.5.1.1.3 23-1.1.5.1.2 24-1.1.5.1.3 25-1.1.5.2 26-1.1.5.3.1.1 27-1.1.5.3.1.2 29-1.1.5.3.1.3 30-1.1.5.3.2 31-1.1.5.3.2 32-1.1.5.3.2 34-1.2.2 35-1.2.3.1.1 36-1.2.3.1.2 38-1.2.3.2 40-1.2.3.3 41-1.2.3.4.1 42-1.2.3.4.2 43-1.2.4.4 44-1.2.4.1.1 45-1.2.4.1.2 46-1.2.4.1.3 47-1.2.4.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v4 / label
+                  :R (v12 / label~e.0)
+                  :E (v13 / label~e.1)
+                  :E (v14 / label~e.2)
+                  :C (v15 / label~e.3))
+           :A (v5 / label~e.5,6)
+           :A (v6 / label
+                  :R (v16 / label~e.8)
+                  :C (v17 / label~e.9)
+                  :E (v18 / label
+                          :L (v29 / label~e.15)
+                          :H (v30 / label
+                                  :A v17
+                                  :R (v44 / label~e.10)
+                                  :S (v45 / label
+                                          :E (v53 / label~e.12)
+                                          :C (v54 / label~e.14)))
+                          :H (v31 / label
+                                  :A v17
+                                  :S (v46 / label~e.16)
+                                  :R v44)))
+           :P (v7 / label~e.18)
+           :A (v8 / label
+                  :C (v19 / label
+                          :E (v32 / label
+                                  :A (v47 / label~e.19)
+                                  :A (v48 / label
+                                          :E (v55 / label~e.20)
+                                          :C (v56 / label~e.21))
+                                  :P (v49 / label~e.22))
+                          :E (v33 / label~e.23)
+                          :C (v34 / label~e.24))
+                  :N (v20 / label~e.25)
+                  :C (v21 / label
+                          :E (v35 / label
+                                  :E (v50 / label~e.26)
+                                  :C (v51 / label~e.27)
+                                  :E (v52 / label~e.29))
+                          :C (v36 / label~e.30,31,32))))
+    :H (v3 / label
+           :A v5
+           :P (v9 / label~e.34)
+           :A (v10 / label
+                   :C (v22 / label
+                           :E (v37 / label~e.35)
+                           :C (v38 / label~e.36))
+                   :C (v23 / label~e.38)
+                   :N (v24 / label~e.40)
+                   :C (v25 / label
+                           :E (v39 / label~e.41)
+                           :C (v40 / label~e.42)))
+           :T (v11 / label
+                   :E (v26 / label
+                           :C (v41 / label~e.44)
+                           :N (v42 / label~e.45)
+                           :C (v43 / label~e.46))
+                   :C (v27 / label~e.47)
+                   :R (v28 / label~e.43))))

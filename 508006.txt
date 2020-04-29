@@ -1,0 +1,109 @@
+# ::id 508006
+# ::tok Making prominent use of electronic instruments , the album , which reunited Bowie with Let 's Dance producer Nile Rodgers , confirmed Bowie 's return to popularity , hitting the number one spot on the UK charts and spawning three top 40 hits , including the top 10 song " Jump They Say " . Bowie explored new directions on The Buddha of Suburbia ( 1993 ) , a soundtrack album of incidental music composed for the TV series adaptation of Hanif Kureishi 's novel .
+# ::alignments 1-1.1.2 2-1.1.1.2 3-1.1.3.1 4-1.1.3.2 5-1.1.3.3 7-1.2.2.2 8-1.1.4 10-1.2.2.4.2 11-1.2.2.4.3 12-1.2.2.4.4 13-1.2.2.4.5.3 14-1.2.2.4.5.1.1 15-1.2.2.4.5.1.1 16-1.2.2.4.5.1.1 17-1.2.2.4.5.1.2 18-1.2.2.4.5.2 19-1.2.2.4.5.2 21-1.2.3 22-1.2.4.1.1 23-1.2.4.1.2 24-1.2.4.2 25-1.2.4.3.1 26-1.2.4.3.2 28-1.3.1 29-1.3.2.1 30-1.3.2.2.1 31-1.3.2.2.2 32-1.3.2.3 33-1.3.3.1 34-1.3.3.2 35-1.3.3.3 36-1.3.3.4 37-1.4 38-1.5.1 39-1.5.2.2 40-1.5.2.3.1 41-1.5.2.3.2 42-1.5.2.4 44-1.5.2.5.2 45-1.5.2.5.3.1 46-1.5.2.5.3.2.1 47-1.5.2.5.3.2.2 48-1.5.2.5.3.3 50-1.5.2.5.4 51-1.5.2.5.4 52-1.5.2.5.4 55-1.6.1 56-1.6.2 57-1.6.3.1 58-1.6.3.2 59-1.6.4.4 60-1.6.4.5 61-1.6.4.5 62-1.6.4.5 63-1.6.4.5 65-1.6.4.6.3 68-1.6.4.7.1 69-1.6.4.7.2 70-1.6.4.7.3 71-1.6.4.7.4.1 72-1.6.4.7.4.2 73-1.6.4.7.4.3 74-1.6.4.7.5.2 75-1.6.4.7.5.3.1 76-1.6.4.7.5.3.2.1 77-1.6.4.7.5.3.2.2 78-1.6.4.7.5.3.2.3 79-1.6.4.7.5.3.3 80-1.6.4.7.5.3.4.2 81-1.6.4.7.5.3.4.3.2 82-1.6.4.7.5.3.4.3.2 83-1.6.4.7.5.3.4.3.3 84-1.6.4.7.5.3.4.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v8 / label
+                  :C (v24 / label~e.2))
+           :D (v9 / label~e.1)
+           :A (v10 / label
+                   :R (v25 / label~e.3)
+                   :E (v26 / label~e.4)
+                   :C (v27 / label~e.5))
+           :A (v11 / label~e.8))
+    :H (v3 / label
+           :A (v12 / label
+                   :E (v28 / label~e.7)
+                   :C v11
+                   :E (v29 / label
+                           :A v11
+                           :R (v50 / label~e.10)
+                           :P (v51 / label~e.11)
+                           :A (v52 / label~e.12)
+                           :A (v53 / label
+                                   :E (v72 / label
+                                           :A (v83 / label~e.14,15,16)
+                                           :P (v84 / label~e.17))
+                                   :C (v73 / label~e.18,19)
+                                   :R (v74 / label~e.13))))
+           :P (v13 / label~e.21)
+           :A (v14 / label
+                   :A (v30 / label
+                           :C (v54 / label~e.22)
+                           :R (v55 / label~e.23))
+                   :D (v31 / label~e.24)
+                   :S (v32 / label
+                           :R (v56 / label~e.25)
+                           :C (v57 / label~e.26))))
+    :H (v4 / label
+           :P (v15 / label~e.28)
+           :A (v16 / label
+                   :E (v33 / label~e.29)
+                   :E (v34 / label
+                           :C (v58 / label~e.30)
+                           :Q (v59 / label~e.31))
+                   :C (v35 / label~e.32))
+           :A (v17 / label
+                   :R (v36 / label~e.33)
+                   :E (v37 / label~e.34)
+                   :E (v38 / label~e.35)
+                   :C (v39 / label~e.36))
+           :A v11)
+    :L (v5 / label~e.37)
+    :H (v6 / label
+           :P (v18 / label~e.38)
+           :A (v19 / label
+                   :Q (v40 / label~e.39)
+                   :E (v41 / label
+                           :C (v60 / label~e.40)
+                           :Q (v61 / label~e.41))
+                   :C (v42 / label~e.42)
+                   :E (v43 / label
+                           :R (v62 / label~e.44)
+                           :E (v63 / label
+                                   :E (v75 / label~e.45)
+                                   :E (v76 / label
+                                           :C (v85 / label~e.46)
+                                           :Q (v86 / label~e.47))
+                                   :C (v77 / label~e.48))
+                           :C (v64 / label~e.50,51,52)))
+           :A v11)
+    :H (v7 / label
+           :A (v20 / label~e.55)
+           :P (v21 / label~e.56)
+           :A (v22 / label
+                   :E (v44 / label~e.57)
+                   :C (v45 / label~e.58))
+           :A (v23 / label
+                   :R (v46 / label~e.59)
+                   :C (v47 / label~e.60,61,62,63)
+                   :E (v48 / label
+                           :A v47
+                           :P (v65 / label)
+                           :T (v66 / label~e.65))
+                   :E (v49 / label
+                           :E (v67 / label~e.68)
+                           :E (v68 / label~e.69)
+                           :C (v69 / label~e.70)
+                           :E (v70 / label
+                                   :R (v78 / label~e.71)
+                                   :E (v79 / label~e.72)
+                                   :C (v80 / label~e.73))
+                           :E (v71 / label
+                                   :A v69
+                                   :P (v81 / label~e.74)
+                                   :A (v82 / label
+                                           :R (v87 / label~e.75)
+                                           :A (v88 / label
+                                                   :E (v91 / label~e.76)
+                                                   :E (v92 / label~e.77)
+                                                   :C (v93 / label~e.78))
+                                           :P (v89 / label~e.79)
+                                           :A (v90 / label
+                                                   :R (v94 / label~e.80)
+                                                   :E (v95 / label
+                                                           :A (v96 / label~e.84)
+                                                           :A (v97 / label~e.81,82)
+                                                           :S (v98 / label~e.83))
+                                                   :C v96)))))))

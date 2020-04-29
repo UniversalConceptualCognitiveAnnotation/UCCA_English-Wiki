@@ -1,0 +1,28 @@
+# ::id 565005
+# ::tok Elvis , Presley 's second album , was released in October and quickly rose to number one .
+# ::alignments 0-1.3.1 2-1.1.1.2.1.2 3-1.1.1.2.1.3 4-1.1.1.2.2 5-1.1.1.2.3 8-1.1.3 9-1.1.4.1 10-1.1.4.2 11-1.2 12-1.3.2 13-1.3.3 14-1.3.4.4 15-1.3.4.1 16-1.3.4.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :C (v8 / label~e.0)
+                  :E (v12 / label
+                          :E (v18 / label
+                                  :A (v20 / label~e.5)
+                                  :A (v21 / label~e.2)
+                                  :S (v22 / label~e.3))
+                          :Q (v19 / label~e.4)
+                          :C v20))
+           :P (v6 / label~e.8)
+           :T (v7 / label
+                  :R (v13 / label~e.9)
+                  :C (v14 / label~e.10)))
+    :L (v3 / label~e.11)
+    :H (v4 / label
+           :A v8
+           :T (v9 / label~e.12)
+           :P (v10 / label~e.13)
+           :A (v11 / label
+                   :C (v15 / label~e.15)
+                   :Q (v16 / label~e.16)
+                   :R (v17 / label~e.14))))

@@ -1,0 +1,41 @@
+# ::id 455006
+# ::tok Jennings was praised for his performance during the 1986 Space Shuttle Challenger disaster , when he anchored ABC 's coverage of the event for 11 straight hours .
+# ::alignments 0-1.1.1 2-1.1.3 3-1.1.4.1 4-1.1.4.2 5-1.1.4.3 6-1.1.4.4.1 7-1.1.4.4.2.1 8-1.1.4.4.3 9-1.1.4.4.4.1.1 10-1.1.4.4.4.1.2 11-1.1.4.4.4.2 12-1.1.4.4.2.2 14-1.2 15-1.3.2 16-1.3.3 17-1.3.4.1.1 18-1.3.4.1.2 19-1.3.4.2 20-1.3.4.3.1 21-1.3.4.3.2 22-1.3.4.3.3 23-1.3.1.1 24-1.3.1.2 25-1.3.1.3 26-1.3.1.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label~e.0)
+           :P (v6 / label~e.2)
+           :A (v7 / label
+                  :R (v12 / label~e.3)
+                  :A (v13 / label~e.4)
+                  :P (v14 / label~e.5)
+                  :A (v15 / label
+                          :R (v23 / label~e.6)
+                          :P (v24 / label
+                                  :E (v32 / label~e.7)
+                                  :C (v33 / label~e.12))
+                          :T (v25 / label~e.8)
+                          :A (v26 / label
+                                  :E (v34 / label
+                                          :E (v36 / label~e.9)
+                                          :C (v37 / label~e.10))
+                                  :C (v35 / label~e.11)))))
+    :L (v3 / label~e.14)
+    :H (v4 / label
+           :T (v8 / label
+                  :R (v16 / label~e.23)
+                  :Q (v17 / label~e.24)
+                  :E (v18 / label~e.25)
+                  :C (v19 / label~e.26))
+           :A (v9 / label~e.15)
+           :P (v10 / label~e.16)
+           :A (v11 / label
+                   :A (v20 / label
+                           :C (v27 / label~e.17)
+                           :R (v28 / label~e.18))
+                   :P (v21 / label~e.19)
+                   :A (v22 / label
+                           :R (v29 / label~e.20)
+                           :E (v30 / label~e.21)
+                           :C (v31 / label~e.22)))))

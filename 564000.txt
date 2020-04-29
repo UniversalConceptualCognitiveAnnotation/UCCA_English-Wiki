@@ -1,0 +1,44 @@
+# ::id 564000
+# ::tok The next day , Presley recorded " Hound Dog " , along with " Any Way You Want Me " and " Do n't Be Cruel " . The Jordanaires sang harmony , as they had on The Steve Allen Show ; they would work with Presley through the 1960s .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 4-1.1.2 5-1.1.3 7-1.1.4 8-1.1.4 11-1.1.5.1 12-1.1.5.1 14-1.1.5.2.1 15-1.1.5.2.1 16-1.1.5.2.1 17-1.1.5.2.1 18-1.1.5.2.1 20-1.1.5.2.2 22-1.1.5.2.3 23-1.1.5.2.3 24-1.1.5.2.3 25-1.1.5.2.3 28-1.2.1.1 29-1.2.1.2 30-1.2.2 31-1.2.3 33-1.3 34-1.4.1 36-1.4.3.1 37-1.4.3.2 38-1.4.3.2 39-1.4.3.2 40-1.4.3.2 42-1.5.1 43-1.5.2 44-1.5.3 45-1.5.4.1 46-1.5.4.2 47-1.5.5.1 48-1.5.5.2 49-1.5.5.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v7 / label
+                  :E (v22 / label~e.0)
+                  :E (v23 / label~e.1)
+                  :C (v24 / label~e.2))
+           :A (v8 / label~e.4)
+           :P (v9 / label~e.5)
+           :A (v10 / label~e.7,8)
+           :A (v11 / label
+                   :R (v25 / label~e.11,12)
+                   :C (v26 / label
+                           :C (v36 / label~e.14,15,16,17,18)
+                           :N (v37 / label~e.20)
+                           :C (v38 / label~e.22,23,24,25))))
+    :H (v3 / label
+           :A (v12 / label
+                   :E (v27 / label~e.28)
+                   :C (v28 / label~e.29))
+           :P (v13 / label~e.30)
+           :A (v14 / label~e.31))
+    :L (v4 / label~e.33)
+    :H (v5 / label
+           :A (v15 / label~e.34)
+           :A (v16 / label
+                   :R (v29 / label~e.36)
+                   :C (v30 / label~e.37,38,39,40))
+           :P v13
+           :A v14)
+    :H (v6 / label
+           :A (v17 / label~e.42)
+           :D (v18 / label~e.43)
+           :P (v19 / label~e.44)
+           :A (v20 / label
+                   :R (v31 / label~e.45)
+                   :C (v32 / label~e.46))
+           :T (v21 / label
+                   :R (v33 / label~e.47)
+                   :E (v34 / label~e.48)
+                   :C (v35 / label~e.49))))

@@ -1,0 +1,21 @@
+# ::id 523001
+# ::tok Frank Gumm died the following morning , on November 17 , leaving her devastated .
+# ::alignments 0-1.1.1 1-1.1.1 2-1.1.2 4-1.1.3.1.2 5-1.1.3.1.3 7-1.1.3.2.1 8-1.1.3.2.2 9-1.1.3.2.3 11-1.2.3 12-1.2.4 13-1.2.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label~e.0,1)
+           :P (v5 / label~e.2)
+           :T (v6 / label
+                  :C (v11 / label
+                          :E (v13 / label~e.4)
+                          :C (v14 / label~e.5))
+                  :C (v12 / label
+                          :R (v15 / label~e.7)
+                          :C (v16 / label~e.8)
+                          :C (v17 / label~e.9))))
+    :H (v3 / label
+           :A (v7 / label)
+           :D (v8 / label~e.11)
+           :A (v9 / label~e.12)
+           :S (v10 / label~e.13)))

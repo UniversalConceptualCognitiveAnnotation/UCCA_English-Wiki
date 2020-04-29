@@ -1,0 +1,29 @@
+# ::id 499009
+# ::tok Life on Mars ? " , from Hunky Dory , was released in June 1973 and made number three in the UK singles chart .
+# ::alignments 0-1.3.1 1-1.3.1 2-1.3.1 6-1.1.1.2.1 7-1.1.1.2.2 8-1.1.1.2.2 11-1.1.3 12-1.1.4.1 13-1.1.4.2 14-1.1.4.3 15-1.2 16-1.3.2 17-1.3.3.1 18-1.3.3.2 19-1.3.4.6 20-1.3.4.1 21-1.3.4.2 22-1.3.4.3 23-1.3.4.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :C (v8 / label~e.0,1,2)
+                  :E (v12 / label
+                          :R (v23 / label~e.6)
+                          :C (v24 / label~e.7,8)))
+           :P (v6 / label~e.11)
+           :T (v7 / label
+                  :R (v13 / label~e.12)
+                  :C (v14 / label~e.13)
+                  :C (v15 / label~e.14)))
+    :L (v3 / label~e.15)
+    :H (v4 / label
+           :A v8
+           :D (v9 / label~e.16)
+           :S (v10 / label
+                   :C (v16 / label~e.17)
+                   :Q (v17 / label~e.18))
+           :A (v11 / label
+                   :E (v18 / label~e.20)
+                   :E (v19 / label~e.21)
+                   :E (v20 / label~e.22)
+                   :C (v21 / label~e.23)
+                   :R (v22 / label~e.19))))

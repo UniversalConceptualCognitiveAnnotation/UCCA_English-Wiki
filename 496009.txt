@@ -1,0 +1,130 @@
+# ::id 496009
+# ::tok The Arts Lab hosted a free festival in a local park , later immortalised by Bowie in his song " Memory of a Free Festival " . Bowie 's second album , Space Oddity , followed in November ; originally issued in the UK as David Bowie , it caused some confusion with its predecessor of the same name , and the early US release was instead titled Man of Words / Man of Music . Featuring philosophical post - hippie lyrics on peace , love and morality , its acoustic folk rock occasionally fortified by harder rock , the album was not a commercial success at the time of its release .
+# ::alignments 0-1.1.1 1-1.1.1 2-1.1.1 3-1.1.2 4-1.1.3.1 5-1.1.4 6-1.3.4 7-1.1.5.1 8-1.1.5.2 9-1.1.5.3 10-1.1.5.4 12-1.2 13-1.3.1 14-1.3.2.1 15-1.3.2.2 16-1.3.3.1 17-1.3.3.2.1.2 18-1.3.3.2.2 20-1.3.3.3 21-1.3.3.3 22-1.3.3.3 23-1.3.3.3 24-1.3.3.3 27-1.4.1.1.1.2 28-1.4.1.1.1.3 29-1.4.1.1.2 30-1.4.1.1.3 32-1.5.1 33-1.5.1 35-1.4.2 36-1.4.3.1 37-1.4.3.2 39-1.5.2 40-1.5.3 41-1.5.4.2 42-1.5.4.3 43-1.5.4.1 44-1.5.5.1 45-1.5.5.2 46-1.5.5.2 48-1.6.1 49-1.6.2 50-1.6.3 51-1.6.4 52-1.6.5.1 53-1.6.5.2 54-1.6.5.3 55-1.6.5.4.1 56-1.6.5.4.2 57-1.6.5.4.3 58-1.6.5.4.4 60-1.7 61-1.8.1.1 62-1.8.1.2 63-1.8.1.3 64-1.8.1.4 66-1.8.3 67-1.8.4 68-1.8.5 69-1.8.5 70-1.8.5 72-1.8.5 73-1.8.5 74-1.8.5 76-1.9.2 77-1.9.3.1.2 78-1.9.3.2.2.2 80-1.9.3.2.2.3 81-1.9.3.3 82-1.9.3.4.1 83-1.9.3.4.2.2 85-1.9.3.4.2.3 86-1.9.3.4.2.4 87-1.9.3.4.2.5 89-1.10.1.1 90-1.10.1.2 91-1.10.1.3 92-1.10.1.4 93-1.10.2 94-1.10.3 95-1.10.4.1 96-1.10.4.2 97-1.10.4.3 99-1.11.1.1 100-1.11.1.2 102-1.11.3 103-1.11.4.1 104-1.11.4.2 105-1.11.5 106-1.12.1 107-1.12.2 108-1.12.3 109-1.12.4 110-1.13.2 111-1.13.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v15 / label~e.0,1,2)
+           :D (v16 / label~e.3)
+           :P (v17 / label
+                   :E (v57 / label~e.4)
+                   :C (v23 / label~e.6))
+           :A (v18 / label~e.5)
+           :A (v19 / label
+                   :R (v58 / label~e.7)
+                   :E (v59 / label~e.8)
+                   :E (v60 / label~e.9)
+                   :C (v61 / label~e.10)))
+    :L (v3 / label~e.12)
+    :H (v4 / label
+           :P (v20 / label~e.13)
+           :A (v21 / label
+                   :R (v62 / label~e.14)
+                   :C (v63 / label~e.15))
+           :A (v22 / label
+                   :R (v64 / label~e.16)
+                   :E (v65 / label
+                           :E (v98 / label
+                                   :A (v99 / label~e.18)
+                                   :A (v111 / label~e.17))
+                           :C v99)
+                   :C (v66 / label~e.20,21,22,23,24))
+           :A v23)
+    :H (v5 / label
+           :A (v24 / label
+                   :E (v67 / label
+                           :E (v100 / label
+                                    :A (v102 / label~e.30)
+                                    :A (v112 / label~e.27)
+                                    :S (v113 / label~e.28))
+                           :Q (v101 / label~e.29)
+                           :C v102)
+                   :C (v27 / label~e.32,33))
+           :P (v25 / label~e.35)
+           :T (v26 / label
+                   :R (v68 / label~e.36)
+                   :C (v69 / label~e.37)))
+    :H (v6 / label
+           :A v27
+           :D (v28 / label~e.39)
+           :P (v29 / label~e.40)
+           :A (v30 / label
+                   :C (v70 / label~e.43)
+                   :R (v71 / label~e.41)
+                   :E (v72 / label~e.42))
+           :A (v31 / label
+                   :R (v73 / label~e.44)
+                   :C (v74 / label~e.45,46)))
+    :H (v7 / label
+           :A (v32 / label~e.48)
+           :D (v33 / label~e.49)
+           :D (v34 / label~e.50)
+           :P (v35 / label~e.51)
+           :A (v36 / label
+                   :R (v75 / label~e.52)
+                   :E (v76 / label~e.53)
+                   :C (v77 / label~e.54)
+                   :E (v78 / label
+                           :R (v103 / label~e.55)
+                           :E (v104 / label~e.56)
+                           :E (v105 / label~e.57)
+                           :C (v106 / label~e.58))))
+    :L (v8 / label~e.60)
+    :H (v9 / label
+           :A (v37 / label
+                   :E (v79 / label~e.61)
+                   :E (v80 / label~e.62)
+                   :E (v81 / label~e.63)
+                   :C (v82 / label~e.64))
+           :D (v38 / label~e.66)
+           :P (v39 / label~e.67)
+           :A (v40 / label~e.68,69,70,72,73,74))
+    :H (v10 / label
+            :S (v41 / label~e.76)
+            :A (v42 / label
+                    :E (v83 / label
+                            :A (v85 / label~e.81)
+                            :S (v107 / label~e.77))
+                    :E (v84 / label
+                            :A v85
+                            :S (v108 / label
+                                     :E (v114 / label~e.78)
+                                     :C (v115 / label~e.80)))
+                    :C v85
+                    :E (v86 / label
+                            :R (v109 / label~e.82)
+                            :C (v110 / label
+                                     :C (v116 / label~e.83)
+                                     :C (v117 / label~e.85)
+                                     :N (v118 / label~e.86)
+                                     :C (v119 / label~e.87))))
+            :A v40)
+    :H (v11 / label
+            :A (v43 / label
+                    :E (v87 / label~e.89)
+                    :E (v88 / label~e.90)
+                    :E (v89 / label~e.91)
+                    :C (v90 / label~e.92))
+            :D (v44 / label~e.93)
+            :P (v45 / label~e.94)
+            :A (v46 / label
+                    :R (v91 / label~e.95)
+                    :E (v92 / label~e.96)
+                    :C (v93 / label~e.97)))
+    :H (v12 / label
+            :A (v47 / label
+                    :E (v94 / label~e.99)
+                    :C (v95 / label~e.100))
+            :D (v48 / label~e.102)
+            :A (v49 / label
+                    :E (v96 / label~e.103)
+                    :C (v97 / label~e.104))
+            :P (v50 / label~e.105))
+    :L (v13 / label
+            :R (v51 / label~e.106)
+            :E (v52 / label~e.107)
+            :C (v53 / label~e.108)
+            :R (v54 / label~e.109))
+    :H (v14 / label
+            :A (v55 / label~e.110)
+            :P (v56 / label~e.111)))

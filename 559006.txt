@@ -1,0 +1,17 @@
+# ::id 559006
+# ::tok I just did n't know what to make of it .
+# ::alignments 0-1.1.1 1-1.1.2 3-1.1.4 4-1.1.5 5-1.1.6.1 7-1.1.6.2.3 8-1.1.6.2.3 9-1.1.6.2.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :D (v4 / label~e.1)
+           :D (v5 / label~e.3)
+           :P (v6 / label~e.4)
+           :A (v7 / label
+                  :C (v8 / label~e.5)
+                  :E (v9 / label
+                         :A v8
+                         :P (v10 / label~e.7,8)
+                         :A (v11 / label~e.9)
+                         :A v3))))

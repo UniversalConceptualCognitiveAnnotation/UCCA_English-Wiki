@@ -1,0 +1,63 @@
+# ::id 500005
+# ::tok The resulting documentary , Cracked Actor , featured a pasty and emaciated Bowie : the tour coincided with the singer 's slide from heavy cocaine use into addiction , producing severe physical debilitation , paranoia and emotional problems .
+# ::alignments 0-1.1.1.1.1 1-1.1.1.1.2 2-1.1.1.1.3 4-1.1.1.2 5-1.1.1.2 7-1.1.2 8-1.1.3.1.2.2.1 9-1.1.3.1.2.2.2 10-1.1.3.1.1 11-1.1.3.1.3.2 12-1.1.3.2 14-1.2.1.1 15-1.2.1.2 16-1.3.1 17-1.3.2 18-1.4.1.1.1 19-1.6.3 20-1.4.1.2 21-1.4.2 22-1.4.3.1 23-1.4.4 24-1.4.5 25-1.4.3.2 26-1.5 27-1.6.1 29-1.7 30-1.8.1 31-1.8.2 32-1.8.3 34-1.9.1 35-1.10 36-1.11.1 37-1.11.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v13 / label
+                   :E (v32 / label
+                           :E (v42 / label~e.0)
+                           :E (v43 / label~e.1)
+                           :C (v44 / label~e.2))
+                   :C (v33 / label~e.4,5))
+           :P (v14 / label~e.7)
+           :A (v15 / label
+                   :E (v34 / label
+                           :L (v45 / label~e.10)
+                           :H (v46 / label
+                                   :A (v35 / label~e.12)
+                                   :S (v49 / label
+                                           :E (v51 / label~e.8)
+                                           :C (v52 / label~e.9)))
+                           :H (v47 / label
+                                   :A v35
+                                   :S (v50 / label~e.11)))
+                   :C v35))
+    :H (v3 / label
+           :P (v16 / label
+                   :E (v36 / label~e.14)
+                   :C (v37 / label~e.15)))
+    :L (v4 / label
+           :C (v17 / label~e.16)
+           :R (v18 / label~e.17))
+    :H (v5 / label
+           :A (v19 / label
+                   :A (v38 / label
+                           :E (v48 / label~e.18)
+                           :C (v25 / label~e.19))
+                   :R (v39 / label~e.20))
+           :D (v20 / label~e.21)
+           :P (v21 / label
+                   :R (v40 / label~e.22)
+                   :C (v41 / label~e.25))
+           :D (v22 / label~e.23)
+           :A (v23 / label~e.24))
+    :L (v6 / label~e.26)
+    :H (v7 / label
+           :S (v24 / label~e.27)
+           :A v23
+           :A v25)
+    :L (v8 / label~e.29)
+    :H (v9 / label
+           :D (v26 / label~e.30)
+           :A (v27 / label~e.31)
+           :S (v28 / label~e.32)
+           :A v25)
+    :H (v10 / label
+            :S (v29 / label~e.34)
+            :A v25)
+    :L (v11 / label~e.35)
+    :H (v12 / label
+            :A (v30 / label~e.36)
+            :S (v31 / label~e.37)
+            :A v25))

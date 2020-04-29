@@ -1,0 +1,26 @@
+# ::id 563010
+# ::tok Presley would refer back to the Allen show as the most ridiculous performance of his career .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4 4-1.1.5.1 5-1.1.5.2 6-1.1.5.2 7-1.1.5.2 8-1.1.6.1 10-1.1.6.2.1.2.1 11-1.1.6.2.1.2.2 12-1.1.6.2.1.3 13-1.1.6.2.2 14-1.1.6.2.3.1 15-1.1.6.2.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :D (v4 / label~e.1)
+           :P (v5 / label~e.2)
+           :D (v6 / label~e.3)
+           :A (v7 / label
+                  :R (v9 / label~e.4)
+                  :C (v10 / label~e.5,6,7))
+           :A (v8 / label
+                  :S (v11 / label~e.8)
+                  :A (v12 / label
+                          :H (v13 / label
+                                  :D (v16 / label
+                                          :E (v20 / label~e.10)
+                                          :C (v21 / label~e.11))
+                                  :P (v17 / label~e.12))
+                          :L (v14 / label~e.13)
+                          :H (v15 / label
+                                  :A (v18 / label~e.14)
+                                  :P (v19 / label~e.15)))
+                  :A v10)))

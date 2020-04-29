@@ -1,0 +1,26 @@
+# ::id 538012
+# ::tok This makeshift theatre , called the Bijou , was furnished with chairs borrowed from a local undertaker .
+# ::alignments 0-1.1.2.1 1-1.1.2.2 2-1.1.2.3 4-1.1.2.4.2 6-1.1.2.4.3.2 9-1.1.4 10-1.1.5.3 11-1.1.5.1 12-1.1.5.2.2 13-1.1.5.2.3.1 15-1.1.5.2.3.3 16-1.1.5.2.3.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label~e.0)
+                  :E (v7 / label~e.1)
+                  :C (v8 / label~e.2)
+                  :E (v9 / label
+                         :A v8
+                         :S (v13 / label~e.4)
+                         :A (v14 / label
+                                 :C (v17 / label~e.6))))
+           :P (v4 / label~e.9)
+           :A (v5 / label
+                  :C (v10 / label~e.11)
+                  :E (v11 / label
+                          :A v10
+                          :P (v15 / label~e.12)
+                          :A (v16 / label
+                                  :R (v18 / label~e.13)
+                                  :A (v19 / label~e.15)
+                                  :A (v20 / label~e.16)))
+                  :R (v12 / label~e.10))))

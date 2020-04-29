@@ -1,0 +1,49 @@
+# ::id 557014
+# ::tok As Keisker reported , " Over and over I remember Sam saying , ' If I could find a white man who had the Negro sound and the Negro feel , I could make a billion dollars . ' "
+# ::alignments 0-1.1 1-1.2.3 2-1.2.4 5-1.2.5.1 6-1.2.5.1 7-1.2.5.1 8-1.2.5.2 9-1.2.5.3 10-1.2.5.4.1 11-1.2.5.4.2 14-1.2.5.4.3.1 15-1.2.5.4.3.2.1 16-1.2.5.4.3.2.2 17-1.2.5.4.3.2.3 18-1.2.5.4.3.2.4.1 19-1.2.5.4.3.2.4.2 20-1.2.5.4.3.2.4.3 21-1.2.5.4.3.2.4.4.1 22-1.2.5.4.3.2.4.4.2.2 23-1.2.5.4.3.2.4.4.2.3.1 24-1.2.5.4.3.2.4.4.2.3.2 25-1.2.5.4.3.2.4.4.2.3.3 26-1.2.5.4.3.2.4.4.3 28-1.2.5.4.3.2.4.4.4.3 29-1.2.5.4.3.2.4.4.4.4 31-1.2.5.4.3.3.1 32-1.2.5.4.3.3.2 33-1.2.5.4.3.3.3 34-1.2.5.4.3.3.4.1.1 35-1.2.5.4.3.3.4.1.2 36-1.2.5.4.3.3.4.2
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v4 / label~e.1)
+           :P (v5 / label~e.2)
+           :A (v6 / label
+                  :D (v7 / label~e.5,6,7)
+                  :A (v8 / label~e.8)
+                  :P (v9 / label~e.9)
+                  :A (v10 / label
+                          :A (v11 / label~e.10)
+                          :P (v12 / label~e.11)
+                          :A (v13 / label
+                                  :L (v14 / label~e.14)
+                                  :H (v15 / label
+                                          :A (v17 / label~e.15)
+                                          :D (v18 / label~e.16)
+                                          :P (v19 / label~e.17)
+                                          :A (v20 / label
+                                                  :E (v25 / label~e.18)
+                                                  :E (v26 / label~e.19)
+                                                  :C (v27 / label~e.20)
+                                                  :E (v28 / label
+                                                          :R (v31 / label~e.21)
+                                                          :H (v32 / label
+                                                                  :A v27
+                                                                  :S (v37 / label~e.22)
+                                                                  :A (v38 / label
+                                                                          :E (v41 / label~e.23)
+                                                                          :E (v42 / label~e.24)
+                                                                          :C (v43 / label~e.25)))
+                                                          :L (v33 / label~e.26)
+                                                          :H (v34 / label
+                                                                  :A v27
+                                                                  :A (v39 / label~e.28)
+                                                                  :S (v40 / label~e.29)))))
+                                  :H (v16 / label
+                                          :A (v21 / label~e.31)
+                                          :D (v22 / label~e.32)
+                                          :P (v23 / label~e.33)
+                                          :A (v24 / label
+                                                  :Q (v29 / label
+                                                          :E (v35 / label~e.34)
+                                                          :C (v36 / label~e.35))
+                                                  :C (v30 / label~e.36))))))))

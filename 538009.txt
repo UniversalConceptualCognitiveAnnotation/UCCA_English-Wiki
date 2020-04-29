@@ -1,0 +1,21 @@
+# ::id 538009
+# ::tok Sam Warner then secured a job as a projectionist at Idora Park , a local amusement park .
+# ::alignments 0-1.1.1 1-1.1.1 2-1.2 3-1.1.2.1 5-1.1.2.3 6-1.1.3.1 8-1.1.3.3 9-1.1.4.4 10-1.1.4.1 11-1.1.4.1 14-1.1.4.2.2 15-1.1.4.2.3 16-1.1.4.2.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label~e.0,1)
+           :D (v5 / label
+                  :E (v8 / label~e.3)
+                  :C (v9 / label~e.5))
+           :P (v6 / label
+                  :R (v10 / label~e.6)
+                  :C (v11 / label~e.8))
+           :A (v7 / label
+                  :C (v12 / label~e.10,11)
+                  :E (v13 / label
+                          :E (v15 / label~e.14)
+                          :E (v16 / label~e.15)
+                          :C (v17 / label~e.16))
+                  :R (v14 / label~e.9)))
+    :L (v3 / label~e.2))

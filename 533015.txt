@@ -1,0 +1,12 @@
+# ::id 533015
+# ::tok The public and press were barred .
+# ::alignments 1-1.1.2.2.3 2-1.1.2.2.1 3-1.1.2.2.2 5-1.1.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :C (v5 / label
+                         :N (v6 / label~e.2)
+                         :C (v7 / label~e.3)
+                         :C (v8 / label~e.1)))
+           :P (v4 / label~e.5)))

@@ -1,0 +1,97 @@
+# ::id 498000
+# ::tok With his next venture , Bowie , in the words of biographer David Buckley , " challenged the core belief of the rock music of its day " and " created perhaps the biggest cult in popular culture " . Dressed in a striking costume , his hair dyed red , Bowie launched his Ziggy Stardust stage show with the Spiders from Mars - Ronson , Bolder and Woodmansey - at the Toby Jug pub in Tolworth on 10 February 1972 .
+# ::alignments 0-1.1.4.1 1-1.1.4.2 2-1.1.4.3 3-1.1.4.4 5-1.2.3 7-1.1.6.1 8-1.1.6.2 9-1.1.6.3 10-1.1.7.1 11-1.1.7.2.1 12-1.1.7.3 13-1.1.7.3 16-1.1.5.3.2 17-1.1.5.3.3.1 18-1.1.5.3.3.2 19-1.1.5.3.3.3 20-1.1.5.3.3.4.1 21-1.1.5.3.3.4.2 22-1.1.5.3.3.4.3 23-1.1.5.3.3.4.4 24-1.1.5.3.3.4.5.2 25-1.1.5.3.3.4.5.3 26-1.1.5.3.3.4.5.1 28-1.1.5.4 30-1.1.5.5.1 31-1.1.5.5.2.1.2 33-1.1.5.5.2.1.4 34-1.1.5.5.2.2 35-1.1.5.5.2.3.1 36-1.1.5.5.2.3.2 37-1.1.5.5.2.3.3 40-1.2.1 41-1.2.2.1 42-1.2.2.2 43-1.2.2.3.2 44-1.2.2.4 46-1.3.1.1 47-1.3.1.2 48-1.3.2 49-1.3.3 51-1.4.2 52-1.4.3 53-1.4.4.1 54-1.4.4.2 55-1.4.4.2 56-1.4.4.3 57-1.4.4.4 58-1.4.5.2 59-1.4.5.3 60-1.4.5.4 61-1.4.5.4 62-1.4.5.4 64-1.4.5.5.2 66-1.4.5.5.3 67-1.4.5.5.4 68-1.4.5.5.5 70-1.4.6.1 71-1.4.6.2 72-1.4.6.3 73-1.4.6.3 74-1.4.6.4 75-1.4.7.1 76-1.4.7.2 77-1.4.8.2 78-1.4.8.3 79-1.4.8.4 80-1.4.8.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label
+                  :R (v23 / label~e.0)
+                  :A (v24 / label~e.1)
+                  :D (v25 / label~e.2)
+                  :P (v26 / label~e.3))
+           :A (v7 / label
+                  :H (v27 / label
+                          :A (v12 / label~e.5)
+                          :P (v60 / label~e.16)
+                          :A (v61 / label
+                                  :E (v70 / label~e.17)
+                                  :E (v71 / label~e.18)
+                                  :C (v72 / label~e.19)
+                                  :E (v73 / label
+                                          :R (v77 / label~e.20)
+                                          :E (v78 / label~e.21)
+                                          :E (v79 / label~e.22)
+                                          :C (v80 / label~e.23)
+                                          :E (v81 / label
+                                                  :C (v87 / label~e.26)
+                                                  :R (v88 / label~e.24)
+                                                  :E (v89 / label~e.25)))))
+                  :L (v28 / label~e.28)
+                  :H (v29 / label
+                          :P (v62 / label~e.30)
+                          :A (v63 / label
+                                  :E (v74 / label
+                                          :A (v75 / label~e.34)
+                                          :D (v82 / label~e.31)
+                                          :S (v83 / label~e.33))
+                                  :C v75
+                                  :E (v76 / label
+                                          :R (v84 / label~e.35)
+                                          :E (v85 / label~e.36)
+                                          :C (v86 / label~e.37)))
+                          :A v12))
+           :P (v8 / label
+                  :R (v30 / label~e.7)
+                  :E (v31 / label~e.8)
+                  :C (v32 / label~e.9))
+           :A (v9 / label
+                  :R (v33 / label~e.10)
+                  :E (v34 / label
+                          :P (v64 / label~e.11))
+                  :C (v35 / label~e.12,13)))
+    :H (v3 / label
+           :P (v10 / label~e.40)
+           :A (v11 / label
+                   :R (v36 / label~e.41)
+                   :E (v37 / label~e.42)
+                   :E (v38 / label
+                           :A (v39 / label~e.44)
+                           :S (v65 / label~e.43))
+                   :C v39)
+           :A v12)
+    :H (v4 / label
+           :A (v13 / label
+                   :E (v40 / label~e.46)
+                   :C (v41 / label~e.47))
+           :P (v14 / label~e.48)
+           :A (v15 / label~e.49))
+    :H (v5 / label
+           :A (v16 / label~e.51)
+           :P (v17 / label~e.52)
+           :A (v18 / label
+                   :E (v42 / label~e.53)
+                   :E (v43 / label~e.54,55)
+                   :E (v44 / label~e.56)
+                   :C (v45 / label~e.57))
+           :A (v19 / label
+                   :R (v46 / label~e.58)
+                   :E (v47 / label~e.59)
+                   :C (v48 / label~e.60,61,62)
+                   :E (v49 / label
+                           :C (v66 / label~e.64)
+                           :C (v67 / label~e.66)
+                           :N (v68 / label~e.67)
+                           :C (v69 / label~e.68)))
+           :A (v20 / label
+                   :R (v50 / label~e.70)
+                   :E (v51 / label~e.71)
+                   :C (v52 / label~e.72,73)
+                   :E (v53 / label~e.74))
+           :A (v21 / label
+                   :R (v54 / label~e.75)
+                   :C (v55 / label~e.76))
+           :T (v22 / label
+                   :R (v56 / label~e.77)
+                   :C (v57 / label~e.78)
+                   :C (v58 / label~e.79)
+                   :C (v59 / label~e.80))))

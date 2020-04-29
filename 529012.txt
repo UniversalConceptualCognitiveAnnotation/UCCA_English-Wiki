@@ -1,0 +1,20 @@
+# ::id 529012
+# ::tok Garland and Luft were married on June 8 , 1952 , in Hollister , California .
+# ::alignments 0-1.1.2.1 1-1.1.2.2 2-1.1.2.3 4-1.1.4 5-1.1.5.1 6-1.1.5.2 7-1.1.5.3 9-1.1.5.4 11-1.1.6.1 12-1.1.6.2 14-1.1.6.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :C (v7 / label~e.0)
+                  :N (v8 / label~e.1)
+                  :C (v9 / label~e.2))
+           :P (v4 / label~e.4)
+           :T (v5 / label
+                  :R (v10 / label~e.5)
+                  :C (v11 / label~e.6)
+                  :C (v12 / label~e.7)
+                  :C (v13 / label~e.9))
+           :A (v6 / label
+                  :R (v14 / label~e.11)
+                  :C (v15 / label~e.12)
+                  :C (v16 / label~e.14))))

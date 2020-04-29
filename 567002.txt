@@ -1,0 +1,55 @@
+# ::id 567002
+# ::tok Between film shoots and recording sessions , the singer also found time to purchase an 18 - room mansion eight miles ( 13 km ) south of downtown Memphis for himself and his parents : Graceland .
+# ::alignments 0-1.1 1-1.2.1 2-1.2.2 3-1.3 4-1.4.1 5-1.4.2 7-1.5.8.1.1 8-1.5.8.1.2 9-1.5.1 10-1.5.2.1 11-1.5.2.2 13-1.5.4 14-1.5.5.1.1 15-1.5.5.1.2.3.1 17-1.5.5.1.2.3.2 18-1.5.5.1.3 19-1.5.5.1.4.1.1.1 20-1.5.5.1.4.1.1.2 22-1.5.5.1.4.1.2.1 23-1.5.5.1.4.1.2.2 25-1.5.5.1.4.2 26-1.5.5.1.4.3 27-1.5.5.1.4.4.1 28-1.5.5.1.4.4.2 29-1.5.6.1 30-1.5.6.2.1 31-1.5.6.2.2 32-1.5.6.2.3.1 33-1.5.6.2.3.2 35-1.5.5.2
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v7 / label~e.1)
+           :P (v8 / label~e.2))
+    :L (v4 / label~e.3)
+    :H (v5 / label
+           :A (v9 / label~e.4)
+           :P (v10 / label~e.5))
+    :H (v6 / label
+           :D (v11 / label~e.9)
+           :D (v12 / label
+                   :E (v17 / label~e.10)
+                   :C (v18 / label~e.11))
+           :P (v13 / label~e.13)
+           :A (v14 / label
+                   :E (v19 / label
+                           :E (v24 / label~e.14)
+                           :E (v25 / label
+                                   :A (v26 / label~e.18)
+                                   :S (v33 / label)
+                                   :A (v34 / label
+                                           :Q (v41 / label~e.15)
+                                           :C (v42 / label~e.17)))
+                           :C v26
+                           :E (v27 / label
+                                   :Q (v35 / label
+                                           :C (v43 / label
+                                                   :Q (v47 / label~e.19)
+                                                   :C (v48 / label~e.20))
+                                           :C (v44 / label
+                                                   :Q (v49 / label~e.22)
+                                                   :C (v50 / label~e.23)))
+                                   :R (v36 / label~e.25)
+                                   :R (v37 / label~e.26)
+                                   :C (v38 / label
+                                           :C (v45 / label~e.27)
+                                           :C (v46 / label~e.28))))
+                   :C (v20 / label~e.35))
+           :A (v15 / label
+                   :R (v21 / label~e.29)
+                   :C (v22 / label
+                           :C (v28 / label~e.30)
+                           :N (v29 / label~e.31)
+                           :C (v30 / label
+                                   :A (v39 / label~e.32)
+                                   :A (v40 / label~e.33))))
+           :A (v16 / label
+                   :A (v23 / label
+                           :E (v31 / label~e.7)
+                           :C (v32 / label~e.8)))))

@@ -1,0 +1,35 @@
+# ::id 466012
+# ::tok Johnson was a part - owner of the Lakers for several years , and was part of a group that purchased the Los Angeles Dodgers in 2012 .
+# ::alignments 0-1.1.1 3-1.1.4 5-1.1.3.2 6-1.1.5.1 7-1.1.5.2 8-1.1.5.3 9-1.1.6.1 10-1.1.6.2 11-1.1.6.3 13-1.2 15-1.3.3 16-1.3.4.4 18-1.3.4.2 19-1.3.4.3.2 20-1.3.4.3.3 21-1.3.4.3.4.1 22-1.3.4.3.4.2 23-1.3.4.3.4.2 24-1.3.4.3.4.2 25-1.3.4.3.5.1 26-1.3.4.3.5.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label~e.0)
+           :P (v6 / label
+                  :C (v12 / label~e.5))
+           :D (v7 / label~e.3)
+           :A (v8 / label
+                  :R (v13 / label~e.6)
+                  :E (v14 / label~e.7)
+                  :C (v15 / label~e.8))
+           :T (v9 / label
+                  :R (v16 / label~e.9)
+                  :Q (v17 / label~e.10)
+                  :C (v18 / label~e.11)))
+    :L (v3 / label~e.13)
+    :H (v4 / label
+           :A v5
+           :S (v10 / label~e.15)
+           :A (v11 / label
+                   :C (v19 / label~e.18)
+                   :E (v20 / label
+                           :A v19
+                           :R (v22 / label~e.19)
+                           :P (v23 / label~e.20)
+                           :A (v24 / label
+                                   :E (v26 / label~e.21)
+                                   :C (v27 / label~e.22,23,24))
+                           :T (v25 / label
+                                   :R (v28 / label~e.25)
+                                   :C (v29 / label~e.26)))
+                   :R (v21 / label~e.16))))

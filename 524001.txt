@@ -1,0 +1,24 @@
+# ::id 524001
+# ::tok In this film , she sang the song with which she would forever be identified , " Over the Rainbow . "
+# ::alignments 0-1.1.2.1 1-1.1.2.2 2-1.1.2.3 4-1.1.3 5-1.1.4 7-1.1.5.1.2 8-1.1.5.1.3.3 9-1.1.5.1.3.3 10-1.1.5.1.3.4 11-1.1.5.1.3.5 12-1.1.5.1.3.6 14-1.1.5.1.3.8 17-1.1.5.2 18-1.1.5.2 19-1.1.5.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :R (v7 / label~e.0)
+                  :E (v8 / label~e.1)
+                  :C (v9 / label~e.2))
+           :A (v4 / label~e.4)
+           :P (v5 / label~e.5)
+           :A (v6 / label
+                  :E (v10 / label
+                          :C (v12 / label~e.7)
+                          :E (v13 / label
+                                  :A v12
+                                  :A (v14 / label)
+                                  :R (v15 / label~e.8,9)
+                                  :A (v16 / label~e.10)
+                                  :D (v17 / label~e.11)
+                                  :T (v18 / label~e.12)
+                                  :S (v19 / label~e.14)))
+                  :C (v11 / label~e.17,18,19))))

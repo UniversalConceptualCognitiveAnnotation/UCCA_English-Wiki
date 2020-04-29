@@ -1,0 +1,18 @@
+# ::id 510007
+# ::tok The remaining 14 dates of the tour were cancelled .
+# ::alignments 0-1.1.2.2.1 1-1.1.2.2.2 2-1.1.2.3 3-1.1.2.4 4-1.1.2.1.1 5-1.1.2.1.2.1 6-1.1.2.1.2.2 8-1.1.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v5 / label
+                         :R (v9 / label~e.4)
+                         :P (v10 / label
+                                 :E (v13 / label~e.5)
+                                 :C (v14 / label~e.6)))
+                  :E (v6 / label
+                         :E (v11 / label~e.0)
+                         :C (v12 / label~e.1))
+                  :Q (v7 / label~e.2)
+                  :C (v8 / label~e.3))
+           :P (v4 / label~e.8)))

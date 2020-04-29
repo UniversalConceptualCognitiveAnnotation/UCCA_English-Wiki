@@ -1,0 +1,40 @@
+# ::id 564004
+# ::tok The single pairing " Do n't Be Cruel " with " Hound Dog " ruled the top of the charts for 11 weeks — a mark that would not be surpassed for 36 years .
+# ::alignments 0-1.1.1.1.1 1-1.1.1.1.2 2-1.1.1.1.3 4-1.1.1.2.1 5-1.1.1.2.1 6-1.1.1.2.1 7-1.1.1.2.1 9-1.1.1.2.2 11-1.1.1.2.3 12-1.1.1.2.3 14-1.1.2 15-1.1.3.1.1 16-1.1.3.1.2 17-1.1.3.2.1 18-1.1.3.2.2 19-1.1.3.2.3 20-1.1.4.1 21-1.1.4.2 22-1.1.4.3 24-1.2.6.1 25-1.2.6.2 27-1.2.8 28-1.2.1 30-1.2.3 31-1.2.4.1 32-1.2.4.2 33-1.2.4.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :E (v14 / label
+                          :E (v26 / label~e.0)
+                          :E (v27 / label~e.1)
+                          :C (v28 / label~e.2))
+                  :C (v15 / label
+                          :C (v29 / label~e.4,5,6,7)
+                          :R (v30 / label~e.9)
+                          :C (v31 / label~e.11,12)))
+           :P (v5 / label~e.14)
+           :A (v6 / label
+                  :C (v16 / label
+                          :E (v32 / label~e.15)
+                          :C (v33 / label~e.16))
+                  :C (v17 / label
+                          :R (v34 / label~e.17)
+                          :E (v35 / label~e.18)
+                          :C (v36 / label~e.19)))
+           :T (v7 / label
+                  :R (v18 / label~e.20)
+                  :Q (v19 / label~e.21)
+                  :C (v20 / label~e.22)))
+    :H (v3 / label
+           :D (v8 / label~e.28)
+           :P (v9 / label~e.30)
+           :T (v10 / label
+                   :R (v21 / label~e.31)
+                   :Q (v22 / label~e.32)
+                   :C (v23 / label~e.33))
+           :A (v11 / label)
+           :A (v12 / label
+                   :E (v24 / label~e.24)
+                   :C (v25 / label~e.25))
+           :D (v13 / label~e.27)))

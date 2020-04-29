@@ -1,0 +1,29 @@
+# ::id 559003
+# ::tok Having successfully managed top country star Eddy Arnold , he was now working with the new number - one country singer , Hank Snow .
+# ::alignments 1-1.1.2 2-1.1.3 3-1.1.4.1.1 4-1.1.4.1.2 5-1.1.4.1.3 6-1.1.4.2 7-1.1.4.2 9-1.1.6 11-1.2.3 12-1.2.4 13-1.2.5.1 15-1.2.5.2.2.1 16-1.2.5.2.2.2 18-1.2.5.2.2.3 19-1.2.5.2.3 20-1.2.5.2.4 22-1.2.5.3 23-1.2.5.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :D (v4 / label~e.1)
+           :P (v5 / label~e.2)
+           :A (v6 / label
+                  :E (v11 / label
+                          :D (v16 / label~e.3)
+                          :A (v17 / label~e.4)
+                          :A (v18 / label~e.5))
+                  :C (v12 / label~e.6,7))
+           :A (v7 / label~e.9))
+    :H (v3 / label
+           :A v7
+           :T (v8 / label~e.11)
+           :P (v9 / label~e.12)
+           :A (v10 / label
+                   :R (v13 / label~e.13)
+                   :E (v14 / label
+                           :D (v19 / label
+                                   :E (v22 / label~e.15)
+                                   :C (v23 / label~e.16)
+                                   :Q (v24 / label~e.18))
+                           :A (v20 / label~e.19)
+                           :A (v21 / label~e.20))
+                   :C (v15 / label~e.22,23))))

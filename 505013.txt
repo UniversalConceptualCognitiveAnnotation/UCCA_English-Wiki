@@ -1,0 +1,57 @@
+# ::id 505013
+# ::tok Modern Love " and " China Girl " made number two in the UK , accompanied by a pair of acclaimed promotional videos that , as described by biographer David Buckley , " were totally absorbing and activated key archetypes in the pop world . '
+# ::alignments 0-1.1.1.1 1-1.1.1.1 3-1.1.1.2 5-1.1.1.3 6-1.1.1.3 8-1.1.2 9-1.1.3.1 10-1.1.3.2 11-1.1.4.1 12-1.1.4.2 13-1.1.4.3 15-1.2.2 16-1.2.3.7 17-1.2.3.1.1 18-1.2.3.1.2 20-1.2.3.3.2 21-1.2.3.4 22-1.2.3.5 25-1.2.3.6.3.1 26-1.2.3.6.3.2 27-1.2.3.6.4.1 28-1.2.3.6.4.2 29-1.2.3.6.4.3 30-1.2.3.6.4.3 34-1.2.3.6.5.1.3 35-1.2.3.6.5.1.4 36-1.2.3.6.5.2 37-1.2.3.6.5.3.2 38-1.2.3.6.5.3.3.1 39-1.2.3.6.5.3.3.2 40-1.2.3.6.5.3.4.1 41-1.2.3.6.5.3.4.2 42-1.2.3.6.5.3.4.3 43-1.2.3.6.5.3.4.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :C (v10 / label~e.0,1)
+                  :N (v11 / label~e.3)
+                  :C (v12 / label~e.5,6))
+           :D (v5 / label~e.8)
+           :S (v6 / label
+                  :C (v13 / label~e.9)
+                  :Q (v14 / label~e.10))
+           :A (v7 / label
+                  :R (v15 / label~e.11)
+                  :E (v16 / label~e.12)
+                  :C (v17 / label~e.13)))
+    :H (v3 / label
+           :A v4
+           :P (v8 / label~e.15)
+           :A (v9 / label
+                  :Q (v18 / label
+                          :E (v24 / label~e.17)
+                          :C (v25 / label~e.18))
+                  :E (v19 / label
+                          :A (v21 / label~e.22)
+                          :P (v26 / label~e.20))
+                  :E (v20 / label~e.21)
+                  :C v21
+                  :E (v22 / label
+                          :A v21
+                          :P (v27 / label
+                                  :R (v30 / label~e.25)
+                                  :C (v31 / label~e.26))
+                          :A (v28 / label
+                                  :R (v32 / label~e.27)
+                                  :P (v33 / label~e.28)
+                                  :A (v34 / label~e.29,30))
+                          :A (v29 / label
+                                  :H (v35 / label
+                                          :A v21
+                                          :D (v38 / label~e.34)
+                                          :P (v39 / label~e.35))
+                                  :L (v36 / label~e.36)
+                                  :H (v37 / label
+                                          :A v21
+                                          :P (v40 / label~e.37)
+                                          :A (v41 / label
+                                                  :E (v43 / label~e.38)
+                                                  :C (v44 / label~e.39))
+                                          :A (v42 / label
+                                                  :R (v45 / label~e.40)
+                                                  :E (v46 / label~e.41)
+                                                  :E (v47 / label~e.42)
+                                                  :C (v48 / label~e.43)))))
+                  :R (v23 / label~e.16))))

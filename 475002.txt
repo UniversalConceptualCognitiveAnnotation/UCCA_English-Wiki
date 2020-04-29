@@ -1,0 +1,43 @@
+# ::id 475002
+# ::tok Determined to play competitive basketball despite being out of the NBA , Johnson formed the Magic Johnson All - Stars , a barnstorming team composed of former NBA and college players .
+# ::alignments 0-1.1.1 2-1.1.2.3 3-1.1.2.4.1 4-1.1.2.4.2 5-1.2 7-1.3.2 8-1.3.3.1 10-1.3.3.3 12-1.1.3 13-1.4.2 15-1.4.3.2 16-1.4.3.2 17-1.4.3.3 19-1.4.3.3 22-1.4.3.4.2.2 23-1.4.3.4.3 24-1.4.3.4.4.2 25-1.4.3.4.4.3.1 26-1.4.3.4.4.3.2 27-1.4.3.4.4.3.3.1 28-1.4.3.4.4.3.3.2 29-1.4.3.4.4.3.3.3 30-1.4.3.4.4.3.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :S (v6 / label~e.0)
+           :A (v7 / label
+                  :A (v13 / label)
+                  :P (v14 / label~e.2)
+                  :A (v15 / label
+                          :E (v21 / label~e.3)
+                          :C (v22 / label~e.4)))
+           :A (v8 / label~e.12))
+    :L (v3 / label~e.5)
+    :H (v4 / label
+           :S (v9 / label~e.7)
+           :A (v10 / label
+                   :R (v16 / label~e.8)
+                   :C (v17 / label~e.10))
+           :A v8)
+    :H (v5 / label
+           :A v8
+           :P (v11 / label~e.13)
+           :A (v12 / label
+                   :E (v18 / label~e.15,16)
+                   :C (v19 / label~e.17,19)
+                   :E (v20 / label
+                           :E (v23 / label
+                                   :A (v24 / label~e.23)
+                                   :P (v26 / label~e.22))
+                           :C v24
+                           :E (v25 / label
+                                   :A v24
+                                   :S (v27 / label~e.24)
+                                   :A (v28 / label
+                                           :R (v29 / label~e.25)
+                                           :D (v30 / label~e.26)
+                                           :A (v31 / label
+                                                   :C (v33 / label~e.27)
+                                                   :N (v34 / label~e.28)
+                                                   :C (v35 / label~e.29))
+                                           :P (v32 / label~e.30)))))))

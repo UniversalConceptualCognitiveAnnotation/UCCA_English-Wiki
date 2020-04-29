@@ -1,0 +1,26 @@
+# ::id 523006
+# ::tok The duo first appeared together in the 1937 B movie Thoroughbreds Do n't Cry as supporting characters .
+# ::alignments 1-1.1.1.2 2-1.1.2 3-1.1.3 4-1.1.4 5-1.1.5.1 7-1.1.5.2.2.3 8-1.1.5.2.3 9-1.1.5.2.3 10-1.1.5.3 11-1.1.5.3 12-1.1.5.3 13-1.1.5.3 14-1.1.6.1 15-1.1.6.2.2 16-1.1.6.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :C (v9 / label~e.1))
+           :D (v4 / label~e.2)
+           :P (v5 / label~e.3)
+           :D (v6 / label~e.4)
+           :A (v7 / label
+                  :R (v10 / label~e.5)
+                  :E (v11 / label
+                          :E (v16 / label
+                                  :A (v17 / label~e.8,9)
+                                  :P (v19 / label)
+                                  :T (v20 / label~e.7))
+                          :C v17)
+                  :C (v12 / label~e.10,11,12,13))
+           :A (v8 / label
+                  :R (v13 / label~e.14)
+                  :E (v14 / label
+                          :A (v15 / label~e.16)
+                          :P (v18 / label~e.15))
+                  :C v15)))

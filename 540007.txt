@@ -1,0 +1,26 @@
+# ::id 540007
+# ::tok In 1925 , the studio expanded its operations and acquired the Brooklyn - based theater company , Vitagraph .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 4-1.3.1 5-1.1.3 7-1.1.5 8-1.2 9-1.3.2 11-1.3.3.5.1.2 13-1.3.3.5.1.3 14-1.3.3.5.2 15-1.3.3.5.3 17-1.3.3.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v5 / label
+                  :R (v12 / label~e.0)
+                  :C (v13 / label~e.1))
+           :A (v6 / label
+                  :C (v9 / label~e.4))
+           :D (v7 / label~e.5)
+           :P (v8 / label~e.7))
+    :L (v3 / label~e.8)
+    :H (v4 / label
+           :A v9
+           :P (v10 / label~e.9)
+           :A (v11 / label
+                   :C (v14 / label~e.17)
+                   :E (v15 / label
+                           :E (v16 / label
+                                   :A (v18 / label~e.15)
+                                   :A (v19 / label~e.11)
+                                   :P (v20 / label~e.13))
+                           :E (v17 / label~e.14)
+                           :C v18))))

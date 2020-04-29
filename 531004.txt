@@ -1,0 +1,51 @@
+# ::id 531004
+# ::tok She was several hundred thousand dollars in debt to the Internal Revenue Service , having failed to pay taxes in 1951 and 1952 , and the failure of A Star is Born meant that she received nothing from that investment .
+# ::alignments 0-1.1.1 2-1.1.3.1.1.1 3-1.1.3.1.1.2 4-1.1.3.1.2 5-1.1.3.2 6-1.1.4.1 7-1.1.4.2 8-1.1.5.1 10-1.1.5.3 11-1.1.5.4 12-1.1.5.5 15-1.2.2 17-1.2.4 18-1.2.5 19-1.2.6.1 20-1.2.6.2.1 21-1.2.6.2.2 22-1.2.6.2.3 24-1.3 26-1.4.3.1.2 27-1.4.3.2.1 28-1.4.3.2.2 29-1.4.3.2.2 30-1.4.3.2.2 31-1.4.3.2.2 32-1.4.1 33-1.4.2.1 34-1.4.2.2 35-1.4.2.3 36-1.4.2.4 37-1.4.2.5.1 38-1.4.2.5.2 39-1.4.2.5.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label~e.0)
+           :A (v7 / label
+                  :Q (v17 / label
+                          :Q (v34 / label
+                                  :Q (v45 / label~e.2)
+                                  :C (v46 / label~e.3))
+                          :C (v35 / label~e.4))
+                  :C (v18 / label~e.5))
+           :S (v8 / label
+                  :R (v19 / label~e.6)
+                  :C (v20 / label~e.7))
+           :A (v9 / label
+                  :R (v21 / label~e.8)
+                  :E (v22 / label~e.10)
+                  :E (v23 / label~e.11)
+                  :C (v24 / label~e.12)))
+    :H (v3 / label
+           :D (v10 / label~e.15)
+           :P (v11 / label~e.17)
+           :A (v12 / label~e.18)
+           :T (v13 / label
+                   :R (v25 / label~e.19)
+                   :C (v26 / label
+                           :C (v36 / label~e.20)
+                           :N (v37 / label~e.21)
+                           :C (v38 / label~e.22)))
+           :A v6)
+    :L (v4 / label~e.24)
+    :H (v5 / label
+           :S (v14 / label~e.32)
+           :A (v15 / label
+                   :R (v27 / label~e.33)
+                   :A (v28 / label~e.34)
+                   :P (v29 / label~e.35)
+                   :A (v30 / label~e.36)
+                   :A (v31 / label
+                           :R (v39 / label~e.37)
+                           :A (v40 / label~e.38)
+                           :P (v41 / label~e.39)))
+           :A (v16 / label
+                   :S (v32 / label
+                           :C (v42 / label~e.26))
+                   :A (v33 / label
+                           :R (v43 / label~e.27)
+                           :C (v44 / label~e.28,29,30,31)))))

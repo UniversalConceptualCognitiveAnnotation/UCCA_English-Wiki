@@ -1,0 +1,56 @@
+# ::id 468005
+# ::tok The Lakers took a 3 - 2 lead in the series , but Abdul - Jabbar , who averaged 33 points a game in the series , sprained his ankle in Game 5 and could not play in Game 6 .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.1.2.2 4-1.1.2.3.2 6-1.1.2.3.3 7-1.1.2.4 8-1.1.3.1 9-1.1.3.2 10-1.1.3.3 12-1.2 13-1.5.4 15-1.5.4 17-1.3.1.2.2 18-1.3.1.2.3 19-1.3.1.2.4.1 20-1.3.1.2.4.2 21-1.3.1.2.4.3.1 22-1.3.1.2.4.3.2 23-1.3.1.2.5.1 24-1.3.1.2.5.2 25-1.3.1.2.5.3 27-1.3.2 28-1.3.3.1 29-1.3.3.2 30-1.3.4.1 31-1.3.4.2 32-1.3.4.3 33-1.4 34-1.5.5 35-1.5.1 36-1.5.2 37-1.5.3.1 38-1.5.3.2 39-1.5.3.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label
+                  :E (v19 / label~e.0)
+                  :C (v20 / label~e.1))
+           :P (v8 / label
+                  :E (v21 / label~e.3)
+                  :Q (v22 / label
+                          :R (v36 / label)
+                          :C (v37 / label~e.4)
+                          :C (v38 / label~e.6))
+                  :C (v23 / label~e.7))
+           :A (v9 / label
+                  :R (v24 / label~e.8)
+                  :E (v25 / label~e.9)
+                  :C (v26 / label~e.10)))
+    :L (v3 / label~e.12)
+    :H (v4 / label
+           :A (v10 / label
+                   :C (v17 / label~e.13,15)
+                   :E (v27 / label
+                           :A v17
+                           :R (v39 / label~e.17)
+                           :P (v40 / label~e.18)
+                           :A (v41 / label
+                                   :Q (v43 / label~e.19)
+                                   :C (v44 / label~e.20)
+                                   :E (v45 / label
+                                           :E (v49 / label~e.21)
+                                           :C (v50 / label~e.22)))
+                           :A (v42 / label
+                                   :R (v46 / label~e.23)
+                                   :E (v47 / label~e.24)
+                                   :C (v48 / label~e.25))))
+           :P (v11 / label~e.27)
+           :A (v12 / label
+                   :E (v28 / label~e.28)
+                   :C (v29 / label~e.29))
+           :A (v13 / label
+                   :R (v30 / label~e.30)
+                   :C (v31 / label~e.31)
+                   :Q (v32 / label~e.32)))
+    :L (v5 / label~e.33)
+    :H (v6 / label
+           :D (v14 / label~e.35)
+           :P (v15 / label~e.36)
+           :A (v16 / label
+                   :R (v33 / label~e.37)
+                   :C (v34 / label~e.38)
+                   :Q (v35 / label~e.39))
+           :A v17
+           :D (v18 / label~e.34)))

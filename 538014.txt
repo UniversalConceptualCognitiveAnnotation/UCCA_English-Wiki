@@ -1,0 +1,19 @@
+# ::id 538014
+# ::tok They maintained the theater until moving into film distribution in 1907 .
+# ::alignments 0-1.1.1 1-1.1.2 3-1.1.3.2 4-1.2 5-1.3.2 6-1.3.2 7-1.3.3 8-1.3.4 9-1.3.5.1 10-1.3.5.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label~e.0)
+           :P (v6 / label~e.1)
+           :A (v7 / label
+                  :C (v12 / label~e.3)))
+    :L (v3 / label~e.4)
+    :H (v4 / label
+           :A v5
+           :D (v8 / label~e.5,6)
+           :A (v9 / label~e.7)
+           :P (v10 / label~e.8)
+           :T (v11 / label
+                   :R (v13 / label~e.9)
+                   :C (v14 / label~e.10))))

@@ -1,0 +1,50 @@
+# ::id 469003
+# ::tok However , Buss was also unhappy with the Lakers offense and had intended on firing Westhead days before the Westhead - Johnson altercation , but assistant GMJerry West and GM Bill Sharman had convinced Buss to delay his decision .
+# ::alignments 0-1.1 2-1.2.1 4-1.2.3 5-1.2.4 6-1.2.5.1 7-1.2.5.2.1 8-1.2.5.2.2 9-1.2.5.3 10-1.3 12-1.4.2 14-1.4.3.2 15-1.4.4 16-1.5.1 17-1.5.2 18-1.6.1.1 19-1.6.1.2 21-1.6.1.3 22-1.6.2 24-1.7 25-1.8.1.1.1.1 26-1.8.1.1.2 27-1.8.1.1.2 28-1.8.1.2 29-1.8.1.3.1.1 30-1.8.1.3.2 31-1.8.1.3.2 33-1.8.3 34-1.8.4 36-1.8.5.2 37-1.8.5.3 38-1.8.5.4
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v10 / label~e.2)
+           :D (v11 / label~e.4)
+           :P (v12 / label~e.5)
+           :A (v13 / label
+                   :R (v25 / label~e.6)
+                   :A (v26 / label
+                           :E (v38 / label~e.7)
+                           :C (v39 / label~e.8))
+                   :P (v27 / label~e.9)))
+    :L (v4 / label~e.10)
+    :H (v5 / label
+           :D (v14 / label~e.12)
+           :P (v15 / label
+                   :C (v28 / label~e.14))
+           :A (v16 / label~e.15)
+           :A v10)
+    :L (v6 / label
+           :E (v17 / label~e.16)
+           :C (v18 / label~e.17))
+    :H (v7 / label
+           :A (v19 / label
+                   :E (v29 / label~e.18)
+                   :C (v30 / label~e.19)
+                   :C (v31 / label~e.21))
+           :P (v20 / label~e.22))
+    :L (v8 / label~e.24)
+    :H (v9 / label
+           :A (v21 / label
+                   :C (v32 / label
+                           :E (v40 / label
+                                   :S (v44 / label~e.25))
+                           :C (v41 / label~e.26,27))
+                   :N (v33 / label~e.28)
+                   :C (v34 / label
+                           :E (v42 / label
+                                   :P (v45 / label~e.29))
+                           :C (v43 / label~e.30,31)))
+           :P (v22 / label~e.33)
+           :A (v23 / label~e.34)
+           :A (v24 / label
+                   :D (v35 / label~e.36)
+                   :A (v36 / label~e.37)
+                   :P (v37 / label~e.38))))

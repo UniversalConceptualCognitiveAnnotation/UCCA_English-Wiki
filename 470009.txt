@@ -1,0 +1,85 @@
+# ::id 470009
+# ::tok Johnson later described the series as " the one championship we should have had but did n't get " . In the 1984 - 85 regular season , Johnson averaged 18.3 points , 12.6 assists , and 6.2 rebounds per game and led the Lakers into the 1985 NBA Finals , where they faced the Celtics again .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4.1 4-1.1.4.2 5-1.1.5.1 7-1.1.5.2.1.1 8-1.1.5.2.1.2 9-1.1.5.4.4 10-1.1.5.2.2 11-1.1.5.2.3 13-1.1.5.2.5 14-1.1.5.3 16-1.1.5.4.2 17-1.1.5.4.3 20-1.2 21-1.3.2.1 22-1.3.2.2.2 24-1.3.2.2.3 25-1.3.3 26-1.3.4 28-1.4.1 29-1.4.2 30-1.4.3.1.1.1 31-1.4.3.1.1.2 33-1.4.3.1.2.1 34-1.4.3.1.2.2.2 36-1.4.3.1.3 37-1.4.3.1.4.1 38-1.4.3.1.4.2.2 39-1.4.3.2.1 40-1.4.3.2.2 41-1.5 42-1.6.1 43-1.6.2.1 44-1.6.2.2 45-1.6.3.1 46-1.6.3.2 47-1.6.3.3.3 48-1.6.3.4 49-1.6.3.5 51-1.6.3.6.2 52-1.6.3.6.3 53-1.6.3.6.4 54-1.6.3.6.5.1 55-1.6.3.6.5.2 56-1.6.3.6.6
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v8 / label~e.0)
+           :T (v9 / label~e.1)
+           :P (v10 / label~e.2)
+           :A (v11 / label
+                   :E (v23 / label~e.3)
+                   :C (v24 / label~e.4))
+           :A (v12 / label
+                   :R (v25 / label~e.5)
+                   :H (v26 / label
+                           :A (v41 / label
+                                   :E (v64 / label~e.7)
+                                   :Q (v65 / label~e.8)
+                                   :C (v47 / label~e.9))
+                           :A (v42 / label~e.10)
+                           :D (v43 / label~e.11)
+                           :P (v44 / label~e.13))
+                   :L (v27 / label~e.14)
+                   :H (v28 / label
+                           :D (v45 / label~e.16)
+                           :P (v46 / label~e.17)
+                           :A v47)))
+    :L (v3 / label~e.20)
+    :H (v4 / label
+           :P (v13 / label)
+           :T (v14 / label
+                   :E (v29 / label~e.21)
+                   :C (v30 / label
+                           :N (v48 / label)
+                           :C (v49 / label~e.22)
+                           :C (v50 / label~e.24)))
+           :D (v15 / label~e.25)
+           :A (v16 / label~e.26))
+    :H (v5 / label
+           :A (v17 / label~e.28)
+           :P (v18 / label~e.29)
+           :A (v19 / label
+                   :C (v31 / label
+                           :C (v51 / label
+                                   :Q (v66 / label~e.30)
+                                   :C (v67 / label~e.31))
+                           :C (v52 / label
+                                   :Q (v68 / label~e.33)
+                                   :C (v69 / label
+                                           :A v17
+                                           :P (v74 / label~e.34)))
+                           :N (v53 / label~e.36)
+                           :C (v54 / label
+                                   :Q (v70 / label~e.37)
+                                   :C (v71 / label
+                                           :A v17
+                                           :P (v75 / label~e.38))))
+                   :E (v32 / label
+                           :R (v55 / label~e.39)
+                           :C (v56 / label~e.40))))
+    :L (v6 / label~e.41)
+    :H (v7 / label
+           :P (v20 / label~e.42)
+           :A (v21 / label
+                   :E (v33 / label~e.43)
+                   :C (v34 / label~e.44))
+           :A (v22 / label
+                   :R (v35 / label~e.45)
+                   :E (v36 / label~e.46)
+                   :E (v37 / label
+                           :A (v38 / label~e.48)
+                           :P (v57 / label)
+                           :T (v58 / label~e.47))
+                   :E v38
+                   :C (v39 / label~e.49)
+                   :E (v40 / label
+                           :A v39
+                           :R (v59 / label~e.51)
+                           :A (v60 / label~e.52)
+                           :P (v61 / label~e.53)
+                           :A (v62 / label
+                                   :E (v72 / label~e.54)
+                                   :C (v73 / label~e.55))
+                           :D (v63 / label~e.56)))
+           :A v17))

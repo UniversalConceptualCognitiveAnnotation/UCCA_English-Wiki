@@ -1,0 +1,12 @@
+# ::id 496014
+# ::tok A band was duly assembled .
+# ::alignments 0-1.1.2.1.2 1-1.1.2.1.1 3-1.1.4 4-1.1.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :P (v6 / label
+                         :C (v7 / label~e.1)
+                         :E (v8 / label~e.0)))
+           :D (v4 / label~e.3)
+           :P (v5 / label~e.4)))

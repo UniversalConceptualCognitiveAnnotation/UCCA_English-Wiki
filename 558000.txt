@@ -1,0 +1,29 @@
+# ::id 558000
+# ::tok The session , held the evening of July 5 , proved entirely unfruitful until late in the night .
+# ::alignments 0-1.1.2.1.1 1-1.1.2.1.2 3-1.1.2.2 4-1.1.2.3.1.1 5-1.1.2.3.1.2 6-1.1.2.3.2.1 7-1.1.2.3.2.2 8-1.1.2.3.2.3 10-1.1.3 11-1.1.4 12-1.1.5 13-1.1.6.1 14-1.1.6.2 15-1.1.6.3.1 16-1.1.6.3.2 17-1.1.6.3.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :P (v8 / label
+                         :E (v14 / label~e.0)
+                         :C (v15 / label~e.1))
+                  :D (v9 / label~e.3)
+                  :T (v10 / label
+                          :C (v16 / label
+                                  :E (v21 / label~e.4)
+                                  :C (v22 / label~e.5))
+                          :C (v17 / label
+                                  :R (v23 / label~e.6)
+                                  :C (v24 / label~e.7)
+                                  :C (v25 / label~e.8))))
+           :D (v4 / label~e.10)
+           :D (v5 / label~e.11)
+           :S (v6 / label~e.12)
+           :T (v7 / label
+                  :R (v11 / label~e.13)
+                  :C (v12 / label~e.14)
+                  :C (v13 / label
+                          :R (v18 / label~e.15)
+                          :E (v19 / label~e.16)
+                          :C (v20 / label~e.17)))))

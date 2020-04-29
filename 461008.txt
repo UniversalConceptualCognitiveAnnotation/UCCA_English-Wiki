@@ -1,0 +1,48 @@
+# ::id 461008
+# ::tok Moore called then - President George W. Bush a " deserter " . By late 2004 , Brokaw had retired from his anchoring duties at NBC , ceding the reins to Brian Williams ; Rather planned to step down in March 2005 .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1.2 4-1.1.3.1.3 5-1.1.3.2 6-1.1.3.2 7-1.1.3.2 8-1.1.4.1 10-1.1.4.2 13-1.2.1.1 14-1.2.1.2 15-1.2.1.3 17-1.2.2 19-1.2.4 20-1.2.5.1 21-1.2.5.2 22-1.2.5.3 23-1.2.5.4 24-1.2.5.5.1 25-1.2.5.5.2 27-1.3.1 28-1.3.2.1 29-1.3.2.2 30-1.3.3.1 31-1.3.3.2 32-1.3.3.2 34-1.4.1 35-1.4.2 37-1.4.4 38-1.4.4 39-1.4.5.1 40-1.4.5.2 41-1.4.5.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label~e.0)
+           :P (v7 / label~e.1)
+           :A (v8 / label
+                  :E (v21 / label
+                          :D (v40 / label~e.2)
+                          :A (v41 / label~e.4))
+                  :C (v22 / label~e.5,6,7))
+           :A (v9 / label
+                  :E (v23 / label~e.8)
+                  :C (v24 / label~e.10)))
+    :H (v3 / label
+           :T (v10 / label
+                   :R (v25 / label~e.13)
+                   :E (v26 / label~e.14)
+                   :C (v27 / label~e.15))
+           :A (v11 / label~e.17)
+           :P (v12 / label~e.19)
+           :A (v13 / label
+                   :R (v28 / label~e.20)
+                   :E (v29 / label~e.21)
+                   :E (v30 / label~e.22)
+                   :C (v31 / label~e.23)
+                   :E (v32 / label
+                           :R (v42 / label~e.24)
+                           :C (v43 / label~e.25))))
+    :H (v4 / label
+           :S (v14 / label~e.27)
+           :A (v15 / label
+                   :E (v33 / label~e.28)
+                   :C (v34 / label~e.29))
+           :A (v16 / label
+                   :R (v35 / label~e.30)
+                   :C (v36 / label~e.31,32))
+           :A v11)
+    :H (v5 / label
+           :A (v17 / label~e.34)
+           :D (v18 / label~e.35)
+           :P (v19 / label~e.37,38)
+           :T (v20 / label
+                   :R (v37 / label~e.39)
+                   :C (v38 / label~e.40)
+                   :C (v39 / label~e.41))))

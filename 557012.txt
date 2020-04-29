@@ -1,0 +1,34 @@
+# ::id 557012
+# ::tok Bond rejected him after a tryout , advising Presley to stick to truck driving " because you 're never going to make it as a singer . "
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.2 4-1.3.1.1 5-1.3.1.2 7-1.4.1 8-1.4.2 10-1.4.3.3 12-1.4.3.5 13-1.4.3.6 15-1.5 16-1.6.1 18-1.6.3 19-1.6.4 20-1.6.4 21-1.6.5 22-1.6.5 23-1.6.6.1 24-1.6.6.2.1 25-1.6.6.2.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v8 / label~e.0)
+           :P (v9 / label~e.1)
+           :A (v10 / label~e.2))
+    :L (v3 / label~e.3)
+    :H (v4 / label
+           :P (v11 / label
+                   :E (v20 / label~e.4)
+                   :C (v21 / label~e.5)))
+    :H (v5 / label
+           :P (v12 / label~e.7)
+           :A (v13 / label~e.8)
+           :A (v14 / label
+                   :A v13
+                   :D (v22 / label~e.10)
+                   :A (v23 / label~e.12)
+                   :P (v24 / label~e.13))
+           :A v8)
+    :L (v6 / label~e.15)
+    :H (v7 / label
+           :A (v15 / label~e.16)
+           :D (v16 / label~e.18)
+           :D (v17 / label~e.19,20)
+           :P (v18 / label~e.21,22)
+           :A (v19 / label
+                   :R (v25 / label~e.23)
+                   :A (v26 / label
+                           :E (v27 / label~e.24)
+                           :C (v28 / label~e.25)))))

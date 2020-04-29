@@ -1,0 +1,30 @@
+# ::id 539008
+# ::tok The film proved to be a commercial and critical success , and the four brothers were able to establish a studio in California .
+# ::alignments 1-1.1.1.2 2-1.1.2.1 6-1.1.3.2.1 7-1.1.3.2.2 8-1.1.3.2.3 9-1.1.4 11-1.2 13-1.3.2.2 14-1.3.1.5 16-1.3.4 18-1.3.1.2 20-1.3.1.3.2 21-1.3.1.4.1 22-1.3.1.4.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :C (v12 / label~e.1))
+           :D (v6 / label
+                  :C (v13 / label~e.2))
+           :A (v7 / label
+                  :C (v14 / label
+                          :C (v20 / label~e.6)
+                          :N (v21 / label~e.7)
+                          :C (v22 / label~e.8)))
+           :P (v8 / label~e.9))
+    :L (v3 / label~e.11)
+    :H (v4 / label
+           :A (v9 / label
+                  :P (v15 / label~e.18)
+                  :A (v16 / label
+                          :C (v23 / label~e.20))
+                  :A (v17 / label
+                          :R (v24 / label~e.21)
+                          :C (v25 / label~e.22))
+                  :A (v18 / label~e.14))
+           :A (v10 / label
+                   :Q (v19 / label~e.13)
+                   :C v18)
+           :S (v11 / label~e.16)))

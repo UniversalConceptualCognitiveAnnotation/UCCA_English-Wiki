@@ -1,0 +1,24 @@
+# ::id 559009
+# ::tok Soon after , he failed an audition for Arthur Godfrey 's Talent Scouts on the CBS television network .
+# ::alignments 0-1.1.1 1-1.1.2 3-1.2.1 4-1.2.2 5-1.2.3.3.1 6-1.2.3.3.2 7-1.2.3.1.1 8-1.2.3.1.2 9-1.2.3.1.2 10-1.2.3.1.2 11-1.2.3.1.2 12-1.2.3.1.2 13-1.2.3.2.1 15-1.2.3.2.3 16-1.2.3.2.4.1 17-1.2.3.2.4.2
+# ::format ucca
+(v1 / label
+    :L (v2 / label
+           :E (v4 / label~e.0)
+           :C (v5 / label~e.1))
+    :H (v3 / label
+           :A (v6 / label~e.3)
+           :P (v7 / label~e.4)
+           :A (v8 / label
+                  :A (v9 / label
+                         :R (v12 / label~e.7)
+                         :C (v13 / label~e.8,9,10,11,12))
+                  :A (v10 / label
+                          :R (v14 / label~e.13)
+                          :C (v15 / label~e.15)
+                          :E (v16 / label
+                                  :E (v19 / label~e.16)
+                                  :C (v20 / label~e.17)))
+                  :P (v11 / label
+                          :E (v17 / label~e.5)
+                          :C (v18 / label~e.6)))))

@@ -1,0 +1,67 @@
+# ::id 470002
+# ::tok The Lakers won the first game , and led by two points in Game 2 with 18 seconds to go , but after a layup by Gerald Henderson , Johnson failed to get a shot off before the final buzzer sounded , and the Lakers lost 124 - 121 in overtime .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2 3-1.1.3.1 4-1.1.3.2 5-1.1.3.3 7-1.2 8-1.3.1 9-1.3.2.1 10-1.3.2.2 11-1.3.2.3 12-1.3.3.1 13-1.3.3.2 14-1.3.3.3 15-1.3.4.1 16-1.3.4.2.1.1 17-1.3.4.2.1.2 19-1.3.4.2.3 21-1.4 22-1.5 23-1.6.1.1 24-1.6.1.2 25-1.6.2.1 26-1.6.2.2 27-1.6.2.2 29-1.7.1 30-1.7.2 32-1.7.4 33-1.7.4 34-1.7.4 35-1.7.4 36-1.8 37-1.9.1.1 38-1.9.1.2 39-1.9.1.3 40-1.9.2 42-1.10 43-1.11.1.1 44-1.11.1.2 45-1.11.2 46-1.11.3.2 48-1.11.3.3 49-1.11.4.1 50-1.11.4.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v13 / label
+                   :E (v31 / label~e.0)
+                   :C (v32 / label~e.1))
+           :P (v14 / label~e.2)
+           :A (v15 / label
+                   :E (v33 / label~e.3)
+                   :Q (v34 / label~e.4)
+                   :C (v35 / label~e.5)))
+    :L (v3 / label~e.7)
+    :H (v4 / label
+           :P (v16 / label~e.8)
+           :A (v17 / label
+                   :R (v36 / label~e.9)
+                   :Q (v37 / label~e.10)
+                   :C (v38 / label~e.11))
+           :A (v18 / label
+                   :R (v39 / label~e.12)
+                   :C (v40 / label~e.13)
+                   :Q (v41 / label~e.14))
+           :A (v19 / label
+                   :R (v42 / label~e.15)
+                   :C (v43 / label
+                           :T (v58 / label
+                                   :Q (v60 / label~e.16)
+                                   :C (v61 / label~e.17))
+                           :P (v59 / label~e.19)
+                           :A v32))
+           :A v13)
+    :L (v5 / label~e.21)
+    :L (v6 / label~e.22)
+    :H (v7 / label
+           :P (v20 / label
+                   :E (v44 / label~e.23)
+                   :C (v45 / label~e.24))
+           :A (v21 / label
+                   :R (v46 / label~e.25)
+                   :C (v47 / label~e.26,27)))
+    :H (v8 / label
+           :A (v22 / label~e.29)
+           :D (v23 / label~e.30)
+           :P (v24 / label~e.32,33,34,35))
+    :L (v9 / label~e.36)
+    :H (v10 / label
+            :A (v25 / label
+                    :E (v48 / label~e.37)
+                    :E (v49 / label~e.38)
+                    :C (v50 / label~e.39))
+            :P (v26 / label~e.40))
+    :L (v11 / label~e.42)
+    :H (v12 / label
+            :A (v27 / label
+                    :E (v51 / label~e.43)
+                    :C (v52 / label~e.44))
+            :P (v28 / label~e.45)
+            :A (v29 / label
+                    :R (v53 / label)
+                    :C (v54 / label~e.46)
+                    :C (v55 / label~e.48))
+            :D (v30 / label
+                    :R (v56 / label~e.49)
+                    :C (v57 / label~e.50))))

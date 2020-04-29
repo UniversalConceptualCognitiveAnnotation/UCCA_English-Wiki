@@ -1,0 +1,37 @@
+# ::id 495009
+# ::tok His April 1967 solo single , " The Laughing Gnome " , using speeded - up thus high - pitched vocals , failed to chart .
+# ::alignments 0-1.1.1.7.1.2 1-1.1.1.7.2.3.1 2-1.1.1.7.2.3.2 3-1.1.1.7.3 4-1.1.1.2.3 7-1.1.1.1 8-1.1.1.1 9-1.1.1.1 12-1.1.1.2.1 13-1.1.1.2.2.1.1.2 15-1.1.1.2.2.1.1.2 16-1.1.1.2.2.1.2 17-1.1.1.2.2.1.3.2.1 19-1.1.1.2.2.1.3.2.2 20-1.1.1.2.2.2 22-1.1.4 24-1.1.6
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :C (v6 / label~e.7,8,9)
+                  :E (v7 / label
+                         :P (v9 / label~e.12)
+                         :A (v10 / label
+                                 :E (v15 / label
+                                         :H (v20 / label
+                                                 :A (v16 / label~e.20)
+                                                 :P (v25 / label~e.13,15))
+                                         :L (v21 / label~e.16)
+                                         :H (v22 / label
+                                                 :A v16
+                                                 :S (v26 / label
+                                                         :E (v27 / label~e.17)
+                                                         :C (v28 / label~e.19))))
+                                 :C v16)
+                         :A (v11 / label~e.4))
+                  :E (v8 / label
+                         :E (v12 / label
+                                 :A v11
+                                 :S (v17 / label~e.0))
+                         :E (v13 / label
+                                 :A v11
+                                 :P (v18 / label)
+                                 :T (v19 / label
+                                         :C (v23 / label~e.1)
+                                         :C (v24 / label~e.2)))
+                         :E (v14 / label~e.3)
+                         :C v11))
+           :D (v4 / label~e.22)
+           :P (v5 / label~e.24)))

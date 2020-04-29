@@ -1,0 +1,33 @@
+# ::id 562006
+# ::tok Amid his Vegas tenure , Presley , who had serious acting ambitions , signed a seven - year contract with Paramount Pictures .
+# ::alignments 0-1.1 1-1.2.1 2-1.2.2 3-1.2.3 5-1.3.3.1 7-1.3.3.2.2 9-1.3.3.2.4 10-1.3.3.2.5 11-1.3.3.2.3.2 13-1.3.4 14-1.3.5.1 15-1.3.5.2.3.1 17-1.3.5.2.3.2 18-1.3.5.3 19-1.3.1.1 20-1.3.1.2 21-1.3.1.2
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v5 / label~e.1)
+           :A (v6 / label~e.2)
+           :S (v7 / label~e.3))
+    :H (v4 / label
+           :A (v8 / label
+                  :R (v12 / label~e.19)
+                  :C (v13 / label~e.20,21))
+           :A (v9 / label
+                  :C (v14 / label~e.5)
+                  :E (v15 / label
+                          :A v14
+                          :R (v19 / label~e.7)
+                          :S (v20 / label
+                                  :C (v25 / label~e.11))
+                          :D (v21 / label~e.9)
+                          :A (v22 / label~e.10)))
+           :P (v10 / label~e.13)
+           :A (v11 / label
+                   :E (v16 / label~e.14)
+                   :E (v17 / label
+                           :A (v18 / label~e.18)
+                           :S (v23 / label)
+                           :T (v24 / label
+                                   :Q (v26 / label~e.15)
+                                   :C (v27 / label~e.17)))
+                   :C v18)))

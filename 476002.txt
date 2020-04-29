@@ -1,0 +1,30 @@
+# ::id 476002
+# ::tok In 1991 , Johnson married Earlitha " Cookie " Kelly in a small wedding in Lansing which included guests Thomas , Aguirre , and Herb Williams .
+# ::alignments 0-1.1.2.1 1-1.1.2.2 3-1.1.3 4-1.1.4 5-1.1.5 7-1.1.5 9-1.1.5 10-1.1.6.1 12-1.1.6.3.2 13-1.1.6.3.1 14-1.1.6.5.1 15-1.1.6.5.2 18-1.1.6.6.4 19-1.1.6.6.5.1 21-1.1.6.6.5.2 23-1.1.6.6.5.3 24-1.1.6.6.5.4 25-1.1.6.6.5.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label
+                  :R (v8 / label~e.0)
+                  :C (v9 / label~e.1))
+           :A (v4 / label~e.3)
+           :P (v5 / label~e.4)
+           :A (v6 / label~e.5,7,9)
+           :A (v7 / label
+                  :R (v10 / label~e.10)
+                  :E (v11 / label
+                          :A (v15 / label~e.13)
+                          :S (v16 / label~e.12))
+                  :C (v12 / label
+                          :P v15)
+                  :E (v13 / label
+                          :R (v17 / label~e.14)
+                          :C (v18 / label~e.15))
+                  :E (v14 / label
+                          :A v12
+                          :P (v19 / label~e.18)
+                          :A (v20 / label
+                                  :C (v21 / label~e.19)
+                                  :C (v22 / label~e.21)
+                                  :N (v23 / label~e.23)
+                                  :C (v24 / label~e.24,25))))))

@@ -1,0 +1,17 @@
+# ::id 553009
+# ::tok In November 1956 , he made his film debut in Love Me Tender .
+# ::alignments 0-1.1.2.1 1-1.1.2.2 2-1.1.2.3 4-1.1.3 7-1.1.5 8-1.1.4.3 9-1.1.6.1 10-1.1.6.2 11-1.1.6.2 12-1.1.6.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label
+                  :R (v8 / label~e.0)
+                  :C (v9 / label~e.1)
+                  :C (v10 / label~e.2))
+           :A (v4 / label~e.4)
+           :P (v5 / label
+                  :C (v11 / label~e.8))
+           :A (v6 / label~e.7)
+           :A (v7 / label
+                  :R (v12 / label~e.9)
+                  :C (v13 / label~e.10,11,12))))

@@ -1,0 +1,29 @@
+# ::id 599005
+# ::tok Wings ' 1977 release " Mull of Kintyre " is one of the all - time best - selling singles in the UK .
+# ::alignments 0-1.1.2.1.2 2-1.1.2.1.3 3-1.1.2.1.4 5-1.1.2.2 6-1.1.2.2 7-1.1.2.2 9-1.1.3 10-1.1.4.4 12-1.1.4.1 13-1.1.4.2.2.1 15-1.1.4.2.2.2 16-1.1.4.2.3 18-1.1.4.2.4 19-1.1.4.3 20-1.1.4.2.5.1 21-1.1.4.2.5.2 22-1.1.4.2.5.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label
+                         :A (v7 / label~e.5,6,7)
+                         :A (v12 / label~e.0)
+                         :T (v13 / label~e.2)
+                         :P (v14 / label~e.3))
+                  :C v7)
+           :S (v4 / label~e.9)
+           :A (v5 / label
+                  :E (v8 / label~e.12)
+                  :E (v9 / label
+                         :A (v10 / label~e.19)
+                         :T (v15 / label
+                                 :E (v19 / label~e.13)
+                                 :C (v20 / label~e.15))
+                         :D (v16 / label~e.16)
+                         :P (v17 / label~e.18)
+                         :A (v18 / label
+                                 :R (v21 / label~e.20)
+                                 :E (v22 / label~e.21)
+                                 :C (v23 / label~e.22)))
+                  :C v10
+                  :E (v11 / label~e.10))))

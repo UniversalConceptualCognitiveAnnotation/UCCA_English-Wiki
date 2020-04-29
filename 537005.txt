@@ -1,0 +1,48 @@
+# ::id 537005
+# ::tok The Warner surname was perhaps originally " Wonsal " or " Wonskolaser " Upon arriving in New York City , Benjamin introduced himself as " Benjamin Warner " , and the surname " Warner " remained with him for the rest of his life .
+# ::alignments 1-1.1.1.2 2-1.1.1.3 3-1.1.2 4-1.1.3 5-1.1.4 7-1.1.5.1 9-1.1.5.2 11-1.1.5.3 13-1.2 14-1.3.2 15-1.3.3.1 16-1.3.3.2 17-1.3.3.2 18-1.3.3.2 20-1.3.1 21-1.4.2 22-1.4.3 23-1.4.4.2 25-1.4.4.3 26-1.4.4.3 29-1.5 31-1.6.1.1.2 33-1.6.1.2 35-1.6.2 36-1.6.3.1 37-1.6.3.2 38-1.6.4.1 40-1.6.4.2.2 41-1.6.4.3 42-1.6.4.5 43-1.6.4.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v8 / label
+                  :C (v23 / label~e.1)
+                  :E (v24 / label~e.2))
+           :S (v9 / label~e.3)
+           :G (v10 / label~e.4)
+           :D (v11 / label~e.5)
+           :A (v12 / label
+                   :C (v25 / label~e.7)
+                   :N (v26 / label~e.9)
+                   :C (v27 / label~e.11)))
+    :L (v3 / label~e.13)
+    :H (v4 / label
+           :A (v13 / label~e.20)
+           :P (v14 / label~e.14)
+           :A (v15 / label
+                   :R (v28 / label~e.15)
+                   :C (v29 / label~e.16,17,18)))
+    :H (v5 / label
+           :A v13
+           :P (v16 / label~e.21)
+           :D (v17 / label~e.22)
+           :A (v18 / label
+                   :A v13
+                   :S (v30 / label~e.23)
+                   :A (v31 / label~e.25,26)))
+    :L (v6 / label~e.29)
+    :H (v7 / label
+           :A (v19 / label
+                   :E (v32 / label
+                           :C (v41 / label~e.31))
+                   :C (v33 / label~e.33))
+           :P (v20 / label~e.35)
+           :A (v21 / label
+                   :R (v34 / label~e.36)
+                   :C (v35 / label~e.37))
+           :T (v22 / label
+                   :R (v36 / label~e.38)
+                   :Q (v37 / label
+                           :C (v42 / label~e.40))
+                   :R (v38 / label~e.41)
+                   :C (v39 / label~e.43)
+                   :E (v40 / label~e.42))))

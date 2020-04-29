@@ -1,0 +1,23 @@
+# ::id 450011
+# ::tok It was in Brockville that the 21 - year - old Jennings started his rise in broadcasting .
+# ::alignments 2-1.1.2.3 3-1.1.2.4 5-1.1.4.1 6-1.1.4.2.2.1 8-1.1.4.2.2.2 10-1.1.4.2.3 11-1.1.4.3 12-1.1.5.1 13-1.1.5.2 14-1.1.5.3 16-1.1.7
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :R (v7 / label~e.2)
+                  :C (v8 / label~e.3))
+           :A (v4 / label
+                  :E (v9 / label~e.5)
+                  :E (v10 / label
+                          :A (v11 / label~e.11)
+                          :T (v15 / label
+                                  :Q (v17 / label~e.6)
+                                  :C (v18 / label~e.8))
+                          :S (v16 / label~e.10))
+                  :C v11)
+           :D (v5 / label
+                  :E (v12 / label~e.12)
+                  :E (v13 / label~e.13)
+                  :C (v14 / label~e.14))
+           :P (v6 / label~e.16)))

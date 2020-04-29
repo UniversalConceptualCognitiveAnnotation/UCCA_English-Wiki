@@ -1,0 +1,94 @@
+# ::id 516002
+# ::tok Buckley says that Bowie " subverted the whole notion of what it was to be a rock star " , with the result that " After Bowie there has been no other pop icon of his stature , because the pop world that produces these rock gods does n't exist any more . ... The fierce partisanship of the cult of Bowie was also unique - its influence lasted longer and has been more creative than perhaps almost any other force within pop fandom . "
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.20 3-1.1.3.21.2 5-1.1.3.21.3 7-1.1.3.21.4.2.1 8-1.1.3.21.4.2.2 9-1.1.3.21.4.3 10-1.1.3.21.4.4.1 12-1.1.3.21.4.4.3 16-1.1.3.21.4.4.4.5 17-1.1.3.21.4.4.4.6 20-1.1.3.1 21-1.1.3.1 22-1.1.3.1 23-1.1.3.1 25-1.1.3.2 26-1.1.3.10.2 29-1.1.3.11.3 30-1.1.3.11.4 31-1.1.3.11.5.1 32-1.1.3.11.5.2 33-1.1.3.11.5.3 34-1.1.3.11.5.4.1 35-1.1.3.11.5.4.2 36-1.1.3.11.5.4.3 38-1.1.3.12 40-1.1.3.13.1.2 41-1.1.3.13.1.3 42-1.1.3.13.1.4.2 43-1.1.3.13.1.4.3 44-1.1.3.13.1.4.4.1 45-1.1.3.13.1.4.4.2 46-1.1.3.13.1.4.4.3 48-1.1.3.13.3 49-1.1.3.13.4 50-1.1.3.13.5 51-1.1.3.13.5 55-1.1.3.14.1.2 56-1.1.3.14.1.3 57-1.1.3.14.1.4.1 59-1.1.3.17.5 60-1.1.3.14.1.4.4.1 61-1.1.3.14.1.4.4.2 63-1.1.3.14.3 64-1.1.3.14.4 66-1.1.3.15.1 67-1.1.3.15.2 68-1.1.3.15.3.1 69-1.1.3.15.3.2 70-1.1.3.16 73-1.1.3.17.3 74-1.1.3.17.4 75-1.1.3.18 76-1.1.3.19.1.1.1 77-1.1.3.19.1.1.2 78-1.1.3.19.1.1.3 79-1.1.3.19.1.1.4 80-1.1.3.19.1.2 81-1.1.3.19.1.3.3 82-1.1.3.19.1.3.4 83-1.1.3.19.1.3.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :P (v4 / label~e.1)
+           :A (v5 / label
+                  :L (v6 / label~e.20,21,22,23)
+                  :L (v7 / label~e.25)
+                  :H (v8 / label
+                         :P (v20 / label)
+                         :A (v21 / label~e.26))
+                  :H (v9 / label
+                         :S (v22 / label~e.29)
+                         :D (v23 / label~e.30)
+                         :A (v24 / label
+                                 :E (v42 / label~e.31)
+                                 :E (v43 / label~e.32)
+                                 :C (v44 / label~e.33)
+                                 :E (v45 / label
+                                         :R (v60 / label~e.34)
+                                         :E (v61 / label~e.35)
+                                         :C (v62 / label~e.36))))
+                  :L (v10 / label~e.38)
+                  :H (v11 / label
+                          :A (v25 / label
+                                  :E (v46 / label~e.40)
+                                  :C (v47 / label~e.41)
+                                  :E (v48 / label
+                                          :A v47
+                                          :R (v63 / label~e.42)
+                                          :P (v64 / label~e.43)
+                                          :A (v65 / label
+                                                  :E (v80 / label~e.44)
+                                                  :E (v81 / label~e.45)
+                                                  :C (v82 / label~e.46))))
+                          :D (v26 / label~e.48)
+                          :S (v27 / label~e.49)
+                          :D (v28 / label~e.50,51))
+                  :H (v12 / label
+                          :A (v29 / label
+                                  :D (v49 / label~e.55)
+                                  :P (v50 / label~e.56)
+                                  :A (v51 / label
+                                          :R (v66 / label~e.57)
+                                          :C (v37 / label~e.59)
+                                          :E (v67 / label
+                                                  :R (v83 / label~e.60)
+                                                  :C (v84 / label~e.61))))
+                          :D (v30 / label~e.63)
+                          :S (v31 / label~e.64))
+                  :H (v13 / label
+                          :A (v32 / label~e.66)
+                          :P (v33 / label~e.67)
+                          :D (v34 / label
+                                  :C (v52 / label~e.68)
+                                  :E (v53 / label~e.69)))
+                  :L (v14 / label~e.70)
+                  :H (v15 / label
+                          :D (v35 / label~e.73)
+                          :S (v36 / label~e.74)
+                          :A v37)
+                  :L (v16 / label~e.75)
+                  :H (v17 / label
+                          :A (v38 / label
+                                  :E (v54 / label
+                                          :E (v68 / label~e.76)
+                                          :E (v69 / label~e.77)
+                                          :E (v70 / label~e.78)
+                                          :C (v71 / label~e.79))
+                                  :C (v55 / label~e.80)
+                                  :E (v56 / label
+                                          :R (v72 / label~e.81)
+                                          :E (v73 / label~e.82)
+                                          :C (v74 / label~e.83)))
+                          :S v36)
+                  :R (v18 / label~e.2)
+                  :H (v19 / label
+                          :A (v39 / label~e.3)
+                          :P (v40 / label~e.5)
+                          :A (v41 / label
+                                  :E (v57 / label
+                                          :E (v75 / label~e.7)
+                                          :C (v76 / label~e.8))
+                                  :R (v58 / label~e.9)
+                                  :C (v59 / label
+                                          :A (v77 / label~e.10)
+                                          :S (v78 / label~e.12)
+                                          :A (v79 / label
+                                                  :A (v85 / label)
+                                                  :A (v86 / label~e.16)
+                                                  :S (v87 / label~e.17))))))))

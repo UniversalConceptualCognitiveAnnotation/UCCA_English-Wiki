@@ -1,0 +1,18 @@
+# ::id 493005
+# ::tok David Bowie was born David Robert Jones in Brixton , London , on 8 January 1947 .
+# ::alignments 0-1.1.2 1-1.1.2 3-1.1.4 4-1.1.5 5-1.1.5 6-1.1.5 7-1.1.6.1 8-1.1.6.2 10-1.1.6.3 12-1.1.7.1 13-1.1.7.2 14-1.1.7.3 15-1.1.7.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0,1)
+           :P (v4 / label~e.3)
+           :A (v5 / label~e.4,5,6)
+           :A (v6 / label
+                  :R (v8 / label~e.7)
+                  :C (v9 / label~e.8)
+                  :C (v10 / label~e.10))
+           :T (v7 / label
+                  :R (v11 / label~e.12)
+                  :C (v12 / label~e.13)
+                  :C (v13 / label~e.14)
+                  :C (v14 / label~e.15))))

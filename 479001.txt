@@ -1,0 +1,38 @@
+# ::id 479001
+# ::tok The rivalry continued in the NBA , and reached its climax when Boston and Los Angeles met in three out of four NBA Finals from 1984 to 1987 .
+# ::alignments 1-1.3.3 2-1.1.2 3-1.1.3.1 5-1.1.3.3 7-1.2 10-1.3.1.2 11-1.4 12-1.5.4.1 13-1.5.4.2 14-1.5.4.3 15-1.5.4.3 16-1.5.1 17-1.5.2.1.1 18-1.5.2.1.2 19-1.5.2.1.3.1 20-1.5.2.1.3.1 21-1.5.2.1.3.2 22-1.5.2.2 23-1.5.2.3 24-1.5.3.1 25-1.5.3.2 26-1.5.3.3 27-1.5.3.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :S (v7 / label
+                  :C (v11 / label~e.1))
+           :D (v8 / label~e.2)
+           :A (v9 / label
+                  :R (v16 / label~e.3)
+                  :C (v17 / label~e.5)))
+    :L (v3 / label~e.7)
+    :H (v4 / label
+           :S (v10 / label
+                   :C (v18 / label~e.10))
+           :A v11)
+    :L (v5 / label~e.11)
+    :H (v6 / label
+           :P (v12 / label~e.16)
+           :A (v13 / label
+                   :E (v19 / label
+                           :R (v29 / label~e.17)
+                           :C (v30 / label~e.18)
+                           :E (v31 / label
+                                   :R (v32 / label~e.19,20)
+                                   :C (v33 / label~e.21)))
+                   :E (v20 / label~e.22)
+                   :C (v21 / label~e.23))
+           :T (v14 / label
+                   :R (v22 / label~e.24)
+                   :C (v23 / label~e.25)
+                   :R (v24 / label~e.26)
+                   :C (v25 / label~e.27))
+           :A (v15 / label
+                   :C (v26 / label~e.12)
+                   :N (v27 / label~e.13)
+                   :C (v28 / label~e.14,15))))

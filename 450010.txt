@@ -1,0 +1,36 @@
+# ::id 450010
+# ::tok During this time , he explored acting by appearing in several amateur musical productions with the Orpheus Musical Theatre Society , including Damn Yankees and South Pacific .
+# ::alignments 0-1.1.2.1 1-1.1.2.2 2-1.1.2.3 4-1.1.3 5-1.1.4 6-1.1.5 7-1.1.6.1 8-1.1.6.2 9-1.1.6.3.1 10-1.1.6.3.2 11-1.1.6.3.3 12-1.1.6.3.4 13-1.1.6.3.5 14-1.1.6.4.1 15-1.1.6.4.2 16-1.1.6.4.3 17-1.1.6.4.4.1 18-1.1.6.4.4.2 19-1.1.6.4.5 21-1.1.6.3.6.1 22-1.1.6.3.6.2 23-1.1.6.3.6.2 24-1.1.6.3.6.3 25-1.1.6.3.6.4 26-1.1.6.3.6.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label
+                  :R (v8 / label~e.0)
+                  :E (v9 / label~e.1)
+                  :C (v10 / label~e.2))
+           :A (v4 / label~e.4)
+           :D (v5 / label~e.5)
+           :P (v6 / label~e.6)
+           :A (v7 / label
+                  :R (v11 / label~e.7)
+                  :P (v12 / label~e.8)
+                  :A (v13 / label
+                          :R (v15 / label~e.9)
+                          :Q (v16 / label~e.10)
+                          :E (v17 / label~e.11)
+                          :E (v18 / label~e.12)
+                          :C (v19 / label~e.13)
+                          :E (v20 / label
+                                  :R (v26 / label~e.21)
+                                  :C (v27 / label~e.22,23)
+                                  :N (v28 / label~e.24)
+                                  :C (v29 / label~e.25,26)))
+                  :A (v14 / label
+                          :R (v21 / label~e.14)
+                          :E (v22 / label~e.15)
+                          :E (v23 / label~e.16)
+                          :E (v24 / label
+                                  :E (v30 / label~e.17)
+                                  :C (v31 / label~e.18))
+                          :C (v25 / label~e.19))
+                  :A v4)))

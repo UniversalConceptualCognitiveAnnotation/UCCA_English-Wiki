@@ -1,0 +1,15 @@
+# ::id 498006
+# ::tok The Ziggy Stardust Tour continued to the United States .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.2 3-1.1.2 4-1.1.3 5-1.1.4.3 6-1.1.4.4 7-1.1.4.1 8-1.1.4.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v7 / label~e.0)
+                  :C (v8 / label~e.1,2))
+           :P (v4 / label~e.3)
+           :D (v5 / label~e.4)
+           :A (v6 / label
+                  :C (v9 / label~e.7,8)
+                  :R (v10 / label~e.5)
+                  :E (v11 / label~e.6))))

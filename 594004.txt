@@ -1,0 +1,31 @@
+# ::id 594004
+# ::tok Depp was presented with gifts by the family , which he then presented to the attendees , as per tradition .
+# ::alignments 0-1.1.2 2-1.1.4 3-1.1.5.1 4-1.1.5.2 5-1.1.6.1 6-1.1.6.2.1 7-1.1.6.2.2 9-1.1.5.3.1 10-1.1.5.3.2.2 11-1.1.5.3.2.3 12-1.1.5.3.2.4 13-1.1.5.3.2.5.1 14-1.1.5.3.2.5.2.1 15-1.1.5.3.2.5.2.2 17-1.1.5.3.3 18-1.1.5.3.3 19-1.1.5.3.4.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :P (v4 / label~e.2)
+           :A (v5 / label
+                  :R (v7 / label~e.3)
+                  :C (v8 / label~e.4)
+                  :E (v9 / label
+                         :R (v12 / label~e.9)
+                         :H (v13 / label
+                                 :A v8
+                                 :A (v18 / label~e.10)
+                                 :T (v19 / label~e.11)
+                                 :P (v20 / label~e.12)
+                                 :A (v21 / label
+                                         :R (v23 / label~e.13)
+                                         :A (v24 / label
+                                                 :E (v25 / label~e.14)
+                                                 :C (v26 / label~e.15))))
+                         :L (v14 / label~e.17,18)
+                         :H (v15 / label
+                                 :S (v22 / label~e.19))))
+           :A (v6 / label
+                  :R (v10 / label~e.5)
+                  :A (v11 / label
+                          :E (v16 / label~e.6)
+                          :C (v17 / label~e.7)))))

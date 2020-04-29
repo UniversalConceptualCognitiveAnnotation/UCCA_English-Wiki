@@ -1,0 +1,39 @@
+# ::id 524016
+# ::tok The success of these three films , and a further three films in 1941 , secured her position at MGM as a major property .
+# ::alignments 1-1.1.1.1.2 2-1.1.1.2.1 3-1.1.1.2.2.1 4-1.1.1.2.2.2 5-1.1.1.2.2.3 7-1.1.1.2.3 9-1.1.1.2.4.2 10-1.1.1.2.4.3 11-1.1.1.2.4.4 12-1.1.1.2.4.5.3.1 13-1.1.1.2.4.5.3.2 15-1.1.2 16-1.1.4.2 17-1.1.4.3 18-1.1.4.4.1 19-1.1.4.4.2 20-1.1.4.1.1 22-1.1.4.1.3.2 23-1.1.4.1.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :S (v6 / label
+                         :C (v12 / label~e.1))
+                  :A (v7 / label
+                         :R (v13 / label~e.2)
+                         :C (v14 / label
+                                 :E (v22 / label~e.3)
+                                 :Q (v23 / label~e.4)
+                                 :C (v24 / label~e.5))
+                         :N (v15 / label~e.7)
+                         :C (v16 / label
+                                 :E (v25 / label~e.9)
+                                 :Q (v26 / label~e.10)
+                                 :C (v27 / label~e.11)
+                                 :E (v28 / label
+                                         :A v27
+                                         :P (v30 / label)
+                                         :T (v31 / label
+                                                 :R (v32 / label~e.12)
+                                                 :C (v33 / label~e.13))))))
+           :S (v4 / label~e.15)
+           :A (v5 / label
+                  :A (v8 / label
+                         :R (v17 / label~e.20)
+                         :E (v18 / label
+                                 :A (v19 / label~e.23)
+                                 :S (v29 / label~e.22))
+                         :C v19)
+                  :A (v9 / label~e.16)
+                  :S (v10 / label~e.17)
+                  :A (v11 / label
+                          :R (v20 / label~e.18)
+                          :C (v21 / label~e.19)))))

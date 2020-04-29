@@ -1,0 +1,31 @@
+# ::id 530015
+# ::tok The album won four Grammy Awards including Album of the Year and Best Female Vocal of the Year .
+# ::alignments 1-1.1.1.2 2-1.1.2 3-1.1.3.2 4-1.1.3.3 5-1.1.3.4 6-1.1.3.1.1 7-1.1.3.1.2.1.1 8-1.1.3.1.2.1.2.1 10-1.1.3.1.2.1.2.3 11-1.1.3.1.2.2 12-1.1.3.1.2.3.1.2 13-1.1.3.1.2.3.2 14-1.1.3.1.2.3.3 15-1.1.3.1.2.3.4.1 17-1.1.3.1.2.3.4.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :C (v6 / label~e.1))
+           :P (v4 / label~e.2)
+           :A (v5 / label
+                  :E (v7 / label
+                         :R (v11 / label~e.6)
+                         :C (v12 / label
+                                 :C (v13 / label
+                                         :C (v16 / label~e.7)
+                                         :E (v17 / label
+                                                 :R (v22 / label~e.8)
+                                                 :C (v23 / label~e.10)))
+                                 :N (v14 / label~e.11)
+                                 :C (v15 / label
+                                         :E (v18 / label
+                                                 :A (v20 / label~e.14)
+                                                 :S (v24 / label~e.12))
+                                         :E (v19 / label~e.13)
+                                         :C v20
+                                         :E (v21 / label
+                                                 :R (v25 / label~e.15)
+                                                 :C (v26 / label~e.17)))))
+                  :Q (v8 / label~e.3)
+                  :C (v9 / label~e.4)
+                  :E (v10 / label~e.5))))

@@ -1,0 +1,39 @@
+# ::id 599002
+# ::tok After the band 's break - up , he pursued a solo career , later forming Wings with his first wife , Linda , and singer - songwriter Denny Laine .
+# ::alignments 0-1.1 1-1.2.1.1 2-1.2.1.2 3-1.2.1.3 4-1.2.2 6-1.2.2 8-1.3.1 9-1.3.2 10-1.3.3.1 11-1.3.4 12-1.3.3.2 14-1.4 15-1.5.1 16-1.5.2 17-1.5.3.1 18-1.5.3.2.1 19-1.5.3.2.2 20-1.5.3.2.3 22-1.5.3.2.4 24-1.5.3.3 25-1.5.3.5.1 27-1.5.3.6.1 28-1.5.3.5.2 29-1.5.3.5.2
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v7 / label
+                  :E (v16 / label~e.1)
+                  :C (v17 / label~e.2)
+                  :R (v18 / label~e.3))
+           :P (v8 / label~e.4,6))
+    :H (v4 / label
+           :A (v9 / label~e.8)
+           :D (v10 / label~e.9)
+           :P (v11 / label
+                   :E (v19 / label~e.10)
+                   :C (v20 / label~e.12))
+           :D (v12 / label~e.11))
+    :L (v5 / label~e.14)
+    :H (v6 / label
+           :P (v13 / label~e.15)
+           :A (v14 / label~e.16)
+           :A (v15 / label
+                   :R (v21 / label~e.17)
+                   :H (v22 / label
+                           :A (v27 / label~e.18)
+                           :D (v28 / label~e.19)
+                           :S (v29 / label~e.20)
+                           :A (v30 / label~e.22))
+                   :L (v23 / label~e.24)
+                   :L (v24 / label)
+                   :H (v25 / label
+                           :P (v31 / label~e.25)
+                           :A (v32 / label~e.28,29))
+                   :H (v26 / label
+                           :P (v33 / label~e.27)
+                           :A v32))
+           :A v9))

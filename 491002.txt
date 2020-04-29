@@ -1,0 +1,20 @@
+# ::id 491002
+# ::tok Bana can often be seen at AFL games when he is back in Australia .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 4-1.1.5 5-1.1.6.1 6-1.1.6.2 7-1.1.6.3 8-1.2 9-1.3.3 11-1.3.5 12-1.3.6 13-1.3.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label~e.0)
+           :D (v6 / label~e.1)
+           :T (v7 / label~e.2)
+           :S (v8 / label~e.4)
+           :A (v9 / label
+                  :R (v14 / label~e.5)
+                  :A (v15 / label~e.6)
+                  :P (v16 / label~e.7)))
+    :L (v3 / label~e.8)
+    :H (v4 / label
+           :A (v10 / label~e.13)
+           :A (v11 / label~e.9)
+           :D (v12 / label~e.11)
+           :S (v13 / label~e.12)))
