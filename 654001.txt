@@ -1,0 +1,37 @@
+# ::id 654001
+# ::tok After negotiations between Lennon , Spinetti and the artistic director of the National Theatre , Sir Laurence Olivier , the play opened at the Old Vic in 1968 .
+# ::alignments 0-1.1 1-1.2.1 2-1.2.2.1 3-1.2.2.2 5-1.2.2.3 6-1.2.2.4 7-1.2.2.5.1.1.1 8-1.2.2.5.1.2 9-1.2.2.5.1.1.2 10-1.2.2.5.1.3.1 11-1.2.2.5.1.3.2 12-1.2.2.5.1.3.3 13-1.2.2.5.1.3.4 15-1.2.2.5.2 16-1.2.2.5.2 17-1.2.2.5.2 19-1.3.2.1 20-1.3.2.2 21-1.3.3 22-1.3.4.1 23-1.3.4.2 24-1.3.4.3 25-1.3.4.3 26-1.3.1.1 27-1.3.1.2
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :P (v5 / label~e.1)
+           :A (v6 / label
+                  :R (v11 / label~e.2)
+                  :C (v12 / label~e.3)
+                  :C (v13 / label~e.5)
+                  :N (v14 / label~e.6)
+                  :C (v15 / label
+                          :E (v23 / label
+                                  :S (v25 / label
+                                          :E (v28 / label~e.7)
+                                          :C (v29 / label~e.9))
+                                  :D (v26 / label~e.8)
+                                  :A (v27 / label
+                                          :R (v30 / label~e.10)
+                                          :E (v31 / label~e.11)
+                                          :E (v32 / label~e.12)
+                                          :C (v33 / label~e.13)))
+                          :C (v24 / label~e.15,16,17))))
+    :H (v4 / label
+           :T (v7 / label
+                  :R (v16 / label~e.26)
+                  :C (v17 / label~e.27))
+           :A (v8 / label
+                  :E (v18 / label~e.19)
+                  :C (v19 / label~e.20))
+           :P (v9 / label~e.21)
+           :A (v10 / label
+                   :R (v20 / label~e.22)
+                   :E (v21 / label~e.23)
+                   :C (v22 / label~e.24,25))))

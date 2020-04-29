@@ -1,0 +1,58 @@
+# ::id 709002
+# ::tok The track " Most of the Time " , a lost love composition , was later prominently featured in the film High Fidelity , while " What Was It You Wanted ? " has been interpreted both as a catechism and a wry comment on the expectations of critics and fans .
+# ::alignments 0-1.1.1.1.1 1-1.1.1.1.2 3-1.1.1.2 4-1.1.1.2 5-1.1.1.2 6-1.1.1.2 9-1.1.1.3.1 10-1.1.1.3.2.3.1 11-1.1.1.3.2.3.2 12-1.1.1.3.3 15-1.1.3 16-1.1.4 17-1.1.5 18-1.1.6.1 19-1.1.6.2.1 20-1.1.6.2.2 21-1.1.6.3 22-1.1.6.3 24-1.2 26-1.3.1 27-1.3.1 28-1.3.1 29-1.3.1 30-1.3.1 35-1.3.4 36-1.4 37-1.3.5.1 38-1.3.5.2 39-1.3.5.3 40-1.5 42-1.6.1.2 43-1.6.1.3 44-1.6.1.4.1 45-1.6.1.4.2.1 46-1.6.1.4.2.2 47-1.6.1.4.3.2.1 48-1.6.1.4.3.2.2 49-1.6.1.4.3.1 50-1.6.1.4.3.3.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v8 / label
+                  :E (v17 / label
+                          :E (v29 / label~e.0)
+                          :C (v30 / label~e.1))
+                  :C (v18 / label~e.3,4,5,6)
+                  :E (v19 / label
+                          :E (v31 / label~e.9)
+                          :E (v32 / label
+                                  :A (v33 / label~e.12)
+                                  :S (v39 / label)
+                                  :A (v40 / label
+                                          :D (v46 / label~e.10)
+                                          :S (v47 / label~e.11)))
+                          :C v33))
+           :T (v9 / label~e.15)
+           :D (v10 / label~e.16)
+           :P (v11 / label~e.17)
+           :A (v12 / label
+                   :R (v20 / label~e.18)
+                   :E (v21 / label
+                           :E (v34 / label~e.19)
+                           :C (v35 / label~e.20))
+                   :C (v22 / label~e.21,22)))
+    :L (v3 / label~e.24)
+    :H (v4 / label
+           :A (v13 / label~e.26,27,28,29,30)
+           :P (v14 / label~e.35)
+           :A (v15 / label
+                   :R (v23 / label~e.37)
+                   :E (v24 / label~e.38)
+                   :C (v25 / label~e.39)))
+    :L (v5 / label~e.36)
+    :L (v6 / label~e.40)
+    :H (v7 / label
+           :A (v16 / label
+                   :D (v26 / label~e.42)
+                   :P (v27 / label~e.43)
+                   :A (v28 / label
+                           :R (v36 / label~e.44)
+                           :P (v37 / label
+                                   :E (v41 / label~e.45)
+                                   :C (v42 / label~e.46))
+                           :A (v38 / label
+                                   :L (v43 / label~e.49)
+                                   :H (v44 / label
+                                           :R (v48 / label~e.47)
+                                           :P (v49 / label~e.48))
+                                   :H (v45 / label
+                                           :P (v50 / label~e.50)
+                                           :R v48))))
+           :A v13
+           :P v14))

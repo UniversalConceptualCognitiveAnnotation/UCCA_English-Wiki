@@ -1,0 +1,12 @@
+# ::id 652002
+# ::tok Ono , meanwhile , was granted permanent residence .
+# ::alignments 0-1.1.2 2-1.2 5-1.1.4 6-1.1.1.1 7-1.1.1.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :E (v7 / label~e.6)
+                  :C (v8 / label~e.7))
+           :A (v5 / label~e.0)
+           :P (v6 / label~e.5))
+    :L (v3 / label~e.2))

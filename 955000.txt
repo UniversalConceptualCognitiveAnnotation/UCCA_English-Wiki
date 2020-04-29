@@ -1,0 +1,12 @@
+# ::id 955000
+# ::tok Olivier had been attempting to broaden his film career .
+# ::alignments 0-1.1.3 3-1.1.6 5-1.1.8 7-1.1.2 8-1.1.1.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label
+                  :C (v8 / label~e.8))
+           :A (v4 / label~e.7)
+           :A (v5 / label~e.0)
+           :D (v6 / label~e.3)
+           :D (v7 / label~e.5)))

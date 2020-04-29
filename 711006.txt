@@ -1,0 +1,36 @@
+# ::id 711006
+# ::tok That year also saw the release of the film Masked & Anonymous , which Dylan co - wrote with director Larry Charles under the alias Sergei Petrov .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2 4-1.1.4.1 5-1.1.4.2 6-1.1.5.5 7-1.1.5.1.1 8-1.1.5.1.2 9-1.1.5.2 10-1.1.5.2 11-1.1.5.2 13-1.1.5.3.2 14-1.1.5.3.3 15-1.1.5.3.4 17-1.1.5.3.5 18-1.1.5.3.6.1 19-1.1.5.3.6.2.1 20-1.1.5.3.6.3 21-1.1.5.3.6.3 22-1.1.5.3.7.1 23-1.1.5.3.7.2.1 24-1.1.5.3.7.2.2 25-1.1.5.3.7.3 26-1.1.5.3.7.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label
+                  :E (v7 / label~e.0)
+                  :C (v8 / label~e.1))
+           :D (v4 / label~e.2)
+           :P (v5 / label
+                  :E (v9 / label~e.4)
+                  :C (v10 / label~e.5))
+           :A (v6 / label
+                  :E (v11 / label
+                          :E (v15 / label~e.7)
+                          :C (v16 / label~e.8))
+                  :C (v12 / label~e.9,10,11)
+                  :E (v13 / label
+                          :A v12
+                          :R (v17 / label~e.13)
+                          :A (v18 / label~e.14)
+                          :D (v19 / label~e.15)
+                          :P (v20 / label~e.17)
+                          :A (v21 / label
+                                  :R (v23 / label~e.18)
+                                  :E (v24 / label
+                                          :P (v29 / label~e.19))
+                                  :C (v25 / label~e.20,21))
+                          :A (v22 / label
+                                  :R (v26 / label~e.22)
+                                  :E (v27 / label
+                                          :E (v30 / label~e.23)
+                                          :C (v31 / label~e.24))
+                                  :C (v28 / label~e.25,26)))
+                  :R (v14 / label~e.6))))

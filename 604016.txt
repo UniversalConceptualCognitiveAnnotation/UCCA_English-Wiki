@@ -1,0 +1,36 @@
+# ::id 604016
+# ::tok In September 1971 , the McCartneys ' daughter Stella was born , named in honour of Linda 's grandmothers , both of whom were named Stella .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 5-1.1.3.3.2 7-1.1.3.3.3 8-1.1.3.1 10-1.1.6 12-1.1.3.2.2 13-1.1.3.2.3.1.1 14-1.1.3.2.3.1.2 15-1.1.3.2.3.1.3 16-1.1.3.2.3.2.1.1 17-1.1.3.2.3.2.1.2 18-1.1.3.2.3.2.2 20-1.1.3.2.3.3.1.1 21-1.1.3.2.3.3.2 22-1.1.3.2.3.3.2 24-1.1.3.2.3.3.4 25-1.1.3.2.3.3.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label
+                  :R (v6 / label~e.0)
+                  :C (v7 / label~e.1)
+                  :C (v8 / label~e.2))
+           :A (v4 / label
+                  :C (v9 / label~e.8)
+                  :E (v10 / label
+                          :A v9
+                          :S (v12 / label~e.12)
+                          :A (v13 / label
+                                  :R (v16 / label
+                                          :R (v19 / label~e.13)
+                                          :C (v20 / label~e.14)
+                                          :R (v21 / label~e.15))
+                                  :C (v17 / label
+                                          :A (v22 / label
+                                                  :C (v28 / label~e.16)
+                                                  :R (v29 / label~e.17))
+                                          :A (v23 / label~e.18))
+                                  :E (v18 / label
+                                          :A (v24 / label
+                                                  :Q (v30 / label~e.20)
+                                                  :C v23)
+                                          :R (v25 / label~e.21,22)
+                                          :S (v26 / label~e.24)
+                                          :A (v27 / label~e.25))))
+                  :E (v11 / label
+                          :A (v14 / label~e.5)
+                          :A (v15 / label~e.7)))
+           :P (v5 / label~e.10)))

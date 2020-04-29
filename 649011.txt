@@ -1,0 +1,28 @@
+# ::id 649011
+# ::tok At an appeal hearing years later , Hanratty 's conviction was upheld after DNA evidence matched .
+# ::alignments 0-1.1 1-1.2.2.1 2-1.2.2.2 3-1.2.2.3 4-1.2.3.1 5-1.2.3.2 7-1.3.1.1.1 8-1.3.1.1.2 9-1.3.1.2 11-1.3.3 12-1.4 13-1.5.3.1 14-1.5.3.2 15-1.5.1
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v7 / label)
+           :P (v8 / label
+                  :E (v14 / label~e.1)
+                  :E (v15 / label~e.2)
+                  :C (v16 / label~e.3))
+           :T (v9 / label
+                  :C (v17 / label~e.4)
+                  :R (v18 / label~e.5)))
+    :H (v4 / label
+           :A (v10 / label
+                   :A (v19 / label
+                           :C (v23 / label~e.7)
+                           :R (v24 / label~e.8))
+                   :P (v20 / label~e.9))
+           :P (v11 / label~e.11))
+    :L (v5 / label~e.12)
+    :H (v6 / label
+           :P (v12 / label~e.15)
+           :A (v13 / label
+                   :E (v21 / label~e.13)
+                   :C (v22 / label~e.14))))

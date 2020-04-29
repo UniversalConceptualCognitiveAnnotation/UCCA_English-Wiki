@@ -1,0 +1,48 @@
+# ::id 618018
+# ::tok McCartney and Yoko Ono attempted to purchase the Northern Songs catalogue in 1981 , but Grade declined their offer and decided to sell ATV in its entirety to businessman Robert Holmes à Court .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 3-1.1.1.3 4-1.1.2 6-1.1.3.3 7-1.1.3.4.1 8-1.1.3.4.2.1 9-1.1.3.4.2.2 10-1.1.3.4.3 11-1.1.4.1 12-1.1.4.2 14-1.2 15-1.3.1 16-1.3.2 17-1.3.3.1 18-1.3.3.2 19-1.4 20-1.5.3 22-1.5.1.2 23-1.5.1.3.1 24-1.5.1.3.2.1 25-1.5.1.3.2.2 26-1.5.1.3.2.3 27-1.5.1.4.1 28-1.5.1.4.2.1 29-1.5.1.4.3 30-1.5.1.4.3 31-1.5.1.4.3 32-1.5.1.4.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label
+                  :C (v16 / label~e.0)
+                  :N (v17 / label~e.1)
+                  :C (v18 / label~e.2,3))
+           :P (v8 / label~e.4)
+           :A (v9 / label
+                  :A v7
+                  :P (v19 / label~e.6)
+                  :A (v20 / label
+                          :E (v28 / label~e.7)
+                          :E (v29 / label
+                                  :E (v36 / label~e.8)
+                                  :C (v37 / label~e.9))
+                          :C (v30 / label~e.10)))
+           :T (v10 / label
+                   :R (v21 / label~e.11)
+                   :C (v22 / label~e.12)))
+    :L (v3 / label~e.14)
+    :H (v4 / label
+           :A (v11 / label~e.15)
+           :P (v12 / label~e.16)
+           :A (v13 / label
+                   :A (v23 / label~e.17)
+                   :P (v24 / label~e.18)))
+    :L (v5 / label~e.19)
+    :H (v6 / label
+           :A (v14 / label
+                   :P (v25 / label~e.22)
+                   :A (v26 / label
+                           :C (v31 / label~e.23)
+                           :E (v32 / label
+                                   :R (v38 / label~e.24)
+                                   :E (v39 / label~e.25)
+                                   :C (v40 / label~e.26)))
+                   :A (v27 / label
+                           :R (v33 / label~e.27)
+                           :E (v34 / label
+                                   :P (v41 / label~e.28))
+                           :C (v35 / label~e.29,30,31,32))
+                   :A v11)
+           :A v11
+           :P (v15 / label~e.20)))

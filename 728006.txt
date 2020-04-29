@@ -1,0 +1,42 @@
+# ::id 728006
+# ::tok According to the Chicago Tribune , " Jolie ages convincingly throughout , and is blithely unconcerned with how her brittle character is coming off in terms of audience sympathy . "
+# ::alignments 0-1.1.3 1-1.1.3 2-1.1.4.1 3-1.1.4.2 4-1.1.4.2 7-1.1.5.1.1 8-1.1.5.1.2 9-1.1.5.1.3 10-1.1.5.1.4.2 12-1.1.5.2 14-1.1.5.3.2 15-1.1.5.3.3 16-1.1.5.3.4.1 17-1.1.5.3.4.2 18-1.1.5.3.4.3.2.1.2 19-1.1.5.3.4.3.2.2.2 20-1.1.5.3.4.3.2.3 22-1.1.5.3.4.3.4 23-1.1.5.3.4.3.4 24-1.1.5.3.4.3.5.1 25-1.1.5.3.4.3.5.1 26-1.1.5.3.4.3.5.1 27-1.1.5.3.4.3.5.2.1 28-1.1.5.3.4.3.5.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label~e.0,1)
+           :A (v4 / label
+                  :E (v6 / label~e.2)
+                  :C (v7 / label~e.3,4))
+           :A (v5 / label
+                  :H (v8 / label
+                         :A (v11 / label~e.7)
+                         :P (v12 / label~e.8)
+                         :G (v13 / label~e.9)
+                         :A (v14 / label
+                                 :C (v18 / label)
+                                 :R (v19 / label~e.10)))
+                  :L (v9 / label~e.12)
+                  :H (v10 / label
+                          :D (v15 / label~e.14)
+                          :S (v16 / label~e.15)
+                          :A (v17 / label
+                                  :R (v20 / label~e.16)
+                                  :C (v21 / label~e.17)
+                                  :E (v22 / label
+                                          :D v21
+                                          :A (v23 / label
+                                                  :E (v26 / label
+                                                          :A (v28 / label~e.20)
+                                                          :A (v32 / label~e.18))
+                                                  :E (v27 / label
+                                                          :A v28
+                                                          :S (v33 / label~e.19))
+                                                  :C v28)
+                                          :S (v24 / label~e.22,23)
+                                          :A (v25 / label
+                                                  :R (v29 / label~e.24,25,26)
+                                                  :A (v30 / label
+                                                          :P (v34 / label~e.27))
+                                                  :S (v31 / label~e.28))))
+                          :A v11))))

@@ -1,0 +1,31 @@
+# ::id 676000
+# ::tok On July 23 , 2012 , it was officially announced that Carey would be joining the judging panel of American Idol for season twelve .
+# ::alignments 0-1.1.2.1 1-1.1.2.2 2-1.1.2.3 4-1.1.2.4 8-1.1.5 9-1.1.6 10-1.1.7.1 11-1.1.7.2.1 12-1.1.7.2.2 14-1.1.7.2.4 15-1.1.7.2.5.1.1 16-1.1.7.2.5.2 17-1.1.7.2.5.1.2 18-1.1.7.2.5.3.1 19-1.1.7.2.5.3.2 20-1.1.7.2.5.3.2 21-1.1.7.3 22-1.1.7.4.1 23-1.1.7.4.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label
+                  :R (v7 / label~e.0)
+                  :C (v8 / label~e.1)
+                  :C (v9 / label~e.2)
+                  :C (v10 / label~e.4))
+           :D (v4 / label~e.8)
+           :P (v5 / label~e.9)
+           :A (v6 / label
+                  :R (v11 / label~e.10)
+                  :H (v12 / label
+                          :A (v15 / label~e.11)
+                          :D (v16 / label~e.12)
+                          :P (v17 / label~e.14)
+                          :A (v18 / label
+                                  :S (v21 / label
+                                          :E (v24 / label~e.15)
+                                          :C (v25 / label~e.17))
+                                  :A (v22 / label~e.16)
+                                  :A (v23 / label
+                                          :R (v26 / label~e.18)
+                                          :C (v27 / label~e.19,20))))
+                  :L (v13 / label~e.21)
+                  :H (v14 / label
+                          :P (v19 / label~e.22)
+                          :D (v20 / label~e.23)))))

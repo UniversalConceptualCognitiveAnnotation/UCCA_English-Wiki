@@ -1,0 +1,21 @@
+# ::id 725005
+# ::tok Jolie returned to film in the 1998 gangster movie Hell 's Kitchen .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.1.4.3 6-1.1.4.4.2.3 7-1.1.4.4.3 8-1.1.4.4.4 9-1.1.4.1 10-1.1.4.1 11-1.1.4.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :D (v4 / label~e.1)
+           :P (v5 / label
+                  :R (v7 / label~e.2)
+                  :C (v8 / label~e.3))
+           :A (v6 / label
+                  :C (v9 / label~e.9,10,11)
+                  :R (v10 / label~e.4)
+                  :E (v11 / label
+                          :E (v12 / label
+                                  :A (v14 / label~e.8)
+                                  :P (v15 / label)
+                                  :T (v16 / label~e.6))
+                          :E (v13 / label~e.7)
+                          :C v14))))

@@ -1,0 +1,38 @@
+# ::id 707007
+# ::tok Since then , some critics have called the 11 - minute epic that Dylan co - wrote with Sam Shepard , ' Brownsville Girl ' , a work of genius .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.1.3.1 4-1.1.3.2.1 6-1.1.7 7-1.1.8.1.1 8-1.1.8.1.2.1 10-1.1.8.1.2.2 11-1.1.8.1.3 12-1.1.8.1.4.2 13-1.1.8.1.4.3 14-1.1.8.1.4.4 16-1.1.8.1.4.5 17-1.1.8.1.4.6.1 18-1.1.8.1.4.6.2 19-1.1.8.1.4.6.2 22-1.1.8.2 23-1.1.8.2 26-1.1.9.1 27-1.1.9.2 28-1.1.9.3.2 29-1.1.9.3.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label
+                  :R (v8 / label~e.0)
+                  :C (v9 / label~e.1))
+           :A (v4 / label
+                  :Q (v10 / label~e.3)
+                  :C (v11 / label
+                          :P (v17 / label~e.4)))
+           :P (v5 / label~e.6)
+           :A (v6 / label
+                  :E (v12 / label
+                          :E (v18 / label~e.7)
+                          :E (v19 / label
+                                  :Q (v24 / label~e.8)
+                                  :C (v25 / label~e.10))
+                          :C (v20 / label~e.11)
+                          :E (v21 / label
+                                  :A v20
+                                  :R (v26 / label~e.12)
+                                  :A (v27 / label~e.13)
+                                  :D (v28 / label~e.14)
+                                  :P (v29 / label~e.16)
+                                  :A (v30 / label
+                                          :R (v31 / label~e.17)
+                                          :C (v32 / label~e.18,19))))
+                  :C (v13 / label~e.22,23))
+           :A (v7 / label
+                  :E (v14 / label~e.26)
+                  :C (v15 / label~e.27)
+                  :E (v16 / label
+                          :A v15
+                          :R (v22 / label~e.28)
+                          :S (v23 / label~e.29)))))

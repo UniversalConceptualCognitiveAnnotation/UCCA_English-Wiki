@@ -1,0 +1,23 @@
+# ::id 604003
+# ::tok The tension grew while recording The Beatles , commonly known as the White Album .
+# ::alignments 1-1.1.1.2 2-1.1.2 3-1.2 4-1.3.2 5-1.3.3.3 6-1.3.3.3 8-1.3.3.1.1 9-1.3.3.1.2 10-1.3.3.1.3.1 11-1.3.3.1.3.2 12-1.3.3.1.3.2 13-1.3.3.1.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v5 / label
+                  :C (v10 / label~e.1))
+           :D (v6 / label~e.2))
+    :L (v3 / label~e.3)
+    :H (v4 / label
+           :A (v7 / label)
+           :P (v8 / label~e.4)
+           :A (v9 / label
+                  :E (v11 / label
+                          :D (v13 / label~e.8)
+                          :S (v14 / label~e.9)
+                          :A (v15 / label
+                                  :S (v16 / label~e.10)
+                                  :A (v17 / label~e.11,12,13)
+                                  :A (v12 / label~e.5,6))
+                          :A v12)
+                  :C v12)))

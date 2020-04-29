@@ -1,0 +1,83 @@
+# ::id 698003
+# ::tok The Nashville sessions produced the double - album Blonde on Blonde ( 1966 ) , featuring what Dylan later called " that thin wild mercury sound " . Al Kooper described the album as " taking two cultures and smashing them together with a huge explosion " : the musical world of Nashville and the world of the " quintessential New York hipster " Bob Dylan .
+# ::alignments 1-1.1.1.2 2-1.1.1.3 3-1.1.2 5-1.1.3.2.1 7-1.1.3.2.2 8-1.1.3.3 9-1.1.3.3 10-1.1.3.3 12-1.1.3.4.3 15-1.1.3.5.2 16-1.1.3.5.3.1 17-1.1.3.5.3.2.2 18-1.1.3.5.3.2.3 19-1.1.3.5.3.2.4 21-1.1.3.5.3.2.5.1 22-1.1.3.5.3.2.5.2.2 23-1.1.3.5.3.2.5.3.2 24-1.1.3.5.3.2.5.4 25-1.1.3.5.3.2.5.5 28-1.2.2 29-1.2.2 30-1.2.3 31-1.2.4.1 32-1.2.4.2 33-1.2.1.1 35-1.2.1.2.1 36-1.2.1.2.2.1 37-1.2.1.2.2.2 38-1.2.1.3 39-1.2.1.4.1 40-1.2.1.4.2.1 41-1.2.1.4.3 42-1.2.1.4.4.1 44-1.2.1.4.4.3 45-1.2.1.4.4.4 48-1.2.1.4.2.2.1.1 49-1.2.1.4.2.2.1.2 50-1.2.1.4.2.2.1.3 51-1.2.1.4.2.2.1.4.1 52-1.2.1.4.2.2.1.4.2 53-1.2.1.4.2.2.2 54-1.2.1.4.2.2.3.1 55-1.2.1.4.2.2.3.2 56-1.2.1.4.2.2.3.3.3 59-1.2.1.4.2.2.3.3.4.2 60-1.2.1.4.2.2.3.3.4.3 61-1.2.1.4.2.2.3.3.4.3 62-1.2.1.4.2.2.3.3.4.4 64-1.2.1.4.2.2.3.3.5 65-1.2.1.4.2.2.3.3.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :A (v11 / label~e.1)
+                  :P (v12 / label~e.2))
+           :P (v5 / label~e.3)
+           :A (v6 / label
+                  :E (v13 / label
+                          :E (v23 / label~e.5)
+                          :C (v24 / label~e.7))
+                  :C (v14 / label~e.8,9,10)
+                  :E (v15 / label
+                          :A v14
+                          :P (v25 / label)
+                          :T (v26 / label~e.12))
+                  :E (v16 / label
+                          :A v14
+                          :S (v27 / label~e.15)
+                          :A (v28 / label
+                                  :C (v35 / label~e.16)
+                                  :E (v36 / label
+                                          :A v35
+                                          :A (v44 / label~e.17)
+                                          :D (v45 / label~e.18)
+                                          :P (v46 / label~e.19)
+                                          :A (v47 / label
+                                                  :E (v51 / label~e.21)
+                                                  :E (v52 / label
+                                                          :A (v55 / label~e.25)
+                                                          :S (v63 / label~e.22))
+                                                  :E (v53 / label
+                                                          :A v55
+                                                          :S (v64 / label~e.23))
+                                                  :E (v54 / label~e.24)
+                                                  :C v55))))))
+    :H (v3 / label
+           :A (v7 / label
+                  :R (v17 / label~e.33)
+                  :H (v18 / label
+                          :P (v29 / label~e.35)
+                          :A (v30 / label
+                                  :Q (v37 / label~e.36)
+                                  :C (v38 / label~e.37))
+                          :A (v22 / label~e.32))
+                  :L (v19 / label~e.38)
+                  :H (v20 / label
+                          :P (v31 / label~e.39)
+                          :A (v32 / label
+                                  :C (v39 / label~e.40)
+                                  :E (v40 / label
+                                          :C (v48 / label
+                                                  :E (v56 / label~e.48)
+                                                  :E (v57 / label~e.49)
+                                                  :C (v58 / label~e.50)
+                                                  :E (v59 / label
+                                                          :R (v65 / label~e.51)
+                                                          :C (v66 / label~e.52)))
+                                          :N (v49 / label~e.53)
+                                          :C (v50 / label
+                                                  :E (v60 / label~e.54)
+                                                  :C (v61 / label~e.55)
+                                                  :E (v62 / label
+                                                          :R (v67 / label~e.56)
+                                                          :E (v68 / label
+                                                                  :D (v70 / label~e.59)
+                                                                  :A (v71 / label~e.60,61)
+                                                                  :S (v72 / label~e.62))
+                                                          :C (v69 / label~e.64,65)))))
+                          :D (v33 / label~e.41)
+                          :A (v34 / label
+                                  :R (v41 / label~e.42)
+                                  :D (v42 / label~e.44)
+                                  :P (v43 / label~e.45))
+                          :A v22))
+           :A (v8 / label~e.28,29)
+           :P (v9 / label~e.30)
+           :A (v10 / label
+                   :E (v21 / label~e.31)
+                   :C v22)))

@@ -1,0 +1,90 @@
+# ::id 653005
+# ::tok Turner described how one of Lennon 's cartoons depicted a bus stop sign annotated with the question , " Why ? " . Above was a flying pancake , and below , " a blind man wearing glasses leading along a blind dog - also wearing glasses " . Lennon 's love of wordplay and nonsense with a twist found a wider audience when he was 24 .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2.1 4-1.1.3.2.2 5-1.1.3.2.3.1 6-1.1.3.2.3.2 7-1.1.3.2.4 8-1.1.3.3 9-1.1.3.4.4.1.1 10-1.1.3.4.4.1.2.1 11-1.1.3.4.4.1.2.2 12-1.1.3.4.4.1.3 13-1.1.3.4.4.2 14-1.1.3.4.4.3.1 15-1.1.3.4.4.3.2.1 16-1.1.3.4.4.3.2.2 19-1.1.3.4.4.3.3 23-1.1.3.4.5.1 24-1.1.3.4.5.2 25-1.1.3.4.5.3.1 26-1.1.3.4.5.3.2.2 27-1.1.3.4.5.3.3 29-1.1.3.4.6 30-1.1.3.4.7.3 33-1.1.3.4.7.4.1 34-1.1.3.4.7.4.2 35-1.1.3.4.7.4.3 36-1.1.3.4.7.4.4.2 37-1.1.3.4.7.4.4.3 38-1.1.3.4.7.5.1 39-1.1.3.4.7.5.2 40-1.1.3.4.7.6.2 41-1.1.3.4.7.6.3 42-1.1.3.4.7.6.4 44-1.1.3.4.7.6.5.2 45-1.1.3.4.7.6.5.3 46-1.1.3.4.7.6.5.4 49-1.2.1.1.1 50-1.2.1.1.2 51-1.2.1.2 52-1.2.1.3.1 53-1.2.1.3.2 54-1.2.1.3.3 55-1.2.1.3.4.1 56-1.2.1.3.4.2.1 57-1.2.1.3.4.2.2 58-1.2.1.3.4.2.3 59-1.2.2 60-1.2.3.1 61-1.2.3.2 62-1.2.3.3 63-1.3 64-1.4.4 66-1.4.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label~e.0)
+           :P (v7 / label~e.1)
+           :A (v8 / label
+                  :D (v14 / label~e.2)
+                  :A (v15 / label
+                          :Q (v24 / label~e.3)
+                          :R (v25 / label~e.4)
+                          :E (v26 / label
+                                  :C (v38 / label~e.5)
+                                  :R (v39 / label~e.6))
+                          :C (v27 / label~e.7))
+                  :S (v16 / label~e.8)
+                  :A (v17 / label
+                          :H (v28 / label
+                                  :A (v40 / label
+                                          :E (v52 / label~e.9)
+                                          :E (v53 / label
+                                                  :E (v74 / label~e.10)
+                                                  :C (v75 / label~e.11))
+                                          :C (v54 / label~e.12))
+                                  :S (v41 / label~e.13)
+                                  :A (v42 / label
+                                          :R (v55 / label~e.14)
+                                          :E (v56 / label
+                                                  :E (v76 / label~e.15)
+                                                  :C (v77 / label~e.16))
+                                          :C (v57 / label~e.19)))
+                          :H (v29 / label
+                                  :R (v43 / label~e.23)
+                                  :S (v44 / label~e.24)
+                                  :A (v45 / label
+                                          :E (v58 / label~e.25)
+                                          :E (v59 / label
+                                                  :A (v60 / label~e.27)
+                                                  :P (v78 / label~e.26))
+                                          :C v60))
+                          :L (v30 / label~e.29)
+                          :H (v31 / label
+                                  :R (v46 / label~e.30)
+                                  :A (v47 / label
+                                          :E (v61 / label~e.33)
+                                          :E (v62 / label~e.34)
+                                          :C (v63 / label~e.35)
+                                          :E (v64 / label
+                                                  :A v63
+                                                  :P (v79 / label~e.36)
+                                                  :A (v80 / label~e.37)))
+                                  :P (v48 / label
+                                          :C (v65 / label~e.38)
+                                          :E (v66 / label~e.39))
+                                  :A (v49 / label
+                                          :E (v67 / label~e.40)
+                                          :E (v68 / label~e.41)
+                                          :C (v69 / label~e.42)
+                                          :E (v70 / label
+                                                  :A v69
+                                                  :D (v81 / label~e.44)
+                                                  :P (v82 / label~e.45)
+                                                  :A (v83 / label~e.46)))))))
+    :H (v3 / label
+           :A (v9 / label
+                  :A (v18 / label
+                          :C (v32 / label~e.49)
+                          :R (v33 / label~e.50))
+                  :P (v19 / label~e.51)
+                  :A (v20 / label
+                          :R (v34 / label~e.52)
+                          :C (v35 / label~e.53)
+                          :N (v36 / label~e.54)
+                          :C (v37 / label
+                                  :C (v50 / label~e.55)
+                                  :E (v51 / label
+                                          :R (v71 / label~e.56)
+                                          :E (v72 / label~e.57)
+                                          :C (v73 / label~e.58)))))
+           :P (v10 / label~e.59)
+           :A (v11 / label
+                   :E (v21 / label~e.60)
+                   :E (v22 / label~e.61)
+                   :C (v23 / label~e.62)))
+    :L (v4 / label~e.63)
+    :H (v5 / label
+           :S (v12 / label~e.66)
+           :A (v13 / label~e.64)))

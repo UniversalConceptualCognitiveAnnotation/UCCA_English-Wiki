@@ -1,0 +1,52 @@
+# ::id 675000
+# ::tok Following the birth of their children , Cannon revealed during an interview with Billboard that Carey had already begun working on a new record and that she 's been inspired by her first two albums .
+# ::alignments 0-1.1 1-1.2.1.1 2-1.2.1.2 3-1.2.2.1 4-1.2.2.2 5-1.2.2.3 7-1.3.1 8-1.3.2 9-1.4 10-1.5.2.1 11-1.5.2.2 12-1.5.1.1 13-1.5.1.2 14-1.3.3.1.1 15-1.3.3.1.2 17-1.3.3.1.4 18-1.3.3.1.5 19-1.3.3.1.6 20-1.3.3.1.7.1 21-1.3.3.1.7.2 22-1.3.3.1.7.3.2 23-1.3.3.1.7.4 24-1.3.3.2 25-1.3.3.3.1 26-1.3.3.3.2 29-1.3.3.3.5 30-1.3.3.3.6.1 31-1.3.3.3.6.2.2 32-1.3.3.3.6.3 33-1.3.3.3.6.4 34-1.3.3.3.6.5
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :P (v7 / label
+                  :E (v14 / label~e.1)
+                  :C (v15 / label~e.2))
+           :A (v8 / label
+                  :R (v16 / label~e.3)
+                  :A (v17 / label~e.4)
+                  :S (v18 / label~e.5)))
+    :H (v4 / label
+           :A (v9 / label~e.7)
+           :P (v10 / label~e.8)
+           :A (v11 / label
+                   :H (v19 / label
+                           :R (v26 / label~e.14)
+                           :A (v27 / label~e.15)
+                           :D (v28 / label~e.17)
+                           :D (v29 / label~e.18)
+                           :P (v30 / label~e.19)
+                           :A (v31 / label
+                                   :R (v36 / label~e.20)
+                                   :E (v37 / label~e.21)
+                                   :E (v38 / label
+                                           :A (v39 / label~e.23)
+                                           :S (v45 / label~e.22))
+                                   :C v39))
+                   :L (v20 / label~e.24)
+                   :H (v21 / label
+                           :R (v32 / label~e.25)
+                           :A (v33 / label~e.26)
+                           :S (v34 / label~e.29)
+                           :A (v35 / label
+                                   :R (v40 / label~e.30)
+                                   :E (v41 / label
+                                           :A (v44 / label~e.34)
+                                           :S (v46 / label~e.31))
+                                   :Q (v42 / label~e.32)
+                                   :Q (v43 / label~e.33)
+                                   :C v44))))
+    :L (v5 / label~e.9)
+    :H (v6 / label
+           :A (v12 / label
+                   :R (v22 / label~e.12)
+                   :C (v23 / label~e.13))
+           :P (v13 / label
+                   :E (v24 / label~e.10)
+                   :C (v25 / label~e.11))))

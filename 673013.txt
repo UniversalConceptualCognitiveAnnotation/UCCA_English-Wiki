@@ -1,0 +1,50 @@
+# ::id 673013
+# ::tok Within hours after the song 's release , various outlets speculated that its target was rapper Eminem , in response to his song " Bagpipes from Baghdad " , in which he taunted Carey 's husband , Nick Cannon .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.2.1.1 4-1.2.1.2 5-1.2.1.3 6-1.2.2 8-1.3.1.1 9-1.3.1.2 10-1.3.2 11-1.3.3.1 12-1.3.3.2.1 13-1.3.3.2.2 15-1.3.3.2.4.1.1 16-1.3.3.2.4.2 18-1.3.3.3.1 19-1.3.3.3.2 20-1.3.3.3.3 21-1.3.3.4.1.1.1.2 22-1.3.3.4.1.1.2 24-1.3.3.4.1.2 25-1.3.3.4.1.2 26-1.3.3.4.1.2 31-1.3.3.4.3 32-1.3.3.4.4 33-1.3.3.4.5.1.1.1 34-1.3.3.4.5.1.1.2 35-1.3.3.4.5.1.2 37-1.3.3.4.5.2 38-1.3.3.4.5.2
+# ::format ucca
+(v1 / label
+    :L (v2 / label
+           :R (v5 / label~e.0)
+           :C (v6 / label~e.1)
+           :R (v7 / label~e.2))
+    :H (v3 / label
+           :A (v8 / label
+                  :E (v13 / label~e.3)
+                  :C (v14 / label~e.4)
+                  :R (v15 / label~e.5))
+           :P (v9 / label~e.6))
+    :H (v4 / label
+           :A (v10 / label
+                   :Q (v16 / label~e.8)
+                   :C (v17 / label~e.9))
+           :P (v11 / label~e.10)
+           :A (v12 / label
+                   :R (v18 / label~e.11)
+                   :H (v19 / label
+                           :A (v22 / label~e.12)
+                           :S (v23 / label~e.13)
+                           :A (v24 / label
+                                   :E (v32 / label
+                                           :P (v38 / label~e.15))
+                                   :C (v33 / label~e.16)))
+                   :L (v20 / label
+                           :R (v25 / label~e.18)
+                           :C (v26 / label~e.19)
+                           :R (v27 / label~e.20))
+                   :H (v21 / label
+                           :A (v28 / label
+                                   :E (v34 / label
+                                           :E (v39 / label
+                                                   :A (v40 / label~e.22)
+                                                   :S (v43 / label~e.21))
+                                           :C v40)
+                                   :C (v35 / label~e.24,25,26))
+                           :A (v29 / label~e.31)
+                           :P (v30 / label~e.32)
+                           :A (v31 / label
+                                   :E (v36 / label
+                                           :A (v41 / label
+                                                   :C (v44 / label~e.33)
+                                                   :R (v45 / label~e.34))
+                                           :S (v42 / label~e.35))
+                                   :C (v37 / label~e.37,38))))))

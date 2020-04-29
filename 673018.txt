@@ -1,0 +1,37 @@
+# ::id 673018
+# ::tok Though stateside , the tour spanned few international dates , such as in Brazil and Singapore , where Carey played to over 100,000 spectators .
+# ::alignments 0-1.1 1-1.2.2 3-1.3.1.1 4-1.2.1 5-1.3.2 6-1.3.3.1 7-1.3.3.2 8-1.3.3.3 10-1.3.3.4.1 11-1.3.3.4.1 12-1.3.3.4.2 13-1.3.3.4.3.1 14-1.3.3.4.3.2 15-1.3.3.4.3.3 17-1.3.3.4.4.2 18-1.3.3.4.4.3 19-1.3.3.4.4.4 20-1.3.3.4.4.5.1 21-1.3.3.4.4.5.2.1 22-1.3.3.4.4.5.2.2 23-1.3.3.4.4.5.3.1
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :P (v5 / label~e.4)
+           :A (v6 / label~e.1))
+    :H (v4 / label
+           :A (v7 / label
+                  :E (v10 / label~e.3)
+                  :C v5)
+           :P (v8 / label~e.5)
+           :A (v9 / label
+                  :Q (v11 / label~e.6)
+                  :E (v12 / label~e.7)
+                  :C (v13 / label~e.8)
+                  :E (v14 / label
+                          :R (v15 / label~e.10,11)
+                          :R (v16 / label~e.12)
+                          :C (v17 / label
+                                  :C (v19 / label~e.13)
+                                  :N (v20 / label~e.14)
+                                  :C (v21 / label~e.15))
+                          :E (v18 / label
+                                  :A v17
+                                  :R (v22 / label~e.17)
+                                  :A (v23 / label~e.18)
+                                  :P (v24 / label~e.19)
+                                  :A (v25 / label
+                                          :R (v26 / label~e.20)
+                                          :Q (v27 / label
+                                                  :E (v29 / label~e.21)
+                                                  :C (v30 / label~e.22))
+                                          :C (v28 / label
+                                                  :P (v31 / label~e.23))))))))

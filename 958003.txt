@@ -1,0 +1,28 @@
+# ::id 958003
+# ::tok Leigh was filming Caesar and Cleopatra ( 1945 ) when she discovered she was pregnant , but she suffered a miscarriage .
+# ::alignments 0-1.1.1 2-1.1.3 3-1.1.4.1 4-1.1.4.1 5-1.1.4.1 7-1.1.4.2.3 9-1.2 10-1.3.1 11-1.3.2 12-1.3.3.1 14-1.3.3.3 16-1.4 17-1.5.1 18-1.5.2 19-1.5.3.1 20-1.5.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label~e.0)
+           :P (v8 / label~e.2)
+           :A (v9 / label
+                  :C (v16 / label~e.3,4,5)
+                  :E (v17 / label
+                          :A v16
+                          :P (v22 / label)
+                          :T (v23 / label~e.7))))
+    :L (v3 / label~e.9)
+    :H (v4 / label
+           :A (v10 / label~e.10)
+           :P (v11 / label~e.11)
+           :A (v12 / label
+                   :A (v18 / label~e.12)
+                   :S (v19 / label~e.14)))
+    :L (v5 / label~e.16)
+    :H (v6 / label
+           :A (v13 / label~e.17)
+           :D (v14 / label~e.18)
+           :P (v15 / label
+                   :E (v20 / label~e.19)
+                   :C (v21 / label~e.20))))

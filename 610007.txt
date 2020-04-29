@@ -1,0 +1,29 @@
+# ::id 610007
+# ::tok In November , on the first anniversary of George Harrison 's death , McCartney performed at the Concert for George .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.2 5-1.3.2.2 6-1.3.3 7-1.3.1.1 8-1.3.1.2.1 9-1.3.1.2.1 10-1.3.1.2.2 11-1.3.1.3 13-1.1.2 14-1.1.3 15-1.1.4.1 17-1.1.4.2.2 18-1.1.4.3.1 19-1.1.4.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v5 / label
+                  :R (v12 / label~e.0)
+                  :C (v13 / label~e.1))
+           :A (v6 / label~e.13)
+           :P (v7 / label~e.14)
+           :A (v8 / label
+                  :R (v14 / label~e.15)
+                  :P (v15 / label
+                          :C (v21 / label~e.17))
+                  :A (v16 / label
+                          :R (v22 / label~e.18)
+                          :C (v23 / label~e.19))))
+    :L (v3 / label~e.3)
+    :H (v4 / label
+           :A (v9 / label
+                  :R (v17 / label~e.7)
+                  :A (v18 / label
+                          :C (v24 / label~e.8,9)
+                          :R (v25 / label~e.10))
+                  :P (v19 / label~e.11))
+           :D (v10 / label
+                   :C (v20 / label~e.5))
+           :P (v11 / label~e.6)))

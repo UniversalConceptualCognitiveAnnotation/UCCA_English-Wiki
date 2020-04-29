@@ -1,0 +1,37 @@
+# ::id 689009
+# ::tok Their performance of Danny and the Juniors ' " Rock and Roll Is Here to Stay " at their high school talent show was so loud that the principal cut the microphone off .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3.1 3-1.1.1.3.2.3 4-1.1.1.3.2.3 5-1.1.1.3.2.3 6-1.1.1.3.2.3 9-1.1.1.3.3 10-1.1.1.3.3 11-1.1.1.3.3 12-1.1.1.3.3 13-1.1.1.3.3 14-1.1.1.3.3 15-1.1.1.3.3 17-1.1.1.4.1 18-1.1.1.4.2.1.2 19-1.1.1.4.2.2 20-1.1.1.4.2.2 21-1.1.1.4.3 22-1.1.1.4.4 24-1.1.3 25-1.1.4 26-1.2 27-1.3.2.1.1 28-1.3.2.1.2 29-1.3.3 30-1.3.4.2 31-1.3.4.1 32-1.3.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :A (v11 / label~e.0)
+                  :P (v12 / label~e.1)
+                  :A (v13 / label
+                          :R (v18 / label~e.2)
+                          :E (v19 / label
+                                  :A (v20 / label~e.9,10,11,12,13,14,15)
+                                  :S (v27 / label)
+                                  :A (v28 / label~e.3,4,5,6))
+                          :C v20)
+                  :A (v14 / label
+                          :R (v21 / label~e.17)
+                          :A (v22 / label
+                                  :E (v29 / label
+                                          :A (v30 / label~e.19,20)
+                                          :S (v31 / label~e.18))
+                                  :C v30)
+                          :A (v23 / label~e.21)
+                          :P (v24 / label~e.22)))
+           :D (v6 / label~e.24)
+           :S (v7 / label~e.25))
+    :L (v3 / label~e.26)
+    :H (v4 / label
+           :A (v8 / label
+                  :P (v15 / label
+                          :E (v25 / label~e.27)
+                          :C (v26 / label~e.28)))
+           :P (v9 / label~e.29,32)
+           :A (v10 / label
+                   :C (v16 / label~e.31)
+                   :E (v17 / label~e.30))))

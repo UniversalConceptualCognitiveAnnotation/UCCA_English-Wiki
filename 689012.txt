@@ -1,0 +1,40 @@
+# ::id 689012
+# ::tok His early focus on rock and roll gave way to an interest in American folk music ; in 1985 , Dylan explained the attraction that folk music had exerted on him :
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 3-1.1.1.4.1 4-1.1.1.4.2 5-1.1.1.4.2 6-1.1.1.4.2 7-1.1.2 8-1.1.2 9-1.1.3.1 10-1.1.3.2.1 11-1.1.3.2.2 12-1.1.3.3.1 13-1.1.3.3.2 14-1.1.3.3.3 15-1.1.3.3.4 17-1.2.2.1 18-1.2.2.2 20-1.2.3 21-1.2.4 23-1.2.5.2 25-1.2.5.4.1 26-1.2.5.4.2 28-1.2.5.6 29-1.2.5.7.1 30-1.2.5.7.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :A (v11 / label~e.0)
+                  :T (v12 / label~e.1)
+                  :P (v13 / label~e.2)
+                  :A (v14 / label
+                          :R (v24 / label~e.3)
+                          :C (v25 / label~e.4,5,6)))
+           :P (v5 / label~e.7,8)
+           :A (v6 / label
+                  :R (v15 / label~e.9)
+                  :P (v16 / label
+                          :E (v26 / label~e.10)
+                          :C (v27 / label~e.11))
+                  :A (v17 / label
+                          :R (v28 / label~e.12)
+                          :E (v29 / label~e.13)
+                          :E (v30 / label~e.14)
+                          :C (v31 / label~e.15))
+                  :A v11))
+    :H (v3 / label
+           :T (v7 / label
+                  :R (v18 / label~e.17)
+                  :C (v19 / label~e.18))
+           :A (v8 / label~e.20)
+           :P (v9 / label~e.21)
+           :A (v10 / label
+                   :P (v20 / label~e.23)
+                   :A (v21 / label
+                           :E (v32 / label~e.25)
+                           :C (v33 / label~e.26))
+                   :D (v22 / label~e.28)
+                   :A (v23 / label
+                           :R (v34 / label~e.29)
+                           :C (v35 / label~e.30)))))

@@ -1,0 +1,36 @@
+# ::id 640002
+# ::tok Starr 's Goodnight Vienna ( 1974 ) again saw assistance from Lennon , who wrote the title track and played piano .
+# ::alignments 0-1.1.2.1.1 1-1.1.2.1.2 2-1.1.2.2 3-1.1.2.2 5-1.1.2.3.3 7-1.1.3 9-1.1.4.2 10-1.1.5.4 11-1.1.5.1 13-1.1.5.2.1 14-1.1.5.2.2.1.2 15-1.1.5.2.2.1.3.1 16-1.1.5.2.2.1.3.2 17-1.1.5.2.2.1.3.3 18-1.1.5.2.2.2 19-1.1.5.2.2.3.2 20-1.1.5.2.2.3.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v7 / label
+                         :C (v14 / label~e.0)
+                         :R (v15 / label~e.1))
+                  :C (v8 / label~e.2,3)
+                  :E (v9 / label
+                         :A v8
+                         :P (v16 / label)
+                         :T (v17 / label~e.5)))
+           :D (v4 / label~e.7)
+           :P (v5 / label
+                  :C (v10 / label~e.9))
+           :A (v6 / label
+                  :C (v11 / label~e.11)
+                  :E (v12 / label
+                          :C (v18 / label~e.13)
+                          :E (v19 / label
+                                  :H (v20 / label
+                                          :A v11
+                                          :P (v23 / label~e.14)
+                                          :A (v24 / label
+                                                  :E (v27 / label~e.15)
+                                                  :E (v28 / label~e.16)
+                                                  :C (v29 / label~e.17)))
+                                  :L (v21 / label~e.18)
+                                  :H (v22 / label
+                                          :A v11
+                                          :P (v25 / label~e.19)
+                                          :A (v26 / label~e.20))))
+                  :R (v13 / label~e.10))))

@@ -1,0 +1,48 @@
+# ::id 651001
+# ::tok However , the FBI considered Lennon to have limited effectiveness as a revolutionary since he was " constantly under the influence of narcotics " . In 1973 , Lennon contributed a limerick called " Why Make It Sad To Be Gay ? " to Len Richmond 's The Gay Liberation Book .
+# ::alignments 0-1.1 2-1.2.1.1 3-1.2.1.2 4-1.2.2 5-1.2.3 8-1.2.4.4 9-1.2.4.3.2 10-1.2.4.5.1 11-1.2.4.5.2 12-1.2.4.5.3 13-1.3 14-1.4.1 17-1.4.3 18-1.4.4 19-1.4.4 20-1.4.4 21-1.4.5.1 22-1.4.5.2 25-1.5.1.1 26-1.5.1.2 28-1.5.2 29-1.5.3 30-1.5.4.1 31-1.5.4.2 32-1.5.4.3.2 34-1.5.4.3.3 35-1.5.4.3.3 36-1.5.4.3.3 37-1.5.4.3.3 38-1.5.4.3.3 39-1.5.4.3.3 40-1.5.4.3.3 43-1.5.5.1 44-1.5.5.2.1 45-1.5.5.2.1 46-1.5.5.2.2 47-1.5.5.3 48-1.5.5.3 49-1.5.5.3 50-1.5.5.3
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v7 / label
+                  :E (v20 / label~e.2)
+                  :C (v21 / label~e.3))
+           :P (v8 / label~e.4)
+           :A (v9 / label~e.5)
+           :A (v10 / label
+                   :A v9
+                   :P (v22 / label
+                           :C (v35 / label~e.9))
+                   :D (v23 / label~e.8)
+                   :A (v24 / label
+                           :R (v36 / label~e.10)
+                           :E (v37 / label~e.11)
+                           :C (v38 / label~e.12))))
+    :L (v4 / label~e.13)
+    :H (v5 / label
+           :A (v11 / label~e.14)
+           :T (v12 / label~e.17)
+           :P (v13 / label~e.18,19,20)
+           :A (v14 / label
+                   :R (v25 / label~e.21)
+                   :C (v26 / label~e.22)))
+    :H (v6 / label
+           :T (v15 / label
+                   :R (v27 / label~e.25)
+                   :C (v28 / label~e.26))
+           :A (v16 / label~e.28)
+           :P (v17 / label~e.29)
+           :A (v18 / label
+                   :E (v29 / label~e.30)
+                   :C (v30 / label~e.31)
+                   :E (v31 / label
+                           :A v30
+                           :S (v39 / label~e.32)
+                           :A (v40 / label~e.34,35,36,37,38,39,40)))
+           :A (v19 / label
+                   :R (v32 / label~e.43)
+                   :E (v33 / label
+                           :C (v41 / label~e.44,45)
+                           :R (v42 / label~e.46))
+                   :C (v34 / label~e.47,48,49,50))))

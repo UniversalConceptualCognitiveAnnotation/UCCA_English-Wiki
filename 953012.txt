@@ -1,0 +1,34 @@
+# ::id 953012
+# ::tok She engaged an agent , John Gliddon , who believed that " Vivian Holman " was not a suitable name for an actress .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.3.1.1 3-1.1.3.3.1.2 5-1.1.3.4 6-1.1.3.4 8-1.1.3.5.1 9-1.1.3.5.2 10-1.1.3.5.3.1 12-1.1.3.5.3.2 13-1.1.3.5.3.2 15-1.1.3.5.3.3 16-1.1.3.5.3.4 17-1.1.3.5.3.5.1 18-1.1.3.5.3.5.2.2 19-1.1.3.5.3.5.3 20-1.1.3.5.3.5.4.1 21-1.1.3.5.3.5.4.2.1 22-1.1.3.5.3.5.4.2.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :P (v4 / label~e.1)
+           :A (v5 / label
+                  :E (v6 / label
+                         :A (v9 / label
+                                :E (v13 / label~e.2)
+                                :C (v14 / label~e.3)))
+                  :C (v7 / label~e.5,6)
+                  :E (v8 / label
+                         :R (v10 / label~e.8)
+                         :S (v11 / label~e.9)
+                         :A (v12 / label
+                                 :R (v15 / label~e.10)
+                                 :A (v16 / label~e.12,13)
+                                 :S (v17 / label~e.15)
+                                 :D (v18 / label~e.16)
+                                 :A (v19 / label
+                                         :E (v20 / label~e.17)
+                                         :E (v21 / label
+                                                 :A (v22 / label~e.19)
+                                                 :S (v24 / label~e.18))
+                                         :C v22
+                                         :E (v23 / label
+                                                 :R (v25 / label~e.20)
+                                                 :A (v26 / label
+                                                         :E (v27 / label~e.21)
+                                                         :C (v28 / label~e.22)))))
+                         :A v7))))

@@ -1,0 +1,45 @@
+# ::id 633012
+# ::tok Like the other band members , Lennon was introduced to Preludin while in Hamburg , and regularly took the drug , as well as amphetamines , as a stimulant during their long , overnight performances .
+# ::alignments 0-1.1.1.1 1-1.1.1.2.1 2-1.1.1.2.2 3-1.1.1.3 4-1.1.1.4 6-1.1.2 8-1.1.4 9-1.1.5.1 10-1.1.5.2 11-1.2 12-1.3.1.1 13-1.3.1.2 15-1.4 16-1.5.1 17-1.5.2 18-1.5.3.1.1 19-1.5.3.1.2 21-1.5.3.2 22-1.5.3.2 23-1.5.3.2 24-1.5.3.3 26-1.5.4.1 27-1.5.4.2 28-1.5.4.3 29-1.6 30-1.7.1 31-1.7.2 33-1.7.3 34-1.7.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v9 / label
+                  :R (v22 / label~e.0)
+                  :Q (v23 / label
+                          :E (v36 / label~e.1)
+                          :C (v37 / label~e.2))
+                  :E (v24 / label~e.3)
+                  :C (v25 / label~e.4))
+           :A (v10 / label~e.6)
+           :P (v11 / label~e.8)
+           :A (v12 / label
+                   :R (v26 / label~e.9)
+                   :C (v27 / label~e.10)))
+    :L (v3 / label~e.11)
+    :H (v4 / label
+           :S (v13 / label
+                   :R (v28 / label~e.12)
+                   :C (v29 / label~e.13))
+           :A v10)
+    :L (v5 / label~e.15)
+    :H (v6 / label
+           :D (v14 / label~e.16)
+           :P (v15 / label~e.17)
+           :A (v16 / label
+                   :C (v30 / label
+                           :E (v38 / label~e.18)
+                           :C (v39 / label~e.19))
+                   :N (v31 / label~e.21,22,23)
+                   :C (v32 / label~e.24))
+           :A (v17 / label
+                   :R (v33 / label~e.26)
+                   :E (v34 / label~e.27)
+                   :C (v35 / label~e.28))
+           :A v10)
+    :L (v7 / label~e.29)
+    :H (v8 / label
+           :A (v18 / label~e.30)
+           :D (v19 / label~e.31)
+           :D (v20 / label~e.33)
+           :P (v21 / label~e.34)))

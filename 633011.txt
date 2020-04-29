@@ -1,0 +1,34 @@
+# ::id 633011
+# ::tok After the first Hamburg residency , the band accepted another in April 1961 , and a third in April 1962 .
+# ::alignments 0-1.1 1-1.2.2.1 2-1.2.3 3-1.2.2.2 4-1.2.2.3 6-1.2.1.1 7-1.5.3 8-1.3.2 9-1.3.3 10-1.3.4.1 11-1.3.4.2 12-1.3.4.3 14-1.4 15-1.5.4.1 16-1.5.4.2 17-1.5.1.1 18-1.5.1.2 19-1.5.1.3
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v7 / label
+                  :E (v16 / label~e.6)
+                  :C (v14 / label~e.7))
+           :S (v8 / label
+                  :E (v17 / label~e.1)
+                  :E (v18 / label~e.3)
+                  :C (v19 / label~e.4))
+           :D (v9 / label~e.2))
+    :H (v4 / label
+           :A v7
+           :P (v10 / label~e.8)
+           :A (v11 / label~e.9)
+           :T (v12 / label
+                   :R (v20 / label~e.10)
+                   :C (v21 / label~e.11)
+                   :C (v22 / label~e.12)))
+    :L (v5 / label~e.14)
+    :H (v6 / label
+           :T (v13 / label
+                   :R (v23 / label~e.17)
+                   :C (v24 / label~e.18)
+                   :C (v25 / label~e.19))
+           :P v10
+           :A v14
+           :A (v15 / label
+                   :E (v26 / label~e.15)
+                   :C (v27 / label~e.16))))

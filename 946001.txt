@@ -1,0 +1,13 @@
+# ::id 946001
+# ::tok The title track was well received .
+# ::alignments 0-1.1.3.3 1-1.1.3.1 2-1.1.3.2 4-1.1.5 5-1.1.6
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :A (v4 / label
+                  :E (v7 / label~e.1)
+                  :C (v8 / label~e.2)
+                  :E (v9 / label~e.0))
+           :D (v5 / label~e.4)
+           :P (v6 / label~e.5)))

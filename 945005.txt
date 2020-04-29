@@ -1,0 +1,40 @@
+# ::id 945005
+# ::tok L . A . M . B . 's third single " Hollaback Girl " became Stefani 's first US and second Australian number - one single ; it was less successful elsewhere .
+# ::alignments 0-1.1.1.1.1.1 2-1.1.1.1.1.1 4-1.1.1.1.1.1 6-1.1.1.1.1.1 8-1.1.1.1.1.2 9-1.1.1.1.2 10-1.1.1.1.3 12-1.1.1.2 13-1.1.1.2 15-1.1.2 16-1.1.3.1.2 17-1.1.3.1.3 18-1.1.3.2.1.3 19-1.1.3.2.1.4 20-1.1.3.2.2 21-1.1.3.2.3.2 22-1.1.3.2.3.3 23-1.1.3.2.1.2.1 25-1.1.3.2.1.2.2 26-1.1.3.3 28-1.2.3 30-1.2.5 31-1.2.6 32-1.2.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :E (v11 / label
+                          :E (v16 / label
+                                  :C (v24 / label~e.0,2,4,6)
+                                  :R (v25 / label~e.8))
+                          :Q (v17 / label~e.9)
+                          :C (v18 / label~e.10))
+                  :C (v12 / label~e.12,13))
+           :S (v5 / label~e.15)
+           :A (v6 / label
+                  :E (v13 / label
+                          :A (v15 / label~e.26)
+                          :A (v19 / label~e.16)
+                          :S (v20 / label~e.17))
+                  :E (v14 / label
+                          :H (v21 / label
+                                  :A v15
+                                  :S (v26 / label
+                                          :C (v31 / label~e.23)
+                                          :Q (v32 / label~e.25))
+                                  :D (v27 / label~e.18)
+                                  :A (v28 / label~e.19))
+                          :L (v22 / label~e.20)
+                          :H (v23 / label
+                                  :A v15
+                                  :D (v29 / label~e.21)
+                                  :A (v30 / label~e.22)
+                                  :S v26))
+                  :C v15))
+    :H (v3 / label
+           :A (v7 / label~e.32)
+           :A (v8 / label~e.28)
+           :D (v9 / label~e.30)
+           :P (v10 / label~e.31)))

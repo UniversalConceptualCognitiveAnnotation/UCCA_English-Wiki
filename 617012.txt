@@ -1,0 +1,15 @@
+# ::id 617012
+# ::tok This rose to £ 48 . 5 million by 2005 .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.1.3.3 6-1.1.3.3 7-1.1.3.3 8-1.1.4.2 9-1.1.4.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :P (v4 / label~e.1)
+           :A (v5 / label
+                  :R (v7 / label~e.2)
+                  :C (v8 / label~e.3)
+                  :Q (v9 / label~e.4,6,7))
+           :T (v6 / label
+                  :R (v10 / label~e.8)
+                  :C (v11 / label~e.9))))

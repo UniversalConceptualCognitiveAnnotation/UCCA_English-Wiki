@@ -1,0 +1,30 @@
+# ::id 610018
+# ::tok In 2009 , after a four - year break , he returned to touring and has since performed over 80 shows .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.2 5-1.3.2.1 7-1.3.2.2 8-1.3.3 10-1.1.2 11-1.1.3 12-1.1.4.1 13-1.1.4.2 14-1.4 16-1.5.1 17-1.5.2 18-1.5.3.1 19-1.5.3.2 20-1.5.3.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v7 / label
+                  :R (v16 / label~e.0)
+                  :C (v17 / label~e.1))
+           :A (v8 / label~e.10)
+           :D (v9 / label~e.11)
+           :P (v10 / label
+                   :R (v18 / label~e.12)
+                   :C (v19 / label~e.13)))
+    :L (v3 / label~e.3)
+    :H (v4 / label
+           :T (v11 / label
+                   :Q (v20 / label~e.5)
+                   :C (v21 / label~e.7))
+           :P (v12 / label~e.8)
+           :A v8)
+    :L (v5 / label~e.14)
+    :H (v6 / label
+           :T (v13 / label~e.16)
+           :P (v14 / label~e.17)
+           :A (v15 / label
+                   :R (v22 / label~e.18)
+                   :Q (v23 / label~e.19)
+                   :C (v24 / label~e.20))
+           :A v8))

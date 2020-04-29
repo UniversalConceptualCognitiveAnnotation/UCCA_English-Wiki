@@ -1,0 +1,24 @@
+# ::id 601004
+# ::tok By May 1960 the band had tried several names , including Beatals , Johnny and the Moondogs and the Silver Beetles .
+# ::alignments 0-1.1.1.1 1-1.1.1.2.1 2-1.1.1.2.2 3-1.1.2.1 4-1.1.2.2 6-1.1.4 7-1.1.5.4 8-1.1.5.1 10-1.1.5.2.1 11-1.1.5.2.2 13-1.1.5.2.3 14-1.1.5.2.3 15-1.1.5.2.3 16-1.1.5.2.3 17-1.1.5.2.4 18-1.1.5.2.5 19-1.1.5.2.5 20-1.1.5.2.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label
+                  :R (v7 / label~e.0)
+                  :C (v8 / label
+                         :C (v14 / label~e.1)
+                         :C (v15 / label~e.2)))
+           :A (v4 / label
+                  :E (v9 / label~e.3)
+                  :C (v10 / label~e.4))
+           :P (v5 / label~e.6)
+           :A (v6 / label
+                  :C (v11 / label~e.8)
+                  :E (v12 / label
+                          :R (v16 / label~e.10)
+                          :C (v17 / label~e.11)
+                          :C (v18 / label~e.13,14,15,16)
+                          :N (v19 / label~e.17)
+                          :C (v20 / label~e.18,19,20))
+                  :Q (v13 / label~e.7))))

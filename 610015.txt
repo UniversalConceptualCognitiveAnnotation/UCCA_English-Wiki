@@ -1,0 +1,15 @@
+# ::id 610015
+# ::tok The rock album Memory Almost Full followed in 2007 .
+# ::alignments 1-1.1.1.2.2 2-1.1.1.2.3 3-1.1.1.1 4-1.1.1.1 5-1.1.1.1 6-1.1.2 7-1.1.3.2 8-1.1.3.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :C (v6 / label~e.3,4,5)
+                  :E (v7 / label
+                         :E (v10 / label~e.1)
+                         :C (v11 / label~e.2)))
+           :P (v4 / label~e.6)
+           :T (v5 / label
+                  :R (v8 / label~e.7)
+                  :C (v9 / label~e.8))))

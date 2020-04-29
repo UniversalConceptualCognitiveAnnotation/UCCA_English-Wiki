@@ -1,0 +1,54 @@
+# ::id 607009
+# ::tok In 1982 McCartney collaborated with Stevie Wonder on the Martin - produced number - one hit " Ebony and Ivory " , included on McCartney 's Tug of War LP , and with Michael Jackson on " The Girl Is Mine " from Thriller .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2 3-1.1.3 4-1.1.4.1 5-1.1.4.2 6-1.1.4.2 7-1.1.5.1 9-1.1.5.2.2.3 11-1.1.5.2.2.4 12-1.1.5.2.3.3.1 14-1.1.5.2.3.3.2 15-1.1.5.2.4 17-1.1.5.3 18-1.1.5.3 19-1.1.5.3 22-1.1.5.4.2 23-1.1.5.4.3.1 24-1.1.5.4.3.2.2 25-1.1.5.4.3.2.3 26-1.1.5.4.3.3 27-1.1.5.4.3.3 28-1.1.5.4.3.3 29-1.1.5.4.3.4 31-1.2 32-1.3.3.1 33-1.3.3.2 34-1.3.3.2 35-1.3.4.5 37-1.3.4.1 38-1.3.4.1 39-1.3.4.1 40-1.3.4.1 42-1.3.4.2.2 43-1.3.4.2.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v5 / label
+                  :R (v12 / label~e.0)
+                  :C (v13 / label~e.1))
+           :A (v6 / label~e.2)
+           :P (v7 / label~e.3)
+           :A (v8 / label
+                  :R (v14 / label~e.4)
+                  :C (v15 / label~e.5,6))
+           :A (v9 / label
+                  :R (v16 / label~e.7)
+                  :E (v17 / label
+                          :E (v25 / label
+                                  :A (v27 / label~e.15)
+                                  :A (v32 / label~e.9)
+                                  :P (v33 / label~e.11))
+                          :E (v26 / label
+                                  :A v27
+                                  :S (v34 / label)
+                                  :A (v35 / label
+                                          :C (v40 / label~e.12)
+                                          :Q (v41 / label~e.14)))
+                          :C v27)
+                  :C (v18 / label~e.17,18,19)
+                  :E (v19 / label
+                          :A v18
+                          :S (v28 / label~e.22)
+                          :A (v29 / label
+                                  :R (v36 / label~e.23)
+                                  :E (v37 / label
+                                          :A (v38 / label~e.26,27,28)
+                                          :A (v42 / label~e.24)
+                                          :S (v43 / label~e.25))
+                                  :C v38
+                                  :E (v39 / label~e.29)))))
+    :L (v3 / label~e.31)
+    :H (v4 / label
+           :A v6
+           :P v7
+           :A (v10 / label
+                   :R (v20 / label~e.32)
+                   :C (v21 / label~e.33,34))
+           :A (v11 / label
+                   :C (v22 / label~e.37,38,39,40)
+                   :E (v23 / label
+                           :A v22
+                           :S (v30 / label~e.42)
+                           :A (v31 / label~e.43))
+                   :R (v24 / label~e.35))))

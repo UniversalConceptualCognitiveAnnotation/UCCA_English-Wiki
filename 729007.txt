@@ -1,0 +1,30 @@
+# ::id 729007
+# ::tok Jolie next starred in the 2010 thriller Salt , her first film in two years .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4.4 4-1.1.4.5.1 5-1.1.4.5.2.3 6-1.1.4.5.3 7-1.1.4.1 9-1.1.4.2.1.2 10-1.1.4.2.2.1 11-1.1.4.2.3 12-1.1.4.2.2.2.1 13-1.1.4.2.2.2.2 14-1.1.4.2.2.2.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :D (v4 / label~e.1)
+           :P (v5 / label~e.2)
+           :A (v6 / label
+                  :C (v7 / label~e.7)
+                  :E (v8 / label
+                         :E (v11 / label
+                                 :A (v13 / label~e.11)
+                                 :A (v17 / label~e.9))
+                         :Q (v12 / label
+                                 :C (v18 / label~e.10)
+                                 :E (v19 / label
+                                         :R (v22 / label~e.12)
+                                         :Q (v23 / label~e.13)
+                                         :C (v24 / label~e.14)))
+                         :C v13)
+                  :R (v9 / label~e.3)
+                  :E (v10 / label
+                          :E (v14 / label~e.4)
+                          :E (v15 / label
+                                  :A (v16 / label~e.6)
+                                  :P (v20 / label)
+                                  :T (v21 / label~e.5))
+                          :C v16))))

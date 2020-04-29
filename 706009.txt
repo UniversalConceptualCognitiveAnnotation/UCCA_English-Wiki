@@ -1,0 +1,19 @@
+# ::id 706009
+# ::tok Between July 1984 and March 1985 , Dylan recorded Empire Burlesque .
+# ::alignments 0-1.1.3.2 1-1.1.3.1.1.1 2-1.1.3.1.1.2 3-1.1.3.1.2 4-1.1.3.1.3.1 5-1.1.3.1.3.2 7-1.1.4 8-1.1.5 9-1.1.6 10-1.1.6
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label
+                  :C (v7 / label
+                         :C (v9 / label
+                                :C (v12 / label~e.1)
+                                :C (v13 / label~e.2))
+                         :N (v10 / label~e.3)
+                         :C (v11 / label
+                                 :C (v14 / label~e.4)
+                                 :C (v15 / label~e.5)))
+                  :R (v8 / label~e.0))
+           :A (v4 / label~e.7)
+           :P (v5 / label~e.8)
+           :A (v6 / label~e.9,10)))

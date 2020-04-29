@@ -1,0 +1,33 @@
+# ::id 648001
+# ::tok She agreed to allow the pregnancy to continue on condition that Lennon adopt the role of househusband ; this he agreed to do .
+# ::alignments 0-1.1.1 1-1.1.2 3-1.1.4 4-1.1.5.1.1 5-1.1.5.1.2 7-1.1.5.3 8-1.2.1 9-1.2.2 10-1.3.1 11-1.3.2 12-1.3.3 13-1.3.4.1 14-1.3.4.2 15-1.3.4.3.1 16-1.3.4.3.2 18-1.4.2.1 19-1.4.3 20-1.4.1 22-1.4.2.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label~e.0)
+           :D (v7 / label~e.1)
+           :P (v8 / label~e.3)
+           :A (v9 / label
+                  :A (v19 / label
+                          :E (v26 / label~e.4)
+                          :C (v27 / label~e.5))
+                  :P (v20 / label~e.7)))
+    :L (v3 / label
+           :R (v10 / label~e.8)
+           :C (v11 / label~e.9))
+    :H (v4 / label
+           :R (v12 / label~e.10)
+           :A (v13 / label~e.11)
+           :P (v14 / label~e.12)
+           :A (v15 / label
+                   :E (v21 / label~e.13)
+                   :C (v22 / label~e.14)
+                   :E (v23 / label
+                           :R (v28 / label~e.15)
+                           :C (v29 / label~e.16))))
+    :H (v5 / label
+           :P (v16 / label~e.20)
+           :A (v17 / label
+                   :A (v24 / label~e.18)
+                   :P (v25 / label~e.22))
+           :A (v18 / label~e.19)))

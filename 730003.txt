@@ -1,0 +1,51 @@
+# ::id 730003
+# ::tok Jolie , who had twice visited Bosnia - Herzegovina in her capacity as a UNHCR Goodwill Ambassador , explained that she made the film to rekindle attention for the survivors of a war that took place in recent history .
+# ::alignments 0-1.1.1.1 2-1.1.1.2.1 4-1.1.1.2.2.3 5-1.1.1.2.2.4 6-1.1.1.2.2.5 8-1.1.1.2.2.5 9-1.1.1.2.3 10-1.1.1.2.4.1 11-1.1.1.2.4.2 12-1.1.1.2.4.3.1 14-1.1.1.2.4.4 15-1.1.1.2.4.3.3 16-1.1.1.2.4.3.3 18-1.1.2 19-1.1.4.3 20-1.1.4.2.4 21-1.1.4.4.2 22-1.1.4.4.3.1 23-1.1.4.4.3.2 24-1.1.4.1 25-1.1.4.2.1 26-1.1.4.2.2 27-1.1.4.2.3.1 28-1.1.4.2.3.2.1 29-1.1.4.2.3.2.2 30-1.1.4.2.3.3.1 31-1.1.4.2.3.3.2.1 32-1.1.4.2.3.3.2.2 36-1.1.4.2.3.3.5.1 37-1.1.4.2.3.3.5.2 38-1.1.4.2.3.3.5.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :C (v6 / label~e.0)
+                  :E (v7 / label
+                         :R (v12 / label~e.2)
+                         :H (v13 / label
+                                 :A v6
+                                 :D (v22 / label~e.4)
+                                 :P (v23 / label~e.5)
+                                 :A (v24 / label~e.6,8))
+                         :L (v14 / label~e.9)
+                         :H (v15 / label
+                                 :A (v25 / label~e.10)
+                                 :D (v26 / label~e.11)
+                                 :P (v27 / label
+                                         :R (v34 / label~e.12)
+                                         :C (v35 / label~e.15,16))
+                                 :A (v28 / label~e.14))))
+           :P (v4 / label~e.18)
+           :A (v5 / label
+                  :L (v8 / label~e.24)
+                  :H (v9 / label
+                         :D (v16 / label~e.25)
+                         :P (v17 / label~e.26)
+                         :A (v18 / label
+                                 :R (v29 / label~e.27)
+                                 :S (v30 / label
+                                         :E (v36 / label~e.28)
+                                         :C (v37 / label~e.29))
+                                 :A (v31 / label
+                                         :R (v38 / label~e.30)
+                                         :P (v39 / label
+                                                 :E (v41 / label~e.31)
+                                                 :C (v42 / label~e.32))
+                                         :T (v40 / label
+                                                 :R (v43 / label~e.36)
+                                                 :E (v44 / label~e.37)
+                                                 :C (v45 / label~e.38))))
+                         :A (v19 / label~e.20))
+                  :R (v10 / label~e.19)
+                  :H (v11 / label
+                          :A v19
+                          :P (v20 / label~e.21)
+                          :A (v21 / label
+                                  :E (v32 / label~e.22)
+                                  :C (v33 / label~e.23))))))

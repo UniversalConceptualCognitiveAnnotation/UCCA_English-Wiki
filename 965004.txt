@@ -1,0 +1,29 @@
+# ::id 965004
+# ::tok The papers of Vivien Leigh , including letters , photographs , contracts and diaries , are owned by her daughter , Mrs. Suzanne Farrington .
+# ::alignments 0-1.1.2.1 1-1.1.2.2 2-1.1.2.3.2 3-1.1.2.3.3 4-1.1.2.3.3 6-1.1.2.4.1 7-1.1.2.4.2.1 9-1.1.2.4.2.2 11-1.1.2.4.2.3 12-1.1.2.4.2.4 13-1.1.2.4.2.5 16-1.1.4 17-1.1.5.6 18-1.1.5.1.1 19-1.1.5.1.2 21-1.1.5.2 22-1.1.5.3 23-1.1.5.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label~e.0)
+                  :C (v7 / label~e.1)
+                  :E (v8 / label
+                         :A v7
+                         :S (v14 / label~e.2)
+                         :A (v15 / label~e.3,4))
+                  :E (v9 / label
+                         :R (v16 / label~e.6)
+                         :C (v17 / label
+                                 :C (v20 / label~e.7)
+                                 :C (v21 / label~e.9)
+                                 :C (v22 / label~e.11)
+                                 :N (v23 / label~e.12)
+                                 :C (v24 / label~e.13))))
+           :S (v4 / label~e.16)
+           :A (v5 / label
+                  :E (v10 / label
+                          :A (v18 / label~e.18)
+                          :A (v19 / label~e.19))
+                  :E (v11 / label~e.21)
+                  :C (v12 / label~e.22,23)
+                  :R (v13 / label~e.17))))

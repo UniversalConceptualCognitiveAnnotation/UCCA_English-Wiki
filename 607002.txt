@@ -1,0 +1,45 @@
+# ::id 607002
+# ::tok Back to the Egg ( 1979 ) featured McCartney 's collaboration with a rock supergroup dubbed " the Rockestra " . Credited to Wings , the band included Pete Townshend , David Gilmour , Gary Brooker , John Paul Jones and John Bonham .
+# ::alignments 0-1.1.1.2 1-1.1.1.2 2-1.1.1.2 3-1.1.1.2 5-1.1.1.3.3 7-1.1.2 8-1.1.3.1.1 9-1.1.3.1.2 10-1.1.3.2 11-1.1.3.3.1 13-1.1.3.3.3.1 14-1.1.3.3.3.2 15-1.1.3.3.4.1 17-1.1.3.3.4.2 18-1.1.3.3.4.2 21-1.2.2 22-1.2.3.1 23-1.2.3.2 26-1.2.1 27-1.3.1 28-1.3.2.1 29-1.3.2.1 31-1.3.2.2 32-1.3.2.2 34-1.3.2.3 35-1.3.2.3 37-1.3.2.4 38-1.3.2.4 39-1.3.2.4 40-1.3.2.5 41-1.3.2.6 42-1.3.2.6
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :C (v14 / label~e.0,1,2,3)
+                  :E (v15 / label
+                          :A v14
+                          :P (v28 / label)
+                          :T (v29 / label~e.5)))
+           :S (v6 / label~e.7)
+           :A (v7 / label
+                  :A (v16 / label
+                          :C (v30 / label~e.8)
+                          :R (v31 / label~e.9))
+                  :P (v17 / label~e.10)
+                  :A (v18 / label
+                          :R (v32 / label~e.11)
+                          :C (v33 / label
+                                  :A (v35 / label~e.13)
+                                  :A (v36 / label~e.14))
+                          :E (v34 / label
+                                  :S (v37 / label~e.15)
+                                  :A (v38 / label~e.17,18)
+                                  :A v36))))
+    :H (v3 / label
+           :A (v8 / label~e.26)
+           :P (v9 / label~e.21)
+           :A (v10 / label
+                   :R (v19 / label~e.22)
+                   :C (v20 / label~e.23)))
+    :H (v4 / label
+           :S (v11 / label~e.27)
+           :A (v12 / label
+                   :C (v21 / label~e.28,29)
+                   :C (v22 / label~e.31,32)
+                   :C (v23 / label~e.34,35)
+                   :C (v24 / label~e.37,38,39)
+                   :N (v25 / label~e.40)
+                   :C (v26 / label~e.41,42))
+           :A (v13 / label
+                   :A (v27 / label
+                           :C v8))))

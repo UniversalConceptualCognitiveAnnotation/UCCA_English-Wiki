@@ -1,0 +1,23 @@
+# ::id 671011
+# ::tok The Adventures of Mimi " DVD was released in November 2007 internationally and December 2007 in the US .
+# ::alignments 0-1.1.1.1 1-1.1.1.1 2-1.1.1.1 3-1.1.1.1 5-1.3.2 7-1.1.3 8-1.1.4.1 9-1.1.4.2 10-1.1.4.2 11-1.1.5 12-1.2 13-1.3.3 14-1.3.3 15-1.3.4.3 16-1.3.4.4 17-1.3.4.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :E (v12 / label~e.0,1,2,3)
+                  :C (v9 / label~e.5))
+           :P (v6 / label~e.7)
+           :D (v7 / label
+                  :R (v13 / label~e.8)
+                  :C (v14 / label~e.9,10))
+           :A (v8 / label~e.11))
+    :L (v3 / label~e.12)
+    :H (v4 / label
+           :P v6
+           :A v9
+           :D (v10 / label~e.13,14)
+           :A (v11 / label
+                   :C (v15 / label~e.17)
+                   :R (v16 / label~e.15)
+                   :E (v17 / label~e.16))))

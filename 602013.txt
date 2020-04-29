@@ -1,0 +1,54 @@
+# ::id 602013
+# ::tok As McCartney explained , " We were fed up with being the Beatles . We really hated that fucking four little mop - top approach . We were not boys we were men ... and [ we ] thought of ourselves as artists rather than just performers . "
+# ::alignments 0-1.1 1-1.2.1 2-1.2.2 5-1.2.4.10.1 7-1.2.4.10.3 8-1.2.4.10.3 9-1.2.4.10.4.2 10-1.2.4.10.4.3 11-1.2.4.10.4.4 12-1.2.4.10.4.4 14-1.2.4.1.1 15-1.2.4.1.2 16-1.2.4.1.3 17-1.2.4.1.4.1 18-1.2.4.1.4.2 19-1.2.4.1.4.3.1 20-1.2.4.1.4.3.2 21-1.2.4.1.4.3.3 23-1.2.4.1.4.3.3 24-1.2.4.1.4.4 26-1.2.4.2.1 28-1.2.4.2.3 29-1.2.4.2.4 30-1.2.4.3.1 32-1.2.4.3.3 34-1.2.4.4 36-1.2.4.5.1 38-1.2.4.5.2 39-1.2.4.5.3.1 40-1.2.4.5.3.2 41-1.2.4.5.4.1 42-1.2.4.5.4.2 43-1.2.4.5.5.1.1 45-1.2.4.5.5.2 46-1.2.4.5.5.3
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v4 / label~e.1)
+           :P (v5 / label~e.2)
+           :A (v6 / label
+                  :H (v7 / label
+                         :A (v13 / label~e.14)
+                         :D (v14 / label~e.15)
+                         :P (v15 / label~e.16)
+                         :A (v16 / label
+                                 :E (v30 / label~e.17)
+                                 :E (v31 / label~e.18)
+                                 :E (v32 / label
+                                         :Q (v44 / label~e.19)
+                                         :E (v45 / label~e.20)
+                                         :C (v46 / label~e.21,23))
+                                 :C (v33 / label~e.24)))
+                  :H (v8 / label
+                         :A (v17 / label~e.26)
+                         :D (v18 / label~e.28)
+                         :S (v19 / label~e.29))
+                  :H (v9 / label
+                         :A (v20 / label~e.30)
+                         :S (v21 / label~e.32))
+                  :L (v10 / label~e.34)
+                  :H (v11 / label
+                          :A (v22 / label~e.36)
+                          :P (v23 / label~e.38)
+                          :A (v24 / label
+                                  :R (v34 / label~e.39)
+                                  :C (v35 / label~e.40))
+                          :A (v25 / label
+                                  :R (v36 / label~e.41)
+                                  :S (v37 / label~e.42)
+                                  :A v35)
+                          :A (v26 / label
+                                  :R (v38 / label
+                                          :C (v47 / label~e.43))
+                                  :D (v39 / label~e.45)
+                                  :S (v40 / label~e.46)
+                                  :A v35))
+                  :H (v12 / label
+                          :A (v27 / label~e.5)
+                          :S (v28 / label~e.7,8)
+                          :A (v29 / label
+                                  :A v27
+                                  :R (v41 / label~e.9)
+                                  :S (v42 / label~e.10)
+                                  :A (v43 / label~e.11,12))))))

@@ -1,0 +1,27 @@
+# ::id 730007
+# ::tok It also received a nomination for a Golden Globe Award for Best Foreign Language Film .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4.1 4-1.1.4.2 5-1.1.5.6 6-1.1.5.1 7-1.1.5.2 8-1.1.5.3 9-1.1.5.4 10-1.1.5.5.1 11-1.1.5.5.2.2 12-1.1.5.5.3.1 13-1.1.5.5.3.2 14-1.1.5.5.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :D (v4 / label~e.1)
+           :D (v5 / label~e.2)
+           :S (v6 / label
+                  :E (v8 / label~e.3)
+                  :C (v9 / label~e.4))
+           :A (v7 / label
+                  :E (v10 / label~e.6)
+                  :E (v11 / label~e.7)
+                  :C (v12 / label~e.8)
+                  :E (v13 / label~e.9)
+                  :E (v14 / label
+                          :R (v16 / label~e.10)
+                          :E (v17 / label
+                                  :A (v19 / label~e.14)
+                                  :S (v20 / label~e.11))
+                          :E (v18 / label
+                                  :E (v21 / label~e.12)
+                                  :C (v22 / label~e.13))
+                          :C v19)
+                  :R (v15 / label~e.5))))

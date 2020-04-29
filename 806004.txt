@@ -1,0 +1,22 @@
+# ::id 806004
+# ::tok In 1995 , he narrated the documentary Devour the Earth , written by Tony Wardle .
+# ::alignments 0-1.1.2.1 1-1.1.2.2 3-1.1.3 4-1.1.4 5-1.1.5.4.1 6-1.1.5.4.2 7-1.1.5.1 8-1.1.5.1 9-1.1.5.1 11-1.1.5.2.2 12-1.1.5.2.3.1 13-1.1.5.2.3.2 14-1.1.5.2.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label
+                  :R (v7 / label~e.0)
+                  :C (v8 / label~e.1))
+           :A (v4 / label~e.3)
+           :P (v5 / label~e.4)
+           :A (v6 / label
+                  :C (v9 / label~e.7,8,9)
+                  :E (v10 / label
+                          :A v9
+                          :P (v12 / label~e.11)
+                          :A (v13 / label
+                                  :R (v16 / label~e.12)
+                                  :C (v17 / label~e.13,14)))
+                  :E (v11 / label
+                          :E (v14 / label~e.5)
+                          :C (v15 / label~e.6)))))

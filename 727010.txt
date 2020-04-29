@@ -1,0 +1,53 @@
+# ::id 727010
+# ::tok The Los Angeles Times wrote , " Jolie , as she did in her Oscar - winning role in Girl , Interrupted , can bring electricity and believability to roles that have a reality she can understand .
+# ::alignments 0-1.1.1 1-1.1.1 2-1.1.1 3-1.1.1 4-1.1.2 7-1.1.5.2.1 9-1.1.5.7 10-1.1.5.1.1 11-1.1.5.1.2 12-1.1.5.1.3.1 13-1.1.5.1.3.2.1 14-1.1.5.1.3.3.1 16-1.1.5.1.3.3.2 17-1.1.5.1.3.2.2 18-1.1.5.1.3.2.3.1 19-1.1.5.1.3.2.3.2 21-1.1.5.1.3.2.3.2 23-1.1.5.2.2 24-1.1.5.2.3 25-1.1.5.2.4 26-1.1.5.6 27-1.1.5.3.1 28-1.1.5.2.5.1 29-1.1.5.2.5.2.1 30-1.1.5.2.5.3.1 31-1.1.5.2.5.3.2 32-1.1.5.2.5.3.3.1 33-1.1.5.2.5.3.3.2 34-1.1.5.2.5.3.3.3.2 35-1.1.5.2.5.3.3.3.3 36-1.1.5.2.5.3.3.3.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0,1,2,3)
+           :P (v4 / label~e.4)
+           :A (v5 / label
+                  :H (v6 / label
+                         :A (v11 / label~e.10)
+                         :P (v12 / label~e.11)
+                         :A (v13 / label
+                                 :R (v20 / label~e.12)
+                                 :C (v21 / label
+                                         :A (v26 / label~e.13)
+                                         :S (v27 / label~e.17)
+                                         :A (v28 / label
+                                                 :R (v35 / label~e.18)
+                                                 :C (v36 / label~e.19,21)))
+                                 :E (v22 / label
+                                         :A (v29 / label~e.14)
+                                         :P (v30 / label~e.16)
+                                         :A v27)))
+                  :H (v7 / label
+                         :A (v14 / label~e.7)
+                         :D (v15 / label~e.23)
+                         :D (v16 / label~e.24)
+                         :S (v17 / label~e.25)
+                         :A (v18 / label
+                                 :R (v23 / label~e.28)
+                                 :C (v24 / label
+                                         :S (v31 / label~e.29))
+                                 :E (v25 / label
+                                         :R (v32 / label~e.30)
+                                         :S (v33 / label~e.31)
+                                         :A (v34 / label
+                                                 :E (v37 / label~e.32)
+                                                 :C (v38 / label~e.33)
+                                                 :E (v39 / label
+                                                         :A v38
+                                                         :A (v40 / label~e.34)
+                                                         :D (v41 / label~e.35)
+                                                         :S (v42 / label~e.36)))
+                                         :A v31)))
+                  :H (v8 / label
+                         :S (v19 / label~e.27)
+                         :A v14
+                         :D v15
+                         :D v16
+                         :A v18)
+                  :L (v9 / label~e.26)
+                  :L (v10 / label~e.9))))

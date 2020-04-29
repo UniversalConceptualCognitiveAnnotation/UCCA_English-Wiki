@@ -1,0 +1,63 @@
+# ::id 700004
+# ::tok In the coming months , the Hawks recorded the album Music from Big Pink using songs they first worked on in their basement in Woodstock , and renamed themselves The Band , thus beginning a long and successful recording and performing career of their own .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 3-1.1.1.4 5-1.1.2 6-1.1.2 7-1.1.3 8-1.1.4.1.1 9-1.1.4.1.2 10-1.1.4.2 11-1.1.4.2 12-1.1.4.2 13-1.1.4.2 14-1.2.1 15-1.2.2.1 16-1.2.2.2.1 17-1.2.2.2.2 18-1.2.2.2.3 19-1.2.2.2.4.2 20-1.2.2.2.5.1 21-1.2.2.2.5.2.2 22-1.2.2.2.5.3 23-1.2.2.2.5.4.1 24-1.2.2.2.5.4.2 26-1.3 27-1.4.1 28-1.4.2 29-1.4.3 30-1.4.3 32-1.5 33-1.6.1 34-1.6.2.1 35-1.6.2.2.1 36-1.6.2.2.2 37-1.6.2.2.3 38-1.6.3.1 39-1.6.3.2 40-1.6.3.3 41-1.6.4 42-1.6.5.1 43-1.6.5.2 44-1.6.5.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v8 / label
+                  :R (v22 / label~e.0)
+                  :E (v23 / label~e.1)
+                  :E (v24 / label~e.2)
+                  :C (v25 / label~e.3))
+           :A (v9 / label~e.5,6)
+           :P (v10 / label~e.7)
+           :A (v11 / label
+                   :E (v26 / label
+                           :E (v37 / label~e.8)
+                           :C (v38 / label~e.9))
+                   :C (v27 / label~e.10,11,12,13)))
+    :H (v3 / label
+           :P (v12 / label~e.14)
+           :A (v13 / label
+                   :C (v28 / label~e.15)
+                   :E (v29 / label
+                           :A (v39 / label~e.16)
+                           :D (v40 / label~e.17)
+                           :P (v41 / label~e.18)
+                           :A (v42 / label
+                                   :C v28
+                                   :R (v47 / label~e.19))
+                           :A (v43 / label
+                                   :R (v48 / label~e.20)
+                                   :E (v49 / label
+                                           :A (v50 / label~e.22)
+                                           :S (v52 / label~e.21))
+                                   :C v50
+                                   :E (v51 / label
+                                           :R (v53 / label~e.23)
+                                           :C (v54 / label~e.24)))))
+           :A v9)
+    :L (v4 / label~e.26)
+    :H (v5 / label
+           :P (v14 / label~e.27)
+           :D (v15 / label~e.28)
+           :A (v16 / label~e.29,30)
+           :A v9)
+    :L (v6 / label~e.32)
+    :H (v7 / label
+           :D (v17 / label~e.33)
+           :D (v18 / label
+                   :E (v30 / label~e.34)
+                   :C (v31 / label
+                           :C (v44 / label~e.35)
+                           :N (v45 / label~e.36)
+                           :C (v46 / label~e.37)))
+           :A (v19 / label
+                   :C (v32 / label~e.38)
+                   :N (v33 / label~e.39)
+                   :C (v34 / label~e.40))
+           :P (v20 / label~e.41)
+           :D (v21 / label
+                   :R (v35 / label~e.42)
+                   :C (v36 / label~e.43,44))
+           :A v16))

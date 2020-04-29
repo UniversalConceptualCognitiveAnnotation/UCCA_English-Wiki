@@ -1,0 +1,128 @@
+# ::id 696000
+# ::tok In 1965 , as the headliner at the Newport Folk Festival , Dylan performed his first electric set since his high school days with a pickup group drawn mostly from the Paul Butterfield Blues Band , featuring Mike Bloomfield ( guitar ) , Sam Lay ( drums ) and Jerome Arnold ( bass ) , plus Al Kooper ( organ ) and Barry Goldberg ( piano ) . Dylan had appeared at Newport in 1963 and 1964 , but in 1965 Dylan , met with a mix of cheering and booing , left the stage after only three songs .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.2 4-1.3.2.1 5-1.3.2.2 6-1.3.3.1 8-1.3.3.3 9-1.3.3.4 10-1.3.3.5 12-1.1.2 13-1.1.3 14-1.1.4.1.2 15-1.1.4.2 16-1.1.4.3 17-1.1.4.4 18-1.4 19-1.5.1 20-1.5.2 21-1.5.2 22-1.5.3 23-1.1.5.2 25-1.1.5.3.2 26-1.1.5.3.3 27-1.1.5.4.1 28-1.1.5.4.2 29-1.1.5.4.3.1 30-1.1.5.4.3.2 31-1.1.5.4.3.2 32-1.1.5.4.3.2 33-1.1.5.4.3.2 34-1.1.5.4.3.2 36-1.1.5.5.2 37-1.1.5.5.3.7.1 38-1.1.5.5.3.7.1 40-1.1.5.5.3.7.2.3 43-1.1.5.5.3.8.1 44-1.1.5.5.3.8.1 46-1.1.5.5.3.8.2.3 48-1.1.5.5.3.9 49-1.1.5.5.3.10.1 50-1.1.5.5.3.10.1 52-1.1.5.5.3.10.2.3 55-1.1.5.5.3.11 56-1.1.5.5.3.12.1 57-1.1.5.5.3.12.1 59-1.1.5.5.3.12.2.3 61-1.1.5.5.3.13 62-1.1.5.5.3.14.2 63-1.1.5.5.3.14.2 65-1.1.5.5.3.14.3.2 68-1.6.1 70-1.6.3 71-1.6.4.1 72-1.6.4.2 73-1.6.5.1 74-1.6.5.2.1 75-1.6.5.2.2 76-1.6.5.2.3 78-1.7 79-1.8.2.1 80-1.8.2.2 81-1.10.4 83-1.8.3.3.2 84-1.8.3.3.3.1 85-1.8.3.3.3.2.1 86-1.8.3.3.3.2.2 87-1.8.3.3.3.3.1 88-1.8.3.3.3.3.2.1 89-1.8.3.3.3.3.2.2 90-1.8.3.3.3.3.2.3 92-1.8.4 93-1.8.5.1 94-1.8.5.2 95-1.9 96-1.10.2 97-1.10.3.2 98-1.10.3.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v12 / label
+                   :R (v34 / label~e.0)
+                   :C (v35 / label~e.1))
+           :A (v13 / label~e.12)
+           :P (v14 / label~e.13)
+           :A (v15 / label
+                   :E (v36 / label
+                           :A (v39 / label~e.17)
+                           :S (v61 / label~e.14))
+                   :Q (v37 / label~e.15)
+                   :E (v38 / label~e.16)
+                   :C v39)
+           :A (v16 / label
+                   :R (v40 / label~e.23)
+                   :C (v41 / label
+                           :D (v62 / label~e.25)
+                           :S (v63 / label~e.26))
+                   :E (v42 / label
+                           :P (v64 / label~e.27)
+                           :D (v65 / label~e.28)
+                           :A (v66 / label
+                                   :R (v74 / label~e.29)
+                                   :C (v75 / label~e.30,31,32,33,34))
+                           :A v63)
+                   :E (v43 / label
+                           :A v63
+                           :S (v67 / label~e.36)
+                           :A (v68 / label
+                                   :C (v76 / label
+                                           :C (v87 / label~e.37,38)
+                                           :E (v88 / label
+                                                   :A v87
+                                                   :P (v101 / label)
+                                                   :A (v102 / label~e.40)))
+                                   :C (v77 / label
+                                           :C (v89 / label~e.43,44)
+                                           :E (v90 / label
+                                                   :A v89
+                                                   :P (v103 / label)
+                                                   :A (v104 / label~e.46)))
+                                   :N (v78 / label~e.48)
+                                   :C (v79 / label
+                                           :C (v91 / label~e.49,50)
+                                           :E (v92 / label
+                                                   :A v91
+                                                   :P (v105 / label)
+                                                   :A (v106 / label~e.52)))
+                                   :N (v80 / label~e.55)
+                                   :C (v81 / label
+                                           :C (v93 / label~e.56,57)
+                                           :E (v94 / label
+                                                   :A v93
+                                                   :P (v107 / label)
+                                                   :A (v108 / label~e.59)))
+                                   :N (v82 / label~e.61)
+                                   :C (v83 / label
+                                           :C (v95 / label~e.62,63)
+                                           :E (v96 / label
+                                                   :P (v109 / label)
+                                                   :A (v110 / label~e.65)
+                                                   :A v95))))))
+    :L (v3 / label~e.3)
+    :H (v4 / label
+           :P (v17 / label
+                   :E (v44 / label~e.4)
+                   :C (v45 / label~e.5))
+           :A (v18 / label
+                   :R (v46 / label~e.6)
+                   :A (v47 / label~e.8)
+                   :A (v48 / label~e.9)
+                   :P (v49 / label~e.10))
+           :A v13)
+    :L (v5 / label~e.18)
+    :H (v6 / label
+           :A (v19 / label~e.19)
+           :A (v20 / label~e.20,21)
+           :S (v21 / label~e.22))
+    :H (v7 / label
+           :A (v22 / label~e.68)
+           :P (v23 / label~e.70)
+           :A (v24 / label
+                   :R (v50 / label~e.71)
+                   :C (v51 / label~e.72))
+           :T (v25 / label
+                   :R (v52 / label~e.73)
+                   :C (v53 / label
+                           :C (v69 / label~e.74)
+                           :N (v70 / label~e.75)
+                           :C (v71 / label~e.76))))
+    :L (v8 / label~e.78)
+    :H (v9 / label
+           :T (v26 / label
+                   :R (v54 / label~e.79)
+                   :C (v55 / label~e.80))
+           :A (v27 / label
+                   :C (v33 / label~e.81)
+                   :E (v56 / label
+                           :A v33
+                           :S (v72 / label~e.83)
+                           :A (v73 / label
+                                   :R (v84 / label~e.84)
+                                   :D (v85 / label
+                                           :E (v97 / label~e.85)
+                                           :C (v98 / label~e.86))
+                                   :P (v86 / label
+                                           :R (v99 / label~e.87)
+                                           :C (v100 / label
+                                                    :C (v111 / label~e.88)
+                                                    :N (v112 / label~e.89)
+                                                    :C (v113 / label~e.90))))))
+           :P (v28 / label~e.92)
+           :A (v29 / label
+                   :E (v57 / label~e.93)
+                   :C (v58 / label~e.94)))
+    :L (v10 / label~e.95)
+    :H (v11 / label
+            :P (v30 / label)
+            :D (v31 / label~e.96)
+            :A (v32 / label
+                    :Q (v59 / label~e.97)
+                    :C (v60 / label~e.98))
+            :A v33))

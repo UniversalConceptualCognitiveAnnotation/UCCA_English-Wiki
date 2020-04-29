@@ -1,0 +1,30 @@
+# ::id 695009
+# ::tok Pennebaker has said the sequence was Dylan 's idea , and it has been widely imitated in both music videos and advertisements .
+# ::alignments 0-1.1.1 2-1.1.3 3-1.1.4.1.1 4-1.1.4.1.2 6-1.1.4.3.1 7-1.1.4.3.2 8-1.1.4.4 10-1.2 11-1.3.4 14-1.3.1 15-1.3.2 16-1.3.3.1 17-1.3.3.2 18-1.3.3.3.1.1 19-1.3.3.3.1.2 20-1.3.3.3.2 21-1.3.3.3.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label~e.0)
+           :P (v6 / label~e.2)
+           :A (v7 / label
+                  :A (v12 / label
+                          :E (v18 / label~e.3)
+                          :C (v19 / label~e.4))
+                  :A (v13 / label
+                          :C (v20 / label~e.6)
+                          :R (v21 / label~e.7))
+                  :S (v14 / label~e.8)))
+    :L (v3 / label~e.10)
+    :H (v4 / label
+           :D (v8 / label~e.14)
+           :P (v9 / label~e.15)
+           :A (v10 / label
+                   :R (v15 / label~e.16)
+                   :Q (v16 / label~e.17)
+                   :C (v17 / label
+                           :C (v22 / label
+                                   :E (v25 / label~e.18)
+                                   :C (v26 / label~e.19))
+                           :N (v23 / label~e.20)
+                           :C (v24 / label~e.21)))
+           :A (v11 / label~e.11)))

@@ -1,0 +1,46 @@
+# ::id 615001
+# ::tok In the mid - 1960s , when visiting artist friend John Dunbar 's flat in London , McCartney brought tapes he had compiled at then - girlfriend Jane Asher 's home .
+# ::alignments 0-1.1.1.1 2-1.1.1.3 4-1.1.1.4 6-1.2 7-1.3.3 8-1.3.4.1.1.1.1 9-1.3.4.1.1.2.1 10-1.3.4.1.2 11-1.3.4.1.2 12-1.3.4.1.3 13-1.3.4.2 14-1.3.4.3.1 15-1.3.4.3.2 17-1.1.2 18-1.1.3 19-1.1.4.1 20-1.1.4.2.2 22-1.1.4.2.4 23-1.1.4.2.5.1 24-1.1.4.2.5.2.2.1.1 26-1.1.4.2.5.2.2.1.2 27-1.1.4.2.5.2.2.2 28-1.1.4.2.5.2.2.2 29-1.1.4.2.5.2.3 30-1.1.4.2.5.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v5 / label
+                  :R (v11 / label~e.0)
+                  :E (v12 / label~e.2)
+                  :C (v13 / label~e.4))
+           :A (v6 / label~e.17)
+           :P (v7 / label~e.18)
+           :A (v8 / label
+                  :C (v14 / label~e.19)
+                  :E (v15 / label
+                          :A v14
+                          :A (v19 / label~e.20)
+                          :P (v20 / label~e.22)
+                          :A (v21 / label
+                                  :R (v27 / label~e.23)
+                                  :E (v28 / label
+                                          :A (v29 / label~e.30)
+                                          :A (v32 / label
+                                                  :E (v36 / label
+                                                          :T (v38 / label~e.24)
+                                                          :S (v39 / label~e.26))
+                                                  :C (v37 / label~e.27,28))
+                                          :S (v33 / label~e.29))
+                                  :C v29))))
+    :L (v3 / label~e.6)
+    :H (v4 / label
+           :A v6
+           :P (v9 / label~e.7)
+           :A (v10 / label
+                   :E (v16 / label
+                           :E (v22 / label
+                                   :E (v30 / label
+                                           :P (v34 / label~e.8))
+                                   :C (v31 / label
+                                           :S (v35 / label~e.9)))
+                           :C (v23 / label~e.10,11)
+                           :R (v24 / label~e.12))
+                   :C (v17 / label~e.13)
+                   :E (v18 / label
+                           :R (v25 / label~e.14)
+                           :C (v26 / label~e.15)))))

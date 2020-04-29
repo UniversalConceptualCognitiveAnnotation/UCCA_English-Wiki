@@ -1,0 +1,41 @@
+# ::id 636004
+# ::tok While the film itself proved to be their first critical flop , its soundtrack release , featuring Lennon 's acclaimed , Lewis Carroll - inspired " I Am the Walrus " , was a success .
+# ::alignments 0-1.1 1-1.2.1.1 2-1.2.1.2 3-1.2.2 4-1.2.3 6-1.2.5 7-1.2.6.1 8-1.2.6.2 9-1.2.6.3 10-1.2.6.4 12-1.3.3.1.1.1 13-1.3.3.2.3 14-1.3.3.1.2 16-1.3.3.2.1 17-1.3.3.2.2.1.1 18-1.3.3.2.2.1.2 19-1.3.3.2.2.2 21-1.3.3.2.2.3.2 22-1.3.3.2.2.3.2 24-1.3.3.2.2.3.3 26-1.3.3.2.2.4 27-1.3.3.2.2.4 28-1.3.3.2.2.4 29-1.3.3.2.2.4 33-1.3.5.1 34-1.3.5.2
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v5 / label
+                  :E (v12 / label~e.1)
+                  :C (v13 / label~e.2))
+           :D (v6 / label~e.3)
+           :D (v7 / label~e.4)
+           :P (v8 / label~e.6)
+           :A (v9 / label
+                  :A (v14 / label~e.7)
+                  :D (v15 / label~e.8)
+                  :A (v16 / label~e.9)
+                  :P (v17 / label~e.10)))
+    :H (v4 / label
+           :A (v10 / label
+                   :C (v18 / label
+                           :A (v22 / label
+                                   :E (v27 / label~e.12)
+                                   :C (v26 / label~e.13))
+                           :P (v23 / label~e.14))
+                   :E (v19 / label
+                           :P (v24 / label~e.16)
+                           :A (v25 / label
+                                   :E (v28 / label
+                                           :C (v32 / label~e.17)
+                                           :R (v33 / label~e.18))
+                                   :E (v29 / label~e.19)
+                                   :E (v30 / label
+                                           :A (v31 / label~e.26,27,28,29)
+                                           :A (v34 / label~e.21,22)
+                                           :S (v35 / label~e.24))
+                                   :C v31)
+                           :A v26))
+           :P (v11 / label
+                   :E (v20 / label~e.33)
+                   :C (v21 / label~e.34))))

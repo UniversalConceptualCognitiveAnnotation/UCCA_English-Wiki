@@ -1,0 +1,15 @@
+# ::id 705010
+# ::tok They used to convince me I was a prophet .
+# ::alignments 0-1.1.1 1-1.1.2 3-1.1.4 4-1.1.5 5-1.1.6.1 7-1.1.6.3.1 8-1.1.6.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :D (v4 / label~e.1)
+           :P (v5 / label~e.3)
+           :A (v6 / label~e.4)
+           :A (v7 / label
+                  :A (v8 / label~e.5)
+                  :P (v9 / label
+                         :E (v10 / label~e.7)
+                         :C (v11 / label~e.8)))))

@@ -1,0 +1,28 @@
+# ::id 618011
+# ::tok In 2007 , McCartney signed with Hear Music , becoming the label 's first artist .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.1.2 4-1.1.3 5-1.1.4.1 6-1.1.4.2 7-1.1.4.3 9-1.2.2 10-1.2.3.2.2.1 11-1.2.3.2.2.2 12-1.2.3.2.3 13-1.2.3.3 14-1.2.3.1.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v4 / label
+                  :R (v10 / label~e.0)
+                  :C (v11 / label~e.1))
+           :A (v5 / label~e.3)
+           :P (v6 / label~e.4)
+           :A (v7 / label
+                  :R (v12 / label~e.5)
+                  :E (v13 / label~e.6)
+                  :C (v14 / label~e.7)))
+    :H (v3 / label
+           :A v5
+           :P (v8 / label~e.9)
+           :A (v9 / label
+                  :C (v15 / label
+                          :P (v18 / label~e.14))
+                  :E (v16 / label
+                          :A v18
+                          :A (v19 / label
+                                  :E (v21 / label~e.10)
+                                  :C (v22 / label~e.11))
+                          :S (v20 / label~e.12))
+                  :Q (v17 / label~e.13))))

@@ -1,0 +1,29 @@
+# ::id 600014
+# ::tok Long Tall Sally " was the first song McCartney performed in public , at a Butlins holiday camp talent competition .
+# ::alignments 0-1.1.2 1-1.1.2 2-1.1.2 4-1.1.3 5-1.1.4.2 6-1.1.4.3 7-1.1.4.4 8-1.1.4.1.1 9-1.1.4.1.2 10-1.1.4.1.3.1 11-1.1.4.1.3.2 13-1.1.4.1.4.1 14-1.1.4.1.4.2.1 15-1.1.4.1.4.3.1 16-1.1.4.1.4.3.2 17-1.1.4.1.4.3.3 18-1.1.4.1.4.4 19-1.1.4.1.4.2.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0,1,2)
+           :S (v4 / label~e.4)
+           :A (v5 / label
+                  :E (v6 / label
+                         :A (v10 / label~e.8)
+                         :P (v11 / label~e.9)
+                         :A (v12 / label
+                                 :R (v14 / label~e.10)
+                                 :C (v15 / label~e.11))
+                         :A (v13 / label
+                                 :R (v16 / label~e.13)
+                                 :P (v17 / label
+                                         :E (v20 / label~e.14)
+                                         :C (v21 / label~e.19))
+                                 :A (v18 / label
+                                         :E (v22 / label~e.15)
+                                         :E (v23 / label~e.16)
+                                         :C (v24 / label~e.17))
+                                 :A (v19 / label~e.18))
+                         :A (v9 / label~e.7))
+                  :E (v7 / label~e.5)
+                  :Q (v8 / label~e.6)
+                  :C v9)))

@@ -1,0 +1,65 @@
+# ::id 649009
+# ::tok Those who had condemned Hanratty were , according to Lennon , " the same people who are running guns to South Africa and killing blacks in the streets . ... The same bastards are in control , the same people are running everything , it 's the whole bullshit bourgeois scene . "
+# ::alignments 0-1.1.1.1.1 1-1.1.1.1.2.2 3-1.1.1.1.2.4 4-1.1.1.1.2.5 5-1.1.1.2 7-1.1.2 9-1.1.3.2 12-1.1.1.3.1 13-1.1.1.3.2 14-1.1.1.3.3 15-1.1.1.3.4.1.2 17-1.1.1.3.4.1.4 18-1.1.1.3.4.1.5 19-1.1.1.3.4.1.6.1 20-1.1.1.3.4.1.6.2 21-1.1.1.3.4.1.6.3 22-1.1.1.3.4.2 23-1.1.1.3.4.3.2 24-1.1.1.3.4.3.3 25-1.1.1.3.4.3.4.1 26-1.1.1.3.4.3.4.2 27-1.1.1.3.4.3.4.3 30-1.1.1.3.5.1.1 31-1.1.1.3.5.1.2 32-1.1.1.3.5.1.3 34-1.1.1.3.5.3.1 35-1.1.1.3.5.3.2 37-1.1.1.3.6.1.1 38-1.1.1.3.6.1.2 39-1.1.1.3.6.1.3 41-1.1.1.3.6.3 42-1.1.1.3.6.4 44-1.1.1.3.7.1 45-1.1.1.3.7.2 46-1.1.1.3.7.3.1 47-1.1.1.3.7.3.2 48-1.1.1.3.7.3.3 49-1.1.1.3.7.3.4 50-1.1.1.3.7.3.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :A (v6 / label
+                         :C (v10 / label~e.0)
+                         :E (v11 / label
+                                 :A v10
+                                 :R (v19 / label~e.1)
+                                 :P (v20 / label~e.3)
+                                 :A (v21 / label~e.4)))
+                  :S (v7 / label~e.5)
+                  :A (v8 / label
+                         :E (v12 / label~e.12)
+                         :E (v13 / label~e.13)
+                         :C (v14 / label~e.14)
+                         :E (v15 / label
+                                 :H (v22 / label
+                                         :A v14
+                                         :R (v33 / label~e.15)
+                                         :P (v34 / label~e.17)
+                                         :A (v35 / label~e.18)
+                                         :A (v36 / label
+                                                 :R (v53 / label~e.19)
+                                                 :E (v54 / label~e.20)
+                                                 :C (v55 / label~e.21)))
+                                 :L (v23 / label~e.22)
+                                 :H (v24 / label
+                                         :A v14
+                                         :P (v37 / label~e.23)
+                                         :A (v38 / label~e.24)
+                                         :A (v39 / label
+                                                 :R (v56 / label~e.25)
+                                                 :E (v57 / label~e.26)
+                                                 :C (v58 / label~e.27))))
+                         :E (v16 / label
+                                 :A (v25 / label
+                                         :E (v40 / label~e.30)
+                                         :E (v41 / label~e.31)
+                                         :C (v42 / label~e.32))
+                                 :S (v26 / label
+                                         :R (v43 / label~e.34)
+                                         :C (v44 / label~e.35)))
+                         :E (v17 / label
+                                 :A (v27 / label
+                                         :E (v45 / label~e.37)
+                                         :E (v46 / label~e.38)
+                                         :C (v47 / label~e.39))
+                                 :S (v28 / label~e.41)
+                                 :A (v29 / label~e.42))
+                         :E (v18 / label
+                                 :A (v30 / label~e.44)
+                                 :S (v31 / label~e.45)
+                                 :A (v32 / label
+                                         :E (v48 / label~e.46)
+                                         :E (v49 / label~e.47)
+                                         :E (v50 / label~e.48)
+                                         :E (v51 / label~e.49)
+                                         :C (v52 / label~e.50)))))
+           :P (v4 / label~e.7)
+           :A (v5 / label
+                  :C (v9 / label~e.9))))

@@ -1,0 +1,42 @@
+# ::id 670003
+# ::tok The album 's second single , " We Belong Together " , became a " career re - defining " song for Carey , at a point when many critics had considered her career over .
+# ::alignments 0-1.1.1.1 1-1.1.1.2.1 2-1.1.1.2.2 3-1.1.1.3.1 4-1.1.1.3.2 7-1.1.1.4 8-1.1.1.4 9-1.1.1.4 12-1.1.2 13-1.1.3.1 15-1.1.3.2.1 16-1.1.3.2.2.1 18-1.1.3.2.2.2 20-1.1.3.3 21-1.1.4.1 22-1.1.4.2 24-1.2.1 25-1.2.2 26-1.2.3 28-1.3.3.1 29-1.3.3.2 31-1.3.5 32-1.3.1.1 33-1.3.1.2 34-1.3.2.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :E (v16 / label~e.0)
+                  :E (v17 / label
+                          :C (v30 / label~e.1)
+                          :R (v31 / label~e.2))
+                  :E (v18 / label
+                          :E (v32 / label~e.3)
+                          :C (v33 / label~e.4))
+                  :C (v19 / label~e.7,8,9))
+           :S (v6 / label~e.12)
+           :A (v7 / label
+                  :E (v20 / label~e.13)
+                  :E (v21 / label
+                          :C (v34 / label~e.15)
+                          :E (v35 / label
+                                  :E (v36 / label~e.16)
+                                  :C (v37 / label~e.18)))
+                  :C (v22 / label~e.20))
+           :A (v8 / label
+                  :R (v23 / label~e.21)
+                  :C (v24 / label~e.22)))
+    :L (v3 / label
+           :R (v9 / label~e.24)
+           :E (v10 / label~e.25)
+           :C (v11 / label~e.26))
+    :H (v4 / label
+           :A (v12 / label
+                   :E (v25 / label~e.32)
+                   :C (v26 / label~e.33))
+           :A (v13 / label
+                   :S (v27 / label~e.34)
+                   :A v26)
+           :A (v14 / label
+                   :E (v28 / label~e.28)
+                   :C (v29 / label~e.29))
+           :P (v15 / label~e.31)))

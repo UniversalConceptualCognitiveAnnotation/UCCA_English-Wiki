@@ -1,0 +1,117 @@
+# ::id 665007
+# ::tok While compromised , Carey often expressed distaste towards the album 's song selection , expressing her disappointment in the omission of her " favorite songs " . The album titled , # 1 's ( 1998 ) , featured a duet with Whitney Houston , " When You Believe " , and was included on the soundtrack for The Prince of Egypt ( 1998 ) . During the development of All That Glitters , Carey had been introduced to DreamWorks producer Jeffrey Katzenberg , who asked her if she would record the song " When You Believe " for the soundtrack to the animated film The Prince of Egypt .
+# ::alignments 0-1.1 1-1.2.3 3-1.2.2 4-1.3.2 5-1.3.3 6-1.3.4 7-1.3.5.1 8-1.3.5.2 9-1.3.5.3.1 10-1.3.5.3.2 11-1.3.5.4 12-1.3.5.5 14-1.4.1 15-1.4.2.1 16-1.4.2.2 18-1.4.2.3.2.1 19-1.4.2.3.2.2 20-1.4.2.3.3.1 21-1.4.2.3.3.2 23-1.4.2.3.3.3 24-1.4.2.3.3.4 27-1.5.3.3.1 28-1.5.3.3.2 29-1.5.3.4 32-1.5.3.5.2 33-1.5.3.5.2 35-1.5.3.5.3.2 38-1.5.4 39-1.5.5.3.1 40-1.7.4 41-1.5.5.4.1 42-1.5.5.4.2 43-1.5.5.4.2 46-1.5.5.5 47-1.5.5.5 48-1.5.5.5 51-1.6 53-1.7.2 54-1.7.3.1 55-1.7.3.2 56-1.7.3.3 57-1.7.3.4 58-1.7.3.5.2 59-1.7.3.5.2 60-1.7.3.5.2 61-1.7.3.5.2 63-1.7.3.5.3.3 66-1.8 67-1.9.1.1 68-1.9.1.2 69-1.9.1.3 70-1.9.2 71-1.9.2 72-1.9.2 74-1.10.1 77-1.10.4 78-1.10.5.2 79-1.10.5.3.1 80-1.10.5.3.2 81-1.10.5.4 82-1.10.5.4 84-1.10.5.5.2 85-1.10.5.5.3 86-1.10.5.5.4 87-1.10.5.5.5.2 88-1.10.5.5.5.3 90-1.10.5.5.5.4.2 91-1.10.5.5.5.5.2.1 92-1.10.5.5.5.5.2.2 94-1.10.5.5.5.5.3 95-1.10.5.5.5.5.3 96-1.10.5.5.5.5.3 98-1.10.5.5.5.6.1 99-1.10.5.5.5.6.2 100-1.10.5.5.5.6.3 101-1.10.5.5.5.6.4.2 102-1.10.5.5.5.6.4.3.1 103-1.10.5.5.5.6.4.3.2 104-1.10.5.5.5.6.4.3.3 105-1.10.5.5.5.6.4.4 106-1.10.5.5.5.6.4.4 107-1.10.5.5.5.6.4.4 108-1.10.5.5.5.6.4.4
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v12 / label~e.3)
+           :P (v13 / label~e.1))
+    :H (v4 / label
+           :A v12
+           :D (v14 / label~e.4)
+           :P (v15 / label~e.5)
+           :A (v16 / label~e.6)
+           :A (v17 / label
+                   :R (v31 / label~e.7)
+                   :E (v32 / label~e.8)
+                   :E (v33 / label
+                           :C (v57 / label~e.9)
+                           :R (v58 / label~e.10))
+                   :E (v34 / label~e.11)
+                   :C (v35 / label~e.12)))
+    :H (v5 / label
+           :P (v18 / label~e.14)
+           :A (v19 / label
+                   :E (v36 / label~e.15)
+                   :C (v37 / label~e.16)
+                   :E (v38 / label
+                           :P (v59 / label
+                                   :E (v77 / label~e.18)
+                                   :C (v78 / label~e.19))
+                           :A (v60 / label
+                                   :R (v79 / label~e.20)
+                                   :E (v80 / label~e.21)
+                                   :E (v81 / label~e.23)
+                                   :C (v82 / label~e.24))))
+           :A v12)
+    :H (v6 / label
+           :A (v20 / label
+                   :A (v39 / label
+                           :E (v61 / label~e.27)
+                           :C (v62 / label~e.28))
+                   :P (v40 / label~e.29)
+                   :A (v41 / label
+                           :C (v63 / label~e.32,33)
+                           :E (v64 / label
+                                   :P (v83 / label)
+                                   :D (v84 / label~e.35)
+                                   :A v63)))
+           :S (v21 / label~e.38)
+           :A (v22 / label
+                   :P (v42 / label
+                           :E (v65 / label~e.39)
+                           :C (v25 / label~e.40))
+                   :A (v43 / label
+                           :R (v66 / label~e.41)
+                           :C (v67 / label~e.42,43))
+                   :A (v44 / label~e.46,47,48
+                           :A v42
+                           :S (v68 / label))))
+    :L (v7 / label~e.51)
+    :H (v8 / label
+           :P (v23 / label~e.53)
+           :A (v24 / label
+                   :R (v45 / label~e.54)
+                   :E (v46 / label~e.55)
+                   :C (v47 / label~e.56)
+                   :R (v48 / label~e.57)
+                   :E (v49 / label
+                           :C (v69 / label~e.58,59,60,61)
+                           :E (v70 / label
+                                   :A v69
+                                   :P (v85 / label)
+                                   :D (v86 / label~e.63))))
+           :A v25)
+    :L (v9 / label~e.66)
+    :H (v10 / label
+            :P (v26 / label
+                    :E (v50 / label~e.67)
+                    :C (v51 / label~e.68)
+                    :R (v52 / label~e.69))
+            :A (v27 / label~e.70,71,72))
+    :H (v11 / label
+            :A (v28 / label~e.74)
+            :P (v29 / label~e.77)
+            :A (v30 / label
+                    :R (v53 / label~e.78)
+                    :E (v54 / label
+                            :E (v71 / label~e.79)
+                            :C (v72 / label~e.80))
+                    :C (v55 / label~e.81,82)
+                    :E (v56 / label
+                            :A v55
+                            :R (v73 / label~e.84)
+                            :P (v74 / label~e.85)
+                            :A (v75 / label~e.86)
+                            :A (v76 / label
+                                    :R (v87 / label~e.87)
+                                    :A (v88 / label~e.88)
+                                    :P (v89 / label
+                                            :C (v92 / label~e.90))
+                                    :A (v90 / label
+                                            :E (v93 / label
+                                                    :E (v99 / label~e.91)
+                                                    :C (v100 / label~e.92))
+                                            :C (v94 / label~e.94,95,96))
+                                    :A (v91 / label
+                                            :R (v95 / label~e.98)
+                                            :E (v96 / label~e.99)
+                                            :C (v97 / label~e.100)
+                                            :E (v98 / label
+                                                    :R (v101 / label~e.101)
+                                                    :E (v102 / label
+                                                             :E (v104 / label~e.102)
+                                                             :E (v105 / label~e.103)
+                                                             :C (v106 / label~e.104))
+                                                    :C (v103 / label~e.105,106,107,108))))))))

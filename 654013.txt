@@ -1,0 +1,77 @@
+# ::id 654013
+# ::tok His jamming on a piano with McCartney in 1963 led to the creation of the Beatles ' first US number one , " I Want to Hold Your Hand " . In 1964 , he became one of the first British musicians to acquire a Mellotron keyboard , though it was not heard on a Beatles ' recording until " Strawberry Fields Forever " in late 1966 .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3.1 3-1.1.1.3.2 4-1.1.1.3.3 5-1.1.1.4.1 6-1.1.1.4.2 7-1.1.1.5.1 8-1.1.1.5.2 9-1.1.2 10-1.1.3.1 11-1.1.3.2.1 12-1.1.3.2.2 13-1.1.3.3.1 14-1.1.3.3.2.2 15-1.1.3.3.2.3 17-1.1.3.3.2.4 18-1.1.3.3.2.5 19-1.1.3.3.2.6.1 20-1.1.3.3.2.6.2 23-1.1.3.3.3 24-1.1.3.3.3 25-1.1.3.3.3 26-1.1.3.3.3 27-1.1.3.3.3 28-1.1.3.3.3 31-1.2.1.1 32-1.2.1.2 34-1.2.2 35-1.2.3 36-1.2.4.1.1 37-1.2.4.1.2 38-1.2.4.1.3 39-1.2.4.1.4 40-1.2.4.2 41-1.2.4.3 42-1.2.4.4.2 43-1.2.4.4.3 44-1.2.4.4.4.1 45-1.2.4.4.4.2 46-1.2.4.4.4.3 48-1.3 49-1.4.1 51-1.4.3 52-1.4.4 53-1.4.5.1 54-1.4.5.2 55-1.4.5.3 57-1.4.5.4 58-1.5 60-1.6.2 61-1.6.2 62-1.6.2 64-1.6.3.1 65-1.6.3.2 66-1.6.3.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v8 / label
+                  :A (v22 / label~e.0)
+                  :P (v23 / label~e.1)
+                  :A (v24 / label
+                          :R (v43 / label~e.2)
+                          :E (v44 / label~e.3)
+                          :C (v45 / label~e.4))
+                  :A (v25 / label
+                          :R (v46 / label~e.5)
+                          :C (v47 / label~e.6))
+                  :T (v26 / label
+                          :R (v48 / label~e.7)
+                          :C (v49 / label~e.8)))
+           :P (v9 / label~e.9)
+           :A (v10 / label
+                   :R (v27 / label~e.10)
+                   :P (v28 / label
+                           :E (v50 / label~e.11)
+                           :C (v51 / label~e.12))
+                   :A (v29 / label
+                           :R (v52 / label~e.13)
+                           :E (v53 / label
+                                   :C (v62 / label)
+                                   :E (v63 / label~e.14)
+                                   :E (v64 / label~e.15)
+                                   :Q (v65 / label~e.17)
+                                   :E (v66 / label~e.18)
+                                   :E (v67 / label
+                                           :C (v71 / label~e.19)
+                                           :E (v72 / label~e.20)))
+                           :C (v54 / label~e.23,24,25,26,27,28))))
+    :H (v3 / label
+           :T (v11 / label
+                   :R (v30 / label~e.31)
+                   :C (v31 / label~e.32))
+           :A (v12 / label~e.34)
+           :P (v13 / label~e.35)
+           :A (v14 / label
+                   :E (v32 / label
+                           :Q (v55 / label~e.36)
+                           :R (v56 / label~e.37)
+                           :E (v57 / label~e.38)
+                           :C (v58 / label~e.39))
+                   :E (v33 / label~e.40)
+                   :C (v34 / label~e.41)
+                   :E (v35 / label
+                           :A v34
+                           :R (v59 / label~e.42)
+                           :P (v60 / label~e.43)
+                           :A (v61 / label
+                                   :E (v68 / label~e.44)
+                                   :E (v69 / label~e.45)
+                                   :C (v70 / label~e.46)))))
+    :L (v4 / label~e.48)
+    :H (v5 / label
+           :A (v15 / label~e.49)
+           :D (v16 / label~e.51)
+           :P (v17 / label~e.52)
+           :A (v18 / label
+                   :R (v36 / label~e.53)
+                   :E (v37 / label~e.54)
+                   :E (v38 / label~e.55)
+                   :C (v39 / label~e.57)))
+    :L (v6 / label~e.58)
+    :H (v7 / label
+           :P (v19 / label)
+           :A (v20 / label~e.60,61,62)
+           :T (v21 / label
+                   :R (v40 / label~e.64)
+                   :E (v41 / label~e.65)
+                   :C (v42 / label~e.66))))

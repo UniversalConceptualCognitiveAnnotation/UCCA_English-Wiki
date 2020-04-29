@@ -1,0 +1,17 @@
+# ::id 602000
+# ::tok In 1966 , the Beatles released the album Revolver .
+# ::alignments 0-1.1.2.1 1-1.1.2.2 3-1.1.3.1 4-1.1.3.2 5-1.1.4 6-1.1.5.4 7-1.1.5.1 8-1.1.5.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label
+                  :R (v7 / label~e.0)
+                  :C (v8 / label~e.1))
+           :A (v4 / label
+                  :E (v9 / label~e.3)
+                  :C (v10 / label~e.4))
+           :P (v5 / label~e.5)
+           :A (v6 / label
+                  :E (v11 / label~e.7)
+                  :C (v12 / label~e.8)
+                  :E (v13 / label~e.6))))

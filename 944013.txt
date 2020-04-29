@@ -1,0 +1,36 @@
+# ::id 944013
+# ::tok The album debuted on the US Billboard 200 albums chart at number seven , selling 309 , 000 copies in its first week .
+# ::alignments 0-1.1.1.1 1-1.2.3 2-1.1.2 3-1.1.3.1 4-1.1.3.2 5-1.1.3.3 6-1.1.3.4 7-1.1.3.5.1 8-1.1.3.5.2 9-1.1.3.6 10-1.1.4.1 11-1.1.4.2 12-1.1.4.3 14-1.2.1 15-1.2.2.1 17-1.2.2.1 18-1.2.2.2 19-1.3 20-1.4.3 21-1.4.1.1 22-1.4.1.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label
+                  :E (v16 / label~e.0)
+                  :C (v12 / label~e.1))
+           :P (v7 / label~e.2)
+           :A (v8 / label
+                  :R (v17 / label~e.3)
+                  :E (v18 / label~e.4)
+                  :E (v19 / label~e.5)
+                  :E (v20 / label~e.6)
+                  :E (v21 / label
+                          :Q (v30 / label~e.7)
+                          :C (v31 / label~e.8))
+                  :C (v22 / label~e.9))
+           :A (v9 / label
+                  :R (v23 / label~e.10)
+                  :C (v24 / label~e.11)
+                  :Q (v25 / label~e.12)))
+    :H (v3 / label
+           :P (v10 / label~e.14)
+           :A (v11 / label
+                   :Q (v26 / label~e.15,17)
+                   :C (v27 / label~e.18))
+           :A v12)
+    :L (v4 / label~e.19)
+    :H (v5 / label
+           :T (v13 / label
+                   :Q (v28 / label~e.21)
+                   :C (v29 / label~e.22))
+           :P (v14 / label)
+           :A (v15 / label~e.20)))

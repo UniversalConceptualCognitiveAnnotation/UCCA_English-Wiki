@@ -1,0 +1,37 @@
+# ::id 641002
+# ::tok He devoted himself to Sean , rising at 6 am daily to plan and prepare his meals and to spend time with him .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4.1 4-1.1.4.2 6-1.2.1 7-1.2.2.1 8-1.2.2.2 9-1.2.2.3 10-1.2.3 11-1.3 12-1.4.1.1 13-1.4.1.2 14-1.4.1.3 15-1.4.2.1 16-1.4.2.2 17-1.5 19-1.6.2 20-1.6.2 21-1.6.3.1 22-1.6.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v8 / label~e.0)
+           :P (v9 / label~e.1)
+           :D (v10 / label~e.2)
+           :A (v11 / label
+                   :R (v19 / label~e.3)
+                   :C (v20 / label~e.4)))
+    :H (v3 / label
+           :P (v12 / label~e.6)
+           :T (v13 / label
+                   :R (v21 / label~e.7)
+                   :C (v22 / label~e.8)
+                   :C (v23 / label~e.9))
+           :D (v14 / label~e.10)
+           :A v8)
+    :L (v4 / label~e.11)
+    :H (v5 / label
+           :P (v15 / label
+                   :C (v24 / label~e.12)
+                   :N (v25 / label~e.13)
+                   :C (v26 / label~e.14))
+           :A (v16 / label
+                   :E (v27 / label~e.15)
+                   :C (v28 / label~e.16))
+           :A v8)
+    :L (v6 / label~e.17)
+    :H (v7 / label
+           :P (v17 / label~e.19,20)
+           :A (v18 / label
+                   :R (v29 / label~e.21)
+                   :C (v30 / label~e.22))
+           :A v8))

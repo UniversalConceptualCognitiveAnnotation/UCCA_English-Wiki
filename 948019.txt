@@ -1,0 +1,23 @@
+# ::id 948019
+# ::tok The couple 's second son , Zuma Nesta Rock Rossdale , was born August 21 , 2008 at 12 : 46 pm .
+# ::alignments 1-1.1.2.1.2.1 2-1.1.2.1.2.2 3-1.1.2.1.3 4-1.1.2.1.4 6-1.1.2.2 7-1.1.2.2 8-1.1.2.2 9-1.1.2.2 12-1.1.4 13-1.1.5.1 14-1.1.5.2 16-1.1.5.3 17-1.1.6.4 18-1.1.6.1 20-1.1.6.1 21-1.1.6.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v7 / label
+                         :A (v15 / label
+                                 :S (v18 / label~e.1)
+                                 :R (v19 / label~e.2))
+                         :D (v16 / label~e.3)
+                         :S (v17 / label~e.4))
+                  :C (v8 / label~e.6,7,8,9))
+           :P (v4 / label~e.12)
+           :T (v5 / label
+                  :C (v9 / label~e.13)
+                  :C (v10 / label~e.14)
+                  :C (v11 / label~e.16))
+           :T (v6 / label
+                  :E (v12 / label~e.18,20)
+                  :C (v13 / label~e.21)
+                  :R (v14 / label~e.17))))

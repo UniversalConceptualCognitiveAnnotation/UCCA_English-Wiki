@@ -1,0 +1,37 @@
+# ::id 601014
+# ::tok Later that year , during recording sessions for the album Rubber Soul , McCartney began to supplant Lennon as the dominant musical force in the band .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 4-1.2 5-1.3.2.1 6-1.3.2.2 7-1.3.3.1 8-1.3.3.2.1 9-1.3.3.2.2 10-1.3.3.3 11-1.3.3.3 13-1.4.6 14-1.4.1 16-1.4.3 17-1.4.4 18-1.4.5.1 19-1.4.5.2.1 20-1.4.5.3 21-1.4.5.4 22-1.4.5.2.2 23-1.4.5.5.1 24-1.4.5.5.2 25-1.4.5.5.3
+# ::format ucca
+(v1 / label
+    :L (v2 / label
+           :R (v6 / label~e.0)
+           :E (v7 / label~e.1)
+           :C (v8 / label~e.2))
+    :L (v3 / label~e.4)
+    :H (v4 / label
+           :A (v9 / label)
+           :P (v10 / label
+                   :E (v17 / label~e.5)
+                   :C (v18 / label~e.6))
+           :A (v11 / label
+                   :R (v19 / label~e.7)
+                   :E (v20 / label
+                           :E (v27 / label~e.8)
+                           :C (v28 / label~e.9))
+                   :C (v21 / label~e.10,11)))
+    :H (v5 / label
+           :D (v12 / label~e.14)
+           :P (v13 / label~e.16)
+           :A (v14 / label~e.17)
+           :A (v15 / label
+                   :R (v22 / label~e.18)
+                   :S (v23 / label
+                           :E (v29 / label~e.19)
+                           :C (v30 / label~e.22))
+                   :D (v24 / label~e.20)
+                   :A (v25 / label~e.21)
+                   :A (v26 / label
+                           :R (v31 / label~e.23)
+                           :E (v32 / label~e.24)
+                           :C (v33 / label~e.25)))
+           :A (v16 / label~e.13)))

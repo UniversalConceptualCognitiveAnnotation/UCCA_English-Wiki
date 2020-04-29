@@ -1,0 +1,32 @@
+# ::id 675005
+# ::tok On November 5 , 2011 , Carey and Bieber filmed a music video for the duet at the Macy 's in New York City .
+# ::alignments 0-1.1.2.1 1-1.1.2.2 2-1.1.2.3 4-1.1.2.4 6-1.1.3.1 7-1.1.3.2 8-1.1.3.3 9-1.1.4 10-1.1.5.1 11-1.1.5.2 12-1.1.5.3 13-1.1.5.4.1 14-1.1.5.4.2 15-1.1.5.4.3 16-1.1.6.1.1 17-1.1.6.1.2 18-1.1.6.1.3 19-1.1.6.1.3 20-1.1.6.2.1 21-1.1.6.2.2 22-1.1.6.2.2 23-1.1.6.2.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label
+                  :R (v8 / label~e.0)
+                  :C (v9 / label~e.1)
+                  :C (v10 / label~e.2)
+                  :C (v11 / label~e.4))
+           :A (v4 / label
+                  :C (v12 / label~e.6)
+                  :N (v13 / label~e.7)
+                  :C (v14 / label~e.8))
+           :P (v5 / label~e.9)
+           :A (v6 / label
+                  :E (v15 / label~e.10)
+                  :E (v16 / label~e.11)
+                  :C (v17 / label~e.12)
+                  :E (v18 / label
+                          :R (v21 / label~e.13)
+                          :E (v22 / label~e.14)
+                          :C (v23 / label~e.15)))
+           :A (v7 / label
+                  :C (v19 / label
+                          :R (v24 / label~e.16)
+                          :E (v25 / label~e.17)
+                          :C (v26 / label~e.18,19))
+                  :C (v20 / label
+                          :R (v27 / label~e.20)
+                          :C (v28 / label~e.21,22,23)))))

@@ -1,0 +1,30 @@
+# ::id 960003
+# ::tok They took the productions to New York , where they performed a season at the Ziegfeld Theatre into 1952 .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.1.4.3 5-1.1.4.4 6-1.1.4.4 8-1.1.4.1.1 9-1.1.4.1.2 10-1.1.4.1.3 11-1.1.4.1.4.1 12-1.1.4.1.4.2 13-1.1.4.1.5.1 14-1.1.4.1.5.2 15-1.1.4.1.5.3 16-1.1.4.1.5.4 17-1.1.4.1.6.1 18-1.1.4.1.6.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :P (v4 / label~e.1)
+           :A (v5 / label
+                  :E (v7 / label~e.2)
+                  :C (v8 / label~e.3))
+           :A (v6 / label
+                  :E (v9 / label
+                         :R (v12 / label~e.8)
+                         :A (v13 / label~e.9)
+                         :P (v14 / label~e.10)
+                         :T (v15 / label
+                                 :E (v18 / label~e.11)
+                                 :C (v19 / label~e.12))
+                         :A (v16 / label
+                                 :R (v20 / label~e.13)
+                                 :E (v21 / label~e.14)
+                                 :E (v22 / label~e.15)
+                                 :C (v23 / label~e.16))
+                         :T (v17 / label
+                                 :R (v24 / label~e.17)
+                                 :C (v25 / label~e.18))
+                         :A (v11 / label~e.5,6))
+                  :R (v10 / label~e.4)
+                  :C v11)))

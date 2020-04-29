@@ -1,0 +1,23 @@
+# ::id 676003
+# ::tok The film also stars Forest Whitaker , Oprah Winfrey , Robin Williams , Melissa Leo , James Marsden , Minka Kelly , Liev Schreiber , John Cusack , Alan Rickman , and Jane Fonda .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2 3-1.1.3 4-1.1.4.20 5-1.1.4.20 7-1.1.4.21 8-1.1.4.21 10-1.1.4.1 11-1.1.4.1 13-1.1.4.2 14-1.1.4.2 16-1.1.4.3 17-1.1.4.3 19-1.1.4.4 20-1.1.4.4 22-1.1.4.5 23-1.1.4.5 25-1.1.4.6 26-1.1.4.6 28-1.1.4.7 29-1.1.4.7 31-1.1.4.8 32-1.1.4.9 33-1.1.4.9
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v7 / label~e.0)
+                  :C (v8 / label~e.1))
+           :D (v4 / label~e.2)
+           :P (v5 / label~e.3)
+           :A (v6 / label
+                  :C (v9 / label~e.10,11)
+                  :C (v10 / label~e.13,14)
+                  :C (v11 / label~e.16,17)
+                  :C (v12 / label~e.19,20)
+                  :C (v13 / label~e.22,23)
+                  :C (v14 / label~e.25,26)
+                  :C (v15 / label~e.28,29)
+                  :N (v16 / label~e.31)
+                  :C (v17 / label~e.32,33)
+                  :C (v18 / label~e.4,5)
+                  :C (v19 / label~e.7,8))))

@@ -1,0 +1,92 @@
+# ::id 697006
+# ::tok Mike Bloomfield was unwilling to leave the Butterfield Band , so Dylan mixed Al Kooper and Harvey Brooks from his studio crew with Robbie Robertson and Levon Helm , best known at the time for being part of Ronnie Hawkins 's backing band The Hawks ( later to become The Band ) . On August 28 at Forest Hills Tennis Stadium , the group was heckled by an audience still annoyed by Dylan 's electric sound .
+# ::alignments 0-1.1.1 1-1.1.1 3-1.1.3 5-1.1.5 6-1.1.6 7-1.1.6 8-1.1.6 10-1.2 11-1.3.1 12-1.3.2 13-1.3.3.1.1 14-1.3.3.1.1 15-1.3.3.1.2 16-1.3.3.1.3 17-1.3.3.1.3 18-1.3.3.2.2 19-1.3.3.2.3.1 20-1.3.3.2.3.2 21-1.3.3.2.3.3 22-1.3.4.1 23-1.3.4.2.1 24-1.3.4.2.1 25-1.3.4.2.2 26-1.3.4.2.3 27-1.3.4.2.3 29-1.3.4.3.2 30-1.3.4.3.3 31-1.3.4.3.4.1 32-1.3.4.3.4.2 33-1.3.4.3.4.3 34-1.3.4.3.5.2.1 35-1.3.4.3.5.3 36-1.3.4.3.5.2.2 37-1.3.4.3.5.4.1 38-1.3.4.3.5.4.2.1.1 39-1.3.4.3.5.4.2.1.1 40-1.3.4.3.5.4.2.1.2 41-1.3.4.3.5.4.2.2 42-1.3.4.3.5.4.2.3 43-1.3.4.3.5.4.3 44-1.3.4.3.5.4.3 46-1.3.4.3.5.4.4.2 48-1.3.4.3.5.4.4.4 49-1.3.4.3.5.4.4.5 50-1.3.4.3.5.4.4.5 53-1.4.1.1 54-1.4.1.2 55-1.4.1.3 56-1.4.2.1 57-1.4.2.2 58-1.4.2.2 59-1.4.2.3 60-1.4.2.4 62-1.4.3.1.1 63-1.4.3.1.2 65-1.4.5 66-1.4.6.1 67-1.4.6.2 68-1.4.6.3.1 69-1.4.6.4.1 70-1.4.6.4.2 71-1.4.6.4.3.2 72-1.4.6.4.3.3.2 73-1.4.6.4.3.3.3 74-1.4.6.4.3.4 75-1.4.6.4.3.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label~e.0,1)
+           :D (v7 / label~e.3)
+           :P (v8 / label~e.5)
+           :A (v9 / label~e.6,7,8))
+    :L (v3 / label~e.10)
+    :H (v4 / label
+           :A (v10 / label~e.11)
+           :P (v11 / label~e.12)
+           :A (v12 / label
+                   :C (v19 / label
+                           :C (v36 / label~e.13,14)
+                           :N (v37 / label~e.15)
+                           :C (v38 / label~e.16,17))
+                   :E (v20 / label
+                           :A v19
+                           :S (v39 / label~e.18)
+                           :A (v40 / label
+                                   :A (v54 / label~e.19)
+                                   :A (v55 / label~e.20)
+                                   :S (v56 / label~e.21))))
+           :A (v13 / label
+                   :R (v21 / label~e.22)
+                   :C (v22 / label
+                           :C (v41 / label~e.23,24)
+                           :N (v42 / label~e.25)
+                           :C (v43 / label~e.26,27))
+                   :E (v23 / label
+                           :A v22
+                           :D (v44 / label~e.29)
+                           :S (v45 / label~e.30)
+                           :T (v46 / label
+                                   :R (v57 / label~e.31)
+                                   :E (v58 / label~e.32)
+                                   :C (v59 / label~e.33))
+                           :A (v47 / label
+                                   :A v22
+                                   :S (v60 / label
+                                           :R (v67 / label~e.34)
+                                           :C (v68 / label~e.36))
+                                   :D (v61 / label~e.35)
+                                   :A (v62 / label
+                                           :R (v69 / label~e.37)
+                                           :E (v70 / label
+                                                   :A (v75 / label
+                                                           :C (v81 / label~e.38,39)
+                                                           :R (v82 / label~e.40))
+                                                   :A (v76 / label~e.41)
+                                                   :P (v77 / label~e.42))
+                                           :C (v71 / label~e.43,44)
+                                           :E (v72 / label
+                                                   :A v71
+                                                   :T (v78 / label~e.46)
+                                                   :P (v79 / label~e.48)
+                                                   :A (v80 / label~e.49,50)))))))
+    :H (v5 / label
+           :T (v14 / label
+                   :R (v24 / label~e.53)
+                   :C (v25 / label~e.54)
+                   :C (v26 / label~e.55))
+           :A (v15 / label
+                   :R (v27 / label~e.56)
+                   :E (v28 / label~e.57,58)
+                   :E (v29 / label~e.59)
+                   :C (v30 / label~e.60))
+           :A (v16 / label
+                   :S (v31 / label
+                           :E (v48 / label~e.62)
+                           :C (v49 / label~e.63)))
+           :P (v17 / label~e.65)
+           :A (v18 / label
+                   :R (v32 / label~e.66)
+                   :E (v33 / label~e.67)
+                   :C (v34 / label
+                           :P (v50 / label~e.68))
+                   :E (v35 / label
+                           :D (v51 / label~e.69)
+                           :P (v52 / label~e.70)
+                           :A (v53 / label
+                                   :R (v63 / label~e.71)
+                                   :E (v64 / label
+                                           :A (v66 / label~e.75)
+                                           :A (v73 / label~e.72)
+                                           :S (v74 / label~e.73))
+                                   :E (v65 / label~e.74)
+                                   :C v66)
+                           :A v50))))

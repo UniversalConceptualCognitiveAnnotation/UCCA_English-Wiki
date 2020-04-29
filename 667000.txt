@@ -1,0 +1,77 @@
+# ::id 667000
+# ::tok After she received Billboard 's Artist of the Decade Award and the World Music Award for Best - Selling Female Artist of the Millennium , Carey parted from Columbia and signed a record - breaking $ 100 million five - album recording contract with Virgin Records ( EMI Records ) . Carey was given full conceptual and creative control over the project .
+# ::alignments 0-1.1 1-1.2.1 2-1.2.2 3-1.2.3.1.1.1 4-1.2.3.1.1.2 5-1.2.3.1.2.1 6-1.2.3.1.2.2 7-1.2.3.1.3 8-1.2.3.1.4 9-1.2.3.1.5 10-1.2.3.2 11-1.2.3.3.1 12-1.2.3.3.2.1 13-1.2.3.3.2.2 14-1.2.3.3.3 15-1.2.3.3.4.1 16-1.2.3.3.4.2.1 18-1.2.3.3.4.2.2 19-1.2.3.3.4.3 20-1.2.3.3.4.4 21-1.2.3.3.4.5.1 22-1.2.3.3.4.5.2 23-1.2.3.3.4.5.3 25-1.3.1 26-1.3.2.1 27-1.3.2.2 28-1.3.3 29-1.4 30-1.5.1 31-1.5.2.1 32-1.5.2.2.1 34-1.5.2.2.2 35-1.5.2.3 36-1.5.2.3 37-1.5.2.3 38-1.5.2.4.1 40-1.5.2.4.2 41-1.5.2.5 42-1.5.2.6 43-1.5.2.7.1 44-1.5.2.7.2 45-1.5.2.7.2 47-1.5.2.7.3 48-1.5.2.7.3 51-1.6.1 53-1.6.3 54-1.6.4.1 55-1.6.4.2.1 56-1.6.4.2.2 57-1.6.4.2.3 58-1.6.4.3 59-1.6.4.4.1 60-1.6.4.4.2 61-1.6.4.4.3
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v8 / label~e.1)
+           :P (v9 / label~e.2)
+           :A (v10 / label
+                   :C (v19 / label
+                           :E (v35 / label
+                                   :C (v57 / label~e.3)
+                                   :R (v58 / label~e.4))
+                           :E (v36 / label
+                                   :C (v59 / label~e.5)
+                                   :R (v60 / label~e.6))
+                           :E (v37 / label~e.7)
+                           :E (v38 / label~e.8)
+                           :C (v39 / label~e.9))
+                   :N (v20 / label~e.10)
+                   :C (v21 / label
+                           :E (v40 / label~e.11)
+                           :E (v41 / label
+                                   :E (v61 / label~e.12)
+                                   :C (v62 / label~e.13))
+                           :C (v42 / label~e.14)
+                           :E (v43 / label
+                                   :R (v63 / label~e.15)
+                                   :E (v64 / label
+                                           :E (v68 / label~e.16)
+                                           :C (v69 / label~e.18))
+                                   :E (v65 / label~e.19)
+                                   :C (v66 / label~e.20)
+                                   :E (v67 / label
+                                           :R (v70 / label~e.21)
+                                           :E (v71 / label~e.22)
+                                           :C (v72 / label~e.23))))))
+    :H (v4 / label
+           :A (v11 / label~e.25)
+           :P (v12 / label
+                   :C (v22 / label~e.26)
+                   :R (v23 / label~e.27))
+           :A (v13 / label~e.28))
+    :L (v5 / label~e.29)
+    :H (v6 / label
+           :P (v14 / label~e.30)
+           :A (v15 / label
+                   :E (v24 / label~e.31)
+                   :E (v25 / label
+                           :C (v44 / label~e.32)
+                           :E (v45 / label~e.34))
+                   :E (v26 / label~e.35,36,37)
+                   :E (v27 / label
+                           :E (v46 / label~e.38)
+                           :C (v47 / label~e.40))
+                   :E (v28 / label~e.41)
+                   :C (v29 / label~e.42)
+                   :E (v30 / label
+                           :R (v48 / label~e.43)
+                           :C (v49 / label~e.44,45)
+                           :E (v50 / label~e.47,48)))
+           :A v11)
+    :H (v7 / label
+           :A (v16 / label~e.51)
+           :P (v17 / label~e.53)
+           :A (v18 / label
+                   :E (v31 / label~e.54)
+                   :E (v32 / label
+                           :C (v51 / label~e.55)
+                           :N (v52 / label~e.56)
+                           :C (v53 / label~e.57))
+                   :C (v33 / label~e.58)
+                   :E (v34 / label
+                           :R (v54 / label~e.59)
+                           :E (v55 / label~e.60)
+                           :C (v56 / label~e.61)))))

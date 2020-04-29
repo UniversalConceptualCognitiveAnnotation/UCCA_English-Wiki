@@ -1,0 +1,74 @@
+# ::id 712002
+# ::tok The most widely cited lines included " you do n't need a weatherman to know which way the wind blows " from " Subterranean Homesick Blues " and " when you ai n't got nothing , you got nothing to lose " from " Like a Rolling Stone " . May 3 , 2006 , was the premiere of Dylan 's radio presenting career , hosting a weekly radio program , Theme Time Radio Hour , for XM Satellite Radio , with song selections revolving around a chosen theme .
+# ::alignments 0-1.1.1.1 1-1.1.1.2.2.1 2-1.1.1.2.2.2 3-1.1.1.2.3 4-1.1.1.3 5-1.1.2 7-1.1.3.1.2 8-1.1.3.1.2 9-1.1.3.1.2 10-1.1.3.1.2 11-1.1.3.1.2 12-1.1.3.1.2 13-1.1.3.1.2 14-1.1.3.1.2 15-1.1.3.1.2 16-1.1.3.1.2 17-1.1.3.1.2 18-1.1.3.1.2 19-1.1.3.1.2 21-1.1.3.1.3.2 23-1.1.3.1.3.3 24-1.1.3.1.3.3 25-1.1.3.1.3.3 27-1.1.3.2 29-1.1.3.3.1 30-1.1.3.3.1 31-1.1.3.3.1 32-1.1.3.3.1 33-1.1.3.3.1 34-1.1.3.3.1 36-1.1.3.3.1 37-1.1.3.3.1 38-1.1.3.3.1 39-1.1.3.3.1 40-1.1.3.3.1 42-1.1.3.3.2.1 44-1.1.3.3.2.2 45-1.1.3.3.2.2 46-1.1.3.3.2.2 47-1.1.3.3.2.2 50-1.2.1.1 51-1.2.1.2 53-1.2.1.3 56-1.2.3.1 57-1.2.3.2 58-1.3 59-1.5.3 60-1.4.1.2 61-1.4.2.1 62-1.4.2.2 63-1.4.3 65-1.5.1 66-1.5.2.1.1 67-1.5.2.1.2.3 68-1.5.2.1.3 69-1.5.2.1.4 71-1.5.2.2 72-1.5.2.2 73-1.5.2.2 74-1.5.2.2 76-1.5.2.3.1 77-1.5.2.3.2 78-1.5.2.3.2 79-1.5.2.3.2 81-1.6 82-1.7.1.1 83-1.7.1.2 84-1.7.2 85-1.7.3.1 86-1.7.3.2 87-1.7.3.3.2 88-1.7.3.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v9 / label
+                  :E (v23 / label~e.0)
+                  :E (v24 / label
+                          :A (v25 / label~e.4)
+                          :D (v46 / label
+                                  :E (v59 / label~e.1)
+                                  :C (v60 / label~e.2))
+                          :P (v47 / label~e.3))
+                  :C v25)
+           :S (v10 / label~e.5)
+           :A (v11 / label
+                   :C (v26 / label
+                           :C (v48 / label~e.7,8,9,10,11,12,13,14,15,16,17,18,19)
+                           :E (v49 / label
+                                   :R (v61 / label~e.21)
+                                   :C (v62 / label~e.23,24,25)))
+                   :N (v27 / label~e.27)
+                   :C (v28 / label
+                           :C (v50 / label~e.29,30,31,32,33,34,36,37,38,39,40)
+                           :E (v51 / label
+                                   :R (v63 / label~e.42)
+                                   :C (v64 / label~e.44,45,46,47)))))
+    :H (v3 / label
+           :T (v12 / label
+                   :C (v29 / label~e.50)
+                   :C (v30 / label~e.51)
+                   :C (v31 / label~e.53))
+           :P (v13 / label
+                   :E (v32 / label~e.56)
+                   :C (v33 / label~e.57)))
+    :L (v4 / label~e.58)
+    :H (v5 / label
+           :A (v14 / label
+                   :C (v19 / label~e.59)
+                   :R (v34 / label~e.60))
+           :A (v15 / label
+                   :A (v35 / label~e.61)
+                   :P (v36 / label~e.62))
+           :P (v16 / label~e.63))
+    :H (v6 / label
+           :P (v17 / label~e.65)
+           :A (v18 / label
+                   :E (v37 / label
+                           :E (v52 / label~e.66)
+                           :E (v53 / label
+                                   :A (v55 / label~e.69)
+                                   :P (v65 / label)
+                                   :T (v66 / label~e.67))
+                           :E (v54 / label~e.68)
+                           :C v55)
+                   :C (v38 / label~e.71,72,73,74)
+                   :E (v39 / label
+                           :R (v56 / label~e.76)
+                           :C (v57 / label~e.77,78,79)))
+           :A v19)
+    :L (v7 / label~e.81)
+    :H (v8 / label
+           :A (v20 / label
+                   :A (v40 / label~e.82)
+                   :P (v41 / label~e.83))
+           :S (v21 / label~e.84)
+           :A (v22 / label
+                   :R (v42 / label~e.85)
+                   :E (v43 / label~e.86)
+                   :E (v44 / label
+                           :A (v45 / label~e.88)
+                           :P (v58 / label~e.87))
+                   :C v45)))

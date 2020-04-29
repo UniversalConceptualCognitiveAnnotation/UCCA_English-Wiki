@@ -1,0 +1,34 @@
+# ::id 947010
+# ::tok Stefani made most of the clothing that she wore on stage with No Doubt , resulting in increasingly eclectic combinations .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.1.3.3 5-1.2.1 6-1.1.3.5.2 7-1.1.3.5.3 8-1.1.3.5.4 9-1.1.3.5.5.1 10-1.1.3.5.5.2 11-1.1.3.5.5.3.1 12-1.1.3.5.5.3.2 13-1.1.3.5.5.3.2 15-1.2.2 16-1.2.3.3 17-1.2.3.4.2 18-1.2.3.4.3 19-1.2.3.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label~e.0)
+           :P (v5 / label~e.1)
+           :A (v6 / label
+                  :Q (v10 / label~e.2)
+                  :R (v11 / label~e.3)
+                  :E (v12 / label~e.4)
+                  :C (v7 / label~e.5)
+                  :E (v13 / label
+                          :A v7
+                          :R (v17 / label~e.6)
+                          :A (v18 / label~e.7)
+                          :P (v19 / label~e.8)
+                          :A (v20 / label
+                                  :R (v23 / label~e.9)
+                                  :C (v24 / label~e.10)
+                                  :E (v25 / label
+                                          :R (v26 / label~e.11)
+                                          :C (v27 / label~e.12,13))))))
+    :H (v3 / label
+           :A v7
+           :S (v8 / label~e.15)
+           :A (v9 / label
+                  :C (v14 / label~e.19)
+                  :R (v15 / label~e.16)
+                  :E (v16 / label
+                          :A v14
+                          :D (v21 / label~e.17)
+                          :S (v22 / label~e.18)))))

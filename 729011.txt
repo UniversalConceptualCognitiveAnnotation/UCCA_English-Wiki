@@ -1,0 +1,56 @@
+# ::id 729011
+# ::tok It received mixed to positive reviews , with Jolie 's performance earning praise ; Empire remarked , " When it comes to selling incredible , crazy , death - defying antics , Jolie has few peers in the action business . "
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1.1.2 3-1.1.3.1.2 4-1.1.3.1.3.2 5-1.1.3.2 7-1.2 8-1.3.2.1.1 9-1.3.2.1.2 10-1.3.2.2 11-1.3.3 12-1.3.4 14-1.4.1 15-1.4.2 18-1.4.3.1 20-1.4.3.2.2 21-1.4.3.2.3.1 22-1.4.3.2.3.2 23-1.4.3.2.4.1.1 25-1.4.3.2.4.1.2 27-1.4.3.2.4.1.3.1 29-1.4.3.2.4.1.3.2 30-1.4.3.2.4.2 32-1.4.3.3.1 34-1.4.3.3.3 35-1.4.3.3.2.2 36-1.4.3.3.4.1 37-1.4.3.3.4.2 38-1.4.3.3.4.3 39-1.4.3.3.4.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label~e.0)
+           :P (v7 / label~e.1)
+           :A (v8 / label
+                  :E (v16 / label
+                          :H (v23 / label
+                                  :A (v17 / label~e.5)
+                                  :S (v35 / label~e.2))
+                          :L (v24 / label~e.3)
+                          :H (v25 / label
+                                  :A v17
+                                  :S (v36 / label~e.4)))
+                  :C v17))
+    :L (v3 / label~e.7)
+    :H (v4 / label
+           :A (v9 / label)
+           :A (v10 / label
+                   :A (v18 / label
+                           :C (v26 / label~e.8)
+                           :R (v27 / label~e.9))
+                   :P (v19 / label~e.10))
+           :D (v11 / label~e.11)
+           :S (v12 / label~e.12))
+    :H (v5 / label
+           :A (v13 / label~e.14)
+           :P (v14 / label~e.15)
+           :A (v15 / label
+                   :L (v20 / label~e.18)
+                   :H (v21 / label
+                           :D (v28 / label~e.20)
+                           :P (v29 / label
+                                   :R (v37 / label~e.21)
+                                   :C (v38 / label~e.22))
+                           :A (v30 / label
+                                   :D (v39 / label
+                                           :C (v46 / label~e.23)
+                                           :C (v47 / label~e.25)
+                                           :C (v48 / label
+                                                   :E (v49 / label~e.27)
+                                                   :C (v50 / label~e.29)))
+                                   :P (v40 / label~e.30)))
+                   :H (v22 / label
+                           :A (v31 / label~e.32)
+                           :S (v32 / label
+                                   :C (v41 / label~e.35))
+                           :D (v33 / label~e.34)
+                           :A (v34 / label
+                                   :R (v42 / label~e.36)
+                                   :E (v43 / label~e.37)
+                                   :E (v44 / label~e.38)
+                                   :C (v45 / label~e.39))))))

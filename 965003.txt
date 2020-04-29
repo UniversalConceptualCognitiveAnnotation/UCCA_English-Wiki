@@ -1,0 +1,38 @@
+# ::id 965003
+# ::tok Known as The Laurence Olivier Archive , the collection includes many of Vivien Leigh 's personal papers , including numerous letters she wrote to Olivier .
+# ::alignments 0-1.1.2 1-1.1.3.1 2-1.1.3.2 3-1.1.3.2 4-1.1.3.2 5-1.1.3.2 7-1.2.1.1 8-1.1.1 9-1.2.2 10-1.2.3.7 11-1.2.3.1 12-1.2.3.3.2 13-1.2.3.3.2 14-1.2.3.3.3 15-1.2.3.4.2 16-1.2.3.2 18-1.2.3.5.1 19-1.2.3.5.2 20-1.2.3.5.3 21-1.2.3.5.4.2 22-1.2.3.5.4.3 23-1.2.3.5.4.4.1 24-1.2.3.5.4.4.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label~e.8)
+           :S (v5 / label~e.0)
+           :A (v6 / label
+                  :R (v10 / label~e.1)
+                  :C (v11 / label~e.2,3,4,5)))
+    :H (v3 / label
+           :A (v7 / label
+                  :E (v12 / label~e.7)
+                  :C v4)
+           :S (v8 / label~e.9)
+           :A (v9 / label
+                  :R (v13 / label~e.11)
+                  :C (v14 / label~e.16)
+                  :E (v15 / label
+                          :A v14
+                          :A (v19 / label~e.12,13)
+                          :S (v20 / label~e.14))
+                  :E (v16 / label
+                          :A v14
+                          :S (v21 / label~e.15))
+                  :E (v17 / label
+                          :R (v22 / label~e.18)
+                          :Q (v23 / label~e.19)
+                          :C (v24 / label~e.20)
+                          :E (v25 / label
+                                  :A v24
+                                  :A (v26 / label~e.21)
+                                  :P (v27 / label~e.22)
+                                  :A (v28 / label
+                                          :R (v29 / label~e.23)
+                                          :C (v30 / label~e.24))))
+                  :Q (v18 / label~e.10))))

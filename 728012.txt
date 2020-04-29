@@ -1,0 +1,34 @@
+# ::id 728012
+# ::tok She also played Grendel 's mother in the animated epic Beowulf ( 2007 ) , which was created through the motion capture technique .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4.1.1 4-1.1.4.1.2 5-1.1.4.2 6-1.1.5.8 7-1.1.5.9 8-1.1.5.1.1 9-1.1.5.1.2 10-1.1.5.2 12-1.1.5.3.3 15-1.1.5.4.2 17-1.1.5.4.4 18-1.1.5.4.5.1 19-1.1.5.4.5.2 20-1.1.5.4.5.3 21-1.1.5.4.5.3 22-1.1.5.4.5.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :D (v4 / label~e.1)
+           :P (v5 / label~e.2)
+           :A (v6 / label
+                  :A (v8 / label
+                         :C (v16 / label~e.3)
+                         :R (v17 / label~e.4))
+                  :S (v9 / label~e.5))
+           :A (v7 / label
+                  :E (v10 / label
+                          :E (v18 / label~e.8)
+                          :C (v19 / label~e.9))
+                  :C (v11 / label~e.10)
+                  :E (v12 / label
+                          :A v11
+                          :P (v20 / label)
+                          :T (v21 / label~e.12))
+                  :E (v13 / label
+                          :A v11
+                          :R (v22 / label~e.15)
+                          :P (v23 / label~e.17)
+                          :A (v24 / label
+                                  :R (v25 / label~e.18)
+                                  :E (v26 / label~e.19)
+                                  :C (v27 / label~e.20,21)
+                                  :E (v28 / label~e.22)))
+                  :R (v14 / label~e.6)
+                  :E (v15 / label~e.7))))

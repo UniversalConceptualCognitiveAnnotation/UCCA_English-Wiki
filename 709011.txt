@@ -1,0 +1,47 @@
+# ::id 709011
+# ::tok Many critics and fans commented on the quiet beauty of the song " Lone Pilgrim " , penned by a 19th century teacher and sung by Dylan with a haunting reverence .
+# ::alignments 0-1.1.1.1 1-1.1.1.2.1.1 2-1.1.1.2.2 3-1.1.1.2.3.1 4-1.1.2 5-1.1.3.3 7-1.1.3.5 8-1.1.3.1 9-1.1.3.2.1 10-1.1.3.2.2.1 11-1.1.3.2.2.2 13-1.1.3.2.3 14-1.1.3.2.3 17-1.1.3.2.4.1.2 18-1.1.3.2.4.1.3.1 20-1.1.3.2.4.1.3.3.1 21-1.1.3.2.4.1.3.3.2 22-1.1.3.2.4.1.3.4 23-1.1.3.2.4.2 24-1.1.3.2.4.3.2 25-1.1.3.2.4.3.3.1 26-1.1.3.2.4.3.3.2 27-1.1.3.2.4.3.4.1 28-1.1.3.2.4.3.4.2 29-1.1.3.2.4.3.4.3 30-1.1.3.2.4.3.4.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :Q (v6 / label~e.0)
+                  :C (v7 / label
+                         :C (v12 / label
+                                 :P (v19 / label~e.1))
+                         :N (v13 / label~e.2)
+                         :C (v14 / label
+                                 :S (v20 / label~e.3))))
+           :P (v4 / label~e.4)
+           :A (v5 / label
+                  :S (v8 / label~e.8)
+                  :A (v9 / label
+                         :R (v15 / label~e.9)
+                         :E (v16 / label
+                                 :E (v21 / label~e.10)
+                                 :C (v22 / label~e.11))
+                         :C (v17 / label~e.13,14)
+                         :E (v18 / label
+                                 :H (v23 / label
+                                         :A v17
+                                         :P (v26 / label~e.17)
+                                         :A (v27 / label
+                                                 :R (v31 / label~e.18)
+                                                 :T (v32 / label
+                                                         :E (v40 / label~e.20)
+                                                         :C (v41 / label~e.21))
+                                                 :P (v33 / label~e.22)))
+                                 :L (v24 / label~e.23)
+                                 :H (v25 / label
+                                         :A v17
+                                         :P (v28 / label~e.24)
+                                         :A (v29 / label
+                                                 :R (v34 / label~e.25)
+                                                 :C (v35 / label~e.26))
+                                         :D (v30 / label
+                                                 :R (v36 / label~e.27)
+                                                 :E (v37 / label~e.28)
+                                                 :E (v38 / label~e.29)
+                                                 :C (v39 / label~e.30)))))
+                  :R (v10 / label~e.5)
+                  :D (v11 / label~e.7))))

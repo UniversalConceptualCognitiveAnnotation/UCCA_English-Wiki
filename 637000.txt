@@ -1,0 +1,61 @@
+# ::id 637000
+# ::tok Lennon left the group in September 1969 , and agreed not to inform the media while the band renegotiated their recording contract , but he was outraged that McCartney publicised his own departure on releasing his debut solo album in April 1970 .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.1.4.1 5-1.1.4.2 6-1.1.4.3 8-1.2 9-1.3.1 10-1.3.2.1 12-1.3.2.3 13-1.3.2.4.1 14-1.3.2.4.2 15-1.4 16-1.5.1.1 17-1.5.1.2 18-1.5.2 19-1.5.3.1 20-1.5.3.2 21-1.5.3.3 23-1.6 24-1.7.1 26-1.7.3 27-1.7.4.1 28-1.7.4.2 29-1.7.4.3 30-1.7.4.4.1 31-1.7.4.4.2 32-1.7.4.4.3 34-1.7.4.5.2.2 35-1.7.4.5.3.1 36-1.7.4.5.3.2 37-1.7.4.5.3.3 38-1.7.4.5.3.4 39-1.7.4.5.4.1 40-1.7.4.5.4.2 41-1.7.4.5.4.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v9 / label~e.0)
+           :P (v10 / label~e.1)
+           :A (v11 / label
+                   :E (v21 / label~e.2)
+                   :C (v22 / label~e.3))
+           :T (v12 / label
+                   :R (v23 / label~e.4)
+                   :C (v24 / label~e.5)
+                   :C (v25 / label~e.6)))
+    :L (v3 / label~e.8)
+    :H (v4 / label
+           :P (v13 / label~e.9)
+           :A (v14 / label
+                   :D (v26 / label~e.10)
+                   :P (v27 / label~e.12)
+                   :A (v28 / label
+                           :E (v39 / label~e.13)
+                           :C (v40 / label~e.14))
+                   :A v9)
+           :A v9)
+    :L (v5 / label~e.15)
+    :H (v6 / label
+           :A (v15 / label
+                   :E (v29 / label~e.16)
+                   :C (v30 / label~e.17))
+           :P (v16 / label~e.18)
+           :A (v17 / label
+                   :E (v31 / label~e.19)
+                   :E (v32 / label~e.20)
+                   :C (v33 / label~e.21)))
+    :L (v7 / label~e.23)
+    :H (v8 / label
+           :A (v18 / label~e.24)
+           :P (v19 / label~e.26)
+           :A (v20 / label
+                   :R (v34 / label~e.27)
+                   :A (v35 / label~e.28)
+                   :P (v36 / label~e.29)
+                   :A (v37 / label
+                           :A (v41 / label~e.30)
+                           :D (v42 / label~e.31)
+                           :P (v43 / label~e.32))
+                   :A (v38 / label
+                           :A v35
+                           :P (v44 / label
+                                   :C (v47 / label~e.34))
+                           :A (v45 / label
+                                   :E (v48 / label~e.35)
+                                   :E (v49 / label~e.36)
+                                   :E (v50 / label~e.37)
+                                   :C (v51 / label~e.38))
+                           :T (v46 / label
+                                   :R (v52 / label~e.39)
+                                   :C (v53 / label~e.40)
+                                   :C (v54 / label~e.41))))))

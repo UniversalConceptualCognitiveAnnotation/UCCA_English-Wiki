@@ -1,0 +1,25 @@
+# ::id 694000
+# ::tok In May 1963 , Dylan 's political profile was raised when he walked out of The Ed Sullivan Show .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 4-1.1.2.1.1 5-1.1.2.1.2 6-1.1.2.2 7-1.1.2.3 9-1.1.4 10-1.2 11-1.3.1 12-1.3.2 13-1.3.3 14-1.3.4.1 15-1.3.4.2 16-1.3.4.2 17-1.3.4.2 18-1.3.4.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v5 / label
+                  :R (v12 / label~e.0)
+                  :C (v13 / label~e.1)
+                  :C (v14 / label~e.2))
+           :A (v6 / label
+                  :E (v15 / label
+                          :C (v20 / label~e.4)
+                          :R (v21 / label~e.5))
+                  :E (v16 / label~e.6)
+                  :C (v17 / label~e.7))
+           :P (v7 / label~e.9))
+    :L (v3 / label~e.10)
+    :H (v4 / label
+           :A (v8 / label~e.11)
+           :P (v9 / label~e.12)
+           :D (v10 / label~e.13)
+           :A (v11 / label
+                   :R (v18 / label~e.14)
+                   :C (v19 / label~e.15,16,17,18))))

@@ -1,0 +1,40 @@
+# ::id 703002
+# ::tok Dylan delayed the album 's release , and re - recorded half of the songs at Sound 80 Studios in Minneapolis with production assistance from his brother David Zimmerman .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.1.3.3 5-1.1.4 7-1.2 8-1.3.1 10-1.3.2 11-1.3.3.1 12-1.3.3.2 13-1.3.3.4 14-1.3.3.3 15-1.3.4.1 16-1.3.4.2 17-1.3.4.2 18-1.3.4.3 19-1.3.4.4.1 20-1.3.4.4.2 21-1.4 22-1.5.3 23-1.5.1 24-1.5.2.1 25-1.5.2.2.1 26-1.5.2.2.2 27-1.5.2.3 28-1.5.2.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label~e.0)
+           :D (v8 / label~e.1)
+           :A (v9 / label
+                  :E (v18 / label~e.2)
+                  :C (v19 / label~e.3)
+                  :R (v20 / label~e.4))
+           :P (v10 / label~e.5))
+    :L (v3 / label~e.7)
+    :H (v4 / label
+           :D (v11 / label~e.8)
+           :P (v12 / label~e.10)
+           :A (v13 / label
+                   :Q (v21 / label~e.11)
+                   :R (v22 / label~e.12)
+                   :C (v23 / label~e.14)
+                   :E (v24 / label~e.13))
+           :A (v14 / label
+                   :R (v25 / label~e.15)
+                   :C (v26 / label~e.16,17)
+                   :E (v27 / label~e.18)
+                   :E (v28 / label
+                           :R (v32 / label~e.19)
+                           :C (v33 / label~e.20)))
+           :A v7)
+    :L (v5 / label~e.21)
+    :H (v6 / label
+           :D (v15 / label~e.23)
+           :A (v16 / label
+                   :R (v29 / label~e.24)
+                   :E (v30 / label
+                           :A (v34 / label~e.25)
+                           :S (v35 / label~e.26))
+                   :C (v31 / label~e.27,28))
+           :P (v17 / label~e.22)))

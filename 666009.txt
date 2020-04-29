@@ -1,0 +1,62 @@
+# ::id 666009
+# ::tok The difference in opinion led to a very public feud , as Carey began posting messages on her webpage in early and mid - 2000 , telling fans inside information on the dispute , as well as instructing them to request " Ca n't Take That Away ( Mariah 's Theme ) " on radio stations .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3.1 3-1.1.1.3.2 4-1.1.2.1 5-1.1.2.2 6-1.1.3.1 7-1.1.3.2.1 8-1.1.3.2.2 9-1.1.3.3 11-1.2 12-1.3.1 13-1.3.2 14-1.3.3 15-1.3.4 16-1.3.5.1 17-1.3.5.2 18-1.3.5.3 19-1.3.6.1 20-1.3.6.2.1 21-1.3.6.2.2 22-1.3.6.2.3 24-1.3.6.3 26-1.4.1 27-1.4.2 28-1.4.3.1 29-1.4.3.2 30-1.4.3.3.1 31-1.4.3.3.2 32-1.4.3.3.3 34-1.5 35-1.5 36-1.5 37-1.6.1 38-1.6.2 40-1.6.3.3 42-1.6.3.4 43-1.6.3.4 44-1.6.3.4 45-1.6.3.4 46-1.6.3.4 48-1.6.3.4 49-1.6.3.4 50-1.6.3.4 53-1.6.3.5.1 54-1.6.3.5.2 55-1.6.3.5.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v8 / label
+                  :E (v23 / label~e.0)
+                  :C (v24 / label~e.1)
+                  :E (v25 / label
+                          :R (v43 / label~e.2)
+                          :C (v44 / label~e.3)))
+           :P (v9 / label
+                  :C (v26 / label~e.4)
+                  :R (v27 / label~e.5))
+           :A (v10 / label
+                   :E (v28 / label~e.6)
+                   :E (v29 / label
+                           :E (v45 / label~e.7)
+                           :C (v46 / label~e.8))
+                   :C (v30 / label~e.9)))
+    :L (v3 / label~e.11)
+    :H (v4 / label
+           :A (v11 / label~e.12)
+           :D (v12 / label~e.13)
+           :P (v13 / label~e.14)
+           :A (v14 / label~e.15)
+           :A (v15 / label
+                   :R (v31 / label~e.16)
+                   :E (v32 / label~e.17)
+                   :C (v33 / label~e.18))
+           :D (v16 / label
+                   :R (v34 / label~e.19)
+                   :E (v35 / label
+                           :C (v47 / label~e.20)
+                           :N (v48 / label~e.21)
+                           :C (v49 / label~e.22))
+                   :C (v36 / label~e.24)))
+    :H (v5 / label
+           :P (v17 / label~e.26)
+           :A (v18 / label~e.27)
+           :A (v19 / label
+                   :E (v37 / label~e.28)
+                   :C (v38 / label~e.29)
+                   :E (v39 / label
+                           :R (v50 / label~e.30)
+                           :E (v51 / label~e.31)
+                           :C (v52 / label~e.32)))
+           :A v11)
+    :L (v6 / label~e.34,35,36)
+    :H (v7 / label
+           :P (v20 / label~e.37)
+           :A (v21 / label~e.38)
+           :A (v22 / label
+                   :A v21
+                   :P (v40 / label~e.40)
+                   :A (v41 / label~e.42,43,44,45,46,48,49,50)
+                   :A (v42 / label
+                           :R (v53 / label~e.53)
+                           :E (v54 / label~e.54)
+                           :C (v55 / label~e.55)))
+           :A v11))

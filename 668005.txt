@@ -1,0 +1,26 @@
+# ::id 668005
+# ::tok The accompanying soundtrack album , Glitter , became Carey 's lowest - selling album to that point .
+# ::alignments 0-1.1.2.1 1-1.1.2.2 2-1.1.2.3.1 3-1.1.2.3.2 5-1.1.2.4 7-1.1.3 8-1.1.4.3.1 9-1.1.4.3.2 10-1.1.4.4.1 12-1.1.4.4.2 13-1.1.4.1 14-1.1.4.2.1 15-1.1.4.2.2 16-1.1.4.2.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label~e.0)
+                  :E (v7 / label~e.1)
+                  :E (v8 / label
+                         :E (v14 / label~e.2)
+                         :C (v15 / label~e.3))
+                  :C (v9 / label~e.5))
+           :S (v4 / label~e.7)
+           :A (v5 / label
+                  :C (v10 / label~e.13)
+                  :E (v11 / label
+                          :R (v16 / label~e.14)
+                          :E (v17 / label~e.15)
+                          :C (v18 / label~e.16))
+                  :E (v12 / label
+                          :C (v19 / label~e.8)
+                          :R (v20 / label~e.9))
+                  :E (v13 / label
+                          :E (v21 / label~e.10)
+                          :C (v22 / label~e.12)))))

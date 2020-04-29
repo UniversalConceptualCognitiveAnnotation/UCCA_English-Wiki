@@ -1,0 +1,52 @@
+# ::id 961008
+# ::tok In 1958 , considering her marriage to be over , Leigh began a relationship with the actor Jack Merivale , who knew of Leigh 's medical condition and assured Olivier he would care for her .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.1.2 4-1.1.3.1 5-1.1.3.2 8-1.1.3.5 10-1.1.4 11-1.2.2 12-1.2.3.1 13-1.2.3.2 14-1.2.4.5 15-1.2.4.1.1.1 16-1.2.4.1.1.2 17-1.2.4.2 18-1.2.4.2 20-1.2.4.3.1 21-1.2.4.3.2.2 22-1.2.4.3.2.3.1 23-1.2.4.3.2.3.2.1 24-1.2.4.3.2.3.2.2 25-1.2.4.3.2.3.3 26-1.2.4.3.2.3.4 27-1.2.4.3.3 28-1.2.4.3.4.2 29-1.2.4.3.4.3 30-1.2.4.3.4.4.1 31-1.2.4.3.4.4.2 32-1.2.4.3.4.4.3 33-1.2.4.3.4.4.4.1 34-1.2.4.3.4.4.4.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v4 / label
+                  :R (v11 / label~e.0)
+                  :C (v12 / label~e.1))
+           :P (v5 / label~e.3)
+           :A (v6 / label
+                  :A (v13 / label~e.4)
+                  :P (v14 / label~e.5)
+                  :D (v15 / label~e.8))
+           :A (v7 / label~e.10))
+    :H (v3 / label
+           :A v7
+           :D (v8 / label~e.11)
+           :S (v9 / label
+                  :E (v16 / label~e.12)
+                  :C (v17 / label~e.13))
+           :A (v10 / label
+                   :E (v18 / label
+                           :A (v22 / label
+                                   :E (v27 / label~e.15)
+                                   :C (v28 / label~e.16)))
+                   :C (v19 / label~e.17,18)
+                   :E (v20 / label
+                           :R (v23 / label~e.20)
+                           :H (v24 / label
+                                   :A v19
+                                   :S (v29 / label~e.21)
+                                   :A (v30 / label
+                                           :R (v34 / label~e.22)
+                                           :A (v35 / label
+                                                   :C (v42 / label~e.23)
+                                                   :R (v43 / label~e.24))
+                                           :A (v36 / label~e.25)
+                                           :S (v37 / label~e.26)))
+                           :L (v25 / label~e.27)
+                           :H (v26 / label
+                                   :A v19
+                                   :P (v31 / label~e.28)
+                                   :A (v32 / label~e.29)
+                                   :A (v33 / label
+                                           :A (v38 / label~e.30)
+                                           :D (v39 / label~e.31)
+                                           :P (v40 / label~e.32)
+                                           :A (v41 / label
+                                                   :R (v44 / label~e.33)
+                                                   :C (v45 / label~e.34)))))
+                   :R (v21 / label~e.14))))

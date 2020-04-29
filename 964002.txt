@@ -1,0 +1,61 @@
+# ::id 964002
+# ::tok In 1969 , critic Andrew Sarris commented that the success of the film had been largely due to " the inspired casting " of Leigh , and in 1998 wrote that " she lives in our minds and memories as a dynamic force rather than as a static presence . "
+# ::alignments 0-1.1.1.1 1-1.1.1.2 3-1.1.2.1.1 4-1.3.2 5-1.3.2 6-1.1.3 7-1.1.4.1 8-1.1.4.2.1.1 9-1.1.4.2.1.2 10-1.1.4.2.2.1 11-1.1.4.2.2.2 12-1.1.4.2.2.3 15-1.1.4.5 16-1.1.4.6 17-1.1.4.6 20-1.1.4.7.3 21-1.1.4.7.4 23-1.1.4.7.5.1 24-1.1.4.7.5.2 26-1.2 27-1.3.3.1 28-1.3.3.2 29-1.3.4 30-1.3.1.1 32-1.3.1.2 33-1.3.1.3 34-1.3.1.4.1 35-1.3.1.4.2 36-1.3.1.4.3.1 37-1.3.1.4.3.2 38-1.3.1.4.3.3 39-1.3.1.5.1.1 41-1.3.1.5.1.3 42-1.3.1.5.1.4 43-1.3.1.5.2 44-1.3.1.5.2 45-1.3.1.5.3.1 47-1.3.1.5.3.3 48-1.3.1.5.3.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v5 / label
+                  :R (v13 / label~e.0)
+                  :C (v14 / label~e.1))
+           :A (v6 / label
+                  :E (v15 / label
+                          :A (v28 / label~e.3))
+                  :C (v10 / label~e.4,5))
+           :P (v7 / label~e.6)
+           :A (v8 / label
+                  :R (v16 / label~e.7)
+                  :A (v17 / label
+                          :P (v29 / label
+                                  :E (v41 / label~e.8)
+                                  :C (v42 / label~e.9))
+                          :A (v30 / label
+                                  :R (v43 / label~e.10)
+                                  :E (v44 / label~e.11)
+                                  :C (v45 / label~e.12)))
+                  :D (v18 / label~e.15)
+                  :S (v19 / label~e.16,17)
+                  :A (v20 / label
+                          :A (v31 / label)
+                          :D (v32 / label~e.20)
+                          :P (v33 / label~e.21)
+                          :A (v34 / label
+                                  :R (v46 / label~e.23)
+                                  :C (v47 / label~e.24)))))
+    :L (v3 / label~e.26)
+    :H (v4 / label
+           :A (v9 / label
+                  :R (v21 / label~e.30)
+                  :A (v22 / label~e.32)
+                  :P (v23 / label~e.33)
+                  :A (v24 / label
+                          :R (v35 / label~e.34)
+                          :E (v36 / label~e.35)
+                          :C (v37 / label
+                                  :C (v48 / label~e.36)
+                                  :N (v49 / label~e.37)
+                                  :C (v50 / label~e.38)))
+                  :A (v25 / label
+                          :H (v38 / label
+                                  :R (v51 / label~e.39)
+                                  :D (v52 / label~e.41)
+                                  :P (v53 / label~e.42))
+                          :L (v39 / label~e.43,44)
+                          :H (v40 / label
+                                  :R (v54 / label~e.45)
+                                  :D (v55 / label~e.47)
+                                  :S (v56 / label~e.48))))
+           :A v10
+           :T (v11 / label
+                   :R (v26 / label~e.27)
+                   :C (v27 / label~e.28))
+           :P (v12 / label~e.29)))

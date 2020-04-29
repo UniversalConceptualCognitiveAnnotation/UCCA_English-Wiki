@@ -1,0 +1,29 @@
+# ::id 639008
+# ::tok Lennon also contributed " I 'm the Greatest " , to Starr 's album Ringo ( 1973 ) , released the same month . (
+# ::alignments 0-1.1.4 1-1.1.5 2-1.1.6 4-1.1.7 5-1.1.7 6-1.1.7 7-1.1.7 10-1.1.8.1 11-1.1.8.2.1.1 12-1.1.8.2.1.2 13-1.1.8.2.2 14-1.1.8.3 16-1.1.8.4.2 19-1.1.8.4.1 20-1.1.8.5.3.1 21-1.1.8.5.3.2 22-1.1.8.5.3.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :D (v4 / label~e.1)
+           :P (v5 / label~e.2)
+           :A (v6 / label~e.4,5,6,7)
+           :A (v7 / label
+                  :R (v8 / label~e.10)
+                  :E (v9 / label
+                         :E (v13 / label
+                                 :C (v18 / label~e.11)
+                                 :R (v19 / label~e.12))
+                         :C (v14 / label~e.13))
+                  :C (v10 / label~e.14)
+                  :E (v11 / label
+                          :P (v15 / label~e.19)
+                          :T (v16 / label~e.16)
+                          :A v14)
+                  :E (v12 / label
+                          :A v10
+                          :P v15
+                          :T (v17 / label
+                                  :E (v20 / label~e.20)
+                                  :E (v21 / label~e.21)
+                                  :C (v22 / label~e.22))))))

@@ -1,0 +1,24 @@
+# ::id 608005
+# ::tok In September 1989 , they launched the Paul McCartney World Tour , his first in over a decade .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 4-1.1.2 5-1.1.3 7-1.1.5 8-1.1.5 9-1.1.6 10-1.2.1 12-1.2.3 13-1.2.4 14-1.2.5.5 15-1.2.5.1 17-1.2.5.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v4 / label
+                  :R (v14 / label~e.0)
+                  :C (v15 / label~e.1)
+                  :C (v16 / label~e.2))
+           :A (v5 / label~e.4)
+           :D (v6 / label~e.5)
+           :P (v7 / label
+                  :C (v10 / label~e.10))
+           :A (v8 / label~e.7,8)
+           :A (v9 / label~e.9))
+    :H (v3 / label
+           :P v10
+           :A (v11 / label~e.12)
+           :D (v12 / label~e.13)
+           :T (v13 / label
+                   :E (v17 / label~e.15)
+                   :C (v18 / label~e.17)
+                   :R (v19 / label~e.14))))

@@ -1,0 +1,50 @@
+# ::id 602001
+# ::tok Featuring sophisticated lyrics , studio experimentation , and an expanded repertoire of musical genres ranging from innovative string arrangements to psychedelic rock album , the marked an artistic leap for the Beatles .
+# ::alignments 0-1.1.1 1-1.1.2.1.1.2 2-1.1.2.1.2 4-1.1.2.2.1 5-1.1.2.2.2 7-1.1.2.3 8-1.1.2.4.1.1 9-1.1.2.4.1.2 10-1.1.2.4.1.3 12-1.1.2.4.3 13-1.1.2.4.4 14-1.1.2.4.5.1 15-1.1.2.4.5.1 16-1.1.2.4.5.2.1.2 17-1.1.2.4.5.2.2 18-1.1.2.4.5.2.3 19-1.1.2.4.5.3 20-1.1.2.4.5.4.1 21-1.1.2.4.5.4.2 22-1.1.3 24-1.2.1.1 25-1.2.2 26-1.2.3.1 27-1.2.4 28-1.2.3.2 29-1.2.5.1 30-1.2.5.2 31-1.2.5.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :S (v4 / label~e.0)
+           :A (v5 / label
+                  :C (v12 / label
+                          :E (v22 / label
+                                  :A (v23 / label~e.2)
+                                  :S (v30 / label~e.1))
+                          :C v23)
+                  :C (v13 / label
+                          :A (v24 / label~e.4)
+                          :P (v25 / label~e.5))
+                  :N (v14 / label~e.7)
+                  :C (v15 / label
+                          :E (v26 / label
+                                  :E (v31 / label~e.8)
+                                  :E (v32 / label~e.9)
+                                  :C (v33 / label~e.10))
+                          :E (v27 / label~e.12)
+                          :C (v28 / label~e.13)
+                          :E (v29 / label
+                                  :N (v34 / label~e.14,15)
+                                  :C (v35 / label
+                                          :E (v38 / label
+                                                  :A (v40 / label~e.18)
+                                                  :S (v43 / label~e.16))
+                                          :E (v39 / label~e.17)
+                                          :C v40)
+                                  :N (v36 / label~e.19)
+                                  :C (v37 / label
+                                          :E (v41 / label~e.20)
+                                          :C (v42 / label~e.21)))))
+           :A (v6 / label~e.22))
+    :H (v3 / label
+           :A (v7 / label
+                  :E (v16 / label~e.24)
+                  :C v6)
+           :D (v8 / label~e.25)
+           :S (v9 / label
+                  :E (v17 / label~e.26)
+                  :C (v18 / label~e.28))
+           :D (v10 / label~e.27)
+           :A (v11 / label
+                   :R (v19 / label~e.29)
+                   :E (v20 / label~e.30)
+                   :C (v21 / label~e.31))))

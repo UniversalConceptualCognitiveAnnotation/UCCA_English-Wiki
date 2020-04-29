@@ -1,0 +1,16 @@
+# ::id 604002
+# ::tok By late 1968 , relations within the band were deteriorating .
+# ::alignments 0-1.1.3.1 1-1.1.3.2 2-1.1.3.3 4-1.1.4 5-1.1.5.1 7-1.1.5.2.2 9-1.1.7
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v3 / label
+                  :R (v7 / label~e.0)
+                  :E (v8 / label~e.1)
+                  :C (v9 / label~e.2))
+           :P (v4 / label~e.4)
+           :A (v5 / label
+                  :R (v10 / label~e.5)
+                  :P (v11 / label
+                          :C (v12 / label~e.7)))
+           :D (v6 / label~e.9)))

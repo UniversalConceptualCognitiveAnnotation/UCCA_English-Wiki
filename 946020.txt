@@ -1,0 +1,16 @@
+# ::id 946020
+# ::tok The leading single " Settle Down " was released in July .
+# ::alignments 0-1.1.2.1.1 1-1.1.2.1.2 2-1.1.2.1.3 4-1.1.2.2 5-1.1.2.2 8-1.1.4 9-1.1.5.3 10-1.1.5.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label
+                         :E (v10 / label~e.0)
+                         :E (v11 / label~e.1)
+                         :C (v12 / label~e.2))
+                  :C (v7 / label~e.4,5))
+           :P (v4 / label~e.8)
+           :T (v5 / label
+                  :C (v8 / label~e.10)
+                  :R (v9 / label~e.9))))

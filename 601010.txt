@@ -1,0 +1,50 @@
+# ::id 601010
+# ::tok Ringo Starr replaced Best in August , and the band had their first hit , " Love Me Do " , in October , becoming popular in the UK in 1963 , and in the US a year later .
+# ::alignments 0-1.1.1 1-1.1.1 2-1.1.2 3-1.1.3 4-1.1.4.1 5-1.1.4.2 7-1.2 8-1.3.1.1 9-1.3.1.2 10-1.3.2 11-1.3.3.1.1 12-1.3.3.1.2 13-1.3.3.1.3 16-1.3.3.2 17-1.3.3.2 18-1.3.3.2 21-1.3.4.1 22-1.3.4.2 24-1.4.1 25-1.4.2 26-1.4.3.1 27-1.4.3.2 28-1.4.3.3 29-1.4.4.1 30-1.4.4.2 32-1.5 33-1.6.1.1 34-1.6.1.2 35-1.6.1.3 36-1.6.2.1 37-1.6.2.2 38-1.6.2.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v8 / label~e.0,1)
+           :P (v9 / label~e.2)
+           :A (v10 / label~e.3)
+           :T (v11 / label
+                   :R (v22 / label~e.4)
+                   :C (v23 / label~e.5)))
+    :L (v3 / label~e.7)
+    :H (v4 / label
+           :A (v12 / label
+                   :E (v24 / label~e.8)
+                   :C (v25 / label~e.9))
+           :P (v13 / label~e.10)
+           :A (v14 / label
+                   :E (v26 / label
+                           :A (v41 / label~e.11)
+                           :D (v42 / label~e.12)
+                           :S (v43 / label~e.13))
+                   :C (v27 / label~e.16,17,18))
+           :T (v15 / label
+                   :R (v28 / label~e.21)
+                   :C (v29 / label~e.22)))
+    :H (v5 / label
+           :D (v16 / label~e.24)
+           :P (v17 / label~e.25)
+           :A (v18 / label
+                   :R (v30 / label~e.26)
+                   :E (v31 / label~e.27)
+                   :C (v32 / label~e.28))
+           :T (v19 / label
+                   :R (v33 / label~e.29)
+                   :C (v34 / label~e.30))
+           :A v12)
+    :L (v6 / label~e.32)
+    :H (v7 / label
+           :A (v20 / label
+                   :R (v35 / label~e.33)
+                   :E (v36 / label~e.34)
+                   :C (v37 / label~e.35))
+           :T (v21 / label
+                   :Q (v38 / label~e.36)
+                   :C (v39 / label~e.37)
+                   :R (v40 / label~e.38))
+           :P v17
+           :A v12))

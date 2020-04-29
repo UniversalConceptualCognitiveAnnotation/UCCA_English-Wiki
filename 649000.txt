@@ -1,0 +1,34 @@
+# ::id 649000
+# ::tok Along with his estrangement from McCartney , Lennon always felt a musical competitiveness with him and kept an ear on his music .
+# ::alignments 0-1.1 2-1.2.3 3-1.2.4 4-1.2.5.1 5-1.2.5.2 7-1.2.1 8-1.3.2 9-1.3.3 10-1.3.4.2.1 11-1.3.4.2.2 12-1.3.4.3 13-1.3.4.4.1 14-1.3.4.4.2 15-1.4 16-1.5.2 17-1.5.2 18-1.5.2 19-1.5.3.1 20-1.5.3.2 21-1.5.3.3
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v7 / label~e.7)
+           :A (v8 / label~e.2)
+           :S (v9 / label~e.3)
+           :A (v10 / label
+                   :R (v16 / label~e.4)
+                   :C (v17 / label~e.5)))
+    :H (v4 / label
+           :A v7
+           :T (v11 / label~e.8)
+           :S (v12 / label~e.9)
+           :A (v13 / label
+                   :A v7
+                   :A (v18 / label
+                           :E (v24 / label~e.10)
+                           :C (v25 / label~e.11))
+                   :S (v19 / label~e.12)
+                   :A (v20 / label
+                           :R (v26 / label~e.13)
+                           :C (v27 / label~e.14))))
+    :L (v5 / label~e.15)
+    :H (v6 / label
+           :A v7
+           :P (v14 / label~e.16,17,18)
+           :A (v15 / label
+                   :R (v21 / label~e.19)
+                   :E (v22 / label~e.20)
+                   :C (v23 / label~e.21))))

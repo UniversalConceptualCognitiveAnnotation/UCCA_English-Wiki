@@ -1,0 +1,33 @@
+# ::id 634009
+# ::tok A two - year period of constant touring , moviemaking , and songwriting followed , during which Lennon wrote two books , In His Own Write and A Spaniard in the Works .
+# ::alignments 0-1.1.1.1 1-1.1.1.2.1 3-1.1.1.2.2 4-1.1.1.3 5-1.1.2.2 6-1.1.2.3 7-1.1.2.4.1 9-1.1.2.4.2 11-1.1.2.4.3 12-1.1.2.4.4 13-1.1.3 15-1.2 16-1.2 17-1.3.1 18-1.3.2 19-1.3.3.1 20-1.3.3.2 22-1.3.3.3.1 23-1.3.3.3.1 24-1.3.3.3.1 25-1.3.3.3.1 26-1.3.3.3.2 27-1.3.3.3.3 28-1.3.3.3.3 29-1.3.3.3.3 30-1.3.3.3.3 31-1.3.3.3.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v5 / label
+                  :E (v11 / label~e.0)
+                  :E (v12 / label
+                          :Q (v21 / label~e.1)
+                          :C (v22 / label~e.3))
+                  :C (v13 / label~e.4))
+           :A (v6 / label
+                  :A (v14 / label)
+                  :R (v15 / label~e.5)
+                  :D (v16 / label~e.6)
+                  :P (v17 / label
+                          :C (v23 / label~e.7)
+                          :C (v24 / label~e.9)
+                          :N (v25 / label~e.11)
+                          :C (v26 / label~e.12)))
+           :P (v7 / label~e.13))
+    :L (v3 / label~e.15,16)
+    :H (v4 / label
+           :A (v8 / label~e.17)
+           :P (v9 / label~e.18)
+           :A (v10 / label
+                   :Q (v18 / label~e.19)
+                   :C (v19 / label~e.20)
+                   :E (v20 / label
+                           :C (v27 / label~e.22,23,24,25)
+                           :N (v28 / label~e.26)
+                           :C (v29 / label~e.27,28,29,30,31)))))

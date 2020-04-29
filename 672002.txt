@@ -1,0 +1,45 @@
+# ::id 672002
+# ::tok Carey and actor / comedian Nick Cannon met while they shot her music video for her second single , " Bye Bye " , on an island off the coast of Antigua .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3.1.2.1 4-1.1.1.3.1.3.1 5-1.1.1.3.2 6-1.1.1.3.2 7-1.1.2 8-1.2 9-1.3.4 10-1.3.5 11-1.3.6.1.2 12-1.3.6.2 13-1.3.6.3 14-1.3.7.1 15-1.3.7.2.1.2 16-1.3.7.2.2 17-1.3.7.2.3 20-1.3.7.3 21-1.3.7.3 24-1.3.1.1 26-1.3.1.3 27-1.3.1.4.1 28-1.3.1.4.2 29-1.3.1.4.3 30-1.3.1.4.4 31-1.3.1.4.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :C (v12 / label~e.0)
+                  :N (v13 / label~e.1)
+                  :C (v14 / label
+                          :E (v24 / label
+                                  :H (v35 / label
+                                          :P (v38 / label~e.2))
+                                  :H (v36 / label
+                                          :P (v39 / label~e.4)))
+                          :C (v25 / label~e.5,6)))
+           :P (v6 / label~e.7))
+    :L (v3 / label~e.8)
+    :H (v4 / label
+           :A (v7 / label
+                  :R (v15 / label~e.24)
+                  :C (v16 / label~e.26)
+                  :E (v17 / label
+                          :R (v26 / label~e.27)
+                          :E (v27 / label~e.28)
+                          :E (v28 / label~e.29)
+                          :R (v29 / label~e.30)
+                          :C (v30 / label~e.31)))
+           :A (v8 / label~e.9)
+           :P (v9 / label~e.10)
+           :A (v10 / label
+                   :E (v18 / label
+                           :A (v20 / label~e.13)
+                           :S (v31 / label~e.11))
+                   :E (v19 / label~e.12)
+                   :C v20)
+           :A (v11 / label
+                   :R (v21 / label~e.14)
+                   :E (v22 / label
+                           :E (v32 / label
+                                   :A (v34 / label~e.17)
+                                   :S (v37 / label~e.15))
+                           :Q (v33 / label~e.16)
+                           :C v34)
+                   :C (v23 / label~e.20,21))))

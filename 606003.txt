@@ -1,0 +1,32 @@
+# ::id 606003
+# ::tok One of the best - selling releases of the decade , it remained on the UK charts for 124 weeks .
+# ::alignments 0-1.1.2.1 1-1.1.2.2 3-1.1.2.4.2 5-1.1.2.4.3 6-1.1.2.5 7-1.1.2.6.1 8-1.1.2.6.2 9-1.1.2.6.3 11-1.1.4 12-1.2.2 13-1.2.3.1 15-1.2.3.2.2 16-1.2.3.3 17-1.2.4.4 18-1.2.4.1 19-1.2.4.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :S (v4 / label)
+           :A (v5 / label
+                  :Q (v10 / label~e.0)
+                  :R (v11 / label~e.1)
+                  :E (v12 / label
+                          :A (v13 / label~e.6)
+                          :D (v21 / label~e.3)
+                          :P (v22 / label~e.5))
+                  :C v13
+                  :E (v14 / label
+                          :R (v23 / label~e.7)
+                          :E (v24 / label~e.8)
+                          :C (v25 / label~e.9)))
+           :A (v6 / label~e.11))
+    :H (v3 / label
+           :A v6
+           :P (v7 / label~e.12)
+           :A (v8 / label
+                  :R (v15 / label~e.13)
+                  :E (v16 / label
+                          :C (v26 / label~e.15))
+                  :C (v17 / label~e.16))
+           :T (v9 / label
+                  :Q (v18 / label~e.18)
+                  :C (v19 / label~e.19)
+                  :R (v20 / label~e.17))))

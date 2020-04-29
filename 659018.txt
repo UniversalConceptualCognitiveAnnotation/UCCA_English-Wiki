@@ -1,0 +1,23 @@
+# ::id 659018
+# ::tok Shortly thereafter , she was introduced to rising pop singer Brenda K. Starr .
+# ::alignments 0-1.1.1 1-1.1.2 3-1.2.2 5-1.2.4 6-1.2.5.1 7-1.2.5.2.1.2 8-1.2.5.2.2.2 9-1.2.5.2.1.1 10-1.2.5.3 11-1.2.5.3 12-1.2.5.3
+# ::format ucca
+(v1 / label
+    :L (v2 / label
+           :E (v4 / label~e.0)
+           :C (v5 / label~e.1))
+    :H (v3 / label
+           :A (v6 / label)
+           :A (v7 / label~e.3)
+           :P (v8 / label~e.5)
+           :A (v9 / label
+                  :R (v10 / label~e.6)
+                  :E (v11 / label
+                          :E (v13 / label
+                                  :A (v15 / label~e.9)
+                                  :P (v16 / label~e.7))
+                          :C (v14 / label
+                                  :A (v12 / label~e.10,11,12)
+                                  :A (v17 / label~e.8)
+                                  :P v15))
+                  :C v12)))

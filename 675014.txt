@@ -1,0 +1,41 @@
+# ::id 675014
+# ::tok In June 2012 , Carey posted a photo that wrote , " MC Summer 2012 " , after the photo was posted , many fans speculated that new music will be released soon .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 4-1.1.2 5-1.1.3 6-1.1.4.1 7-1.1.4.2 8-1.1.4.3.2 9-1.1.4.3.3 12-1.1.4.3.4 13-1.1.4.3.4 14-1.1.4.3.4 17-1.2 18-1.3.1.1 19-1.3.1.2 21-1.3.3 23-1.4.1.1 24-1.4.1.2.1 25-1.4.2 26-1.4.3.1 27-1.4.3.2.1.2 28-1.4.3.2.2 31-1.4.3.5 32-1.4.3.6
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v6 / label
+                  :R (v15 / label~e.0)
+                  :C (v16 / label~e.1)
+                  :C (v17 / label~e.2))
+           :A (v7 / label~e.4)
+           :P (v8 / label~e.5)
+           :A (v9 / label
+                  :E (v18 / label~e.6)
+                  :C (v19 / label~e.7)
+                  :E (v20 / label
+                          :A v19
+                          :R (v29 / label~e.8)
+                          :P (v30 / label~e.9)
+                          :A (v31 / label~e.12,13,14))))
+    :L (v3 / label~e.17)
+    :H (v4 / label
+           :A (v10 / label
+                   :E (v21 / label~e.18)
+                   :C (v22 / label~e.19))
+           :P (v11 / label~e.21))
+    :H (v5 / label
+           :A (v12 / label
+                   :Q (v23 / label~e.23)
+                   :C (v24 / label
+                           :S (v32 / label~e.24)))
+           :P (v13 / label~e.25)
+           :A (v14 / label
+                   :R (v25 / label~e.26)
+                   :A (v26 / label
+                           :E (v33 / label
+                                   :A (v34 / label~e.28)
+                                   :S (v35 / label~e.27))
+                           :C v34)
+                   :P (v27 / label~e.31)
+                   :T (v28 / label~e.32))))

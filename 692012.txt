@@ -1,0 +1,38 @@
+# ::id 692012
+# ::tok Like " Blowin ' in the Wind " , " A Hard Rain 's a - Gonna Fall " marked an important new direction in modern songwriting , blending a stream - of - consciousness , imagist lyrical attack with a traditional folk form .
+# ::alignments 0-1.1.1.2 2-1.1.1.3 4-1.1.1.3 5-1.1.1.3 6-1.1.1.3 10-1.1.2 11-1.1.2 12-1.1.2 13-1.1.2 14-1.1.2 16-1.1.2 17-1.1.2 19-1.1.3 21-1.1.5 22-1.1.6 23-1.1.7 24-1.1.8.1 25-1.1.8.2 26-1.1.8.3 28-1.2.2 30-1.2.3.3.2 32-1.2.3.3.3.1 34-1.2.3.3.3.2 36-1.2.3.4.1.1 37-1.2.3.4.1.2 38-1.2.3.4.2 39-1.2.3.5 41-1.2.3.1.2 42-1.2.3.1.3.1 43-1.2.3.1.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :R (v13 / label~e.0)
+                  :C (v14 / label~e.2,4,5,6))
+           :A (v5 / label~e.10,11,12,13,14,16,17)
+           :D (v6 / label~e.19)
+           :D (v7 / label~e.21)
+           :D (v8 / label~e.22)
+           :S (v9 / label~e.23)
+           :A (v10 / label
+                   :R (v15 / label~e.24)
+                   :D (v16 / label~e.25)
+                   :P (v17 / label~e.26)))
+    :H (v3 / label
+           :A v5
+           :P (v11 / label~e.28)
+           :A (v12 / label
+                   :H (v18 / label
+                           :S (v22 / label~e.41)
+                           :A (v23 / label
+                                   :E (v28 / label~e.42)
+                                   :C (v29 / label~e.43)))
+                   :H (v19 / label
+                           :D (v24 / label~e.30)
+                           :S (v25 / label
+                                   :R (v30 / label~e.32)
+                                   :C (v31 / label~e.34)))
+                   :H (v20 / label
+                           :A (v26 / label
+                                   :C (v32 / label~e.36)
+                                   :C (v33 / label~e.37))
+                           :P (v27 / label~e.38))
+                   :L (v21 / label~e.39))))

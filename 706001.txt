@@ -1,0 +1,69 @@
+# ::id 706001
+# ::tok Shortly before his murder , John Lennon recorded " Serve Yourself " in response to Dylan 's " Gotta Serve Somebody " . By 1981 , Stephen Holden wrote in the New York Times that " neither age ( he 's now 40 ) nor his much - publicized conversion to born - again Christianity has altered his essentially iconoclastic temperament . "
+# ::alignments 0-1.1.1 1-1.1.2 2-1.2.1 3-1.2.2 5-1.3.1 6-1.3.1 7-1.3.2 9-1.3.3 10-1.3.3 12-1.4 13-1.5.1 14-1.5.2.1 15-1.5.2.2.2 16-1.5.2.2.3 18-1.5.2.3 19-1.5.2.3 20-1.5.2.3 23-1.6.1.1 24-1.6.1.2 26-1.6.2 27-1.6.2 28-1.6.3 29-1.6.4.1 30-1.6.4.2 31-1.6.4.3 32-1.6.4.3 33-1.6.4.3 34-1.6.5.1 36-1.6.5.2.1 37-1.6.5.2.2.1.1 39-1.6.5.2.2.1.2.1 40-1.6.5.2.2.1.2.2 41-1.6.5.2.2.1.2.3 42-1.6.5.2.2.1.2.4 44-1.6.5.2.2.2 45-1.6.5.2.2.3.1.1 46-1.6.5.2.2.3.2.1 48-1.6.5.2.2.3.2.2 49-1.6.5.2.2.3.1.2 50-1.6.5.2.2.3.1.3.1 51-1.6.5.2.2.3.1.3.2 53-1.6.5.2.2.3.1.3.2 54-1.6.5.2.2.3.1.3.3 56-1.6.5.4 57-1.6.5.5.1 58-1.6.5.5.2.2 59-1.6.5.5.2.3 60-1.6.5.5.3
+# ::format ucca
+(v1 / label
+    :L (v2 / label
+           :E (v8 / label~e.0)
+           :C (v9 / label~e.1))
+    :H (v3 / label
+           :A (v10 / label~e.2)
+           :P (v11 / label~e.3))
+    :H (v4 / label
+           :A (v12 / label~e.5,6)
+           :P (v13 / label~e.7)
+           :A (v14 / label~e.9,10))
+    :L (v5 / label~e.12)
+    :H (v6 / label
+           :P (v15 / label~e.13)
+           :A (v16 / label
+                   :R (v22 / label~e.14)
+                   :E (v23 / label
+                           :A (v24 / label~e.18,19,20)
+                           :A (v34 / label~e.15)
+                           :S (v35 / label~e.16))
+                   :C v24)
+           :A v12)
+    :H (v7 / label
+           :T (v17 / label
+                   :R (v25 / label~e.23)
+                   :C (v26 / label~e.24))
+           :A (v18 / label~e.26,27)
+           :P (v19 / label~e.28)
+           :A (v20 / label
+                   :R (v27 / label~e.29)
+                   :E (v28 / label~e.30)
+                   :C (v29 / label~e.31,32,33))
+           :A (v21 / label
+                   :R (v30 / label~e.34)
+                   :A (v31 / label
+                           :Q (v36 / label~e.36)
+                           :C (v37 / label
+                                   :C (v41 / label
+                                           :C (v46 / label~e.37)
+                                           :E (v47 / label
+                                                   :A (v50 / label~e.39)
+                                                   :S (v51 / label~e.40)
+                                                   :T (v52 / label~e.41)
+                                                   :A (v53 / label~e.42)))
+                                   :N (v42 / label~e.44)
+                                   :C (v43 / label
+                                           :C (v48 / label
+                                                   :A (v54 / label~e.45)
+                                                   :P (v55 / label~e.49)
+                                                   :A (v56 / label
+                                                           :R (v59 / label~e.50)
+                                                           :D (v60 / label~e.51,53)
+                                                           :S (v61 / label~e.54)))
+                                           :E (v49 / label
+                                                   :D (v57 / label~e.46)
+                                                   :P (v58 / label~e.48)
+                                                   :A v55))))
+                   :P (v32 / label~e.56)
+                   :A (v33 / label
+                           :E (v38 / label~e.57)
+                           :E (v39 / label
+                                   :A (v40 / label~e.60)
+                                   :D (v44 / label~e.58)
+                                   :S (v45 / label~e.59))
+                           :C v40))))

@@ -1,0 +1,84 @@
+# ::id 955004
+# ::tok Hollywood was in the midst of a widely publicised search to find an actress to portray Scarlett O'Hara in David O. Selznick 's production of Gone with the Wind ( 1939 ) . Leigh 's American theatrical agent was the London representative of the Myron Selznick Agency ( Myron was David 's brother ) . In February 1938 , Leigh asked that she be allowed to play Scarlett O'Hara .
+# ::alignments 0-1.1.1 2-1.1.3.1 3-1.1.3.2 4-1.1.3.3 5-1.1.4.1 7-1.2.1 8-1.2.2 9-1.2.3 11-1.1.6.3 12-1.1.6.4.1.1.1 13-1.1.6.4.2.5 15-1.1.6.4.2.2 16-1.1.6.4.2.3 17-1.1.6.4.2.3 18-1.1.6.4.2.4.1 19-1.1.6.4.2.4.2.1.2 20-1.1.6.4.2.4.2.1.2 21-1.1.6.4.2.4.2.1.2 22-1.1.6.4.2.4.2.1.3 23-1.1.6.4.2.4.2.2 24-1.1.6.4.2.4.3 25-1.1.6.4.2.4.4 26-1.1.6.4.2.4.4 27-1.1.6.4.2.4.4 28-1.1.6.4.2.4.4 30-1.1.6.4.2.4.5.3 33-1.3.1.1.1.1 34-1.3.1.1.1.2 35-1.3.1.2.1 36-1.3.1.1.2 37-1.3.1.1.3 40-1.3.4 41-1.3.5 42-1.3.6.1 43-1.3.6.2 44-1.3.6.3 45-1.3.6.3 46-1.3.6.4 48-1.4.1 49-1.4.2 50-1.4.3.1.1 51-1.4.3.1.2 52-1.4.3.2 55-1.5.1.1 56-1.5.1.2 57-1.5.1.3 59-1.5.2 60-1.5.3 61-1.5.4.2 62-1.5.4.3 64-1.5.4.5 66-1.5.4.7 67-1.5.4.8 68-1.5.4.8
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label~e.0)
+           :D (v8 / label
+                  :R (v25 / label~e.2)
+                  :E (v26 / label~e.3)
+                  :C (v27 / label~e.4))
+           :P (v9 / label
+                  :R (v28 / label~e.5)
+                  :C (v13 / label~e.9))
+           :A (v10 / label
+                   :A v7
+                   :P (v29 / label~e.11)
+                   :A (v30 / label
+                           :C (v48 / label
+                                   :A (v56 / label
+                                           :E (v63 / label~e.12)
+                                           :C (v60 / label~e.13)))
+                           :E (v49 / label
+                                   :P (v57 / label~e.15)
+                                   :A (v58 / label~e.16,17)
+                                   :A (v59 / label
+                                           :R (v64 / label~e.18)
+                                           :E (v65 / label
+                                                   :E (v69 / label
+                                                           :A (v70 / label~e.23)
+                                                           :A (v73 / label~e.19,20,21)
+                                                           :S (v74 / label~e.22))
+                                                   :C v70)
+                                           :R (v66 / label~e.24)
+                                           :C (v67 / label~e.25,26,27,28)
+                                           :E (v68 / label
+                                                   :A v67
+                                                   :P (v71 / label)
+                                                   :T (v72 / label~e.30)))
+                                   :A v60))))
+    :H (v3 / label
+           :D (v11 / label~e.7)
+           :P (v12 / label~e.8)
+           :A v13)
+    :H (v4 / label
+           :A (v14 / label
+                   :C (v31 / label
+                           :A (v50 / label
+                                   :C (v61 / label~e.33)
+                                   :R (v62 / label~e.34))
+                           :A (v51 / label~e.36)
+                           :A (v52 / label~e.37))
+                   :E (v32 / label
+                           :S (v53 / label~e.35)
+                           :A v52))
+           :A (v15 / label~e.40)
+           :S (v16 / label~e.41)
+           :A (v17 / label
+                   :R (v33 / label~e.42)
+                   :E (v34 / label~e.43)
+                   :E (v35 / label~e.44,45)
+                   :C (v36 / label~e.46)))
+    :H (v5 / label
+           :A (v18 / label~e.48)
+           :S (v19 / label~e.49)
+           :A (v20 / label
+                   :A (v37 / label
+                           :C (v54 / label~e.50)
+                           :R (v55 / label~e.51))
+                   :A (v38 / label~e.52)))
+    :H (v6 / label
+           :T (v21 / label
+                   :R (v39 / label~e.55)
+                   :C (v40 / label~e.56)
+                   :C (v41 / label~e.57))
+           :A (v22 / label~e.59)
+           :P (v23 / label~e.60)
+           :A (v24 / label
+                   :A (v42 / label)
+                   :R (v43 / label~e.61)
+                   :A (v44 / label~e.62)
+                   :D (v45 / label~e.64)
+                   :P (v46 / label~e.66)
+                   :A (v47 / label~e.67,68))))

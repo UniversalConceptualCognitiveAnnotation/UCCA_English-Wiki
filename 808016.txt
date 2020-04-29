@@ -1,0 +1,56 @@
+# ::id 808016
+# ::tok Linda said this about their meeting : " I was quite shameless really . I was with somebody else [ that night ] ... and I saw Paul at the other side of the room . He looked so beautiful that I made up my mind I would have to pick him up . "
+# ::alignments 0-1.1.1 1-1.1.2 3-1.1.6.1 4-1.1.6.2 5-1.1.6.3 8-1.1.5.2.1 10-1.1.5.2.3 11-1.1.5.2.4 12-1.1.5.2.5 14-1.1.5.3.1 16-1.1.5.3.3 17-1.1.5.3.4.1 18-1.1.5.3.4.2 20-1.1.5.3.5.1 21-1.1.5.3.5.2 24-1.1.5.4 25-1.1.5.5.1 26-1.1.5.5.2 27-1.1.5.5.3 28-1.1.5.5.4.1 29-1.1.5.5.4.2 30-1.1.5.5.4.3 31-1.1.5.5.4.4 32-1.1.5.5.4.5.1 33-1.1.5.5.4.5.2 34-1.1.5.5.4.5.3 36-1.1.5.6.1 37-1.1.5.6.2 38-1.1.5.6.3 39-1.1.5.6.4 40-1.1.5.7 41-1.1.5.8.1 42-1.1.5.8.2 43-1.1.5.8.2 44-1.1.5.8.2 45-1.1.5.8.2 46-1.1.5.8.3.1 47-1.1.5.8.3.2 48-1.1.5.8.3.3 49-1.1.5.8.3.3 50-1.1.5.8.3.4 51-1.1.5.8.3.5 52-1.1.5.8.3.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :P (v4 / label~e.1)
+           :A (v5 / label
+                  :H (v7 / label
+                         :A (v17 / label~e.8)
+                         :D (v18 / label~e.10)
+                         :S (v19 / label~e.11)
+                         :D (v20 / label~e.12))
+                  :H (v8 / label
+                         :A (v21 / label~e.14)
+                         :S (v22 / label~e.16)
+                         :A (v23 / label
+                                 :C (v36 / label~e.17)
+                                 :E (v37 / label~e.18))
+                         :T (v24 / label
+                                 :E (v38 / label~e.20)
+                                 :C (v39 / label~e.21)))
+                  :L (v9 / label~e.24)
+                  :H (v10 / label
+                          :A (v25 / label~e.25)
+                          :P (v26 / label~e.26)
+                          :A (v27 / label~e.27)
+                          :A (v28 / label
+                                  :R (v40 / label~e.28)
+                                  :E (v41 / label~e.29)
+                                  :E (v42 / label~e.30)
+                                  :C (v43 / label~e.31)
+                                  :E (v44 / label
+                                          :R (v50 / label~e.32)
+                                          :E (v51 / label~e.33)
+                                          :C (v52 / label~e.34))))
+                  :H (v11 / label
+                          :A (v29 / label~e.36)
+                          :G (v30 / label~e.37)
+                          :D (v31 / label~e.38)
+                          :S (v32 / label~e.39))
+                  :L (v12 / label~e.40)
+                  :H (v13 / label
+                          :A (v33 / label~e.41)
+                          :P (v34 / label~e.42,43,44,45)
+                          :A (v35 / label
+                                  :A (v45 / label~e.46)
+                                  :D (v46 / label~e.47)
+                                  :D (v47 / label~e.48,49)
+                                  :P (v48 / label~e.50,52)
+                                  :A (v49 / label~e.51))))
+           :A (v6 / label
+                  :R (v14 / label~e.3)
+                  :A (v15 / label~e.4)
+                  :P (v16 / label~e.5))))

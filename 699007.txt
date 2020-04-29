@@ -1,0 +1,23 @@
+# ::id 699007
+# ::tok Manager Albert Grossman had already scheduled an extensive concert tour for that summer and fall .
+# ::alignments 0-1.1.1.1.1 1-1.1.1.2 2-1.1.1.2 4-1.1.3 5-1.1.4 7-1.1.5.2 8-1.1.5.3 9-1.1.5.4 10-1.1.6.1 11-1.1.6.2 12-1.1.6.3.1 13-1.1.6.3.2 14-1.1.6.3.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v8 / label
+                         :S (v16 / label~e.0))
+                  :C (v9 / label~e.1,2))
+           :D (v4 / label~e.4)
+           :P (v5 / label~e.5)
+           :A (v6 / label
+                  :D (v10 / label~e.7)
+                  :A (v11 / label~e.8)
+                  :P (v12 / label~e.9))
+           :T (v7 / label
+                  :R (v13 / label~e.10)
+                  :E (v14 / label~e.11)
+                  :C (v15 / label
+                          :C (v17 / label~e.12)
+                          :N (v18 / label~e.13)
+                          :C (v19 / label~e.14)))))

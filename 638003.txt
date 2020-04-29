@@ -1,0 +1,24 @@
+# ::id 638003
+# ::tok With Lennon 's next album , Imagine ( 1971 ) , critical response was more guarded .
+# ::alignments 0-1.1.4.1 1-1.1.4.2.1.1 2-1.1.4.2.1.2 3-1.1.4.2.2 4-1.1.4.2.3 6-1.1.4.3 8-1.1.4.4.3 11-1.1.5.1 12-1.1.5.2 14-1.1.7 15-1.1.8
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :R (v7 / label~e.0)
+                  :E (v8 / label
+                         :E (v13 / label
+                                 :C (v18 / label~e.1)
+                                 :R (v19 / label~e.2))
+                         :E (v14 / label~e.3)
+                         :C (v15 / label~e.4))
+                  :C (v9 / label~e.6)
+                  :E (v10 / label
+                          :A v9
+                          :P (v16 / label)
+                          :T (v17 / label~e.8)))
+           :A (v4 / label
+                  :A (v11 / label~e.11)
+                  :P (v12 / label~e.12))
+           :D (v5 / label~e.14)
+           :P (v6 / label~e.15)))

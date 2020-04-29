@@ -1,0 +1,63 @@
+# ::id 637006
+# ::tok Designed to release emotional pain from early childhood , the therapy entailed two half - days a week with Janov for four months ; he had wanted to treat the couple for longer , but they felt no need to continue and returned to London .
+# ::alignments 0-1.1.2 2-1.1.4 3-1.1.5.1 4-1.1.5.2 5-1.1.5.3.1 6-1.1.5.3.2 7-1.1.5.3.3 9-1.2.1.1 10-1.1.1 11-1.2.2 12-1.2.3.2.1.1 13-1.2.3.2.1.2 15-1.2.3.2.1.3 16-1.2.3.2.2 17-1.2.3.2.3 18-1.2.3.3.1 19-1.2.3.3.2 20-1.2.4.1 21-1.2.4.2 22-1.2.4.3 24-1.3.1 26-1.3.3 28-1.3.5 29-1.3.6.1 30-1.3.6.2 31-1.3.7.1 32-1.3.7.2 34-1.4 35-1.5.1 36-1.5.2 37-1.5.3 38-1.5.4 40-1.5.5.3 41-1.6 42-1.7.1 43-1.7.2.1 44-1.7.2.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v9 / label~e.10)
+           :D (v10 / label~e.0)
+           :P (v11 / label~e.2)
+           :A (v12 / label
+                   :E (v29 / label~e.3)
+                   :C (v30 / label~e.4)
+                   :E (v31 / label
+                           :R (v46 / label~e.5)
+                           :E (v47 / label~e.6)
+                           :C (v48 / label~e.7))))
+    :H (v3 / label
+           :A (v13 / label
+                   :E (v32 / label~e.9)
+                   :C v9)
+           :P (v14 / label~e.11)
+           :A (v15 / label
+                   :A (v33 / label)
+                   :T (v34 / label
+                           :E (v49 / label
+                                   :Q (v54 / label~e.12)
+                                   :Q (v55 / label~e.13)
+                                   :C (v56 / label~e.15))
+                           :E (v50 / label~e.16)
+                           :C (v51 / label~e.17))
+                   :S (v35 / label
+                           :R (v52 / label~e.18)
+                           :C (v53 / label~e.19)))
+           :T (v16 / label
+                   :R (v36 / label~e.20)
+                   :Q (v37 / label~e.21)
+                   :C (v38 / label~e.22)))
+    :H (v4 / label
+           :A (v17 / label~e.24)
+           :D (v18 / label~e.26)
+           :P (v19 / label~e.28)
+           :A (v20 / label
+                   :E (v39 / label~e.29)
+                   :C (v40 / label~e.30))
+           :D (v21 / label
+                   :R (v41 / label~e.31)
+                   :C (v42 / label~e.32)))
+    :L (v5 / label~e.34)
+    :H (v6 / label
+           :A (v22 / label~e.35)
+           :G (v23 / label~e.36)
+           :D (v24 / label~e.37)
+           :P (v25 / label~e.38)
+           :A (v26 / label
+                   :A v22
+                   :P (v43 / label~e.40)))
+    :L (v7 / label~e.41)
+    :H (v8 / label
+           :P (v27 / label~e.42)
+           :A (v28 / label
+                   :R (v44 / label~e.43)
+                   :C (v45 / label~e.44))
+           :A v22))

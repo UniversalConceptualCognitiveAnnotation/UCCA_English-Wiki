@@ -1,0 +1,62 @@
+# ::id 640000
+# ::tok Settled back in New York , Lennon recorded the album Walls and Bridges . Released in October 1974 , it yielded his only number - one non - Beatles single in his lifetime , " Whatever Gets You Thru the Night " , featuring Elton John on backing vocals and piano .
+# ::alignments 0-1.1.2 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.1.3.2 6-1.1.1 7-1.2.2 8-1.2.3.1.1 9-1.2.3.1.2 10-1.3.4 11-1.3.4 12-1.3.4 14-1.3.2 15-1.3.3.1 16-1.3.3.2 17-1.3.3.3 19-1.4.2 20-1.4.3 21-1.4.1.1.2 22-1.4.1.1.3 23-1.4.1.1.4.1.1 25-1.4.1.1.4.1.2 26-1.4.1.1.4.2.1 28-1.4.1.1.4.2.2 29-1.4.1.1.4.3 30-1.4.1.1.5.1 31-1.4.1.1.5.2 32-1.4.1.1.5.3 35-1.4.1.2.1 36-1.4.1.2.1 37-1.4.1.2.1 38-1.4.1.2.1 39-1.4.1.2.1 40-1.4.1.2.1 43-1.4.1.2.2.2 44-1.4.1.2.2.3.1 45-1.4.1.2.2.3.1 46-1.4.1.2.2.3.2.1 47-1.4.1.2.2.3.2.2.1.1 48-1.4.1.2.2.3.2.2.1.2 49-1.4.1.2.2.3.2.2.2 50-1.4.1.2.2.3.2.2.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label~e.6)
+           :P (v7 / label~e.0,1)
+           :A (v8 / label
+                  :R (v18 / label~e.2)
+                  :C (v19 / label~e.3,4)))
+    :H (v3 / label
+           :A v6
+           :P (v9 / label~e.7)
+           :A (v10 / label
+                   :E (v20 / label
+                           :E (v26 / label~e.8)
+                           :C (v27 / label~e.9))
+                   :C (v14 / label~e.10,11,12)))
+    :H (v4 / label
+           :A (v11 / label)
+           :P (v12 / label~e.14)
+           :T (v13 / label
+                   :R (v21 / label~e.15)
+                   :C (v22 / label~e.16)
+                   :C (v23 / label~e.17))
+           :A v14)
+    :H (v5 / label
+           :A (v15 / label
+                   :C (v24 / label
+                           :P (v28 / label)
+                           :A (v29 / label~e.21)
+                           :D (v30 / label~e.22)
+                           :A (v31 / label
+                                   :E (v35 / label
+                                           :C (v43 / label~e.23)
+                                           :E (v44 / label~e.25))
+                                   :E (v36 / label
+                                           :E (v45 / label~e.26)
+                                           :C (v46 / label~e.28))
+                                   :C (v37 / label~e.29))
+                           :T (v32 / label
+                                   :R (v38 / label~e.30)
+                                   :E (v39 / label~e.31)
+                                   :C (v40 / label~e.32)))
+                   :E (v25 / label
+                           :C (v33 / label~e.35,36,37,38,39,40)
+                           :E (v34 / label
+                                   :A v33
+                                   :S (v41 / label~e.43)
+                                   :A (v42 / label
+                                           :A (v47 / label~e.44,45)
+                                           :P (v48 / label
+                                                   :R (v49 / label~e.46)
+                                                   :C (v50 / label
+                                                           :C (v51 / label
+                                                                   :E (v54 / label~e.47)
+                                                                   :C (v55 / label~e.48))
+                                                           :N (v52 / label~e.49)
+                                                           :C (v53 / label~e.50)))))))
+           :A (v16 / label~e.19)
+           :P (v17 / label~e.20)))

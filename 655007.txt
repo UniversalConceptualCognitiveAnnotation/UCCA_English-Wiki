@@ -1,0 +1,62 @@
+# ::id 655007
+# ::tok Biographer Chris Gregory writes that Lennon was , " tentatively beginning to expose his insecurities in a number of acoustic - led ' confessional ' ballads , so beginning the process of ' public therapy ' that will eventually culminate in the primal screams of " Cold Turkey " and the cathartic John Lennon / Plastic Ono Band . "
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.2 3-1.1.2 4-1.1.3.3.1 5-1.1.3.1.5 9-1.1.3.3.4 10-1.1.3.3.5 12-1.1.3.3.7 13-1.1.3.3.8.1 14-1.1.3.3.8.2 15-1.1.3.3.9.1 16-1.1.3.3.9.2.1 17-1.1.3.3.9.2.2 18-1.1.3.3.9.3 19-1.1.3.3.9.4.1 21-1.1.3.3.9.4.2 23-1.1.3.3.9.5 25-1.1.3.3.9.6 27-1.1.3.4 28-1.1.3.1.1 29-1.1.3.1.2.1 30-1.1.3.1.2.2 31-1.1.3.1.3.1 33-1.1.3.1.3.2 34-1.1.3.1.3.3 36-1.1.3.1.4.1 38-1.1.3.1.4.3 39-1.1.3.1.4.4 40-1.1.3.1.4.5.1 41-1.1.3.1.4.5.2.1 42-1.1.3.1.4.5.2.2 43-1.1.3.1.4.5.2.3 44-1.1.3.1.4.5.2.4.1 46-1.1.3.1.4.5.2.4.2 47-1.1.3.1.4.5.2.4.2 49-1.1.3.1.4.5.3 50-1.1.3.1.4.5.4.1.1 51-1.1.3.1.4.5.4.1.2 52-1.1.3.1.4.5.4.2 53-1.1.3.1.4.5.4.2 55-1.1.3.1.4.5.4.2 56-1.1.3.1.4.5.4.2 57-1.1.3.1.4.5.4.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :P (v6 / label~e.0)
+                  :A (v7 / label~e.1,2))
+           :P (v4 / label~e.3)
+           :A (v5 / label
+                  :H (v8 / label
+                         :D (v11 / label~e.28)
+                         :P (v12 / label
+                                 :E (v22 / label~e.29)
+                                 :C (v23 / label~e.30))
+                         :A (v13 / label
+                                 :R (v24 / label~e.31)
+                                 :E (v25 / label~e.33)
+                                 :C (v26 / label~e.34))
+                         :A (v14 / label
+                                 :R (v27 / label~e.36)
+                                 :D (v28 / label~e.38)
+                                 :P (v29 / label~e.39)
+                                 :A (v30 / label
+                                         :R (v39 / label~e.40)
+                                         :C (v40 / label
+                                                 :E (v47 / label~e.41)
+                                                 :E (v48 / label~e.42)
+                                                 :C (v49 / label~e.43)
+                                                 :E (v50 / label
+                                                         :R (v53 / label~e.44)
+                                                         :C (v54 / label~e.46,47)))
+                                         :N (v41 / label~e.49)
+                                         :C (v42 / label
+                                                 :E (v51 / label
+                                                         :E (v55 / label~e.50)
+                                                         :C (v56 / label~e.51))
+                                                 :C (v52 / label~e.52,53,55,56,57)))
+                                 :A v26)
+                         :A (v15 / label~e.5))
+                  :H (v9 / label
+                         :R (v16 / label~e.4)
+                         :A v15
+                         :D (v17 / label~e.9)
+                         :D (v18 / label~e.10)
+                         :P (v19 / label~e.12)
+                         :A (v20 / label
+                                 :A (v31 / label~e.13)
+                                 :S (v32 / label~e.14))
+                         :A (v21 / label
+                                 :R (v33 / label~e.15)
+                                 :Q (v34 / label
+                                         :E (v43 / label~e.16)
+                                         :C (v44 / label~e.17))
+                                 :R (v35 / label~e.18)
+                                 :E (v36 / label
+                                         :C (v45 / label~e.19)
+                                         :E (v46 / label~e.21))
+                                 :E (v37 / label~e.23)
+                                 :C (v38 / label~e.25)))
+                  :L (v10 / label~e.27))))

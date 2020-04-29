@@ -1,0 +1,12 @@
+# ::id 711010
+# ::tok The book confounded expectations .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2 3-1.1.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :E (v6 / label~e.0)
+                  :C (v7 / label~e.1))
+           :P (v4 / label~e.2)
+           :A (v5 / label
+                  :S (v8 / label~e.3))))

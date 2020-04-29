@@ -1,0 +1,49 @@
+# ::id 664007
+# ::tok The album 's lead single , " Honey " , and its accompanying music video , introduced a more overtly sexual image than Carey had ever demonstrated , and furthered reports of her freedom from Mottola .
+# ::alignments 0-1.1.1.1.1 1-1.1.1.1.2.1 2-1.1.1.1.2.2 3-1.1.1.1.3.1 4-1.3.2 7-1.1.1.1.4 10-1.1.1.2 11-1.1.1.3.1 12-1.1.1.3.2 13-1.1.1.3.3 14-1.3.1 16-1.1.2 17-1.1.3.1 18-1.1.3.2 19-1.1.3.3.1 20-1.1.3.3.2 21-1.1.3.4 22-1.1.3.5.1 23-1.1.3.5.2 25-1.1.3.5.4 26-1.1.3.5.5 28-1.2 29-1.3.3 30-1.3.4.1 31-1.3.4.2.1 32-1.3.4.2.2 33-1.3.4.2.3 34-1.3.4.2.4.1 35-1.3.4.2.4.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v5 / label
+                  :C (v12 / label
+                          :E (v22 / label~e.0)
+                          :E (v23 / label
+                                  :C (v39 / label~e.1)
+                                  :R (v40 / label~e.2))
+                          :E (v24 / label
+                                  :E (v41 / label~e.3)
+                                  :C (v9 / label~e.4))
+                          :C (v25 / label~e.7))
+                  :N (v13 / label~e.10)
+                  :C (v14 / label
+                          :E (v26 / label~e.11)
+                          :E (v27 / label~e.12)
+                          :E (v28 / label~e.13)
+                          :C (v8 / label~e.14)))
+           :P (v6 / label~e.16)
+           :A (v7 / label
+                  :E (v15 / label~e.17)
+                  :E (v16 / label~e.18)
+                  :E (v17 / label
+                          :E (v29 / label~e.19)
+                          :C (v30 / label~e.20))
+                  :C (v18 / label~e.21)
+                  :E (v19 / label
+                          :R (v31 / label~e.22)
+                          :A (v32 / label~e.23)
+                          :D (v33 / label~e.25)
+                          :P (v34 / label~e.26))))
+    :L (v3 / label~e.28)
+    :H (v4 / label
+           :A v8
+           :A v9
+           :P (v10 / label~e.29)
+           :A (v11 / label
+                   :C (v20 / label~e.30)
+                   :E (v21 / label
+                           :R (v35 / label~e.31)
+                           :E (v36 / label~e.32)
+                           :C (v37 / label~e.33)
+                           :E (v38 / label
+                                   :R (v42 / label~e.34)
+                                   :C (v43 / label~e.35))))))

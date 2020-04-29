@@ -1,0 +1,15 @@
+# ::id 673019
+# ::tok The tour ended on September 26 , 2010 .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2 3-1.1.3.4 4-1.1.3.5 5-1.1.3.6 7-1.1.3.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label
+                  :E (v6 / label~e.0)
+                  :C (v7 / label~e.1))
+           :D (v4 / label~e.2)
+           :T (v5 / label
+                  :C (v8 / label~e.7)
+                  :R (v9 / label~e.3)
+                  :C (v10 / label~e.4)
+                  :C (v11 / label~e.5))))

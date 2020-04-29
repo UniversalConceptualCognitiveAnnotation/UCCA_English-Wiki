@@ -1,0 +1,43 @@
+# ::id 672005
+# ::tok Since the album 's release , Carey had planned to embark on an extensive tour in support of E = MC ² , describing its production and direction in several interviews .
+# ::alignments 0-1.1 1-1.2.1.1 2-1.2.1.2 3-1.2.1.3 4-1.2.2 6-1.3.1 8-1.3.3 10-1.3.5 11-1.3.6.1 12-1.3.6.2 13-1.3.7 14-1.3.6.3 15-1.4 16-1.5.1 17-1.5.2.1 18-1.5.2.2 20-1.5.2.2 23-1.6.1 24-1.6.2.2.1 25-1.6.2.2.2 26-1.6.2.1 27-1.6.2.3.1 28-1.7 29-1.8.1 30-1.8.2
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v10 / label
+                   :E (v23 / label~e.1)
+                   :C (v24 / label~e.2)
+                   :R (v25 / label~e.3))
+           :P (v11 / label~e.4))
+    :H (v4 / label
+           :A (v12 / label~e.6)
+           :D (v13 / label~e.8)
+           :D (v14 / label~e.10)
+           :P (v15 / label
+                   :R (v26 / label~e.11)
+                   :E (v27 / label~e.12)
+                   :C (v28 / label~e.14))
+           :D (v16 / label~e.13))
+    :L (v5 / label~e.15)
+    :H (v6 / label
+           :P (v17 / label~e.16)
+           :A (v18 / label
+                   :R (v29 / label~e.17)
+                   :C (v30 / label~e.18,20))
+           :A v12)
+    :H (v7 / label
+           :P (v19 / label~e.23)
+           :A (v20 / label
+                   :L (v31 / label~e.26)
+                   :H (v32 / label
+                           :A (v34 / label~e.24)
+                           :P (v35 / label~e.25))
+                   :H (v33 / label
+                           :P (v36 / label~e.27)
+                           :A v34))
+           :A v12)
+    :L (v8 / label~e.28)
+    :H (v9 / label
+           :D (v21 / label~e.29)
+           :P (v22 / label~e.30)))

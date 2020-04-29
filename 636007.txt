@@ -1,0 +1,32 @@
+# ::id 636007
+# ::tok Lennon asked Lord Beeching to take on the role , but he declined , advising Lennon to go back to making records .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 5-1.1.4.2 6-1.1.4.2 7-1.1.4.3.1 8-1.1.4.3.2 10-1.2 11-1.3.1 12-1.3.2 14-1.4.4 15-1.4.1 17-1.4.2.2.2 18-1.4.2.2.2 21-1.4.2.4.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label~e.0)
+           :P (v7 / label~e.1)
+           :A (v8 / label
+                  :E (v15 / label~e.2)
+                  :C (v16 / label~e.3))
+           :A (v9 / label
+                  :P (v17 / label~e.5,6)
+                  :A (v18 / label
+                          :E (v21 / label~e.7)
+                          :C (v22 / label~e.8))
+                  :A v16))
+    :L (v3 / label~e.10)
+    :H (v4 / label
+           :A (v10 / label~e.11)
+           :P (v11 / label~e.12))
+    :H (v5 / label
+           :A (v12 / label~e.15)
+           :A (v13 / label
+                   :A v12
+                   :P (v19 / label
+                           :C (v23 / label~e.17,18))
+                   :A (v20 / label
+                           :A v12
+                           :P (v24 / label~e.21)))
+           :A v10
+           :P (v14 / label~e.14)))

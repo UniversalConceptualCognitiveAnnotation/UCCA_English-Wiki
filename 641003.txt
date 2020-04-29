@@ -1,0 +1,44 @@
+# ::id 641003
+# ::tok He wrote " Cookin ' ( In the Kitchen of Love ) " for Starr 's Ringo 's Rotogravure ( 1976 ) , performing on the track in June in what would be his last recording session until 1980 .
+# ::alignments 0-1.1.1 1-1.1.2 3-1.1.3 6-1.1.3 7-1.1.3 8-1.1.3 9-1.1.3 10-1.1.3 13-1.1.4.1 14-1.1.4.2.1 15-1.1.4.2.2 16-1.1.4.2.1 17-1.1.4.2.3 18-1.1.4.3 20-1.1.4.4.3 23-1.2.1 24-1.2.2.1 25-1.2.2.2 26-1.2.2.3 27-1.2.3.1 28-1.2.3.2 29-1.3 30-1.4.4.1.1 31-1.4.4.1.2 32-1.4.4.1.3 33-1.4.1 34-1.4.2 35-1.4.4.2 36-1.4.4.3 37-1.4.3.1 38-1.4.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label~e.0)
+           :P (v7 / label~e.1)
+           :A (v8 / label~e.3,6,7,8,9,10)
+           :A (v9 / label
+                  :R (v17 / label~e.13)
+                  :E (v18 / label
+                          :C (v31 / label~e.14,16)
+                          :R (v32 / label~e.15)
+                          :R (v33 / label~e.17))
+                  :C (v19 / label~e.18)
+                  :E (v20 / label
+                          :A (v34 / label)
+                          :P (v35 / label)
+                          :T (v36 / label~e.20))))
+    :H (v3 / label
+           :P (v10 / label~e.23)
+           :A (v11 / label
+                   :R (v21 / label~e.24)
+                   :E (v22 / label~e.25)
+                   :C (v23 / label~e.26))
+           :T (v12 / label
+                   :R (v24 / label~e.27)
+                   :C (v25 / label~e.28))
+           :A v6)
+    :L (v4 / label~e.29)
+    :H (v5 / label
+           :A (v13 / label~e.33)
+           :D (v14 / label~e.34)
+           :T (v15 / label
+                   :R (v26 / label~e.37)
+                   :C (v27 / label~e.38))
+           :P (v16 / label
+                   :E (v28 / label
+                           :R (v37 / label~e.30)
+                           :E (v38 / label~e.31)
+                           :C (v39 / label~e.32))
+                   :E (v29 / label~e.35)
+                   :C (v30 / label~e.36))))

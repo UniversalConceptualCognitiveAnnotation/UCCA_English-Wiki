@@ -1,0 +1,101 @@
+# ::id 946010
+# ::tok In an interview with Entertainment Weekly on June 6 , 2011 , Stefani stated that she had no plans to continue work as a solo artist , adding , " That was a moment in time [ ... ] It went on a little longer than we all thought it would , because it was inspired and you have to go with wherever you 're at in that time in your life ... [ But ] everything works out how it should . "
+# ::alignments 0-1.1 1-1.2.4.1 2-1.2.4.2 3-1.2.5.1 4-1.2.5.2 5-1.2.5.2 6-1.2.1.2 7-1.2.1.3 8-1.2.1.4 10-1.2.1.5 12-1.2.3 13-1.3.2 14-1.3.3.1 15-1.3.3.2 17-1.3.3.3.2 18-1.3.3.3.3 20-1.3.3.5.1 21-1.3.3.5.2 22-1.3.3.6.1 24-1.3.3.8 25-1.3.3.6.2 27-1.4.5 30-1.4.1.8.1 31-1.4.1.8.2 32-1.4.1.8.3.1 33-1.4.1.8.3.2 34-1.4.1.8.3.3.1 35-1.4.1.8.3.3.2 39-1.4.1.9.1 40-1.4.1.9.2 41-1.4.1.9.2 42-1.4.1.9.3.1.1 43-1.4.1.9.3.1.2 44-1.4.1.9.3.2 45-1.4.1.10 46-1.4.1.11.1.1 47-1.4.1.11.1.2 48-1.4.1.11.2 49-1.4.1.11.3.1 50-1.4.1.11.3.2 52-1.4.1.12 53-1.4.1.13.1 55-1.4.1.13.3 56-1.4.1.14 57-1.4.1.15.1 58-1.4.1.15.2 59-1.4.1.15.2 60-1.4.1.15.3 61-1.4.1.15.4.1 62-1.4.1.15.4.2 63-1.4.1.15.4.3.2 65-1.4.1.15.4.3.4 66-1.4.1.15.4.3.5.1 67-1.4.1.15.4.3.5.2 68-1.4.1.15.4.3.5.3 69-1.4.1.15.4.3.5.4.1 70-1.4.1.15.4.3.5.4.2 71-1.4.1.15.4.3.5.4.3 74-1.4.1.16 76-1.4.1.17.1 77-1.4.1.17.2 78-1.4.1.17.2 79-1.4.1.17.3.1 80-1.4.1.17.3.2.5 81-1.4.1.17.3.2.6
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :T (v6 / label
+                  :R (v14 / label~e.6)
+                  :C (v15 / label~e.7)
+                  :C (v16 / label~e.8)
+                  :C (v17 / label~e.10))
+           :A (v7 / label~e.12)
+           :P (v8 / label
+                  :E (v18 / label~e.1)
+                  :C (v19 / label~e.2))
+           :A (v9 / label
+                  :R (v20 / label~e.3)
+                  :C (v21 / label~e.4,5)))
+    :H (v4 / label
+           :A v7
+           :P (v10 / label~e.13)
+           :A (v11 / label
+                   :R (v22 / label~e.14)
+                   :A (v23 / label~e.15)
+                   :D (v24 / label
+                           :E (v38 / label~e.17)
+                           :C (v39 / label~e.18))
+                   :D (v25 / label
+                           :E (v40 / label~e.20)
+                           :C (v41 / label~e.21))
+                   :P (v26 / label
+                           :R (v42 / label~e.22)
+                           :C (v43 / label~e.25))
+                   :D (v27 / label~e.24)))
+    :H (v5 / label
+           :A (v12 / label
+                   :H (v28 / label
+                           :A (v44 / label~e.30)
+                           :S (v45 / label~e.31)
+                           :A (v46 / label
+                                   :E (v62 / label~e.32)
+                                   :C (v63 / label~e.33)
+                                   :E (v64 / label
+                                           :R (v76 / label~e.34)
+                                           :C (v77 / label~e.35))))
+                   :H (v29 / label
+                           :A (v47 / label~e.39)
+                           :P (v48 / label~e.40,41)
+                           :D (v49 / label
+                                   :E (v65 / label
+                                           :E (v78 / label~e.42)
+                                           :C (v79 / label~e.43))
+                                   :C (v66 / label~e.44)))
+                   :L (v30 / label~e.45)
+                   :H (v31 / label
+                           :A (v50 / label
+                                   :C (v67 / label~e.46)
+                                   :Q (v68 / label~e.47))
+                           :P (v51 / label~e.48)
+                           :A (v52 / label
+                                   :A (v69 / label~e.49)
+                                   :D (v70 / label~e.50)
+                                   :P v48))
+                   :L (v32 / label~e.52)
+                   :H (v33 / label
+                           :A (v53 / label~e.53)
+                           :S (v54 / label~e.55))
+                   :L (v34 / label~e.56)
+                   :H (v35 / label
+                           :A (v55 / label~e.57)
+                           :D (v56 / label~e.58,59)
+                           :P (v57 / label~e.60)
+                           :A (v58 / label
+                                   :R (v71 / label~e.61)
+                                   :C (v72 / label~e.62)
+                                   :E (v73 / label
+                                           :A v72
+                                           :A (v80 / label~e.63)
+                                           :S (v81 / label~e.65)
+                                           :T (v82 / label
+                                                   :R (v85 / label~e.66)
+                                                   :E (v86 / label~e.67)
+                                                   :C (v87 / label~e.68)
+                                                   :E (v88 / label
+                                                           :R (v89 / label~e.69)
+                                                           :A (v90 / label~e.70)
+                                                           :P (v91 / label~e.71))))))
+                   :L (v36 / label~e.74)
+                   :H (v37 / label
+                           :A (v59 / label~e.76)
+                           :P (v60 / label~e.77,78)
+                           :D (v61 / label
+                                   :C (v74 / label~e.79)
+                                   :E (v75 / label
+                                           :P v60
+                                           :D v74
+                                           :A (v83 / label~e.80)
+                                           :D (v84 / label~e.81)))))
+           :A v7
+           :P (v13 / label~e.27)))

@@ -1,0 +1,24 @@
+# ::id 639013
+# ::tok Pang supplied the recording for its eventual inclusion on The Very Best of Mick Jagger ( 2007 ) .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1 3-1.1.3.2 4-1.1.4.1 5-1.1.4.2.4 6-1.1.4.2.1 7-1.1.4.2.2 8-1.1.4.2.3.1 9-1.1.4.2.3.2 10-1.1.4.2.3.2 11-1.1.4.2.3.2 12-1.1.4.2.3.2 13-1.1.4.2.3.2 14-1.1.4.2.3.2 16-1.1.4.2.3.3.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :P (v4 / label~e.1)
+           :A (v5 / label
+                  :E (v7 / label~e.2)
+                  :C (v8 / label~e.3))
+           :A (v6 / label
+                  :R (v9 / label~e.4)
+                  :C (v10 / label
+                          :D (v11 / label~e.6)
+                          :P (v12 / label~e.7)
+                          :A (v13 / label
+                                  :R (v15 / label~e.8)
+                                  :C (v16 / label~e.9,10,11,12,13,14)
+                                  :E (v17 / label
+                                          :A (v18 / label)
+                                          :P (v19 / label)
+                                          :T (v20 / label~e.16)))
+                          :A (v14 / label~e.5)))))

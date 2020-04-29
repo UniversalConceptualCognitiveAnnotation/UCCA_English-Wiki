@@ -1,0 +1,62 @@
+# ::id 706008
+# ::tok Most well regarded of these were " Blind Willie McTell " , a tribute to the dead blues musician and an evocation of African American history , " Foot of Pride " and " Lord Protect My Child " . These three songs were later released on The Bootleg Series Volumes 1 - 3 ( Rare & Unreleased ) 1961 - 1991 .
+# ::alignments 0-1.1.1.1.2 1-1.1.1.1.3 2-1.1.1.1.4 3-1.1.1.2 4-1.1.1.3 5-1.1.2 7-1.1.3.1.1 8-1.1.3.1.1 9-1.1.3.1.1 12-1.1.3.1.2.1.1.1 13-1.1.3.1.2.1.1.2 14-1.1.3.1.2.1.2.1 15-1.1.3.1.2.1.2.2 16-1.1.3.1.2.1.2.3.2 17-1.1.3.1.2.1.2.4.1 18-1.1.3.1.2.1.2.3.1 19-1.1.3.1.2.2 20-1.1.3.1.2.3.1.1 21-1.1.3.1.2.3.1.2 22-1.1.3.1.2.3.2.1 23-1.1.3.1.2.3.2.2.1 24-1.1.3.1.2.3.2.2.2 25-1.1.3.1.2.3.2.3 28-1.1.3.2 29-1.1.3.2 30-1.1.3.2 32-1.1.3.3 34-1.1.3.4 35-1.1.3.4 36-1.1.3.4 37-1.1.3.4 40-1.2.3.1 41-1.2.3.2 42-1.2.3.3 44-1.2.5 45-1.2.1 46-1.2.2.1 47-1.2.2.2 48-1.2.2.2 49-1.2.2.2 50-1.2.2.2 51-1.2.2.2 53-1.2.2.2 55-1.2.2.2 56-1.2.2.2 57-1.2.2.2 59-1.2.2.3.3.1 61-1.2.2.3.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :E (v11 / label
+                          :A (v13 / label~e.4)
+                          :D (v24 / label~e.0)
+                          :D (v25 / label~e.1)
+                          :P (v26 / label~e.2))
+                  :R (v12 / label~e.3)
+                  :C v13)
+           :S (v5 / label~e.5)
+           :A (v6 / label
+                  :C (v14 / label
+                          :C (v27 / label~e.7,8,9)
+                          :E (v28 / label
+                                  :H (v31 / label
+                                          :P (v36 / label
+                                                  :E (v40 / label~e.12)
+                                                  :C (v41 / label~e.13))
+                                          :A (v37 / label
+                                                  :R (v42 / label~e.14)
+                                                  :E (v43 / label~e.15)
+                                                  :E (v44 / label
+                                                          :A (v51 / label~e.18)
+                                                          :S (v52 / label~e.16))
+                                                  :C (v45 / label
+                                                          :A (v53 / label~e.17)
+                                                          :P v51)))
+                                  :L (v32 / label~e.19)
+                                  :H (v33 / label
+                                          :P (v38 / label
+                                                  :E (v46 / label~e.20)
+                                                  :C (v47 / label~e.21))
+                                          :A (v39 / label
+                                                  :R (v48 / label~e.22)
+                                                  :E (v49 / label
+                                                          :E (v54 / label~e.23)
+                                                          :C (v55 / label~e.24))
+                                                  :C (v50 / label~e.25)))))
+                  :C (v15 / label~e.28,29,30)
+                  :N (v16 / label~e.32)
+                  :C (v17 / label~e.34,35,36,37)))
+    :H (v3 / label
+           :P (v7 / label~e.45)
+           :A (v8 / label
+                  :R (v18 / label~e.46)
+                  :C (v19 / label~e.47,48,49,50,51,53,55,56,57)
+                  :E (v20 / label
+                          :A v19
+                          :P (v29 / label)
+                          :T (v30 / label
+                                  :C (v34 / label~e.59)
+                                  :C (v35 / label~e.61))))
+           :A (v9 / label
+                  :E (v21 / label~e.40)
+                  :Q (v22 / label~e.41)
+                  :C (v23 / label~e.42))
+           :T (v10 / label~e.44)))

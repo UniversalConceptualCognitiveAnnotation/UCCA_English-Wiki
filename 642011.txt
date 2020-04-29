@@ -1,0 +1,113 @@
+# ::id 642011
+# ::tok The Beatles ' song " Getting Better " , he said , told his own story , " I used to be cruel to my woman , and physically - any woman . I was a hitter . I could n't express myself and I hit . I fought men and I hit women . That is why I am always on about peace " . Recalling his reaction in July 1962 on learning that Cynthia was pregnant , Lennon said , " There 's only one thing for it Cyn . We 'll have to get married . "
+# ::alignments 0-1.1.1.1.2.1.4.1 1-1.1.1.1.2.1.4.2 3-1.1.1.1.2.2 5-1.1.1.1.3 6-1.1.1.1.3 9-1.1.2 10-1.1.3 12-1.1.1.2 13-1.1.1.3.1.1 15-1.1.1.3.2 18-1.2.3.6.1 19-1.2.3.6.2 20-1.2.3.6.2 22-1.2.3.6.4 23-1.2.3.6.5.1 24-1.2.3.6.5.2 25-1.2.3.6.5.3 27-1.2.3.7 28-1.2.3.8.4 30-1.2.3.8.5.2 31-1.2.3.8.5.1 33-1.2.3.9.1 35-1.2.3.9.3.1 36-1.2.3.9.3.2 38-1.2.3.10.1 39-1.2.3.10.2 40-1.2.3.10.3 41-1.2.3.10.4 42-1.2.3.10.5 43-1.2.3.11 44-1.2.3.12.1 45-1.2.3.12.2 47-1.2.3.13.1 48-1.2.3.13.2 49-1.2.3.13.3 50-1.2.3.14 51-1.2.3.15.1 52-1.2.3.15.2 53-1.2.3.15.3 55-1.2.3.16 56-1.2.3.16 57-1.2.3.16 58-1.2.3.17.1 60-1.2.3.17.3 61-1.2.3.17.4 62-1.2.3.17.5.1 63-1.2.3.17.5.2 66-1.3.2 67-1.3.3.1 68-1.3.3.2 69-1.3.3.3.1 70-1.3.3.3.2 71-1.3.3.3.3 72-1.3.3.4.3 73-1.3.3.4.4 74-1.3.3.4.5.1 75-1.3.3.4.5.2 77-1.3.3.4.5.4 79-1.3.1 80-1.4.2 84-1.4.3.2.2 85-1.4.3.2.3 86-1.4.3.2.4.1 87-1.4.3.2.4.2 88-1.4.3.2.5.1 89-1.4.3.2.5.2 90-1.4.3.2.6 92-1.4.3.3.3 94-1.4.3.3.5 95-1.4.3.3.5 96-1.4.3.3.6 97-1.4.3.3.7
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label
+                  :A (v16 / label
+                          :E (v37 / label
+                                  :E (v81 / label
+                                          :A (v82 / label~e.3)
+                                          :S (v100 / label)
+                                          :A (v101 / label
+                                                   :E (v102 / label~e.0)
+                                                   :C (v103 / label~e.1)))
+                                  :C v82)
+                          :C (v38 / label~e.5,6))
+                  :P (v17 / label~e.12)
+                  :A (v18 / label
+                          :A (v39 / label
+                                  :C (v83 / label~e.13))
+                          :P (v40 / label~e.15)))
+           :A (v7 / label~e.9)
+           :P (v8 / label~e.10))
+    :H (v3 / label
+           :A v7
+           :P (v9 / label)
+           :A (v10 / label
+                   :H (v19 / label
+                           :A (v41 / label~e.18)
+                           :D (v42 / label~e.19,20)
+                           :S (v43 / label~e.22)
+                           :A (v44 / label
+                                   :R (v84 / label~e.23)
+                                   :E (v85 / label~e.24)
+                                   :C (v86 / label~e.25)))
+                   :L (v20 / label~e.27)
+                   :H (v21 / label
+                           :A v41
+                           :S v43
+                           :A (v45 / label~e.28)
+                           :A (v46 / label
+                                   :C (v87 / label~e.31)
+                                   :Q (v88 / label~e.30)))
+                   :H (v22 / label
+                           :A (v47 / label~e.33)
+                           :P (v48 / label
+                                   :E (v89 / label~e.35)
+                                   :C (v90 / label~e.36)))
+                   :H (v23 / label
+                           :A (v49 / label~e.38)
+                           :D (v50 / label~e.39)
+                           :D (v51 / label~e.40)
+                           :P (v52 / label~e.41)
+                           :D (v53 / label~e.42))
+                   :L (v24 / label~e.43)
+                   :H (v25 / label
+                           :A (v54 / label~e.44)
+                           :P (v55 / label~e.45))
+                   :H (v26 / label
+                           :A (v56 / label~e.47)
+                           :P (v57 / label~e.48)
+                           :A (v58 / label~e.49))
+                   :L (v27 / label~e.50)
+                   :H (v28 / label
+                           :A (v59 / label~e.51)
+                           :P (v60 / label~e.52)
+                           :A (v61 / label~e.53))
+                   :L (v29 / label~e.55,56,57)
+                   :H (v30 / label
+                           :A (v62 / label~e.58)
+                           :D (v63 / label~e.60)
+                           :S (v64 / label~e.61)
+                           :A (v65 / label
+                                   :R (v91 / label~e.62)
+                                   :C (v92 / label~e.63)))))
+    :H (v4 / label
+           :A (v11 / label~e.79)
+           :P (v12 / label~e.66)
+           :A (v13 / label
+                   :A (v31 / label~e.67)
+                   :P (v32 / label~e.68)
+                   :T (v33 / label
+                           :R (v66 / label~e.69)
+                           :C (v67 / label~e.70)
+                           :C (v68 / label~e.71))
+                   :A (v34 / label
+                           :A v11
+                           :R (v69 / label~e.72)
+                           :P (v70 / label~e.73)
+                           :A (v71 / label
+                                   :R (v93 / label~e.74)
+                                   :A (v94 / label~e.75)
+                                   :S (v95 / label~e.77)))))
+    :H (v5 / label
+           :A v11
+           :P (v14 / label~e.80)
+           :A (v15 / label
+                   :H (v35 / label
+                           :S (v72 / label~e.84)
+                           :D (v73 / label~e.85)
+                           :A (v74 / label
+                                   :Q (v96 / label~e.86)
+                                   :C (v97 / label~e.87))
+                           :A (v75 / label
+                                   :R (v98 / label~e.88)
+                                   :C (v99 / label~e.89))
+                           :G (v76 / label~e.90))
+                   :H (v36 / label
+                           :A (v77 / label~e.92)
+                           :D (v78 / label~e.94,95)
+                           :D (v79 / label~e.96)
+                           :P (v80 / label~e.97)))))

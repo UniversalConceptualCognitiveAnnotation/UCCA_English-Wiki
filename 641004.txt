@@ -1,0 +1,70 @@
+# ::id 641004
+# ::tok He formally announced his break from music in Tokyo in 1977 , saying , " we have basically decided , without any great decision , to be with our baby as much as we can until we feel we can take time off to indulge ourselves in creating things outside of the family . "
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4.1 4-1.1.4.2 5-1.1.4.3.1 6-1.1.4.3.2 7-1.1.5.1 8-1.1.5.2 9-1.1.6.1 10-1.1.6.2 12-1.2.2 15-1.2.5.1.1 17-1.2.5.1.3 18-1.2.5.1.4 20-1.2.5.1.5.1 21-1.2.5.1.5.2 22-1.2.5.1.5.3 23-1.2.5.1.5.4 26-1.2.5.1.6.1.3 27-1.2.5.1.6.1.4.1 28-1.2.5.1.6.1.4.2 29-1.2.5.1.6.1.4.3 30-1.2.5.1.6.2 31-1.2.5.1.6.2 32-1.2.5.1.6.2 33-1.2.5.1.6.3.2 34-1.2.5.1.6.3.3 35-1.2.5.2 36-1.2.5.3.1 37-1.2.5.3.2 38-1.2.5.3.3.1 40-1.2.5.3.3.2.2 41-1.2.5.3.3.2.2 42-1.2.5.3.3.2.2 43-1.2.5.3.3.3.1 44-1.2.5.3.3.3.2.2 45-1.2.5.3.3.3.2.3 47-1.2.5.3.3.3.2.4.2.2 48-1.2.5.3.3.3.2.4.3 49-1.2.5.3.3.3.2.4.4.1 51-1.2.5.3.3.3.2.4.4.3 52-1.2.5.3.3.3.2.4.4.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label~e.0)
+           :D (v5 / label~e.1)
+           :P (v6 / label~e.2)
+           :A (v7 / label
+                  :A (v12 / label~e.3)
+                  :P (v13 / label~e.4)
+                  :A (v14 / label
+                          :R (v22 / label~e.5)
+                          :C (v23 / label~e.6)))
+           :A (v8 / label
+                  :R (v15 / label~e.7)
+                  :C (v16 / label~e.8))
+           :T (v9 / label
+                  :R (v17 / label~e.9)
+                  :C (v18 / label~e.10)))
+    :H (v3 / label
+           :A v4
+           :P (v10 / label~e.12)
+           :A (v11 / label
+                   :H (v19 / label
+                           :A (v24 / label~e.15)
+                           :D (v25 / label~e.17)
+                           :P (v26 / label~e.18)
+                           :A (v27 / label
+                                   :R (v32 / label~e.20)
+                                   :E (v33 / label~e.21)
+                                   :E (v34 / label~e.22)
+                                   :C (v35 / label~e.23))
+                           :A (v28 / label
+                                   :H (v36 / label
+                                           :A v24
+                                           :S (v42 / label~e.26)
+                                           :A (v43 / label
+                                                   :R (v49 / label~e.27)
+                                                   :E (v50 / label~e.28)
+                                                   :C (v51 / label~e.29)))
+                                   :L (v37 / label~e.30,31,32)
+                                   :H (v38 / label
+                                           :A v36
+                                           :A (v44 / label~e.33)
+                                           :P (v45 / label~e.34))))
+                   :L (v20 / label~e.35)
+                   :H (v21 / label
+                           :A (v29 / label~e.36)
+                           :P (v30 / label~e.37)
+                           :A (v31 / label
+                                   :A (v39 / label~e.38)
+                                   :P (v40 / label
+                                           :C (v46 / label~e.40,41,42))
+                                   :A (v41 / label
+                                           :R (v47 / label~e.43)
+                                           :C (v48 / label
+                                                   :A v39
+                                                   :P (v52 / label~e.44)
+                                                   :D (v53 / label~e.45)
+                                                   :A (v54 / label
+                                                           :A v39
+                                                           :P (v55 / label
+                                                                   :C (v58 / label~e.47))
+                                                           :A (v56 / label~e.48)
+                                                           :A (v57 / label
+                                                                   :R (v59 / label~e.49)
+                                                                   :E (v60 / label~e.51)
+                                                                   :C (v61 / label~e.52))))))))))

@@ -1,0 +1,70 @@
+# ::id 664011
+# ::tok Reviews for Butterfly were generally positive : Rolling Stone wrote , " It 's not as if Carey has totally dispensed with her old saccharine , Houston - style balladry [ ... ] but the predominant mood of ' Butterfly ' is one of coolly erotic reverie . [ ... Except " Outside " the album sounds ] very 1997 . [ ... ] Carey has spread her wings and she 's ready to fly . "
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 4-1.1.3 5-1.1.4 7-1.2.1 8-1.2.1 9-1.2.2 14-1.2.4.10.3 15-1.2.4.10.4 17-1.2.4.10.6 19-1.2.4.10.8 20-1.2.4.10.9 21-1.2.4.10.10.1 22-1.2.4.10.10.2 23-1.2.4.10.10.3 24-1.2.4.10.10.4 26-1.2.4.10.10.5.1 28-1.2.4.10.10.5.2 29-1.2.4.10.10.6 33-1.2.4.11 34-1.2.4.12.2.1 35-1.2.4.12.2.2 36-1.2.4.12.2.3 37-1.2.4.12.2.4.2 39-1.2.4.12.2.4.3 41-1.2.4.12.3 42-1.2.4.12.4.1.1 43-1.2.4.12.4.1.2 44-1.2.4.12.4.2.1 45-1.2.4.12.4.2.2 46-1.2.4.12.4.3 50-1.2.4.13.3.2 52-1.2.4.13.3.3 54-1.2.4.13.4.1 55-1.2.4.13.4.2 56-1.2.4.13.5 58-1.2.4.13.6.1 59-1.2.4.13.6.2 64-1.2.4.14.1 66-1.2.4.14.3 67-1.2.4.14.3 68-1.2.4.14.3 69-1.2.4.15 70-1.2.4.16.1 72-1.2.4.16.3 74-1.2.4.16.4.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :E (v10 / label~e.0)
+                  :R (v11 / label~e.1)
+                  :C (v12 / label~e.2))
+           :D (v5 / label~e.4)
+           :S (v6 / label~e.5))
+    :H (v3 / label
+           :A (v7 / label~e.7,8)
+           :P (v8 / label~e.9)
+           :A (v9 / label
+                  :H (v13 / label
+                          :D (v20 / label~e.14)
+                          :R (v21 / label~e.15)
+                          :A (v22 / label~e.17)
+                          :D (v23 / label~e.19)
+                          :P (v24 / label~e.20)
+                          :A (v25 / label
+                                  :R (v38 / label~e.21)
+                                  :E (v39 / label~e.22)
+                                  :E (v40 / label~e.23)
+                                  :E (v41 / label~e.24)
+                                  :E (v42 / label
+                                          :E (v58 / label~e.26)
+                                          :C (v59 / label~e.28))
+                                  :C (v43 / label~e.29)))
+                  :L (v14 / label~e.33)
+                  :H (v15 / label
+                          :A (v26 / label
+                                  :E (v44 / label~e.34)
+                                  :E (v45 / label~e.35)
+                                  :C (v46 / label~e.36)
+                                  :E (v47 / label
+                                          :R (v60 / label~e.37)
+                                          :C (v61 / label~e.39)))
+                          :S (v27 / label~e.41)
+                          :A (v28 / label
+                                  :E (v48 / label
+                                          :C (v62 / label~e.42)
+                                          :R (v63 / label~e.43))
+                                  :E (v49 / label
+                                          :E (v64 / label~e.44)
+                                          :C (v65 / label~e.45))
+                                  :C (v50 / label~e.46)))
+                  :H (v16 / label
+                          :A (v29 / label
+                                  :R (v51 / label~e.50)
+                                  :C (v52 / label~e.52))
+                          :A (v30 / label
+                                  :E (v53 / label~e.54)
+                                  :C (v54 / label~e.55))
+                          :S (v31 / label~e.56)
+                          :A (v32 / label
+                                  :E (v55 / label~e.58)
+                                  :C (v56 / label~e.59)))
+                  :H (v17 / label
+                          :A (v33 / label~e.64)
+                          :P (v34 / label~e.66,67,68))
+                  :L (v18 / label~e.69)
+                  :H (v19 / label
+                          :A (v35 / label~e.70)
+                          :S (v36 / label~e.72)
+                          :A (v37 / label
+                                  :A v35
+                                  :P (v57 / label~e.74))))))

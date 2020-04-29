@@ -1,0 +1,72 @@
+# ::id 617010
+# ::tok In addition to an interest in Apple Corps and MPL Communications , an umbrella company for his business interests , he owns a significant music publishing catalogue , with access to over 25,000 copyrights , including the publishing rights to the musicals Guys and Dolls , A Chorus Line , Annie and Grease .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.2.2.1 4-1.2.2.2 5-1.2.3.1 6-1.2.3.2.1 7-1.2.3.2.1 8-1.2.3.2.2 9-1.2.3.2.3.1 10-1.2.3.2.3.1 12-1.2.3.2.3.2.1 13-1.2.3.2.3.2.2 14-1.2.3.2.3.2.3 15-1.2.3.2.3.2.4.1 16-1.2.3.2.3.2.4.2 17-1.2.3.2.3.2.4.3 18-1.2.3.2.3.2.4.4 20-1.2.4 21-1.3.2 22-1.3.3.6 23-1.3.3.1.2 24-1.3.3.2.1 25-1.3.3.2.2 26-1.3.3.3 28-1.3.3.4.2.1 29-1.3.3.4.2.2 30-1.3.3.4.3.1 31-1.3.3.4.3.2.1 32-1.3.3.4.3.2.2 33-1.3.3.4.3.3 35-1.3.3.4.3.4.2 37-1.3.3.4.3.4.3.2.1 38-1.3.3.4.3.4.3.3 39-1.3.3.4.3.4.3.4.1 40-1.3.3.4.3.4.3.4.2.1 41-1.3.3.4.3.4.3.4.2.2 42-1.3.3.4.3.4.3.4.3.1 43-1.3.3.4.3.4.3.4.3.1 44-1.3.3.4.3.4.3.4.3.1 46-1.3.3.4.3.4.3.4.3.2 47-1.3.3.4.3.4.3.4.3.2 48-1.3.3.4.3.4.3.4.3.2 50-1.3.3.4.3.4.3.4.3.3 51-1.3.3.4.3.4.3.4.3.4 52-1.3.3.4.3.4.3.4.3.5
+# ::format ucca
+(v1 / label
+    :L (v2 / label
+           :R (v5 / label~e.0)
+           :C (v6 / label~e.1)
+           :R (v7 / label~e.2))
+    :H (v3 / label
+           :A (v8 / label)
+           :S (v9 / label
+                  :E (v14 / label~e.3)
+                  :C (v15 / label~e.4))
+           :A (v10 / label
+                   :R (v16 / label~e.5)
+                   :C (v17 / label
+                           :C (v23 / label~e.6,7)
+                           :N (v24 / label~e.8)
+                           :C (v25 / label
+                                   :C (v31 / label~e.9,10)
+                                   :E (v32 / label
+                                           :E (v39 / label~e.12)
+                                           :E (v40 / label~e.13)
+                                           :C (v41 / label~e.14)
+                                           :E (v42 / label
+                                                   :R (v47 / label~e.15)
+                                                   :A (v48 / label~e.16)
+                                                   :A (v49 / label~e.17)
+                                                   :S (v50 / label~e.18))))))
+           :A (v11 / label~e.20))
+    :H (v4 / label
+           :A v11
+           :S (v12 / label~e.21)
+           :A (v13 / label
+                   :E (v18 / label
+                           :A (v20 / label~e.26)
+                           :S (v26 / label~e.23))
+                   :E (v19 / label
+                           :A (v27 / label~e.24)
+                           :P (v28 / label~e.25))
+                   :C v20
+                   :E (v21 / label
+                           :A v20
+                           :S (v29 / label
+                                   :R (v33 / label~e.28)
+                                   :C (v34 / label~e.29))
+                           :A (v30 / label
+                                   :R (v35 / label~e.30)
+                                   :Q (v36 / label
+                                           :R (v43 / label~e.31)
+                                           :C (v44 / label~e.32))
+                                   :C (v37 / label~e.33)
+                                   :E (v38 / label
+                                           :A v37
+                                           :S (v45 / label~e.35)
+                                           :A (v46 / label
+                                                   :A (v51 / label
+                                                           :P (v54 / label~e.37))
+                                                   :S (v52 / label~e.38)
+                                                   :A (v53 / label
+                                                           :R (v55 / label~e.39)
+                                                           :E (v56 / label
+                                                                   :E (v58 / label~e.40)
+                                                                   :C (v59 / label~e.41))
+                                                           :C (v57 / label
+                                                                   :C (v60 / label~e.42,43,44)
+                                                                   :C (v61 / label~e.46,47,48)
+                                                                   :C (v62 / label~e.50)
+                                                                   :N (v63 / label~e.51)
+                                                                   :C (v64 / label~e.52)))))))
+                   :E (v22 / label~e.22))))

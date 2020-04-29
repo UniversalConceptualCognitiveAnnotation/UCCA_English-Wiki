@@ -1,0 +1,69 @@
+# ::id 602005
+# ::tok According to Gould , the song is " a neoclassical tour de force ... a true hybrid , conforming to no recognizable style or genre of song " . With the exception of some backing vocals , the song included only McCartney 's lead vocal and the strings arranged by producer George Martin .
+# ::alignments 0-1.1.1 1-1.1.2.1 2-1.1.2.2 4-1.1.3.1.1.1 5-1.1.3.2.3 8-1.1.3.1.3.1 9-1.1.3.1.4 10-1.1.3.1.3.2 11-1.1.3.1.3.2 12-1.1.3.1.3.2 14-1.1.3.2.1.1 15-1.1.3.2.2 16-1.1.3.2.1.2 18-1.1.3.3.1 20-1.1.3.3.3 21-1.1.3.3.4.1.2 22-1.1.3.3.4.2.1 23-1.1.3.3.4.2.2 24-1.1.3.3.4.2.3 25-1.1.3.3.4.3.1 26-1.1.3.3.4.3.2 29-1.2.3.1 30-1.2.3.1 31-1.2.3.1 32-1.2.3.1 33-1.2.3.2 34-1.2.3.3 35-1.2.3.4 37-1.2.5.1 38-1.2.5.2 39-1.2.6 40-1.2.1 41-1.2.2.1.1.1 42-1.2.2.1.1.2 43-1.2.2.1.2 44-1.2.2.1.3 45-1.2.2.2 46-1.2.2.3.1 47-1.2.2.3.2 48-1.2.2.3.3.2 49-1.2.2.3.3.3.1 50-1.2.2.3.3.3.2 51-1.2.2.3.3.3.3 52-1.2.2.3.3.3.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v4 / label~e.0)
+           :A (v5 / label
+                  :R (v12 / label~e.1)
+                  :C (v13 / label~e.2))
+           :A (v6 / label
+                  :H (v14 / label
+                          :A (v26 / label
+                                  :E (v41 / label~e.4)
+                                  :C (v31 / label~e.5))
+                          :S (v27 / label
+                                  :E (v42 / label~e.8)
+                                  :C (v43 / label~e.10,11,12))
+                          :D (v28 / label~e.9))
+                  :H (v15 / label
+                          :S (v29 / label
+                                  :E (v44 / label~e.14)
+                                  :C (v45 / label~e.16))
+                          :D (v30 / label~e.15)
+                          :A v31)
+                  :H (v16 / label
+                          :S (v32 / label~e.18)
+                          :D (v33 / label~e.20)
+                          :A (v34 / label
+                                  :E (v46 / label
+                                          :A (v47 / label
+                                                  :C (v54 / label~e.22)
+                                                  :N (v55 / label~e.23)
+                                                  :C (v56 / label~e.24))
+                                          :S (v53 / label~e.21))
+                                  :C v47
+                                  :E (v48 / label
+                                          :R (v57 / label~e.25)
+                                          :C (v58 / label~e.26)))
+                          :A v31)))
+    :H (v3 / label
+           :D (v7 / label~e.40)
+           :A (v8 / label
+                  :C (v17 / label
+                          :E (v35 / label
+                                  :C (v49 / label~e.41)
+                                  :R (v50 / label~e.42))
+                          :E (v36 / label~e.43)
+                          :C (v37 / label~e.44))
+                  :N (v18 / label~e.45)
+                  :C (v19 / label
+                          :E (v38 / label~e.46)
+                          :C (v39 / label~e.47)
+                          :E (v40 / label
+                                  :A v39
+                                  :S (v51 / label~e.48)
+                                  :A (v52 / label
+                                          :R (v59 / label~e.49)
+                                          :P (v60 / label~e.50)
+                                          :A (v61 / label~e.51,52)))))
+           :A (v9 / label
+                  :R (v20 / label~e.29,30,31,32)
+                  :Q (v21 / label~e.33)
+                  :E (v22 / label~e.34)
+                  :C (v23 / label~e.35))
+           :A (v10 / label
+                   :E (v24 / label~e.37)
+                   :C (v25 / label~e.38))
+           :P (v11 / label~e.39)))

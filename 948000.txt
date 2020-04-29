@@ -1,0 +1,22 @@
+# ::id 948000
+# ::tok Soon after Stefani joined No Doubt , she and bandmate Tony Kanal began dating .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.2.1 3-1.2.2 4-1.2.3 5-1.2.3 7-1.3.2.1 8-1.3.2.2 9-1.3.2.3.1.1 10-1.3.2.3.2 11-1.3.2.3.2 12-1.3.3 13-1.3.4
+# ::format ucca
+(v1 / label
+    :L (v2 / label
+           :E (v5 / label~e.0)
+           :C (v6 / label~e.1))
+    :H (v3 / label
+           :A (v7 / label~e.2)
+           :P (v8 / label~e.3)
+           :A (v9 / label~e.4,5))
+    :H (v4 / label
+           :A (v10 / label
+                   :C (v13 / label~e.7)
+                   :N (v14 / label~e.8)
+                   :C (v15 / label
+                           :E (v16 / label
+                                   :S (v18 / label~e.9))
+                           :C (v17 / label~e.10,11)))
+           :D (v11 / label~e.12)
+           :P (v12 / label~e.13)))

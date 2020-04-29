@@ -1,0 +1,57 @@
+# ::id 699000
+# ::tok During his 1966 tour , Dylan was frequently described as exhausted and acting " as if on a death trip " . D . A . Pennebaker , the film maker accompanying the tour , described Dylan as " taking a lot of amphetamine and who - knows - what - else . "
+# ::alignments 0-1.1 1-1.2.1 2-1.2.2 3-1.2.3 5-1.3.1 7-1.3.3 8-1.3.4 9-1.3.5.1 10-1.3.5.2.2 11-1.3.5.3 12-1.3.5.4.2 14-1.3.5.5 15-1.3.5.5 16-1.3.5.6.2.1 18-1.3.5.6.2.3 19-1.3.5.6.2.3 22-1.4.1.1 24-1.4.1.1 26-1.4.1.1 29-1.4.1.2.1.2.1 30-1.4.1.2.1.2.2 31-1.4.1.2.2.1 32-1.4.1.2.2.2.1.1 33-1.4.1.2.2.2.1.2 35-1.4.2 36-1.4.3.1 37-1.4.3.2.1 39-1.4.3.2.2 40-1.4.3.3.1.1 41-1.4.3.3.1.1 42-1.4.3.3.1.2 43-1.4.3.3.1.3 44-1.4.3.3.2 45-1.4.3.3.3 47-1.4.3.3.3 49-1.4.3.3.3 51-1.4.3.3.3
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v6 / label~e.1)
+           :T (v7 / label~e.2)
+           :P (v8 / label~e.3))
+    :H (v4 / label
+           :A (v9 / label~e.5)
+           :T (v10 / label~e.7)
+           :P (v11 / label~e.8)
+           :A (v12 / label
+                   :R (v16 / label~e.9)
+                   :H (v17 / label
+                           :A v9
+                           :S (v27 / label~e.10))
+                   :L (v18 / label~e.11)
+                   :H (v19 / label
+                           :A v9
+                           :P (v28 / label~e.12))
+                   :L (v20 / label~e.14,15)
+                   :H (v21 / label
+                           :A v9
+                           :P (v29 / label
+                                   :R (v37 / label~e.16)
+                                   :C (v38 / label~e.18,19)))))
+    :H (v5 / label
+           :A (v13 / label
+                   :C (v22 / label~e.22,24,26)
+                   :E (v23 / label
+                           :C (v30 / label
+                                   :P (v39 / label
+                                           :E (v45 / label~e.29)
+                                           :C (v46 / label~e.30)))
+                           :E (v31 / label
+                                   :P (v40 / label~e.31)
+                                   :A (v41 / label
+                                           :P (v47 / label
+                                                   :E (v48 / label~e.32)
+                                                   :C (v49 / label~e.33)))
+                                   :A v39)))
+           :P (v14 / label~e.35)
+           :A (v15 / label
+                   :A (v24 / label~e.36)
+                   :P (v25 / label
+                           :R (v32 / label~e.37)
+                           :C (v33 / label~e.39))
+                   :A (v26 / label
+                           :C (v34 / label
+                                   :Q (v42 / label~e.40,41)
+                                   :R (v43 / label~e.42)
+                                   :C (v44 / label~e.43))
+                           :N (v35 / label~e.44)
+                           :C (v36 / label~e.45,47,49,51)))))

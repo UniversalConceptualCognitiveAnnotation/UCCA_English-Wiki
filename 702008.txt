@@ -1,0 +1,51 @@
+# ::id 702008
+# ::tok In January 1974 , Dylan returned to live touring after a break of seven years ; backed by The Band , he embarked on a high - profile , coast - to - coast North American tour , playing 40 concerts .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 4-1.1.2 5-1.1.3 6-1.1.4.1 7-1.1.5 8-1.1.4.2 9-1.2 10-1.3.1.1 11-1.3.1.2 12-1.3.2.1 13-1.3.2.2 14-1.3.2.3 16-1.4.1 17-1.4.2.1 18-1.4.2.2 19-1.4.2.2 21-1.5.1 22-1.5.2 23-1.5.3.1 25-1.5.3.3.1 27-1.5.3.3.2 29-1.5.3.4 31-1.5.3.4 33-1.5.3.4 34-1.5.3.5.1 35-1.5.3.5.2 36-1.5.3.6 38-1.6.1 39-1.6.2.1 40-1.6.2.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v8 / label
+                  :R (v22 / label~e.0)
+                  :C (v23 / label~e.1)
+                  :C (v24 / label~e.2))
+           :A (v9 / label~e.4)
+           :D (v10 / label~e.5)
+           :P (v11 / label
+                   :R (v25 / label~e.6)
+                   :C (v26 / label~e.8))
+           :D (v12 / label~e.7))
+    :L (v3 / label~e.9)
+    :H (v4 / label
+           :S (v13 / label
+                   :E (v27 / label~e.10)
+                   :C (v28 / label~e.11))
+           :T (v14 / label
+                   :R (v29 / label~e.12)
+                   :Q (v30 / label~e.13)
+                   :C (v31 / label~e.14))
+           :A v9)
+    :H (v5 / label
+           :S (v15 / label~e.16)
+           :A (v16 / label
+                   :R (v32 / label~e.17)
+                   :C (v33 / label~e.18,19))
+           :A v9)
+    :H (v6 / label
+           :A (v17 / label~e.21)
+           :P (v18 / label~e.22)
+           :A (v19 / label
+                   :R (v34 / label~e.23)
+                   :D (v35 / label
+                           :E (v41 / label~e.25)
+                           :C (v42 / label~e.27))
+                   :A (v36 / label~e.29,31,33)
+                   :A (v37 / label
+                           :E (v43 / label~e.34)
+                           :C (v44 / label~e.35))
+                   :P (v38 / label~e.36)))
+    :H (v7 / label
+           :P (v20 / label~e.38)
+           :A (v21 / label
+                   :Q (v39 / label~e.39)
+                   :C (v40 / label~e.40))
+           :A v17))

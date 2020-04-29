@@ -1,0 +1,34 @@
+# ::id 942008
+# ::tok and expanded her collection with the 2005 Harajuku Lovers line , drawing inspiration from Japanese culture and fashion .
+# ::alignments 0-1.1 1-1.2.2 2-1.2.3.1.2 3-1.2.3.2 4-1.2.4.1 5-1.2.4.2 6-1.2.4.3.3 7-1.2.4.4 8-1.2.4.4 9-1.2.4.5 11-1.3.3 12-1.3.4 13-1.3.1.1 14-1.3.1.2 15-1.3.1.3.1 16-1.3.1.3.2 17-1.3.1.3.3
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v5 / label)
+           :P (v6 / label~e.1)
+           :A (v7 / label
+                  :E (v13 / label
+                          :A (v14 / label~e.3)
+                          :S (v23 / label~e.2))
+                  :C v14)
+           :A (v8 / label
+                  :R (v15 / label~e.4)
+                  :E (v16 / label~e.5)
+                  :E (v17 / label
+                          :A (v18 / label~e.7,8)
+                          :P (v24 / label)
+                          :T (v25 / label~e.6))
+                  :C v18
+                  :E (v19 / label~e.9)))
+    :H (v4 / label
+           :A (v9 / label
+                  :R (v20 / label~e.13)
+                  :E (v21 / label~e.14)
+                  :C (v22 / label
+                          :C (v26 / label~e.15)
+                          :N (v27 / label~e.16)
+                          :C (v28 / label~e.17)))
+           :A (v10 / label)
+           :D (v11 / label~e.11)
+           :P (v12 / label~e.12)))

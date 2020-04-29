@@ -1,0 +1,41 @@
+# ::id 669005
+# ::tok In an attempt to " relaunch " her career following the poor reception to Glitter , as well as her breakdown , Carey announced a world tour in April 2003 .
+# ::alignments 0-1.1.2.1 1-1.1.2.2 2-1.1.2.3 5-1.1.3.2 7-1.1.3.3.1 8-1.1.3.3.2 9-1.2 10-1.3.1.1 11-1.3.1.2 12-1.3.1.3 13-1.3.2.1 14-1.3.2.2 16-1.4 17-1.4 18-1.4 19-1.5.1 20-1.5.2 22-1.1.1 23-1.6.2 24-1.6.3.2.1 25-1.6.3.2.2 26-1.6.3.2.3 27-1.6.3.3.1 28-1.6.3.3.2 29-1.6.3.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v8 / label~e.22)
+           :P (v9 / label
+                  :R (v17 / label~e.0)
+                  :E (v18 / label~e.1)
+                  :C (v19 / label~e.2))
+           :A (v10 / label
+                   :P (v20 / label~e.5)
+                   :A (v21 / label
+                           :E (v30 / label~e.7)
+                           :C (v31 / label~e.8))))
+    :L (v3 / label~e.9)
+    :H (v4 / label
+           :S (v11 / label
+                   :E (v22 / label~e.10)
+                   :E (v23 / label~e.11)
+                   :C (v24 / label~e.12))
+           :A (v12 / label
+                   :R (v25 / label~e.13)
+                   :C (v26 / label~e.14)))
+    :L (v5 / label~e.16,17,18)
+    :H (v6 / label
+           :A (v13 / label~e.19)
+           :P (v14 / label~e.20))
+    :H (v7 / label
+           :A v8
+           :P (v15 / label~e.23)
+           :A (v16 / label
+                   :P (v27 / label)
+                   :A (v28 / label
+                           :E (v32 / label~e.24)
+                           :E (v33 / label~e.25)
+                           :C (v34 / label~e.26))
+                   :D (v29 / label
+                           :R (v35 / label~e.27)
+                           :C (v36 / label~e.28,29)))))

@@ -1,0 +1,67 @@
+# ::id 708010
+# ::tok Dylan co - founded the band with George Harrison , Jeff Lynne , Roy Orbison , and Tom Petty , and in late 1988 their multi - platinum Traveling Wilburys Vol . 1 reached number three on the US album chart , featuring songs that were described as Dylan 's most accessible compositions in years .
+# ::alignments 0-1.1.1 1-1.1.2 3-1.1.3 4-1.1.4.1.1 5-1.1.4.1.2 6-1.1.5.1 7-1.1.5.2.1 8-1.1.5.2.1 10-1.1.5.2.2 11-1.1.5.2.2 13-1.1.5.2.3 14-1.1.5.2.3 16-1.1.5.2.4 17-1.1.5.2.5 18-1.1.5.2.5 20-1.2 21-1.3.1.1 22-1.3.1.2 23-1.3.1.3 24-1.3.2.1.2 25-1.3.2.2.3 27-1.3.2.2.3 28-1.4.2 29-1.4.2 30-1.4.2 32-1.4.2 33-1.3.3 34-1.3.4.1 35-1.3.4.2 36-1.3.5.1 37-1.3.5.2 38-1.3.5.3 39-1.3.5.4 40-1.3.5.5 42-1.4.3 43-1.4.1.1 44-1.4.1.2.3 46-1.4.1.2.5 47-1.4.1.2.6.1 48-1.4.1.2.6.2.1 49-1.4.1.2.6.2.2 50-1.4.1.2.6.3 51-1.4.1.2.6.4 52-1.4.1.2.6.5 53-1.4.1.2.6.6.1 54-1.4.1.2.6.6.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label~e.0)
+           :D (v7 / label~e.1)
+           :P (v8 / label~e.3)
+           :A (v9 / label
+                  :S (v19 / label
+                          :E (v36 / label~e.4)
+                          :C (v37 / label~e.5)))
+           :A (v10 / label
+                   :R (v20 / label~e.6)
+                   :C (v21 / label
+                           :C (v38 / label~e.7,8)
+                           :C (v39 / label~e.10,11)
+                           :C (v40 / label~e.13,14)
+                           :N (v41 / label~e.16)
+                           :C (v42 / label~e.17,18))))
+    :L (v3 / label~e.20)
+    :H (v4 / label
+           :T (v11 / label
+                   :R (v22 / label~e.21)
+                   :E (v23 / label~e.22)
+                   :C (v24 / label~e.23))
+           :A (v12 / label
+                   :E (v25 / label
+                           :A (v17 / label~e.28,29,30,32)
+                           :S (v43 / label~e.24))
+                   :E (v26 / label
+                           :A v17
+                           :S (v44 / label)
+                           :A (v45 / label~e.25,27))
+                   :C v17)
+           :S (v13 / label~e.33)
+           :A (v14 / label
+                   :C (v27 / label~e.34)
+                   :Q (v28 / label~e.35))
+           :A (v15 / label
+                   :R (v29 / label~e.36)
+                   :E (v30 / label~e.37)
+                   :E (v31 / label~e.38)
+                   :E (v32 / label~e.39)
+                   :C (v33 / label~e.40)))
+    :H (v5 / label
+           :A (v16 / label
+                   :C (v34 / label~e.43)
+                   :E (v35 / label
+                           :A v34
+                           :A (v46 / label)
+                           :R (v47 / label~e.44)
+                           :P (v48 / label~e.46)
+                           :A (v49 / label
+                                   :R (v50 / label~e.47)
+                                   :A (v51 / label
+                                           :C (v56 / label~e.48)
+                                           :R (v57 / label~e.49))
+                                   :D (v52 / label~e.50)
+                                   :S (v53 / label~e.51)
+                                   :A (v54 / label~e.52)
+                                   :T (v55 / label
+                                           :R (v58 / label~e.53)
+                                           :C (v59 / label~e.54)))))
+           :A v17
+           :S (v18 / label~e.42)))

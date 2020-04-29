@@ -1,0 +1,16 @@
+# ::id 618012
+# ::tok He remains there as of 2012 's Kisses on the Bottom .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4.3 4-1.1.4.3 5-1.1.4.4.2 6-1.1.4.4.3 7-1.1.4.1 8-1.1.4.1 9-1.1.4.1 10-1.1.4.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :P (v4 / label~e.1)
+           :A (v5 / label~e.2)
+           :A (v6 / label
+                  :C (v7 / label~e.7,8,9,10)
+                  :R (v8 / label~e.3,4)
+                  :E (v9 / label
+                         :A v7
+                         :T (v10 / label~e.5)
+                         :S (v11 / label~e.6)))))

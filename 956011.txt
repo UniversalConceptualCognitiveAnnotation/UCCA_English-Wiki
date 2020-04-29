@@ -1,0 +1,18 @@
+# ::id 956011
+# ::tok Holman was granted custody of Suzanne , his daughter with Leigh .
+# ::alignments 0-1.1.1 2-1.1.3 3-1.1.4 4-1.1.5.4 5-1.1.5.1 7-1.1.5.2.1 8-1.1.5.2.2 9-1.1.5.2.3.1 10-1.1.5.2.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :D (v4 / label~e.2)
+           :P (v5 / label~e.3)
+           :A (v6 / label
+                  :C (v7 / label~e.5)
+                  :E (v8 / label
+                         :A (v10 / label~e.7)
+                         :A (v11 / label~e.8)
+                         :A (v12 / label
+                                 :R (v13 / label~e.9)
+                                 :C (v14 / label~e.10)))
+                  :R (v9 / label~e.4))))

@@ -1,0 +1,67 @@
+# ::id 711012
+# ::tok He also devoted chapters to the albums New Morning ( 1970 ) and Oh Mercy ( 1989 ) . The book reached number two on The New York Times ' Hardcover Non - Fiction best seller list in December 2004 and was nominated for a National Book Award .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 3-1.1.4 4-1.1.5.1 5-1.1.5.2.1 6-1.1.5.2.2 7-1.1.5.3.1.1 8-1.1.5.3.1.1 10-1.1.5.3.1.2.3 12-1.1.5.3.2 13-1.1.5.3.3.1 14-1.1.5.3.3.1 16-1.1.5.3.3.2.3 19-1.2.1.1 20-1.4.3 21-1.2.2 22-1.2.3.1 23-1.2.3.2 24-1.2.4.1 25-1.2.4.2 26-1.2.4.3.3 27-1.2.4.3.3 28-1.2.4.3.3 30-1.2.4.4.1 31-1.2.4.4.2.1 33-1.2.4.4.2.2 34-1.2.4.4.3.1 35-1.2.4.4.3.2 36-1.2.4.5 37-1.2.5.1 38-1.2.5.2 39-1.2.5.3 40-1.3 42-1.4.1 43-1.4.2.1 44-1.4.2.2 45-1.4.2.3 46-1.4.2.3 47-1.4.2.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v6 / label~e.0)
+           :D (v7 / label~e.1)
+           :P (v8 / label~e.2)
+           :A (v9 / label~e.3)
+           :A (v10 / label
+                   :R (v19 / label~e.4)
+                   :E (v20 / label
+                           :E (v36 / label~e.5)
+                           :C (v37 / label~e.6))
+                   :C (v21 / label
+                           :C (v38 / label
+                                   :C (v46 / label~e.7,8)
+                                   :E (v47 / label
+                                           :A v46
+                                           :P (v54 / label)
+                                           :T (v55 / label~e.10)))
+                           :N (v39 / label~e.12)
+                           :C (v40 / label
+                                   :C (v48 / label~e.13,14)
+                                   :E (v49 / label
+                                           :A v48
+                                           :P (v56 / label)
+                                           :T (v57 / label~e.16))))))
+    :H (v3 / label
+           :A (v11 / label
+                   :E (v22 / label~e.19)
+                   :C (v18 / label~e.20))
+           :P (v12 / label~e.21)
+           :A (v13 / label
+                   :C (v23 / label~e.22)
+                   :Q (v24 / label~e.23))
+           :A (v14 / label
+                   :R (v25 / label~e.24)
+                   :E (v26 / label~e.25)
+                   :E (v27 / label
+                           :A (v29 / label~e.36)
+                           :S (v41 / label)
+                           :A (v42 / label~e.26,27,28))
+                   :E (v28 / label
+                           :E (v43 / label~e.30)
+                           :E (v44 / label
+                                   :E (v50 / label~e.31)
+                                   :C (v51 / label~e.33))
+                           :E (v45 / label
+                                   :D (v52 / label~e.34)
+                                   :P (v53 / label~e.35)
+                                   :A v18)
+                           :C v18)
+                   :C v29)
+           :T (v15 / label
+                   :R (v30 / label~e.37)
+                   :C (v31 / label~e.38)
+                   :C (v32 / label~e.39)))
+    :L (v4 / label~e.40)
+    :H (v5 / label
+           :P (v16 / label~e.42)
+           :A (v17 / label
+                   :R (v33 / label~e.43)
+                   :E (v34 / label~e.44)
+                   :C (v35 / label~e.45,46,47))
+           :A v18))

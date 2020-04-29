@@ -1,0 +1,33 @@
+# ::id 657005
+# ::tok This musical change became evident with the release of Butterfly ( 1997 ) , at which time Carey had separated from Mottola .
+# ::alignments 0-1.1.1.1 1-1.1.1.2.1 2-1.1.1.2.2 3-1.1.2 4-1.1.3 5-1.2 7-1.3.2 8-1.3.3.1 9-1.3.3.2 11-1.3.3.3.3 14-1.4.1 15-1.4.2 16-1.4.3 17-1.5.1 19-1.5.3 20-1.5.4.1 21-1.5.4.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label
+                  :E (v18 / label~e.0)
+                  :C (v19 / label
+                          :A (v25 / label~e.1)
+                          :P (v26 / label~e.2)))
+           :D (v8 / label~e.3)
+           :S (v9 / label~e.4))
+    :L (v3 / label~e.5)
+    :H (v4 / label
+           :P (v10 / label~e.7)
+           :A (v11 / label
+                   :R (v20 / label~e.8)
+                   :C (v21 / label~e.9)
+                   :E (v22 / label
+                           :A v21
+                           :P (v27 / label)
+                           :T (v28 / label~e.11))))
+    :L (v5 / label
+           :R (v12 / label~e.14)
+           :R (v13 / label~e.15)
+           :C (v14 / label~e.16))
+    :H (v6 / label
+           :A (v15 / label~e.17)
+           :P (v16 / label~e.19)
+           :A (v17 / label
+                   :R (v23 / label~e.20)
+                   :C (v24 / label~e.21))))

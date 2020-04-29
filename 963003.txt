@@ -1,0 +1,68 @@
+# ::id 963003
+# ::tok In the United States , she became the first actress honoured by " The Friends of the Libraries at the University of Southern California " . The ceremony was conducted as a memorial service , with selections from her films shown and tributes provided by such associates as George Cukor .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 3-1.1.1.3 5-1.1.2 6-1.1.3 8-1.1.4.2 9-1.1.4.3.1 10-1.1.4.4.2 11-1.1.4.4.3.1 13-1.1.4.4.3.2 14-1.1.4.4.3.3 15-1.1.4.4.3.4.1 16-1.1.4.4.3.4.2 17-1.1.4.4.3.4.3 18-1.1.4.4.3.5.1 19-1.1.4.4.3.5.2 20-1.1.4.4.3.5.3 21-1.1.4.4.3.5.4.1 22-1.1.4.4.3.5.4.2 23-1.1.4.4.3.5.4.3 26-1.2.1.1.1 27-1.2.1.1.2 29-1.2.3 30-1.2.4.1 32-1.2.4.3 33-1.2.4.4 35-1.3 36-1.4.2.1 37-1.4.2.2 38-1.4.2.4.2 39-1.4.2.3 40-1.4.3 41-1.5 42-1.6.1 43-1.6.2 44-1.6.3.1 45-1.6.3.2 46-1.6.3.3.1 47-1.6.3.4.1 48-1.6.3.4.2 49-1.6.3.4.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v8 / label
+                  :R (v21 / label~e.0)
+                  :E (v22 / label~e.1)
+                  :C (v23 / label~e.2,3))
+           :A (v9 / label~e.5)
+           :S (v10 / label~e.6)
+           :A (v11 / label
+                   :Q (v24 / label~e.8)
+                   :C (v25 / label
+                           :A (v39 / label~e.9))
+                   :E (v26 / label
+                           :A v25
+                           :P (v40 / label~e.10)
+                           :A (v41 / label
+                                   :R (v48 / label~e.11)
+                                   :E (v49 / label~e.13)
+                                   :C (v50 / label~e.14)
+                                   :E (v51 / label
+                                           :R (v53 / label~e.15)
+                                           :E (v54 / label~e.16)
+                                           :C (v55 / label~e.17))
+                                   :E (v52 / label
+                                           :R (v56 / label~e.18)
+                                           :E (v57 / label~e.19)
+                                           :C (v58 / label~e.20)
+                                           :E (v59 / label
+                                                   :R (v60 / label~e.21)
+                                                   :E (v61 / label~e.22)
+                                                   :C (v62 / label~e.23)))))))
+    :H (v3 / label
+           :A (v12 / label
+                   :P (v27 / label
+                           :E (v42 / label~e.26)
+                           :C (v43 / label~e.27)))
+           :P (v13 / label~e.29)
+           :A (v14 / label
+                   :R (v28 / label~e.30)
+                   :A (v29 / label~e.32)
+                   :P (v30 / label~e.33)))
+    :L (v4 / label~e.35)
+    :H (v5 / label
+           :A (v15 / label)
+           :A (v16 / label
+                   :Q (v31 / label~e.36)
+                   :R (v32 / label~e.37)
+                   :C (v33 / label~e.39)
+                   :E (v34 / label
+                           :A v33
+                           :A (v44 / label~e.38)))
+           :P (v17 / label~e.40))
+    :L (v6 / label~e.41)
+    :H (v7 / label
+           :A (v18 / label~e.42)
+           :P (v19 / label~e.43)
+           :A (v20 / label
+                   :R (v35 / label~e.44)
+                   :E (v36 / label~e.45)
+                   :C (v37 / label
+                           :A (v45 / label~e.46))
+                   :E (v38 / label
+                           :R (v46 / label~e.47)
+                           :C (v47 / label~e.48,49)))))

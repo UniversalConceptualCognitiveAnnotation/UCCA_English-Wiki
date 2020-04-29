@@ -1,0 +1,26 @@
+# ::id 674003
+# ::tok Dupri stated that a single would be released alongside the album before the year 's end .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.5 3-1.1.3.6.1 4-1.1.3.6.2 5-1.1.3.7 7-1.1.3.2 8-1.1.3.3.1 9-1.1.3.3.2 10-1.1.3.3.3 11-1.1.3.4.1 12-1.1.3.4.2 13-1.1.3.4.3.1 14-1.1.3.4.3.2 15-1.1.3.4.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label~e.0)
+           :P (v4 / label~e.1)
+           :A (v5 / label
+                  :P (v6 / label~e.7)
+                  :A (v7 / label
+                         :R (v12 / label~e.8)
+                         :E (v13 / label~e.9)
+                         :C (v14 / label~e.10))
+                  :T (v8 / label
+                         :R (v15 / label~e.11)
+                         :E (v16 / label~e.12)
+                         :E (v17 / label
+                                 :C (v21 / label~e.13)
+                                 :R (v22 / label~e.14))
+                         :C (v18 / label~e.15))
+                  :R (v9 / label~e.2)
+                  :A (v10 / label
+                          :E (v19 / label~e.3)
+                          :C (v20 / label~e.4))
+                  :D (v11 / label~e.5))))

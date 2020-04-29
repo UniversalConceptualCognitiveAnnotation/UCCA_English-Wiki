@@ -1,0 +1,86 @@
+# ::id 964007
+# ::tok He was one of several critics to react negatively to her reinterpretation of Lady Macbeth in 1955 , saying that her performance was insubstantial and lacked the necessary fury demanded of the role ; however , after her death he revised his opinion , describing his earlier criticism as " one of the worst errors of judgment " he had ever made .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3.1.1 3-1.1.3.1.2.2 4-1.1.3.1.2.3 5-1.1.3.2.1 7-1.1.3.3.2 8-1.1.3.3.3 9-1.1.3.3.4.1 10-1.1.3.3.4.2 11-1.1.3.3.4.3 12-1.1.3.3.4.4.1 13-1.1.3.3.4.4.2 14-1.1.3.3.4.4.2 15-1.1.3.3.4.5.1 16-1.1.3.3.4.5.2 18-1.2.1 19-1.2.2.1 20-1.2.2.2.1 21-1.2.2.2.2 23-1.2.2.2.4 24-1.2.2.3 25-1.2.2.4.1 27-1.2.2.4.2.2.1 28-1.2.2.4.2.2.2 29-1.2.2.4.2.3.1 30-1.2.2.4.2.3.2.1 31-1.2.2.4.2.3.2.2 32-1.2.2.4.2.3.2.3 34-1.3 36-1.4 37-1.5.1 38-1.5.2 39-1.6.1 40-1.6.2 41-1.6.3.1 42-1.6.3.2 44-1.7.1 45-1.7.2.1 46-1.7.2.2 47-1.7.2.3 48-1.7.3.1 50-1.7.3.2 51-1.7.3.3.1 53-1.7.3.5 54-1.7.3.3.2 55-1.7.3.6.1 56-1.7.3.6.2 58-1.7.3.7 60-1.7.3.9 61-1.7.3.10
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v9 / label~e.0)
+           :S (v10 / label~e.1)
+           :A (v11 / label
+                   :Q (v22 / label
+                           :C (v42 / label~e.2)
+                           :E (v43 / label
+                                   :C (v23 / label
+                                           :A (v44 / label~e.5))
+                                   :R (v57 / label~e.3)
+                                   :Q (v58 / label~e.4)))
+                   :C v23
+                   :E (v24 / label
+                           :P (v45 / label~e.7)
+                           :D (v46 / label~e.8)
+                           :A (v47 / label
+                                   :R (v59 / label~e.9)
+                                   :A (v60 / label~e.10)
+                                   :P (v61 / label~e.11)
+                                   :A (v62 / label
+                                           :R (v66 / label~e.12)
+                                           :C (v67 / label~e.13,14))
+                                   :T (v63 / label
+                                           :R (v68 / label~e.15)
+                                           :C (v69 / label~e.16)))
+                           :A v44)))
+    :H (v3 / label
+           :P (v12 / label~e.18)
+           :A (v13 / label
+                   :R (v25 / label~e.19)
+                   :H (v26 / label
+                           :A (v48 / label~e.20)
+                           :P (v49 / label~e.21)
+                           :D (v50 / label~e.23))
+                   :L (v27 / label~e.24)
+                   :H (v28 / label
+                           :S (v51 / label~e.25)
+                           :A (v52 / label
+                                   :C (v64 / label
+                                           :D (v70 / label~e.27)
+                                           :S (v71 / label~e.28))
+                                   :E (v65 / label
+                                           :S (v72 / label~e.29)
+                                           :A (v73 / label
+                                                   :R (v74 / label~e.30)
+                                                   :E (v75 / label~e.31)
+                                                   :C (v76 / label~e.32))
+                                           :A v71))
+                           :A v49))
+           :A v9)
+    :L (v4 / label~e.34)
+    :L (v5 / label~e.36)
+    :H (v6 / label
+           :A (v14 / label~e.37)
+           :P (v15 / label~e.38))
+    :H (v7 / label
+           :A (v16 / label~e.39)
+           :P (v17 / label~e.40)
+           :A (v18 / label
+                   :A (v29 / label~e.41)
+                   :S (v30 / label~e.42)))
+    :H (v8 / label
+           :P (v19 / label~e.44)
+           :A (v20 / label
+                   :A (v31 / label~e.45)
+                   :T (v32 / label~e.46)
+                   :P (v33 / label~e.47))
+           :A (v21 / label
+                   :R (v34 / label~e.48)
+                   :D (v35 / label~e.50)
+                   :S (v36 / label
+                           :R (v53 / label~e.51)
+                           :C (v54 / label~e.54))
+                   :D (v37 / label~e.53)
+                   :A (v38 / label
+                           :R (v55 / label~e.55)
+                           :P (v56 / label~e.56))
+                   :A (v39 / label~e.58)
+                   :T (v40 / label~e.60)
+                   :D (v41 / label~e.61))
+           :A v16))

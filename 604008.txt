@@ -1,0 +1,28 @@
+# ::id 604008
+# ::tok On 10 April 1970 , in the midst of business disagreements with his bandmates , McCartney announced his departure from the group .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 3-1.1.1.4 5-1.2 6-1.2 7-1.2 8-1.2 9-1.3.2 10-1.3.3 11-1.3.1.1 12-1.3.1.2 13-1.3.1.3 15-1.1.2 16-1.1.3 17-1.1.4.1 18-1.1.4.2 19-1.1.4.3.1 21-1.1.4.3.2.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :T (v5 / label
+                  :R (v12 / label~e.0)
+                  :C (v13 / label~e.1)
+                  :C (v14 / label~e.2)
+                  :C (v15 / label~e.3))
+           :A (v6 / label~e.15)
+           :P (v7 / label~e.16)
+           :A (v8 / label
+                  :A (v16 / label~e.17)
+                  :P (v17 / label~e.18)
+                  :A (v18 / label
+                          :R (v22 / label~e.19)
+                          :A (v23 / label
+                                  :C (v24 / label~e.21)))))
+    :L (v3 / label~e.5,6,7,8)
+    :H (v4 / label
+           :A (v9 / label
+                  :R (v19 / label~e.11)
+                  :A (v20 / label~e.12)
+                  :A (v21 / label~e.13))
+           :A (v10 / label~e.9)
+           :P (v11 / label~e.10)))

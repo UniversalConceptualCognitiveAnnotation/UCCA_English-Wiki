@@ -1,0 +1,38 @@
+# ::id 601000
+# ::tok At the age of fifteen , McCartney met Lennon and his band , the Quarrymen , at the St Peter 's Church Hall fête in Woolton on 6 July 1957 .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 3-1.1.2.2 4-1.1.2.3 6-1.1.4 7-1.2.4 8-1.2.5.1 9-1.2.5.2 10-1.2.5.3.1 11-1.2.5.3.2 13-1.2.5.3.3 14-1.2.5.3.3 16-1.2.6.1 17-1.2.6.2 18-1.2.6.3 19-1.2.6.3 20-1.2.6.3 21-1.2.6.3 22-1.2.6.3 23-1.2.6.3 24-1.2.7.1 25-1.2.7.2 26-1.2.1.1 27-1.2.1.2.1 28-1.2.1.2.2 29-1.2.1.2.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :S (v4 / label
+                  :R (v12 / label~e.0)
+                  :E (v13 / label~e.1)
+                  :C (v14 / label~e.2))
+           :A (v5 / label
+                  :C (v15 / label)
+                  :R (v16 / label~e.3)
+                  :Q (v17 / label~e.4))
+           :A (v6 / label~e.6))
+    :H (v3 / label
+           :T (v7 / label
+                  :R (v18 / label~e.26)
+                  :C (v19 / label
+                          :C (v28 / label~e.27)
+                          :C (v29 / label~e.28)
+                          :C (v30 / label~e.29)))
+           :A v6
+           :P (v8 / label~e.7)
+           :A (v9 / label
+                  :C (v20 / label~e.8)
+                  :N (v21 / label~e.9)
+                  :C (v22 / label
+                          :A (v31 / label~e.10)
+                          :S (v32 / label~e.11)
+                          :A (v33 / label~e.13,14)))
+           :A (v10 / label
+                   :R (v23 / label~e.16)
+                   :E (v24 / label~e.17)
+                   :C (v25 / label~e.18,19,20,21,22,23))
+           :A (v11 / label
+                   :R (v26 / label~e.24)
+                   :C (v27 / label~e.25))))

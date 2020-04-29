@@ -1,0 +1,98 @@
+# ::id 705001
+# ::tok It was described by Michael Gray as , " after Blood On The Tracks , arguably Dylan 's best record of the 1970s : a crucial album documenting a crucial period in Dylan 's own life " . However , it suffered from poor sound recording and mixing ( attributed to Dylan 's studio practices ) , muddying the instrumental detail until a remastered CD release in 1999 restored some of the songs ' strengths .
+# ::alignments 0-1.1.1 2-1.1.3 3-1.1.4.1 4-1.1.4.2 5-1.1.4.2 6-1.1.5.3 9-1.1.5.4.2.1 10-1.1.5.4.2.2 11-1.1.5.4.2.2 12-1.1.5.4.2.2 13-1.1.5.4.2.2 15-1.1.5.4.3 16-1.1.5.4.4.3 17-1.1.5.4.4.1 18-1.1.5.4.5 19-1.1.5.4.6 20-1.1.5.4.7.1 21-1.1.5.4.7.2 22-1.1.5.4.7.3 25-1.1.5.5.2 26-1.1.5.5.3.1 27-1.1.5.5.3.2.2 29-1.1.5.5.3.2.3.2 30-1.1.5.5.3.2.3.3 31-1.1.5.5.3.2.3.4.1 32-1.1.5.5.3.2.3.4.2.1 33-1.1.5.5.3.2.3.4.2.2 35-1.1.5.5.3.2.3.4.4 38-1.2 40-1.3.1 41-1.3.2 42-1.3.3.2.1 43-1.3.3.2.2 44-1.3.3.2.3 45-1.3.3.2.4 46-1.3.3.1 47-1.3.3.3.1 49-1.4.2 50-1.4.3.1 51-1.4.3.2.1 52-1.4.3.2.2 53-1.4.3.3 54-1.4.3.4 57-1.5.1 58-1.5.2.1 59-1.5.2.2 60-1.5.2.3 61-1.6 62-1.7.1.1.1 63-1.7.1.1.2.2 64-1.7.1.1.3 65-1.7.1.2 66-1.7.1.3.1 67-1.7.1.3.2 68-1.7.2 69-1.7.3.2 70-1.7.3.3.2 71-1.7.3.4.1 72-1.7.3.4.2 74-1.7.3.3.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v9 / label~e.0)
+           :P (v10 / label~e.2)
+           :A (v11 / label
+                   :R (v24 / label~e.3)
+                   :C (v25 / label~e.4,5))
+           :A (v12 / label
+                   :R (v26 / label~e.6)
+                   :H (v27 / label
+                           :A (v45 / label
+                                   :R (v69 / label~e.9)
+                                   :C (v70 / label~e.10,11,12,13))
+                           :G (v46 / label~e.15)
+                           :A (v47 / label
+                                   :S (v71 / label~e.17)
+                                   :A (v49 / label~e.19)
+                                   :A (v72 / label~e.16))
+                           :S (v48 / label~e.18)
+                           :A v49
+                           :T (v50 / label
+                                   :R (v73 / label~e.20)
+                                   :E (v74 / label~e.21)
+                                   :C (v75 / label~e.22)))
+                   :H (v28 / label
+                           :S (v51 / label~e.25)
+                           :A (v52 / label
+                                   :C (v76 / label~e.26)
+                                   :E (v77 / label
+                                           :A v76
+                                           :P (v79 / label~e.27)
+                                           :A (v80 / label
+                                                   :D (v81 / label~e.29)
+                                                   :S (v82 / label~e.30)
+                                                   :A (v83 / label
+                                                           :R (v84 / label~e.31)
+                                                           :A (v85 / label
+                                                                   :C (v87 / label~e.32)
+                                                                   :R (v88 / label~e.33))
+                                                           :P (v86 / label~e.35))))))))
+    :L (v3 / label~e.38)
+    :H (v4 / label
+           :A (v13 / label~e.40)
+           :P (v14 / label~e.41)
+           :A (v15 / label
+                   :L (v29 / label~e.46)
+                   :H (v30 / label
+                           :R (v53 / label~e.42)
+                           :D (v54 / label~e.43)
+                           :A (v55 / label~e.44)
+                           :P (v56 / label~e.45))
+                   :H (v31 / label
+                           :P (v57 / label~e.47)
+                           :R v53
+                           :D v54
+                           :A v55)))
+    :H (v5 / label
+           :A (v16 / label)
+           :S (v17 / label~e.49)
+           :A (v18 / label
+                   :R (v32 / label~e.50)
+                   :A (v33 / label
+                           :C (v58 / label~e.51)
+                           :R (v59 / label~e.52))
+                   :A (v34 / label~e.53)
+                   :P (v35 / label~e.54)))
+    :H (v6 / label
+           :P (v19 / label~e.57)
+           :A (v20 / label
+                   :E (v36 / label~e.58)
+                   :E (v37 / label~e.59)
+                   :C (v38 / label~e.60)))
+    :L (v7 / label~e.61)
+    :H (v8 / label
+           :A (v21 / label
+                   :A (v39 / label
+                           :E (v60 / label~e.62)
+                           :E (v61 / label
+                                   :A (v62 / label~e.64)
+                                   :P (v78 / label~e.63))
+                           :C v62)
+                   :P (v40 / label~e.65)
+                   :T (v41 / label
+                           :R (v63 / label~e.66)
+                           :C (v64 / label~e.67)))
+           :P (v22 / label~e.68)
+           :A (v23 / label
+                   :D (v42 / label~e.69)
+                   :S (v43 / label
+                           :R (v65 / label~e.70)
+                           :C (v66 / label~e.74))
+                   :A (v44 / label
+                           :E (v67 / label~e.71)
+                           :C (v68 / label~e.72)))))

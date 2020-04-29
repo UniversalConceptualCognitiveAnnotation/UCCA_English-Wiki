@@ -1,0 +1,77 @@
+# ::id 942014
+# ::tok She was named after a stewardess in the 1968 novel Airport , and her middle name , Renée , comes from The Four Tops ' 1968 cover of The Left Banke 's 1966 hit song " Walk Away Renée " . Her father , Dennis Stefani , is Italian American and worked as a Yamaha marketing executive .
+# ::alignments 0-1.1.1 2-1.1.3 3-1.1.4.1 4-1.1.4.2 5-1.1.4.3.1 6-1.1.4.4.1 7-1.1.4.4.2.1 8-1.1.4.4.2.2.3 9-1.1.4.4.2.3 10-1.1.4.4.3 12-1.2 13-1.3.1.1.1 14-1.3.1.1.2 15-1.3.1.1.3 17-1.3.1.2 19-1.3.2 20-1.3.3.1 21-1.3.3.2.3 22-1.3.3.2.3 23-1.3.3.2.3 25-1.3.3.3.3 26-1.3.3.4 27-1.3.3.5.1 28-1.3.3.5.2.1.2 29-1.3.3.5.2.1.2 30-1.3.3.5.2.1.2 31-1.3.3.5.2.1.3 32-1.3.3.5.2.2.3 33-1.3.3.5.2.3.2 34-1.3.3.5.2.4 36-1.3.3.5.3 37-1.3.3.5.3 38-1.3.3.5.3 41-1.4.1.1.1 42-1.4.1.1.2 44-1.6.3 45-1.6.3 48-1.4.3.1 49-1.4.3.2 50-1.5 51-1.6.1 52-1.6.2.1 54-1.6.2.3 55-1.6.2.4 56-1.6.2.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v8 / label~e.0)
+           :P (v9 / label~e.2)
+           :A (v10 / label
+                   :R (v19 / label~e.3)
+                   :E (v20 / label~e.4)
+                   :C (v21 / label
+                           :P (v37 / label~e.5))
+                   :E (v22 / label
+                           :R (v38 / label~e.6)
+                           :E (v39 / label
+                                   :E (v53 / label~e.7)
+                                   :E (v54 / label
+                                           :A (v55 / label~e.9)
+                                           :P (v60 / label)
+                                           :T (v61 / label~e.8))
+                                   :C v55)
+                           :C (v40 / label~e.10))))
+    :L (v3 / label~e.12)
+    :H (v4 / label
+           :A (v11 / label
+                   :E (v23 / label
+                           :E (v41 / label~e.13)
+                           :E (v42 / label~e.14)
+                           :C (v43 / label~e.15))
+                   :C (v24 / label~e.17))
+           :P (v12 / label~e.19)
+           :A (v13 / label
+                   :R (v25 / label~e.20)
+                   :E (v26 / label
+                           :A (v28 / label~e.26)
+                           :S (v44 / label)
+                           :A (v45 / label~e.21,22,23))
+                   :E (v27 / label
+                           :A v28
+                           :P (v46 / label)
+                           :T (v47 / label~e.25))
+                   :C v28
+                   :E (v29 / label
+                           :R (v48 / label~e.27)
+                           :E (v49 / label
+                                   :E (v56 / label
+                                           :A (v59 / label~e.34)
+                                           :A (v62 / label~e.28,29,30)
+                                           :S (v63 / label~e.31))
+                                   :E (v57 / label
+                                           :A v59
+                                           :P (v64 / label)
+                                           :T (v65 / label~e.32))
+                                   :E (v58 / label
+                                           :A v59
+                                           :S (v66 / label~e.33))
+                                   :C v59)
+                           :C (v50 / label~e.36,37,38))))
+    :H (v5 / label
+           :A (v14 / label
+                   :E (v30 / label
+                           :A (v51 / label~e.41)
+                           :S (v52 / label~e.42))
+                   :C (v18 / label~e.44,45))
+           :S (v15 / label
+                   :E (v31 / label~e.48)
+                   :C (v32 / label~e.49)))
+    :L (v6 / label~e.50)
+    :H (v7 / label
+           :P (v16 / label~e.51)
+           :A (v17 / label
+                   :R (v33 / label~e.52)
+                   :A (v34 / label~e.54)
+                   :A (v35 / label~e.55)
+                   :A (v36 / label~e.56))
+           :A v18))
