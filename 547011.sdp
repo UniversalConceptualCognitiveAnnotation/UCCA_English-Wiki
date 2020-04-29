@@ -1,0 +1,35 @@
+# format = ucca
+1	Meanwhile	_	Word	-	-	_	_	_	_	_	L	_	_	_	_	_	_	_	_
+2	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_
+3	Lehman	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_
+4	and	_	Word	-	-	_	N	_	_	_	_	_	_	_	_	_	_	_	_
+5	the	_	Word	-	-	_	_	_	F	_	_	_	_	_	_	_	_	_	_
+6	film	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+7	's	_	Word	-	-	_	_	R	_	_	_	_	_	_	_	_	_	_	_
+8	director	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+9	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_	_
+10	Mike	_	Word	-	+	_	C	_	_	_	_	_	_	_	_	_	_	_	_
+11	Nichols	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
+12	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_
+13	battled	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	with	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_	_
+15	studio	_	Word	-	-	_	_	_	_	_	_	A	A*	_	_	_	_	_	_
+16	executives	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_	_
+17	and	_	Word	-	-	_	_	_	_	_	_	L	_	_	_	_	_	_	_
+18	exhibitors	_	Word	-	+	_	_	_	_	_	_	H	_	_	_	_	_	_	_
+19	who	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_	_
+20	insisted	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_	_	_
+21	that	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_	_
+22	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_	_	_
+23	film	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A*
+24	be	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	F	_	_	_
+25	shot	_	Word	-	+	_	_	_	_	_	_	_	_	A	_	_	_	_	_
+26	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R	_	_
+27	color	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	A	_	_	_
+28	rather	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	L	_	_	_
+29	than	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal	_
+30	black	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	H	_	_	_
+31	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
+32	white	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
+33	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+

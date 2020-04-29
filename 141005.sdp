@@ -1,0 +1,33 @@
+# format = ucca
+1	Her	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_
+2	next	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_
+3	film	_	Word	-	+	_	A*	_	_	_	_	_	A*	_	_	A*
+4	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_
+5	an	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_
+6	adaptation	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_
+7	of	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_
+8	Edward	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_
+9	Albee	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_
+10	's	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_
+11	A	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_
+12	Delicate	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_
+13	Balance	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_
+14	(	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_
+15	1973	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_
+16	)	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_
+17	directed	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_
+18	by	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_
+19	Tony	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_
+20	Richardson	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_
+21	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_
+22	had	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_
+23	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_
+24	small	_	Word	-	-	_	_	_	_	_	_	_	_	_	D	_
+25	release	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+26	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	L	_
+27	received	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D
+28	generally	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D
+29	unfavorable	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D
+30	reviews	_	Word	-	+	_	_	_	_	_	_	_	_	_	H	_
+31	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
+

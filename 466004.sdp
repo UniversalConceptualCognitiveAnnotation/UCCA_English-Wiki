@@ -1,0 +1,34 @@
+# format = ucca
+1	Johnson	_	Word	-	-	_	A	_	_	_	_	_	A*	_	_	_	_	_	_
+2	's	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+3	career	_	Word	-	-	_	_	A	_	_	_	_	_	_	_	_	_	_	_
+4	achievements	_	Word	-	+	_	A	_	_	_	_	_	_	_	_	_	_	_	_
+5	include	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	three	_	Word	-	-	_	_	_	_	_	Q	_	_	_	_	_	_	_	_
+7	NBA	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_	_	_
+8	MVP	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_	_	_	_	_	_
+9	Awards	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_	_
+10	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_
+11	nine	_	Word	-	-	_	_	_	_	_	_	_	D	_	_	_	_	_	_
+12	NBA	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_	_
+13	Finals	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_	_
+14	appearances	_	Word	-	+	_	_	_	_	_	C	_	_	_	_	_	_	_	_
+15	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_
+16	twelve	_	Word	-	-	_	_	_	_	_	_	_	_	_	Q	_	_	_	_
+17	All	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_	_	_
+18	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_	_	_
+19	Star	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_
+20	games	_	Word	-	+	_	_	_	_	_	C	_	_	_	_	_	_	_	_
+21	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_	_	_
+22	and	_	Word	-	-	_	_	_	_	_	N	_	_	_	_	_	_	_	_
+23	ten	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Q	_
+24	All	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	E	_
+25	-	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U	_	_	_
+26	NBA	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
+27	First	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	Q	_
+28	and	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	N	_	_
+29	Second	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	C	_	_
+30	Team	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	A
+31	nominations	_	Word	-	+	_	_	_	_	_	C	_	_	_	_	_	_	_	_
+32	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+

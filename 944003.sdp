@@ -1,0 +1,33 @@
+# format = ucca
+1	The	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+2	band	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_
+3	's	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+4	2001	_	Word	-	+	_	_	_	_	E	_	_	_	_	_	_	_	_	_
+5	album	_	Word	-	+	_	_	A*	A*	_	_	_	_	_	_	_	A*	A*	_
+6	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_
+7	Rock	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+8	Steady	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_	_	_
+9	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_
+10	explored	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	more	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+12	reggae	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_	_	_
+13	and	_	Word	-	-	_	_	_	_	_	_	_	N	_	_	_	_	_	_
+14	dancehall	_	Word	-	-	_	_	_	_	_	_	_	C	_	_	_	_	_	_
+15	sounds	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+16	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_
+17	while	_	Word	-	-	_	_	_	_	_	_	L	_	_	_	_	_	_	_
+18	maintaining	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	D	_	_
+19	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_	_	_
+20	band	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+21	's	_	Word	-	-	_	_	_	_	_	_	_	_	_	R	_	_	_	_
+22	New	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+23	Wave	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_	_
+24	influences	_	Word	-	+	_	_	_	_	_	_	H	_	_	_	_	_	_	_
+25	,	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_	_
+26	and	_	Word	-	-	_	_	_	_	_	_	L	_	_	_	_	_	_	_
+27	generally	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	D	_
+28	received	_	Word	-	+	_	_	_	_	_	_	H	_	_	_	_	_	_	_
+29	positive	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+30	reviews	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	A	_
+31	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+

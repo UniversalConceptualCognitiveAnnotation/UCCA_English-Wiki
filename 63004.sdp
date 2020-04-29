@@ -1,0 +1,32 @@
+# format = ucca
+1	After	_	Word	-	-	_	L	_	_	_	_	_	_
+2	years	_	Word	-	-	_	T	_	T*	_	_	_	_
+3	of	_	Word	-	-	_	R	_	_	_	_	_	_
+4	supporting	_	Word	-	-	_	E	_	_	_	_	_	_
+5	roles	_	Word	-	+	_	_	_	_	_	_	_	_
+6	in	_	Word	-	-	_	_	R	_	_	_	_	_
+7	movies	_	Word	-	+	_	A	_	_	_	_	_	_
+8	and	_	Word	-	-	_	L	_	_	_	_	_	_
+9	frequent	_	Word	-	-	_	_	_	T	_	_	_	_
+10	television	_	Word	-	-	_	_	_	A	_	_	_	_
+11	guest	_	Word	-	-	_	_	_	A	_	_	_	_
+12	appearances	_	Word	-	+	_	H	_	_	_	_	_	_
+13	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_
+14	Pitt	_	Word	-	-	_	A*	_	A*	A	_	_	_
+15	attracted	_	Word	-	-	_	_	_	_	D	_	_	_
+16	wider	_	Word	-	-	_	_	_	_	D	_	_	_
+17	recognition	_	Word	-	+	_	H	_	_	_	_	_	_
+18	in	_	Word	-	-	_	_	_	_	_	R	_	_
+19	his	_	Word	-	-	_	_	_	_	_	E	_	_
+20	supporting	_	Word	-	-	_	_	_	_	_	E	_	_
+21	role	_	Word	-	+	_	_	_	_	A	_	_	_
+22	in	_	Word	-	-	_	_	_	_	_	_	_	R
+23	the	_	Word	-	-	_	_	_	_	_	_	E	_
+24	1991	_	Word	-	-	_	_	_	_	_	_	E	_
+25	road	_	Word	-	-	_	_	_	_	_	_	E	_
+26	film	_	Word	-	+	_	_	_	_	_	_	_	E
+27	Thelma	_	Word	-	+	_	_	_	_	_	E	_	_
+28	&	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+29	Louise	_	Word	-	-	_	_	_	_	_	_	_	Terminal
+30	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+

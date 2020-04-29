@@ -1,0 +1,33 @@
+# format = ucca
+1	When	_	Word	-	-	_	L	_	_	_	_	_	_	_
+2	asked	_	Word	-	+	_	_	_	_	_	_	_	_	_
+3	about	_	Word	-	-	_	_	_	R	_	_	_	_	_
+4	the	_	Word	-	-	_	_	_	E	_	_	_	_	_
+5	album	_	Word	-	-	_	_	E	_	_	_	_	_	_
+6	title	_	Word	-	+	_	_	_	E	_	_	_	_	_
+7	's	_	Word	-	-	_	_	R	_	_	_	_	_	_
+8	meaning	_	Word	-	+	_	A	_	_	_	_	_	_	_
+9	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_
+10	Carey	_	Word	-	-	_	A*	_	_	A	_	_	_	_
+11	said	_	Word	-	+	_	H	_	_	_	_	_	_	_
+12	"	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_
+13	Einstein	_	Word	-	+	_	_	_	_	_	_	E	_	_
+14	's	_	Word	-	-	_	_	_	_	_	R	_	_	_
+15	theory	_	Word	-	+	_	_	_	_	_	_	_	_	A
+16	?	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+17	Physics	_	Word	-	-	_	_	_	_	_	_	_	_	A
+18	?	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+19	Me	_	Word	-	-	_	_	_	_	_	_	_	_	A
+20	?	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+21	Hello	_	Word	-	-	_	_	_	_	_	_	_	_	F
+22	!	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+23	...	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+24	Of	_	Word	-	+	_	_	_	_	_	_	_	_	D
+25	course	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_
+26	I	_	Word	-	-	_	_	_	_	_	_	_	_	A
+27	'm	_	Word	-	-	_	_	_	_	_	_	_	_	F
+28	poking	_	Word	-	-	_	_	_	_	_	_	_	_	D
+29	fun	_	Word	-	+	_	_	_	_	A	_	_	_	_
+30	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+31	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+

@@ -1,0 +1,32 @@
+# format = ucca
+1	Appearing	_	Word	-	+	_	_	_	_	_	_	_	_	_
+2	in	_	Word	-	-	_	_	R	_	_	_	_	_	_
+3	Stratford	_	Word	-	+	_	A	_	_	_	_	_	_	_
+4	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_
+5	Connecticut	_	Word	-	-	_	_	C	_	_	_	_	_	_
+6	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_
+7	at	_	Word	-	-	_	_	_	R	_	_	_	_	_
+8	the	_	Word	-	-	_	_	_	E	_	_	_	_	_
+9	American	_	Word	-	+	_	A	_	_	_	_	_	_	_
+10	Shakespeare	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_
+11	Theatre	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_
+12	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_
+13	she	_	Word	-	-	_	_	_	_	A	_	_	A*	_
+14	repeated	_	Word	-	+	_	H	_	_	_	_	_	_	_
+15	her	_	Word	-	+	_	_	_	_	A	_	_	_	_
+16	Portia	_	Word	-	-	_	_	_	_	_	A	_	_	_
+17	in	_	Word	-	-	_	_	_	_	_	_	R	_	_
+18	The	_	Word	-	+	_	_	_	_	A	_	_	_	_
+19	Merchant	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_
+20	of	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_
+21	Venice	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_
+22	and	_	Word	-	-	_	L	_	_	_	_	_	_	_
+23	played	_	Word	-	+	_	H	_	_	_	_	_	_	_
+24	Beatrice	_	Word	-	-	_	_	_	_	_	_	_	A	_
+25	in	_	Word	-	-	_	_	_	_	_	_	_	_	R
+26	Much	_	Word	-	+	_	_	_	_	_	_	_	A	_
+27	Ado	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal
+28	About	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal
+29	Nothing	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal
+30	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+

@@ -1,0 +1,33 @@
+# format = ucca
+1	He	_	Word	-	-	_	A	A*	A*	_	_	_	_	_	_
+2	would	_	Word	-	-	_	F	_	_	_	_	_	_	_	_
+3	later	_	Word	-	-	_	L	_	_	_	_	_	_	_	_
+4	be	_	Word	-	-	_	F	_	_	_	_	_	_	_	_
+5	criticized	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+6	for	_	Word	-	-	_	_	R	_	_	_	_	_	_	_
+7	insisting	_	Word	-	+	_	_	_	_	_	_	_	A	_	_
+8	on	_	Word	-	-	_	_	_	R	_	_	_	_	_	_
+9	using	_	Word	-	+	_	_	A	_	_	_	_	_	_	_
+10	the	_	Word	-	-	_	_	_	_	E	_	_	_	_	_
+11	terms	_	Word	-	-	_	_	_	_	E	_	_	_	_	_
+12	"	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_
+13	guerillas	_	Word	-	+	_	_	_	A	_	_	_	_	_	_
+14	"	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_
+15	and	_	Word	-	-	_	_	_	_	N	_	_	_	_	_
+16	"	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_
+17	commandos	_	Word	-	-	_	_	_	_	C	_	_	_	_	_
+18	"	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_
+19	instead	_	Word	-	+	_	_	_	_	_	_	R	_	_	_
+20	of	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_
+21	"	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_
+22	terrorists	_	Word	-	+	_	_	_	A	_	_	_	_	_	_
+23	"	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_
+24	to	_	Word	-	-	_	_	_	_	_	_	_	F	_	_
+25	describe	_	Word	-	+	_	A	_	_	_	_	_	_	_	_
+26	the	_	Word	-	-	_	_	_	_	_	_	_	_	E	_
+27	members	_	Word	-	+	_	_	_	_	_	_	_	A	_	_
+28	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	R
+29	Black	_	Word	-	-	_	_	_	_	_	_	_	_	_	E
+30	September	_	Word	-	+	_	_	_	_	_	_	_	_	E	_
+31	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+

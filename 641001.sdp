@@ -1,0 +1,32 @@
+# format = ucca
+1	Within	_	Word	-	-	_	R	_	_	_	_	_	_	_	_	_	_
+2	the	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_
+3	month	_	Word	-	+	_	_	T	_	_	_	_	_	_	_	_	_
+4	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_
+5	he	_	Word	-	-	_	_	A	_	_	_	_	A*	_	_	_	_
+6	fulfilled	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
+7	his	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_
+8	contractual	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_
+9	obligation	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_
+10	to	_	Word	-	-	_	_	_	_	_	R	_	_	_	_	_	_
+11	EMI	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_
+12	/	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_	_
+13	Capitol	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_	_	_	_
+14	for	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_
+15	one	_	Word	-	-	_	_	_	_	_	_	Q	_	_	_	_	_
+16	more	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_
+17	album	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_
+18	by	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_
+19	releasing	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_
+20	Shaved	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_
+21	Fish	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_
+22	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_	_	_
+23	a	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_
+24	compilation	_	Word	-	-	_	_	_	_	_	_	_	_	_	E	_	_
+25	album	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_
+26	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	R
+27	previously	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	D	_
+28	recorded	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	E
+29	tracks	_	Word	-	+	_	_	_	_	_	_	_	_	_	E	_	_
+30	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
+

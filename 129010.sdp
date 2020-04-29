@@ -1,0 +1,29 @@
+# format = ucca
+1	For	_	Word	-	-	_	R	_	_	_	_	_	_	_
+2	her	_	Word	-	-	_	E	_	_	_	_	_	_	_
+3	next	_	Word	-	-	_	E	_	_	_	_	_	_	_
+4	film	_	Word	-	+	_	_	A	_	_	_	_	_	_
+5	she	_	Word	-	-	_	_	A	_	_	_	_	_	_
+6	played	_	Word	-	+	_	_	_	_	_	_	_	_	_
+7	Mary	_	Word	-	+	_	_	A	_	_	_	_	_	_
+8	Stuart	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_
+9	in	_	Word	-	-	_	_	_	_	_	R	_	_	_
+10	John	_	Word	-	+	_	_	_	_	_	E	_	_	_
+11	Ford	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_
+12	's	_	Word	-	-	_	_	_	_	R	_	_	_	_
+13	Mary	_	Word	-	+	_	_	A	_	_	_	_	_	_
+14	of	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_
+15	Scotland	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_
+16	(	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_
+17	1936	_	Word	-	-	_	_	_	_	_	E	_	_	_
+18	)	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_
+19	.	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_
+20	It	_	Word	-	-	_	_	_	_	_	_	A	_	A*
+21	met	_	Word	-	+	_	_	H	_	_	_	_	_	_
+22	with	_	Word	-	-	_	_	_	_	_	_	_	_	R
+23	a	_	Word	-	-	_	_	_	_	_	_	_	_	E
+24	similarly	_	Word	-	-	_	_	_	_	_	_	_	E	_
+25	poor	_	Word	-	+	_	_	_	_	_	_	_	_	D
+26	reception	_	Word	-	+	_	_	_	_	_	_	A	_	_
+27	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+

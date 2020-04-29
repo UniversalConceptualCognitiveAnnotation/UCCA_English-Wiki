@@ -1,0 +1,26 @@
+# format = ucca
+1	For	_	Word	-	-	_	R	_	_	_	_	_	_
+2	his	_	Word	-	-	_	A	_	_	_	_	_	_
+3	performance	_	Word	-	+	_	_	A	_	_	_	_	_
+4	he	_	Word	-	-	_	_	A	_	_	A*	_	_
+5	won	_	Word	-	+	_	_	_	_	_	_	_	_
+6	the	_	Word	-	-	_	_	_	F	_	_	_	_
+7	BAFTA	_	Word	-	-	_	_	_	E	_	_	_	_
+8	Award	_	Word	-	+	_	_	A	_	_	_	_	_
+9	for	_	Word	-	-	_	_	_	_	R	_	_	_
+10	Best	_	Word	-	+	_	_	_	E	_	_	_	_
+11	Supporting	_	Word	-	-	_	_	_	_	Terminal	_	_	_
+12	Actor	_	Word	-	-	_	_	_	_	Terminal	_	_	_
+13	and	_	Word	-	-	_	_	L	_	_	_	_	_
+14	was	_	Word	-	-	_	_	_	_	_	F	_	_
+15	nominated	_	Word	-	+	_	_	H	_	_	_	_	_
+16	for	_	Word	-	-	_	_	_	_	_	_	R	_
+17	the	_	Word	-	-	_	_	_	_	_	_	F	_
+18	Academy	_	Word	-	+	_	_	_	_	_	A	_	_
+19	Award	_	Word	-	-	_	_	_	_	_	_	Terminal	_
+20	in	_	Word	-	-	_	_	_	_	_	_	_	R
+21	the	_	Word	-	-	_	_	_	_	_	_	_	F
+22	same	_	Word	-	-	_	_	_	_	_	_	_	E
+23	category	_	Word	-	+	_	_	_	_	_	A	_	_
+24	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+

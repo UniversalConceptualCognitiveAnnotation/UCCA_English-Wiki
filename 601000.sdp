@@ -1,0 +1,33 @@
+# format = ucca
+1	At	_	Word	-	-	_	R	_	_	_	_	_	_	_	_
+2	the	_	Word	-	-	_	E	_	_	_	_	_	_	_	_
+3	age	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+4	of	_	Word	-	-	_	_	R	_	_	_	_	_	_	_
+5	fifteen	_	Word	-	+	_	A	_	_	_	_	_	_	_	_
+6	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
+7	McCartney	_	Word	-	-	_	A*	_	A	_	_	_	_	_	_
+8	met	_	Word	-	+	_	H	_	_	_	_	_	_	_	_
+9	Lennon	_	Word	-	+	_	_	_	A	_	_	_	_	_	_
+10	and	_	Word	-	-	_	_	_	_	N	_	_	_	_	_
+11	his	_	Word	-	-	_	_	_	_	_	A	_	_	_	_
+12	band	_	Word	-	+	_	_	_	_	C	_	_	_	_	_
+13	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_
+14	the	_	Word	-	+	_	_	_	_	_	A	_	_	_	_
+15	Quarrymen	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_
+16	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_
+17	at	_	Word	-	-	_	_	_	_	_	_	_	R	_	_
+18	the	_	Word	-	-	_	_	_	_	_	_	_	E	_	_
+19	St	_	Word	-	+	_	_	_	A	_	_	_	_	_	_
+20	Peter	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_
+21	's	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_
+22	Church	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_
+23	Hall	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_
+24	fête	_	Word	-	-	_	_	_	_	_	_	_	Terminal	_	_
+25	in	_	Word	-	-	_	_	_	_	_	_	_	_	R	_
+26	Woolton	_	Word	-	+	_	_	_	A	_	_	_	_	_	_
+27	on	_	Word	-	-	_	_	_	_	_	_	_	_	_	R
+28	6	_	Word	-	+	_	_	_	T	_	_	_	_	_	_
+29	July	_	Word	-	-	_	_	_	_	_	_	_	_	_	C
+30	1957	_	Word	-	-	_	_	_	_	_	_	_	_	_	C
+31	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+

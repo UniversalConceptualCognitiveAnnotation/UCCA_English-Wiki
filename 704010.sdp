@@ -1,0 +1,24 @@
+# format = ucca
+1	Concerts	_	Word	-	+	_	_	_	_	A	A*	_	_
+2	in	_	Word	-	-	_	_	R	_	_	_	_	_
+3	Tokyo	_	Word	-	+	_	A	_	_	_	_	_	_
+4	in	_	Word	-	-	_	_	_	R	_	_	_	_
+5	February	_	Word	-	+	_	T	_	_	_	_	_	_
+6	and	_	Word	-	-	_	_	_	N	_	_	_	_
+7	March	_	Word	-	-	_	_	_	C	_	_	_	_
+8	were	_	Word	-	-	_	_	_	_	F	_	_	_
+9	recorded	_	Word	-	+	_	_	_	_	_	_	_	_
+10	and	_	Word	-	-	_	_	_	_	L	_	_	_
+11	released	_	Word	-	+	_	_	_	_	H	_	_	_
+12	as	_	Word	-	-	_	_	_	_	_	_	_	R
+13	the	_	Word	-	-	_	_	_	_	_	_	E	_
+14	live	_	Word	-	-	_	_	_	_	_	_	E	_
+15	double	_	Word	-	-	_	_	_	_	_	_	E	_
+16	album	_	Word	-	+	_	_	_	_	_	_	_	E
+17	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+18	Bob	_	Word	-	+	_	_	_	_	A	A*	_	_
+19	Dylan	_	Word	-	-	_	_	_	_	_	_	_	Terminal
+20	At	_	Word	-	-	_	_	_	_	_	_	_	Terminal
+21	Budokan	_	Word	-	-	_	_	_	_	_	_	_	Terminal
+22	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+

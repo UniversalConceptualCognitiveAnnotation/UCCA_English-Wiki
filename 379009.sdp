@@ -1,0 +1,32 @@
+# format = ucca
+1	Gyllenhaal	_	Word	-	-	_	A	_	_	A*	_	_	_	_
+2	also	_	Word	-	-	_	D	_	_	_	_	_	_	_
+3	won	_	Word	-	+	_	_	_	_	_	_	_	_	_
+4	the	_	Word	-	-	_	_	F	_	_	_	_	_	_
+5	Best	_	Word	-	+	_	A	_	_	_	_	_	_	_
+6	Supporting	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_
+7	Actor	_	Word	-	-	_	_	Terminal	_	_	_	_	_	_
+8	BAFTA	_	Word	-	-	_	_	C	_	_	_	_	_	_
+9	for	_	Word	-	-	_	_	_	R	_	_	_	_	_
+10	the	_	Word	-	-	_	_	_	F	_	_	_	_	_
+11	same	_	Word	-	-	_	_	_	E	_	_	_	_	_
+12	role	_	Word	-	+	_	A	_	_	_	_	_	_	_
+13	and	_	Word	-	-	_	L	_	_	_	_	_	_	_
+14	received	_	Word	-	+	_	H	_	_	_	_	_	_	_
+15	a	_	Word	-	-	_	_	_	_	_	F	_	_	_
+16	Best	_	Word	-	+	_	_	_	_	A	_	_	_	_
+17	Supporting	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_
+18	Actor	_	Word	-	-	_	_	_	_	_	Terminal	_	_	_
+19	nomination	_	Word	-	-	_	_	_	_	_	C	_	_	_
+20	and	_	Word	-	-	_	_	_	_	_	N	_	_	_
+21	Best	_	Word	-	+	_	_	_	_	_	_	_	E	_
+22	Film	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_
+23	Ensemble	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_
+24	nomination	_	Word	-	+	_	_	_	_	_	C	_	_	_
+25	from	_	Word	-	-	_	_	_	_	_	_	_	_	R
+26	the	_	Word	-	-	_	_	_	_	_	_	_	_	F
+27	Screen	_	Word	-	+	_	_	_	_	A	_	_	_	_
+28	Actors	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal
+29	Guild	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal
+30	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+

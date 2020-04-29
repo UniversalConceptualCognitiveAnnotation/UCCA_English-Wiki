@@ -1,0 +1,21 @@
+# format = ucca
+1	Garland	_	Word	-	-	_	A	_	A*	_	_
+2	attended	_	Word	-	+	_	_	_	_	_	_
+3	Hollywood	_	Word	-	-	_	_	E	_	_	_
+4	High	_	Word	-	-	_	_	E	_	_	_
+5	School	_	Word	-	+	_	A	_	_	_	_
+6	and	_	Word	-	-	_	L	_	_	_	_
+7	later	_	Word	-	-	_	_	_	D	_	_
+8	graduated	_	Word	-	+	_	H	_	_	_	_
+9	from	_	Word	-	-	_	_	_	_	R	_
+10	University	_	Word	-	-	_	_	_	_	E	_
+11	High	_	Word	-	-	_	_	_	_	E	_
+12	School	_	Word	-	+	_	_	_	A	_	_
+13	(	_	Punctuation	-	-	_	_	_	_	U	_
+14	Los	_	Word	-	+	_	_	_	_	E	_
+15	Angeles	_	Word	-	-	_	_	_	_	_	Terminal
+16	,	_	Punctuation	-	-	_	_	_	_	_	U
+17	California	_	Word	-	-	_	_	_	_	_	C
+18	)	_	Punctuation	-	-	_	_	_	_	_	U
+19	.	_	Punctuation	-	-	_	_	_	_	_	U
+

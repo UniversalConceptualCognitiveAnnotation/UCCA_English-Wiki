@@ -1,0 +1,37 @@
+# format = ucca
+1	When	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_
+2	his	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_
+3	contract	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_
+4	expired	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	with	_	Word	-	-	_	_	_	R	_	_	_	_	_	_	_	_	_
+6	ABC	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_
+7	in	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_	_
+8	the	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_
+9	early	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_
+10	1980s	_	Word	-	+	_	_	T	_	_	_	_	_	_	_	_	_	_
+11	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_
+12	Jennings	_	Word	-	-	_	_	_	_	_	A	_	A*	_	A*	_	_	_
+13	flirted	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_
+14	with	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_
+15	the	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_
+16	possibility	_	Word	-	+	_	_	_	_	_	D	_	_	_	_	_	_	_
+17	of	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_
+18	moving	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_
+19	back	_	Word	-	-	_	_	_	_	_	_	_	D	_	_	_	_	_
+20	to	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_	_
+21	Canada	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_
+22	and	_	Word	-	-	_	_	_	_	_	_	_	L	_	_	_	_	_
+23	working	_	Word	-	+	_	_	_	_	_	_	_	H	_	_	_	_	_
+24	with	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_	_
+25	the	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	E	_	_
+26	CBC	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_
+27	on	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R
+28	its	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E
+29	new	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	E
+30	nightly	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	E	_
+31	newscast	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	E
+32	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
+33	The	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_
+34	Journal	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
+35	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
+

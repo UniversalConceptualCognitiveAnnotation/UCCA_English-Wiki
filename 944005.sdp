@@ -1,0 +1,36 @@
+# format = ucca
+1	A	_	Word	-	-	_	_	E	_	_	_	_	_	_	_	_	_
+2	greatest	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_
+3	hits	_	Word	-	+	_	_	E	_	_	_	_	_	_	_	_	_
+4	collection	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A*
+5	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_
+6	The	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_
+7	Singles	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_
+8	1992	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_
+9	-	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_
+10	2003	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_	_
+11	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_
+12	which	_	Word	-	-	_	_	_	_	R	_	_	_	_	_	_	_
+13	includes	_	Word	-	+	_	_	_	E	_	_	_	_	_	_	_	_
+14	a	_	Word	-	-	_	_	_	_	_	E	_	_	_	_	_	_
+15	cover	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_
+16	of	_	Word	-	-	_	_	_	_	_	_	_	_	R	_	_	_
+17	Talk	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_
+18	Talk	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_
+19	's	_	Word	-	+	_	_	_	_	_	_	_	_	E	_	_	_
+20	"	_	Punctuation	-	-	_	_	_	_	_	_	_	U	_	_	_	_
+21	It	_	Word	-	+	_	_	_	_	_	E	_	_	_	_	_	_
+22	's	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_
+23	My	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_
+24	Life	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_
+25	"	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_
+26	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_
+27	was	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_
+28	released	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_
+29	in	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	R	_
+30	2003	_	Word	-	+	_	_	_	_	_	_	_	_	_	T	_	_
+31	to	_	Word	-	-	_	_	_	_	_	_	_	_	_	L	_	_
+32	moderate	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	D
+33	sales	_	Word	-	+	_	_	_	_	_	_	_	_	_	H	_	_
+34	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	U
+

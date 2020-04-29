@@ -1,0 +1,35 @@
+# format = ucca
+1	At	_	Word	-	-	_	L	_	_	_	_	_	_	_	_
+2	the	_	Word	-	-	_	F	_	_	_	_	_	_	_	_
+3	amfAR	_	Word	-	-	_	A	_	_	_	_	_	_	_	_
+4	gala	_	Word	-	+	_	_	_	_	_	_	_	_	_	_
+5	during	_	Word	-	-	_	L	_	_	_	_	_	_	_	_
+6	the	_	Word	-	-	_	_	F	_	_	_	_	_	_	_
+7	2011	_	Word	-	-	_	_	T	_	_	_	_	_	_	_
+8	Cannes	_	Word	-	-	_	_	A	_	_	_	_	_	_	_
+9	Film	_	Word	-	-	_	_	A	_	_	_	_	_	_	_
+10	Festival	_	Word	-	+	_	H	_	_	_	_	_	_	_	_
+11	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
+12	Stefani	_	Word	-	-	_	_	_	A	_	_	_	A*	_	_
+13	auctioned	_	Word	-	+	_	H	_	_	_	_	_	_	_	_
+14	off	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_
+15	the	_	Word	-	-	_	_	_	_	E	_	_	_	_	_
+16	lacy	_	Word	-	-	_	_	_	_	E	_	_	_	_	_
+17	black	_	Word	-	-	_	_	_	_	E	_	_	_	_	_
+18	dress	_	Word	-	+	_	_	_	A	_	_	_	_	_	_
+19	she	_	Word	-	-	_	_	_	_	_	A	_	_	_	_
+20	wore	_	Word	-	+	_	_	_	_	E	_	_	_	_	_
+21	at	_	Word	-	-	_	_	_	_	_	_	R	_	_	_
+22	the	_	Word	-	-	_	_	_	_	_	_	E	_	_	_
+23	event	_	Word	-	+	_	_	_	_	_	A	_	_	_	_
+24	for	_	Word	-	-	_	L	_	_	_	_	_	_	_	_
+25	charity	_	Word	-	-	_	H	_	_	_	_	_	_	_	_
+26	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_
+27	raising	_	Word	-	+	_	H	_	_	_	_	_	_	_	_
+28	over	_	Word	-	-	_	_	_	_	_	_	_	_	E	_
+29	$	_	Word	-	+	_	_	_	_	_	_	_	A	_	_
+30	125	_	Word	-	+	_	_	_	_	_	_	_	_	Q	_
+31	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U
+32	000	_	Word	-	-	_	_	_	_	_	_	_	_	_	Terminal
+33	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U	_
+

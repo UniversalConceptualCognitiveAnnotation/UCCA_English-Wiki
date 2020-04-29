@@ -1,0 +1,35 @@
+# format = ucca
+1	Hence	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_
+2	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+3	while	_	Word	-	-	_	_	L	_	_	_	_	_	_	_	_	_	_	_
+4	other	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+5	Hollywood	_	Word	-	-	_	E	_	_	_	_	_	_	_	_	_	_	_	_
+6	studios	_	Word	-	+	_	_	_	_	A*	_	_	_	_	_	_	_	_	_
+7	sidestepped	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	the	_	Word	-	-	_	_	_	E	_	_	_	_	_	_	_	_	_	_
+9	issue	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_	_	_	_
+10	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+11	fearing	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_
+12	domestic	_	Word	-	-	_	_	_	_	_	A	_	_	_	_	_	_	_	_
+13	criticism	_	Word	-	+	_	_	_	_	A	_	_	_	_	_	_	_	_	_
+14	and	_	Word	-	-	_	_	_	_	_	L	_	_	_	_	_	_	_	_
+15	the	_	Word	-	-	_	_	_	_	_	_	E	_	_	_	_	_	_	_
+16	loss	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_	_	_	_
+17	of	_	Word	-	-	_	_	_	_	_	_	_	R	_	_	_	_	_	_
+18	European	_	Word	-	-	_	_	_	_	_	_	_	E	_	_	_	_	_	_
+19	markets	_	Word	-	+	_	_	_	_	_	_	A	_	_	_	_	_	_	_
+20	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_	_	_	_
+21	Warner	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+22	Bros	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_	_	_
+23	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	U	_	_	_	_
+24	produced	_	Word	-	+	_	_	H	_	_	_	_	_	_	_	_	_	_	_
+25	films	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_	_
+26	openly	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	D	_	_
+27	critical	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	E	_	_	_
+28	of	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	R
+29	Germany	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+30	's	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R	_
+31	fascist	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	E
+32	government	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_	_
+33	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	U
+

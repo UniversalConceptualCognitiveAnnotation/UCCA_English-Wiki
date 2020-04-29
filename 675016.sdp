@@ -1,0 +1,24 @@
+# format = ucca
+1	The	_	Word	-	-	_	E	_	_	_	_	_
+2	song	_	Word	-	+	_	_	_	A*	_	_	_
+3	was	_	Word	-	-	_	_	F	_	_	_	_
+4	co	_	Word	-	-	_	_	D	_	_	_	_
+5	-	_	Punctuation	-	-	_	_	U	_	_	_	_
+6	written	_	Word	-	+	_	_	_	_	_	_	_
+7	and	_	Word	-	-	_	_	L	_	_	_	_
+8	co	_	Word	-	-	_	_	_	D	_	_	_
+9	-	_	Punctuation	-	-	_	_	_	U	_	_	_
+10	produced	_	Word	-	+	_	_	H	_	_	_	_
+11	by	_	Word	-	-	_	_	_	_	R	_	_
+12	Carey	_	Word	-	+	_	_	_	A*	_	_	_
+13	,	_	Punctuation	-	-	_	_	_	_	U	_	_
+14	Jermaine	_	Word	-	+	_	_	_	_	C	_	_
+15	Dupri	_	Word	-	-	_	_	_	_	_	Terminal	_
+16	,	_	Punctuation	-	-	_	_	_	_	U	_	_
+17	and	_	Word	-	-	_	_	_	_	N	_	_
+18	Bryan	_	Word	-	+	_	_	_	_	C	_	_
+19	-	_	Punctuation	-	-	_	_	_	_	_	_	U
+20	Michael	_	Word	-	-	_	_	_	_	_	_	Terminal
+21	Cox	_	Word	-	-	_	_	_	_	_	_	Terminal
+22	.	_	Punctuation	-	-	_	_	_	_	U	_	_
+

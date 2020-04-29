@@ -1,0 +1,32 @@
+# format = ucca
+1	Bob	_	Word	-	+	_	_	_	_	_	A	A*	A*	A*	A*	A*
+2	Dylan	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_
+3	(	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_
+4	born	_	Word	-	+	_	E	_	_	_	_	_	_	_	_	_
+5	Robert	_	Word	-	+	_	_	A	_	_	_	_	_	_	_	_
+6	Allen	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_
+7	Zimmerman	_	Word	-	-	_	_	_	Terminal	_	_	_	_	_	_	_
+8	;	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_	_	_
+9	May	_	Word	-	+	_	_	T	_	_	_	_	_	_	_	_
+10	24	_	Word	-	-	_	_	_	_	C	_	_	_	_	_	_
+11	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_	_	_	_
+12	1941	_	Word	-	-	_	_	_	_	C	_	_	_	_	_	_
+13	)	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_
+14	is	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_
+15	an	_	Word	-	-	_	_	_	_	_	F	_	_	_	_	_
+16	American	_	Word	-	-	_	_	_	_	_	A	A*	A*	A*	A*	A*
+17	musician	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_
+18	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_
+19	singer	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_
+20	-	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_
+21	songwriter	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_
+22	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_
+23	music	_	Word	-	-	_	_	_	_	_	_	_	_	E	_	_
+24	producer	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_
+25	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_
+26	artist	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_
+27	,	_	Punctuation	-	-	_	_	_	_	_	U	_	_	_	_	_
+28	and	_	Word	-	-	_	_	_	_	_	L	_	_	_	_	_
+29	writer	_	Word	-	+	_	_	_	_	_	H	_	_	_	_	_
+30	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	U
+

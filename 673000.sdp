@@ -1,0 +1,35 @@
+# format = ucca
+1	On	_	Word	-	-	_	R	_	_	_	_	_	_	_
+2	January	_	Word	-	+	_	_	T	_	_	_	_	_	_
+3	20	_	Word	-	-	_	C	_	_	_	_	_	_	_
+4	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_
+5	2009	_	Word	-	-	_	C	_	_	_	_	_	_	_
+6	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_
+7	Carey	_	Word	-	-	_	_	A	_	_	_	_	_	_
+8	performed	_	Word	-	+	_	_	_	_	_	_	_	_	_
+9	"	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_
+10	Hero	_	Word	-	-	_	_	A	_	_	_	_	_	_
+11	"	_	Punctuation	-	-	_	_	U	_	_	_	_	_	_
+12	at	_	Word	-	-	_	_	L	_	_	_	_	_	_
+13	the	_	Word	-	-	_	_	_	F	_	_	_	_	_
+14	Neighborhood	_	Word	-	-	_	_	_	A	_	_	_	_	_
+15	Inaugural	_	Word	-	-	_	_	_	T	_	_	_	_	_
+16	Ball	_	Word	-	+	_	_	H	_	_	_	_	_	_
+17	after	_	Word	-	-	_	_	L	_	_	_	_	_	_
+18	Barack	_	Word	-	+	_	_	_	_	_	A	_	_	_
+19	Obama	_	Word	-	-	_	_	_	_	Terminal	_	_	_	_
+20	was	_	Word	-	-	_	_	_	_	_	F	_	_	_
+21	sworn	_	Word	-	+	_	_	H	_	_	_	_	_	_
+22	as	_	Word	-	-	_	_	_	_	_	_	_	R	_
+23	the	_	Word	-	-	_	_	_	_	_	_	_	F	_
+24	first	_	Word	-	-	_	_	_	_	_	_	D	_	_
+25	African	_	Word	-	-	_	_	_	_	_	_	E	_	_
+26	-	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_
+27	American	_	Word	-	+	_	_	_	_	_	_	_	E	_
+28	president	_	Word	-	+	_	_	_	_	_	_	A*	_	_
+29	of	_	Word	-	-	_	_	_	_	_	_	_	_	R
+30	the	_	Word	-	-	_	_	_	_	_	_	_	_	E
+31	United	_	Word	-	+	_	_	_	_	_	_	_	A	_
+32	States	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal
+33	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	U
+

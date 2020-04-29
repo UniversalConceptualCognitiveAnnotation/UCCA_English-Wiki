@@ -1,0 +1,33 @@
+# format = ucca
+1	Slow	_	Word	-	+	_	_	A*	_	_	_	_	_	_	A*	_	_	_
+2	Train	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
+3	Coming	_	Word	-	-	_	Terminal	_	_	_	_	_	_	_	_	_	_	_
+4	(	_	Punctuation	-	-	_	U	_	_	_	_	_	_	_	_	_	_	_
+5	1979	_	Word	-	+	_	E	_	_	_	_	_	_	_	_	_	_	_
+6	)	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_
+7	featured	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	the	_	Word	-	-	_	_	_	_	E	_	_	_	_	_	_	_	_
+9	guitar	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_
+10	accompaniment	_	Word	-	+	_	_	_	A	_	_	_	_	_	_	_	_	_
+11	of	_	Word	-	-	_	_	_	_	_	_	R	_	_	_	_	_	_
+12	Mark	_	Word	-	+	_	_	_	_	_	A	_	_	_	_	_	_	_
+13	Knopfler	_	Word	-	-	_	_	_	_	_	_	Terminal	_	_	_	_	_	_
+14	(	_	Punctuation	-	-	_	_	_	_	_	_	U	_	_	_	_	_	_
+15	of	_	Word	-	+	_	_	_	_	_	_	E	_	_	_	_	_	_
+16	Dire	_	Word	-	+	_	_	_	_	_	_	_	A	_	_	_	_	_
+17	Straits	_	Word	-	-	_	_	_	_	_	_	_	_	Terminal	_	_	_	_
+18	)	_	Punctuation	-	-	_	_	_	U	_	_	_	_	_	_	_	_	_
+19	and	_	Word	-	-	_	_	_	L	_	_	_	_	_	_	_	_	_
+20	was	_	Word	-	-	_	_	_	_	_	_	_	_	_	F	_	_	_
+21	produced	_	Word	-	+	_	_	_	H	_	_	_	_	_	_	_	_	_
+22	by	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	R
+23	veteran	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	D	_
+24	R	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	A	_
+25	&	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
+26	B	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	Terminal	_	_
+27	producer	_	Word	-	+	_	_	_	_	_	_	_	_	_	_	_	_	E
+28	,	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
+29	Jerry	_	Word	-	+	_	_	_	_	_	_	_	_	_	A	_	_	_
+30	Wexler	_	Word	-	-	_	_	_	_	_	_	_	_	_	_	_	_	Terminal
+31	.	_	Punctuation	-	-	_	_	_	_	_	_	_	_	_	_	_	_	U
+

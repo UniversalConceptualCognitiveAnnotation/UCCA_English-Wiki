@@ -1,0 +1,26 @@
+# format = ucca
+1	Chan	_	Word	-	-	_	A	A*	_	_	_	_
+2	is	_	Word	-	-	_	F	_	_	_	_	_
+3	an	_	Word	-	-	_	F	_	_	_	_	_
+4	avid	_	Word	-	-	_	D	_	_	_	_	_
+5	football	_	Word	-	-	_	A	_	_	_	_	_
+6	fan	_	Word	-	+	_	_	_	_	_	_	_
+7	and	_	Word	-	-	_	L	_	_	_	_	_
+8	supports	_	Word	-	+	_	H	_	_	_	_	_
+9	the	_	Word	-	-	_	_	_	F	_	_	_
+10	Hong	_	Word	-	+	_	_	_	_	E	_	_
+11	Kong	_	Word	-	-	_	_	_	Terminal	_	_	_
+12	National	_	Word	-	-	_	_	_	_	E	_	_
+13	Football	_	Word	-	-	_	_	_	_	E	_	_
+14	Team	_	Word	-	+	_	_	A	_	_	_	_
+15	,	_	Punctuation	-	-	_	_	_	_	U	_	_
+16	England	_	Word	-	-	_	_	_	_	_	E	_
+17	National	_	Word	-	-	_	_	_	_	_	E	_
+18	Football	_	Word	-	-	_	_	_	_	_	E	_
+19	Team	_	Word	-	+	_	_	_	_	C	_	_
+20	,	_	Punctuation	-	-	_	_	_	_	U	_	_
+21	and	_	Word	-	-	_	_	_	_	N	_	_
+22	Manchester	_	Word	-	+	_	_	_	_	C	_	_
+23	City	_	Word	-	-	_	_	_	_	_	_	Terminal
+24	.	_	Punctuation	-	-	_	_	_	_	U	_	_
+
