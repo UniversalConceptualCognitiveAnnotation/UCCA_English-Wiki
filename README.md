@@ -11,7 +11,20 @@ and a metadata file.
 The dataset is a part of the UCCA project developed in the NLP lab of the Hebrew University 
 by Omri Abend and Ari Rappoport. The users of this dataset are kindly requested to cite [the following publication](http://www.aclweb.org/anthology/P13-1023):
 
-    Universal Conceptual Cognitive Annotation (UCCA). Omri Abend and Ari Rappoport, ACL 2013
+```
+@inproceedings{abend-rappoport-2013-universal,
+    title = "{U}niversal {C}onceptual {C}ognitive {A}nnotation ({UCCA})",
+    author = "Abend, Omri  and
+      Rappoport, Ari",
+    booktitle = "Proc. of ACL",
+    month = aug,
+    year = "2013",
+    address = "Sofia, Bulgaria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/P13-1023",
+    pages = "228--238",
+}
+```
 
 Example passages can be graphically viewed through our [web application](http://ucca.cs.huji.ac.il).
 Please refer to [our website](http://www.cs.huji.ac.il/~oabend/ucca.html) or email (oabend@cs.huji.ac.il)
