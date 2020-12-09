@@ -6,6 +6,7 @@ cache:
   apt: true
   pip: true
 install:
+  - pip install cython
   - pip install -U ucca
   - python -m spacy download en_core_web_md
 env:
