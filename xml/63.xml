@@ -6415,6 +6415,10 @@
     <node ID="1.452" type="FN">
       <attributes />
       <extra tree_id="30-3-4-4" />
+      <edge toID="1.453" type="R">
+        <attributes />
+        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="R" />
+      </edge>
       <edge toID="1.460" type="L">
         <attributes />
         <category tag="L" />
@@ -7325,10 +7329,6 @@
     </node>
     <node ID="1.556" type="FN">
       <attributes />
-      <edge toID="1.453" type="R">
-        <attributes />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="R" />
-      </edge>
       <edge toID="1.454" type="D">
         <attributes />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="D" />
@@ -7341,10 +7341,6 @@
     </node>
     <node ID="1.557" type="FN">
       <attributes />
-      <edge toID="1.453" type="R">
-        <attributes remote="True" />
-        <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="R" />
-      </edge>
       <edge toID="1.454" type="D">
         <attributes remote="True" />
         <category layer_name="UCCA's foundational layer (+restrictions)" slot="1" tag="D" />
