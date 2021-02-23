@@ -17,8 +17,7 @@ env:
 jobs:
   include:
     - script: python -m scripts.validate --no-linkage xml
-    - stage: split
-      script: curl $SCRIPTS/split_to_sentences.sh | bash
+    - script: curl $SCRIPTS/split_to_sentences.sh | bash
     - stage: convert
       script: curl $SCRIPTS/validate_sentences.sh | bash -s -- --no-linkage
       env: FORMAT=validate
